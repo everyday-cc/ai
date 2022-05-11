@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Brands matter! Why trusting an existing brand can lure you into buying a driverless car"
-    excerpt: "Consumers are still unsure whether fully-autonomous vehicles are safe and worth buying. Brands play an important role in influencing their decision."
-    publishedDateTime: 2022-05-11T06:46:00Z
-    webUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
-    ampWebUrl: "https://theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 51
-    images:
-      - url: "https://images.theconversation.com/files/458038/original/file-20220413-10209-m9fr41.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
-        width: 320
-        height: 240
-        isCached: true
   - title: "Bringing driverless trucks to the world"
     excerpt: "That’s because after years of development, driverless trucking technology became commercially available for the first time in 2021. The company that brought this industry-transforming technology to market is California-based Plus."
     publishedDateTime: 2022-05-10T06:00:00Z
@@ -55,6 +39,15 @@ related:
         width: 1280
         height: 790
         isCached: true
+  - title: "Brands matter: Why trusting an existing brand can lure you into buying a driverless car"
+    excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ..."
+    publishedDateTime: 2022-05-11T13:11:00Z
+    webUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 11
 
 secured: "UKa5ANGGN8qDo/GdZ+n86+KMHDBPxolzF1paipmggTjkW8m2lsZnc7oPUWwDXd/qWRAsFxOr0nm6ovQokjgGpLAUGJcJNsnuxsXlkRRggbm3xTaUG967ijHe0SegFBszdUSEAIsQFl1qVwr4U91bLoyYq3gHK7b99/iTygG3GHCcxvP+zhBzW+5ho3Dn6ziDCzuC7DzqlacBoOIn3PTB8f6CyKJb4EqevTIZrfndXzqALVVNAFsVTfBSEk3GhYEVLcpm05LikH9vRzIH97fXWrBMgd4UcGSdMAyMm9uPLnuIHAiaH4vabsTzKjZv9ENimsMfODxyvBltgybTGx41IMwdFyf3dLg3bcKk93OorYw=;T88Z9qW+tN+FXOrSfQL51w=="
 ---

@@ -142,6 +142,38 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Intel Upgrades for AI Wars with Habana-Designed Server Chip"
+    excerpt: "The 7-nm Habana-designed Gaudi2 is twice as fast as its first-generation predecessor, according to the company."
+    publishedDateTime: 2022-05-11T14:26:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21241150/electronic-design-intel-upgrades-for-ai-wars-with-habanadesigned-server-chip"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/05/Habana_Gaudi2_Card.627aa84f05a13.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Intel Fires Up Rivalry With Nvidia, TSMC With AI Chip Launch"
+    excerpt: "Intel Corporation INTC launched a new chip called Gaudi2, which focused on artificial intelligence computing. Intel also launched a new chip, Greco, for inferencing work: taking an AI algorithm and making a prediction or identifying an object."
+    publishedDateTime: 2022-05-11T12:29:00Z
+    webUrl: "https://www.benzinga.com/news/22/05/27128444/intel-fires-up-rivalry-with-nvidia-tsmc-with-ai-chip-launch"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+  - title: "Intel Upgrades for AI Wars with Habana-Designed AI Chip"
+    excerpt: "The 7-nm Habana-designed Gaudi2 is twice as fast as its first-generation predecessor, according to the company."
+    publishedDateTime: 2022-05-11T13:19:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21241150/electronic-design-intel-upgrades-for-ai-wars-with-habanadesigned-ai-chip"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 34
   - title: "Intel unveils new cloud-to-edge technologies at Vision"
     excerpt: "To accomplish this, Nourish + Bloom worked with Intel and UST, a leading transformation solutions company, to tap into the collective technical knowledge for building innovations like a next-generation self-checkout using computer vision technology and a ..."
     publishedDateTime: 2022-05-11T09:42:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T12:00:00Z
 originalUrl: "https://venturebeat.com/2022/05/11/forgerock-releases-ai-driven-anti-fraud-solution/"
 webUrl: "https://venturebeat.com/2022/05/11/forgerock-releases-ai-driven-anti-fraud-solution/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

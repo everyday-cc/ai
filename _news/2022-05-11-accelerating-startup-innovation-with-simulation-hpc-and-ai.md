@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T13:20:00Z
 originalUrl: "https://techcrunch.com/sponsor/altair-sponsor/accelerating-startup-innovation-with-simulation-hpc-and-ai/"
 webUrl: "https://techcrunch.com/sponsor/altair-sponsor/accelerating-startup-innovation-with-simulation-hpc-and-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

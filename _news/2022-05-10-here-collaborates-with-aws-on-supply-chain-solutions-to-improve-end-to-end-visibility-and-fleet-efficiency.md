@@ -7,7 +7,7 @@ originalUrl: "https://www.wiproud.com/business/press-releases/globenewswire/1000
 webUrl: "https://www.wiproud.com/business/press-releases/globenewswire/1000632239/here-collaborates-with-aws-on-supply-chain-solutions-to-improve-end-to-end-visibility-and-fleet-efficiency/"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,33 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "IBM signs collaboration agreement with Amazon, SaaS offerings soon available on AWS"
+    excerpt: "Inc. (AWS). According to a statement from IBM, this latest partnership will provide IBM clients access to automation, security, artificial intelligence, and data capabilities through IBM Cloud ..."
+    publishedDateTime: 2022-05-11T14:45:00Z
+    webUrl: "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/"
+    ampWebUrl: "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 68
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
+  - title: "IBM partners with Amazon Web Services in SaaS arrangement"
+    excerpt: "IBM has signed a strategic collaboration agreement with Amazon Web Services Inc. (AWS), with plans to offer a broad array of its software catalog as Software-as-a-Service (SaaS) on AWS."
+    publishedDateTime: 2022-05-11T12:35:00Z
+    webUrl: "https://westfaironline.com/147770/ibm-partners-with-amazon-web-services-in-saas-arrangement/"
+    type: article
+    provider:
+      name: Westfaironline.com
+      domain: westfaironline.com
+    quality: 19
 
 secured: "H4FFzLb14DZBzZpb78xqxAHQZ9IbXc6pF5EjlTHxKgzA+jaU1rZOlm2vGg+SM6/VO6KdQt6hwVUYKH/FguZvegNjLU9NDAhqTtJZll1MBK2BzROS83I2dwgkU4rHQbPWQ0Mzc4Y9kibsAjQOMT9DxyhP1pPyfMpWndCVgJXqTlaAeX7uBcg0KoTOPd0yJVsubgJ19Ajek7O38WiSz3ie9qhuhef5XF/54J1KLHnwlN4P/e/XiLr2R4MyNWddcQwOfjg2AdEhkDW5shvoUPt/sUg5NXWEWQmxdSe9vhGXmtzoVuQYJzV15zO7j0w/0cWR1mA/ZdRvZITsvhZlbPVADHgGabC9ifcIuTf+OC2pV9I=;4a7hq1249dkHcZ3BZe5jSg=="
 ---

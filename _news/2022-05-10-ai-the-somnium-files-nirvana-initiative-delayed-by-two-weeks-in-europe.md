@@ -52,20 +52,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Strange Countdown Website Appears in Connection to AI: The Somnium Files – nirvanA Initiative"
-    excerpt: "Fans of Somnium Files are no strangers to bizarre, strange videos and websites. Leading up to the release of the first title saw slews of these on a YouTube channel connected to the in-game idol ..."
-    publishedDateTime: 2022-05-06T21:09:00Z
-    webUrl: "https://hardcoregamer.com/news/strange-countdown-website-appears-in-connection-to-ai-the-somnium-files-nirvana-initiative/422246/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 26
-    images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2022/01/aitsfnirvanaheader.jpeg"
-        width: 698
-        height: 289
-        isCached: true
   - title: "'AI: The Somnium Files - nirvanA Initiative' Delayed In Europe Until July"
     excerpt: "AI: The Somnium Files - nirvanA Initiative is a detective adventure by Zero Escape series Director/Scenario Writer Kotaro Uchikoshi."
     publishedDateTime: 2022-05-09T20:57:00Z

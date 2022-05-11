@@ -1,100 +1,45 @@
 ---
 category: news
 title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
-excerpt: "a global leader in AI-powered risk decisioning software for the fintech industry. Available through the Provenir Marketplace, Point Predictive's Artificial + Natural Intelligence™ solutions provide Provenir customers with increased underwriting ..."
-publishedDateTime: 2022-05-10T15:19:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/article_39166c37-7a76-545d-899f-cc98fa9bcad2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/article_39166c37-7a76-545d-899f-cc98fa9bcad2.html"
+excerpt: "Point Predictive Inc., the San Diego-based company that provides artificial intelligence (AI) solutions to lenders, announced today its strategic partnership with Provenir, a global leader in AI-powered risk decisioning software for the fintech industry."
+publishedDateTime: 2022-05-10T16:05:00Z
+originalUrl: "https://kdvr.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
+webUrl: "https://kdvr.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/05/rs-sl-com2.jpg?w=2000&#038;ssl=1"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
-  - title: "SECU To Deploy Scienaptic’s AI-Powered Credit Decisioning Platform"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that SECU (State Employees’ Credit Union of Maryland) is planning to implement its AI-powered credit decisioning platform. The deployment, scheduled for later this year ..."
-    publishedDateTime: 2022-05-10T21:59:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/secu-deploy-scienaptics-ai-powered-credit-decisioning-platform"
+  - title: "GE Healthcare partners with Alliance Medical to improve healthcare with AI in the UK"
+    excerpt: "GE Healthcare (NYSE:GE) announced today that it signed an agreement with Alliance Medical to create a new digital health solution."
+    publishedDateTime: 2022-05-11T11:07:00Z
+    webUrl: "https://www.massdevice.com/ge-healthcare-partners-with-alliance-medical-to-improve-healthcare-with-ai-in-the-uk/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 37
+      name: MassDevice
+      domain: massdevice.com
+    quality: 47
     images:
-      - url: "https://financialit.net/sites/default/files/scienaptic_24.png"
-        width: 1366
-        height: 768
+      - url: "https://www.massdevice.com/wp-content/uploads/2022/05/85b7331a-58a9-4ead-90f5-873011033916.jpg"
+        width: 770
+        height: 500
         isCached: true
-  - title: "Levo Credit Union Deploys Scienaptic’s AI-Powered Credit Decision Platform To Enhance Loan Approvals"
-    excerpt: "Early results indicate potential for 42% more auto-approvals for auto loans and 45% more auto-approvals for unsecured loans Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union,"
-    publishedDateTime: 2022-05-09T17:13:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/levo-credit-union-deploys-scienaptics-ai-powered-credit-decision"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 22
-    images:
-      - url: "https://financialit.net/sites/default/files/scienaptic_22.png"
-        width: 2090
-        height: 732
-        isCached: true
-  - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
-    publishedDateTime: 2022-05-10T22:06:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/provenir-joins-visa-ready-bnpl-program-support-ai-risk-decisioning"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 18
-    images:
-      - url: "https://financialit.net/sites/default/files/provenir_5.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Levo Credit Union goes live with Scienaptic AI"
-    excerpt: "Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, is live on its platform."
-    publishedDateTime: 2022-05-09T12:55:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92549/levo-credit-union-goes-live-with-scienaptic-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-  - title: "Levo Credit Union Deploys Scienaptic's AI-Powered Credit Decision Platform To Enhance Loan Approvals"
-    excerpt: "Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, is live on its platform. Scienaptic's platform will allow Levo to ..."
-    publishedDateTime: 2022-05-09T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-levo-credit-union-deploys-scienaptics-ai-powered-credit-/2022/05/09/9597896.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-  - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
-    publishedDateTime: 2022-05-10T12:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-provenir-joins-visa-ready-bnpl-program-support-ai-/2022/05/10/9599082.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "yl1+yq6R8yfwFnCXWOVltkFI1ipITUbc0ZJhkWtV7SO3CYMkWs2P0/cCjDMzeqRZhm36GRiv8GAsmddTTTB025px5DfDaKfONXHBU9eu97l2CdSfHkPhcc3PLTqJg1wVXQAls+XxDGJdnSBKp19drqHYXghZxWXjt4jPJCO0gUt2WFWM6QZmdUQ+osWG/7cqZYBq+9JETj78pyvm+VctvWfR0sBOdC+0ViHq5NXXbTV6hc/ErHqcepPOWGwsTgXAZveLuIDfiJiJwInE1iDPodsvOpZhq87JlArTjBWzZBCh1gO5NF4WA7m+BpKNxBcXO5nLb47t9axeq3RGGKfUhoGbL73tO8eF+Zv5cDiVIKJiGv92AwUUt05G9gDZ6+/DY3pnj1/XjskNjv2V0fY8BuSEDxvQgCzntbCbYjpBV7Di0X0TdXL1uYzsaatjTl+277U85wdfyiFyUdMsdQLwOmu5E4Lz+bVXxB1zI7s4l377njPfOxZP8x8JG7CdXE2zvezGAOnkgQaZFkaEoe48tg==;dnXPCKoTwFzu2KFok3jbgg=="
+secured: "AqBOgK28n+0gkdcdcUNc9tzHiJQqzF2qQsPqOYjxfOfMTMZ/u4AZOIOsgAQF3yX5zM9OmiUi/JBs1l+fvfosBOcyrOZUb4jDMg8H+FM8DvpMs0+yi8+MnTEeJrSosBoiOgArlurXGXc7G07JTa6StD9ZozAizigNk9g+zMChtxLknesD6k2EGXCBRF3jPPnOYhxJZKg5cLXh+tfZOhxbWRtQ6vWTW/RLvPWtQocVdDprXT3tFyD5Tnc3AaL2KIiFWSaZX1SFL5lLzbU5dklGFk2bj7vKldLuBh2otP6/99HzyecnN18d6wk85b759+1oGDO0IFxRjeYm8v4TKF1aav2Ol3L3ELt67erkNey7fSM=;nAe3MM35bdkS4KQw8pBSvA=="
 ---
 

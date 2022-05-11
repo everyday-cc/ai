@@ -42,20 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia To Pay $5.5M Fine For Failing To Disclose GPU Cryptomining Sales: SEC"
-    excerpt: "as software developers working in AI, self-driving cars, and a broad range of other fields continued to discover the acceleration and money-saving benefits of our GPU computing platforms.” But according to the SEC filing, “Nvidia’s analysts and ..."
-    publishedDateTime: 2022-05-06T20:50:00Z
-    webUrl: "https://www.crn.com/nvidia-to-pay-5-5m-fine-for-failing-to-disclose-gpu-cryptomining-sales-sec"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 68
-    images:
-      - url: "https://www.crn.com/resources/0273-1496144278fe-d4a9359828bf-1000/nvidia-sign-hq-building.jpg"
-        width: 609
-        height: 458
-        isCached: true
 
 secured: "kQuB2Ib8/7Ou02LiWpqOyzVmmVdr8hj/pxUGK+446ePG30m5R601eBhnT9KOibzUbnOUIpu+MuE+mJsWAWLmbAd05MyTDLecZyzqVENKLgdgssI2fWrvmIN/TsAXlyscF2gBwowarpi4OMZMG3tGffhUKHrzVgiwBj7EgwSRza+Ls/XhJuUkddOEhgco0wcX+32CoVfwlJAxKVaA5WvSsaYBRyPurxsQv47TOaYtj9qqm8ftFgrUT2d6zjQEzFJ4TzSsfFqYYMilZk27DsDLiWEgHPzKLrqNb0LL5EG2TpgjxMenpgjtbrXiE4L5z6JGdvE6TppEG2QzMyqxch8V3oUPT9AEm9iJLCySwNQMOLcCbfzoktROW9OkwV0mFKcLhVXs8Hv50vY7TTA+rj2IrInFEW5rh9kD1xOYDXhjct4hkzilL1JJwTAi/LZ3f+3xVJF/+XrrkJ7VAskuXWuah1cc3eiTrLo8KOsTLyrn9Saig0ndz1tvDaL6k6mr3n4zff/k9hWMO0CsNWDGh2k7HQ==;stmEbrdhV/pj0awmCnRLCA=="
 ---

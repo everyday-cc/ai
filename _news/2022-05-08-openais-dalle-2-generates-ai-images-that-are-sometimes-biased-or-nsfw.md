@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/08/in_brief_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/08/in_brief_ai/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1024
     height: 1024
     isCached: true
-
-related:
-  - title: "This AI generates Bored Apes that are unique, free — and totally fungible"
-    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Bored Apes have become symbolic of the NFT craze."
-    publishedDateTime: 2022-05-06T19:49:00Z
-    webUrl: "https://thenextweb.com/news/ai-system-generates-free-bored-apes-nft"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 48
 
 secured: "uAa+a4Xq4ArVS2WQXN254GyqZqZnP4oyIzY39qQXFveZGrgKGJhh3s6oUpwaKtNsc6UGuFE4IkdY3mQlChZ2Rq8nY48xwxf8uExDTpFYMbCGIxw6/xvxHz8IOowyYGOKnScUGXtkXd44Dfynuiv7gtQ/fsuOnfe+J3bN5yOH5lR0jd3m76VDTQHJDNlwP4unXC6zXiM0IZLtu+So16E/tSFfFgaCI/taiTAZlOZPfn4S0dQNbvYAhMxI3h0ToNolT6AzVRzBtHKm0qX5M+ZluhzId23D5CGw+6Dvj7rMQ/rMHewGJ+9TfnD2aVEf6G31/NDalqHEqYqRElEucSY5Lg11PpGIMnuBvywzxim9vDJ3CjHJ6/3SjuxR7j5me/R8fbZ2nxus2SnGYggoOVTWgrpbSNrKZXTH6OHqbhzNeS03p0YuVJP1R6lhqOMwhXpgmAuevByN9IUAqbNrNba33QXTC0HWps8RnhY44Q+rJdtuGsTmLiy4aGtmxaZHQ8TSv5i80d894pOswmzpSs/A1Q==;HMhsBffkVnadSRTeJOjyxg=="
 ---

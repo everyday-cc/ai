@@ -32,6 +32,15 @@ related:
         width: 600
         height: 207
         isCached: true
+  - title: "6sense Named To Forbes AI 50 List of Companies to Watch in 2022"
+    excerpt: "“We’re proud to make the Forbes AI 50 list and to be recognized as an innovative leader,” said Jason Zintak, 6sense CEO. “6sense is the first and only platform to apply the power of AI across the entire buyers’ journey to provide a better ..."
+    publishedDateTime: 2022-05-11T13:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-5a580e21096e7398f0cb7481ace03b36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
 
 secured: "b9GeU1RvbK8nb2qwLJ/+MOkakFXnc9wq0kZ2fvC1OGioKR684ypEi/O0P6X+y6ba71IAa9WQPh6o5jyALGV/CpXiA4Ve6vpR6RuNGd0vzVEH5PnQaTmaEigPVpKWm0FT8nOKDNLpkTiBFw4nLec4L9f43DjAPWToCa1v/mropP1koCjxjqC5z1pt8l2RlsHT/+YNDn26iFTo2dxc8jwflMTwxkH/p5CCBo0iN0dB64drbG6Z34MBOrt150uHD0OYl4Pl+5vwYuGcCqUoz7r+aMMk4qPJfv2xxp4TJ52FneVlR6912Pw9lkJOzyC/oYtM8z0bu5hUjAnqoEkp0wJJal8jcENGeOSvwkJw6LfjTTE=;6Pz/jtggR6m2+OyuKUO87A=="
 ---

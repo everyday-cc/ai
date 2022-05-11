@@ -1,19 +1,60 @@
 ---
 category: news
 title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
-excerpt: "The Forbes editorial team acknowledged that AI technology is driving advancements in every industry, but that it can be difficult to identify which companies are utilizing such technology in transformative and measurable ways. The Forbes AI 50, now in its ..."
-publishedDateTime: 2022-05-11T13:30:00Z
-originalUrl: "https://www.cbs42.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
-webUrl: "https://www.cbs42.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
+excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
+publishedDateTime: 2022-05-11T12:30:00Z
+originalUrl: "https://fox59.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
 type: article
+quality: 29
+heat: -1
+published: false
 
 provider:
-  name: CBS 42
-  domain: cbs42.com
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - AI
 
-secured: "4PH3YZWJ41NVDmU8qMyjxghHDqVW4vpZTbG7EmfK1TlxNpCic5JlmMmgueoY1KYmGoS9JCEAmfPJNi/hFZTpEmHzAoPGfsMVImEd8f+An8gB297DNvfcTl2kANo6zSACau5n6LzXMj//B7b/YCuIQHq2UGLDwLavkU3+0qKxo0i0Ij7ZIhs/1Ym4FZXx8SGuHIpSsR/kv0R4jnDaIaG3+3/a4qb42WqPXh76OrSAq9Zag09k5Bc9CY7UVNYdXinFrvyV/O8hY4ksZSMb/9glac7yH4YjeDrSdfVRwfK8qacr+d8I4YRYmosUUVrfZnqD7WEQPLmCrlxHzpGsoPVYQDv4WbzqHdQvAHB6/2tGbT8=;QNOIsQogFuJY61ZigoH5zA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1514996/overjet_Logo.jpg?p=publish"
+    width: 2532
+    height: 1143
+    isCached: true
+
+related:
+  - title: "AI 50 2022: North America’s Top AI Companies Shaping The Future"
+    excerpt: "This year’s inductees reflect the booming VC interest as well as the growing variability in AI-focused startups making unique uses of existing technologies, others developing their own and many simply enabling other companies to add AI to their business model."
+    publishedDateTime: 2022-05-09T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62758aa52a077e0e6a66609a/0x0.jpg?format=jpg&crop=1920,1079,x0,y0,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Top AI Companies Riding the Innovation Wave in 2022"
+    excerpt: "IBM has its proprietary AI engine called Watson. It is used for research and the use of commercial products. The engine offers language processing, AI-based decision-making, and task automation. IBM offers the following AI features: The Watson AI lab ..."
+    publishedDateTime: 2022-05-07T07:31:00Z
+    webUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/"
+    ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 61
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg"
+        width: 1000
+        height: 570
+        isCached: true
+
+secured: "KjXk04ucBZeHiAhhFqXF66rvNt9hIc6o08/UeJXVzS/kQqbPUNLE+kpa3wH+mnA3XdWPBGy0fnqhIGmIgilURrenrcTw3ZQOxTZHeciBKOFukErJAd9zEUQigVkDk80ljlGiZOyx29mBLzoo9DhUIfJotSNCY8dFeNfao5VDObnuJYsBh4p+91WPfa8/zDudoo+VgJOZ/AVRf43Xi4eYpfvi5QzmvoJqHRTdBIs0ZBbFCPzvZq7CUXa+Vzl63Gqfe17WjyhKw51niYFo7obyG1BX66AR9OkFzM3/4f2BTmCP3vsYNr+No5m/hfnJxenzL6XCNTGL3FoGN3wy+1/AwYgCrfbIL82BgRWKHY4hJA8=;q7l6BGViL+cPuCtYIH/T6A=="
 ---
 

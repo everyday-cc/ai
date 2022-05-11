@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T13:32:00Z
 originalUrl: "https://techbullion.com/advent-of-industrial-robots-to-boost-digital-transformation-market-at-a-14-2-cagr/"
 webUrl: "https://techbullion.com/advent-of-industrial-robots-to-boost-digital-transformation-market-at-a-14-2-cagr/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Impacts

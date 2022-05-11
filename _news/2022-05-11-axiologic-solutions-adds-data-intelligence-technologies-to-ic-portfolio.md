@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T12:05:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/b27133010/axiologic-solutions-adds-data-intelligence-technologies-to-ic-portfolio"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/b27133010/axiologic-solutions-adds-data-intelligence-technologies-to-ic-portfolio"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Benzinga.com

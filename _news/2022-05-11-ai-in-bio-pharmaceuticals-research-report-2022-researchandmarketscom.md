@@ -52,6 +52,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global Autonomous Tractors Markets, 2022-2026: Developments in AI, Machine Vision & Machine Learning Remain Critical to Commercialization & Growth"
+    excerpt: "The \"Autonomous Tractors - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Autonomous Tractors Market to Reach"
+    publishedDateTime: 2022-05-11T12:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27133429/global-autonomous-tractors-markets-2022-2026-developments-in-ai-machine-vision-machine-learning-re"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "VxU22MRUL/MWkjJG0NYk7Hnf0vdl1iRhHQHp3GmoQ64rjZ3f3DoHEk0e4/by4TLH0mX2f2H1agbnKAkFfuUQVuezdpHlMtDbndu3+fZZXg0u70/WUz//GtjfBdl5ehztfcUW4CbLcBee0qiMAgvxxwEINX20AaHzhElwQAXMGJxuv9zirOidiLJy//CPSD3hwyHyEtX0wZYXzS5r/e+NTH8TDQn1YIPt1eMaElEi3KvMb/eu4IZwU29Nl6hRdXqPQg5nVlzMoZzFWhxBlZFHgTtH3iTz/tSSwodY8w49Vcr/V8WJAClb8CGE3rN/08G/chDznyfizDEIL6v1r3nyoeE8VKr3O4nIcGnA+G0ja3w=;tlmpw2j49qIs9VyG+YiPAA=="
 ---

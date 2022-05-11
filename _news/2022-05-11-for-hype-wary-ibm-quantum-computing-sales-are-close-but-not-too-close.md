@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/for
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM says it will have thousands of quantum computers for sale by 2025"
+    excerpt: "IBM CEO Arvind Krishna has said the company will have thousands ... Krishna also touched on the topic of over-hyping the company’s Watson AI which, as it turns out, delivered results in healthcare and other industries, a bit slower than what was expected."
+    publishedDateTime: 2022-05-11T15:39:00Z
+    webUrl: "https://www.techradar.com/nz/news/ibm-says-it-will-have-thousands-of-quantum-computers-for-sale-by-2025"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xoU9iCXXmjtu8GCugsqKBZ-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "IBM targets quantum computer sales in three years"
     excerpt: "Krishna said that he was avoiding claims that IBM cannot fulfill after what he called the company's \"error\" predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare and other fields slower than ..."
     publishedDateTime: 2022-05-10T23:31:00Z

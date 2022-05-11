@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T13:11:00Z
 originalUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
 webUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
 type: article
+quality: 11
+heat: -1
+published: false
 
 provider:
   name: techxplore
@@ -14,6 +17,36 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Bringing driverless trucks to the world"
+    excerpt: "That’s because after years of development, driverless trucking technology became commercially available for the first time in 2021. The company that brought this industry-transforming technology to market is California-based Plus."
+    publishedDateTime: 2022-05-10T06:00:00Z
+    webUrl: "https://www.fastcompany.com/90747782/bringing-driverless-trucks-to-the-world"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/Plus’s-Autonomous-Trucks-Powered-by-PlusDrive-1-1.jpg"
+        width: 1280
+        height: 790
+        isCached: true
+  - title: "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds"
+    excerpt: "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ..."
+    publishedDateTime: 2022-05-11T11:52:00Z
+    webUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 20
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2022/05/SEI_99688536-1200x630-pl-exclusive.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/Y0gaTfiHaWLSyQYzWzZ/Ak/ZgmXfiEEC9MTVMim/n8Wf6Vd9qgUHA70nVxcfzEdTTze4grp78SwcUzYH9HZINRlyU8xO1fU7+VoIHu01ZoygkwYRhy3HwNZUAKgo8ezPvQ6W36R8sYzQJxMqPoWVqD9sUHw6WbzCY1dYcPWE/g9RBomni2h7CWjmk7VWwIkfoxJ+rYGliOzqryxl1DMAMQ+YpZi3cLvm0roG1ziu8dB2089sSRG/PeIxRxy05OXCNEmhL7DpDiQac33/Rwr7kboHuFpa2wYQaW/qfPYm99Ts4e43FMsq9ezqns4kKDfDhj0ZFnGilIc1uqPV4xl9qh65+BSv6P2+5mZ2e7n9f2IQ407OBL0nlarnf5kApvRIKAUkQqHdZu7NvbLReeoJRggeQ09+FIkQyKatJU2D4RQ5KHXppB/8WNm0DcUPZmFaGHp6FA3VRgWgRWy61hJt4wZxFe+ED5kChn6c5gL1Xx+sJF+w4/wbbyyNfkaPB/rEkHQBRmvrz+NbrdMllgL+w==;qRwCfWGtpUB0WBCo7CKgTA=="
 ---

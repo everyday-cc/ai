@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Lawmakers to debate limiting the use of facial recognition technology in Colorado"
-    excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday. As drafted, Senate Bill 113 would establish several regulations for the use of ..."
-    publishedDateTime: 2022-05-06T20:38:00Z
-    webUrl: "https://www.coloradopolitics.com/legislature/lawmakers-to-debate-limiting-the-use-of-facial-recognition-technology-in-colorado/article_5fc5f020-cd7c-11ec-802a-bf2f59b47874.html"
-    type: article
-    provider:
-      name: The Colorado Statesman
-      domain: coloradopolitics.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "khFnB8Kald337v33xtutwgj/RxyIOa7LmEs3xBIIVEdk/0S+lUmno7L6wcmrAPSwH4L+epmxJoenNuNB1IWSROTfKgshN1Hn+Ipr79+NgdEnAbIH27kEnKqcPF8leFz78K5NDZfMGP+P47uBSqqk2LRgURaQmSuYWCPZWrCI6Dg0S0DMGxD4nb6UqHn01V2tBEIMPbSnxFKFOmOFwX0ue+mKuL6ICZzFcaPgW9OfHfwNUXwrIr4VRXY3ZHvIJ1T43OOahz8Eb9ih0nRvAAtR8Y0MG60qz6f9QWadQLS6WLY7yOkol9nuJbMX1hb+s5KdEBsMpERMnSZ1cm5SrCjsaT0TTNN0Xn/bUAkcaE6UAjTGLCJ5H+IuJlUwHFAMRjoEajewj+PIE2UAx7D/AbjOMRkXfFuroviH9cMwH31MwcFnSTAF3sDTBuVHkPmUNGZX5jLRpSAqN4Xp+GTeG5M+RESwncYNb7XwoctJtczZlGxtNKqZT3s6ctRDQVH72YPXNaxPgQYYb7bZLGsWOm1deA==;3trPdiwh+Tj2zFW23Jr1rA=="
 ---

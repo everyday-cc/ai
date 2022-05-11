@@ -8,8 +8,8 @@ webUrl: "https://www.proactiveinvestors.com/companies/news/981924/sensen-network
 ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/981924"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/981924"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:

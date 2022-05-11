@@ -25,66 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "SECU To Deploy Scienaptic’s AI-Powered Credit Decisioning Platform"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that SECU (State Employees’ Credit Union of Maryland) is planning to implement its AI-powered credit decisioning platform. The deployment, scheduled for later this year ..."
-    publishedDateTime: 2022-05-10T21:59:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/secu-deploy-scienaptics-ai-powered-credit-decisioning-platform"
+  - title: "HireLogic Raises $4M Seed Funding to Modernize Interview Processes and Improve Hiring Decisions with AI Assistance"
+    excerpt: "Decades of Recruiting Best Practices Powers Free, Machine Learning-Based Hiring Intelligence Software for Organizations of Any Size DALLAS, May 9, 2022 /PRNewswire/ -- HireLogic ( an artificial"
+    publishedDateTime: 2022-05-09T12:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27073922/hirelogic-raises-4m-seed-funding-to-modernize-interview-processes-and-improve-hiring-decisions-wit"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27073922"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27073922"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
     images:
-      - url: "https://financialit.net/sites/default/files/scienaptic_24.png"
-        width: 1366
-        height: 768
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Levo Credit Union Deploys Scienaptic’s AI-Powered Credit Decision Platform To Enhance Loan Approvals"
-    excerpt: "Early results indicate potential for 42% more auto-approvals for auto loans and 45% more auto-approvals for unsecured loans Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union,"
-    publishedDateTime: 2022-05-09T17:13:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/levo-credit-union-deploys-scienaptics-ai-powered-credit-decision"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 22
-    images:
-      - url: "https://financialit.net/sites/default/files/scienaptic_22.png"
-        width: 2090
-        height: 732
-        isCached: true
-  - title: "Levo Credit Union goes live with Scienaptic AI"
-    excerpt: "Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, is live on its platform."
-    publishedDateTime: 2022-05-09T12:55:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92549/levo-credit-union-goes-live-with-scienaptic-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-  - title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
-    excerpt: "a global leader in AI-powered risk decisioning software for the fintech industry. Available through the Provenir Marketplace, Point Predictive's Artificial + Natural Intelligence™ solutions provide Provenir customers with increased underwriting ..."
-    publishedDateTime: 2022-05-10T15:19:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/article_39166c37-7a76-545d-899f-cc98fa9bcad2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Levo Credit Union Deploys Scienaptic's AI-Powered Credit Decision Platform To Enhance Loan Approvals"
-    excerpt: "Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, is live on its platform. Scienaptic's platform will allow Levo to ..."
-    publishedDateTime: 2022-05-09T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-levo-credit-union-deploys-scienaptics-ai-powered-credit-/2022/05/09/9597896.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
   - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
     publishedDateTime: 2022-05-10T12:26:00Z

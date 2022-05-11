@@ -23,6 +23,17 @@ images:
     height: 281
     isCached: true
 
+related:
+  - title: "Cirrus Nexus launches AI-based cloud carbon reduction tool"
+    excerpt: "Cloud management company Cirrus Nexus has launched a tool which gives organizations a view of the carbon emissions associated with the cloud operations. TrueCarbon, a development of the company's cloud accounting tools, lets companies fix an internal price ..."
+    publishedDateTime: 2022-05-11T13:04:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/cirrus-nexus-launches-ai-based-cloud-carbon-reduction-tool/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 17
+
 secured: "9O7p1dggquTPXG9dgG5YOOSp1UakQxRXjk722gWs+IyR0ix61mcIJnbSzcTSx2m0wKheMyJVkQ7E6jA8ose61/sQ1rZhmj5hMP6s/hTWFw/8hm53vAC+wW2ksX11PfoXvTY6bzx/hmVBWN4pbEP++1HD3U6Wpbx33h0hVPwvrGGJt14+PCe3GPkMFnToUfgUOlzP+zFQVRH7bYrhiR9ZRc651rts9BAkQiez9NfnvE/LqpdLSJQagIsSvP9xXLI/X2PIBgH7OU/s/6dd2jGQZI9NQch+9e+7Fv4CT9+4yfL7PvQ8mAczoIoqZzyEWQWxEm75NAHoaXFB9V38wviNjoLkESKIeYYMdgMhZuna/YU=;dJGrxZnLw2A8W9l8BHFlFg=="
 ---
 

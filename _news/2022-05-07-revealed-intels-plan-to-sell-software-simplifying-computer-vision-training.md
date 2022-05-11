@@ -3,9 +3,14 @@ category: news
 title: "Revealed: Intel's plan to sell software simplifying computer vision training"
 excerpt: "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register."
 publishedDateTime: 2022-05-06T23:04:00Z
-originalUrl: "https://www.theregister.com/2022/05/06/intel_computer_vision/?td=rt-3a"
-webUrl: "https://www.theregister.com/2022/05/06/intel_computer_vision/?td=rt-3a"
+originalUrl: "https://www.theregister.com/2022/05/06/intel_computer_vision/"
+webUrl: "https://www.theregister.com/2022/05/06/intel_computer_vision/"
+ampWebUrl: "https://www.theregister.com/AMP/2022/05/06/intel_computer_vision/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/intel_computer_vision/"
 type: article
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: theregister
@@ -15,6 +20,28 @@ topics:
   - Computer Vision
   - AI
 
-secured: "V8d/cUw6yVyhw15Umvay6vz1EsnZYw2fIp0IbzWfkaL5zzbmArhF5aOLENMPb0mP0zQtLgDbbI/OtRR76hM1BgvFmOpStlq3y/JMV5DhDWDYynm02il4G1BtXsw0hlc7mw1NuIWh2/H8Wd7P+h7qrtQuPVXt8J0x8afbUpxxZK5Ez0BB0w3ch+oFM0OQiztorG/8W6YKaOj8jaOi7ShCwj9b4/4bPm4/bQVDz23VR6LqFZ0bddrkLw6LsF69a6std+zDIEQCgYhK3yJmG2gYAsWbZBhkCguACBXqly1i9p2ZoY3wMO9bZec8oA8I0rXOpsrILkrZyGcy3lEQtE5xr+BU+TS/B0nEw2EwCdeBp6b9zyAi3WC49PkHKrh26tLOn81BKudJHnpMGfybHw8ZpqOxIL51LhbAWjG+0Xt2C8b6qrtG+BfiH46FPfU0ONC3KLA1xu6Vpt/Onb3fNYhdqfvLaww2P6mope0lbyOTIU/4m5h3i2V8caBm+u/A9cy4p0Q8Gy+APch7ljWjcMQv9w==;3d+5VFCZPeH+Ofsg6Sz+zA=="
+images:
+  - url: "https://regmedia.co.uk/2021/10/21/shutterstock_eye_computer_vision.jpg"
+    width: 1200
+    height: 601
+    isCached: true
+
+related:
+  - title: "Report: Intel's Looking to Sell Computer Vision Software"
+    excerpt: "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products."
+    publishedDateTime: 2022-05-08T16:00:00Z
+    webUrl: "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "B4zJAtJSojBIrq4w/V1y4ACggAbn2tTYJel/MffztGh7tyQ7rAnKQfRprvFytm5FKK4zvAZBI6LGLvn8Qko388Yg4B1DoVlJXahNbQB5JQmLG0ZvZoki/PH/DxT22vm58AUOoQ5zJ/KFLt+4L1cKLPRWGYYY4d9v7wrf8uBMI1JF4sgdi7t5Dw7dFYGSHOxEAnBLvvN4oGcM+7Q/cYhZ7Pyx7BLgRsEUrbo8l6K9BHAWiTMUMwifj9Q9bNou7IqEluoKjmO3Y110B8A71KwFsYPmbSOsVoU1EQZWVr0YxRcpfS/SKUf0eunnQ9I7fveVje5NiFtx2iPXIjSeoW3t5lVGXZBlGyI2b+PiS4Y61yE=;1AypmTtQwSKCReXLMt/z+g=="
 ---
 

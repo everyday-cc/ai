@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/apples-ai-chief-ian-goodfellow-
 webUrl: "https://www.thetimes.co.uk/article/apples-ai-chief-ian-goodfellow-quits-over-three-day-week-office-order-x5qqlxfsv"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Even Apple’s AI Chief Do Not Want To Work From Office; Resigns"
+    excerpt: "He has a chapter on Deep Learning in the most cited and read book on Artificial Intelligence 'Artificial Intelligence ... May would even go as far as to accuse the young guns of not having work ethics. Ad man Nikhil Narayanan sums it up well - The donation ..."
+    publishedDateTime: 2022-05-11T13:32:00Z
+    webUrl: "https://in.mashable.com/tech/31536/even-apples-ai-chief-do-not-want-to-work-from-office-resigns"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 49
 
 secured: "Ty8CkQZ42aXA/PeZtM5D9N3j76ADcSSX5G3dj0tkBj6LBcSdL8+tJftVFdaD3aVYJX6aqM1BK17Alpw75iv2KiwHbafpOFa/WkquaBUXimtwKjroYKKKUfUcjBFhyT5rrLC0BdDnEvyXc+BA0iFJcRh76IQ0QiGP1wyywBslf/c187kJvozm9lNFNoqzLFtrNOm/zMA09YW9HuwgS1byG3Ag0QMf3CZfJ8lS/EirgATzSsdpQQh/uu+7tUM7zEu4e65a6EIWnEq6gJtPFxcCGpjMh8ewtS0g5XYV/lB73doLyDJ9AsXRQYmAdYvQj7Ft5h6UF8Y+wGE7VNgRuMuQ8wsSbv1bjtshuo/tTU/f/uY=;t0ridScgZVMmfBSLgvOCbA=="
 ---

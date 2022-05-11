@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/artificial-intelligence/levo-credit-u
 webUrl: "https://financialit.net/news/artificial-intelligence/levo-credit-union-deploys-scienaptics-ai-powered-credit-decision"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "SECU To Deploy Scienaptic’s AI-Powered Credit Decisioning Platform"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that SECU (State Employees’ Credit Union of Maryland) is planning to implement its AI-powered credit decisioning platform. The deployment, scheduled for later this year ..."
-    publishedDateTime: 2022-05-10T21:59:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/secu-deploy-scienaptics-ai-powered-credit-decisioning-platform"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 37
-    images:
-      - url: "https://financialit.net/sites/default/files/scienaptic_24.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
-    publishedDateTime: 2022-05-10T22:06:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/provenir-joins-visa-ready-bnpl-program-support-ai-risk-decisioning"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 18
-    images:
-      - url: "https://financialit.net/sites/default/files/provenir_5.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Levo Credit Union goes live with Scienaptic AI"
     excerpt: "Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, is live on its platform."
     publishedDateTime: 2022-05-09T12:55:00Z
@@ -61,20 +33,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 17
-  - title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
-    excerpt: "a global leader in AI-powered risk decisioning software for the fintech industry. Available through the Provenir Marketplace, Point Predictive's Artificial + Natural Intelligence™ solutions provide Provenir customers with increased underwriting ..."
-    publishedDateTime: 2022-05-10T15:19:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/article_39166c37-7a76-545d-899f-cc98fa9bcad2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Levo Credit Union Deploys Scienaptic's AI-Powered Credit Decision Platform To Enhance Loan Approvals"
     excerpt: "Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, is live on its platform. Scienaptic's platform will allow Levo to ..."
     publishedDateTime: 2022-05-09T12:07:00Z
@@ -84,15 +42,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 2
-  - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
-    publishedDateTime: 2022-05-10T12:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-provenir-joins-visa-ready-bnpl-program-support-ai-/2022/05/10/9599082.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "yX/nwifwrKPbdiHohZGDr+SlRjm5Fq14yBnj8qssxJnrlCAjuwXkEKEtHknoP5cswuB1EhGiJdiODjVm3+l1D2N4NeGAvBbuCqYmLUhKOTYVBQGurDV4ufOcbBoNamtKPySc/VbdBFrDOXmtGRZpC88BZz0sIgE4hoF/MYQYhrhTbXXtfRdnespuTmQ7d+XJKEv//LvBK25fkZ4H0rXpi7oe3jAOMx97d3yX01L16vlbPHI/fH6+xQVPtOfvzohoRpe9OhERFM5VYrM7tgjKb+Gry7Qf5PJg3cVzmSIlgH3iLxRC/TS2bTNJ3mPSI5EzFiFgT+xRnhndLB/u+8+qCy4WqyRITyO9hTV09Mu+W4g=;NirQHXm/lGDUt4o8gXR+eQ=="
 ---

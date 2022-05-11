@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/"
 cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia To Pay $5.5M Fine For Failing To Disclose GPU Cryptomining Sales: SEC"
-    excerpt: "as software developers working in AI, self-driving cars, and a broad range of other fields continued to discover the acceleration and money-saving benefits of our GPU computing platforms.” But according to the SEC filing, “Nvidia’s analysts and ..."
-    publishedDateTime: 2022-05-06T20:50:00Z
-    webUrl: "https://www.crn.com/nvidia-to-pay-5-5m-fine-for-failing-to-disclose-gpu-cryptomining-sales-sec"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 68
-    images:
-      - url: "https://www.crn.com/resources/0273-1496144278fe-d4a9359828bf-1000/nvidia-sign-hq-building.jpg"
-        width: 609
-        height: 458
-        isCached: true
   - title: "Nvidia fined US$5.5m for not disclosing GPU cryptomining sales"
     excerpt: "as software developers working in AI, self-driving cars, and a broad range of other fields continued to discover the acceleration and money-saving benefits of our GPU computing platforms.” But according to the SEC filing, “Nvidia’s analysts and ..."
     publishedDateTime: 2022-05-08T21:05:00Z

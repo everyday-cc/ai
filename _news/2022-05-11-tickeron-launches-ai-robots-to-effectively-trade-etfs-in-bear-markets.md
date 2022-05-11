@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T12:01:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/g27132835/tickeron-launches-ai-robots-to-effectively-trade-etfs-in-bear-markets"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/g27132835/tickeron-launches-ai-robots-to-effectively-trade-etfs-in-bear-markets"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Benzinga.com

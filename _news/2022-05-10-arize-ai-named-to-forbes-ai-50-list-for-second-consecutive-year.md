@@ -33,6 +33,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 20
+  - title: "6sense Named To Forbes AI 50 List of Companies to Watch in 2022"
+    excerpt: "“We’re proud to make the Forbes AI 50 list and to be recognized as an innovative leader,” said Jason Zintak, 6sense CEO. “6sense is the first and only platform to apply the power of AI across the entire buyers’ journey to provide a better ..."
+    publishedDateTime: 2022-05-11T13:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-5a580e21096e7398f0cb7481ace03b36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
 
 secured: "q2A9H+vCpzy2WOWFUAS0SQnv3ERndckvBhO/2xW1b5UxzokJnazcyd67biw5bSGNNidjrBDu0YwBtm/IYcA5m7Mlu1asEuNn4dMGO0yHIWx4unnufEcVLVx1zsDtvwP9C1Qu5OUe7ADHh32kbjKnbfA4+uacMALKUKWo9EnMadTnU0piMjutCwgxvzdgykYYCwCRtrAw/EDwQg/CfmMGqw4TKqeGYOXwIr3Kk6LC9BhxlZWqtE8m2QvU7agAi9h+fhbtfnUB1qy76Rpx2KLmUyshmt6tf3eCa7xigdQqAA4CrY8BboQbqfECl8miRc3dgtayv8LoIfYm3HXQ0yVJR11PMVLURFf3+AYH+y2JzJY=;JhkhmdzLXEDyDxWerLE85g=="
 ---

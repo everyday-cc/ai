@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T12:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-11-concentric-ai-raises-series-a-funding-led-by-ballistic-ventures-to-autonomously-secure-business-critical-data"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-11-concentric-ai-raises-series-a-funding-led-by-ballistic-ventures-to-autonomously-secure-business-critical-data"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Daily Herald
@@ -13,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Concentric AI to autonomously secure business-critical data with $14.5M series A funding"
+    excerpt: "Concentric AI, which believes AI-powered automation is the solution to today's data security and governance issues has raised $14.5M."
+    publishedDateTime: 2022-05-11T12:44:00Z
+    webUrl: "https://venturebeat.com/2022/05/11/concentric-ai-to-autonomously-secure-business-critical-data-with-14-5m-series-a-funding/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 38
 
 secured: "FulcY47CMTfZqXJgYR9KmLDMeBUSUuLsI1KiAYRFkqMVFWDYDg49Tg3a1gnpysxECuBO/mCVz/xYbVMxr8zWy3ZxDZPDMMFc+xP6/wXxzXgAT0AthRfgKwF2ayUsfVLmtbDmaJ1kxvEdI/fzZtzM33zLcEYlxYGqMnhtGt6hjNYaWo/Y2krbppzGAXqM3KOwbVlio350K3vh6kEN1DwiKm2EpILv7y60tBo3txxK1RWQ36R/l8+JI3vXfXTsS/W0HTF5qsAN8iKuhvX+DGjtDqEjwZeQMu+UvSDDk4aX2j3sGFQgjF5VGjNi96OnaaZjY6f58bDS9Zrb38YN14Kkh6O+O6CJ9CbvqlUkaGl+wQg=;IPh0imFvJVPYhWSODLOY4Q=="
 ---

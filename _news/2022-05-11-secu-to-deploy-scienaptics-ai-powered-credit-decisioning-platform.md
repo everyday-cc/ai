@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/artificial-intelligence/secu-deploy-s
 webUrl: "https://financialit.net/news/artificial-intelligence/secu-deploy-scienaptics-ai-powered-credit-decisioning-platform"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,75 +24,59 @@ images:
     isCached: true
 
 related:
-  - title: "Levo Credit Union Deploys Scienaptic’s AI-Powered Credit Decision Platform To Enhance Loan Approvals"
-    excerpt: "Early results indicate potential for 42% more auto-approvals for auto loans and 45% more auto-approvals for unsecured loans Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union,"
-    publishedDateTime: 2022-05-09T17:13:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/levo-credit-union-deploys-scienaptics-ai-powered-credit-decision"
+  - title: "Deci deep-learning platform aims to ease AI application development"
+    excerpt: "Using Deci, the company says, AI developers can achieve improved inference performance and efficiency to enable effective deployments on resource-constrained edge devices, maximize hardware use and reduce training and inference cost."
+    publishedDateTime: 2022-05-11T13:18:00Z
+    webUrl: "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/"
+    ampWebUrl: "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 22
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://financialit.net/sites/default/files/scienaptic_22.png"
-        width: 2090
-        height: 732
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/ai_development.jpg?fit=800%2C450&strip=all"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
-    publishedDateTime: 2022-05-10T22:06:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/provenir-joins-visa-ready-bnpl-program-support-ai-risk-decisioning"
+  - title: "Application essential to AI development, says Quanta CTO"
+    excerpt: "There is a large variety of AI technology whose development should be based on application scenarios to solve real problems, according to Ted Chang, CTO and vice president of Quanta Computer."
+    publishedDateTime: 2022-05-10T07:50:00Z
+    webUrl: "https://www.digitimes.com/news/a20220509PD200/ai-quanta-computer.html"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 18
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
     images:
-      - url: "https://financialit.net/sites/default/files/provenir_5.png"
-        width: 1366
-        height: 768
+      - url: "https://img.digitimes.com/newsshow/20220509pd200_files/2_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Levo Credit Union goes live with Scienaptic AI"
-    excerpt: "Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, is live on its platform."
-    publishedDateTime: 2022-05-09T12:55:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92549/levo-credit-union-goes-live-with-scienaptic-ai"
+  - title: "DeepMind Trains AI Controller for Nuclear Fusion Research Device"
+    excerpt: "Researchers at Google subsidiary DeepMind and the Swiss Plasma Center at EPFL have developed a deep reinforcement learning (RL) AI that creates control algorithms for tokamak devices used in nuclear fusion research."
+    publishedDateTime: 2022-05-10T13:30:00Z
+    webUrl: "https://www.infoq.com/news/2022/05/deepmind-fusion-control/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-  - title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
-    excerpt: "a global leader in AI-powered risk decisioning software for the fintech industry. Available through the Provenir Marketplace, Point Predictive's Artificial + Natural Intelligence™ solutions provide Provenir customers with increased underwriting ..."
-    publishedDateTime: 2022-05-10T15:19:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/article_39166c37-7a76-545d-899f-cc98fa9bcad2.html"
+      name: InfoQ
+      domain: infoq.com
+    quality: 34
+  - title: "Deepspatial Announces Successful Deployment and Client Validation of its AI-Driven Platform for Government Sector in Education"
+    excerpt: "Deepspatial provided insights and solutions to Policy and Decision Makers in the Department of Education; Pilot encompassing over 100 schools in the State of Meghalaya, India; Pro"
+    publishedDateTime: 2022-05-09T12:36:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-india-education-artificial-intelligence-ebd317e29d6569de1a005aa977f25385"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Levo Credit Union Deploys Scienaptic's AI-Powered Credit Decision Platform To Enhance Loan Approvals"
-    excerpt: "Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, is live on its platform. Scienaptic's platform will allow Levo to ..."
-    publishedDateTime: 2022-05-09T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-levo-credit-union-deploys-scienaptics-ai-powered-credit-/2022/05/09/9597896.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-  - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
-    publishedDateTime: 2022-05-10T12:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-provenir-joins-visa-ready-bnpl-program-support-ai-/2022/05/10/9599082.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "QL49GRp5bZZuma6TyGc3wU7FcDxWbp29KMkgWSdgDqRTQJn70kgCmszSqWPxtOUorxlZUqvqD8zx903s8mrrH6pANq8ow2DxHR7OS8c7ibtW2aYJTUmD1hGLLwdx9Kh8Rg1uWgrphqSaUaepkrNLFNtBxQb0BdNdz+v7GV+cYCFhTg1fsHkC4MoBXlOhxydO3NH8KXPllqKJcfSjPv7fKTyUWj8SU7YBIZ4Ef2Niz8httXB8tHM60QyxSw6BcdLXWXZxskgUf+OGuZKLohfV+Yt9oKyvR0RLzmvm866JiDC2/Jqg+PyMFCET6CBUcwgSGl5wBicbaMnDuA6gENYSA5VCGb8MVciNbyyctP4hrvb+8PA+eBI5ohJrUsV0nl3AqBQu/UX6jy1H4eFX+mZBKVjlkMEZcpCcqIDeNrDux03hOvZICSi2f6AEYHWskEp4Aa4+LAXfuz/2KvCXH+Fh5fz4i34u0a3En/Ly/bgds7V0Oi+o6R2zDWzJO74n7qtAaDtPQgufFPFaySfkxsCmlQ==;aEubR1XIGlh/tiN+2IoYzg=="
 ---

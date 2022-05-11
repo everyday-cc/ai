@@ -57,6 +57,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "HERE collaborates with AWS on supply chain solutions"
+    excerpt: "HERE Technologies has announced it has entered a five-year strategic collaboration agreement with Amazon Web Services (AWS) to help organizations improve their supply chain visibility, transportation and logistics (T&L),"
+    publishedDateTime: 2022-05-11T13:39:00Z
+    webUrl: "https://www.just-auto.com/uncategorised/here-collaborates-with-aws-on-supply-chain-solutions/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 54
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/05/here_aws_scs_1-1038x535.jpg"
+        width: 1038
+        height: 535
+        isCached: true
 
 secured: "BSG6myY/EQip8ntuI0+52M+wpYS/HOq1LB5nojP0LjghAUTqLeNQs1RhdL/4DeQ0+v5USZ/jCIAsBrZxh7DAIcKGK8LUqjiggJg5ObnfsW3hepgzrfZeC0ZaxezMLoa7V/fBGzMgW9hbZJaVmf2Tt+KcdFFnN2wqZbHDJAM2QwVpXh767oEbVGq/MJQBeRVpEtEv2gJI9HTj7p2xi94hz7lEKHoiHgKbu/G9zy1ueB6ZdfYqmUrwzavJ+s29bwEl88d8u/WDhyVgz+5Wr4fQei68bxmgxmGiNvmJHee6FQigLpI5P3DvVJA3nNWH9bWRTdgM2mOt1v8IzvwPpV/FL+XspyWmiY/IK0Dl1k2At80=;wdHsPFSEUxsW2xUXQuNI5w=="
 ---

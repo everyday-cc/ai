@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T11:11:00Z
 originalUrl: "https://www.koin.com/business/press-releases/globenewswire/8539916/lookingglass-cyber-to-acquire-business-intelligence-strategic-advisory-firm-next5/"
 webUrl: "https://www.koin.com/business/press-releases/globenewswire/8539916/lookingglass-cyber-to-acquire-business-intelligence-strategic-advisory-firm-next5/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KOIN 6

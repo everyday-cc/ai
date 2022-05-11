@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/content-moderation-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
+        isCached: true
+  - title: "HERE collaborates with AWS on supply chain solutions"
+    excerpt: "HERE Technologies has announced it has entered a five-year strategic collaboration agreement with Amazon Web Services (AWS) to help organizations improve their supply chain visibility, transportation and logistics (T&L),"
+    publishedDateTime: 2022-05-11T13:39:00Z
+    webUrl: "https://www.just-auto.com/uncategorised/here-collaborates-with-aws-on-supply-chain-solutions/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 54
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/05/here_aws_scs_1-1038x535.jpg"
+        width: 1038
+        height: 535
         isCached: true
 
 secured: "kbf5BV/KJh4DSTe0v429cvbDOt+Q8lm2MS41hXRa+pnpzpnlQtJZwZu1IGMj5sb2coPUzfm0Y2wA//jaAYbRBA0PBt7eGeQr2z/g6KmN9DAK6l4AAK4LSrW0eFXzj4MkaUymLmnB4iZ/xHMXsqEy+dnCBQGYUe9fekSRoLGgxDkjYYvt6L862fxqX2hnDY13Tzze+aWa5NpaNyoQ8PNubqzwzcjmeys2LfvRYwhAJymCVf177mOdh6ro5EEVg8VwD8/dvrjJuXW8ho8NkwxfkmzfGhvQLgw8GFnluDyjuwUwfthB7y6x4yMN/PypGaIU08n3uit8cMsFoeeNYVOPAl6byT0r5Ix6QZJ31xcV3bs=;p4YQBatF3Bfx0N1NNjudzw=="

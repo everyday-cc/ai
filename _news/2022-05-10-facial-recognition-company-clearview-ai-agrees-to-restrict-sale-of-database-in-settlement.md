@@ -159,7 +159,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://i.insider.com/627972c494a2c10018eea591?width=1200&format=jpeg"
         width: 1200
@@ -242,6 +242,20 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2018/09/facial-recognition-e1557763570147.png"
         width: 864
         height: 486
+        isCached: true
+  - title: "Clearview AI agrees to restrict US sales of facial recognition mostly to law enforcement"
+    excerpt: "Clearview AI, a controversial facial-recognition software company, agreed on Monday that it will not sell its software to most companies in the United States — a decision that will largely restrict its use to law-enforcement agencies in the country."
+    publishedDateTime: 2022-05-11T13:35:00Z
+    webUrl: "https://www.egyptindependent.com/clearview-ai-agrees-to-restrict-us-sales-of-facial-recognition-mostly-to-law-enforcement/"
+    type: article
+    provider:
+      name: Egypt Independent
+      domain: egyptindependent.com
+    quality: 64
+    images:
+      - url: "https://amayei.nyc3.digitaloceanspaces.com/2021/11/X4NCWPFI55LBPKOSMXSJZDZL2I-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
   - title: "Clearview AI agrees to permanent ban on selling facial recognition to private companies"
     excerpt: "Facial recognition surveillance company Clearview AI has agreed ... this settlement demonstrates that strong privacy laws can provide real protections against abuse,” said ACLU Speech, Privacy, and Technology Project deputy director Nathan Freed Wessler."
