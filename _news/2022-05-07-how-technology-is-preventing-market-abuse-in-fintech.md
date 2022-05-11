@@ -96,20 +96,6 @@ related:
         width: 1200
         height: 623
         isCached: true
-  - title: "06/05 – Weekly Fintech Recap"
-    excerpt: "Partnerships Ophelos Partners with Credit Card Startup, Yonder, for Ethical Debt Resolution Ophelos, the technology firm building fairer debt resolution for businesses and their customers, announces its partnership with Yonder,"
-    publishedDateTime: 2022-05-06T09:25:00Z
-    webUrl: "https://financialit.net/news/open-banking/0605-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_10.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Insights on the $332.5 Bn Fintech Market is Expected to Grow at a CAGR of over 19.8% During 2022-2028 | Vantage Market Research"
     excerpt: "Financial technology is one of the most widespread terms used for research in finance industry in present time. Financial Technology (FinTech) is the use of modern"
     publishedDateTime: 2022-05-09T08:52:00Z

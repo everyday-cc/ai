@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mercedes opens sales of Level 3 self-driving system on S-Class, EQS"
-    excerpt: "Tesla has long promised true “hands off” abilities for its Full Self Driving package but still requires drivers to be fully attentive and ready to take over. Audi had prepared its A8 sedan for ..."
-    publishedDateTime: 2022-05-06T09:59:00Z
-    webUrl: "https://europe.autonews.com/automakers/mercedes-opens-sales-level-3-self-driving-system-s-class-eqs"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 41
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Mercedes%20Drive%20Pilot%202022.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mercedes EQS, S-Class Make Big Advance to Self-Driving This Month"
     excerpt: "One of the closest things to a self-driving car today will soon be available for purchase in Germany as Mercedes-Benz offers Drive Pilot—a true SAE Level 3 autonomous system—on new S-Class and EQS models this month. That makes it the first automaker ..."
     publishedDateTime: 2022-05-06T20:31:00Z

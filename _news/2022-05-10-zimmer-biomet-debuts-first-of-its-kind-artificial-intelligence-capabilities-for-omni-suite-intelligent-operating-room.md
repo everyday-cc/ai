@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Zimmer Biomet Debuts First-of-its-Kind Artificial Intelligence Capabilities for Omni™ Suite Intelligent Operating Room"
-excerpt: "We seamlessly transform the patient experience through our innovative products and suite of integrated digital and robotic technologies that leverage data, data analytics and artificial intelligence. With 90+ years of trusted leadership and proven ..."
-publishedDateTime: 2022-05-10T11:39:00Z
-originalUrl: "https://www.wpri.com/business/press-releases/cision/20220510DE51463/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for-omni-suite-intelligent-operating-room/"
-webUrl: "https://www.wpri.com/business/press-releases/cision/20220510DE51463/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for-omni-suite-intelligent-operating-room/"
+excerpt: "Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH), a global medical technology leader, today introduced the availability of new artificial intelligence¹ (AI) capabilities within Omni™ Suite, an intelligent operating room (OR) designed to optimize surgical workflow and procedural efficiency by automating manual tasks and streamlining unnecessary technology and redundant hardware."
+publishedDateTime: 2022-05-10T13:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9598911.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9598911.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WPRI 12
-  domain: wpri.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -42,6 +42,6 @@ related:
       domain: stockhouse.com
     quality: 0
 
-secured: "ov3uqg2YhUAdwkMeRMjuB10c1+w/gkSx7Kio+41/01bSRWjZnqKuNDVy48EtZlVehtybQEg0RYt1Qi/HJ+iI0aoUv1wzawTQa1sYUgsxt+Z2/fsvopGV0rVvKzCUGL8hWXhB+R3QDRcssOPDwOT5/987dtHUyBOJruZ+LQF3h3+OOA9vtGFbjqan1halqlpVu6Q5nQff84+tDUfVdn1yLCP7E2W0fHHIllZcmHdhNjy/jfdTn2b+RQBPhaiOLKvVT5FgEZKLsk90HgUlG5JeBKd1Hjvi08nKJuTdJYLjuCXXUYQOUgf5D6ZiZAYamAY+8nQCx+IaW2Ouet2FRK79IzXGaVNdTBtAsUK0Gj8i+D8=;WTavMb28sm3i4UMrBN4H2A=="
+secured: "X+09GZ0/k8NzzHfBiWBx1Eaui++iChAj2Yh17iqk7U2M4DKDeOHamEVXsRJi1dpGTLVmgWCG5G1r3QBGLImH7smJJKd/7tyB2Ax4ef9KL6Y1LSS2kJ1s0iYqWGDc8ds0Dd/9aD8LPyxc5POWtuUm+m9YZC4yOgh0tUlY4B+XYy6je1klTSfYKDmEC8pHMSZpWaGG4DnfOGr4qj6JqcarD/Eb6yTn7wD+UQBYDRVcef7eBRG6+zGQu5wZCaajD130ayYlBdGkooZztx9CNYcSet7J1BTkfudScdd519dHxSIGJFWHm4oPYG3DEaR6rdleGsObVioyYMvwBBtAJBlof7N/xcjP9fejIFzIpEPXfoY=;rAH4rq1eFVsHf0T91186FQ=="
 ---
 

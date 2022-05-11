@@ -7,7 +7,7 @@ originalUrl: "https://www.thedrive.com/news/mercedes-eqs-s-class-make-big-advanc
 webUrl: "https://www.thedrive.com/news/mercedes-eqs-s-class-make-big-advance-to-self-driving-this-month"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes opens sales of Level 3 self-driving system on S-Class, EQS"
-    excerpt: "Tesla has long promised true “hands off” abilities for its Full Self Driving package but still requires drivers to be fully attentive and ready to take over. Audi had prepared its A8 sedan for ..."
-    publishedDateTime: 2022-05-06T09:59:00Z
-    webUrl: "https://europe.autonews.com/automakers/mercedes-opens-sales-level-3-self-driving-system-s-class-eqs"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 41
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Mercedes%20Drive%20Pilot%202022.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mercedes-Benz announces sales launch of DRIVE PILOT self-driving tech"
     excerpt: "STUTTGART: Mercedes-Benz has released details of the sales launch of DRIVE PILOT in Germany. The system for conditionally automated driving (SAE Level 3) can be ordered from May 17 as an optional extra for the S-Class for €5,000 (RM23,000) and for the ..."
     publishedDateTime: 2022-05-06T18:16:00Z

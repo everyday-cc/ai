@@ -82,20 +82,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "06/05 – Weekly Fintech Recap"
-    excerpt: "Partnerships Ophelos Partners with Credit Card Startup, Yonder, for Ethical Debt Resolution Ophelos, the technology firm building fairer debt resolution for businesses and their customers, announces its partnership with Yonder,"
-    publishedDateTime: 2022-05-06T09:25:00Z
-    webUrl: "https://financialit.net/news/open-banking/0605-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_10.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How Technology is Preventing Market Abuse in Fintech"
     excerpt: "Jordan Domash is the GM of Relativity - a leading regtech that specialises in fintech data management, discusses market protection through technology"
     publishedDateTime: 2022-05-07T08:08:00Z

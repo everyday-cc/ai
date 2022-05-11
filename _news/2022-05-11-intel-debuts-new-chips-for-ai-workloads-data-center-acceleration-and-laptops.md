@@ -82,6 +82,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Intel launches new AI chips, challenging Nvidia's market"
+    excerpt: "AI chip startups have been getting huge investments in recent years as AI computing is one of the fastest growing areas for data centers. Prying market share away from Nvidia has been a challenge ..."
+    publishedDateTime: 2022-05-11T03:18:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/intel-launches-new-ai-chips-challenging-nvidias-market/91481980"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/intel-launches-new-ai-chips-challenging-nvidias-market/91481980"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/intel-launches-new-ai-chips-challenging-nvidias-market/91481980"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91481980,imgsize-25812,width-1200,height-628,overlay-etcio/intel-launches-new-ai-chips-challenging-nvidia-s-market.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Intel launches new AI chips"
     excerpt: "Intel has launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia. Gaudi2 is the second generation processor by Habana Labs,"
     publishedDateTime: 2022-05-10T22:12:00Z
@@ -95,6 +111,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/intel.png"
         width: 1600
         height: 1215
+        isCached: true
+  - title: "Intel unveils new AI chip, Accenture collab and more products"
+    excerpt: "Intel on Tuesday announced a slew of products in its silicon, software and services portfolio during its first Vision event in Dallas, Texas. The company launched its AI Gaudi2 chip, 4th generation Xeon Scalable processors,"
+    publishedDateTime: 2022-05-11T00:42:00Z
+    webUrl: "https://www.crn.com.au/news/intel-unveils-new-ai-chip-accenture-collab-and-more-products-579835"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/Intel_Wafer.jpeg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Intel Launches New AI Chips, Challenging Nvidia's Market"
     excerpt: "Intel Corp on Tuesday launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp."

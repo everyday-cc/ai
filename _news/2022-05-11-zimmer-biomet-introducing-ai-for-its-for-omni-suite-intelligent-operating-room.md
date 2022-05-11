@@ -25,13 +25,13 @@ images:
 
 related:
   - title: "Zimmer Biomet Debuts First-of-its-Kind Artificial Intelligence Capabilities for Omni™ Suite Intelligent Operating Room"
-    excerpt: "We seamlessly transform the patient experience through our innovative products and suite of integrated digital and robotic technologies that leverage data, data analytics and artificial intelligence. With 90+ years of trusted leadership and proven ..."
-    publishedDateTime: 2022-05-10T11:39:00Z
-    webUrl: "https://www.wpri.com/business/press-releases/cision/20220510DE51463/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for-omni-suite-intelligent-operating-room/"
+    excerpt: "Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH), a global medical technology leader, today introduced the availability of new artificial intelligence¹ (AI) capabilities within Omni™ Suite, an intelligent operating room (OR) designed to optimize surgical workflow and procedural efficiency by automating manual tasks and streamlining unnecessary technology and redundant hardware."
+    publishedDateTime: 2022-05-10T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9598911.htm"
     type: article
     provider:
-      name: WPRI 12
-      domain: wpri.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
   - title: "Zimmer Biomet Debuts First-of-its-Kind Artificial Intelligence Capabilities for Omni(TM) Suite Intelligent Operating Room"
     excerpt: "We seamlessly transform the patient experience through our innovative products and suite of integrated digital and robotic technologies that leverage data, data analytics and artificial intelligence. With 90+ years of trusted leadership and proven ..."

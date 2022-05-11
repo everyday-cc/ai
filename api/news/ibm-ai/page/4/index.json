@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-09-09-watson-assistant-releases-new-features-to-help-businesses-transform-customer-service.md",
-      "title": "Watson Assistant releases new features to help businesses transform customer service",
-      "excerpt": "IBM’s virtual agent, Watson Assistant, is now available with an add-on option that is designed to connect to nearly every major contact center platform that uses the SIP protocol, including Genesys and NICE inContact, in as little as half an hour with no coding. Now, voice assistants built with Watson",
+      "path": "_news/2021-12-20-ai-in-pharma-market-past-research-deep-analysis-and-present-data-with-ibm-watson-health-alphabet-inc-concreto-healthai.md",
+      "title": "AI In Pharma Market Past Research, Deep Analysis and Present Data With IBM Watson Health; Alphabet Inc.; Concreto HealthAI",
+      "excerpt": "The Global AI In Pharma Market is expected to grow at a significant CAGR of 31.4% by 2028. Growing adoption of artificial intelligence (AI) for clinical trials, increased use of artificial ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/09/watson-assistant-intelepeer/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/09/watson-assistant-intelepeer/",
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-pharma-market-past-research-deep-analysis-and-present-data-with-ibm-watson-health-alphabet-inc-concreto-healthai",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-pharma-market-past-research-deep-analysis-and-present-data-with-ibm-watson-health-alphabet-inc-concreto-healthai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/09/Watson-Assistant_Voice-Integration-with-IntelePeer-1024x471.png",
-          "width": 1024,
-          "height": 471,
+          "url": "https://www.market-news.org/wp-content/uploads/2021/12/AI-In-Pharma.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,21 +26,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T05:00:12-07:00",
+      "publishedDateTime": "2021-12-20T07:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,7 +40,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "IBM AI",
+        "AI"
       ]
     }
   ],

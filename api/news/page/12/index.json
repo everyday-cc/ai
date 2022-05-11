@@ -2,6 +2,144 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-04-27-beyond-no-code-using-ai-for-guided-security-automation.md",
+      "title": "Beyond No-Code: Using AI for Guided Security Automation",
+      "excerpt": "SOAR Playbooks Outside of football, the term “playbook” is well understood by a relatively small group of security automation ninjas. In many larger enterprises with extensive security teams, automating mundane and repetitive security tasks has been a priority for a few years.",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/",
+      "originalUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.logichub.com/hubfs/shutterstock_1959094861_%20600x400.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/amp/",
+      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/amp/",
+      "publishedDateTime": "2022-04-27T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Boulevard",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-hpe-uses-blockchain-for-distributed-machine-learning-models.md",
+      "title": "HPE uses blockchain for distributed machine learning models",
+      "excerpt": "HPE has lifted the lid on two new AI products, one aimed at enterprises wanting to build and train machine learning (ML) models at scale, and a second that introduces a decentralized ML system to enable distributed or edge deployments to share updates to their models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/27/hpe_new_ai_products/",
+      "originalUrl": "https://www.theregister.com/2022/04/27/hpe_new_ai_products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2015/06/12/chains_834875.jpg",
+          "width": 648,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/",
+      "publishedDateTime": "2022-04-27T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research.md",
+      "title": "Hewlett Packard Enterprise used AI driven data to help accelerate Covid-19 vaccine research",
+      "excerpt": "CEO Antonio Neri: “We made available our systems and our patents to be able to process that data at the speed that was required.” © 2022 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fortune.com/videos/watch/Hewlett-Packard-Enterprise-used-AI-driven-data-to-help-accelerate-Covid19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf",
+      "originalUrl": "https://www.fortune.com/videos/watch/Hewlett-Packard-Enterprise-used-AI-driven-data-to-help-accelerate-Covid19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/aeeaaf34-bf9f-4174-8be1-646f26cf29cf/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf/amp",
+      "publishedDateTime": "2022-04-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-sensiml-delivers-new-ai-accelerator-core-support-for-silicon-labs-mg24-and-bg24-series-2-bluetooth-wireless-socs.md",
       "title": "SensiML Delivers New AI Accelerator Core Support for Silicon Labs MG24 and BG24 Series 2 Bluetooth® Wireless SoCs",
       "excerpt": "SensiML ™  Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced it has added support for Silicon Labs' new MG24 and BG24 Series 2 Bluetooth® wireless SoCs within its SensiML Analytics Toolkit embedded development software.",
@@ -1010,135 +1148,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-pentagon-taps-lyfts-machine-learning-chief.md",
-      "title": "Pentagon Taps Lyft’s Machine-Learning Chief",
-      "excerpt": "Craig Martell was named as the Defense Department’s first chief digital and artificial intelligence officer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "originalUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-532029/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "publishedDateTime": "2022-04-26T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-space-discoveries-that-will-blow-your-mind.md",
-      "title": "Space discoveries that will blow your mind",
-      "excerpt": "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn’t stop them from",
-      "sourceUrl": null,
-      "webUrl": "https://www.myarklamiss.com/news/national-news/space-discoveries-that-will-blow-your-mind/",
-      "originalUrl": "https://www.myarklamiss.com/news/national-news/space-discoveries-that-will-blow-your-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "My ArkLaMiss",
-        "domain": "myarklamiss.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-blackstone-announces-len-laufer-a-leader-in-data-science-and-technology-across-the-financial-services-industry-as-senior-advisor.md",
-      "title": "Blackstone Announces Len Laufer, a Leader in Data Science and Technology Across the Financial Services Industry, as Senior Advisor",
-      "excerpt": "Blackstone (NYSE: BX) today announced the appointment of Len Laufer, a pioneer in data science and long-time executive across the financial services industry, as a senior advisor. He will advise across Blackstone’s businesses,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-business-financial-services-d37c1e119b30405bb87f32ca26ac7eb0",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-business-financial-services-d37c1e119b30405bb87f32ca26ac7eb0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

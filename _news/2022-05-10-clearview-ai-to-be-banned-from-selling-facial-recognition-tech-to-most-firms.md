@@ -231,11 +231,11 @@ related:
         height: 486
         isCached: true
   - title: "Facial recognition company Clearview AI agrees to restrict sale of database in settlement"
-    excerpt: "Facial recognition startup Clearview AI has agreed to restrict ... a lawyer known for taking on high-profile free speech cases. He noted that the company was already not providing its services to police agencies in Illinois and agreed to the 5-year ..."
-    publishedDateTime: 2022-05-10T12:12:00Z
-    webUrl: "https://www.cbsnews.com/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
+    excerpt: "The company can no longer sell to private businesses or law enforcement, according to a settlement reached Monday."
+    publishedDateTime: 2022-05-09T20:27:00Z
+    webUrl: "https://www.cbsnews.com/news/clearview-settlement-aclu-law-enforcement-illinois/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
     type: article
     provider:
       name: CBS News

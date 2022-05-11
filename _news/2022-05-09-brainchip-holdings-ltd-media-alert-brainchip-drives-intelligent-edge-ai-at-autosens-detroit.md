@@ -48,19 +48,14 @@ related:
         height: 758
         isCached: true
   - title: "BrainChip Launches AI Enablement Program"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 10, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, today announced a three-tier AI Enablement Program to support customers ..."
-    publishedDateTime: 2022-05-10T21:31:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 10, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced a three-tier AI Enablement Program to support customers seeking to deploy edge AI/ML to improve and differentiate their products."
+    publishedDateTime: 2022-05-10T23:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-10-brainchip-launches-ai-enablement-program"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 34
   - title: "Media Alert: BrainChip and MosChip to Demonstrate Capabilities of Neural Processor IP and ASICs for Smart Edge Devices at IESA AI Summit"
     excerpt: "The presentation ends with a demonstration of BrainChip’s Akida™ neural processor IP, enabling high performance and ultra-low power on-chip inference and learning and MosChip’s ASIC platform for smart edge devices. The IESA AI Summit is a two-day ..."
     publishedDateTime: 2022-05-09T21:34:00Z

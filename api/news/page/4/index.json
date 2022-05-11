@@ -2,6 +2,156 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-05-unionvilles-music-education-program-receives-national-recognition.md",
+      "title": "Unionville’s music education program receives national recognition",
+      "excerpt": "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/",
+      "originalUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailylocal.com/wp-content/uploads/2022/05/uville-music.jpg?w=1024&h=656",
+          "width": 1024,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/",
+      "publishedDateTime": "2022-05-05T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Local News",
+        "domain": "dailylocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-predict-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
+      "title": "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas",
+      "excerpt": "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ML-7622.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T09:27:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars.md",
+      "title": "AI Ethics Is Especially Vexed By That AI Confinement Problem, Including The Knotty Particulars For Confining Autonomous Self-Driving Cars",
+      "excerpt": "The AI Confinement Problem is a vexing issue and one that AI Ethics is pushing mightily to solve. We discuss why this is such a tough challenge, along with showcasing examples via the advent of AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6272bf58207611e789de7afd/0x0.jpg?format=jpg&crop=2380,1620,x161,y87,safe&width=1200",
+          "width": 1200,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-05-05T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-artificial-intelligence-computing-using-networks-of-tiny-nanomagnets.md",
       "title": "Artificial Intelligence Computing Using Networks of Tiny Nanomagnets",
       "excerpt": "Artificial intelligence that uses ‘neural networks’ aims to replicate the way parts of the brain work, where neurons talk to each other to process and retain information. A lot of the maths used to power neural networks was originally invented by ...",
@@ -469,49 +619,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-05-rapid-adaptation-of-deep-learning-teaches-drones-to-survive-any-weather.md",
-      "title": "Rapid adaptation of deep learning teaches drones to survive any weather",
-      "excerpt": "To face this challenge, a team of engineers from Caltech has developed Neural-Fly, a deep-learning method that can help drones cope with new and unknown wind conditions in real time just by updating a few key parameters. Neural-Fly is described in a study ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/rapid-adaptation-of-de.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.amp",
-      "publishedDateTime": "2022-05-04T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-05-ground-breaking-mjn-seras-seizure-monitoring-device-that-uses-artificial-intelligence-to-predict-and-alert-of-imminent-seizures-launches-in-the.md",
       "title": "Ground-breaking mjn-SERAS seizure monitoring device that uses artificial intelligence to predict and alert of imminent seizures launches in the UK",
       "excerpt": "Epilepsy Alarms UK are proud to bring the mjn-SERAS to the UK – a revolutionary device that uses artificial intelligence to predict seizures with up to 3 minutes advanced warning. With a European CE mark as a medical device*, the mjn-SERAS is ...",
@@ -644,15 +751,15 @@
       "title": "Tailored Cognitive Therapy Helps Black Women Fight Insomnia",
       "excerpt": "WEDNESDAY, May 4, 2022 (HealthDay News) -- A cognitive behavioral therapy (CBT) intervention for insomnia tailored for Black women improves sleep outcomes and intervention engagement, according to ...",
       "sourceUrl": null,
-      "webUrl": "https://billingsgazette.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f48f94f2-8aec-569e-a66b-0980561fdd18.html",
-      "originalUrl": "https://billingsgazette.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f48f94f2-8aec-569e-a66b-0980561fdd18.html",
+      "webUrl": "https://azdailysun.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f67aab5d-46af-5957-a490-f075beb302e2.html",
+      "originalUrl": "https://azdailysun.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f67aab5d-46af-5957-a490-f075beb302e2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/2/b9/2b9fde95-caf0-5aa0-a34a-dfbe8a15d144/6272ac68bd4e4.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/8/ef/8ef36d0e-a998-5676-b3dd-de7c7e89b16d/6272ac7d2f28b.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
           "width": 600,
           "height": 315,
           "title": null,
@@ -664,11 +771,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T09:50:00-07:00",
+      "publishedDateTime": "2022-05-04T09:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Billings Gazette",
-        "domain": "billingsgazette.com",
+        "name": "Arizona Daily Sun",
+        "domain": "azdailysun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1064,101 +1171,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-what-the-high-interest-rates-mean-for-startup-founders.md",
-      "title": "What The High Interest Rates Mean For Startup Founders",
-      "excerpt": "Sure, some AI companies will not be able to deliver the value they've ... Nevertheless, there are good reasons for any startup founder who is depending on raising capital in the coming years to be focused on these three elements. 1. Know your numbers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627114653e082e5a8fa3642a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/amp/",
-      "publishedDateTime": "2022-05-04T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-ex-google-uber-ai-heads-launch-ml-error-detection-platform.md",
-      "title": "Ex-Google, Uber AI heads launch ML error-detection platform",
-      "excerpt": "Meta releases code for massive language model to AI researchers AMD to offer CPUs with Xilinx AI engine in 2023 Microsoft to ax Azure Video Analyzer in November AI models still racist, even with more balanced training Fixing problems with ML data is the ...",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/04/galileo_ml_error_detection/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/04/galileo_ml_error_detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/05/03/ml_shutterstock.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/04/galileo_ml_error_detection/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/04/galileo_ml_error_detection/",
-      "publishedDateTime": "2022-05-04T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

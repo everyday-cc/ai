@@ -35,20 +35,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-  - title: "Voice And Speech Recognition Market Is likely to register double digit CAGR during 2022 – 2030"
-    excerpt: "Polaris Market Research has come up with a new extensive report titled Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component (Hardware, Software, Services); By Interface (AI-Based, Non-AI Based); By End-User ..."
-    publishedDateTime: 2022-05-06T10:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-and-speech-recognition-market-is-likely-to-register-double-digit-cagr-during-2022-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in Medicine Market Emerging Trends and Competitive Landscape Forecast to 2031"
     excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
     publishedDateTime: 2022-05-10T08:40:00Z

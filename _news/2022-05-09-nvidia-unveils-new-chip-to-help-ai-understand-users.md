@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-he
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Landing AI Becomes a Part of NVIDIA Metropolis to transform industrial inspection with AI"
-    excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced"
-    publishedDateTime: 2022-05-06T10:17:00Z
-    webUrl: "https://enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/"
-    ampWebUrl: "https://enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 48
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Landing-AI-Becomes-a-Part-of-NVIDIA-Metropolis-to-transform-industrial-inspection-with-AI-01.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Nvidia’s H100 “Hopper” Chip Aims to Help AI Speed up Digitization"
     excerpt: "It will sell a new AI chip later this year to enhance data processing and AI modeling. Despite the fact that humans have come too far, still there are some complex problems unsolved. Technology is still naïve in providing a self-driving car and ..."
     publishedDateTime: 2022-05-09T08:37:00Z
