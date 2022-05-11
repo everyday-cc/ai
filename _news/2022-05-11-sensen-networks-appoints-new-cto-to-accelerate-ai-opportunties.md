@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC9zaHV0dGVyc3RvY2stNjc4NTgzMzc1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
@@ -25,6 +26,6 @@ images:
     height: 740
     isCached: true
 
-secured: "nYJKw78FFm+W+xauygmevofgW9AybqGxO8D38/0hOAhZ7swbsGYgeD8uLyG6FyyUz7uPffCeRjeuiRL9FWIb5QDWjrMztimJqgBIzDqugtro1eE2uHifwIpBVwK1FKJoJfB6GD3gEesnt6piUC7Hwd9oaxRXPZTayFyV9MUmOoMlcx5A4EHAnstTRigpL6LF4EVERWWxU25KpguONJegKdaZGbzj89YXZE26KZRb0nDbiMUWfObMnE5JVD4yOW+lRoT3xku1SxfwTp6UE+YlvZm3y9jp/xeNoMai2/RXvMruV7G55WJvMvwL9POqXAUVSTQmZv+vXELeEqXozJYepzGVE989LFKlPoGQh4D7FU0=;HGNvK7JZgSgt7SrgnIwK5g=="
+secured: "igbuzSQzVaqVEWYjx88PHfX2fXefyqzRQLiTlneoZYoAyBQF7lcfwNw9Sv9R8ZACEETZd3gMk9p9Bf/lRyZQxMpaHeKwOHxuuLJB8T8d+cw/2Qc0a3ah9Eqth5WGTJ4m6DiWXrL949wXH35GUfTYSdZaGnU/VjBZMaSpmp8jIp11+C9v5sv/taO8tg+vPcCjKuYh+E0c8xVPej6vT1Q4tnS52UEYn7sV34JyuzUlop4SgVCrLa0cpbGZWb4cFvfB3QPuHxAjSiHJsSftEcbv8dOFWdsFjBcTg4pXzRxTI+E/zH6DMn7l+iszWWfAxcd3IY5zuKvsyCX70K2AdqvUmAZhO9s+XQ2pTdGjJ7iNNDM7+7vJgfKRqB5/kH2pfTjMXpJOeXGwTQyY/vy5pTwbfM1wxoTLXjk5pyF8+Q2GIkTCykjQgZbytlnjPiiyQZsX29gIcyQY2nvW1YpcLPxL58YZWNn4yt5APDLQ+3PwxwbCew6XRTEWpjSvCxjTCwFDQGY3eEaIVafP7lz6RZP8Xw==;7EBNnee3PaP9qNBCYD+r6w=="
 ---
 
