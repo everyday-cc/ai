@@ -1,14 +1,11 @@
 ---
 category: news
 title: "How an engineer at Google's DeepMind AI lab pulled off a career pivot from marketing into machine learning without a Ph.D."
-excerpt: "The rise of artificial intelligence has prompted a boom in demand for machine-learning expertise. Ivan Lobov, an engineer at DeepMind, worked in marketing before pivoting to AI. Insider sat down ..."
+excerpt: "Ivan Lobov used to work in advertising but spent vacations and weekends taking part in programming challenges."
 publishedDateTime: 2022-05-02T14:58:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4"
-webUrl: "https://markets.businessinsider.com/news/stocks/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4"
+originalUrl: "https://www.businessinsider.com/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4"
+webUrl: "https://www.businessinsider.com/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4"
 type: article
-quality: 92
-heat: 92
-published: true
 
 provider:
   name: Business Insider
@@ -19,17 +16,11 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
-  - AI
-  - AI in Marketing
   - Google AI
+  - AI
+  - Machine Learning
+  - AI in Marketing
 
-images:
-  - url: "https://i.insider.com/62668db69f65660019066e1c?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    isCached: true
-
-secured: "+ImVxelrh3FhsBozt6tKFuJHMkwfze1AKJqICte46FCHw/xUyp78Q2NY8dKRbW+vH/Xt91S5arq7QeakTrQywzzP9sz07tVn3Z09SdSzel7tfWZeMUryhQkbffEK/OnV9yoWzHVN6CXN5iqQpQZUOBSlqEVTji+Nd7u37M650Mfxz/a5Tips/er5rE6ca/sH79ZyDxSezqLxy38cP+jOpm68zmdHc0VlEh31CpLL2W4y+u8FWsqpsP7HBnOKZ7BCMmFAauuRAb9OaaboIisAepIkHt6GFeygcR48cvKoO6xYWnoBUaZI1zK2nbtcD6a2ZhixFIymZiBluCjcKAqZQGN0/p1JBLxcTQ8lFRygGkr+tN9RZZ279SzNeE5eNWr87cq1eKpDhmHB5xEQGkA2GNlPLoW4it/mC7xfh1xWf1gfd4oYkjXgNWYoqvUK5q4/zTZzh3Qkq+dyrB3Yr5gR7iiy/pme6JDOnM5A0ntQCUaAPqE49HV0U94AhGmv8WjuWmb8gX3pwSVO2lVvW9RFFA==;tEhYKEiJ8zvoiobSQ/l9FQ=="
+secured: "WDklH/lP6B0zOGh/Kn9elMv9NMVH2xgR1aolU3dRhapPybmw0pU5uuG8Kk2KaWLL/hivEjoZ0PdMvecQAGYW6TSmZfBTXOZ9qH5wYeGAuwTnxg0Px/dZII1r1lm3LWkSn6X9RSfI1A2oLUkBN8CRzH/lnzDnSp02HB/HS9vZa9xyZb1SqpajzYHUdjpHFJLsWsw+AhoNOoJjZn7JzJ1OkMgLx9l7lpRHCVF0o7UspqdFHHxDz4HXQbiMxM6fJEdMKy8l7xkbAD1wU58tTjn+Q4MvtmyEmi8BBASs1hZrNzABh0FK+Cju2aK0TZ+xPBUveW7JPa6zn7CKMIZquydJEzq4+8Itco7ZXyqzCuenBqRsJlU4U397wK+PdF9PIC4uatf3fBEuBJIPmxHzUzv4ArVfAKoS+5IqD4P3oDv/WmOXnJ/87qrjnY+kXFt00TOnxkTjUKuWUmSuY+gcrXKX8rOTH88AGd7Gj02FUD9g+ZrqLTXuJrjxxL6O+5XS+NRaJbw6VzdNlwnOZfO/NS8CpQ==;MhirZP76mz9ig42/AedchQ=="
 ---
 

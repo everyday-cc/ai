@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
-    width: 400
-    height: 215
-    isCached: true
-
-secured: "Za1Mr2FGRqRi8jWaGMc5XAbAKW5WM2QxYfb36/00bX7yjupc/0vEaes4tNZb3fAcLnGy9dQn9Ga4kdDfF0lNJdflPqRA4kynoDg/LLurqPRn9MS0/KNG1XZm7bBbUydeoDby56ol+vuoLC+DbySr9eXHPROWVpHz4xD8ntftHe3GnLk3PqdwHmTFqOziSfFy9ekhpCS6mb9TosNxbQWSIekrd4ceetSto63iBd4mNH4lexzfS1UScQo4ciWHUpgzteGRDrvmnyI1YPpf043re2Kn1Kx3Zz6JyXha/D8xRkUJxMNZebfAVKHGkqUw1NyANFlCi3BLJdDEVwwtlyIeTLbSputFR+nj2swideyT14A=;i+wj1SpCiAChhVjBvtL+pg=="
+secured: "g2I633n2WO8WXJKRcVLdCzk+7GcveOnExQX8P9vQ4tYWUR1Wf/qxGX11AxWb2bj1mv8AKhc7S99O0DLCaxgYPVlvahNxFZInxWFMABQLSJc366TxXA099jorbLuAvJfCn2dlKYOQa0KKwcefl2GWHdSC0SaevfrtoeWl7OT6kg+CKiMy7f/waEm0b3FTSgkWyAYf+3SjM8VvbZNBzQBrXjqCMkVfkBvrRI69F4klqctImUmVAqhRg++iJxTE+TcygPIrSlGZBg9OUjZh4OIo6gVzUHZufzTI6BUyAQc3YzxVuKl1n5bZTXoDskSqVPwW8+uQcpeQxH8qqe39IWtFRZcm5kKr7/gr1Mft+MtmnFw=;BP2nmvJC2a3jbq8BuSsczQ=="
 ---
 

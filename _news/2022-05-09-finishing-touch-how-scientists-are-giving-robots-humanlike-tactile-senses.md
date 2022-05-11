@@ -3,14 +3,9 @@ category: news
 title: "Finishing touch: How scientists are giving robots humanlike tactile senses"
 excerpt: "Giving robots sight and hearing is fairly straightforward these days, but equipping them with a robust sense of touch is far more difficult."
 publishedDateTime: 2022-05-09T15:00:00Z
-originalUrl: "https://www.digitaltrends.com/cool-tech/robot-senses-touch/"
-webUrl: "https://www.digitaltrends.com/cool-tech/robot-senses-touch/"
-ampWebUrl: "https://www.digitaltrends.com/cool-tech/robot-senses-touch/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/robot-senses-touch/?amp"
+originalUrl: "https://www.digitaltrends.com/news/robot-senses-touch/"
+webUrl: "https://www.digitaltrends.com/news/robot-senses-touch/"
 type: article
-quality: 87
-heat: 87
-published: true
 
 provider:
   name: Digital Trends
@@ -24,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://icdn.digitaltrends.com/image/digitaltrends/cropped-hand-of-woman-touching-robot.jpg"
-    width: 2000
-    height: 1333
-    isCached: true
-
-secured: "Kd+8qZiWLzeciGg6bCiMfYUZRomwuZH5JOY4q2VDaYmLG9l8fKcmUWPY18uyeXPIt5SXvizSijOGiiQqQ4lKPaSbsN0sZmewEMAdkwvNUrnWsXh3fDB1jV4q2Ci+ccO42euQIu22yO9LkQJ20e/u2LvbyDHoecqk9UmCHbfzexFikEKSeIi03yblak03LkdrAqmvaEJqzJgEV3W2RyjUVPGiofaSeNuLyHXPAekihxVrrcwlnvZWXeloAsz6ftiNEPYnIZV84BgNjUmAuXFsZ+A3qwCudKCJD+b6gQS86ZwxovaOixXdqCCtr6+l0pov9eW8DEvLkiAEHH/f0gaaX0W2d4lGbUDXznM8qAmhVhE=;coFkMbvdDiDGPg/vDrhpkQ=="
+secured: "OxtY9H6UKHteHPeq90ZCdOOF9+Igax2prsboxxt7X/+G9tLAMuGh0Oli5bN0ozknlGMdLwJ7S/j2N2ZvUaCND7XVzMR/cMpLgg0plgArU7uQITwfC5KnjqrFeTCigaSM9R5ALKH+3ju/p9z6LQGj4pKTHBHom7JFJmiDQ1O3E53QU6egjwirKz8TiRpKwB7tKBrEAtuIwThHWvjvUGoGi3kkdefxSQQ4mpVNIoQ3dA/N/kvVuF7a5ejc7AtVr9nRMEPCOzL2s3NWbnyNQTnptCLY1heeIO97TMipDfRGwHtWQbr5NF3Sr7JA5KMryR/KUqWFaqmuI4mf4//3OniN245aP7usv3/X2JWoRNIaLMs=;aZAUvj8Si0uycKfRu/b2LQ=="
 ---
 

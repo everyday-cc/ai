@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Is it fair for fantasy football managers to rely on AI?"
-excerpt: "This is thanks to a collaboration between ESPN and computer firm IBM, which asked its AI computer, Watson, to start studying the NFL. The 'Trade Assistant with IBM Watson' function uses AI to not ..."
-publishedDateTime: 2022-05-08T23:17:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-61257368"
-webUrl: "https://www.bbc.co.uk/news/business-61257368"
-ampWebUrl: "https://www.bbc.co.uk/news/business-61257368.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-61257368.amp"
+excerpt: "More than nine million people play the Premier League's official fantasy football game Like millions of other people, Alice Simpson loves playing fantasy football. Every season she picks a team of real-life players from England's Premier League,"
+publishedDateTime: 2022-05-08T22:49:00Z
+originalUrl: "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
   - AI
 
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18575/production/_124410799_gettyimages-1394824253.jpg"
-    width: 1024
-    height: 576
-    isCached: true
-
-secured: "OGm5YAU3iXf+0p8K7JXFiuvqo4ktwnpKOHtvTRWzAdeq6CGRfDTcrgGjqfDHDdCqaAMpAxQIucPnRAT97jxT6sqi0LcZU2TN39g5Np77QqnO1f2ShbURxegL7G6QIMXasMkey1kRLomYG3sBAx1IDfWka0bnAVC2eCt+Eo5TA3pFi0SI4tSd4uYbBk83JRXKBpCTEnOHut5fxvKPhlSZv6cEFMydDSQQ4O41Q6+sgsXER2gumG47HrQc4xOSrDDCaS3A4oiCOVt5YvtXwc3l/+NWQ1H41Lo32NX/vKVVeu3cKSRRY2+HdsHR6rt0UrL5PC77KrdEtg7NoiElG3JcbFqYI0OOAug1FHDM/+DPNG4=;BvIP+WNPYJCll/98PX8oBA=="
+secured: "Qlmi2dB6s5qZNRtBvQ/WG0/5w3MQDMaIocF0RzWOb9ZmcUvtaJna5wwp1DXosedrLT1qjF71AfXc7+Fu1m0mURWed1DtfBF15ANDsjcShINtBG/IddQtoqmADfcGoMd+fKCak6zvAxysAMcpNnQk/2dlqN+5gd/KCKocbRGtakuzaAF/xFrKjuCCTApxKEx+kNYwy7lvapGNRDNo00EgFiQwmyfAEy87x4ZNAkgt9+H/xu6TdyMWKYltbw9/T98faOw6864NgS8CxaK0HkSOeevr8gT1EGe+ZMdAfvGsTb+oIHRLPgpTxfrzRtHqfPtiAKO25yq0eo+yX1glaI0AXb9HN31iPZjGDQZ6IxarlKUvkuGlRJCRXUpsK88lDWuuGuOWFjcPqa72vZfg4sONf4bmY/1J/X3/IeQbl8d0MZmzNeEbHmbFGHXfPb4KHlcFStSrJYFxLKQXNtCMt2VPyvbtsjB/k270/Pa5/pUpj9vdJGfzIRPzh+LQFfuktxh6XAf5rBg+lR40QEIFguwz9g==;x/LQOdEqpQVWjNrzJ2bQQw=="
 ---
 

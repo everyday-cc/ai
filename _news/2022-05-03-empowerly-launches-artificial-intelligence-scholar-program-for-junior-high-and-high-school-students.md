@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Empowerly Launches Artificial Intelligence Scholar Program for Junior High and High School Students"
-excerpt: "Students can choose from a variety of research tracks, including healthcare and biology ... https://www.prnewswire.com/news-releases/empowerly-launches-artificial-intelligence-scholar-program-for-junior-high-and-high-school-students-301538404.html SOURCE ..."
-publishedDateTime: 2022-05-03T13:52:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/college-admissions-technology-education-artificial-intelligence-9fb2188997d5cb7cae2de5728cc39a1e"
-webUrl: "https://apnews.com/press-release/pr-newswire/college-admissions-technology-education-artificial-intelligence-9fb2188997d5cb7cae2de5728cc39a1e"
+excerpt: "today announced the launch of its Artificial Intelligence (AI) Scholar Program. Developed by Stanford and MIT alumni, the Program was created as a way to empower students from grades 7 through 12 to learn how to apply AI to build socially-impactful projects."
+publishedDateTime: 2022-05-03T13:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-empowerly-launches-artificial-intelligence-scholar-program-junior-high-/2022/05/03/9594380.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-empowerly-launches-artificial-intelligence-scholar-program-junior-high-/2022/05/03/9594380.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "ZfsWm2mCWMjnkc2SKraQAslQ3BRBTwxmdu3rpcVGHUF8YO612u+0m5MkS8FMIG3c0LkzmUsVvjTy9pFnY9GJ+Fzbd5t3f/jG2+zFmjyp70vxljZN2lfQfAEoWw8yho4SfvHq0IAyweksR7yyKX6fwUWrbQL3t/hqRdi8+f0TDLcnMcKVVL6PpDJWeuYBxs5vCfC2NrxLkfe5yu4OBR+Y4VVBRwRmaFkR46AbtA0DcB7ZAW5KJB7oFAYEd5nopbppG4hNGHTkQN+m5WaM1TmUps5N/RPugyqoMEBxW6X+aoUlPRW7vrRniGjkPaB5qsB6eJZYiAZqmhZTcZyAadHMPJ+6tvPQE0AN3g3P9KHSyEI=;uu+bqEXTwrB7MkS6125XlA=="
+secured: "Y6uA/eE9Uny2pV7LN/jSGexnDe42sSYd5ioXLkA5hJ83Bv8w1/ZzBMvF5MgV99D7jrWTEkt+oR8UyIasHICZ3QSsS8E3G6n9U7YNOnQZKthFSgjztusjfZW008FayYtTwa/2gGFc+rCN4dg2Ny/MydSq0n/pFJLLkla+dPfisiRpWeNOqnXoQBM3/8ZIUdzJmvsqxQhTifceZx/TcXjXBVmirketLvuq2R06to7vYsID+6OvTgg+B5Cwh0FfCgBoOAkuHKKp4zbMiypZyWXorTmpNrXqr1fQLz6t8nTfAPzgyx/g+Zb+92ihPnKMzkzLKo/Jc1p64U1xtPHctiIoMU0gh94y4nne/K19cfgeVi/e3Tfcf2H716+YYxTU0iYsiMHEXZat0V3xRoj6oN2VOzvVTwjA1LM+9oClP5Fk8l8egiKWyE0KGm0GNBbPN+yLSr95i4uW0cB/0NR1fJXyJ5yFilJCBtForQjNHwI1OMiFmSSO1t16TmWtkLvjpwmmSPoDE8438chFBi/t4YLY7Q==;lTDIpK4Xt/Sw41j9yPD34w=="
 ---
 
