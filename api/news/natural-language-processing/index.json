@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-11-the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight.md",
-      "title": "The 1997 Chess Game With Garry Kasparov That Thrust AI Into Spotlight",
-      "excerpt": "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally achieved what developers had been promising for decades.",
+      "path": "_news/2022-05-11-on-this-day-ai-arrived-into-chess-spotlight.md",
+      "title": "On this day: AI arrived into chess spotlight",
+      "excerpt": "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer.",
       "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686",
-      "originalUrl": "https://www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686",
+      "webUrl": "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161",
+      "originalUrl": "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://c.ndtvimg.com/2022-05/3d14dnpo_garry-kasparov_625x300_11_May_22.jpg",
-          "width": 650,
-          "height": 400,
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/05/11/chess_ai_vs_kasparov.jpg",
+          "width": 750,
+          "height": 393,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686/amp/1",
-      "publishedDateTime": "2022-05-10T20:52:00-07:00",
+      "ampWebUrl": "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161?amp",
+      "publishedDateTime": "2022-05-10T23:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Facebook AI",
         "AI",
-        "Facebook AI"
+        "Natural Language Processing"
       ]
     },
     {

@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Healthcare Cognitive Computing Market (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
-    excerpt: "The \"Healthcare Cognitive Computing Market ... 0 GmbH Intel Corporation International Business Machines Corporation MedWhat Microsoft Corporation Keeping in mind the uncertainties of COVID ..."
-    publishedDateTime: 2022-05-06T13:07:00Z
-    webUrl: "https://www.thedailytimes.com/business/global-healthcare-cognitive-computing-market-2022-to-2027---industry-trends-share-size-growth/article_b7051195-9852-5a2c-a3a3-73e42430251d.html"
-    type: article
-    provider:
-      name: thedailytimes
-      domain: thedailytimes.com
-    quality: 0
   - title: "Insights on the Smart Robot Global Market to 2027 - by Component, Mobility, Application, Vertical and Region - ResearchAndMarkets.com"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global smart robot market reached a value of US$ 8.94 Billion in 2021."
     publishedDateTime: 2022-05-09T13:31:00Z

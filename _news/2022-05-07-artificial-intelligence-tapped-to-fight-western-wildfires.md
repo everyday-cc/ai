@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence tapped to fight Western wildfires"
-excerpt: "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have a new tool"
-publishedDateTime: 2022-05-07T14:20:00Z
-originalUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires/"
-webUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires/"
+excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
+publishedDateTime: 2022-05-07T14:29:00Z
+originalUrl: "https://www.gjsentinel.com/news/colorado/artificial-intelligence-tapped-to-fight-western-wildfires/article_e6fc9cf8-b30e-59bd-87b5-f1bf09f6dd7b.html"
+webUrl: "https://www.gjsentinel.com/news/colorado/artificial-intelligence-tapped-to-fight-western-wildfires/article_e6fc9cf8-b30e-59bd-87b5-f1bf09f6dd7b.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Durango Herald
-  domain: durangoherald.com
+  name: The Grand Junction Daily Sentinel
+  domain: gjsentinel.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.durangoherald.com/wp-content/themes/durango/images/default_article_image_dur.jpeg"
-    width: 748
-    height: 748
+  - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/custom/image/b32d0574-1b24-11ec-a31e-77e4d5ecaec6.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+zCyLjjR99aFHlsIVK6V1fYccAMOEnhrXR8+1Ko+uaY1GPkIpb/otkDWHuC6EZjZspoAp6qGeF5F67pZnrLJe71O7AN6rXCE6vsEgkJfyhbHWFxFyUOuTj/Bp511rLFYhCrrGwOQPTAaL31xZRdjZIZMw9i0Tj96n9ipoJvYguFxoQTIg8/O/kbrPfQkAlvIfyEMgvn2JNheQQBG+iBgbtuirdnYWmnjs3Kw84n6QzwapX+1oB/Km804N+EqQb5zj9oGTRnMTLeP3GmCj5gNJamJZdusfEeBaxgv9Fe5HEG5BsIri4bRvd/VViNt1E/UBhxAlVFoqWtHRvxVHk24OV2R8qKeHxUU40hW5hiqf14=;a46Euk4jmrY83S6DXJTRdQ=="
+secured: "fupPzvG0J86d+NeDziubl01R9og0LrNPdPj1wgqnUtXUcPmiqS/J2nH9lEPZSHkx9F45fSKNC69YWv+y6bukqqYhgukB+1D2TM33QAebNimafb8bwNjHAonZ8W4tvrns4gdkPj1fGiwHmNgmsLb9US5hXO64QqSis90X2Xwe6rMPm+G25h59NwWLWvgLMn1zJO80qcbq2z7BZ5MS3fOrBBFsK3nONRhdUBlJeOduzJwgU6AJVV2oK+gZBzfNa/If+ktVD3utkizyWoASzlJ6+V/QU6rOcdeDw+RcDHYqmDDnbs6xFhAruNTCT/nctkdPDOZPzoDn04xAYFgGzam+qml+x9JpWda0UUqXuEQm04w=;gcaZWAbQX3+xKPsljnLyBA=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Cropin launches AI Labs; To bring predictive intelligence to every acre of the world's cultivable land"
-excerpt: "A team of Researchers and Scientists in AI/ML, Earth Observation, and Agrisciences will focus on computing global agriculture assets, with a target to build intelligence for 1/3rd of the planet's cultivable lands by 2025 ~ BANGALORE, India, May 10 ..."
-publishedDateTime: 2022-05-10T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cropin-launches-ai-labs-to-bring-predictive-intelligence-to-every-acre-of-the-worlds-cultivable/article_ea5835b0-566c-5195-b579-fef2a90e0001.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cropin-launches-ai-labs-to-bring-predictive-intelligence-to-every-acre-of-the-worlds-cultivable/article_ea5835b0-566c-5195-b579-fef2a90e0001.html"
+title: "Cropin launches AI Labs; To bring predictive intelligence to every acre of the world’s cultivable land"
+excerpt: "A team of Researchers and Scientists in AI/ML, Earth Observation, and Agrisciences will focus on computing global agriculture assets, with a target to build intelligence for 1/3rd of the planet’s cultivable lands by 2025 ~ To strengthen the existing Earth Observation & AI science research team,"
+publishedDateTime: 2022-05-10T14:58:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-science-business-asia-india-d50b295c2b680c9149c843084cdce28c"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-business-asia-india-d50b295c2b680c9149c843084cdce28c"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 450
         isCached: true
 
-secured: "F/f1an3jC4ypNEABkPwJAJH1nT00rtDaHZEZwOQeOCAXX0z+cdG9yiZKi3TzAZKvdA9T7rxQKnuhX5+rymaV7b3iGWRc06Cendp+a63qAY1fydCZCwJNLVusGvrVra1rulejpwEurWbDTZL7QXTeCANMm75jts7YcUq96M4lSMRVpGTyF6jdVKvjPNTgj+YEfpoz5QwJdzZHD6AtnzjPkhePbsXhnLjLIuz5jgIe+dhUicGW8jQIqYJumDWhxFAmdVXmXPX3L0K5JEtnw19jWT0GG0MggqlDtAAzUMVEVjtQvXjf3J2NrtVwjSwXFlWBX0jJtSkJ7NC80iQZBPWUdLSrRcvxpC4/4rPzYr5P16wYsaw1Td0dWRDij2P1hXHIHHgC3OUPFyuJS+jvkEqusbPE4AnmH38zrjk7uicQNDyX/NAP4huvAOnwTLqOMwsPBPQac0mJ1gKDlM14t74gFX1cz4q4fhBQcT1iRZFfOJKmsOcaUMvsj2WibkS0b4fXnnO2Wf5zKs9foy8IKHduig==;8Se2h3ss7tg46UiqHslgzg=="
+secured: "BGQHfVRhClv5Sp08N1/FkqBSRVHzJBFiG5Ohex1TAaweZaOKkTgPQEx388ZO4nkqQF6ktCLy/zwSNBgwVC4qQA+HR1Y5BahD9GX8FXX+HJvH/Dc4vdd7ypE7xnC6iNFkUq5T14bteAMvIWefp/Mr0KqvVslHTHinVkkfXNja7OQ7P6UnIIRgFaz3RQZz3Y67HxV6+upTczm5EgvnRXHjrWbiSUjK+r8c2bGtvro6l7BHZW+GRfb/FMIy1tqIZblH0SxJbpnaICJ7K9JpqOT8N03DBD9v0JL0ODV8zK6abB3VweW6DO4vyTrkNDYfOjFhbIAIh/cEzPXaxfKjTF26g3KLulYjno8lUAXj1saI/KU=;Cy11kP1LWSKY8zB+MMAoQg=="
 ---
 

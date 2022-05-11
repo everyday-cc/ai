@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Applying a form of AI to sift through large amounts of biological data"
-    excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) -; previously used to analyze how National Basketball Association (NBA) players move their bodies -; to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
-    publishedDateTime: 2022-05-06T13:11:00Z
-    webUrl: "https://www.news-medical.net/news/20220506/Applying-a-form-of-AI-to-sift-through-large-amounts-of-biological-data.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 21
 
 secured: "TSd7GgXHFG+73c4TC9sAi+5gsiWEWYS6QbCbZm+dhwv1Bx3Cdts9AKB06eQm4ZLjTCs81asYPtjnZnOtBPbVDMb/mEHTNjntlS2viWUVhNJfTOwqR1TFGQmcc84YCoiB+Z3SVlAJ1lpdTMPbuwqdrQA9LVASK4qdIRYDtUQUwuKwTQKy8KdUEicTAe4aEBEX3D9kcqHpDPsIyqajrm815lYubZrc2MRCsn+ZvtlnfK/HNUWFHwR9BqFYe6Zl873wADGxyuz/Aeg0eeJZ+p402bbUBJPE2jftHF3IiiN1wS1Dnt0pzIMusD5xbLBWdCUXdutqGuwJTtXnzL66+zuVpoX4L5rCUvpNstnFaufexa80zQeloAhsiHvuAtDGTmZPawoPYDSAdXx+fiAUZn5qvNxFCxBPbf1ESk/ANWFJ4EK1dcWDB8xYcFbHpOrBlAQXgKVa6t8bjK5NgzTtjFO/zqtEkRFLU8hA680Kt8kBkTpPKkaUExM/k3d7fwDrrSdrGCDuWq4d69G2bs4qtWuIxA==;Yba+BAbHb1wPZyAOUjJI3A=="
 ---

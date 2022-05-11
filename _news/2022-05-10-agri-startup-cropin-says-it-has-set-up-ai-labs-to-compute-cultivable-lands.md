@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cropin launches AI Labs; To bring predictive intelligence to every acre of the world's cultivable land"
-    excerpt: "A team of Researchers and Scientists in AI/ML, Earth Observation, and Agrisciences will focus on computing global agriculture assets, with a target to build intelligence for 1/3rd of the planet's cultivable lands by 2025 ~ BANGALORE, India, May 10 ..."
-    publishedDateTime: 2022-05-10T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cropin-launches-ai-labs-to-bring-predictive-intelligence-to-every-acre-of-the-worlds-cultivable/article_ea5835b0-566c-5195-b579-fef2a90e0001.html"
+  - title: "Cropin launches AI Labs; To bring predictive intelligence to every acre of the world’s cultivable land"
+    excerpt: "A team of Researchers and Scientists in AI/ML, Earth Observation, and Agrisciences will focus on computing global agriculture assets, with a target to build intelligence for 1/3rd of the planet’s cultivable lands by 2025 ~ To strengthen the existing Earth Observation & AI science research team,"
+    publishedDateTime: 2022-05-10T14:58:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-business-asia-india-d50b295c2b680c9149c843084cdce28c"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 21
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ZeFBQRjgt1R0Zb5gZhiG2n8cH5oEMzw1//QIL+UEDBXN6UZcv6q1woaU7d/C6sHM5UQXIRkvqkGO1AORRtXNL6GRsS6pieKau9iiOjt0e/9VIc/+2RRruPffvznqC1UqT9ua0GdpUuOlZhhTZMxi92rnVQLEcCFISqKh3HUIHgFEeyIU4Vg7IP4u0Bi4sRJUI5Mj8GObPHeXdW+1SF7ttVzdxNp/m7+0oAHEpFncth32LuscMafeYvGjRoIlBb/k83Z2deReBJX5sL788ZeWF/AwBEk6WAfPninjm+ANMylbrIIScNehsmc9hPLdnvk1EkA654tHovcSkBf7UPEPztdAnKzRqXINNgSVsBizDt0PmcluQyNKc1e9kLu71wujqfdgSsQOPIc0sTpLUzr3lpxmxU1xBtKh2rkpvzEL+0mTANlofrtTRHExDXIADqs01FcPYSxT5HjsjyWqVYidjO2q96PTVDS0U21h0FI5r/O+dzvM3eRui6rV2OKPg3uPdot36UoW1m6nAq7w6jkjkA==;lNmkgs8jIkejrxV5tXx+vg=="

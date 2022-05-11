@@ -1,29 +1,25 @@
 ---
 category: news
 title: "AI predicts infant age, gender based on temperament"
-excerpt: "It's hard to tell the difference between a newborn boy and girl based solely on temperament characteristics such as the baby's propensity to display fear, smile or laugh. But once babies reach around a year old that begins to change."
-publishedDateTime: 2022-05-10T16:47:00Z
-originalUrl: "https://techxplore.com/news/2022-05-ai-infant-age-gender-based.html"
-webUrl: "https://techxplore.com/news/2022-05-ai-infant-age-gender-based.html"
-ampWebUrl: "https://techxplore.com/news/2022-05-ai-infant-age-gender-based.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-ai-infant-age-gender-based.amp"
+excerpt: "low-quality caregiving.\" Washington State University. \"AI predicts infant age, gender based on temperament.\" ScienceDaily. ScienceDaily, 10 May 2022. <www.sciencedaily.com/releases/2022/05/220510102856.htm>. Washington State University. (2022, May 10)."
+publishedDateTime: 2022-05-10T15:38:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/05/220510102856.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/05/220510102856.htm"
 type: article
-quality: 57
-heat: 67
+quality: 47
+heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-1.jpg"
-    width: 1920
-    height: 1280
-    isCached: true
 
 related:
   - title: "Machine learning analyzes temperament data to classify infants by gender and age"
@@ -43,6 +39,6 @@ related:
         height: 480
         isCached: true
 
-secured: "KfW3o+/0Tsnqh8TdJWfB5DyRMOh/zZzivsneVStdGGSO9LpBYGWi1Yy1K+CyQQicT0DmX8sdlSzqQLS8X7h/aBbCBwrroFFcPrD14KGBC7MAsc4ybcIMD8oZ3DpBNXFcQF0RO1VG26wPKd0E1giAG1eH683D9ZA5RrpPanqkGAoksb4ITmA0Dbl0uVHKdwTm4Sb+U4Rb6xNpSY/E2y1Ht7lz7Z9ZKggOwwqkuwT+1Fyvdd/oTSjqo7xALVai6kTjikobAuyGjQTRuM3TGjrGs/TI28Aghrs0By6kokvA/PZJcUaunYK1Gmoi9bVi8xC++EFkBhV8M3kKTX2dAVzP16PExn6/sq4H7LKs5Det81ef/uTvmYZUxKC8ndTkhGyvdLrlQP0SIS8pW1HeEtBBCH6abWZavQt6sF2qZV4TSpc18TZ3QQ4YcW2Uc9XI+dzZ1DNPM3HLXyqF0wqbc0BDtSi8cemnr1NWgw0elBFUT3v2brsLGGFruFszc+w+UudKljUIA+h+u2QcupT/dE9A8A==;wU9Q/xZaXDdOIrnQuXgQfw=="
+secured: "a/jH/bnW8hJsexHwPUvtkxFI0TJRIw/NzdD8SPUqXrbRztiI3+s8evbEQhsSbicDFrwC9EH59BWwMVBxEz6MCr/j16IKMFogMn/MVHoox+t4bSESZvso8DHKq+TJUwBzlzpmXFD0Gtq0FT7lvCBK9AtmtRFdqtH6grm+0hfsp9XB1TiwSt4/0/CYg6ER3m5bXRdr+BtdlC2/GwrFMPucwfc5hPdKNRTrIZUG9JXK9PijEB0PY2PIxEP15CVItB4Hq4Xlr+fMBJ33+3wE63d7b1dzXPvJEECv+qk8q5rn/N7n14Jjcy0Jg0WGL3eXGYYqylFgM5QZJqMDCWj7FPJXnXSdKSPLXB1PJC4/GpEDZCc=;qlMKVshM8PE2P0I3aI7UgA=="
 ---
 
