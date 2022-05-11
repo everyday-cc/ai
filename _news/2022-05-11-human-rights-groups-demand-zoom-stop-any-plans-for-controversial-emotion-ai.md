@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/zoom-emotion-ai-aclu-rights-2657297476"
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/zoom-emotion-ai-aclu-rights-2657297476"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom urged by rights groups to rule out 'creepy' AI emotion tech"
-    excerpt: "Integrating emotion recognition tools with Zoom's video-conferencing platforms would endanger privacy and perpetuate racial bias, digital rights campaigner warn"
-    publishedDateTime: 2022-05-11T08:00:00Z
-    webUrl: "https://news.trust.org/item/20220511084010-jyfla/"
+  - title: "27 Rights Groups Demand Zoom Abandon 'Invasive,' and 'Inherently Biased' Emotion Recognition Software"
+    excerpt: "More than two dozen rights groups are calling on Zoom to scrap its efforts to explore controversial emotion recognition technology. The pushback from 27 separate groups represents some of the most forceful resistance to the emerging tech yet,"
+    publishedDateTime: 2022-05-11T21:00:00Z
+    webUrl: "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353"
+    ampWebUrl: "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353/amp"
     type: article
     provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 37
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 59
     images:
-      - url: "https://news.trust.org/contentAsset/image/5bb7e163-e3c6-4b10-be3e-f6d952a1207f/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 738
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5f6a12d4906ee80a0f8fbf3996c1e05e.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Emotion Detection and Recognition Market"
+    excerpt: "Moreover, technological advancements are expected to assist the global emotion detection and recognition market growth during the forecast period. Furthermore, expansion in research and development capabilities in speech-based emotion detection systems and ..."
+    publishedDateTime: 2022-05-09T15:17:00Z
+    webUrl: "https://www.transparencymarketresearch.com/emotion-detection-and-recognition-market.html"
+    type: article
+    provider:
+      name: Transparency Market Research
+      domain: transparencymarketresearch.com
+    quality: 4
 
 secured: "CW9UTXmWN2In42U8ifm9Pw8ARP0BVUBY1bSA2wMpaaRTMAOE+f5uamZ9BEEzsFb0Y2ucH+DVknjTDskta0JuhD7iifdaH+CQz0RPu0BUnF3t4LuXFLdrOV1DhT0lTOVcIOux0rVAD+aST5TQz5xLQD29VwfJ+45rI9SlevflDF98B94EHS6CqHJOTyNYHLDKArqyCY57GNP/ra3g0uRa9ODw6u35N7439GrYDjgkQ3RdpnG6inYafUKZVTPPODhnPAKUJoiA12T7Bn33xrvrIcKuZ0c3kL5zUmWfr/Eqh3NiEMmC8ONokwpMgxi5wLqjHXzNqjvttlnhyJKfDXc/DnUNNbIw2XQcMfjiep4XfL8/gqjZ/9wdRSyL1OyEm4L6tcsRamk8POZ1aWBDQO3DQNsqB2pQ3M22VhmIxktjBwoVxvFrLOgP1Cgd3c0BjcFjdjEdQJVwzoHMVEt8HCdxRH/nB6NW0I3o6caaPHXjhAmtq/WXNzzJireLdHVCS4DKD5LGvMHgTTgHK6TOAcDH0Q==;CxD6MjJHiK8lKryzgPUsog=="
 ---

@@ -67,6 +67,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM, Amazon Expand Partnership With Services On AWS"
+    excerpt: "PM EDT IBM and Amazon Web Services have signed a multi-year strategic collaboration agreement to offer IBM automation, artificial intelligence, security, sustainability and other software-as-a-service offerings through the AWS Marketplace."
+    publishedDateTime: 2022-05-11T20:43:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-amazon-expand-partnership-with-services-on-aws"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0275-151f0f04ded9-adab79fb6909-1000/abstract_partnership400.jpg"
+        width: 599
+        height: 400
+        isCached: true
 
 secured: "9igxO2jL2mHxa774z53btPdIhfUtpyfAys8LIVdhWH485Fnphw3Og1fb1LwrIRaRsm5pglBoiGEOJhHPzwR1o9bqjLMHwo8qYQOiB/dEuUGG2klOGGDmZEQcoWftSls5YS6X/ttWqiioKJpebRg/mRLE1kLKMESdFYvRoQKTFlgnyc3ykuE5NFpYvnMFmIutjQDA85kF2wI2ToK87OyNjrLsECF3xjm/FmqZ5ni0HTJQ7DrvaOhr8JFkfCSvyzNzN8vSVLk+nbmaBXLYIY45YWxwMNKS1IuW1zNFwgV5EFsLWit3BSR0/vmUBm5GIObU52bZENxnGpyfFuewBE+dwwgb9tORCSkQkrBTZkHiUmY=;pfioflzoKc8jME6YrxF7CQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27073922"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27073922"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -26,43 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
-    publishedDateTime: 2022-05-10T22:06:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/provenir-joins-visa-ready-bnpl-program-support-ai-risk-decisioning"
+  - title: "With $4M in Funding, Dallas Startup Aims to Streamline the Hiring Process"
+    excerpt: "Dallas-based software startup HireLogic aims to improve the job interview process with its AI- and machine learning-powered platform, designed to help automate the screening process. Its CEO says he wants to help companies \"gain insights from interview data to make faster,"
+    publishedDateTime: 2022-05-11T20:45:00Z
+    webUrl: "https://dallasinnovates.com/with-4m-in-funding-dallas-startup-aims-to-streamline-the-hiring-process/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 18
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 36
     images:
-      - url: "https://financialit.net/sites/default/files/provenir_5.png"
-        width: 1366
-        height: 768
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2022/05/Hirelogic-4execs-970.jpg"
+        width: 970
+        height: 464
         isCached: true
-  - title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
-    excerpt: "a global leader in AI-powered risk decisioning software for the fintech industry. Available through the Provenir Marketplace, Point Predictive's Artificial + Natural Intelligence™ solutions provide Provenir customers with increased underwriting ..."
-    publishedDateTime: 2022-05-10T15:19:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/article_39166c37-7a76-545d-899f-cc98fa9bcad2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
-    publishedDateTime: 2022-05-10T12:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-provenir-joins-visa-ready-bnpl-program-support-ai-/2022/05/10/9599082.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "IJxPj4+Xw2SCV5PFA5YOu2CN61iHAu7UuWPV4L7Uu084jfZlMTgc67g//3csnyVJH8FuuP/EDiv2zta8LfyPtkGR7seo4gAtSJ3YEKmSpmDIVTcm5WlR1AjwA1IkozxKslxbDL0gAU7Z2nuJ3ew/Mq95BR+bMFXZdx/4a0QyoJyzE2KBzcNyVmau5rPXkJTITDbzSjmfc9LhkXScK7LM/EU06AfbAISL3VV4NVP2o2Ek7C7WvCtCMUVTs58cr41vG/Zli/x6F8vRc4V2QyXzU2POBxPRhMTWzpgAjrKKmKZrzzQgOUd0iaNN7AwT4sBSMSsGj+pcEh2AZB9i8iRlJoGyAvt+hahFOrUP8+GpKdrm9Eg42CIvEkyxNXX8dXlFZ3sgSOuDj9FNIBNB1gvC+lM+NZ5dihlO4DZN7vNPQFZUUu7scB6TyUiCxPY2IxCBTZuzcQzmzPmuO21SO0OFuRc3nkAeGbQFHcwab11138Ry5PyOzhj3RiWzM9vWco16Cwj3g4hbbhWE4wRxKdj91A==;cnYNtWMgfzQ9MVWu+EvWYg=="
 ---

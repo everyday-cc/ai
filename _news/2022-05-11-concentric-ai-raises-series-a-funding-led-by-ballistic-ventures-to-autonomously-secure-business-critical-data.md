@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Concentric AI to autonomously secure business-critical data with $14.5M series A funding"
-    excerpt: "Concentric AI, which believes AI-powered automation is the solution to today's data security and governance issues has raised $14.5M."
-    publishedDateTime: 2022-05-11T12:44:00Z
-    webUrl: "https://venturebeat.com/2022/05/11/concentric-ai-to-autonomously-secure-business-critical-data-with-14-5m-series-a-funding/"
+  - title: "Lightly Secures $3M Seed Round to Clean Up Data for Machine Learning"
+    excerpt: "Swiss YC-backed startup Lightly has secured funding round led by Wingman Ventures to solve data challenges in machine learning as it plans to launch in Silicon Valley."
+    publishedDateTime: 2022-05-11T20:05:00Z
+    webUrl: "https://www.automation.com/en-us/articles/may-2022/lightly-3m-clean-up-data-machine-learning"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 38
+      name: Automation
+      domain: automation.com
+    quality: 39
+    images:
+      - url: "https://www.automation.com/getmedia/73819e25-6dfc-4cff-aa8f-15bde33a8d99/Lightly-news-May-11-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "FulcY47CMTfZqXJgYR9KmLDMeBUSUuLsI1KiAYRFkqMVFWDYDg49Tg3a1gnpysxECuBO/mCVz/xYbVMxr8zWy3ZxDZPDMMFc+xP6/wXxzXgAT0AthRfgKwF2ayUsfVLmtbDmaJ1kxvEdI/fzZtzM33zLcEYlxYGqMnhtGt6hjNYaWo/Y2krbppzGAXqM3KOwbVlio350K3vh6kEN1DwiKm2EpILv7y60tBo3txxK1RWQ36R/l8+JI3vXfXTsS/W0HTF5qsAN8iKuhvX+DGjtDqEjwZeQMu+UvSDDk4aX2j3sGFQgjF5VGjNi96OnaaZjY6f58bDS9Zrb38YN14Kkh6O+O6CJ9CbvqlUkaGl+wQg=;IPh0imFvJVPYhWSODLOY4Q=="
 ---

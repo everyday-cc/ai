@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/content-moderation-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/05/here_aws_scs_1-1038x535.jpg"
         width: 1038
         height: 535
+        isCached: true
+  - title: "IBM, Amazon Expand Partnership With Services On AWS"
+    excerpt: "PM EDT IBM and Amazon Web Services have signed a multi-year strategic collaboration agreement to offer IBM automation, artificial intelligence, security, sustainability and other software-as-a-service offerings through the AWS Marketplace."
+    publishedDateTime: 2022-05-11T20:43:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-amazon-expand-partnership-with-services-on-aws"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0275-151f0f04ded9-adab79fb6909-1000/abstract_partnership400.jpg"
+        width: 599
+        height: 400
         isCached: true
 
 secured: "kbf5BV/KJh4DSTe0v429cvbDOt+Q8lm2MS41hXRa+pnpzpnlQtJZwZu1IGMj5sb2coPUzfm0Y2wA//jaAYbRBA0PBt7eGeQr2z/g6KmN9DAK6l4AAK4LSrW0eFXzj4MkaUymLmnB4iZ/xHMXsqEy+dnCBQGYUe9fekSRoLGgxDkjYYvt6L862fxqX2hnDY13Tzze+aWa5NpaNyoQ8PNubqzwzcjmeys2LfvRYwhAJymCVf177mOdh6ro5EEVg8VwD8/dvrjJuXW8ho8NkwxfkmzfGhvQLgw8GFnluDyjuwUwfthB7y6x4yMN/PypGaIU08n3uit8cMsFoeeNYVOPAl6byT0r5Ix6QZJ31xcV3bs=;p4YQBatF3Bfx0N1NNjudzw=="

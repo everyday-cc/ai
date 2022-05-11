@@ -53,6 +53,15 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Intel Vision 2022: Habana Gaudi2 AI training processor arrives to challenge the Nvidia A100"
+    excerpt: "For customers, Habana Labs says that Gaudi2 offers a “high-performance deep learning training processor alternative for computer vision workload” and is suitable for object detection in autonomous vehicles, medical imaging, and defect detection in ..."
+    publishedDateTime: 2022-05-11T18:27:00Z
+    webUrl: "https://www.itworldcanada.com/article/intel-vision-2022-habana-gaudi2-ai-training-processor-arrives-to-challenge-the-nvidia-a100/483711"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 9
   - title: "Sequitur Labs Showcases Complete Chip-to-Cloud Software and SaaS Solution at the Embedded Vision Summit"
     excerpt: "May 17 and 18. The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI -enabled products, including embedded systems and mobile applications. The Sequitur Labs Security ..."
     publishedDateTime: 2022-05-10T12:32:00Z

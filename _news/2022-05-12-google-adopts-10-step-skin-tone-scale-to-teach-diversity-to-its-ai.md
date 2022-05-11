@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-adopts-10-step-skin-tone
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-adopts-10-step-skin-tone-scale-to-teach-diversity-to-its-ai/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google unveils new 10-shade skin tone scale to test AI for bias"
+    excerpt: "Monk through Photoshop and other digital art tools curated 10 tones - a manageable number for people who help train and assess AI systems. He and Google surveyed around 3,000 people across the United States and found that a significant number said a 10 ..."
+    publishedDateTime: 2022-05-11T16:51:00Z
+    webUrl: "https://www.reuters.com/technology/google-unveils-new-10-shade-skin-tone-scale-test-ai-bias-2022-05-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "Google Unveils New 10-Shade Skin Tone Scale to Test AI for Bias"
     excerpt: "Alphabet Inc's Google on Wednesday unveiled a palette of 10 skin tones that it described as a step forward in making gadgets and apps that better serve people of color. The company said its new Monk Skin Tone Scale replaces a flawed standard of six colors known as the Fitzpatrick Skin Type,"
     publishedDateTime: 2022-05-11T17:51:00Z

@@ -19,121 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Market Key Companies and Analysis Top Trends by 2030"
-    excerpt: "Snapshot The global facial recognition market is projected to register growth at a CAGR of 15.4% during the forecast"
-    publishedDateTime: 2022-05-09T11:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-key-companies-and-analysis-top-trends-by-2030"
+  - title: "27 Rights Groups Demand Zoom Abandon 'Invasive,' and 'Inherently Biased' Emotion Recognition Software"
+    excerpt: "More than two dozen rights groups are calling on Zoom to scrap its efforts to explore controversial emotion recognition technology. The pushback from 27 separate groups represents some of the most forceful resistance to the emerging tech yet,"
+    publishedDateTime: 2022-05-11T21:00:00Z
+    webUrl: "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353"
+    ampWebUrl: "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353/amp"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 59
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5f6a12d4906ee80a0f8fbf3996c1e05e.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Market Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast"
-    excerpt: "Global Artificial Intelligence (AI) in Medical Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Artificial Intelligence (AI) in Medical Market Report also covers top key players,"
-    publishedDateTime: 2022-05-10T18:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-05-10"
+  - title: "Human rights groups demand Zoom stop any plans for controversial emotion AI"
+    excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of ..."
+    publishedDateTime: 2022-05-11T10:00:00Z
+    webUrl: "https://www.protocol.com/enterprise/zoom-emotion-ai-aclu-rights"
+    ampWebUrl: "https://www.protocol.com/amp/zoom-emotion-ai-aclu-rights-2657297476"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/zoom-emotion-ai-aclu-rights-2657297476"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Artificial Intelligence in Video Surveillance Market Size, Share, Trend, Top Key Companies, Segment Analysis by Type and Future Forecast 2028"
-    excerpt: "Global Artificial Intelligence in Video Surveillance Market growth prospects of the regional and global markets"
-    publishedDateTime: 2022-05-11T11:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-surveillance-market-size-share-trend-top-key-companies-segment-analysis-by-type-and-future-forecast-2028-2022-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
+      name: Protocol
+      domain: protocol.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market Emerging Trends and Competitive Landscape Forecast to 2031"
-    excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
-    publishedDateTime: 2022-05-10T08:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-emerging-trends-and-competitive-landscape-forecast-to-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "3D Machine Vision Market Size, Share, and Growth Analysis Forecast- 2025"
-    excerpt: "Snapshot The 3D machine vision market has been estimated to experience numerous growth avenues in the foreseeable years."
-    publishedDateTime: 2022-05-11T06:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/3d-machine-vision-market-size-share-and-growth-analysis-forecast-2025"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/3d-machine-vision-market.jpg?w=410"
-        width: 410
-        height: 1025
-        isCached: true
-  - title: "Business Intelligence Market Trends Forecast and Industry Analysis to 2030"
-    excerpt: "Another factor which is expected to be a high-impact trend in the near future is the advancements in artificial intelligence. Companies worldwide are estimated to incorporate artificial intelligence with business intelligence solutions for sustainable growth."
-    publishedDateTime: 2022-05-10T06:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/business-intelligence-market-trends-forecast-and-industry-analysis-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/60465b83490cdff2f7eddb64a71e08f8aa46470b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Facial Recognition Market Will Grow at a CAGR of 17.1%; Emerging Trends, Industry Outlook Growth Opportunities"
-    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Facial Recognition Market research is an emerging exclusive report with meticulous efforts assumed to study the right and treasured information."
-    publishedDateTime: 2022-05-11T14:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-will-grow-at-a-cagr-of-17-1-emerging-trends-industry-outlook-growth-opportunities"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/99742949f7e11ca95efd09bf25cbd0e689bb45de-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
-    excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
-    publishedDateTime: 2022-05-10T18:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2025-2022-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-  - title: "HEART + PAW, A PET VETERINARY, GROOMING, AND DOG DAYCARE SERVICES COMPANY, RECEIVES NATIONAL AND LOCAL RECOGNITION AS A TOP EMPLOYER"
-    excerpt: "Heart + Paw pet care, one of the fastest growing veterinary care, grooming, and dog daycare center groups in the country, has received both national and local recognition as an \"employer-of-choice\" and a Top Workplace,"
-    publishedDateTime: 2022-05-09T16:07:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220509PH49858/heart-paw-a-pet-veterinary-grooming-and-dog-daycare-services-company-receives-national-and-local-recognition-as-a-top-employer/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1812727/05_09_2022_GPTW_Press_Collage.jpg"
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-pedestrians-in-the-financial-district-of-san-francisco-california-u-s-on-monday-may-9-2022-less-than-p-greater-than.jpg?id=29787626&width=400&coordinates=0%2C196%2C0%2C197&height=711.4285714285714&quality=80"
         width: 400
-        height: 320
+        height: 225
         isCached: true
 
 secured: "jnzuONfMVK8Jlzs40gMtd0aRHtFYElp81o6+gU7nN7nTJ+S/uURp8YN4/Xrp/474FZPsQ0nGIXZbSTQ7200Tdezi4J8tmO2sBcrV/FbF4a9loT6GsrOytaobulCaYMAhV9mwA8AfvIr7naPOAPQ7B771PzInoExihQxTk6mr+vjdrAAqc/SXLLUHZYmY9kKzwX3w/3DUSBvXyeaAlB/WeaRqydNyOzOF6ysIZTnPpUcxZLFOrQU1daH13mnVeev1usPmq2OB3U2IJXxiOPXM9MFsQaNFJGbFPEuM/I++9t9Ll2bqFyHN/Y2CNJTqZwyrqnxzYxPQPxGNP+MJ/Y+5zUo0HpOziKsacWG4rISJ/Hg=;JE7R/xaSmI5rabcrjhOcyw=="

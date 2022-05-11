@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-08T17:24:00Z
 originalUrl: "https://menafn.com/1104177390/Artificial-Intelligence-In-Transportation-Market-Research-With-Daimler-Continental-Robert-Bosch-VOLVO-Forecast-2028"
 webUrl: "https://menafn.com/1104177390/Artificial-Intelligence-In-Transportation-Market-Research-With-Daimler-Continental-Robert-Bosch-VOLVO-Forecast-2028"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

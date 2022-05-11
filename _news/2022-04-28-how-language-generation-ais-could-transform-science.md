@@ -3,12 +3,9 @@ category: news
 title: "How language-generation AIs could transform science"
 excerpt: "Shobita Parthasarathy warns that software designed to summarize, translate and write like humans might exacerbate distrust in science."
 publishedDateTime: 2022-04-28T13:47:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-01191-3"
-webUrl: "https://www.nature.com/articles/d41586-022-01191-3"
+originalUrl: "https://www.nature.com/articles/d41586-022-01191-3?code=0fae0faf-60f4-4a43-a838-cfcc0359873d&error=cookies_not_supported"
+webUrl: "https://www.nature.com/articles/d41586-022-01191-3?code=0fae0faf-60f4-4a43-a838-cfcc0359873d&error=cookies_not_supported"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: Nature
@@ -18,17 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "How language-generation AIs could transform science"
-    excerpt: "Parthasarathy and other researchers try to anticipate societal impacts of emerging artificial-intelligence (AI) technologies called large language models (LLMs). These can churn out astonishingly convincing prose, translate between languages, answer ..."
-    publishedDateTime: 2022-04-28T18:35:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-01191-3?fr=operanews"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 19
+images:
+  - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-01191-3/d41586-022-01191-3_20348526.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
-secured: "I9o21Rr8MrDA222dhijw+kbBESdAxDIweCowcttTtDIVYM+1foJlUodkjuLD4QTKK1monQpVeNVefrEF0LJSRvWWg+OgSOxe9jPYG7V+XpSMvxXuc1fPLP+1EtRm6FBiCUdv4iJjOcp0QCPjXCN7J8zAjRj+evJN6LkNOHWIw6xjSVVYxp2+otnTRUhpvEW32NHk/aLTVjVp/DE50n2Qndj4jKCsNgGPcuVtsu//dhv/a/MdOq62sajr7BiDNQ5rgannGRf24/m5BCgEr7eM7nwAhNk9FUt8Qov27m0ubxVNee1HvmR/4oOQnZ0AYWFtB7ndM5OB8kZz43xIoOQhrwHKTCYQrUtJozNB82+sY3Zwvs7UmT0BM6TyTGf4xFHAh20a20xHoNp8tIMENc4eI+xsEts68ilnufxMiEe0yhUaE51iq+xT7KuHfn49xPKK35tEmTsfdrJz/7Jzo19AsIbyJSVGT8IKJGnMI4VYOOmfYLtLk/ycQICV6zdAMjt8TZHTmPRq2UexfE5gUds2pw==;axa2+31cqrj9RaHzGduOig=="
+secured: "Xyh6Fp0IpKZqwvFe5NPeDKoid5BU5goiM260UPpY0tnW6CeIwYfwIuznsP0DUiTE/hqlOpf08wqGzd6PojHr/y+IJE2CzWqLR8Fvv1pmoEKIy6KzX3W1K03QNsGnJVgKszsUoQP9Ao2Pf2pMsjl7s0x96OoSUgpG2jV/CM8K811NxejSpGhUERXtI8WJGABv7EEiRNBKBBNNJWijBJQMgftdHvmOaA2w4ETW6whgnGsuuxn/NLkgZO7xgchhDVYsj1cpQjIOKRCNl8PJOlja+/p1dtO9eX6F9NwkhWB1RTcbbNVDH0UmtLdt9LZuXUXu2ZLB0bBJ3lvKd0F76NcMb1fFf6q0CLhZi4qpKWapxhw=;eS+BBuMgfsbki2R8OWliBg=="
 ---
 

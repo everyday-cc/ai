@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T18:32:00Z
 originalUrl: "https://www.dailypioneer.com/2022/state-editions/modi-to-interact-with-six-startup-entrepreneurs-of-madhya-pradesh.html"
 webUrl: "https://www.dailypioneer.com/2022/state-editions/modi-to-interact-with-six-startup-entrepreneurs-of-madhya-pradesh.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Pioneer

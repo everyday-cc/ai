@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google unveils new 10-shade skin tone scale to test AI for bias"
+    excerpt: "Monk through Photoshop and other digital art tools curated 10 tones - a manageable number for people who help train and assess AI systems. He and Google surveyed around 3,000 people across the United States and found that a significant number said a 10 ..."
+    publishedDateTime: 2022-05-11T16:51:00Z
+    webUrl: "https://www.reuters.com/technology/google-unveils-new-10-shade-skin-tone-scale-test-ai-bias-2022-05-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
 secured: "ZWuAqRlVQ7z957pyvChl7oQl2xolTqs4WK+nafO1BhzIsMrnbPYP9sWg+3RiPMotuMJwFdSdXzp3oqD1mVsTRPCzgmTixTrw9D/Qq+9i7Qgp9nSyj8qXUvCBM8+3A+TLk44Et1+JGurELuRkCTnx5tjWVu/NzUb5iJVkU5cC7ZYxZluUUEF9zPtSHONDMdbCw/f3segg2RG6D942W/DcVnrr6KYnTk40EL5fCUq61e875HZpbtHgQQpFv5Ur86ipgEyTWTFEHJq6qAxVq/VrqnSqhgo6v4W3WrxcNHv6mPVJWBhKoQO47ZIdDiDTgM1zgud6hDJiWHNAoHczGm4JujrfelM//z1oJ3j3lQoSjqcmKhOVhb02DzGSZk0amGbPpa4qSVlBpalAnQ+4tIyl3f3WCwdUcv4AfhRWNx0V7Q3OB3m1tZPbbzSRBrRBKFPLu1RSFMs58AhLSEDCDck40r4Q2iFn9n0kXpFpYL42I/CeDazfsn7GPZwCIkOYwmwnAj53RHxUrjJ13bX+UADmLg==;hnW82H3ipqEuKueo66aAvw=="
 ---

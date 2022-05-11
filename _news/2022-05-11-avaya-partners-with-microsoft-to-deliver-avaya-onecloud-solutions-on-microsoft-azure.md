@@ -71,20 +71,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
-    excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-    publishedDateTime: 2022-05-11T16:40:00Z
-    webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 50
-    images:
-      - url: "http://targetinfinity.com/as/www/delivery/avw.php?zoneid=39&cb=INSERT_RANDOM_NUMBER_HERE&n=a7f52682"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "The joint technology and go to market agreement will help customers accelerate their digital transformation initiatives in the cloud"
     publishedDateTime: 2022-05-10T09:16:00Z
@@ -99,6 +85,15 @@ related:
         width: 1920
         height: 1026
         isCached: true
+  - title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
+    excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
+    publishedDateTime: 2022-05-11T16:29:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 30
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
     excerpt: "Dubai, UAE: Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment over three years, according to a new commissioned Total Economic ..."
     publishedDateTime: 2022-05-11T13:26:00Z

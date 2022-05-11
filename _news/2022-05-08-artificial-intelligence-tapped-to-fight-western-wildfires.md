@@ -43,18 +43,13 @@ related:
         isCached: true
   - title: "Artificial intelligence tapped to fight Western wildfires"
     excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
-    publishedDateTime: 2022-05-07T14:29:00Z
-    webUrl: "https://www.gjsentinel.com/news/colorado/artificial-intelligence-tapped-to-fight-western-wildfires/article_e6fc9cf8-b30e-59bd-87b5-f1bf09f6dd7b.html"
+    publishedDateTime: 2022-05-07T16:40:00Z
+    webUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires-2/"
     type: article
     provider:
-      name: The Grand Junction Daily Sentinel
-      domain: gjsentinel.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/custom/image/b32d0574-1b24-11ec-a31e-77e4d5ecaec6.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
+      name: The Durango Herald
+      domain: durangoherald.com
+    quality: 17
 
 secured: "AacJf/xQ+VGZpjxqNl2lrmAgtw2hqohturilXvjNzG/6kv2qEy9UF2gZ/+hHKu1c3WDtUO/SBVqgUbU+/ivynBXrSOxM8kLCrGqiVix/0rILcagpw0tC7PZUYVaXnPdvQqihIpYuAFXFxRXx+1zeLGbdpw075MH0X0hb7Ub7LOvCdnh1NLitpsokARbfrIk3Cyy6juDt8S/z2dB5ExUYPFvsk6uoo9PDly85zm2b+QVzpZk6h0fL5BW1Q0sxshRuaxy13HoJTbAmB7u8+sqg1tlGqcKv0vgM7cNPK8fLrxoj0Q16Aad5tXKMRrfk3t0e2ZqJSDoIE381dfcwPuExjJz9PafRBl9XsFgl9N6Oh3u4gkt/jkV8PthsSSF6ISbR/hYUxyVuvYb0yZ/Yvt0RP7N6WN35dwHYUApknA/+phbCqwvMzsptyp6YFcKPQUF8q3I/PivUExfwP7FzrHuPlgesG09WtLIiUl36/900KwVYmwyNOqY4ci21APKXLOiBI+Atg4DwTI+7/Oh8cvU2lQ==;lhfwnfeJynbfKWf5AtJHWA=="
 ---

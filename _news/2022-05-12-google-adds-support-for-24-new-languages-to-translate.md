@@ -47,6 +47,20 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "Google Translate adds support for 24 new languages"
+    excerpt: "According to Google CEO Sundar Pichai, the expansion allows the company to cover languages spoken by more than three million people. Pichai credited the breakthrough to a new monolingual AI learning approach where Google's translation algorithm learns how ..."
+    publishedDateTime: 2022-05-11T17:56:00Z
+    webUrl: "https://www.engadget.com/google-translate-24-language-expansion-171810853.html?src=rss"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5ef38f70-d14d-11ec-9ffb-4994f1bacf3b"
+        width: 1600
+        height: 1000
+        isCached: true
   - title: "Google Translate is adding 24 new languages, and it’s all thanks to machine learning"
     excerpt: "As part of Google I/O 2022, the company has revealed its latest changes to Google Translate, including the addition of 24 new languages. These aren’t the world’s most common languages, but some are used by millions of people across the globe."
     publishedDateTime: 2022-05-11T17:16:00Z

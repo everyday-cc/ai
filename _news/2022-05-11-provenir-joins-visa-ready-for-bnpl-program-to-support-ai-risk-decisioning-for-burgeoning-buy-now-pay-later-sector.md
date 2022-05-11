@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/artificial-intelligence/provenir-join
 webUrl: "https://financialit.net/news/artificial-intelligence/provenir-joins-visa-ready-bnpl-program-support-ai-risk-decisioning"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "HireLogic Raises $4M Seed Funding to Modernize Interview Processes and Improve Hiring Decisions with AI Assistance"
-    excerpt: "Decades of Recruiting Best Practices Powers Free, Machine Learning-Based Hiring Intelligence Software for Organizations of Any Size DALLAS, May 9, 2022 /PRNewswire/ -- HireLogic ( an artificial"
-    publishedDateTime: 2022-05-09T12:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27073922/hirelogic-raises-4m-seed-funding-to-modernize-interview-processes-and-improve-hiring-decisions-wit"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27073922"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27073922"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
     excerpt: "a global leader in AI-powered risk decisioning software for the fintech industry. Available through the Provenir Marketplace, Point Predictive's Artificial + Natural Intelligence™ solutions provide Provenir customers with increased underwriting ..."
     publishedDateTime: 2022-05-10T15:19:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/catherinewang/2022/05/10/softbank-ventu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/catherinewang/2022/05/10/softbank-ventures-asia-leads-58-million-investment-in-korean-autonomous-shipping-startup/amp/"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Forbes
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 840
     isCached: true
+
+related:
+  - title: "The Korean Government's Global Startup Competition is back"
+    excerpt: "The K-Startup Grand Challenge (KSGC ... in fields such as Artificial Intelligence (AI), financial technology (fintech), logistics, biotechnology, robotics, game development, Internet of Things (IoT) and e-commerce, are applying to compete."
+    publishedDateTime: 2022-05-11T19:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27149199/the-korean-governments-global-startup-competition-is-back"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27149199"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27149199"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "xZzZ/sROyO6tsnOY1vngAWn/Wpy/AGXROFu9cEiodQZ5G9AcYqff1KpXGtnyrrBbncV4QBzejx7oi0T49WnjZxDlUDxx+Lj+r28WKEdeHl+cMv0F8whSUeoLCbPlp+3AGF5QxwVU3Y1ngoe74Pxtk71aIItgh+OzXvGSFMFx9mKIrKC3oYMk2PQZRXfRZQTw8YqF6sKpmdE5pb8uS9hT5wFSrUsuWHQWYZ80Mgk9iWNroKE45NuwPEfjcqKPuxuht8z7gg9WdO2V6+yBGdWyjtIg1yUM/rWtU68SxSSdWjYijNT+TOA9/7uYhnEIGNV86WmFastpYGM6Ixzf221TP+THhGPwsJ1kiK97uwImhRN9EBDfFj9q77BUgII8bTeLMBEa5U6i3CbhUCs49yzBhMjpCpssWGO73IoYL8G+vqqON3hyP32f/pT8xzTxld0DLNy5S9ORXARdy84DLwRScdBGyRCIm+IoAIPIrDMEf3ud4NqycjHF7e0yCBmYEsqdeghMOECgOED+KjLPk8/Pjg==;12yCoe7FLor+Zq6vOiyZSg=="
 ---

@@ -127,15 +127,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 18
-  - title: "Emotion Detection and Recognition Market"
-    excerpt: "Moreover, technological advancements are expected to assist the global emotion detection and recognition market growth during the forecast period. Furthermore, expansion in research and development capabilities in speech-based emotion detection systems and ..."
-    publishedDateTime: 2022-05-09T15:17:00Z
-    webUrl: "https://www.transparencymarketresearch.com/emotion-detection-and-recognition-market.html"
-    type: article
-    provider:
-      name: Transparency Market Research
-      domain: transparencymarketresearch.com
-    quality: 4
 
 secured: "BFSyTtrTuXhgwh+uvMAGwdTOtrGFhf/Tw5y8H9Cs55NzGbAz0Z+KC/0UhoJ5l8p0jMNhsi1WL2fVMeggdJ2XdQl4XnvYvEEhLpBNJtvxG454jfXfj+u3CuXeysWSEeyajfdHwKBBUNIepOhk/7/nNhaKcDMLi2FoE66+fVgaGWfIUP+zHSEECtGhFUsjWjl0WhNPh4BkEADdifX+EQS5rEv/lDDoKFHkv+HaZkCxUis9PGPtPMq6mlhc0C1DweZbC8TWxN5yWw+FjQDYruXoUNWwHhuZizHYZjyVAafwAxMlkHNK35sdc7VIIOf0RXNJuvkcurKfDGcqHB+J6MozzPQXZcppNCDpPJPom6XuxCjUPz1IhR+6Rfl8MknED8ZlkM9sl17Fv2vRndcDQKHFAR9l49Nc+3Qye8OVVQjGsK5lFlTIBBiIVbRvRsTblktIVACRPX10CA5Ij3ugsJI6+EWPlXUJCHZaSA40p40C74Odcf//3bQMAl4Dd+xD4g6sXcfYHb9EAAijDDhdif+HDQ==;63YDo+wzFCygj3MF9koFJA=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds"
-    excerpt: "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ..."
-    publishedDateTime: 2022-05-11T11:52:00Z
-    webUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 20
-    images:
-      - url: "https://i.inews.co.uk/content/uploads/2022/05/SEI_99688536-1200x630-pl-exclusive.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Brands matter: Why trusting an existing brand can lure you into buying a driverless car"
     excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ..."
     publishedDateTime: 2022-05-11T13:11:00Z

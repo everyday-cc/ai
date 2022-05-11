@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T18:02:00Z
 originalUrl: "https://www.smartcitiesdive.com/news/av-technologies-self-driving-car-safety/623471/"
 webUrl: "https://www.smartcitiesdive.com/news/av-technologies-self-driving-car-safety/623471/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: smartcitiesdive

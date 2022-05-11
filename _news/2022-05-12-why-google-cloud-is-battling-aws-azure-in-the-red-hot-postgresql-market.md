@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T19:15:00Z
 originalUrl: "https://www.infoworld.com/article/3660548/why-google-cloud-will-battle-aws-azure-in-a-red-hot-postgresql-market.html"
 webUrl: "https://www.infoworld.com/article/3660548/why-google-cloud-will-battle-aws-azure-in-a-red-hot-postgresql-market.html"
 type: article
+quality: 65
+heat: 65
+published: false
 
 provider:
   name: InfoWorld

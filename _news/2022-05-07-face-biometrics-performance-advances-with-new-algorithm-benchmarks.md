@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202205/face-biometrics-performance
 webUrl: "https://www.biometricupdate.com/202205/face-biometrics-performance-advances-with-new-algorithm-benchmarks"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2048
     height: 1812
     isCached: true
+
+related:
+  - title: "Advanced online biometrics applications explored by Humans.ai, Digital Domain, Kakao"
+    excerpt: "Several developers in the biometrics space have made new announcements related to advanced applications powered by artificial intelligence."
+    publishedDateTime: 2022-05-11T21:08:00Z
+    webUrl: "https://www.biometricupdate.com/202205/advanced-online-biometrics-applications-explored-by-humans-ai-digital-domain-kakao"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
+        width: 2048
+        height: 1280
+        isCached: true
 
 secured: "VrbH6JLgF28YH7aBQAQ9M5z2RWA5ZHUIK/KC/zxklrTBLzWA4mScSkGmF+GD3l5F85EaqO1jqg7InTHIS7suhC8eLgFYHj/T/6lFcMDgDHUG2sgg++sZuaKCwwMXh3hWrWSrUYtDZAq5ApkqBaYdXihWrG/Lvp3CwbULEHAHjVq/r9VsNrOiMdFkZTbkv1sr4U5kBXTZE59zFkKIyi0wH+3jsj96alXJcPimb7vZ0+X86/k/xowuccP+pYwm7Z2UgEe91Yt8Ff6uVs9fBJBNqX/f+rmrMsKYuC1RD+pKs/Orb+T2VmRPDHr3cZw6so2hqYHra2mkl+oWgf6PxKGDIoavZSkpYsIdJIdzlC8w4UCrL8jehALHLxIfOr9ogRbt81BCjtZ0Ey5RaSLIEcouBC5aFQSjfXGRu4YyZ3BWyKtxqf/l56nzX4j2jbPBR+a06eyCGed1fXpuQuGKvsYnqVTUuVwvdMI/bFL716jl23M4mV0DrjatCVzs6wz3Si/51tNBoTaXpFnmmhUXAVromg==;hDdlpOXc1iB2q7AW3IwLkQ=="
 ---

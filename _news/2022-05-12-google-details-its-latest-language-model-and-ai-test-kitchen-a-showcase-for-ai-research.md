@@ -5,7 +5,12 @@ excerpt: "During its first keynote at Google I/O 2022, Google detailed its lates
 publishedDateTime: 2022-05-11T18:31:00Z
 originalUrl: "https://techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/"
 webUrl: "https://techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/"
+ampWebUrl: "https://techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/amp/"
 type: article
+quality: 80
+heat: 80
+published: true
 
 provider:
   name: TechCrunch
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
-secured: "GIEIvL8GuBFCTQsxFv1RD76kXau9+0qJ5XN7L03X87sx3ZoXE5244/S829BTPag5KknYe1YZ1SWX/2RnbR2+ZhOFU2XzLaUOH94N3Spg+Dok9cBY4kThpzTPh4cs5VCWXya+F6+et7ZvTYrrkCisDZ35LDeo8+nYVszaLVtUXHgp/QlUy72UBeRrl9bd2C0Bi+pKWFMl2flwvHBw7QNi4yfjGxOYrEhgGOQzeRM5ckGbIpT1dWrJyYE9sv5qn7MEsM/lF0XdMspKKNNxXbzXKjvfIaRxDbxZu64B1mTpVPf1MRnLpCDgj0HLziO/SHraicH54IZtDXkcXJI5l5n/A6dNc6DgI1p5tsse6GKTPeUWqlyGsoEVQLtPfGa1zihlKOgALcgjknL+K6HfWIhISlV9GakaitWiNPGgIxl+R8FF2/IJc9QoIE0zX1ARGwShmycab8UNkmJD2OLe/mTBJIcv8SGPSk0tXbmp/U09bX0/Iyxz72fZG56sWaZuzGjFNr6RfUPvEVHurMNjI7Flxw==;HmCnoKEX1sE2G1v0mPXPwQ=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/05/AI_TestKitchen.gif?w=680"
+    width: 680
+    height: 383
+    isCached: true
+
+secured: "UP/jEA6slNJgGl4534OxkaIXg+MQpIllLJqsUK4GS/YwEJblIHtesYEG+3uQYy/4xj3QfZ4Oa9Pm7PqdBodLeViASvHbjAsfx1gO3NBa4yxl91ngoE0tb8If0jA+TVnjhAa8mzJbATVOmo0202gtZDeqIvlAiFVmBQwJNtYRRL/DmrPkCjOL6H/m5XR4cHB4VAK/bt83hg+Pr4Oxb49jvvkr3CVIr+S05MTK/vehBfiUdUBCyFQYXuEHTVCc0BtfXSRokgku/QNTuSz1Scl53qyHIu5ZZ6/FPrm7kvZ+FLSCV3JLw3ZboK/y4ZG+juHvIn9/W3c8+SdN6VK6Ow3n8US4HdIat688f0ivCVUCoE8=;ZuEL5JMoqdIC9x2aHuh3DA=="
 ---
 

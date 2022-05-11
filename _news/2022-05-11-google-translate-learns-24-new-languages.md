@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/translate/24-new-languages/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/24-new-languages/amp/"
 type: article
 quality: 111
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 89
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5ef38f70-d14d-11ec-9ffb-4994f1bacf3b"
+        width: 1600
+        height: 1000
+        isCached: true
+  - title: "Google Translate adds support for 24 new languages"
+    excerpt: "According to Google CEO Sundar Pichai, the expansion allows the company to cover languages spoken by more than three million people. Pichai credited the breakthrough to a new monolingual AI learning approach where Google's translation algorithm learns how ..."
+    publishedDateTime: 2022-05-11T17:56:00Z
+    webUrl: "https://www.engadget.com/google-translate-24-language-expansion-171810853.html?src=rss"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
     images:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5ef38f70-d14d-11ec-9ffb-4994f1bacf3b"
         width: 1600

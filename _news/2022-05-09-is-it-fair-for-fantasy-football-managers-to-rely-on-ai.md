@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Is it fair for fantasy football managers to rely on AI?"
-excerpt: "More than nine million people play the Premier League's official fantasy football game Like millions of other people, Alice Simpson loves playing fantasy football. Every season she picks a team of real-life players from England's Premier League,"
-publishedDateTime: 2022-05-08T22:49:00Z
-originalUrl: "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA"
+excerpt: "This is thanks to a collaboration between ESPN and computer firm IBM, which asked its AI computer, Watson, to start studying the NFL. The 'Trade Assistant with IBM Watson' function uses AI to not ..."
+publishedDateTime: 2022-05-08T23:17:00Z
+originalUrl: "https://www.bbc.co.uk/news/business-61257368"
+webUrl: "https://www.bbc.co.uk/news/business-61257368"
+ampWebUrl: "https://www.bbc.co.uk/news/business-61257368.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-61257368.amp"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
+  - IBM AI
   - AI
 
-secured: "Qlmi2dB6s5qZNRtBvQ/WG0/5w3MQDMaIocF0RzWOb9ZmcUvtaJna5wwp1DXosedrLT1qjF71AfXc7+Fu1m0mURWed1DtfBF15ANDsjcShINtBG/IddQtoqmADfcGoMd+fKCak6zvAxysAMcpNnQk/2dlqN+5gd/KCKocbRGtakuzaAF/xFrKjuCCTApxKEx+kNYwy7lvapGNRDNo00EgFiQwmyfAEy87x4ZNAkgt9+H/xu6TdyMWKYltbw9/T98faOw6864NgS8CxaK0HkSOeevr8gT1EGe+ZMdAfvGsTb+oIHRLPgpTxfrzRtHqfPtiAKO25yq0eo+yX1glaI0AXb9HN31iPZjGDQZ6IxarlKUvkuGlRJCRXUpsK88lDWuuGuOWFjcPqa72vZfg4sONf4bmY/1J/X3/IeQbl8d0MZmzNeEbHmbFGHXfPb4KHlcFStSrJYFxLKQXNtCMt2VPyvbtsjB/k270/Pa5/pUpj9vdJGfzIRPzh+LQFfuktxh6XAf5rBg+lR40QEIFguwz9g==;x/LQOdEqpQVWjNrzJ2bQQw=="
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18575/production/_124410799_gettyimages-1394824253.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "B8k304qIgVwWuLZ5yJasfp7N+kmNFuHle5wGvkcXSenrSv2B2+p/CZsI4AvqvEeuoqIRR7U4O8hZaQnX22wPO/taDGXwZdj5QCf4z+r+/3UgT4DX7CtHWiVMaoYmwp/xZIyTJVTkUlwncHr9b6Qxp/NZTTMjX7QFZcfhKNdlyXIwKphypd1vRA1HO9z2Nz2tmx5uVm96mmW+ajoQstjk0mZYaYu5SzKBTFEhBuGOUKhSx4i399BYeKTzOuM4MkJ/LG/Xwwai0jKPPN29s7oah0Tfvw0RYBcR4VVDmokUz2cLKCfWPvvKzpuuHajYNbN2NOwtN3za6oem7ySkBIevcK0O4gZbQ3Z/AJPJWUOHXF0=;G0Tuh1eVeZZx5l48brNy5A=="
 ---
 

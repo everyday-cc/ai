@@ -54,6 +54,20 @@ related:
         width: 1000
         height: 570
         isCached: true
+  - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
+    publishedDateTime: 2022-05-11T21:11:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "KjXk04ucBZeHiAhhFqXF66rvNt9hIc6o08/UeJXVzS/kQqbPUNLE+kpa3wH+mnA3XdWPBGy0fnqhIGmIgilURrenrcTw3ZQOxTZHeciBKOFukErJAd9zEUQigVkDk80ljlGiZOyx29mBLzoo9DhUIfJotSNCY8dFeNfao5VDObnuJYsBh4p+91WPfa8/zDudoo+VgJOZ/AVRf43Xi4eYpfvi5QzmvoJqHRTdBIs0ZBbFCPzvZq7CUXa+Vzl63Gqfe17WjyhKw51niYFo7obyG1BX66AR9OkFzM3/4f2BTmCP3vsYNr+No5m/hfnJxenzL6XCNTGL3FoGN3wy+1/AwYgCrfbIL82BgRWKHY4hJA8=;q7l6BGViL+cPuCtYIH/T6A=="
 ---

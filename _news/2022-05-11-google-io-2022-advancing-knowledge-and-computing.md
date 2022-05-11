@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T17:00:00Z
 originalUrl: "https://blog.google/technology/developers/io-2022-keynote/"
 webUrl: "https://blog.google/technology/developers/io-2022-keynote/"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Google

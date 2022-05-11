@@ -60,6 +60,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "1997 chess game thrusts AI into spotlight"
+    excerpt: "Yann LeCun, head of AI research at Meta/Facebook, told AFP there had been “absolutely incredible progress” in recent years. LeCun, one of the founding fathers of modern AI, lists among the achievements of today’s computers an ability “to translate ..."
+    publishedDateTime: 2022-05-11T19:33:00Z
+    webUrl: "https://www.jordantimes.com/news/features/1997-chess-game-thrusts-ai-spotlight"
+    type: article
+    provider:
+      name: The Jordan Times
+      domain: jordantimes.com
+    quality: 21
 
 secured: "l1EicEIF7jvRg0pEeDL78yszVadpE10sJbHbmQsCvHT5Z+Kwos4myAWDvzIMelgAxfeI05nf5tcrq+UwP6lLHWZwimNFKv4rC66sLQeWPsYNnCQu7oyOBeW7mWhSMYh2RiRcO6XpdKOP6cnlU2k1XWz4EbJud0GOtFFg3aEL+Tx+D6ZGMDG/1CbNrsDQ0ah2t62fvxIlV8Hk9pHth3FVc4GybqhWGBqWw82THFWmKSCL2vmIYorKVH8F/RJ0IQ6dGx4DtPlnqqfPdbI+NEtp3DXSZmFv0eEX34ypA6JwJDxyK+EQRqKx08Z0HDf0nYTieY3kIkMfKDPHTtk5ICs/TVkWm+guCzw/b0s8WJeL/ctxOdPUxICbvCNI7l0HWsvc1+vPPA+oSKyMPJIgPY5aBgHQ28QhdssvWUCtp4id7rsdCn9ntTlDqDkUeP9xUT9k2YIYSBGX3PomUWYGqPqvHxwugWd6JONY6OuD2AXgfUoajDOJA2vX33rRLrD01zl0c/zPwo39qeNRycu+y8Ltnw==;jZbrhASQ0f4LCg3Sc8PRuQ=="
 ---

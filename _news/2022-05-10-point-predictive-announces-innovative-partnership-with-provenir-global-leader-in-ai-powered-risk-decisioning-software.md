@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "HireLogic Raises $4M Seed Funding to Modernize Interview Processes and Improve Hiring Decisions with AI Assistance"
-    excerpt: "Decades of Recruiting Best Practices Powers Free, Machine Learning-Based Hiring Intelligence Software for Organizations of Any Size DALLAS, May 9, 2022 /PRNewswire/ -- HireLogic ( an artificial"
-    publishedDateTime: 2022-05-09T12:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27073922/hirelogic-raises-4m-seed-funding-to-modernize-interview-processes-and-improve-hiring-decisions-wit"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27073922"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27073922"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
     publishedDateTime: 2022-05-10T22:06:00Z

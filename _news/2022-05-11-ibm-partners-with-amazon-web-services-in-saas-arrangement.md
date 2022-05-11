@@ -35,6 +35,38 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "IBM Think 2022 – Broad array of IBM software catalog now available as SaaS offerings on AWS"
+    excerpt: "IBM today announced it has signed a strategic collaboration agreement with AWS, with plans to offer a broad array of its software catalog as SaaS on AWS."
+    publishedDateTime: 2022-05-11T19:57:00Z
+    webUrl: "https://www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646"
+    ampWebUrl: "https://www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 66
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/05/think-2022.jpg"
+        width: 1372
+        height: 468
+        isCached: true
+  - title: "Telia Company accelerates company-wide cloud adoption by upskilling 2,000 employees on AWS and cloud technologies"
+    excerpt: "Largest in-house AWS training program in the Nordic region to date, investment in the upskilling of 10 percent of Telia’s total workforceDeep collaboration"
+    publishedDateTime: 2022-05-11T12:40:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/telia-company-accelerates-company-wide-cloud-adoption-by-upskilling-2-000-employees-on-aws-and-cloud-technologies-44423/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/telia-company-accelerates-company-wide-cloud-adoption-by-upskilling-2-000-employees-on-aws-and-cloud-technologies-44423/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/telia-company-accelerates-company-wide-cloud-adoption-by-upskilling-2-000-employees-on-aws-and-cloud-technologies-44423/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 38
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "HERE Collaborates with AWS on Supply Chain Solutions to Improve End-to-End Visibility and Fleet Efficiency"
     excerpt: "HERE Technologies, the world’s leading location data and technology platform, today announced it has entered a five-year strategic collaboration agreement with Amazon Web Services (AWS) to help organizations improve their supply chain visibility,"
     publishedDateTime: 2022-05-10T14:01:00Z

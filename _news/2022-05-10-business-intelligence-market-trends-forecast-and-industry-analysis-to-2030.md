@@ -112,15 +112,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 18
-  - title: "Emotion Detection and Recognition Market"
-    excerpt: "Moreover, technological advancements are expected to assist the global emotion detection and recognition market growth during the forecast period. Furthermore, expansion in research and development capabilities in speech-based emotion detection systems and ..."
-    publishedDateTime: 2022-05-09T15:17:00Z
-    webUrl: "https://www.transparencymarketresearch.com/emotion-detection-and-recognition-market.html"
-    type: article
-    provider:
-      name: Transparency Market Research
-      domain: transparencymarketresearch.com
-    quality: 4
   - title: "HEART + PAW, A PET VETERINARY, GROOMING, AND DOG DAYCARE SERVICES COMPANY, RECEIVES NATIONAL AND LOCAL RECOGNITION AS A TOP EMPLOYER"
     excerpt: "Heart + Paw pet care, one of the fastest growing veterinary care, grooming, and dog daycare center groups in the country, has received both national and local recognition as an \"employer-of-choice\" and a Top Workplace,"
     publishedDateTime: 2022-05-09T16:07:00Z

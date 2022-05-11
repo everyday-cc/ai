@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-12-27-rights-groups-demand-zoom-abandon-invasive-and-inherently-biased-emotion-recognition-software.md",
+      "title": "27 Rights Groups Demand Zoom Abandon 'Invasive,' and 'Inherently Biased' Emotion Recognition Software",
+      "excerpt": "More than two dozen rights groups are calling on Zoom to scrap its efforts to explore controversial emotion recognition technology. The pushback from 27 separate groups represents some of the most forceful resistance to the emerging tech yet,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353",
+      "originalUrl": "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5f6a12d4906ee80a0f8fbf3996c1e05e.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353/amp",
+      "publishedDateTime": "2022-05-11T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-letters-facial-recognition-technology-punishing-those-who-litter.md",
       "title": "LETTERS: Facial recognition technology; punishing those who litter",
       "excerpt": "Reference the article “Debate continues over facial recognition tech” in May 8 Gazette. On April 26 my wife and I were returning to Denver from Baltimore, MD. At the BWI security check in for ...",
@@ -292,8 +344,8 @@
       "title": "Computer Vision As A Solution To Safety Challenges In Industrial Facilities",
       "excerpt": "In this article, we will discuss how to apply computer vision technology to detect safety hazards in industrial facilities, such as factories and logistic centers, in order to prevent human ...",
       "sourceUrl": null,
-      "webUrl": "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1",
-      "originalUrl": "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1",
+      "webUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
+      "originalUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -332,34 +384,25 @@
     },
     {
       "path": "_news/2022-05-04-when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi.md",
-      "title": "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\"",
-      "excerpt": "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and ...",
+      "title": "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION “META-aivi”",
+      "excerpt": "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and enhance ...",
       "sourceUrl": null,
-      "webUrl": "https://www.rochesterfirst.com/business/press-releases/cision/20220504HK28756/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/",
-      "originalUrl": "https://www.rochesterfirst.com/business/press-releases/cision/20220504HK28756/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.rochesterfirst.com/wp-content/uploads/sites/66/2022/05/FSbOVA1WYAEarTT.jpg?w=2000&#038;ssl=1",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T07:00:00-07:00",
+      "publishedDateTime": "2022-05-04T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WROC-TV",
-        "domain": "rochesterfirst.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1340,49 +1383,6 @@
       "provider": {
         "name": "NBC 6 South Florida",
         "domain": "nbcmiami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-house-lawmakers-investigating-govt-use-of-facial-recognition-software.md",
-      "title": "House lawmakers investigating gov't use of facial recognition software",
-      "excerpt": "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "originalUrl": "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wfaa.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "cdnAmpWebUrl": "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "publishedDateTime": "2022-04-22T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFAA8",
-        "domain": "wfaa.com",
         "images": null,
         "publishers": null,
         "authors": null
