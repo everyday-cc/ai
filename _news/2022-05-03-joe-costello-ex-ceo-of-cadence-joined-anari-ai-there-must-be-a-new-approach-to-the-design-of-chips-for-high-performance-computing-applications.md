@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Joe Costello, ex-CEO of Cadence joined Anari AI: “There must be a new approach to the design of chips for high-performance computing applications”"
-excerpt: "Joe Costello, ex-CEO of Cadence, joined Anari AI in the Board Advisor position to empower the wind of change in the hardware AI industry. Anari AI is a startup delivering the next-generation platform for computation to provide companies with personalized AI Systems accessible in one click."
+excerpt: "Anari AI is a startup delivering the next-generation platform for ... the software is still seen as a necessary evil/expense that must be done to get your chips sold. Traditionally semiconductor companies spend the least amount possible for the software ..."
 publishedDateTime: 2022-05-03T16:02:00Z
-originalUrl: "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html"
-webUrl: "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html"
+originalUrl: "https://www.joplinglobe.com/region/national_business/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_a8bc487f-9487-53a4-be84-634e3d8e04f1.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_a8bc487f-9487-53a4-be84-634e3d8e04f1.html"
 type: article
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/3f/23f39291-cd74-541b-b0d9-4a1e2f0e5387/6271530a5dcff.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/72/e72284e6-1bc6-549c-b846-f0bff88ad3a2/6271526e36957.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "i2cYOUX/dDKyGgjY5Tur4ERf+RJGwlYMo6Fsp2rxa1Jy23PsrJwroxSv3Ty7OBepBswrDWzfvWdZ9Sf2xhNWXZR1foB74f3KNhCdX7qvi6hpJK1263jqW3w+tKlMLDgQV6wiVfD0ExdYaPiZ5Azub7xTExgkhw9l36KZNGhwIckH7uNR8+19/O1TGu5l6HUHhlweplwQaQ/Acgf6sYMXYrAu3Khrf2Z6FJeEnXXkGg8EDn+tn+fv6XpyQA3mY4ZQVGXrgMkMtUpjex2TgZf7TcMrpUsK8Wtu9/+XXo5x1te7pXQZLwBjT9iYF93Kz+y8vOtRZU9dDLVsakGF89mc0kFNGH0zZ5Yk9ZI1XcbhrfJ/ZwSmr2ZNQcEKIXq1n/NqMj3A/XMmc/1IjteMNMd85fFD6aNj9Gseu9w+KkQPkf5xcoZPxsiWvwv1AoOMmNkE8BbFdsiEndUITT6xwzFneMlooLncjldEYOzZ12HjnwRlsvZwX0PzoAHP6ZL+0ZVsyF4X5ABOTbQ+iJ+iH9atlA==;UyIS9zbvg91RYYZNusLndA=="
+secured: "B+bk2/6KCHh6wHODIfYGIq0sOvZ9e8qxC7iwYntIxCtQKHZtoP37k2/ec32mjFLzuzWWMQpFDQw9ZWqAA+CmlCPWKySA7c7FIxMWDyaBDFTym9u4tkq7BEDXWWcyrdKT6DxCYfiFhJ7p1zqxVCP1cwMBbhb9dG1kganIr4NvtVtL4JPtjMudK0fIGmSeT9w3QEuUoCph6hm7KW9ZwOJ3XcJcTDgQmNa32Zr7rGLAzjfHZ9QeLdqWIqDICCfLISOM+quYtN//QBcYzq0HteDUnd4sU1yA5b6gvkEBgv5pbmVXQO7Pkxak9DXUZkB7Jl30w8ejGzXNf09ni7YK6kBb171ME5khOuifd8aD7TAkG/o=;g9G4O7BOjTkUfKdAINYmmA=="
 ---
 

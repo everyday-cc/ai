@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/unique-free-and-fungible-bored-apes-are-
 webUrl: "https://bestgamingpro.com/unique-free-and-fungible-bored-apes-are-generated-by-this-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI generates Bored Apes that are unique, free — and totally fungible"
-    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Bored Apes have become symbolic of the NFT craze."
-    publishedDateTime: 2022-05-06T19:49:00Z
-    webUrl: "https://thenextweb.com/news/ai-system-generates-free-bored-apes-nft"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 48
   - title: "This AI Can Generate Unique and Free Bored Ape NFTs"
     excerpt: "The NFT market’s claim to fame is undoubtedly the Bored Apes Yacht Club yet someone is offering endless free versions of these rare collectibles, thanks to Artificial Intelligence (AI). Yannic Kilcher,"
     publishedDateTime: 2022-05-10T13:18:00Z

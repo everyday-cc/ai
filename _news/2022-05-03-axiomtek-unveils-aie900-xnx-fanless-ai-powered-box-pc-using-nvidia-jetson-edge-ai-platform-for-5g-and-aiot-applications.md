@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Axiomtek Unveils AIE900-XNX Fanless AI-Powered Box PC Using NVIDIA Jetson Edge AI Platform for 5G and AIoT Applications"
-excerpt: "Advanced Features: NVIDIA® Jetson Xavier™ NX with Volta GPU architecture with 384 NVIDIA CUDA® coresAdvanced edge AI platform for AMR, AGV, and computer visionWide power input ranges from 9 to 36 VDC (ignition power control for option)Supports four GbE ..."
-publishedDateTime: 2022-05-03T03:55:00Z
-originalUrl: "https://www.djournal.com/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform/article_370775ff-0735-57de-a619-c8ff310d7eec.html"
-webUrl: "https://www.djournal.com/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform/article_370775ff-0735-57de-a619-c8ff310d7eec.html"
+excerpt: "processor and 384-core NVIDIA Volta architecture GPU, delivering up to 21 TOPS accelerated computing performance for running modern AI workloads. The advanced edge AI computing platform supports ..."
+publishedDateTime: 2022-05-03T04:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform-for-5g-and-aiot-applications-1031410891"
+webUrl: "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform-for-5g-and-aiot-applications-1031410891"
 type: article
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://mma.prnewswire.com/media/1809632/AIE900_XNX__Fanless_Edge_AI_System_NVIDIA__Jetson_Xavier__NX.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "WQp0b8F2cH4ElHuTnzHmStCGvCN/vrMJlIbsTfac83qiTrLXIXmf5mdYexX80gjCJbl2sghksGhPMFpwCOUOXynq7NrRsL3Qgjg00+pDqQWKQ/iwgVa2WeEfhPmYBsR2PBZBxk0KwBqA5JhkrOayloSrUHMGYw54sA+cRk8sXWd/cN/Vyn+1aPS3B4u2CGPC6FjEOaY7Wc8R99caL+U6F5fGsSWJXLeEuD//Ofu3IF1v3Il9iZjLf7cgNG2nPD9XOD+ZKozhvb8QBBqM4wlsO/j80x9LxEmRh1ZVA0ydTBNNETmrs0/jb3jtYv/YWwPO1mYFquBU2D48/cZNe2TRehAtZT7kZjGEGkI4YCJvnWtci8avfbCNTNMt8QkulLk47WD+kqLbgoMNj1v0UK8kehciX9HCwcY8BMrPhTdJTDRGMBHAk0lVztc2TBMExRI/fEzJTtnv6qBPqscze9TKV+WFvOothjzfYUInGcZV6/rbTL+TD2abYF4B3AOY2E4LCxEg08OotBdgh2v6aY2CBw==;RnB2sc+FVZ6tISPSk9d5WA=="
+secured: "1K1Rv/D9k1F7xhjzoLvS6+ymVwZJhxaG4l3OIk13QKEgCdni6dO1e9aVRyaaBX2EKbUwXx7B99gnZThivFwtNghn0kzphIPcz4WwIWMBaHU87g9Zh5ocUhj3Wd2v0Gnx8PRXn2Z/UbA+6l482xjxEvrkSSvtbFQ7D1m+9or80Fi2ohBa811jWii0BDqgueO8Llxry9WqfGy9Y0F1rPORQUbeVP6tgmczUu1na0tWEzoJzUzSl671q8F5Qv+Zz7N7IPFAjdjK3AtHwl7z58Q0AYF7kcFA0Xeh4knjnU3+d6Rg0vodxrFbpU1xMGf5YAIBnQL0ogGsSj08jF1p7AymKVqBqaIVkzNc/vrQQDQREdk=;b2XVeUhBb9c6ZlN8tXIGIw=="
 ---
 

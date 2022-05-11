@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Robots and the Future of Remote Healthcare"
-    excerpt: "Although the technology has been around for several years, it is crucially important as we start to look toward the future ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that ..."
-    publishedDateTime: 2022-05-10T23:00:00Z
-    webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
+    excerpt: "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that replicate the manual techniques ..."
+    publishedDateTime: 2022-05-11T01:10:00Z
+    webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
     type: article
     provider:
       name: MedPage Today

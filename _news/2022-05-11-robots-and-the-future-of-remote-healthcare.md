@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robots and the Future of Remote Healthcare"
-excerpt: "Although the technology has been around for several years, it is crucially important as we start to look toward the future ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that ..."
-publishedDateTime: 2022-05-10T23:00:00Z
-originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
-webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
+excerpt: "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that replicate the manual techniques ..."
+publishedDateTime: 2022-05-11T01:10:00Z
+originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
+webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
 type: article
 quality: 56
 heat: 66
@@ -15,9 +15,9 @@ provider:
   domain: medpagetoday.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg"
@@ -41,6 +41,6 @@ related:
         height: 337
         isCached: true
 
-secured: "vGOt3ETP4NCFnkF9n6J0tRZC+eFsFzTXgZ2hhO+LD/RLj3jerZdY7isYXm3RVOfYRLOn+Z3iCHOJwbEUMwtROJ8GVVrFegpuPWIF7l/tbTWxbUC2P6L2yrwN/8nE+T3RYXoVRDuDVsB0zpoRoeQag3b1CDqktPdfd0sTqgdNHi021We1JVLUnIejDe+3MqX/H3gQSYOVTTzcGpvZPhq1siFfcGjpx9vdsVNE2LCwxSKujZDrn9o69eedvAXGfJbBzLlAc0NWqZolmMw5JE+cjXdwmb3ktPIc13jkOeOHLqLEA0NsY0Uzn5n1rfT960KttBvh4NFj8OFssL5U6wvplcePDWOh1ZzokOHyjfqd21Q=;Cl+ihtGrrTSEglDpHyj2pw=="
+secured: "x3M8Q048wYvUpK7p9dXK8XXUZ03n29KLmhbXX6g3ZS/VjYqLE7ksB1s7DX5Dcy9YK50/7fgtER+pUOYhzIdykPnOrO7ipl2wiLUsavFN2A4O0RAYuS7jA/Y8/mGPIa2D2deyZPdslGBFiioQSLZ6CgWIZNibIq3fRXYozhyU+E58AK/uFfS8QutoQ+srxMkC4sGFASy7rDOWJqJeyj7afoMxytufEtrBEZxpI/d16G9YlljNzJqFClSv7kPEGsZcqFaxCwdp+ztHL1PE5qjaJP3Y20UR0nUTG2TMF/8HfJg0L/jUYMDBqxrmJu3gRSKmO38N8PokPxxFBe/pdYi4LhUPYqC7mP9mTOtG8GVLnrg=;/tWgbL9lr0Lmo+yLoB6Lkg=="
 ---
 

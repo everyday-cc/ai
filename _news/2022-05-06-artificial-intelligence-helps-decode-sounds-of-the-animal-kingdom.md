@@ -3,18 +3,18 @@ category: news
 title: "Artificial intelligence helps decode sounds of the animal kingdom"
 excerpt: "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human."
 publishedDateTime: 2022-05-06T13:37:00Z
-originalUrl: "https://www.ksby.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
-webUrl: "https://www.ksby.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
-ampWebUrl: "https://www.ksby.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
-cdnAmpWebUrl: "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
+originalUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+webUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+ampWebUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
+cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: KSBY 6
-  domain: ksby.com
+  name: WXYZ Detroit
+  domain: wxyz.com
 
 topics:
   - AI
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mbv4o9buBgZJ57wwbpr4iHengnjmgR7Wvxxt4FXFlZQRrb2wGvVCsmFb25ZR3/n5mj8/0azBhHL1snHvxeGe3xsgFP13Fr7TzbIPfh0XjXZwKIAzth6/lFCNte+kZHSoYkUQtpBSl/9zyII7xjdjKKF7TQ4DO0HsuIyPXz1unG8BnAKi4T88QQ7+Bh5DrHPbK42N00415LX6+KQkXqRa4aTNV2EPcVeX7n5x1m82txHEze8JIhN5yiHcwkPXKnkKHzvrm6Yc2RQ9IfT4I6n7+h28RqYK+WeHorsC9t4dFX2pBkBLRqP80OMxNqxmWGCKkEm0iHZX75T0mfyX7pHs+5rq/RnNuFNXcGcYZHdtGic=;6QrOXvtY/nXI4PS0bTlD2Q=="
+secured: "XAB5aQS3ena241S1gQaPHKvjJJ6ufqXK8hjpoBPrVTIR/T6d8C8ssYgDDMUOVv7cYgI580pRdJzrgv0pb46IUjAhC0VzNVwdHYcumtvrFldj40SQJCFOsS+mfx/6Zd3rOjW9sqJvmoZgltfkOYMxeOHZjp4NLVY1cWf8zvlOeiLb+tT6R3vScnpLTsE/j0doG9AH5nd+HO/+Qbf1/Y//9eyq3hA6OlNuQ+wVdkEhcAd/CLEtcSIxpsGyyh7Y5gSyieItFXBcZh5NBtMRqQv4ka8O++h6aj0k4cyX7czZZIqog6kRbKWKXWq10YrT3VCxnf4qyX/NId3xQOfdYQZn6VVwpfsavcrWTCmgNVOM3iY=;0shUyhtPSQ91yI6KlYHqhg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Facial recognition company Clearview AI agrees to restrict sale of database in settlement"
-excerpt: "The company can no longer sell to private businesses or law enforcement, according to a settlement reached Monday."
-publishedDateTime: 2022-05-09T20:27:00Z
-originalUrl: "https://www.cbsnews.com/news/clearview-settlement-aclu-law-enforcement-illinois/"
-webUrl: "https://www.cbsnews.com/news/clearview-settlement-aclu-law-enforcement-illinois/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
+excerpt: "Facial recognition startup Clearview AI has agreed to restrict ... a lawyer known for taking on high-profile free speech cases. He noted that the company was already not providing its services to police agencies in Illinois and agreed to the 5-year ..."
+publishedDateTime: 2022-05-10T12:12:00Z
+originalUrl: "https://www.cbsnews.com/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
+webUrl: "https://www.cbsnews.com/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
 type: article
-quality: 65
+quality: 67
 heat: -1
 published: false
 
@@ -17,8 +17,9 @@ provider:
   domain: cbsnews.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/09/77168b00-64e5-4eb8-8109-99edd1348887/thumbnail/1200x630/8fe71faeabdf7becf56abe37411266d7/clearview-ai.jpg"
@@ -489,6 +490,6 @@ related:
       domain: courthousenews.com
     quality: 4
 
-secured: "NWzZ76MKCscCvQ34h60gAOAgfjoIHGdmXB/TXA5wkcm42tGGzPS/XkrZWPFdFWEWhT92XHJKCkomav9TSaJh7WmixqnQ9fvP5U2Ww/pUwpECdyP961DQbzS/RpCVsHAM9mnozSW/9MMph2bnGiR989YPsi0yd4gYPQAPG+4FLQuGpjOwfv7dJEWi+allQIqpfm/ugF2qRLQqcwFptx5OK2xQNaYjBi9LkJbqEoRex4FC8ZnoGgRvh4KyvNCY2NuK+fwQOyP47Eo/WR1fl/QRU8Xd0FPybdDJ7MVPYXo4+2eVqb6W1opfY2cRBbfgVm5OZUww64y4zDDGWjnImc+lz0Wy+P68LxYg43PobirwBKY=;PPd6FnebKlgb9W7txW2FSw=="
+secured: "oax2DwWPaGKyzbxVuXbAfFfglV3udYcjk7uD0RRf+ztccNNeDlZSkQh2RwsFde+JyvWaa/cY0C+lXXMGbDLE4Ikub85Dut5D7+W+qLUVT5UIRjhWDNp51V0wZY8LypC4+sZYIpcmAztYgigXWgwxW3zjkIc5oxangAGxgEUVZNgzkWPFnq3oHuQTgA4KWq6iRBNMuYJxtEMu5vXfBRN4TsoKY98ZzuTUul7jXGf0FDji5OrVmCR8YpXe7jfC9RQCMbNlJoGQvzNovJ4eMWPGWvao/Kg/BnCL+nJMnQFp4Z3GADsg2pH1ZSzIzzdgYurcmkzp9jCLvxAofnSmX14LuGMAuA1V1WJCK3omTVPYmZc=;wKsfzNfhql5ItEjzo6l+nA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/newsletters/ettech-unwrapped/half-m
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/ettech-unwrapped/half-machine-half-artist-meet-dall-e-2/amp_articleshow/91384457.cms"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Meet DALL-E 2, the robot artist using AI to make dreams a reality"
+    excerpt: "You may have thought your jobs were safe from robots as an artist or creator. Think again. DALL-E 2, a new artificial intelligence application developed ... No problem, DALL-E can do it for you. You can even start with an actual photo of your cat, so ..."
+    publishedDateTime: 2022-05-09T06:34:00Z
+    webUrl: "https://www.creativeboom.com/features/meet-dall-e/"
+    type: article
+    provider:
+      name: Creative Boom
+      domain: creativeboom.com
+    quality: 54
+    images:
+      - url: "https://www.creativeboom.com/uploads/articles/a3/a3ac1955a84709af66c11db1d5a7027ffb43fc1c_800.jpg"
+        width: 800
+        height: 800
+        isCached: true
 
 secured: "2mL0qASJ1OyYrNrop9/MRDWwsKg4uztR3/5O5mbGp/8d7kE5cyfZjKU9OY3748R9SitKzt7h1OnCQmlkvO9Rt1Orro/bM5SKVylx12iwJN6zZNGUVb4LLOhg8nkvyFjaTA7qL1tPnqsktcR81Dq6rzEwO/+h1NzSChALhN+BmEKTjMRLx6/t4lnKfNh+RWBzl+EF4qaoRv6LGdAuxPOfbtSF1FUBo0C1zQBRpOOKQRNbKPWt864rb9KFYH2ts0SSfK2zEmdm8I41nZkvmwObuDCpZxunsQznqZh3u2XAXONhNdJB8Rmx+q0IJ3OS/rq4SiI63649BNO9k50+G1wM5O83e2bZ1IaqoWD+xyxvUZk=;nT8SnfHODC51I+DQK3mj9Q=="
 ---

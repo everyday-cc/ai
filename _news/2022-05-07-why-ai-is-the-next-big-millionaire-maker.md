@@ -9,7 +9,7 @@ ampWebUrl: "https://moneymorning.com/2022/05/07/why-ai-is-the-next-big-millionai
 cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2022/05/07/why-ai-is-the-next-big-millionaire-maker/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1200
     height: 682
     isCached: true
+
+related:
+  - title: "Powering the next generation of AI"
+    excerpt: "Ubiquitous computing has triggered an avalanche of data that is beyond human processing capabilities. AI technologies have emerged as the only viable way to turn this data into information. As more computing produces more data,"
+    publishedDateTime: 2022-05-09T20:18:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/09/1051907/powering-the-next-generation-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/09/1051907/powering-the-next-generation-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/09/1051907/powering-the-next-generation-of-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/Future-Compute.png?w=3000"
+        width: 2999
+        height: 1687
+        isCached: true
 
 secured: "Od/cYXJ9FOBzcbrnFXwwOIs7jExYZdnQ/jVkBwKXnVZ93pUFClUTSALXmrdCjdo/kvvVuTqt7dcwnItYnNL/NTz7s23uPf3SlS8stck0TjsR22gCdqoLVpR0BYB+5sVOyP3nu0alDVq59ZVfN0apEpKAz+ZhbOoR3KDte4OD26XFSISoMG+uxK97eStWKNtB6kzFWjDVTSNUw4NyZoYxWSdvZzo5YdiMEmCefz/bOXv1E364Y5ToELL3rmwOaT4qTRsUyk2HzmBbPsEw/1Wdcbeouu0aKMmhvs43KMVvdza9QgEHJgo6bbPhmLttntUHsrp1Hod9/aCdX7zFcNho2zQzVQoHihlz2K2yp4IGP7FbP3PSbt8wWrRnNouWBT/VXOqDb99S0423bPVjLBetj+k+j5gnIe/7hZJQqcoBgXwd7MRO8alrYS6IT6nBwAHZfteM4aXdWxcWkMo2P87Ju1nzoPgkbFEhvX1mu06tiCb3FHlH5qZME8PuYNE8clU4+CMSBp2Xk5UdnnDoVEF1AQ==;uq2mfmW3Ck5CxOM0YwTiLw=="
 ---

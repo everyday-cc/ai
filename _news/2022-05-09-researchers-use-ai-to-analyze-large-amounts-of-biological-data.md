@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/res
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/researchers-use-ai-to-analyze-large-amounts-of-biological-data/91431343"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 21
-  - title: "Why Did Google Fire Another AI Researcher?"
-    excerpt: "Google has recently fired machine learning scientist Satrajit Chatterjee after he and his team put questions over Google’s research paper. According to The New York Times, Satrajit and the team challenged Google’s research paper about the usage and the testing of artificial intelligence in making computer chips."
-    publishedDateTime: 2022-05-06T07:49:00Z
-    webUrl: "https://www.techthirsty.com/why-did-google-fire-another-ai-researcher/"
-    type: article
-    provider:
-      name: Tech Thirsty
-      domain: techthirsty.com
-    quality: 19
 
 secured: "a76LBVQ20igp6rpo8ixYajl1OFE9BwQ9ujZDbEPuW3MBpZmF+gzW0YNdhJGg/XrnZTPb6klLi3SGN1+Wd/EoZol75UobAcWxqs0hqR7aoUrzryNekYP0iX6uBGn9iAztD//SuH82tmZelNKC9tZZ7viik/yWN5vXjXr/cUqx/7AWZMnlhIsV4r7y54WhBiaZU5xA+AxzptalhbIqlAaJoS30KvhFBnmvQ0SU7qXTigXJvCvIjqGObCQazKznphJoHg8lS0w0pRDzbgdO/CILUG/RAeMrrBQS7eAUER0n6sNJm0+W+bI6ZiqrbDAVyN0F5eoGEQpfXYnSYJ80RcGgNZCoRygVaUU0bqTBNlbl4zw=;AawJlfoRcPvRzzCUX2wcQA=="
 ---

@@ -50,15 +50,6 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 21
-  - title: "Why Did Google Fire Another AI Researcher?"
-    excerpt: "Google has recently fired machine learning scientist Satrajit Chatterjee after he and his team put questions over Google’s research paper. According to The New York Times, Satrajit and the team challenged Google’s research paper about the usage and the testing of artificial intelligence in making computer chips."
-    publishedDateTime: 2022-05-06T07:49:00Z
-    webUrl: "https://www.techthirsty.com/why-did-google-fire-another-ai-researcher/"
-    type: article
-    provider:
-      name: Tech Thirsty
-      domain: techthirsty.com
-    quality: 19
 
 secured: "TSd7GgXHFG+73c4TC9sAi+5gsiWEWYS6QbCbZm+dhwv1Bx3Cdts9AKB06eQm4ZLjTCs81asYPtjnZnOtBPbVDMb/mEHTNjntlS2viWUVhNJfTOwqR1TFGQmcc84YCoiB+Z3SVlAJ1lpdTMPbuwqdrQA9LVASK4qdIRYDtUQUwuKwTQKy8KdUEicTAe4aEBEX3D9kcqHpDPsIyqajrm815lYubZrc2MRCsn+ZvtlnfK/HNUWFHwR9BqFYe6Zl873wADGxyuz/Aeg0eeJZ+p402bbUBJPE2jftHF3IiiN1wS1Dnt0pzIMusD5xbLBWdCUXdutqGuwJTtXnzL66+zuVpoX4L5rCUvpNstnFaufexa80zQeloAhsiHvuAtDGTmZPawoPYDSAdXx+fiAUZn5qvNxFCxBPbf1ESk/ANWFJ4EK1dcWDB8xYcFbHpOrBlAQXgKVa6t8bjK5NgzTtjFO/zqtEkRFLU8hA680Kt8kBkTpPKkaUExM/k3d7fwDrrSdrGCDuWq4d69G2bs4qtWuIxA==;Yba+BAbHb1wPZyAOUjJI3A=="
 ---

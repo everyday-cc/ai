@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Startups Apply Artificial Intelligence to Supply Chain Disruptions"
+title: "Startups apply artificial intelligence to supply chain disruptions"
 excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
-publishedDateTime: 2022-05-03T06:44:00Z
-originalUrl: "https://www.marinelink.com/news/startups-apply-artificial-intelligence-496221"
-webUrl: "https://www.marinelink.com/news/startups-apply-artificial-intelligence-496221"
-ampWebUrl: "https://www.marinelink.com/amp/news/startups-apply-artificial-intelligence-496221"
-cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/startups-apply-artificial-intelligence-496221"
+publishedDateTime: 2022-05-03T10:00:00Z
+originalUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
+webUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
 type: article
 
 provider:
-  name: Marine Link
-  domain: marinelink.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://images.marinelink.com/images/maritime/w800h600pad/hor-adobe-stock-131754.jpeg"
-    width: 800
-    height: 533
+  - url: "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "V+H+C3jzlWEYk8iV0mW+MOEfTRT+8J2x+X9VRsBxJg+kvanPD7vO1JHbRTTvbUBAi9KIbYFSDWs5//dEy7BEdokpYjbQ2csOPIyHsn6yZHsvnuXOrPxJwBrx7fsHlrcmEKBu0QHuI4Yrk+J9OLTM8sXG35yBPX2f/cbDV9NBJ5Cvml2IL5DAKEdwewJGOUAigG850aCm42tiFCPHM5R0qwX19uG8gzli9pzg3uVxQScBqCxgVasB4OXhTkP88PVa70TxexJq6/4v/iuFmXOVL37yrrvZo7pNZ+4NjnrjCBbiCG1KcntCVMWTUoxmY8vtvSRjYO/O9Zxg6qvW416i4jqnZwajMni8N/ng84BxXtQ=;7skOjXS8fwtKqZZogER7uw=="
+secured: "fs2cWkSBn6ikCkxOY+iJk7odiINpf+RNndlmv9B2CYzFJMnG2cc4//tz5X05TV3xuVgDUtXjC7Pi0g0KyJyfaCEOGv4dUniPQCVlvaAdklr3VgRjvDpDOmbTJKL5/zfp9AVH3WbDFU+DHYWnxIk0G3ugvlAxsf1sRkdM8Znmm+iu6XwDHW1BhL1jz/FoL6yY5163a2weyQT5oEnfu8FF8dtIXxLyxxuHVrZmXHKl7btVFv8GAODYLgHzXOB+S0LxsUDKTMRvlWZG29HwAD0bDaGb7V0EVzMK5JZMCW82Q5ejLTAkUB0SmmEJ1D3kU2dXayaf/6VD90uq3BUVAWFdcwjJxwOcepZQPiZXf7sXK1w=;iJ1FthUYssaP0eCBircUjg=="
 ---
 

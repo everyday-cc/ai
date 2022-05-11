@@ -38,20 +38,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Allied Solutions Partners with Scienaptic AI to Deliver Enhanced Credit Decisioning Platform"
-    excerpt: "Allied Solutions, one of the largest providers of insurance, lending, risk management, and data enabled products to credit unions, has just launched a strategic collaboration with Scienaptic AI, leading AI-powered credit underwriting platform provider."
-    publishedDateTime: 2022-05-06T08:18:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/allied-solutions-partners-scienaptic-ai-deliver-enhanced-credit"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 26
-    images:
-      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_0.png"
-        width: 900
-        height: 480
-        isCached: true
   - title: "Levo Credit Union Deploys Scienaptic’s AI-Powered Credit Decision Platform To Enhance Loan Approvals"
     excerpt: "Early results indicate potential for 42% more auto-approvals for auto loans and 45% more auto-approvals for unsecured loans Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union,"
     publishedDateTime: 2022-05-09T17:13:00Z

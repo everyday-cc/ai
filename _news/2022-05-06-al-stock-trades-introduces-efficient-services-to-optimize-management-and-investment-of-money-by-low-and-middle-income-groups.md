@@ -1,23 +1,26 @@
 ---
 category: news
-title: "AL STOCK TRADES Introduces Efficient Services to Optimize Management and Investment of Money by Low - and Middle-Income Groups"
-excerpt: "May 5, 2022) - Financial platform AL STOCK TRADES LLC has taken another step in the direction of educating, stimulating and inspiring people by launching services that will optimize returns on the money that low - and middle-income group people invest."
-publishedDateTime: 2022-05-05T20:08:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-5-5-al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-5-5-al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups"
+title: "AL STOCK TRADES Introduces Efficient Services to Optimize Management and Investment of Money by Low – and Middle-Income Groups"
+excerpt: "The company endeavors to democratize financial information and introduce efficient money management and investment services with a view to achieving ... software called BrainMachine and other machine learning algorithms, which will offer relevant ..."
+publishedDateTime: 2022-05-05T18:09:00Z
+originalUrl: "https://www.digitaljournal.com/pr/al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups"
+webUrl: "https://www.digitaljournal.com/pr/al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "PK5i00s9N/IJJjwt33ZHSJmD7nLXzZ623zdwsP/tYqOx/Vs3pfsq1dbtLyvskre+U+FJnC3xquwxV04ZdzAOq0ejzHgqnMgRwtKcKZ9Z+VKMvLYIsqGaTxgcbeWLe4DydOmGbSmHl6Gzj+7S76g+W4Xj8ylMHXZKl9eLyOzjXBAANcN/8otfnUG+isldIwV3UoG9SB56Ls5keI6xKlFXk3ZgYiuHASf2WU9YEiC7mry1yTt8q9Zz8r2X7by5Ko/S4sHw6wMqLrAAxgsOqI5HZ8duHOrFHsLqliDKp9DIQV/4Xz7npYBlCjRyKCsMsA0ZClIkFR8FbVxxHxJNjwqK+/wzHZv4ZNA4Ht1rxvi3ISU=;OL1i+ewMb/C7UCnjlT1ICA=="
+images:
+  - url: "https://orders.newsfilecorp.com/files/8404/122911_fb68ff7964363984_001.jpg"
+    width: 550
+    height: 334
+    isCached: true
+
+secured: "afth8umhtSMjR8hzzGTAiLnmHHdlocrhKKYu15lG1BEGtE8CzyY+7VOQEEbzQSVPQmyrrirc21dFOLiW1DV2sPM8S0dg8erK4vXJOpQreLWjvXuSbEIMyDzY8+CH0/elBQ1XP+Zkw5enivccihMpEy7yulzmwuepUHdRWICqsdu6/B1t4Ppj7EavpZwldT5c0SYmrBmoMzICY8KcqoSO1Ph9sR8RPTggumzoOvssuEDYl9iGtHF4Jk+UNTX+0FYeA+rBx+DnrYV85m+8j43fOUNtNmo+NELBNM4xnDtV/6K0Rhsohdf887gjqh7llozW7QfpVeqFPNN1IE3l4o4E+q6aiPYJBrEkwckSr3Qr+n8=;QvRCbChS518IW/1Cu/kArA=="
 ---
 

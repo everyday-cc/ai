@@ -110,20 +110,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
-    excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"
-    publishedDateTime: 2022-05-06T08:52:00Z
-    webUrl: "https://emerging-europe.com/business/czechia-looks-to-regulatory-sandbox-to-boost-fintech-innovation/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 24
-    images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2022/05/bigstock-prague-czech-republic-421448603.jpeg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Insights on the $332.5 Bn Fintech Market is Expected to Grow at a CAGR of over 19.8% During 2022-2028 | Vantage Market Research"
     excerpt: "Financial technology is one of the most widespread terms used for research in finance industry in present time. Financial Technology (FinTech) is the use of modern"
     publishedDateTime: 2022-05-09T08:52:00Z
