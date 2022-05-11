@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://nationalinterest.org/sites/default/files/main_images/globalhawk_1.jpg"

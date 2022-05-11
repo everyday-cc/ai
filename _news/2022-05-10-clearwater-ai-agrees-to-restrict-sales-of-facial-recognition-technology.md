@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/clearwater-ai-agrees-to-restrict-sales-of
 ampWebUrl: "https://www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/"
 type: article
-quality: 101
+quality: 103
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Computer Vision
   - AI
   - AI in Sales
+  - Facebook AI
 
 related:
   - title: "Clearview AI settles suit, agrees to limit sales of facial recognition database."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenqjyJexMZd2r"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenqjyJexMZd2r"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ITWeb
@@ -40,20 +40,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/TELKOM-executive-for-data-science-Stefan-Steffen-says-every-business-needs-digital-tools-to-remain-competitive-File-Image-IOL?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/709d6295-4a1e-53e4-bce5-2ab0ae0793fe&operation=CROP&offset=0x726&resize=5641x3173"
         width: 650
         height: 366
-        isCached: true
-  - title: "Telkom Business’ izwe.ai Brings Multilingual Translation Services to SMMEs"
-    excerpt: "In a multilingual country such as South Africa, businesses must be able to communicate their offerings in multiple languages. Through the izwe.ai translation component, businesses can expand their reach beyond English-speaking consumers. Steffen says that ..."
-    publishedDateTime: 2022-05-06T23:20:00Z
-    webUrl: "https://za.investing.com/news/telkom-business-izweai-brings-multilingual-translation-services-to-smmes-2550742"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 37
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
         isCached: true
 
 secured: "DCCG0BobKvDOK4jAjyRTbae5ILrEyx5P535SzrSPmb54L8jtRh2aXTfQDmSG++kpX3JUvXjyY62gAdzXwIdjmie1R4fZP10IAWsunmObdJjJw7jc+yCiMbm9w+H/7hnF5PiaB8D625ep3cKdpjwR0o7Xf60SJ7+6Ps2TR6iuaoluO35qBFoBzp2+TDRb38gyioprTjZYvKe+pghSJ8Vrjjdb6tyt++eUXG7caXWGDPEdUSxHflGtgvxgaVYMtrdLCFO530c/xosFDFEEmqvPuOdiZvttyoY36i+SebclERlXCXqurg3tbFevx3pKz3coHX2ibstgTmFMqqn6C5W2NtVrTJDcSx/+FqECQbHyVqPSlEbWSUdSyylcDAk2cV558qOmufk4KvglNm0CjpKecDkv+/TGdiUHY+cEfw7YY6B8guYB5IcPqmhKmQjZ5abmGgikwBT5ELP9f8yD9981SQ4vZvuDD/3PK3Mzjs7xsUjWiPDo8S6neFZfBAouOppBVRAdbFcv1cQrSp9pjrvi3Q==;ouZb3Wl8weK2EatKvTTtHw=="

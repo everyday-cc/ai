@@ -65,6 +65,20 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
+    excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
+    publishedDateTime: 2022-05-11T16:40:00Z
+    webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 50
+    images:
+      - url: "http://targetinfinity.com/as/www/delivery/avw.php?zoneid=39&cb=INSERT_RANDOM_NUMBER_HERE&n=a7f52682"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Avaya partners with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "Avaya and Microsoft Corp. have expanded their global partnership by pairing the industry leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations with more options to increase their productivity and customer engagement with unrivaled reliability,"
     publishedDateTime: 2022-05-11T09:40:00Z

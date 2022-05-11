@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-announces-cloud-tpu-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/iQRBBHULMzRf7joTSK6Fxn-1200-80.jpg"
         width: 970
         height: 545
+        isCached: true
+  - title: "Google announces AI-powered document summaries in Google Docs"
+    excerpt: "We've all been there—you have to read a document that could be published as a very boring novella, but time is short. Google has a solution, which it just unveiled at Google I/O"
+    publishedDateTime: 2022-05-11T17:37:00Z
+    webUrl: "https://www.androidpolice.com/google-announces-ai-powered-document-summaries-in-google-docs/"
+    ampWebUrl: "https://www.androidpolice.com/google-announces-ai-powered-document-summaries-in-google-docs/amp/"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-announces-ai-powered-document-summaries-in-google-docs/amp/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 57
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/b18771b4.jpg"
+        width: 910
+        height: 512
         isCached: true
 
 secured: "I3aBhOtiBZ0W5eyyn1eT7UqblVsskOj8iDVGksuyeGt534dhmzRJKcxBUP0cmnvoHdb77/l6rcEbMWyuS9wmXRZ+bJMWiEou8eICneYOu54XxvkDEHfhQnWXiJ54fZd38+OokXNIehwJd+dlpuP2vVmq5zY6H1DAfR9C/o4+G8P06ouM46K3F6KEuEPvTeHSybb8jYSMdgluvRpya23etf5L3kttJrJiwdpZaYiLEGq/Rqqq9cICWk+I6Dbw4lYNGNeJ14y8+IdMKpF0Dy3puNrD5TJ7KDqyLHrEiec3pJqqB4gjkX0Eqf58IefH2Aw2DdYj96s9JZdAQBn2pGHLJQBTH8bHuojIYfhJzM2kLaI=;TvLzhzKPYbmZP7cai/fVZw=="

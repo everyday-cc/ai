@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-int
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1024
     height: 681
     isCached: true
+
+related:
+  - title: "Concentric AI Raises Series A Funding Led by Ballistic Ventures to Autonomously Secure Business-Critical Data"
+    excerpt: "SAN JOSE, Calif., May 11, 2022 — Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, announced today it has raised $14.5 million in Series A funding. Led by Ballistic Ventures, a new VC firm solely ..."
+    publishedDateTime: 2022-05-11T17:06:00Z
+    webUrl: "https://www.darkreading.com/risk/concentric-ai-raises-series-a-funding-led-by-ballistic-ventures-to-autonomously-secure-business-critical-data"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 18
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
+        isCached: true
 
 secured: "JpNqhA6q5re+lNCptGD9AIR2xaoxxT77HEuRtHE5OQBWjk/1ZjiBOPpamBX+AgA3LU6MxfS1XvEr0bvroSloSVouR3O/DA+/Ib5+5CBs938IlixJz5hbgTr/g/IqKTD36wREM2djU8qQcYeopyEhh/Ewo99d+5N/kUGdJmWaBTafQrksOx5u6MlYvWpnHZnBK4RAPu5tTekFqKmmjEr7K+7xHkFBH7HQC6Nzf9k0aSrbZnclVpOa6rfQRg6UCQtX56Xds+PuKHM6mwsqkCysuGcJUs7cuxH9+abIQltlacmSUatkVt9iqnBhLNX+rewUu6g1SXuqECXRzUpT3L0DefMmbnZv6rV9np1CxTuskvM=;QBUJIbyGiYKuVkxL62AEhA=="
 ---

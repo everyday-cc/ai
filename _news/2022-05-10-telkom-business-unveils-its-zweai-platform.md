@@ -41,20 +41,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Telkom Business’ izwe.ai Brings Multilingual Translation Services to SMMEs"
-    excerpt: "In a multilingual country such as South Africa, businesses must be able to communicate their offerings in multiple languages. Through the izwe.ai translation component, businesses can expand their reach beyond English-speaking consumers. Steffen says that ..."
-    publishedDateTime: 2022-05-06T23:20:00Z
-    webUrl: "https://za.investing.com/news/telkom-business-izweai-brings-multilingual-translation-services-to-smmes-2550742"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 37
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
 
 secured: "R8wJvz0WgPyESxzEaoSJ/WynvKAJUHv3IKBL1EcNKRhtwI157rXzpyY39HhDSle+jFhdVSR0mjvKQ3sOgjwL8y8tGK4pz10MtIqj3CZ+20v2B5K2n4G4pPnXf+T6I2oldbXZ5uU7dt9Xkb8+NcJUBDkGRqAQxko7g15s2tYwLMEVrsyJ1DZts4Sfx7tg2mfiBG+TBhO+W2mLzfdndN5UOWjkrrG9j61N+vi9ZGLoWnV+aUV0D01q8Srl9rOwT1zYEX7w9p9V7G8JTsiZUWkLGd7cCxGu0Xg6Qhx/ryNWqpDjhreEB+PCMfbvdQ6EegU3hdXHuyrNEoEdqwTB2G7hxCX1D6V9fm/rdhY/gnCD81RCYW3ecv2+qV0OVOVjhYmlOGDdjGfDwB27pEqiRLvEGQUx+42+v7LokQesKE5tQJZhIU86A+B715usMHCj7S85JRkTDuXhE1relx6qjQIIorNMbFN7KNWh4upeiMER0MHn9tVrQMteQyfdxO1nKkWVhji0jMvx55g0cxElROO1mg==;p7gGA7vqyu1E2fVVcW5Nzw=="
 ---

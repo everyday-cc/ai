@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-custom
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 667
     isCached: true
 
-secured: "DOUoSwcELjnslxcsxG+5r9B/8fCQVZ+uIyIzr4YJAZ3n8XiQynFTTfx6OhoHkpQvE+vjotLo7vzZtl2ubSb+L5S9XDQBrfSLFLKc38P1H+XsmnhIPba83zgoOcZSgWw9Wv52De1P6D5eQ4Q/ndlNygwmtjv/IRxpLnTO02fm0ABnxszKAJOXgRRfnYG522lYssZ2Tiv7AJPYg22yW8IqS6pYtSNzGAI/9tEjpKQYjcUj9mBByOpfp2L8KcvmKxjXbxKJv3UblCcjzbw1Rx1psRCK/aeqPZWa7BTtBi1oe1L+2cjun/hqNq0EWUjtOVYY0imGx1FRc3udxj+7KUswjEDPDNnsMPdQDdhbwUJOTYw=;eKyXI66W5tsTbcJ31ev4yw=="
+secured: "rgJd5n0EsFOIalRS+vi5KbXqwHftEyTQIz9GZws+BFNt42pBfkWSAKDCUSds859RpXnhyT19boAcE7rQQO74A0/cB9QMUpv52/w4TuMV0Lsrw2st5rryXu6YqPvBz6emwycPqWwqr3s8kBwtcuv3v4ILJhSHsC5F+Zz1lNjkwrReBMihtnmYTeNYOxwiZv0udMCCC+TfMhDB6hrD5HcbbvPiqn/Z6/4gam6qAN37aBtIJal/15CuzvqStfHmdEU4dTvyh1kCzF5R70BpifHdL4DPNrnknEtNBydZdo6g5GxnnCUbmWIDlgYWH/kPo2XpPbyXArVmYVfBuv/frEFBuzECpqu2KDVFDF4FVJoBwhmD9zJ9LJiNxFsgouyqh5cNCTSMORiZmNutHjuHBpUFIdySJh50FW+DxJTirHSPtaqEYms35sin6igDAXXFfpYbmT770C/b1+5FzWuYadawpG+1Ufv77ZazVqcXSQxrScc4EbhRt3hrlibyG5/VKp8oFOXfY9IS/NPvcql412Z9Zw==;fRiDN4Uu4Ost9sXmfEl2iQ=="
 ---
 

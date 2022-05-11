@@ -1,21 +1,29 @@
 ---
 category: news
 title: "AI traffic light system could make traffic jams a distant memory"
-excerpt: "Long queues at traffic lights could be a thing of the past, thanks to a new artificial intelligence system developed by Aston University researchers.  The system – the first of its kind – reads live camera footage and  adapts the lights to compensate,"
-publishedDateTime: 2022-05-11T13:33:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/952327"
-webUrl: "https://www.eurekalert.org/news-releases/952327"
+excerpt: "The program counts that and then reacts to the data. Because the AI created by the Aston University team \"sees\" high traffic volume before the cars have gone through the lights and makes its decision then, it is more responsive and can react more quickly."
+publishedDateTime: 2022-05-11T16:42:00Z
+originalUrl: "https://techxplore.com/news/2022-05-ai-traffic-distant-memory.html"
+webUrl: "https://techxplore.com/news/2022-05-ai-traffic-distant-memory.html"
+ampWebUrl: "https://techxplore.com/news/2022-05-ai-traffic-distant-memory.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-ai-traffic-distant-memory.amp"
 type: article
-quality: 17
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-traffic-light-syste.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Aston University: AI traffic light system could make traffic jams a distant memory"
@@ -35,6 +43,6 @@ related:
         height: 400
         isCached: true
 
-secured: "oo7PKzHrrakIbAbKH3NCRDed5TH9Xtntna8g/FGBf3HDC5udV9/xZhW+574gV4jfIPxXumSKrCYUIOqtarT1MFFYE3Bh2r8OVON2tCqIGrvaeLHmSL5aCIWjPZSHI4ZQUDnlbDKaMi72VN7tXQn3Zh6dexBKEMvpOKrpHMBLcHJ9L8uFAzRBxVSn/DkmrmTWh7lSZDQk19yCpn8XfzSHbfkQsbb3O11UM32X8uteaepcIZhtd6+Oa+zA8c4pKCP1z7b98kHR9hoVRprF6S2LWM57LVLKCG2LgfsLsZ/DTjgupRfqcPtM7shbPKKcLil/8d4vo2cJ4ZVnOt3mn/eqYrx/LijXHiF8fqgvOttHQBM=;8ZqSRnH0CboJ0KiAa/1HsQ=="
+secured: "KygaHU5aOcMB4K1HH8vzv28ql3rtf1cFp1NFY/n9P4rGv/uMqEisn2+pXviyGo0U2FFQHUhVfzHOkoIcuuqUExSjaj8aQ40LmERK5OCHXWeWuTbWVqQYkxmup4VtcjjhjCyDUxWKOeB6woU7PSnAAVSYVhFXY3ZxXTVb3uDf33/v+ZJ4VjiE5S8agkeGhf4KSQhXaVQ0YXCeiI3n3VNR6kiWnzLJwUxDw1jkog38VESspUe2iJwYIn3HVfllgqYoUgLtKKHNL/wDmn7sVzduhtrph42Qse1Xi+FlL2IXqjHhQ+J6LNZDxgWDp+Txllx9GwEKp/hCUEi2NOnbnHjG05I5EMRhZ9FGN12ybtphb9c=;QYE9Pl6tJEJSvwq2eHe0Rg=="
 ---
 

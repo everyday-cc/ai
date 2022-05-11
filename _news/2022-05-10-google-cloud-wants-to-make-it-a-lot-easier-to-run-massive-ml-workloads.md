@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Google announces AI-powered document summaries in Google Docs"
+    excerpt: "We've all been there—you have to read a document that could be published as a very boring novella, but time is short. Google has a solution, which it just unveiled at Google I/O"
+    publishedDateTime: 2022-05-11T17:37:00Z
+    webUrl: "https://www.androidpolice.com/google-announces-ai-powered-document-summaries-in-google-docs/"
+    ampWebUrl: "https://www.androidpolice.com/google-announces-ai-powered-document-summaries-in-google-docs/amp/"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-announces-ai-powered-document-summaries-in-google-docs/amp/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 57
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/b18771b4.jpg"
+        width: 910
+        height: 512
+        isCached: true
 
 secured: "fZ9jb5Qny7SBaJl8GOEm+5i1p1dQWU0d4034V9OZktuN2ia4q6zr5PeC5GMAgdQHgIUB+pi/rXE+sQrEZHmbmu8m9qsn4ZM9w1pAY/rTr3y4MKsXo2NFFGbSLs+PjDlkpuG8TE6DRALQDw2boFYqKbFI2NrxWHGkcgQUiLPGoSf5apUoCVoldreqwLOElyFe3vbHqAKtWF4+sgTYsmjDAg2+FLK/uwRbYO0w6kCZWzfZ+OMIRo/3KEspRUI5gtnWYDKOmvdjjBKJub5GpIF8C9lvwSd6AoIzGDWGGx03sBWrxstXyiimRI/K5ViJJC3VPFsFQ8SSP9wJ85xIqMMwsxyLo5yIYcvUmEhF4a3E88ICKyROj7eyhi2TZLJaADbsw2cQNpDS7WhfXL5zr00QvZvbnBw6+7XYI2taCFlC+krMWWZlpnVVtva8MwpwnC2gppWifrknomqRhIFaYS0kg7x1lNg2igUbSYmhEhDomGIU8ktZ8S3USU1glbgRMbl29kcFPsvDiwpgCedXOiIsZg==;Ea5gwP/flBDqr6Qd1Fsafw=="
 ---

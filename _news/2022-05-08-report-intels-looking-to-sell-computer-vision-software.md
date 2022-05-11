@@ -7,8 +7,8 @@ originalUrl: "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-com
 webUrl: "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: PC Magazine
@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Revealed: Intel's plan to sell software simplifying computer vision training"
-    excerpt: "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register."
-    publishedDateTime: 2022-05-06T23:04:00Z
-    webUrl: "https://www.theregister.com/2022/05/06/intel_computer_vision/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/06/intel_computer_vision/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/intel_computer_vision/"
+  - title: "Intel to launch Sonoma Creek named computer vision software"
+    excerpt: "Intel is slated to be planning on introducing a computer vision development kit. The kit has been code-named Sonoma Creek, which will help the developers easily incorporate AI in their lined up products. As per the reports acquired from the internal ..."
+    publishedDateTime: 2022-05-09T05:49:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/intel-to-launch-sonoma-creek-named-computer-vision-software-2022-05-09-775177"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/intel-to-launch-sonoma-creek-named-computer-vision-software-2022-05-09-775177"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/intel-to-launch-sonoma-creek-named-computer-vision-software-2022-05-09-775177"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 71
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
     images:
-      - url: "https://regmedia.co.uk/2021/10/21/shutterstock_eye_computer_vision.jpg"
-        width: 1200
-        height: 601
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/05/intel-official-logo-intel-1652075294.jpg"
+        width: 360
+        height: 202
         isCached: true
 
 secured: "GAogF5IKq02AqSo+q7tbHWnWhkLcgECSkT87QHjxnt+xPkwCLkOA7dLYBOXMgy3/Qawxhjd74iv164YMRl1w7k0U+hibgesmmql+4k0hy1nj8qZeY5EunofOElIZzcTfhOQachHotKlVGK6UFUNZShHGuNJVdQF64bwtf76pJiQz3kq5BNs72bYgfSOmLlGIQLDk2Dh9H554AC6dJ7TL0e7NyhCATp6+MGlM8FfJjeHs2a6ndS9YzRtjXMICZTo1jbBL9kjR54Hi01t5s2VLIc0+3Sa6k+vf4XxN9uzVA+Ngt/ugPGLSMR2IyOCKsaupHbtuIh8symZT3hAyqjHqk2bjBqAbdR/nansewraeXGh3LgCeijeRxghW99e+Vd9ackJqCVIlBlpB9zf5un9lsFkUM7wTwuNFBaMuW0ZPS4GX7Qw/zhXG5fSyCrXC9XjJ28gkiWa+7tYEYpG3r7iX15UZ+zsklY0tw31y+d8V8eKFo1vdiZRvlWJtxsQ2ih2q0Sai8oZOyKqsXQIq6214EQ==;8j0zJHuxlaUIFgfU09wM1w=="

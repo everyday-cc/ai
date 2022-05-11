@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The 1997 chess game that thrust AI into the spotlight"
+    excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer. May 11, 1997 was a watershed for ..."
+    publishedDateTime: 2022-05-11T07:46:00Z
+    webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "The 1997 Chess Game With Garry Kasparov That Thrust AI Into Spotlight"
     excerpt: "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally achieved what developers had been promising for decades."
     publishedDateTime: 2022-05-11T03:52:00Z
@@ -43,20 +59,6 @@ related:
       - url: "https://c.ndtvimg.com/2022-05/3d14dnpo_garry-kasparov_625x300_11_May_22.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "The 1997 chess game that thrust AI into the spotlight"
-    excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out"
-    publishedDateTime: 2022-05-11T03:21:00Z
-    webUrl: "https://www.digitaljournal.com/world/the-1997-chess-game-that-thrust-ai-into-the-spotlight/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/06c11a108d0e6ea1955723c2752aeb35beb7e488.jpg"
-        width: 768
-        height: 512
         isCached: true
 
 secured: "UoasXFmDd7lv91igA+XcsbiImbTGTCykrfYsRgnRloQaoK55LIQ/P3G+FVnZdnFG9wi49iF/cMcOA4xQw9JUQqWfjiuLPH90U8tgR3POyfukZ5GZ+UszVuiQB09YXSGWx8i2DCU6pr5+d8h+cee86rg+rRJbvY1sJyj1OFEIg6EaeikpdZHvD9nLhli+iFPhTVVCKLmScx/DSj+i80EbUawyW9Wmud40gd/rA2eVBgtzxO/otKC75wxWRmiVvt/YoRfB+gJhqUHSjp4SsTgoT6cZe625FkNm/s1KekWCT7GcIwXrJl2gW3z5ISXszyHvUBiq1p48usStCf9TXupJVp8WJSGHolcr+nrCBBUtguGNr36/7cR3QpaE8YhYZtzKHzcPe2RO+TxRyCwxZ+u8QRwhzaPY62opKyVLfXaIzurunz8qmPmfDRT2DrKD6qvy4jVFXcgs1ky6mCxI79RNUVr3tg9eb1yffKWpPhEr05dEZLBWqs6UieqTdeo3cUSPfVCrr+g+oRBQ82ilW8fnIA==;/eVmytyUTbOAbayM1FJuZA=="

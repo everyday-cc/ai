@@ -103,7 +103,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 101
+    quality: 103
   - title: "Controversial facial recognition company Clearview AI banned from selling to private US businesses"
     excerpt: "The facial recognition company Clearview AI is now banned from selling its tech to private US businesses, per a settlement agreement filed Monday."
     publishedDateTime: 2022-05-09T20:47:00Z

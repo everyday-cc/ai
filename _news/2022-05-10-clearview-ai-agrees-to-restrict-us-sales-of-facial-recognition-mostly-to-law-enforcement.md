@@ -79,6 +79,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Clearwater AI agrees to restrict sales of facial recognition technology"
+    excerpt: "In a landmark settlement, facial recognition company Clearwater AI, known for downloading billions of user photos from social media and other websites to build a face-search database for use by law enforcement, has agreed to cease sales to private ..."
+    publishedDateTime: 2022-05-10T04:03:00Z
+    webUrl: "https://www.zdnet.com/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
   - title: "Clearview AI To Be Banned From Selling Facial Recognition Tech To Most Firms"
     excerpt: "Clearview AI, a startup that operates a massive facial recognition database, has agreed to a nationwide ban prohibiting it from selling access to the technology to most private companies and private individuals. The ban comes from a settlement Clearview AI ..."
     publishedDateTime: 2022-05-09T20:36:00Z
@@ -95,17 +106,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Clearwater AI agrees to restrict sales of facial recognition technology"
-    excerpt: "In a landmark settlement, facial recognition company Clearwater AI, known for downloading billions of user photos from social media and other websites to build a face-search database for use by law enforcement, has agreed to cease sales to private ..."
-    publishedDateTime: 2022-05-10T04:03:00Z
-    webUrl: "https://www.zdnet.com/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
   - title: "Controversial facial recognition company Clearview AI banned from selling to private US businesses"
     excerpt: "The facial recognition company Clearview AI is now banned from selling its tech to private US businesses, per a settlement agreement filed Monday."
     publishedDateTime: 2022-05-09T20:47:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
 webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: MedPage Today
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Killer Robots Are Here—and We Need to Regulate Them"
+    excerpt: "Argument: Killer Robots Are Here—and We Need to Regulate Them Killer Robots Are Here—and We Need to Regu... | View Comments () Swarms of robots with the ability to kill humans are no longer only the stuff of science fiction."
+    publishedDateTime: 2022-05-11T13:46:00Z
+    webUrl: "https://foreignpolicy.com/2022/05/11/killer-robots-lethal-autonomous-weapons-systems-ukraine-libya-regulation/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 39
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2022/05/killer-robots-lethal-autonomous-weapons-GettyImages-1131807237.jpg?w=1000"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Future of Health- New Age of Virtual Reality (VR) in Healthcare Industry"
     excerpt: "The waves of technological advancements have touched the shores of many sectors and businesses. Artificial Intelligence (AI), Virtual Reality (VR), and"
     publishedDateTime: 2022-05-09T07:44:00Z

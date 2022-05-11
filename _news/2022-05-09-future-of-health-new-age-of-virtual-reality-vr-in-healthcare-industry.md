@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Killer Robots Are Here—and We Need to Regulate Them"
+    excerpt: "Argument: Killer Robots Are Here—and We Need to Regulate Them Killer Robots Are Here—and We Need to Regu... | View Comments () Swarms of robots with the ability to kill humans are no longer only the stuff of science fiction."
+    publishedDateTime: 2022-05-11T13:46:00Z
+    webUrl: "https://foreignpolicy.com/2022/05/11/killer-robots-lethal-autonomous-weapons-systems-ukraine-libya-regulation/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 39
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2022/05/killer-robots-lethal-autonomous-weapons-GettyImages-1131807237.jpg?w=1000"
+        width: 1000
+        height: 666
+        isCached: true
 
 secured: "JBzShpAoqlgBvZ+3ar8TNYGDc4K7kwOPCb1rz1FzE9fspFT4+czxI5InzBHm5FavWvxXqNS9nBov1SxAruGPxhzRxmbQApIOjGaJXju6vrlZgLBnJ5WYAXrDP9UicEXkEoUI4dti5i/F3OJbz4lfQEjmXyxwmwhuJR41jsjOFZfx3ip5rPK4cGeiZ7BTPdnjWQ7fdx2jkkYpz5aT55gtSXBybkleAEC8KHdeHvH88DZQiowXCGYWj0LO/xkm+TM8Yl1ZGA4GSVOZL0ggFdV7P/DVTk64PJeEoRy8WG0gHzadNOCzRr7vFFWYEBxoHylZHiG0cEiiaO2sLbGYi8IuhcyHlLtr+MeHVo2xXo8qCzY=;MqriRlT+EMKsbDtMZ3DBmg=="
 ---

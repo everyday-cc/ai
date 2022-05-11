@@ -3,18 +3,15 @@ category: news
 title: "Artificial intelligence helps decode sounds of the animal kingdom"
 excerpt: "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human."
 publishedDateTime: 2022-05-06T13:37:00Z
-originalUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
-webUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
-ampWebUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
-cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
+originalUrl: "https://www.10news.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+webUrl: "https://www.10news.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+ampWebUrl: "https://www.10news.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
+cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
-  name: WXYZ Detroit
-  domain: wxyz.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
   - AI
@@ -25,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JxFiZJ16dLY/6kqK88J8x2rlrmu1em1O3kYszrdAoHopYel/hCirQoys8SqMlG7a9aLn9peIwl7cjKu6EyS1o/9aiWm/sjuI4E7cfdQKL1eqkUUdK6G51CP3n4BItemdJ0cZbRZH809CeYQuxel0VfZlGn/r1apmMD+zVOd38PiOVSyASVhe5rN9AjcrNnLfcfRfbojN4tGwmNowikHr25f8ugm5D0eH3T/mvdz+1RKz9jOL+s1gtEzXHcG4A0F7Ox75UGWF04VulKosQF94wtW2u8hxPi09sVpYEfUWgDmIg3fqhUzyN+E9N6kNRAjywjPJiEYNr7nhqQiKF2grS+R4CjqQMkEP2P6D5YJXQ+LMjE3xx/2o+KuF9ceLpE20r+jndtmNovjMNVNqzfRD07pL1G66NZfdVLd4I/NC2l3Mz375YQkurL/+JaRzP3UWGZ8/Vil9egaUsidPWd6gE29+ktTVXw5sBgZ5sLwnLXsgdcxC0L3UhKJVNVtY6xbsqDqcfWXZNYDh7q8D++SiaQ==;6oZoRFHiol+dSXktbAnQRg=="
+secured: "Pl1WJOZHu0AXMn24Z2w+upaxH4DVgBksrniMKeXplE2B9tiz4vScXy53ODN6NApvlV33oJaIm6YO6kVgGmzLrxhMbNAJ8ejW2cVMrRAKm9qXjxfqAj/TbTVQJvVcWwLYavH7QAYTKOp6ooZcNNqV6HEzrqr8DJaP9BJUKSPOzi1EL2gm5a5B11HygGEasx4htxoZi8zcHCIlRi9b2njl9htnpOX4KG+Bz8Q6q1IZvSqZUwBaaW124cxFLpy72cPnk2/mEG4GF7Hv3X29lznaPbKCl/trZ74RPmAeJSkfxFixbOCsD2h93+XSf90WjUJhfBIccO7Qhe9Twf/IgkAX0PUiRY+8ztQIyvFG029C6gk=;I1gmfkfQy+L/B9kg08MT/w=="
 ---
 

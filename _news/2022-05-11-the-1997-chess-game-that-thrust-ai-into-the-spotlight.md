@@ -1,26 +1,30 @@
 ---
 category: news
 title: "The 1997 chess game that thrust AI into the spotlight"
-excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out"
-publishedDateTime: 2022-05-11T03:21:00Z
-originalUrl: "https://www.digitaljournal.com/world/the-1997-chess-game-that-thrust-ai-into-the-spotlight/article"
-webUrl: "https://www.digitaljournal.com/world/the-1997-chess-game-that-thrust-ai-into-the-spotlight/article"
+excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer. May 11, 1997 was a watershed for ..."
+publishedDateTime: 2022-05-11T07:46:00Z
+originalUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
+webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
+ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
 type: article
-quality: 37
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
+  - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/06c11a108d0e6ea1955723c2752aeb35beb7e488.jpg"
-    width: 768
-    height: 512
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -57,6 +61,6 @@ related:
         height: 400
         isCached: true
 
-secured: "J7MVmU4imYxvI/O3UBte5+shQOloWHfjdDqJ3z7ctRVRhGwZv1dTP7BpaPMVA9FwuHNmxIiEZQ9/0UN5YaLQinaxkT+RxeTNXhFPG3vuvdPmw5WUkbvYLF7NtpJXqYj3DXA2XaHJpbiYpYtFScgjCYsgX4H1H8oLlTLe7YGdVXLm16NEJ1U+Fobj9F7df8J9FErVzwP5bvzTW4QjLT8ZU5NwMRMtKld0EClee2QVAXjIvB778bgxLQ3Q9o+NjMgTQPTwZUeHg0Yvl1LDLU05dlluTE6fQeASitd2K8a8WgSHOpmrZD03UZ8pYksDTq0C7QXm+SPadkuMrMMhQ05vt7GOUdhKM/xP4eWaXJZDyhk=;Dyjcfwden/PGVaNovDRXUw=="
+secured: "2LvqYz+FDI7cWi+bt7W1Wwfxgb+r9FLEMn69KJIOKS5qBUnVUoXGg2FIn9SSq0MaBA1E3EM/nfboIbs36zJqX4obSC+HxYUowfFzCWStyw163xGVPFovbCASrKEam4JXe9PuJ8f+jWJjJcYKZZK5i++OGYWnj5tVEVKi0i8tTu4/XHQPc0/IpbnAUSML7jbg/nB2+ynYAyNB+nNjQd1hLZOED3z5ZV/iQtqvw6oO9QOXZCkBuU3lDfzWfnuh7/rTE5BMDTPOevZTpMj9FT544bLD1ouTIA1m1T8eH5Ek0ex1XiJbJNNVZH9auFBG46fpiv23Ax4ArnIgVlQ9dCRN0D6JM7BQR1qhrDrOmZOdqPw=;TdrKhRjuGL2SNMZThwpGjQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-23-how-to-protect-ai-from-cyberattacks-start-with-the-data.md",
+      "title": "How to protect AI from cyberattacks – start with the data",
+      "excerpt": "AI is a digital technology, which means it can be compromised particularly when confronted by an intelligent attack",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/",
+      "originalUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/Ai-Security.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/amp/",
+      "publishedDateTime": "2022-04-22T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-gist-researchers-teach-robots-to-identify-partially-hidden-objects.md",
       "title": "GIST researchers teach robots to identify partially hidden objects",
       "excerpt": "Typically, when AI is presented with a scene of cluttered objects, the system will try to identify each item based only on its visible parts.",
@@ -1307,49 +1359,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-use-automation-to-support-experience-not-to-cut-costs.md",
-      "title": "Use Automation to Support Experience, Not to Cut Costs",
-      "excerpt": "For some this means we've delayed our robot overlords from taking control, to others this means ... Tim Kulp is the Chief Innovation Officer at Mind Over Machines and a member of the Forbes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/",
-      "originalUrl": "https://www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/3aec731273844ef5ad2c77d291e5fa37.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/amp/",
-      "publishedDateTime": "2022-04-14T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

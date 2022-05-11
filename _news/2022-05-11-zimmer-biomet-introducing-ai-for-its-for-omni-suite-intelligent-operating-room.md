@@ -25,14 +25,19 @@ images:
 
 related:
   - title: "Zimmer Biomet Debuts First-of-its-Kind Artificial Intelligence Capabilities for Omni™ Suite Intelligent Operating Room"
-    excerpt: "data analytics and artificial intelligence. With 90+ years of trusted leadership and proven expertise, Zimmer Biomet is positioned to deliver the highest quality solutions to patients and providers."
-    publishedDateTime: 2022-05-10T11:29:00Z
-    webUrl: "https://whnt.com/business/press-releases/cision/20220510DE51463/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for-omni-suite-intelligent-operating-room/"
+    excerpt: "We seamlessly transform the patient experience through our innovative products and suite of integrated digital and robotic technologies that leverage data, data analytics and artificial intelligence. With 90+ years of trusted leadership and proven ..."
+    publishedDateTime: 2022-05-10T11:17:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for-omni-suite-intelligent-operating/article_739d925b-aacc-548a-85b1-9c6bb8123159.html"
     type: article
     provider:
-      name: WHNT
-      domain: whnt.com
-    quality: 0
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 13
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/a2/5a213679-2d83-5be9-a7f6-0c4114afbb65/612e0c67988dc.image.jpg?crop=650%2C341%2C351%2C0&resize=650%2C341&order=crop%2Cresize"
+        width: 650
+        height: 341
+        isCached: true
   - title: "Zimmer Biomet Debuts First-of-its-Kind Artificial Intelligence Capabilities for Omni(TM) Suite Intelligent Operating Room"
     excerpt: "We seamlessly transform the patient experience through our innovative products and suite of integrated digital and robotic technologies that leverage data, data analytics and artificial intelligence. With 90+ years of trusted leadership and proven ..."
     publishedDateTime: 2022-05-10T11:32:00Z

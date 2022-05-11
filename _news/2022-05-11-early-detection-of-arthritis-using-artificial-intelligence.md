@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/952230"
 webUrl: "https://www.eurekalert.org/news-releases/952230"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Mayo Clinic-Developed AI Algorithm Can Detect Weak Heart Function"
-    excerpt: "Mayo Clinic researchers have created an artificial intelligence (AI) algorithm that uses single-lead Apple Watch electrocardiogram signals to detect a weak heart pump, specifically low ventricular ejection fraction."
-    publishedDateTime: 2022-05-09T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/mayo-clinic-developed-ai-algorithm-can-detect-weak-heart-function"
+  - title: "Artificial Intelligence Revolution Has Started With Arthritis"
+    excerpt: "Scientists and physicians have now succeeded in teaching artificial neural networks to differentiate between rheumatoid arthritis, psoriatic arthritis, and healthy joints. This new finding is described in the journal Frontiers in Medicine. There are many ..."
+    publishedDateTime: 2022-05-11T17:44:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-revolution-has-started-with-arthritis-207050-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-revolution-has-started-with-arthritis-207050-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-revolution-has-started-with-arthritis-207050-1.htm"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 17
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/stem-cell-osteoarthritis-knee.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+  - title: "Accelerating Startup Innovation with Simulation, HPC, and AI"
+    excerpt: "But these complexities don’t have to keep you up at night. Smarter, simpler, and scalable simulation, HPC, and AI solutions can unlock your potential and transform your startup."
+    publishedDateTime: 2022-05-11T13:20:00Z
+    webUrl: "https://techcrunch.com/sponsor/altair-sponsor/accelerating-startup-innovation-with-simulation-hpc-and-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "AI Could Be Used To Detect Arthritis Earlier"
+    excerpt: "In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen, computer scientists and physicians have now succeeded in teaching an artificial neural network to ..."
+    publishedDateTime: 2022-05-11T10:14:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/ai-could-be-used-to-detect-arthritis-earlier-361480"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/361480/ai-could-be-used-to-detect-arthritis-earlier-361480-640x360.jpg?cb=20220511"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Early detection of arthritis using artificial intelligence"
     excerpt: "In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen, computer scientists and physicians have now succeeded in teaching an artificial neural network to differentiate between rheumatoid arthritis,"
     publishedDateTime: 2022-05-10T13:47:00Z

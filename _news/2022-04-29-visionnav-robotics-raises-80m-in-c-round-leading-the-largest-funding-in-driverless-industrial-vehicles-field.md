@@ -17,11 +17,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/04/400x225-Free-Trip-Tuesday.jpg?w=2000&#038;ssl=1"
+  - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
     width: 400
-    height: 225
+    height: 215
     isCached: true
 
-secured: "fRWoNGJfpsqaYlUnWERsL3oQsK+r6wRxVvgPH37yhtuK1CMIsj6/GlfxhzO2znZT+PvrC8pt870SuXNNcAc8OKzBfz5sbFOQfD8Cp9QaVq2wdPpn5IH0uJCQmXRbXOrSTTM+DBhRsDGAy8qyDgLaqBbxQ1UoEuetDJz8WvDwmQaYVznETWCbU6GvDQp8GaF6/KTOWdahs7Nzl+6X4QJeXmkLXysGDKT/1/JULfa+RrMPoDIb0273morphSAU27FKJeb6N6wAie3PAXK6n/AbZVujM78kTV6atP+Sj/FHT66T7kA+d49G6eSMTatSghnuF/7dIQn85zFLNeDP0lMzUVeJMHXAOPFJDPem/u9SBT8=;ZtUUYoYHtvh+I4d4xFEO6w=="
+secured: "Za1Mr2FGRqRi8jWaGMc5XAbAKW5WM2QxYfb36/00bX7yjupc/0vEaes4tNZb3fAcLnGy9dQn9Ga4kdDfF0lNJdflPqRA4kynoDg/LLurqPRn9MS0/KNG1XZm7bBbUydeoDby56ol+vuoLC+DbySr9eXHPROWVpHz4xD8ntftHe3GnLk3PqdwHmTFqOziSfFy9ekhpCS6mb9TosNxbQWSIekrd4ceetSto63iBd4mNH4lexzfS1UScQo4ciWHUpgzteGRDrvmnyI1YPpf043re2Kn1Kx3Zz6JyXha/D8xRkUJxMNZebfAVKHGkqUw1NyANFlCi3BLJdDEVwwtlyIeTLbSputFR+nj2swideyT14A=;i+wj1SpCiAChhVjBvtL+pg=="
 ---
 
