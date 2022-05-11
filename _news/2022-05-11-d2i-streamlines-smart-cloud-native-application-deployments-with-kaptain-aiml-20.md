@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/D2i-Streamlines-Smart-
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/D2i-Streamlines-Smart-Cloud-Native-Application-Deployments-with-Kaptain-AI-ML-20-152869.aspx"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -34,7 +34,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

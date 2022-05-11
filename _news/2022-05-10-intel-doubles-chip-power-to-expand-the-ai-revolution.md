@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-doubles-ai-chip-power-to-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-doubles-ai-chip-power-to-expand-the-ai-revolution/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -146,6 +146,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
+  - title: "Intel unveils new cloud-to-edge technologies at Vision"
+    excerpt: "To accomplish this, Nourish + Bloom worked with Intel and UST, a leading transformation solutions company, to tap into the collective technical knowledge for building innovations like a next-generation self-checkout using computer vision technology and a ..."
+    publishedDateTime: 2022-05-11T09:42:00Z
+    webUrl: "https://it-online.co.za/2022/05/11/intel-unveils-new-cloud-to-edge-technologies-at-vision/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "8BeRHzvwjhOypoGQiqKMjzC6dEO1uqJR8zTJPGVSRWa0nQtWW5LhcVUFBMxC/dtkRzp8UBKq8vHMpAD4Sbk6S1fkwSaEmJsFTGa0I7HnAEZz3FU/CcphSkDsLa3L8x7LSF4gezbA4+EVnvE6NPNfObTI14jNiekFW2hNWUU6NEs4UUXoBcKGQAG93J99z7XpS+kyA2J+q58sJVqGF6sDmZ2vzhrjKcCZJ5q4IxPkiVYgEv5Qcjc5g9Pt1vFOWD2cV/AIjgdjgNwcrzmL2canlTN2fpBls6pmritbE1s8rw9HwCdHbqWv8H9xO5SHuE9PoDRfvcnDTkm/GyE3dabdAPxeA8Vf2jYh6vfW9qQ64oIXwQk9AYPhshn5pTNS2f51LeDG0XxFgjfm/97vrpRuJ3/mAmshDmsnAT1zBBk3c4SHIYx10/7CghCQVRw1Va6FttfA6pje1Wp4uylBKsfRTCYcTBSC+ZuRjtFMPQyImM8U++9o/vXFlkHryZkWVGD0cnFFNf0i2m7gDRiqHAbMjw==;/FZhExhMBTertMKDTaXdrQ=="
 ---

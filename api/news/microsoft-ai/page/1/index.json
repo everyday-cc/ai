@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-11-avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure.md",
+      "title": "Avaya expands partnership with Microsoft to offer OneCloud solutions on Azure",
+      "excerpt": "The global scale of Microsoft helps ensure that our joint customers rapidly deploy Avaya OneCloud solutions in any cloud environment of their choic..",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91490488,imgsize-6487,width-1200,height-628,overlay-ettelecom/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488",
+      "publishedDateTime": "2022-05-11T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-microsoft-readies-its-latest-industrial-metaverse-pitch.md",
       "title": "Microsoft readies its latest 'industrial metaverse' pitch",
       "excerpt": "Microsoft is positioning a number of its enterprise components, from IoT to Synapse Analytics, as its stack ready to take on the 'industrial metaverse.'",
@@ -116,7 +159,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -353,15 +396,15 @@
       "title": "Tailored Cognitive Therapy Helps Black Women Fight Insomnia",
       "excerpt": "WEDNESDAY, May 4, 2022 (HealthDay News) -- A cognitive behavioral therapy (CBT) intervention for insomnia tailored for Black women improves sleep outcomes and intervention engagement, according to ...",
       "sourceUrl": null,
-      "webUrl": "https://azdailysun.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f67aab5d-46af-5957-a490-f075beb302e2.html",
-      "originalUrl": "https://azdailysun.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f67aab5d-46af-5957-a490-f075beb302e2.html",
+      "webUrl": "https://billingsgazette.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f48f94f2-8aec-569e-a66b-0980561fdd18.html",
+      "originalUrl": "https://billingsgazette.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f48f94f2-8aec-569e-a66b-0980561fdd18.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/8/ef/8ef36d0e-a998-5676-b3dd-de7c7e89b16d/6272ac7d2f28b.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/2/b9/2b9fde95-caf0-5aa0-a34a-dfbe8a15d144/6272ac68bd4e4.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
           "width": 600,
           "height": 315,
           "title": null,
@@ -373,11 +416,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T09:52:00-07:00",
+      "publishedDateTime": "2022-05-04T09:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Arizona Daily Sun",
-        "domain": "azdailysun.com",
+        "name": "Billings Gazette",
+        "domain": "billingsgazette.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1386,40 +1429,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings.md",
-      "title": "Can Strength in Azure Cloud Aid Microsoft's (MSFT) Q3 Earnings?",
-      "excerpt": "Azure’s revenue growth is likely to reflect continued strength ... Microsoft also completed the acquisition of Nuance Communications, a leader in conversational AI and ambient intelligence across industries like healthcare, financial services, retail ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
-      "originalUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp",
-      "publishedDateTime": "2022-04-25T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

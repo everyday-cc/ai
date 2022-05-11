@@ -27,118 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise of Fintech Companies and Its Impact"
-    excerpt: "We have seen unprecedented developments in financial technology, otherwise known as “fintech” during the last few years. While there is no universal definition of what Fintech is, it is generally understood to mean companies using technology in developing innovative solutions to enhance their products,"
-    publishedDateTime: 2022-05-06T16:51:00Z
-    webUrl: "https://techbullion.com/the-rise-of-fintech-companies-and-its-impact/"
-    ampWebUrl: "https://techbullion.com/the-rise-of-fintech-companies-and-its-impact/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-rise-of-fintech-companies-and-its-impact/amp/"
+  - title: "Healthcare Natural Language Processing Market is estimated to register a CAGR of 16.7% during the forecast period 2022 – 2032"
+    excerpt: "The healthcare natural language processing market is expected to rise at a CAGR of 16.7%, with the market valuation reaching US$ 14.6 Bn by the end of 2032.One of the key drivers and investors in the natural language processing business is large corporations."
+    publishedDateTime: 2022-05-09T07:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-05-09/healthcare-natural-language-processing-market-is-estimated-to-register-a-cagr-of-167-during-the-fo"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 29
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/05/the-rise-of-fintech-companies-and-its-impact.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "FinTech products and solutions for the world – India’s next big opportunity"
-    excerpt: "According to a report by PWC, in 2022, the fintech sector is poised to affect the global economy with a market value of approx. $310billion, a significant increase over its 2018 valuation of $156billion."
-    publishedDateTime: 2022-05-09T17:28:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-products-and-solutions-for-the-world-indias-next-big-opportunity/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-products-and-solutions-for-the-world-indias-next-big-opportunity/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-products-and-solutions-for-the-world-indias-next-big-opportunity/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 42
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/Pic-1A.png"
-        width: 498
-        height: 370
-        isCached: true
-  - title: "Exploring The Galaxy Of Fintech Services Within The Metaverse"
-    excerpt: "The future of fintech within the metaverse looks promising, with applications being developed to facilitate virtual transactions, impart financial education and enhance the user experience of customers and employees."
-    publishedDateTime: 2022-05-10T13:33:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/05/10/exploring-the-galaxy-of-fintech-services-within-the-metaverse/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
-  - title: "The customer engagement imperative: What banks can learn from the FinTech playbook"
-    excerpt: "They discuss the challenges banks are facing as a result, what they should be investing in and leveraging to tackle this challenge, and how they can use data and AI/ML technologies to create superior customer experiences that drive growth. They also ..."
-    publishedDateTime: 2022-05-10T11:17:00Z
-    webUrl: "https://www.finextra.com/videoarticle/2641/the-customer-engagement-imperative-what-banks-can-learn-from-the-fintech-playbook"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 33
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/finextratv-capgemini-10052022-850.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Here’s an Exclusive Look at the 9 Australian Fintech Companies Hitting the Stage at Demo Day Next Month"
-    excerpt: "Austrade, the trade promotion agency, is bringing nine market-ready Australian fintech companies to the US that are poised to expand internationally."
-    publishedDateTime: 2022-05-10T17:27:00Z
-    webUrl: "https://www.alleywatch.com/2022/05/australian-fintech-regtech-insurtech-companies-austrade/"
-    ampWebUrl: "https://www.alleywatch.com/2022/05/australian-fintech-regtech-insurtech-companies-austrade/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2022/05/australian-fintech-regtech-insurtech-companies-austrade/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 28
-    images:
-      - url: "https://www.alleywatch.com/wp-content/uploads/2022/05/AUSTRADE-AUSTRALIAN-FINTECH-COMPANIES2.jpg"
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
-        height: 623
+        height: 448
         isCached: true
-  - title: "How Technology is Preventing Market Abuse in Fintech"
-    excerpt: "Jordan Domash is the GM of Relativity - a leading regtech that specialises in fintech data management, discusses market protection through technology"
-    publishedDateTime: 2022-05-07T08:08:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-technology-is-preventing-market-abuse-in-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/6819b2eb10f6ca722d7b309ca0e71219:b72e7b07587b543bd0d419642a335bbf/gettyimages-1335295270.jpg.jpg"
-        width: 1799
-        height: 1010
-        isCached: true
-  - title: "T3 2022 recap: Top takeaways from the adviser fintech conference"
-    excerpt: "After the Covid-19 delta variant cancelled the 2021 event, the T3 conference made its long-awaited return this week in Denton, Texas."
-    publishedDateTime: 2022-05-06T18:38:00Z
-    webUrl: "https://www.investmentnews.com/t3-2022-recap-top-takeaways-from-the-adviser-fintech-conference-221185"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 4
-  - title: "Learning to Live with Fintech"
-    excerpt: "It takes two to tango, and banks and fintechs are increasingly realising this. while such tie-ups help the former slash operational costs, for the latter, it promises access to a wider universe."
-    publishedDateTime: 2022-05-09T12:12:00Z
-    webUrl: "https://www.fortuneindia.com/long-reads/learning-to-live-with-fintech/108091"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 4
-  - title: "Fintech TIFIN’s Financial Answers Acquires Two Additional Digital Asset Firms to Expand Data Platform"
-    excerpt: "TIFIN is an AI-powered Fintech, which “leverages data science, investment intelligence, and technology to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
-    publishedDateTime: 2022-05-06T18:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/05/190719-fintech-tifins-financial-answers-acquires-two-additional-digital-asset-firms-to-expand-data-platform/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "nsSEss52+DH1QFQ08oAO6ZLwdxz+a4jV8hOJVVgD7Fj23ZfHcdIMbW8b0R0YSL564au5q6A2gIuLuvFf2VyUo41ZoqOn+nAFMyqAyxVeNcAD52c3Rd7s2pxaVHEQ7vsjaMlsGBw3TqIqf/i/UDRV0Iv7TbtkZ0VSrkb0r3W3kmv7VCvLScXgiPYQ9+Ebre9oCmF1sUEa8GCo1ZouPqfVUu7jv3f2WEa4D3mGmj9iVpPY6GH23wdlti5LgLGL+AE7ykCea8sT3Ldg4OC2UA5YClPzRXxazzAir+h5qhW15hFK3gCrsvs6RwjVA1IES7stT4j/L+JTnU6TwvnpT4GVQ77VoxmTgYg9N50vmfKF4v2pnHOQxY50+9hh78/Sq77fJu+j8lAhG77N/JTctD/2ibZVUsyYVyzOX6/pc4vh4uTWEmLdz4ocndkmQXzUPIKzrYdTnNLpIrui/zy/2dtV2pa/rdDgVrfsKx07M+jTWe9fTWiqYLiIJ+4TEaE6wnlTgu6vcLMScwrDlKEYt53xlg==;nsYnFDw+6X2xK+/+7213Vw=="
 ---

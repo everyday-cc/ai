@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://compote.slate.com/images/dbb98a1a-570e-4364-9c04-4341ad94f821.jpeg?width=780&height=520&rect=5510x3673&offset=0x0"

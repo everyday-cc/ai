@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-10T14:17:00Z
 originalUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
 webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
 type: article
-quality: 50
-heat: -1
+quality: 52
+heat: 62
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

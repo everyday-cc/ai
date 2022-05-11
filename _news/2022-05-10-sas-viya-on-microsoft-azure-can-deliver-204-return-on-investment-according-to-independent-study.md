@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-micros
 webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.computerweekly.com/visuals/German/article/teamwork-puzzle-2-adobe.jpg"
         width: 1200
         height: 400
+        isCached: true
+  - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud solutions on Microsoft Azure"
+    excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, and Microsoft Corporation have expanded their global partnership by pairing the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organisations with more options to increase their productivity and customer engagement with unrivalled reliability,"
+    publishedDateTime: 2022-05-11T09:08:00Z
+    webUrl: "https://www.itweb.co.za/content/lwrKxq3YG5D7mg1o"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/lwrKxq3YG5D7mg1o"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxq3YG5D7mg1o"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 57
+    images:
+      - url: "https://lh3.googleusercontent.com/IsADlNsJ5quYT4eXuGJwDIfAqEuO6_jbZJT2ngR6Igug4EocWVXf8usDsRWV4gvXgZCa8gWe2xClJeJoC9eR7aC4=w816-h428"
+        width: 761
+        height: 428
         isCached: true
   - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "The joint technology and go to market agreement will help customers accelerate their digital transformation initiatives in the cloud"

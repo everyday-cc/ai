@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Build a custom Q&A dataset using Amazon SageMaker Ground Truth to train a Hugging Face Q&A NLU model"
-    excerpt: "In recent years, natural language understanding (NLU) has increasingly found business value, fueled by model improvements as well as the scalability and cost-efficiency of cloud-based infrastructure. Specifically, the Transformer deep learning architecture, often implemented in the form of BERT models,"
-    publishedDateTime: 2022-05-06T16:29:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/23/ML-4130-image015.jpg"
-        width: 1287
-        height: 1024
-        isCached: true
   - title: "Process larger and wider datasets with Amazon SageMaker Data Wrangler"
     excerpt: "Amazon SageMaker Data Wrangler reduces the time to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio. Data Wrangler can simplify your data preparation and feature engineering processes and help you with data selection, cleaning, exploration, and visualization."
     publishedDateTime: 2022-05-06T17:30:38Z
@@ -56,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ml-9302.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "Amazon SageMaker Serverless Inference Now Generally Available"
+    excerpt: "Amazon recently announced that SageMaker Serverless Inference is generally available. Designed for workloads with intermittent or infrequent traffic patterns, the new option provisions and scales compute capacity according to the volume of inference ..."
+    publishedDateTime: 2022-05-08T07:25:00Z
+    webUrl: "https://www.infoq.com/news/2022/05/sagemaker-serverless-aws/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2022/05/sagemaker-serverless-aws/en/headerimage/header%2810%29-1651773407852.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "SqvQBou3Vj5J906+GqPnNjmMqRetGbdqLEaKTB4JQoun2a/WhpjKEm6uOJar01zh74AkSThUClf+u+ziD5btkdWWrz+tGH+6lI8ndUBcmjqEQe6ycaf6QH+ZaFY8HpHKsLVM+ZYGKi7cauNcB7puXzWtgL7df2oWqfE6d74Gepgv7m/TO7IhsP3TkH53rwx/8N5hkPk13ps1fTVbiMYgIGANVXHAufy3wYytJkmh4ABIaPA2xmR7eBWDWmoT0AoI2b0Dcp/q5dP0vwIzGaAzivD3+i9QqUXq2t+xdxZvvP3Ur7Fyn8sBHbb6ldGN7tnv1rlfAWQJigMm/pGjFL4ZGhLo+rfuPR6W3KGUgOTFCBQ=;fTUVhV2nbzTAvneafYyQ7A=="

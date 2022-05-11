@@ -146,6 +146,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
+  - title: "Intel unveils new cloud-to-edge technologies at Vision"
+    excerpt: "To accomplish this, Nourish + Bloom worked with Intel and UST, a leading transformation solutions company, to tap into the collective technical knowledge for building innovations like a next-generation self-checkout using computer vision technology and a ..."
+    publishedDateTime: 2022-05-11T09:42:00Z
+    webUrl: "https://it-online.co.za/2022/05/11/intel-unveils-new-cloud-to-edge-technologies-at-vision/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "G/d6N81IWPnFIodFb5GfhxEm7UkojBJafFU/FTm7GC8BUvc4X/b2PjESyrl/9MDsn83DdCFBp3uLQ8YUtwoA4X1RvoDD1fydBlVWL55tpxYc3IZVHN1J2vL1VU6ljzW6SF1ntTQYvogCp2BIJPwTP/qqGUl4rzbWJcQDZOFPJrwa13ut1yycLsB6pS5/TrOxb9g9WSCVGseDhjCzbvFU3esip8Bweux0KTR/42RKTFc1kF4Osjpa/bKbkVXYSi2kBIiNR4/3CStSa1nPbbdi9Q0TUmD4o2JBncncqzhMVAgKVWl3cBSgoDIeqxWIwCGmw7rZxuy4aExtMl0CNQjXqB5xK2W4ygTmGxtXGms4utf9FMfK9yeY5MVLkzXwe+o8AmXK9HCopxJP3lNo5gDN1ImEmk38l/pOOSkvQkb6bvIOUDFWRWHsoXd1jGiAF4ym3OPCPXSc65KWuiI1RymgdmCa+ophj+5+xS5XdT1z7Mf7IdHhPqF+T+bP2jfJ/Lensa6xoNh7D3EhvDKxsilJtg==;dtQZUCeqxfkAm8voSASF1w=="
 ---

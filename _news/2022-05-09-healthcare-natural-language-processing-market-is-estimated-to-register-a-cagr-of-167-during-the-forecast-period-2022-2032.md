@@ -25,6 +25,24 @@ images:
     height: 448
     isCached: true
 
+related:
+  - title: "Insights on the $332.5 Bn Fintech Market is Expected to Grow at a CAGR of over 19.8% During 2022-2028 | Vantage Market Research"
+    excerpt: "Financial technology is one of the most widespread terms used for research in finance industry in present time. Financial Technology (FinTech) is the use of modern"
+    publishedDateTime: 2022-05-09T08:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27068440/insights-on-the-332-5-bn-fintech-market-is-expected-to-grow-at-a-cagr-of-over-19-8-during-2022-202"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27068440"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27068440"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+
 secured: "6/yEC2YD/RdSz+2fFd/aGgzArr4u9JXfr+DTlrgbAOFMwI7RL4YUmcfcgog1X0uw1tD8gs6DkASsSfavBuenydWHMmO6uItiNNFPTor97zE6fzc9YY+rdbjaFq3XItohOsWOykDDK8AJTKgigkOlEuL8dEqRtasRiFahQvZKanecZ9cYmAFeARets7zsrqX4T3NdFG4ua68feQpF3ldKTohpVxAbKS+YqSfZAAnyj1J0Q+SfKR64/YLyU3/a1RoMaG2fzMzrrnWcUY4hNnktlZIqWqgB0xpsYRfo23PRNlkKT/xQmJB741Q/9n9ox8hUnuqAxu/oklj8xQf+6HRpjVCU/BdWfZ8KwaxsGziXFII=;sil5mDu6oowLNQfwryKXlg=="
 ---
 

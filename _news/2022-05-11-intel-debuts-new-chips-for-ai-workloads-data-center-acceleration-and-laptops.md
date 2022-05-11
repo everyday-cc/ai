@@ -142,6 +142,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Intel unveils new cloud-to-edge technologies at Vision"
+    excerpt: "To accomplish this, Nourish + Bloom worked with Intel and UST, a leading transformation solutions company, to tap into the collective technical knowledge for building innovations like a next-generation self-checkout using computer vision technology and a ..."
+    publishedDateTime: 2022-05-11T09:42:00Z
+    webUrl: "https://it-online.co.za/2022/05/11/intel-unveils-new-cloud-to-edge-technologies-at-vision/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "Ir6avutk4wqEKfVzyK+MFZyxiVonWs6jsZn5pl9D+5IqSTcek+TXoHAIH7JwUS1qKA43VY/xt46U7ZZVNQkgybIG1pXrq7W3jeCQ08W1oZIo/u78eXdPYeddhQRFrRzRQAk6M4/gNGZOR+H+lm5w3mFCcXTvvJPR0AkPG8gh0WNWoblLsuS6oSiV7UIFKeg1Y5SbojlNxYYphxd65LIBRXRDCzxLSEMOYnnImSFeJPb7bpFp8B5lrYRSPLi5T3pUTp6Ito2sdtycXZAtD3A5hEDCUUCIuVyFsfKd2uF2TU1zgtb01a1X1ZLYkhgeN3s3xJvC+lNh5SWg6fGJ+7e7N7MwMtciO2+6CzeVLfT7++3K0+Vkt85sIAL1swj3+HLWMVm4biaQLADQfwn4sbGuhqrPq9pHSV5DEpIrR5GfZa538hQv4XuHzntBVREH6pc8bD//CSLTQRfuM9haQEFLdAOu/9ojTkxyFrX5HJexJl0VOoV/K+5qhXYXcKMu5RRgKZipojx0/YJXYW4oAg9dFg==;OjhwFJ6uXtuSfOivougpwA=="
 ---
