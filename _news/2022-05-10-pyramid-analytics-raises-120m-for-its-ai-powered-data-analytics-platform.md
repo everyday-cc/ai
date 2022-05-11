@@ -40,15 +40,6 @@ related:
         width: 800
         height: 517
         isCached: true
-  - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
-    excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
-    publishedDateTime: 2022-05-06T12:54:00Z
-    webUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/?td=amp-keepreading-top"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 16
 
 secured: "c3y3klmCG5drVopkyl4riweXykqK/oP0usCDnseXucmZ+4xqEa1ffhMI0CF4T7Dd0HLS7CRWVRqAUnJaWacxNeisucRu9NcTwIiZIRGyolT28E0Ja4vlWDSw5rQElv2RHzy4L36tT3cbtX2dmjjt+43vgnOyNwPR3uAQ4WYILBeI6l9/QutRVAxlb+TjRiWr2c/V+jnmDQTw1H25hAiej8tctdI+MkeHo3FCJp/Ppx8D9rNx8aNImzLA81fnBOtY1bHB47RgSjydxJMFL/DPOpTlYWwfeNfGta4IJEI5PDHrLbndkZFTqK1zYLFvPGi4t5zXqEuePe8JbmZMa96X6wPfWzOBLQfhaUiVQqyZPFc=;SnDXzvGXgcNpnZTpgIjuqA=="
 ---

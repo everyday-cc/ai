@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220510/Research-offers-insig
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 824
         height: 354
         isCached: true
-  - title: "AI can predict bone fractures in cancer patients"
-    excerpt: "A team of US researchers has used artificial intelligence (AI) to create a digital twin of a patient’s vertebra that will be able to predict the risk of bone fracture in people who have suffered from cancer. As medicine continues to embrace machine ..."
-    publishedDateTime: 2022-05-06T12:29:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/ai-can-predict-bone-fractures-in-cancer-patients/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 17
 
 secured: "EkF7nw90mXWlZG/NmxX25fac47UFP0QbNRTcsKZvO26q8+OEAB2l2bkshKZKypPeMr5JV/kbfeDzVzE3wgkdBTyGHpB8D+ukSu+4kjgLFqSgNIY1r19t8Fe50t000J9il1Lbz30vZZTBTts3Hz1D9m0NHnF69Lq8aX8GSK9UIGaYyqCdKfsOZjoLbHe7Se9zZl3cvZcc6VrVWxwLNt8XooCS1qYTugVPMmyRPLeEXMRmb6CtTIcrmgYLQPmjT6gveaVqJ07qOdKDIdnXv4qhdKBWSvC30eD4wMdR6gssffdSjcQriP1slAvJxlguI2hzII8F7KdZviw2vADGjoERm2fyx20RFiVONp2pWcAre/s=;aWOKUY5tqiK4xMCchKIr2w=="
 ---

@@ -2,6 +2,58 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-03-29-how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children.md",
+      "title": "How AI Is Using Facial Detection To Spot Rare Diseases In Children",
+      "excerpt": "This is where computer vision can help. Shniberg built Face.com, a facial recognition platform that discovered over 18 billion faces on the internet. He sold the company to Facebook in 2012. When he and his partner, Lior Wolf, looked at other impactful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6242c02ee1639ec08c4650f5/0x0.png?format=png&width=1200",
+          "width": 620,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
+      "publishedDateTime": "2022-03-29T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-how-ulg-transitioned-to-outcome-driven-language-solutions.md",
       "title": "How ULG Transitioned to Outcome-Driven Language Solutions",
       "excerpt": "In the American healthcare industry, language access for patients with limited English proficiency has been a hot-button issue for years. In many cases, mandates requiring healthc",
@@ -1142,59 +1194,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-teslas-head-of-ai-is-on-sabbatical-and-people-are-worried.md",
-      "title": "Tesla’s head of AI is on sabbatical and people are worried",
-      "excerpt": "Elon Musk announced that Tesla’s head of AI, Andrej Karpathy, is on a four-month sabbatical, and people are worried since other Tesla execs have left after going on sabbatical. It comes as Tesla expands its Full Self-Driving (FSD) Beta to Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/",
-      "originalUrl": "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/amp/",
-      "publishedDateTime": "2022-03-28T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

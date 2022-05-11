@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "The 1997 chess game that thrust AI into the spotlight"
-    excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out"
-    publishedDateTime: 2022-05-11T03:21:00Z
-    webUrl: "https://www.digitaljournal.com/world/the-1997-chess-game-that-thrust-ai-into-the-spotlight/article"
+  - title: "The 1997 Chess Game That Thrust AI Into The Spotlight"
+    excerpt: "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally achieved what developers had been promising for decades. It was an \"incredible\" moment, AI expert Philippe ..."
+    publishedDateTime: 2022-05-11T03:37:00Z
+    webUrl: "https://www.ibtimes.com/1997-chess-game-thrust-ai-spotlight-3502200"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 37
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/06c11a108d0e6ea1955723c2752aeb35beb7e488.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/10/the-chess-world-was-shocked-at-garry-kasparovs.jpg"
         width: 768
         height: 512
         isCached: true
 
-secured: "gJlCze14zSR1NG2t9054m8lykD6myxB1BAd1zgCIHPQy2kWOvIMYRISsB23oKM46FNCmiLpPXVv59XJPB/su8SQf0e9FhVepIxn5rxpFfAm6g/kIeKd7KVEcz/rg81Bg+1CXkUPEa10AaMk6acXZKZi5fjCMvLnukXEvhKeEZHhQXQLXbbfvsTzecM1JEIKoagZQeWE6X9NWulY7fULiPHPR46HZSb46juZfG5ULA9HfPzCQKRjJOFUBI2UgRmhKaWUXwqDIIEyCRVf9jjIG4h4at2Gl5y4O8PPZJU1KTYFTBzSxjDqBefnurjTYx8d6IlcG89zDCcNt4wONxvzYHWSOpsPKvd4Zk78qh4P2k3E=;uAOXfBw6aNPJE94PGCBhZg=="
+secured: "MMUjj9UmyGLzr7pvVlEUw9CWWb9BG0CRHPI/o0z7bT0VKKF2n6tYvJWGisYNILpGik+uv3CNw3pUjiXi4Iu+MlXZzpxCKlWEE8bWVSsBzxNB6g8f9et6QTCRxD9xVNXl1UgoR8GTGdygp8HbEwJRYykyQosmWiNVZ2E0dITvYgl21NRLfqfmhRz8W8YwSBrZAyfpYtQ4POjXsz+nLypEhZTzjUX7Dhpu4aB92G0IJXTQpJeBPzcmY4uXoroaTc7f324kiCqwtL+fkKtXw87v2sv0yvkAkAenc5ZA1cVs5bXrh6NelKGeToQXuOGi0PlXC+JHmewbXVthW8Sn+KXZ963UpMB9vSt7YIR+8bRkPK4CHrxEJ8y7A5/X+u8Ay9nh/cSxqTQRu5d7FCnkr2zs8Kcgku4qdjZYOj4xG16AjQFKzfrmXs+WL7dHX9n/zRO2QU/j0OCt4eFwqKpn3f6rsZnZaDeaBo57otaWj7f3N6LhkecbOzGezfAf5IFRAQllDClYfbomn7OpLHfACYdc5A==;KrCHoZGVr3v1OCL3Upi4yA=="
 ---
 

@@ -745,6 +745,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-27-researchers-want-more-transparency-from-social-media-companies.md",
+      "title": "Researchers want more transparency from social media companies",
+      "excerpt": "Meta (formerly Facebook), for example ... replete with profile pictures likely generated with artificial intelligence, posing as news editors, engineers, and scientists in Kyiv.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/social-media-transparency/",
+      "originalUrl": "https://www.popsci.com/technology/social-media-transparency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/04/24/social-media.jpg?auto=webp",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/social-media-transparency/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/social-media-transparency/?amp",
+      "publishedDateTime": "2022-04-26T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-udacity-digital-transformation-suite-now-available-in-aws-marketplace.md",
       "title": "Udacity Digital Transformation Suite Now Available in AWS Marketplace",
       "excerpt": "Enterprises can now quickly procure and deploy Udacity's powerful talent transformation solution across their organization in AWS",
@@ -1104,50 +1147,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-bell-and-amazon-web-services-bring-5g-edge-compute-to-canada.md",
-      "title": "Bell and Amazon Web Services bring 5G Edge Compute to Canada",
-      "excerpt": "CNW Telbec/ - Bell today announced the launch of the first public multi-access edge computing (MEC) with AWS Wavelength in Canada. Building on Bell's agreement with AWS, announced last year, together the two companies are deploying AWS Wavelength Zones throughout the country at the edge of Bell's 5G network starting in Toronto.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/",
-      "originalUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/",
-      "publishedDateTime": "2022-04-26T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

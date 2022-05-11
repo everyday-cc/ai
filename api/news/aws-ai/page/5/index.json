@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-03-09-amazon-sagemaker-autopilot-now-supports-time-series-data.md",
-      "title": "Amazon SageMaker Autopilot now supports time series data",
-      "excerpt": "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best machine learning (ML) models based on your data, while allowing you to maintain full control and visibility. We have recently announced support for time series data in Autopilot. You can use Autopilot to tackle regression and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-autopilot-now-supports-time-series-data/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-autopilot-now-supports-time-series-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/02/ML-7246-image011-1-1142x630.png",
-          "width": 1142,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T10:56:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-09-transforming-qualitative-research-by-automating-speech-to-text-to-text-analytics.md",
       "title": "Transforming qualitative research by automating speech to text-to-text analytics",
       "excerpt": "This post is authored by Satish Jha, Intelligent Automation Manager, Matt Docherty, Data Science Manager, Jayesh Muley, Associate Consultant and Tapan Vora, Rapid Prototyping, from ZS Associates. At ZS Associates, we do a significant amount of qualitative market research. The work involves interviewing",
@@ -1416,6 +1364,40 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for-canadian-sports-fans.md",
+      "title": "Maple Leaf Sports & Entertainment and AWS Team Up to Transform Experiences for Canadian Sports Fans",
+      "excerpt": "MLSE aims to offer its teams new AWS-powered insights to further improve the caliber of gameplay. Using Amazon Rekognition (AWS&CloseCurlyQuote;s service for automated image and video analysis) and Amazon Kinesis (AWS&CloseCurlyQuote;s service for easily ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/23/maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/23/maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T00:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

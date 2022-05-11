@@ -1,24 +1,24 @@
 ---
 category: news
-title: "The 1997 chess game that thrust AI into the spotlight"
-excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out"
-publishedDateTime: 2022-05-11T03:21:00Z
-originalUrl: "https://www.digitaljournal.com/world/the-1997-chess-game-that-thrust-ai-into-the-spotlight/article"
-webUrl: "https://www.digitaljournal.com/world/the-1997-chess-game-that-thrust-ai-into-the-spotlight/article"
+title: "The 1997 Chess Game That Thrust AI Into The Spotlight"
+excerpt: "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally achieved what developers had been promising for decades. It was an \"incredible\" moment, AI expert Philippe ..."
+publishedDateTime: 2022-05-11T03:37:00Z
+originalUrl: "https://www.ibtimes.com/1997-chess-game-thrust-ai-spotlight-3502200"
+webUrl: "https://www.ibtimes.com/1997-chess-game-thrust-ai-spotlight-3502200"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/06c11a108d0e6ea1955723c2752aeb35beb7e488.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/10/the-chess-world-was-shocked-at-garry-kasparovs.jpg"
     width: 768
     height: 512
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 400
         isCached: true
 
-secured: "qubT1aHBQ1PTi6mW6W4COFxTbxC7xcu7bqDttA1hwyszwgXfQ88L6SUbqNhNLHQ5kL3QayPq6cTk9isHjmlkPg8Gsix35Oq8xgou0vF4RkD3SbBItC8vtOvmtr02SXLwCh+nQ81lnmRswFZm6FM7KLJeNGMvI68ObygmvmKr2tGYB+AwVswVLrUujf0zxYs/HfQ+/Ckyb14cDbHZ5iowoMOeg8IhwvWl7aERnrJvp/MnYCuNnBQN85hvVzRCzo0LyyidnV4jps4sjaj3vOyLvRxT1S/hC4csENay1XG2i0oc9gi2idiOTyuBqSQVa21fQwGgjGD5nTqJOrhbZiuJkr0z8jirTi7vj4NxnDh4P/g=;2J8G8Bof5/dNBeE/IHeYUw=="
+secured: "lXGuCiCQk5rn6ifjv5sp2vNVDaCQKJUhGEOdqF9g4PbjpHaEqlUp1hT/xRnUNSB1w306d9elAjRoB05lKhvQ6bByImP+qhhtGl4JI5ARbzRiirQAquEjJJ27x8oiWu8IjBk9MPhrwGSW1RW1xaBf7sCMjGvdhzeMX1XQMofczCSjMfJQXiqjwJcI+LE9pHrITlZunIkXFmGQwp0EGzea2R09/GY9SSBDi0ArcGOdkZSbdbQIHlKwiOWw0odBnbo6VpkON4DNr98NmDk46A6IUkXalTSVhXpfkineKX1MseY28gQxDIbKU+welP1ZT94EatVLU83UXsnejFpF1CSa2B2ojebJKVgPt5LRK3gtUyc=;/CSS8vv8vpEblyAlSU33XQ=="
 ---
 

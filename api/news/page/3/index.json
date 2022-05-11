@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-05-08-microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business.md",
-      "title": "Microsoft veteran Bob Muglia: Relational knowledge graphs will transform business",
-      "excerpt": "The basic story is this: Five companies have created modern data analytics platforms, Snowflake, Amazon, Databricks, Google, and Azure, but those data analytics ... That includes much more use of machine learning within business analytics, as the name ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6c1577c7fa2cd45817e9491718dfc95ca6d3457e/2022/05/07/4f3a30a8-c5f2-4bbd-8a4f-86a5f7b488ec/from-modern-data-stack-to-knowledge-graphs-5-1-22-slide-28.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "publishedDateTime": "2022-05-07T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-07-cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less.md",
       "title": "Cybersecurity reporting mandates could make us more vulnerable, not less",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -1149,29 +1097,82 @@
       ]
     },
     {
-      "path": "_news/2022-05-05-rapid-adaptation-of-deep-learning-teaches-drones-to-survive-any-weather.md",
-      "title": "Rapid adaptation of deep learning teaches drones to survive any weather",
-      "excerpt": "To face this challenge, a team of engineers from Caltech has developed Neural-Fly, a deep-learning method that can help drones cope with new and unknown wind conditions in real time just by ...",
+      "path": "_news/2022-05-05-unionvilles-music-education-program-receives-national-recognition.md",
+      "title": "Unionville’s music education program receives national recognition",
+      "excerpt": "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220505085644.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220505085644.htm",
+      "webUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/",
+      "originalUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 91,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.dailylocal.com/wp-content/uploads/2022/05/uville-music.jpg?w=1024&h=656",
+          "width": 1024,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/",
+      "publishedDateTime": "2022-05-05T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Local News",
+        "domain": "dailylocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-predict-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
+      "title": "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas",
+      "excerpt": "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ML-7622.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T09:55:00-07:00",
+      "publishedDateTime": "2022-05-05T09:27:05-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1187,8 +1188,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "AWS AI",
+        "Machine Learning"
       ]
     }
   ],

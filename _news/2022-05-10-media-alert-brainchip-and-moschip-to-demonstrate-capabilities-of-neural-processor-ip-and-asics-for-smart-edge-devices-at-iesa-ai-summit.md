@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "BrainChip Launches AI Enablement Program"
+    excerpt: "The AI Enablement Program delivers working prototypes that demonstrate on-chip, in device AI inference and learning. AI/ML projects can be complex, requiring expertise, financial commitment, and time. With the launch of the AI Enablement Program ..."
+    publishedDateTime: 2022-05-10T21:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "BrainChip Holdings Ltd.: BrainChip Launches AI Enablement Program"
     excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 10, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced a"
     publishedDateTime: 2022-05-10T21:43:00Z
@@ -53,15 +67,6 @@ related:
         width: 1395
         height: 758
         isCached: true
-  - title: "BrainChip Launches AI Enablement Program"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 10, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced a three-tier AI Enablement Program to support customers seeking to deploy edge AI/ML to improve and differentiate their products."
-    publishedDateTime: 2022-05-10T23:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-10-brainchip-launches-ai-enablement-program"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 34
   - title: "BrainChip Holdings Ltd.: Media Alert: BrainChip Drives Intelligent Edge AI at AutoSens Detroit"
     excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 9, 2022 / BrainChip Holdings Ltd (ASX:BRN, OTCQX:BRCHF, ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, is exhibiting the latest capabilities of its Akida neuromorphic computing ..."
     publishedDateTime: 2022-05-09T12:25:00Z

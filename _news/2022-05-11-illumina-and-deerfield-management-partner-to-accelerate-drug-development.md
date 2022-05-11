@@ -7,7 +7,7 @@ originalUrl: "https://www.csrwire.com/press_releases/744176-illumina-and-deerfie
 webUrl: "https://www.csrwire.com/press_releases/744176-illumina-and-deerfield-management-partner-accelerate-drug-development"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 394
     isCached: true
-
-related:
-  - title: "Illumina and Deerfield collaborate for AI-driven therapies development"
-    excerpt: "Illumina and Deerfield will detect drug targets and develop therapies using genomics and artificial intelligence. Credit ... Medical Center subsidiary Nashville Biosciences to expedite therapy development through large-scale genomics."
-    publishedDateTime: 2022-05-06T11:09:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/news/illumina-deerfield-therapies-development/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 39
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2022/05/Illumina_Deerfield_Management.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "JIoip3+TJ+haBU6wyLe8E8ubdlZeHVrDkOJUI4gtlaPiEpAP1LykeuPI6owJkBK4J563EROqQ5zRa8FQyl3jSg0T/vEHHHiAKp7hWnP8XfDcMvZoOVkfg7PNhycisKVSCShIu1IhX6VfCRPgB1t5ELtPlncPLy1xyhIrIfRYUR9GPhkHT50vefVLnCaZuuangrg0xc10MYDzayEWczk59o5qw6i9vVoMi8eX3l6pgnwvXgKKj9Disbej7V7Xu/ipIM3zOUu2dR9NKbDv/QgXCs7Lx555uWo4GX8j7gl/Q7UDMJUOId3grVcc8wT9G4DScquLBL0sFOiS0bfuxgNA49ZqFdDAuyXsJsoV5+ewxI4C7jA0h8Y1exLouzmJTewSNJyIz7neFGr5rySS2Zy7Uft49CK2YFusSp1rm9UXzmfDr2wCn30fdINPxOouNAXWMCWJ3SYfsI90EXuWnJ+5eGPJ9WF56q8V8LEC7cD8UzXV7sgpDmKHeeaEoq3Y9RjKrtlunsBjwikUXCnBenGHrQ==;Imm8ZKzG22E1pRuKKYS+SA=="
 ---

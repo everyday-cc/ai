@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-04-13-intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs.md",
+      "title": "Intel agencies advance artificial intelligence in patches, struggle with big breakthroughs",
+      "excerpt": "Officials say a more “integrated” approach is needed to truly transform tradecraft using artificial intelligence technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://federalnewsnetwork.com/intelligence-community/2022/04/intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs/",
+      "originalUrl": "https://federalnewsnetwork.com/intelligence-community/2022/04/intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://federalnewsnetwork.com/wp-content/uploads/2021/06/GettyImages-1168105746.jpg",
+          "width": 2246,
+          "height": 1335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "federalnewsnetwork.com",
+        "domain": "federalnewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-ai-and-ml-think-green.md",
       "title": "AI And ML Think Green",
       "excerpt": "One powerful subset of AI is machine learning (ML), which involves not predefined instructions and fixed algorithms but learned patterns over artificial neural networks. Developers have used ML to ...",
@@ -1021,57 +1064,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-fiveai.md",
-      "title": "Daily Crunch: Beating ‘other takeover bidders,’ Bosch acquires autonomous driving startup Five.ai",
-      "excerpt": "“I expect that to start happening as well in the next year.” (TechCrunch+ is our membership program, which helps founders and startup teams get ahead. You can sign up here.)",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/",
-      "originalUrl": "https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/five-ai.jpg?w=1024",
-          "width": 1024,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/amp/",
-      "publishedDateTime": "2022-04-12T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

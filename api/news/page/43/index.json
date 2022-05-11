@@ -2,6 +2,57 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-03-31-to-build-sustainable-products-start-in-the-data-center.md",
+      "title": "To build sustainable products, start in the data center",
+      "excerpt": "Building a sustainable model data storage that requires significantly lower power, lower cooling, and far less waste.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/",
+      "originalUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1301942140.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/amp/",
+      "publishedDateTime": "2022-03-31T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-deepmind-appeared-at-the-center-of-sexual-harassment-scandal.md",
       "title": "DeepMind Appeared At The Center Of Sexual Harassment Scandal",
       "excerpt": "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ...",
@@ -1102,58 +1153,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-peopleai-ceo-oleg-rogynskyy-on-using-ai-to-promote-sales-and-revenue.md",
-      "title": "People.ai CEO Oleg Rogynskyy on Using AI to Promote Sales and Revenue",
-      "excerpt": "An expert in the field explains that AI is very much in its infancy – but has enormous potential in the near term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/it-management/people-ai-ceo-oleg-rogynskyy-using-ai-to-promote-sales-and-revenue/",
-      "originalUrl": "https://www.eweek.com/it-management/people-ai-ceo-oleg-rogynskyy-using-ai-to-promote-sales-and-revenue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/03/eSPEAKS-thumbnail-9.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

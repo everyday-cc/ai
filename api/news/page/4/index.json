@@ -2,103 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-05-05-unionvilles-music-education-program-receives-national-recognition.md",
-      "title": "Unionville’s music education program receives national recognition",
-      "excerpt": "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/",
-      "originalUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailylocal.com/wp-content/uploads/2022/05/uville-music.jpg?w=1024&h=656",
-          "width": 1024,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/",
-      "publishedDateTime": "2022-05-05T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Local News",
-        "domain": "dailylocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-predict-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
-      "title": "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas",
-      "excerpt": "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ML-7622.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T09:27:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-05-05-ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars.md",
       "title": "AI Ethics Is Especially Vexed By That AI Confinement Problem, Including The Knotty Particulars For Confining Autonomous Self-Driving Cars",
       "excerpt": "The AI Confinement Problem is a vexing issue and one that AI Ethics is pushing mightily to solve. We discuss why this is such a tough challenge, along with showcasing examples via the advent of AI-based self-driving cars.",
@@ -243,51 +146,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-05-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022.md",
-      "title": "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022",
-      "excerpt": "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-05-meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai.md",
       "title": "Meet Nvidia's Huge H100 Chip That's Powering Tomorrow's AI",
       "excerpt": "Exclusive: The new chip helps cement Nvidia's lead in technology that's revolutionizing computing challenges like language and self-driving cars.",
@@ -338,6 +196,41 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022.md",
+      "title": "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022",
+      "excerpt": "Breakout sessions will cover digital transformation, data and analytics, fraud and financial inclusion, customer onboarding and management, and more. FICO, a leading applied intelligence company, to host 1000+ financial services industry executives at the upcoming FICO ® World conference in Orlando,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -616,6 +509,49 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-rapid-adaptation-of-deep-learning-teaches-drones-to-survive-any-weather.md",
+      "title": "Rapid adaptation of deep learning teaches drones to survive any weather",
+      "excerpt": "To face this challenge, a team of engineers from Caltech has developed Neural-Fly, a deep-learning method that can help drones cope with new and unknown wind conditions in real time just by updating a few key parameters. Neural-Fly is described in a study ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/rapid-adaptation-of-de.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.amp",
+      "publishedDateTime": "2022-05-04T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -981,49 +917,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-04-when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi.md",
-      "title": "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION “META-aivi”",
-      "excerpt": "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and enhance ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-04-deepminds-flamingo-visual-language-model-demonstrates-sota-few-shot-multimodal-learning-capabilities.md",
       "title": "DeepMind’s Flamingo Visual Language Model Demonstrates SOTA Few-Shot Multimodal Learning Capabilities",
       "excerpt": "In the new paper Flamingo: a Visual Language Model for Few-Shot Learning, a DeepMind research team presents Flamingo, a novel family of visual language models (VLMs) that can handle multimodal tasks such as captioning, visual dialogue, classification and ...",
@@ -1120,6 +1013,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-04-when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi.md",
+      "title": "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\"",
+      "excerpt": "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rochesterfirst.com/business/press-releases/cision/20220504HK28756/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/",
+      "originalUrl": "https://www.rochesterfirst.com/business/press-releases/cision/20220504HK28756/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.rochesterfirst.com/wp-content/uploads/sites/66/2022/05/FSbOVA1WYAEarTT.jpg?w=2000&#038;ssl=1",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WROC-TV",
+        "domain": "rochesterfirst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-robots-are-the-key-to-advancing-artificial-intelligence.md",
       "title": "Robots Are The Key To Advancing Artificial Intelligence",
       "excerpt": "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ...",
@@ -1171,6 +1107,57 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-what-the-high-interest-rates-mean-for-startup-founders.md",
+      "title": "What The High Interest Rates Mean For Startup Founders",
+      "excerpt": "Sure, some AI companies will not be able to deliver the value they've ... Nevertheless, there are good reasons for any startup founder who is depending on raising capital in the coming years to be focused on these three elements. 1. Know your numbers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627114653e082e5a8fa3642a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/amp/",
+      "publishedDateTime": "2022-05-04T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-01-20-begalileo-the-mathematical-thinking-cognitive-capability-building-program-signs-up-sania-mirza-as-brand-ambassador.md",
+      "title": "beGalileo, the Mathematical Thinking & Cognitive Capability Building Program signs up Sania Mirza as Brand Ambassador",
+      "excerpt": "He hoped that she will help them put the brand in the 'zone' when parents look for that 'one' option that will aid their child with core foundational & cognitive skills to stay ahead in life.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231006&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231006&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1730479/Sania_Mirza.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-20T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-machine-learning-a-big-data-can-empower-marketers.md",
       "title": "Machine Learning a Big Data Can Empower Marketers?",
       "excerpt": "Gone are the days when automation, machine learning and software based marketing techniques were not a thing. Presently we have left behind those days of outdoor channels on TV, Radio, Print and some channels.",
@@ -1363,58 +1406,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-how-managed-services-will-evolve-in-2022-the-data-analytics-revolution.md",
-      "title": "How managed services will evolve in 2022: The data analytics revolution",
-      "excerpt": "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "originalUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1171422745-e1641922862738.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "publishedDateTime": "2022-01-11T22:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

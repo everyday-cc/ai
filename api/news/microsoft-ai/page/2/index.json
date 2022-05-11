@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-25-cast-ai-puts-out-report-on-extent-of-enterprises-cloud-resource-overspend.md",
+      "title": "CAST AI puts out report on extent of enterprises cloud resource overspend",
+      "excerpt": "A report from cloud startup CAST AI claims companies running cloud-native applications typically spend three times as much as they need on resources because of over-provisioning. The startup, which hopes to convince users to consider its platform as a way to control the problem,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm",
+      "originalUrl": "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/01/20/shutterstock_cluster.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/",
+      "publishedDateTime": "2022-04-25T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-mastercards-digital-transactions-deploys-microsoft-ai-to-improve-fraud-protection.md",
       "title": "Mastercard's Digital Transactions deploys Microsoft AI to improve fraud protection",
       "excerpt": "The two companies are combining their innovative technologies to better protect consumers from an increasingly prevalent form of digital fraud.",
@@ -539,20 +582,20 @@
     },
     {
       "path": "_news/2022-04-19-microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes.md",
-      "title": "Microsoft Azure UAE Regions Launches Four New Key Services To Accelerate Digital Transformation Programmes",
-      "excerpt": "and Azure Machine Learning in our Azure UAE Regions . Governance, multi-cloud, open communications, and Artificial Intelligence are vital components of the post-COVID rush in digitisation and we ...",
+      "title": "Microsoft Azure UAE Regions launches four new key services to accelerate digital transformation programmes",
+      "excerpt": "and Azure Machine Learning in our Azure UAE Regions . Governance, multi-cloud, open communications, and Artificial Intelligence are vital components of the post-COVID rush in digitisation and we are pleased to provide our regional customers with four ...",
       "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital",
-      "originalUrl": "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital",
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes-d1mvrciz",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes-d1mvrciz",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-04/Microsoft%20Portraits%20Jan%202018%20-%20PR%20Size%20-%2066.jpg?itok=RhaGUWpG",
-          "width": 960,
-          "height": 540,
+          "url": "https://static.zawya.com/version/c:N2NhNWExODAtYmJhMi00:Y2UwYzYx/necipozyucel-director-azurebusinessgrouplead-microsoftuae-jpg.jpg",
+          "width": 683,
+          "height": 1024,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -560,13 +603,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital",
-      "publishedDateTime": "2022-04-19T02:14:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T01:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
+        "name": "Zawya",
+        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1227,58 +1270,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027.md",
-      "title": "Cognitive Computing Market Trends 2021 | Industry Growth, Size, Share, Demand and Forecast to 2027",
-      "excerpt": "Some of the leading players profiled in the report include Google LLC, HP, IBM, Microsoft Corporation, Nuance Communications, Inc., Oracle Corporation, SAP SE, among others. The cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027-2022-04-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027-2022-04-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

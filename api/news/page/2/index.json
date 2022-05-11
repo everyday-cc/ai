@@ -693,7 +693,7 @@
       "originalUrl": "https://www.itweb.co.za/content/KzQenqjyJexMZd2r",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -903,57 +903,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-is-it-fair-for-fantasy-football-managers-to-rely-on-ai.md",
-      "title": "Is it fair for fantasy football managers to rely on AI?",
-      "excerpt": "More than nine million people play the Premier League's official fantasy football game Like millions of other people, Alice Simpson loves playing fantasy football. Every season she picks a team of real-life players from England's Premier League,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/18575/production/_124410799_gettyimages-1394824253.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-61257368.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61257368.amp",
-      "publishedDateTime": "2022-05-08T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1189,6 +1138,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-08-microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business.md",
+      "title": "Microsoft veteran Bob Muglia: Relational knowledge graphs will transform business",
+      "excerpt": "The basic story is this: Five companies have created modern data analytics platforms, Snowflake, Amazon, Databricks, Google, and Azure, but those data analytics ... That includes much more use of machine learning within business analytics, as the name ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6c1577c7fa2cd45817e9491718dfc95ca6d3457e/2022/05/07/4f3a30a8-c5f2-4bbd-8a4f-86a5f7b488ec/from-modern-data-stack-to-knowledge-graphs-5-1-22-slide-28.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
+      "publishedDateTime": "2022-05-07T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

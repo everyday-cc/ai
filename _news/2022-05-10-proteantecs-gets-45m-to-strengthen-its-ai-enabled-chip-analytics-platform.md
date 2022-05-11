@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 718
         height: 419
         isCached: true
-  - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
-    excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
-    publishedDateTime: 2022-05-06T12:54:00Z
-    webUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/?td=amp-keepreading-top"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 16
 
 secured: "K2B2vAmz8xsUN2xXAenSj5EuVrjCDTje9AMYlme5WfA+1F5DMQ/Os4OonrVQUdWBUBCR0jP+iL/1/RwT39WGBkQZ84wcw27JBD8HYtuVnHbxEdPGQW5w8zpy53axfyJqU1CVUMzJ65jQa7I15HRfE63S0nObaABNPZEuBafu9t1fsiiFHNedAeHU3Vrsnphl08dVrQ+Pceu/kG4FPIZXe8dqIlVj7G2MLVZslAl4W6Nsy6t3Qf7w2gMtd246brprtIWgZq34UR0T4eprqzjO4YuHPcjULtP70jC7NVm/DPgv25aJiQ2WZUjAcJrnbjd/qAvMyP1pwPJxV7hrmd+zgZIQNv85/DJm9paHz8eGEvKNop0IrM+WuKEeXQgyB7F4YyB3n/Lx1W2uoOz4mcufChVVmR23SBdGAGhYOfH5QYQn55MdI6Q+MdzOe6O4vIdUNtDuUjEmPRFacnFbIDz4LFn0rLLAynJjTJP39BzkYUx/okhW0V2Ba0PjozNjpMCXm+y/yZLSQQ/8WE0ezehopQ==;Zve7nnh0eeGtsUIUtXBXKA=="
 ---

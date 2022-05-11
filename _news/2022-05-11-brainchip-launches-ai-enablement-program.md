@@ -1,22 +1,28 @@
 ---
 category: news
 title: "BrainChip Launches AI Enablement Program"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 10, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced a three-tier AI Enablement Program to support customers seeking to deploy edge AI/ML to improve and differentiate their products."
-publishedDateTime: 2022-05-10T23:30:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-10-brainchip-launches-ai-enablement-program"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-10-brainchip-launches-ai-enablement-program"
+excerpt: "The AI Enablement Program delivers working prototypes that demonstrate on-chip, in device AI inference and learning. AI/ML projects can be complex, requiring expertise, financial commitment, and time. With the launch of the AI Enablement Program ..."
+publishedDateTime: 2022-05-10T21:31:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe"
+webUrl: "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Media Alert: BrainChip Drives Intelligent Edge AI at AutoSens Detroit"
@@ -80,6 +86,6 @@ related:
       domain: design-reuse.com
     quality: 10
 
-secured: "x8O3LekFWSXolo8s0CrpcfLKubOJJ1UyMqmMy9nTrtWgAa7bZ831Bbcv48188yE2H9iZUXTu8D/D0g6jbYmjrPlO1kyoqpxrmokNKxvXqlE39yJxGfAmj8dyiHMZsAQdSzeokYXiqG6A8BCAd3CRyt5F0W6bdM2qG7P7Aclez6AIEkDpbNJgZecGTTiTbplXoo7dZI13dAZE5XsXT+3u1ZrJWV5ls+/mLrWUSdDwwE2Djn+pXM2gkb/1b3c4DL+f/IwmQd/hIVf53U/wzKTnPjzW5QefU3g45btuDnE2EFYrtEtqpf1vN54NuFIN2UOC12otmUU20tM3nVlmj3oeMtlm0DlYzMEha9qT9KrXztCbsR/QFrMMjzDRB1WCndetLIYHCseIHPtcYWm2qdWwZaGL3AwOs7NiP2Ifv8QOhkyvYrQMpMuHxqeKW/yOl0nK8rn58d2136tsHiTNAxy/WSUFrA1MxoLe5hSPYMW96NsmjtUkOi33GOwbrsvJsHcVr5qoDOm7nrE+UuTNH63OZQ==;VQCQq9ayb7KbLYee0g0FMA=="
+secured: "gYm8RvL8HvM1UOD+RkyWqT4amj7/diVzOo7xVjwNXyYLRjEla5G0XtJswt561PKA8vbGNTSUuPeUGNm0p4dQVnfaPM8fl7+aFUpnKWuSkE1TiGUa6kOpIVy4SOKoxr6ob9DE2VL8/w6KI5YdXsR01dTfC/ADMgM7FKar5uSf5xCb1UweNDKSDVN5w0+/5XfVOEDDtaTnTjaFyMisBK+RiOc+KMpFaHCHByUa7IAfElXm48vHAjA4fyrTdE4M4LLNEptyKRMscnr2am6zAjL1VJOWMC8nW0IXF2RTICvXNMskIa3LZn99rAOFH5QxFoL3UEVCuvhdEcrbH8VvwexpzkNtR7fxAwKZ4Jo/HBq+aAs=;huNsz4TMsL1O8NaHjrSviA=="
 ---
 
