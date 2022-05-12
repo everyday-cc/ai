@@ -53,20 +53,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Google unveils new 10-shade skin tone scale to test AI for bias"
-    excerpt: "Monk through Photoshop and other digital art tools curated 10 tones - a manageable number for people who help train and assess AI systems. He and Google surveyed around 3,000 people across the United States and found that a significant number said a 10 ..."
-    publishedDateTime: 2022-05-12T05:52:00Z
-    webUrl: "https://www.channelnewsasia.com/business/google-unveils-new-10-shade-skin-tone-scale-test-ai-bias-2679241"
+  - title: "Google Unveils New 10-Shade Skin Tone Scale to Test AI for Bias"
+    excerpt: "Alphabet Inc's Google on Wednesday unveiled a palette of 10 skin tones that it described as a step forward in making gadgets and apps that better serve people of color. The company said its new Monk Skin Tone Scale replaces a flawed standard of six colors known as the Fitzpatrick Skin Type,"
+    publishedDateTime: 2022-05-11T17:51:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-05-11/google-unveils-new-10-shade-skin-tone-scale-to-test-ai-for-bias"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--7-pDfcGd--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-05-12t024938z_2_lynxnpei4a12a_rtroptp_3_alphabet-google-developers.jpg?itok=AF8LZM4U"
-        width: 1200
-        height: 676
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "pmXU4ElPF3h9kCb2mu31VZKSJ0/PND9fgFLLemu3K5GiPHk4Eidw52LgrW2dbQMwyH6XNcRXqRVdgyY5G6qOsi2JlxOjmdLcPUwhy5TYXXC/nk0TzL7d9ZVYJTYLHaMrZS6Hrm2sCCAaDsgzwI5JbggxrTXd4QksPb3cWGpK2P0Oh5NQNnfy+3ePC45aL8ZX0ez2SZeXS6JIl+3TsqMKMtlV17ItTckL27N27Cwx0UJEkN1UJVSTdliJpNQrx/bCRrFNjuCcy1MkxB4AcPHuLlmGmBGUVzxg5xrqTauqHm3/yk51cWYuZ8RtR+zWl5UtyIXm8WM8eoIlLRjQr8uQk8tMeLCUmufT/NRqTn50BeFm/whR8xeHXiQQBQ92fiHutLuDq/LFy9CAFnvazQvfZ/YcDF/Ghr00K5JLSbMYfYPxx1W5Jz+gBHtW2Pmu4qGVgHyLZXtw2An6tqssbyQNRGPNHU2CXC0iBcztHdWhEGmH8cx0SY5QHse44cPaCMfUh+icpYFGi3TGGyAC0FqJlw==;JgzOhT9lE5O9w/MSovIRDA=="
 ---

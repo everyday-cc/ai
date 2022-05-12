@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Google unveils new 10-shade skin tone scale to test AI for bias"
-excerpt: "Monk through Photoshop and other digital art tools curated 10 tones - a manageable number for people who help train and assess AI systems. He and Google surveyed around 3,000 people across the United States and found that a significant number said a 10 ..."
-publishedDateTime: 2022-05-12T05:52:00Z
-originalUrl: "https://www.channelnewsasia.com/business/google-unveils-new-10-shade-skin-tone-scale-test-ai-bias-2679241"
-webUrl: "https://www.channelnewsasia.com/business/google-unveils-new-10-shade-skin-tone-scale-test-ai-bias-2679241"
+title: "Google Unveils New 10-Shade Skin Tone Scale to Test AI for Bias"
+excerpt: "Alphabet Inc's Google on Wednesday unveiled a palette of 10 skin tones that it described as a step forward in making gadgets and apps that better serve people of color. The company said its new Monk Skin Tone Scale replaces a flawed standard of six colors known as the Fitzpatrick Skin Type,"
+publishedDateTime: 2022-05-11T17:51:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-05-11/google-unveils-new-10-shade-skin-tone-scale-to-test-ai-for-bias"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-05-11/google-unveils-new-10-shade-skin-tone-scale-to-test-ai-for-bias"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--7-pDfcGd--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-05-12t024938z_2_lynxnpei4a12a_rtroptp_3_alphabet-google-developers.jpg?itok=AF8LZM4U"
-    width: 1200
-    height: 676
-    isCached: true
 
 related:
   - title: "Google Adopts 10-Step Skin Tone Scale to Teach Diversity to Its AI"
@@ -64,6 +62,6 @@ related:
       domain: reuters.com
     quality: 47
 
-secured: "QaU5fpk2M9gl4IMe3UTG8DthUNePf9n+Lc3TfQnFv6NsofUgBiWX74aW1GTxvgJ+eN4CEHNmr/9/5FoRjHmYhVAHk+TtzPMGbGuNzcUyD6r8ePfA95mybLaVYSfDLnI1GDKjyjQqNpEVY9SPPuamXgMAEJ3DhOUHlc8ECH/jLYfLBZWSvGYR8j6OI82dFOHzZ79Hfh+cexUtUwIHKm0u2WfbGLqUSKRR58HDVtHz1lsfnxYBTzCTlZhCglBpCdeXw+FCRe2nhHFpQRkO5k9f5VeHna64YFLc5E3Jx/n3jmECDNnZqzxDTjuOvPLt55bAvtFgWAloICTegGSqPU0VusmTETS/Y2q/mFg0q6d6Y5U=;vKcTWU9YiwfuhASzFo+/Yw=="
+secured: "uGV17qX3CEu3BVz3XrxcLhua2xOyNWipZY9xqnx35RnSsHvR06bwusn1khLvOMDN0Hcx643TX8z51Z9U2E8fpFgGFDzWOwAa8okqaPFrj+/dcDgVlaFQHUNFk21dwQKoHaFT8E7E9NpMwNDRrSBVy/tUqfKvnOb9VEIsUrFrgaiIALzOYNgBq8qBUxjCQPnXKeRsmi1hTyqUULxEr6QCu0/up6cHW+wmY9NsHiJhCA/sMAmcRJQjUeuQ+MwHLUcBsF/LtgZu/Reh0E/FBeVCYJ0ewiGvEEHxnIpxVFub80dwZjedMveIgZn5yhL38Otyl2vvHyx7F5yWlibJhWgzDqgj+W6MTYFqVGXE2/s5IgVnJCyCZu6O70E2W4k4nEqeGMmjxlF9DOcnclYjP1gHDMn7+qhU3vkXZKErJTy16WAhgFjNJ3biMfRakB23eqmnNuFCES8fazEUvG/VBore1A1Lgi3Sm6u/MkgRXebjAmTdnvwgNAHEsqFz+/bsKSFM79aq7u2Gg0uN9Jr9ohJctQ==;cIPgc8yvXfvo0fp+MM4dvQ=="
 ---
 

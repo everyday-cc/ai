@@ -2,6 +2,100 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-03-28-why-ai-democratization-will-bring-more-power-to-the-enterprise.md",
+      "title": "Why AI democratization will bring more power to the enterprise",
+      "excerpt": "Using techniques like natural language processing (NLP) and neural networking, AI will very likely bring an end to the graphical user and even command line interfaces, which require a fair amount ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ai_democratization.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/",
+      "publishedDateTime": "2022-03-28T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-fetchai-artificial-intelligence-for-everyone.md",
+      "title": "Fetch.ai: Artificial Intelligence for Everyone",
+      "excerpt": "Fetch.ai combines two of the hottest technologies of our generation - blockchain and artificial intelligence - to create a network of self-sufficient, decentralized AI agents. What are agents in this context?",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346",
+      "originalUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenewsminute.com/sites/default/files/ArtificialIntelligence_Pixabay_11012022_1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346?amp",
+      "cdnAmpWebUrl": "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346?amp",
+      "publishedDateTime": "2022-03-28T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News Minute",
+        "domain": "thenewsminute.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-ai-chip-company-syntiant-raises-55-million-to-accelerate-growth.md",
       "title": "AI Chip Company Syntiant Raises $55 Million to Accelerate Growth",
       "excerpt": "Syntiant Corp., a provider of deep learning solutions making edge AI a reality for always-on voice, sensor, audio and image applications, today",
@@ -1075,93 +1169,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-face-recognition-technology-market-recovery-and-impact-analysis-report-nuance-communications-herta-security-crossmatch.md",
-      "title": "Face Recognition Technology Market Recovery and Impact Analysis Report -Nuance Communications, Herta Security, Crossmatch",
-      "excerpt": "Mar 27, 2022 (Heraldkeepers) -- Face Recognition Technology Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-recovery-and-impact-analysis-report--nuance-communications-herta-security-crossmatch-2022-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-recovery-and-impact-analysis-report--nuance-communications-herta-security-crossmatch-2022-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-27T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-when-the-bad-guys-are-just-a-face-in-the-crowd.md",
-      "title": "When the bad guys are just a face in the crowd",
-      "excerpt": "Last week the commission released its report and, with it, a baker’s dozen recommendations aimed at striking that balance and putting guardrails on the use of facial recognition technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2022/03/27/opinion/when-bad-guys-are-just-face-crowd/",
-      "originalUrl": "https://www.bostonglobe.com/2022/03/27/opinion/when-bad-guys-are-just-face-crowd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-27T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -1,24 +1,28 @@
 ---
 category: news
-title: "China Grants First Driverless Taxi Permits to Baidu, Pony.ai"
-excerpt: "China Grants First Driverless Taxi Permits to Baidu ... has in recent years invested heavily in autonomous driving and artificial intelligence technology, including automated personal assistants ..."
-publishedDateTime: 2022-04-28T07:05:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
-webUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+excerpt: "China has granted Chinese internet services company Baidu and a rival autonomous car company, Pony.ai, permits to provide driverless ride-hailing services to the public in Beijing,"
+publishedDateTime: 2022-04-28T11:04:00Z
+originalUrl: "https://thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/"
+webUrl: "https://thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/"
+ampWebUrl: "https://thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/amp/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ZWYZRwmhnOXPFj0Bx4r2MrJNsyXGs1jj3c2E/llKh0WyfqJtr26CHxtTuR1dqgp3eWdnL8DQ3nEbdYIGGyi0gAW3Bt9YET+EH68p3/IaikwIvbYBbjDu2xXlhUAyIdXxDLsrhdsOT+AssI5yhjfRuEW//up+zexf/svvCHHqo8EZksV7W7HIhMve5j5ljdqMfyr84JUxegpUmrt//pCAX5dY9imXVO2t3gKvLZtnuqYqUWI2qVKIL2aOZwFev24B07eoQR6JFaatZshUXPHXNMcMgmr2z6aCbO2sh9xbiklvl5qss0zGWpGipw/yTkfu5PgOY5mcA8AwzgLNbVT8c+1tDf9Xs+M0SmHBoGZlUtI=;mmpaBEdqk7ahmWT9SlgdUA=="
+images:
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/04/5e5176d460af44f3b23b744d04ddc309.jpg?w=1280"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "oNwtiION/OVeLbDK36pJ07eI7f2/fbhH76qiCy7o8xGYILdZpnMNFUV0ALJU+quL8qr8NtsyiRCyaGC8i0jcYkbbz33T4p2yfD6hcFJZGa4gnJ9kTtgCYCNq1fxARopwOJUiLMg2GghCKIrLlz06iGPGfwJhW0zvTLAFSV2rDqxIT0f4fj372W2MfV8AL9ycDAjapuNotuRWMzYguSNZdaVyasDfRNsW/YjD1ophlXB+yX5UUsKgo7jxnVIpSUkwYdis/GfcHJZoBG+KmR1zqHhifm/3FO67W7uVO3O4T8YtC1W9l/Capsi9Cm7wZSvrcMFZyrLfZKJqvLmLqNzcNPQ9+3lttTBLuyq3kagvdIo=;gwKvN17SpkVxRrOH/BUh2g=="
 ---
 

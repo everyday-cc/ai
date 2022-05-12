@@ -19,22 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "How Fintech Startup Lendingkart Has Made Borrowing Easy For 150K+ MSMEs"
-    excerpt: "However, at the core of its lending ecosystem lies a proprietary underwriting mechanism that uses big data and machine learning AI to consider ... The burden on fintech firms varies based on ..."
-    publishedDateTime: 2022-05-08T07:20:00Z
-    webUrl: "https://inc42.com/startups/how-fintech-startup-lendingkart-has-made-borrowing-easy-for-150k-msmes/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content"
-    ampWebUrl: "https://inc42.com/startups/how-fintech-startup-lendingkart-has-made-borrowing-easy-for-150k-msmes/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content&amp"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/startups/how-fintech-startup-lendingkart-has-made-borrowing-easy-for-150k-msmes/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content&amp"
+  - title: "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources"
+    excerpt: "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,"
+    publishedDateTime: 2022-05-12T06:46:00Z
+    webUrl: "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources"
+    ampWebUrl: "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources?amp"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 44
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/05/lendingkart-decoding-hyper-growth-social.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 52
 
 secured: "MdGnprBj9POofZQGdnrOjPyWAw9sbCtDCLxpCJMqPtul6PYJDxh197eGJG+GCQyqmH3z7CptDz8yoHvnqvbVtRfEKyKyMjsdFiF4GQ3tXHPmRyFop1Qnq5k6TPdTnpefQlXQcEgNszXwVR1G/FnW4nWJcAN5jWc+xwGric/lA8HElqaX+pEQSki4PJMUNzY4+9hfwuqeofohpAhEfVYSmH4cNjP7UQ3uiIntuQJqAqPZEK67bmlW90u1GS62yJjEcudPe6FcAxxDIQYZpILonzseWE9Yicg/Lwx3peueRCoLSFRJXEk2avUuR/72hS94RC2w1bmbJKdAndtVpUvJ7p9T/RJr9Myn1iSY6ZhDAFc=;AbGFu4AlRGEM1XEmJ4lM7Q=="
 ---

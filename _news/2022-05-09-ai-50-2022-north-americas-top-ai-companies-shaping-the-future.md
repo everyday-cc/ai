@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
-    publishedDateTime: 2022-05-11T21:11:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 51
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
     excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
     publishedDateTime: 2022-05-11T12:30:00Z
@@ -56,6 +42,15 @@ related:
         width: 2532
         height: 1143
         isCached: true
+  - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
+    publishedDateTime: 2022-05-11T21:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-glean-named-forbes-ai-50-list-top-artificial-/2022/05/11/9600399.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
 
 secured: "SdWiBy8Om/xG6TnUSwb/JAGYWPVXam8Kf6dfJUdVzpV7xj1Jm2spri9NUgNZneSP28KyKyp5XUxzAlLqgKmELxYCPIcXlP5AD6xKLmcgp5FeHYkp5ck2gEZUi2PJUuq6VyD3LiY7dCVIk+eEUtvpHY50cTY9giVvplsEXmNHPgEMNLvotAYWGLEuqsq9MpiGNJpm84/he1T8mrBhyUPQTTH1kuE2IbBqvALnAcL8GpIXIN1alBYNMvA1Xbf4HUDlGxR31E1jIKk5D//xGFnE69likjgBkF4jjc120c0+0kJ8KuK1YNZvw3tVxUuOERsB8Y02QmYFjiRu8n4A0slLOeQR5TcWbIfCAkDH1j7qLjYzCHkTWjYygYaW68S1HLHKm0rRm10wmgm9GzUruC4F6YWAaZIsokF40z2FEG/T6fyaz2B23+ocGf0SHzzKXff9wi4iw3c1eZN5fhqeomfxkwziwR0IV420lWfHSFwLHLqZjycm6zhqdL3CdFG+Fpyv1heRWEn1d0k9w8IJ6k1MhA==;wXZ9ioe13DpJ4cDVLbsVnA=="
 ---

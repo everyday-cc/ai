@@ -1,10 +1,10 @@
 ---
 category: news
 title: "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0"
-excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes. SAN FRANCISCO, May 10, 202"
+excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes SAN FRANCISCO, May 10, 2022 /PRNewswire/ -- D2iQ, the leading enterprise Kubernetes provider for smart ..."
 publishedDateTime: 2022-05-10T14:17:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
 type: article
 quality: 50
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dec/ka6Nlv2F6KZctx9lA9GhlkZMYgqmDeHOopqhPfGqrELntFmIr0+KDlmcmp1bsO2cyn8ItCRjwx739rFSH3SsFJuoKC4vXRySdVZjeaUmNZ2Mfw68ESgQZGVVoNBAWLCIg2BsYiCgnZ9F4owMiwInio/68Ex7MLXNRttu231J5FKsma1qHH5U1OdN3hz/8YRLc0Byq+MJBwStoxhBGkUqr44i74E3D9rOw3DjqQLKrntjxuIqTnfoAv1s/4IgnHB5KctFkk7QZiHRmQL6CCa/wKP0uVckZAkrc2PO5spYCJR3QlKFuDI2/2W3hdft3bzFFZkvwfYMUuJ9bhCWf2SoOPIehsjVWOy+3dIpF9E=;02ihyWWpHW+m2O82eeSCqQ=="
+secured: "xZtJLZZZZP6Nkw600O/GQ30dV4sdmTueH3fQNk8Vw6nxwRf87kBlQ7q1eazvux+hwMNps1R9tt6+4WGAWvqaqzbIboI2iYvswuzkmrRcu6f/5/yp7uYM4TurbwNwBcR03XO/n2N7USbXXxDgTYWcHaesqnb8yFS1oYh6ZZq+/hIj2K8SCmDLPP2yO0ciVLHMUoxC8m2LDDe7TGmqJxX3FP+7+3/y5/VPpMtUIWft53txLWPPr9ERnaBwpRqt5hzo4BgYexfpwrHpmQlDqWzobA3kHMUi7OQ+9/KwqMJqctsMBYD0v6c49QQ9A2KNNQGotgpr+QAfk1CNKdLsKnsMEWKjuRkSyhWDpfUT9emOGtg=;2UwRwRx/FmuV/ev2t9SuvQ=="
 ---
 

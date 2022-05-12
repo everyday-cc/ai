@@ -2,6 +2,92 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-03-22-global-automotive-artificial-intelligence-ai.md",
+      "title": "Global Automotive Artificial Intelligence (AI)...",
+      "excerpt": "The growing demand for self-driving cars, as well as a preference for enhanced user experience and convenience features, are propelling the Automotive Artificial Intelligence Market forward during ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g26233656/global-automotive-artificial-intelligence-ai-market-is-forecast-to-grow-to-us-7-676-92-million-by-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g26233656/global-automotive-artificial-intelligence-ai-market-is-forecast-to-grow-to-us-7-676-92-million-by-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26233656",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26233656",
+      "publishedDateTime": "2022-03-22T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence.md",
+      "title": "Perseverance Rover To Self On Drive On Mars Soon, Thanks To Artificial Intelligence",
+      "excerpt": "Perseverance is collecting rock cores for return to Earth which makes for the first part of the Mars Sample Return campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence",
+      "originalUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/news/n/nasas-pers/nasas-perseverance-has-a-little-family-portrait-easter-egg_enwu.620.png",
+          "width": 620,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence?amp=1",
+      "publishedDateTime": "2022-03-22T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-ai-experts-warn-of-potential-cyberwar-facing-banking-sector.md",
       "title": "AI Experts Warn of Potential Cyberwar Facing Banking Sector",
       "excerpt": "U.S. authorities have flagged the U.S. financial system, a central pillar in the U.S. sanctions regime, as an attractive target, and officials and security experts have warned for weeks about the possibility of retaliatory cyberattacks from Russia.",
@@ -1054,109 +1140,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-global-cognitive-data-management-market-2021-key-players-analysis-segmentation-industry-size-growth-trend-and-forecast-by-2027.md",
-      "title": "Global Cognitive Data Management Market 2021 Key Players Analysis, Segmentation, Industry Size, Growth, Trend and Forecast by 2027",
-      "excerpt": "Mar 20, 2022 (CDN Newswire via Comtex) -- Global Cognitive Data Management Market Research Report 2021-2027 crafted by MarketsandResearch.biz encompasses a clear picture of the global market by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-data-management-market-2021-key-players-analysis-segmentation-industry-size-growth-trend-and-forecast-by-2027-2022-03-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-data-management-market-2021-key-players-analysis-segmentation-industry-size-growth-trend-and-forecast-by-2027-2022-03-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-how-businesses-can-boost-their-roi-with-agile-ai.md",
-      "title": "How Businesses Can Boost Their ROI With Agile AI",
-      "excerpt": "This will allow businesses to prioritize optimizing delivery outputs. Start Small and Scale AI Applications Across the Organization Businesses starting out with enterprise AI deployment should work closely with internal teams to identify potential use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d7fb4a3a5e8d8f6d35a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 965,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/amp/",
-      "publishedDateTime": "2022-03-21T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

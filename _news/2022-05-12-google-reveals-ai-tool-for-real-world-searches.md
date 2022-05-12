@@ -41,6 +41,20 @@ related:
         width: 1172
         height: 678
         isCached: true
+  - title: "Google unveils artificial intelligence tool for real-world searches"
+    excerpt: "Alphabet's Google on Wednesday (May 11) previewed augmented-reality glasses that display translations of conversations in real time, and it laid out additional plans to bridge the real world and its digital universe of search,"
+    publishedDateTime: 2022-05-12T06:08:00Z
+    webUrl: "https://www.channelnewsasia.com/business/googles-second-try-computer-glasses-translate-conversations-real-time-2679236"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--B4TgYezX--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-05-11t193002z_1_lynxnpei4a127_rtroptp_3_alphabet-google-developers.jpg?itok=u_k2gKUb"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "PFKFDBrTCnA3KjqNM7eCkk6q3nPE7uOdK1FUUmxwjXPIKluaCVt6KpmuL1PGqmi1t091dG/HH9ULzEkMJlI/Cp/Dvg62qQgus1hvXSxbiqWlVLydm/mM93y5hUV18HF5I2O4zE0gm3RBfH0Gb+Lnn07XKRkQq+YYJcCGXTz63y8UD4nKfammFV4cCEclUu2EnuoVTNv9s1iKliV8tHOgRnWJtULKhAZoAKjXz2doQTQ3oym9T8CHCwWr4Q4+owiP+PrOcDiYxWlqpCZIYZZndUGKCaNiIDWZL0UlPhaj7Mr1vnGWeyys9c5OdA/HVmVPEPVvPHMmIZHDvI47E0BlCT2jsRUM03yEMtR4Hbs5M00=;bW8e2IVSEMh55h+cou2sTA=="
 ---

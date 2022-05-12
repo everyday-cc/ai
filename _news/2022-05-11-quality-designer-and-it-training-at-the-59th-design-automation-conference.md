@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Quality Designer and IT Training at the 59th Design Automation Conference"
-excerpt: "Complimenting the Thursday is Training Day program, is a new session, Machine Learning Bootcamp for Data Scientists, from Catalit and three training sessions on Tuesday and Wednesday for IT professionals provided by Microsoft Azure, Google and NetApp in ..."
-publishedDateTime: 2022-05-11T16:53:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-quality-designer-it-training-the-59th-design-automation-/2022/05/11/9600172.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-quality-designer-it-training-the-59th-design-automation-/2022/05/11/9600172.htm"
+excerpt: "The Design Automation Conference (DAC), the premier event devoted to the design and design automation of electronic chips to systems, has enhanced its educational training program for 2022. The popular Thursday is Training Day program provided by Doulos,"
+publishedDateTime: 2022-05-11T15:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-san-francisco-b40212b730674f0eb693ee6832a37ad8"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-san-francisco-b40212b730674f0eb693ee6832a37ad8"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "BF/gI3cfOw9PYejG20/SPBZe87x/VZMxJlcXDev6meSDE0x4YNvieR2YphGinkVnrbGgcWLMRn+PtBJBHMkoPxBVs6arRUms/ynFLW8O4HA4gzRn6Wr+bzWRiJ9FCVaqJjswrkCUoYpNOETa8ZtsW8A/AqFV5Y1fzWWZHr4J2gWkUIlqKWDhrjEq0EEmeKnd7I0gxBHLBN5+sZBWoNL3qDJ/vJojg16SqU0GJYOdI0LYkOTLt9xIt7jJ4n98r3NOs0IrfCADlouNKdZQX13AduOAmTcyNlllrYzuugkIQ195vJFPq59v0kgXeMQO2T00Y40j61vq5RHj6GQ7J461OLLodMrap2rJN22D4rJKwoQ=;8jbW+DVb2FPSoe2GZSd7mw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "yB8LLT6JEFLjStFUeR/+tZte0nen6SJLmtSwPwWnKgfCYTYy5OhdE+UmTjKGjE+fqQK1rq43vzpkmWl82cqJIN+Sb27PYnR8NDCLkgMicJxCb44HMfuwSV4l/xQqxtBbOZd3LQ19RerhRaPk6qy1oPIUMWOzkowos53MnytcAjgmP9cYfSanruOTuOLuGgRdrtCVkvEc0OfLJ9yTctzO2uYCjMk8GAH4hHsoFYxPZFsHhx9o0o45rMA1eKM1Uj0PVf6pJqIMFEFsa+uXA9ZWq7MNTzowUxPJRCE8794yuBwrya3FvxhQO7k3k9dc0uYCA1Gxhtv+fg6He1dQwsQOm+rPXtDIlZzbQwoojZj4jS4=;cnSaesAFjDEka/Lh3uNRxw=="
 ---
 

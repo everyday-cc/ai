@@ -395,6 +395,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-09-the-three-way-race-for-gpu-dominance-in-the-data-center.md",
+      "title": "The three-way race for GPU dominance in the data center",
+      "excerpt": "Nvidia, AMD, and Intel are about to slug it out for a share of the growing graphics-processing-unit market that’s being fueled by the needs of artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.html",
+      "originalUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/03/nvidia-hopper-gpu-100922543-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.amp.html",
+      "publishedDateTime": "2022-05-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-07-nvidia-burns-55-million-settling-with-sec-on-gpu-sales-to-crypto-miners.md",
       "title": "Nvidia burns $5.5 million settling with SEC on GPU sales to crypto miners",
       "excerpt": "We all had a bad time waiting out the graphics card shortage that took place from late 2020 up until recently, but it wasn’t the first time crypto mining was to blame for a lack of Nvidia and AMD GPUs. Back in 2017 and 2018 there was another similar ...",
@@ -1366,49 +1409,6 @@
       "provider": {
         "name": "theregister",
         "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-polyn-technology-delivers-nasp-test-chip-for-tiny-ai.md",
-      "title": "POLYN Technology Delivers NASP Test Chip For Tiny AI",
-      "excerpt": "POLYN Technology has announced that its first Neuromorphic Analog Signal Processor (NASP) chip is packaged and evaluated, demonstrating proof of the technology's brain-mimicking architecture. It is the first Tiny AI true analog design to be used next to sensors.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconsemiconductor.net/article/114634/POLYN_Technology_Delivers_NASP_Test_Chip_for_Tiny_AI",
-      "originalUrl": "https://siliconsemiconductor.net/article/114634/POLYN_Technology_Delivers_NASP_Test_Chip_for_Tiny_AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=shutterstock_376500043.jpg",
-          "width": 655,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "siliconsemiconductor",
-        "domain": "siliconsemiconductor.net",
         "images": null,
         "publishers": null,
         "authors": null

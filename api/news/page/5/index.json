@@ -2,12 +2,65 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-06-uk-regulatory-bodies-call-for-auditing-standards-of-ai-and-machine-learning.md",
+      "title": "UK regulatory bodies call for auditing standards of AI and machine learning",
+      "excerpt": "Globally, algorithms used in financial decision-making are drawing increased scrutiny through the lens of risk management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5",
+      "originalUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62753c13a6a880001827de76?width=1200&format=jpeg",
+          "width": 922,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5?amp",
+      "publishedDateTime": "2022-05-06T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom.md",
       "title": "Artificial intelligence helps decode sounds of the animal kingdom",
-      "excerpt": "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human. \"If you're manually trying to isolate these calls from audio files ...",
+      "excerpt": "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
-      "originalUrl": "https://www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
+      "webUrl": "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
+      "originalUrl": "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -24,13 +77,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
-      "cdnAmpWebUrl": "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
-      "publishedDateTime": "2022-05-06T06:36:00-07:00",
+      "ampWebUrl": "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
+      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
+      "publishedDateTime": "2022-05-06T06:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMJ4",
-        "domain": "tmj4.com",
+        "name": "WXYZ Detroit",
+        "domain": "wxyz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1112,49 +1165,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging.md",
-      "title": "Guidehouse Insights Finds AI and Predictive Analytics in Healthcare Will Enable Safer Aging",
-      "excerpt": "Passive monitoring, an important addition to the smart home, is replacing traditional forms of personal emergency response systemsBOULDER, Colo.,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

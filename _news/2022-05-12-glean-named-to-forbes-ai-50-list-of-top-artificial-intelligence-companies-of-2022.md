@@ -2,28 +2,20 @@
 category: news
 title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
 excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
-publishedDateTime: 2022-05-11T21:11:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
-webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+publishedDateTime: 2022-05-11T21:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-glean-named-forbes-ai-50-list-top-artificial-/2022/05/11/9600399.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-glean-named-forbes-ai-50-list-top-artificial-/2022/05/11/9600399.htm"
 type: article
-quality: 51
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - AI in Healthcare
-  - AI in Autos
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "AI 50 2022: North America’s Top AI Companies Shaping The Future"
@@ -55,6 +47,6 @@ related:
         height: 1143
         isCached: true
 
-secured: "xR5nYvFz9EwUYHGJJDEVYZktVR37gWngNrqsHjxhvdsDViwE3nZ6Ky7vM6cffdk8B+qbaGWZgbJA71qcVy477BMzfJuokEeSNkz5Efqv+5eMa3fOuFdwCEgh9X4c76NVrJZS6F4zf+gLJ4gD/P/qv51IoCoQyGdlNb0BwaPc5DXB7SWh4inQ3lt2ZWdhXzHfXyf2Hxu+I4samWAOlzAPyGnoENvLnHZENtIfC/vMS3VPpyQjCK6AmzeoumuUrQYDjP0W2vwSQ35FYQqmCayIy6lziASqX77GK3Yb5BIr1RJmcPnZUrJuAK8Gc2FP3fkc4zbc04/L++sNgZvhi5diEHsP2sllb8v7s8kV3rqKx4w=;7uk7Jq13njV4co21sOrSyw=="
+secured: "9AV9rA+UoqKI+5NuEVtNorJ3ZQbuxQXNQ+Tg7VAhqyvUja/pXGE7irrmoxbB3piIdH936BhcDIPwHOzInJwccZcdSBx4U8yP9pxMJpQFIo/aN+KjjpdZG2g+94ZwaoHHDF7c+knz5NNi7XyPo17gSZleazrX0yQrxoylSfC9+ulkHuXmXpu9Rlltz3Qdd8aIqH9vYKrOEMLncQmz+KSnjHW9PP3NEyfYWCfe+vRLl4Mj402einn4pHGkr1YtxulkHHtY7NJKDw9UUUBCONL+xLnAH3xRXjkGzR76Pyp/cCS6GiCXci4/KYfcLOJouK3HPJgeQIFaqRNj0XfQf+EGNaaokCSMsKAe8ecgyNRF9Fs=;FIO7eEuOTjcAhZ6GW7AV5Q=="
 ---
 

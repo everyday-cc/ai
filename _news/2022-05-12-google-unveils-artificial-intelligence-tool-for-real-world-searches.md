@@ -1,62 +1,60 @@
 ---
 category: news
 title: "Google unveils artificial intelligence tool for real-world searches"
-excerpt: "Alphabet Inc.'s Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company previewed a ..."
-publishedDateTime: 2022-05-11T19:59:00Z
-originalUrl: "https://www.unionleader.com/news/business/google-unveils-artificial-intelligence-tool-for-real-world-searches/article_7e28b911-e883-5520-8562-3c5c59520a84.html"
-webUrl: "https://www.unionleader.com/news/business/google-unveils-artificial-intelligence-tool-for-real-world-searches/article_7e28b911-e883-5520-8562-3c5c59520a84.html"
+excerpt: "Alphabet's Google on Wednesday (May 11) previewed augmented-reality glasses that display translations of conversations in real time, and it laid out additional plans to bridge the real world and its digital universe of search,"
+publishedDateTime: 2022-05-12T06:08:00Z
+originalUrl: "https://www.channelnewsasia.com/business/googles-second-try-computer-glasses-translate-conversations-real-time-2679236"
+webUrl: "https://www.channelnewsasia.com/business/googles-second-try-computer-glasses-translate-conversations-real-time-2679236"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: New Hampshire Union Leader
-  domain: unionleader.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/7/85/785c8c96-164c-5c96-acb3-903be39118e0/627c1d4755c85.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--B4TgYezX--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-05-11t193002z_1_lynxnpei4a127_rtroptp_3_alphabet-google-developers.jpg?itok=u_k2gKUb"
     width: 1200
-    height: 630
+    height: 676
     isCached: true
 
 related:
-  - title: "Google I/O: To build better AI, Google invites others to join its AI Test Kitchen"
-    excerpt: "On Wednesday at Google I/O, the company showcased LaMDA 2. During the I/O keynote, Google CEO Sundar Pichai called it Google's \"most advanced conversational AI yet.\" The tech giant is working on LaMDA and other models to improve Search, Google Assistant ..."
-    publishedDateTime: 2022-05-11T20:06:00Z
-    webUrl: "https://www.zdnet.com/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
+  - title: "Google Workspace Suite To Gain 7 New AI Tools For Usability & Security"
+    excerpt: "Google is expanding its use of AI in Workspace in a bid to improve the usability and security of its services. That's based on a recent announcement from"
+    publishedDateTime: 2022-05-11T18:47:00Z
+    webUrl: "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
+      name: Android
+      domain: androidheadlines.com
+    quality: 74
     images:
-      - url: "https://www.zdnet.com/a/img/resize/ab8bcde7ffed4e3a8a481d1c210a436f8e1cc4fc/2022/05/11/30026320-f49f-45f7-95fb-5a5c47bb63d4/imagine-it.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 1429
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/10/google-workspace-gmail-new-icon.jpg"
+        width: 1172
+        height: 678
         isCached: true
-  - title: "Google details its latest language model and AI Test Kitchen, a showcase for AI research"
-    excerpt: "During its first keynote at Google I/O 2022, Google detailed its latest language model, LaMDA 2, and an app called AI Test Kitchen."
-    publishedDateTime: 2022-05-11T18:31:00Z
-    webUrl: "https://techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/"
-    ampWebUrl: "https://techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/amp/"
+  - title: "Google reveals AI tool for real-world searches"
+    excerpt: "Google on Wednesday in the US previewed augmented-reality glasses that display translations of conversations in real-time, and it laid out additional plans to bridge the real world and its digital universe of search,"
+    publishedDateTime: 2022-05-11T21:38:00Z
+    webUrl: "https://www.crn.com.au/news/google-reveals-ai-tool-for-real-world-searches-579890"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/AI_TestKitchen.gif?w=680"
-        width: 680
-        height: 383
+      - url: "https://i.nextmedia.com.au/News/2022-05-11T193107Z_1_LYNXNPEI4A12A_RTROPTP_4_ALPHABET-GOOGLE-DEVELOPERS.JPG"
+        width: 2034
+        height: 1356
         isCached: true
 
-secured: "mJURwHmehM6N+7sy6i9yTayY2LDzZviwzZWFrXqYOuT48X64DBct4UPfa6fZkjAZgSnRL2hR0+qPOuqdQHiFRE0fJx3X/YWd6d2QbWKWEsr6fmQYgZlYqxx/r4H/Z8A9SkP89c5oj26sE9e3P0OweTya57x2dfvayjgHDcPF8xVqdTjN9xW9cUXcoylH3UkUQwMC8uGweD430EDC+DocB97j/P2E6OrnsfOKakKUPKQ53nufhk9c/8iXrTAaXIDtH2GYrvcxINdszGsI9bK5kpZ5JRA2BlRyaY4Q7Xj+qjykqr307VOTjweb1hyn5h5h0UBiiCqncSSmlCgKAQ6XwsTTSNJ/7UyOQLdwnfoGeKA=;k30Zfg5FjrUezcDIJK4ayQ=="
+secured: "2120vi42haJ+NQRbQ4GnRqieiR0dkfMtN9CBPBJdaClX5i/Ap2C4A3/RwLVj/XngbBW+X5SWBe3+xI/ckxdd2upLxxWkNAN/8ga1ePBGPK4HwQhWW47KXgpQ4vHGYp4452pxUkc15+YAlIHPuqQ9lUOyWD6ogJzJ0okwkOXp4hjhcFV69fWkkE2DjshpwwwBKKJryjQToN0DnUqNSZJsGECghUFw7uRNm0x24e2Fz6Pps2MFEkn0vEN4mH/rADH25ZMZ/CA/p+yXCWyf+iuDn3rC6eOvzHJRB73hLvLWq78SnMwIZkqcOmX5WEo5XHKkMLM/tD0Ev/96jrY4MA9zt7w2P4yPEqFNB/nMssYJCqM=;1qmVtNGvWocg9niAqJ53lQ=="
 ---
 

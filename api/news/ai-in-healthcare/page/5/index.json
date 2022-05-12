@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-03-12-researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.md",
-      "title": "Researchers develop a system of synthetic biosensors to assess the response of cancer therapy",
-      "excerpt": "Immune checkpoint blockade (ICB) inhibitors have transformed the treatment of cancer and have become the frontline therapy for a broad range of malignancies. It's because they work better than the previous standard of care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "publishedDateTime": "2022-03-11T17:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-12-ai-our-world-what-is-artificial-intelligence.md",
       "title": "AI & Our World: What is Artificial Intelligence?",
       "excerpt": "Let’s talk about a question a lot of people ask themselves… What is AI? The thing about artificial intelligence is that most people don’t really know what it is. A lot of what most individuals think t",
@@ -1310,6 +1267,41 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-ai-in-healthcare-presents-need-for-security-privacy-standards.md",
+      "title": "AI in Healthcare Presents Need for Security, Privacy Standards",
+      "excerpt": "Mayo Clinic, Duke, and DLA Piper are teaming up to ensure that security, privacy, and safety standards are top-of-mind when implementing AI in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "originalUrl": "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "publishedDateTime": "2022-02-17T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
       ]
     }
   ],
