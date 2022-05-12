@@ -2,25 +2,25 @@
 category: news
 title: "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists"
 excerpt: "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ..."
-publishedDateTime: 2022-05-02T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-accern-raises-20m-series-b-round-accelerate-access-/2022/05/02/9593300.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-accern-raises-20m-series-b-round-accelerate-access-/2022/05/02/9593300.htm"
+publishedDateTime: 2022-05-02T13:34:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "G0d7ui1Es+igVUbqgfhm5ymBf84ejg71RjMxoruf2Q8bEexqNAQJVp0OhB2tT0ESu/rSpR+nf4wvYWpjt5HfDIMg54LWPJbRFd7QIXQTwzX5xwY494h09yXpH9q3sPj2er7EGZASUf4v0oXWKAT87wSqnOH87+TCK01XCeN4eXmo5ziA/zBGfuD8snAg+1xg7iUUaxtjcAXvuXIqHzV13W+iX3EogvPEvWn7IPCGYRRBfUNRjWe60L78FsthtSMUPPR6VynUrwidTCmtiXNZSq+XsP5tASF9SsHg0sxomqRUH4NPnizqsBbspxOl8wCY4ktq0S2zmONQ+NVxm24nlvAxQVX9BswIuRJX2qRaawY=;OUgucrp8qm1Ruf8EXwgmHA=="
+secured: "n5fahtwWH9MG0EbPrVNbjLd9xRTMprlUUJrihechnb2252NQnjKzo1jjR0tPJG1jx5vSsN2lF5AMHnM8T1fahwwqfapv5ZTFQ7D3kigBdwphET7dR/zdGuoYG1iYYdn/Wii1QQ2Qtw2lcjLHTgCELspmkJN8FiA5H0tfS9jgOXWx8RxQrbOAOqY3UwLC4ojH58lALTD6IVox3B0GVe6A3A9L0PjPLUfXTGfwYHJRZS1Q8/nWart84IpiChXb7yuhDgJOJ1in80a9sV8iiT5vRJXqG9jJBeuMXCN0Vp/TsYWV4lkH3zc7fhxZ8szQa/2BtbIaq5TKs3Q1rpuMr5VPahsikKzmxc6zpPn5CPxCMQY=;8ge2/S/WgPY6ewLCrAt1/w=="
 ---
 

@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 855
         isCached: true
-  - title: "Debate continues in Legislature over limits on facial recognition technology"
-    excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday."
-    publishedDateTime: 2022-05-07T07:45:00Z
-    webUrl: "https://gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.html"
-    ampWebUrl: "https://gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.amp.html"
-    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.amp.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 56
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/b6/eb6ce6f0-cd9b-11ec-bbfd-6fc9d1720af4/6275bc4be3408.image.jpg?resize=1024%2C642"
-        width: 1024
-        height: 642
-        isCached: true
 
 secured: "CeBKA54VBFV23iM0KH6mM9/xeTttwvLq/DFYkH2YHW+wbrgwrzYGScDO0EbOdE5yazT3rKJHO2FnjE2T+g8nHvVOQZeQzYD9C3p7zelYWIZDhfJ1a5RG8CNMEfgwhQx4sNitBa2mSytflfVQCsKmBg/uQYzWE9/g4kLEmSfNpWD9AZ4ztNkTIzGM81YwtDwgtMxtIBHKRvV3q5LU4KQzRuSuT76KPbklsfoX83KobAvwcPL4azPjmPM4/hEO5Pr+lbKMaHtx95BoN/aIebolen9hkMzHAoRajAY+RdmNcdPxCrop6Ro1CdpYoQ37GKTtYXDiKRP+Bx5yFammTjeXXZJBKXZBVubSTRBbXm2gAvA=;SezDpeWtxR5A46JduR5cGQ=="
 ---

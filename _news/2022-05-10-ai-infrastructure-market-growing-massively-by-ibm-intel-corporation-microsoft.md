@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook"
-    excerpt: "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ..."
-    publishedDateTime: 2022-05-07T07:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27060343"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27060343"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 76
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Is Booming Worldwide IBM, Microsoft, Enlitic"
     excerpt: "New Jersey, N.J., May 10, 2022 Artificial intelligence in healthcare is a general term used to describe the use of machine learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the analysis, presentation ..."
     publishedDateTime: 2022-05-10T10:17:00Z

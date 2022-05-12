@@ -7,8 +7,8 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healt
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-is-booming-worldwide-ibm-microsoft-enlitic"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: Digital Journal
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook"
-    excerpt: "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ..."
-    publishedDateTime: 2022-05-07T07:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27060343"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27060343"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 76
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "AI Infrastructure Market Growing Massively by IBM, Intel Corporation, Microsoft"
     excerpt: "New Jersey, N.J., May 10, 2022 The AI Infrastructure Market research report provides a thorough and comprehensive analysis of the global Industry. It contains quantitative and qualitative data on the entire industry structure. This AI Infrastructure Market ..."
     publishedDateTime: 2022-05-10T10:22:00Z

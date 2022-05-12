@@ -52,20 +52,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Google unveils new 10-shade skin tone scale to test AI for bias"
-    excerpt: "Alphabet Inc's Google on Wednesday unveiled a palette of 10 skin tones that it described as a step forward in making gadgets and apps that better serve people of color."
-    publishedDateTime: 2022-05-11T23:22:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/12/google-unveils-new-10-shade-skin-tone-scale-to-test-ai-for-bias"
+  - title: "Google Unveils New 10-Shade Skin Tone Scale to Test AI for Bias"
+    excerpt: "Alphabet Inc's Google on Wednesday unveiled a palette of 10 skin tones that it described as a step forward in making gadgets and apps that better serve people of color. The company said its new Monk Skin Tone Scale replaces a flawed standard of six colors known as the Fitzpatrick Skin Type,"
+    publishedDateTime: 2022-05-11T17:51:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-05-11/google-unveils-new-10-shade-skin-tone-scale-to-test-ai-for-bias"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/12/1582185.jpg"
-        width: 800
-        height: 545
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "Zp53ne0lLvs/FdMjmhaP5lO3APYvFxWrQK9XugaQazj7KoOdfKl7dEkb4F5nSEaTOtXaPeO+5LZN6aX6Y0SwWOnEw6pL5P24lJv5OdOU1mLn9eLvN0cmJotppwD2US5P3777lPwpJ/CKnxgZUEgqVWz5xnCkK38RlhXf0+1oT/tQXnsVBswqlPa+4cpHDnwG9yQOg3U1dq2KzEBaW5ju30yr9KpVFWVvUp2S/TKxYR9n3rZ8buRixtNazDkh/kfZcZqpgxocMFifAd95Ms0iN4AvMHR4xnZqsx8f9tSmF8+Y5TS1XjF7xfZ9dNNkGb3uyy6+X3EudxtuFzmq3U2WDULiSJqMPmEUKE5ZFEv0exXbiMI5U/p2PBgibAgD4mvAwrdHEPM/qiTopN38uUQDnXTpOju+bE0Ye52GEpsBWTU0bjcvChtuoAvjNYmRZfMa5IziqU5D9+LoGXMktvLomu3d3j2yxX6deda+n6+WIkxTYT61SC+57xJhxNsvWu5dusZSamKvf9IVjFi5izfOaQ==;7YKCrg8JhfPMvZXZIqj/8w=="
 ---

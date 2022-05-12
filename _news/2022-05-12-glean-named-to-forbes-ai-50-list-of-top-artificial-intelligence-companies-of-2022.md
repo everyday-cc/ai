@@ -40,35 +40,19 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Top AI Companies Riding the Innovation Wave in 2022"
-    excerpt: "IBM has its proprietary AI engine called Watson. It is used for research and the use of commercial products. The engine offers language processing, AI-based decision-making, and task automation. IBM offers the following AI features: The Watson AI lab ..."
-    publishedDateTime: 2022-05-07T07:31:00Z
-    webUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/"
-    ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
-    type: article
-    provider:
-      name: Leadership
-      domain: industryleadersmagazine.com
-    quality: 61
-    images:
-      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg"
-        width: 1000
-        height: 570
-        isCached: true
   - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
     excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
     publishedDateTime: 2022-05-11T12:30:00Z
-    webUrl: "https://fox59.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
+    webUrl: "https://pix11.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
     type: article
     provider:
-      name: FOX59 News
-      domain: fox59.com
+      name: WPIX
+      domain: pix11.com
     quality: 29
     images:
-      - url: "https://mma.prnewswire.com/media/1514996/overjet_Logo.jpg?p=publish"
-        width: 2532
-        height: 1143
+      - url: "https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png"
+        width: 600
+        height: 248
         isCached: true
 
 secured: "xR5nYvFz9EwUYHGJJDEVYZktVR37gWngNrqsHjxhvdsDViwE3nZ6Ky7vM6cffdk8B+qbaGWZgbJA71qcVy477BMzfJuokEeSNkz5Efqv+5eMa3fOuFdwCEgh9X4c76NVrJZS6F4zf+gLJ4gD/P/qv51IoCoQyGdlNb0BwaPc5DXB7SWh4inQ3lt2ZWdhXzHfXyf2Hxu+I4samWAOlzAPyGnoENvLnHZENtIfC/vMS3VPpyQjCK6AmzeoumuUrQYDjP0W2vwSQ35FYQqmCayIy6lziASqX77GK3Yb5BIr1RJmcPnZUrJuAK8Gc2FP3fkc4zbc04/L++sNgZvhi5diEHsP2sllb8v7s8kV3rqKx4w=;7uk7Jq13njV4co21sOrSyw=="

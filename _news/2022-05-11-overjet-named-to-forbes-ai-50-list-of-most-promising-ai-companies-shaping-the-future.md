@@ -3,24 +3,24 @@ category: news
 title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
 excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
 publishedDateTime: 2022-05-11T12:30:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
+originalUrl: "https://pix11.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
+webUrl: "https://pix11.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: WPIX
+  domain: pix11.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1514996/overjet_Logo.jpg?p=publish"
-    width: 2532
-    height: 1143
+  - url: "https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png"
+    width: 600
+    height: 248
     isCached: true
 
 related:
@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Top AI Companies Riding the Innovation Wave in 2022"
-    excerpt: "IBM has its proprietary AI engine called Watson. It is used for research and the use of commercial products. The engine offers language processing, AI-based decision-making, and task automation. IBM offers the following AI features: The Watson AI lab ..."
-    publishedDateTime: 2022-05-07T07:31:00Z
-    webUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/"
-    ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
-    type: article
-    provider:
-      name: Leadership
-      domain: industryleadersmagazine.com
-    quality: 61
-    images:
-      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg"
-        width: 1000
-        height: 570
-        isCached: true
   - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
     publishedDateTime: 2022-05-11T21:11:00Z
@@ -69,6 +53,6 @@ related:
         height: 450
         isCached: true
 
-secured: "KjXk04ucBZeHiAhhFqXF66rvNt9hIc6o08/UeJXVzS/kQqbPUNLE+kpa3wH+mnA3XdWPBGy0fnqhIGmIgilURrenrcTw3ZQOxTZHeciBKOFukErJAd9zEUQigVkDk80ljlGiZOyx29mBLzoo9DhUIfJotSNCY8dFeNfao5VDObnuJYsBh4p+91WPfa8/zDudoo+VgJOZ/AVRf43Xi4eYpfvi5QzmvoJqHRTdBIs0ZBbFCPzvZq7CUXa+Vzl63Gqfe17WjyhKw51niYFo7obyG1BX66AR9OkFzM3/4f2BTmCP3vsYNr+No5m/hfnJxenzL6XCNTGL3FoGN3wy+1/AwYgCrfbIL82BgRWKHY4hJA8=;q7l6BGViL+cPuCtYIH/T6A=="
+secured: "ZMgjqeuKquCnKHHx+3oxaVcAgB+n9+Xj90SsmJpoZOq267acksBUvrpL1zxJ+V/1LHKe4POO9avB66GVG+wfN6SiSIJat6DWZZrQ99Z1cvXg4Ez6iPM8KSK7U+LDayBBXqlNc2KEb0hYvUrLXmpbzQdGOJsb+9wDffpmFfPdCn0EE6Lhhk3bpupJeRRXglHzMGNt7cEaLxc93I80E1VfgPlsZsLg3Gok057wZ944HW5oMG1LDNwbHeS8YoR+miRFTRyMDr3es6C+C6ew0RvH+kWEyBGsdV6rxP1qcplrPv++Ycdr2mX1QFJZDJTIDpE/Wlm351wk91WYpSAX5KqpMIRCbZjdDUo1NNyspWTxmng=;j/WsDZHQj9RYED25YopX3Q=="
 ---
 

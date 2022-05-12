@@ -25,24 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "As AI and robotics advance, are we ready for a post-work world?"
-    excerpt: "Gray Scott, futurist, philosopher and artist I’m old enough to remember television shows from the ’60s that featured futuristic concepts such as artificial intelligence (AI) and robot servants. “Lost in Space” and “The Jetsons” included robot ..."
-    publishedDateTime: 2022-05-10T13:47:00Z
-    webUrl: "https://www.thestar.com/business/opinion/2022/05/10/as-ai-and-robotics-advance-are-we-ready-for-a-post-work-world.html"
+  - title: "Google Workspace Suite To Gain 7 New AI Tools For Usability & Security"
+    excerpt: "Google is expanding its use of AI in Workspace in a bid to improve the usability and security of its services. That's based on a recent announcement from"
+    publishedDateTime: 2022-05-11T18:47:00Z
+    webUrl: "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com
-    quality: 49
-  - title: "How artificial intelligence helped save world trade"
-    excerpt: "Yet some trade finance banks had the foresight to plan for such an eventuality, utilising capabilities that overcome market-wide limits on documentary trade. As appetite for trade digitalisation grows,"
-    publishedDateTime: 2022-05-09T09:28:00Z
-    webUrl: "https://www.finextra.com/blogposting/22260/how-artificial-intelligence-helped-save-world-trade"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
+      name: Android
+      domain: androidheadlines.com
+    quality: 74
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/10/google-workspace-gmail-new-icon.jpg"
+        width: 1172
+        height: 678
+        isCached: true
 
 secured: "PFKFDBrTCnA3KjqNM7eCkk6q3nPE7uOdK1FUUmxwjXPIKluaCVt6KpmuL1PGqmi1t091dG/HH9ULzEkMJlI/Cp/Dvg62qQgus1hvXSxbiqWlVLydm/mM93y5hUV18HF5I2O4zE0gm3RBfH0Gb+Lnn07XKRkQq+YYJcCGXTz63y8UD4nKfammFV4cCEclUu2EnuoVTNv9s1iKliV8tHOgRnWJtULKhAZoAKjXz2doQTQ3oym9T8CHCwWr4Q4+owiP+PrOcDiYxWlqpCZIYZZndUGKCaNiIDWZL0UlPhaj7Mr1vnGWeyys9c5OdA/HVmVPEPVvPHMmIZHDvI47E0BlCT2jsRUM03yEMtR4Hbs5M00=;bW8e2IVSEMh55h+cou2sTA=="
 ---

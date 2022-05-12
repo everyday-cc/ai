@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/translate/24-new-languages/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/24-new-languages/amp/"
 type: article
 quality: 111
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/Google-Translate.jpg"
         width: 3720
         height: 2480
+        isCached: true
+  - title: "Google Translate adds support for 24 new languages learned with machine learning"
+    excerpt: "Google LLC said it’s adding another 24 languages to its Google Translate app during its I/O developer conference today. The new supported languages include dialects that are spoken by more than 300 million people across the world,"
+    publishedDateTime: 2022-05-12T00:25:00Z
+    webUrl: "https://siliconangle.com/2022/05/11/google-translate-adds-support-24-new-languages-learned-machine-learning/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Google-Trtanslate.jpg"
+        width: 1000
+        height: 416
         isCached: true
 
 secured: "fNksD7ZN6yI8RrgBFc62K7gGHVDDR1E1aWLAFFMxDvbvLaLsJziviRqoQksOLndZ054qVlIbruVERYneUhKew7vzgQukLofCJe9rtx8uad2lFjV2ffm/Wuuztusth1wdgCHSI1yLjGPgDiYclpOtTp5tbMlvIL25pEY4sveyXb9YY10qJ2CHrWhzPRgaVVHz174uoVLtXVGS1jnJwSxuEDdJDRmGAYUiGRwkgxYDZq3EcsspKHezzBrDtqufis7Z7Hv4jEY/VwBTS0f0ePbk2VwOm3dj3fLIe3XgtlF5mbcUqWoX3Q+/I92GYekAGjQFCHQJcY1jXYWZtgNG36owh3KDG92R5rSiWHVtQuIhLmY=;OE8JU4v6GJ6imc8C1umVTw=="

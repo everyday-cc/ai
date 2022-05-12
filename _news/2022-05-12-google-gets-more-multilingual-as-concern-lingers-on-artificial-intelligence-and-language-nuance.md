@@ -3,18 +3,18 @@ category: news
 title: "Google gets more multilingual as concern lingers on artificial intelligence and language nuance"
 excerpt: "The internet giant says new artificial intelligence technology lets it vastly expand Google Translate's repertoire of the world's languages. Google added 24 such languages this week, including Quechua and other Indigenous South American languages such as ..."
 publishedDateTime: 2022-05-11T21:51:00Z
-originalUrl: "https://www.turnto23.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
-webUrl: "https://www.turnto23.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
-ampWebUrl: "https://www.turnto23.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
-cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
+originalUrl: "https://www.newschannel5.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
+webUrl: "https://www.newschannel5.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
+ampWebUrl: "https://www.newschannel5.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
+cdnAmpWebUrl: "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: KERO-TV
-  domain: turnto23.com
+  name: News Channel 5 Nashville
+  domain: newschannel5.com
 
 topics:
   - AI
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "puQbtaW5tlf3gu+jF7ydY1cZakkIcnnOGLZmeHH1prgaJcAW2URED7bc0vyfoMZZxtmQuOKBmGH+JmU3r0MF262IXTYGZ4DymwWbh4LpXhh+F0a+/TFANMSm18G1aV10zuQLrjoIFhbBz3NWuhHVcT4SIFrlzm+gXIzamsXjDDrtgH28IucSqcJwi2BoB2hNF0GOBZa1Li29SKMHQEeuo9SUiYdZUu2FoZIanGO25IUL+kuZkj63E4uZJuDiq7Ohz0sWZ4Zy/GH6cx8R1GnDoCkprngtCrSDhNpvTtoMSBSEXAAVP2n1O9+YevY78daO+G0hkPZSo+ll8hGLqIOjpVSYxF9DZIpy2x5pbSCfc1w=;H9Tt2inYGQSSUIrUxjZtJQ=="
+secured: "NYvljaJKqY/v/1vh7yvXUqZn+iQnz8SX1JWpcbYuFTQ8Hsi3pHohP3JJC/HIRBIFyeoml0rfD2g9l707fCyb3RG46a1i54+7CNy2jJuzdYdI2Am7KMbUrti5624h+Yg57tVaEUQoEFZEXEt5mrfAE+Nj1XNU5x7btFZcPAJAqoUMNDsOf6Jfio1YMv1f2TVwbQsYBzC0UsOrBA2gljLHdzP2Cc1umOXOQfORp74YOGoP/8Djc3pm+TasPXPeAFQzJtKWivygDMg88EFgcke7Ufn1uYI9sLpFlJw0P0n9R9qMZSdUonqdrkI2gRlavomg/oJM4Qez6/yUiiZzvha72lTLis9GVuwO7gKdl8fdiKo=;oeVnXMY75B06KrGMuxKxoQ=="
 ---
 

@@ -1,15 +1,15 @@
 ---
 category: news
-title: "Pittsburgh welcomes Plus One Robotics"
-excerpt: "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas."
-publishedDateTime: 2022-04-28T00:40:00Z
-originalUrl: "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/"
-webUrl: "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/"
+title: "Pittsburgh Welcomes Plus One Robotics"
+excerpt: "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ..."
+publishedDateTime: 2022-04-28T00:00:00Z
+originalUrl: "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles"
 type: article
 
 provider:
-  name: The Robot Report
-  domain: therobotreport.com
+  name: Automation
+  domain: automation.com
 
 topics:
   - AI in Autos
@@ -17,11 +17,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg"
-    width: 770
-    height: 500
+  - url: "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
     isCached: true
 
-secured: "hVHkBT1ToXIxiSiYRKuYVjv9EXF5S3mh1LUVd1+iG3r63WKYp4gpbokQqDiYHw7/PdrQLXED/O83up12gtOmpobIgdj/eGHySqgKtfP8/QtkfoXapHZ8II1Y5r7XfrsMubTJZ3mJhmKRefv26EaN9KsAyFc3GJ08+OR7pxSfglMEPn8my43mAK+cq0GS/Vhf1zWvzp8T1va0Ae0Eu65H2rb56PbJPSc9TYQZrRYXNEmnMFVER3npoDficuM3E3ryRUBOuCnnn/HbQ9OwNZIi9mq+wR6hRjPlOt20DsSwBs6WxRt5bWwmjRECn7iN75f6rKA9c/e/WmFz+oJKLUyEAmUXLzIriTxBWBqjUDsYPBjYd9SqTQx8tTv2GnEw//xonkhxIvRi1QD6iPB6nNgSaGpi5KEQORJaVG6KXbUFmCQgvsSSA1V4bSvoisTe8hhdbzWPsHyNKnKz9fyFlIDaidhuodKSHfXaqHelUg4I5Qa0SEbxTZmqibNLpSzKiQolrCjQ9UhHKONufrU5rBVt2w==;LAi6oKtR2B/BCLqS/JWDBg=="
+secured: "mIAPqRrcmig/rU710H2YUFVVOU9woajqS8yfIDYWKh9u6QO1KlPD2BADUuJUTfqUq8dlP/cR6WAZTAGfv4eK1plKdCsy0FVWeYopbNPvN0ELTwFugQuirllZMYrxQ76QuY/pB0IsXLPmgAH9D8ls6D6FvICRqMZQ5MlKQVXFpS8VHFqwVYWPJ/8iC5q8inhh8rTyR4WHtXIEsWA8w41bblN8h/41TZ4OTlYOMOhlJl6z9GbKiYHxIHEIzhNiv1R6fZAFSI/ktt0o0z8Pr/q9MHMjHGtqX6q9d0QtGCyVtWlT3qE/SLLgVhu6KBV9atecBI4Glv94me7JmOtZxArdQUTn4D5ce9tY4pL975tjq2k=;2NtWYyiM0loJG+aO2y9CkA=="
 ---
 

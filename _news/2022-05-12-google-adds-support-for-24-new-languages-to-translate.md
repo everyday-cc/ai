@@ -77,6 +77,20 @@ related:
         width: 3720
         height: 2480
         isCached: true
+  - title: "Google Translate adds support for 24 new languages learned with machine learning"
+    excerpt: "Google LLC said it’s adding another 24 languages to its Google Translate app during its I/O developer conference today. The new supported languages include dialects that are spoken by more than 300 million people across the world,"
+    publishedDateTime: 2022-05-12T00:25:00Z
+    webUrl: "https://siliconangle.com/2022/05/11/google-translate-adds-support-24-new-languages-learned-machine-learning/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Google-Trtanslate.jpg"
+        width: 1000
+        height: 416
+        isCached: true
 
 secured: "H1qBpc6N27WxpqN8kid3o5cRNMrL88DX3VZHj4c2zixvgnLLSw2ufB6CdTT7zq0h9Ngd6liNYbZ1zO2ZGkM1Uj04bH/FlvawfXK1NDakXl+9D2teRSGwaAX/zed0an0wi4qWKIJynzDoHyO4v+Lii256133lRZLcx70E29XksP9nfcMfXGwJPOVZtymKytscrDd45Pb4U5G6IbZDSO1e4GekZuEAtKVnGIxF7DqMwemvvhIAJz+apRpB1nROPXK8Zfi3gmcC49rNGFjBnW5CN844Bvf/y8COTCPgL8RcxcCUMBu3ETNH7XaLnoLMQ4crL2lz8UU04Q6yxhsO1iIlY4qB30Z71LFMeHv/DkvtW+tdhL7HhEgKouf8cBX5VCx+xyOEkixw/FP5PM4vq0TNomdRJHFGcKMwKkl6IGl6FYEu5U/faxxHuc4xyjpDiivAFKE6dqmjW4uzYfznnbXBEvnt01pAaAvaNe/ZEqbVMkWhuwxmoLY/E/0gX5oaOAJZUMooHc96KVD//Fg/BEXhUw==;gpAtNVHDOglItVbw7wqS1g=="
 ---

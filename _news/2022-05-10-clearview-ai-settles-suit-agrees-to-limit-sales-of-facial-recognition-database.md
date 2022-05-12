@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html"
 type: article
 quality: 116
-heat: 486
+heat: 496
 published: true
 
 provider:
@@ -475,6 +475,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/34204635424_46f0c0b8b4_c.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "French Watchdog Mulls Action Against U.S. AI Company Clearview"
+    excerpt: "The head of France's data privacy said on Wednesday she was considering triggering the process of fining U.S.-based Clearview AI, a facial recognition company the regulator had ordered to stop amassing data from people based in the country."
+    publishedDateTime: 2022-05-11T14:00:00Z
+    webUrl: "https://www.ibtimes.com/french-watchdog-mulls-action-against-us-ai-company-clearview-3503093"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/11/french-data-protection-watchdog-presents-its-annual-report.jpg"
+        width: 1200
+        height: 711
         isCached: true
   - title: "Clearview AI settles suit and agrees to limits on facial recognition database"
     excerpt: "Facial recognition startup Clearview AI has agreed to restrict ... a lawyer known for taking on high-profile free speech cases. Abrams noted that the company was already not providing its services to police agencies in Illinois and agreed to the 5-year ..."

@@ -3,15 +3,15 @@ category: news
 title: "Artificial intelligence helps decode sounds of the animal kingdom"
 excerpt: "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human."
 publishedDateTime: 2022-05-06T13:37:00Z
-originalUrl: "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
-webUrl: "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
-ampWebUrl: "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
-cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
+originalUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+webUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+ampWebUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
+cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
 type: article
 
 provider:
-  name: FOX 17
-  domain: fox17online.com
+  name: WXYZ Detroit
+  domain: wxyz.com
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "xEYrK3EgO1/uJ0tA4xARXxiqKgaXfVkZrzqecJOQ0ZpC/WDHjCBXdddCVo/r/NaOpccy8wwdjh/c9rOb8pjqj6frl47afNCtboz8zlJKJe/3aosh+AaaGfZjORM6niKhAuIfxH9yB4WFvAe08wP67gpfiLyPysRhw4+/ANHz+6lnm78qtPb7oOJA2t90fV71W6DPBGyqIqORrTP+4G7gy6Pnh6/Q/gmxBEwTW7cprCBMo9P2y3CvZIRvSuMCHpLd3/Ynj3hkLoiUxsszVrAJb+2ouu7Cme2C85rRH6m+CuEe17LtVRTOjqBt8gQuEmnAqZudWw58S4yk+quyxSE6tIyRvR/YQmjdN7POqrlhHqI=;P8tzdV0ROcpWUYdCPnBD0g=="
+secured: "rncctBXX2FLPNYALTSR/J6RmdwfyhH/JL8Zmlv1817wiKCstlymhUznK44v9lTHdYKn3Nd7CYWzi3WmKCk84T6DHOIGtJYwzaG2TrZhteEcQAawr7qhJJa985JkPZwvwNVvTR62qL03mG3UxMKhX1fWZ5iQFEFVavDfeEL9lyK8jfAuJIejtOhxFJoad3zXjP6uDWPxxOSfMoz5l8IvbgP3n+rTJ8YP0jkGougOi/98u2w4/ZlzoQ1j9X3o+haHFZEZs4mpUIw620bw9tp2jRl2/EQUvGqx1iLSWaboAslrqDcwQfuxxYV509R7pv5gfps9ykbeiIo/JchfcnXAAIxBGEvJ+TXnnntZU2+oKmh0=;SuRE9fviBopDU7PGiBZRKg=="
 ---
 

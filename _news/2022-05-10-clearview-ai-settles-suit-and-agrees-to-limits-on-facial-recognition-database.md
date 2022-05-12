@@ -480,6 +480,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "French Watchdog Mulls Action Against U.S. AI Company Clearview"
+    excerpt: "The head of France's data privacy said on Wednesday she was considering triggering the process of fining U.S.-based Clearview AI, a facial recognition company the regulator had ordered to stop amassing data from people based in the country."
+    publishedDateTime: 2022-05-11T14:00:00Z
+    webUrl: "https://www.ibtimes.com/french-watchdog-mulls-action-against-us-ai-company-clearview-3503093"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/11/french-data-protection-watchdog-presents-its-annual-report.jpg"
+        width: 1200
+        height: 711
+        isCached: true
   - title: "Illinois privacy law thwarts Clearview AI's controversial facial recognition tool"
     excerpt: "A privacy law in Illinois is causing headaches for some major tech firms that want to use facial recognition technology. A controversial New York startup is the latest company to find itself on the wrong side of a court ruling involving the law."
     publishedDateTime: 2022-05-10T18:43:00Z

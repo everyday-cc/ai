@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Empowerly Launches Artificial Intelligence Scholar Program for Junior High and High School Students"
-excerpt: "today announced the launch of its Artificial Intelligence (AI) Scholar Program. Developed by Stanford and MIT alumni, the Program was created as a way to empower students from grades 7 through 12 to learn how to apply AI to build socially-impactful projects."
-publishedDateTime: 2022-05-03T13:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-empowerly-launches-artificial-intelligence-scholar-program-junior-high-/2022/05/03/9594380.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-empowerly-launches-artificial-intelligence-scholar-program-junior-high-/2022/05/03/9594380.htm"
+excerpt: "Students can choose from a variety of research tracks, including healthcare and biology ... https://www.prnewswire.com/news-releases/empowerly-launches-artificial-intelligence-scholar-program-for-junior-high-and-high-school-students-301538404.html SOURCE ..."
+publishedDateTime: 2022-05-03T13:52:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/college-admissions-technology-education-artificial-intelligence-9fb2188997d5cb7cae2de5728cc39a1e"
+webUrl: "https://apnews.com/press-release/pr-newswire/college-admissions-technology-education-artificial-intelligence-9fb2188997d5cb7cae2de5728cc39a1e"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1741680/Empowerly_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "A8GDT2hrNm5CjWPtqpQspYkyWX5OF/or/2ZCl84MorzWYRzNhaZIBXwg5Hg5WAVegG3rCWPSNSosdR0+8RSsrKM6+KNqm/eJE27Xl5UMUm6xU4rxjLCv6nltSeWe0NtFi82NmFfhagac0UHyn2ldspCD1PraPtB9+n/JXaDFtwGpV5OBhoTwX1Z2zCnMB4LQ8yFdXbaj562tNWBhRLKLIk11XC9XGjinmicJM5eQcMLDi+NN53zZ6ieOwoYRK5KCrMGERdftQ2ohEzPINnZSIezXzacCqxIWp/0toTRW7iPpL8dQly2qeL99pp3ggVeoh0DM4avFYFaQkVAVsP7fcyUVyMbATMSd+pbsEp0x7u0=;ZrF0nvRlcChY78CwA4z4aw=="
+secured: "AVsrXEgsMzZjAqM1RECVAEv8Y0GqEtG4YeCzOLcCGAmQKFSlwp7DanPrPJ8oi/ss2WYAkxDkC/eaRrCQdYEXdMuVV4PI4h4jvDEU63WamP8u/1F9F8XvKhxu/xQGhKbTF27rUXxALyTLHXD+BPdX05kNoBwoGjLCj3ZgvVP6DP8C9tAV4ta6RcZ2o6Eo6XCudbG5Dxz1D1tdhrzjim0D7ag4ZWBXs6VRriBVXEdeSbVAO5kX3NiPnZa0PJWJeCOfhqLpD/eFYwW8CNFFSSqYotH1jmwVG9AZc8dfKMBezBKQB3zVecFxu+18zepNfQh2x1K3jEbudCse3U0dqV7sY8SwoJx83LYRK9mY/sN0rNI=;0GVuP2yjaWOU1hww+UfVYg=="
 ---
 

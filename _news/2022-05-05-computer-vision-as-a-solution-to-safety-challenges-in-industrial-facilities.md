@@ -3,8 +3,8 @@ category: news
 title: "Computer Vision As A Solution To Safety Challenges In Industrial Facilities"
 excerpt: "In this article, we will discuss how to apply computer vision technology to detect safety hazards in industrial facilities, such as factories and logistic centers, in order to prevent human ..."
 publishedDateTime: 2022-05-05T07:28:00Z
-originalUrl: "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx"
-webUrl: "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx"
+originalUrl: "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1"
+webUrl: "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "jrRhI1wh9Nc1e4kPdcFKAqjJDsT5Oi6X1ooZMzZ2IbnwyiylL0gGRXEzPzcf7V/4d2vzGsKnNVcfnMtk8bkC7uXB611QpZNyomLS8EyQQ50v8AFsUxRiQK4X3ctBKWtz+V4H/dKhT9smNsNWlY90xI5a7tK9pufW4e55oqJSmvfNkKOv6HBb2hw+FU+D+Lv4usIoQZ9wxVcgM6+3w2SrjiCIngSoTc6zmdkxhWKUhSA8AGGW+JYUh59HDjabvuGYgdCqT5PruZSLiifodNbQ+qMijb2KNIqzZBIUKkCE42dj3Dfg4JtSpr1jbA1tzt8HaYBRO4ToNdjCUSrCqJ/VN8IgscGDpNjSdfN8DbXs781o/nQZsfxxESIwA9uW94oPhN4B39TmFZZjzvHWIp7qRjO2gLZK15uLcZFtZ4vLj4iqK+DZDFO88yTlIHtEzjYBKCYu95dB9PFHibNYsgl5v2Ror+u8rkmuZs/YeubTNMBUM6b/OsKPj7SJ5sJK9jPMJwtIuI4b6YPuKbI5IiKrCg==;bUdZFgQJNUhdq0dT02BdxQ=="
+secured: "bJIgPPgjr28lD7WhJg56SJEAa3Ie8fsBdsaxY0qavEZcbS1w0zsgxYKT/MRKzjHVTC26Rdvva1hRGoM3lnozZVZkSc2VpABRZHkWGwPvzFIsHBweSJ5gKRK2nbMLsvme8KXkgAXmA+lO/NjRtAgeVJw0l7uTlGADootoxIUb2IsfZjcLuKC7wXTpjCmysWXzA3UBCEZDp7eqxAsuy0JELnmsfqYw3IttY3ISO7be5pXOdQ3H3cEy1UVEL6m4u9a/px6jCEv/ecp/evh4grKtHm2RCdahjNHfHZSt1Aa3fC7Z3nEl8Vlo2P/DV8jVYjNWEeklnmTPsyyzHxufzFXFGXRpFOBguEngbqT6P8EHh1A=;uElgA0iJmPmRY//WIIjyqA=="
 ---
 

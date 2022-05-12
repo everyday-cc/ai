@@ -51,6 +51,20 @@ related:
         width: 1372
         height: 468
         isCached: true
+  - title: "IBM expands AWS parnership with new services"
+    excerpt: "IBM and Amazon Web Services have signed a multi-year strategic collaboration agreement to offer IBM automation, artificial intelligence, security, sustainability and other software-as-a-service offerings through the AWS Marketplace."
+    publishedDateTime: 2022-05-11T22:54:00Z
+    webUrl: "https://www.crn.com.au/news/ibm-expands-aws-parnership-with-new-services-579893"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20181212122115_CRN-690-Cloud-marketplace-HiRes.jpg"
+        width: 690
+        height: 428
+        isCached: true
   - title: "Telia Company accelerates company-wide cloud adoption by upskilling 2,000 employees on AWS and cloud technologies"
     excerpt: "Largest in-house AWS training program in the Nordic region to date, investment in the upskilling of 10 percent of Telia’s total workforceDeep collaboration"
     publishedDateTime: 2022-05-11T12:40:00Z

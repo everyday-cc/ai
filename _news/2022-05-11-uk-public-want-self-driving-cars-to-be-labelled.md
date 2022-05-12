@@ -27,8 +27,8 @@ images:
 related:
   - title: "Self-driving cars may need ‘L-plates or flashing lights’ so Brits feel safe"
     excerpt: "Nearly nine out of 10 people in the UK want self-driving vehicles to be clearly labelled (Picture: AP) It looks like UK residents aren’t entirely on board with the idea of sharing the roads ..."
-    publishedDateTime: 2022-05-11T21:05:00Z
-    webUrl: "https://metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/?ico=zone-post-strip_item_1_news"
+    publishedDateTime: 2022-05-12T01:25:00Z
+    webUrl: "https://metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/?ico=zone-post-strip_item_3_news"
     ampWebUrl: "https://metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/amp/"
     cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/amp/"
     type: article
@@ -56,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fgWWa21jxJLjucNU5EiY8ssC4QY9uu8W1Nb0VHUizL3mzUvZVytGMxI8Cu9v902XAfkgW+lw9uqrD5Uc27ixXJn33OJnGWrT21NUEG4oijgCgmedJ0MZZIfQest7zAs7/0F8X0Y+/4nMvLtQ2xnrAY8+5Efsl9VD+7NaUXIkQre5c3bpksou4aUA0TIWnL5b7U2ca+Md5zb/bfBq32HgSpPWcf1ugUJxKhrvkTZ4QObefZAgqrhCaiaCc8c4SWj0MLbqecZSXWFkBVMe/NUl8nIm//jHT2sy0j8SxbPDtndC7kdXHUw1/+4PBXbPQ4Sdjcn4FDCCwmUSLrVeoIoLdXtOSH4M7NhjdGSmdhe1898=;k28RD32t940SFSS8qb6fVA=="
+secured: "T0EtM9CfItwleOWEsaCMEVJspSM/XS1qAOnLlHypwufMtx1BvcP7mrsVzw9Z+hetCg2Imm/C+AzAg+P4xyJXh0JYi25gN/RvTyywv3s/Bu8INbl9p1CRtqJoFRdfLJesQgedVl/hNMXfBIHsFH8f/8bpuo5eOEO3qJZVTzk1F+azUbI2jMO2ENNBc/ExltYqllfz87TOyyznXd5wQypTJO/5xpWTP/1xvvHDZKlXIsFMk8akL2iNgSn486VQtVqTVaTdiL+MaKb1zjn9X15zB1yS7WvL2QgfwpisIQaip/QdH94K1t1sX9mb8vU4OltGV2eOI0tZ2c1SNv6Vu0j4BGQG2vUKsSSUw/rFdXg6AuAi5xeWDXt8wvp6/PKF/8ExwVTKRqEr044WhbXWnvW6tJ/YAHW1R+f5O2KWNhBBL9rH9+azfhaK8Ultl54SUkYON6zIhSnYRlIMc8gd8B5mxp8l3KyFMHhMHdc1slTQHiFd9UBxsiSgHuregjJxC1BunZetXCAyj2VOmeVXlCvRHQ==;gGNRSH3NmcfiJrOQmIFEWg=="
 ---
 

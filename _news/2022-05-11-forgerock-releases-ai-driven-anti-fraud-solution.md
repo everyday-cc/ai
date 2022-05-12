@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "ForgeRock shares down on weak guidance, launches AI anti-fraud solution"
+    excerpt: "Shares in ForgeRock Inc. dropped in late trading after the digital identity management company predicted a lower-than-expected earnings outlook. The company also announced a new artificial intelligence-driven anti-fraud solution."
+    publishedDateTime: 2022-05-12T00:17:00Z
+    webUrl: "https://siliconangle.com/2022/05/11/forgerock-shares-weak-guidance-launches-new-ai-anti-fraud-solution/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/forgerock1.png"
+        width: 850
+        height: 480
+        isCached: true
+
 secured: "eBMeGBKQ5e2Ct2zhJEgum388GjBvp+IByTw1FQDKrficObir+C2xjFpkrEQRJcylTBfXp45zRB0LJ9vwDPS3JtJ6RXm2lnMwYwrudL7Mj6fXmAt2pxTOppE6Ss3adrhHFEL7uc4WBuSBaKajs3V1/8ss1phLBrbVt0UQLbsKguFayVE34jvy6hvK3exOIbepJZMQEmCzVz1xDsxSyr0H0v3lhXFILUypZHtK+z1Mjksoc013kx2mVjwaKNEEJuGZFB6b2CwQaQSFsbZt8iQNq87Zvsw4yex8UKdsMhHyzh1Bhhoa5o6Bk/9u34WCwTZowpizfZSoO4ZbUs0eByGnNHnmw0+c5rno3FaQcPRphEBLAzh1dC09sF+qNgzhqsDkeSZKr+ZM2brxr0z3hy/VvCLryTFnv4jvLZ+OttEeGmE3hLj3u9oEgFu7tukJj7x0fLU3H4TYYACgIWQEMcjas0mvEoSgIgNePv1GgugSlnwV/dLjfqRTU/M3H+MW0GAlWh7EMOKx36Fd/qI4s98hTA==;/Ma0phSuS2Tc79qswjfSTw=="
 ---
 

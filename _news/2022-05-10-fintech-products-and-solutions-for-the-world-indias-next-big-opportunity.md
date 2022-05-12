@@ -26,22 +26,6 @@ images:
     height: 370
     isCached: true
 
-related:
-  - title: "How Technology is Preventing Market Abuse in Fintech"
-    excerpt: "Jordan Domash is the GM of Relativity - a leading regtech that specialises in fintech data management, discusses market protection through technology"
-    publishedDateTime: 2022-05-07T08:08:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-technology-is-preventing-market-abuse-in-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/6819b2eb10f6ca722d7b309ca0e71219:b72e7b07587b543bd0d419642a335bbf/gettyimages-1335295270.jpg.jpg"
-        width: 1799
-        height: 1010
-        isCached: true
-
 secured: "FW9Mm7EXpknmOG6rd1UhIo1zbwgpFhmigHlmVdJ3pGthxEOm2ilLZZUViyJpU7VZkeLwb18K72Fe/oyEEE/ii0jkoMea8RBAGcs1OqvLBayv1/SVbxbXTnEuyL+JewcNtrjI+ZPKt6Lfusr9qWnuNksSkNrr21CCy4b8aWLqBGbrMQ/5RqPDXpe9GB0W84ovSZ8+bjo3OdDj41jFX4u9YBfHnfMyQjMw2dQM24AuYjwo0QFgPaoYo+VOwNGIx7dktOcWI+f/zeaLmHHi0gGDcpZnTMVL2r1inmd/0Fx7Vvft9LYV6kqKgToihMf1aZDwZoPZr4ssyNGW5XcmD6veL8eUAcICaKEp3jR0hai5S+m7CWTa4LMrzlPr7YZVshudRpBmdkYFe4k2iiJ2fYpSLEBYv9cbc2lUJyT42LFhVqoL2cPICOA6NdO+CnF54JAlTxyBLrTA8oNHoRVgmI5awMI0C5GTAl4uWau1H6nZGUkGQiE85zFQ2RpeUY8d13Fd3D0GVCno5xhalbWpE9zSaQ==;puvhqk2bCazbTr4npkxQNQ=="
 ---
 
