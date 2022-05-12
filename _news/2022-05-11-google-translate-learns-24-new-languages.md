@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/translate/24-new-languages/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/24-new-languages/amp/"
 type: article
 quality: 111
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Google-Trtanslate.jpg"
         width: 1000
         height: 416
+        isCached: true
+  - title: "New Google glasses could let you speak any language thanks to real-time AI translation"
+    excerpt: "Google CEO Sundar Pichai this week teased the prototype of a new pair of smart glasses - they use augmented reality to provide live translations of any language as you hear it being spoken"
+    publishedDateTime: 2022-05-12T11:30:00Z
+    webUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266"
+    ampWebUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
+    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
+    type: article
+    provider:
+      name: Daily Star
+      domain: dailystar.co.uk
+    quality: 51
+    images:
+      - url: "https://i2-prod.dailystar.co.uk/incoming/article26945548.ece/ALTERNATES/s615/0_2022-05-12-15.jpg"
+        width: 615
+        height: 409
         isCached: true
 
 secured: "fNksD7ZN6yI8RrgBFc62K7gGHVDDR1E1aWLAFFMxDvbvLaLsJziviRqoQksOLndZ054qVlIbruVERYneUhKew7vzgQukLofCJe9rtx8uad2lFjV2ffm/Wuuztusth1wdgCHSI1yLjGPgDiYclpOtTp5tbMlvIL25pEY4sveyXb9YY10qJ2CHrWhzPRgaVVHz174uoVLtXVGS1jnJwSxuEDdJDRmGAYUiGRwkgxYDZq3EcsspKHezzBrDtqufis7Z7Hv4jEY/VwBTS0f0ePbk2VwOm3dj3fLIe3XgtlF5mbcUqWoX3Q+/I92GYekAGjQFCHQJcY1jXYWZtgNG36owh3KDG92R5rSiWHVtQuIhLmY=;OE8JU4v6GJ6imc8C1umVTw=="

@@ -61,6 +61,20 @@ related:
         width: 910
         height: 512
         isCached: true
+  - title: "Google launches TPU v4 chips, builds 9 exaflops AI cluster"
+    excerpt: "Google has unveiled the latest version of its Tensor Processing Unit (TPU) processor line, which is only available over Google Cloud. The TPU v4 is more than two times more powerful than the 2018-era v3 processor,"
+    publishedDateTime: 2022-05-12T10:14:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-launches-tpu-v4-chips-builds-9-exaflops-ai-cluster/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_TPU_v4.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fZ9jb5Qny7SBaJl8GOEm+5i1p1dQWU0d4034V9OZktuN2ia4q6zr5PeC5GMAgdQHgIUB+pi/rXE+sQrEZHmbmu8m9qsn4ZM9w1pAY/rTr3y4MKsXo2NFFGbSLs+PjDlkpuG8TE6DRALQDw2boFYqKbFI2NrxWHGkcgQUiLPGoSf5apUoCVoldreqwLOElyFe3vbHqAKtWF4+sgTYsmjDAg2+FLK/uwRbYO0w6kCZWzfZ+OMIRo/3KEspRUI5gtnWYDKOmvdjjBKJub5GpIF8C9lvwSd6AoIzGDWGGx03sBWrxstXyiimRI/K5ViJJC3VPFsFQ8SSP9wJ85xIqMMwsxyLo5yIYcvUmEhF4a3E88ICKyROj7eyhi2TZLJaADbsw2cQNpDS7WhfXL5zr00QvZvbnBw6+7XYI2taCFlC+krMWWZlpnVVtva8MwpwnC2gppWifrknomqRhIFaYS0kg7x1lNg2igUbSYmhEhDomGIU8ktZ8S3USU1glbgRMbl29kcFPsvDiwpgCedXOiIsZg==;Ea5gwP/flBDqr6Qd1Fsafw=="
 ---

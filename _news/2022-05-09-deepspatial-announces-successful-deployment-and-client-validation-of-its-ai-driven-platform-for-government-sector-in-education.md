@@ -41,6 +41,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Controlling AI edge applications"
+    excerpt: "AI, Boxer-8253AI, and Boxer-8254AI IPCs. The company’s recent Gene-EHL5 subcompact board with CAN and 5G connectivity is made to meet edge applications. The Boxer-8240AI features the Nvidia Jetson AGX Xavier module (Source: Aaeon) For example,"
+    publishedDateTime: 2022-05-12T11:22:00Z
+    webUrl: "https://can-newsletter.org/hardware/controllers/220512_controlling-ai-edge-applications_boxer-8233ai_boxer-8240ai_boxer-8253ai_boxer-8254ai_gene-ehl5_aaeon"
+    type: article
+    provider:
+      name: can-newsletter
+      domain: can-newsletter.org
+    quality: 39
+    images:
+      - url: "https://can-newsletter.org/uploads/media/raw/478cc66ae63932aa1c10a9dbd39c2991.jpg"
+        width: 700
+        height: 237
+        isCached: true
   - title: "Application essential to AI development, says Quanta CTO"
     excerpt: "There is a large variety of AI technology whose development should be based on application scenarios to solve real problems, according to Ted Chang, CTO and vice president of Quanta Computer."
     publishedDateTime: 2022-05-10T07:50:00Z

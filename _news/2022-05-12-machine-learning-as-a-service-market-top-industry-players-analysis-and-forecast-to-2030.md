@@ -128,6 +128,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 18
+  - title: "Artificial Intelligence in the Education Sector Market Future Trends and Opportunities, Past, Present Data, and Deep Analysis by The Insight Partners"
+    excerpt: "The artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly"
+    publishedDateTime: 2022-05-12T11:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-future-trends-and-opportunities-past-present-data-and-deep-analysis-by-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "HEART + PAW, A PET VETERINARY, GROOMING, AND DOG DAYCARE SERVICES COMPANY, RECEIVES NATIONAL AND LOCAL RECOGNITION AS A TOP EMPLOYER"
     excerpt: "Heart + Paw pet care, one of the fastest growing veterinary care, grooming, and dog daycare center groups in the country, has received both national and local recognition as an \"employer-of-choice\" and a Top Workplace,"
     publishedDateTime: 2022-05-09T16:07:00Z
@@ -143,6 +157,6 @@ related:
         height: 320
         isCached: true
 
-secured: "jQkKFRsmsFrTjhwiDMMEwSXrSOGnMRdWv+wZutMOdA/pnqb9qbX5oJJv9SM0Xk3WB3P+5OlLbdEcpakcPuhOG1pld4YyoX8vN5XcfNCLBBVIcEkl3RrULe3GZLNk9F0VqayCbWoGXlM+iVct9I9u6yZHycA7sEcLxDUDwtAWklTZmyOE0o0Y8Ic6qdEbH+n7MJQb4zaWblAJQeD5JNxFXnU62oIiEDwKek1zqTuJs1roW7cs+f8ISAfAwngmMyD7zeL0gUwDycI/jS8x3MVjbpr90BDIlifvfd9y5cCieKQhDmanMq2ZdgmS485jn2C5qKkoYu8bW8eZ540DItSrfnFhsrSIACYBEg/rfE47iF4=;VmQXpJLbZ7yn1qhW7dKjEQ=="
+secured: "VyaVQSfUKAU8I57H1vkyd6dSAiocfr9ryw4QUW8tlRXEb1qZID+PhwBYze/m31TaD1ktC7VkF8HUYIau1gL1HP45WHEMArOCYlPGBLVtjag6BhDSt9L8CKXGD5T8M/3fj5wtPh1mHfIr8Mn+QcvMIW1Cbg/CWnJARjvto/UF/nUOh4k9I5cUZG9mWu8j2hmxu+ryQB9Wd/vBi01ngn+VoIhaWIeGrBGpSOztiZJLZ0hae9LkkvGdf86JdtjTcfrlQj6RmmlAEpCogh6gTlayinQognBN7riuDITcmz66k4gOFitnAtwV+cZ3FjCuNm30rJGyqGgUVDsBJXPRcOFW3Yq/UaI+miCJcmjp66hTVl+FU+qGn10sWcp+/ykQbVguV49EWUA9pgjmKSJmgnfNfJIpKfGX2EEFg2EdFcDaxyYrN1xd9/BdlA4SZGiGfuZ37xcxj5fOubSrEcUCwpnJHtBHatsMVP1rKomN2jDDWwULwZJnOwDtKkTJzsqWvYrR+jNCwWjgV0ZgMXmh6vig5A==;hCgnbfHHzc2SHT+4TDqTRg=="
 ---
 

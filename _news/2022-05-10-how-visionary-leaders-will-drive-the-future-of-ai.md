@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "How will AI affect the future of FinTech in India?"
-    excerpt: "Artificial intelligence (AI) is also being used by financial firms to enhance security and transparency in systems for payments"
-    publishedDateTime: 2022-05-11T12:35:00Z
-    webUrl: "https://ibsintelligence.com/ibsi_prime_news/how-will-ai-affect-the-future-of-fintech-in-india/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
-
 secured: "GjtiL5BA66uVeKtDpEXwmE7NcyIWpmS38A9yoJhTGLVkiuuuDsSPtY5TaqiJr6NM0pPO1LgUgcHkmB2vC7FQX3x3e6JHSjI6v9hTcJh9lXqZ7DbLLorKpx0b/BaDZLs2rYwdPCrsMVbOREo00GkCN9/52P2+9+T4KdEkQ3iqLDI25YwxBtsMgb9dM30gekt0rTXcJj0puZdmcqKlDbpa49NE6RAkOkoP34t5QwnkqlJ+BvmHmAxaaekrzw8+/80QzaOnQ28QJZ4scR3dR390zCo0L2+ewWvtPbdesAZ9cnfNA+GmrpcEKmaTxJ14VCQvrNGNIPfAABjfifhuIzgTYXn+huFMkXiEfxvWD15WQ8HaK3JTkPCia9RqQ6/IHg3EmV9eXUATnEyaQDsl4EsVVjEJOZbpa8CW4Esov1axZRQr+3S14Hqb8J0cW541EzTMMQURcjn5iVhYbpfl94sAPKvDpJfs0UvzuNfuE+tQnU6t9/56vHGGiUyoIrCYBry9jD/KMHl4d2pMA1S92c7PLg==;v3Qo610pBwP0NboCl9fVqg=="
 ---
 

@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 1997 chess game that thrust AI into the spotlight"
-    excerpt: "LeCun, one of the founding fathers of modern AI, lists among the achievements of today's computers an ability \"to translate any language into any language in a set of 200 languages\" or \"to have a single neural network that understands 100 languages\"."
-    publishedDateTime: 2022-05-11T07:46:00Z
-    webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "The 1997 Chess Game With Garry Kasparov That Thrust AI Into Spotlight"
     excerpt: "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally achieved what developers had been promising for decades."
     publishedDateTime: 2022-05-11T03:52:00Z
@@ -59,6 +43,20 @@ related:
       - url: "https://c.ndtvimg.com/2022-05/3d14dnpo_garry-kasparov_625x300_11_May_22.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "The 1997 Chess Game That Thrust AI Into The Spotlight"
+    excerpt: "LeCun, one of the founding fathers of modern AI, lists among the achievements of today's computers an ability \"to translate any language into any language in a set of 200 languages\" or \"to have a single neural network that understands 100 languages\"."
+    publishedDateTime: 2022-05-11T03:37:00Z
+    webUrl: "https://www.ibtimes.com/1997-chess-game-thrust-ai-spotlight-3502200"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/10/the-chess-world-was-shocked-at-garry-kasparovs.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "1997 chess game thrusts AI into spotlight"
     excerpt: "Yann LeCun, head of AI research at Meta/Facebook, told AFP there had been “absolutely incredible progress” in recent years. LeCun, one of the founding fathers of modern AI, lists among the achievements of today’s computers an ability “to translate ..."

@@ -3,8 +3,8 @@ category: news
 title: "United States Artificial Intelligence Market Share, Size, Trends, Growth and Forecast 2021-2026"
 excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 21, 2022 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"United ..."
 publishedDateTime: 2022-04-21T11:05:00Z
-originalUrl: "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21"
-webUrl: "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21"
+originalUrl: "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21?mod=search_headline"
+webUrl: "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21?mod=search_headline"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Ye8Ubk9vfo9s2/B1mv4VmX/QL9w1ks9JLsCIJua2bWjVJWbQf7B4dmafk9kluUVpt6vh2LRdka9b7+T/fwck8Aza4y8HaL1rQHj/n7xCIV1WEH4N3Q3qxZehauSv396BpEUIsh8YtMBBTwjiUjuxMtlSiHwgC2/VfxeiCAaFdRU6mA/SSlVfzEG3MugOykgo3vLmBSB9rT0oZH7mjdmdVrG7SbpWID79h+G1icsMo/pqXex8xtzNqE6PlRodlLds+gBetnBFlfm0WJwHxqhQiywUrDKkNePzXbaxlTUH9YqMMKL4DdQriTE2Uhad8jwWcUpD5xena6e6m4mwcTSSkTa8kh1KKTX31eu39IaHz14=;aFFht8dTa8x/3o8UweQbuw=="
+secured: "RKFOtT1EgyfZaYaiO9d1szjJ5Vii1uUVrj0vw7QkMnA5VzX+THl3/518BIQoda/HozOGGgDU2OaYEbyA/18AM8tYjmBaKSyohAOq/52zln79ipDC5jBGsMXlKHIB3EDowBdGRUMG3VRgdhL0sC02xZYvPryPRjvrJB66I4IGcgAvwgDrwY8YkrbE5H0M0hIehG+3UUkY4u6Y5VFRbPZp+0WgRO/rlG9XrcOCLElSXTgxG66qTFHVI3+dMWRun0YKZ+sjgRE2YhplWNE+0L12fsHqgDO8SouzK0Hb3YWMifyIyuliGXuZmvu/My997/BKyILyVGW3u1lw3Ddoh6hyukebtVitcXPNeZxU9d6OhuE=;ri23zB+q5uEcNBZVXFIp5g=="
 ---
 

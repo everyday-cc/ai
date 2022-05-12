@@ -40,6 +40,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Controlling AI edge applications"
+    excerpt: "AI, Boxer-8253AI, and Boxer-8254AI IPCs. The company’s recent Gene-EHL5 subcompact board with CAN and 5G connectivity is made to meet edge applications. The Boxer-8240AI features the Nvidia Jetson AGX Xavier module (Source: Aaeon) For example,"
+    publishedDateTime: 2022-05-12T11:22:00Z
+    webUrl: "https://can-newsletter.org/hardware/controllers/220512_controlling-ai-edge-applications_boxer-8233ai_boxer-8240ai_boxer-8253ai_boxer-8254ai_gene-ehl5_aaeon"
+    type: article
+    provider:
+      name: can-newsletter
+      domain: can-newsletter.org
+    quality: 39
+    images:
+      - url: "https://can-newsletter.org/uploads/media/raw/478cc66ae63932aa1c10a9dbd39c2991.jpg"
+        width: 700
+        height: 237
+        isCached: true
   - title: "SECU To Deploy Scienaptic’s AI-Powered Credit Decisioning Platform"
     excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that SECU (State Employees’ Credit Union of Maryland) is planning to implement its AI-powered credit decisioning platform. The deployment, scheduled for later this year ..."
     publishedDateTime: 2022-05-10T21:59:00Z

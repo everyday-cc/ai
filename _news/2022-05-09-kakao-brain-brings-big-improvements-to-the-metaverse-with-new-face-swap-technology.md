@@ -7,7 +7,7 @@ originalUrl: "https://www.wric.com/news/business/press-releases/cision/20220508C
 webUrl: "https://www.wric.com/news/business/press-releases/cision/20220508CN49049/kakao-brain-brings-big-improvements-to-the-metaverse-with-new-face-swap-technology/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Exploring The Galaxy Of Fintech Services Within The Metaverse"
-    excerpt: "The future of fintech within the metaverse looks promising, with applications being developed to facilitate virtual transactions, impart financial education and enhance the user experience of customers and employees."
-    publishedDateTime: 2022-05-10T13:33:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/05/10/exploring-the-galaxy-of-fintech-services-within-the-metaverse/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
 secured: "F/6hbWwYxrmxZOd8bXgGTO8pLuA5WyoysniGF9l0ZVjBME6NPRYbmdwztjAoKnOm5oBtViRfIsMVsUyVB5MPguYSN+F0qaQmX7Gam8SJIMobD1ek8QJmchaJKugoPZfXog/hDNti4xPo46nMgVESVqajuZh2y3UFarbllvWbtUm6Rlt4Mj52B43WnYgbLhrK5jGSiiccBsophc+CabybL82zwrXoO/nbxt5RNeEjFs55j47Eps0+U6sWWMKKeClHwL8MKOz0H8xC3Gg4stJfkTbBp4H2E/IR8dO9pc8TzHGOckbiVRudRtlueSe2eGGn965wxel6hn16UwChNSAHD81b+EeWxdvDm4maSnt/SNI=;ShrfvapB9MCiVb12aeJ9wQ=="
 ---

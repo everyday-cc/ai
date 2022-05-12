@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The role of voice AI for next-gen e-commerce brands"
+    excerpt: "In the era of digital commerce, conversational AI is no longer just a tool but rather a key growth enabler that e-commerce businesses and customers are rapidly falling in love with.  Why do we"
+    publishedDateTime: 2022-05-12T11:20:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-voice-ai-for-next-gen-e-commerce-brands/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-voice-ai-for-next-gen-e-commerce-brands/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-role-of-voice-ai-for-next-gen-e-commerce-brands/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "How these AI solutions for agriculture are keeping plants and growers happy"
     excerpt: "Eighty percent of companies out there want to use AI, they’re testing AI, they’re planning projects around AI applications, but when you ask them what’s in production, it’s an innovator’s game,” he said ."
     publishedDateTime: 2022-05-10T15:16:00Z

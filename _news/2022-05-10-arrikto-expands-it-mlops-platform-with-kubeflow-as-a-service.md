@@ -33,12 +33,12 @@ images:
 related:
   - title: "Arrikto Launches Kubeflow as a Service Giving Data Scientists Instant Access to a Complete MLOps Platform"
     excerpt: "Kubeflow is an open source MLOps platform, originally developed by Google that includes integrated components for model training, multi-step pipelines, AutoML, serving, monitoring and artifact ..."
-    publishedDateTime: 2022-05-10T14:31:00Z
-    webUrl: "https://www.news-journal.com/arrikto-launches-kubeflow-as-a-service-giving-data-scientists-instant-access-to-a-complete-mlops/article_be68a787-f3c1-5af1-9bcc-d11edde2af6e.html"
+    publishedDateTime: 2022-05-10T13:06:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220510la51932/arrikto-launches-kubeflow-as-a-service-giving-data-scientists-instant-access-to-a-complete-mlops-platform"
     type: article
     provider:
-      name: Longview News-Journal
-      domain: news-journal.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 2
 
 secured: "1cixxPD0pRNVFykzyPrVG5VuEFD9KJc/7MRJ1UPJDWcjelJbEwtBLItIEhxMA4KIBRFeMZewdfHSS666fdYF/Nrv5rb3OWFKECOR0kPU5gKV880zBfeDZnvjJMUvYThYk6/9yAVldVRibxHVw2ybcBCSQ9d1EHkQV6hV7yCQTdwh5cAGEFHdRGHWbUdlGcZ8enqeMKP/xam1FvZF+GnsJeTdVqSBcj/E2H+RASPKGQTzDjpiLDLq6q4ZoZHQgIICyKUodsAb7yimGyrNE6LBmaLNINcOTOArhMBGhf7SKAcre6eHQ33B4gQghsOggxtChNy5jgynZOvNfVtDIVsIUL+lfVSHMFGO3/vuDD7YAyn03O0z9VU4DOPDty2JKV5+a1rG7NWSeEnHKjeyb0T323jfSFI3rYhuJDtHXGSSCFRB+YJaLvC1HjZrXlDSTmc5CRv08IXQwYgrbyfUd/m/Exzs5ppc4si+SdL4MW7LcDvC2EQVYsBnqoBt/xkuHh2QBi4oWY6Z/BcZUSIWUKC5GQ==;BLKF28HNGwoVTFiqdoi3xQ=="

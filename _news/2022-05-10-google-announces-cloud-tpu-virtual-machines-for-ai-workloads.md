@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-announces-cloud-tpu-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/b18771b4.jpg"
         width: 910
         height: 512
+        isCached: true
+  - title: "Google launches TPU v4 chips, builds 9 exaflops AI cluster"
+    excerpt: "Google has unveiled the latest version of its Tensor Processing Unit (TPU) processor line, which is only available over Google Cloud. The TPU v4 is more than two times more powerful than the 2018-era v3 processor,"
+    publishedDateTime: 2022-05-12T10:14:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-launches-tpu-v4-chips-builds-9-exaflops-ai-cluster/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_TPU_v4.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "I3aBhOtiBZ0W5eyyn1eT7UqblVsskOj8iDVGksuyeGt534dhmzRJKcxBUP0cmnvoHdb77/l6rcEbMWyuS9wmXRZ+bJMWiEou8eICneYOu54XxvkDEHfhQnWXiJ54fZd38+OokXNIehwJd+dlpuP2vVmq5zY6H1DAfR9C/o4+G8P06ouM46K3F6KEuEPvTeHSybb8jYSMdgluvRpya23etf5L3kttJrJiwdpZaYiLEGq/Rqqq9cICWk+I6Dbw4lYNGNeJ14y8+IdMKpF0Dy3puNrD5TJ7KDqyLHrEiec3pJqqB4gjkX0Eqf58IefH2Aw2DdYj96s9JZdAQBn2pGHLJQBTH8bHuojIYfhJzM2kLaI=;TvLzhzKPYbmZP7cai/fVZw=="

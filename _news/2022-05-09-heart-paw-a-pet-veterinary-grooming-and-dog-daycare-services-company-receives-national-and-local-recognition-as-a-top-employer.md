@@ -141,6 +141,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 18
+  - title: "Artificial Intelligence in the Education Sector Market Future Trends and Opportunities, Past, Present Data, and Deep Analysis by The Insight Partners"
+    excerpt: "The artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly"
+    publishedDateTime: 2022-05-12T11:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-future-trends-and-opportunities-past-present-data-and-deep-analysis-by-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "BFSyTtrTuXhgwh+uvMAGwdTOtrGFhf/Tw5y8H9Cs55NzGbAz0Z+KC/0UhoJ5l8p0jMNhsi1WL2fVMeggdJ2XdQl4XnvYvEEhLpBNJtvxG454jfXfj+u3CuXeysWSEeyajfdHwKBBUNIepOhk/7/nNhaKcDMLi2FoE66+fVgaGWfIUP+zHSEECtGhFUsjWjl0WhNPh4BkEADdifX+EQS5rEv/lDDoKFHkv+HaZkCxUis9PGPtPMq6mlhc0C1DweZbC8TWxN5yWw+FjQDYruXoUNWwHhuZizHYZjyVAafwAxMlkHNK35sdc7VIIOf0RXNJuvkcurKfDGcqHB+J6MozzPQXZcppNCDpPJPom6XuxCjUPz1IhR+6Rfl8MknED8ZlkM9sl17Fv2vRndcDQKHFAR9l49Nc+3Qye8OVVQjGsK5lFlTIBBiIVbRvRsTblktIVACRPX10CA5Ij3ugsJI6+EWPlXUJCHZaSA40p40C74Odcf//3bQMAl4Dd+xD4g6sXcfYHb9EAAijDDhdif+HDQ==;63YDo+wzFCygj3MF9koFJA=="
 ---

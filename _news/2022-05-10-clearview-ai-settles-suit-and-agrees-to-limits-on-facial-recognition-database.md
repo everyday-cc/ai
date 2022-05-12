@@ -297,22 +297,6 @@ related:
         width: 1440
         height: 857
         isCached: true
-  - title: "Face scanner firm Clearview AI agrees to limits to settle lawsuit"
-    excerpt: "Clearview AI will stop granting paid or free access to its database to most private businesses and individuals."
-    publishedDateTime: 2022-05-10T06:35:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://www.thehindu.com/incoming/8lbi16/article65400605.ece/alternates/LANDSCAPE_615/CCI_UDHindu_KSL_UL867G8T6_R1564387903_3_690f0c14-7e9e-4561-8d10-350bbfa4b864.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Clearview AI settles lawsuit over facial recognition privacy"
     excerpt: "Monday settled a lawsuit brought by the American Civil Liberties Union (ACLU). The ACLU alleged 'that Clearview repeatedly violated the Illinois Biometric Information"
     publishedDateTime: 2022-05-10T16:50:00Z
@@ -452,6 +436,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 40
+  - title: "Face scanner firm Clearview AI agrees to limits to settle lawsuit"
+    excerpt: "The facial recognition startup Clearview AI agreed to restrictions on how businesses can use its database of billions"
+    publishedDateTime: 2022-05-09T19:28:00Z
+    webUrl: "https://wsau.com/2022/05/09/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/"
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 39
+    images:
+      - url: "https://media.socastsrm.com/uploads/station/1946/fbShare.png?r=67880"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Facial Recognition Startup Agrees to Limit Data Collection"
     excerpt: "Clearview AI has agreed to permanently stop selling access to its database to private businesses or individuals around the U.S., ending a two-year-old lawsuit brought by the American Civil Liberties Union and other groups alleging that it collected people’s photos without their consent and in violation of Illinois digital privacy law,"
     publishedDateTime: 2022-05-10T14:06:00Z
@@ -544,6 +542,15 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 4
+  - title: "Clearview AI Settles ACLU Illinois Lawsuit Confirming Continuity of Business Supporting Public Safety"
+    excerpt: "Agreement confirms company’s compliance with privacy law while allowing continued growth of Clearview AI’s industry leading facial recognition technology (FRT) platform Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country,"
+    publishedDateTime: 2022-05-12T10:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220512005422/clearview-ai-settles-aclu-illinois-lawsuit-confirming-continuity-of-business-supporting-public-safety"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 2
 
 secured: "gvOq6X3QaiStd8A4UZDOrIJ2hmrpG1c8/ZTJbIhO0zJD1jQ56TZQDDlcWek4auZLUphgiMhNoCMm74I3CgADIyaLdqNLhHCkh7vcTc+gAq9osBrB1fStyLedZRs91xIqN+4FIY9LN8a0Q4Oxjfju/1LhhOH0hhSKVFocpOdMYXRZK81R+Ug+Vy4eMbC3w4S6/jjjb55QhhBvK+XIgVNdFB8PKsnRoMmOt2z3EGT+pt09/EKvq35fwgUjWDivfQZTOwvIqYA3KqhW277WZn3CIRTRRXvjYJ1EJgEO8+P/7l9OwhPmTRJvjIR4yK/Lw2t/k6KnLeDZIpWBlKrkJI1atGseNfYKWrTqG86sIV+3Cu0huvg06rWIEVM/nkwS/mMwNbLIWa6kU+KEZNK/0rgS9muSmCXazZaNBQcvCv4uSb4CshY6Fo254o207xYz/1yVQJf+kaxhZq2jqVSYB912KnN7bfp/7377KfV7WiG5r03CcJsQzwcThASkg++snjYR73dRu9SdSUqNhzqpcH+Jjg==;dgcDHLE0nvwYLaVW2vVQ3Q=="
 ---

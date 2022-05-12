@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/10/salesforce-acquires-troops-ai-to-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/salesforce-acquires-troops-ai-to-make-useful-slack-bots/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/salesforce-tower.jpg"
         width: 607
         height: 455
+        isCached: true
+  - title: "Natural Language Processing Market Is Booming Worldwide Genpact Limited, SAP SE, Salesforce.com Inc."
+    excerpt: "New Jersey, N.J., May 11, 2022 Natural Language Processing Market report focused on the comprehensive analysis of current and future prospects of the"
+    publishedDateTime: 2022-05-12T10:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-market-is-booming-worldwide-genpact-limited-sap-se-salesforce-com-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "ddrLK4Hs+DZASp4xCMAZwhDwAYPNGp7os/YM8Lbcwjs2MVpeqApR8hcSfaVHx8o/CpQLDMPHrlWaHBIQ6s8uq90F7o/hOBhAHy+fU3JQHMaNGQcs33+dXzyd2k7v8Wt0gMa3Uda933VNRHQzRzOvIRr+fhfq2s+kHlXrpmddG2XAnrndhhcA2kavkK865TVbZzSUsmTUkR7+3fEF+uE6zKEe3deOI+B+J9hZn3m8vuSCxJu1HREtF4F4EYHO6lBLQ0fD5yyMq8jKt8ycwxZfk6YO8OMmnFmDj+ncAnkx8kBlH8NbjRpJjCbA2ZhIs6R5Ss/LN60DlcDGelvIQDzb2zUoyxIM9hwHCz4izJVkWko=;dZJUzKBnu3orB9TVNUPgdA=="

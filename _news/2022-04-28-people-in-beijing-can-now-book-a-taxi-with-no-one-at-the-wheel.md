@@ -2,9 +2,9 @@
 category: news
 title: "People in Beijing can now book a taxi with no one at the wheel"
 excerpt: "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ..."
-publishedDateTime: 2022-04-28T11:08:00Z
-originalUrl: "https://www.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html"
-webUrl: "https://www.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html"
+publishedDateTime: 2022-04-28T16:01:00Z
+originalUrl: "https://edition.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html"
+webUrl: "https://edition.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 619
     isCached: true
 
-secured: "LcaR14SlXqkmfGgEtFBeISG3jcfVzZLMyB5gL99li0EjvWk3J4yY/JKqNIS49AX8fAUjOlx5vP9SsNASY4I1sNboP5qDgSCC4J/sPxT03licucO6VJQJKf6DfGbtn7BlufhWDaltkl1lvaYQUP96OUUn1i0EIokMJPgf+QzcoEvLCX1Ntv9zrSSdfFLog7U4P5Y8bibEDWM0tVyP4R+ApocUjhp46I17kyidIT3qfMwUoEL6oMR92WgEKAGolZ/PAtoTEVNG6CwFVo0Nw6Q1z2z/6UK5iIiqJwyUSE26GGZzOU+rTHp0G0w43pR8+EMX5o6vBIFREWshqYbvxmediMZHMcD9wC8bfHvaeJs+Tp0=;O1C3DuNMZsd4CdmtosePxQ=="
+secured: "0N75/DS6cOY/sHbaGiK3rBrIhBtkwYmq1F6BEfbnPbD6OGQo6hPBh0VxnTgx4cgenew9F3kV0f2UYVC7cZvqhzqRXCWLBhIBYSEXoC0dugNImVIfreoQm0DqEwhywOeNsUi8GvIUMBtrl83EozW+wE/lezS71Pj9fvLrBnEyDJScjnuazLOcL4Zf0Y8VSRmbe0WH9103zNwDtyNhyglViYbHvtTvA0t+6fy+Gv0ZUpOpbBoAJHlN8Y+4GsmL6sYZCMv7fjpe0q6nHz9iGTr4vAYRq49iz2Tnz720j0aIOEsylFlZ/ERttieo+ygCr+5fs2MpGtPneKIwjh5C7KjKOsmFbs2SPoZ9TD3dHojMswc=;oU2W/ayOmuXOc6HHjtEVrg=="
 ---
 

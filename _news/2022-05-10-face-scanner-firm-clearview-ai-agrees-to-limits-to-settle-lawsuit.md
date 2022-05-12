@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Face scanner firm Clearview AI agrees to limits to settle lawsuit"
-excerpt: "Clearview AI will stop granting paid or free access to its database to most private businesses and individuals."
-publishedDateTime: 2022-05-10T06:35:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece/amp/"
+excerpt: "The facial recognition startup Clearview AI agreed to restrictions on how businesses can use its database of billions"
+publishedDateTime: 2022-05-09T19:28:00Z
+originalUrl: "https://wsau.com/2022/05/09/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/"
+webUrl: "https://wsau.com/2022/05/09/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/"
 type: article
-quality: 57
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: WSAY
+  domain: wsau.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.thehindu.com/incoming/8lbi16/article65400605.ece/alternates/LANDSCAPE_615/CCI_UDHindu_KSL_UL867G8T6_R1564387903_3_690f0c14-7e9e-4561-8d10-350bbfa4b864.jpg"
-    width: 615
-    height: 383
+  - url: "https://media.socastsrm.com/uploads/station/1946/fbShare.png?r=67880"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -543,7 +542,16 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 4
+  - title: "Clearview AI Settles ACLU Illinois Lawsuit Confirming Continuity of Business Supporting Public Safety"
+    excerpt: "Agreement confirms company’s compliance with privacy law while allowing continued growth of Clearview AI’s industry leading facial recognition technology (FRT) platform Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country,"
+    publishedDateTime: 2022-05-12T10:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220512005422/clearview-ai-settles-aclu-illinois-lawsuit-confirming-continuity-of-business-supporting-public-safety"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 2
 
-secured: "hEiwr6gCGT9oPEXhu8WnGxGs5KkaGfoUv6aLIwVHqmtfeLJf5y//gmRIxj2XPlLyr/Fp87M0iAp+twha7L5SfqsrZ257foeN4hhiKy3YpxO5D5R1NzlE/XMImTwOhHazOQLSSUIt7X4Gse0a3QjGOSL0rEGuNx1JfOjDeFlWnsJ0APtrJfedlnyCt1l2vismiIKKa2AuZ87D3/bmw92KKun5wdF+xUDzkhIhIyeAgVTApnuVwAmQAavlcrCT71wUUmdokpPOJ9SRmO7Xv8PLuGVOLevs/x43oqpfJVlQdriZq9JiePqklAhR7ixWQteZr8aBdcZfAyPu1tnjaHa1CuyOAiMfnPChlwkQQXD2VSM=;hpaLIonZMZNRlQHsGu/Iaw=="
+secured: "DczRdb/HOaGxkALVApDZgG4Df4dQq0MWqxKrUzonZ3/2RR8U/AR0EZy44mKBIzAnOUceH5CBBYw6iSXSl2svF68zNuMJLUJpV5BCyWBnUO3CIefDPXEooRa1woGQvlURWGYT1AbWclzjB28LpTlfqnBJJ9PgWOSiqCWwqR3b16sGinJ0OHninoHFNdSenGGwnEloKBAWICqck9HceCpZqrlLFadsRZuqCyRLTpHQTeqliLRUD/M+shUam2JdCdfRumStFy08VOl89fl/NSkBY7dpc0Fo17N3r1eYghaN5jiMQLkOS4G11lLYHTKzsgNFAFamTeUKlIr0mDK05VPfvGo+WLhT3uBQB8Q6+N0r+LQ=;2hB3dFD6JOp/fxRcp4RLWQ=="
 ---
 

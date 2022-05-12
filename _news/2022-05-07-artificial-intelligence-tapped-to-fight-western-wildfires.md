@@ -1,70 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence tapped to fight Western wildfires"
-excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
-publishedDateTime: 2022-05-07T16:40:00Z
-originalUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires-2/"
-webUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires-2/"
+excerpt: "Officials tasked with preventing and battling large, destructive wildfires in the West could soon be using artificial intelligence in addition to their arsenal of prescribed burns, pick axes, chain saws and aircraft."
+publishedDateTime: 2022-05-07T16:57:00Z
+originalUrl: "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires"
+webUrl: "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires"
+ampWebUrl: "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true"
+cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true"
 type: article
-quality: 17
-heat: -1
-published: false
 
 provider:
-  name: The Durango Herald
-  domain: durangoherald.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
+  - AI in Autos
   - AI
 
-related:
-  - title: "Artificial intelligence tapped to fight Western wildfires"
-    excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
-    publishedDateTime: 2022-05-07T23:09:00Z
-    webUrl: "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 59
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2022/05/07/Spring_Wildfires_50329.jpg-e40f6_c0-204-4896-3060_s1200x700.jpg?4f73bfd5e643028254bdc4481a457737dfcd6b2f"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Lockheed testing artificial intelligence to fight wildfires"
-    excerpt: "All those words describe artificial intelligence. Lockheed Martin, whose space division is based out of Jefferson County, wants to use AI to help gather critical details during a wildland fire."
-    publishedDateTime: 2022-05-12T03:13:00Z
-    webUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/"
-    ampWebUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
-    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 57
-    images:
-      - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/04/GettyImages-1237477623.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Is artificial intelligence the next tool to fight wildfires in the West?"
-    excerpt: "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have"
-    publishedDateTime: 2022-05-08T05:30:00Z
-    webUrl: "https://www.telegraphherald.com/news/technology/article_22faa62c-a7c6-51f8-91df-47ec2eb5cc53.html"
-    type: article
-    provider:
-      name: Telegraph Herald
-      domain: telegraphherald.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/assets/v3/editorial/9/4e/94e8db03-3eb7-5814-b426-65c7d7d7923c/62742506de30f.image.jpg?crop=1567%2C823%2C0%2C110&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/6f63def/2147483647/strip/true/crop/2436x1370+10+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fa8%2F2210e55e44b6ac36223edd42b57f%2Fwildfire.png"
+    width: 1280
+    height: 720
+    isCached: true
 
-secured: "u9jqUPwa0IzeW1khqiFaO8kxxjvFowtSw7bXnxh0AXtW7to+EAvHJX/57+lRaZUig/Marfb2THD/0SLINvDoPN+kvY5fXeZGL3Vn3iLmjMO4zEkrL2uXB57OTiDqVJzrD3qiBNgg5CYLv5vnO5pcM0au7Yt2H9t19NZXT4mj/7uYC5hMD/IMPCNsjLlsHDe1V1q5ZpkhdNYKGdbzxxh3+cS7wpSX2+mX+JDbcwRt4nXDAqcBpDGMVxWYyqAbT06cleS6Xo0jgM0cStqaLMLWOVE4Y+HhQ7BXZ8LT7McGiXMieKdjhnteG995+OBBenpo36Rfrs2+SPnYKpQg3X8yCm40jfN7PLe2R0vrvl23j1yg0rF+uCCR6my6DNt7x+tNybpCnDMIc6EQxDKgUBkTgKnlj2ZoF2uE5ob3gxYk47qCMWDB4+eh6jIOAfduOgFeFR5lF7EwFJP41ZMg79wWJ1uGkdczc0FAGTOZCOTTpvMnucpex+u1/GdQoJdfsrxJ62JPjOg5LdNGVmH1+9MY9g==;8hmqFDrT/RMyf3YwbjDqtw=="
+secured: "Mm6oEVpLUK+9umOm/PedFGl/DpbqYiQ+G6u6gUxeWyXTPUy11rRocu6y8Tqx7+KgBWLyMnxVtVQxQawFOY1ZNE7+IXFECrLuDYNihTSpKpnmHOpn377XcclDbVjrSj/TUV0M1hxLBKfVjOC5tD88vNQp3sxREaaUw1j1httUSxWRdP++HMnJylH31NzRp2T8+Aaag39+1e5dMRl0dlSkMVbTZRo/09Ky8szAnuc2KYMT9N96uQJY2qF5Nl4TJXBnTfFkTlQknMPy/wqiSF3R5VNv2j2mk3MgHt38vuv6IcBPFyjL3+AAC5MmjnWvlUWmoiQD0kR8337b+c4WghqfO8lH2MKzjGzvReA14Mlb5yc=;r6IIavV9YOjGBAq6tsEPCA=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The role of voice AI for next-gen e-commerce brands"
+    excerpt: "In the era of digital commerce, conversational AI is no longer just a tool but rather a key growth enabler that e-commerce businesses and customers are rapidly falling in love with.  Why do we"
+    publishedDateTime: 2022-05-12T11:20:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-voice-ai-for-next-gen-e-commerce-brands/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-voice-ai-for-next-gen-e-commerce-brands/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-role-of-voice-ai-for-next-gen-e-commerce-brands/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "How to get better leads and conversions with Google’s AI"
     excerpt: "Let’s start with the more sophisticated and precise ... is a bit more valuable than typical will help steer the engine’s AI automations in the right direction. It’s like giving it a nudge ..."
     publishedDateTime: 2022-05-10T10:59:00Z

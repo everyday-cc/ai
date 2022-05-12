@@ -88,6 +88,22 @@ related:
         width: 3720
         height: 2480
         isCached: true
+  - title: "New Google glasses could let you speak any language thanks to real-time AI translation"
+    excerpt: "Google CEO Sundar Pichai this week teased the prototype of a new pair of smart glasses - they use augmented reality to provide live translations of any language as you hear it being spoken"
+    publishedDateTime: 2022-05-12T11:30:00Z
+    webUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266"
+    ampWebUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
+    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
+    type: article
+    provider:
+      name: Daily Star
+      domain: dailystar.co.uk
+    quality: 51
+    images:
+      - url: "https://i2-prod.dailystar.co.uk/incoming/article26945548.ece/ALTERNATES/s615/0_2022-05-12-15.jpg"
+        width: 615
+        height: 409
+        isCached: true
 
 secured: "4VbB1IzpI4IQnozyJLWwdJTwj1zEN/LWKMN5x8+9uGFJb2udL1K11e5LAcCzPGGCwbi+3vXsIrZHZZTOiNXjJvomlPNNtjiwOpe6SOYXacN7k60M82rIS7p27eXeSy/9RJEtJXIr8niCvi0hMI+5/aeRzjy5UhXaQyERwkioYwTbOHU9WqIYuM5obDK2o4v29KTlDHccJb87eGP51mmZpQPyOtyZu6ztQuK6Jp5SWf7gpSGqni0jQ0VbTR0qX2/fUtHULYrpS3z5cOeZzI/+syhsNI00BVq+wTvOt1r7rDdGnwIkN8CJdJ1O8t46nFzwtZOqjHLUXaEL5QXTEtSeNG/LM7YqpA7zkUfjl5SGB4YIDDnmMrJy0US+Jnd4eRMwozGjE0sjJoK1tszi6FH3KDhgVtL7l+liVm0toh31cmR9k7CmcGhUahu+Fp11HMfESlQBWdsstVn7aFtW4W4Cj/3+k7CF1fBZrCjy/Dm12CTNqsER2lV4HROu4DB2dk8N2APIJ+1QwMC+uRHUh3NJQw==;GQ/SchLQ3SQ9vRvfu3uQKQ=="
 ---

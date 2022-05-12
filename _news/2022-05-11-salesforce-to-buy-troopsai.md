@@ -71,6 +71,20 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Natural Language Processing Market Is Booming Worldwide Genpact Limited, SAP SE, Salesforce.com Inc."
+    excerpt: "New Jersey, N.J., May 11, 2022 Natural Language Processing Market report focused on the comprehensive analysis of current and future prospects of the"
+    publishedDateTime: 2022-05-12T10:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-market-is-booming-worldwide-genpact-limited-sap-se-salesforce-com-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "bKtrFTryuEBEC7JQ5Eb2jJViXoEsBkp92OFNmQ/LyIo6NOE2V/3MyhnDr+Y8d1u/DUE27TMgGNsAJLsOwTOZSRgiQ7lrRrQP8WW7AXKmFxxDe91OdmJIfdQRxHy007TtLzlIjxaAolPkL3RNZW6EpV/AnE7oFQhY02LCd6g6PnnoGIMZfTOUaIHFdP0bM+ydXF7REABUWi6bSkY6DWCRBu6ognxFYJRuVdozUfYaCNDG4pqhOKcZXdziIrLFuIgqmSlaC4ZWrK3yuLCdsBtWTiJVhZ2upq0d8XOwdRR4MXAbnourcj2YZ12j1AFeSaP4o3wnQ4HyI+tKG+tBg/uRfvs1/XxM4PLDHMHi68Q/4AWTtm5WqEPmvZuUnFlATSDuc++thMPjmMwruo+zaeMpamUKlfZTgz3eRdiUryc8OKD/4Ig6/OqALHxcEJpi02QG9HYafMvyxn31tqEnXRtvRwaJGjdtr66OFeoLsnYOWb9qxWqTvsHln+iBExe4eu6D29/of1SkJabKZv5XkBUGjg==;SGmylLLejSUjidk91UjjmQ=="
 ---

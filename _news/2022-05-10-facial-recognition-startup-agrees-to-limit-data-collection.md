@@ -302,22 +302,6 @@ related:
         width: 1440
         height: 857
         isCached: true
-  - title: "Face scanner firm Clearview AI agrees to limits to settle lawsuit"
-    excerpt: "Clearview AI will stop granting paid or free access to its database to most private businesses and individuals."
-    publishedDateTime: 2022-05-10T06:35:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://www.thehindu.com/incoming/8lbi16/article65400605.ece/alternates/LANDSCAPE_615/CCI_UDHindu_KSL_UL867G8T6_R1564387903_3_690f0c14-7e9e-4561-8d10-350bbfa4b864.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Clearview AI settles lawsuit over facial recognition privacy"
     excerpt: "Monday settled a lawsuit brought by the American Civil Liberties Union (ACLU). The ACLU alleged 'that Clearview repeatedly violated the Illinois Biometric Information"
     publishedDateTime: 2022-05-10T16:50:00Z
@@ -457,6 +441,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 40
+  - title: "Face scanner firm Clearview AI agrees to limits to settle lawsuit"
+    excerpt: "The facial recognition startup Clearview AI agreed to restrictions on how businesses can use its database of billions"
+    publishedDateTime: 2022-05-09T19:28:00Z
+    webUrl: "https://wsau.com/2022/05/09/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/"
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 39
+    images:
+      - url: "https://media.socastsrm.com/uploads/station/1946/fbShare.png?r=67880"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Clearview AI has agreed to stop selling its controversial facial recognition technology to businesses in the US"
     excerpt: "Clearview AI has agreed to stop selling its controversial facial recognition technology to businesses in the US - SiliconANGLE"
     publishedDateTime: 2022-05-10T02:45:00Z
@@ -544,6 +542,15 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 4
+  - title: "Clearview AI Settles ACLU Illinois Lawsuit Confirming Continuity of Business Supporting Public Safety"
+    excerpt: "Agreement confirms company’s compliance with privacy law while allowing continued growth of Clearview AI’s industry leading facial recognition technology (FRT) platform Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country,"
+    publishedDateTime: 2022-05-12T10:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220512005422/clearview-ai-settles-aclu-illinois-lawsuit-confirming-continuity-of-business-supporting-public-safety"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 2
 
 secured: "bnoxoVraEzeDfo0xkUDbAxqGGHGyUTOhT4NQi0f52vPeaKvtZjKPEdB6lY1q6u7XDFo04eELd5KQ6Vhef85SX4L69B74aZc1RGoKWdKuJzmzMV11CjIKRCfCy/qxR7rAj2YleEHXefsOa12qPqv93JKZuGYpJXSIGSDyRZJEepYgQ8LYrh1/dcZHUVb3kj5FbVtEaL7xWpbU4E8+MqGcbhPLfwHxBvStUtNo5YKh770NTWGhLS8q+MkdQCZmA+DvmYAkVLwxcFz0RAObJRSJrW/oKJ9llJLNNSKOeQYrVsDZfjynfFDXRv+9hN5gFpQsVy4XzBgZDuQVHQVkLBJZUTqRBcT0MZg+F6Kuc11OCKA=;i2OZphRTqI0mvyIaecXA0g=="
 ---

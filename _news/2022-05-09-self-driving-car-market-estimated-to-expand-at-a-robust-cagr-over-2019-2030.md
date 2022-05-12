@@ -41,6 +41,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Intelligent Speech and Voice Recognition Market Size Is Expected To Grow At A CAGR Of 23.8% During Assessment Period 2022-2028 | 111 Report Pages"
+    excerpt: "Intelligent Speech and Voice Recognition Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in ..."
+    publishedDateTime: 2022-05-12T10:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/intelligent-speech-and-voice-recognition-market-size-is-expected-to-grow-at-a-cagr-of-23-8-during-assessment-period-2022-2028-111-report-pages"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "oqO8RvXvtqxbHij79roPFgIS7wYBtld7TuwBbdk+ec3kbkWttwypqgBV3PivNmgR2hnXROpiMjZoBdg1nrFfH7mhDIss+B3fJoYN43cJkZxlUKytPZVwK/bDZkgJ14qOjle+WOkiLMFrWb1yd7MnqAQbKGbgh1LXbAgD5pTOSLdqNdEBnMUKQtsFNScOMYi+4GV2eXNRj1UR5jEn7Eyd2SgJdSkWHyvl2to0XZbVhR+J9igzFvvs03oTvJcErv9xWuFOTFXo5pq9ffTKYfYr3EqyLNnRoOI0I4bVecMTFAIq8YR/SIszV7WMSvM0uzZ+780YMk/tV/f7s/KE2MHHuZnbSdEcFqVWdqyDllKI2BkX5sk3j49Hee4BoHxGY04GeolMcFEhnvd1wVBoBiGgS1iF2nxSQuA+R5OIQa5cvUUN4WqWHF4kJLVEpyoE4Q8oIsoPABup60+kccXmPqQ13qeFNye0zrOUJ/H+Yem3UHQ9l5IPwy/aglm2PYT+mic0QOlfko7i77UDKa2hY6NCsQ==;skRRWzovzbOtH3LV7kfjjg=="
 ---

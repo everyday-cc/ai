@@ -1,30 +1,27 @@
 ---
 category: news
-title: "The 1997 chess game that thrust AI into the spotlight"
+title: "The 1997 Chess Game That Thrust AI Into The Spotlight"
 excerpt: "LeCun, one of the founding fathers of modern AI, lists among the achievements of today's computers an ability \"to translate any language into any language in a set of 200 languages\" or \"to have a single neural network that understands 100 languages\"."
-publishedDateTime: 2022-05-11T07:46:00Z
-originalUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
+publishedDateTime: 2022-05-11T03:37:00Z
+originalUrl: "https://www.ibtimes.com/1997-chess-game-thrust-ai-spotlight-3502200"
+webUrl: "https://www.ibtimes.com/1997-chess-game-thrust-ai-spotlight-3502200"
 type: article
-quality: 61
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Natural Language Processing
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
-    width: 1024
-    height: 682
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/10/the-chess-world-was-shocked-at-garry-kasparovs.jpg"
+    width: 768
+    height: 512
     isCached: true
 
 related:
@@ -70,6 +67,6 @@ related:
       domain: jordantimes.com
     quality: 21
 
-secured: "GGPrUhfpGsU6fNnHJ717HMi42UGryiHJLoeeN0f6jYTMIHfYHNpyDZc4iUnv8plTYADRYt/HMoC5e7v+WAZ21Z1l1SGSpQ2Vt5P0uRLeE01vzeW06W+k7PjcdexM4L6j0WSish3+NmsEoIOerMwWEM3GqKpx3E9Rx+PyPAvFAQqGuKYiguUPnPQLfjPll2Bg5TIkJNH4tukStIZC0zjEddY9nnMmxDL2T2AmZuG0y3WQSSecdY7fkAzA9CKGla1X/FSOLMacrIgDw7eHBLMXfnVgFm2sV8JKA4QnePIxoFW6lOo9gbz5oAlPlliOwuaLfjWLEqSTtnqHAwRx4NzrTvrkOOW9qgOkFroYdT0mApiPAPyf/vwL8M7pGObE/4IcIaPe/8h3lNm6PktFfNMAm4Wee4zLtrAXbyB4HG0YuRFSDiEoQoymRGYRFntmpQcGSdYALi4Sclrj/WyvFO/Y1YoebCgNPJ3tLJ/05+OrR1mK34Zx5bWjsGe/zoa7XvpbJrQsGoiKRnvc3qqnvtCgLA==;3SqFtd0N8ahGaaGCgZ4Q5Q=="
+secured: "7HJR2hnY+TQZUT6SYiobMbLnI/SxanoW4kS1+/co8ZuEHeOlIi/7sL4x6P9ThNxLLTztN7gqUg6WtMJ5hT2FAD9wiUC+pN3SkClot6eufZQK1ceR0qkAOjnACwRTz6s7bqpfzIVRyGzedL8z1gVAJ2YzWZyjFq01J+vfY+D6PNJtObUe/zUa5WcegdfJ8z+P/Ii4+e+2avz7pqF0PxmjazGAqhunUQGfl5KAmsyxqcxbYD9Flxf7YSc7W1YLqtQSNP38gL2WtU0yGVfssLihDVONziZczZbZNp5A38cUlf4vwn2x76u/Ze4gQJFKZbitCHalbGy/purj0M0iFPD+OGb3CwsYZnYjfGGe8iUzi0E=;2Rp+HrBKf6DIzUoxf+f9UA=="
 ---
 

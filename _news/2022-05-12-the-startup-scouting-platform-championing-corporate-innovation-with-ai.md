@@ -1,21 +1,27 @@
 ---
 category: news
 title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
-excerpt: "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi"
-publishedDateTime: 2022-05-11T18:15:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+excerpt: "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The"
+publishedDateTime: 2022-05-12T02:15:00Z
+originalUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+webUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
+
+images:
+  - url: "https://lh3.googleusercontent.com/__Jn4g-5HH4_ZMyjmWpuer2Zb_RLKiPRLMDswfTePpLBtBbnq31QHR6DQvAS9_82whxKfpi7RUOoCnEkEbn1mdgwAnexrzC9RskHWubQ_Cdu-kSf9_UDd6l7OdAAKKiZVqK6ANqCwWP4RyI2oA"
+    width: 1012
+    height: 445
+    isCached: true
 
 related:
   - title: "Strengthening Company Culture With Artificial Intelligence"
@@ -35,6 +41,6 @@ related:
         height: 522
         isCached: true
 
-secured: "Ix3HG8odfg39PESqfAYqK0qgLcXm9M0jEUK//RvCuUhWaVE+bMaemhsmd05wf3tvHrLhnsJVdbFb7ZHcU8jI8ZKKenIu0V/V5+NmUrfTRgWwDDlNDx4lMC4SOyi0BmtDf+UVRf7cLlIToqdAsb6jm1TpzsH4AweR9Xwc6O086ttD0+nXoiVBZ15njRens6SrCfuAUylFDbEzPawmBOjkWlPtxsHZM5pTRJ3HWuj7CuFbUtuqgLvX5npYuQl1Aj/UoG0e9ojwfxLE0solOxYYMBa8verKrXEPOfnwv4/vEL0rwZUd3+Ek3cEciPC61V/8kMIEIdJ74aYlY2OqbJsMgfszboRM2uplgR4w+weVDHVkjRmeI/iIV8+aUD/pezLzZf2rrZwzCOCKZOXSdg2WURI1DEIL2W3E2bhxqF0Ocuk/QN6P91htJOUv1mOYI7K0GS7AhafpJNkWXmOyMKuTzbN/3Cd93ZNNNWyHqDROl9ZtMqGrhdgUMEMHBVnBiaR586VldvSfdVWAooMNOsRs4Q==;99+jEPhCAb4+KGf1crvVQQ=="
+secured: "OMTerId5fV58MauAUhX1utUXkQtjSNIEfTAa46z9qOrCiYgdaIDwbrXB3BSoU3RFSisYq935uspUdo7J4gsOWgXbMpV7FWwtG9R94mes+OEaT4hnGXPEHmgew0ThiPeVtm5G2DoTjmAYVeLXSlSCnfZ8ZT6HsPojO/vc/+zMp9qfIYmaAWR7bDHkSPFL/G/p5IJZ+Zw6q6XjMYdZ6Nx3EOfO2jE87mp9odqOIWjCcTHuhjYkK+cAD51R3OD8nZG03/8D27paDs+UswhLbC9cD7rJ3fP67kxOdzKu+8rWzXMTfd4OcQ3ty+JCYIwpNxivucx3sSS2dtA6NpD9osGXtyOrbe9nbzMeYswtAJ9c1UQ=;DJLS0Dna+WTC7MvxFxjb4A=="
 ---
 
