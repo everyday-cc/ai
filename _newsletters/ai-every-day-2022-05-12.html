@@ -1,0 +1,1365 @@
+---
+title: "A.I. Every Day (2022-05-12)"
+excerpt: "Microsoft session highlights from SAP Sapphire 2022 / Moderate, classify, and process documents using Amazon Rekognition and Amazon Textract / How AI can improve services revenue and customer success"
+publishedDateTime: 2022-05-12T18:11:23Z
+webUrl: "https://everyday.cc/ai/newsletter/ai-every-day-2022-05-12/"
+type: article
+
+topics:
+  - AI
+
+---
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no">
+  <title>A.I. Every Day (2022-05-12)</title>
+  <meta name="description" content="Microsoft session highlights from SAP Sapphire 2022 / Moderate, classify, and process documents using Amazon Rekognition and Amazon Textract / How AI can improve services revenue and customer success">
+  <!--[if mso]>
+    <style>
+        * {
+            font-family: sans-serif !important;
+        }
+    </style>
+  <![endif]-->
+  <!--[if !mso]><!-->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&amp;display=swap" rel="stylesheet"
+    type="text/css">
+  <!--<![endif]-->
+  <style>
+    html,
+    body {
+      margin: 0 auto !important;
+      padding: 0 !important;
+      height: 100% !important;
+      width: 100% !important;
+    }
+
+    * {
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    div[style*="margin: 16px 0"] {
+      margin: 0 !important;
+    }
+
+    table,
+    td {
+      mso-table-lspace: 0pt !important;
+      mso-table-rspace: 0pt !important;
+    }
+
+    table {
+      border-spacing: 0 !important;
+      border-collapse: collapse !important;
+      table-layout: fixed !important;
+      margin: 0 auto !important;
+    }
+
+    img {
+      -ms-interpolation-mode: bicubic;
+    }
+
+    a[x-apple-data-detectors] {
+      border-bottom: 0 !important;
+      cursor: default !important;
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+
+    .im {
+      color: #180b01 !important;
+    }
+
+    @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+      u~div .newsletter-content {
+        min-width: 320px !important;
+      }
+    }
+
+    @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+      u~div .newsletter-content {
+        min-width: 375px !important;
+      }
+    }
+
+    @media only screen and (min-device-width: 414px) {
+      u~div .newsletter-content {
+        min-width: 414px !important;
+      }
+    }
+  </style>
+
+  <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+  <![endif]-->
+
+  <style>
+    @media screen and (max-width: 680px) {
+      a {
+        color: {link_color} !important;
+        text-decoration: none !important;
+      }
+
+      .logo {
+        max-width: 80% !important;
+        height: auto !important;
+        max-height: 43px !important;
+      }
+
+      .story-title p {
+        margin: 0 !important;
+      }
+
+      .sm-px-none {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+
+      .sm-p {
+        padding: 20px !important;
+      }
+
+      .sm-pt {
+        padding-top: 20px !important;
+      }
+
+      .sm-px10 {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+
+      .markets {
+        width: 100%;
+        border: 0;
+      }
+
+      .markets td {
+        border-bottom: 1px solid #e6d1c6;
+        padding: 10px 0;
+      }
+
+      .text-left {
+        text-align: left !important;
+      }
+
+      .copyright-area p,
+      .date-area p {
+        text-align: center !important;
+      }
+    }
+  </style>
+  <style>
+    @media only screen and (min-width: 681px) {
+      .template-button {
+        background-color: #2956CD !important;
+        border-radius: 5px !important;
+        font-weight: 700 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 1px !important;
+        padding: 12px 10px !important;
+        color: #fff !important;
+        Margin-left: 0px !important;
+        font-size: 12px !important;
+        line-height: 12px !important;
+        text-decoration: none !important;
+      }
+
+      a {
+        color: {link_color} !important;
+        text-decoration: none !important;
+      }
+
+      .copyright-area p,
+      .date-area p {
+        text-align: left !important;
+      }
+
+      .text-left {
+        text-align: left !important;
+      }
+
+      .story-body p {
+        margin-top: 0 !important;
+      }
+
+      .story-title p {
+        margin: 0 !important;
+      }
+
+      .area-share,
+      .area-content,
+      .ad-image,
+      .social-area,
+      .copyright-area,
+      .date-area,
+      .hidden-area,
+      .network-area {
+        display: table-cell;
+        vertical-align: top;
+      }
+
+      .area-share {
+        width: 55px;
+      }
+
+      .area-content {
+        width: 585px;
+      }
+
+      .network-area {
+        width: 310px;
+      }
+
+      .hidden-area,
+      .date-area {
+        width: 165px;
+      }
+
+      .copyright-area,
+      .social-area {
+        width: 320px;
+      }
+
+      .template-button {
+        color: #FFF !important;
+      }
+
+      .markets {
+        width: 100%;
+        border: 0;
+      }
+
+      .markets td {
+        border-bottom: 1px solid #e6d1c6;
+        padding: 10px 0;
+      }
+    }
+  </style>
+</head>
+
+<body style="margin: 0; padding: 0 !important; mso-line-height-rule: exactly; line-height: .8;" id="body">
+  <center style="width: 100%;">
+    <!--[if mso]>
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+    <tr>
+    <td>
+    <![endif]-->
+
+    <!--Header-->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+      style="background-color: #0A0300; width: 100%;">
+      <tr>
+        <td align="ccenter">
+          <div style="font-size: 0; max-width: 640px; margin: 0 auto; line-height: 2;" class="newsletter-content">
+          <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="width: 640px; margin: 0 auto;" align="center">
+          <tr>
+          <td align="center" style="vertical-align: middle; width: 165px; height: 50px; margin: 0 auto;">
+          <![endif]-->
+            <div class="hidden-area"></div>
+          <!--[if mso]>
+          </td>
+          <td align="center" style="vertical-align: middle; width: 310px; height: 50px; margin: 0 auto;">
+          <![endif]-->
+            <div class="network-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; height: 50px;">
+                <tr>
+                  <td>
+                    <p
+                      style="color: #2956CD; text-align: center; text-transform: uppercase; font-size: 12px; letter-spacing: 1px; font-family: Open Sans, Segoe UI, sans-serif;">
+                      Part of Everyday Course Club</p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+                </td>
+                <td align="right" style="vertical-align: middle; width: 165px; height: 50px; margin: right;">
+                <![endif]-->
+
+            <div class="date-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; height: 50px;">
+                <tr>
+                  <td>
+                    <p
+                      style="font-size: 12px; text-align: center; color: #FFFFFF; text-transform: uppercase; letter-spacing: 1px; font-family: Open Sans, Segoe UI, sans-serif;">
+                      <a href="https://everyday.cc/ai/newsletter/ai-every-day-2022-05-12/" style="text-decoration: none; color: #FFFFFF !important;">2022-05-12</a>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+          </div>
+        </td>
+      </tr>
+    </table>
+    <!--End of Header-->
+    <!--Content-->
+    <div class="newsletter-content" style="max-width: 680px; margin: 0 auto;">
+      <!--[if mso]>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 680px; margin: 0 auto;" align="center">
+            <tr>
+            <td>
+            <![endif]-->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tr>
+          <td style="padding:70px 0 20px;" align="center">
+            <h1 style="text-align:center; margin: 0;">
+              <span style="vertical-align: middle; font-family: Open Sans, Segoe UI, Tahoma, sans-serif; font-size: 28px">A.I. Every Day<br />
+                <a href="https://everyday.cc/ai/" style="text-decoration: none;vertical-align: middle; display: table-cell;">
+                  <img alt="Logo" src="https://everyday.azureedge.net/ai10/sites/4/2021/04/ai_round_corner.png" border="0" height="43" style="width: auto;" class="logo">
+                </a>
+              </span>
+            </h1>
+          </td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 680px;">
+        <tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>News of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Microsoft+session+highlights+from+SAP+Sapphire+2022 https%3a%2f%2fazure.microsoft.com%2fblog%2fmicrosoft-session-highlights-from-sap-sapphire-2022%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fazure.microsoft.com%2fblog%2fmicrosoft-session-highlights-from-sap-sapphire-2022%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/"><img src="https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Microsoft session highlights from SAP Sapphire 2022{% endraw %}</strong> Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/"
+                                    style="color: #2956CD; text-decoration: none;">↪ Microsoft
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Moderate%2c+classify%2c+and+process+documents+using+Amazon+Rekognition+and+Amazon+Textract https%3a%2f%2faws.amazon.com%2fblogs%2fmachine-learning%2fmoderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2faws.amazon.com%2fblogs%2fmachine-learning%2fmoderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Moderate, classify, and process documents using Amazon Rekognition and Amazon Textract{% endraw %}</strong> Many companies are overwhelmed by the abundant volume of documents they have to process, organize, and classify to serve their customers better. Examples of such can be loan applications, tax filing, and billing. Such documents are more commonly received in image formats and are mostly multi-paged and</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/"
+                                    style="color: #2956CD; text-decoration: none;">↪ AWS
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/3-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=How+AI+can+improve+services+revenue+and+customer+success https%3a%2f%2fventurebeat.com%2f2022%2f05%2f12%2fhow-ai-can-improve-services-revenue-and-customer-success%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fventurebeat.com%2f2022%2f05%2f12%2fhow-ai-can-improve-services-revenue-and-customer-success%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/"><img src="https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-customer_succes_ai.jpg?w=1200&strip=all" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}How AI can improve services revenue and customer success{% endraw %}</strong> Having real-time data that can be modeled using AI and machine learning can help to solve customer success challenges today.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/"
+                                    style="color: #2956CD; text-decoration: none;">↪ VentureBeat
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/4-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Texans+can+no+longer+use+certain+Instagram+filters+due+to+facial+recognition+lawsuit https%3a%2f%2fwww.ksat.com%2fnews%2flocal%2f2022%2f05%2f12%2ftexans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.ksat.com%2fnews%2flocal%2f2022%2f05%2f12%2ftexans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/"><img src="https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Texans can no longer use certain Instagram filters due to facial recognition lawsuit{% endraw %}</strong> Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/"
+                                    style="color: #2956CD; text-decoration: none;">↪ KSAT
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html"><img alt="" src="https://everyday.azureedge.net/media/2021/04/5-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Apeejay+Education%2c+AWS+launch+NEP+Accelerator+programme https%3a%2f%2fwww.hindustantimes.com%2feducation%2femployment-news%2fapeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.hindustantimes.com%2feducation%2femployment-news%2fapeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html"><img src="https://images.hindustantimes.com/img/2022/05/12/1600x900/congress-santiago-american-business-technology-services-america_b095090a-3ae3-11eb-95ec-0fdf1bc83475_1652346526516.jpg" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Apeejay Education, AWS launch NEP Accelerator programme{% endraw %}</strong> This is the first program in India to support the technology transformation of education institutions as per the NEP 2020, according to Apeejay Education.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html"
+                                    style="color: #2956CD; text-decoration: none;">↪ Hindustan Times
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Learning of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.coursera.org/learn/modernrobotics-course1"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Modern+Robotics%2c+Course+1%3a++Foundations+of+Robot+Motion https%3a%2f%2fwww.coursera.org%2flearn%2fmodernrobotics-course1">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.coursera.org%2flearn%2fmodernrobotics-course1">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.coursera.org/learn/modernrobotics-course1">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Modern Robotics, Course 1:  Foundations of Robot Motion{% endraw %}</strong> Learn Modern Robotics, Course 1:  Foundations of Robot Motion from Northwestern University. Do you want to know how robots work?  Are you interested in robotics as a career?  Are you willing to invest the effort to learn fundamental mathematical ...</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.coursera.org/learn/modernrobotics-course1"
+                                    style="color: #2956CD; text-decoration: none;">↪ Coursera
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Beginner%e2%80%99s+Guide+to+Computer+Vision https%3a%2f%2fmedium.com%2freaders-writers-digest%2fbeginners-guide-to-computer-vision-23606224b720">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fmedium.com%2freaders-writers-digest%2fbeginners-guide-to-computer-vision-23606224b720">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720"><img src="https://miro.medium.com/max/1258/0*f_fh55r2DME5l6T6.jpg" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Beginner’s Guide to Computer Vision{% endraw %}</strong> The phenomenon that makes machines such as computers or mobile phones see the surroundings is known as Computer Vision. Serious work on re-creating a human eye started way back in 50s and since then, we have come a long way. Computer vision has already made its way to our mobile phone via different e-commerce or camera apps.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720"
+                                    style="color: #2956CD; text-decoration: none;">↪ Medium
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Companies of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/company/irobot/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=iRobot https%3a%2f%2feveryday.cc%2fai%2fcompany%2firobot%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fcompany%2firobot%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/company/irobot/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}iRobot{% endraw %}</strong> We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/company/irobot/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Company
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/company/fundbox/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Fundbox https%3a%2f%2feveryday.cc%2fai%2fcompany%2ffundbox%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fcompany%2ffundbox%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/company/fundbox/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Fundbox{% endraw %}</strong> Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/company/fundbox/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Company
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Influencers of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/people/sougwen-chung/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Sougwen+Chung https%3a%2f%2feveryday.cc%2fai%2fpeople%2fsougwen-chung%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fpeople%2fsougwen-chung%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/people/sougwen-chung/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Sougwen Chung{% endraw %}</strong> Chung&#39;s work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts &amp; Sciences.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/people/sougwen-chung/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Profile
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/people/jeff-dean/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Jeff+Dean https%3a%2f%2feveryday.cc%2fai%2fpeople%2fjeff-dean%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fpeople%2fjeff-dean%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/people/jeff-dean/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Jeff Dean{% endraw %}</strong> Senior Fellow &amp; SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/people/jeff-dean/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Profile
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+
+      </table>
+      <!--[if mso]>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+    </div>
+    <!--End of Content-->
+    <!--Footer-->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+      style="width: 100%;">
+      <tr>
+        <td style="padding: 10px;">
+          <div style="font-size: 0; max-width: 640px; margin: 0 auto;" class="newsletter-content">
+            <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" style="width: 640px; margin: 0 auto;">
+          <tr>
+          <td align="left" style="vertical-align: middle; width: 140px;">
+          <![endif]-->
+
+            <div class="social-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                <tr>
+                  <td>
+                    <a clicktracking="off" href="https://twitter.com/everydayfeeds"
+                      style="box-sizing: content-box; display: inline-block; width: 35px; height: 35px; border: 1px solid #200a00; Margin: 10px 16px 10px 0; text-align: center; border-radius: 50%;">
+                      <img alt="Twitter" src="https://everyday.azureedge.net/media/2021/04/twitter-black.png" border="0" height="35" width="35">
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+          </td>
+          <td align="left" style="vertical-align: middle; width: 500px;">
+          <![endif]-->
+
+            <div class="copyright-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%;">
+                <tr>
+                  <td>
+                    <p style="margin: 0; font-size: 12px; font-family: Open Sans, Segoe UI, sans-serif; line-height: 28px"
+                      class="sm-pt">
+                      <a href="mailto:hello@everyday.cc" style="text-decoration: none;">hello@everyday.cc</a><br />
+                      Copyright (c) 2020 Everyday.cc, All rights reserved.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 20px;">
+          <div style="max-width: 640px; margin: 0 auto;" class="newsletter-content">
+            <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="width: 640px; margin: 0 auto" align="center">
+          <tr>
+          <td align="left" style="vertical-align: middle;">
+          <![endif]-->
+
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%;">
+              <tr>
+                <td>
+                  <p
+                    style="text-align: center; text-decoration: none; font-size: 12px; font-family: Open Sans, Segoe UI, sans-serif; line-height: 24px">
+                    {can-spam}
+                  </p>
+                </td>
+              </tr>
+            </table>
+
+            <!--[if mso]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+          </div>
+        </td>
+      </tr>
+    </table>
+    <!--End of Footer-->
+    <!--[if mso]>
+  </td>
+  </tr>
+  </table>
+  <![endif]-->
+  </center>
+</body>
+
+</html>
+
