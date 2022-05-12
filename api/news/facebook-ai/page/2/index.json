@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-03-29-omniml-secures-10-million-to-accelerate-ai-computing-on-edge-devices.md",
-      "title": "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices",
-      "excerpt": "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20309928.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20309928.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-29-pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database.md",
       "title": "Pinecone gears up to support next-gen web apps with AI-powered database",
       "excerpt": "Pinecone's AI-powered database is optimized to speed up queries to improve the efficiency of complex operations.",
@@ -1401,6 +1358,58 @@
         "Microsoft AI",
         "AI",
         "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-analyst-ratings-for-c3ai.md",
+      "title": "Analyst Ratings For C3.ai",
+      "excerpt": "In the last 3 months, 4 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $33.5 with a high of $40.00 and a low of $27.00. Below is a summary of how these 4 analysts rated C3.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_3929.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Facebook AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2022/may/7/artificial-intellige
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence tapped to fight Western wildfires"
-    excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
-    publishedDateTime: 2022-05-07T16:40:00Z
-    webUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires-2/"
-    type: article
-    provider:
-      name: The Durango Herald
-      domain: durangoherald.com
-    quality: 17
 
 secured: "AacJf/xQ+VGZpjxqNl2lrmAgtw2hqohturilXvjNzG/6kv2qEy9UF2gZ/+hHKu1c3WDtUO/SBVqgUbU+/ivynBXrSOxM8kLCrGqiVix/0rILcagpw0tC7PZUYVaXnPdvQqihIpYuAFXFxRXx+1zeLGbdpw075MH0X0hb7Ub7LOvCdnh1NLitpsokARbfrIk3Cyy6juDt8S/z2dB5ExUYPFvsk6uoo9PDly85zm2b+QVzpZk6h0fL5BW1Q0sxshRuaxy13HoJTbAmB7u8+sqg1tlGqcKv0vgM7cNPK8fLrxoj0Q16Aad5tXKMRrfk3t0e2ZqJSDoIE381dfcwPuExjJz9PafRBl9XsFgl9N6Oh3u4gkt/jkV8PthsSSF6ISbR/hYUxyVuvYb0yZ/Yvt0RP7N6WN35dwHYUApknA/+phbCqwvMzsptyp6YFcKPQUF8q3I/PivUExfwP7FzrHuPlgesG09WtLIiUl36/900KwVYmwyNOqY4ci21APKXLOiBI+Atg4DwTI+7/Oh8cvU2lQ==;lhfwnfeJynbfKWf5AtJHWA=="
 ---

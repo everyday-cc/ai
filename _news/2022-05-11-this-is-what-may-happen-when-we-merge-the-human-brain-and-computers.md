@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/thimerge-human-brain-and-computers"
 webUrl: "https://thenextweb.com/news/thimerge-human-brain-and-computers"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,40 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "The Man Who Controls Computers With His Mind"
+    excerpt: "Staring at the computer screen, searching his mind for a way to begin ... interfaces have learned to play simple tunes on a digital keyboard, control exoskeletons and maneuver robotic limbs with enough dexterity to drink from a bottle."
+    publishedDateTime: 2022-05-12T08:59:00Z
+    webUrl: "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html"
+    ampWebUrl: "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-facebookJumbo-v5.png"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "A high school student built a prosthetic arm he controls with his mind. Using AI?"
+    excerpt: "Benjamin Choi, who is yet to go to college, has used the spare time offered by the pandemic to build a mind-controlled, artificial intelligence-powered yet low-cost prosthetic arm."
+    publishedDateTime: 2022-05-09T13:06:00Z
+    webUrl: "https://interestingengineering.com/student-prosthetic-arm-artificial-intelligence"
+    ampWebUrl: "https://amp.interestingengineering.com/student-prosthetic-arm-artificial-intelligence"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/student-prosthetic-arm-artificial-intelligence"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/qrwB9k8E65/sizes/arm-1920_resize_md.png"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "1NcM360vHsWO2Zia8Qs2NuC4RfEhIssIV6heSgmAAdEb6WS2nVnuDDje6rFLfEfoqfNWaXEy++rZFeZmWzspyClDFSLIc2kaTQdPycbeO/iGrW9NpxHVbHL2OhC5lJRNr/kblLzVyLrCSrcNv9cbC4BiQ0Gw38+xWi7P/J+c/LOd2Z7JL3YGMk/wZQArk4FvjWh45UjW5y2IbxUGlgMxS8RVxyTPiu+e+qKSukKD0EKywH0DimEFGlpTjiNPVh6k5iygyKIGXzRFs4LiOoplebEnuRbAowxfNe9UVYI7y+B9QGwD5vbM+btHDWLtLhfRAoAUmFBCleyRY7a0esbnwSrt2LdvV+VnthRKngSd43RaaFCPVhH1nT/XSrxd/K0e2II8tEa26C/api6FrYMMjZYDX4ognFiw+BvjLKd6IW7W8rb8ZQWwKhuAkC2uifGLUf+pC4lEtv+wTDp6zSn2tfZcRnP5Vr5IRcjFYqVhUaIXI4mqQ4qWkaHD1xD36SjF8kxKrfGLLbzdVBQMJIZ/pQ==;xaMI/i/gquM9Dp8UChtoaA=="
 ---

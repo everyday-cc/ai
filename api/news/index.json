@@ -2,6 +2,187 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-12-apeejay-education-aws-launch-nep-accelerator-programme.md",
+      "title": "Apeejay Education, AWS launch NEP Accelerator programme",
+      "excerpt": "This is the first program in India to support the technology transformation of education institutions as per the NEP 2020, according to Apeejay Education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
+      "originalUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/05/12/1600x900/congress-santiago-american-business-technology-services-america_b095090a-3ae3-11eb-95ec-0fdf1bc83475_1652346526516.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
+      "publishedDateTime": "2022-05-12T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources.md",
+      "title": "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources",
+      "excerpt": "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources-0",
+      "originalUrl": "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources-0?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources-0?amp",
+      "publishedDateTime": "2022-05-12T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-the-man-who-controls-computers-with-his-mind.md",
+      "title": "The Man Who Controls Computers With His Mind",
+      "excerpt": "Staring at the computer screen, searching his mind for a way to begin ... interfaces have learned to play simple tunes on a digital keyboard, control exoskeletons and maneuver robotic limbs with enough dexterity to drink from a bottle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-facebookJumbo-v5.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
+      "publishedDateTime": "2022-05-12T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge.md",
+      "title": "California’s AI-Powered Wildfire Prevention Efforts Contend With Data Challenge",
+      "excerpt": "The state’s utilities are racing to build AI models capable of identifying equipment problems that could cause wildfires.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "originalUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-542314/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "publishedDateTime": "2022-05-12T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-the-promise-of-artificial-intelligence-hasnt-borne-fruit-in-health-tech.md",
       "title": "The Promise of Artificial Intelligence Hasn't Borne Fruit in Health Tech",
       "excerpt": "Grand promises that the technology could transform healthcare have struggled to bear fruit, with plenty of patient data collected in the meantime.",
@@ -297,7 +478,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1030,204 +1211,6 @@
         "AI",
         "Google AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-never-scoop-poop-again-with-the-sleek-brilliantly-designed-litter-robot-4.md",
-      "title": "Never scoop poop again with the sleek, brilliantly designed Litter-Robot 4",
-      "excerpt": "Designed with community feedback in mind, the latest Litter-Robot is all about improving on all the pain points from previous models – notably it’s less noisy, bulky and smelly. Ahead, everything to know about the Litter-Robot 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/litter-robot-4-review-lead.jpg?q=h_899,w_1601,x_0,y_0",
-          "width": 1601,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
-      "publishedDateTime": "2022-05-11T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-why-ai-is-the-new-and-best-customer-service-agent.md",
-      "title": "Why AI is the new (and best) customer service agent",
-      "excerpt": "AI is becoming the new customer service agent. As customers demand service that is highly personalized, easily navigable, and resolving of their concerns, questions, and needs, AI is being leveraged to automate tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/",
-      "originalUrl": "https://venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/10/shutterstock_366626837.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/amp/",
-      "publishedDateTime": "2022-05-11T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws.md",
-      "title": "IBM signs collaboration agreement with Amazon, SaaS offerings soon available on AWS",
-      "excerpt": "Inc. (AWS). According to a statement from IBM, this latest partnership will provide IBM clients access to automation, security, artificial intelligence, and data capabilities through IBM Cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
-      "originalUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
-      "publishedDateTime": "2022-05-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco.md",
-      "title": "Rise Of The Machine Learning Engineer: Elizabeth Hutton, Cisco",
-      "excerpt": "Elizabeth Hutton is the lead machine learning engineer at the Cisco Webex Contact Center AI team, where she leads building in-house AI solutions from research and development to production. In this wide-ranging interview,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627ad6b441bf5cd8d22d9aca/0x0.jpg?format=jpg&width=1200",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
-      "publishedDateTime": "2022-05-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

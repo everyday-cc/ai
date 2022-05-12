@@ -28,37 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "High School Student Invents A Low-Cost, Mind-Controlled Robotic Arm"
-    excerpt: "It uses an artificial intelligence algorithm that interprets the user’s brain waves rather than surgery to control the arm."
-    publishedDateTime: 2022-05-09T05:51:00Z
-    webUrl: "https://www.ladbible.com/news/latest-high-school-student-invents-mindcontrolled-robotic-arm-20220509"
-    ampWebUrl: "https://www.ladbible.com/news/latest-high-school-student-invents-mindcontrolled-robotic-arm-20220509.amp.html"
-    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-high-school-student-invents-mindcontrolled-robotic-arm-20220509.amp.html"
+  - title: "The Man Who Controls Computers With His Mind"
+    excerpt: "Staring at the computer screen, searching his mind for a way to begin ... interfaces have learned to play simple tunes on a digital keyboard, control exoskeletons and maneuver robotic limbs with enough dexterity to drink from a bottle."
+    publishedDateTime: 2022-05-12T08:59:00Z
+    webUrl: "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html"
+    ampWebUrl: "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html"
     type: article
     provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 59
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
     images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt83d386ae2fba928c/627899e02af4300f82be587b/robotarm.png"
-        width: 1200
-        height: 674
+      - url: "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-facebookJumbo-v5.png"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "17-year-old boy builds 'mind-controlled' robotic arm in US, pic surfaces"
-    excerpt: "A 17-year-old from Virginia in the US has invented a robotic prosthetic arm that can be controlled by the mind. Benjamin Choi used his sister's 3-D printer and some fishing line to print individual parts of the arm and then bolted them all together."
-    publishedDateTime: 2022-05-09T11:41:00Z
-    webUrl: "https://inshorts.com/en/news/17yearold-boy-builds-mindcontrolled-robotic-arm-in-us-pic-surfaces-1652096479577"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/17yearold-boy-builds-mindcontrolled-robotic-arm-in-us-pic-surfaces-1652096479577"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/17yearold-boy-builds-mindcontrolled-robotic-arm-in-us-pic-surfaces-1652096479577"
+  - title: "This is what may happen when we merge the human brain and computers"
+    excerpt: "... capable of simulating the multiplicity of neural connections using an artificial technical neural network. In the late eighties, instead of creating a rigid computing mechanism, information ..."
+    publishedDateTime: 2022-05-11T15:46:00Z
+    webUrl: "https://thenextweb.com/news/thimerge-human-brain-and-computers"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 58
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/05_may/9_mon/img_1652095510231_871.jpg?"
-        width: 1072
-        height: 804
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fmatrix-brain.jpg&signature=5e2613be0fd78bfb07d0ec832129756b"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "ODVPO8awU24cbzEyXU47zyThyeCL6HSz0OG2UA4xF98Vqec7yL6zdU8gslEWfpVmQjIYoQE55J2kfhOOgvKceVa8QoCEQMl/w1p466daz/0/N6VsZDltyX3Ht+KFkpv4pYtXo1D8fdqVPzntXjX13MHSxGBFZldvOIAAOnNCLOfLRHxjs4A8ewsejXKQP84TxfqtrrFo/dtOgd27NA9iLOil+OKfHAVR9z8/y4FjMm2Vn/T4mGVPxYRoEt9SKs1bzkhJthHrTx5BrocsLJQ96JyMUq080bCcjFF3+NTyqmehVoBFiih1EHPrXKiMwnL8PGr8zk5TnNUTDljXpWuxdib65s2qfMMewWez0pf8nmOtzWEFZ7O8ii2qeT+ZwaEjW6seSujxQen+K74SI3Rcbse9DwmlqNMZsoAozTFqvECV39Tm1jgmgZCcMZFnZBr4NhCwh7tVx1i29VicUrCSn3lKcOD/TKPxA6LEnGjHBSLRuXUAiHupkzI5sDtxcO0wlxVWoW1gTAgOhd74yubaeg==;GEmXCoGnuvzyiPkiu/7TMQ=="

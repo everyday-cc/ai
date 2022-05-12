@@ -53,20 +53,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI In Pharma Market See Huge Growth for New Normal | IBM Watson Health; Alphabet Inc.; Concreto HealthAI"
-    excerpt: "New Jersey, N.J., May 11, 2022 The AI In Pharma Market research report provides a thorough and comprehensive analysis of the global Industry. It contains"
-    publishedDateTime: 2022-05-12T04:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-pharma-market-see-huge-growth-for-new-normal-ibm-watson-health-alphabet-inc-concreto-healthai"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/59a169b2a70d8102777da1f1989c4bb10e3db2cf-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Global Autonomous Tractors Markets, 2022-2026: Developments in AI, Machine Vision & Machine Learning Remain Critical to Commercialization & Growth"
     excerpt: "The \"Autonomous Tractors - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Autonomous Tractors Market to Reach"
     publishedDateTime: 2022-05-11T12:15:00Z

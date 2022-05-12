@@ -2,6 +2,204 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-11-never-scoop-poop-again-with-the-sleek-brilliantly-designed-litter-robot-4.md",
+      "title": "Never scoop poop again with the sleek, brilliantly designed Litter-Robot 4",
+      "excerpt": "Designed with community feedback in mind, the latest Litter-Robot is all about improving on all the pain points from previous models – notably it’s less noisy, bulky and smelly. Ahead, everything to know about the Litter-Robot 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/litter-robot-4-review-lead.jpg?q=h_899,w_1601,x_0,y_0",
+          "width": 1601,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
+      "publishedDateTime": "2022-05-11T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-why-ai-is-the-new-and-best-customer-service-agent.md",
+      "title": "Why AI is the new (and best) customer service agent",
+      "excerpt": "AI is becoming the new customer service agent. As customers demand service that is highly personalized, easily navigable, and resolving of their concerns, questions, and needs, AI is being leveraged to automate tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/",
+      "originalUrl": "https://venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/shutterstock_366626837.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/amp/",
+      "publishedDateTime": "2022-05-11T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws.md",
+      "title": "IBM signs collaboration agreement with Amazon, SaaS offerings soon available on AWS",
+      "excerpt": "Inc. (AWS). According to a statement from IBM, this latest partnership will provide IBM clients access to automation, security, artificial intelligence, and data capabilities through IBM Cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
+      "originalUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
+      "publishedDateTime": "2022-05-11T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco.md",
+      "title": "Rise Of The Machine Learning Engineer: Elizabeth Hutton, Cisco",
+      "excerpt": "Elizabeth Hutton is the lead machine learning engineer at the Cisco Webex Contact Center AI team, where she leads building in-house AI solutions from research and development to production. In this wide-ranging interview,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627ad6b441bf5cd8d22d9aca/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
+      "publishedDateTime": "2022-05-11T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-deci-deep-learning-platform-aims-to-ease-ai-application-development.md",
       "title": "Deci deep-learning platform aims to ease AI application development",
       "excerpt": "Using Deci, the company says, AI developers can achieve improved inference performance and efficiency to enable effective deployments on resource-constrained edge devices, maximize hardware use and reduce training and inference cost.",
@@ -285,50 +483,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-on-this-day-ai-arrived-into-chess-spotlight.md",
-      "title": "On this day: AI arrived into chess spotlight",
-      "excerpt": "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161",
-      "originalUrl": "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/05/11/chess_ai_vs_kasparov.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161?amp",
-      "publishedDateTime": "2022-05-10T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -1039,162 +1193,6 @@
         "AI",
         "AI in Robotics",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service.md",
-      "title": "Arrikto expands it MLOps platform with Kubeflow as a Service",
-      "excerpt": "Interestingly, Venetsanopoulos argues that the company’s biggest competitor right now isn’t other managed services like AWS’ SageMaker but businesses trying to build their own platforms by ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/10/arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service/",
-      "originalUrl": "https://techcrunch.com/2022/05/10/arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-997042320.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/10/arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service/amp/",
-      "publishedDateTime": "2022-05-10T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future.md",
-      "title": "IBM’s CEO wants to chart quantum-fueled, AI-powered path to the future",
-      "excerpt": "Whatever IBM had been doing ... and the growing market for ESG and sustainability. While Watson, the company’s artificial intelligence brand, may have lost some of its shine over the years ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future/",
-      "originalUrl": "https://techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Arvind-at-Think.jpeg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future/amp/",
-      "publishedDateTime": "2022-05-10T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform.md",
-      "title": "ProteanTecs gets $45M to strengthen its AI-enabled chip analytics platform",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/",
-      "originalUrl": "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-172252776.jpg?fit=800%2C517&strip=all",
-          "width": 800,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/amp/",
-      "publishedDateTime": "2022-05-10T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

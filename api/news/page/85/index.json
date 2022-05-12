@@ -2,6 +2,240 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-02-25-machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable.md",
+      "title": "Machine learning: The AIOps system Azure uses to make the cloud reliable",
+      "excerpt": "To spot faults quickly even if they take a month to show up, Azure feeds signals into a machine learning system: in the future, you will be able to do that for your own cloud workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/",
+      "originalUrl": "https://www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2019/08/multi-cloud-image-for-tr-ebook.jpg?x18594",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/amp/",
+      "publishedDateTime": "2022-02-24T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-educational-robotics-market-to-reach-4-billion-by-2028.md",
+      "title": "Educational Robotics Market to Reach $4 Billion by 2028",
+      "excerpt": "The need for robotics in education will help drive double-digit annual growth worldwide through 2028, according to a forecast from Emergen Research.",
+      "sourceUrl": null,
+      "webUrl": "https://campustechnology.com/articles/2022/02/24/educational-robotics-market-to-reach-4-billion-by-2028.aspx",
+      "originalUrl": "https://campustechnology.com/articles/2022/02/24/educational-robotics-market-to-reach-4-billion-by-2028.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Technology",
+        "domain": "campustechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-how-fernando-gonzalez-is-driving-mission-driven-fintech-at-coru.md",
+      "title": "How Fernando Gonzalez Is Driving Mission-Driven Fintech At Coru",
+      "excerpt": "Gonzalez is a fintech expert turned investor ... The second, and most prominent, pillar of Coru’s mission is providing AI-supported financial coaching and education. It’s important, Gonzalez says, to ensure users are having human conversations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucetulgan/2022/02/24/how-fernando-gonzalez-is-driving-mission-driven-fintech-at-coru/",
+      "originalUrl": "https://www.forbes.com/sites/brucetulgan/2022/02/24/how-fernando-gonzalez-is-driving-mission-driven-fintech-at-coru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6217f1991a20376a76949c9c/0x0.jpg?format=jpg&crop=693,390,x0,y133,safe&fit=crop",
+          "width": 693,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucetulgan/2022/02/24/how-fernando-gonzalez-is-driving-mission-driven-fintech-at-coru/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucetulgan/2022/02/24/how-fernando-gonzalez-is-driving-mission-driven-fintech-at-coru/amp/",
+      "publishedDateTime": "2022-02-24T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-how-ai-is-shaping-the-cybersecurity-arms-race.md",
+      "title": "How AI is shaping the cybersecurity arms race",
+      "excerpt": "The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find themselves inundated with data they need",
+      "sourceUrl": null,
+      "webUrl": "https://www.econotimes.com/How-AI-is-shaping-the-cybersecurity-arms-race-1627782",
+      "originalUrl": "https://www.econotimes.com/How-AI-is-shaping-the-cybersecurity-arms-race-1627782",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.econotimes.com/assets/uploads/20220224178f93f7814dd878d_th_1024x0.jpg",
+          "width": 640,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-kuka-robotics-builds-leadership-team-with-two-key-position-appointments.md",
+      "title": "KUKA Robotics Builds Leadership Team With Two Key Position Appointments",
+      "excerpt": "KUKA Robotics has named Casey DiBattista and Vancho Naumovski to key leadership positions within the company, leveraging decades of experience and expertise to drive organizational growth and lead the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/february-2022/kuka-robotics-leadership-team-appointments? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/february-2022/kuka-robotics-leadership-team-appointments? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/dcecd334-ee02-4f74-8816-01d7acf5ec70/Kuka-news-feb-24-2022.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-h2oai-brings-ai-grandmaster-powered-nlp-to-the-enterprise.md",
       "title": "H2O.ai brings AI grandmaster-powered NLP to the enterprise",
       "excerpt": "Hydrogen Torch, H2O's latest product, is designed to deliver the AI capabilities of web giants to the rest of the world, says CEO Sri Ambati.",
@@ -928,237 +1162,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-deep-learning-poised-to-improve-breast-cancer-imaging.md",
-      "title": "Deep learning poised to improve breast cancer imaging",
-      "excerpt": "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. In Optica, Optica Publishing Group’s journal for high-impact ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/944066",
-      "originalUrl": "https://www.eurekalert.org/news-releases/944066",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0ae14217-666d-4f6f-8604-0611f535c7ac/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade.md",
-      "title": "Report: A majority of consumers believe AI will have a positive impact in the next decade",
-      "excerpt": "While consumers have become more comfortable with giving up data to reap the benefits of AI, communication and transparency are still key.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/",
-      "originalUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1208151395-e1645639894269.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/amp/",
-      "publishedDateTime": "2022-02-24T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022.md",
-      "title": "The Top Five Sectors Where AI Is Poised To Make Huge Industrial Impacts In 2022",
-      "excerpt": "There’s no denying AI made immense progress in 2021. Moving into 2022, as the CEO of a global AI company creating industrial-grade solutions, it’s looking as though, while innovation will endure, critical advancements won’t necessarily be from the technology itself but more in the way it’s utilized and operationalized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6216521a02453bb63285909a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/",
-      "publishedDateTime": "2022-02-24T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-machine-learnings-carbon-footprint-will-shrink-claims-google.md",
-      "title": "Machine learning's carbon footprint will shrink, claims Google",
-      "excerpt": "Machine learning (ML) is growing rapidly, but as techniques improve, its carbon footprint will level off and even shrink, according to new research from Google. Energy use can be reduced by choosing efficient ML models, and running them preferably in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/machine-learnings-carbon-footprint-will-shrink-claims-google/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/machine-learnings-carbon-footprint-will-shrink-claims-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Zinco79.original_brain_thinkstock.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-use-of-artificial-intelligence-in-agriculture-comes-with-substantial-risks-researchers-warn.md",
-      "title": "Use of Artificial Intelligence in Agriculture Comes with Substantial Risks, Researchers Warn",
-      "excerpt": "Imagine a field of wheat that extends to the horizon, being grown for flour that will be made into bread to feed cities' worth of people. Imagine that all authority for tilling, planting, fertilising,",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12773",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12773_16457041713834921.jpg",
-          "width": 350,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

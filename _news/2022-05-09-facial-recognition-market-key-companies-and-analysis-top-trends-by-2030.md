@@ -35,6 +35,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+  - title: "Machine learning as a Service Market Top Industry Players Analysis and Forecast to 2030"
+    excerpt: "The global machine learning as a service market size was valued at $13.95 billion in 2020, and is projected to reach $302.66 billion by 2030, growing at a"
+    publishedDateTime: 2022-05-12T08:05:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-market-top-industry-players-analysis-and-forecast-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence in Video Surveillance Market Size, Share, Trend, Top Key Companies, Segment Analysis by Type and Future Forecast 2028"
     excerpt: "Global Artificial Intelligence in Video Surveillance Market growth prospects of the regional and global markets"
     publishedDateTime: 2022-05-11T11:49:00Z

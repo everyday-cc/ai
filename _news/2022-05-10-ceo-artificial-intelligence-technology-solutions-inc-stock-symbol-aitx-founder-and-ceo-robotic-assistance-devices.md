@@ -1,46 +1,33 @@
 ---
 category: news
 title: "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices"
-excerpt: "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three"
-publishedDateTime: 2022-05-10T16:35:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
-webUrl: "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
+excerpt: "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three wholly-owned subsidiary Robotic Assistance Devices (RAD),"
+publishedDateTime: 2022-05-10T16:27:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
 type: article
-quality: 46
-heat: 46
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Healthcare
   - AI
-  - AI in Robotics
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Canadian-Offices-Dogs-AFP-1K-05-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "Another Order of 3 Robots from a top ranked global logistics Company for $AITX: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
-    excerpt: "Artificial Intelligence and Robotic Solutions for Multiple Applications ... New Multi-Unit Order from Renowned East Coast Private College. Security Robot Order Recently Received from New Dealer with Multiple Fortune 500 Business Relationships."
-    publishedDateTime: 2022-05-11T11:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
+    excerpt: "Artificial Intelligence and Robotic Solutions for Multiple ... critical infrastructure, education, and healthcare. On April 29 th AITX announced it is awaiting final approval from a pair of significant pending orders. These 2 orders are expected after ..."
+    publishedDateTime: 2022-05-11T11:18:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-11-another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/59a169b2a70d8102777da1f1989c4bb10e3db2cf-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
-secured: "pHBrTzcWlujm/JkIRIq0HERHhmDXjIpJ1cYVwy4it/yuhbsXbT+X5FGLgwidEF8i1eZNM3t0j98gCo13lxly6kK4mSMZn20wVPRLkQtq/JDa/PneVTG6z+W//oQO8kEXRtB273i7uOm8x83KXuiSFkqB3qq5G7WnT/V9jCRrMcV9/TgG/AbgV46M72SWPJWNYXZrOTOjMqJeqXH84eoseWD0WGqWotuwWcQLKd4ox+ZzfzGuOPLOyBJcdMriGMb0yfsE3Nq1L/s1JXYZ6wIBnatp9bQF3sei2e8rdOHSZKSlMvPsa7jzPLt2AMoF5fgrgyFBmgfxsT+/DU+RqJ0KtPkqF8Qb+FEvjIcWTwVV9ndfyQfvPqHpqb2fAlZ3zVhZj+rJZEJ5UiYoMn5gla5iYxC4mExwlTFVPG7FvHujaOnqR8+ZkZgxQWVEMtPR+hd2CYz+NpPBjY9kiX005MUDVecDB7HXOEbfuN9SeSKqXjwLQfsnQNBFI6xTGWFFtOY/3wD836B+LdKA2NYMXISpeg==;l/APNZFsVpYfUQcrk3yynA=="
+secured: "omrD0fAZUvTdzEQnXUA30iOF8yFPWsL13YaEoqcs1ixUrnQMnzNjn6yoBfhrIQGh1qnfqdtqEKuOb0u+lE6vClLLhSay8tbAoiLCouq9y4fRm3b9/NLYJSDFI4vcQCc6jPkjpgHzchJytgGq0t2yz6JKSUtuMAlWtug7u918rKBWHerF11miKIAbjuW0GFs0ZgeWMOdyYtCku8lJJn4sQcpEg8rS2Kp8aL25ZIiaA7ESle/f85aC4KyvcLlv0hAVhR6SqbS2pN2hmr3M05Hpdimhu6zCzt5rhF6lHuY1CvLC2KgwGgUCrydx+Ew5g1kPPvp+iFWB7mGjL/jrP+uTo8+iaCnNugqOhPyfK5okLGDI5oiKkpYZXlNQsTLtkoZZFNIcwTF7/iQyM22bdH/M3A3WTiw8C8yUmgVu50gIJhepZTmX9OlLViHjmZvAH5tbG+HUQPx8g19x06TY2nuIgIHlLlhl4DmDW8K+mxwupudacDhN8+9KvuMdiu80ijGy8hSmHMM0Z+SONu1aJk6dKw==;hajaJ3DrHu0Y1vOzTS76Zw=="
 ---
 

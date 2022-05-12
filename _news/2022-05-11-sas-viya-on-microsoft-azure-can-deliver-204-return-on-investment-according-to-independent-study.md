@@ -79,6 +79,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Avaya Partners with Microsoft to Deliver Avaya OneCloud Solutions on Microsoft Azure"
+    excerpt: "Avaya's joint technology and go-to-market agreement with Microsoft will help customers accelerate their digital transformations in the cloud."
+    publishedDateTime: 2022-05-10T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Avaya-Partners-with-Microsoft-to-Deliver-Avaya-OneCloud-Solutions-on-Microsoft-Azure-152848.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 47
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/145747-0522_CaaS_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "Avaya partners with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "Avaya and Microsoft Corp. have expanded their global partnership by pairing the industry leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations with more options to increase their productivity and customer engagement with unrivaled reliability,"
     publishedDateTime: 2022-05-11T09:40:00Z
@@ -107,6 +121,15 @@ related:
         width: 1920
         height: 1026
         isCached: true
+  - title: "Study shows SAS Viya on Microsoft Azure can deliver 204% ROI"
+    excerpt: "Organisations deploying SAS Viya, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment (ROI) over three years, according to a new commissioned Total Economic Impact study ..."
+    publishedDateTime: 2022-05-12T09:30:00Z
+    webUrl: "https://it-online.co.za/2022/05/12/study-shows-sas-viya-on-microsoft-azure-can-deliver-204-roi/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
   - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
     excerpt: "NYSE:AVYA) Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
     publishedDateTime: 2022-05-09T13:28:00Z

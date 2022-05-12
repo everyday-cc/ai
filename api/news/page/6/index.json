@@ -2,6 +2,137 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-05-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022.md",
+      "title": "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022",
+      "excerpt": "Breakout sessions will cover digital transformation, data and analytics, fraud and financial inclusion, customer onboarding and management, and more. FICO, a leading applied intelligence company, to host 1000+ financial services industry executives at the upcoming FICO ® World conference in Orlando,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-robots-help-reaching-un-goals-of-sustainable-development-ifr-reports.md",
+      "title": "Robots Help Reaching UN Goals Of Sustainable Development – IFR Reports",
+      "excerpt": "The use of robots plays an important role in reaching the sustainable development goals set out by the United Nations (17 SDGs). The International Federation of Robotics identified 13 SDGs, where robots help to create a better planet.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-europe-germany-united-nations-robotics-f09b81bc9e0c44c09c9d5230224f6ad5",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-europe-germany-united-nations-robotics-f09b81bc9e0c44c09c9d5230224f6ad5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever.md",
+      "title": "The Ethical Adoption Of AI In Healthcare Requires A Global Effort, Now More Than Ever",
+      "excerpt": "The events of the past two years have made very clear that in an interconnected world, a health crisis in one corner of the globe can soon spell disaster for the rest of it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/",
+      "publishedDateTime": "2022-05-05T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging.md",
       "title": "Guidehouse Insights Finds AI and Predictive Analytics in Healthcare Will Enable Safer Aging",
       "excerpt": "Passive monitoring, an important addition to the smart home, is replacing traditional forms of personal emergency response systemsBOULDER, Colo.,",
@@ -1010,144 +1141,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-why-focusing-on-user-centricity-in-ai-is-the-best-move.md",
-      "title": "Why Focusing On User-Centricity In AI Is The Best Move",
-      "excerpt": "If you establish a process of evaluating meaningful insights that work within your organization's context, what can start as surprising consumer sentiments can quickly become opportunities to leverage AI for scalable interventions and results. It's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee37b6f7aa2f00006297975/0x0.jpg?format=jpg&crop=7500,4218,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/amp/",
-      "publishedDateTime": "2022-05-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology.md",
-      "title": "VW Group To Rely On Qualcomm Chips For Its Self-Driving Technology",
-      "excerpt": "All VW Group brands will use this chip starting in 2026 in a deal that runs through to ... Instead, it is also working alongside Argo AI and has already partnered with the company to develop an all-autonomous version of the electric ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
-      "originalUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2022/05/VW-ID.-Buzz-2a-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
-      "publishedDateTime": "2022-05-04T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-stop-worrying-about-ai-bias-all-the-time-says-deloittes-ai-ethics-lead.md",
-      "title": "Stop worrying about AI bias all the time, says Deloitte’s AI ethics lead",
-      "excerpt": "AI that discriminates against people is a big problem, but Beena Ammanath, executive director of the Global Deloitte AI Institute and head of Trustworthy AI and Ethical Tech, says AI ethics is about a lot more than bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
-      "originalUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/beena-ammanath-executive-director-of-the-global-deloitte-ai-institute-and-head-of-trustworthy-ai-and-ethical-tech.png?id=29755735&width=1500&coordinates=346%2C0%2C334%2C0&height=2000",
-          "width": 1500,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
-      "publishedDateTime": "2022-05-04T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

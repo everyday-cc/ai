@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-19-upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships.md",
+      "title": "Upstart presents free webinar on leveraging AI and fintech partnerships!",
+      "excerpt": "Upstart is partnering with AgFed to bring you a free webinar this Wednesday, on how credit unions can leverage AI and fintech partnerships to expand into new product lines and grow their membership. This virtual event features Jeff Keltner,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/press-release/upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships/",
+      "originalUrl": "https://www.cuinsight.com/press-release/upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png",
+          "width": 792,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Credit Union Insight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-expertai-takes-top-honors-in-fintech-breakthrough-awards-for-best-use-of-ai-in-fintech.md",
       "title": "Expert.ai Takes Top Honors in FinTech Breakthrough Awards for \"Best Use of AI in FinTech\"",
       "excerpt": "the leader in artificial intelligence (AI) for language understanding, has been named the winner in the 6 th Annual FinTech Breakthrough Awards for \"Best Use of AI in FinTech.\" Attracting nearly ...",
@@ -1260,59 +1303,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-how-ai-protects-machine-identities-in-a-zero-trust-world.md",
-      "title": "How AI protects machine identities in a zero-trust world",
-      "excerpt": "By scanning enterprise networks, bad actors often find unprotected machine identities to exploit, making them a favored attack surface.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/",
-      "originalUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/5-How-AI-Is-Protecting-Machine-Identities-In-A-Zero-Trust-World.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/",
-      "publishedDateTime": "2022-03-03T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

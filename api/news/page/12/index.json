@@ -2,6 +2,143 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-04-28-the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence.md",
+      "title": "“The Business Case For AI” Is A Good Management Introduction To Real-World Artificial Intelligence",
+      "excerpt": "The book doesn’t delve deeply into algorithms or other details that don’t matter to management, while it does provide a framework to look at AI projects through a business lens that integrates the technology into organizations in a way that doesn’t leave everything to technologist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,494,x0,y21,safe&width=1200",
+          "width": 876,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-04-28T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-man-who-gave-microwave-artificial-intelligence-claims-it-tried-to-cook-him-to-death.md",
+      "title": "Man who gave microwave artificial intelligence claims it tried to cook him to death",
+      "excerpt": "YouTuber Lucas Rizzotto said the family microwave was his imaginary childhood friend which he tried to resurrect by fitting a new one with artificial intelligence during a bizarre experiment",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597",
+      "originalUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article26824071.ece/ALTERNATES/s615/0_Lucas-Rizzotto.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp",
+      "publishedDateTime": "2022-04-28T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-chinas-push-to-dominate-booming-robotaxi-market.md",
+      "title": "China's push to dominate booming robotaxi market",
+      "excerpt": "Journalists take photos and videos of self-driving cars on display during a media tour of Baidu's autonomous ride-hailing services at the Apollo Park in Beijing, China, 22 April 2022 (issued 28 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.efe.com/efe/english/world/china-s-push-to-dominate-booming-robotaxi-market/50000262-4794000",
+      "originalUrl": "https://www.efe.com/efe/english/world/china-s-push-to-dominate-booming-robotaxi-market/50000262-4794000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?-P-2fL4Jfo8HOMiuUEXK-P-2bGJ1k392mKDAoyocQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UxHiMs2BCbn0GtbHp-P-2f4eNBQ-P-3d-P-3d",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EFE",
+        "domain": "efe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-digitalais-ai-powered-devops-platform-offers-predictive-insights.md",
       "title": "Digital.ai’s AI-powered devops platform offers predictive insights",
       "excerpt": "Digital.ai's new toolset lets IT managers use automation to connect agile development practices at the portfolio, team and individual levels.",
@@ -521,49 +658,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-28-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
-      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
-      "excerpt": "China has granted Chinese internet services company Baidu and a rival autonomous car company, Pony.ai, permits to provide driverless ride-hailing services to the public in Beijing,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
-      "originalUrl": "https://thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/04/5e5176d460af44f3b23b744d04ddc309.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/amp/",
-      "publishedDateTime": "2022-04-28T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-28-ford-hints-at-shift-to-middle-mile-autonomous-delivery-with-argo-ai.md",
       "title": "Ford hints at shift to middle mile autonomous delivery with Argo AI",
       "excerpt": "Ford and autonomous vehicle technology company Argo AI have been partnering for years to bring high level self-driving capabilities to Ford vehicles. To date, much of that partnership has been realized through robotaxi services and,",
@@ -611,6 +705,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
+      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
+      "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai",
+      "originalUrl": "https://www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/b204603/2147483647/strip/true/crop/5981x4000+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffe%2Fd7%2F5ee74f9b97d29c35960bc3e57443%2Fd73d434b425f40428992dad092a62d3c",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?_amp=true",
+      "cdnAmpWebUrl": "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?_amp=true",
+      "publishedDateTime": "2022-04-28T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Diego Union-Tribune",
+        "domain": "sandiegouniontribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1031,144 +1168,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live.md",
-      "title": "Raising monster rounds for self-driving mobility startups on TechCrunch Live",
-      "excerpt": "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
-      "originalUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TCL-2022-05-11-featured-1920x1080-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
-      "publishedDateTime": "2022-04-27T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-can-saudi-arabia-unleash-national-success-in-fintech.md",
-      "title": "How can Saudi Arabia unleash national success in fintech?",
-      "excerpt": "Abdullah Al Othman is the founder and chairman of Geidea, a Saudi Arabia-based fintech specialised in payments. It works with over",
-      "sourceUrl": null,
-      "webUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
-      "originalUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wamda",
-        "domain": "wamda.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-procreating-robots-the-next-big-thing-in-cognitive-automation.md",
-      "title": "Procreating Robots: The Next Big Thing In Cognitive Automation?",
-      "excerpt": "Xenobots, or self-replicating robots, represent yet another evolution of cognitive automation. Procreating robots may pave the way for AI and robotics to eventually unlock artificial general intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239d5f9bb19be620488f0de/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/amp/",
-      "publishedDateTime": "2022-04-27T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

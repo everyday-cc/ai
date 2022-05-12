@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-to-build-better-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
 type: article
 quality: 82
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/05/AI_TestKitchen.gif?w=680"
         width: 680
         height: 383
+        isCached: true
+  - title: "Google Announces AI Test Kitchen App For Beta Testing Of The Latest Language Models At I/O 2022"
+    excerpt: "The American search giant revealed a bunch of new updates that will fall under the AI technology. Moving forward, we can clearly see that Google will be using a lot of AI technology in the future and the new upcoming features that were announced include multisearch that will allow a user to pair the image searches with the text searches and addition of support for 24 new languages in Google Translate."
+    publishedDateTime: 2022-05-12T09:04:00Z
+    webUrl: "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022"
+    ampWebUrl: "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 77
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-71_1d9a.620.jpg"
+        width: 619
+        height: 374
         isCached: true
 
 secured: "0ovhsWck4P75LhdloMTCQbj5X+kv2RxRdFY6YcLWaPG02GWECuYcbxrOvKg95Q536eLDCQ/BVOWPGeWhOXLhd5m19Y6/0oeWI1hAW8L7/9OaZPuOcpMxhBvOMNT4IhTgrFBaXMIYY+y2YZ+fCUwntHx6/egZm4xNpeb7I+JjKrk9y14kJ8GYLMWeb5seXb7JzNmnXUuQaxLfeZA+CXQJn3kYUo5X+dCNmkkcN8JiYPpy5GlHHp7haJ+hrvSr357gyxiqDWVUB/KtR4+TZddQfZ0liud5M6O8nHtR0AZUofNq9N3meovya8i0PUG3Eiw0IMwr6XgMSK6ebjw6nPR6BpUiMAaEdbKSVeFN1J5RciM=;RAdhR2PwLyv5INrQX7bkWA=="

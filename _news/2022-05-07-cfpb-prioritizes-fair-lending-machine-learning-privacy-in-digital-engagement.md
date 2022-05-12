@@ -5,6 +5,8 @@ excerpt: "Members of the auto finance industry continue to have a strong appetit
 publishedDateTime: 2022-05-06T19:19:00Z
 originalUrl: "https://www.autofinancenews.net/allposts/auto-finance-excellence/compliance/cfpb-prioritizes-fair-lending-machine-learning-privacy-in-digital-engagement/"
 webUrl: "https://www.autofinancenews.net/allposts/auto-finance-excellence/compliance/cfpb-prioritizes-fair-lending-machine-learning-privacy-in-digital-engagement/"
+ampWebUrl: "https://www.autofinancenews.net/allposts/auto-finance-excellence/compliance/cfpb-prioritizes-fair-lending-machine-learning-privacy-in-digital-engagement/amp/"
+cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/auto-finance-excellence/compliance/cfpb-prioritizes-fair-lending-machine-learning-privacy-in-digital-engagement/amp/"
 type: article
 quality: 32
 heat: -1
@@ -18,6 +20,12 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+
+images:
+  - url: "https://www.autofinancenews.net/wp-content/uploads/2022/05/canstockphoto65980047-1024x597.jpg"
+    width: 1024
+    height: 597
+    isCached: true
 
 related:
   - title: "CFPB reiterates skepticism of AI in fair lending report"
@@ -35,6 +43,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cP3u+hSWYE1HjLur7VTofOCmQ5qD5jHi92Ij9hTuvixc9+y/w5ZUMxFUC9jHtiYFP+bNT8xlufsOOf2Uc8cZzUxMmgwy2h0yOv7zNujiOF8BOCDm99epADRXRMXcy+k0wyFodH+vuSIRz4FQMoc9OmaSmQTeQBjX3mEvVQIoKKTw8SXTRUSk0lM23fe8CNoyqODxOof+vl2gp/u1CKRu0GHrnGI1zL5rtZQU4fuq9zZzY1A+YMZQiRuaCeZ4Ji7pAsmjl6AstGJexVr1bJZAshHji/I2et+A405sTcOVq+bSL0VD6EyMSZmz/IMICXBjXlnqfAFKoYl9uawQhyZSyu9d4R+2hcRuTp6WJ3B3rLk=;vy7PhR1VD0QuqVlvBf03IA=="
+secured: "BfDqZAPxCpoiiKiGo/Kr3wHYtJgsp2J/hM6KvwHS1KnH9EEXH7Q95cjuC9R13sV96yIw9gNFTCoFTrAH2378oFqnBqKevvxL7b3mlvhza1ts7aqCM0HCBXZVHfLhEz/7xSgw3TzRg/pAb9e+wO54vzYKTlAxTiiCWBxUcFXwtNUBHdfAPukou+zc51RvkLk41wqAZXwiZiLcLaTs+8LmwBOEZSpvrOrzhYPE04SnLRFo1PttWEqSenTuhB3q2bdJaAjknmXNyffTPXN/usT+Quqt/cfKqPb0Ck9frZiZDLw0E7hBU4c+CTczgM34zEQzTGheWn2jAiAsc3kA5L7Wyt8HFcaARq6yEWkK4ejPdsI=;5FzZM2URBKnrzyufHvv4QA=="
 ---
 

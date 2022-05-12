@@ -248,50 +248,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-11-on-this-day-ai-arrived-into-chess-spotlight.md",
-      "title": "On this day: AI arrived into chess spotlight",
-      "excerpt": "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161",
-      "originalUrl": "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/05/11/chess_ai_vs_kasparov.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161?amp",
-      "publishedDateTime": "2022-05-10T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2022-05-10-create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow.md",
       "title": "Create video subtitles with Amazon Transcribe using this no-code workflow",
       "excerpt": "Subtitle creation on video content poses challenges no matter how big or small the organization. To address those challenges, Amazon Transcribe has a helpful feature that enables subtitle creation directly within the service. There is no machine learning (ML) or code writing required to get started.",
@@ -527,6 +483,49 @@
         "Natural Language Processing",
         "AWS AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-staff-recognition-ceremony-returns.md",
+      "title": "Staff recognition ceremony returns",
+      "excerpt": "For the first time in three years, the Brookings School District and Brookings Education Association annual staff recognition ceremony returned to Bell Auditorium at Brookings High School.",
+      "sourceUrl": null,
+      "webUrl": "https://brookingsregister.com/article/staff-recognition-ceremony-returns",
+      "originalUrl": "https://brookingsregister.com/article/staff-recognition-ceremony-returns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://brookingsregister.com/uploads/images/2022/05/62d9ed2e2f15299f0ca51844c10e05a7.jpg",
+          "width": 1024,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brookings Register",
+        "domain": "brookingsregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {

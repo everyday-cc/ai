@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-06-build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model.md",
+      "title": "Build a custom Q&A dataset using Amazon SageMaker Ground Truth to train a Hugging Face Q&A NLU model",
+      "excerpt": "In recent years, natural language understanding (NLU) has increasingly found business value, fueled by model improvements as well as the scalability and cost-efficiency of cloud-based infrastructure. Specifically, the Transformer deep learning architecture, often implemented in the form of BERT models,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/23/ML-4130-image015.jpg",
+          "width": 1287,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T09:29:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-staff-recognition-ceremony-returns.md",
+      "title": "Staff recognition ceremony returns",
+      "excerpt": "For the first time in three years, the Brookings School District and Brookings Education Association annual staff recognition ceremony returned to Bell Auditorium at Brookings High School.",
+      "sourceUrl": null,
+      "webUrl": "https://brookingsregister.com/article/staff-recognition-ceremony-returns",
+      "originalUrl": "https://brookingsregister.com/article/staff-recognition-ceremony-returns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://brookingsregister.com/uploads/images/2022/05/62d9ed2e2f15299f0ca51844c10e05a7.jpg",
+          "width": 1024,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brookings Register",
+        "domain": "brookingsregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-invest-in-the-robotics-startup-tripling-restaurant-profits.md",
+      "title": "Invest in the Robotics startup tripling restaurant profits",
+      "excerpt": "So instead of chasing an armada of employees, franchises have already started deploying Flippy. This synthesis of AI-driven robotics, machine learning and data analytics can grill, fry and, as its name suggests, flip an entire restaurant’s worth of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/miso-robotics-145539918.html",
+      "originalUrl": "https://www.engadget.com/miso-robotics-145539918.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/c6c6c570-cbb4-11ec-bfdf-cfbdb5e2b591",
+          "width": 1600,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-uk-regulatory-bodies-call-for-auditing-standards-of-ai-and-machine-learning.md",
       "title": "UK regulatory bodies call for auditing standards of AI and machine learning",
       "excerpt": "Globally, algorithms used in financial decision-making are drawing increased scrutiny through the lens of risk management.",
@@ -57,10 +204,10 @@
     {
       "path": "_news/2022-05-06-artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom.md",
       "title": "Artificial intelligence helps decode sounds of the animal kingdom",
-      "excerpt": "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human.",
+      "excerpt": "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human. \"If you're manually trying to isolate these calls from audio files ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
-      "originalUrl": "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
+      "webUrl": "https://www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
+      "originalUrl": "https://www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -77,13 +224,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
-      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
-      "publishedDateTime": "2022-05-06T06:37:00-07:00",
+      "ampWebUrl": "https://www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
+      "cdnAmpWebUrl": "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
+      "publishedDateTime": "2022-05-06T06:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WXYZ Detroit",
-        "domain": "wxyz.com",
+        "name": "TMJ4",
+        "domain": "tmj4.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -975,50 +1122,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-05-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022.md",
-      "title": "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022",
-      "excerpt": "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-05-05-meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai.md",
       "title": "Meet Nvidia's Huge H100 Chip That's Powering Tomorrow's AI",
       "excerpt": "Exclusive: The new chip helps cement Nvidia's lead in technology that's revolutionizing computing challenges like language and self-driving cars.",
@@ -1069,102 +1172,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-robots-help-reaching-un-goals-of-sustainable-development-ifr-reports.md",
-      "title": "Robots Help Reaching UN Goals Of Sustainable Development – IFR Reports",
-      "excerpt": "The use of robots plays an important role in reaching the sustainable development goals set out by the United Nations (17 SDGs). The International Federation of Robotics identified 13 SDGs, where robots help to create a better planet.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-europe-germany-united-nations-robotics-f09b81bc9e0c44c09c9d5230224f6ad5",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-europe-germany-united-nations-robotics-f09b81bc9e0c44c09c9d5230224f6ad5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever.md",
-      "title": "The Ethical Adoption Of AI In Healthcare Requires A Global Effort, Now More Than Ever",
-      "excerpt": "The events of the past two years have made very clear that in an interconnected world, a health crisis in one corner of the globe can soon spell disaster for the rest of it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/",
-      "publishedDateTime": "2022-05-05T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

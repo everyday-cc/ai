@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 1429
         isCached: true
+  - title: "Google Announces AI Test Kitchen App For Beta Testing Of The Latest Language Models At I/O 2022"
+    excerpt: "The American search giant revealed a bunch of new updates that will fall under the AI technology. Moving forward, we can clearly see that Google will be using a lot of AI technology in the future and the new upcoming features that were announced include multisearch that will allow a user to pair the image searches with the text searches and addition of support for 24 new languages in Google Translate."
+    publishedDateTime: 2022-05-12T09:04:00Z
+    webUrl: "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022"
+    ampWebUrl: "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 77
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-71_1d9a.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
 
 secured: "mkWs7GfU5ipPW0APeS5phgkAUqxmqYc1q7tBs6j71oSnfjCiyv5EMmlVAROpEbA7FtBOO0R7PumD0NdLAcm6HoNoPxwT90FIRUA6l1lQDlQHpmTiBWUXtkBK3zDhsutxrfxWwvGugGp8QZiN2QWGAZX6ee6hRITD3S/7EAu1yIe2PBUzR6Nxg572EAR6gOG9Naqt467ri3AnhuO5JuknFKusg8XOy8bbuPJRpFEJ4+hBWOR+Xdy53Hi4/aNnbaVgNlOWFUJ7c8aIlabhJcxTfpP8FYwQUuHndm7qY6g/koeF1mbEKdyVXOgHNslsA++w+GCHOgo/oa/fe8iG6yOtFgoT4dgG+cRm3Z2nd4Xzq53bpsm+qd/iEyBgst1yGibnIE0b/imExzu0xDEFSnNC2EgiaMrtetwEBK9rL5DJi7dn1mN+AkVcOvJr2gOwcPoPKMIg3TZFuqBxdiWbM40eVsU94Jdf7VeQ7W19MGgmT5wR+/pcz18rX7rbt5aEv7EHMlkjr50eanjNz78h6oKLvQ==;sVIzDedn1tWz4PfnnVvCdw=="
 ---

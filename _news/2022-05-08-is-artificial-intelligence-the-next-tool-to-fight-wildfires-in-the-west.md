@@ -57,15 +57,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Artificial intelligence tapped to fight Western wildfires"
-    excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
-    publishedDateTime: 2022-05-07T16:40:00Z
-    webUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires-2/"
-    type: article
-    provider:
-      name: The Durango Herald
-      domain: durangoherald.com
-    quality: 17
 
 secured: "0uWl7kdrUNbsCEK0RHA/h1zuc88/stZ2rNVsWuRbTc8xA9Z/dXCryzcwz0Sm2rZ33AqHMqzV5QHxeeWf7wtXVCJGDQHHYYE/ILBveJkalq35mp3WMq9H2jnC67icQ9nj91qw3cSN8bnzAGw+JX9CG9H2A3vOWxeylxxYWx/YLkSqg6OY2DZswktdh8Wy4OcqfWA7ttx4TFHHeCTXtQEuHedfOSuc1PBDV9fe5zZLBd0ui1mQl8ybi5Quj4pCZ9pDsCjVQK+Fa/IBdFGbSW+/fQwnR1GWUEfhA+gTAvTaECB/06zxLw4nvCEPR8R3qc89JQ2qPRMoOWBIIbl6s5RN3FmQdytiomlGjfkNngsZwRV1+MFIyWVo5YQG882qN4GEF1gYzsCtNh1V4eJp7UctNcHD4+5mzfozA0H/nWNbkPbD7++v2Pf2zDKFU3oefx5d21via8stqEEwJrIq4A77mwEk1nZCVxnwMFolwd0r57hZrDogkwCs3XW8FdPNl8H6PHeLqgkpVZgbNFXF9BC8sw==;6hBhJgMIRJYugsG3euf06A=="
 ---

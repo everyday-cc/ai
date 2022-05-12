@@ -30,18 +30,20 @@ images:
 
 related:
   - title: "For hype-wary IBM, quantum-computing sales are close, but not too close"
-    excerpt: "IBM’s include Exxon Mobil Corp and Mitsubishi ... company’s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare ..."
-    publishedDateTime: 2022-05-10T11:12:00Z
-    webUrl: "https://www.reuters.com/article/ibm-ceo-quantum-idUSL2N2X2008"
+    excerpt: "(Reuters) – IBM has set a new goal for propelling ... s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare ..."
+    publishedDateTime: 2022-05-10T12:10:00Z
+    webUrl: "https://www.metro.us/for-hype-wary-ibm-quantum-computing/"
+    ampWebUrl: "https://www.metro.us/for-hype-wary-ibm-quantum-computing/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/for-hype-wary-ibm-quantum-computing/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
+      name: Metro US
+      domain: metro.us
+    quality: 61
     images:
-      - url: "https://www.reuters.com/resizer/mgPg2WVLlv5v9eVKhPFNE8EmceQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2NBGPQX2FKZVJKLPQMAE53QOE.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2022binary_LYNXNPEI490JM-BASEIMAGE.jpg"
+        width: 800
+        height: 531
         isCached: true
   - title: "For hype-wary IBM, quantum-computing sales are close, but not too close"
     excerpt: "IBM has set a new goal for propelling the ... the company's \"error\" predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare and ..."

@@ -1,45 +1,34 @@
 ---
 category: news
 title: "Another Order of 3 Robots from a top ranked global logistics Company for $AITX: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
-excerpt: "Artificial Intelligence and Robotic Solutions for Multiple Applications ... New Multi-Unit Order from Renowned East Coast Private College. Security Robot Order Recently Received from New Dealer with Multiple Fortune 500 Business Relationships."
-publishedDateTime: 2022-05-11T11:21:00Z
-originalUrl: "https://www.digitaljournal.com/pr/another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
-webUrl: "https://www.digitaljournal.com/pr/another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
+excerpt: "Artificial Intelligence and Robotic Solutions for Multiple ... critical infrastructure, education, and healthcare. On April 29 th AITX announced it is awaiting final approval from a pair of significant pending orders. These 2 orders are expected after ..."
+publishedDateTime: 2022-05-11T11:18:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-11-another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-11-another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
 type: article
-quality: 32
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/59a169b2a70d8102777da1f1989c4bb10e3db2cf-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices"
-    excerpt: "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three"
-    publishedDateTime: 2022-05-10T16:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
+    excerpt: "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three wholly-owned subsidiary Robotic Assistance Devices (RAD),"
+    publishedDateTime: 2022-05-10T16:27:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 46
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Canadian-Offices-Dogs-AFP-1K-05-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 7
 
-secured: "O1bVvUMsZWNO7auTh0Bl7y3KkoBdRUW7n46+YYjD54IaAEs9luHBL4dejSg4xszRT2vWRj5zs6Tq2/mO4UxM0jMWZzI53kO6Bmmkb/CYBmdGqYrtM0sCt9uAnQGVSsPEAlcM+s2Y7YnTPXaE/NFfqMOKzihy680Z+dJnJ09OZCMmQ082ft2Anb+ZIjnAXr1liO8TkDhTPeOXL5OxG9fXSfn+xI6+WlHbFyi/B91iDKJ3+n6N0c1iAWxStVKIhuIsENFSvTK1btmchwpH8V6K43gprlVU5nwDq3+u1s8HrYgNU2m4+/cz6aMPVQ8AsghnFlrQgkh398Za3m2unIWw4F+gVu30bJtwijT5aQwSo+w=;YysaYDOI+dfKkYJDRKVpsg=="
+secured: "2SiuQ0hf1NkcQKF8eC5hRx6m/xzZn9gyAyHz2VoGK/kv0rJYl5DTJnIPbbBModaDX1QscNJ52s0eI/KwC3KEsYKxbToJgtUryPHcKI9ji2MSKQXIxyyNpmEFgpeDwAmFlDo1aFaHd6IfPfkJdPrlgLgzcxlwRiOoq/e0LzUG4FYmfP4IeD1j97e+hzXjtRWRInxxfNv2XgvYQNL/uxcUvbV//0AVizmRU6TrMkwaJeMudN+GDiZGn4EFvv8ld8mjCES2NiqGqBrrCMM+omKvlJX2e7oiqKJK3us5L6PYUi8tLIJAxFs6YIaS27BpMsx+LvxYUh1RQGIwF2ZGP8LFHAAmzKh1fhwcwsA65MQT6S4=;mn5wzcJn2zdJ9GR3FK76Ww=="
 ---
 

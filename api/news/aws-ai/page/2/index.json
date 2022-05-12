@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-23-top-10-companies-using-ai-to-look-out-for-in-2022.md",
+      "title": "Top 10 Companies Using AI to Look Out for in 2022",
+      "excerpt": "At the close of 2021, McKinsey & Company published its ‘State of AI’ report. This report detailed many findings, but one that stood out was that of the respondents, 27% of them report, “at least 5% of EBIT attributable to AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/",
+      "originalUrl": "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/04/Brain-Computer-Interface.jpg",
+          "width": 620,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/amp/",
+      "publishedDateTime": "2022-04-22T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-secure-aws-codeartifact-access-for-isolated-amazon-sagemaker-notebook-instances.md",
       "title": "Secure AWS CodeArtifact access for isolated Amazon SageMaker notebook instances",
       "excerpt": "AWS CodeArtifact allows developers to connect internal code repositories to upstream code repositories like Pypi, Maven, or NPM. AWS CodeArtifact is a powerful addition to CI/CD workflows on AWS, but it is similarly effective for code-bases hosted on a Jupyter notebook. This is a common development paradigm",
@@ -1309,58 +1352,6 @@
         "name": "media4growth",
         "domain": "media4growth.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-google-cloud-releases-biglake-to-unify-data-platforms.md",
-      "title": "Google Cloud releases BigLake to unify data platforms",
-      "excerpt": "Amazon’s SageMaker and Azure’s Machine Learning Service already have this capability, the analyst said. New Looker features, Connected Sheets for Looker and the ability to access Looker data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
-      "originalUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
-      "publishedDateTime": "2022-04-06T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

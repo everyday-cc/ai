@@ -109,7 +109,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1150,19 +1150,19 @@
     {
       "path": "_news/2022-04-28-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
       "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
-      "excerpt": "China has granted Chinese internet services company Baidu and a rival autonomous car company, Pony.ai, permits to provide driverless ride-hailing services to the public in Beijing,",
+      "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ...",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
-      "originalUrl": "https://thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
+      "webUrl": "https://www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai",
+      "originalUrl": "https://www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/04/5e5176d460af44f3b23b744d04ddc309.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/b204603/2147483647/strip/true/crop/5981x4000+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffe%2Fd7%2F5ee74f9b97d29c35960bc3e57443%2Fd73d434b425f40428992dad092a62d3c",
+          "width": 320,
+          "height": 214,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1170,13 +1170,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/news/ap/ap-technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/amp/",
-      "publishedDateTime": "2022-04-28T04:04:00-07:00",
+      "ampWebUrl": "https://www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?_amp=true",
+      "cdnAmpWebUrl": "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?_amp=true",
+      "publishedDateTime": "2022-04-28T03:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "San Diego Union-Tribune",
+        "domain": "sandiegouniontribune.com",
         "images": null,
         "publishers": null,
         "authors": null

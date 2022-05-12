@@ -2,17 +2,17 @@
 category: news
 title: "Arrikto Launches Kubeflow as a Service Giving Data Scientists Instant Access to a Complete MLOps Platform"
 excerpt: "Kubeflow is an open source MLOps platform, originally developed by Google that includes integrated components for model training, multi-step pipelines, AutoML, serving, monitoring and artifact ..."
-publishedDateTime: 2022-05-10T13:06:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220510la51932/arrikto-launches-kubeflow-as-a-service-giving-data-scientists-instant-access-to-a-complete-mlops-platform"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220510la51932/arrikto-launches-kubeflow-as-a-service-giving-data-scientists-instant-access-to-a-complete-mlops-platform"
+publishedDateTime: 2022-05-10T14:31:00Z
+originalUrl: "https://www.news-journal.com/arrikto-launches-kubeflow-as-a-service-giving-data-scientists-instant-access-to-a-complete-mlops/article_be68a787-f3c1-5af1-9bcc-d11edde2af6e.html"
+webUrl: "https://www.news-journal.com/arrikto-launches-kubeflow-as-a-service-giving-data-scientists-instant-access-to-a-complete-mlops/article_be68a787-f3c1-5af1-9bcc-d11edde2af6e.html"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - Machine Learning
@@ -36,6 +36,6 @@ related:
         height: 682
         isCached: true
 
-secured: "VmIqZX3+3P43meR41ZmCjzw6oaW3+bePS5zv3jk5aUzCntSmbgW3tZS4RTrHjLXIB8vDAE9p+JHGIe+MD1+wlVCuf5Vzi1KBWwKoi0iL8mLdPaMjw4WAQNWhXWzwjAUTPcH6Q7uRji7ivg2LccAc+Yn6JUaDm51jtxPIBUW6J0GnvMWA4XxHtJEXC4fhwOjiBKH5/G6dmgQ+hSxVn2LN7riXhBeQs+UmIpQySJEXw2rAV6r5KLJ94uq94Ne95jxzbPfvx7CKBSZ106+ltW57dbS69NQI1BbMPq4MH4ckZUH6nXPxBDeHVXmivo5K+njVn34e51uVQ+0dN+sR1phja1v2eu9VlZJMco4mlO8Bs2I=;W2rAGsFFTjoFa2+D8qWMRQ=="
+secured: "RKrPrvNVbAieMkRd1FTATftfqUSf+3WyuUrxpmEr2zDdhbk8+in2uITcFZlO6ScXLejoj4lwaNFYuHoOhCXmcmhodQhdj7IRejMRaMz4AdHWc3AU+FcC6OsNrSnjgtpC9lM1jBorLar211A093M08ZB1toWpovXXL1yB8qQl2/7YsgiooZu3uOFaQGlcDMTktBrQDdH5lJPyMJChWNsoHg+zYzK7u/F7djHhgyh+tUqHLOY/j3qY2beH/8BGWO5JmkSS41hmgg8eKT5mM80fVNJv4AF103QRzfz9W+SrdFwJM5+JywOCMi7g92Lsb1DTZOPTt4KJhx0rj9STYaFVkdcT4XrHGbl1lzBYyBMFUWQ=;BP4sney2BvQlr2IXXD7r+Q=="
 ---
 

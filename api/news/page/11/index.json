@@ -2,6 +2,161 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-29-breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai.md",
+      "title": "Breaking Down Silos To Create A 360-Degree Total Experience Strategy Through Conversational AI",
+      "excerpt": "Raghu Ravinutala is CEO of leading CX automation platform Yellow.ai, writing about customer experience (CX), AI, conversational AI and more. Over the past two years, we have seen customer experience management become a primary barometer of business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626a938f149fc7a7c9b6f347/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/amp/",
+      "publishedDateTime": "2022-04-29T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-enterprise-use-cases-for-computer-vision.md",
+      "title": "Enterprise Use Cases For Computer Vision",
+      "excerpt": "Manish Garg is the Co-founder and Chief Product Officer at Skan.ai, a computer-vision-based process intelligence platform. Computer vision conjures up thoughts of autonomous vehicles and facial recognition for many of us. Indeed, billions of dollars have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,3375,x0,y240,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "publishedDateTime": "2022-04-29T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-baidu-ponyai-get-chinas-first-commercial-driverless-robotaxi-permits.md",
+      "title": "Baidu & Pony.AI get China’s first commercial driverless robotaxi permits",
+      "excerpt": "Baidu and Pony.ai are two Chinese companies that have been ... Previous permits relate to testing the self-driving vehicles without a safety driver in the vehicle. China has seen a raft of self-driving services in several cities across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/",
+      "originalUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/01/Baidu-Apollo.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1",
+      "publishedDateTime": "2022-04-29T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-voi-technology-to-deploy-ai-computer-vision-on-e-scooters-in-oslo-norway.md",
       "title": "Voi Technology to deploy AI computer vision on e-scooters in Oslo, Norway",
       "excerpt": "As part of a new partnership, Voi will use AI technology to deploy computer vision on its e-scooters throughout Oslo in order to tackle pavement riding and fix e-scooter parking, ultimately delivering a safer riding experience. Credit: Voi Technology ...",
@@ -1063,143 +1218,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence.md",
-      "title": "“The Business Case For AI” Is A Good Management Introduction To Real-World Artificial Intelligence",
-      "excerpt": "The book doesn’t delve deeply into algorithms or other details that don’t matter to management, while it does provide a framework to look at AI projects through a business lens that integrates the technology into organizations in a way that doesn’t leave everything to technologist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,494,x0,y21,safe&width=1200",
-          "width": 876,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-04-28T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-man-who-gave-microwave-artificial-intelligence-claims-it-tried-to-cook-him-to-death.md",
-      "title": "Man who gave microwave artificial intelligence claims it tried to cook him to death",
-      "excerpt": "YouTuber Lucas Rizzotto said the family microwave was his imaginary childhood friend which he tried to resurrect by fitting a new one with artificial intelligence during a bizarre experiment",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597",
-      "originalUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article26824071.ece/ALTERNATES/s615/0_Lucas-Rizzotto.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp",
-      "publishedDateTime": "2022-04-28T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-chinas-push-to-dominate-booming-robotaxi-market.md",
-      "title": "China's push to dominate booming robotaxi market",
-      "excerpt": "Journalists take photos and videos of self-driving cars on display during a media tour of Baidu's autonomous ride-hailing services at the Apollo Park in Beijing, China, 22 April 2022 (issued 28 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.efe.com/efe/english/world/china-s-push-to-dominate-booming-robotaxi-market/50000262-4794000",
-      "originalUrl": "https://www.efe.com/efe/english/world/china-s-push-to-dominate-booming-robotaxi-market/50000262-4794000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?-P-2fL4Jfo8HOMiuUEXK-P-2bGJ1k392mKDAoyocQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UxHiMs2BCbn0GtbHp-P-2f4eNBQ-P-3d-P-3d",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EFE",
-        "domain": "efe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -1,42 +1,26 @@
 ---
 category: news
 title: "Tech update: Using artificial intelligence to solve supply chain snarls, and consolidation in Canadian crypto"
-excerpt: "The war is also driving up the prices of energy and other commodities, further disrupting global supply chains, with freighters full of commercial goods stuck at overwhelmed ports. Canada’s top artificial intelligence companies believe they can develop strategies and programs to get products to market faster and that makes the timing ripe for a new Canadian A."
-publishedDateTime: 2022-04-22T18:21:00Z
-originalUrl: "https://www.thestar.com/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html"
-webUrl: "https://www.thestar.com/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html"
+excerpt: "Federal artificial intelligence agency Scale AI has announced ... has a huge opportunity to take the lead in gene and cell therapy. The country has the capacity to create a multibillion dollar ..."
+publishedDateTime: 2022-04-23T07:26:00Z
+originalUrl: "https://www.thespec.com/ts/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html?itm_source=parsely-api"
+webUrl: "https://www.thespec.com/ts/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html?itm_source=parsely-api"
 type: article
-quality: 17
-heat: -1
-published: false
 
 provider:
-  name: The Star
-  domain: thestar.com
+  name: The Hamilton Spectator
+  domain: thespec.com
 
 topics:
   - AI in Healthcare
   - AI
-  - AI in Robotics
 
-related:
-  - title: "4 Ways AI Can Help You In Crypto Investing"
-    excerpt: "Since cryptocurrencies are highly volatile, they increase the risks of crypto trading but also make them significantly more profitable than conventional investments.  The market’s price fluctuates throughout the day,"
-    publishedDateTime: 2022-04-25T08:06:00Z
-    webUrl: "https://techbullion.com/4-ways-ai-can-help-you-in-crypto-investing/"
-    ampWebUrl: "https://techbullion.com/4-ways-ai-can-help-you-in-crypto-investing/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/4-ways-ai-can-help-you-in-crypto-investing/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/04/AI-In-Crypto-Investing.jpg"
-        width: 700
-        height: 400
-        isCached: true
+images:
+  - url: "https://images.thestar.com/9EPJkM2V2ypv4CrXYqw3aQjoWEA=/1120x888/smart/filters:cb(1650901728922)/https://www.thespec.com/content/dam/thestar/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto/techupdate1.jpg"
+    width: 1120
+    height: 888
+    isCached: true
 
-secured: "xEG2F0cdl0AMzgRRN8WxUdDxohGsntk0fM0vrDhPQOWIXyiSoLHzK7WW4fm427dynX1UJHqRY+FkPtZsyraJmCr/8iQ/u7WAdlw0Id52OCLskXl5t1GSHzITG2WvS/n+EtXfBZua+v1sKyG8u5WCliwvMIDBLQ9dtUAOqPwpvLFk6fkSpWoNinfIW816Tqd7MsSSHw7aSuMLUe2YzG+FKMQcGwWjXN/LhqxzwxGscu13LOy2ToNi7AIp/yEHQ7HtNDtzoUvDAGz3FICOEttiF1dBzIVG39Uz9cj08LrFZ1qzIiIGqfR2BNN7EXqhBpgKPo4g9YTjImwA0gqOkMDTitaIVdKngBDdTBHwQWj6Z44UozJBs2VOIfY8r5oHqLx7PXRvMH7aJdbXD/MRotsMLOluD2FoOD6henhbaastkw8lQKx6lgAR6TxIYJwtZJXgl50LYfyLVfTMhKrMgRwQTHie6xaSknSGiDDSdywY605uIqqC2Y5Oq1z/UI213dfSSFEuYCOFXlpPOPRSRCG3Lg==;xmJE1EEN32VT/NYtSvBmYQ=="
+secured: "TI6DJUACDFkMxAxokF3nD/aBZBuIYpDPbwmhwDjcLeI3xkUJAHP6Q6u0kXIprkiBJ89y7gBcYIcXW6XbIDK+bnULJEz2h08l6cbRX1pMWyWhJetJ8crrp8e7/XFHOqSTI7R/jw/Eor1TtGvregJCeXkAS5yJVo3PZxpF3dwQYl8Eesa+KOb9BHkg7chXY+9z5KakZYhRNgH82RKkCZo/ZRjOc7D8JgRB+VqjVpJPthL0Fyv44GJ21Ppar25XezShe3HWzyIHAzMWETOTT6QddE+wTAq28RxsMulRcFk1oIX9EyR3+8gj70pFp/Rhsho7B23+yWOqTFUe/++TDw4Rwtnk7X4U8UsaEi61Mcj65fA=;oYOSGE+0d90qO8PTiCe8Vg=="
 ---
 
