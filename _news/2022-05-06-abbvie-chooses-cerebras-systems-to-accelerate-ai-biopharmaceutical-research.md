@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AbbVie Chooses Cerebras Systems to Accelerate AI Biopharmaceutical Research"
-excerpt: "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, and AbbVie, a global biopharmaceutical company, today announced a landmark achievement in AbbVie’s AI work. Using a Cerebras CS-2 on biomedical natural language processing (NLP) models,"
-publishedDateTime: 2022-05-05T17:41:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-27e46b5a749e46d793c9f335dd46ca8a"
-webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-27e46b5a749e46d793c9f335dd46ca8a"
+excerpt: "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption . Cerebras Systems, the pioneer in high performance artificial intelligence (AI)"
+publishedDateTime: 2022-05-05T19:40:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "xhHDn30cNzmnuUe+dJQ+Zlwr3Ey7VQllOwYuprGNljNaCdUlulNkp/r2EGFVGkqyVTsRf/MAwCi/K72Yebc3MiDoKjjnx5SUsMgZjbt/p6iZUDRz6OzHFXbi7F32998ZiC7EYki0/a5wV8CQ6xWG5JYtuaqiH1czZDMD7mpuMTXorM8wO0uHOgs2JbzkvrtEYFlzNSh5EVPIRJRzk5G3JGM9du1oMW0I91V/PJFmhn2loFhVEHubi3AFGtOvC1rEhF2p1RNf3lWYmd4itBMcOw9KRCTUr4X2mj5dIPerQlx5MqFp8nLMQakYWsVTjlBBZ83G//xeDnhDznYZoCqqFCe5UXGPlED7ppcGoUt03/Q=;dQJpkVLff2lnl8iSvTOGJQ=="
+secured: "j13p8d1x632I+LC45BkWHGt6w7zmJozF2q4IITx3lVdMoSccDomdCPU+TKrZDtwk0H8kJkkpIJUSvPvDAVfA5dux8IiAFdSNJbmFEaIcJkUrlaTRmLaj4scT/XzrRLg2UvsY9Hn5DWbHma0Pxb+49FtAH1Ya6rzhq7tjWlOTYimZZv17ggDnqc6FuDJWlCcgQZ9XIILh+XYij+TUvX/zeISBrEIoiyBnPODh2oz7AiJosx+Pz6pXdWOVyV4ZLFsB4PaW8FMadj/9yKoVFrudKMg29rvJSx+yVpfQVsm5XK10YM4pjo6RgNOryg7i8AHaMcwWQwoZq4odmbI6NeqbolXj4qhqEy26HDUyKSe5PW0=;gBV89pXc810/d7TQr60JcQ=="
 ---
 

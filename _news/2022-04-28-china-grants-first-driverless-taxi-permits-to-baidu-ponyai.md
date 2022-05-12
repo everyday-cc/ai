@@ -5,8 +5,6 @@ excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing
 publishedDateTime: 2022-04-28T14:32:00Z
 originalUrl: "https://www.newindianexpress.com/world/2022/apr/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai-2447520.html"
 webUrl: "https://www.newindianexpress.com/world/2022/apr/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai-2447520.html"
-ampWebUrl: "https://www.newindianexpress.com/world/2022/apr/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai-2447520.amp"
-cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2022/apr/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai-2447520.amp"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/4/28/w600X390/China_Auto_Taxi_AP.jpeg"
-    width: 600
-    height: 390
-    isCached: true
-
-secured: "wkQKVar3Dy4BKeYqqv/LD5Wg60R20XnxOt54UTmdtJJ1hWBX9PZC1v8+oR+bu5WqLDza9OOtYChJzqBoG+qUZpMVQzdwxHeR7UoYgZIxrKTBb89SVABcSFaWSvD6HfLFyCMOg7JAQWjfvn2z0xEYeWaA4OY/qGb/U5698pRhChW+ayr2ryC+TCE69ys/DMUMOhBjQey2vz7efvMYsxe4xep6CckoBr+kxQp8jQDo72oc//W5RtzITvcLXZkhYWsDP9r6gbWhGJdWju1Xm1nmBSJLyz3AO/p350yBxlZtXQWQ/AmMKFvIIeRBCDy9gkle9WqUtCjjZW7Y3R3SMdbCWrMJI3EDZQb3fyw5QwOv75M=;f/AUrPN8crEP1Hg7fXhcqw=="
+secured: "QlxY9JB7J8PT4ommDszyrRW86ujgTOjj2v+6p86WaB2D6mE9ccaKoiZ2NZ6TuMLKWyv+UWpZQ8mHWbwL8KkTDHTguV7tuq/qq+JpayMqK7V3KXEPPb7GBD4dT5UVd21yEd+IR1uzFSutXBGEShb4LUF5jYyoqXqXuHHp+nvcH7vSL5H2aK7FvHbH1Zl/Y+ibq68GqPEPiN5IQ0WyWNs8t1To77fFIR3V/CelCDMulnPckOr915FzKz+6Z5dB8Kc6co25BF7n1+0lqy7N2ov8MlEn+h2dSLqBW4qG7de4sS0oS4uZIZMyYQQsHXIXQGGPWKSwk8eg4gTVuIBVd/Q+V5iEd23OAkuS+WgygoGA1y0=;qyLm9ch0Pmexf9uN23O+0Q=="
 ---
 

@@ -14,7 +14,7 @@ website: https://t.co/1QmLHUi5s4
 twitter:
   username: kaifulee
   url: https://twitter.com/kaifulee
-  followers: 1519650
+  followers: 1519651
 
 googleScholar:
   url: https://scholar.google.com/citations?user=lm2nBYkAAAAJ
