@@ -1,20 +1,22 @@
 ---
 category: news
 title: "For hype-wary IBM, quantum-computing sales are close, but not too close"
-excerpt: "(Reuters) – IBM has set a new goal for propelling ... s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare ..."
-publishedDateTime: 2022-05-10T12:10:00Z
-originalUrl: "https://www.metro.us/for-hype-wary-ibm-quantum-computing/"
-webUrl: "https://www.metro.us/for-hype-wary-ibm-quantum-computing/"
-ampWebUrl: "https://www.metro.us/for-hype-wary-ibm-quantum-computing/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/for-hype-wary-ibm-quantum-computing/amp/"
+excerpt: "IBM’s include Exxon Mobil Corp and Mitsubishi ... company’s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare ..."
+publishedDateTime: 2022-05-10T11:12:00Z
+originalUrl: "https://www.reuters.com/article/ibm-ceo-quantum-idUSL2N2X2008"
+webUrl: "https://www.reuters.com/article/ibm-ceo-quantum-idUSL2N2X2008"
 type: article
-quality: 61
-heat: 101
+quality: 71
+heat: 111
 published: true
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
@@ -22,9 +24,9 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2022binary_LYNXNPEI490JM-BASEIMAGE.jpg"
-    width: 800
-    height: 531
+  - url: "https://www.reuters.com/resizer/mgPg2WVLlv5v9eVKhPFNE8EmceQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2NBGPQX2FKZVJKLPQMAE53QOE.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -89,6 +91,6 @@ related:
         height: 667
         isCached: true
 
-secured: "/s1shcvXW/2s4FNP3wW8TWVxA9+0Loq+hmERc3auo0+hg3fl5Eziv10/OrmBJW61R/qdj37Er8G4jH9tfkNN+8A5P1h3ckxd24isQ79FPTCrfD5tzJfm43WudBAyo/L90NAFjC4BxAji3pMdJF1g3lcevYpsNwIBH4BHbXP1jenD1ytde3qNbOHOErsYLLRT76mgrbDosgrUQFWCWlm/dsIMf7bs/3hi4Y0kMAQPdS2JSWzqpQLE1HngxpLuZMXUStRg3NE934q8eT6H3rXCepdNe8VucdR5Ul+wUmQpKfl9ckTFkLpdN1+7tik3mSaHW+oRxwsIeyT/BWfnWiFBCnVSVdInTl1XRtKQP2+o3js=;u56aTgULyrl3s0UdG/eRTA=="
+secured: "MrNRQsF24Atvwf8Jy8/QpsaGiQ5LdOzXaUvWrCji3BoLyuJsO8Xk+yyj4UiXY+uaSM//EBCyZta2W1zvx/USuGZbbtW/n3K5Gpg2JkZucXehLp0cixKQZGmUlf9igydOVD13cRw6c61m0LcIyBXBBr3q0i8NQguFK4No4zWbYMnFrcCxy+BoH56ff8iwF/bE6jEkBySvsi8/yVbaaAYyqYHRiGbZGvHEvWdJDD9nt/AQeBmy4Bo+xPkqitUDGJ6S7/q4/ITFBGtERRo8Ekxb8ew8BLRiQl2topvgmN6AXAPqfku1PaA9lSC7sObybOedT582jKoZE0BWUqy6DBh1Av5GbNaakvDsD7rFWw4TVcc=;afZshw4plPAAW4mItONKYg=="
 ---
 

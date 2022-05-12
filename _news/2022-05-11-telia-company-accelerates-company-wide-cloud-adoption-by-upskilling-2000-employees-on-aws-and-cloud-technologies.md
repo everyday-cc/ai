@@ -87,6 +87,15 @@ related:
         width: 690
         height: 428
         isCached: true
+  - title: "IBM to Deliver Software as-a-Service on AWS"
+    excerpt: "IBM (NYSE: IBM) today announced it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc. (AWS), with plans to offer a broad array of its software catalog as Software-as-a-Service (SaaS) on AWS."
+    publishedDateTime: 2022-05-12T17:48:00Z
+    webUrl: "https://insidehpc.com/2022/05/ibm-to-deliver-software-as-a-service-on-aws/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 21
   - title: "IBM partners with Amazon Web Services in SaaS arrangement"
     excerpt: "IBM has signed a strategic collaboration agreement with Amazon Web Services Inc. (AWS), with plans to offer a broad array of its software catalog as Software-as-a-Service (SaaS) on AWS."
     publishedDateTime: 2022-05-11T12:35:00Z

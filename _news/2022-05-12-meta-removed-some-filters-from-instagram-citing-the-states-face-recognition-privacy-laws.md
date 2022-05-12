@@ -75,6 +75,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Texas & Illinois Facial Recognition Laws Lead To Instagram Filter Ban"
+    excerpt: "After Texas Attorney General Ken Paxton filed a lawsuit back in February against Meta alleging the company was not properly using its facial recognition technology, Meta disabled filters on"
+    publishedDateTime: 2022-05-12T17:26:00Z
+    webUrl: "https://bossip.com/2132998/meta-filter-ban/"
+    ampWebUrl: "https://bossip.com/2132998/meta-filter-ban/amp/"
+    cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2132998/meta-filter-ban/amp/"
+    type: article
+    provider:
+      name: Bossip
+      domain: bossip.com
+    quality: 59
+    images:
+      - url: "https://bossip.com/wp-content/uploads/sites/28/2022/05/1652371215888.jpg?w=560&h=320&crop=1&strip=all&quality=80"
+        width: 560
+        height: 320
+        isCached: true
 
 secured: "TJLeR5DoX7JE06RQgUgHzYNTbWsn7e0uuPALKgHsSY8CvLYrthEDCHfPItlGgUbJWU4iMs6VxBmgYXmOnAkQVozgSLewqkeSVg7SOALc5XXrYesa9fQeiBntyJmdxrrLbKIX3VkKxYg8ap+knVGoQytICPRBn/bKn1SMjpyddwlDkl0U61Jl47DrZ1t6AkUKv2z6i/SKmhppw3KzyqaunZIJq35w+zDuyLSb3wxGfuM5wWAnTZZzJarv1UqHSq3u+skg45DBCrpxi0jIn3PGRJ7jMLrvwTOfkuThSUX6IaK2pVc84IMrsfZAc+k1E3Ule+OgCQZsOgMKrtenhx8c6Tv7nytL9Bi7Q0R1lrTLZ7WICBNit/JajkSXWCmETTJue6qWzb2k+BR76GVzb60+MxT3JO1ROFcb2zXZLadQmrkg/8SXGlnjS5SCzv0iK/3O3cRAG5g4BqTceX0vIu9TDxQiO6OSYN0hrGZOHqBpL7VY6GXjvlscuB3SL1RkDI7CWV6XHAmXbSzYf0vvm8CI8A==;fOuHp1VjsSD/CISpEcEraQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-05-scientists-x-ray-analysis-artificial-i
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-scientists-x-ray-analysis-artificial-intelligence.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers Harness Artificial Intelligence to Enhance X-Ray Data Analysis"
+    excerpt: "From biology to materials science, artificial intelligence (AI) has revolutionized every scientific subject. When it pertains to certain types of X-ray studies, new AI approaches have enabled researchers to get an accurate analysis of their materials in less time."
+    publishedDateTime: 2022-05-12T16:15:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12944"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12944"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12944"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 57
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12944_16523529434324815.jpg"
+        width: 534
+        height: 300
+        isCached: true
   - title: "Hitting a new peak: Scientists enhance X-ray data analysis with artificial intelligence"
     excerpt: "Scientists at Argonne’s Advanced Photon Source have created a new method using artificial intelligence to speed up the analysis of X-ray diffraction data."
     publishedDateTime: 2022-05-11T00:00:00Z

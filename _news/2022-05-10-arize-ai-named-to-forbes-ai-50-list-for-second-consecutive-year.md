@@ -24,6 +24,24 @@ images:
     isCached: true
 
 related:
+  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its selection to the 2022 Forbes AI 50 for North America. The list recognizes standout privately-held companies making the most advanced and impactful uses of artificial technology."
+    publishedDateTime: 2022-05-12T12:00:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220512la56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 27
+  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "PALO ALTO, Calif., May 12, 2022 /PRNewswire/ -- Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its ..."
+    publishedDateTime: 2022-05-12T17:40:00Z
+    webUrl: "https://whnt.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+    type: article
+    provider:
+      name: WHNT
+      domain: whnt.com
+    quality: 27
   - title: "Eigen Technologies Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Eigen Technologies (Eigen), the global intelligent document processing (IDP) provider, is proud to announce that the company has been named on the fourth annual Forbes AI 50 list 2022 for North America. Produced in partnership with Sequoia Capital, this ..."
     publishedDateTime: 2022-05-10T13:09:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/aston-university-ai-traffic-light-sys
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aston-university-ai-traffic-light-system-could-make-traffic-jams-a-distant-memory/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Education Diary
@@ -27,18 +27,20 @@ images:
 
 related:
   - title: "AI traffic light system could make traffic jams a distant memory"
-    excerpt: "Long queues at traffic lights could be a thing of the past, thanks to a new artificial intelligence system developed by Aston University researchers.  The system – the first of its kind – reads live camera footage and  adapts the lights to compensate,"
-    publishedDateTime: 2022-05-11T13:33:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/952327"
+    excerpt: "Because the AI created by the Aston University team \"sees\" high traffic ... The program can be set up to view any traffic junction—real or simulated—and will start learning autonomously. The reward system can be manipulated, for example to encourage ..."
+    publishedDateTime: 2022-05-11T16:42:00Z
+    webUrl: "https://techxplore.com/news/2022-05-ai-traffic-distant-memory.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-ai-traffic-distant-memory.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-ai-traffic-distant-memory.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3e817c31-2222-4e4b-a61c-48b573dd81bb/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-traffic-light-syste.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Promising AI traffic light system could mean the end of traffic jams"
     excerpt: "Aston University researchers have developed an artificial intelligence system to manage traffic more efficiently at intersections."

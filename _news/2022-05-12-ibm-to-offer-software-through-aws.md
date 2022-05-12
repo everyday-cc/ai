@@ -88,6 +88,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM to Deliver Software as-a-Service on AWS"
+    excerpt: "IBM (NYSE: IBM) today announced it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc. (AWS), with plans to offer a broad array of its software catalog as Software-as-a-Service (SaaS) on AWS."
+    publishedDateTime: 2022-05-12T17:48:00Z
+    webUrl: "https://insidehpc.com/2022/05/ibm-to-deliver-software-as-a-service-on-aws/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 21
   - title: "IBM partners with Amazon Web Services in SaaS arrangement"
     excerpt: "IBM has signed a strategic collaboration agreement with Amazon Web Services Inc. (AWS), with plans to offer a broad array of its software catalog as Software-as-a-Service (SaaS) on AWS."
     publishedDateTime: 2022-05-11T12:35:00Z
@@ -107,6 +116,6 @@ related:
       domain: wiproud.com
     quality: 16
 
-secured: "++pwQOTalK5m+dUwPbmg+NhY18VkSqC4QauW4sXEgnVYLnV0hXtAUCqC/8/lxtwBNszsZ6vmGupkDixJGWlbfxpUmsx4Zkx2MOqK3mw/fLULqkMpLbIqZyWvMAg1kFoaSRpSMdG461RtCl49c3/maz4wyAQzmMWl6C/tDWl5+WCagSVxPsr3cOgd5ACMoisrwQAPnJ7ghCW5pMtDaueC9JpWXCVDYQtlabtckIGktlcgHa7rUlcdLXXVsLNilrr44LtDcPCEvy+b5C/5omoGUi1JBLNrBp4BB9bt4gvXUmRqz9m5We1DFxgyGpvpn3P0qSKmspXHG4R+0ovfjDLexS8SEcS0WUZmyxx2TN2zy08=;QtH+pzOSAmfiuQxMbABE/w=="
+secured: "ApYUqJgwoTmGbeVDRALOprw8qkWAhAp/XjVy0ZSD9z/gzixiNUnMKmGh9UB6Js68wKY8J10TGX6d23PDwEpyGC1sx/azPSd69Wk8rrHkBNdunFcqRaEFmgS77ALcyPfYH6I7G7niMK0pvgEXNQTOb6yPwKO9GIam+3DL58hbSPEdz2MIs+dyHOzwUZix9jKTTYw00SmF5skJGfneqnU9vMl+AjKIErMRRH1rKNhcxu1GaCbEpUMuWOpL0Z95qouozjmATlJeqF1d9YNu+72jb/4JXSMmYd4VepbujLWj4HJqwfJ5rMPzVUSbPLefz0aH+hp90v/wWTqQUnLMc7/8cbWMc3Bp0a6MnuwgHJe2q8rdb5jyUAtC2KzGjo1gvirX3/69rRu4fOMw2Vg14fTR2zW4G4Ly4Aoe/tiNxRgaHHe5N945ukFz+QcKAz0wYAxUYMs5ZsKai0/g8RJTcSVOZOGMp8HNiZ0pO+OvU8QcadhFDr9KMT14BjkKzKObOFzdr9IGs1TNaG9dYPlYCaImkg==;KsOuK7w/87MinwNDygG4Ag=="
 ---
 

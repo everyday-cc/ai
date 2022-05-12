@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Data-driven fintech TIFIN valued at $842M in new $109M Series D round"
+    excerpt: "TIFIN brought in $109 million in fresh funding to bring its tech to the wealth and asset management industries"
+    publishedDateTime: 2022-05-12T12:28:00Z
+    webUrl: "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/"
+    ampWebUrl: "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1153689483.jpg?w=1024"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "AI Fintech TIFIN Raises $109 Million Series D"
     excerpt: "TIFIN has raised $109 million in Series D funding at a valuation of $842 million. TIFIN shared that Franklin Resources (NYSE: BEN) and Motive Partners, have"
     publishedDateTime: 2022-05-12T14:07:00Z
@@ -45,24 +61,6 @@ related:
         width: 1146
         height: 1280
         isCached: true
-  - title: "Exploring The Galaxy Of Fintech Services Within The Metaverse"
-    excerpt: "The future of fintech within the metaverse looks promising, with applications being developed to facilitate virtual transactions, impart financial education and enhance the user experience of customers and employees."
-    publishedDateTime: 2022-05-10T13:33:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/05/10/exploring-the-galaxy-of-fintech-services-within-the-metaverse/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
-  - title: "How will AI affect the future of FinTech in India?"
-    excerpt: "Artificial intelligence (AI) is also being used by financial firms to enhance security and transparency in systems for payments"
-    publishedDateTime: 2022-05-11T12:35:00Z
-    webUrl: "https://ibsintelligence.com/ibsi_prime_news/how-will-ai-affect-the-future-of-fintech-in-india/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
   - title: "Learning to Live with Fintech"
     excerpt: "It takes two to tango, and banks and fintechs are increasingly realising this. while such tie-ups help the former slash operational costs, for the latter, it promises access to a wider universe."
     publishedDateTime: 2022-05-09T12:12:00Z

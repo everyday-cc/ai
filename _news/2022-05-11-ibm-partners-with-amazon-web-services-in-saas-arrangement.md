@@ -95,6 +95,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM to Deliver Software as-a-Service on AWS"
+    excerpt: "IBM (NYSE: IBM) today announced it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc. (AWS), with plans to offer a broad array of its software catalog as Software-as-a-Service (SaaS) on AWS."
+    publishedDateTime: 2022-05-12T17:48:00Z
+    webUrl: "https://insidehpc.com/2022/05/ibm-to-deliver-software-as-a-service-on-aws/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 21
   - title: "HERE Collaborates with AWS on Supply Chain Solutions to Improve End-to-End Visibility and Fleet Efficiency"
     excerpt: "HERE Technologies, the world’s leading location data and technology platform, today announced it has entered a five-year strategic collaboration agreement with Amazon Web Services (AWS) to help organizations improve their supply chain visibility,"
     publishedDateTime: 2022-05-10T14:01:00Z

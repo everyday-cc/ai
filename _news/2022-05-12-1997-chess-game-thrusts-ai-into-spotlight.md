@@ -52,19 +52,21 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "The 1997 Chess Game That Thrust AI Into The Spotlight"
+  - title: "The 1997 chess game that thrust AI into the spotlight"
     excerpt: "LeCun, one of the founding fathers of modern AI, lists among the achievements of today's computers an ability \"to translate any language into any language in a set of 200 languages\" or \"to have a single neural network that understands 100 languages\"."
-    publishedDateTime: 2022-05-11T03:37:00Z
-    webUrl: "https://www.ibtimes.com/1997-chess-game-thrust-ai-spotlight-3502200"
+    publishedDateTime: 2022-05-11T07:46:00Z
+    webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/10/the-chess-world-was-shocked-at-garry-kasparovs.jpg"
-        width: 768
-        height: 512
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "UWs1PoHFdpKSPmEwA3Q4euoHJ8WO0sCPCOsykxNgSP0wQRgo9Ihcq/rtkJftfteCyqdAIQhwPyd0WlTnVd0aCkRoEtcWancJCI4lZhXQDxhLTHpCsqp8Y6BNa5xuEWXJw+FmJMmFVerlgo8WXlPNCgjDawZiCszxwxdjBiAg0agolMfJhuPT7lbG57Y/fg0dfaRdshyjwS6xoXEgM9RTDTxw4HO17lbSDzhMxhbbwGWcuADM5zrqp5xUxqHqGV9aRUxnk4KQlVWB74w5yO0EWJSd6whcPxlmS6DDMk7BwYdg/Dt8CWuD8uXglS0ZK898ZUFEmPcijgn3saUvpPtBBAvTJXN5pcReWfdtOtya338=;ikKX/NYxWZ5sqxfxDpUjtg=="

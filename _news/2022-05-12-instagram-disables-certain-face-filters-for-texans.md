@@ -59,6 +59,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Texas & Illinois Facial Recognition Laws Lead To Instagram Filter Ban"
+    excerpt: "After Texas Attorney General Ken Paxton filed a lawsuit back in February against Meta alleging the company was not properly using its facial recognition technology, Meta disabled filters on"
+    publishedDateTime: 2022-05-12T17:26:00Z
+    webUrl: "https://bossip.com/2132998/meta-filter-ban/"
+    ampWebUrl: "https://bossip.com/2132998/meta-filter-ban/amp/"
+    cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2132998/meta-filter-ban/amp/"
+    type: article
+    provider:
+      name: Bossip
+      domain: bossip.com
+    quality: 59
+    images:
+      - url: "https://bossip.com/wp-content/uploads/sites/28/2022/05/1652371215888.jpg?w=560&h=320&crop=1&strip=all&quality=80"
+        width: 560
+        height: 320
+        isCached: true
   - title: "Meta removed some filters from Instagram citing the state's face recognition privacy laws"
     excerpt: "... of their face-changing filters have been removed from Instagram for fear that they could break Texas laws about facial recognition. Texas Attorney General Ken Paxton said the big concern is that Meta could store your facial data and sell it without ..."
     publishedDateTime: 2022-05-12T04:38:00Z

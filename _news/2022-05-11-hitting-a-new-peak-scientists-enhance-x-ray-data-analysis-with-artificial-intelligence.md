@@ -35,6 +35,22 @@ related:
         width: 534
         height: 300
         isCached: true
+  - title: "Researchers Harness Artificial Intelligence to Enhance X-Ray Data Analysis"
+    excerpt: "From biology to materials science, artificial intelligence (AI) has revolutionized every scientific subject. When it pertains to certain types of X-ray studies, new AI approaches have enabled researchers to get an accurate analysis of their materials in less time."
+    publishedDateTime: 2022-05-12T16:15:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12944"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12944"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12944"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 57
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12944_16523529434324815.jpg"
+        width: 534
+        height: 300
+        isCached: true
 
 secured: "2M6N/9IjVXcNmWTNvqN6r/vET8eD/wlLUYlOdJ1uCG1DCXhOgGl142nJ4oYcwdu/uuZJcil4InEHuRFg9RO642GqL91PcuFdIdK0HRnbc62zHt2/98WJsa2sgsbAS5tk6AIzojDxb6Bow5fa7VodR81UzvYWq3hvRbOC4rqoOIQTR0/KuKwBZ3f+Cv7axh7eDqj+Z7WDOSBRM125mEaolcZPHl2WCjQGghCa/VPeYVKg2A1RMAKHgNZF4rboyAHQAPSb9tPk82XgloFJk5A40WV9daEMN5VxrojuVnRNz8mgcPhbS/f91lpJGBdgEZVI0qj2rfGYAYjOuhcvcR2iIrSCh9PdIO8SpW2RVJPI7Rk=;72svXOjhXPgexh1xfEwXBA=="
 ---

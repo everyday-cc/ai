@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353/amp"
 type: article
 quality: 59
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Emotion Detection and Recognition Market"
-    excerpt: "Moreover, technological advancements are expected to assist the global emotion detection and recognition market growth during the forecast period. Furthermore, expansion in research and development capabilities in speech-based emotion detection systems and ..."
-    publishedDateTime: 2022-05-09T15:17:00Z
-    webUrl: "https://www.transparencymarketresearch.com/emotion-detection-and-recognition-market.html"
-    type: article
-    provider:
-      name: Transparency Market Research
-      domain: transparencymarketresearch.com
-    quality: 4
 
 secured: "3JHo1AO3D5atkG+763K3GwCoQo69PonaR5/mhwZR5AlaXVvbYQ2VVVt1hXdnoQcRD88joYEGq+6D07Sg6j9rKButIednfGYc5v+6OZi4LS/l3Sl4tPgWesEsjrZKsZwQwZCR2Ed0iNENN+0+BrAZzSp1MS/g7f1BpThwuLo0o/ct7sIWXyty+ABgCfsWmbXkrUM8vIXQEdYbFLJ8ujI/0yyXUJKXM/lTIS173Hu1JcOpEmwNHYag0YIj173MpV473+v3pd2JmAzNItcgNRqmsZ21uyYDg1aMULu30N2Envmim/sEAxW2TODOZXhEbEh7VYM1P+AR3XdGZy6h8ST8ZRIfCEJDPZ2lvjVTC/9gbes=;yqwXg4QW/lKWb/3kU9jBHw=="
 ---

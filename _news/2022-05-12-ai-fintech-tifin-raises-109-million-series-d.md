@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-rai
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/amp/"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Data-driven fintech TIFIN valued at $842M in new $109M Series D round"
+    excerpt: "TIFIN brought in $109 million in fresh funding to bring its tech to the wealth and asset management industries"
+    publishedDateTime: 2022-05-12T12:28:00Z
+    webUrl: "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/"
+    ampWebUrl: "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1153689483.jpg?w=1024"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "2 Fintech Stocks You Can Buy Today"
     excerpt: "The market sell-off in 2022 has created excellent buying opportunities for investors in these two financial specialists."
     publishedDateTime: 2022-05-12T11:00:00Z
@@ -41,24 +57,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Exploring The Galaxy Of Fintech Services Within The Metaverse"
-    excerpt: "The future of fintech within the metaverse looks promising, with applications being developed to facilitate virtual transactions, impart financial education and enhance the user experience of customers and employees."
-    publishedDateTime: 2022-05-10T13:33:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/05/10/exploring-the-galaxy-of-fintech-services-within-the-metaverse/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
-  - title: "How will AI affect the future of FinTech in India?"
-    excerpt: "Artificial intelligence (AI) is also being used by financial firms to enhance security and transparency in systems for payments"
-    publishedDateTime: 2022-05-11T12:35:00Z
-    webUrl: "https://ibsintelligence.com/ibsi_prime_news/how-will-ai-affect-the-future-of-fintech-in-india/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
   - title: "Learning to Live with Fintech"
     excerpt: "It takes two to tango, and banks and fintechs are increasingly realising this. while such tie-ups help the former slash operational costs, for the latter, it promises access to a wider universe."
     publishedDateTime: 2022-05-09T12:12:00Z
@@ -69,6 +67,6 @@ related:
       domain: fortuneindia.com
     quality: 4
 
-secured: "OmvC9DIaplSCwJk3hkHM+Uyd1GvlA2H1H8KYvfS/UF8zQzc6Ouf3uJOY0uVslOa8E1b/M3dW/T09Gu5/6OCbzyYzjxyZr4/EzL8EOgtNfQJXRtA+f3gEu5dkvJ9YGP/RO2SEeWT9+m1hfcu5dNwjeikiBhrcu0G9iDpZVQO7PdN8glHT7LHOtUK+BqZSH3UkXluPzZVcJmtMkr3cDZl6EgGHZpRt8y/huOqEKVkxu9I2+ognZ7BZSNfLw/8pLdiylXAVeV6DypaRtnI9sFPnmDw2zE9hhdECZf3lZHlv36AGF+3dH5pa8AWqiXQOmI3Twu1S/RMdigmukCy5UhiNHUU+Ev/z4BrgzzcT/fAPeyw=;Jo/xvAU8wcDVvN8FRC/ixw=="
+secured: "He1pl5yVlp7EG2wnu/uVKADZ9yzEV6ZTK0HCKNaGwFAW5S5f6goMcEBC1zf440LPtAI/3Fl3CiPV2o8VMuuWab65iHRHMm29yv7NE8UCrRhL1oOhi7YhMWzDXsgeCoPsdaw2zNz7jurqMNh9ka/wgh1V9g+M+EszHiB2PgO7EoYCKcxyr67OZTJAX8+ZYpJMZIyoInK9pceXGK7bDoaK4vO3kCiOW2tkxZpCeC/7VDx8KFgSdUO5E0EnRcqcSmIR3ANTOl4njXVkLY+lg+GZ0e3ksMlQ5X/fuSimAxV61uF+ZvrZSRVGb+JGCuCkO1EOXJgsBr8iQmbQ+kyGOeJNlWaoCtfKFZhSj5f5pNuMJUKnTETBO/LU5s7w5YzX/w0wVUYgSe5fIghdWqyH9VFR5IUPebcqQvYVZxE2KTl10PgPD7HBFhS8QwBsUXowNh3f57VFEpqvB/m4h0+s5WDbIBFc3+v8kSJumEI9mpEp+VHNk4IhKwHTfZKO2Gv30oQYoi3J212gdeBDRZkVch4qzg==;FQNh6FgYgwfXnHAdT8MWqQ=="
 ---
 

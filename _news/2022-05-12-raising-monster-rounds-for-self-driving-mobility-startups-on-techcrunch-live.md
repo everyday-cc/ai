@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/11/raising-monster-rounds-for-self-dr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch the latest TechCrunch Live here: Raising monster rounds for self-driving mobility startups"
+    excerpt: "TechCrunch Live records, well, live every Wednesday at noon Pacific, and it’s a great time. The events are free, and is available to watch on Facebook, YouTube, and Twitter. However, if you want ..."
+    publishedDateTime: 2022-05-12T17:33:00Z
+    webUrl: "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/"
+    ampWebUrl: "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 76
+    images:
+      - url: "https://i.ytimg.com/vi/Df0KQS_Dox8/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Raising monster rounds for self-driving mobility startups on TechCrunch Live"
     excerpt: "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,"
     publishedDateTime: 2022-05-09T13:05:00Z
