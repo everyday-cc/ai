@@ -1,13 +1,13 @@
 ---
 category: news
 title: "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0"
-excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes. SAN FRANCISCO, May 10, 202"
+excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS ... of open-source Kubeflow that enables organizations to develop, deploy, and run artificial intelligence (AI) and machine learning (ML) workloads in production environments. Powered by Kubeflow ..."
 publishedDateTime: 2022-05-10T14:17:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
 type: article
-quality: 52
-heat: 62
+quality: 50
+heat: -1
 published: false
 
 provider:
@@ -15,10 +15,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -42,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ryBmOTCAA53kWB88iFpW7FqrJdKxohiH6Ay+Vh4NSz4iCeZSe8PWW1lsVBF6uOM26Pzhx8Kvd5irq1FkJ38OgLuo5pUmMUOFj/YFO8COTKxyLgFS/zr1EXr0Z54ZQscLvNqR6eLQu7OOBsTPilTqzNHORukbiMbPDTfHk3i+GuM/5FnduinlLKCobKJNbAhb5OvPQuwfu0k/JEKpdEImyesUO8Jl4z+ws04xctWrZGmDReYuuYuHinKYXPhnwZmoU8EHzfaqCM7fqeGTuyj3vHb60uANJT97rsIDqhzVkj97oPpo8RRTymQjoJP2k/FO2omgEPOGl704c936N67ZjCYkPu8jBXbiMroMK32W2CQ=;n/Vioy8QaM+jxWW8m6NvwQ=="
+secured: "N2GDKqHQNXU3JQwmEQPQW32dQkOIrNvkw2/V/QnppwUAuerNoLPvrrrRV5XyDtP3G0jL9IZ/M0P+1Y+kfQypTfPerIdXD476aUyKYhTD0f0qg0yMmfuQYLuMoHmNEFlLD82zip/n/w/FIXfRg8vNcYEftsmskjufm9YCfjI2ZQtIaYo+3I4+dVYW2HqniJ4XwvApRF8zqNRKyA0haOxR9kGHq5UpjS5HRCVh98RtG19gLokJcg5Lus8/jVZXb4/O4QUEnK6NKdg+d4IZh9iGleb7d+VvxW6JQFj5pwrAQNyehTQ/W2xUQsSf286D6hUo89AtDBz3njpRK/Aq6E2oS3FjjbrD0M58KaTpVxHto7A=;XcsE2cvq2N1RVwbk0AKohw=="
 ---
 

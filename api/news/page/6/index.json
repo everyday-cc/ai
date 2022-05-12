@@ -2,6 +2,39 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-05-ground-breaking-mjn-seras-seizure-monitoring-device-that-uses-artificial-intelligence-to-predict-and-alert-of-imminent-seizures-launches-in-the.md",
+      "title": "Ground-breaking mjn-SERAS seizure monitoring device that uses artificial intelligence to predict and alert of imminent seizures launches in the UK",
+      "excerpt": "Epilepsy Alarms UK are proud to bring the mjn-SERAS to the UK – a revolutionary device that uses artificial intelligence to predict seizures with up to 3 minutes advanced warning. With a European CE mark as a medical device*, the mjn-SERAS is ...",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-4-ground-breaking-mjn-seras-seizure-monitoring-device-that-uses-artificial-intelligence-to-predict-and-alert-of-imminent-seizures-launches-in-the-uk",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-4-ground-breaking-mjn-seras-seizure-monitoring-device-that-uses-artificial-intelligence-to-predict-and-alert-of-imminent-seizures-launches-in-the-uk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-soundcloud-snaps-up-music-ai-tech-firm-to-bolster-music-discovery.md",
       "title": "SoundCloud snaps up music AI tech firm to bolster music discovery",
       "excerpt": "SoundCloud believes that the next big thing on its platform relies on AI and machine learning, as the company announced it has acquired Musiio, which will help SoundCloud’s existing music ...",
@@ -1134,49 +1167,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
-      "title": "DeepMind Is Working on a Solution to Bias in AI",
-      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
-          "width": 1178,
-          "height": 1070,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

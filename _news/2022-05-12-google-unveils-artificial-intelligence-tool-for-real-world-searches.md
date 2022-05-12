@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Google unveils artificial intelligence tool for real-world searches"
-excerpt: "(Reuters) - Alphabet Inc's Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company ..."
-publishedDateTime: 2022-05-11T23:31:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/12/google-unveils-artificial-intelligence-tool-for-real-world-searches"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/12/google-unveils-artificial-intelligence-tool-for-real-world-searches"
+excerpt: "Alphabet Inc.'s Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company previewed a ..."
+publishedDateTime: 2022-05-11T19:59:00Z
+originalUrl: "https://www.unionleader.com/news/business/google-unveils-artificial-intelligence-tool-for-real-world-searches/article_7e28b911-e883-5520-8562-3c5c59520a84.html"
+webUrl: "https://www.unionleader.com/news/business/google-unveils-artificial-intelligence-tool-for-real-world-searches/article_7e28b911-e883-5520-8562-3c5c59520a84.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: New Hampshire Union Leader
+  domain: unionleader.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/05/12/1582194.jpg"
-    width: 800
-    height: 534
+  - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/7/85/785c8c96-164c-5c96-acb3-903be39118e0/627c1d4755c85.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -57,6 +57,6 @@ related:
         height: 383
         isCached: true
 
-secured: "5Mf6qYfPSXAYranwHZpU/o5TH3JIaC71vCcXMCJsS/lngUemVavnm/cjK1EAAiyLhlDE8/hpbfVje2R7LA8iG/Mtv+hWwr6b2YBYVFyyLt8kb0ZIKQt/dwi4L+HP2/yMVenh7dxosw6cCmY+/8oOwNkGmuxmbvCeYKngaBtsrr4XRP/MRJla/LqtVUTBTrZPOoroWsiK8bbz2tB2GAQSYnnmjmdT/Z5vKWhw2QQa238i46MQ6LTuEVG9C4XzWPjbiVj0WxT06gcnzFnBU2f/xxjkNlXZDyWh4fRyfMiIOH5eyQzDu7JzVJPVRrjn9mshvw7OoraFOCn86173e4E0F17V3t6KVOwG4QHd4uriTgk=;grF+qkZT/6L/f4ql4v3/Ww=="
+secured: "mJURwHmehM6N+7sy6i9yTayY2LDzZviwzZWFrXqYOuT48X64DBct4UPfa6fZkjAZgSnRL2hR0+qPOuqdQHiFRE0fJx3X/YWd6d2QbWKWEsr6fmQYgZlYqxx/r4H/Z8A9SkP89c5oj26sE9e3P0OweTya57x2dfvayjgHDcPF8xVqdTjN9xW9cUXcoylH3UkUQwMC8uGweD430EDC+DocB97j/P2E6OrnsfOKakKUPKQ53nufhk9c/8iXrTAaXIDtH2GYrvcxINdszGsI9bK5kpZ5JRA2BlRyaY4Q7Xj+qjykqr307VOTjweb1hyn5h5h0UBiiCqncSSmlCgKAQ6XwsTTSNJ/7UyOQLdwnfoGeKA=;k30Zfg5FjrUezcDIJK4ayQ=="
 ---
 

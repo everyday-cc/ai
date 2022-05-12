@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-12T00:16:00Z
 originalUrl: "https://www.washingtonpost.com/business/too-much-ai-may-not-be-good-for-your-health-or-the-nhs/2022/05/11/af033e64-d186-11ec-886b-df76183d233f_story.html"
 webUrl: "https://www.washingtonpost.com/business/too-much-ai-may-not-be-good-for-your-health-or-the-nhs/2022/05/11/af033e64-d186-11ec-886b-df76183d233f_story.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U62WTDWRQYI6ZCDL353BQPJDH4.jpg&w=1440"
@@ -23,6 +24,24 @@ images:
     height: 901
     isCached: true
 
-secured: "NtZxIoUnh/TLvwekzrhLQzj+roel1KEEaFVbuQTrB8M9DFFVHI4s83DgW2yaayiojsuFAy+BzyK5DqnqS1vfH76jLwSBp+nvH+/Ip7c3bkPSa4juoNHIJYz635zbnl/J5b+g9eBDKsRxW0+gAjLIAExagXR9XMapb1I3KItnKYMjYg6oDEcOAu2gVdM9ZiPyGLeFZpCHq6C8+GX0ZHVRqLgHy1v+41TcJnBn7bzEKBw9sr7ia7l89/mGDjdgG06Krx4gWHpQ2HMhh/tD8+Tor0E6e/em10xqm08wB5KBvKU+NurRQzST74Dz8LaL9zTAWFxAYv0eOPAdzUn3GfNhqkqD7i9pNp4T08zoCBlfNsU=;wnZgPidIy9pFdYNJ1u4fog=="
+related:
+  - title: "The Promise of Artificial Intelligence Hasn't Borne Fruit in Health Tech"
+    excerpt: "Grand promises that the technology could transform healthcare have struggled to bear fruit, with plenty of patient data collected in the meantime."
+    publishedDateTime: 2022-05-12T02:16:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/the-promise-of-artificial-intelligence-hasnt-borne-fruit-in-health-tech-8492191.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/the-promise-of-artificial-intelligence-hasnt-borne-fruit-in-health-tech-8492191.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/the-promise-of-artificial-intelligence-hasnt-borne-fruit-in-health-tech-8492191.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 58
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/05/Health-tech-smartwatch.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "UehzzW6saAU+/Npq/Rb9MdBz7Hd3h/o+peNvz/3wRBd+WTbPClne+gRqnTxCEkBv9ESJhaWQ34knKHF9KLF+fnwAVf/tyzuLNG6EEwsrf3fiJTyuHiqrdDEledFES2P6oyW4y+e5j7v6F+v6DnozICUiIoyZCqn0OCw84Ta9qCKA1HsXdvGGYO14X6qFtOwEMExPrmFGUz55wRLETtsOPvk3TI8/q5wTLqpZM5iHpvwPguYqMawI2soyEjV49H27hodH5loBfpfib/i5D3ghLUcUgWExTiyT0p860ZnAqjgLFzTliSI40Vt7SNKeKhvo7NCAVfIYHRgxV0pfFAxdDf/qKPnc2NPKhmxUKgD42Swncs7e2g1N50gjh7idEQhFw0r4TYh2ceBHsPTknOgbQXeyk5fdJNwzg6tDSselPz7P8RdHcqnH0AI2sCQSsdkf5QMqRNgPUdJkL0v7+iWRW+lZfJ/uxuYVOZGfLETICOiYT3PBnLDjCO+2Ak0dWHNmFhMclq9LSuzw8TWlJbLWtA==;F4fuOq/0ykuwcLU93Htlfw=="
 ---
 

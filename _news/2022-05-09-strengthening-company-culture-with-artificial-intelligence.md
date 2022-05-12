@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/streng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 522
     isCached: true
+
+related:
+  - title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
+    excerpt: "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi"
+    publishedDateTime: 2022-05-11T18:15:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 17
 
 secured: "pohV0nKY4afQg19+87WnPh3mYLCzQEnSPe2tLGkl7OmqbxCQ7iqKR2tMFJ0PLHsPNPbOjXxsiIKIuXWwuqFtwCAydERDNJFdgoKnArhFTn2J+Bzaee81m5LV6qh8ekG5pm94l6jXk24A1POM2waFQ1mO8KSkvEQXSzVU5HjOiHcTZRas4krHOo4aNjs8PF6Zg5NmLBRji7ETHuyOARq63hMrvFe9mabQylRHr1bKTmlhWNrdq+yr1bdjzmz6H7VMDfUcvysktjqMqsX3l3sJ84y/3MHr14OQ48zoaqeIRP3RBIOn52n3XUmKtVnrAah3K4+NGmNmAyqZ80j5k7JjEoN4pmdXxS+//GFr3jLrvp2duHPZCMGJYDDtx/7DPAJI5n/qOG0ucbLrw4vAptZCvGxmJ+sJSEsrECE2o0Cwud/yq9SDqC7XoTtVrcfmKb09xp3Uq1QZO+kpNYwF/jbHtDGalPb8Q9UXo26Z6LUYR8R5IVu3sJAYwTejwVSS9x7CuhTq0k/97WC/JC+H1L58aA==;00TOZCe8WzHXe5C22tw7qA=="
 ---

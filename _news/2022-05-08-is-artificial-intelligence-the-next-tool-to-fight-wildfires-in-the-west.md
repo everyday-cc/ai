@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Lockheed testing artificial intelligence to fight wildfires"
+    excerpt: "All those words describe artificial intelligence. Lockheed Martin, whose space division is based out of Jefferson County, wants to use AI to help gather critical details during a wildland fire."
+    publishedDateTime: 2022-05-12T03:13:00Z
+    webUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/"
+    ampWebUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
+    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 57
+    images:
+      - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/04/GettyImages-1237477623.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Artificial intelligence tapped to fight Western wildfires"
     excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
     publishedDateTime: 2022-05-07T16:40:00Z

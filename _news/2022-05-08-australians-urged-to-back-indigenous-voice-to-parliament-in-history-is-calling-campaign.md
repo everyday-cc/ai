@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2022/may/09/australians-u
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: The Guardian
@@ -44,6 +44,20 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/13875466-16x9-large.jpg?v=2"
         width: 700
         height: 394
+        isCached: true
+  - title: "Australian Govt. not sufficiently investing enough in artificial intelligence: research institute boss"
+    excerpt: "The head of research body The Australian Institute of Machine Learning (AIML) has slammed the Australian Government for not spending enough on artificial intelligence capability. AIML director Simon Lucey said at the Technology in Government conference today that investing in AI would lead to foreign investments into Australia."
+    publishedDateTime: 2022-05-11T23:05:00Z
+    webUrl: "https://www.crn.com.au/news/australian-govt-not-sufficiently-investing-enough-in-artificial-intelligence-research-institute-boss-579899"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 21
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220512095350_crn-14_ai_artificial_intelligence_iStock-961970568.jpg"
+        width: 1400
+        height: 900
         isCached: true
 
 secured: "nMe7KaGLXTBu08zGAX+TL0ZowgytuyOBniWPtcmpadSU4J+l6UW0JiS7wA5Cj5UGw8fnb7qWJU2+x8KKGn7RsY/eh6WKK0MDXBao4ZT5YIhcT91a/MZ7WBE8sHsJtOYgIccLz7lIq1u5+Xrl6Cc/mzOPLue7VIY1FrvO0HO4lLvuQogpQ6U+Vd/UDGIdJJCJFzlqCooIoyxv88KXKpVdo1iVvF3HydtJTRVtoWG/r0UZVsAjC2Z4JYA52aSFeMCtbhguL7XOTaYrut8PdEUtS6XjWIpDx04o981i+0W9P5Ul9/Dz64xvo3NB2BSCNqrLLRz9hsJEBV1Br7oQKLec0G3UKb0szgqicoHznNXQAoFUWbyfqQUo/Lm89vJlBfDKQ7NJNBIdRjvMowYCUGBeoQJ+FZqgXlAVgWGwOC8GSTXg9KxQ9jBeql41zOnuxteraazhMoFxGf6/zieFrXE3PcbsdmVj8S8WjL0BDcPvq/cdScW1kpWU8gRHoeR1Nceq0fjLXqCSvXp6ogg3PvQ+pQ==;ckzhQuCR5Xxnio6l/jChGw=="

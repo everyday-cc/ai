@@ -41,6 +41,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Australian Govt. not sufficiently investing enough in artificial intelligence: research institute boss"
+    excerpt: "The head of research body The Australian Institute of Machine Learning (AIML) has slammed the Australian Government for not spending enough on artificial intelligence capability. AIML director Simon Lucey said at the Technology in Government conference today that investing in AI would lead to foreign investments into Australia."
+    publishedDateTime: 2022-05-11T23:05:00Z
+    webUrl: "https://www.crn.com.au/news/australian-govt-not-sufficiently-investing-enough-in-artificial-intelligence-research-institute-boss-579899"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 21
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220512095350_crn-14_ai_artificial_intelligence_iStock-961970568.jpg"
+        width: 1400
+        height: 900
+        isCached: true
 
 secured: "/5Gw1i1rSl8dDKakq3eFh3HbLbxfPtIN4lfXogw1P3aUvcl1VtHWilTJPe4icUhu70FC7g51d4Bqsy7OADGoEB7CDZwlFp8A3WoQa/aWmr1Jq5KHsrimb5nymaA4syIHr+hDPgABXtd70m17EZSwuL0Xi59zKMV4Mo+YAygF6J4PE6z3+L33vSg4C7ERPKExHQgSPZJbG+O0LaQVBri12n+xfIVcM+XmetJdFLBuGwHZDzF4b1GTq+NltJzwTSNbVCpHsm5H0HoelFkyUyLOAN7vrr5tm9IRchdKIdWvMPfNYQeD7PdWtmECrhQDTvOrbIPI2CVRJSKENNaczTMuBfb6XRXApfumdv0Mipmbg7s=;FNHpjkb3XQDIGY5kPNdpDw=="
 ---

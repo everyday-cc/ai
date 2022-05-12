@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Levo Credit Union Deploys Scienaptic’s AI enhanced Credit Decision Platform to Streamline Loan Approvals"
+    excerpt: "Global AI-enhanced credit decision platform provider Scienaptic AI recently announced that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, “is live on its platform.” Scienaptic’s platform will “allow Levo to ..."
+    publishedDateTime: 2022-05-12T00:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/05/190850-levo-credit-union-deploys-scienaptics-ai-enhanced-credit-decision-platform-to-streamline-loan-approvals/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/190850-levo-credit-union-deploys-scienaptics-ai-enhanced-credit-decision-platform-to-streamline-loan-approvals/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/190850-levo-credit-union-deploys-scienaptics-ai-enhanced-credit-decision-platform-to-streamline-loan-approvals/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 40
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/salary-loans-Liberty-Finance-Lending-One-Way.jpg"
+        width: 1800
+        height: 1434
+        isCached: true
   - title: "Levo Credit Union Deploys Scienaptic’s AI-Powered Credit Decision Platform To Enhance Loan Approvals"
     excerpt: "Early results indicate potential for 42% more auto-approvals for auto loans and 45% more auto-approvals for unsecured loans Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union,"
     publishedDateTime: 2022-05-09T17:13:00Z

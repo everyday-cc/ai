@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2022/may/7/artificial-intellige
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lockheed testing artificial intelligence to fight wildfires"
+    excerpt: "All those words describe artificial intelligence. Lockheed Martin, whose space division is based out of Jefferson County, wants to use AI to help gather critical details during a wildland fire."
+    publishedDateTime: 2022-05-12T03:13:00Z
+    webUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/"
+    ampWebUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
+    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 57
+    images:
+      - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/04/GettyImages-1237477623.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Is artificial intelligence the next tool to fight wildfires in the West?"
     excerpt: "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have"
     publishedDateTime: 2022-05-08T05:30:00Z

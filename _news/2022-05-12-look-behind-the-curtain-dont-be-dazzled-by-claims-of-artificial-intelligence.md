@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Look behind the curtain: Don’t be dazzled by claims of ‘artificial intelligence’"
-excerpt: "We are presently living in an age of “artificial intelligence” — but not how the companies selling \"AI\" would have you believe. According to Silicon Valley, machines are rapidly surpassing"
-publishedDateTime: 2022-05-11T21:47:00Z
-originalUrl: "https://www.union-bulletin.com/seattle_times/look-behind-the-curtain-don-t-be-dazzled-by-claims-of-artificial-intelligence/article_40f8e88a-cc27-552c-b04e-248db3922c7d.html"
-webUrl: "https://www.union-bulletin.com/seattle_times/look-behind-the-curtain-don-t-be-dazzled-by-claims-of-artificial-intelligence/article_40f8e88a-cc27-552c-b04e-248db3922c7d.html"
+excerpt: "We are presently living in an age of “artificial intelligence” — but not how the companies selling “AI” would have you believe. According to Silicon Valley, machines are rapidly surpassing human performance on a variety of tasks from mundane ..."
+publishedDateTime: 2022-05-11T21:49:00Z
+originalUrl: "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/"
+webUrl: "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/"
+ampWebUrl: "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/?amp=1"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: Walla Walla Union Bulletin
-  domain: union-bulletin.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403"
-    width: 600
-    height: 403
-    isCached: true
-
-secured: "wlpKbwnc2ooQeJtoBtKeLweyEgw4SEeUEo98UnxXf0+S2PpQYNpqgXxnbA80VFTKtLb0gt1Ki0DiLboPzY1dB3Vab1U5FXEGuBwYpoh+Jj6Y6JJPhsDn+K5ERMmRcBhWhwsmRjny1g7yu4+xodc3TLnmrPk1Mwrl3GuaijBeSLfmH6PkYyjIUNpzsfBwnUXT2z9ihWhh12DcaUpGF4dp2F3wP1xVedULUUZvdeyFE+1ks2UEaTNQXlltBjO+Qx76xYjT3nSoXHMS2QOMUY1wEfbWqem1JiG9RIfbUweXeHl5ZlJiYBnACxLwULGDKTIoX7Yauauns936Ue9khGHYHXM9qgNjDRhC1YFd8Qw0cEw=;RjAUX5mCsZW71mxb06ob2Q=="
+secured: "g0QY8HFc673sMXddXWHw26Sf+2R8tlNOhOhcmAfXPVZ0vD3f2RgoMFJGXoiLSgNU8qtjzAGPA+fUnImox/Gvl4IFQrqraGlx99TvJlcwp7JXyue8pGLqjGdFSXXw3cACOzxZpRKa+vJhUkYkzgEzKffDOwsWF2RrSOxnW0CE5TRAhM3Kd16CwFZwfoi/MnjNgLxTS7retb6WY3RvaIUpztbY6viLmT4XxkzGNpfDkDJxytHO6YAmaD05gjcpS/CaBhrbO31x9KWvD+FuG+v5mPt/pV+AoQ3vHk2JxAPfu1sEZFaN+3pXVNmAM5d9ZwGeYtdHn3CfBwU1g8E4ajUzfJkoCXf9Vcs9yEA6vkRqw4oINOStrsUYxKTiCt1eC+G8h/i6i/0uFcMdjAwmZBiV5cMSQ5Sb+mdDwRKyf+bwHJBncT/18npu9q+dXq8qniMOfvH09iwkiEf8n37RsWIwtUaNSCY+1iVnBgU7fjA0Slv+cLWgHDUjSMupBYcL7X4CgmUoSv9FDsXlJqMAOTsAZw==;9VPcPmAGzwx7IMHb0PFgxQ=="
 ---
 

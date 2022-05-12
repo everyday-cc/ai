@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/D2i-Streamlines-Smart-
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/D2i-Streamlines-Smart-Cloud-Native-Application-Deployments-with-Kaptain-AI-ML-20-152869.aspx"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -27,14 +27,14 @@ images:
 
 related:
   - title: "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0"
-    excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes. SAN FRANCISCO, May 10, 202"
+    excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS ... of open-source Kubeflow that enables organizations to develop, deploy, and run artificial intelligence (AI) and machine learning (ML) workloads in production environments. Powered by Kubeflow ..."
     publishedDateTime: 2022-05-10T14:17:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 52
+    quality: 50
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

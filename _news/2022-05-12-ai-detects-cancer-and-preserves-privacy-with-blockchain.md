@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-d
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/ai-detects-cancer-and-preserves-privacy-blockchain?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Tailor Insight Releases Report on 'Predictions and Trends of AI, Machine Learning and Blockchain'"
-    excerpt: "HONG KONG, CHINA / ACCESSWIRE / May 7, 2022 / Tailor Insight, the Asia based market research institute, has released a report on 'Predictions and Trends of AI, Machine Learning and Blockchain'. AI, Machine Learning,"
-    publishedDateTime: 2022-05-07T10:40:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-7-tailor-insight-releases-report-on-predictions-and-trends-of-ai-machine-learning-and-blockchain"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 23
-
-secured: "qgdIWwU6KhbHRL61FHiTLrLsU6bAGKVHDU3x85G1HmWMIFmwUfzEYgbQTf3N94oTvFqaw3HxXJAD9IxWo9CS3F7lNcibfEWQtMG0/Au59cspsGf+1iCSItQQZ8QsX8015cLcme5bmoc284Vm6qdNj8f8FPbaDZndq7q5WBn83oOGJ4irR1qVuGB6gdvl5Stgf/OCF7BR8l54Vk3vqRQ2yaI/JubtF0TCGr25VtSCloFX075nwWHAP2GqTUbEQO775jUqQ5jMFuXzACJ+nkA+4dDEYsz79LVUN4KZaL6/rDWTFk8GVZgPATIpUidCcjKeO5K3vPWELWIQsNB69SNG4qlF0+Gsndq3AQm+8Qh8kzM=;TOB+QT5EIXtH3lg0XO8yiQ=="
+secured: "a5Soo1RShF6uOpP4KE5AqqyLGL7SMNmN1reE6NU4EVW6i2MzYTRgaaULtr6Yd39aS96r9jk3xHywKwlAI+dL1T5NpvEfiI4gvcC8sDp8X8j0EI/TjvmytuFLL5N2Lh6gchJZ1HZi5l9J7YCiDYOuMtT46cmNHshqF95TiJvDl2ObVdCJY1Co7eq6CDn8j0CV8z3FgNh2ky3viG3gHQxAllf//yuMw7BMT7nzJqsWOd7F4BL0Gpfukl40Sf2at7LtuRNJhzY78qoVPEDBMotcXzva4ecEPGBxsJCWAWK1ud0YwuU9w8+OzESUNLG0fL/+a42CsJM9mds0NYn7sBPR61EYwBgR/mWdPz7tuibOylDO0jPMaLTwZkgM0i1SIs2k9GMnMPYWcEuE1yGADYAioj8oeqevJs7a6/3hzIfH6NL353X3oa2H23K5poYAywJU9e8FXWiuLHbkBrCiu4XcL0CuW7J9DoIXUQAZmXnPov9c6KAvziKjmMRJ2hmPz+XuavsrObOTTXwUgs7KbJfMwg==;YDG9sDzttWvRROBeeaohHQ=="
 ---
 

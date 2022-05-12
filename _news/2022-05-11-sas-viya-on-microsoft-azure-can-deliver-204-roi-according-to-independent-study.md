@@ -2,11 +2,11 @@
 category: news
 title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
 excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-publishedDateTime: 2022-05-11T16:29:00Z
-originalUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
-webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
+publishedDateTime: 2022-05-11T16:40:00Z
+originalUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
+webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
 type: article
-quality: 30
+quality: 50
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "http://targetinfinity.com/as/www/delivery/avw.php?zoneid=39&cb=INSERT_RANDOM_NUMBER_HERE&n=a7f52682"
+    width: 301
+    height: 251
+    isCached: true
 
 related:
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
@@ -112,6 +118,6 @@ related:
       domain: stockhouse.com
     quality: 15
 
-secured: "JxEQC5TihOKSRm4SGAQs26JIowLl7yFKO/kI1ha0p8t/azoMV8GcksFjiQJVUMF1Xm2zHTdNWVMaEmRJR4CeA3ytxT5zduzB7bSxxZemQEg52apudkEotPnU4EBBgDS1BEqWTep/eqrSSSEvHaEOLCfpSfsyiOVDv+NLqNn8GZbFhklwqCMebgJVQdSiG1RzjBJil9ayCvM89yyqx/PtV4DhoowagQPv31iZhtbnJJW+VcH4Xy9JWnQtdiA4s7B2Btd56k3uegB4e6s9nSIG/RVro/G1vbCx8oaCzkEAlfhRScuTyz2YC3WcjFqZ7kC18Ro2vxDcT+aOpmZR/h1Bew3qWcStFYrghx3F8fyo7U8=;CLb7o/jPYSlSVfJ9RX8GOg=="
+secured: "gl63oEjtjUjp7QHwO1uL0DgJz2x/5k1L1RFoouLSzzBLZvBBNH2BUp2VEInmQjz4UylNioHpPJF9TVpx38a/iSz6kwBqBB4aYz/WtwvsqPXSqOOH0+kMEbveQEUuHC9E2qZBB16DvGedcKpfa6MG5pFNiRyaUMsKgmDApau+wrMHd1qVHUhQ+9f8loo9VT+VkWCZfA3mCxfARYDR/xY8PW+63tlwAVjo5E/p8KGJo/3i6QnCxweR1ceRPTWYUINSjolDToqi1Y+HjiXgHrFACaGcPbjk/2EWsuADOGK9GGG+O3qNfVerzX0oo71zbUalCrX4ZQAy6riXAhLPwNrFF3SXLqNyTiIDo7TK78U+f4s=;VEwvOexJF/CJHTXO3AcqUg=="
 ---
 
