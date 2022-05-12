@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/1808015/Woman_inspecting_bottling_machine_wearing_smart_glasses_and_safety_helmet_Copyright_TeamViewer.jpg"

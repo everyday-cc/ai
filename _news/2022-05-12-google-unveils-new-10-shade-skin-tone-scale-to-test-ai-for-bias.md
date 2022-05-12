@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Google Unveils New 10-Shade Skin Tone Scale to Test AI for Bias"
-excerpt: "Alphabet Inc's Google on Wednesday unveiled a palette of 10 skin tones that it described as a step forward in making gadgets and apps that better serve people of color. The company said its new Monk Skin Tone Scale replaces a flawed standard of six colors known as the Fitzpatrick Skin Type,"
-publishedDateTime: 2022-05-11T17:51:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-05-11/google-unveils-new-10-shade-skin-tone-scale-to-test-ai-for-bias"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-05-11/google-unveils-new-10-shade-skin-tone-scale-to-test-ai-for-bias"
+title: "Google unveils new 10-shade skin tone scale to test AI for bias"
+excerpt: "Alphabet Inc's Google on Wednesday unveiled a palette of 10 skin tones that it described as a step forward in making gadgets and apps that better serve people of color."
+publishedDateTime: 2022-05-11T23:22:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/12/google-unveils-new-10-shade-skin-tone-scale-to-test-ai-for-bias"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/12/google-unveils-new-10-shade-skin-tone-scale-to-test-ai-for-bias"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI
+
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/05/12/1582185.jpg"
+    width: 800
+    height: 545
+    isCached: true
 
 related:
   - title: "Google Adopts 10-Step Skin Tone Scale to Teach Diversity to Its AI"
@@ -62,6 +64,6 @@ related:
       domain: reuters.com
     quality: 47
 
-secured: "ZWuAqRlVQ7z957pyvChl7oQl2xolTqs4WK+nafO1BhzIsMrnbPYP9sWg+3RiPMotuMJwFdSdXzp3oqD1mVsTRPCzgmTixTrw9D/Qq+9i7Qgp9nSyj8qXUvCBM8+3A+TLk44Et1+JGurELuRkCTnx5tjWVu/NzUb5iJVkU5cC7ZYxZluUUEF9zPtSHONDMdbCw/f3segg2RG6D942W/DcVnrr6KYnTk40EL5fCUq61e875HZpbtHgQQpFv5Ur86ipgEyTWTFEHJq6qAxVq/VrqnSqhgo6v4W3WrxcNHv6mPVJWBhKoQO47ZIdDiDTgM1zgud6hDJiWHNAoHczGm4JujrfelM//z1oJ3j3lQoSjqcmKhOVhb02DzGSZk0amGbPpa4qSVlBpalAnQ+4tIyl3f3WCwdUcv4AfhRWNx0V7Q3OB3m1tZPbbzSRBrRBKFPLu1RSFMs58AhLSEDCDck40r4Q2iFn9n0kXpFpYL42I/CeDazfsn7GPZwCIkOYwmwnAj53RHxUrjJ13bX+UADmLg==;hnW82H3ipqEuKueo66aAvw=="
+secured: "8O6bjH9DkegrqmHKUfSjLkr0HBpMsHcwuJOr479x9PtPbVpdep7l0Bo8he5J3BVAigomZGkCZek47fkl1J/zOMIXy5EPQ9onXkqH0UMsEvzUGUFbOc+9YJ24YV6UzH79fX0Gtg5P+yHq27cusnoygv0AXAm9EHK2TKX0cWcwUElHWnSMEwtbsk5toz3ozvy14NVZv8KZ5UpEr3A7E8T+eH5YTvZUAdeP/l+vAp1+6G9eHd2duBuoU/DuHlHfupJJNo+DfprTIq8ktAs0ViQmj7GZwVIvFSWjQ1spqyCIAXJNpN+dggk+ovF9AlEoRQqx5T6dXqbX/o31IA+TyI2VBl9wuvEvaSxW4L88p5Ueeq0=;fiVCuW+JDAuuBvjJAKkZJA=="
 ---
 

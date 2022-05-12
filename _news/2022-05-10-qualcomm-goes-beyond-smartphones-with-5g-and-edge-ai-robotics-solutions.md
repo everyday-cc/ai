@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/amp/"
 type: article
 quality: 123
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://www.pcworld.com/wp-content/uploads/2022/05/Snapdragon-x70-modem-slide.png?w=1024"
         width: 1024
         height: 426
+        isCached: true
+  - title: "Qualcomm could help unleash a wave of 5G-powered industrial robots"
+    excerpt: "With the introduction of its new Qualcomm Robotics RB6 Platform and RB5 AMR Reference Design, the company’s new solutions will support the creation of more productive, autonomou"
+    publishedDateTime: 2022-05-11T22:00:00Z
+    webUrl: "https://www.techradar.com/news/qualcomm-could-help-unleash-a-wave-of-5g-powered-industrial-robots"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/CHdAXP6f56gEcZbRfgEcDD-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "9YBd8wu9YRSF/4qv0AF2qGoGZL2pRAcTsY+xy733OYIaQl9qPuFT9ZD6rVK3p3h48+B7Ke6BWfjLEHJN44Lqi6X1q1OJFIescegwZDetAU3moQDiwVAl/jq+PxyZ2wTh0gxlmE0JT1UO9DZGJRn+rVxAlxgWr0E69KjWZ4H5nssn5YF8WCshyFBAl3t6ksi4Jsd4lKsPjp2eU8AeYa15ea5EPJGWsgAlJ9yJgTn1TgcaHR7NtRsTkdrqInzBl6QMx16QJdxW0/2irX11W2aQ0GWlPv7t5QaQOsx3l0ox6MYacGzKNnuhha0i114H3xL7qM3k4TjEbd8RcZbAjgATbCPsuaXf1ZzALbBPi5nLSfJ1hsrmClPpQadIr/MMvoU0sorp66uj63O0SaZPOMJgdGTXjTXo0QBgZa8jnAbb4vqTcX8QpHeeYbII78P0nPr3yDY8qsk4V6XKWGyV/huMM1JDESs48UCj3wCVN2G80Rl8XBo9SVOZG49RWniPoo7izbacdktPAJb8kBZ6bDDkIw==;6UZnvPdM1ica1UzllLUm1w=="

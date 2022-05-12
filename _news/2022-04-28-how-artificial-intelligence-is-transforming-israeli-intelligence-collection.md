@@ -17,7 +17,14 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
 
-secured: "SD52kS0ummLvc+To32P+4pfphCIHZtvqUkknDAeHu0QDK93lBqIhck3X2VKwyaYYrFPACgvHB969Kp9TR2DQaGK2gvxGSfK5qDJWqAsbG7LBMTp5DoyHQ4dnxJfnvbBldlkdkgpCP2WpOvjMajXANPOkI9zFc++aAms1DiQKFBm1CZZxRKzlBD8zq9/cty6q2S5mdIUF9KiSh/zROTnIet0nITe2SBEqp46X/IKAi31ExcIzbmhZiYbys+Z90TpWclTWw7j6w3eeNpImeIZG1A0DPnTbrU45G36MWc77hiae8O+RAirustl7oMD8H45U2cv//AVeDJtmh535BUMxVan673ZWRerfXcW4tvM7EOfqDHqMY+ZrUmNFx3nFzuf/FbrV6qJGmEJlkz6grcskiCBM0zewZw1GbmQt+Le6zwtkWM5bHMMCHmKBu/wqB7beV8JF+OGAOQMqN62MSYwiG5wtlwHt+Gu07BgRrB28lOg/o5TkmrKVTkHc1+zEhz3vXDuw/NNv5nnQRwXtgqfnxQ==;YbC+JWfr752irvD92FpAmw=="
+images:
+  - url: "https://nationalinterest.org/sites/default/files/main_images/gaza_2.jpg"
+    width: 1222
+    height: 814
+    isCached: true
+
+secured: "MIFHWaruJppqUaNxJvbILth+lK7nGKa3gqMw1ClXua2HFMGN02sSyzG8Kj5vhpf4reLBlGFAmQqcY8vnnmPaeGL3xDQVkazMSc0agMITz6CtuD1X9d7ItpYlhuBui8cl2kQDH/ewIUFv1WPQYaU7Ban8G/XQwhhqtO6zwo+fDsXZd+316ylR3Ba73FIfDn6Fj0NABFoXm+b2Eptmak8jJgpqleb6eI6MkT1hsBa3/x1uUBgXgBj2scsBAzRNPOKhEt8s/q1a8a3nOJ0HHyO+EgOWYYY+SeIkKGPbOUfHkDlJsvdNDDpkiF56+stzqJ4qT2DmKJW5hAVQ1TgETzPXP6/84oOMiLyPuv0TVrcZkpI=;LudFhtJ6GK398tamEirU6w=="
 ---
 

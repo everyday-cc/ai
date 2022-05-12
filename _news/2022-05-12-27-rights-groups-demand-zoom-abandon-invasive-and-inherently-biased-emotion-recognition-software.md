@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353/amp"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

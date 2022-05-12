@@ -41,6 +41,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "UK public want self-driving cars to be labelled"
+    excerpt: "Nearly nine out of 10 (86%) people in the UK want self-driving vehicles to be labelled so they can be clearly distinguished from human-driven vehicles, according to a major new survey led by UCL researchers."
+    publishedDateTime: 2022-05-11T14:23:00Z
+    webUrl: "https://www.ucl.ac.uk/news/2022/may/uk-public-want-self-driving-cars-be-labelled"
+    type: article
+    provider:
+      name: UCL
+      domain: ucl.ac.uk
+    quality: 24
+    images:
+      - url: "https://www.ucl.ac.uk/news/sites/news/files/styles/medium_image/public/driverless_vehicle-cropped.jpg?itok=hjpuboyW"
+        width: 400
+        height: 250
+        isCached: true
 
 secured: "UKa5ANGGN8qDo/GdZ+n86+KMHDBPxolzF1paipmggTjkW8m2lsZnc7oPUWwDXd/qWRAsFxOr0nm6ovQokjgGpLAUGJcJNsnuxsXlkRRggbm3xTaUG967ijHe0SegFBszdUSEAIsQFl1qVwr4U91bLoyYq3gHK7b99/iTygG3GHCcxvP+zhBzW+5ho3Dn6ziDCzuC7DzqlacBoOIn3PTB8f6CyKJb4EqevTIZrfndXzqALVVNAFsVTfBSEk3GhYEVLcpm05LikH9vRzIH97fXWrBMgd4UcGSdMAyMm9uPLnuIHAiaH4vabsTzKjZv9ENimsMfODxyvBltgybTGx41IMwdFyf3dLg3bcKk93OorYw=;T88Z9qW+tN+FXOrSfQL51w=="
 ---

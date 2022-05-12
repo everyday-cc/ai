@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "Qualcomm could help unleash a wave of 5G-powered industrial robots"
+    excerpt: "With the introduction of its new Qualcomm Robotics RB6 Platform and RB5 AMR Reference Design, the company’s new solutions will support the creation of more productive, autonomou"
+    publishedDateTime: 2022-05-11T22:00:00Z
+    webUrl: "https://www.techradar.com/news/qualcomm-could-help-unleash-a-wave-of-5g-powered-industrial-robots"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/CHdAXP6f56gEcZbRfgEcDD-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "pId1z/XI0hGTtWYNv3Bxlb20Rplllq49qiwLZG/fRahkovSSyRl8ae9wlAIozlnXOgv0npm+/W7hWPqjhW0zxzwHTbrFTHX5P5suNGCIzMgm2rrj2DWnPhxL252Lw/jt3y6e6h3bn/Rc/P6nGTbFpl8+uk3yj/knq7IXT+d70FARTBDhiy/zg2ywLHwrh99HU54vOABoH69TgVvvtyABsfyxEmiS3ArY05F7WM72/aSHvsX4dYzP1vyxOoOSCIKV2IDsXONo++acdSOhVJcVt3WdrxSixIO8Ut/aGqogtCkHQg6zOERwGdOccr74nIAQEFwpaxNPdxNxqqjoF0W7sXgjf+u0rk9N+KQaOK52RNQ=;PB/m6pbRWc2lBqCf1nxY8A=="
 ---

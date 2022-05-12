@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Google reveals AI tool for real-world searches"
+    excerpt: "Google on Wednesday in the US previewed augmented-reality glasses that display translations of conversations in real-time, and it laid out additional plans to bridge the real world and its digital universe of search,"
+    publishedDateTime: 2022-05-11T21:38:00Z
+    webUrl: "https://www.crn.com.au/news/google-reveals-ai-tool-for-real-world-searches-579890"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/2022-05-11T193107Z_1_LYNXNPEI4A12A_RTROPTP_4_ALPHABET-GOOGLE-DEVELOPERS.JPG"
+        width: 2034
+        height: 1356
+        isCached: true
   - title: "How artificial intelligence helped save world trade"
     excerpt: "Yet some trade finance banks had the foresight to plan for such an eventuality, utilising capabilities that overcome market-wide limits on documentary trade. As appetite for trade digitalisation grows,"
     publishedDateTime: 2022-05-09T09:28:00Z
