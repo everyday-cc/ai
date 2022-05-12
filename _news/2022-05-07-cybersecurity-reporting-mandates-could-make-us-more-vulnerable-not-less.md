@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 83
 published: true
 
 provider:

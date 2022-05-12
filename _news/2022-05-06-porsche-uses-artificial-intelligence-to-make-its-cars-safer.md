@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/05/Porsche-Artificial-Intelligence.jpg"

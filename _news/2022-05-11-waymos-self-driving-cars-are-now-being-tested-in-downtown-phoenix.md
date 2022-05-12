@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "UK public want self-driving cars to be labelled"
+    excerpt: "The research team surveyed 4,860 members of the British public in late 2021 about their attitudes to self-driving vehicles. The questions were created following interviews with 50 experts involved in developing the technology."
+    publishedDateTime: 2022-05-11T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/952410"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
+
 secured: "XPG4U8lZy0jrSuRQohBuo3yDXj40BwsI4EHiGJcZUfm/6MvfDlyyLI1RCUJxbkSeU68IKZQ8mt9JTRpgecCaibzwxG4EsPWl2EiG6vsdU6vfWEvuufEmZegZc01QdYh0GIxy3dX6lhCA0tLbgruSp5xy2k+x9OIA9pHiQRH40jSBWnHrQVTtojymuiqSF8H6Pg/78WHWjv4/6Oqy2sI6i7SIA0Qv8rE6tAnt4+r5TM1E4MOQNq5x/0sfSUqWbWCyoGsD/OOHwSR2ohvUKTNrZzwjP5pXZ20cDCdNaKirpkm4C337TQwzAbFs7mzvfyQvdPMLotiASTPPqgg1G9MMYpHs7shKKr3I0jGQUxdKh+3lVGxajF/X/ClXPTRPtWbdXpzdKuipoDeYwAXte5H04x8LWH0o8djZJIuLJX6fOo9HxXNdGHmW9m4ySlX3xWWRTc0XornpBU5SCTvWwxxhD9GVcAkpzNwxVJAvgS4UPEVeRg+8tNIDzBQsKfcDTxoKLx0XcXQzYeIvEdDIyKRPiA==;y4rCUbpV/qHveAqYFokSTA=="
 ---
 

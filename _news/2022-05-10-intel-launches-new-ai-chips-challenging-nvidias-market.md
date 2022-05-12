@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Intel Launches New AI Chips, Challenging Nvidia's Market"
+title: "Intel launches new AI chips, challenging Nvidia's market"
 excerpt: "Intel Corp on Tuesday launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp."
-publishedDateTime: 2022-05-10T15:00:00Z
-originalUrl: "https://www.ibtimes.com/intel-launches-new-ai-chips-challenging-nvidias-market-3501555"
-webUrl: "https://www.ibtimes.com/intel-launches-new-ai-chips-challenging-nvidias-market-3501555"
+publishedDateTime: 2022-05-10T14:29:00Z
+originalUrl: "https://gazette.com/intel-launches-new-ai-chips-challenging-nvidias-market/article_737f2bfc-72bf-58da-8960-e5886d65dac4.html"
+webUrl: "https://gazette.com/intel-launches-new-ai-chips-challenging-nvidias-market/article_737f2bfc-72bf-58da-8960-e5886d65dac4.html"
+ampWebUrl: "https://gazette.com/intel-launches-new-ai-chips-challenging-nvidias-market/article_737f2bfc-72bf-58da-8960-e5886d65dac4.amp.html"
+cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/intel-launches-new-ai-chips-challenging-nvidias-market/article_737f2bfc-72bf-58da-8960-e5886d65dac4.amp.html"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: The Gazette
+  domain: gazette.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/03/15/visitors-are-seen-at-the-intel-booth-during.jpg"
-    width: 1200
-    height: 801
+  - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/7/80/78082962-cb89-53b3-a442-0df9f5a0efc8/627a84d88b10a.image.jpg"
+    width: 800
+    height: 534
     isCached: true
 
 related:
@@ -181,6 +183,6 @@ related:
       domain: it-online.co.za
     quality: 4
 
-secured: "Zfx2wPbwyAn9hH2kiftfJJiLiXxXswnq9X2ScNL1lfVlJYsYBQnz61qywAFV1uNtD6tWhVjGN76jCJuvdwBdLzDQ7WSj+YyUFKBMLWTdZG7MeIE+IyhvZP8Po7Dgiap9ZTd+0ZKzGyU27nQYfe4aSsFTQznfMEIy0SIHTeXNrHpQJAUEuOobTnyNaQlHDqPxhksuhvHomtGwgtgVxEDSV/Ri6xdlaP3MFaprQht2wEf1AQRewSyt7RViHFETS449ON1fqlk4N9R6sp1CJxumZjF9Kxn2WF5jESTqKC1wwf+V3g6t/zzDxoF9ZTyw7Bk6LWTo6+a4yLbpJ9YgYM9divP48mkHnRlYjcB3+pluh3SMlhmBH0xxvFaugc84dj1qtzR/2Y6leOhQoGJk42bTC6jSU49KMyocdfZcI+Yk+Gst54CVNfMIpO10UqQ5zG7FUWEP1R3tXW5JH0sdgpyu1zlokwpvwx2dCWbBkH0BW2W5sJQXPFgmSu5aRZ3mBKYnIOhR3606W+F8ka6UiNjBlQ==;8GGwkCbdnkEXhz7Jj1Uo2g=="
+secured: "As4tJ1d8srdp2xOug/+wb5slsW34dmXVR4wYbQJssXzU7rdjP1J728o3JNrJPqcMf0Pk980zOEQNowjYffbsEVzpK0tiL6t227DADDH+yS7eEtvuUJ1Wll2Vl4fhvhgmZsisCYbQ3yn/TkuwwVoNFRECHElUQ1swJgA6/vQ+qFn2LFobLELoCTQH+oOLTtH3n0X7+nB/xwL2Y2/vZxWy1XMMcmIAaPou8+oxxGoMXpy6J/z0hScQLVBrvtaY7xHAK1tMwPk0uxPmqu5l4cDKCh52swmhBtrjQL5jk4NPB+7xtfG6eyoI0nrXDlXXUAjhmPnWj8ux3W7+3eG4lIaneGF047yy2nlnUYSVRUdmdwc=;Qhym6NcFUL9+k0ZcI+KJaw=="
 ---
 

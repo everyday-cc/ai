@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-11-instagram-disables-certain-face-filters-for-texans.md",
+      "title": "Instagram disables certain face filters for Texans",
+      "excerpt": "Instagram's parent company, Meta, has removed the ability to use some of these filters. The reason for this cites Texas' facial recognition laws.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khou.com/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce",
+      "originalUrl": "https://www.khou.com/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/KYTX/images/546194956/546194956_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce",
+      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce",
+      "publishedDateTime": "2022-05-11T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-clearview-ai-settles-suit-agrees-to-limit-sales-of-facial-recognition-database.md",
       "title": "Clearview AI settles suit, agrees to limit sales of facial recognition database.",
       "excerpt": "Clearview AI, the facial recognition software maker, on Monday settled a lawsuit brought by the American Civil Liberties Union and agreed to limit its face database in the United States primarily to government agencies and not allow most American companies to have access to it.",
@@ -301,8 +344,8 @@
       "title": "Computer Vision As A Solution To Safety Challenges In Industrial Facilities",
       "excerpt": "In this article, we will discuss how to apply computer vision technology to detect safety hazards in industrial facilities, such as factories and logistic centers, in order to prevent human ...",
       "sourceUrl": null,
-      "webUrl": "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1",
-      "originalUrl": "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1",
+      "webUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
+      "originalUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -321,7 +364,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T00:28:00-07:00",
+      "publishedDateTime": "2022-05-05T00:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ohsonline.com",
@@ -1340,49 +1383,6 @@
       "provider": {
         "name": "NBC 6 South Florida",
         "domain": "nbcmiami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-house-lawmakers-investigating-govt-use-of-facial-recognition-software.md",
-      "title": "House lawmakers investigating gov't use of facial recognition software",
-      "excerpt": "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "originalUrl": "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wfaa.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "cdnAmpWebUrl": "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "publishedDateTime": "2022-04-22T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFAA8",
-        "domain": "wfaa.com",
         "images": null,
         "publishers": null,
         "authors": null

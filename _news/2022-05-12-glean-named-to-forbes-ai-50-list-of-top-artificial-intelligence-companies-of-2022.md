@@ -43,16 +43,16 @@ related:
   - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
     excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
     publishedDateTime: 2022-05-11T12:30:00Z
-    webUrl: "https://pix11.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
+    webUrl: "https://fox59.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
     type: article
     provider:
-      name: WPIX
-      domain: pix11.com
+      name: FOX59 News
+      domain: fox59.com
     quality: 29
     images:
-      - url: "https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png"
-        width: 600
-        height: 248
+      - url: "https://mma.prnewswire.com/media/1514996/overjet_Logo.jpg?p=publish"
+        width: 2532
+        height: 1143
         isCached: true
 
 secured: "xR5nYvFz9EwUYHGJJDEVYZktVR37gWngNrqsHjxhvdsDViwE3nZ6Ky7vM6cffdk8B+qbaGWZgbJA71qcVy477BMzfJuokEeSNkz5Efqv+5eMa3fOuFdwCEgh9X4c76NVrJZS6F4zf+gLJ4gD/P/qv51IoCoQyGdlNb0BwaPc5DXB7SWh4inQ3lt2ZWdhXzHfXyf2Hxu+I4samWAOlzAPyGnoENvLnHZENtIfC/vMS3VPpyQjCK6AmzeoumuUrQYDjP0W2vwSQ35FYQqmCayIy6lziASqX77GK3Yb5BIr1RJmcPnZUrJuAK8Gc2FP3fkc4zbc04/L++sNgZvhi5diEHsP2sllb8v7s8kV3rqKx4w=;7uk7Jq13njV4co21sOrSyw=="

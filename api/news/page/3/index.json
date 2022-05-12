@@ -2,6 +2,213 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-10-salesforce-acquires-troopsai-to-make-useful-slack-bots.md",
+      "title": "Salesforce acquires Troops.ai to make useful Slack bots",
+      "excerpt": "Salesforce has acquired Troops.ai, a startup developing a Slack bot to push and pull customer relationship management data across Salesforce software.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/10/salesforce-acquires-troops-ai-to-make-useful-slack-bots/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/salesforce-acquires-troops-ai-to-make-useful-slack-bots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1231356109.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/salesforce-acquires-troops-ai-to-make-useful-slack-bots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/salesforce-acquires-troops-ai-to-make-useful-slack-bots/amp/",
+      "publishedDateTime": "2022-05-10T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping.md",
+      "title": "How a grocery startup in Georgia is using AI and edge computing for \"frictionless\" shopping",
+      "excerpt": "The couple who started Nourish & Bloom are banking on a \"warm, pantry feeling\" -- combined with contactless checkout and delivery robots -- to help build their brand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
+      "originalUrl": "https://www.zdnet.com/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/790605947c9350f0b7314063f5f5f416a9aef396/2022/05/10/4a74ac8a-0c2e-4034-8a78-798ecbdf150b/nourish.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
+      "publishedDateTime": "2022-05-10T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study.md",
+      "title": "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study",
+      "excerpt": "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg",
+          "width": 400,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-intel-doubles-chip-power-to-expand-the-ai-revolution.md",
+      "title": "Intel Doubles Chip Power to Expand the AI Revolution",
+      "excerpt": "The new Gaudi2 chip may not be as fast as Nvidia's, but the fast-growing market could be ready for a cheaper AI chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/intel-doubles-ai-chip-power-to-expand-the-ai-revolution/",
+      "originalUrl": "https://www.cnet.com/tech/intel-doubles-ai-chip-power-to-expand-the-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/de7b005b4790bc8b79dc6b555885ca7182d3c488/2022/05/10/abab4f6c-e377-4c7c-a1d9-a1c6703a6a11/intel-gaudi2-ai-processor.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/intel-doubles-ai-chip-power-to-expand-the-ai-revolution/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-doubles-ai-chip-power-to-expand-the-ai-revolution/",
+      "publishedDateTime": "2022-05-10T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-taking-the-conversation-to-a-new-level-how-ai-can-help-businesses-transform-customer-communications.md",
       "title": "Taking The Conversation To A New Level: How AI Can Help Businesses Transform Customer Communications",
       "excerpt": "Conversational AI technologies like chatbots, virtual agents and voice assistants (think Alexa and Siri) have come a long way since the 1840s when Ada Lovelace wrote the first machine algorithm. It's remarkable on so many levels,",
@@ -106,19 +313,19 @@
     {
       "path": "_news/2022-05-10-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
       "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
-      "excerpt": "(Reuters) – IBM has set a new goal for propelling ... s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare ...",
+      "excerpt": "IBM’s include Exxon Mobil Corp and Mitsubishi ... company’s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare ...",
       "sourceUrl": null,
-      "webUrl": "https://www.metro.us/for-hype-wary-ibm-quantum-computing/",
-      "originalUrl": "https://www.metro.us/for-hype-wary-ibm-quantum-computing/",
+      "webUrl": "https://www.reuters.com/article/ibm-ceo-quantum-idUSL2N2X2008",
+      "originalUrl": "https://www.reuters.com/article/ibm-ceo-quantum-idUSL2N2X2008",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2022binary_LYNXNPEI490JM-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 531,
+          "url": "https://www.reuters.com/resizer/mgPg2WVLlv5v9eVKhPFNE8EmceQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2NBGPQX2FKZVJKLPQMAE53QOE.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -126,14 +333,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.metro.us/for-hype-wary-ibm-quantum-computing/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/for-hype-wary-ibm-quantum-computing/amp/",
-      "publishedDateTime": "2022-05-10T05:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T04:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -757,8 +973,8 @@
       "title": "Finishing touch: How scientists are giving robots humanlike tactile senses",
       "excerpt": "Giving robots sight and hearing is fairly straightforward these days, but equipping them with a robust sense of touch is far more difficult.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/robot-senses-touch/",
-      "originalUrl": "https://www.digitaltrends.com/news/robot-senses-touch/",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/robot-senses-touch/",
+      "originalUrl": "https://www.digitaltrends.com/cool-tech/robot-senses-touch/",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -775,8 +991,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/robot-senses-touch/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/robot-senses-touch/?amp",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/robot-senses-touch/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/robot-senses-touch/?amp",
       "publishedDateTime": "2022-05-09T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1027,203 +1243,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-strengthening-company-culture-with-artificial-intelligence.md",
-      "title": "Strengthening Company Culture With Artificial Intelligence",
-      "excerpt": "To achieve ultimate value from technology, it’s important to consider how it could benefit various parts of the business: organizational efficiency, team collaboration, productivity, R&D opportunities and team empowerment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6272e3b2ed8a29c5f841d642/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-05-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-tested-arc-a370m-intels-first-discrete-gpu-to-seriously-battle-nvidia-and-amd.md",
-      "title": "Tested: Arc A370M, Intel’s first discrete GPU to seriously battle Nvidia and AMD",
-      "excerpt": "We visited Intel to test Arc A370M, its debut discrete graphics for mainstream laptops. It holds its own against the RTX 3050 and pulls far ahead in tasks that lean on Intel's \"Deep Link\" special sauce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html",
-      "originalUrl": "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/05/intel-arc-graphics.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html/amp",
-      "publishedDateTime": "2022-05-09T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-ai-50-2022-north-americas-top-ai-companies-shaping-the-future.md",
-      "title": "AI 50 2022: North America’s Top AI Companies Shaping The Future",
-      "excerpt": "This year’s inductees reflect the booming VC interest as well as the growing variability in AI-focused startups making unique uses of existing technologies, others developing their own and many simply enabling other companies to add AI to their business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62758aa52a077e0e6a66609a/0x0.jpg?format=jpg&crop=1920,1079,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-high-school-student-invents-a-low-cost-mind-controlled-robotic-arm.md",
-      "title": "High School Student Invents A Low-Cost, Mind-Controlled Robotic Arm",
-      "excerpt": "It uses an artificial intelligence algorithm that interprets the user’s brain waves rather than surgery to control the arm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ladbible.com/news/latest-high-school-student-invents-mindcontrolled-robotic-arm-20220509",
-      "originalUrl": "https://www.ladbible.com/news/latest-high-school-student-invents-mindcontrolled-robotic-arm-20220509",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt83d386ae2fba928c/627899e02af4300f82be587b/robotarm.png",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ladbible.com/news/latest-high-school-student-invents-mindcontrolled-robotic-arm-20220509.amp.html",
-      "cdnAmpWebUrl": "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-high-school-student-invents-mindcontrolled-robotic-arm-20220509.amp.html",
-      "publishedDateTime": "2022-05-08T22:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LADbible",
-        "domain": "ladbible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-01-28-gsi-technology-inc-reports-third-quarter-fiscal-2022-results.md",
+      "title": "GSI Technology, Inc. Reports Third Quarter Fiscal 2022 Results",
+      "excerpt": "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Summary Financial Results Table (in thousands, except per share amounts) Lee-Lean Shu,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-an-honest-appraisal-of-ais-capabilities.md",
       "title": "An Honest Appraisal Of AI’s Capabilities",
       "excerpt": "Developers can train AI-powered cameras in areas like object recognition, teaching them to recognize the difference between, for instance, an intruder and a raccoon. These cameras can be trained ...",
@@ -1301,59 +1344,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-roomba-j7-plus-vs-jet-bot-ai-plus-can-these-robot-vacuums-pass-the-poop-test.md",
-      "title": "Roomba j7 Plus vs. Jet Bot AI Plus: can these robot vacuums pass the poop test?",
-      "excerpt": "But is this feature worth splashing out on a top-of-the-line bot for? I put two of the newest to the test — iRobot’s Roomba j7 ($650 for the vacuum, $850 for the j7 Plus version with the auto-empty base) and Samsung’s Jet Bot AI Plus ($1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
-      "originalUrl": "https://www.theverge.com/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/5t0Y73CMlU0v_aM0IW41rB_rfWs=/0x0:2040x1360/1400x933/filters:focal(881x943:1207x1269):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70399687/vtuohy_220110_4963_0019.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
-      "publishedDateTime": "2022-01-17T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

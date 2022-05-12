@@ -2,9 +2,9 @@
 category: news
 title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
 excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-publishedDateTime: 2022-05-11T16:40:00Z
-originalUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
-webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
+publishedDateTime: 2022-05-11T16:29:00Z
+originalUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
+webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
 type: article
 quality: 50
 heat: -1
@@ -20,8 +20,8 @@ topics:
 
 images:
   - url: "http://targetinfinity.com/as/www/delivery/avw.php?zoneid=39&cb=INSERT_RANDOM_NUMBER_HERE&n=a7f52682"
-    width: 301
-    height: 251
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -118,6 +118,6 @@ related:
       domain: stockhouse.com
     quality: 15
 
-secured: "gl63oEjtjUjp7QHwO1uL0DgJz2x/5k1L1RFoouLSzzBLZvBBNH2BUp2VEInmQjz4UylNioHpPJF9TVpx38a/iSz6kwBqBB4aYz/WtwvsqPXSqOOH0+kMEbveQEUuHC9E2qZBB16DvGedcKpfa6MG5pFNiRyaUMsKgmDApau+wrMHd1qVHUhQ+9f8loo9VT+VkWCZfA3mCxfARYDR/xY8PW+63tlwAVjo5E/p8KGJo/3i6QnCxweR1ceRPTWYUINSjolDToqi1Y+HjiXgHrFACaGcPbjk/2EWsuADOGK9GGG+O3qNfVerzX0oo71zbUalCrX4ZQAy6riXAhLPwNrFF3SXLqNyTiIDo7TK78U+f4s=;VEwvOexJF/CJHTXO3AcqUg=="
+secured: "GSsoP/tDzlUPwh69lNMnjlb1Ykajs5D1upNToQ8KeI6ocQrKjIfNqXVbl3fcLLPyw5GpKcg6Eko+EMYeHhlxVtnogMXdVnhuR0K+Zx4oG7BXhDH3boaeF6CUYZObJM2IcQ0MFf+L7CZTvApbCEJ9+Jp5HLL9NhvaKPzO0L7N3D7CwAJHAHY4X+0Nu5Sb4LAt9JLzdA0IC7S3t5VlSToFxKcuCqMENl9rcfmGSSGwNOLHxkBHnT4T6gWOzWW5s/HNdxSx7Lt/cs72D3hSTuZYWfnnfMQ317Q6ZoEYj/u2vxh6B803814pL7xPVpnsSYBr9TForIzEtZ+PQ7GDy3R7JuqqolkIMHI5V+l2Lae01mY=;qIAqTebgwcDIwSUAZD/ASA=="
 ---
 

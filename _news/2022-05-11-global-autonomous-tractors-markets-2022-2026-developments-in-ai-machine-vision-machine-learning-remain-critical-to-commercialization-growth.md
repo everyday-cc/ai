@@ -47,6 +47,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AI In Pharma Market See Huge Growth for New Normal | IBM Watson Health; Alphabet Inc.; Concreto HealthAI"
+    excerpt: "New Jersey, N.J., May 11, 2022 The AI In Pharma Market research report provides a thorough and comprehensive analysis of the global Industry. It contains"
+    publishedDateTime: 2022-05-12T04:22:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-pharma-market-see-huge-growth-for-new-normal-ibm-watson-health-alphabet-inc-concreto-healthai"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/59a169b2a70d8102777da1f1989c4bb10e3db2cf-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "South Africa IT Market Report 2022 - Key Drivers Include AI, Cloud Computing, Big Data Analytics, 5G and IOT - ResearchAndMarkets.com"
     excerpt: "The “IT Industry in South Africa 2022” report has been added to ResearchAndMarkets.com’s offering. The pandemic has given an enormous boost to digital transformation, and the IT industry. Supply chain issues,"
     publishedDateTime: 2022-05-09T09:59:00Z

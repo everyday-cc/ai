@@ -5,10 +5,12 @@ excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virt
 publishedDateTime: 2022-05-10T19:03:00Z
 originalUrl: "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/"
 webUrl: "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/"
+ampWebUrl: "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "XDza4c5tU2VhylgqiUpCHKeOp3cdtVvhp4t3Ecv0wpk3ZJ4GYdVDIoj4Iu8L2wpmeD5D0PulZLAZMZWSRYe8DRu7D80J4sbZyO45fH0AW73xW6+CjiDz12LXUroKt60xHxCFdp4rGwSdFt6l5pGfNy47nQ7M4mnLnEV9BcNQ4Z2YDmibDWR/S1unJZhfKpyS8odCauqWfZhE0Fbipyx4EQbtbxiIHvkakQDvv4nFBRjrqbA8xDmBHM25HLZUDOJv/DioiYIVer8wrEOg1uwjh0K6J+xE+CzSDlvzYsXB9U1UTwrkIzZz6LU94p4VtQX+Y1A6UqOlcqn6QB5rwLuhcogu/k1f+vywhxTQy/Ux9BY=;/jxSzhOLpLvCsV1++ZgUAg=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2019/09/hiring-e1631919874329.jpg?w=1200&strip=all"
+    width: 1200
+    height: 599
+    isCached: true
+
+secured: "emlsBYIUJ1royTJyBU2MnN/6c44uME+NV1nngKK7eHpA90VleRSSfUuP/c+XyOfqm8UZo2ogJcGYuIxy5eczzDBTlPiVNZSiOdI+jYwN8cob9wE2wD778+h5fVciayu5+NA+pprB9OYeWjuw+ym6lt5AAEVk91bsAkPEF2sspAu/rz7QvMul8qwUBUSQI9OJO9+Y0I93uSn5Oo4CAlwWKW0eijtb8zc+vTAnAJM2LoTpbEDG+ddApLoJ+LQd6lvQ6T7hx4ini70vq26Ub6Ehpin/d5QcTAmcHUr0dR38v0AxlsR27tidQgpmOSs7c9K/Hsxl2GsrBhLFwqRsCH5ThLCAqE48evi4SPUsXhv07f4=;oruSKot8dpqoyvCzFk+b5A=="
 ---
 

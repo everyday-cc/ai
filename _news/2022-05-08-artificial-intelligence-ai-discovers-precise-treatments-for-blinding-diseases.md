@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-discove
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm"
 type: article
 quality: 68
-heat: 88
+heat: 90
 published: true
 
 provider:

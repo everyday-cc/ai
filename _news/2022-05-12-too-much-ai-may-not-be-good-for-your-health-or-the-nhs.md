@@ -35,7 +35,7 @@ related:
     provider:
       name: moneycontrol.com
       domain: moneycontrol.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://images.moneycontrol.com/static-mcnews/2022/05/Health-tech-smartwatch.jpg"
         width: 1280

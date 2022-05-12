@@ -2,6 +2,258 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-04-08-the-census-is-broken-can-ai-fix-it.md",
+      "title": "The Census Is Broken. Can AI Fix It?",
+      "excerpt": "Machine learning can help count people to deliver government funding and decide political representation, but the technology still makes mistakes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/",
+      "originalUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/624f885dd8687dcbd6e67c3e/master/pass/Ping-Pong-Balls-Census-Broken-AI-Fix-Business-1192111792.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-census-undercount-ai-satellites/amp",
+      "publishedDateTime": "2022-04-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-solutions-for-self-driving-cars-qa-with-nvidia.md",
+      "title": "Solutions for self-driving cars – Q&A with NVIDIA",
+      "excerpt": "Rather than hard-coding dedicated functions into ECUs, a modern vehicle architecture requires high-performance centralized computing, and complex software stacks leveraging artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/interview/solutions-for-self-driving-cars-qa-with-nvidia/",
+      "originalUrl": "https://www.just-auto.com/interview/solutions-for-self-driving-cars-qa-with-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/04/Image-1-resized.jpg",
+          "width": 703,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-3-best-artificial-intelligence-stocks-to-buy-in-april.md",
+      "title": "3 Best Artificial Intelligence Stocks to Buy in April",
+      "excerpt": "And its Azure machine-learning studio and workbench for creating ML models are helping turn every developer into an AI professional. Microsoft is also leveraging AI to push further into healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/04/08/3-best-artificial-intelligence-stocks-to-buy-april/",
+      "originalUrl": "https://www.fool.com/investing/2022/04/08/3-best-artificial-intelligence-stocks-to-buy-april/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/673021/gettyimages-1294781573.jpg",
+          "width": 2262,
+          "height": 1326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-understanding-baumols-cost-disease-and-its-impact-on-healthcare.md",
+      "title": "Understanding Baumol’s Cost Disease And Its Impact On Healthcare",
+      "excerpt": "While the impact of Baumol’s cost disease is inevitable in healthcare, technologies like automation offer exciting possibilities for mitigating rising costs—now and in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ee52559c49dfcd9ca5af6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/amp/",
+      "publishedDateTime": "2022-04-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-elon-musk-says-production-of-teslas-optimus-humanoid-robot-could-start-next-year.md",
+      "title": "Elon Musk says production of Tesla's Optimus humanoid robot could start next year",
+      "excerpt": "The electric vehicle maker may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "originalUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107043923-1649419793298-gettyimages-1239825668-AFP_327X2VH.jpeg?v=1649420032",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "publishedDateTime": "2022-04-08T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-alibabas-artificial-intelligence-tool-to-improve-efficiency-of-chinas-waste-to-energy-plants.md",
       "title": "Alibaba’s artificial intelligence tool to improve efficiency of China’s waste-to-energy plants",
       "excerpt": "Alibaba Cloud’s AI algorithm, currently deployed in 100 waste-burning facilities in 30 Chinese cities, will be installed in 300 more plants by the year-end.",
@@ -921,219 +1173,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-ai-predicts-ifand-whensomeone-will-have-cardiac-arrest.md",
-      "title": "AI predicts if—and when—someone will have cardiac arrest",
-      "excerpt": "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/ai-predicts-if----and.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.amp",
-      "publishedDateTime": "2022-04-07T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-how-ai-and-humans-can-best-collaborate-at-work.md",
-      "title": "How AI and Humans Can Best Collaborate at Work",
-      "excerpt": "Who decides who does what? And how can humans learn to trust AI? Research offers some answers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
-      "originalUrl": "https://www.wsj.com/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-520178/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
-      "publishedDateTime": "2022-04-07T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs.md",
-      "title": "Policybazaar, IISc come together to develop automated speech recognition algorithms to effectively address consumer needs",
-      "excerpt": "As part of the project Policybazaar would work together with Dr AP Prathosh Assistant Professor at the Department of Electrical Communications Engineering II",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272459938/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272459938/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1649334881.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy.md",
-      "title": "3 Chinese Stocks to Buy on the Dip Amid China Triple Whammy",
-      "excerpt": "However, revenue from non-core businesses, including AI, Baidu Cloud and self-driving cars, soared 63% YOY, compensating for the decline in its advertising business. BIDU stock is down 38% over ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2022/04/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy/",
-      "originalUrl": "https://investorplace.com/2022/04/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2022/01/shutterstock_1904062051-1024x576.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras.md",
-      "title": "Like Tesla, Toyota develops self-driving tech with low-cost cameras",
-      "excerpt": "SAN FRANCISCO -- Toyota unit Woven Planet is following the lead of Tesla Inc. in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use low ...",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/automakers/tesla-toyota-develops-self-driving-tech-low-cost-cameras",
-      "originalUrl": "https://europe.autonews.com/automakers/tesla-toyota-develops-self-driving-tech-low-cost-cameras",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

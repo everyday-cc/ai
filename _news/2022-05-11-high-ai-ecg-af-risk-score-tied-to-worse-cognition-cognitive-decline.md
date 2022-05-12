@@ -23,6 +23,22 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "High AI-ECG-AF Risk Score Tied to Worse Cognition, Cognitive Decline"
+    excerpt: "An artificial intelligence-enabled electrocardiogram (AI-ECG) for atrial fibrillation (AF) is associated with cognition and may predict cognitive decline, according to a study published in the May issue of the Mayo Clinic Proceedings."
+    publishedDateTime: 2022-05-12T05:43:00Z
+    webUrl: "https://www.physiciansweekly.com/high-ai-ecg-af-risk-score-tied-to-worse-cognition-cognitive-decline/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 37
+    images:
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/05/image1652334191.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "YYKt10mFwGzUadp+TKbdKOZEhoQtogmv9yqAo86Gc9e6UwXvDyIQIzib4KtUaNtqeAo+mTUM+uF2lAJCpo4h2ZZQBPnu4uZxT+XDJr0vs0FO/TOewMBVqzVZ0dF3u2muLpWnwi/FZhmKORdUk9DbNnjp6VZyQcCWQhTSDhyMAlI9vy9pjvxN7Gn3i0Izlyqa1Z3nYvU/UOb1Ka5jqSzngrcMKuvROH2Lt8J572yF40DGz5e1S+8B/lJSEx8p7+DTLmgNCdh+hCR2+XA2Uq62JGKjCIKq4g0QBFljwgLJBX1Z5N5URyszE1XYExlAVKYPYHRUAKnB4js4kjre4sxnCT+2adqfJ9KVMlCmi9e1EJI=;gRd8hAvzZonsFUNDACivGg=="
 ---
 

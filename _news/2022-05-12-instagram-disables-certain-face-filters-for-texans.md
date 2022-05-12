@@ -43,6 +43,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Meta removed some filters from Instagram citing the state's face recognition privacy laws"
+    excerpt: "... of their face-changing filters have been removed from Instagram for fear that they could break Texas laws about facial recognition. Texas Attorney General Ken Paxton said the big concern is that Meta could store your facial data and sell it without ..."
+    publishedDateTime: 2022-05-12T04:38:00Z
+    webUrl: "https://www.kvue.com/article/tech/meta-removed-some-filters-from-instagram-citing-the-states-face-recognition-privacy-laws/269-153b23d5-c720-4e9b-9491-8951441b3a98"
+    ampWebUrl: "https://www.kvue.com/amp/article/tech/meta-removed-some-filters-from-instagram-citing-the-states-face-recognition-privacy-laws/269-153b23d5-c720-4e9b-9491-8951441b3a98"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/meta-removed-some-filters-from-instagram-citing-the-states-face-recognition-privacy-laws/269-153b23d5-c720-4e9b-9491-8951441b3a98"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 50
+    images:
+      - url: "https://media.kvue.com/assets/KVUE/images/7ad9533f-98f9-4e3b-8991-aaf6ea290fc0/7ad9533f-98f9-4e3b-8991-aaf6ea290fc0_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "4J44wqMPI69mtJg/XWlUSZL8o0mMyfPVa9As/QrjyLHOrnL3qg079idEdUZJY44CqLvnUZ5ezVmdMdksqYk6xkKSTc093oEnyJY7UMkpdl8YyIO5IdwkQdAvSJB8pMNN0NBsuFctrFdYDpMhY92/c0q2aesPH77CtTc9a3lwVQdQmwXq+kd84ZFa0OV3ndPUH1wWWMbw7CL/dnoUYdBQMWeHqNuCyZwKkNnVtwZUpBMp5iCUDdO9zQcGJMzBkwOgFEOi7i4ax+/QTxnf9POcyiqLQmWtCjaneQDigywEvCeQfVxP5P9cDsnCPs/NyKbOoGu4M7+apIkZQEB6/ckwWxhroasbosdu4tLvKEdG32M=;6m21tKxWMph8TeUYxHoxZw=="
 ---

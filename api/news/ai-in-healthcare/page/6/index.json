@@ -2,6 +2,146 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-18-ai-in-healthcare-presents-need-for-security-privacy-standards.md",
+      "title": "AI in Healthcare Presents Need for Security, Privacy Standards",
+      "excerpt": "Mayo Clinic, Duke, and DLA Piper are teaming up to ensure that security, privacy, and safety standards are top-of-mind when implementing AI in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "originalUrl": "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "publishedDateTime": "2022-02-17T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery.md",
+      "title": "How Digital Therapeutics Platforms Are Revolutionizing Healthcare Delivery",
+      "excerpt": "Digital therapeutics companies are expanding their impact across different parts of the patient journey and are redefining healthcare delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/614ce94ea1ed8a7dd6d4e740/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/17/how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery/amp/",
+      "publishedDateTime": "2022-02-17T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-the-accuracy-limits-of-data-driven-healthcare.md",
+      "title": "The Accuracy Limits Of Data-Driven Healthcare",
+      "excerpt": "This is not a new concept, but as we begin to rely more heavily on data-driven technologies, such as artificial intelligence (AI ... it comes to AI applications in high-stakes industries like healthcare. Outcomes in this field have the ability to prevent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620ad56ed042e09544bf109c/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/",
+      "publishedDateTime": "2022-02-16T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-how-ark-invests-ali-urman-uncovers-biotech-breakthroughs.md",
       "title": "How ARK Invest’s Ali Urman uncovers biotech breakthroughs",
       "excerpt": "Ali Urman, a genomic revolution analyst at ARK Investment Management, explains why the convergence of DNA sequencing, artificial intelligence and gene-editing/gene therapy technologies hold the key to potentially curing disease. The seeds of what Ali Urman ...",
@@ -1196,155 +1336,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-06-the-promise-of-ai-in-gene-and-cell-therapy-operations.md",
-      "title": "The Promise of AI in Gene and Cell Therapy Operations",
-      "excerpt": "There is no longer any doubt that artificial intelligence (AI ... Such functions are critical to the success of gene and cell therapy operations. Toni Manzano, PhD Co-Founder and CSO, Aizon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/artificial-intelligence/the-promise-of-ai-in-gene-and-cell-therapy-operations/",
-      "originalUrl": "https://www.genengnews.com/artificial-intelligence/the-promise-of-ai-in-gene-and-cell-therapy-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2018/10/Oct5_2015_iStock_26158132_DigitalDNA3185137131.jpg",
-          "width": 500,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-06T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment.md",
-      "title": "What's Next for Healthcare AI After IBM's Watson Health Disappointment?",
-      "excerpt": "IBM is selling its Watson Health unit to a private equity firm. The artificial intelligence system didn't achieve as much success in healthcare as some hoped it would. AI still has tremendous opportunities in healthcare, though, especially in drug development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
-      "originalUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/664140/gettyimages-1298315191.jpg",
-          "width": 3497,
-          "height": 1968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-05T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-artificial-intelligence-and-dental-insurance-it-is-more-than-a-focus-on-radiology-and-fraud.md",
-      "title": "Artificial Intelligence And Dental Insurance – It Is More Than A Focus On Radiology And Fraud",
-      "excerpt": "Over the years, much has been said about artificial intelligence (AI) and the healthcare industry. Much of it has been focused on two extremes. On one hand, there’s the fairly mature use of neural networks for radiological analysis. On the other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y26,safe&fit=crop",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
-      "publishedDateTime": "2022-02-03T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

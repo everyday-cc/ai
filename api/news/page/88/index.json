@@ -2,6 +2,249 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-02-23-how-a-financial-planner-went-from-broke-to-generating-85-million.md",
+      "title": "How A Financial Planner Went From Broke To Generating $8.5 Million",
+      "excerpt": "Failure is a great teacher. When a financial manager went into debt, she took her own advice to manage her business, wealth and investments better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
+      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62159857d3e152c3f3c0952c/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
+      "publishedDateTime": "2022-02-23T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-digital-twins-ai-ml-transforming-the-fintech-landscape.md",
+      "title": "Digital Twins: AI & ML Transforming the Fintech Landscape",
+      "excerpt": "As emerging technologies of AI and ML get weaved into the fintech fabric, the industry will have to prep up to address an avalanche of new use-cases",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/420077",
+      "originalUrl": "https://www.entrepreneur.com/article/420077",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1645607608-MyPost10.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-court-rules-that-waymo-can-keep-its-robotaxi-emergency-protocols-a-secret.md",
+      "title": "Court rules that Waymo can keep its robotaxi emergency protocols a secret",
+      "excerpt": "The California Superior Court in Sacramento has ruled in favor of Waymo, allowing the company to keep specific details about its autonomous vehicle technology a secret. Waymo won the case against the California Department of Motor Vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/court-rules-waymo-can-keep-robotaxi-emergency-protocols-secret-084641836.html",
+      "originalUrl": "https://www.engadget.com/court-rules-waymo-can-keep-robotaxi-emergency-protocols-secret-084641836.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/67df5d70-947c-11ec-aaf7-a06e955e8824",
+          "width": 1600,
+          "height": 1003,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T00:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for-canadian-sports-fans.md",
+      "title": "Maple Leaf Sports & Entertainment and AWS Team Up to Transform Experiences for Canadian Sports Fans",
+      "excerpt": "MLSE aims to offer its teams new AWS-powered insights to further improve the caliber of gameplay. Using Amazon Rekognition (AWS&CloseCurlyQuote;s service for automated image and video analysis) and Amazon Kinesis (AWS&CloseCurlyQuote;s service for easily ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/23/maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/23/maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T00:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence-driven-precision-medicine-collaboration.md",
+      "title": "Cyclerion Therapeutics and Ariana Pharma Announce an Artificial Intelligence-driven Precision Medicine Collaboration",
+      "excerpt": "Ariana Pharma's proprietary KEM(R) (Knowledge Extraction and Management) eXplainable Artificial Intelligence (xAI ... who may benefit most from the therapy, by identifying patient-selection ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence-driven-precision-medicine-collaboration-2022-02-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence-driven-precision-medicine-collaboration-2022-02-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-exponentiaai-raises-additional-funding-from-amit-midha-and-technog-solutions.md",
       "title": "Exponentia.ai raises additional funding from Amit Midha and Technog Solutions",
       "excerpt": "Exponentia.ai has announced that it has raised funding from Investors - Amit Midha, President - Dell Technologies and Technog Solutions.",
@@ -894,229 +1137,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference.md",
-      "title": "See future tech and learn AI skills for free at NVIDIA Developer Conference",
-      "excerpt": "Next month the world’s brightest minds in AI and accelerated computing will come together to share their knowledge and peer into the future. Tens of thousands of technologists and developers will attend NVIDIA GTC — a free,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference/",
-      "originalUrl": "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/NVIDIA-GTC-March-2022_press-release_collage.jpg?w=711",
-          "width": 711,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-edtech-startup-hfactory-emerges-from-hi-paris-ai-center.md",
-      "title": "EdTech Startup HFactory Emerges from Hi! PARIS AI Center",
-      "excerpt": "EdTech SaaS company HFactory comes out of stealth mode today with the ambition to reignite higher education pedagogy on Data Science and AI. The startup takes its roots in the “learning by doing” methods and pedagogical approaches championed within the Hi!",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-education-1b777c16f9cb4fc4b53e204e1975f3c5",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-education-1b777c16f9cb4fc4b53e204e1975f3c5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-vimaan-taps-computer-vision-for-drone-based-warehouse-management.md",
-      "title": "Vimaan Taps Computer Vision for Drone-Based Warehouse Management",
-      "excerpt": "Concept: Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses. With minimum worker control, it aids warehouse managers to achieve better inventory accuracy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/",
-      "originalUrl": "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/02/shutterstock_1518283382.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Verdict Retail",
-        "domain": "retail-insight-network.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-vision-elements-joins-nvidia-metropolis-partner-program-to-provide-state-of-the-art-development-services-for-vision-ai-applications.md",
-      "title": "Vision Elements Joins NVIDIA Metropolis Partner Program, to Provide State-of-the-Art Development Services for Vision AI Applications",
-      "excerpt": "Vision Elements, a leading service provider offering customized research and algorithm development services for computer vision and artificial intelligence (AI), today announced it has joined the NVIDIA Metropolis Partner Program,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/02/22/9549910.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/02/22/9549910.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-ai-lifecycle-management-startup-cnvrgio-launches-ready-made-ml-pipelines.md",
-      "title": "AI lifecycle management startup Cnvrg.io launches ready-made ML pipelines",
-      "excerpt": "Register here. Cnvrg.io, the Intel-owned startup that offers a full-stack platform to help enterprises manage AI models and build auto-adaptive machine learning pipelines, has announced an open ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/",
-      "originalUrl": "https://venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/amp/",
-      "publishedDateTime": "2022-02-22T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

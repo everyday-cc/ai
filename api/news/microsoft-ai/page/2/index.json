@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-26-can-virtual-reality-help-ease-chronic-pain.md",
+      "title": "Can Virtual Reality Help Ease Chronic Pain?",
+      "excerpt": "V.R. treatments may provide relief similar to intravenous opioids — a tantalizing prospect for the millions of Americans living with chronic pain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.html",
+      "originalUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/01/magazine/01mag-vr-pain-02/01mag-vr-pain-02-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.amp.html",
+      "publishedDateTime": "2022-04-26T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-novartis-and-snowflake-driving-healthcare-data-innovation.md",
       "title": "Novartis and Snowflake: Driving healthcare data innovation",
       "excerpt": "Novartis recently joined Snowflake’s newly-launched Healthcare Data Cloud, which aims to create an integrated and cross-cloud data platform.",
@@ -1228,50 +1280,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-eckohs-new-cloud-security-offering-in-microsoft-azure-attracts-a-fortune-100-retailer.md",
-      "title": "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer",
-      "excerpt": "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=645669",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=645669",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

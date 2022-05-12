@@ -8,9 +8,9 @@ webUrl: "https://www.moneycontrol.com/news/opinion/the-promise-of-artificial-int
 ampWebUrl: "https://www.moneycontrol.com/news/opinion/the-promise-of-artificial-intelligence-hasnt-borne-fruit-in-health-tech-8492191.html/amp"
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/the-promise-of-artificial-intelligence-hasnt-borne-fruit-in-health-tech-8492191.html/amp"
 type: article
-quality: 58
-heat: 68
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
   name: moneycontrol.com
@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.moneycontrol.com/static-mcnews/2022/05/Health-tech-smartwatch.jpg"
@@ -42,6 +43,6 @@ related:
         height: 901
         isCached: true
 
-secured: "o24U8iyMHroPXIysh+mIKKaw9WaoSE4vqll+9TtysU7DXygG4Cy2IGkWm5CorStaQb4L/kdRixu1FINlchWAzp8eiYmSAPGx4qvp8pEuvfTPC0uaYbtOc1DzOXdYOVC8aWxBosG2gnqUJhrHiLOFBpm1sobR4yhOQPf86LUzIfdKyjIeTxr7HSHj57a6RzRbGlBYjmcvbzU0e8Fufb6M/HZX3zTB3nIHIQ5FHZ/J9s6O9xXJquB5xNt3WQ0jHmVwzWM0Ic74m+/qkvk5jGDZCB4zpFtUXFUXDkCRJUgwiVoAvzkKcX1VEaZiobegSCktrqlguDH1ptAVBELc/BpEwovbDSIX9Mw/KSST9wU+J1U=;tgI01oqo9wdZokB2a7PX0w=="
+secured: "1eSBDh+Ei/fE51M9BHVaqHe0ajEwEVMLH5mYBtFVlxD3oRzquaCORtG5dpCmaG2gMdaXYbWPa3hH3NxtOdoRw3gAjtbhCdnagM7VzzJBkazRx9SfR9mL/bIcoXXkhEfsJzJvIkUTFX9DfOWZadLOnOffbCX5RIIozaXg85x+PlsAcc/HE3ONCuMFB4MqLPI4YOpodHXKj6mvxFHHBJ0wDe7hovvDOmVtqDdr+QpsOSKEuGKPodgdds3ON2sRV7TtLrXIjon0Tw/fc1NyYrxN5lRBboHcVDsz1vq/0XEGbR4s2fmtXZ1n5bulJrrno30bs78Aemx0NpX7cC2wIdng8mHrSEv9+ZS2dV0U5ZkW2tQ1dyKzXoT0ADoFhm1Emffv8vBWBuXuJVSzGizm3tdSZmDmDDqDvSGAW/mwirnVboSOBojEZVu9TqHYfef6Pz3STx3Jj56prVw2SaAB+/Nd3WTpRD1QyAkW5JSbjKEp/oIYwQHP36NE2mv63NI4EJzmexcIsQBMzlFK93YCWc1uqQ==;T2aXejOShqUgLtk1WEBZrQ=="
 ---
 

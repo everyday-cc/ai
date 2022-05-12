@@ -2,6 +2,203 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-09-strengthening-company-culture-with-artificial-intelligence.md",
+      "title": "Strengthening Company Culture With Artificial Intelligence",
+      "excerpt": "To achieve ultimate value from technology, it’s important to consider how it could benefit various parts of the business: organizational efficiency, team collaboration, productivity, R&D opportunities and team empowerment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6272e3b2ed8a29c5f841d642/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-tested-arc-a370m-intels-first-discrete-gpu-to-seriously-battle-nvidia-and-amd.md",
+      "title": "Tested: Arc A370M, Intel’s first discrete GPU to seriously battle Nvidia and AMD",
+      "excerpt": "We visited Intel to test Arc A370M, its debut discrete graphics for mainstream laptops. It holds its own against the RTX 3050 and pulls far ahead in tasks that lean on Intel's \"Deep Link\" special sauce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html",
+      "originalUrl": "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2022/05/intel-arc-graphics.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html/amp",
+      "publishedDateTime": "2022-05-09T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-ai-50-2022-north-americas-top-ai-companies-shaping-the-future.md",
+      "title": "AI 50 2022: North America’s Top AI Companies Shaping The Future",
+      "excerpt": "This year’s inductees reflect the booming VC interest as well as the growing variability in AI-focused startups making unique uses of existing technologies, others developing their own and many simply enabling other companies to add AI to their business model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62758aa52a077e0e6a66609a/0x0.jpg?format=jpg&crop=1920,1079,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-high-school-student-invents-a-low-cost-mind-controlled-robotic-arm.md",
+      "title": "High School Student Invents A Low-Cost, Mind-Controlled Robotic Arm",
+      "excerpt": "It uses an artificial intelligence algorithm that interprets the user’s brain waves rather than surgery to control the arm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ladbible.com/news/latest-high-school-student-invents-mindcontrolled-robotic-arm-20220509",
+      "originalUrl": "https://www.ladbible.com/news/latest-high-school-student-invents-mindcontrolled-robotic-arm-20220509",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt83d386ae2fba928c/627899e02af4300f82be587b/robotarm.png",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ladbible.com/news/latest-high-school-student-invents-mindcontrolled-robotic-arm-20220509.amp.html",
+      "cdnAmpWebUrl": "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-high-school-student-invents-mindcontrolled-robotic-arm-20220509.amp.html",
+      "publishedDateTime": "2022-05-08T22:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LADbible",
+        "domain": "ladbible.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-08-australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign.md",
       "title": "Australians urged to back Indigenous voice to parliament in History is Calling campaign",
       "excerpt": "First Nations leaders call for referendum to ‘do what 1967 didn’t do, which is empower our people’",
@@ -212,7 +409,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -401,7 +598,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1032,186 +1229,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom.md",
-      "title": "Artificial intelligence helps decode sounds of the animal kingdom",
-      "excerpt": "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human. \"If you're manually trying to isolate these calls from audio files ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
-      "originalUrl": "https://www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/5752abc/2147483647/strip/true/crop/900x506+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F97%2F14%2Fc5200d774c06abf9d29172df0431%2Funderstanding-animal-sounds.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
-      "cdnAmpWebUrl": "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
-      "publishedDateTime": "2022-05-06T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMJ4",
-        "domain": "tmj4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images.md",
-      "title": "11,400 ‘Citizen Scientists’ Help Discover 1,031 New Asteroids After Search Of Old Hubble Images",
-      "excerpt": "Artificial intelligence: an automated deep learning algorithm built with Google Cloud AutoML Vision. The search also unearthed new galaxies and nebulae. Some asteroids from within our Solar System have photobombed deep images of the Universe taken by",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/",
-      "originalUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62750318e66defb8b43ddefe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/amp/",
-      "publishedDateTime": "2022-05-06T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention.md",
-      "title": "Dall-E 2: Why the AI image generator is a revolutionary invention",
-      "excerpt": "A piece of software is able to generate detailed images from just a short, worded prompt… but it comes with obvious issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/",
-      "originalUrl": "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.immediate.co.uk/production/volatile/sites/4/2022/05/Dall-E-small-a7397dd.jpg?quality=90&resize=960,413",
-          "width": 960,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/amp/",
-      "cdnAmpWebUrl": "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/amp/",
-      "publishedDateTime": "2022-05-06T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC Focus",
-        "domain": "sciencefocus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-aws-allows-a-lenovo-server-to-play-in-its-on-prem-ai-video-cloud.md",
-      "title": "AWS allows a Lenovo server to play in its on-prem AI video cloud",
-      "excerpt": "Amazon Web Services has allowed a third-party hardware offering into its universe, with a Lenovo server dedicated to video analytics scoring the gig. To understand why AWS has endorsed third-party hardware we need to revisit the 2020 re:invent conference,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "originalUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/05/06/supplied_lenovo_thinkedge_se70.jpg",
-          "width": 1201,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "publishedDateTime": "2022-05-06T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

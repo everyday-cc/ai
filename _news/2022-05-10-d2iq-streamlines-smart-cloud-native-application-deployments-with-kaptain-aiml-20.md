@@ -1,10 +1,10 @@
 ---
 category: news
 title: "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0"
-excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS ... of open-source Kubeflow that enables organizations to develop, deploy, and run artificial intelligence (AI) and machine learning (ML) workloads in production environments. Powered by Kubeflow ..."
+excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes. SAN FRANCISCO, May 10, 202"
 publishedDateTime: 2022-05-10T14:17:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
 type: article
 quality: 50
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
   - Machine Learning
 
@@ -41,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "N2GDKqHQNXU3JQwmEQPQW32dQkOIrNvkw2/V/QnppwUAuerNoLPvrrrRV5XyDtP3G0jL9IZ/M0P+1Y+kfQypTfPerIdXD476aUyKYhTD0f0qg0yMmfuQYLuMoHmNEFlLD82zip/n/w/FIXfRg8vNcYEftsmskjufm9YCfjI2ZQtIaYo+3I4+dVYW2HqniJ4XwvApRF8zqNRKyA0haOxR9kGHq5UpjS5HRCVh98RtG19gLokJcg5Lus8/jVZXb4/O4QUEnK6NKdg+d4IZh9iGleb7d+VvxW6JQFj5pwrAQNyehTQ/W2xUQsSf286D6hUo89AtDBz3njpRK/Aq6E2oS3FjjbrD0M58KaTpVxHto7A=;XcsE2cvq2N1RVwbk0AKohw=="
+secured: "dec/ka6Nlv2F6KZctx9lA9GhlkZMYgqmDeHOopqhPfGqrELntFmIr0+KDlmcmp1bsO2cyn8ItCRjwx739rFSH3SsFJuoKC4vXRySdVZjeaUmNZ2Mfw68ESgQZGVVoNBAWLCIg2BsYiCgnZ9F4owMiwInio/68Ex7MLXNRttu231J5FKsma1qHH5U1OdN3hz/8YRLc0Byq+MJBwStoxhBGkUqr44i74E3D9rOw3DjqQLKrntjxuIqTnfoAv1s/4IgnHB5KctFkk7QZiHRmQL6CCa/wKP0uVckZAkrc2PO5spYCJR3QlKFuDI2/2W3hdft3bzFFZkvwfYMUuJ9bhCWf2SoOPIehsjVWOy+3dIpF9E=;02ihyWWpHW+m2O82eeSCqQ=="
 ---
 

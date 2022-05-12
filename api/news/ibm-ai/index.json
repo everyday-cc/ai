@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-12-the-promise-of-artificial-intelligence-hasnt-borne-fruit-in-health-tech.md",
+      "title": "The Promise of Artificial Intelligence Hasn't Borne Fruit in Health Tech",
+      "excerpt": "Grand promises that the technology could transform healthcare have struggled to bear fruit, with plenty of patient data collected in the meantime.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/the-promise-of-artificial-intelligence-hasnt-borne-fruit-in-health-tech-8492191.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/the-promise-of-artificial-intelligence-hasnt-borne-fruit-in-health-tech-8492191.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/05/Health-tech-smartwatch.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/the-promise-of-artificial-intelligence-hasnt-borne-fruit-in-health-tech-8492191.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/the-promise-of-artificial-intelligence-hasnt-borne-fruit-in-health-tech-8492191.html/amp",
+      "publishedDateTime": "2022-05-11T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future.md",
       "title": "IBM’s CEO wants to chart quantum-fueled, AI-powered path to the future",
       "excerpt": "Whatever IBM had been doing ... and the growing market for ESG and sustainability. While Watson, the company’s artificial intelligence brand, may have lost some of its shine over the years ...",
@@ -56,19 +100,19 @@
     {
       "path": "_news/2022-05-10-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
       "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
-      "excerpt": "(Reuters) – IBM has set a new goal for propelling ... s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare ...",
+      "excerpt": "IBM’s include Exxon Mobil Corp and Mitsubishi ... company’s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare ...",
       "sourceUrl": null,
-      "webUrl": "https://www.metro.us/for-hype-wary-ibm-quantum-computing/",
-      "originalUrl": "https://www.metro.us/for-hype-wary-ibm-quantum-computing/",
+      "webUrl": "https://www.reuters.com/article/ibm-ceo-quantum-idUSL2N2X2008",
+      "originalUrl": "https://www.reuters.com/article/ibm-ceo-quantum-idUSL2N2X2008",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2022binary_LYNXNPEI490JM-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 531,
+          "url": "https://www.reuters.com/resizer/mgPg2WVLlv5v9eVKhPFNE8EmceQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2NBGPQX2FKZVJKLPQMAE53QOE.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,14 +120,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.metro.us/for-hype-wary-ibm-quantum-computing/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/for-hype-wary-ibm-quantum-computing/amp/",
-      "publishedDateTime": "2022-05-10T05:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T04:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1305,49 +1358,6 @@
       "provider": {
         "name": "Kiplinger",
         "domain": "kiplinger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-items-tagged-with-mona-lisa.md",
-      "title": "Items tagged with mona lisa",
-      "excerpt": "A list of HotHardware's published articles on the topic of mona lisa",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/tags/mona-lisa",
-      "originalUrl": "https://hothardware.com/tags/mona-lisa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57988/content/small_mona_lisa_art.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null
