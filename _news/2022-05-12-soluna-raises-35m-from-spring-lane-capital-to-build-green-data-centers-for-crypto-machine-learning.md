@@ -1,29 +1,21 @@
 ---
 category: news
 title: "Soluna Raises $35M From Spring Lane Capital to Build Green Data Centers for Crypto, Machine Learning"
-excerpt: "Soluna’s scalable solution allows every excess megawatt to be used for batch-oriented, computing-intensive processes, such as cryptocurrency mining and machine learning. Additionally, flexible demand consumers help stabilize the grid by preventing power ..."
-publishedDateTime: 2022-05-12T12:16:00Z
-originalUrl: "https://apnews.com/press-release/newmediawire/technology-2796936a90ec078c8fa124c903bda02f"
-webUrl: "https://apnews.com/press-release/newmediawire/technology-2796936a90ec078c8fa124c903bda02f"
+excerpt: "Soluna Raises $35M From Spring Lane Capital to Build Green Data Centers for Crypto, Machine Learning. This announcement brings Soluna’s total funding for data centers co-located"
+publishedDateTime: 2022-05-12T12:00:00Z
+originalUrl: "https://www.boersennews.de/nachrichten/artikel/soluna-raises-35m-from-spring-lane-capital-to-build-green-data-centers-for-crypto-machine-learning/3663471/"
+webUrl: "https://www.boersennews.de/nachrichten/artikel/soluna-raises-35m-from-spring-lane-capital-to-build-green-data-centers-for-crypto-machine-learning/3663471/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Börsennews
+  domain: boersennews.de
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "XO2S62LMGHXOizLyCZZ+uFiHHsIdHF4D9xGQt6z0u41u9W/2FL84r9QgRYG3x44GzGvVu8RuifQWslmqHcl/TO5M3A07Gqovc8mNZ38qNBQR8Ai98xAiqlGozvcWwJ21ShUsKbqlbb6lxtrplDRYkArkDEPZAT6q+o0vxamfvf+d4jQ/giI8ztVmsN1hI/vswaPkiX68rjpcHMl0R0K/oNyVhLv0+ubsAvOX21TBlC76OqEHyIoKU+mJI18jSJ9In0kkvOCg3sob4oH4Aq5VvA4+Yx+Zqv7qzeEABhCp6MfYkkRFfT76eiIULDZufyeJJ5fFbPfXuCnxwreU/v0XH0pkg8yZaKD1p2ig31GAsMU=;Y8+Rm6wKdK6ehWSbcpQgjg=="
+secured: "pmEU3L/FqK5OhuuixrMh9zJFNVk9p3hdcJDtVqI8M3Fief3OBuEyJ7h7APgzl+Fx5UsXHypAuugcVoTvD/Fk2sfjGqOXmxfzPFyEFkBXpST1chilRMm2yjI9YG86JXWGrWzq9oaCD/bJHTKEA2KjD/+nQwUu77gpDcgWe5gVqlN/a21UEfYnabWFW1l3FblPCL/pJYnbk4PFyebHXIdrHFPWyLhtpKD4mIe63eZ5+EVQRSUznXn16QZSHOyQqL8T1tlI0kFbqldLF7LpayILjSJtmiWHiXuPuFHghqvwzHyYtcTgyFTjVOp/jll6xfcZ+hN3KS7mgEu47+4r4+xSBBV0swQzVfMoqXo9sFM3hWA=;L1P9A6g9IlxJ7LxKUBMm1Q=="
 ---
 

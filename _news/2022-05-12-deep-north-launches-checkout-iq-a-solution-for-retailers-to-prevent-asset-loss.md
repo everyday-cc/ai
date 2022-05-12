@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Deep North Launches Checkout IQ, a Solution for Retailers to Prevent Asset Loss"
-excerpt: "Its end-to-end software solution combines computer vision with deep learning technologies to help retailers and businesses deliver metrics such as footfall, conversion, consumer demographics ..."
-publishedDateTime: 2022-05-12T16:03:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
+excerpt: "Deep North, the intelligent video analytics company, today announced the launch of Checkout IQ, its new retail loss prevention solution, which uses computer vision and AI to reduce shrinkage at checkout."
+publishedDateTime: 2022-05-12T13:03:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/article_e9cc83fc-27c7-59b6-907f-446f1c38b486.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/article_e9cc83fc-27c7-59b6-907f-446f1c38b486.html"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
-
-secured: "BSYvgoAput3rQllviHEKeJnoov3aNcVlmFhMjbbK29KZAjiRzAeCiR3qWYMs+O1ZUP+rXj2SWpemV6Pd8t/GRv5ApYb9DEYHn+51KuAx/2Ytk6M07hB/vlfLccIGDlAuhrQohcIcyqiu+t4UIXjYjp3kk7znjkEWANrkukBIYCcdxLKgQW0137HGSA5dEeKkSHSt0176l5A3IJ0bGHt31023SxoFP2hvyPMnCc17qTu/I5rRTlSP90qV550dO7MKrJsV5i5VGrwOqjUSJKbble/3/qXYyb2D/SEvk7zqoYz1Vkd7wjQPYwyfD5VecKVpacHPE9qH7olP4C/IgpCy6ujxVa1dSRZSV/tkGuFgLfA=;VqN1PuQuCyrTnw7oS4zNow=="
+secured: "jGuV5xVf+x9IhkxxE9RQ48YHEzLvc8bdrwKATNRHHxdepwuWFMRUZfFtTjNmVJN3QTXPpeZJMdGiKfbZaaaKaIfhduVSKjTCNMlJJif1nxStwlgOhIM6umuj6rDRX4EssnEXDs4WziFP2TdPn/OZY4USgQrcqJ7m9TGUIk0GR9nGntQuKU8ZtVg5swpf1wp8km+R6WNRI02Y+QmGA6T9g4lLq0rSurfIh3dD9Wdr45CoWSCPgml8lmxXMp5yA6rWFiE5U5akqgAoLNgZ2OD54+4NTdZJ0t0XXU01mbLVn94c5Pa/v6n4CCJutJlDgDtjDgWzTkAm+YIKCCYmrCd3Dl7xucouwge3eBEZi84ig96p17Xm9BCT8LVLfgO3CkER9cGxsJ+/KyON9CWjctVQN5c9gk4U/IyItz8nsvujiHYMANMAEahEXQPI0DhlxoTTaTPlmj5F473zcGd48ekuhjUz5PaMl+UitaO8NN44etUtzoLxiSWCQ+kJIE1JuvaBX/KQRuYf/EaLWHQojL5W+g==;Zg2EgpqlxOajt5Ks2bcrwQ=="
 ---
 

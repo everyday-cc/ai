@@ -1,74 +1,20 @@
 ---
 category: news
-title: "The 1997 chess game that thrust AI into the spotlight"
-excerpt: "LeCun, one of the founding fathers of modern AI, lists among the achievements of today's computers an ability \"to translate any language into any language in a set of 200 languages\" or \"to have a single neural network that understands 100 languages\"."
-publishedDateTime: 2022-05-11T07:46:00Z
-originalUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
+title: "The 1997 Chess Game That Thrust AI Into The Spotlight"
+excerpt: "Yann LeCun, head of AI research at Meta/Facebook, told AFP there had been \"absolutely incredible progress\" in recent years. LeCun, one of the founding fathers of modern AI, lists among the achievements of today's computers an ability \"to translate any ..."
+publishedDateTime: 2022-05-11T03:37:00Z
+originalUrl: "https://www.ibtimes.com/1997-chess-game-thrust-ai-spotlight-3502200"
+webUrl: "https://www.ibtimes.com/1997-chess-game-thrust-ai-spotlight-3502200"
 type: article
-quality: 59
-heat: -1
-published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
-    width: 1024
-    height: 682
-    isCached: true
-
-related:
-  - title: "Man vs. machine: The 1997 chess game that brought AI into view"
-    excerpt: "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally"
-    publishedDateTime: 2022-05-11T10:28:00Z
-    webUrl: "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news"
-    ampWebUrl: "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news/amp"
-    type: article
-    provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 61
-    images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/05/11/thumbs/800x531/204611.jpg"
-        width: 1600
-        height: 1061
-        isCached: true
-  - title: "The 1997 Chess Game With Garry Kasparov That Thrust AI Into Spotlight"
-    excerpt: "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally achieved what developers had been promising for decades."
-    publishedDateTime: 2022-05-11T03:52:00Z
-    webUrl: "https://www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686"
-    ampWebUrl: "https://www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 61
-    images:
-      - url: "https://c.ndtvimg.com/2022-05/3d14dnpo_garry-kasparov_625x300_11_May_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "1997 chess game thrusts AI into spotlight"
-    excerpt: "Yann LeCun, head of AI research at Meta/Facebook, told AFP there had been “absolutely incredible progress” in recent years. LeCun, one of the founding fathers of modern AI, lists among the achievements of today’s computers an ability “to translate ..."
-    publishedDateTime: 2022-05-11T19:33:00Z
-    webUrl: "https://www.jordantimes.com/news/features/1997-chess-game-thrusts-ai-spotlight"
-    type: article
-    provider:
-      name: The Jordan Times
-      domain: jordantimes.com
-    quality: 21
-
-secured: "hH8iJ2wGEd3WBbuoZYNV1vtLg6FaslwdCL9QA0RvfRIcx3H8gLXwhkbzjkWucw5BQNl5YDYvUne6B/5GuWa6qP+BN+2oOQg0T0WJyg6y1YSMJUcDZTraHxc2Tsbc/ahqy9zJmzge5Kmk8ZTyOTF0KOlu3tRAmlQn1wq/h2m3327V0tHwiZdOLsnvY2itLxpD3uqAf/6+vJnxZmkRkRyquLiJxv1DUpo33Jq1WbzKIS91G3wa6lZqgpbEdiqooSzOGg2+nrOV7zK9VRP8HWn5dDYuW6k2x3xlbebXLOTBlCap4rcWhRew/66jH6uLDxIX8h57QNsTIgbza9EOZMdel+1SxqM37wki5PUibtQBREo=;q6xqN4phsN93wledqa0EpQ=="
+secured: "vAIOALmgnR7H1g7ESPq9a/0zfV/PSxkZr9QxJpOZfVk1rcVhbgnoEkgo/zJM+4dJSRk6R+zZR+DwHTSDCqYW1mUpMbeJ9lrI1G8sCeTcPlpB8L1ENEUWjn0UjE6jo5abKKIrnjBOSLP0y6og+BeQuGKWCh1il9bNWDPaeRSebDfm0Oc3mz7iJxn/z4mxpN+Ec3wCWuWqi72y7gvgcPQmKdikf1ZabyRf29IudxyiX4f44SDkJKeitKvfviLVoG4ibJNVC8njfLvkVDzxUUB5MfU4uXDR+VMLO7Yt2KDEEaq/54oWv2ekQEOxaoHW7QYy07JA4c3fR/lfy5rsmj2e7BqZWXkUjcql9Zu2m0yAb84g/dL2+wIxOu/LPwe7YdEHgYFmRBsKTDz2rJEyW1enUj6OsX7JOWHVLanY6yvsC1lpycKOH5rYQu8uyHZx3zNztFGK2TDXEmd5dbc7KAvecDYGotpctIHNu36vXGM4/T22n+tkHS/HhCzt/BhEn8Rcf/McZjwBIOjI092Y/Pg0Ag==;6iGN8I73rfBN8wD5vV28Ig=="
 ---
 
