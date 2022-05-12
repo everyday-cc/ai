@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Apple's Director of Machine Learning exits over return-to-office policy"
-    excerpt: "Apple's director of machine learning, Ian Goodfellow, has resigned from the company after three years, in part due to the iPhone maker's policies about returning to work in offices."
-    publishedDateTime: 2022-05-07T20:50:00Z
-    webUrl: "https://appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy"
-    ampWebUrl: "https://appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/48296-94297-47123-91783-000-lead-Siri-xl-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Apple's machine learning chief quits over return-to-office policy"
     excerpt: "He left a note to colleagues saying, \"I believe strongly that more flexibility would have been the best policy for my team\""
     publishedDateTime: 2022-05-10T10:13:00Z
@@ -160,15 +144,6 @@ related:
         width: 1200
         height: 775
         isCached: true
-  - title: "Apple's Director of Machine Learning Resigns Due to Return to Office Work"
-    excerpt: "Apple's director of machine learning, Ian Goodfellow, has resigned from his role a little over four years after he joined the company"
-    publishedDateTime: 2022-05-07T19:31:00Z
-    webUrl: "https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 18
 
 secured: "W6fn5cUkyPDfmmRlkYRZSjftpG92QB5q3VVpXjCZsXgRgSbWXD8hrRw8H49UTTgqOnW+Vtc5UtCSAHT7R2f4CWg0VWXStzlxPx9P5PjiuMHJCw0rdAjrAxiLp7NhD879Og/Rr0lH5P9Tjri1KQwTQPcm9nXs8EQ1lWmtCASlD+5YuEcKoweO01Wb7ECjAhQrkMIGmOypG4bERVpucwNmrfxhdrMVScbgQkCaDtw3a0CatTqa52fTFMHdZjsf4Ix3kPozGQm3BGIE599+7QhpeSGIupPmTdUKZf3DDJfLEYDfE5Z7ns1wT8k7tdzO+j2eRE11oU5ML6WvpKs9+miv6Su0RDLoJILThOMqzai5CKI=;qk1Qv78f4+pTMYadE5TOXw=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nvidia open-sources Linux kernel GPU modules. Repeat, open-source GPU modules"
-excerpt: "others pour $130m into optical chip startup Ayar Labs \"The new Nvidia open-source GPU kernel modules will simplify installs and increase security for Ubuntu users, whether they’re AI/ML developers, gamers, or cloud users,\" said Cindy Goldberg ..."
-publishedDateTime: 2022-05-12T01:01:00Z
-originalUrl: "https://www.theregister.com/2022/05/12/nvidia_gpu_kernel/?td=keepreading-top"
-webUrl: "https://www.theregister.com/2022/05/12/nvidia_gpu_kernel/?td=keepreading-top"
+excerpt: "Nvidia on Wednesday published the R515 driver release of its Linux GPU kernel modules under an open source, dual GPL/MIT license. The chip biz has made the source code available via the Nvidia Open GPU Kernel Modules repo on GitHub,"
+publishedDateTime: 2022-05-12T03:10:00Z
+originalUrl: "https://www.theregister.com/2022/05/12/nvidia_gpu_kernel/"
+webUrl: "https://www.theregister.com/2022/05/12/nvidia_gpu_kernel/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/12/nvidia_gpu_kernel/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/12/nvidia_gpu_kernel/"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 400
         isCached: true
 
-secured: "c6aH1Z5GRMbw+XiUTpSEDdvfFzaN1GfyJEwHK3oW+QljL6Y+3dwViVHr/WoAplxKGckFcS9VQ74Krf1QQBE//6vKTdtH9rqjOimgSJCdGp9qE4eesnKLVz9fwMrJ0IidLK261qdZvgK2B2VG+RwaBMKAreOX7K0/X1C1MK17Gt+6R2omP8TVlf4CXuFeeZdcY2o27UBGJA11CeRl7rea2eKumP7AMI65hhYo3oQgEPV+1+uhuGzgdW2//9557PVs2i+AczdCTVmRjYKHIi4CsSIOxuGQVpnWjSXplq0KT4eLfgclhPZEUUw7pXYIjrrcDwfRtisEmVF15FsHi01cAPYbKMUsaVkYaw6UwwjT2RKRFJoQEH/pFGjjpwB7LuEfjHa24oRcmAQHJwbORAw74E8kNvy1i5f4bkLCvHi74n4kl9tJEedZB47tFKH6bFNflxTUWyO7eoavmE+mUGb6jhJp/yV13Y1OZ+SF5gdRkYeKV0b8xWOflyWKokp+Ae4QptXI+itmq0e5WT7TtOLjXw==;jEEeii3BSerujaLqyLUyaA=="
+secured: "CJZrjGvQicDHV1ggoRAARyYC3nuYDD7tmkVwfZx5ehkaDzViZYX18SSARrT1qSt3hQeZfp1C4x92vf5C3cD0Gp4gAVfy4bm8zEQo6JKrqpojFqSgeckTehngAS61/knGc+eikeT2JtopS/hfQkn3zsiPiucxgPWAlhpmZHPbnNvxSAqlABeSWTzUHFblbBSWem/RSEXZKjAbht/It8b3y+mYb+7ObnJUodLsnZujUZpHIkZbbcbqxHK8QgRYwFehHj0DBiGRJ5/kreRF4hIs4RZsfOjBpTvkdlV6pFtxcIjM0nBglE5QPiT4L/bDdT1Kn+NnjAt7PTTPfVia5z8hI8gOWN6T1OSw2FAxskKULNM=;an5D0v++FDtTkN3dnAA/5Q=="
 ---
 

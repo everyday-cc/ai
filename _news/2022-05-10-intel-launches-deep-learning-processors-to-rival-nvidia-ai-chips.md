@@ -68,7 +68,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://www.zdnet.com/a/img/resize/d2cc1a46a4d80c2020750e1e1c4723fb44769f66/2022/05/10/5e731162-9ca0-4992-810f-218477912854/gaudi22.png?width=1200&fit=bounds&format=pjpg&auto=webp"
         width: 1200

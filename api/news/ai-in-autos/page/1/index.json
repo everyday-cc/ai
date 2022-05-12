@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-12-auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving.md",
+      "title": "Auditing Of AI Is Tricky, Especially When It Comes To Assessing AI Ethics Compliance, And Vexing Too For Auditing Those Autonomous Self-Driving Cars",
+      "excerpt": "AI auditing is still a nascent capability and often overlooks AI Ethics compliance. This will inexorably change and be increasingly vital, including even in the case of AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6265c81c35d2f416ec30ff04/0x0.jpg?format=jpg&crop=2849,1725,x865,y0,safe&width=1200",
+          "width": 1200,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-05-12T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live.md",
       "title": "Raising monster rounds for self-driving mobility startups on TechCrunch Live",
       "excerpt": "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,",
@@ -98,49 +151,6 @@
         "AI in Robotics",
         "IBM AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-artificial-intelligence-tapped-to-fight-western-wildfires.md",
-      "title": "Artificial intelligence tapped to fight Western wildfires",
-      "excerpt": "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
-      "originalUrl": "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/07/Spring_Wildfires_50329.jpg-e40f6_c0-204-4896-3060_s1200x700.jpg?4f73bfd5e643028254bdc4481a457737dfcd6b2f",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
-      "publishedDateTime": "2022-05-07T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -661,6 +671,40 @@
       ]
     },
     {
+      "path": "_news/2022-05-02-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
+      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
+      "excerpt": "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals. Baidu and a rival AI driving company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxly.com/i/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
+      "originalUrl": "https://www.kxly.com/i/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXLY 4 News",
+        "domain": "kxly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-01-autonomous-race-car-sets-new-self-driving-land-speed-record.md",
       "title": "Autonomous race car sets new self-driving land speed record",
       "excerpt": "On the other hand, this is racing as technological development, in its purest form. Self-driving street cars might drive fairly cautiously, but there will always be times when these machines ...",
@@ -883,6 +927,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
+      "title": "People in Beijing can now book a taxi with no one at the wheel",
+      "excerpt": "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://auburnpub.com/news/national/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/article_8b3dda8f-68b4-56b4-9ab4-c39f0d14a919.html",
+      "originalUrl": "https://auburnpub.com/news/national/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/article_8b3dda8f-68b4-56b4-9ab4-c39f0d14a919.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/f/55/f55b6e25-7254-576e-b366-2a83bc630158/626b10245cf15.image.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auburn Citizen",
+        "domain": "auburnpub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
+      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
+      "excerpt": "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://businessmirror.com.ph/2022/04/29/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
+      "originalUrl": "https://businessmirror.com.ph/2022/04/29/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://businessmirror.com.ph/wp-content/uploads/2022/04/AP22118230409001.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessMirror",
+        "domain": "businessmirror.com.ph",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1201,20 +1331,11 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/4/28/w600X390/China_Auto_Taxi_AP.jpeg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/world/2022/apr/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai-2447520.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2022/apr/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai-2447520.amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-28T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1264,153 +1385,6 @@
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-baidu-ponyai-win-first-driverless-robotaxi-permits-in-china.md",
-      "title": "Baidu, Pony.AI win first driverless robotaxi permits in China",
-      "excerpt": "Chinese internet giant Baidu and autonomous vehicle company Pony.ai have received permits to provide driverless ride-hailing services to the public on open roads in Beijing, according to both companies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/",
-      "originalUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Baidu-Apollo-Driverless-Vehicles.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/amp/",
-      "publishedDateTime": "2022-04-27T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-baidu-leads-years-long-race-for-first-driverless-taxis-in-china.md",
-      "title": "Baidu Leads Years-Long Race for First Driverless Taxis in China",
-      "excerpt": "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous driving, is one of two companies to secure the country’s first permits to operate a fleet of self-driving robotaxis without someone in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/markets/baidu-leads-years-long-race-for-first-driverless-taxis-in-china",
-      "originalUrl": "https://www.bloombergquint.com/markets/baidu-leads-years-long-race-for-first-driverless-taxis-in-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live.md",
-      "title": "Raising monster rounds for self-driving mobility startups on TechCrunch Live",
-      "excerpt": "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
-      "originalUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TCL-2022-05-11-featured-1920x1080-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
-      "publishedDateTime": "2022-04-27T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

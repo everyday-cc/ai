@@ -7,7 +7,7 @@ originalUrl: "https://www.jewishpress.com/news/israel/the-knesset/government-to-
 webUrl: "https://www.jewishpress.com/news/israel/the-knesset/government-to-submit-law-permitting-facial-recognition-cameras-in-public-spaces/2022/05/09/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Tally of facial recognition bans being overturned keeps growing"
-    excerpt: "The high tide for restrictions in the United States regarding the use of facial recognition by law enforcement might have come and gone."
-    publishedDateTime: 2022-05-09T20:17:00Z
-    webUrl: "https://www.biometricupdate.com/202205/tally-of-facial-recognition-bans-being-overturned-keeps-growing"
+  - title: "Invasion of privacy? New bill allows police to access facial recognition camera data"
+    excerpt: "On Sunday, the Knesset’s Ministerial Legislation Committee approved a bill regulating the use of facial recognition cameras in public areas, permitting the defense establishment to access the data and use it without obtaining a court order. According to ..."
+    publishedDateTime: 2022-05-09T09:43:00Z
+    webUrl: "https://www.israelnationalnews.com/news/327200"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
+      name: Arutz Sheva
+      domain: israelnationalnews.com
+    quality: 12
 
 secured: "n1cHw9bSotl6k1xQZhtnLTa5DwGCbbxo9nxpWCN2690xhrPHB3nTaKz2O2SPybaNjZljUFpBH034DldUjwXO9inXel3Fnz6kZn9TOeT8gHXxbSdnrVpyCsO4q83eRo/0/lNog1o5KwiZdVP/USvSscb6/GovgbaRvRlKDnu/ArqN7PdY4QEsPBM4X/tRVyGyj/YHlv5qB/s/3O9lOud2ZuT1ZSyzU5oRgbU+cY0rXcvEsFLYFvPCSETgnCv3HuvLcYsP7WejMEyQfdKpElScM6W1Xr+JkeeAmwKzsjOvPTJ4l1voyUkPD16ACeA5HCyq+HKnT70vAAFfV3b2pBzVbLclrUwxRt2Rfj5MbF3p+Jc=;JdDFHwFNw+cVy/z6IENc+w=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T12:30:00Z
 originalUrl: "https://analyticsindiamag.com/how-ai-is-used-in-filmmaking/"
 webUrl: "https://analyticsindiamag.com/how-ai-is-used-in-filmmaking/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics India Magazine

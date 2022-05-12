@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-12-microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven.md",
+      "title": "Microsoft is enabling Kubernetes for Windows edge-computing devices via 'Project Haven'",
+      "excerpt": "Wondering what Microsoft has up its sleeve for Build 2022? Here are a few tidbits gleaned from the hundreds of sessions listed on its web site, including a new Kubernetes-at-the-edge effort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a52ae7d89b8c9f6c7d7ce376c59cc30a6a73fb9c/2022/05/12/5944f6ae-7d42-4eb9-97cb-248e7b042c8f/build2022.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
+      "publishedDateTime": "2022-05-12T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-microsoft-session-highlights-from-sap-sapphire-2022.md",
+      "title": "Microsoft session highlights from SAP Sapphire 2022",
+      "excerpt": "Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T01:00:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-vectra-ai-recognized-as-a-microsoft-security-excellence-awards-finalist-for-security-isv-of-the-year.md",
       "title": "Vectra AI recognized as a Microsoft Security Excellence Awards finalist for Security ISV of the Year",
       "excerpt": "Vectra AI, a leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises, today announced that the company has been named a finalist in the",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27145145/vectra-ai-recognized-as-a-microsoft-security-excellence-awards-finalist-for-security-isv-of-the-ye",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -43,49 +146,6 @@
         "AI",
         "AI in Security",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure.md",
-      "title": "Avaya expands partnership with Microsoft to offer OneCloud solutions on Azure",
-      "excerpt": "The global scale of Microsoft helps ensure that our joint customers rapidly deploy Avaya OneCloud solutions in any cloud environment of their choic..",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91490488,imgsize-6487,width-1200,height-628,overlay-ettelecom/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488",
-      "publishedDateTime": "2022-05-11T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -195,21 +255,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-10-sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study.md",
-      "title": "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study",
-      "excerpt": "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics.",
+      "path": "_news/2022-05-10-avaya-enters-strategic-partnership-with-microsoft-to-deliver-ccaas-on-azure-cloud.md",
+      "title": "Avaya enters strategic partnership with Microsoft to deliver CCaaS on Azure cloud",
+      "excerpt": "In addition to the Microsoft Azure, Avaya CCaaS customers will gain access to the power of Nuance’s Contact Centre AI technology integrated with OneCloud. The combined capabilities is said to give Avaya customers flexibility to create and deliver ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679",
+      "webUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
+      "originalUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg",
-          "width": 400,
-          "height": 299,
+          "url": "https://www.computerweekly.com/visuals/German/article/teamwork-puzzle-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -217,23 +277,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T07:20:00-07:00",
+      "ampWebUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
+      "publishedDateTime": "2022-05-10T04:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -244,50 +295,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-artificial-intelligence-in-healthcare-market-is-booming-worldwide-ibm-microsoft-enlitic.md",
-      "title": "Artificial Intelligence in Healthcare Market Is Booming Worldwide IBM, Microsoft, Enlitic",
-      "excerpt": "New Jersey, N.J., May 10, 2022 Artificial intelligence in healthcare is a general term used to describe the use of machine learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the analysis, presentation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-is-booming-worldwide-ibm-microsoft-enlitic",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-is-booming-worldwide-ibm-microsoft-enlitic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1128,6 +1135,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-29-this-ai-enabled-robotic-boat-cleans-up-harbors-and-rivers-to-keep-plastic-trash-out-of-the-ocean.md",
+      "title": "This AI-enabled robotic boat cleans up harbors and rivers to keep plastic trash out of the ocean",
+      "excerpt": "“This is exactly where Azure comes in. We ended up getting an AI for Earth grant from Microsoft in Spring 2020, and over the next year developed the AI model entirely on the Azure platform. “It took a while because initially we didn’t have enough ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-hk/2022/04/29/this-ai-enabled-robotic-boat-cleans-up-harbors-and-rivers-to-keep-plastic-trash-out-of-the-ocean/",
+      "originalUrl": "https://news.microsoft.com/en-hk/2022/04/29/this-ai-enabled-robotic-boat-cleans-up-harbors-and-rivers-to-keep-plastic-trash-out-of-the-ocean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/427/2022/04/clearbot1_2000x1676.jpg",
+          "width": 2000,
+          "height": 1676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-comparative-effectiveness-of-an-fda-authorized-digital-therapeutic-to-medications-and-cognitive-behavioral-therapy-treating-chronic-insomnia.md",
       "title": "Comparative Effectiveness of an FDA-Authorized Digital Therapeutic to Medications and Cognitive Behavioral Therapy Treating Chronic Insomnia in Adults",
       "excerpt": "Available treatments include guideline-recommended first-line cognitive behavioral therapy for insomnia (CBT-I) and medications. However, limitations such as patient access to CBT-I and limited efficacy, the presence of significant side effects ...",
@@ -1362,49 +1421,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-microsoft-details-partner-program-changes-for-nce-azure-and-windows.md",
-      "title": "Microsoft Details Partner Program Changes For NCE, Azure And Windows",
-      "excerpt": "New Commerce Experience, Windows, Defender and Azure were the subject of new announcements for partners in April.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-details-partner-program-changes-for-nce-azure-and-windows",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-details-partner-program-changes-for-nce-azure-and-windows",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0273-14b0c37410dc-1db53ecd649b-1000/microsoft-sign.jpg",
-          "width": 608,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

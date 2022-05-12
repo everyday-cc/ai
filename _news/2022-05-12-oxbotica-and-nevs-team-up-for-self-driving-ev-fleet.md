@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Oxbotica signs agreement with NEVS to develop self-driving fleet"
+    excerpt: "Oxbotica has teamed up with mobility experts NEVS to create a fleet of self-driving electric vehicles that could see use on public roads by the end of 2023. Oxford-based Oxbotica has signed a long-term strategic agreement with the firm in order to ..."
+    publishedDateTime: 2022-05-12T15:11:00Z
+    webUrl: "https://www.aol.co.uk/motoring/oxbotica-signs-agreement-nevs-develop-144252799.html"
+    type: article
+    provider:
+      name: AOL.co.uk
+      domain: aol.co.uk
+    quality: 4
   - title: "Lightning eMotors to Provide Self-Driving Electric Fleet Vehicles for Dedicated Routes"
     excerpt: "Lightning eMotors and Perrone Robotics have partnered to offer Class 3 - 7 commercial fleet customers self-driving, electric fleet vehicles that can be deployed for a wide range of dedicated uses."
     publishedDateTime: 2022-05-09T18:35:00Z

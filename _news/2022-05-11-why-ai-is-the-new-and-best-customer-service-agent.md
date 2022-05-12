@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-custom
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/amp/"
 type: article
 quality: 87
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,6 +28,33 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "How AI can improve services revenue and customer success"
+    excerpt: "Having real-time data that can be modeled using AI and machine learning can help to solve customer success challenges today."
+    publishedDateTime: 2022-05-12T12:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/"
+    ampWebUrl: "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-customer_succes_ai.jpg?w=1200&strip=all"
+        width: 1200
+        height: 725
+        isCached: true
+  - title: "Zoom agrees to acquire AI customer service platform Solvvy"
+    excerpt: "Financial terms of the deal were not disclosed. Solvvy is a California-based startup that delivers customer self-service experience powered by machine learning and artificial intelligence."
+    publishedDateTime: 2022-05-12T13:17:00Z
+    webUrl: "https://seekingalpha.com/news/3837801-zoom-agrees-to-acquire-ai-customer-service-platform-solvvy"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "rgJd5n0EsFOIalRS+vi5KbXqwHftEyTQIz9GZws+BFNt42pBfkWSAKDCUSds859RpXnhyT19boAcE7rQQO74A0/cB9QMUpv52/w4TuMV0Lsrw2st5rryXu6YqPvBz6emwycPqWwqr3s8kBwtcuv3v4ILJhSHsC5F+Zz1lNjkwrReBMihtnmYTeNYOxwiZv0udMCCC+TfMhDB6hrD5HcbbvPiqn/Z6/4gam6qAN37aBtIJal/15CuzvqStfHmdEU4dTvyh1kCzF5R70BpifHdL4DPNrnknEtNBydZdo6g5GxnnCUbmWIDlgYWH/kPo2XpPbyXArVmYVfBuv/frEFBuzECpqu2KDVFDF4FVJoBwhmD9zJ9LJiNxFsgouyqh5cNCTSMORiZmNutHjuHBpUFIdySJh50FW+DxJTirHSPtaqEYms35sin6igDAXXFfpYbmT770C/b1+5FzWuYadawpG+1Ufv77ZazVqcXSQxrScc4EbhRt3hrlibyG5/VKp8oFOXfY9IS/NPvcql412Z9Zw==;fRiDN4Uu4Ost9sXmfEl2iQ=="
 ---

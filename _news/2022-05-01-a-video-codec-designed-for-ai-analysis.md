@@ -17,6 +17,13 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
+
+images:
+  - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:818/h:514/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/05/accmpeg-MAIN2.jpg"
+    width: 818
+    height: 514
+    isCached: true
 
 related:
   - title: "AI-driven video analysis assists in early detection of cancer"
@@ -43,6 +50,6 @@ related:
       domain: avnetwork.com
     quality: 14
 
-secured: "Sz8hSd6bqyELlRUrzQjAEUN5xWpnyiNLT/zp4ZypRU+DKMsU8D+7HpaLnsnJp8//BdJXFzjTAV9aYtnx7F4LwJUVPCcB2CxWuBlJHMxdYKPf+RcaHBRIQVSF+v2fjnI2YLRzBY1iHxw2gUrpRAN2gH4omf1dK4bLqlV0SoDD0kTA2J85E6EXNltUiG2TEcIyUDej7mi+VvlHy6z/revq7Gmk53ZRhvTjOqUWpnZ0agKjhTu4G5XDIjSCoQhy8bv0Dl9QIHjE1bIShK78jMPfsl7nIP0V69lybmJh3JTm4jdxdNAMA0mo2G2qajK/+sbjIhOMFOljIldGST86Wm2DuikERP5b11NR9OuPuBh2FDPQRxRFRiceP0ujh5u1ADdMH5mOei+Mha1yGfddOVVnQVAPj3ndDFswfQ0HUPxpgrKf4RiR1QI5+49vizr2rMXs6tuEK83a2Gd2kXtXDrJFU1HJUaom6Uw1wkOeYXINaepibwczeCaR1GY12jwNAcba3wFg3knYciwkoVHqLfMCgg==;4YucNWCWqRF3zN4OV7H/RQ=="
+secured: "CsWt++qciJgjZoMxPH5KgPLQ1oMcw3S7Ni7EvdfmVVRK5SYRuh7JkEM/ueOgabiRgIt70JIrWepQQONseZv9KxKZnRwkF0roRKO+UNQThTYksahuBiMcyrW0bsj6wCLztwEMDRsvOhOEwHOTliIpUOg49RfAJA8wYLGPtM8C+me67WwVpNF/ytBgcIEd/Zoc10Y84SAQeOXeTA3/UDOs871ccvLKkfSa3ho1KTa0Ut9+YhfY5IwqmKMlm51bBUqjpnd5/Tnc9c9OIAUuYTQ4mmZ336KuLEoLT2aO5QfFd6U4jzwLm6875X/ZkdzNr8weFnM5LezOAvfi5TgFGnqVJalEMLsYDw3z7hVqRjLrHL0=;itF1vCpW+y9Vu2n/C4Z44w=="
 ---
 

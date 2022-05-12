@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/texans-no-longer-a
 cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: KHOU 11
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Texans can no longer use certain Instagram filters due to facial recognition lawsuit"
+    excerpt: "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports."
+    publishedDateTime: 2022-05-12T14:23:00Z
+    webUrl: "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/"
+    ampWebUrl: "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 69
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Instagram disables certain face filters for Texans"
     excerpt: "As of May 11, Instagram's parent company, Meta, has removed the ability to use some of these filters. Meta says this is due to Texas' facial recognition laws. Paxton says the reason filters break the Texas Capture or Use of Biometric Identifier Act is they ..."
     publishedDateTime: 2022-05-12T00:18:00Z

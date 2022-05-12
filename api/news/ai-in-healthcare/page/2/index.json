@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-04-25-enzolytics-inc-reports-progress-and-future-plans.md",
-      "title": "Enzolytics, Inc. Reports Progress and Future Plans",
-      "excerpt": "COLLEGE STATION, TX / ACCESSWIRE / April 25, 2022 / Enzolytics, Inc. (OTC PINK:ENZC) (  ). Enzolytics continues to make significant progress in its multiple",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/covid-science-technology-health-business-d4bde18f7f9ef6081beb09b33233e7bd",
-      "originalUrl": "https://apnews.com/press-release/accesswire/covid-science-technology-health-business-d4bde18f7f9ef6081beb09b33233e7bd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-25-computer-vision-in-healthcare-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis.md",
       "title": "Computer Vision in Healthcare Market Research Report 2022 – Industry Environment, Supply Side and Demand Side Analysis",
       "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
@@ -1279,6 +1236,58 @@
         "name": "BioTechniques",
         "domain": "biotechniques.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-how-artificial-intelligence-powered-tools-can-support-clinical-decision-making.md",
+      "title": "How Artificial Intelligence-Powered Tools Can Support Clinical Decision-Making",
+      "excerpt": "With unlimited processing power and an ability to \"learn\" over time, AI-powered clinical decision support (CDS) software has gotten more attention over the past few years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f4e47455e0c17f79712a595/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/",
+      "publishedDateTime": "2022-04-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-adopts-10-step-skin-tone
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-adopts-10-step-skin-tone-scale-to-teach-diversity-to-its-ai/"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Google Has a Plan to Stop Its New AI From Being Dirty and Rude"
+    excerpt: "The future of computing is AI-powered chatbots that have read the entire internet—if Google can figure out how to tame them."
+    publishedDateTime: 2022-05-12T10:13:00Z
+    webUrl: "https://www.wired.com/story/google-voice-assistant-future/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Google Unveils New 10-Shade Skin Tone Scale to Test AI for Bias"
     excerpt: "Alphabet Inc's Google on Wednesday unveiled a palette of 10 skin tones that it described as a step forward in making gadgets and apps that better serve people of color. The company said its new Monk Skin Tone Scale replaces a flawed standard of six colors known as the Fitzpatrick Skin Type,"
     publishedDateTime: 2022-05-11T17:51:00Z
@@ -62,6 +71,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Google Introduces Monk Skin Tone Scale to Improve AI Color Equity"
+    excerpt: "When it comes to trailblazers in the field of color equity, Google doesn’t grace the top of many lists. But there’s a contingent within the company trying to change that. At its I/O 2022 conference, Google introduced a tool it intends to use to improve color equity through representation."
+    publishedDateTime: 2022-05-12T15:30:00Z
+    webUrl: "https://www.extremetech.com/extreme/335462-google-introduces-monk-skin-tone-scale-to-improve-ai-color-equity"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/05/inclusive_schema_0509_anUYk5H.max-1000x1000-monk-skin-tone-scale-mst-640x358.png"
+        width: 640
+        height: 358
+        isCached: true
 
 secured: "pmXU4ElPF3h9kCb2mu31VZKSJ0/PND9fgFLLemu3K5GiPHk4Eidw52LgrW2dbQMwyH6XNcRXqRVdgyY5G6qOsi2JlxOjmdLcPUwhy5TYXXC/nk0TzL7d9ZVYJTYLHaMrZS6Hrm2sCCAaDsgzwI5JbggxrTXd4QksPb3cWGpK2P0Oh5NQNnfy+3ePC45aL8ZX0ez2SZeXS6JIl+3TsqMKMtlV17ItTckL27N27Cwx0UJEkN1UJVSTdliJpNQrx/bCRrFNjuCcy1MkxB4AcPHuLlmGmBGUVzxg5xrqTauqHm3/yk51cWYuZ8RtR+zWl5UtyIXm8WM8eoIlLRjQr8uQk8tMeLCUmufT/NRqTn50BeFm/whR8xeHXiQQBQ92fiHutLuDq/LFy9CAFnvazQvfZ/YcDF/Ghr00K5JLSbMYfYPxx1W5Jz+gBHtW2Pmu4qGVgHyLZXtw2An6tqssbyQNRGPNHU2CXC0iBcztHdWhEGmH8cx0SY5QHse44cPaCMfUh+icpYFGi3TGGyAC0FqJlw==;JgzOhT9lE5O9w/MSovIRDA=="
 ---

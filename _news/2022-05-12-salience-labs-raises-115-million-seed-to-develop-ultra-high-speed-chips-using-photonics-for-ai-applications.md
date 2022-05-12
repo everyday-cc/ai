@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/salience-labs
 webUrl: "https://www.joplinglobe.com/region/national_business/salience-labs-raises-11-5-million-seed-to-develop-ultra-high-speed-chips-using-photonics/article_760371ad-06b6-53a7-9a5d-7554fc54b0c1.html"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "This startup hopes photonics to will get us to AI systems faster"
+    excerpt: "Meanwhile, the speed of AI computation doubles every 3 or 4 months ... Salience Labs is an Oxford-based startup that thinks it has the answer, by combining an ultra-high-speed multi-chip processor ..."
+    publishedDateTime: 2022-05-12T08:09:00Z
+    webUrl: "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/"
+    ampWebUrl: "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://i.ytimg.com/vi/f74lQ-V7xXg/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "DCOvi/SQ3oF56l4wBoUoYW7qbCoTxOEXpUpEAuJCSEYtjRDnVDEeELUzmUbg3hwhDANUjWzuv9lNd+bLitquYxxSTvZKS869asqgYg+hkfHrOJZMIsoy237jkQEw4j5F9IUTd7O69CLhOJA3UDpavc1rr4JtRX6i2PkbAfjslfzLngJqG2CgVDZpGSSZmF1+JxvSPp6y/w849YbcvuVHVCjSmAWN7LOn53vhdEPJXFmG+nvtX/N9wFRzSpkfXWqCpwsyrW9WWrHrfIh7yDn+5rZK7/vJLhpN2Ad4e/JblgeEgKh587ui2ovDj2h4+s/1uJgaTLvY7YGvA+UpdJOPGPb4QRXR1BfjAJXm4tVZK08=;ww+QDL0KOPm7ohWm50HB3Q=="
 ---

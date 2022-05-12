@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T12:19:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-vatic-investments-appoints-li-deng-phd-as-chief-/2022/05/12/9600838.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-vatic-investments-appoints-li-deng-phd-as-chief-/2022/05/12/9600838.htm"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: TMCnet
@@ -15,6 +18,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "h3p4HzYzPcc03TixaNKRHJ79Tqnml9iOHpquV7eXtswUdR7548deEDg9c+B7ycqkD4BdgwghWI13kzX1CRDS8T6H42OoKnAR1Oor6ZK662X8OweJRFr05cjP2wDf8+sZsynZngAsHT5nXCJU7dh6+LXayhrsxuV4PwsImka8hPy2JG3roFM39jThwerRmHHpfooZEtYXsAoAsd1zx4OOKq4eEA7E3MZGnhsI/98J/4Mk50a9ybFvs6uTiQ5+v/kgAPiCoK7KWUCx+Ii8Gor9DNZojFwiAQTI++ghLQQeOb8hR6oq/53bmtfSoDCUe2VtKmWH2BwdccP9dUeuHPAoiXZ0eAw9yWllKZhKFav1e1o=;qz8sCczPm50Fxu6S6mo0oQ=="
+secured: "xj/b0YN020eNIYD7OxSIswNsTbSKcY1RBIH53E4+WvCi3clnB51dXZpC/0cMjdhbYN9uRb5Alkc97H11ovZr4k33MGzXFtNQ2Q0KApe0asWiny8VnKfmd+nT3slHE62xfdo3IguU0UZkl3zwTzRxbUkPYb0WtvMB7rBMCkuN0f7UJICn+V/qYP6aU5fEotzzPy8SodORsh9aDfyL82TIhNaFFTbXTDHybAMYPYE4y8+3BZrRR+L5IlC80rAd9KsUganhk6Q9tQJWOyngO0gwXrjxg7bdm54YEHTq5BNURMwCiSqrqvKeLng1nIZK9DOniJ5qogfBWAgK4xyIvk5XGSsBjM5IdqCOkx5h834/Qdo=;qK/LKOc2J9XODC2QKa2jUg=="
 ---
 

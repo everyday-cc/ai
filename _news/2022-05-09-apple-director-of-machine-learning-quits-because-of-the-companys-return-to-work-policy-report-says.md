@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/apple-director-machine-learning-ian-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp"
 type: article
 quality: 74
-heat: 174
+heat: 154
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple's Director of Machine Learning exits over return-to-office policy"
-    excerpt: "Apple's director of machine learning, Ian Goodfellow, has resigned from the company after three years, in part due to the iPhone maker's policies about returning to work in offices."
-    publishedDateTime: 2022-05-07T20:50:00Z
-    webUrl: "https://appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy"
-    ampWebUrl: "https://appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/48296-94297-47123-91783-000-lead-Siri-xl-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Apple's machine learning chief quits over return-to-office policy"
     excerpt: "He left a note to colleagues saying, \"I believe strongly that more flexibility would have been the best policy for my team\""
     publishedDateTime: 2022-05-10T10:13:00Z
@@ -164,15 +148,6 @@ related:
         width: 1200
         height: 775
         isCached: true
-  - title: "Apple's Director of Machine Learning Resigns Due to Return to Office Work"
-    excerpt: "Apple's director of machine learning, Ian Goodfellow, has resigned from his role a little over four years after he joined the company"
-    publishedDateTime: 2022-05-07T19:31:00Z
-    webUrl: "https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 18
 
 secured: "tB8Rx0sqa5mCdjLl2ZOD4uHjhQKEdhJC/9Qt1f5hKrqu+J+SsRISnS8CftMwQfCJHsBw8z6M4a1MuZCMCn1u+gxazsRfvL91hr54wRYZX4yY9fO2r7KYLkMBsghUv4FoWSulGhSxMyEj96cXaWMxErvcIGS6InAqlKQVOFb3LyFIJGjwaJ2oRKJkpBxpbZLHn01KEeLbPflyQ5G372v/irbzpdsjJS8ZJYU7P8nrzO7G61NmEUkT8bZHJBQby67rnqNHU3Sz0DRV8WsEp+SB5YZeKM3vU7kb4G7CRhc3yZ6R6fw5ZxSdtF+gSwRSk0lfxWh+Pxg/Lg4OE2eq9fwgTPtGZcoRjQp+2fsKS8bpP0+GL5/YvZOHSWP+uhhaynLYOB2QNrPIhMXtJHca001vHhNIHoPQqA2wpNdlbnRmdx7YBjq6sVeWb2bnBtaUPsGPGQ6FbmTEAv2g751mRgFeRgkwEI9PYZlhi1wuoFukMdLC57wfDN7hBF3GVs24cr768WY4/ocWEN1NUJLnbW9LtQ==;b9qivpeL2AK1l4TBGP8/FA=="
 ---

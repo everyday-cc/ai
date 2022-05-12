@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/education/employment-news/apeejay-edu
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS, Apeejay Education start programme for National Education Policy"
+    excerpt: "The initiative will enable academic institutions in India to align with the technical requirements of the government's National Education Policy 2020."
+    publishedDateTime: 2022-05-12T10:23:00Z
+    webUrl: "https://www.business-standard.com/article/companies/aws-apeejay-education-start-programme-for-national-education-policy-122051200799_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/aws-apeejay-education-start-programme-for-national-education-policy-122051200799_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/aws-apeejay-education-start-programme-for-national-education-policy-122051200799_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 76
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/11/full/1639185609-6742.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Apeejay Education and AWS announce New Accelerator Program aligned to NEP 2020"
     excerpt: "using technologies such as artificial intelligence (AI) and machine learning (ML). AWS will drive these workshops based on the Amazon Working Backwards innovation methodology, which uses design thinking to identify and define a customer-focused problem or ..."
     publishedDateTime: 2022-05-12T08:07:00Z

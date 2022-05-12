@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T04:00:00Z
 originalUrl: "https://www.computerweekly.com/news/252518072/Ryanair-taps-up-AWS-machine-learning-tech-to-manage-in-flight-refreshment-stocks"
 webUrl: "https://www.computerweekly.com/news/252518072/Ryanair-taps-up-AWS-machine-learning-tech-to-manage-in-flight-refreshment-stocks"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Computer Weekly

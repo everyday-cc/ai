@@ -32,6 +32,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Startup BalkanID launches AI-powered Identity Governance and Administration solution"
+    excerpt: "BalkanID will start out focused on the mid-market but plans to expand that, as they further develop their solution from automated IGA to fully automated telemetry."
+    publishedDateTime: 2022-05-12T12:00:00Z
+    webUrl: "https://channelbuzz.ca/2022/05/startup-balkanid-launches-ai-powered-identity-governance-and-administration-solution-39089/"
+    type: article
+    provider:
+      name: Channel Buzz
+      domain: channelbuzz.ca
+    quality: 10
 
 secured: "vM6yfS6RrDF7qYzTr6Inif5My1JQL5pQjQD07oBffBBvAPAvt1C+vGsugL6c7G88/u2/fTaYqMvLj9Xl0H+jwzPPUb7Kmu57CM41K+kHAgxphK9bt78LGDbQlTtPH2IAqb0DFmsyH3WLCT1GDsdIAnFqKAQaAiKx287Y8+Oe1xrgZnNMriyQouFjUSGxZcZxJPwm1k72NE+98VRYDQnt/CylTmIrpHFDX/fYuNdS6eypxwBL4zvOo1wPCfkvafw+wUGXuv4zDJZp4VJev1ERZX9J1Bz+5n9KVdhliPTk3OGiFEHULSRRLGCXV4FlEgqPk0OFIATox0AzMXuB1RJLePvfILlHHNwVYppgiZ+kIKqA6Cjx7A38K+XgkRBMb+NgWNM32E8o/uAAqO8yg5OfG9tQshKi/eeP/zFLfCLEd9g+yHOQ8vDJGX3kvFicXp8fdNE9qRR+3BnnNUGTa4T2OtmPe5z6dDcfCJsQVc4Yy5RnR1Ni4/uAyPMmiK/1aB8gz+NDuwSba4qTRlDuOH/bgw==;MsaH7LElg8O+IIg8beZs9g=="
 ---

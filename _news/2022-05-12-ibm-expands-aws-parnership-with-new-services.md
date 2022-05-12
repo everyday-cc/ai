@@ -57,6 +57,20 @@ related:
         width: 1372
         height: 468
         isCached: true
+  - title: "IBM to offer software through AWS"
+    excerpt: "The US technology firm this week announced that it has signed a strategic collaboration agreement with AWS and plans to offer “a broad array” of its software catalog as Software-as-a-Service (SaaS) through the cloud company’s marketplace."
+    publishedDateTime: 2022-05-12T14:18:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ibm-to-offer-software-through-aws/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 41
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Inside_IBM_Cloud_Dallas.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Telia Company accelerates company-wide cloud adoption by upskilling 2,000 employees on AWS and cloud technologies"
     excerpt: "Largest in-house AWS training program in the Nordic region to date, investment in the upskilling of 10 percent of Telia’s total workforceDeep collaboration"
     publishedDateTime: 2022-05-11T12:40:00Z

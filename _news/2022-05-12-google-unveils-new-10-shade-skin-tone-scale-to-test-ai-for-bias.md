@@ -61,6 +61,29 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Google Has a Plan to Stop Its New AI From Being Dirty and Rude"
+    excerpt: "The future of computing is AI-powered chatbots that have read the entire internet—if Google can figure out how to tame them."
+    publishedDateTime: 2022-05-12T10:13:00Z
+    webUrl: "https://www.wired.com/story/google-voice-assistant-future/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "Google Introduces Monk Skin Tone Scale to Improve AI Color Equity"
+    excerpt: "When it comes to trailblazers in the field of color equity, Google doesn’t grace the top of many lists. But there’s a contingent within the company trying to change that. At its I/O 2022 conference, Google introduced a tool it intends to use to improve color equity through representation."
+    publishedDateTime: 2022-05-12T15:30:00Z
+    webUrl: "https://www.extremetech.com/extreme/335462-google-introduces-monk-skin-tone-scale-to-improve-ai-color-equity"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/05/inclusive_schema_0509_anUYk5H.max-1000x1000-monk-skin-tone-scale-mst-640x358.png"
+        width: 640
+        height: 358
+        isCached: true
 
 secured: "uGV17qX3CEu3BVz3XrxcLhua2xOyNWipZY9xqnx35RnSsHvR06bwusn1khLvOMDN0Hcx643TX8z51Z9U2E8fpFgGFDzWOwAa8okqaPFrj+/dcDgVlaFQHUNFk21dwQKoHaFT8E7E9NpMwNDRrSBVy/tUqfKvnOb9VEIsUrFrgaiIALzOYNgBq8qBUxjCQPnXKeRsmi1hTyqUULxEr6QCu0/up6cHW+wmY9NsHiJhCA/sMAmcRJQjUeuQ+MwHLUcBsF/LtgZu/Reh0E/FBeVCYJ0ewiGvEEHxnIpxVFub80dwZjedMveIgZn5yhL38Otyl2vvHyx7F5yWlibJhWgzDqgj+W6MTYFqVGXE2/s5IgVnJCyCZu6O70E2W4k4nEqeGMmjxlF9DOcnclYjP1gHDMn7+qhU3vkXZKErJTy16WAhgFjNJ3biMfRakB23eqmnNuFCES8fazEUvG/VBore1A1Lgi3Sm6u/MkgRXebjAmTdnvwgNAHEsqFz+/bsKSFM79aq7u2Gg0uN9Jr9ohJctQ==;cIPgc8yvXfvo0fp+MM4dvQ=="
 ---

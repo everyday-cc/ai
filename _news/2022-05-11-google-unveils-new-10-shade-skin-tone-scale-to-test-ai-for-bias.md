@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google Has a Plan to Stop Its New AI From Being Dirty and Rude"
+    excerpt: "The future of computing is AI-powered chatbots that have read the entire internet—if Google can figure out how to tame them."
+    publishedDateTime: 2022-05-12T10:13:00Z
+    webUrl: "https://www.wired.com/story/google-voice-assistant-future/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Google Unveils New 10-Shade Skin Tone Scale to Test AI for Bias"
     excerpt: "Alphabet Inc's Google on Wednesday unveiled a palette of 10 skin tones that it described as a step forward in making gadgets and apps that better serve people of color. The company said its new Monk Skin Tone Scale replaces a flawed standard of six colors known as the Fitzpatrick Skin Type,"
     publishedDateTime: 2022-05-11T17:51:00Z
@@ -61,6 +70,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Google Introduces Monk Skin Tone Scale to Improve AI Color Equity"
+    excerpt: "When it comes to trailblazers in the field of color equity, Google doesn’t grace the top of many lists. But there’s a contingent within the company trying to change that. At its I/O 2022 conference, Google introduced a tool it intends to use to improve color equity through representation."
+    publishedDateTime: 2022-05-12T15:30:00Z
+    webUrl: "https://www.extremetech.com/extreme/335462-google-introduces-monk-skin-tone-scale-to-improve-ai-color-equity"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/05/inclusive_schema_0509_anUYk5H.max-1000x1000-monk-skin-tone-scale-mst-640x358.png"
+        width: 640
+        height: 358
+        isCached: true
 
 secured: "Zp53ne0lLvs/FdMjmhaP5lO3APYvFxWrQK9XugaQazj7KoOdfKl7dEkb4F5nSEaTOtXaPeO+5LZN6aX6Y0SwWOnEw6pL5P24lJv5OdOU1mLn9eLvN0cmJotppwD2US5P3777lPwpJ/CKnxgZUEgqVWz5xnCkK38RlhXf0+1oT/tQXnsVBswqlPa+4cpHDnwG9yQOg3U1dq2KzEBaW5ju30yr9KpVFWVvUp2S/TKxYR9n3rZ8buRixtNazDkh/kfZcZqpgxocMFifAd95Ms0iN4AvMHR4xnZqsx8f9tSmF8+Y5TS1XjF7xfZ9dNNkGb3uyy6+X3EudxtuFzmq3U2WDULiSJqMPmEUKE5ZFEv0exXbiMI5U/p2PBgibAgD4mvAwrdHEPM/qiTopN38uUQDnXTpOju+bE0Ye52GEpsBWTU0bjcvChtuoAvjNYmRZfMa5IziqU5D9+LoGXMktvLomu3d3j2yxX6deda+n6+WIkxTYT61SC+57xJhxNsvWu5dusZSamKvf9IVjFi5izfOaQ==;7YKCrg8JhfPMvZXZIqj/8w=="
 ---

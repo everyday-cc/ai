@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Car Market Estimated to Expand at a Robust CAGR over 2019 – 2030"
-    excerpt: "Self-driving Cars – The Elevated Future of Mobility The race for a completely self-driving car is underway with increased ongoing testing and prototyping"
-    publishedDateTime: 2022-05-09T11:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-estimated-to-expand-at-a-robust-cagr-over-2019-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Intelligent Speech and Voice Recognition Market Size Is Expected To Grow At A CAGR Of 23.8% During Assessment Period 2022-2028 | 111 Report Pages"
     excerpt: "Intelligent Speech and Voice Recognition Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in ..."
     publishedDateTime: 2022-05-12T10:51:00Z

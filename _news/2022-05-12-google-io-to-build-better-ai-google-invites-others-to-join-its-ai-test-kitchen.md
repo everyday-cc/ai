@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-to-build-better-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
 type: article
 quality: 82
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 619
         height: 374
         isCached: true
+  - title: "Google unveils artificial intelligence tool for real-world searches"
+    excerpt: "Alphabet Inc.'s Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company previewed a ..."
+    publishedDateTime: 2022-05-11T19:59:00Z
+    webUrl: "https://www.unionleader.com/news/business/google-unveils-artificial-intelligence-tool-for-real-world-searches/article_7e28b911-e883-5520-8562-3c5c59520a84.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 17
 
 secured: "0ovhsWck4P75LhdloMTCQbj5X+kv2RxRdFY6YcLWaPG02GWECuYcbxrOvKg95Q536eLDCQ/BVOWPGeWhOXLhd5m19Y6/0oeWI1hAW8L7/9OaZPuOcpMxhBvOMNT4IhTgrFBaXMIYY+y2YZ+fCUwntHx6/egZm4xNpeb7I+JjKrk9y14kJ8GYLMWeb5seXb7JzNmnXUuQaxLfeZA+CXQJn3kYUo5X+dCNmkkcN8JiYPpy5GlHHp7haJ+hrvSr357gyxiqDWVUB/KtR4+TZddQfZ0liud5M6O8nHtR0AZUofNq9N3meovya8i0PUG3Eiw0IMwr6XgMSK6ebjw6nPR6BpUiMAaEdbKSVeFN1J5RciM=;RAdhR2PwLyv5INrQX7bkWA=="
 ---

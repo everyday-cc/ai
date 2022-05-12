@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Another Order of 3 Robots from a top ranked global logistics Company for $AITX: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
-excerpt: "Artificial Intelligence and Robotic Solutions for Multiple Applications ... New Multi-Unit Order from Renowned East Coast Private College. Security Robot Order Recently Received from New Dealer with Multiple Fortune 500 Business Relationships."
-publishedDateTime: 2022-05-11T11:21:00Z
-originalUrl: "https://www.digitaljournal.com/pr/another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
-webUrl: "https://www.digitaljournal.com/pr/another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
+excerpt: "Artificial Intelligence and Robotic Solutions for Multiple ... critical infrastructure, education, and healthcare. On April 29 th AITX announced it is awaiting final approval from a pair of significant pending orders. These 2 orders are expected after ..."
+publishedDateTime: 2022-05-11T11:18:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-11-another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-11-another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
 type: article
-quality: 32
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices"
@@ -40,6 +34,6 @@ related:
         height: 337
         isCached: true
 
-secured: "eN+zxFHKbhHRbvNz4M2gvXjok6eanbW6kPNIEBzD5ryPWdGoXg5LPHfBPRG+dMEFDV1yuTdZGEylfK/iQsVTUzruoikq4SwAMHPCDEbd8iyohsvEcXXIKjNs149zmVDJYXpbXEl0tAkdLsorNd+Bm+ABnyj38JljKDiqp3gUq9DVJjx+duRYRb6/YzoK0VdvSq7YIjcpMQY1LisqTIaiHp0GndiyB9RjvBXUVJYJZxmeAxgGCUJLuXBS1osNinpvu9Awt2YzOwyRsrEIuW1FT/r0mppilptzpavViEanCgUTlwSLnZpjhpruiWYimSvrbsTFWhxqEZGyK3oEcKAdHT6z4t+5MtQ091ZVsP5tQBI=;9/FKg/FDBmUUgCvvNG/fAA=="
+secured: "uENvMxPmUkykS6/oX6FdKmHRKQyIzQHQni8Lp0mfOKhYSs5Uj0aDJcGEqybAcxWJyZoQru0ThL6VpYiiR0CTksIq/42ZX7N3SmQWfr4GvqFUj7REReTR+fEG3n6cR5D6Z0DTRoaZwQqM+ubEBlWK9znpZT0nuigA4xD3ft39IrS1FYgQzZ+wvWvPe1LvTbAvnuzhlM9dZvki+CIS2660rNA2aYat6z7/yovMbIDwBYlvysBjUGa2fHDmyMyTvLL1AmvZxoEZD4XXYsIUE0HcnmEsh4IWIcE/U8rR8EDM8ia4E+jDOJzv+ytGZhfojptoFamUMDxzwLmJcZrWwhFsArWL4izgQQNc95uuOsZr9uc=;guL0eXIIYxiYdnsLQs4rcw=="
 ---
 

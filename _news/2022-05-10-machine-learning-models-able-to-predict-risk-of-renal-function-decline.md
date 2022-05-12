@@ -26,6 +26,17 @@ images:
     height: 278
     isCached: true
 
+related:
+  - title: "Earthquake and tsunami prediction enhanced by deep-learning model"
+    excerpt: "A deep-learning model developed at Los Alamos National Laboratory could help estimate earthquake magnitude in real time and provide earlier warnings of tsunamis."
+    publishedDateTime: 2022-05-12T12:59:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/tsunami-prediction-might-be-possible-with-deep-learning-model/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 4
+
 secured: "C8Aon8nacVgI/4iidOGTvdS6nyp2QZh0J//aPcKQt+Y0hKESwGEFEg8Jq5zbYw4vRUr2n5Z0BsphwQeAwQFcfSBUt2au3NXQdJIH7o8nj/FRXsJ3Gb6WIyCq4dEAxCtU/n5sgiEtgA4bJLYoRLweJGomjR23LeSiIg4W+lWb0Goya+s1PaNSLs4hkSwxkGIK8XrVK5xyEoQBARj8eYwWDx9aNgXNies8rnjgPGGj8RIJckGx3iPzmvnyDS3yxMSSlO43ufB/4mtTTGC4KGvQqvxP7GN/IE4W7IxS0YDfNjkJqovqB3fENkjGnUeWai6HWroJYruPb3i/joW2hUwZ7a5VMqBtPyqnK6trEgZrsBQNH6Jb4ZhddOA37Mq0ld5pScQBWUJcngqk6Y4wZdk5aGlndk4aBH6WC1yj4zZzQmfa9MDdzJ/Vaoek6ySUhJd3jCLUc45B1/rwSpmP63a3ni4ooTveINWneU8rShnxFBPWVXGAWQIYQ8aAxHK9yiZpTp1G6PDEEGPMOdk7qXqKFg==;UUTmXQZGZNS59f2mZRi6Ew=="
 ---
 

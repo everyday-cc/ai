@@ -28,21 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning framework IDs targets for improving catalysts"
-    excerpt: "Chemists at the U.S. Department of Energy's Brookhaven National Laboratory have developed a new machine-learning (ML) framework that can zero in on which steps of a multistep chemical conversion should be tweaked to improve productivity."
-    publishedDateTime: 2022-05-10T21:07:00Z
-    webUrl: "https://phys.org/news/2022-05-machine-framework-ids-catalysts.html"
-    ampWebUrl: "https://phys.org/news/2022-05-machine-framework-ids-catalysts.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-machine-framework-ids-catalysts.amp"
+  - title: "Auditing Of AI Is Tricky, Especially When It Comes To Assessing AI Ethics Compliance, And Vexing Too For Auditing Those Autonomous Self-Driving Cars"
+    excerpt: "AI auditing is still a nascent capability and often overlooks AI Ethics compliance. This will inexorably change and be increasingly vital, including even in the case of AI-based self-driving cars."
+    publishedDateTime: 2022-05-12T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-frame-1.jpg"
-        width: 2880
-        height: 1620
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6265c81c35d2f416ec30ff04/0x0.jpg?format=jpg&crop=2849,1725,x865,y0,safe&width=1200"
+        width: 1200
+        height: 727
+        isCached: true
+  - title: "Self-driving Car Market Estimated to Expand at a Robust CAGR over 2019 – 2030"
+    excerpt: "Self-driving Cars – The Elevated Future of Mobility The race for a completely self-driving car is underway with increased ongoing testing and prototyping"
+    publishedDateTime: 2022-05-09T11:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-estimated-to-expand-at-a-robust-cagr-over-2019-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "IgjF0W5r2OO7f7iR8eZiQKGc0ywyxOKwpFgvprUDXzIQKxBaJ2v5CKJYUYGU56w6m5XVgfLJnodQzcSp7QY++T+77AWQtdUQwFA9CcZJJ+ItqnnakXkWrXfNhS4UR9NcbK9CYOIxt2Xbx4cXFB4DDw9vi/dkKfaf6Ig/LIKBnX6e0SxoG0Mz82pKQAurqqMD634HYm8YsIfAD92/tITO3tDxvOs8Df9Hk/YiXP4CiwYCeIBjki5YrLELaec37OPjiVU0zgIwOdJTj/7p+MlZdmKkYFxvH6WaEJTtt9wW9ExITs8SwBJoiWQXxReBfvdcmUadoPQyfD8UX9peN6W7rrXgGL/aWeLbR7j7gezB8O8=;GoZQlCpaT7e7E1nUa8rTSQ=="

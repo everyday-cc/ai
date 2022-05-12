@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T12:19:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-isomorphic-labs-announces-first-phase-management-team-/2022/05/12/9600813.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-isomorphic-labs-announces-first-phase-management-team-/2022/05/12/9600813.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TMCnet

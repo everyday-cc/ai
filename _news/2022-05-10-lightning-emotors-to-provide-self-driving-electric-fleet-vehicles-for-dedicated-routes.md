@@ -33,6 +33,15 @@ related:
         width: 940
         height: 627
         isCached: true
+  - title: "Oxbotica signs agreement with NEVS to develop self-driving fleet"
+    excerpt: "Oxbotica has teamed up with mobility experts NEVS to create a fleet of self-driving electric vehicles that could see use on public roads by the end of 2023. Oxford-based Oxbotica has signed a long-term strategic agreement with the firm in order to ..."
+    publishedDateTime: 2022-05-12T15:11:00Z
+    webUrl: "https://www.aol.co.uk/motoring/oxbotica-signs-agreement-nevs-develop-144252799.html"
+    type: article
+    provider:
+      name: AOL.co.uk
+      domain: aol.co.uk
+    quality: 4
 
 secured: "MkKh0vHWGS2sGugf4GDkw4Qx2s52kPu/skO9veZ+D90gUlIi5MOH2hUl8xdwMp6xZj0Mr1hGj8FfGparkwLdy5cZYs53euyr3rTirxe36ZI5KI4tpPifi/A20UB7CNGQWuHPDMRIa2e9s3THOPKuSLPS5V/vXGd/pnLwyz7CMud9RoGKPOG4SucpZOdZU9Le08bgt243y+eGzJNKwOsfQCp/6mYpDgPX3UIDXnsBtp3ijonqHll5YkMmKNTUKGMsPksH6ClS2rp+DYGSHjkxqiIiINRezjtYJ9XohUvgk8evkq5uYrBN99PSBWDJbbbIU1azlIDTEqVjnNf+Prl8yTWmWKTkLBDGUM1So1JxDxhoX8xLAP7GGKy/D4ij9A6HR42CxBJSI166ruTmrs/djMQ+ARNIqvGukV5EOz6L/I729hIdWt4apcGfs9iDKfmcKfhCzjRkoyqAhNxBs/ha7l1MCivaSqhTgX0839ER8H6w7rw8Os+SFx3rZNSYxbFiskA6jdJpc1D6AemCwqPWXA==;E3cr9f/zMWnbymgHqrxd+Q=="
 ---

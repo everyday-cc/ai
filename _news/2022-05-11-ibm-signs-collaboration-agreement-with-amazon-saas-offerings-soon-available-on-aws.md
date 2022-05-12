@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreemen
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1"
 type: article
 quality: 68
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.itbusiness.ca/wp-content/uploads/2022/05/think-2022.jpg"
         width: 1372
         height: 468
+        isCached: true
+  - title: "IBM to offer software through AWS"
+    excerpt: "The US technology firm this week announced that it has signed a strategic collaboration agreement with AWS and plans to offer “a broad array” of its software catalog as Software-as-a-Service (SaaS) through the cloud company’s marketplace."
+    publishedDateTime: 2022-05-12T14:18:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ibm-to-offer-software-through-aws/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 41
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Inside_IBM_Cloud_Dallas.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 631
         isCached: true
   - title: "IBM expands AWS parnership with new services"
     excerpt: "IBM and Amazon Web Services have signed a multi-year strategic collaboration agreement to offer IBM automation, artificial intelligence, security, sustainability and other software-as-a-service offerings through the AWS Marketplace."

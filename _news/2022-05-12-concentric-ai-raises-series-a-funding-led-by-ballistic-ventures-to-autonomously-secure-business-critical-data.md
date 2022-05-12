@@ -40,6 +40,15 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Loris Raises Another $12M for its AI-Powered Customer Service Support Platform That’s Empowering Reps to Make the Customer Experience More Pleasant"
+    excerpt: "Loris is a no-code AI solution that integrates with existing customer service platforms, to assist agents with language in real-time during conversations. CEO Etie Hertz shares"
+    publishedDateTime: 2022-05-12T13:27:00Z
+    webUrl: "https://www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 0
 
 secured: "1+VN+c0UEB78zoqcSuJZQI4Vn57/7D5/XDjluW2e3N6qes/sINlnmilSR3AUkNH3hTbpoBvqSZ3vTAiYPNLOXjHr0bwVg8Qj+Z0GPPPk5HKkC+SiJYEbnPxjk6VTnjep1CXNltZStyp6mhPk6I+AW+zSP6vt4ZkEgYxXZR9Au+7gLi/lmYtmlHFMDCsdJcQMoctz0zgPz5vwbrHsDk3b76OuiWqwMTw8Wp08VHD9DwrOi9yCXsVV7Bk8/xuZC3sKxluauFOTPsgTxez2qOMelctVniebVSoEiK3to4dDg+3o9/1afhAWI42QvonigUoJYEQGFgCpchOCKBkUMMiIJ2UdkvL883ebTWe64+sq0W+s2vQoBBC8A1TavgDJJxl7+misWAXNfR3yqLPbOioAbHGHOAuS2+GB3ZwWGQlJv7uy2BXDfloPV5IQ3/VQPFMlMm4cPzT+L7r7EwdRqkt4QCnCVLJASu+ohJ/4cit4A6pNyTKQQcAzl/m6lDZy5gFq+vOzufjb2I8VNfy68IQ6cA==;gwkeyy1fKbPzqWErDiJfww=="
 ---

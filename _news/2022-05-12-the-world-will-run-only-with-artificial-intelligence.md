@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T11:44:00Z
 originalUrl: "https://www.imphaltimes.com/guest-column/item/22857-the-world-will-run-only-with-artificial-intelligence"
 webUrl: "https://www.imphaltimes.com/guest-column/item/22857-the-world-will-run-only-with-artificial-intelligence"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Imphal Times

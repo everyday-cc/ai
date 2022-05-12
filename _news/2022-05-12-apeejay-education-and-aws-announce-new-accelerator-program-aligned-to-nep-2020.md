@@ -44,6 +44,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AWS, Apeejay Education start programme for National Education Policy"
+    excerpt: "The initiative will enable academic institutions in India to align with the technical requirements of the government's National Education Policy 2020."
+    publishedDateTime: 2022-05-12T10:23:00Z
+    webUrl: "https://www.business-standard.com/article/companies/aws-apeejay-education-start-programme-for-national-education-policy-122051200799_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/aws-apeejay-education-start-programme-for-national-education-policy-122051200799_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/aws-apeejay-education-start-programme-for-national-education-policy-122051200799_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 76
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/11/full/1639185609-6742.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Apeejay Education, AWS launch initiative to help academic institutions on technology"
     excerpt: "Apeejay Education and AWS will run the accelerator programme through multiple cohorts of academic institutions that can apply for the programme."
     publishedDateTime: 2022-05-12T09:12:00Z

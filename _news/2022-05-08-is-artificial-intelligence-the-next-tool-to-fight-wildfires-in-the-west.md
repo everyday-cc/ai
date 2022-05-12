@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence tapped to fight Western wildfires"
-    excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
-    publishedDateTime: 2022-05-07T23:09:00Z
-    webUrl: "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 59
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2022/05/07/Spring_Wildfires_50329.jpg-e40f6_c0-204-4896-3060_s1200x700.jpg?4f73bfd5e643028254bdc4481a457737dfcd6b2f"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Lockheed testing artificial intelligence to fight wildfires"
     excerpt: "All those words describe artificial intelligence. Lockheed Martin, whose space division is based out of Jefferson County, wants to use AI to help gather critical details during a wildland fire."
     publishedDateTime: 2022-05-12T03:13:00Z

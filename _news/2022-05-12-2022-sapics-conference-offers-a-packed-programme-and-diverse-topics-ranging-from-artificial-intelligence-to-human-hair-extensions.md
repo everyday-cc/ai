@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T12:44:00Z
 originalUrl: "https://www.engineeringnews.co.za/article/2022-sapics-conference-offers-a-packed-programme-and-diverse-topics-ranging-from-artificial-intelligence-to-human-hair-extensions-2022-05-12"
 webUrl: "https://www.engineeringnews.co.za/article/2022-sapics-conference-offers-a-packed-programme-and-diverse-topics-ranging-from-artificial-intelligence-to-human-hair-extensions-2022-05-12"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Engineering News

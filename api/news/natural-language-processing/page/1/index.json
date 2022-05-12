@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-12-ai21-labs-claims-its-building-the-next-phase-of-natural-language-processing.md",
+      "title": "AI21 Labs claims it’s building the next phase of natural language processing",
+      "excerpt": "AI21 says its mission is to shift and shape the way people read and write by making AI a thought partner to humans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/12/ai21-labs-claims-its-building-the-next-phase-of-natural-language-processing/",
+      "originalUrl": "https://venturebeat.com/2022/05/12/ai21-labs-claims-its-building-the-next-phase-of-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1133993095-e1652208375136.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/12/ai21-labs-claims-its-building-the-next-phase-of-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/ai21-labs-claims-its-building-the-next-phase-of-natural-language-processing/amp/",
+      "publishedDateTime": "2022-05-12T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit.md",
+      "title": "Texans can no longer use certain Instagram filters due to facial recognition lawsuit",
+      "excerpt": "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
+      "originalUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
+      "publishedDateTime": "2022-05-12T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSAT",
+        "domain": "ksat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita.md",
       "title": "AI, philosophy and religion: what machine learning can tell us about the Bhagavad Gita",
       "excerpt": "Using machine learning, we analysed meaning and feeling in different translations of an ancient Hindu holy text.",
@@ -619,49 +715,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-06-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research.md",
-      "title": "AbbVie Chooses Cerebras Systems to Accelerate AI Biopharmaceutical Research",
-      "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, and AbbVie, a global biopharmaceutical company, today announced a landmark achievement in AbbVie’s AI work. Using a Cerebras CS-2 on biomedical natural language processing (NLP) models,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-27e46b5a749e46d793c9f335dd46ca8a",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-27e46b5a749e46d793c9f335dd46ca8a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-05-unionvilles-music-education-program-receives-national-recognition.md",
       "title": "Unionville’s music education program receives national recognition",
       "excerpt": "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to",
@@ -945,31 +998,22 @@
       "title": "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists",
       "excerpt": "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-accern-raises-20m-series-b-round-accelerate-access-/2022/05/02/9593300.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-accern-raises-20m-series-b-round-accelerate-access-/2022/05/02/9593300.htm",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T06:05:00-07:00",
+      "publishedDateTime": "2022-05-02T06:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1357,60 +1401,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-eden-ai-unifies-ml-apis-from-several-cloud-vendors.md",
-      "title": "Eden AI unifies ML APIs from several cloud vendors",
-      "excerpt": "French startup Eden AI has raised a $1.6 million pre-seed round (€1.5 million) to build a programming interface that lets you access AI engines from multiple vendors. The company unifies those APIs and offers a simple way to try them out,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/",
-      "originalUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Eden-AI.jpeg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/",
-      "publishedDateTime": "2022-04-27T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],

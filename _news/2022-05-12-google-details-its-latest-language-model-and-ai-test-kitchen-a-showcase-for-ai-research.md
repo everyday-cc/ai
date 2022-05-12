@@ -63,6 +63,15 @@ related:
         width: 619
         height: 374
         isCached: true
+  - title: "Google unveils artificial intelligence tool for real-world searches"
+    excerpt: "Alphabet Inc.'s Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company previewed a ..."
+    publishedDateTime: 2022-05-11T19:59:00Z
+    webUrl: "https://www.unionleader.com/news/business/google-unveils-artificial-intelligence-tool-for-real-world-searches/article_7e28b911-e883-5520-8562-3c5c59520a84.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 17
 
 secured: "mkWs7GfU5ipPW0APeS5phgkAUqxmqYc1q7tBs6j71oSnfjCiyv5EMmlVAROpEbA7FtBOO0R7PumD0NdLAcm6HoNoPxwT90FIRUA6l1lQDlQHpmTiBWUXtkBK3zDhsutxrfxWwvGugGp8QZiN2QWGAZX6ee6hRITD3S/7EAu1yIe2PBUzR6Nxg572EAR6gOG9Naqt467ri3AnhuO5JuknFKusg8XOy8bbuPJRpFEJ4+hBWOR+Xdy53Hi4/aNnbaVgNlOWFUJ7c8aIlabhJcxTfpP8FYwQUuHndm7qY6g/koeF1mbEKdyVXOgHNslsA++w+GCHOgo/oa/fe8iG6yOtFgoT4dgG+cRm3Z2nd4Xzq53bpsm+qd/iEyBgst1yGibnIE0b/imExzu0xDEFSnNC2EgiaMrtetwEBK9rL5DJi7dn1mN+AkVcOvJr2gOwcPoPKMIg3TZFuqBxdiWbM40eVsU94Jdf7VeQ7W19MGgmT5wR+/pcz18rX7rbt5aEv7EHMlkjr50eanjNz78h6oKLvQ==;sVIzDedn1tWz4PfnnVvCdw=="
 ---

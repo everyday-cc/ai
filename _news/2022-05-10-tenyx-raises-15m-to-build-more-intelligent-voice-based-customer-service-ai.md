@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-int
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 342
         height: 342
         isCached: true
+  - title: "Loris Raises Another $12M for its AI-Powered Customer Service Support Platform That’s Empowering Reps to Make the Customer Experience More Pleasant"
+    excerpt: "Loris is a no-code AI solution that integrates with existing customer service platforms, to assist agents with language in real-time during conversations. CEO Etie Hertz shares"
+    publishedDateTime: 2022-05-12T13:27:00Z
+    webUrl: "https://www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 0
 
 secured: "JpNqhA6q5re+lNCptGD9AIR2xaoxxT77HEuRtHE5OQBWjk/1ZjiBOPpamBX+AgA3LU6MxfS1XvEr0bvroSloSVouR3O/DA+/Ib5+5CBs938IlixJz5hbgTr/g/IqKTD36wREM2djU8qQcYeopyEhh/Ewo99d+5N/kUGdJmWaBTafQrksOx5u6MlYvWpnHZnBK4RAPu5tTekFqKmmjEr7K+7xHkFBH7HQC6Nzf9k0aSrbZnclVpOa6rfQRg6UCQtX56Xds+PuKHM6mwsqkCysuGcJUs7cuxH9+abIQltlacmSUatkVt9iqnBhLNX+rewUu6g1SXuqECXRzUpT3L0DefMmbnZv6rV9np1CxTuskvM=;QBUJIbyGiYKuVkxL62AEhA=="
 ---

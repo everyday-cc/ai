@@ -2,6 +2,352 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-11-machine-learning-improves-hawaii-rainfall-mapping.md",
+      "title": "Machine learning improves Hawai'i rainfall mapping",
+      "excerpt": "University of Hawaiʻi and East-West Center researchers have developed more accurate monthly rainfall maps by using machine learning. They used a machine learning technique to detect erroneous ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
+      "originalUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-impro-1.jpg",
+          "width": 676,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-machine-hawaii-rainfall.amp",
+      "publishedDateTime": "2022-05-10T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-certn-nabs-50m-to-accelerate-background-checks-with-ai.md",
+      "title": "Certn nabs $50M to accelerate background checks with AI",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/hiring-e1631919874329.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "publishedDateTime": "2022-05-10T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow.md",
+      "title": "Create video subtitles with Amazon Transcribe using this no-code workflow",
+      "excerpt": "Subtitle creation on video content poses challenges no matter how big or small the organization. To address those challenges, Amazon Transcribe has a helpful feature that enables subtitle creation directly within the service. There is no machine learning (ML) or code writing required to get started.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T11:23:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-slai-makes-intelligent-choices-around-machine-learning-setups-for-developers.md",
+      "title": "Slai makes intelligent choices around machine learning setups for developers",
+      "excerpt": "Slai is building a developer-first platform for machine learning. It equips developers with the tools to quickly ship machine-learning applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/slai-founders.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "publishedDateTime": "2022-05-10T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models.md",
+      "title": "Predibase exits stealth with a low-code platform for building AI models",
+      "excerpt": "Or they can choose to use a blackbox off-the-shelf ‘AutoML’ solution that simplifies their problem at the expense of flexibility and control.” Indeed, while worldwide spending on AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/10/predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173239910.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models/amp/",
+      "publishedDateTime": "2022-05-10T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-microsoft-readies-its-latest-industrial-metaverse-pitch.md",
+      "title": "Microsoft readies its latest 'industrial metaverse' pitch",
+      "excerpt": "Microsoft is positioning a number of its enterprise components, from IoT to Synapse Analytics, as its stack ready to take on the 'industrial metaverse.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/85b6ea12ce92e31ebdb61572ca94cd093c168d17/2022/05/10/53c87957-c47b-474c-a213-d0e116968cd8/microsoftmetaversetechstack2021.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "publishedDateTime": "2022-05-10T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company.md",
+      "title": "Slack’s former head of machine learning wants to put AI in reach of every company",
+      "excerpt": "“The point of Graft is to make the AI of the 1% accessible to the 99% ... And this is useful because you don’t have to start from scratch on every new problem,” he said.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-924396196.jpg?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/amp/",
+      "publishedDateTime": "2022-05-10T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions.md",
       "title": "Qualcomm goes beyond smartphones with 5G and edge-AI robotics solutions",
       "excerpt": "Qualcomm’s robotic tech is taking its tech beyond smartphones. The platform combines Qualcomm AI Engine and 5G chip capabilities for cutting-edge applications and possibilities, including ...",
@@ -315,58 +661,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-10-sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study.md",
-      "title": "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study",
-      "excerpt": "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg",
-          "width": 400,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-10-intel-doubles-chip-power-to-expand-the-ai-revolution.md",
       "title": "Intel Doubles Chip Power to Expand the AI Revolution",
       "excerpt": "The new Gaudi2 chip may not be as fast as Nvidia's, but the fast-growing market could be ready for a cheaper AI chip.",
@@ -478,7 +772,7 @@
       "originalUrl": "https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -565,21 +859,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-10-artificial-intelligence-in-healthcare-market-is-booming-worldwide-ibm-microsoft-enlitic.md",
-      "title": "Artificial Intelligence in Healthcare Market Is Booming Worldwide IBM, Microsoft, Enlitic",
-      "excerpt": "New Jersey, N.J., May 10, 2022 Artificial intelligence in healthcare is a general term used to describe the use of machine learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the analysis, presentation ...",
+      "path": "_news/2022-05-10-avaya-enters-strategic-partnership-with-microsoft-to-deliver-ccaas-on-azure-cloud.md",
+      "title": "Avaya enters strategic partnership with Microsoft to deliver CCaaS on Azure cloud",
+      "excerpt": "In addition to the Microsoft Azure, Avaya CCaaS customers will gain access to the power of Nuance’s Contact Centre AI technology integrated with OneCloud. The combined capabilities is said to give Avaya customers flexibility to create and deliver ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-is-booming-worldwide-ibm-microsoft-enlitic",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-is-booming-worldwide-ibm-microsoft-enlitic",
+      "webUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
+      "originalUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://www.computerweekly.com/visuals/German/article/teamwork-puzzle-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -587,13 +881,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T03:17:00-07:00",
+      "ampWebUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
+      "publishedDateTime": "2022-05-10T04:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -603,9 +897,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -967,309 +1260,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-content-moderation-design-patterns-with-aws-managed-ai-services.md",
-      "title": "Content moderation design patterns with AWS managed AI services",
-      "excerpt": "User-generated content (UGC) grows exponentially, as well as the requirements and the cost to keep content and online communities safe and compliant. Modern web and mobile platforms fuel businesses and drive user engagement through social features, from startups to large organizations. Online community",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/09/l300_contentmod_fig1.png",
-          "width": 948,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T09:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology.md",
-      "title": "NGO partners Oyo to train public school students on coding, robotics, drone technology",
-      "excerpt": "Oyo State government is partnering Media and Digital Skills Centre Nigeria to train its public school students on Coding, Robotics, Artificial",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
-      "originalUrl": "https://businessday.ng/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/drones.jpg?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
-      "publishedDateTime": "2022-05-09T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-apple-director-of-machine-learning-quits-because-of-the-companys-return-to-work-policy-report-says.md",
-      "title": "Apple director of machine learning quits because of the company's return-to-work policy, report says",
-      "excerpt": "\"I believe strongly that more flexibility would have been the best policy for my team,\" Ian Goodfellow told staff, according to reporter Zoe Schiffer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5",
-      "originalUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6279226b94a2c10018ee8ec7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp",
-      "publishedDateTime": "2022-05-09T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-cogniteam-to-enhance-low-code-ai-robotics-platform-with-56m.md",
-      "title": "Cogniteam to enhance low-code AI robotics platform with $5.6M",
-      "excerpt": "However, the rise of digital transformation in AI and robotics begs the question — how far can low-code applications really go? In AI and robotics, designing a system from scratch often requires ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/",
-      "originalUrl": "https://venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/Dr.-Yehuda-Elmaliah-Co-Founder-and-CEO-at-Cogniteam.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/amp/",
-      "publishedDateTime": "2022-05-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-finishing-touch-how-scientists-are-giving-robots-humanlike-tactile-senses.md",
-      "title": "Finishing touch: How scientists are giving robots humanlike tactile senses",
-      "excerpt": "Giving robots sight and hearing is fairly straightforward these days, but equipping them with a robust sense of touch is far more difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cool-tech/robot-senses-touch/",
-      "originalUrl": "https://www.digitaltrends.com/cool-tech/robot-senses-touch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cropped-hand-of-woman-touching-robot.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/robot-senses-touch/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/robot-senses-touch/?amp",
-      "publishedDateTime": "2022-05-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning.md",
-      "title": "Hugging Face reaches $2 billion valuation to build the GitHub of machine learning",
-      "excerpt": "Due to the success of this libary, Hugging Face quickly became the main repository for all things related to machine learning models — not just natural language processing. On the company’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/amp/",
-      "publishedDateTime": "2022-05-09T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T13:10:00Z
 originalUrl: "https://www.geekwire.com/2022/seattle-startup-tignis-raises-7-2m-to-fuel-use-of-ai-process-control-in-semiconductor-manufacturing/"
 webUrl: "https://www.geekwire.com/2022/seattle-startup-tignis-raises-7-2m-to-fuel-use-of-ai-process-control-in-semiconductor-manufacturing/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: GeekWire

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Apple's Director of Machine Learning exits over return-to-office policy"
-    excerpt: "Apple's director of machine learning, Ian Goodfellow, has resigned from the company after three years, in part due to the iPhone maker's policies about returning to work in offices."
-    publishedDateTime: 2022-05-07T20:50:00Z
-    webUrl: "https://appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy"
-    ampWebUrl: "https://appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/48296-94297-47123-91783-000-lead-Siri-xl-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Apple's machine learning chief quits over return-to-office policy"
     excerpt: "He left a note to colleagues saying, \"I believe strongly that more flexibility would have been the best policy for my team\" Apple Inc's (NASDAQ:AAPL) director of machine learning, Ian Goodfellow, is reportedly leaving the tech giant after more than three ..."
     publishedDateTime: 2022-05-10T17:02:00Z
@@ -160,15 +144,6 @@ related:
         width: 1200
         height: 775
         isCached: true
-  - title: "Apple's Director of Machine Learning Resigns Due to Return to Office Work"
-    excerpt: "Apple's director of machine learning, Ian Goodfellow, has resigned from his role a little over four years after he joined the company"
-    publishedDateTime: 2022-05-07T19:31:00Z
-    webUrl: "https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 18
 
 secured: "effSP4WeZp1JBAwTQDGHFG0nXj9p5k3D+Q8m1EMwfEk8P5XTWPDPl+30TrE4rP3ASA/QXqLqSWltd/7bLgWtzd0AdGd+XIIfMZf/n5XjbhBY2m6vDkbviDfmIJb1PtbyJ0Totc2IBEivabOPVIflDwGZX6srqyB+GfonYRCaqL3V8kn8mBAeQWqKhJPe0ghe6jwBlYBLwnHO698AwMRuuyTL7/FDPSWyk3bFzDyGO89CCSLf8qof7ozKBAQr/me6hcsucV0SjWEqT3AIMKKrJ6+9YF2cLZ/XT1bY4jZBOa0mqCvU84y3RZeYkHO3EBtoMhlKmXoLi1J8cXh+taCzLCXqi8t4Wta1Ekx5ltxOfzWe6PzP9ZhYdCYc2iZ3BPz5W0Kfb8ZLFQMjn2YhvyF0T1MKCSAxjxykr3AGqGi9lrFJ6j8l0TIwGq5jyjvPCKKh36WQPMyDKNOJImtELf12yiqcDG1akmTgrHFoiKi/akHQMHfKX0sAVhzx7sX7tcSTu23sKRr2umS1lC1ctzEutA==;v5kfpGMpjcmtr1Lbw/8tVg=="
 ---

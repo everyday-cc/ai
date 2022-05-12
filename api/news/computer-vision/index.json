@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-12-us-cities-are-backing-off-banning-facial-recognition-as-crime-rises.md",
+      "title": "U.S. cities are backing off banning facial recognition as crime rises",
+      "excerpt": "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/us-cities-are-backing-off-banning-facial-recognition-crime-rises-2022-05-12/",
+      "originalUrl": "https://www.reuters.com/world/us/us-cities-are-backing-off-banning-facial-recognition-crime-rises-2022-05-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/15gLJghNP6gOmMBv7i4aHTVe5rQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KMEMGIH2CJIC5CELHPUKA5RQX4.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit.md",
+      "title": "Texans can no longer use certain Instagram filters due to facial recognition lawsuit",
+      "excerpt": "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
+      "originalUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
+      "publishedDateTime": "2022-05-12T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSAT",
+        "domain": "ksat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-27-rights-groups-demand-zoom-abandon-invasive-and-inherently-biased-emotion-recognition-software.md",
       "title": "27 Rights Groups Demand Zoom Abandon 'Invasive,' and 'Inherently Biased' Emotion Recognition Software",
       "excerpt": "More than two dozen rights groups are calling on Zoom to scrap its efforts to explore controversial emotion recognition technology. The pushback from 27 separate groups represents some of the most forceful resistance to the emerging tech yet,",
@@ -41,49 +137,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-instagram-disables-certain-face-filters-for-texans.md",
-      "title": "Instagram disables certain face filters for Texans",
-      "excerpt": "Instagram's parent company, Meta, has removed the ability to use some of these filters. The reason for this cites Texas' facial recognition laws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khou.com/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce",
-      "originalUrl": "https://www.khou.com/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.khou.com/assets/KYTX/images/546194956/546194956_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce",
-      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce",
-      "publishedDateTime": "2022-05-11T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHOU 11",
-        "domain": "khou.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -369,6 +422,40 @@
       "provider": {
         "name": "Ohsonline.com",
         "domain": "ohsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects.md",
+      "title": "Swinerton, Top 10 U.S. Contractor, Selects alwaysAI® to Bring Innovative Computer Vision Applications to Construction and Manufacturing Projects",
+      "excerpt": "SAN DIEGO, May 04, 2022 (GLOBE NEWSWIRE) -- Swinerton, a national general contractor with over 4,000 employees from coast-to-coast, announces a partnership with computer vision platform leader ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8534839/swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8534839/swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1297,92 +1384,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-24-darpa-seeks-proposals-on-improving-satellite-imagery-technology.md",
-      "title": "DARPA seeks proposals on improving satellite imagery technology",
-      "excerpt": "DARPA issued broad agency announcements for the efforts in February and March focused on improving SAR technology in three areas: automated object recognition; distributed radar image formation; and digital signal processing. Responses for all three are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/battlefield-tech/space/2022/04/22/darpa-seeks-proposals-on-improving-satellite-imagery-technology/",
-      "originalUrl": "https://www.c4isrnet.com/battlefield-tech/space/2022/04/22/darpa-seeks-proposals-on-improving-satellite-imagery-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/FidCxfiWA64sCTyaPFcHoG3-oec=/1024x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/5YR7EOV2KVDZXHUNG4FWBQZCFM.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-23T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting.md",
-      "title": "Facial Recognition Tech Leads to Arrest in Fatal Miami-Dade Strip Club Shooting",
-      "excerpt": "\"The subject fled on foot as the crowd inside the club dispersed.\" The entire incident was captured on surveillance video, which detectives used along with facial recognition software to identify Solomon as a suspect, the warrant said. A witness who was at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/",
-      "originalUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcmiami.com/2022/04/042122-the-office-gentlemens-club-miami-dade-shooting.jpg?quality=85&strip=all&fit=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/?amp",
-      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/?amp",
-      "publishedDateTime": "2022-04-23T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 6 South Florida",
-        "domain": "nbcmiami.com",
         "images": null,
         "publishers": null,
         "authors": null
