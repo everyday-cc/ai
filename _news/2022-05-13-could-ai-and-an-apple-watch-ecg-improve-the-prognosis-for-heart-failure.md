@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T18:50:00Z
 originalUrl: "https://medcitynews.com/2022/05/could-ai-and-an-apple-watch-ecg-improve-the-prognosis-for-heart-failure/"
 webUrl: "https://medcitynews.com/2022/05/could-ai-and-an-apple-watch-ecg-improve-the-prognosis-for-heart-failure/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: MedCity News

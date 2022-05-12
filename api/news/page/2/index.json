@@ -2,6 +2,255 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-12-new-robotics-gaming-school-coming-to-piedmont.md",
+      "title": "New robotics & gaming school coming to Piedmont",
+      "excerpt": "“We know that there will be a huge increase in the number of positions available throughout our state and nation in robotics in gaming in artificial intelligence,” Dr. Contreras said. District ...",
+      "sourceUrl": null,
+      "webUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/",
+      "originalUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myfox8.com/wp-content/uploads/sites/17/2022/05/Capture20.png?w=1280",
+          "width": 640,
+          "height": 273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/amp/",
+      "cdnAmpWebUrl": "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/amp/",
+      "publishedDateTime": "2022-05-11T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGHP",
+        "domain": "myfox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more.md",
+      "title": "Google ups the AI ante with new features for Voice, Assistant, Maps and more",
+      "excerpt": "AI systems are allowing search to take “huge ... A new capability, Nest Hub Max, allows systems to process and recognize users to start conversations much easier, Tasca said.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/",
+      "originalUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1175256533-e1652306874947.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/",
+      "publishedDateTime": "2022-05-11T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-27-rights-groups-demand-zoom-abandon-invasive-and-inherently-biased-emotion-recognition-software.md",
+      "title": "27 Rights Groups Demand Zoom Abandon 'Invasive,' and 'Inherently Biased' Emotion Recognition Software",
+      "excerpt": "More than two dozen rights groups are calling on Zoom to scrap its efforts to explore controversial emotion recognition technology. The pushback from 27 separate groups represents some of the most forceful resistance to the emerging tech yet,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353",
+      "originalUrl": "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5f6a12d4906ee80a0f8fbf3996c1e05e.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353/amp",
+      "publishedDateTime": "2022-05-11T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-evisoft-embeds-ai-into-contract-management-software-raises-100m.md",
+      "title": "Evisoft embeds AI into contract management software, raises $100M",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/",
+      "originalUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "publishedDateTime": "2022-05-11T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-google-io-to-build-better-ai-google-invites-others-to-join-its-ai-test-kitchen.md",
+      "title": "Google I/O: To build better AI, Google invites others to join its AI Test Kitchen",
+      "excerpt": "On Wednesday at Google I/O, the company showcased LaMDA 2. During the I/O keynote, Google CEO Sundar Pichai called it Google's \"most advanced conversational AI yet.\" The tech giant is working on LaMDA and other models to improve Search, Google Assistant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "originalUrl": "https://www.zdnet.com/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ab8bcde7ffed4e3a8a481d1c210a436f8e1cc4fc/2022/05/11/30026320-f49f-45f7-95fb-5a5c47bb63d4/imagine-it.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "publishedDateTime": "2022-05-11T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-trumps-voice-is-still-very-much-being-heard.md",
       "title": "Trump’s voice is still very much being heard",
       "excerpt": "Former President Donald Trump's influence is currently having a resurgence. Candidates he has endorsed are winning key GOP primaries. Candidates he had not endorsed are still swearing fealty to him. And he may soon get an important bullhorn back: The mute button placed on him by Twitter may be lifted.",
@@ -200,7 +449,7 @@
       "originalUrl": "https://www.cnet.com/news/google-adopts-10-step-skin-tone-scale-to-teach-diversity-to-its-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -945,7 +1194,7 @@
       "originalUrl": "https://blog.google/technology/research/ai-monk-scale-skin-tone-story/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -986,232 +1235,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-lightly-promises-faster-food-for-ai-models-after-3-million-seed-round.md",
-      "title": "Lightly Promises Faster Food For AI Models After $3 Million Seed Round",
-      "excerpt": "“Data is food for AI,” observed Andrew Ng, the artificial intelligence guru who co-founded Google Brain and led Baidu’s AI group. However, there’s a problem implied by the analogy. Artificial intelligence systems do indeed need data to function ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627a4f1fab77fe5b38d75a76/0x0.jpg?format=jpg&crop=2931,1374,x0,y281,safe&width=1200",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/amp/",
-      "publishedDateTime": "2022-05-10T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-robot-ethics-need-to-get-specific-says-durham-university.md",
-      "title": "Robot ethics need to get specific, says Durham University",
-      "excerpt": "As previously reported, Louise Sheridan, Deputy Director of the UK’s Centre for Data Ethics and Innovation (CDEI), believes that such fears can inhibit innovation as much as inform it. Speaking at a Westminster eForum on UK AI strategy last month ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university",
-      "originalUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-06/788FF129-6DB5-4A04-A3F4-3D6CE3DA1E75.jpeg",
-          "width": 640,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robot-ethics-need-get-specific-says-durham-university?amp",
-      "publishedDateTime": "2022-05-10T23:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-new-science-chief-underlines-strategic-investments-on-chip-ai-space-bio.md",
-      "title": "New science chief underlines strategic investments on chip, AI, space, bio",
-      "excerpt": "Lee Jong-ho, the new science and ICT minister, stressed the importance of securing core technologies of semiconductor, artificial intelligence, space and bio in his inaugural speech on Wednesday. “In an era where technology is sovereignty,",
-      "sourceUrl": null,
-      "webUrl": "https://koreaherald.com/view.php?ud=20220511000663",
-      "originalUrl": "https://koreaherald.com/view.php?ud=20220511000663",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F05%2F11%2F20220511000694_0.jpg",
-          "width": 630,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20220511000663",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220511000663",
-      "publishedDateTime": "2022-05-10T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-india-inc-wants-ai-robotics-but-campuses-lack-such-skills.md",
-      "title": "India Inc wants AI, robotics but campuses lack such skills",
-      "excerpt": "With India Inc digitising all its processes over the last two years of pandemic, there is demand for big data analytics, fintech and risk analysis, AI, cybersecurity, and product design and engineerin",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/education/news/india-inc-wants-ai-robotics-but-campuses-lack-such-skills-11652247649928.html",
-      "originalUrl": "https://www.livemint.com/education/news/india-inc-wants-ai-robotics-but-campuses-lack-such-skills-11652247649928.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/05/11/600x338/Tech1-kXnD--621x414@LiveMint_1652248070831.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/education/news/india-inc-wants-ai-robotics-but-campuses-lack-such-skills/amp-11652247649928.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/india-inc-wants-ai-robotics-but-campuses-lack-such-skills/amp-11652247649928.html",
-      "publishedDateTime": "2022-05-10T22:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-robots-and-the-future-of-remote-healthcare.md",
-      "title": "Robots and the Future of Remote Healthcare",
-      "excerpt": "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that replicate the manual techniques ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews",
-      "originalUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

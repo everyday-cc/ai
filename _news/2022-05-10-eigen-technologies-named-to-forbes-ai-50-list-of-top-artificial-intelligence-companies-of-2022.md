@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Forbes evaluated hundreds of submissions and recognized Nauto for its intelligent driver safety system that helps drivers avoid collisions and injuries by assessing roa"
+    publishedDateTime: 2022-05-12T20:00:00Z
+    webUrl: "https://www.kron4.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 47
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2019/06/KRON4_Transparent-Equal-Height.png"
+        width: 598
+        height: 208
+        isCached: true
   - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
     excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
     publishedDateTime: 2022-05-09T21:49:00Z
@@ -41,15 +55,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 27
-  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "PALO ALTO, Calif., May 12, 2022 /PRNewswire/ -- Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its ..."
-    publishedDateTime: 2022-05-12T17:40:00Z
-    webUrl: "https://whnt.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
-    type: article
-    provider:
-      name: WHNT
-      domain: whnt.com
-    quality: 27
   - title: "6sense Named To Forbes AI 50 List of Companies to Watch in 2022"
     excerpt: "“We’re proud to make the Forbes AI 50 list and to be recognized as an innovative leader,” said Jason Zintak, 6sense CEO. “6sense is the first and only platform to apply the power of AI across the entire buyers’ journey to provide a better ..."
     publishedDateTime: 2022-05-11T13:46:00Z
@@ -58,6 +63,15 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
+    quality: 17
+  - title: "Forethought Named to Forbes AI 50 List for the Second Consecutive Year"
+    excerpt: "Forethought, the human-centered AI platform, was named to Forbes AI 50 list for the second year in a row, accompanied by other notable privately-held North American organizations that are making the most interesting and effective use of artificial technology."
+    publishedDateTime: 2022-05-12T19:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/12/9601331.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
 
 secured: "b9GeU1RvbK8nb2qwLJ/+MOkakFXnc9wq0kZ2fvC1OGioKR684ypEi/O0P6X+y6ba71IAa9WQPh6o5jyALGV/CpXiA4Ve6vpR6RuNGd0vzVEH5PnQaTmaEigPVpKWm0FT8nOKDNLpkTiBFw4nLec4L9f43DjAPWToCa1v/mropP1koCjxjqC5z1pt8l2RlsHT/+YNDn26iFTo2dxc8jwflMTwxkH/p5CCBo0iN0dB64drbG6Z34MBOrt150uHD0OYl4Pl+5vwYuGcCqUoz7r+aMMk4qPJfv2xxp4TJ52FneVlR6912Pw9lkJOzyC/oYtM8z0bu5hUjAnqoEkp0wJJal8jcENGeOSvwkJw6LfjTTE=;6Pz/jtggR6m2+OyuKUO87A=="

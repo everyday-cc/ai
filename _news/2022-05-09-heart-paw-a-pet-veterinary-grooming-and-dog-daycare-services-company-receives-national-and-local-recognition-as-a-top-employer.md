@@ -62,20 +62,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Video Surveillance Market Size, Share, Trend, Top Key Companies, Segment Analysis by Type and Future Forecast 2028"
-    excerpt: "Global Artificial Intelligence in Video Surveillance Market growth prospects of the regional and global markets"
-    publishedDateTime: 2022-05-11T11:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-surveillance-market-size-share-trend-top-key-companies-segment-analysis-by-type-and-future-forecast-2028-2022-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Medicine Market Emerging Trends and Competitive Landscape Forecast to 2031"
     excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
     publishedDateTime: 2022-05-10T08:40:00Z
@@ -89,20 +75,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "3D Machine Vision Market Size, Share, and Growth Analysis Forecast- 2025"
-    excerpt: "Snapshot The 3D machine vision market has been estimated to experience numerous growth avenues in the foreseeable years."
-    publishedDateTime: 2022-05-11T06:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/3d-machine-vision-market-size-share-and-growth-analysis-forecast-2025"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/3d-machine-vision-market.jpg?w=410"
-        width: 410
-        height: 1025
         isCached: true
   - title: "Business Intelligence Market Trends Forecast and Industry Analysis to 2030"
     excerpt: "Another factor which is expected to be a high-impact trend in the near future is the advancements in artificial intelligence. Companies worldwide are estimated to incorporate artificial intelligence with business intelligence solutions for sustainable growth."

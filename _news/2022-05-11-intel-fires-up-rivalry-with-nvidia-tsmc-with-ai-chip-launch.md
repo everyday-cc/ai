@@ -155,6 +155,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intel Leverages Habana’s AI Chips to Train Self-Driving Cars"
+    excerpt: "... 8,000 Gaudi2 server chips in its data centers to inform of further advances of the upcoming Gaudi3 chip. Intel rolled out a new generation of AI server chips that offer a massive jump in computing, memory, and networking capabilities, setting it ..."
+    publishedDateTime: 2022-05-12T18:30:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21241539/electronic-design-intel-leverages-habanas-ai-chips-to-train-selfdriving-cars"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 36
   - title: "Intel Upgrades for AI Wars with Habana-Designed AI Chip"
     excerpt: "The 7-nm Habana-designed Gaudi2 is twice as fast as its first-generation predecessor, according to the company."
     publishedDateTime: 2022-05-11T13:19:00Z
@@ -181,6 +190,15 @@ related:
     provider:
       name: IT-Online
       domain: it-online.co.za
+    quality: 4
+  - title: "VSBLTY NAMED INTEL® CHANNEL PARTNER OF THE YEAR AT INTEL VISION 2022"
+    excerpt: "VSBLTY technology provides enhanced customer engagement and audience measurement using machine learning and computer vision. Its industry leading VisionCaptor™ and DataCaptor™ software combine motion graphics and interactive brand messaging with ..."
+    publishedDateTime: 2022-05-12T19:56:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/05/12/vsblty-named-intel-xae-channel-partner-of-the-year-at-intel-vision-2022"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 4
 
 secured: "/A4E0fXAnpQu7Ji1FDLByn7iyeXKRVMqB3UaZ51hBuAIupiJ9b3TiZkohasfK4cjECrMjVW2T3KQeb0vKyfvOApLZ8vIFg+o1pIpDhokiQGSupjW3x079MIM55//lKdZWgxkUAUUqFupXfc47FHWTdGFy1NuWI3K/VQpvIuDyWAy4hBBgcJLPpKR55NXq6kA4mKOucqwGl2+Sp44baM0vJYRxGQE9H83y0A86ez3v9FhFkD/axTSIz0QYpxsnSNTT8qkh+p8xsfUM1PDueJmGiscJTuyQ94Do7EHH1wSPMyDFVSyr/TA0hifpSJMGVoetuCev/BzfqdVLRxH5yahnI+3jl+dos8hebPfq4IgeUc=;QHlvv2z3YECxRQY8zK/veg=="

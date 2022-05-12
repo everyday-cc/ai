@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-11T21:48:00Z
 originalUrl: "https://www.digitalcameraworld.com/au/news/voice-control-for-your-camera-i-was-sceptical-but-theres-big-potential"
 webUrl: "https://www.digitalcameraworld.com/au/news/voice-control-for-your-camera-i-was-sceptical-but-theres-big-potential"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: digitalcameraworld

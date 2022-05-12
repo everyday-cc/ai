@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-11-intel-unveils-new-ai-5g-technologies-at-texas-conference.md",
+      "title": "Intel unveils new AI, 5G technologies at Texas conference",
+      "excerpt": "Many of the artificial intelligence semiconductor technologies aim to boost productivity, cybersecurity and public health outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
+      "originalUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kgw.com/assets/KGW/images/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
+      "cdnAmpWebUrl": "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
+      "publishedDateTime": "2022-05-10T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KGW8",
+        "domain": "kgw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions.md",
       "title": "Qualcomm goes beyond smartphones with 5G and edge-AI robotics solutions",
       "excerpt": "Qualcomm’s robotic tech is taking its tech beyond smartphones. The platform combines Qualcomm AI Engine and 5G chip capabilities for cutting-edge applications and possibilities, including ...",
@@ -159,7 +202,7 @@
       "originalUrl": "https://www.cnet.com/tech/intel-doubles-ai-chip-power-to-expand-the-ai-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -484,10 +527,10 @@
     {
       "path": "_news/2022-05-06-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research.md",
       "title": "AbbVie Chooses Cerebras Systems to Accelerate AI Biopharmaceutical Research",
-      "excerpt": "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption . Cerebras Systems, the pioneer in high performance artificial intelligence (AI)",
+      "excerpt": "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, and AbbVie,",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -495,13 +538,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T12:40:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27030653",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27030653",
+      "publishedDateTime": "2022-05-05T10:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1362,40 +1405,6 @@
       "ampWebUrl": "https://www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street?amp",
       "publishedDateTime": "2022-04-27T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-nvidias-push-for-ai-innovation-could-propel-this-etf-higher.md",
-      "title": "Nvidia’s Push for AI Innovation Could Propel This ETF Higher",
-      "excerpt": "In particular, artificial intelligence (AI) investment is driving innovation for the next wave of disruptive technology. Chip maker Nvidia is doing just that. It's evolving from its identification as a semiconductor producer and focusing on growing its AI technology to remain competitive in its respective marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
-      "publishedDateTime": "2022-04-25T11:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",

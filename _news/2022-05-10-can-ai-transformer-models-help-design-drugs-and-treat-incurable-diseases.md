@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Discovers Precise Treatments for Blinding Diseases"
-    excerpt: "New study discovers subpopulations of retinal cells using artificial intelligence, that may help modify the treatment preciseness of blinding eye diseases."
-    publishedDateTime: 2022-05-08T04:37:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 68
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/eye6.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Can transformers help design new AI drugs and treat incurable diseases?"
     excerpt: "Analysis AI can study chemical molecules in ways scientists can't comprehend, automatically predicting complex protein structures and designing new drugs, despite having no real understanding of science."
     publishedDateTime: 2022-05-09T10:47:00Z

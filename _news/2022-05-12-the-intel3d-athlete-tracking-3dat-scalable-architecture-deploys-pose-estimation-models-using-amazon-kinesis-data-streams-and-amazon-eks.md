@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T18:42:44Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/the-intel3d-athlete-tracking-3dat-scalable-architecture-deploys-pose-estimation-models-using-amazon-kinesis-data-streams-and-amazon-eks/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/the-intel3d-athlete-tracking-3dat-scalable-architecture-deploys-pose-estimation-models-using-amazon-kinesis-data-streams-and-amazon-eks/"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: AWS

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220510/Research-offers-insig
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 824
         height: 354
         isCached: true
+  - title: "How Do Patients Feel About AI in Health Care? It Depends"
+    excerpt: "A new survey looks at what patients think about AI playing a role in their health care diagnosis and management."
+    publishedDateTime: 2022-05-12T19:08:00Z
+    webUrl: "https://www.webmd.com/a-to-z-guides/news/20220512/how-do-patients-feel-about-ai-in-health-care-it-depends"
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 19
 
 secured: "0ApdMZQiL9iSPNIyFrruLZQz6YRh7K/J8cWKXAvt+VP194WPfFXe74ab2X0nqYUBOGALkCMszikuO46vb17fh1tIn6fllKVSRLfj/qNzRuT0TPjWZD0Swb1Fqjt0xaWLukIo8ngyuFHmzjMEwA7rNfyI5snrXcSFHsi4pcTvXQvT1hDLxJ7+uoshKvrvzn39D1pufPAat8f9eKAfJ4YzMt5ykUhAbjT0/rQbwSFvMTLHY7PIRPvln7pLMh3xMcEO3/rvumkg/gInvuhBZeHqiGaeZb1SUAF5ATvJ4nVJeXz0nsX5wwJyXjRQ9+23Cb8R6keystTaHdYVYNsjsT3wWgHyKgV/JJHywNNfAvWly0k=;R6kRr0LGsF/Ruc4SzXXVTQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
+    excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
+    publishedDateTime: 2022-05-12T17:53:00Z
+    webUrl: "https://www.ktvb.com/article/news/local/drivers-choose-safety-improvements-over-self-driving-cars-according-to-aaa-idaho/277-97815cbe-50c1-4404-8b1a-4e7a389c0a0d"
+    type: article
+    provider:
+      name: KTVB
+      domain: ktvb.com
+    quality: 2
 
 secured: "fu2mww+QwGwG/ac4L5uzqWhKcVIebslZ88BwGKEnn8ReP1OKM5howpoCNGSFhp9DwYVeYmJJ3xogQR/wnjk2hitrx/hJE7h0k+7Dd4lHr9zYTikY6+3k/5nC+97CW5VcKXIXp2LVIOpH4+Xg2hCM3RFaTDqWFR4/Az3Wuawkg2j0Hwhaqpqn+ifwkxmTgdCFR4of0YtiuOov/9l+PHYseHva2FkB6Uv4KQLWrCfUO8gZ4y3JpVgicZwWYqV6bzPhSxay+L1LmksyOs6is1CyLFt+SdjOZEVRKW6k4FSrRJeolkhRzQ0u8jS6SDyazzzaEifVTvdBN/tIJwnF1h3EfOR2ZDjM8amMatdAg1N90mvrH3C0BbU7CPe4srzWw2DneJWZfNiQp1ubfMfHAE6MNOBEeAIvxmwEfboy+MRcV6n7cEgfKqmQkcgoTzyUaKGRDaLK/oRLrCyxgcIHphCzsebGjzmDAASKoyb8eOmHp4bZlPVx5XyDZPDXGICuN3g1J27laYfFvleq5LCIAvyCSQ==;59dg+kxn4IJ6f3KuRKJdAA=="
 ---

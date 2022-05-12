@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/covid-technology-he
 webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-business-africa-b105d0901b2f4080b2cd061fe4a41ad1"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -25,34 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Pharma Global Market Report 2022"
-    excerpt: "The \"AI In Pharma Global Market Report 2022, By Technology, Drug Type, Application\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-05-09T20:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-in-pharma-global-market-report-2022/article_efcc6150-0439-5556-9c73-b9d174e1bbc9.html"
+  - title: "Worldwide Security Robots Industry to 2027 - Featuring AeroVironment, BAE Systems and Boston Dynamics Among Others - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global security robots market"
+    publishedDateTime: 2022-05-09T12:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/b27074123/worldwide-security-robots-industry-to-2027-featuring-aerovironment-bae-systems-and-boston-dynamics"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "AI in Bio Pharmaceuticals Research Report 2022 - ResearchAndMarkets.com"
-    excerpt: "AI is regarded by some top executives at big pharma (Novartis ... Microsoft partnered with robotic surgery startup Cmr Surgical on a proof of concept to store clinical data from cmr’s next-generation surgical robot, Versius, into a glass, marking ..."
-    publishedDateTime: 2022-05-11T10:07:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-86f0d638b22a40dda9d8e1b38b8a9e6d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
   - title: "Global Autonomous Tractors Markets, 2022-2026: Developments in AI, Machine Vision & Machine Learning Remain Critical to Commercialization & Growth"
     excerpt: "The \"Autonomous Tractors - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Autonomous Tractors Market to Reach"
     publishedDateTime: 2022-05-11T12:15:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T19:30:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-pactera-edges-new-oneforma-app-makes-creation-ai-/2022/05/12/9601349.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-pactera-edges-new-oneforma-app-makes-creation-ai-/2022/05/12/9601349.htm"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: TMCnet

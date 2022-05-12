@@ -1,23 +1,80 @@
 ---
 category: news
 title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-excerpt: "View original content to download multimedia:https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto ..."
-publishedDateTime: 2022-05-12T17:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-1031454864"
-webUrl: "https://markets.businessinsider.com/news/stocks/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-1031454864"
+excerpt: "Forbes evaluated hundreds of submissions and recognized Nauto for its intelligent driver safety system that helps drivers avoid collisions and injuries by assessing roa"
+publishedDateTime: 2022-05-12T20:00:00Z
+originalUrl: "https://www.kron4.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+webUrl: "https://www.kron4.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KRON4
+  domain: kron4.com
 
 topics:
   - AI
 
-secured: "LiUhUjkQhv3B9R+IZISUgEqysk9s9CAOE2gxac8YJLxfFDIyKBReMLpyPX4TSQ1eJ7L8hx3CNEszE3pRxKZ1DLaKdzbG/W1nbKOM7AXdq2Xummi2NMXEahe4N+m92O5XvWvTXD0DNX7BAj9VC6tvGOoL9cWHGpHxi6LW1gPdP7Uwtwo3dMAfXyvFSiS1xB7ZPEVGysZS2WjzxJvNhxgKPvxNti22XmkVhyFwG7cEUuVA29esxoQGWVsj333uJXaRSQ/E+8WKZwmr7URgjhsHDjQpJKQ5gWOf3mnOxEznobMCpkL0WGoXIoBnnMWVWMeztFcN/fix/+DJ7Z4qlKNTsqVHGr5RaEnGc1vRWI5EgFM=;IOLDoZrOfZB+kRnoHkW46w=="
+images:
+  - url: "https://www.kron4.com/wp-content/uploads/sites/11/2019/06/KRON4_Transparent-Equal-Height.png"
+    width: 598
+    height: 208
+    isCached: true
+
+related:
+  - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
+    excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
+    publishedDateTime: 2022-05-09T21:49:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220509SF51230/arize-ai-named-to-forbes-ai-50-list-for-second-consecutive-year/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 37
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
+  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its selection to the 2022 Forbes AI 50 for North America. The list recognizes standout privately-held companies making the most advanced and impactful uses of artificial technology."
+    publishedDateTime: 2022-05-12T12:00:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220512la56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 27
+  - title: "Eigen Technologies Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Eigen Technologies (Eigen), the global intelligent document processing (IDP) provider, is proud to announce that the company has been named on the fourth annual Forbes AI 50 list 2022 for North America. Produced in partnership with Sequoia Capital, this ..."
+    publishedDateTime: 2022-05-10T13:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9599327.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+  - title: "6sense Named To Forbes AI 50 List of Companies to Watch in 2022"
+    excerpt: "“We’re proud to make the Forbes AI 50 list and to be recognized as an innovative leader,” said Jason Zintak, 6sense CEO. “6sense is the first and only platform to apply the power of AI across the entire buyers’ journey to provide a better ..."
+    publishedDateTime: 2022-05-11T13:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-5a580e21096e7398f0cb7481ace03b36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+  - title: "Forethought Named to Forbes AI 50 List for the Second Consecutive Year"
+    excerpt: "Forethought, the human-centered AI platform, was named to Forbes AI 50 list for the second year in a row, accompanied by other notable privately-held North American organizations that are making the most interesting and effective use of artificial technology."
+    publishedDateTime: 2022-05-12T19:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/12/9601331.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+
+secured: "vUadBYYKyBqDLQ84l7ggN+nqCiR3r2l3VB/N6E0ItrxMtcRujujRUguhWSDwHpVWLJjNLTX1Oy+N1NnjYgZ0zcQW2R4y0S1VUxA1dlQnFObgkXoQViqMNW9oA9oG5eVt7iZY7rdvSaVVCTA2gRwuC65M5at+dyPeerCtntvpARwSqnlqHgZyNTCEymqh+HT9rsEr7OVKPbRrLA9u3iGKJOGOdy/0qCYlCwUcp0aIOm6WLM1OASexDjrolAFCYpJDIxe8SCZhPIBHUQuZfdWpivitQ4CdPTj/JlRc4wMTvH7+eYSNd0BvaWheVYlvEe50zFEtyEGU4Bto+JUUx1qIR5hJGMYsag24y0AnrDxzU9o=;A6Aqqbq2pafaIg87qPE8PQ=="
 ---
 

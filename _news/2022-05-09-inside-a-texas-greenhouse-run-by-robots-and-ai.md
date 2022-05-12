@@ -41,6 +41,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Valiot’s AI Manufacturing Tech Promises Growth in Texas"
+    excerpt: "A Hub of American Manufacturing Valiot & Texas Officials Valiot Meets with Texas Government Leaders AUSTIN, Texas - May 12, 2022 - (Newswire.com)"
+    publishedDateTime: 2022-05-12T18:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/valiots-ai-manufacturing-tech-promises-growth-in-texas"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
 
 secured: "wJ5vTk67gTBIJTUuFu79+mXfOsqYATL0sPWKEfLQ3cPg5Fcc9k87v0roz8gpRz53mw7k4MTeVSdl+/05+j4INRl3j5R/PwZUx6VvzVthLmomtgCaWofV/RrVmymC3Oz3wnW1mP7DfSut21p2hEzNcH5rJU4jsjtphDhlAN6givpg7pxZyzXmnwKvcnPFbmCQcUS8jWrgiev8OEFYvlbyTGOHlLQMixVes1wWAHcwe8S7E+krvpolfFIlq+DsqBEqY2kJhtjcz03313vTuVpTMFJUTRc+6J2r9J+TRUl/lASfXbkY96aaDIX0/o8V5Iu8WaglEuG2vncXwOAV2YB/rElJ+eksK8ufWJivdzuKljyfCa9G8uPd/g29ca56mGSpjZX6e2aJB3UB/Hj9wyNQ3ABew5NynEyYmXAn5OyNMJNIz0We5Tnipcs/ms+WuNN33we8DwPcMYov1fxr/jMAcnw/LHCu8ReSMyKDfUPFWrvc9e0gF04tMakf2X0fBf+XpU/qss5Q3mH9hTT0pAmN7g==;i9Rf1KA458DIIyxZTe6NyA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T19:37:00Z
 originalUrl: "https://www.biometricupdate.com/202205/checkout-com-buying-biometric-id-verification-startup-ubble-to-secure-online-payments"
 webUrl: "https://www.biometricupdate.com/202205/checkout-com-buying-biometric-id-verification-startup-ubble-to-secure-online-payments"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Biometric Companies

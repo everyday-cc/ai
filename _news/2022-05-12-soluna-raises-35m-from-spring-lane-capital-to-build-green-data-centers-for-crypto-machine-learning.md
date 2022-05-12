@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T12:00:00Z
 originalUrl: "https://www.boersennews.de/nachrichten/artikel/soluna-raises-35m-from-spring-lane-capital-to-build-green-data-centers-for-crypto-machine-learning/3663471/"
 webUrl: "https://www.boersennews.de/nachrichten/artikel/soluna-raises-35m-from-spring-lane-capital-to-build-green-data-centers-for-crypto-machine-learning/3663471/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Börsennews

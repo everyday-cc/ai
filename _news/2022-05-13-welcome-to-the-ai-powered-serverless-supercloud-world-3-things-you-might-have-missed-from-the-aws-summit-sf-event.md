@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T17:33:00Z
 originalUrl: "https://siliconangle.com/2022/05/12/welcome-ai-powered-serverless-supercloud-world-3-things-might-missed-aws-summit-sf-event-awssummitsf/"
 webUrl: "https://siliconangle.com/2022/05/12/welcome-ai-powered-serverless-supercloud-world-3-things-might-missed-aws-summit-sf-event-awssummitsf/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: SiliconANGLE

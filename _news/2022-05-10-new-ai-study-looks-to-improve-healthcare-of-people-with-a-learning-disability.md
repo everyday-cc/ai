@@ -43,6 +43,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "How Do Patients Feel About AI in Health Care? It Depends"
+    excerpt: "A new survey looks at what patients think about AI playing a role in their health care diagnosis and management."
+    publishedDateTime: 2022-05-12T19:08:00Z
+    webUrl: "https://www.webmd.com/a-to-z-guides/news/20220512/how-do-patients-feel-about-ai-in-health-care-it-depends"
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 19
 
 secured: "rcy+uQp6iW7ZFqzacJyOJqpqeTuY4dnTJuAShMxpOVgDjiXtbp+E4Un2otIFIczc5OUDrmV9FeMnvWkolfTRoRZlGUPyhwUD//R/x2M0KVYD/TEzciFD3lRp7gNXgUw5qrmmFY0tbvnCSCD0AM7zdQIB5nnqlNai2mR3PJUb9V72hqVD4yj2y09CW91KMugB+DucAbX1IQSHw66JFiNE2Tq0rT3DHwyLpk+OjByXQCf1gryVK0NYqq5QItkS20/6ItfmEwkOrKRzsaZ+Wn0nuGfXASLV4SnNJblwOomqYeHJhWwEVluxWTWTzxodA2MCow8qc53dE08AYeZc5el7lz4UxFbKUr/7v7JOFGmIy+g=;soWsR+qsp+BzuUrTbbJgAg=="
 ---

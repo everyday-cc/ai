@@ -45,7 +45,7 @@ related:
         height: 1061
         isCached: true
   - title: "The 1997 chess game that thrust AI into the spotlight"
-    excerpt: "LeCun, one of the founding fathers of modern AI, lists among the achievements of today's computers an ability \"to translate any language into any language in a set of 200 languages\" or \"to have a single neural network that understands 100 languages\"."
+    excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer. May 11, 1997 was a watershed for ..."
     publishedDateTime: 2022-05-11T07:46:00Z
     webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
     ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"

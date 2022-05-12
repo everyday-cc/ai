@@ -1,20 +1,29 @@
 ---
 category: news
 title: "Deep North Launches Checkout IQ, a Solution for Retailers to Prevent Asset Loss"
-excerpt: "Deep North, the intelligent video analytics company, today announced the launch of Checkout IQ, its new retail loss prevention solution, which uses computer vision and AI to reduce shrinkage at checkout."
-publishedDateTime: 2022-05-12T13:03:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/article_e9cc83fc-27c7-59b6-907f-446f1c38b486.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/article_e9cc83fc-27c7-59b6-907f-446f1c38b486.html"
+excerpt: "Its end-to-end software solution combines computer vision with deep learning technologies to help retailers and businesses deliver metrics such as footfall, conversion, consumer demographics ..."
+publishedDateTime: 2022-05-12T16:03:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "jGuV5xVf+x9IhkxxE9RQ48YHEzLvc8bdrwKATNRHHxdepwuWFMRUZfFtTjNmVJN3QTXPpeZJMdGiKfbZaaaKaIfhduVSKjTCNMlJJif1nxStwlgOhIM6umuj6rDRX4EssnEXDs4WziFP2TdPn/OZY4USgQrcqJ7m9TGUIk0GR9nGntQuKU8ZtVg5swpf1wp8km+R6WNRI02Y+QmGA6T9g4lLq0rSurfIh3dD9Wdr45CoWSCPgml8lmxXMp5yA6rWFiE5U5akqgAoLNgZ2OD54+4NTdZJ0t0XXU01mbLVn94c5Pa/v6n4CCJutJlDgDtjDgWzTkAm+YIKCCYmrCd3Dl7xucouwge3eBEZi84ig96p17Xm9BCT8LVLfgO3CkER9cGxsJ+/KyON9CWjctVQN5c9gk4U/IyItz8nsvujiHYMANMAEahEXQPI0DhlxoTTaTPlmj5F473zcGd48ekuhjUz5PaMl+UitaO8NN44etUtzoLxiSWCQ+kJIE1JuvaBX/KQRuYf/EaLWHQojL5W+g==;Zg2EgpqlxOajt5Ks2bcrwQ=="
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
+
+secured: "s6h9J3D8N9OHdkP3JLeCahsQGm0K8+HtqdRNfS28zMp4X1KqyQZ+zuAzqNN8wRLdrsHfs87Ow8nwLSw6DLakkV8fGuO6xQGUGtRLasuytiQWHJFj+2n+4X9gEYP+ZryeBBGsEh7BDca0qiTOaQoAY9Aq2+bl9b7cq6dSfrZ1Iu70ObarNmqQ/mDp5ILAH5nMsT2qmjrJOYP4SareHTYATHCLY0xsduiTMMuYWD64rPWp7+LMQwFB2WaYBAzIl9gIvNegmcLaBPe7LU7lSXzhferQ1YS25/49JKZF//f6W0N+Pf1gZL9jo0Y2dKZJcy3vdxyYL951Gk+MhsoU03cECPyNnVzVsOWjphYsl2MHnao=;7/P/XHQewNONBuwjkC5VfQ=="
 ---
 

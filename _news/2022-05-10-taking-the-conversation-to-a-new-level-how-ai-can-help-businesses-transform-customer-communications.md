@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/10/taking-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/10/taking-the-conversation-to-a-new-level-how-ai-can-help-businesses-transform-customer-communications/amp/"
 type: article
 quality: 72
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Lang.ai looks to help orgs extract value from customer conversations, with AI"
+    excerpt: "Lang's AI-powered customer conversation platform extracts the key concepts in a conversation automatically, so they can be grouped into categories that make sense for a particular business."
+    publishedDateTime: 2022-05-12T19:54:00Z
+    webUrl: "https://venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/07/conversation1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 792
+        isCached: true
 
 secured: "2VhzAUEZT5z9XAdTQTdexxzdG3xFHN+Bm1lHEP0uaKGd0jyv98wvVYmU5yQxCdjy9CU0ARATnxbovdCoPcD5YnS4wdVjKihcsgMu4JAe5WNr2BoK/EJYGyxAmh9zpnsP2SatjMbBCCdLB+DVI+DmizUIaLsR9b5NO4uk4mA1c7JAJdyyO5Eu8cneY//M4BrQy8tX+Qqs0eXAbDfQKK64JMvxP1dw0VU1NpakyYP+zfK6aCBg77uSQbigGPVyG/zsDfKKi7KyK2fotJao2L4lc+RjWuL0jS0Pze2Eqqg7r6CQwEzzmHWJthRRIGojMd++JZZaKa5VWFcIXOsq2vKrMIO7dyw4g6K340LVnBI2cdr+2qCyWuQIVAXw7M4FJKE3z7Zq4p3seB2qzdVXhNL/SAakslLhQykMf2cXgECODwY8M5si8rCJ/Nl9ykQ9goBOP3nXzkT8uHw3b8RLQedIUpWQWAZDXChrqOranV2kUDmtLW2VhMeIIB6VSGYWmd7X1aCaKrO/TAoTiRHBr+XS7Q==;PCzgpV78iCVaBillD4bPwQ=="
 ---

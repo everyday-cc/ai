@@ -1,20 +1,26 @@
 ---
 category: news
 title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ..."
-publishedDateTime: 2022-04-28T22:26:00Z
-originalUrl: "https://businessmirror.com.ph/2022/04/29/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/"
-webUrl: "https://businessmirror.com.ph/2022/04/29/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/"
+excerpt: "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ..."
+publishedDateTime: 2022-04-28T23:28:00Z
+originalUrl: "https://www.stltoday.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_64f01cd3-510c-5779-b385-e9ae9ce9a288.html"
+webUrl: "https://www.stltoday.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_64f01cd3-510c-5779-b385-e9ae9ce9a288.html"
 type: article
 
 provider:
-  name: BusinessMirror
-  domain: businessmirror.com.ph
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "2UMbH9BN9bOVnS4Jms1fBYOdejqmtFc+X37n8JCTmQNYhtu7YBRc6c6E7gOndCoAe8agT0CYPr648EmVZ5Ptg4vyS2xwqjNMzTa30jpRnYakUbMrDgB2boIYWCo+8CAuxkgDmngZ0Mcmr6+WsLQJfLTWkd3czlSVONA1LXK7WCOAG+w7XJO91cvwIpvyc5DaNHtgfhUTwUeggfYIsXi659aUNykfm63DlKVy0SVKUK8mh3kDF7TuTzsFFRUh1VKWjh5PLgenkS//ToLG7yHQcmyqe4yUrK539NL87yvCfj2YBAPdlB8XBu/r5Q7rJPDCh0BIXiWBXB1IEK1xKn7PpNq+cbxW9o+t1mKWaRv2atk=;5hCBJztVWE3tZDsB4Ms/Wg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/7f/57f67885-70b8-5cef-a28e-a3cc1e5e6e85/626a3f1052c4b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "rscRm9ctuEh8gQ0r5FOfhHyO8kpJoU4LH1Q23x+9NHGdL+8Tk0IMMFqlUm5omIW13nF+xAY27Abo5ZEj/j9RrkgvlBzzXM1WxM7pqp9Pkv81bzNKntFFgaD/UZ3o2CkKhKuvz9Ap+Kkg0/bdLWW/tWwPLIzoYs9gztLdIKs5gtILcPD+roY3kI+YLiuU/8nNaZ8uLs3C7NtrSc+laKQjwULwbQm4FWuGCkvTMVhoZFBRrm/8Zj5qKNl+nDjiv4WaehheWM10pyFWOIukfNuXPRKQQTO4GW4TTIjlg6ajXTLelwtsqggPxWBPN1kVbWCNwDcXbjsBEMzTeqWDq8dwd2pLyBk8YiLKqi1280lVqLA=;5mrEqaSAJXvHjT5B3Pw5lg=="
 ---
 

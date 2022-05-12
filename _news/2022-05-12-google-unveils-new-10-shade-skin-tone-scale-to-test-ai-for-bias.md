@@ -70,6 +70,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Google Adopts 10-Step Skin Tone Scale so its AI Understands Diversity"
+    excerpt: "You'll notice the Monk Skin Tone Scale in beauty-related searches to start, but Google is also building it deeply into its AI infrastructure."
+    publishedDateTime: 2022-05-12T18:16:00Z
+    webUrl: "https://www.cnet.com/news/google-adopts-10-step-skin-tone-scale-so-its-ai-understands-diversity/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "Google Introduces Monk Skin Tone Scale to Improve AI Color Equity"
     excerpt: "When it comes to trailblazers in the field of color equity, Google doesn’t grace the top of many lists. But there’s a contingent within the company trying to change that. At its I/O 2022 conference, Google introduced a tool it intends to use to improve color equity through representation."
     publishedDateTime: 2022-05-12T15:30:00Z

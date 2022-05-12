@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T19:05:00Z
 originalUrl: "https://betakit.com/fintech-earnings-week-revenues-up-for-nuvei-propel-mogo-payfare/"
 webUrl: "https://betakit.com/fintech-earnings-week-revenues-up-for-nuvei-propel-mogo-payfare/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: BetaKit

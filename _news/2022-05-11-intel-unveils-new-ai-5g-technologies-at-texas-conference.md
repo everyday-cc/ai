@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kgw.com/amp/article/news/local/technology/intel-ai-compu
 cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: KGW8
@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Valiot’s AI Manufacturing Tech Promises Growth in Texas"
+    excerpt: "A Hub of American Manufacturing Valiot & Texas Officials Valiot Meets with Texas Government Leaders AUSTIN, Texas - May 12, 2022 - (Newswire.com)"
+    publishedDateTime: 2022-05-12T18:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/valiots-ai-manufacturing-tech-promises-growth-in-texas"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
 
 secured: "LntojRgXHdyRP/2x9JNxhlaoBdFUibw4orl53gGKtJu9tBG/i0Tjm41GENX0zbqvodZaY1FX0V7DTi4EwgTz2lJFeJAY33ptEaDdL+x4lksLZY8dEGWeuxeNFUtTU5XByAhSwolrhPUZECVupMxngG1p0QYmyWamsprAZukugyy8MB2Y6OIDCucTEHgJcP6vjLbC8/0L7k53ao8AClQdSVzF2v6CmMbHPWfrvfO3mppWFcRmq56V7A3kY9pst4zzYLC8myFiLVhzRAFN3gLiTPts9xsBlQ1Ql4xOVdU2ysABbAYJq+uBR0nDSsUaXMa7zLmq1Pw8YuUNfCqWzWe469XwXs0JXyDGuutrbsECd+jm0P8ZPUwXnP2uKWP4e7ZR/i+eYIkvBW09BBHpeWSX788InAJzZpxq2sD2UtDAG/Rjgya76th5a0CKfOrXksWUTtGsFdm4GMayxaGCsn8lv3yQ8KCfW6M/RD+5vEUBATttdudtdHTneyoI2Q8FVyVk7e/E2a9FnwDKe5GtOaCWiQ==;fpIAFw/IWR+LKtjxbPmwzg=="
 ---

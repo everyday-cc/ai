@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T18:54:00Z
 originalUrl: "https://www.cnbc.com/2022/05/12/why-mark-cuban-predicts-ai-will-dominate-the-future-workplace.html"
 webUrl: "https://www.cnbc.com/2022/05/12/why-mark-cuban-predicts-ai-will-dominate-the-future-workplace.html"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: CNBC

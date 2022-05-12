@@ -3,8 +3,8 @@ category: news
 title: "United States Artificial Intelligence Market Share, Size, Trends, Growth and Forecast 2021-2026"
 excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 21, 2022 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"United ..."
 publishedDateTime: 2022-04-21T11:05:00Z
-originalUrl: "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21?mod=search_headline"
-webUrl: "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21?mod=search_headline"
+originalUrl: "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21"
+webUrl: "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21"
 type: article
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "NRbEoOyu4oAQnrtMBUDUP4C2vn6HlZVukMnq124LbrLJkABVvjJM8fd0CicdhyBYxRCtEEFckEWhjHsIUZ/2+w9+CesYYrYqV8xCDhwMnFyVgKtsohDnFSt6lVh7mHMSWVC3Fl9sm0ZH/61PL9W030Xz7FUHLN94EAMXsBVWp7mdtQ90/N+vi1gYkD2MFkIrlmbX3AxyuCYBdv9SV/wybYVTaGSdchrMEBWryWLKVNPbN/kaPGl8DSBZB1DVM4zeXpchPPSZ0mFmiirsJPFdPhcxMCdtDAyDC5nDc88tzRgCWj2l8P9PXCZBBa/azu6HDhCdsMsVvSxSRyAAAx/GZk3XLKia1dMsNeoGkzjQUQo=;F8EY8x2XJSzrnzLgzzTsMg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "+/4VCdzgeDDhRjEnQENdBq7BVwFWTmMURKsgZ5m3htS/bfrren+s7be8JzI4TlobNGlULcf+0Ux7+vtryEfjlBBZFzDx7XA7AsHdktqhKzQs8qbfSDm3UtJDN5+Ah1IJJIa6qDDi2rzTk5U1kLijXlyrd3TmBFvd6InOfrE01pwduDmvogvlpyV+VmHi6FlYkYX9TRHZvu7T71kLxfZbAhPHOvTepmYTeQ4SzOClhBoLRPuillDZG5gjW/CLtGTU8vVRRxlKwnSh0R9sdJ+5d7lR3+IeoBZGxtZAIkKsvD+99dHwezoLgwXvc4Iqm1OouJUrIun+4sZ+3U6H4Ap+fJ0Xv91JLjwYSQtY/WV5Mpc=;10HoQtMBAWGUcTFdcG0QPg=="
 ---
 

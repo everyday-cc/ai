@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T19:02:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/indygeneus-ai-awarded-grant-funding-through-quickfire-challenge/article_d273de32-447f-541e-9a60-ad1253806f76.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/indygeneus-ai-awarded-grant-funding-through-quickfire-challenge/article_d273de32-447f-541e-9a60-ad1253806f76.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: WFMZ-TV

@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-10T15:42:00Z
 originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

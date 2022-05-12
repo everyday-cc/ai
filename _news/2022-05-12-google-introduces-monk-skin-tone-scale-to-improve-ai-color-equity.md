@@ -81,6 +81,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Google Adopts 10-Step Skin Tone Scale so its AI Understands Diversity"
+    excerpt: "You'll notice the Monk Skin Tone Scale in beauty-related searches to start, but Google is also building it deeply into its AI infrastructure."
+    publishedDateTime: 2022-05-12T18:16:00Z
+    webUrl: "https://www.cnet.com/news/google-adopts-10-step-skin-tone-scale-so-its-ai-understands-diversity/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
 
 secured: "V0qCV6us+FgvJzCsBD/c/94mf6S7Mx3gWKAsTD2WUdQbOVQF+4OV60DuZagBQMVl2VrITKAkspK/LfXMP+KYGim8vdXCHgVIlKgt3vOOy1a8ctXujrqfIuXK3Yni040sskB9oblwgktDuJ6ElmxoUHDukpzc4ALzsaBX/K69NoJA7/dy+nYPm0ur07hCpId2haJc/sFkCuLkSffxe57RCc6AWfQvjor4naFJwIKu8KuHAp3ISSgfz2YX32vjEIWAbzdZvUfcDNoZgsKW3gDbmqHSjRGv81nnGEPl20Qfk4gxF5mDcWOGQBQyDzRsLUlQGPavve7ni0RMO/t+K3Cqav2Gy9yvydvEu5xhCH72P2T8NiTVCLZaWB7Escw7DFzhNNqJ+lWDRgjcj/EGd4JQ1cdBqGuPFNZesnBbdRhP6HjmtWQd4JB27FHc3I4eDDrcLSDV1nIVjC9vO7NLryiCaYVRSbkW8b94M/O0UsL9KY0hlK2P6xC8XOSt2L8LF1ZbNjJQ/0ZGsIa6+Zhz9CVVYw==;G2lEHEkq5KPdNf3FL7KIBw=="
 ---

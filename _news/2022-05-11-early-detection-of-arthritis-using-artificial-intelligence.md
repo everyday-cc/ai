@@ -46,18 +46,13 @@ related:
     quality: 47
   - title: "AI Could Be Used To Detect Arthritis Earlier"
     excerpt: "In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen, computer scientists and physicians have now succeeded in teaching an artificial neural network to ..."
-    publishedDateTime: 2022-05-11T10:14:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/ai-could-be-used-to-detect-arthritis-earlier-361480"
+    publishedDateTime: 2022-05-11T09:28:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/ai-could-be-used-to-detect-arthritis-earlier-361480"
     type: article
     provider:
       name: technologynetworks
       domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/361480/ai-could-be-used-to-detect-arthritis-earlier-361480-640x360.jpg?cb=20220511"
-        width: 640
-        height: 360
-        isCached: true
+    quality: 19
   - title: "Early detection of arthritis using artificial intelligence"
     excerpt: "In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen, computer scientists and physicians have now succeeded in teaching an artificial neural network to differentiate between rheumatoid arthritis,"
     publishedDateTime: 2022-05-10T13:47:00Z

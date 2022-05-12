@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T17:00:00Z
 originalUrl: "https://healthitanalytics.com/news/ai-may-be-more-prone-to-errors-in-image-based-diagnoses-than-clinicians"
 webUrl: "https://healthitanalytics.com/news/ai-may-be-more-prone-to-errors-in-image-based-diagnoses-than-clinicians"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics

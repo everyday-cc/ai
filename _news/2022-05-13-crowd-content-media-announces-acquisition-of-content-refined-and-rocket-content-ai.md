@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T18:20:00Z
 originalUrl: "https://fox59.com/business/press-releases/cision/20220512VA56065/crowd-content-media-announces-acquisition-of-content-refined-and-rocket-content-ai/"
 webUrl: "https://fox59.com/business/press-releases/cision/20220512VA56065/crowd-content-media-announces-acquisition-of-content-refined-and-rocket-content-ai/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: FOX59 News

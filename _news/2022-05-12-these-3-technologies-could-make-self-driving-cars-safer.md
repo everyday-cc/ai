@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcitiesdive.com/news/av-technologies-self-driving-
 webUrl: "https://www.smartcitiesdive.com/news/av-technologies-self-driving-car-safety/623471/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Safer Driver Assistance Tech Now More Important Than Self-Driving Cars, Consumers Say"
+    excerpt: "Drivers want automakers to improve existing semi-autonomous driver support features before developing fully autonomous vehicles, as inconsistent performance remains a problem."
+    publishedDateTime: 2022-05-12T21:54:00Z
+    webUrl: "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/"
+    ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/627d8169661424cee95ca2c9/0x0.jpg?format=jpg&width=1200"
+        width: 826
+        height: 430
+        isCached: true
 
 secured: "FrraeKcB/MgyObUOrZHKqKmPPYHSdrHKxsFMErIRzEb4Xo5qBqame1a2cqmhUaDPshXTv/UCe2fvTfw00BZ/6f/ios9k9AXLDFlvr6Zsb05D3GFN+Rxhr/StCyESVcX4sXzv4pGeWUD/HOI4wZqrA6v/IklTlN/D6swqc1OUinqXGhnvWvIq4tzBYnCZPuvpJIv+Oh6zVAQjxZC7AdfNGB+TBomMkcUri+zbkgPxWDLawRwvdRLOspNSIlxkER2oLYEfX6nZcrxmOqRPryWnj395jS4nx6s9ZoL/55QG9gr034jSfApNj4HIYd8cwty/V4iP5HQLXhMAmJVOmgOlqOnoUHNR7pRRtiLnABUIhT3U7370fHguxUi+wzJQu+UERE4fF0IrBVOzBJdFGZKBEk9EPpmyVpiB2oVy+Aw4G5Rmjso/DTyvYWhmTlexyoAhBvD7mc5TY8X0xXCO24TXFxQQ8zFRE7Hj9psx9nudBWk04XRI8K6UhFyWe/RyfG7b0Sc32t1v3CC9zIdYxMyIHQ==;kBocHdNSluIycod2zzdaHA=="
 ---

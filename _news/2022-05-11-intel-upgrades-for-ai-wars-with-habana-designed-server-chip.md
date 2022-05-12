@@ -147,6 +147,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Intel Leverages Habana’s AI Chips to Train Self-Driving Cars"
+    excerpt: "... 8,000 Gaudi2 server chips in its data centers to inform of further advances of the upcoming Gaudi3 chip. Intel rolled out a new generation of AI server chips that offer a massive jump in computing, memory, and networking capabilities, setting it ..."
+    publishedDateTime: 2022-05-12T18:30:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21241539/electronic-design-intel-leverages-habanas-ai-chips-to-train-selfdriving-cars"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 36
   - title: "Intel Fires Up Rivalry With Nvidia, TSMC With AI Chip Launch"
     excerpt: "Intel Corporation INTC launched a new chip called Gaudi2, which focused on artificial intelligence computing. Intel also launched a new chip, Greco, for inferencing work: taking an AI algorithm and making a prediction or identifying an object."
     publishedDateTime: 2022-05-11T12:29:00Z
@@ -182,6 +191,15 @@ related:
     provider:
       name: IT-Online
       domain: it-online.co.za
+    quality: 4
+  - title: "VSBLTY NAMED INTEL® CHANNEL PARTNER OF THE YEAR AT INTEL VISION 2022"
+    excerpt: "VSBLTY technology provides enhanced customer engagement and audience measurement using machine learning and computer vision. Its industry leading VisionCaptor™ and DataCaptor™ software combine motion graphics and interactive brand messaging with ..."
+    publishedDateTime: 2022-05-12T19:56:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/05/12/vsblty-named-intel-xae-channel-partner-of-the-year-at-intel-vision-2022"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 4
 
 secured: "7p7ZZ85BZ1GHFwVlWtGI9vpPhNvHAc3ipUcr0WMe+oMh/0103H1fj3b5tj5cUzJRztoTwPmJChS+PwEAuxbsjwYNFi1WLwAe8PD/jUnsCY5JVwTGnaFQCRiZHlzKnniX8zQUTcEbG66eJACzxLNNUH8p4pizmkX/cYJnOKm9Xnphip393w4F677LTRY0OSPDRu/onRXbTn7nS+6w77AGvL8E1t1aisSaU7y5/0cgBQLysXLKWrQ82l9lTxga+7iZpsgZavND36q66lvC7UbHg6JuYs8+3iuIYQkaFRlt+pPT6qQMmjnBxOxSFgD0AAj+QyQXLMi3nX7TfuSIIWb7p7KqcyBYUCiq/fioPYU5dY4=;g9xIJR9DrY4j0pgdcNwhaA=="

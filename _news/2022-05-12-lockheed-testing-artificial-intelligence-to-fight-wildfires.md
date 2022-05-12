@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Lockheed testing artificial intelligence to fight wildfires"
-excerpt: "All those words describe artificial intelligence. Lockheed Martin, whose space division is based out of Jefferson County, wants to use AI to help gather critical details during a wildland fire."
-publishedDateTime: 2022-05-12T03:13:00Z
-originalUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/"
-webUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/"
-ampWebUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
-cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
+excerpt: "A global defense company shared details with FOX31 about the use of cutting-edge technology used in battlegrounds around the world to help fight wildfires."
+publishedDateTime: 2022-05-12T03:24:00Z
+originalUrl: "https://kdvr.com/video/lockheed-testing-artificial-intelligence-to-fight-wildfires/7676775/"
+webUrl: "https://kdvr.com/video/lockheed-testing-artificial-intelligence-to-fight-wildfires/7676775/"
 type: article
-quality: 57
-heat: 67
+quality: 19
+heat: -1
 published: false
 
 provider:
@@ -17,13 +15,8 @@ provider:
   domain: kdvr.com
 
 topics:
+  - AI in Autos
   - AI
-
-images:
-  - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/04/GettyImages-1237477623.jpg?w=1280"
-    width: 1280
-    height: 853
-    isCached: true
 
 related:
   - title: "Is artificial intelligence the next tool to fight wildfires in the West?"
@@ -34,13 +27,13 @@ related:
     provider:
       name: Telegraph Herald
       domain: telegraphherald.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/assets/v3/editorial/9/4e/94e8db03-3eb7-5814-b426-65c7d7d7923c/62742506de30f.image.jpg?crop=1567%2C823%2C0%2C110&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
 
-secured: "OiU32B/LkFuLxhTXNGDU1yuYcUyCmksCoGXgexZRWX0tbQTSDFXpNLaxsdI7ksV0fOX2oGLeVRiLZRiO+tFS///yvQk8hficTqDF+rw2FiFEb7I+EX+rXlQ+lu/rOk0iG/xDzefB3/K9rTo8vz5t+IBL9ztT2X2Y0f5YWawn2oYdCG+wE9EeAFWuQQnrODYilB9kg42JURwaMtxasUUwY9MO+tHioSxxXhkyikCzQVBAn/avNRdR/AaoG1BWIBg7KH4a2T0CQDlEJGVhO9yttQ9wbYXGjYwSeJymJZjvlFuvN0JI/olRBXbdnb9ZvZ551Bf06g51jk+4B89K3+Ao4YYyehiCvz+y7zRFGkAB8nE=;lg/g76SVaeWO53YXrInVKQ=="
+secured: "bsbFPChMc5GqvNovzyP8oxG3wJ1a0JfAbbiKHHmaY8rYlZMZyqRwiFOF1VgVYSyH0lpYcromyyFWKYR3KOp1nq486cbVtm+FCC6xUQ+kaJrSF/vs6Cmo6by04WfjNuawUkxCPrPlP3qhVU0leSBrLB3Mw34UvJgeDnXzhCbVaRts927XJMu+85GEdO5HeVRNIHZkNbdG38ZJFefjW2RLstZSoIqRN+XcALw+3lmljHHd3C3rXGezhq8hvHNEEYsspr67wvfw46z8LKzHrwj2ygDMUaK7DuZFWBV4atXqxGeol9m1jU3wVnP8vPFE1UOK3jS87Lt6nxxiUqHElWXQXAs7MkbKBze+VQlCdRSTxz1R6GIiQZrGYgY10OmPHgThpKjzo+8nArEuaevCS4nU2CbN4otwUJ363y21S28B4mhJq/wGvzqQ4BCVRelppUFmASNzD4iESVpdH70ZnWoVviXhyjW2Pw/aIPX+GQeCpWKvWLfsLbKvS93cyyuZ+IP0qyws8zBNjOFbaUjR2iPL5w==;TmBZSRHpvop4t+hkGixzRg=="
 ---
 
