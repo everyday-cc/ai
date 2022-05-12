@@ -2,7 +2,7 @@
 name: "LabGenius"
 overview: "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™)."
 type: "profile"
-heat: 64
+heat: 50
 
 website: http://www.labgeni.us/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=wy1AobL6x44"
 
-secured: "EeNeVU1nTw+eXc6Bc40ZNntHsi7nVooXN8wNizAhkHo6/G25D2TMOvjfEFPV0n/eM0cbCwXELjVieW106RpHqSeaiqZqSdBcPk8mJjdGFb6XxKk6lu4mTqPImPawj25nwAVoWaUFnlMtRDYw/FhQuBaNcvqqwmTYbRuNCWHGvWyOQpvA80/HLoYJ2BAAIU+8ol617DTdqMU1fPKpMeNh47EPVEkwaSF9V7lMByRUgf+EQI3BJP8xZptUHtuvE33sFMSBW02K9MCmo7/uXiaY5LYLOS4XIh/KgjAr4eDNlYgZA1DEsO76MD1fno9sQUgQJkzln2yIV6AdBtDm43muGvpb1Gq2lF184gtsEz/ZXMtH40aAPhDwnAOOz/ByGbTM9pO++z8yugxJKX9m/AGSmkLUlqKOTbiPVN2cjhPWibY=;jsrVhnUjoopmift+mFkMDQ=="
+secured: "IdU7q79mrQnh6nO/IFHQOByN8utmWlLbKPJK7SwSEYpXzT4bX4n32WqOiUBxnXmCppO/Y2t09RWEUtKRUFxl9e+oQZ2Ct1PUBaByBqW7yr/w/xF+4ydqK25REbW+ZEilG5UyV2biLtU2f9hHtpsJsdHHD+HpRoUC1Bp2jWM8nAPqc5TH5MuVtosA+TaPwKtMovFQ7/RiUl2nYSjKO52tGOqAUDq66bUdqxUbxvqr/7EBOx57U7u3LUWklvhZIJe/Jh26G1dG7GsyR+sBpXRzNaxyh4NHJO2vNI+GazPhMmgCGpC5bkFwwDORCc3D64QMtMhRsvKwWjd9BX2TKE3/CWrQ9rUE+QHoK9sMPHm4O5gz4bGzS+ZEGCW0VXAl1vHZQhbxnDoc6lizMvIo8xEp2mev42XorZghytkHziV0vA0=;Mm6t/rQ9uNtTZg77H1OXlQ=="
 ---
 

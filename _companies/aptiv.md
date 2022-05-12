@@ -2,7 +2,7 @@
 name: "Aptiv"
 overview: "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility."
 type: "profile"
-heat: 50
+heat: 58
 
 website: https://www.aptiv.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Aptiv"
 
-secured: "lzA+qYzCUcNUAaznCFZxiC9Dt2XGXZ8CnB/zoTV5ZAUc/ujERPMIXkug2Rl+8fIo/dLD3/lUr/b2mkXpLVvqgTYYEfOJD7UbWprcVuBFjIhSUy/y3QelCt3reStulf+tqlI7YVPTBYpLCYJ/nqhSp8Hx/KgBSW5yry7n4SDwQxNH/chlrk6ufgkijN9XcYv6zbcjIaGydzDVttTZKgL/eyC8dGyMaqCkZyJQiFmhf/VM/zDMDl2moCUkCwfI1SEY+GhjAjG5Pu7dMWVEVRLSiMqprYVwHgQcmGifKeobRltSDG9f68gM4MvW604y1pUVrB4m8Vn6oV1kkob3wJH9BNkh522iho8dexZrom5egtCD364mq92P6G0XMNrOX2+pvl0+gHNpvww4ky23esII3QEFygOlPEiLZvT6BfKSyrc=;4Jn53Cq3QOO2KDAs/sCkfg=="
+secured: "3dBqYf17fhwR5yAt/sJfEJyHUGqt4cmVAj06n6O7I+b0pdoaFdRiDSbH6A8EzgRxXtQHGRbA+dbB+1+Jn+VGQFQlOf/5GITGa53r7ySns0LspBwLbDZiGzM+naWBupZaiup/3U3bTas7Ws7HGt+8oZ+HDnGXkEeXKTmraGclstIpt34O1oAiNvZRY2niQtFgAPZKt42Z+efDfhgXCJr7Hj0Owy8NxY2OcWXkjuw/HXKkOS1u2rUuMsmlmumT9zmxqUJwFe4K7zuwW8yBGfIdZfQU5Ig5KoSzJ+0xUPeX1SUQ+j3fafV3Tn7uXT52Pgl0qDDUU/geZZpoF+fFn1c3Y5854CjnAL+5DarYRywKnvry4BXnKvi9Ip+E/dyoBPaQ6bbd5WR55zNHKF6ifAgn8r8CIrGcgbHSYfCt1cGE9p0=;OKK0V1HC5QMdSWxNviYjZA=="
 ---
 

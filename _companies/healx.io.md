@@ -2,7 +2,7 @@
 name: "Healx"
 overview: "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments."
 type: "profile"
-heat: 71
+heat: 65
 
 website: https://healx.io/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=6ZsujFTH3-A"
 
-secured: "tCD+3M0yFFb1BXFjvnY1ar4ZCsh3BTRfnbBQmYPOACnGmcO1mn/arlWy1FWMce18hPHYSxWQ8IY5jmv9Mq4HzNROOMdO9qaSCwhQYp66eb2jvGgQLb8HSG+DJ8iJd4GvhmEwaNiKl3+/Tk2JyZXOLgMvv65xExjz/9feOcn4ios+3dSqybDoaBGIRLQucnnJiLc3ovBtnPtQeyeR2fngIzvImwky2rx6g9rwT57hyJJZ/LURTAqL2xPHlcpW3LP1eQYk3ogSVREg3x07HYseT8vpAqPq//aZNmDNSy0+BaTRi4t6SAXYzH5jamrRtNQup8NVbii6uab8dxTCqoyIGchq7QKIOHq7nbDc0gC/V8doqbjYZBCI7MkecyjvOHkCOy3N23KeKhk5J/Sa1dfpEFFugUPYrd3e3yvKA30Bdh8=;tIYNDlSQV2V+/v/4eVLbDg=="
+secured: "LzsbdbjfYxpoiH2CLlLNMFqin2OjeEyQKkLBGkNWy3TGR67q5Zy39OJm91OhMe/RiJADiF3olRmrONsE+KDOxlcLVv4BRFCLUaw82I216t57NQcMXyHdwZY1S/mjTx3NXw1o92Kwv5wBNhTbpZyCTHcPCxHMkiF2DCxAe83rZOrFeAUMs9gBbtaDYOIiHLLVtW9yCzpZx3y2kj3/pvJ7jt2fQpG/nJ/gZK5Bxjbou98kJnnxm3TEi9Fan0I/PMyJHZsH6G4KgR8rhZo01plVy7s+jx4SqAx1idz6A5G8kHieHPOS6lpVH2sAQ59KwrAXKk7o6A4YgtkSXo0W79jroMHjsEI0fTkgxu/3zS2hLuhhcv1VuWX+gJMPI9P6+eQ1/E404Y0qcaiXamBwGNfyT+CpYhJ4dKM+yOG/yEUs8aU=;XpfNgPaSu11lhMisO3ZY9Q=="
 ---
 
