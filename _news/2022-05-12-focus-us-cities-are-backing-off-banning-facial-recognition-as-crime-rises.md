@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Editorial, 5/13: Facial recognition software use raises concerns"
+    excerpt: "Lincoln police have used facial recognition software from the state Department of Motor Vehicles to help identify 23 possible suspects in crimes as varied as shoplifting, burglary and"
+    publishedDateTime: 2022-05-13T04:45:00Z
+    webUrl: "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.html"
+    ampWebUrl: "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html"
+    cdnAmpWebUrl: "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html"
+    type: article
+    provider:
+      name: Lincoln Journal Star
+      domain: journalstar.com
+    quality: 74
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/5/4e/54e4fc76-17c8-55b6-b532-351a4ac46bb0/5f011cb378336.image.jpg?resize=496%2C320"
+        width: 496
+        height: 320
+        isCached: true
   - title: "U.S. cities are backing off banning facial recognition as crime rises"
     excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers."
     publishedDateTime: 2022-05-12T15:09:00Z
@@ -32,20 +48,6 @@ related:
       - url: "https://www.reuters.com/resizer/15gLJghNP6gOmMBv7i4aHTVe5rQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KMEMGIH2CJIC5CELHPUKA5RQX4.jpg"
         width: 728
         height: 381
-        isCached: true
-  - title: "Tally of facial recognition bans being overturned keeps growing"
-    excerpt: "The high tide for restrictions in the United States regarding the use of facial recognition by law enforcement might have come and gone."
-    publishedDateTime: 2022-05-09T20:17:00Z
-    webUrl: "https://www.biometricupdate.com/202205/tally-of-facial-recognition-bans-being-overturned-keeps-growing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Rising Crime Prods U.S. Cities to Reconsider Facial Recognition Bans"
     excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers,"

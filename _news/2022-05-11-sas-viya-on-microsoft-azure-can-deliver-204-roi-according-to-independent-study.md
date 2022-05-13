@@ -2,9 +2,9 @@
 category: news
 title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
 excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-publishedDateTime: 2022-05-11T16:29:00Z
-originalUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
-webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
+publishedDateTime: 2022-05-11T16:40:00Z
+originalUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
+webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
 type: article
 quality: 50
 heat: -1
@@ -38,6 +38,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
+    excerpt: "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics."
+    publishedDateTime: 2022-05-10T14:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg"
+        width: 400
+        height: 299
         isCached: true
   - title: "Avaya expands partnership with Microsoft to offer OneCloud solutions on Azure"
     excerpt: "The global scale of Microsoft helps ensure that our joint customers rapidly deploy Avaya OneCloud solutions in any cloud environment of their choic.."
@@ -179,15 +193,6 @@ related:
       domain: it-online.co.za
     quality: 34
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-    excerpt: "Forrester Total Economic Impact™ study highlights faster time to market, improved decisioning and cost savings brought by SAS and Microsoft partnership CARY, N.C., May 10, 2022 /PRNewswire/ -- Organizations deploying SAS ® Viya ®,"
-    publishedDateTime: 2022-05-10T14:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sas-viya-microsoft-azure-deliver-204-return-investment-/2022/05/10/9599551.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
     excerpt: "Dubai, UAE: Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment over three years, according to a new commissioned Total Economic ..."
     publishedDateTime: 2022-05-11T13:26:00Z
     webUrl: "https://www.zawya.com/en/press-release/companies-news/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-x0av2kla"
@@ -197,6 +202,6 @@ related:
       domain: zawya.com
     quality: 21
 
-secured: "GSsoP/tDzlUPwh69lNMnjlb1Ykajs5D1upNToQ8KeI6ocQrKjIfNqXVbl3fcLLPyw5GpKcg6Eko+EMYeHhlxVtnogMXdVnhuR0K+Zx4oG7BXhDH3boaeF6CUYZObJM2IcQ0MFf+L7CZTvApbCEJ9+Jp5HLL9NhvaKPzO0L7N3D7CwAJHAHY4X+0Nu5Sb4LAt9JLzdA0IC7S3t5VlSToFxKcuCqMENl9rcfmGSSGwNOLHxkBHnT4T6gWOzWW5s/HNdxSx7Lt/cs72D3hSTuZYWfnnfMQ317Q6ZoEYj/u2vxh6B803814pL7xPVpnsSYBr9TForIzEtZ+PQ7GDy3R7JuqqolkIMHI5V+l2Lae01mY=;qIAqTebgwcDIwSUAZD/ASA=="
+secured: "fyDC8WmgKcS4IDnJHUq14+U0RwE3xBNkZrDEcAsxEX6zXYRrXOOKb37hu5lTlMFUyWs0+rit2ZA/suLsrXJ+QFhjXsh/lz6zbfsMJDLPNoADx5mbj/9/Igc8BYfaj9nki47bxLPaasefHHOjDxuFwC8on6774+Z3XGmzreV+NVvhg4C7oX6BtEOItmfvx6LAF5RaeDT1emMv5eJhHP7KJZWedSKK9ZBuo4hoZCx/4IdUV8RBspuW/4vMJHrn6C6vIfqwCAY5K0tXUbdBcKKglE+BXX0CWAPGEYI97bJakJM5ZEQ1n6cZB9vVC+3pglodaa+cT3t+j2jJX6hBt5/NC8+LVRm7Xi+2wxQv2mknI0g=;mVq7jwZNBa5wQAf8eac4yA=="
 ---
 

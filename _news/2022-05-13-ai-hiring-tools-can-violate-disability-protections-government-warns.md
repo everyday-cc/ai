@@ -3,8 +3,8 @@ category: news
 title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
 excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
 publishedDateTime: 2022-05-13T01:18:00Z
-originalUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
-webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
+originalUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
+webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 type: article
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
+    excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+    publishedDateTime: 2022-05-12T21:04:00Z
+    webUrl: "https://www.ktep.org/business/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    ampWebUrl: "https://www.ktep.org/business/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    cdnAmpWebUrl: "https://www-ktep-org.cdn.ampproject.org/c/s/www.ktep.org/business/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    type: article
+    provider:
+      name: KTEP
+      domain: ktep.org
+    quality: 51
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+        width: 880
+        height: 542
+        isCached: true
   - title: "Federal officials caution employers on using AI in hiring"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission are sounding the alarm about the potential for AI human resources tools to discriminate against individuals with disabilities."
     publishedDateTime: 2022-05-12T23:53:00Z
@@ -44,21 +60,7 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
-    publishedDateTime: 2022-05-12T21:04:00Z
-    webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 29
-    images:
-      - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 838
-        height: 628
-        isCached: true
 
-secured: "EIT7aDUtTBrCtubedSyyFWkNmGAxzyCaTkLbMIBkLwLP6/L8tOWuEeuCyluJDFnnMxmAXSjJ+7h3P6NNQQMfLunNTsM9hN1bZq+NeO078j2/S/gIndzQCldFRoTgxKyd9/f3cg7NK0p4xq0UHQ1hIysN04ePg6EqEAUabYWpHeRqhYMWI0SGrLGe/bflfhhtsqZzrFRtR9H9VZnrpj1+lMaMswfocGKfVsVs34P4bdE4Q0clqA0S539mT118qdZRDix+JqEmM/dsL5F56vwFyvXHTI+oIrFXDxdYj4p1uWB2mX5nzrktpVf9XW74JL9yXn/W41MYZJgoy5pXEnMwtILVRaCTrHMpmkBdJkdreRw=;CVsXzv66yQfd+NaCbdvYPA=="
+secured: "uwCLKpn1kPjOQyrW28ZxKHoVcXHlrmv1Eceh9ftxoL2PRA+ILNZvGUfYnWB5eF2HjO4PhXZRmt8ZcbDj8FwaZm5Cm+6mkz3bze6QchjWdTuKh0alq68NVPpbCP5wbNxpAxPvvm1ipHA2d/IqNyQuSfPaTYHeiJFgA4KFxuUJwMCDv2ulYHX0nmKw/y8ZIsVKSNRQKs264DolAdQFlJ7ViGThcHgBzBtcFsLfeXZ82ZpP21UpDNvg4nHp/rFVuNdB+CCA73f/j+VkOT8OrKiCkLw4wBb8AuN6c1awUcPQjyn85Wvp2u+JtSFiThbA2Yjh6xYWdanQncZB1HmguzwSfpRwaS8JhmXHFAa9Ec9Gv0g=;QuIL7qGlwwfimhcOINCz2w=="
 ---
 

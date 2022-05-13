@@ -1,22 +1,32 @@
 ---
 category: news
 title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-excerpt: "Forrester Total Economic Impact™ study highlights faster time to market, improved decisioning and cost savings brought by SAS and Microsoft partnership CARY, N.C., May 10, 2022 /PRNewswire/ -- Organizations deploying SAS ® Viya ®,"
-publishedDateTime: 2022-05-10T14:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sas-viya-microsoft-azure-deliver-204-return-investment-/2022/05/10/9599551.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sas-viya-microsoft-azure-deliver-204-return-investment-/2022/05/10/9599551.htm"
+excerpt: "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics."
+publishedDateTime: 2022-05-10T14:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
+webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
 type: article
-quality: 21
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg"
+    width: 400
+    height: 299
+    isCached: true
 
 related:
   - title: "Microsoft session highlights from SAP Sapphire 2022"
@@ -109,8 +119,8 @@ related:
         isCached: true
   - title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
     excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-    publishedDateTime: 2022-05-11T16:29:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
+    publishedDateTime: 2022-05-11T16:40:00Z
+    webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
     type: article
     provider:
       name: BusinessGhana
@@ -196,6 +206,6 @@ related:
       domain: zawya.com
     quality: 21
 
-secured: "GMQ8DcLWcxCEC3ktgDqS4P/V6qfHnisgVsFWVqtqHduYOWCMjlg4bHWcEjxGfWLljJy8O3CI+vVtuNdQnzNyvS9yJHWTkMV3qYBC7zZ8M6FVK75oWLtwwmUo3IJDPTTpErDZHOdzzvmMA++6asJBRVcMwXV1UaYEvgKBEC9E43McV2b7AZhFmfqKXtf8ICTAgmE7rANfNoD19gREDirUJ6vZGyFZAaY1xlDeXbsFDTKxa1oVjXpWzwQbclIZ/0wyugz38wK+ybB3tVL5HUeBKHhbcx3og2imBT5OXuUCj5bx7tbkxm1CYkJFhsh0s1haj6DGJhpWFTXKi7mwlZNsWw6Kf/7M8zh51NQysF1uN4AkhqilsCIUKZ5fkLhAAxp6nCVuE12Oum0EbdwbY9a2Cc/FOe0zg917Dd4TyJkUbCx/Kse4QS0EFKWZN4Nxwrr7Ki4aQ+ggQRLv2D/l9kkTbxJiGxK687qb4ZrBvcQfDoSnwkyMFwodto/ldF/I6f9Yn1tHdZYkDf4NQbgdAqioZw==;f/QNo8Ae9vg4yPdKYFsh8Q=="
+secured: "cVkLTn4ddjW1bOCpeDaSHLJjnEA90xmhiZ+tQoOJrjH4awpQXWrQTGd2Ia2sBToxhBaQVx+4arwCb1Ke3P4L/G3M4TxU6uuuaaPQE9E9wUsGu3U4FyzXpJK2vK7HDwPIOWg79PG0F8Eoe6JDA0Eh1QDqNmkw3iP7KZW0HxTgTQ7zghVeh8FSMbpV3tBKJMka+KQmIl0L6lKvmpJntUsot9B8p+GJt++rGI18cq9xzMuIk51WelBBKJrJVkdsHXOx//+E+nPSKw4PjZJrUrHtj+8J37wcAdMG7I2sC28psZN5SJ4qFXfXTPw6Y2UIDqzz8b4b6nBhQZinbiTrtEWSPbFlCIibgabQlk4aKgTGhIg=;UjI8ZqknthVE5D3X77EN8w=="
 ---
 

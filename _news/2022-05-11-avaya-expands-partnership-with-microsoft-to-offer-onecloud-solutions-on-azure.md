@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
+    excerpt: "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics."
+    publishedDateTime: 2022-05-10T14:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg"
+        width: 400
+        height: 299
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Is Booming Worldwide IBM, Microsoft, Enlitic"
     excerpt: "New Jersey, N.J., May 10, 2022 Artificial intelligence in healthcare is a general term used to describe the use of machine learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the analysis, presentation ..."
     publishedDateTime: 2022-05-10T10:17:00Z
@@ -101,8 +115,8 @@ related:
         isCached: true
   - title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
     excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-    publishedDateTime: 2022-05-11T16:29:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
+    publishedDateTime: 2022-05-11T16:40:00Z
+    webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
     type: article
     provider:
       name: BusinessGhana
@@ -178,15 +192,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-    excerpt: "Forrester Total Economic Impact™ study highlights faster time to market, improved decisioning and cost savings brought by SAS and Microsoft partnership CARY, N.C., May 10, 2022 /PRNewswire/ -- Organizations deploying SAS ® Viya ®,"
-    publishedDateTime: 2022-05-10T14:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sas-viya-microsoft-azure-deliver-204-return-investment-/2022/05/10/9599551.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
     excerpt: "Dubai, UAE: Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment over three years, according to a new commissioned Total Economic ..."
     publishedDateTime: 2022-05-11T13:26:00Z

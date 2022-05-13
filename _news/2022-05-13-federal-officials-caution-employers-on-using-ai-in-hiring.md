@@ -27,7 +27,7 @@ related:
   - title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
     publishedDateTime: 2022-05-13T01:18:00Z
-    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
+    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
     ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     type: article
@@ -41,18 +41,20 @@ related:
         height: 640
         isCached: true
   - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
+    excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
     publishedDateTime: 2022-05-12T21:04:00Z
-    webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    webUrl: "https://www.ktep.org/business/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    ampWebUrl: "https://www.ktep.org/business/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    cdnAmpWebUrl: "https://www-ktep-org.cdn.ampproject.org/c/s/www.ktep.org/business/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
     type: article
     provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 29
+      name: KTEP
+      domain: ktep.org
+    quality: 51
     images:
-      - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 838
-        height: 628
+      - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+        width: 880
+        height: 542
         isCached: true
 
 secured: "DhM6bW9KNx4qKL/hsrAHYATWsU1JaZ4dbi/I3K2IpSbxVpISWbrOiVGaVPdUSFvgx1FPLRmMSwCVGpOac+tIVwHKzjHTNxnXlGZxLeeQc1SKEKmwT2Yq+F1cC/vjJrqRnlBLUDHXzQQvO2L96AHw7C3Y1/nGqaZ8T4Hj5jT7+yU+/aUB8lyyFGJZAeTT0XRE2rp6SVtZvTISLX1XcJLL4IR4iNYlywl/LMptV6JmzehhJ06voEUzTAfRa/iEG3oNE9e6iBKhPfqcnp/kZgISfZAJEJgywqKWhRKG4G5GPX9CkqdAy8Y/OiZc5S9IjKxzMHbkrB2A150RylZYFp6q079sLOVpK5jsBGsB1vjBb2PxZpZK7MBlrzfmV8wCLTON6lONA27TTB0WuANyl/EvwNTazjq9iIiNTMAH+XrEJv09/J/ZqnpLcXnx5GQWtXkI8SN8tAs9U1xCSYCp0nhSwZX6HdCrvc3ko930FbVHLbJBFxYPpOmjSCHTZbLrkk2unnMC3/VmmgAHJSeBtXJDVA==;HsFBesEik6R8MQpLfb2wwg=="

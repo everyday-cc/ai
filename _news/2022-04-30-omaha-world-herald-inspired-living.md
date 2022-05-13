@@ -2,9 +2,9 @@
 category: news
 title: "Omaha World-Herald: Inspired Living"
 excerpt: "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ..."
-publishedDateTime: 2022-04-29T17:33:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/article_df49f555-64c9-5ecb-a05a-0b49f2295d74.html"
-webUrl: "https://omaha.com/lifestyles/technology/article_df49f555-64c9-5ecb-a05a-0b49f2295d74.html"
+publishedDateTime: 2022-04-29T17:31:00Z
+originalUrl: "https://omaha.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_df49f555-64c9-5ecb-a05a-0b49f2295d74.html"
+webUrl: "https://omaha.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_df49f555-64c9-5ecb-a05a-0b49f2295d74.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "hhskCfgYQlQXd2jC+rD9NnzX89qXhPkXqhjWebh7zPa9G5t+PDuOPOxus87uqwSmcYy2/H7UqkHoRLfBoNDItRXQsW6nq7zrW5pl1q73YiATMEb5fjIlEkV6rZIusmM21xbvN6+xiW4BtkrOYarX6MToHOjaXLldSf2o5HJv1/KtsmttVThPva1LsAAEX/f8X7y8eb3rTJNG412ttszb/vTHASND6b1/rMv21N83ZE0R5igz1vuCYUeKUqymRX0JUMnBEVYhAov02GcYbTv2SncFZ7iiS3pUUrYYXpPsTMQ9SBDdqFVfVEHYviUwk/JDyowfFEacGg9smVaOGUaWoLgsCfsPpV7RrOV1i4SKS9k=;D3NzHaZQX4YYnfp7aYzfaw=="
+secured: "+Kld92wT1kVkjoFGkaJKRcBcmegoAjGnfZ119/l6pYQimAgOu0agQDJ58KzMNaqOgSqjKD9Csame5iac3c1mNB3XjYvg6ExsROgLBr+ZParVg5X/sf0gO9M4oStUTaUrod5JcWsyYwUzeNfmuZjcgIPco8kU8t7IidPFc6RLF7qiKYjoWt9uvvj+BfZ26V7hsVnVlCY9bdET7grVRRIIMfrssODMs4hsI2yThQYqVA45SsoNAsLu+oDJKktWUaNZCcMQWY46V7ec3eCLlMrNIJYVXnAgiNheceD+z9FyacJvfPGSf0U+GKkuxc4sYoFLF4X88K+TAxLXlDlYnRxPmcWuB8OQdKN8WPqrb9ybVxE=;dxINeZr+Kvurobx23QRYcw=="
 ---
 

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "U.S. Civil Rights Enforcers Warn Employers About Using Biased AI"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:46:00Z
-originalUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2"
-webUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2"
+excerpt: "The use of AI is compounding the longstanding discrimination that jobseekers with disabilities face,” Assistant Attorney General Kristen Clarke told reporters Thursday."
+publishedDateTime: 2022-05-13T01:46:00Z
+originalUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2?d_id=3524666&ncid_tag=tweetlnkushpmg00000016"
+webUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2?d_id=3524666&ncid_tag=tweetlnkushpmg00000016"
 ampWebUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using algorithms and artificial intelligence for hiring risks violating the Americans with Disabilities Act, Biden admin says"
+    excerpt: "The Biden administration announced Thursday that employers who use algorithms and artificial intelligence to make hiring decisions risk violating the Americans with Disabilities Act if applicants with disabilities are disadvantaged in the process."
+    publishedDateTime: 2022-05-12T15:02:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/hiring-algorithms-artificial-intelligence-risk-violating-americans-dis-rcna28481"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna28481"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna28481"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 62
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2022_01/1643120472715_tdy_pop_8a_hoda_ward_loop_220125_1920x1080-wn6hgx.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Civil rights enforcers warn employers against biased AI"
     excerpt: "Federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, se"
     publishedDateTime: 2022-05-12T22:13:00Z
@@ -47,22 +63,6 @@ related:
         height: 682
         isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
-    excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
-    publishedDateTime: 2022-05-12T17:21:00Z
-    webUrl: "https://www.local10.com/business/2022/05/12/us-civil-rights-enforcers-warn-employers-against-biased-ai/"
-    ampWebUrl: "https://www.local10.com/business/2022/05/12/us-civil-rights-enforcers-warn-employers-against-biased-ai/?outputType=amp"
-    cdnAmpWebUrl: "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/business/2022/05/12/us-civil-rights-enforcers-warn-employers-against-biased-ai/?outputType=amp"
-    type: article
-    provider:
-      name: WPLG
-      domain: local10.com
-    quality: 57
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PUPH6IEGVRB53GXEEF42SEHPEQ.jpg?_a=ATAK9d60"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used hiring tools could violate civil rights laws."
     publishedDateTime: 2022-05-12T16:20:00Z
     webUrl: "https://www.chron.com/news/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
@@ -76,7 +76,18 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "U.S. civil rights enforcers warn employers against biased AI"
+    excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,” Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
+    publishedDateTime: 2022-05-12T22:40:00Z
+    webUrl: "https://www.seattletimes.com/business/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
-secured: "tlogcA2ws/eBEQCfdyiO+RQIJM3WAa+I1G+gEx6+daZsZZdBu+oX6LxWX8EAq8gaVDNiJaLizWA2cfYaDpLbmn6A6u6fdWsO/w1DAy9P3MPa0/A4d0CQSC7BmuZAuZ4Bay9hZ1+1CQd9PWfBHdsa9pXJ0RNMp3pegez+rONsFo+vqjm0WqZi1SjOz6Xl4E2L0CyIof3GTNjkmCE6g20BJc/nWcdf3yD80Z04tqCRh5mlZzggfDUbIaK8jhzGfML3WfIosh+MSxyW1ks1+s6I3T8duHmEu1rKANAkoU2Kf00z/Lyl6eVYcgFxAZ3TvHmGu9DRpdT8M45eqyIzB0/JDP4Xst7fxfGx7ehcKrXv+iM=;/1OtWwu/9r7tdWmIcz0nSA=="
+secured: "fv/DBGdo3RtL9z2WeFh7e12jS3vFpPbCQ6nu5czp0AH7OOGzi+YH+RoImR364QNTSZ4JY85biCAcfEs8zytMXQ7UFNm86caCPuO40tQ8Z/p10m0fgq6RYRnTAA0RJxeRJHuZgnT3yHlVDADUGVn7pfpMsGdHcAIy7JgHERkr0W963KaIDO8J+F/PceNQper0TwUMHpmfPNzwOSKuRYqhqE8+39MngRpbod8APYTDcszFDwB+FyK43aqqQRJij7DIeuixPU4PvHZuCfIEFYiD8na7vT3U8FJkZfaipndKQMGfoFJ2WD7GnsAEpQrMnlERNo1qF0m0ah1zkCjNxvkfc2oxz07Gct7flmE408hCmCg=;dgpidvl2vA5GXP4KcAfKYA=="
 ---
 

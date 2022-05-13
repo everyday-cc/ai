@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Forbes Names Whisper to AI 50 List"
-excerpt: "For the second year in a row, Whisper is being recognized for its revolutionary AI-powered hearing aid, the Whisper Hearing System Forbes' 12-judge panel of experts in artificial intelligence from ..."
-publishedDateTime: 2022-05-12T23:51:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220512SF56419/forbes-names-whisper-to-ai-50-list/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220512SF56419/forbes-names-whisper-to-ai-50-list/"
+excerpt: "For the second year in a row, Whisper is being recognized for its revolutionary AI-powered hearing aid, the Whisper Hearing System SAN FRANCISCO, May 12, 2022 /PRNewswire/ -- Whisper today announced that, for the second year in a row, it has been named to ..."
+publishedDateTime: 2022-05-12T20:51:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cfa7a9246d6f813497985d884a512f3"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-6cfa7a9246d6f813497985d884a512f3"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -38,19 +38,33 @@ related:
         width: 1200
         height: 1201
         isCached: true
-  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "Forbes evaluated hundreds of submissions and recognized Nauto for its intelligent driver safety system that helps drivers avoid collisions and injuries by assessing roa"
-    publishedDateTime: 2022-05-12T18:00:00Z
-    webUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+  - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
+    publishedDateTime: 2022-05-11T21:11:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
     type: article
     provider:
-      name: We Are Green Bay
-      domain: wearegreenbay.com
+      name: Associated Press
+      domain: apnews.com
     quality: 47
     images:
-      - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2019/07/cropped-WAGB_DOTCOMv2.png"
-        width: 1018
-        height: 340
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Forbes evaluated hundreds of submissions and recognized Nauto for its intelligent driver safety system that helps drivers avoid collisions and injuries by assessing roa"
+    publishedDateTime: 2022-05-12T20:00:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 47
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
         isCached: true
   - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
     excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
@@ -80,6 +94,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
+    excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
+    publishedDateTime: 2022-05-11T12:30:00Z
+    webUrl: "https://fox59.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
+    type: article
+    provider:
+      name: FOX59 News
+      domain: fox59.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1514996/overjet_Logo.jpg?p=publish"
+        width: 2532
+        height: 1143
+        isCached: true
   - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its selection to the 2022 Forbes AI 50 for North America. The list recognizes standout privately-held companies making the most advanced and impactful uses of artificial technology."
     publishedDateTime: 2022-05-12T12:00:00Z
@@ -108,6 +136,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "BMIwmmyE0i2J+by3HK53cL99oCFompXX43RmvA+Ug3sKEQ43bOHVfzFwNT89kVSVqo8t7NpjgIm5o3WQYF+5ZQDeLSFsWnWHasdf/MqkVWM2FXciZbv4g6RnbzmArULc9kDUMg0eNuOYWDxqCtYPo1v3nhxp3/gnpX0G1WKKLBWm5e+Vno9693w7t992E2nnDlYj0YkC4x/wGYrxNpFkOeKd+LrYg0LWDn8+OmhQc927NTHbB4WBBuH+pnVjd8NKQJ5iqVmRm6/SSWYp85Ef79Iqdv6C6dNzi2fgeq86dTKhx0tm9tpgCi08VEuJkmBp7c1mExTmudjc+J6/mgDGEFkMCWTNGwtSt1LEjG0y4NY=;cBhGKI1Sik8wxf/aLLJ4pA=="
+secured: "ydN8SblTblv13xxY1gjcmzH2PVyE5D6ZLGsK7UjNa71HcJnFGMfFsDN148VxzjEsdd85AVOLET3ZqfVgy7zFpr0OwytxXEyiU1wdWOcBpSigubXg3DtH+GYhOlIQ4CCkBR3+XE50b0dwukuHc+gfRrfpLkmL6L8CCZWL3IaFG4E8pmlLZd0AeQLZ1cbcoOnxj+N290fR53+Tqpgso8xvubsKLLm9PSkS1LSphLi7KgxKCwLBAnIcEW6c02N5PW3XlxhvpoERh08MdS0Y+o7aLuPieDv0ie5hX4/HxLbuQCcnxLN6nznwgYd9kS1oFbQLti+BshlrfxmIyh51qTBY5kfPu38BxT5z6NT/IfLed2c=;2QNhSBRIoG4uozPZ8DKydA=="
 ---
 

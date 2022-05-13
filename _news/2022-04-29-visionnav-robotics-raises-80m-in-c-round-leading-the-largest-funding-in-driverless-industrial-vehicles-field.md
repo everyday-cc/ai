@@ -2,14 +2,18 @@
 category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
 excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-publishedDateTime: 2022-04-29T12:41:00Z
-originalUrl: "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/"
-webUrl: "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/"
+publishedDateTime: 2022-04-29T12:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
+webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
 type: article
 
 provider:
-  name: Fox2Now St. Louis
-  domain: fox2now.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -22,6 +26,6 @@ images:
     height: 215
     isCached: true
 
-secured: "HsxQvH1XgSU3JXp04f+0D2eI9AqtjFta19dLHdL0W5FUlPCxmbXq0e5agRi4J9H9pZMhb8IDS23PLmNNElCxVlbykxbYmFhJLQ7KB6ncD1VXeuboPYrBxV2YaQ/0DoWUDkW9tjOM7yNmhRsJWKHBKQRJfNlCOOfIxM7CIMMJddRVP1n93B9c5a2EDtzJhj1cEoiraIKT6WqRd8C9ERwAH6nafIcTo0MPrENCtqTphif3APfztjl333QXN39RiByoBz8tfJrHmYwPIrcosTgXgyllzv9lcpKPEqlJV7gHtnwRCy0a3jqBp35Y3ERbGfJzv67yP/HRsA5k4Jsypxxghdf76dLtmLRccQpd15wb9ZY=;3dB/DmSWYZ88NnLcujY2TA=="
+secured: "3kETjI8SXeVnavjbs2Dam7NeTmrE9gFDB+/lwNok8+hmYZdAzV3YXPxlm9uEZKhzDUW6tl9PQ1BEO5XNdrbtjn2XN0RzJP+PlFlXrvfn77vRswlGIGLOzLcT61flVbDRCYXvEBO6SQwMFHVT699HT0gq0unHuReydbVAiIeCPtc7eansZJM/20LAs/GgDDuyK+6v+5c2HyPT3xRQZmjYNRBR5+9hxDUwz/KgBQSnNZZ1XQrAZxHUhYwanYt3gdUzDhjLKkQ07UKNG7/qYEsE9a92qUe5nJ12Ie7kHSen5lSl+R8o7OA0aF09m7996htnE4TsNV/vUuAuVMwkdF+zUVcKeatBgHJNjPDJRvYWvdE=;fl9zbhTA0MbSKeR6oR4Ywg=="
 ---
 

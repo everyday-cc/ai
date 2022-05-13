@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Editorial, 5/13: Facial recognition software use raises concerns"
+    excerpt: "Lincoln police have used facial recognition software from the state Department of Motor Vehicles to help identify 23 possible suspects in crimes as varied as shoplifting, burglary and"
+    publishedDateTime: 2022-05-13T04:45:00Z
+    webUrl: "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.html"
+    ampWebUrl: "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html"
+    cdnAmpWebUrl: "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html"
+    type: article
+    provider:
+      name: Lincoln Journal Star
+      domain: journalstar.com
+    quality: 74
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/5/4e/54e4fc76-17c8-55b6-b532-351a4ac46bb0/5f011cb378336.image.jpg?resize=496%2C320"
+        width: 496
+        height: 320
+        isCached: true
   - title: "U.S. cities are backing off banning facial recognition as crime rises"
     excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers."
     publishedDateTime: 2022-05-12T15:09:00Z
@@ -48,20 +64,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "Tally of facial recognition bans being overturned keeps growing"
-    excerpt: "The high tide for restrictions in the United States regarding the use of facial recognition by law enforcement might have come and gone."
-    publishedDateTime: 2022-05-09T20:17:00Z
-    webUrl: "https://www.biometricupdate.com/202205/tally-of-facial-recognition-bans-being-overturned-keeps-growing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "Fhu6h/rumlo7AvWfMmTsb5FesAKiZVIlXtKx0KUhDz78nw4vet97A6cOT7XdUZ9iVXx+ZzElK8ABuEFed5vBql7Ja7iz+S0jRRZCDbBP3UCdRkROXGPGLMtf8nLQP2MOQJl6j1iJ8OfJiBSHfGwG7rC+ZqGf/Rl09vWTMU3hji0wa1AS0bHol2Vvek8X9ivkH/TZP9/fcIcsqTDS7yM/pWHd7LLHoFcDa3+dpZcA/9jeNT/cIkI54OxOBAz/eit26uCoybqR/k+sDszMEsztlaO1yQ7CVDaRmSToepoL2O9BOk7kpuDKsnbA4ClSJsDlrZ0hp8axCUYHNqVciDav1oSLkf1jF8cdq/pbVxnEGDl/iKAzSoSg2mnRa540J6kLL7KCT3p4hchEWCQT3UXi/yepNfpID08AbbVG5C++w2bAQF0N+YQPLPyMtH0XpeVqDo3pbTXpEgYaU6GvLQzzTdpB++kt3KWrzwKmVOcatpHNaC/ExLAqkk8bDLgtlbxPoWpwzhAQ0NIU9yEsL8/SzQ==;T65t+jx2taDQN0tcTAmbpw=="
 ---

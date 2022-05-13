@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Deep North Launches Checkout IQ, a Solution for Retailers to Prevent Asset Loss"
-excerpt: "Computer Vision and AI-based Offering 'Checkout IQ' Helps Reduce Shrinkage at Checkout & Self-CheckoutFOSTER CITY, Calif., May 12, 2022"
-publishedDateTime: 2022-05-12T13:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss-1031453943"
-webUrl: "https://markets.businessinsider.com/news/stocks/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss-1031453943"
+excerpt: "Its end-to-end software solution combines computer vision with deep learning technologies to help retailers and businesses deliver metrics such as footfall, conversion, consumer demographics ..."
+publishedDateTime: 2022-05-12T16:03:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
 type: article
-quality: 45
-heat: 45
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "1OwKsr5S/QxJqWrSUI0ORdf8BraYEuec9+xw3F4UADu6NHwuWYHFlcT9yZRXsDDRWOYF2jObC2hqVIW3VPhwmQmbOkjIf3CbJYvhe/Z/EhOtEJoJPpXD592XDgz8GVt9c0cjzBX4qsmO7fWKGQUwIy3d/GOSCfnDy0mAczF5r/O9Md/Ody5Hcbb2KVw6UngxuHe/7n1pXm1T/iKzQ7Smz4+1J2tRbf/rguQ23u/vboaIECnFzOaILnpDXCDGeaXaCV8VmEPDwlS2I+fqgYyq5Zuy9IQI2B/NEOoUaYvh+bbYpi/DaKpxk50qM9869SzD6LbGszRdNcz+bNumPxIw7jAJqBF/l5VBsPaXpIyqL8s=;f3KUlRTv+UqKtIRrGJrPpw=="
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
+
+secured: "uvLCA448S1u8SldHhIQqgPeTcFOotkvxwuLV6E0IqhnveQ2DjRpAK3i/Q0TNdCpo/wGi+GAxOYHgdYyan6Ayvh2CZQWogdZu6l9WDBbk4N2mijYLjMJhetSuCLvugCUBIcyEHTJmkWUAmgMRHYhq9Sd49GzdPGOrIIa2fU2Gh97gUvYobx0QF9yXUkAAgl+wHRPojPqmN5xvMCalSmefp7rjZ92NdPE2RP9WW8nSAa1cKQr5cWmixd0BMafZahYQoRlRWPXuoetotK1Y8awJv6zUkjNFlpprSZM636DHxUTs2G5dAQHGjVUWCSxpPV2Gp1kkqWP8eK5HgAQYr6qo7akqR/6zONrrylskGclfqgw=;mLLzaXCpaJKUlS5YVr+Dow=="
 ---
 

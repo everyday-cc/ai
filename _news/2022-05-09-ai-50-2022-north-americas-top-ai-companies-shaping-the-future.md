@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-nor
 webUrl: "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,34 +28,58 @@ images:
     isCached: true
 
 related:
-  - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
-    publishedDateTime: 2022-05-11T21:11:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+  - title: "Google I/O 2022: Google’s artificial intelligence and machine learning breakthroughs, explained"
+    excerpt: "... where a machine learning model only sees monolingual text – meaning, it learns to translate into another language without ever seeing an example. However, the company noted that the technology is not perfect and it would keep improving these models."
+    publishedDateTime: 2022-05-13T05:09:00Z
+    webUrl: "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/"
+    ampWebUrl: "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 47
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 77
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.indianexpress.com/2022/05/google.jpg"
+        width: 1200
+        height: 667
         isCached: true
-  - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
-    excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
-    publishedDateTime: 2022-05-11T12:30:00Z
-    webUrl: "https://fox59.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
+  - title: "Google Made Some Pretty Big Errors In Its I/O 2022 Translate Slides"
+    excerpt: "The main keynote of Google I/O 2022 went off without a hitch for the most part, but there were some fairly significant translation errors ... themselves centered on new AI learning techniques helping to bring 24 new languages to the service."
+    publishedDateTime: 2022-05-12T23:20:00Z
+    webUrl: "https://www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html?amp"
     type: article
     provider:
-      name: FOX59 News
-      domain: fox59.com
-    quality: 29
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1514996/overjet_Logo.jpg?p=publish"
-        width: 2532
-        height: 1143
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/04/google-translate-new-languages-io-22.png"
+        width: 1500
+        height: 771
         isCached: true
+  - title: "Google I/O 2022: Advancing knowledge and computing"
+    excerpt: "[TL;DR]Nearly 24 years ago, Google started with two graduate students, one product, and a big mission: to organize the world’s information and make it universally accessible and useful. In the decades since, we’ve been developing our technology to deliver on that mission.The progress we've made is because"
+    publishedDateTime: 2022-05-11T17:00:00Z
+    webUrl: "https://blog.google/technology/developers/io-2022-keynote/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 54
+  - title: "Another firing among Google’s AI brain trust, and more discord"
+    excerpt: "Google declined to elaborate about the researcher’s dismissal, but it offered a full-throated defense of the research he criticized and of its unwillingness to publish his assessment."
+    publishedDateTime: 2022-05-09T15:00:00Z
+    webUrl: "https://www.seattletimes.com/business/another-firing-among-googles-ai-brain-trust-and-more-discord/"
+    ampWebUrl: "https://www.seattletimes.com/business/another-firing-among-googles-ai-brain-trust-and-more-discord/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/another-firing-among-googles-ai-brain-trust-and-more-discord/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "SdWiBy8Om/xG6TnUSwb/JAGYWPVXam8Kf6dfJUdVzpV7xj1Jm2spri9NUgNZneSP28KyKyp5XUxzAlLqgKmELxYCPIcXlP5AD6xKLmcgp5FeHYkp5ck2gEZUi2PJUuq6VyD3LiY7dCVIk+eEUtvpHY50cTY9giVvplsEXmNHPgEMNLvotAYWGLEuqsq9MpiGNJpm84/he1T8mrBhyUPQTTH1kuE2IbBqvALnAcL8GpIXIN1alBYNMvA1Xbf4HUDlGxR31E1jIKk5D//xGFnE69likjgBkF4jjc120c0+0kJ8KuK1YNZvw3tVxUuOERsB8Y02QmYFjiRu8n4A0slLOeQR5TcWbIfCAkDH1j7qLjYzCHkTWjYygYaW68S1HLHKm0rRm10wmgm9GzUruC4F6YWAaZIsokF40z2FEG/T6fyaz2B23+ocGf0SHzzKXff9wi4iw3c1eZN5fhqeomfxkwziwR0IV420lWfHSFwLHLqZjycm6zhqdL3CdFG+Fpyv1heRWEn1d0k9w8IJ6k1MhA==;wXZ9ioe13DpJ4cDVLbsVnA=="
 ---

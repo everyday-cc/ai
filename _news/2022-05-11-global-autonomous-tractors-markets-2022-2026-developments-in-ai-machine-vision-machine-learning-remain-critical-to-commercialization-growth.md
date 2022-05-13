@@ -19,29 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "South Africa IT Market Report 2022 - Key Drivers Include AI, Cloud Computing, Big Data Analytics, 5G and IOT - ResearchAndMarkets.com"
-    excerpt: "The “IT Industry in South Africa 2022” report has been added to ResearchAndMarkets.com’s offering. The pandemic has given an enormous boost to digital transformation, and the IT industry. Supply chain issues,"
-    publishedDateTime: 2022-05-09T09:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-business-africa-b105d0901b2f4080b2cd061fe4a41ad1"
+  - title: "Cyber Security in Robotics Market 2022 Development Status, Competition Analysis, Type and Application 2029"
+    excerpt: "Furthermore, the world is witnessing rapid increase in information security, human safety, data protection which, in turn, is creating potential growth opportunities for the cyber security in robotics market players. Leveraging Artificial Intelligence and ..."
+    publishedDateTime: 2022-05-13T03:44:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/13/cyber-security-in-robotics-market-2022-development-status-competition-analysis-type-and-application-2029/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Worldwide Security Robots Industry to 2027 - Featuring AeroVironment, BAE Systems and Boston Dynamics Among Others - ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global security robots market"
-    publishedDateTime: 2022-05-09T12:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/b27074123/worldwide-security-robots-industry-to-2027-featuring-aerovironment-bae-systems-and-boston-dynamics"
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 33
+  - title: "IDS Imaging Development Systems GmbH to exhibit a range of intelligent security solutions at automatica 2022 exhibition"
+    excerpt: "One new feature, for example, is the block-based editor, with which users can develop their own programme sequences with AI image processing functions, such as object recognition or classification, without any programming knowledge. With the Ensenso ..."
+    publishedDateTime: 2022-05-10T13:24:00Z
+    webUrl: "https://www.sourcesecurity.com/news/ids-imaging-development-systems-gmbh-intelligent-security-solutions-automatica-2022-exhibition-co-12175-ga.1652173086.html?ref=nav"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 0
 
 secured: "jeZ0arCbe1NB6cpzURDQSrv14BddpBy0PjpE7rqw9o73F3TcPCcts4JwKI5jY5/7idJBTod1BLr239XR2/tFlCKYyj5t8pC0KJC+83EEXMzR99mWd/Hp23Ln238SAx5ElC1YEeShxgxHE04tk8f8b+JNZYYKL8ksqAZpId7rexCQYXKbNDgh8AkMgw/f0e37I6rHuNGB/HlmGZ9sPwPeYmgAhLDAhW59NwwfhM30kwkH3djKqzQ4yMPtupwLyrsEE3sRQ88mGwhpAM2UqHaf9zp6JOySq3RA2xpc1let00+XU2hjChaqHsqlDeNAK7Wbu3sTRAHcXLynWfg5KlKUTSPCU4/7pJ2VWae9fJd0Jj+ip5rdNscktHhyShGDXOkv9Pti8C1ghmiOFGEbqsHIWVI8+IMrAPbMJ4mFlFLEux3/yF/otkZ1FVwaWI36f5ISJdHceb+A+coCN37M0n5qPD7RtYU4XNeV4A9wDRsKwVg/+TL8u2EaWVyE9tiZTEMIMhWzRDdbTpwhX1ViSYbYjA==;cCpI07w6/WkvbE7ciB1Vlg=="
 ---
