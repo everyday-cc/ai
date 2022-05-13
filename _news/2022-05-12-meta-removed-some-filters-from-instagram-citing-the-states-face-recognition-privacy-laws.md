@@ -91,6 +91,22 @@ related:
         width: 560
         height: 320
         isCached: true
+  - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook and Instagram right now"
+    excerpt: "The features were suspended two months after the attorney general sued the social media platforms’ parent company, saying that some of its practices violated Texans’ privacy."
+    publishedDateTime: 2022-05-12T23:21:00Z
+    webUrl: "https://www.texastribune.org/2022/05/12/texas-face-filters-instagram-facebook-meta/"
+    ampWebUrl: "https://www.texastribune.org/2022/05/12/texas-face-filters-instagram-facebook-meta/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2022/05/12/texas-face-filters-instagram-facebook-meta/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 29
+    images:
+      - url: "https://thumbnails.texastribune.org/trgaGo7pTw-KgAz2LE4WIjofnFw=/1200x630/filters:quality(95)/static.texastribune.org/media/files/92e525dfa5fa30ca5b37b9d58650156c/Meta%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TJLeR5DoX7JE06RQgUgHzYNTbWsn7e0uuPALKgHsSY8CvLYrthEDCHfPItlGgUbJWU4iMs6VxBmgYXmOnAkQVozgSLewqkeSVg7SOALc5XXrYesa9fQeiBntyJmdxrrLbKIX3VkKxYg8ap+knVGoQytICPRBn/bKn1SMjpyddwlDkl0U61Jl47DrZ1t6AkUKv2z6i/SKmhppw3KzyqaunZIJq35w+zDuyLSb3wxGfuM5wWAnTZZzJarv1UqHSq3u+skg45DBCrpxi0jIn3PGRJ7jMLrvwTOfkuThSUX6IaK2pVc84IMrsfZAc+k1E3Ule+OgCQZsOgMKrtenhx8c6Tv7nytL9Bi7Q0R1lrTLZ7WICBNit/JajkSXWCmETTJue6qWzb2k+BR76GVzb60+MxT3JO1ROFcb2zXZLadQmrkg/8SXGlnjS5SCzv0iK/3O3cRAG5g4BqTceX0vIu9TDxQiO6OSYN0hrGZOHqBpL7VY6GXjvlscuB3SL1RkDI7CWV6XHAmXbSzYf0vvm8CI8A==;fOuHp1VjsSD/CISpEcEraQ=="
 ---

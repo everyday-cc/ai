@@ -34,6 +34,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Customer service automation startup Lang lands $15M"
+    excerpt: "He would be — he’s the co-founder of Lang.ai, a startup developing a platform that automatically tags customer conversations to resolve service issues ostensibly more quickly. By applying ..."
+    publishedDateTime: 2022-05-12T12:18:00Z
+    webUrl: "https://techcrunch.com/2022/05/12/2313590/"
+    ampWebUrl: "https://techcrunch.com/2022/05/12/2313590/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/2313590/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2015/07/shutterstock_102266374.jpg?w=1000"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Concentric AI Raises Series A Funding Led by Ballistic Ventures to Autonomously Secure Business-Critical Data"
     excerpt: "SAN JOSE, Calif., May 11, 2022 — Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, announced today it has raised $14.5 million in Series A funding. Led by Ballistic Ventures, a new VC firm solely ..."
     publishedDateTime: 2022-05-11T17:06:00Z

@@ -423,6 +423,20 @@ related:
         width: 900
         height: 507
         isCached: true
+  - title: "Instagram filters affected by Clearview AI facial recognition database lawsuit"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
+    publishedDateTime: 2022-05-12T15:51:00Z
+    webUrl: "https://www.wandtv.com/news/instagram-filters-affected-by-clearview-ai-facial-recognition-database-lawsuit/article_ba80693c-d213-11ec-8dd0-0f11fd3a1f73.html"
+    type: article
+    provider:
+      name: WAND
+      domain: wandtv.com
+    quality: 52
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/64/064af774-4ead-11eb-88d7-13a705cb4fae/5ff34794c18c7.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Clearview AI agrees to stop selling facial recognition database to private entities"
     excerpt: "Clearview AI on Monday agreed to no longer sell its facial recognition database to private entities in the United States as part of a legal settlement with the ACLU in Illinois."
     publishedDateTime: 2022-05-09T22:01:00Z
@@ -450,6 +464,22 @@ related:
       - url: "https://eandt.theiet.org/media/15480/dreamstime_l_208516777.jpg?crop=0,0.31791666666666668,0,0.18989583333333326&cropmode=percentage&width=1200&height=450&rnd=132617507000000000"
         width: 1200
         height: 450
+        isCached: true
+  - title: "Facial Recognition: Clearview-ACLU Settlement Charts a New Path for BIPA and the First Amendment"
+    excerpt: "The closely watched privacy and First Amendment battle between Clearview AI (“Clearview”) and the American Civil Liberties Union (“ACLU”) came to a close on May 9, 2022 as the"
+    publishedDateTime: 2022-05-12T22:37:00Z
+    webUrl: "https://www.natlawreview.com/article/facial-recognition-clearview-aclu-settlement-charts-new-path-bipa-and-first"
+    ampWebUrl: "https://www.natlawreview.com/article/facial-recognition-clearview-aclu-settlement-charts-new-path-bipa-and-first?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/facial-recognition-clearview-aclu-settlement-charts-new-path-bipa-and-first?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 46
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
   - title: "Settlement Curbs Firm's Facial Recognition Database In US"
     excerpt: "Startup Clearview AI has agreed to limit access to its controversial facial recognition database in the United States, settling a lawsuit filed by privacy advocates, a court filing showed Monday. The deal,"

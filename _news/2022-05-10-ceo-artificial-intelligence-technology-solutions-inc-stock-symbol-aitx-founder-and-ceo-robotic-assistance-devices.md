@@ -26,20 +26,15 @@ images:
 
 related:
   - title: "Another Order of 3 Robots from a top ranked global logistics Company for $AITX: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
-    excerpt: "Artificial Intelligence and Robotic Solutions for Multiple Applications ... New Multi-Unit Order from Renowned East Coast Private College. Security Robot Order Recently Received from New Dealer with Multiple Fortune 500 Business Relationships."
-    publishedDateTime: 2022-05-11T11:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
+    excerpt: "Artificial Intelligence and Robotic Solutions for Multiple ... critical infrastructure, education, and healthcare. On April 29 th AITX announced it is awaiting final approval from a pair of significant pending orders. These 2 orders are expected after ..."
+    publishedDateTime: 2022-05-11T11:18:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-11-another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
-secured: "KdjguujGZ/8QrXfkOTvovuijwGWPRHtwh+Dmt2HTi8hH87ChP9hTl3tz93ncGXMtPSSO/GxrG2bFQu3UlePrTuS16Q8z5jPBbeK0ru43apO2ut8EkG/jD6WVjSe3qUXDyAbW6jVZzLsj3K5+8T2aSxRThs6ELNc4Rp4PtgyrOL73J4Rk29wklAN0jP+dXVAOjmq1xPI64mz4F69dO/Fbe6p2rRrjwtAwXVM44jrXqtbmrCzoX8sbfeWOEduXAm64xX0gCHbB1E8lOj1E36Px7lEzUEO48UstHWf5+n1tP2FZL04jzYY1Ivvsi//UQRvMpuSNk8L0Xh8GMjsf7WA5MZQ7FwblqydQnDrNQQMI7Gw=;ragUTedc4nvIzfSR/L9Zsw=="
+secured: "4PNXW7yFTW+eyl5BjvjlYNK3HzmhfvYXYHLOlYPmDBX/rOKZdyNwI+nI/Lf/C3RfILfObLnF07kJntAyLH5MknVkwjtxSY5jHSi+QZ5CHMi/dYMQ4Hzv/k8cpXjNslctnWef/hlF7QiWWtJ2xo5/C9FeQAa399nEBEEdGGkHrXbqv+KzW4NgG54k0fEr1/+pjXho8uItvoEMVgu0nBqQ2jPMLbC7ismmzl60xQsW4JxrKhKdEDKmX2oW89c/aQXlhIkoPVgvAMGmib96jYHcjA7BkeHl0VGRSM/H/3wTJUhbe9zvePEdbMkZ/Vvo6NyQ1eOHHrkWQYr0058ydkdvwDt+HF5lOk5eBqlG+gYKxuueJi6GjSbUDdERTo88hUbPKTSCBSKoTx4cK7mWU/sPr58qGVdE9PyT4C+HtOPgsgZ9/1a0DY5DrOpRbIvrUloY1yiTaQ3B7+8xXNkXGKlhuP1Rcpzp+yXlFkxMBqVGH2qQYcIOzUO9HQnQpcMJDpazOyViHxgs8eUBMQ/bUAr6JQ==;2n20K7REBGmE+Hc+Kwj2Ig=="
 ---
 

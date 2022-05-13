@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Customer service automation startup Lang lands $15M"
+    excerpt: "He would be — he’s the co-founder of Lang.ai, a startup developing a platform that automatically tags customer conversations to resolve service issues ostensibly more quickly. By applying ..."
+    publishedDateTime: 2022-05-12T12:18:00Z
+    webUrl: "https://techcrunch.com/2022/05/12/2313590/"
+    ampWebUrl: "https://techcrunch.com/2022/05/12/2313590/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/2313590/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2015/07/shutterstock_102266374.jpg?w=1000"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Loris Raises Another $12M for its AI-Powered Customer Service Support Platform That’s Empowering Reps to Make the Customer Experience More Pleasant"
     excerpt: "Loris is a no-code AI solution that integrates with existing customer service platforms, to assist agents with language in real-time during conversations. CEO Etie Hertz shares"
     publishedDateTime: 2022-05-12T13:27:00Z

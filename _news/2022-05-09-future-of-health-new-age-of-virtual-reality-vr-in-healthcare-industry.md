@@ -53,6 +53,15 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "The robots are coming"
+    excerpt: "Much of the region's surgical robot boom can be credited to the early success of Mako Surgical, a Davie firm that sold for $1.65 billion in 2013."
+    publishedDateTime: 2022-05-12T23:10:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2022/05/12/cover-story-the-surgical-robots-are-coming.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "JBzShpAoqlgBvZ+3ar8TNYGDc4K7kwOPCb1rz1FzE9fspFT4+czxI5InzBHm5FavWvxXqNS9nBov1SxAruGPxhzRxmbQApIOjGaJXju6vrlZgLBnJ5WYAXrDP9UicEXkEoUI4dti5i/F3OJbz4lfQEjmXyxwmwhuJR41jsjOFZfx3ip5rPK4cGeiZ7BTPdnjWQ7fdx2jkkYpz5aT55gtSXBybkleAEC8KHdeHvH88DZQiowXCGYWj0LO/xkm+TM8Yl1ZGA4GSVOZL0ggFdV7P/DVTk64PJeEoRy8WG0gHzadNOCzRr7vFFWYEBxoHylZHiG0cEiiaO2sLbGYi8IuhcyHlLtr+MeHVo2xXo8qCzY=;MqriRlT+EMKsbDtMZ3DBmg=="
 ---

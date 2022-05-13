@@ -1,19 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence helps decode sounds of the animal kingdom"
-excerpt: "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human. \"If you're manually trying to isolate these calls from audio files ..."
-publishedDateTime: 2022-05-06T13:36:00Z
-originalUrl: "https://www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
-webUrl: "https://www.tmj4.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+excerpt: "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human."
+publishedDateTime: 2022-05-06T13:37:00Z
+originalUrl: "https://www.10news.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+webUrl: "https://www.10news.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+ampWebUrl: "https://www.10news.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
+cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
 type: article
 
 provider:
-  name: TMJ4
-  domain: tmj4.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
   - AI
 
-secured: "ZEU1t+U2zJozMJYiPoQRBcLU+I6iISn74c7qIOA8+4kUbjOF/ayX3+VOpJk8hArBaoE8AkPlvdS0Xpp+EQPPLw80OgKUGz1bcr8UBx106FvsjCtOb0GlvIN0VjBi/nMZ4gmF6lznYiLJWFwt4d7tlkEhqo+aPhC3jPIJVkd/TAHQftzl1Fm1gQpn8XcvlemZlPZ3+wqdPHQyTkVIIU9CyDGJq94eHFERwIDZWKf/TekpDvUdjZbDqNVUf75Gnp2mZOciP7IkbjpCau+Ysl7RkpF99obeSRcTNnPLgA7XPZ4AWucPQAs/VjGFEU/JOJo2ncwgAofC3ZcbtFnkGko3kiopFknAKH4MqLnQLco18NWcGPN38weqiAHF8cd/lZMpVK041okRghq5NZmXnTqBVQ9d7kwEGSxxt4FzqPgK8Ok5oDv5/z1c3MqQTQ/5dv884Z1bBpt3xy553B3J8pbtIQT2Apb9vPXhXa0zVWy3FDrXg/Xp3vOQ6SjbUbfdXVJM4dE89VyyyhkgoP2CnYtzLg==;Jy20eGmBZEAG47zttQr8Iw=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/5752abc/2147483647/strip/true/crop/900x506+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F97%2F14%2Fc5200d774c06abf9d29172df0431%2Funderstanding-animal-sounds.jpeg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "sSBfiPpy8gnqcsWrQz/6LRUfDCf58Vi3DnU4AQPm0VNMElNaWJqQBlYOMmo4A3BcsM3Mjwk5VflgYFIff3oo3MqYiMEfiaUeQCiodQtMR8NwV38Mii0/D2yceXdnu2MdKRQDVL7R63G9eXzeJMiKtaQ0HPEabpYXa3GwR0hPPO5ALmneF5Qq1MvkGlBcN+dIJyOwd5mZ9P/PLM9psgIzgwiKLFo/VmRKZvnhTY+xu7n17mPMp59Jkm+x857aX3Lrh2Pj0OZQ7KAauiaN/Yb5epBs7KuMooknBkcnZAOK5TgooFIvfifU4V1TjGkO48a9gdvb+GdcCak4Q/wFQ2qc/8D898dUjUw7mDBsTlKLZ/w=;+6tM+Guv4MJkGal0lqjgtg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://gazette.com/opinion/letters-facial-recognition-technology-pu
 cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/opinion/letters-facial-recognition-technology-punishing-those-who-litter/article_02e65fb8-cfa5-11ec-9d3d-b3b3553c8fab.amp.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1024
     height: 855
     isCached: true
-
-related:
-  - title: "Lawmakers to debate limiting the use of facial recognition technology in Colorado"
-    excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday."
-    publishedDateTime: 2022-05-08T06:30:00Z
-    webUrl: "https://denvergazette.com/news/government/lawmakers-to-debate-limiting-the-use-of-facial-recognition-technology-in-colorado/article_f1e676f5-628d-5c66-a2bb-b319e0a9e11d.html"
-    ampWebUrl: "https://denvergazette.com/news/government/lawmakers-to-debate-limiting-the-use-of-facial-recognition-technology-in-colorado/article_f1e676f5-628d-5c66-a2bb-b319e0a9e11d.amp.html"
-    cdnAmpWebUrl: "https://denvergazette-com.cdn.ampproject.org/c/s/denvergazette.com/news/government/lawmakers-to-debate-limiting-the-use-of-facial-recognition-technology-in-colorado/article_f1e676f5-628d-5c66-a2bb-b319e0a9e11d.amp.html"
-    type: article
-    provider:
-      name: Denver Gazette
-      domain: denvergazette.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/denvergazette.com/content/tncms/assets/v3/editorial/8/13/813628e7-6e7b-57c5-afbd-791f3e4776b8/5f635a7e466b8.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "bEwuBN61oY6rns4lXONmIhFHsUHHazEMtFK+4BXcawsoQiWAPIEOdp263rxjKmmrZW6J9dUIOeLRq20H1Kyfdq/bN0zi9jhzXN2ToDVIUW7MKZzgIBdch15xphfnIQNdss5Ca5B8gtlCfMjDXu5RQp/uDrYvpm/9ewJqqmUcOnAv1Ny8qnDtyrYKPh7RdGA60dZBNyIUj3xPKkBC7295Oj/yFH+77W2Wqwyos9Irr7+wFULHbUhjX0g7ipVdvSbnygMFELUPAjBzxAWTHVNkRGBByXBwdNpRUyV0Gq3EJc9yLlUhTJNopNPywBtF+c4mPHFCIHULiaJ4FCEIjqTtqDTayoxhEtF0vttMgGIcPypzBCgQmtmUvXpUUTjS5v0f22DF1q242XumUf5eoBhtvURz/3XwmnPxJO+8XwL42XyUxtsbCdA6NUdmkISpFMV+pn+y6GEi3aQNqSWeTGBTZN7d0AZqKKkZGCRe/GH5bx/80gvHwGQN+rmHmGFzUs2S/FM3Rnp9CUXrREFAapdGiQ==;FekN4n7bdM80ALqqwFBL5w=="
 ---

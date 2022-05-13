@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-
 cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
       - url: "https://media.kvue.com/assets/KVUE/images/7ad9533f-98f9-4e3b-8991-aaf6ea290fc0/7ad9533f-98f9-4e3b-8991-aaf6ea290fc0_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook and Instagram right now"
+    excerpt: "The features were suspended two months after the attorney general sued the social media platforms’ parent company, saying that some of its practices violated Texans’ privacy."
+    publishedDateTime: 2022-05-12T23:21:00Z
+    webUrl: "https://www.texastribune.org/2022/05/12/texas-face-filters-instagram-facebook-meta/"
+    ampWebUrl: "https://www.texastribune.org/2022/05/12/texas-face-filters-instagram-facebook-meta/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2022/05/12/texas-face-filters-instagram-facebook-meta/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 29
+    images:
+      - url: "https://thumbnails.texastribune.org/trgaGo7pTw-KgAz2LE4WIjofnFw=/1200x630/filters:quality(95)/static.texastribune.org/media/files/92e525dfa5fa30ca5b37b9d58650156c/Meta%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "80Rx8FkvYV8MGcXkc/8Ozf2tYcbih8mAuEC2R5WfhFWWF9SRoP+GxB9UyJl+UoeRsEUAymzjNnfY73dG5p3ESK44Qh9XcA3dakrrdGAnJuzMhpGYtMLDv4c3NXrm2oD98TEZc0tZ0WKKVE3tpZbiC5Rh5QLOTCDmQTCesk8+O67VZWCHHbMWQzw1FjS4RySe9xwu0eye/3VuWkzlJ1jCl9w9Ot5Xfzka5Vj+kQz4KXSYto60/2rOekmeIgrzhiH8DzHf36HynDoumzXoLJsv7Qjqceogcaf8bs5wv89I3YkZr4LJ9X3J/kplwlVolelNd8NepVt6RCOq6VmkQA3Nj/Kuw235Xq+2iK3+HDkz/4Rsmgez90oFpPFCyrBvNk+iNRyOhmxAUDUD4THOc4gmNqpXgktLExbqRXVZsdsLXsWf/bGRg0H8ZDxEcnsF4EG5zsXKfDkQi442+TcXKq99xgLVuWkU8/jByFjm4M76uxBmzuvyBZa7mh/Weg51pL5Q+d3QjlW0etb2iZB9K903jQ==;dnp9SV42i9B3ONANqdxPWw=="

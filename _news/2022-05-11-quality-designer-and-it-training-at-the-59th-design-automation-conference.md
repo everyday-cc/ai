@@ -2,22 +2,28 @@
 category: news
 title: "Quality Designer and IT Training at the 59th Design Automation Conference"
 excerpt: "The Design Automation Conference (DAC), the premier event devoted to the design and design automation of electronic chips to systems, has enhanced its educational training program for 2022. The popular Thursday is Training Day program provided by Doulos,"
-publishedDateTime: 2022-05-11T16:53:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/11/9600172.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/11/9600172.htm"
+publishedDateTime: 2022-05-11T15:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-san-francisco-b40212b730674f0eb693ee6832a37ad8"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-san-francisco-b40212b730674f0eb693ee6832a37ad8"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "dr5N+pYP4MFHJjVQF5Qb4qT8eqCFKucZPHmHGjtRw5oD14Z9Xwm1EpPTbYo8hsvxEMQneZ6vbxv1X4uJOXrFOD0e7J8qgtrcU8SFKi3UKLxf4F42w3PvyFixh03mr9Ca5TJN6qkkx0PNKFGWK+wkK3YcnbmOAeIHeoS/VBE4iapmQiEmedinzFndeKt5CLXhpDbgyBHNOG6mPonR2F9bW6DOVuU+6S6fNQW1b+G7spg5c+2n9h1x7T2kFxruLVIrh6ejeQw7X1AY8Im0zdmks9c/JJENh2rM4Tk+g00mz8BcWYNb2MpvvU/ADg5SEvH6kmNqqPmG2xiiRIrsF6B1q854lneZcuuVk3Mv08KKdSU=;5YbQl4iacSbInmyCH7Xfkg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "XEaIx9nKxf4l9ZnAW5iBFm7ydK7Vp2mJ3NAi1VRMePHdgJvU5mibQOKauP27raiz3+saihj3DqDUlF4S6XgBSL2ZlX6XQ5ZbOsjWxU834XOKeUBPKdwpn2N29/Bza6JLNqdrN21IzQB462b2/BpWnRMyBb4/L041TsKeu/RyKQNVz7aH8FKT2YGxTtaMDoXMIGfnFEh4oZAQXfbPWh3p2v9AX88jxjpMtNTif5X+Vi7wEthTmSV8W+//LS24FhfKbdKYSIjdTKZE4EqLFgHHM9DWCeuTmFw2JkuJ6cEjO2we/3+re4Ow8R28faMx7QFqJZo8cvbUf2JSOpNJDe3vh3YkESdd1SwdwG2xiwHFlwU=;ogX3JJ4FAXUv1nrsX1iioA=="
 ---
 

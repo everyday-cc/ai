@@ -3,24 +3,24 @@ category: news
 title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
 excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
 publishedDateTime: 2022-05-11T21:11:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
         height: 1143
         isCached: true
 
-secured: "d9K3lWWGJwkLWZxXbTh141zIFfipOrrodzpczI4LWhmXJkaMNYwHzdyhwdnrYYtXp6K9W7gEXVE3lbbdvGv6NI2MBPH74JPs69t0KXd1D5qQSser+gbCDeQQU5MEVyXNwyJEdRItj81Sh/FZsU0QKgQNZniNOpbQYiTiKLUafEb1Uh9tefI4+yR2+FFVKDQoNO6PWx8VrtD599Dm+PX+XI2qhdgr8fga3SYeU3VA1kr2SPuHfOaDgX1PaszzH/RTeTN2StXc0ceVkOJecVc3M0KRRVibS8i93sKGfEOc0ccgEUXu02ie5V9tpAuErV/1AZ06sBf0nrGmbM8Nmb2skN1xRefouJkP/x1J8GXIRo8=;9rSnx6iCgFinkdAz7JNkyg=="
+secured: "GiTs99U50YOJqE/VZBvxAGo9m5WgFll12eco6S6vctqAHCvIUU54yRTQUMn67XzkPJR4E5ZD17oDfKppREJozn/yNK7T/k1dVPhFXvsWaSpqPLn5p2yfp2/pjr1xN9AdBzG25Z70ARriJVSePsru51K95DedHG2W1yqRJxtegoLq7iB1BjQW2bFerAhcVV+RmTqX8PahL419suMzrS7ApjMK+IUs+V7KuxnxtNy3nvHFZCOr1HrXcrIkb4NCo05hgDDQ3vVg3DEptaEoWmX6ZP4aDN7eS70Qr9eZ7MsVJZq88ZI0Jwxm/i3gQGlKYM4IxCxuk/K5jiaa4R06OcdptTGhUUB2xQbEbu2PwlmAtK0=;gkgyRXiiYXbdtKUOWglwig=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-04-25-introducing-coloringcoolcom-a-website-that-provides-a-variety-of-coloring-pages-and-how-to-draw-on-all-topics-perfect-for-kids-and-toddlers.md",
-      "title": "Introducing ColoringCool.com a website that provides a variety of coloring pages and how to draw on all topics perfect for kids and toddlers",
-      "excerpt": "Science discovered that color recognition is a critical cognitive-developmental step for toddlers. It plays a vital role in object recognition and is a vital part of helping children develop their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/introducing-coloringcool-com-a-website-that-provides-a-variety-of-coloring-pages-and-how-to-draw-on-all-topics-perfect-for-kids-and-toddlers",
-      "originalUrl": "https://www.digitaljournal.com/pr/introducing-coloringcool-com-a-website-that-provides-a-variety-of-coloring-pages-and-how-to-draw-on-all-topics-perfect-for-kids-and-toddlers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/2af0417e9234cd0ca277f493889c7249eaa33629-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-24-darpa-seeks-proposals-on-improving-satellite-imagery-technology.md",
       "title": "DARPA seeks proposals on improving satellite imagery technology",
       "excerpt": "DARPA issued broad agency announcements for the efforts in February and March focused on improving SAR technology in three areas: automated object recognition; distributed radar image formation; and digital signal processing. Responses for all three are ...",
@@ -1320,6 +1277,49 @@
       "provider": {
         "name": "Business Line",
         "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-deep-tech-start-up-spyne-raises-7-mn-led-by-accel.md",
+      "title": "Deep tech start-up Spyne raises $7 mn led by Accel",
+      "excerpt": "Spyne a deep tech start-up helping businesses and marketplaces create high-quality product images and videos at scale with AI has raised $7 million in their latest funding round. Led by Accel, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/entrepreneurship/news/story/deep-tech-start-up-spyne-raises-7-mn-led-by-accel-329507-2022-04-12",
+      "originalUrl": "https://www.businesstoday.in/entrepreneurship/news/story/deep-tech-start-up-spyne-raises-7-mn-led-by-accel-329507-2022-04-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/spyne_team36571-sixteen_nine.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesstoday.in/amp/entrepreneurship/news/story/deep-tech-start-up-spyne-raises-7-mn-led-by-accel-329507-2022-04-12",
+      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/entrepreneurship/news/story/deep-tech-start-up-spyne-raises-7-mn-led-by-accel-329507-2022-04-12",
+      "publishedDateTime": "2022-04-11T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
         "images": null,
         "publishers": null,
         "authors": null

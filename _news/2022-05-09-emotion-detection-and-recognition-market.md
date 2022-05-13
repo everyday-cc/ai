@@ -33,6 +33,20 @@ related:
         width: 776
         height: 630
         isCached: true
+  - title: "Image classification and object detection using Amazon Rekognition Custom Labels and Amazon SageMaker JumpStart"
+    excerpt: "In the last decade, computer vision use cases have been a growing trend, especially in industries like insurance, automotive, ecommerce, energy, retail, manufacturing, and others. Customers are building computer vision machine learning (ML) models to bring operational efficiencies and automation to their"
+    publishedDateTime: 2022-05-12T22:07:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/12/Featured-images-for-ML-9522.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "jnzuONfMVK8Jlzs40gMtd0aRHtFYElp81o6+gU7nN7nTJ+S/uURp8YN4/Xrp/474FZPsQ0nGIXZbSTQ7200Tdezi4J8tmO2sBcrV/FbF4a9loT6GsrOytaobulCaYMAhV9mwA8AfvIr7naPOAPQ7B771PzInoExihQxTk6mr+vjdrAAqc/SXLLUHZYmY9kKzwX3w/3DUSBvXyeaAlB/WeaRqydNyOzOF6ysIZTnPpUcxZLFOrQU1daH13mnVeev1usPmq2OB3U2IJXxiOPXM9MFsQaNFJGbFPEuM/I++9t9Ll2bqFyHN/Y2CNJTqZwyrqnxzYxPQPxGNP+MJ/Y+5zUo0HpOziKsacWG4rISJ/Hg=;JE7R/xaSmI5rabcrjhOcyw=="
 ---

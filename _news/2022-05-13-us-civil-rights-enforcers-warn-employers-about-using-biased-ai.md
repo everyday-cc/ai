@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Civil rights enforcers warn employers against biased AI"
+    excerpt: "Federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, se"
+    publishedDateTime: 2022-05-12T22:13:00Z
+    webUrl: "https://www.columbiamissourian.com/news/nation_world/civil-rights-enforcers-warn-employers-against-biased-ai/article_1073a76c-e9d7-5aa2-8ec2-a3b47dde0c65.html"
+    ampWebUrl: "https://www.columbiamissourian.com/news/nation_world/civil-rights-enforcers-warn-employers-against-biased-ai/article_1073a76c-e9d7-5aa2-8ec2-a3b47dde0c65.amp.html"
+    cdnAmpWebUrl: "https://www-columbiamissourian-com.cdn.ampproject.org/c/s/www.columbiamissourian.com/news/nation_world/civil-rights-enforcers-warn-employers-against-biased-ai/article_1073a76c-e9d7-5aa2-8ec2-a3b47dde0c65.amp.html"
+    type: article
+    provider:
+      name: Columbia Missourian
+      domain: columbiamissourian.com
+    quality: 57
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/assets/v3/editorial/d/95/d950e724-ed71-58ff-aa1b-e6cb09c7fd5b/627d867cd5bae.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
     publishedDateTime: 2022-05-12T17:21:00Z
@@ -45,20 +61,6 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PUPH6IEGVRB53GXEEF42SEHPEQ.jpg?_a=ATAK9d60"
         width: 700
         height: 467
-        isCached: true
-  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people w"
-    publishedDateTime: 2022-05-12T21:38:00Z
-    webUrl: "https://knpr.org/npr/2022-05/us-warns-discrimination-using-artificial-intelligence-screen-job-candidates"
-    type: article
-    provider:
-      name: KNPR
-      domain: knpr.org
-    quality: 29
-    images:
-      - url: "https://knpr.org/sites/default/files/public/styles/detail_large/public/images/npr-story/1098605697_179002945.jpg?itok=yFH0NXlZ"
-        width: 1400
-        height: 932
         isCached: true
 
 secured: "tlogcA2ws/eBEQCfdyiO+RQIJM3WAa+I1G+gEx6+daZsZZdBu+oX6LxWX8EAq8gaVDNiJaLizWA2cfYaDpLbmn6A6u6fdWsO/w1DAy9P3MPa0/A4d0CQSC7BmuZAuZ4Bay9hZ1+1CQd9PWfBHdsa9pXJ0RNMp3pegez+rONsFo+vqjm0WqZi1SjOz6Xl4E2L0CyIof3GTNjkmCE6g20BJc/nWcdf3yD80Z04tqCRh5mlZzggfDUbIaK8jhzGfML3WfIosh+MSxyW1ks1+s6I3T8duHmEu1rKANAkoU2Kf00z/Lyl6eVYcgFxAZ3TvHmGu9DRpdT8M45eqyIzB0/JDP4Xst7fxfGx7ehcKrXv+iM=;/1OtWwu/9r7tdWmIcz0nSA=="

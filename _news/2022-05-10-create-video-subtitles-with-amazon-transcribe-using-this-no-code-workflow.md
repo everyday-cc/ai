@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-video-subtitl
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

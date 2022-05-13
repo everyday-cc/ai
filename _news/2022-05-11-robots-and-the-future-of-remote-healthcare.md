@@ -7,7 +7,7 @@ originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
 webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "The robots are coming"
+    excerpt: "Much of the region's surgical robot boom can be credited to the early success of Mako Surgical, a Davie firm that sold for $1.65 billion in 2013."
+    publishedDateTime: 2022-05-12T23:10:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2022/05/12/cover-story-the-surgical-robots-are-coming.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "AVsCE+GKtog5WSAaR51ZjoR25N0M+T0mBiNsXVVWQfE6CduB3mfs/Zg6jgNBvgPGe30hJ8ivnnZbcPfo9QU4bI4BRubudkdgcMX31R7jeMyPi/OoyYlMtUMcoxnsLLwaZ1MPLF+eyRHVeCwlHoQAEHPZUJpzc4LlREDJgeRKwqD65VGr80/gUrhxCwSFRDJ2RzJeKSkldqYjMy4gAojvlsLEjfpFGGwXWaUQPPzwaKuVvRk8d3le0lAY5ZrjvnQUw2lozfLNAjuqSJzG/fTPUP/uhO0PGziUW1Dj7BpWBE5vVzXLAc2tM3deIeyvd+DRAw0e+m9lXOy8r8xj2ib0lo3LGvRFeBaBmrhepI20qftGaYhM0VllNMfadQQ8AkxwdUh3v8UmQO8+/MrMZZz1iQTI7Zy2nh+pa31MI/B70wdBi+/gIX3sjQd7suQT33+imtHr9S8Vdb8XZb7g16paoEMxa1SxqGHVL4b0yXhe4WMXswgEWKosJ58TlvdchVtQf/Vfy4SjSwImfibfaNNU0g==;+YWwzG/EhcnwYqHG9ykcVA=="
 ---

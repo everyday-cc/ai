@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Ed-SaaS AI Company, InventtEd, is Transforming Education through its One-Stop Centralized 360-Degree Unified AI Platform"
-    excerpt: "InventtEd is a leading Ed-SaaS AI company that is on a mission to revolutionize the education sector with next-gen AI solutions that deliver real r"
-    publishedDateTime: 2022-05-10T20:06:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ed-saas-ai-company-inventted-is-transforming-education-through-its-one-stop-centralized-360-degree-unified-ai-platform"
+  - title: "FDA grants breakthrough device designation for Wysa digital therapy"
+    excerpt: "Wysa Ltd.’s artificial intelligence-based digital therapy received FDA breakthrough device designation for adults with chronic musculoskeletal pain, depression and anxiety. The device delivers cognitive behavioral therapy (CBT) via a digital companion or ..."
+    publishedDateTime: 2022-05-12T22:28:00Z
+    webUrl: "https://www.bioworld.com/articles/518747-fda-grants-breakthrough-device-designation-for-wysa-digital-therapy"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 9
+      name: BioWorld
+      domain: bioworld.com
+    quality: 39
+    images:
+      - url: "https://www.bioworld.com/ext/resources/BMT-source/2022/05-12-Wysa-featured.png?height=635&t=1652390572&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "FG9BmT9W6rQLfc1zv6bt8Jv6PCESnlPVGTJXZcA707ZGGYu4L3gHCEpfVc6TtP8A9wBwiO4YbkPOW+TBij3AVORhpe3FIwENUKoR/oVhLQqhhLgFmQUUOumrk4xYyMJMrms/HfbBxwaWEES8Q89GEu++ozg5SOsFoY6VDlaGfLTj5C8VUBeYfw6PdJRnhjID7waNrmLg7ZSyfjsvsmwtm6GP27FThkvG0LF6BT/9VFGYWESfkG87ExARVtLlTSCIbBy2kfkgGbuq1Dqe9Fr8wFuOr+49ij2Yml/dPpJvA74nOpLKxIcW3jVw+qGfgz/GagC/V9RdMVpDdhfgWnUoDZJI2SDv6Ci/shZ8T17Qhc8=;QBiGNKmaPGIkOZ8rJDNtQg=="
 ---
