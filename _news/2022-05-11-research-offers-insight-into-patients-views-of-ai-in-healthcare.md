@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220510/Research-offers-insig
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
     provider:
       name: Too Old to Operate
       domain: physiciansweekly.com
+    quality: 17
+  - title: "Most patients have positive views about AI in medicine"
+    excerpt: "Most patients have positive views about the ability of artificial intelligence (AI) to improve care but have concerns about unintended consequences, according to a research letter published online ..."
+    publishedDateTime: 2022-05-13T18:40:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-patients-positive-views-ai-medicine.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 17
 
 secured: "0ApdMZQiL9iSPNIyFrruLZQz6YRh7K/J8cWKXAvt+VP194WPfFXe74ab2X0nqYUBOGALkCMszikuO46vb17fh1tIn6fllKVSRLfj/qNzRuT0TPjWZD0Swb1Fqjt0xaWLukIo8ngyuFHmzjMEwA7rNfyI5snrXcSFHsi4pcTvXQvT1hDLxJ7+uoshKvrvzn39D1pufPAat8f9eKAfJ4YzMt5ykUhAbjT0/rQbwSFvMTLHY7PIRPvln7pLMh3xMcEO3/rvumkg/gInvuhBZeHqiGaeZb1SUAF5ATvJ4nVJeXz0nsX5wwJyXjRQ9+23Cb8R6keystTaHdYVYNsjsT3wWgHyKgV/JJHywNNfAvWly0k=;R6kRr0LGsF/Ruc4SzXXVTQ=="

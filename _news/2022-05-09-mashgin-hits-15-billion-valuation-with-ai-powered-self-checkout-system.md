@@ -6,9 +6,9 @@ publishedDateTime: 2022-05-09T10:20:00Z
 originalUrl: "https://www.forbes.com/sites/rashishrivastava/2022/05/09/mashgin-hits-15-billion-valuation-with-ai-powered-self-checkout-system/"
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2022/05/09/mashgin-hits-15-billion-valuation-with-ai-powered-self-checkout-system/"
 type: article
-quality: 46
-heat: 46
-published: false
+quality: 68
+heat: 78
+published: true
 
 provider:
   name: Forbes
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6275692c881172f7243ddefe/0x0.jpg?format=jpg&width=1200"
+    width: 885
+    height: 717
+    isCached: true
 
 related:
   - title: "AI Sector's Value Will Exceed $135 Billion Mark In 2022"
@@ -37,6 +44,6 @@ related:
         height: 367
         isCached: true
 
-secured: "JJagpqtpRfKATEbldKu2eO2vKNqVqVXYSfCSywpAW09DSJvhl6zkLDDdYQtzQbnenHIkwJzXEH2GcYu80osIqUCDC3RCVWxe84oi8MJcKhmsw4XNCHkgimv1p7gm6htRYhnVmJbYYkU5z1szZfNHrVFvlhFXR3KrBQcEIq2ctD3pa+ciACmJq6kiwK9iOIh/gJxV42he9S3KbaOaPFW/E1Fwbq5Kmb7++i326/qE9K5Jy0o4zjS4aKJsPGfH7JOiszzfDxSdXFdPQdN/gMQgytADPvk8e4qY7f8Fyzq6T/tqv99mPkQvkRFKVwOCk0o4Or4hbSk48MgSy2yxAq13v1k+YUo36gK3H+6rB4N7MJgFm99CEyxwU2VyCNsR38dB3cpSnTlTAXBQTsVwRqrrrGr983+4LzFRoDPHO1ZczSxrekGFCM52jyFDoCQl1YKWRhv5o4qv1uHyS4qZb49V2OXd2rCjJIfEbTeb/EG8f9NbdZGP655h3iDc2GXkO8olIhW20uEVUzV9VIWylPL83Q==;6kmR1XMwF/8/BkCjSSukNw=="
+secured: "sSlzecPpe1JCnoinXUK2SUxcuTxVgQS9nzNlS1qc1ljlaG3H3v2D0yfrVbjJGFOFk0q6tUwMGIlkfoMGQQx0RnF7wmk1rshC3TYhS5/jbnaIxNYSm4N4UDwRF1qmMibyk9ZXaTLNGDnqSwII+wUIiZpKxUM/TJ5FAnPHAc8hIr+KjOAiAY/enVmtJPD+tVoAQzPOW1frMILgInhr6/slDS+wBKCEu1uexSazpa2PGQ8q4AuUmxqbwtB9bHbP5nYgkH2KLsR8Ol9Nd8HzuNvae5UzUGk672zlZInyFbTyqtRWG1kIgFbKjZn4PW9+pbsPsaB9vCYqIjgvMrtnUKceNlrKx5Ke3jo1ptpbuSfKQmE=;QPbzBhdPYG4SRjg2uTlJCw=="
 ---
 

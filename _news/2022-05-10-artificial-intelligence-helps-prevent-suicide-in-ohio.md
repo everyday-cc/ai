@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T16:39:00Z
 originalUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
 webUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Kxnet

@@ -41,6 +41,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "iHub-Data at IIIT Hyderabad launches Foundations of Modern Machine Learning Course"
+    excerpt: "India], May 13 (ANI/PRNewswire): iHub-Data at IIIT Hyderabad invites applications from second-year undergraduate engineering students for its 50-week online course on Foundations of Modern Machine Learning commencing from August 2022."
+    publishedDateTime: 2022-05-13T20:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220513/3941140.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
 
 secured: "VFdukSpLQwb/DKeqkc/az7AtGmb8IRP8m6W+wixnB+4ZYtSwFIL8LvcHC3NLmPgeIL+lFTkfsCCKrmO9JMcHChzWhlRsgR9dUIyA3pAwTsXwp9YMLYTyhSGwZji53Gz3mGQIa9deivEwmWrD0FX5owMqvRggjYT+yHrK+pAbiRCXXo51bBIQsWLEKqx9qdN3tPtd1bUY7aiXSSOTXxj0leDCBK1bE3sPlhQsXRyu0NGEMUUFginopKEHg/eYANDGZWBUIAv9CJ5+G7JKoHPwhdR1kAThobNSFpe3Wynqo1PW4uWM9eUZlntl1WKslYecYrHN7esbWPqTfJrusJkO5QGK8uzSxHQzLHusPl6CTi4=;9tUzEmr7l+hP2OOqrVKKzQ=="
 ---

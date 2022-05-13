@@ -32,7 +32,12 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 46
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6275692c881172f7243ddefe/0x0.jpg?format=jpg&width=1200"
+        width: 885
+        height: 717
+        isCached: true
 
 secured: "EUDKJYOqVoL5wZ3Lo1+CaW28+Lj3iY++QRfLro9lVKOfcrDuDXB64ZdkhvrNZHe0UFTQr/wAUJUH5yAvauV50p5BLf2sObkl5eWa0w3KGuhs+j8jo/42zlGHKlXpeP1mODFl+M9CRcCboDLyD4Z6XFJtYLqIUEG7hjoK+/mroEI6Amowf3ncLopyaGOcK4AiMjdyBWl0RvMxbQ/NYy0vkIDO47rfZNwSUu8koOPzAEbb9cPYzYB4JR/7QBq2VTN/zuISEXClqJxVjL5HtYZ0Ht5Ar0DI+kEaqBG9EEzCCpitUHLGoRMehrhSXv8UaZGgHJRWD2W9C5LU3Y57t3T8lLbgddHgkDXZxSnU/FNgqrs=;lUPK3CH8vSq9PrKKKErhLg=="
 ---

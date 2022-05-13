@@ -61,6 +61,15 @@ related:
       name: Too Old to Operate
       domain: physiciansweekly.com
     quality: 17
+  - title: "Most patients have positive views about AI in medicine"
+    excerpt: "Most patients have positive views about the ability of artificial intelligence (AI) to improve care but have concerns about unintended consequences, according to a research letter published online ..."
+    publishedDateTime: 2022-05-13T18:40:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-patients-positive-views-ai-medicine.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 17
 
 secured: "rcy+uQp6iW7ZFqzacJyOJqpqeTuY4dnTJuAShMxpOVgDjiXtbp+E4Un2otIFIczc5OUDrmV9FeMnvWkolfTRoRZlGUPyhwUD//R/x2M0KVYD/TEzciFD3lRp7gNXgUw5qrmmFY0tbvnCSCD0AM7zdQIB5nnqlNai2mR3PJUb9V72hqVD4yj2y09CW91KMugB+DucAbX1IQSHw66JFiNE2Tq0rT3DHwyLpk+OjByXQCf1gryVK0NYqq5QItkS20/6ItfmEwkOrKRzsaZ+Wn0nuGfXASLV4SnNJblwOomqYeHJhWwEVluxWTWTzxodA2MCow8qc53dE08AYeZc5el7lz4UxFbKUr/7v7JOFGmIy+g=;soWsR+qsp+BzuUrTbbJgAg=="
 ---

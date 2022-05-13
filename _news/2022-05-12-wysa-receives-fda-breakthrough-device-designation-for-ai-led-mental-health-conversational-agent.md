@@ -33,6 +33,15 @@ related:
         width: 847
         height: 635
         isCached: true
+  - title: "FDA designates AI-based therapy for pain, depression, anxiety as breakthrough device"
+    excerpt: "Wysa announced it has received breakthrough device designation from the FDA for its artificial intelligence-based digital mental health conversational agent for adults with chronic musculoskeletal pain,"
+    publishedDateTime: 2022-05-13T19:24:00Z
+    webUrl: "https://www.healio.com/news/psychiatry/20220513/fda-designates-aibased-therapy-for-pain-depression-anxiety-as-breakthrough-device"
+    type: article
+    provider:
+      name: Healio
+      domain: healio.com
+    quality: 27
 
 secured: "FG9BmT9W6rQLfc1zv6bt8Jv6PCESnlPVGTJXZcA707ZGGYu4L3gHCEpfVc6TtP8A9wBwiO4YbkPOW+TBij3AVORhpe3FIwENUKoR/oVhLQqhhLgFmQUUOumrk4xYyMJMrms/HfbBxwaWEES8Q89GEu++ozg5SOsFoY6VDlaGfLTj5C8VUBeYfw6PdJRnhjID7waNrmLg7ZSyfjsvsmwtm6GP27FThkvG0LF6BT/9VFGYWESfkG87ExARVtLlTSCIbBy2kfkgGbuq1Dqe9Fr8wFuOr+49ij2Yml/dPpJvA74nOpLKxIcW3jVw+qGfgz/GagC/V9RdMVpDdhfgWnUoDZJI2SDv6Ci/shZ8T17Qhc8=;QBiGNKmaPGIkOZ8rJDNtQg=="
 ---

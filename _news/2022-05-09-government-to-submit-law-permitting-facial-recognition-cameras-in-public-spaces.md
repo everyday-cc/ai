@@ -24,17 +24,6 @@ images:
     height: 535
     isCached: true
 
-related:
-  - title: "Invasion of privacy? New bill allows police to access facial recognition camera data"
-    excerpt: "On Sunday, the Knesset’s Ministerial Legislation Committee approved a bill regulating the use of facial recognition cameras in public areas, permitting the defense establishment to access the data and use it without obtaining a court order. According to ..."
-    publishedDateTime: 2022-05-09T09:43:00Z
-    webUrl: "https://www.israelnationalnews.com/news/327200"
-    type: article
-    provider:
-      name: Arutz Sheva
-      domain: israelnationalnews.com
-    quality: 12
-
 secured: "n1cHw9bSotl6k1xQZhtnLTa5DwGCbbxo9nxpWCN2690xhrPHB3nTaKz2O2SPybaNjZljUFpBH034DldUjwXO9inXel3Fnz6kZn9TOeT8gHXxbSdnrVpyCsO4q83eRo/0/lNog1o5KwiZdVP/USvSscb6/GovgbaRvRlKDnu/ArqN7PdY4QEsPBM4X/tRVyGyj/YHlv5qB/s/3O9lOud2ZuT1ZSyzU5oRgbU+cY0rXcvEsFLYFvPCSETgnCv3HuvLcYsP7WejMEyQfdKpElScM6W1Xr+JkeeAmwKzsjOvPTJ4l1voyUkPD16ACeA5HCyq+HKnT70vAAFfV3b2pBzVbLclrUwxRt2Rfj5MbF3p+Jc=;JdDFHwFNw+cVy/z6IENc+w=="
 ---
 

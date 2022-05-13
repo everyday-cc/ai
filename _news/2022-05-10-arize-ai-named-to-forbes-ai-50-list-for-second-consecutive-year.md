@@ -55,12 +55,12 @@ related:
   - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
     publishedDateTime: 2022-05-11T21:11:00Z
-    webUrl: "https://www.thedailytimes.com/business/glean-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/article_ed6a48aa-17b2-50db-aa9b-d15907525728.html"
+    webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
     type: article
     provider:
-      name: thedailytimes
-      domain: thedailytimes.com
-    quality: 27
+      name: Daily News
+      domain: galvnews.com
+    quality: 29
   - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its selection to the 2022 Forbes AI 50 for North America. The list recognizes standout privately-held companies making the most advanced and impactful uses of artificial technology."
     publishedDateTime: 2022-05-12T12:00:00Z

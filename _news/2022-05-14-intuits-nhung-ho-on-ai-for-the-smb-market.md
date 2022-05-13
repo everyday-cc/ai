@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T18:08:00Z
 originalUrl: "https://www.eweek.com/it-management/intuits-nhung-ho-on-ai-for-the-smb-market/"
 webUrl: "https://www.eweek.com/it-management/intuits-nhung-ho-on-ai-for-the-smb-market/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: eWeek

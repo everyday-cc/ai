@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T19:10:00Z
 originalUrl: "https://menafn.com/1104209678/Turkcell-And-Ericsson-Perform-First-5G-Autonomous-Mobile-Robot-Demo-In-Turkey"
 webUrl: "https://menafn.com/1104209678/Turkcell-And-Ericsson-Perform-First-5G-Autonomous-Mobile-Robot-Demo-In-Turkey"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

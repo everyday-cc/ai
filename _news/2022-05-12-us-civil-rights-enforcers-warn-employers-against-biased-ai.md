@@ -72,6 +72,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
+    excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+    publishedDateTime: 2022-05-13T02:04:00Z
+    webUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    ampWebUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
+    quality: 49
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+        width: 880
+        height: 542
+        isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased artificial intelligence"
     excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities."
     publishedDateTime: 2022-05-13T15:13:00Z
@@ -85,6 +101,20 @@ related:
       - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Federal officials caution employers on using AI in hiring"
+    excerpt: "The Justice Department and the Equal Employment Opportunity Commission are sounding the alarm about the potential for AI human resources tools to discriminate against individuals with disabilities."
+    publishedDateTime: 2022-05-12T23:53:00Z
+    webUrl: "https://fcw.com/digital-government/2022/05/federal-officials-caution-employers-using-ai-hiring/366899/"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 37
+    images:
+      - url: "https://cdn.fcw.com/media/img/cd/2022/05/12/051222_getty_fcw_ai_brain/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,” Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."

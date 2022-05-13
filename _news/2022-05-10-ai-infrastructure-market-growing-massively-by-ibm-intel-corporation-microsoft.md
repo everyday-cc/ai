@@ -129,20 +129,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
-    excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-    publishedDateTime: 2022-05-11T16:40:00Z
-    webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 50
-    images:
-      - url: "https://businessghana.com/cms/webroot/img/news/thumb_2022-05-12-151334001.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "Avaya Partners with Microsoft to Deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "Avaya's joint technology and go-to-market agreement with Microsoft will help customers accelerate their digital transformations in the cloud."
     publishedDateTime: 2022-05-10T04:00:00Z
@@ -208,6 +194,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
+  - title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
+    excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
+    publishedDateTime: 2022-05-11T16:29:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 30
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment, study finds"
     excerpt: "Quantified benefits included faster time to market for analytics insights, improved operational efficiency in model building and testing, and cost savings from retiring on-premises analytics infrastructure."
     publishedDateTime: 2022-05-13T06:34:00Z

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Worldwide Healthcare Cognitive Computing Industry to 2027 - Featuring Apple, CognitiveScale, Enterra Solutions and Google Among Others"
+    excerpt: "Brand New App to watch all of WFMZ-TV News and Syndicated Programing 24/7 on your Streaming App enabled TV."
+    publishedDateTime: 2022-05-10T20:10:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/worldwide-healthcare-cognitive-computing-industry-to-2027---featuring-apple-cognitivescale-enterra-solutions-and/article_1fdc36dd-d350-59e7-8262-34a92b44d23a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 9
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Insights on the Smart Robot Global Market to 2027 - by Component, Mobility, Application, Vertical and Region - ResearchAndMarkets.com"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global smart robot market reached a value of US$ 8.94 Billion in 2021."
     publishedDateTime: 2022-05-09T13:31:00Z

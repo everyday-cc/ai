@@ -451,6 +451,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Instagram filters not affected by Clearview AI facial recognition database lawsuit"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
+    publishedDateTime: 2022-05-12T15:51:00Z
+    webUrl: "https://www.wandtv.com/news/instagram-filters-not-affected-by-clearview-ai-facial-recognition-database-lawsuit/article_ba80693c-d213-11ec-8dd0-0f11fd3a1f73.html"
+    type: article
+    provider:
+      name: WAND
+      domain: wandtv.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/34/0340d145-6bb6-5e48-806e-6f38a42ebeed/627db846a1431.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Clearview AI will stop selling its facial recognition technology to private firms"
     excerpt: "Clearview AI - the facial recognition company whose massive database has been used recently to identify Russian soldiers killed in Ukraine, as well as rioters who stormed the US Capitol building in 2021 - will no longer sell its technology to private ..."
     publishedDateTime: 2022-05-11T11:24:00Z
