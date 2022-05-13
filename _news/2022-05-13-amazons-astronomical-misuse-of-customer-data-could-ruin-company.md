@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/amazons-astronomical-misuse-of-customer-data-
 webUrl: "https://techstory.in/amazons-astronomical-misuse-of-customer-data-could-ruin-company/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Shareholder: Amazon's 'astronomical' misuse of customer data could ruin company"
+    excerpt: "Taking a new approach to bringing attention to how Amazon uses individuals' data, a shareholder is suing Jeff Bezos, Andy Jassy and 17 other Amazon leaders he claims knowingly allowed the company to violate state laws."
+    publishedDateTime: 2022-05-13T17:12:00Z
+    webUrl: "https://techxplore.com/news/2022-05-shareholder-amazon-astronomical-misuse-customer.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-shareholder-amazon-astronomical-misuse-customer.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-shareholder-amazon-astronomical-misuse-customer.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-amazon.jpg"
+        width: 2879
+        height: 1919
+        isCached: true
   - title: "Shareholder: Amazon’s ‘astronomical’ misuse of customer data could ruin company"
     excerpt: "Amazon shareholder Stephen Nelson is suing Jeff Bezos, Andy Jassy and 17 other Amazon leaders, claiming they allowed the company to misuse customer data."
     publishedDateTime: 2022-05-12T22:21:00Z

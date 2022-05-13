@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://images.axios.com/m4u-MAElTIBPb-hJwhc8fpNj0dw=/0x0:1365x768/1366x768/2022/05/12/1652381213625.png"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Survey: Most people favor driver-support technology over self-driving vehicles"
+    excerpt: "May 13 (UPI) --Nearly eight in 10 people would prefer that the automobile industry put more effort into improving existing driver-support features than developing self-driving vehicles, according to a survey. AAA said that its survey on American attitudes ..."
+    publishedDateTime: 2022-05-13T17:23:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/05/13/aaa-self-driving-autonomous-cars/9991652459049/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 20
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9991652459049/2022/1/7f5bc97c38ae7ada46aae13410aef080/v1.5/Survey-Most-people-favor-driver-support-technology-over-self-driving-vehicles.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "These 3 technologies could make self-driving cars safer"
     excerpt: "With autonomous vehicles already operating in several cities, technology companies are working on high-definition maps, better artificial intelligence models and remote control for fleets when needed."

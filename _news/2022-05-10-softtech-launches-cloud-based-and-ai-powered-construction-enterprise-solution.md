@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cirrus Nexus launches AI-based cloud carbon reduction tool"
-    excerpt: "Cloud management company Cirrus Nexus has launched a tool which gives organizations a view of the carbon emissions associated with the cloud operations. TrueCarbon, a development of the company's cloud accounting tools, lets companies fix an internal price ..."
-    publishedDateTime: 2022-05-11T13:04:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/cirrus-nexus-launches-ai-based-cloud-carbon-reduction-tool/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 17
   - title: "Startup BalkanID launches AI-powered Identity Governance and Administration solution"
     excerpt: "BalkanID will start out focused on the mid-market but plans to expand that, as they further develop their solution from automated IGA to fully automated telemetry."
     publishedDateTime: 2022-05-12T12:00:00Z

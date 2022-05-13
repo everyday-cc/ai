@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-fights-discrimi
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech-1031442768"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI compounds discrimination against disabled"
+    excerpt: "Organizations are responsible for ensuring their hiring and performance management tools do not discriminate against individuals with disabilities, federal civil rights officials say."
+    publishedDateTime: 2022-05-13T15:41:00Z
+    webUrl: "https://gcn.com/emerging-tech/2022/05/ai-compounds-discrimination-against-disabled/366901/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 37
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2022/05/13/051222_getty_fcw_ai_brain/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech"
     excerpt: "SAS Hackathon an incubator for innovation and social justice. CARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data scientists and technology enthusia"
     publishedDateTime: 2022-05-10T17:35:00Z

@@ -49,6 +49,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Survey: Most people favor driver-support technology over self-driving vehicles"
+    excerpt: "May 13 (UPI) --Nearly eight in 10 people would prefer that the automobile industry put more effort into improving existing driver-support features than developing self-driving vehicles, according to a survey. AAA said that its survey on American attitudes ..."
+    publishedDateTime: 2022-05-13T17:23:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/05/13/aaa-self-driving-autonomous-cars/9991652459049/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 20
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9991652459049/2022/1/7f5bc97c38ae7ada46aae13410aef080/v1.5/Survey-Most-people-favor-driver-support-technology-over-self-driving-vehicles.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
     excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
     publishedDateTime: 2022-05-12T17:53:00Z

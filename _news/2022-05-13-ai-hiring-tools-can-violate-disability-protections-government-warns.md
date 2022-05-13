@@ -3,8 +3,8 @@ category: news
 title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
 excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
 publishedDateTime: 2022-05-13T01:18:00Z
-originalUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
-webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
+originalUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
+webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 type: article
@@ -32,19 +32,19 @@ images:
 related:
   - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
     excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
-    publishedDateTime: 2022-05-12T21:04:00Z
-    webUrl: "https://news.wsiu.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    ampWebUrl: "https://news.wsiu.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    cdnAmpWebUrl: "https://news-wsiu-org.cdn.ampproject.org/c/s/news.wsiu.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    publishedDateTime: 2022-05-13T02:04:00Z
+    webUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    ampWebUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
     type: article
     provider:
-      name: WSIU
-      domain: wsiu.org
-    quality: 51
+      name: WUWM
+      domain: wuwm.com
+    quality: 49
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/5b446ea/2147483647/strip/true/crop/5720x3219+7+0/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F13%2Fap20150645411408_wide-2fd65d6d091f783b43ee07c6bd6172965577d0f7.jpg"
-        width: 430
-        height: 242
+      - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+        width: 880
+        height: 542
         isCached: true
   - title: "Federal officials caution employers on using AI in hiring"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission are sounding the alarm about the potential for AI human resources tools to discriminate against individuals with disabilities."
@@ -61,6 +61,6 @@ related:
         height: 400
         isCached: true
 
-secured: "Bf0j2lqqeTSOjQWkXhe/BoWEIdkctJri7fKcxfJS/XO8zoEqtr0opJyT9MCv1AB/JeZKczjo15kiS8DDEcGSBuhnYhlKLfIy3iHyYEYA0s0pFfKxkzWhJZwk5YLmrkgQlXA2KPo81K03eK4H4zOK6HrnY5aHM3GV4ThBCkKJmWtg+f1Kn1zlPuN5Rtkv2N7TXtZGsofnshuJd0GWV3qQnyEU/yen104bdJOZV2LIUEO+CgWjHBwOagIuHxwzUJUVmkFYmG899+eKr2Mil7vIyW+VZNGf4ePvk2/iIC8yEKWDtVSoydT9oR7KogxRCnxNmVpk8jNHZ0rThZZ852k0gZzkvHWpTr6mwL5tF2/CJwM=;ugOrxM85ZwgnKmu+dD/gcw=="
+secured: "ME0hiHDt1A+g7pWfZ/P0CXYLFWmv8A4DVHRtRF/jg/lLD9+gY99kM2Q1pD0cezJHdzwVhuRf0sN+6qP7Cwq9GKzCmeVaTSA72fwZ9a9ljg/xcyBdoN2Cu9d92drCO6gkL/ic+qtOTQeFs75Aa757q1Qk2QszUPLouA3kMAFn/YDQZQc4mRihfjvYK7rHazN0LKjpjVf1dYpuUVdzWZcQTVpFH+fXVIE083NIm+LHQPcRYkAYb2GyaSJWpfBN377xBJkGGpqZxZFlgj/TL1BfnvNCp1gDMzLHjqLDBiwQpfzyWXYswV6DZXDdX0YwR+2/1evQDfDssMgfK8fHhOWgC34pKCDphSxZW51MU8kUchw=;AyNK28cyuE1dVTSL4P1CZA=="
 ---
 

@@ -145,15 +145,15 @@ related:
         isCached: true
   - title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
     excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-    publishedDateTime: 2022-05-11T16:29:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
+    publishedDateTime: 2022-05-11T16:40:00Z
+    webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
     type: article
     provider:
       name: BusinessGhana
       domain: businessghana.com
     quality: 50
     images:
-      - url: "https://www.businessghana.com/cms/webroot/img/news/thumb_2022-05-12-15184600.jpg"
+      - url: "https://businessghana.com/cms/webroot/img/news/thumb_2022-05-12-151334001.jpg"
         width: 300
         height: 225
         isCached: true

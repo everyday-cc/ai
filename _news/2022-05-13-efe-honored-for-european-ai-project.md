@@ -7,7 +7,7 @@ originalUrl: "https://www.efe.com/efe/english/portada/efe-honored-for-european-a
 webUrl: "https://www.efe.com/efe/english/portada/efe-honored-for-european-ai-project/50000260-4805388"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI helps improve Vodafone’s pan-European network"
-    excerpt: "Dell PowerProtect Cyber Recovery for Microsoft Azure deploys an isolated cyber vault in the public cloud to more securely protect and isolate data from ransomware attacks, with flexible recovery ..."
-    publishedDateTime: 2022-05-08T23:21:00Z
-    webUrl: "https://itwire.com/your-it-news/5g/ai-helps-improve-vodafone’s-pan-european-network.html"
+  - title: "Atos Talks European HPC Openness and a Hybrid Future of AI, Machine Learning and Quantum Supercomputing"
+    excerpt: "This exclusive Q&A interview was conducted by Nages Sieslack of the ISC 2022 conference organization, with Eric Eppe, head of portfolio and solutions, HPC & Quantum at France-based HPC systems vendor Atos."
+    publishedDateTime: 2022-05-12T00:16:00Z
+    webUrl: "https://insidehpc.com/2022/05/atos-talks-european-hpc-openness-and-a-hybrid-future-of-ai-machine-learning-and-quantum-supercomputing/"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/images/0902_CDAO_Melbourne_ITwire_300x250px_PNG.png"
-        width: 300
-        height: 250
-        isCached: true
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 20
 
 secured: "og/7G5fKXDHuoqk/MQ/ynMumIQ70bUWNOz9wrSgG+hypJm5V5GMISr9BoMiJQByv13n763v2n9Vv/TXBbLqzeIzqTwx0Oua8f5MnXXpppvTZMGPyFkOLCvfTazUBL5lvab6IfMLEahrwmiNxaN6o6AaZecbLv/GU3EYnFOHH4k4jbwX6E0DvLamzHYLG8jBeuKgw+Hy0PQIhqpIum9NG+YTXoxB8HNGOEwG8dRbAN8KY6WuddABA9bhEEDv2oslr1Ae4CnCvPv7t2QV/n/SBQpcayIk2X68yAOhLJXV4bqeUlVdfoJJuxYvEVMNFTTuAqrUjCB3vGYhWCNBECC9FlyoG6RtnRHulbYdP/kzQzj0=;E2AWg3t/nyocXkNBn9rm2A=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
 excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-publishedDateTime: 2022-05-11T16:29:00Z
-originalUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
-webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
+publishedDateTime: 2022-05-11T16:40:00Z
+originalUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
+webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
 type: article
 quality: 50
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.businessghana.com/cms/webroot/img/news/thumb_2022-05-12-15184600.jpg"
+  - url: "https://businessghana.com/cms/webroot/img/news/thumb_2022-05-12-151334001.jpg"
     width: 300
     height: 225
     isCached: true
@@ -241,6 +241,6 @@ related:
       domain: zawya.com
     quality: 21
 
-secured: "xYOedXi06EotNFsouoZoCRiQasLl2HcTtkFLDv85oRmSJ//0j63xShBLjSVZRljpBATEv2R2jiVqcZIflCESQ5Gbqcm6PfEqyUakwdkGFvthksxMt99VvQNO0IMQXvygW60RuMZhrM5ROoFsEfaWmgL5Vhezu4l9kZgJrJTQ7Sv88cxsHCYnBHqrlO69WtLdRuMovI0sGs4xdTwjEtlVCk/FdwFhVpOHhKpAD3Wnwv68DHOXU3BOaMHb3oD7Oi+tv/C1dOQ0V/pTswj1DZJ7yDm4ZpNo01FebYZta9frGXPN46uelYoSuUUPJXiuQeEw6124NPXiSR0FscDiGFO+iy/wAkhRsZHqLmdhFTmid9s=;wmMRQIholqu1jpGe3ycljg=="
+secured: "uLlKdoX+acCrpfZ4QirGBogaFyfZTKyuqONp+cTEuQrvoLvuXEtKBcn/6CDRPO296WHmj3qRBwAENGBjOjowp3vs+/NnjbiP4GxvaiYgLJbMshjzLh6PljQ4FR57PXaIA6rjbJDpaNHQaprFrZoWh+vz9T/k0bQLRwN+8mufV0IJ5KaghihdvSqjulMEvYv4HBa+Qd9be1R7oNVfFZzbTx0K6bu8Y4hRBw838tbl7K84CZzhqpWreMjNKpAHWTWHP2YgEEXtwW73ewaNDNevbcWw7oTBlovMkJur5rIeiyVtpWFhBr0l7Iw1KqBYNU7H6hCoObdnLvqu9aplWdUrCSaEN80d51MwgVxtZbPHtrM=;b9BdXjjBA0bLwe3JFt85ow=="
 ---
 

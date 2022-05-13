@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robots and the Future of Remote Healthcare"
-excerpt: "Although the technology has been around for several years, it is crucially important as we start to look toward the future ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that ..."
+excerpt: "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented rate. A growing focus on technology -- and the ways it can help improve patient care and the provider experience -- is now at the forefront,"
 publishedDateTime: 2022-05-11T01:10:00Z
-originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
-webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
+originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
+webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
 type: article
 quality: 56
 heat: 76
@@ -50,6 +50,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "JgcOBitkO5s9sX1PttV8fhQGFVFrBU5/QAhfTwWQVRdyFf9lS5MRqfvoN4y1v3nrFEkVnYNxtTtJcA3ATn5YyuKUbwnxOgWsd+1L7L1AJ6o2JipgKM4meS2dc37ncOhARAl5jWpTHXY2JPpaQPAmftZ5+/PPMHnzaw8tvz1dW8X/A8C/ArXhCCXjRYbzOSL4iYnBINFLwZ1ej7DS9nUVsQDt/dXh595chUZbsN4c+lIFrsuZx78hT592cDwwYhYlns/ghVo3dIwfqKrapY4LihMdvbZxrI6Jt71n6k56JgTaWFGgUDjnjpoqZt8ZRPWLI9jY1jLiZQ6dMrUM4U78+cHFUjhMdsl2A9ZZwRA7uXJ3mENPNibpbFHnUokL52Uq6AiTRezbYBJU/kUkRCJhgQpuPaOVT0vOCwj85IUAnAFflRZ/t+VMIc/ZG9MR9ElTNqsSI6JfeDhh1f3S2cgC5i2KbziIeDmzYTciAv6nw0h6dYHQgZpMXrdXEzI7TfTD1EBHpdUhQEDs+D/zSd0cpQ==;aO9wg43VFSQxgwNdrYD+Vg=="
+secured: "N68sP/NYb++20PzxQEJUIuFbRslbQjp8/ExOedB2GGsjAUWMaUE7sQXT76p+eP6/NdtZxkNAEvYZAyc5ClF/5iLuNjNVVMc6xIVkurpWJPHQPag++rb0+YgyqAUbLNnGP5lXr+w9JfSo1NuyiNrvyFJhZ7RYNGzBsTHGAJHdBu3ZQ9L2k61pi3umlzh2vp5SGE9EaB9DziYcSL9rrEEFshbdr6vHGZ3ckmz4wOz28e+hbuN/Np6xwWIMY72A+hg9viAidGzbRU5SYh2Ukrz+z7oNqQDPTg1z43poHMa/+4P3ICUsc2O8e5SI0Ej33awCp0YD3LAtj7h8b37EdUAWfkQ/sOMDcxK28I47W3D7U/U=;2hko/c4MqLtZahOPZHQXAw=="
 ---
 

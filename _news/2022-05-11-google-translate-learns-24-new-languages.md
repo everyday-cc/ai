@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/translate/24-new-languages/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/24-new-languages/amp/"
 type: article
 quality: 111
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -108,6 +108,17 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Google diversifies its translation service, adds 24 languages"
+    excerpt: "Google added 24 languages to its translation service, including South American, African, and South Asian languages not commonly found on popular tech products. It could help keep languages alive, but certain cultural nuances may not translate."
+    publishedDateTime: 2022-05-13T15:30:00Z
+    webUrl: "https://www.csmonitor.com/Technology/2022/0513/Google-diversifies-its-translation-service-adds-24-languages"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/Technology/2022/0513/Google-diversifies-its-translation-service-adds-24-languages"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/Technology/2022/0513/Google-diversifies-its-translation-service-adds-24-languages"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 24
 
 secured: "fNksD7ZN6yI8RrgBFc62K7gGHVDDR1E1aWLAFFMxDvbvLaLsJziviRqoQksOLndZ054qVlIbruVERYneUhKew7vzgQukLofCJe9rtx8uad2lFjV2ffm/Wuuztusth1wdgCHSI1yLjGPgDiYclpOtTp5tbMlvIL25pEY4sveyXb9YY10qJ2CHrWhzPRgaVVHz174uoVLtXVGS1jnJwSxuEDdJDRmGAYUiGRwkgxYDZq3EcsspKHezzBrDtqufis7Z7Hv4jEY/VwBTS0f0ePbk2VwOm3dj3fLIe3XgtlF5mbcUqWoX3Q+/I92GYekAGjQFCHQJcY1jXYWZtgNG36owh3KDG92R5rSiWHVtQuIhLmY=;OE8JU4v6GJ6imc8C1umVTw=="
 ---

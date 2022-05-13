@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud™ Solutions on Microsoft Azure"
+    excerpt: "RALEIGH-DURHAM, N.C., May 13, 2022 /PRNewswire/ -- Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, and Microsoft Corp. have expanded their global partnership by pairing the industry leading Avaya ..."
+    publishedDateTime: 2022-05-13T10:34:00Z
+    webUrl: "https://www.asiaone.com/business/avaya-enters-strategic-partnership-microsoft-deliver-avaya-onecloud-solutions-microsoft"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 37
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/pr-newswire_500_4_895.jpg?h=7de12b8a&itok=5UfKvAzi"
+        width: 600
+        height: 316
+        isCached: true
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment: Forrester study"
     excerpt: "These continued benefits of the partnership were also highlighted by the TEI study interviewees who shared positive feedback about feature integrations, including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and ..."
     publishedDateTime: 2022-05-12T12:25:00Z
@@ -44,15 +58,6 @@ related:
       name: CRN
       domain: www.crn.in
     quality: 28
-  - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud™ Solutions on Microsoft Azure"
-    excerpt: "In addition to the reliability and scale of Microsoft Azure, Avaya CCaaS customers gain access to the power of Nuance's Contact Center AI technology integrated with OneCloud. \"The combined capabilities of Microsoft and Nuance give Avaya customers ..."
-    publishedDateTime: 2022-05-13T12:16:00Z
-    webUrl: "https://sip-trunking.tmcnet.com/news/2022/05/13/9601679.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "+ZFAH/PEpQ5HjZZ5rvMycO9PPs7SnIILRmeAnvvnW4JI94rDjXy3f4q6mcTwEjlXvyLg6rA4n2LJa9SN32oLCZ14KuVTNVWxZjnIGPrly6q8VYcKJt2uye9AGK77utLui1m70wqKtEPE8z+gMxSfcm3t9K1Ldad+2i5o2Y0VUPymmcyPmyqlFKs2Vbs+lmeWr6OXoBvfZ+DtW//AxcAyU7znXCf5SmBoPKKgOjR95G6pwG46A+oFoVq3gy+bmk2R7jU9x/COdniH6UVOklkunb6cFNrMIgcMPzsAPd6EqGR535Ynmol1uq9618XBH1AXVX9+BVp+IkzWmADMIafPhy8dJbap+CgaMJelo1vwp849+O/ayq+UpiGXSZd3VgkiRnL7+zH+3UgWo7RY38X6hCoUwR2c7CDlPeW9FqJbTc+xOljCJVJoOGxLXszPceKNQheD8rVMt2gyt2d0Mp2e3dH/nRoEdHaw8ar+nJSK92ND9rEqGOKPopuQf3QKZp+daD0t89WZno6ou5q6Fn/4Dg==;htOo+TnRVE8OoBHsIO30PA=="
 ---

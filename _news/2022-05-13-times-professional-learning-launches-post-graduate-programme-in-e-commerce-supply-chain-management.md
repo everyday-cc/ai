@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apeejay Education and AWS Announce New Accelerator Program Aligned to India’s…"
+    excerpt: "New Delhi – Apeejay Education, an academic institution in India established for more than 50 years, and Amazon Web Services (AWS), an Amazon.com company, today announced the launch of the National Education Policy Accelerator Program (NEPAP),"
+    publishedDateTime: 2022-05-13T11:24:00Z
+    webUrl: "https://indiaeducationdiary.in/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias-national-education-policy-to-help-academic-institutions-accelerate-their-digital-readiness/"
+    ampWebUrl: "https://indiaeducationdiary.in/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias-national-education-policy-to-help-academic-institutions-accelerate-their-digital-readiness/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias-national-education-policy-to-help-academic-institutions-accelerate-their-digital-readiness/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 72
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "Apeejay Education and AWS launch NEP accelerator programme for tech-driven learning"
     excerpt: "using technologies such as artificial intelligence (AI) and machine learning (ML),\" said a joint statement by Apeejay Education and Amazon.com. However, the initial investments in the NEPAP programme were not disclosed. The NEPAP will have a collaborative ..."
     publishedDateTime: 2022-05-13T07:19:00Z

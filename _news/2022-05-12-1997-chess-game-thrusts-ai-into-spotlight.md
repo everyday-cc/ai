@@ -52,21 +52,19 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "The 1997 chess game that thrust AI into the spotlight"
-    excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just"
-    publishedDateTime: 2022-05-11T03:22:00Z
-    webUrl: "https://www.rfi.fr/en/the-1997-chess-game-that-thrust-ai-into-the-spotlight"
-    ampWebUrl: "https://amp.rfi.fr/en/the-1997-chess-game-that-thrust-ai-into-the-spotlight"
-    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/the-1997-chess-game-that-thrust-ai-into-the-spotlight"
+  - title: "The 1997 Chess Game That Thrust AI Into The Spotlight"
+    excerpt: "LeCun, one of the founding fathers of modern AI, lists among the achievements of today's computers an ability \"to translate any language into any language in a set of 200 languages\" or \"to have a single neural network that understands 100 languages\"."
+    publishedDateTime: 2022-05-11T03:37:00Z
+    webUrl: "https://www.ibtimes.com/1997-chess-game-thrust-ai-spotlight-3502200"
     type: article
     provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 59
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
     images:
-      - url: "https://s.rfi.fr/media/display/8d85bdb4-d0d9-11ec-b745-005056bfb2b6/w:1280/p:16x9/ef03b654b9dbbe37dc8ba22419f3817482766d3d.jpg"
-        width: 1280
-        height: 720
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/10/the-chess-world-was-shocked-at-garry-kasparovs.jpg"
+        width: 768
+        height: 512
         isCached: true
 
 secured: "UWs1PoHFdpKSPmEwA3Q4euoHJ8WO0sCPCOsykxNgSP0wQRgo9Ihcq/rtkJftfteCyqdAIQhwPyd0WlTnVd0aCkRoEtcWancJCI4lZhXQDxhLTHpCsqp8Y6BNa5xuEWXJw+FmJMmFVerlgo8WXlPNCgjDawZiCszxwxdjBiAg0agolMfJhuPT7lbG57Y/fg0dfaRdshyjwS6xoXEgM9RTDTxw4HO17lbSDzhMxhbbwGWcuADM5zrqp5xUxqHqGV9aRUxnk4KQlVWB74w5yO0EWJSd6whcPxlmS6DDMk7BwYdg/Dt8CWuD8uXglS0ZK898ZUFEmPcijgn3saUvpPtBBAvTJXN5pcReWfdtOtya338=;ikKX/NYxWZ5sqxfxDpUjtg=="

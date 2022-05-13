@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Shareholder: Amazon's 'astronomical' misuse of customer data could ruin company"
+    excerpt: "Taking a new approach to bringing attention to how Amazon uses individuals' data, a shareholder is suing Jeff Bezos, Andy Jassy and 17 other Amazon leaders he claims knowingly allowed the company to violate state laws."
+    publishedDateTime: 2022-05-13T17:12:00Z
+    webUrl: "https://techxplore.com/news/2022-05-shareholder-amazon-astronomical-misuse-customer.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-shareholder-amazon-astronomical-misuse-customer.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-shareholder-amazon-astronomical-misuse-customer.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-amazon.jpg"
+        width: 2879
+        height: 1919
+        isCached: true
   - title: "Amazon’s ‘astronomical’ misuse of customer data could ruin company"
     excerpt: "A shareholder is suing Jeff Bezos, Andy Jassy, and 17 other Amazon executives for intentionally allowing the business to violate state laws"
     publishedDateTime: 2022-05-13T14:47:00Z

@@ -103,6 +103,17 @@ related:
         width: 1000
         height: 416
         isCached: true
+  - title: "Google diversifies its translation service, adds 24 languages"
+    excerpt: "Google added 24 languages to its translation service, including South American, African, and South Asian languages not commonly found on popular tech products. It could help keep languages alive, but certain cultural nuances may not translate."
+    publishedDateTime: 2022-05-13T15:30:00Z
+    webUrl: "https://www.csmonitor.com/Technology/2022/0513/Google-diversifies-its-translation-service-adds-24-languages"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/Technology/2022/0513/Google-diversifies-its-translation-service-adds-24-languages"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/Technology/2022/0513/Google-diversifies-its-translation-service-adds-24-languages"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 24
 
 secured: "pyuw03hJ32bQ6XDcNhTaawZ/yh+P9GW2VaETg4QjStEvjEAB/xBdVi939xt7ExJyyByCBfBf7kFsNBp8AtGhcbOrtzRsGS52xv1S/RfDoDa7AT0Z3hP+JChZTb8OGFExrzov5cVqkvxgslLCBCTjV8wVI8203huMZiMFdgAtW3tbeyQwovguLDGZw4QN7m+obEIxRVtmcWeXB0oHW9iDXiqJZrhmYWz6tvXFqjVUDOY6p+X81Sv6e3AFC1uZDJNbu8OKjz0DJdfETV/5jVfEvCrNCbttlgfPVOs6GIL7KGu6c5E6yeBJqFFkj8GKOGPo7LBSCfyRXhoFdpn7U3SZrf/N9DRTMhtjMsAAJwTJiZz8YpoTIPonGkTQ1ESEEHXtSZYi86zXePtF7uLeN9ZBpFprXPFjinwUuDbRz3jUQ/2YXpt/91yqhY2LqMrDY4J0wHPofeFhSpwIrrXPBez244ujt1cpyfBUrNEDr9aAKrZMw1kNexr+DNnuRbqZ1Pp2LznJJ7IIrwHkfjKzyTVsGQ==;9TIc/T6E9mRaBff/3MuAXA=="
 ---

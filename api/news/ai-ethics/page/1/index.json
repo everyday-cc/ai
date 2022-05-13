@@ -177,6 +177,59 @@
       ]
     },
     {
+      "path": "_news/2022-05-10-ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech.md",
+      "title": "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech",
+      "excerpt": "SAS Hackathon an incubator for innovation and social justiceCARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech-1031442768",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech-1031442768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1812710/SAS_Milwaukee_County_Courthouse.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars.md",
       "title": "AI Ethics Is Especially Vexed By That AI Confinement Problem, Including The Knotty Particulars For Confining Autonomous Self-Driving Cars",
       "excerpt": "The AI Confinement Problem is a vexing issue and one that AI Ethics is pushing mightily to solve. We discuss why this is such a tough challenge, along with showcasing examples via the advent of AI-based self-driving cars.",
@@ -1380,58 +1433,6 @@
         "AI",
         "Computer Vision",
         "Natural Language Processing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-is-ai-the-ultimate-matchmaker-this-ya-novel-explores-tech-and-dating.md",
-      "title": "Is AI the ultimate matchmaker? This YA novel explores tech and dating",
-      "excerpt": "British author Samantha Cheah narrates the bizarre dating experiences of a university student in London in the 2030s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its",
-      "originalUrl": "https://www.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2022/04/14/987b9308-cd4c-485e-a3a0-7ee43bf62c7a_3a0f635e.jpg?itok=3zLCrzp4&v=1649920075",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its",
-      "publishedDateTime": "2022-04-15T22:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI Ethics"
       ]
     }
