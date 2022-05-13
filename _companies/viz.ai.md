@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "viz_ai"
   url: "https://twitter.com/viz_ai"
-  followers: 1985
+  followers: 1986
 
 size: 51-200 employees
 yearFounded: 2016
