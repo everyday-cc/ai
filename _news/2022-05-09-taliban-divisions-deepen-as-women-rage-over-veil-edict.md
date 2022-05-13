@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "Anger among Afghan women as face veil edict splits Taliban"
-    excerpt: "A new Taliban decree that demands women cover up from head to toe in public, showing at most their eyes, has left many Afghans angry or fearful"
-    publishedDateTime: 2022-05-08T15:31:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/anger-afghan-women-face-veil-edict-splits-taliban-84576368"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 24
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_2dd7859ddf4c4a08bf97b3d75be68120_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Anger among Afghan women as face veil edict splits Taliban"
     excerpt: "Arooza was furious and afraid, keeping her eyes open for Taliban on patrol as she and a friend shopped Sunday in Kabul’s Macroyan neighborhood. The math teacher was"
     publishedDateTime: 2022-05-08T19:58:00Z
     webUrl: "https://thehill.com/news/ap/ap-top-headlines/anger-among-afghan-women-as-face-veil-edict-splits-taliban/"

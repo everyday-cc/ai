@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-excerpt: "View original content to download multimedia:https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto ..."
-publishedDateTime: 2022-05-12T17:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-1031454864"
-webUrl: "https://markets.businessinsider.com/news/stocks/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-1031454864"
+excerpt: "View original content to download multimedia: https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto"
+publishedDateTime: 2022-05-12T17:03:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
 type: article
-quality: 57
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Explaining The Art Behind The Forbes AI 50 Design"
@@ -39,16 +41,16 @@ related:
   - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
     publishedDateTime: 2022-05-11T21:11:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+    webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 47
+      name: Daily News
+      domain: galvnews.com
+    quality: 49
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
   - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
     excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
@@ -134,6 +136,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "oAjx/OaxbSEckvO8bOcUPCc3R4qMXUKLMHSwfT+z6bxjhDbUCSJ+ahu5/sk9QOtEpy3i6q4uIdBxbUlP6+4qWwAuurvqp270WKi0t57YamwP1LCVSzQMIetAYh2aSGQ24gG7P1ddC43EXFZOkpmSq/csLNeMPw/OgAm6wO1dRo5POsfiuo+V1k/0ZZ6i3iJwWqlmM6D+FAAiR8qDw6BeuGnkZJRXdTLsAZMaSXisjQ7BC4lewqsJdt7TzxAqqfp9AGFf/wLeGek+Zl+fWUYsajvy4l5vViqTRpEpqtOgn5c2Aps+/v1XRd+uNyTLXK5N/yfLBJ/NKq3Bk9jf1MkPasFlUP6aze/JUqIDxvzPDfk=;2RimZ8WgatxPZZ5LIInEGA=="
+secured: "lUzFyGk7iKzgQVLE24jxTAzbPzPMqIEwTnNAZNPP8NatMOD1T16XMbdphcqdMUPYfZles5p5I51eNJodqtkEj/ckvufJJgewdb9AYlrXEPV5aWEbJdru0+Osit/pkz2AyxBMkNiV4XBazJp0k5qLk8DgcCtbY30l1UJImgrI+c7lV/V+uZJZ1AZ+Fk2dO8jrbQu7asWgo+P801cioigkIgFvqmnRZf5pDVvINQGl5/2/WTHxom2uslX3odp5Q8r7U8LlXSwKVHZshqnU5zuplVuFoKEnhflSOuOtIJ7LL0rKbwDnob23M2tOP5k43RaHUGK0r2RkQ0Ok4IXJdQzB2Bpw5PrRmAIXKt4sTtQPiMs=;4y8ch3tuFyPiVwA6t62qmw=="
 ---
 

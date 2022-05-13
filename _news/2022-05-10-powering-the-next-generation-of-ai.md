@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI-generated art really creative? It depends on the presentation"
-    excerpt: "Ai-Da sits behind a desk, paintbrush in hand. She looks up at the person posing for her, and then back down as she dabs another blob of paint onto the canvas. A lifelike portrait is taking shape. If you didn't know a robot produced it, this portrait could ..."
-    publishedDateTime: 2022-05-10T16:42:00Z
-    webUrl: "https://techxplore.com/news/2022-05-ai-generated-art-creative.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-ai-generated-art-creative.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-ai-generated-art-creative.amp"
+  - title: "A Smarter Way To Develop New Drugs Using Artificial Intelligence"
+    excerpt: "A new artificial intelligence technique has been developed that only proposes candidate molecules that can actually be produced in a lab. Pharmaceutical companies are using artificial intelligence to streamline the process of discovering new medicines."
+    publishedDateTime: 2022-05-09T20:09:00Z
+    webUrl: "https://scitechdaily.com/a-smarter-way-to-develop-new-drugs-using-artificial-intelligence/"
+    ampWebUrl: "https://scitechdaily.com/a-smarter-way-to-develop-new-drugs-using-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/a-smarter-way-to-develop-new-drugs-using-artificial-intelligence/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/is-ai-generated-art-re.jpg"
-        width: 1356
-        height: 668
+      - url: "https://scitechdaily.com/images/Machine-Learning-Model-Proposes-New-Molecules-Drug-Discovery-Process-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
+  - title: "Sniper Elite 5 dev talks smarter, reactive AI, and new player invasions"
+    excerpt: "I've not stopped thinking about the poor bastard I murdered in cold blood during my Sniper Elite 5 hands-on preview. His wide eyes. His panic. Him sprinting down a long, narrow hallway inside the French countryside mansion I'd broken into;"
+    publishedDateTime: 2022-05-11T15:02:00Z
+    webUrl: "https://www.gamesradar.com/sniper-elite-5-dev-talks-smarter-reactive-ai-and-new-player-invasions/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TxnJtQY6fgCfWYac7pq6L3-1200-80.jpg"
+        width: 1200
+        height: 679
         isCached: true
 
 secured: "6cnYAergsyHMpHsqZJTnNOE98xtjXxHEixuuHYkq8Pmz+2RP8ao+ZZ8ZxyTalUbWs+v4/JZm8aVlEQkJqJ3HTxgMzK2JqU3dzjG7eAPbGJYNR+sMjZ2YtAfv4QMTYWGkkClvRcRJ26EAtatK2UVg73qVpVvvQWeVKhvuTTzgzmEWgOeyvPfu3Fa/R+jFMokE3IF3RiLDTpclne9CcrJuJrT8/GkWjYUSimqx+mrF17FcpGtbAJszk/kHSNp8dDTkNim3JV0K0fKiw7gnYJr60rFzKZyHHidEq+rZ5vzEqLOoX3PuSzw8AL1V/eDS0be6zaUzVBFOjcjALsm/WlUaJvEEfFqSNFmgWXAZlzbfhQc=;CraMnVWMvyn4Ke6X6Er7lw=="

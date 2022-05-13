@@ -15,6 +15,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "+wjjsHZNZS1RDs0QHAXAZCeoIAWll26qp2bxDReCl5jnh2PJNOr0edMigHm/Tw4V8tY34qhgyxWCwEjzQsP/m9Kq1bpcs/yqUp00Mso5yzxDXweUOr5riLjQv5KHbT1S4KrtUsuQuTRs+wIYRC0JrBIGTjDfuVgLc1gv+Y9WiC6e/GM2Na38vxNTrfVCkBazFN+nrtq2j6DzCwigOthAGgrBvD2S91gXUfCR9iHVLhTiF2X4BWNek6MOlNJSqQsvzOVXRT4zDJ/dP59ynPzksUUKsFMci4RwLf5FCopWIqtnbHo4jcotiG7zIetp2wd9yO0/aUE6gVmNXOCcXWmk5Q4yoE3wA6ky4ATkbbpSlCMnrQhQRSNbN0BY13UWTtbfUq4BWpVT3PNv/ZgaUZJuR2ivT25P3exWYJ4DnQoNvm2SPXAS2HzjjXxsOoMWQ2bU2qEg3Rmy53EyUQ7lQaDcv03LTG2HttURV5z7r9WaXel4xmPyuCVkDBS41XArOmDgvkMRFqrT7T+EPlnDuWMvzw==;gY9nfNHdOYiSmyAB0Svg0g=="
+images:
+  - url: "https://mma.prnewswire.com/media/1741680/Empowerly_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "gF0XqK77tN4hVnpoj/L/e3OEVh4IZVEAaYNUi7skGoag3Dm7XICmRm4DyAf4YAUQwRyz150gaKMa44Wl1P4oWLVt/IFk85ILMpijA8oMl7TdJ1w1lLUd/MyWe1WdHRfYhGol6lvdQxVpBd74dA1JiEQvbjmxBA0KOUCpdsIzW2pX9KD432Ci6hOLFwlexrX/IQe8vDPCzZjdLn51pbIbtn62DMTDvGUOjQP3tmSyzFQC+crCtidogI40qtieGNsokr+IPHSNNKv8zA7bIe68qIggfTODJBm4ok6LQqPFZy7FIIEo+RlI8RNJjaBAH7T/Qy+U3Esg4//pVCHL9ZsQdeVlhijMrEjWxRW9E8YUkxg=;HbFblbl2Q39TzuWA7nGCSg=="
 ---
 

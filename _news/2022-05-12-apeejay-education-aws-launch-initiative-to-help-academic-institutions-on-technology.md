@@ -92,6 +92,22 @@ related:
         width: 558
         height: 372
         isCached: true
+  - title: "Apeejay Education And Amazon Web Services Announce New Accelerator Program Aligned With India’s National Education Policy"
+    excerpt: "The pioneering National Education Policy Accelerator Program will support academic institutions and Indian EdTechs to create and adopt digital solutions to advance India’s education sector."
+    publishedDateTime: 2022-05-13T07:45:00Z
+    webUrl: "https://www.india.com/education/apeejay-education-and-amazon-web-services-announce-new-accelerator-program-aligned-with-india-national-education-policy-5390429/"
+    ampWebUrl: "https://www.india.com/education/apeejay-education-and-amazon-web-services-announce-new-accelerator-program-aligned-with-india-national-education-policy-5390429/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/education/apeejay-education-and-amazon-web-services-announce-new-accelerator-program-aligned-with-india-national-education-policy-5390429/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 51
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2022/05/Apeejay-AWS.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Times Professional Learning launches Post Graduate Programme in e-Commerce & Supply Chain Management"
     excerpt: "The three-month training programme aims to provide learners with requisite skills to boost employability and help them become industry-ready NEW DELHI, May 13, 2022 /PRNewswire/ -- Times Professional Learning (TPL),"
     publishedDateTime: 2022-05-13T07:49:00Z

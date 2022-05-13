@@ -2,27 +2,22 @@
 category: news
 title: "Artificial Intelligence Helps Prevent Suicide in Ohio"
 excerpt: "CareSource, a nationally recognized nonprofit health plan, announced today a collaboration with Clarigent Health to bring Artificial Intelligence (AI) to behavioral health providers in Ohio. Clairity,"
-publishedDateTime: 2022-05-10T15:42:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
+publishedDateTime: 2022-05-10T16:39:00Z
+originalUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
+webUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
 type: article
-quality: 37
-heat: 37
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Kxnet
+  domain: kxnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "lATwU5YXUSvizsTyKOGRKjUit9l+PASLIpVnqnIj2xkF2GtIJkFW0wfXVh3twhM0BbQGkDyTa2d4XwcZrurN7QZeWivx+N3ro0Y/9gCC6s1rNyvKBu0F3RkxBTCR2gGwVz0QTppBS0f+loexW6PFy79d0UFV4k35/3PMCfqKYcjkmvmQaGDpbvhSH0iPOsYBHhL/PS+yJDfKQp+Q7CMmyy4+DjPu4SCRY6Af1oB1evKnMGTwrgphmBDDLWuC4bTNO5mPwoeptscj8YsvgeCfi9ys9qg2YMUAiSZBOPmcEMXEktcXLJtR/8ww1SCdGs0sbFNszxdLErlQ2oMA5kNNEYeuijmtiufVi4z17YmivEw=;oOLgBQKWqEUG92LokP8RBw=="
+secured: "O//yZJ9VngbKwnHRKRRTCHxbDjXvZjIneRDniLmiGZN2Nf/WJOaOQumSjOomDJKU6MY0zfXpbwasPAv87JfDd+tdbKx+aj7fSUkLrr7vVkpzEtQ/KlqOQ4hu6bNzRvRUp5SPOyJv7FGPr+nl326IdiE7Le74tvQTSO2pBv0P60subBZiXiuNqS+jYv3uKyAsGknlZUFLTvZLUczziu3Yn4xkLywnm+dV1vbQCsmRSiuOQXNRogtkxnmVw4LsxUjeGI6sBCOoVOOUSDXStO2PAvj26fsGCD5U3DZTz3e9+cWw45WPEHSS72JCUcXUel34b+iwAJ/GZZalR4rDhSRLCjN+N2kqspEo9W/oWOReGdI=;ZlCAGIrqx/fXvfR4/k3Iyg=="
 ---
 

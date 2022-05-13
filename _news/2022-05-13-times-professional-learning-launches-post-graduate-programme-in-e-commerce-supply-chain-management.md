@@ -99,6 +99,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Apeejay Education And Amazon Web Services Announce New Accelerator Program Aligned With India’s National Education Policy"
+    excerpt: "The pioneering National Education Policy Accelerator Program will support academic institutions and Indian EdTechs to create and adopt digital solutions to advance India’s education sector."
+    publishedDateTime: 2022-05-13T07:45:00Z
+    webUrl: "https://www.india.com/education/apeejay-education-and-amazon-web-services-announce-new-accelerator-program-aligned-with-india-national-education-policy-5390429/"
+    ampWebUrl: "https://www.india.com/education/apeejay-education-and-amazon-web-services-announce-new-accelerator-program-aligned-with-india-national-education-policy-5390429/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/education/apeejay-education-and-amazon-web-services-announce-new-accelerator-program-aligned-with-india-national-education-policy-5390429/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 51
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2022/05/Apeejay-AWS.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "pMlcMPDXsVZeQZXJnJzjxMCNSV/ZV1sDC3xL/JZrMqldHRsxzwMToh17jE0HAOnIEjfdcyt1jU/aK9qeLfOh48d0eq+/SxEw8+GrJYr6NUwofiIvqpiDZDVJ3KC2qVXgvtcf9Xpt8wvMIb6dmn7BxaWtJ92bk9eWEInJucaME/3DYXCw+fSjFWeE24K9Gt0G3PYP64X5bdukknwKrOG/3VecmYExUEoczruDcG5oLt+ciCi20FGJhrWAWLCQVtv2zvH/tMzNXnQwn4LH1zXj9SaZ3d8jVtjiGbTObv+06Q3cfvLzfx+7IWw6bYCN8UkCUQ8w6zRtfNBH/OB+Io6Vt7yiniKZtYIr0RF8Zdwa6FY=;UFndsLB7jxcSESZqnzouEw=="
 ---

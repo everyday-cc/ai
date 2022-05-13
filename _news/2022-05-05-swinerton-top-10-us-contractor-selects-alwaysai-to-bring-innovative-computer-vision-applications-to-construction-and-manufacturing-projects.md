@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Swinerton, Top 10 U.S. Contractor, Selects alwaysAI® to Bring Innovative Computer Vision Applications to Construction and Manufacturing Projects"
-excerpt: "SAN DIEGO, May 04, 2022 (GLOBE NEWSWIRE) -- Swinerton, a national general contractor with over 4,000 employees from coast-to-coast, announces a partnership with computer vision platform leader ..."
-publishedDateTime: 2022-05-04T18:29:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8534839/swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8534839/swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects"
+excerpt: "SAN DIEGO, May 04, 2022 (GLOBE NEWSWIRE) -- Swinerton, a national general contractor with over 4,000 employees from coast-to-coast, announces a partnership with computer vision platform leader, alwaysAI®, to develop CV applications bringing new levels of ..."
+publishedDateTime: 2022-05-04T17:02:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-a114662bf24bff46edc5a7559791f6cd"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-a114662bf24bff46edc5a7559791f6cd"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://ml.globenewswire.com/Resource/Download/f2be4e77-1694-46cc-b756-0bda87fd099d"
-    width: 3872
-    height: 2355
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "WhtMmvDUtHF3XlrsMwwz9CMyxDB0IXjeNZdObraCPajKLLpUqZIS4epUE8dpGIv+KRHCf0kUzjurcW5wG6xXyAIbEKMqjfEdNENyV0TA8J7C3c4DczuX8ztTj9hVw0LNw3mGAuJw8zVJQuPXjoZChDaYlTMPIt6fNHolh5/iQn+ocBDYuuiPdv9N/nHpxZvZsHETMm2bvah8Kckdv07ojnF9UKREaKt07NxrQ4CwwyFGvCy+Hyo1Zql9P2jgRloUKnBhma1GIaop2QFYftPYL7cjSsLd2B5YpgLNqFfxQYUlMDdEcibuCca8OvzIKbLe41XKJO/Dq27Fw/MoheTBlCjar3q95I+k9QVXZPhr2IM=;+iXYGYyO9VZYg+Kd3tZWfQ=="
+secured: "D67LyUsZZrhJGYrzzOYDhCx76LTyGv2n8FBqTlGCWH/8Cb5AM2fMF/jMqlZkO9DcXgA7j7zS384V9c9QHv2ySHM86pT3sOMweOJFR/Wk0CTN0DLYitYFUuJ9X1dIwdFV5P0AShrM5+VZrsVU/B/rwtYE7TYQEVRalEZemS4QUROw/2dVoPXksuZSnrnl5Je79P9PWrwbvSVZJf+hboZHG2nIfSqkNtFtFrAQdvjErNKcPGrdxPJJpRMoIMk+oSxH1IlbPHI5FstFqnk1R4lSjWSR3OQkBGcqmSWI2RSQ8kGFBE2AWHpqlN8bBYI3NsS7bBKALd+0+w1eHu2ciRkdP6WpIRsU+Al8bDsVmuYTkkg=;BRdHN5vMTG1wzUYYHL8lYA=="
 ---
 

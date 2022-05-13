@@ -32,19 +32,24 @@ related:
         width: 1200
         height: 1201
         isCached: true
-  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "View original content to download multimedia:https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto ..."
-    publishedDateTime: 2022-05-12T17:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-1031454864"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
     publishedDateTime: 2022-05-11T21:11:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+    webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 49
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "View original content to download multimedia: https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto"
+    publishedDateTime: 2022-05-12T17:03:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
     type: article
     provider:
       name: Associated Press

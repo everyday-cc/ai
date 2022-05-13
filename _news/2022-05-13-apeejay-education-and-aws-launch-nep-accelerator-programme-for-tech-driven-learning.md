@@ -92,6 +92,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Apeejay Education And Amazon Web Services Announce New Accelerator Program Aligned With India’s National Education Policy"
+    excerpt: "The pioneering National Education Policy Accelerator Program will support academic institutions and Indian EdTechs to create and adopt digital solutions to advance India’s education sector."
+    publishedDateTime: 2022-05-13T07:45:00Z
+    webUrl: "https://www.india.com/education/apeejay-education-and-amazon-web-services-announce-new-accelerator-program-aligned-with-india-national-education-policy-5390429/"
+    ampWebUrl: "https://www.india.com/education/apeejay-education-and-amazon-web-services-announce-new-accelerator-program-aligned-with-india-national-education-policy-5390429/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/education/apeejay-education-and-amazon-web-services-announce-new-accelerator-program-aligned-with-india-national-education-policy-5390429/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 51
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2022/05/Apeejay-AWS.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Times Professional Learning launches Post Graduate Programme in e-Commerce & Supply Chain Management"
     excerpt: "The three-month training programme aims to provide learners with requisite skills to boost employability and help them become industry-ready NEW DELHI, May 13, 2022 /PRNewswire/ -- Times Professional Learning (TPL),"
     publishedDateTime: 2022-05-13T07:49:00Z
@@ -102,6 +118,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "bi/JHfBY4lbCATE1uFSrbCb0JBWSi5HoiRVgX5HmRpEll2nf+JGKyGxB0n+0Bx0mjxBJKpsj0Va5nHjuYltX0x95WpJjLEPJ393GoBB6HFkFSsXnyO/LwuWNfkHXPjucWnPyKX6elMgoTQi8jTDyLMvjGsXyVEb3Xp1EYVAENc5jeJUd9vZxG4wDQfeJUMkhpqRFYpyV4ND71bmwrRwHQZ3Pb43KXJOAwql8HuVEoahnS/JYXQNwFqjEsYAmlbpS4nkT8srJoW7rN0TmDOtFGue11jG5hpowrBaX44u46/VUZZZDPN4bEyijizB8t4gaV6ZfMs8K9TE8BlRFxjAvUVvguvori3t0AdkA19rG2rM=;Xb1esCLGKEL4xCu+vA8O9g=="
+secured: "YuTFD9S9vy/vC4HYNXVr1ZIRRpDxNhOwCV9Gvkmgr6O+K4psScvgSz17aa/KxApp+Qqlr00S00ZDxCmql16hNOwKuXNGIJaM5Bt/j/DuFIkgXxshdqyPC01qWkUHKfRbim97M7dffuRlf72C5OJ0JSvKAQUvOweBAT8fPcMd5bg/cArlBLxvPyn4wL1YIzUKx/hf03wLdhM7lKzQYT81D8RFswRtwa3y6Yq8Y3cMk4IQpmDMnyyVBL132i53amGoPaUxDX5CNxa6tyAZ6t5nCMzR6va03xeK72x/eFWlbEUp3ZH2lH1JpdZ+CgXVq/6bmJhS0A7XMy10RPbij22o+usvcp4MM0s4Esz7wkZTUxcEdujKdn3ESy/dVEGNJfxpiOJX01tdLAQvoDV4P7ATW+8OCIoq56JxXkMrzoihaJwrCIORpygURfhJLrKOYLvHTrcpYdXZSsOYBesmk4xnnMWTKRWsPL0E/6CEtL5Cwc//Q6NMqPyw5vsjOQf4NN4CKlppIX7v7plQJs+hkthQfg==;39m4TAwJ1rFHcRmgK3VHNQ=="
 ---
 

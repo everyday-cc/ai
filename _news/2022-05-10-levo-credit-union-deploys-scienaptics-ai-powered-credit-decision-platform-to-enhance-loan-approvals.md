@@ -34,7 +34,7 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/salary-loans-Liberty-Finance-Lending-One-Way.jpg"
         width: 1800

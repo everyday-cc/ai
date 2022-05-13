@@ -7,7 +7,7 @@ originalUrl: "https://www.abc.net.au/radionational/programs/lifematters/how-indi
 webUrl: "https://www.abc.net.au/radionational/programs/lifematters/how-indigenous-recognition-could-reshape-australia/13875422"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australians urged to back Indigenous voice to parliament in History is Calling campaign"
-    excerpt: "First Nations leaders call for referendum to ‘do what 1967 didn’t do, which is empower our people’"
-    publishedDateTime: 2022-05-08T16:30:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 51
-    images:
-      - url: "https://i.guim.co.uk/img/media/54a124c6ee6fb27ba5b4c87e40effc7fc66bd3ed/0_0_5472_3648/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=37022ba83f8197df5fe0ab92dac90c17"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Australian Govt. not sufficiently investing enough in artificial intelligence: research institute boss"
     excerpt: "The head of research body The Australian Institute of Machine Learning (AIML) has slammed the Australian Government for not spending enough on artificial intelligence capability. AIML director Simon Lucey said at the Technology in Government conference today that investing in AI would lead to foreign investments into Australia."
     publishedDateTime: 2022-05-11T23:05:00Z

@@ -5,8 +5,10 @@ excerpt: "Loris is a no-code AI solution that integrates with existing customer 
 publishedDateTime: 2022-05-12T13:27:00Z
 originalUrl: "https://www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/"
 webUrl: "https://www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/"
+ampWebUrl: "https://www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/amp/"
+cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/amp/"
 type: article
-quality: 0
+quality: 21
 heat: -1
 published: false
 
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
+
+images:
+  - url: "https://www.alleywatch.com/wp-content/uploads/2022/05/Etie-Hertz_loris-300x300.jpg"
+    width: 300
+    height: 300
+    isCached: true
 
 related:
   - title: "Tenyx raises $15M to build more intelligent voice-based customer service AI"
@@ -65,6 +74,6 @@ related:
         height: 342
         isCached: true
 
-secured: "dfi1mOCPxxQ2VaZKSH4KfbkMdN2B4WZDn0DUBq+QCX7otKEW25ePswnsS0fshEiwdNO8h2zaF26538aj5ADhS+eIwvAaUjvnoW/V6kiAJI3QBTbx+jTKOdES8STsQ/VtACQo84qKlAAy6w0tR+HcTkxTC08yITlyud8u5onQCTXu7twbXf5z+jl6fhPyuZliIS+WiJ7Io/bK683vsPvhpmvoYHT9mrkdEQ3H/L7P70MHOC3P1vDo6s1Nm5hJlpoxF084j3md15/K0W2za65G9BW7EDFvlhsaUz6FnHeUtrMFOBuzv03KaaV8SKDXkJieLEnUAYTmxpkoaw95cyfINjyowCEyjpQQWaAuA/V1jfLBLLAq80N/Dq5GdOGmm0ar+nLHCrRV1RK3cIq0nEi+dc5C1t+L1UgyCRAQd2xKXOwOsCcA+PEuwsXS5ETDiIuyGnsyEpwdeqN17ip756FM1iaSAJyKk8kvijAbalJeoo2aHFiQ/dcCQxqd5ZnfZrskhEEutqpl3z+mDY/B71RGOA==;M1Ml7ThXL8c461AxM19kng=="
+secured: "aDYr2jdCCNJaYj3Unb7rORNGGTDoAS/wgSBVxF+XAgIeQEwW3oUOH2vQPItip5iXsfMjf1qF0Obw7HbocJ4eUEcp2UbhrxERoYG6Mb2+hmEdFD+3QY1onXY9vRrQ0bz44vzhM9C5V2mGITG3o1f0UXivNjoSAXRjebVAzwIFBCYD2Jp1FPYNtbn0rQQ6yD9YvKbr4LsyTxXvNqTQwysHgQOCOBJa5F7GSg3XU4k9aULOKNW8FteB1zZh6L0FzLmICAPldy8hoWmdgK455cxdPfpcdoGMxUegaZv4ZhVJEQ9zid0Y9gqWXg5krkX+Q/p8+tp/v9fd/FaJiRFqs8ZtzFptHUHbqk83TPh1NvKlLaQ=;7OLXmV64ZCt6djwvkmX3UA=="
 ---
 

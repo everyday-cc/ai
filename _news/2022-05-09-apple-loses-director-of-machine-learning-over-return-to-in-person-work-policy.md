@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "Top Apple Machine Learning Exec Resigns Over Strict Return To Office Policy"
-    excerpt: "Ian Goodfellow, Apple's director of machine learning, has left the company after three years of service. It is believed that a large part of his decision to leave had to do with Apple's policy on ..."
-    publishedDateTime: 2022-05-08T16:20:00Z
-    webUrl: "https://hothardware.com/news/top-apple-machine-learning-exec-resigns"
-    ampWebUrl: "https://amp.hothardware.com/news/top-apple-machine-learning-exec-resigns"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/top-apple-machine-learning-exec-resigns"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 57
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58490/content/work-from-apple.jpg"
-        width: 708
-        height: 430
-        isCached: true
   - title: "Apple’s top artificial intelligence exec quits over return to office policy"
     excerpt: "Director of machine learning Ian Goodfellow announced his resignation last week, telling colleagues that CEO Tim Cook’s push to get employees back into the office had driven him out."
     publishedDateTime: 2022-05-09T14:29:00Z

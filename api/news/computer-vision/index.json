@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-13-feds-seek-dismissal-of-planned-class-action-against-rcmp-over-facial-recognition-tool.md",
+      "title": "Feds seek dismissal of planned class action against RCMP over facial recognition tool",
+      "excerpt": "The federal government is asking a judge to dismiss a Quebec photographer's bid for certification of a class-action lawsuit, possibly involving millions of people, over the RCMP's use of a controversial facial-recognition tool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cp24.com/news/feds-seek-dismissal-of-planned-class-action-against-rcmp-over-facial-recognition-tool-1.5901451",
+      "originalUrl": "https://www.cp24.com/news/feds-seek-dismissal-of-planned-class-action-against-rcmp-over-facial-recognition-tool-1.5901451",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/cp24/en/news/2022/5/13/1_5901451/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.cp24.com/news/2022/5/13/1_5901451.html",
+      "cdnAmpWebUrl": "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/5/13/1_5901451.html",
+      "publishedDateTime": "2022-05-13T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CP24",
+        "domain": "cp24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-editorial-513-facial-recognition-software-use-raises-concerns.md",
       "title": "Editorial, 5/13: Facial recognition software use raises concerns",
       "excerpt": "Lincoln police have used facial recognition software from the state Department of Motor Vehicles to help identify 23 possible suspects in crimes as varied as shoplifting, burglary and",
@@ -32,58 +75,6 @@
         "name": "Lincoln Journal Star",
         "domain": "journalstar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-facial-recognition-bans-become-less-palatable-amid-surging-crime-rates-in-us-cities.md",
-      "title": "Facial recognition bans become less palatable amid surging crime rates in US cities",
-      "excerpt": "Virginia will end a prohibition on the use of the technology by local police in July and California and the city of New Orleans could be next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/policy/article/3177578/facial-recognition-bans-become-less-palatable-amid-surging-crime-rates",
-      "originalUrl": "https://www.scmp.com/tech/policy/article/3177578/facial-recognition-bans-become-less-palatable-amid-surging-crime-rates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/13/3ada3e9d-8235-4c33-a041-ebd7ad06f274_dbb172de.jpg?itok=y3K4eX-o&v=1652410925",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -291,6 +282,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-09-report-intels-looking-to-sell-computer-vision-software.md",
+      "title": "Report: Intel's Looking to Sell Computer Vision Software",
+      "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
+      "originalUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
+      "publishedDateTime": "2022-05-08T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-08-report-intels-looking-to-sell-computer-vision-software.md",
       "title": "Report: Intel's Looking to Sell Computer Vision Software",
       "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
@@ -483,19 +526,19 @@
     {
       "path": "_news/2022-05-05-swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects.md",
       "title": "Swinerton, Top 10 U.S. Contractor, Selects alwaysAI® to Bring Innovative Computer Vision Applications to Construction and Manufacturing Projects",
-      "excerpt": "SAN DIEGO, May 04, 2022 (GLOBE NEWSWIRE) -- Swinerton, a national general contractor with over 4,000 employees from coast-to-coast, announces a partnership with computer vision platform leader ...",
+      "excerpt": "SAN DIEGO, May 04, 2022 (GLOBE NEWSWIRE) -- Swinerton, a national general contractor with over 4,000 employees from coast-to-coast, announces a partnership with computer vision platform leader, alwaysAI®, to develop CV applications bringing new levels of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8534839/swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8534839/swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-a114662bf24bff46edc5a7559791f6cd",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-a114662bf24bff46edc5a7559791f6cd",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ml.globenewswire.com/Resource/Download/f2be4e77-1694-46cc-b756-0bda87fd099d",
-          "width": 3872,
-          "height": 2355,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -505,11 +548,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T11:29:00-07:00",
+      "publishedDateTime": "2022-05-04T10:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1353,59 +1396,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-computer-vision-in-healthcare-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis.md",
-      "title": "Computer Vision in Healthcare Market Research Report 2022 – Industry Environment, Supply Side and Demand Side Analysis",
-      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis-2022-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis-2022-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

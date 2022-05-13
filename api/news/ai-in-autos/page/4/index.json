@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-08-google-adds-self-repair-options-for-pixel-phones.md",
+      "title": "Google adds self-repair options for Pixel phones",
+      "excerpt": "More positive news for phone owners looking to take matters into their own hands. Google this morning announced that it’s teaming with iFixit to offer a suite of tools for fixing Pixel handsets. At launch (later this year),",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/08/google-adds-self-repair-options-for-pixel-phones/",
+      "originalUrl": "https://techcrunch.com/2022/04/08/google-adds-self-repair-options-for-pixel-phones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/CMC_0447.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/08/google-adds-self-repair-options-for-pixel-phones/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/google-adds-self-repair-options-for-pixel-phones/amp/",
+      "publishedDateTime": "2022-04-08T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-teslas-full-self-driving-is-getting-better-why-thats-good-for-the-stock.md",
+      "title": "Tesla’s ‘Full Self Driving’ Is Getting Better. Why That’s Good for the Stock.",
+      "excerpt": "It’s the term bears use to describe Tesla’s autonomous driving technology it calls Full Self Driving, or FSD. Tesla",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903",
+      "originalUrl": "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-511644/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903",
+      "publishedDateTime": "2022-04-08T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-solutions-for-self-driving-cars-qa-with-nvidia.md",
       "title": "Solutions for self-driving cars – Q&A with NVIDIA",
       "excerpt": "Rather than hard-coding dedicated functions into ECUs, a modern vehicle architecture requires high-performance centralized computing, and complex software stacks leveraging artificial intelligence.",
@@ -1241,92 +1336,6 @@
       "provider": {
         "name": "KPNX",
         "domain": "12news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymo-expands-self-driving-car-trials-to-san-francisco.md",
-      "title": "Waymo Expands Self-Driving Car Trials to San Francisco",
-      "excerpt": "Way-mo, way-mo, off to work they go. Waymo employees in San Francisco will be able to catch a ride to work from its fleet of self-driving, all-electric Jaguar I-PACE cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco",
-      "originalUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00sHEbCBZPkX4vW3zeodaKj-1.fit_lim.size_1200x630.v1648664014.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true",
-      "publishedDateTime": "2022-03-30T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymo-begins-fully-driverless-robotaxi-rides-in-sf.md",
-      "title": "Waymo begins fully driverless robotaxi rides in SF",
-      "excerpt": "Waymo has started giving fully driverless robotaxi rides to its employees in San Francisco. The company also announced its plan to open up its robotaxi service in downtown Phoenix. This morning, an all-electric Jaguar I-PACE picked up a Waymo engineer on their way to work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/waymo-begins-fully-driverless-robotaxi-rides-sf/",
-      "originalUrl": "https://www.therobotreport.com/waymo-begins-fully-driverless-robotaxi-rides-sf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

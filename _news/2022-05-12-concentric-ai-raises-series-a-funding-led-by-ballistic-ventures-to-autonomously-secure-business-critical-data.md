@@ -60,11 +60,18 @@ related:
     excerpt: "Loris is a no-code AI solution that integrates with existing customer service platforms, to assist agents with language in real-time during conversations. CEO Etie Hertz shares"
     publishedDateTime: 2022-05-12T13:27:00Z
     webUrl: "https://www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/"
+    ampWebUrl: "https://www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/amp/"
     type: article
     provider:
       name: alleywatch.com
       domain: alleywatch.com
-    quality: 0
+    quality: 21
+    images:
+      - url: "https://www.alleywatch.com/wp-content/uploads/2022/05/Etie-Hertz_loris-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "1+VN+c0UEB78zoqcSuJZQI4Vn57/7D5/XDjluW2e3N6qes/sINlnmilSR3AUkNH3hTbpoBvqSZ3vTAiYPNLOXjHr0bwVg8Qj+Z0GPPPk5HKkC+SiJYEbnPxjk6VTnjep1CXNltZStyp6mhPk6I+AW+zSP6vt4ZkEgYxXZR9Au+7gLi/lmYtmlHFMDCsdJcQMoctz0zgPz5vwbrHsDk3b76OuiWqwMTw8Wp08VHD9DwrOi9yCXsVV7Bk8/xuZC3sKxluauFOTPsgTxez2qOMelctVniebVSoEiK3to4dDg+3o9/1afhAWI42QvonigUoJYEQGFgCpchOCKBkUMMiIJ2UdkvL883ebTWe64+sq0W+s2vQoBBC8A1TavgDJJxl7+misWAXNfR3yqLPbOioAbHGHOAuS2+GB3ZwWGQlJv7uy2BXDfloPV5IQ3/VQPFMlMm4cPzT+L7r7EwdRqkt4QCnCVLJASu+ohJ/4cit4A6pNyTKQQcAzl/m6lDZy5gFq+vOzufjb2I8VNfy68IQ6cA==;gwkeyy1fKbPzqWErDiJfww=="
 ---

@@ -3,24 +3,25 @@ category: news
 title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
 excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
 publishedDateTime: 2022-05-11T21:11:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
-webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -39,14 +40,19 @@ related:
         height: 1201
         isCached: true
   - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "View original content to download multimedia:https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto ..."
-    publishedDateTime: 2022-05-12T17:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-1031454864"
+    excerpt: "View original content to download multimedia: https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto"
+    publishedDateTime: 2022-05-12T17:03:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
     excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
     publishedDateTime: 2022-05-09T21:49:00Z
@@ -131,6 +137,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "GiTs99U50YOJqE/VZBvxAGo9m5WgFll12eco6S6vctqAHCvIUU54yRTQUMn67XzkPJR4E5ZD17oDfKppREJozn/yNK7T/k1dVPhFXvsWaSpqPLn5p2yfp2/pjr1xN9AdBzG25Z70ARriJVSePsru51K95DedHG2W1yqRJxtegoLq7iB1BjQW2bFerAhcVV+RmTqX8PahL419suMzrS7ApjMK+IUs+V7KuxnxtNy3nvHFZCOr1HrXcrIkb4NCo05hgDDQ3vVg3DEptaEoWmX6ZP4aDN7eS70Qr9eZ7MsVJZq88ZI0Jwxm/i3gQGlKYM4IxCxuk/K5jiaa4R06OcdptTGhUUB2xQbEbu2PwlmAtK0=;gkgyRXiiYXbdtKUOWglwig=="
+secured: "S9kNnTVwqyfkvotK/m74o0YYOdNldL9HMaTGtAQ7D0fdzDLS3738hlUK6tUw2DZ/jL0QyZU9hiedzG/5ZUyQVZhQDfZy9yzOFWWlUOzd9mU307qp/RXo3RmEehiDc3xtKPZ6jUQ53lNcFXQcmuwvs4vDWR1NeAbwfaFrFCgttf71QTMOdEeVrpu2e8TMZCX36hhYkMGE8UjyZAGkool28EKOei6dfLBDPqPWv/WAU+2HuRd+a+oFlWGnBYTpvOenn6rri+zx+WSN/JF4tRkIoWIOW4UFgxy7x9yvpIKEpZypW8d0fIiop1xsRUi4DLEEBXg35dDFvzw3Zz7EhJkGB/XdEtZuRCh5EYp8PBGN+Vc=;oH4IUz2Lpxg9nSaentozEQ=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.crowdfundinsider.com/2022/05/190850-levo-credit-union-deplo
 ampWebUrl: "https://www.crowdfundinsider.com/2022/05/190850-levo-credit-union-deploys-scienaptics-ai-enhanced-credit-decision-platform-to-streamline-loan-approvals/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/190850-levo-credit-union-deploys-scienaptics-ai-enhanced-credit-decision-platform-to-streamline-loan-approvals/amp/"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/salary-loans-Liberty-Finance-Lending-One-Way.jpg"

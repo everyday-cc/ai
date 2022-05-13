@@ -3,8 +3,8 @@ category: news
 title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
 excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
 publishedDateTime: 2022-05-13T01:18:00Z
-originalUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
-webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
+originalUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
+webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 type: article
@@ -40,7 +40,7 @@ related:
     provider:
       name: Iowa Public Radio
       domain: iowapublicradio.org
-    quality: 51
+    quality: 53
     images:
       - url: "https://npr.brightspotcdn.com/dims4/default/4d5e077/2147483647/strip/true/crop/3935x2215+0+368/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F13%2Fap22132792840386-1bfe760d68d6a323aa45cf26c2aba65833914c4a.jpg"
         width: 430
@@ -61,6 +61,6 @@ related:
         height: 400
         isCached: true
 
-secured: "3OILcbLBv7fUqzeZFy20xVpQ5PYqICopWSjmITLd2BiWPoSsQRphh9u8K91ue+5yvykZpe2AURIwQNZmFcBbuRx7zr0x1xRPcRB1g2LM8Cxe0bnLmWzf/qNiLhWyAO0aNOVbaLsMrScQsNa4rqB77K5ddHsBa1s88cjMPgtpGoXmyT5+TPqJfOQLhQrodyhcHykAmtSfneTv8HOV8Z9kmmqkO/J8gxa9EgSdVaX7znFlHNni39e4Oc/2/eOrABk4l9Kx9gUOaD0t+slxlMlBO8QF1KcFfIE2chFiivqlLumQV0wWrD3ALDZOxCGOttnUxX84VLQqZx0OTURBMp/0c2/lj1TeTbCS6fPSNc79lB0=;JkFBjXpEq/e/e7rGbM+M5Q=="
+secured: "yIdK8VCmcEo8J/4yB9Y6Opi0Dl6x5YpnTpMh2V+5qbclxOuBFSW4OAGtAgZz9HZ+TZiBf8wqMHSmwrQOxx9xHAN0FgiBCIjn4Ylomp1x1fhocdL8B5Fy/jRwp7sNEr3uRRsN6wEPmyjkAJ9XDElVMir5bwsMKr/Gaaes2luDMjHzB6nzcz/gOvmtdPZN/ndNS7ZNUX6wtZsp8B0C9PYWJGcGemUqo3kqjpolGFqug2Qfh1cqD8ZcJXBRayBCD+R+oNvTS5FKJQxmolQrTkkk0DwPnjBaKVhVARvzRujLKshxmRKeH8Ize2wAfCrI4iJ+U2movm1xc3PuHniqyK+HuaIJArym77W9kjkudBPEvQU=;mLCZbPybVd5+JV03A6oNmA=="
 ---
 

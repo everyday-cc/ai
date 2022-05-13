@@ -8,7 +8,7 @@ webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-d
 ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://npr.brightspotcdn.com/dims4/default/4d5e077/2147483647/strip/true/crop/3935x2215+0+368/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F13%2Fap22132792840386-1bfe760d68d6a323aa45cf26c2aba65833914c4a.jpg"
@@ -30,7 +31,7 @@ related:
   - title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
     publishedDateTime: 2022-05-13T01:18:00Z
-    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
+    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
     ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     type: article
@@ -58,6 +59,6 @@ related:
         height: 400
         isCached: true
 
-secured: "cjHsQjNiJ1i0HG1U+N6G2Pu3keo8csuW9Y43vGHAgtsQTzWyVtgQxVvva3RZ3g5f5N5dliUZuAlrAErXty/sNKKY4DK1NZvINWh5nO7WfIqkPrs72Gl/2cIxXHYJ9sFoqE/Bmv2rTJSoky5vgPc2SBGck+db9hyDvAwR4jhak7wVhRWf1fFZGxYdenqrKJVKIaxKfzqkWJ0f7y/KQqgAhW+o7VuZ8ljPE3E0a7n5nr32A7fAQu7pxoOn5Ko+yC8+e66LtNg/K600afuSFn9dlndqgE3Aq/WNd+qNYfzeh4X2G/bSyNL4MtsWCu8IAHYK0oEdI3+tPWsNeA7ZCwo57NSoGhxDTbve+Ry2bk5Xv3s=;xtschOPjdHm3/52JGb55tQ=="
+secured: "zHriAGcUa+I+HqLUseLGKXRKC1BSD8oBj/vLZeMsJwtK5H5Z0Xylc7USQpaon3FPZN+13+11wXx460+tKESBLnCliaVxY3rBLVocMK9WokfDn9YOrp1DXhcHq4bjvovemrvNdFxF7/HZZlryddBYKM//7jWRM3sA/SgBaYboIo1NVsqsWYLrla4Ov3uYjQhVhpKsuuY0sh5S4VJv2urpF+HpHrR1hmm66alE629wwqZRQV0B9ZAcRDW2B12e2e/qplvVxzrGG+KxSwcHo/HHOD4aMCCexTeTBAF8F3R7+TbsxJCsW0+dGA4fjz1451PNhZ6sd7LK9p2aA5cZRPIXnbUNFb+cjF7gCxKxMtfCmaAW933Z58Jm+j9nJuu8F9JyuU8NIFEtooLOa7Cozb9YMegXrXIGvXLhOBhNYYwS4Mb9i2A61wVCaZj61z45nrAXCuhyx5E5kv/3scdJDisqJF+cdNrK3veuFShKfbqqy3HA8KIXGS4NxeROde513+WjmYhF7PrR+n1rVjGAbRNmsg==;gXbsry8vzOArdUY535m6Lg=="
 ---
 
