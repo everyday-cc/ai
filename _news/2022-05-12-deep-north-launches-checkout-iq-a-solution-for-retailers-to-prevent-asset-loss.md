@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Deep North Launches Checkout IQ, a Solution for Retailers to Prevent Asset Loss"
-excerpt: "Its end-to-end software solution combines computer vision with deep learning technologies to help retailers and businesses deliver metrics such as footfall, conversion, consumer demographics ..."
-publishedDateTime: 2022-05-12T16:03:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
+excerpt: "Computer Vision and AI-based Offering 'Checkout IQ' Helps Reduce Shrinkage at Checkout & Self-CheckoutFOSTER CITY, Calif., May 12, 2022"
+publishedDateTime: 2022-05-12T13:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss-1031453943"
+webUrl: "https://markets.businessinsider.com/news/stocks/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss-1031453943"
 type: article
-quality: 35
-heat: 35
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
-
-secured: "s6h9J3D8N9OHdkP3JLeCahsQGm0K8+HtqdRNfS28zMp4X1KqyQZ+zuAzqNN8wRLdrsHfs87Ow8nwLSw6DLakkV8fGuO6xQGUGtRLasuytiQWHJFj+2n+4X9gEYP+ZryeBBGsEh7BDca0qiTOaQoAY9Aq2+bl9b7cq6dSfrZ1Iu70ObarNmqQ/mDp5ILAH5nMsT2qmjrJOYP4SareHTYATHCLY0xsduiTMMuYWD64rPWp7+LMQwFB2WaYBAzIl9gIvNegmcLaBPe7LU7lSXzhferQ1YS25/49JKZF//f6W0N+Pf1gZL9jo0Y2dKZJcy3vdxyYL951Gk+MhsoU03cECPyNnVzVsOWjphYsl2MHnao=;7/P/XHQewNONBuwjkC5VfQ=="
+secured: "1OwKsr5S/QxJqWrSUI0ORdf8BraYEuec9+xw3F4UADu6NHwuWYHFlcT9yZRXsDDRWOYF2jObC2hqVIW3VPhwmQmbOkjIf3CbJYvhe/Z/EhOtEJoJPpXD592XDgz8GVt9c0cjzBX4qsmO7fWKGQUwIy3d/GOSCfnDy0mAczF5r/O9Md/Ody5Hcbb2KVw6UngxuHe/7n1pXm1T/iKzQ7Smz4+1J2tRbf/rguQ23u/vboaIECnFzOaILnpDXCDGeaXaCV8VmEPDwlS2I+fqgYyq5Zuy9IQI2B/NEOoUaYvh+bbYpi/DaKpxk50qM9869SzD6LbGszRdNcz+bNumPxIw7jAJqBF/l5VBsPaXpIyqL8s=;f3KUlRTv+UqKtIRrGJrPpw=="
 ---
 

@@ -88,22 +88,6 @@ related:
         height: 600
         isCached: true
   - title: "Intel launches new AI chips, challenging Nvidia's market"
-    excerpt: "Intel Corp on Tuesday launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp."
-    publishedDateTime: 2022-05-10T14:29:00Z
-    webUrl: "https://gazette.com/intel-launches-new-ai-chips-challenging-nvidias-market/article_737f2bfc-72bf-58da-8960-e5886d65dac4.html"
-    ampWebUrl: "https://gazette.com/intel-launches-new-ai-chips-challenging-nvidias-market/article_737f2bfc-72bf-58da-8960-e5886d65dac4.amp.html"
-    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/intel-launches-new-ai-chips-challenging-nvidias-market/article_737f2bfc-72bf-58da-8960-e5886d65dac4.amp.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 57
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/7/80/78082962-cb89-53b3-a442-0df9f5a0efc8/627a84d88b10a.image.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Intel launches new AI chips, challenging Nvidia's market"
     excerpt: "AI chip startups have been getting huge investments in recent years as AI computing is one of the fastest growing areas for data centers. Prying market share away from Nvidia has been a challenge ..."
     publishedDateTime: 2022-05-11T03:18:00Z
     webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/intel-launches-new-ai-chips-challenging-nvidias-market/91481980"
@@ -146,6 +130,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/Intel_Wafer.jpeg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Intel Launches New AI Chips, Challenging Nvidia's Market"
+    excerpt: "Intel Corp on Tuesday launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp."
+    publishedDateTime: 2022-05-10T15:00:00Z
+    webUrl: "https://www.ibtimes.com/intel-launches-new-ai-chips-challenging-nvidias-market-3501555"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/03/15/visitors-are-seen-at-the-intel-booth-during.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Intel Leverages Habana’s AI Chips to Train Self-Driving Cars"
     excerpt: "... 8,000 Gaudi2 server chips in its data centers to inform of further advances of the upcoming Gaudi3 chip. Intel rolled out a new generation of AI server chips that offer a massive jump in computing, memory, and networking capabilities, setting it ..."

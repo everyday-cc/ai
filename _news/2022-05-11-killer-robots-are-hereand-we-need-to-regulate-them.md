@@ -7,7 +7,7 @@ originalUrl: "https://foreignpolicy.com/2022/05/11/killer-robots-lethal-autonomo
 webUrl: "https://foreignpolicy.com/2022/05/11/killer-robots-lethal-autonomous-weapons-systems-ukraine-libya-regulation/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,41 +27,18 @@ images:
 related:
   - title: "Robots and the Future of Remote Healthcare"
     excerpt: "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that replicate the manual techniques ..."
-    publishedDateTime: 2022-05-11T01:10:00Z
-    webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
+    publishedDateTime: 2022-05-10T23:00:00Z
+    webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
     type: article
     provider:
       name: MedPage Today
       domain: medpagetoday.com
-    quality: 56
+    quality: 39
     images:
       - url: "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg"
         width: 1600
         height: 900
         isCached: true
-  - title: "Future of Health- New Age of Virtual Reality (VR) in Healthcare Industry"
-    excerpt: "The waves of technological advancements have touched the shores of many sectors and businesses. Artificial Intelligence (AI), Virtual Reality (VR), and"
-    publishedDateTime: 2022-05-09T07:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/future-of-health-new-age-of-virtual-reality-vr-in-healthcare-industry"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6b0cacb0dc52a482f031fd2e48e48717cbb24b5e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "The robots are coming"
-    excerpt: "Much of the region's surgical robot boom can be credited to the early success of Mako Surgical, a Davie firm that sold for $1.65 billion in 2013."
-    publishedDateTime: 2022-05-12T23:10:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2022/05/12/cover-story-the-surgical-robots-are-coming.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "XuhQqeGiquMa5RZArlg++zPUl7xFCSFGApYZM0KS3upZ4Uf96CxXBjweiFmiH/lFoLvr9Jpk9NHN+i76ykDA/CF+Ee1GO0V1nY/ZfSZQjMxThd1UTzCyM4wKbvBHq0RsOElpBJVI87bHuQzT2wRkmX6kyeu65BZa9hi09dflry2qKvfiPFyTQSUtNh3B3EKr3i8XiugzatgFnKia3wHDtSB6kmdb6IqOq0ygAoFq5bt5gosMIKx8Mu+kmcoyG+vEb2OdwZBPyKZUWo4Jo4ViQazjXSmrs+QxcmXzgSLPzg/Esck05aqJb5Y5JQNus+gDB9QWqvlH8nkqH4CfuLIFHpotGZoIa1OduJHpmtJjX+sEQloLRQpTdkEgLcI/xaGIAyGG5CsVfNi6rP8L6duiZQCZrJn8sDf6ZuLotIu80ZmSnrMwJV8IV9kP3TO1rEZifFBtz2XKhCBvuoQRzU63VFAkIOgqqmQLR7V1ltk1b1o/lBUTxYSz8/S5u2kzp79216TG4iiLG93qhIbDpU95Bg==;2dwewOq9PicZ2xGwLw+HAg=="
 ---

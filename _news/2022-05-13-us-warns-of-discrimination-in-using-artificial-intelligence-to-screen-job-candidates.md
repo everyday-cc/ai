@@ -1,34 +1,33 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
-publishedDateTime: 2022-05-13T01:04:00Z
-originalUrl: "https://www.wfae.org/united-states-world/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.wfae.org/united-states-world/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
+publishedDateTime: 2022-05-12T21:04:00Z
+originalUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
 type: article
-quality: 31
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: WFAE
-  domain: wfae.org
+  name: KUOW
+  domain: kuow.org
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/274272a/2147483647/strip/true/crop/3663x1923+0+258/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
-    width: 1200
-    height: 630
+  - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+    width: 838
+    height: 628
     isCached: true
 
 related:
   - title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
-    publishedDateTime: 2022-05-12T21:18:00Z
-    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
+    publishedDateTime: 2022-05-13T01:18:00Z
+    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     type: article
@@ -56,6 +55,6 @@ related:
         height: 400
         isCached: true
 
-secured: "ydORH9ShzH4JELcd0opMZY+J6C74yxTvMYNiQE4HaJygCaOdojv1DH/p69Kq9uTrltHHBNE3LkZhzrzDgehEPgVSzt3VnGZeXSEFETeUJLxlZuSu3jvlz+iTlc3ChFDqCLv/VDJDOaqnd00DrgUpUyTaA98f3k/SBkHExaIBMY4KElnUk6/rs45f4x+hOrFgpGPGF0xi4VfQNWEQNtZU+a77V7+YMRq3NbWWemOPU5QXLA/rVXitX9y9pXstotTw/79rfWgE5sJ42Snc0u5sZUoM1xyE00sg+vLFjB+NXv10qYuTl69V6f0s0ATnLAT4vz4kM+dm1nlFfqHI/mujoVdpeaM7GGTpQPjtwYiD9lI=;bCRNQOnrsLj6DH7A5vVa3w=="
+secured: "9I677444F5iZJe0C7G6vign5B+C+DxmQxlAJ78Dx72/+KMcXI29QUHHaBNPKx3YTbOnh9rpuf3IpsJ4X/FOmegk9t5rvzgwmBkXgZOX9J11oz9ogLAlkZJN3RcHBx2BnBUt4Y45Vy2Su3feeMslY9OUXOyUl2aGKI2FlJEdyYIySl2pP+AFbqCDYrLKMsN9R8M+W/lkwm+wLoxNRzBsGLb5bEOWwUq0I1+DG5tQNweGAEY4OUGmyrBMrqVkEsAbMq/ne2hrjG2Z17HTALYGHFCYXHkHS6liZnAw8w8qWUvuxTbDMBpHCkqDNoA+eMhyudnAkspyBo42CqBMc9mloejGnyId98ZnizAwom1i35UY=;uv9Hf+l3uYWlxzEDWDqNMg=="
 ---
 

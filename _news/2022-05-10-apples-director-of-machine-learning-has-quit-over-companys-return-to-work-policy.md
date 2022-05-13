@@ -130,20 +130,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 46
-  - title: "Apple’s Director of Machine Learning Resigns Due to Return-to-Office Work policy"
-    excerpt: "Apple's Director of Machine Learning, Ian Goodfellow decides to resign from his post owing the company's return-to-office work policy."
-    publishedDateTime: 2022-05-08T10:33:00Z
-    webUrl: "https://techstory.in/apples-director-of-machine-learning-resigns-due-to-return-to-office-work/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/05/appleInsider.img296.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "CHdxrvR3YB1VNINp9mCI3CicDdL7je0rIFol9ju4C4Pcdpkztn4O1V6+mJWRStBNx2avxMyKVspCojyvzGFYheJS6hFnC1nrX1K59pp4w8KpDynnclG4ZQl7XLN6FXmhO7dDmbKzXzaAALea/AzYqnZJNKjoAoBaUOd8xx18uppv22SUirQ2/jSPGeupmquG4wfSjkCNtjDWgEv3lqaa5wCpmkNCisYEC9nSeOZ79GfJBTLJlN9fUmwF9R4+QWM+AFeAu8EJlkV99nkJxHYAG7fp8gqETLXGruQ8XYvvdOzgXEaR3bM+/SORgJUhsSH5aNUO8NNXA7b/+fpoIa4REaMp8i39TKAgnR3/uUdX3Ko=;6gsbTyTkcV6Nyanfw1G0Qg=="
 ---

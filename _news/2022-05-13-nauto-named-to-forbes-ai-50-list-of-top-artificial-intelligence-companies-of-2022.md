@@ -2,25 +2,25 @@
 category: news
 title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
 excerpt: "Forbes evaluated hundreds of submissions and recognized Nauto for its intelligent driver safety system that helps drivers avoid collisions and injuries by assessing roa"
-publishedDateTime: 2022-05-12T20:00:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+publishedDateTime: 2022-05-12T18:00:00Z
+originalUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+webUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: We Are Green Bay
+  domain: wearegreenbay.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
+  - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2019/07/cropped-WAGB_DOTCOMv2.png"
+    width: 1018
+    height: 340
     isCached: true
 
 related:
@@ -108,6 +108,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "HDYdkPFNKmZ5dVPjFl9bLbcJpSh80ajlcniffFDERh3fUFKSYK55cGQ4N8DgtjUXj6D8LsaQ5vVORF/6jS2LgnhlDKnAN5m+pX4WE71j2ZcnIYEt82rA/fd6iLmL32OzIxuWQ8hLto5J7WwYyXGzaemHoor1vfbmjLXyyOToL42GhmhY6I+OYWTxPa0BUBznVzsHL7YFQlezesXlYUNCwhbZaktquQ11Sr8IWoDOVU8sI06+lJVPFiEwR1bPKBTaFp45rEQ1kkyJhJKvV2CDrv78lPK+7QUpsO/KMqxPMtqGgrQePfdLCMeRPhprddECvVRNXFNRoFKbCgi2k4MRjSrUMa1BA07rpMsymsb74bk=;NV+LC7PZige0TJSrujai0w=="
+secured: "KGnCPrT/uHH/mzul9rCVdeu5R9iW/sKgwjZ/fdaDHTMJMYaco9lSCUfYfrkiVXvRLCtZkPMavvgaYFkwXAMthAV8ohGb6117oBPY5g/7bgPm/X6P8nqa5/byL5tyIZy9VfL5+uA7teTdFThKRKKtuyJSzXxAXXVOdZzRwQpbkzYEQE6eZwwoUwhw57bV1opYin/iIl+W+kh8pUJuFsggH9VtfCZYloKRFh91wAscVVP43gTGmzEYHubgMr2jHulC8sjtRY4lJ3fXE7XDRO1ylK5jEVTHHaBAHtFXTgx0V+LHd8q3lsobkorWo8UsyM8QRA+nVnU4ID1bnEaI+Yeq8zZqJOAsrdttIwO1YyUVO+M=;0AwvMi3AvCJo3AkgzxoDRg=="
 ---
 
