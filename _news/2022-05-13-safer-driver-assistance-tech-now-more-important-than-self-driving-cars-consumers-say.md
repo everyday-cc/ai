@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: smartcitiesdive
       domain: smartcitiesdive.com
     quality: 4
+  - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
+    excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
+    publishedDateTime: 2022-05-12T17:53:00Z
+    webUrl: "https://www.ktvb.com/article/news/local/drivers-choose-safety-improvements-over-self-driving-cars-according-to-aaa-idaho/277-97815cbe-50c1-4404-8b1a-4e7a389c0a0d"
+    type: article
+    provider:
+      name: KTVB
+      domain: ktvb.com
+    quality: 2
 
 secured: "9MkvJW2efRdDLshAXMU562oBgFHofHjQ9g2NssSh81bFJuZVo2v8PSyKxrBTU/WOFVL5ROP20KkXkX/Bytca4sDSWuRIqq/CbGCFsBVWoukOdtXEd8laCNsDGeZOYIJj4y5ochFpVA9CeSQnZ//l/e8K6lu/lnFOgseGkpVBKRxvaZkPtXGFBiF1L9UIG/O1Vu9YuXbkst/NvLimlfYpPbiYxVBQAUw2vN7P9XY6vufYvpqkUUvB41jbCJufbVyv86naCQvRacUlXIiHPT2eZZ9lpOUaB2dUifvVAUgVKqFqCvAGD/29Kvb68atyFq8AhI2k/XhthLrxt7/5a33DKueYNonfZI2w8ZqE9pj9Iecs3hGu2Dibr4SWpUemiByesHn54tnmySzFpmjrVeFmT/kQIYpWiWWOKJMP2Wpubh2dwm873W0XDgn3j/cA32zfU5+rRgOIBlQXXx/+t4/DxFqvx+SqevpPcbDU02uanzoJVdTm5qefuMlong5JEObWJSG4sbGki4RUolUqfhJbVg==;FBIvA/5ykNyHXRnHHtD28Q=="
 ---

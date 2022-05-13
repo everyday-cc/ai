@@ -40,6 +40,22 @@ related:
         width: 800
         height: 517
         isCached: true
+  - title: "Synergies raises $12M to give factory managers an AI analytics assistant"
+    excerpt: "There’s no lack of startups around the world trying to make industrial activities more efficient with artificial intelligence. Some invent robots to assist or replace manual labor, while others use machine learning to help businesses discover insights."
+    publishedDateTime: 2022-05-12T04:28:00Z
+    webUrl: "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/"
+    ampWebUrl: "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/2.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "c3y3klmCG5drVopkyl4riweXykqK/oP0usCDnseXucmZ+4xqEa1ffhMI0CF4T7Dd0HLS7CRWVRqAUnJaWacxNeisucRu9NcTwIiZIRGyolT28E0Ja4vlWDSw5rQElv2RHzy4L36tT3cbtX2dmjjt+43vgnOyNwPR3uAQ4WYILBeI6l9/QutRVAxlb+TjRiWr2c/V+jnmDQTw1H25hAiej8tctdI+MkeHo3FCJp/Ppx8D9rNx8aNImzLA81fnBOtY1bHB47RgSjydxJMFL/DPOpTlYWwfeNfGta4IJEI5PDHrLbndkZFTqK1zYLFvPGi4t5zXqEuePe8JbmZMa96X6wPfWzOBLQfhaUiVQqyZPFc=;SnDXzvGXgcNpnZTpgIjuqA=="
 ---

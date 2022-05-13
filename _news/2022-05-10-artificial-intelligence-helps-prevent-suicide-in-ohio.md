@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-10T15:42:00Z
 originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI in Autos
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -24,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "mS6QnrDDHDTreXvexyuVTTNaLhO3fnJe3fGS9pHQ8FlANTJ2tANk72DplJpV9ObsYbL4bVWIPxHWaGGMIwuCxw+T1P1j6gnuEWJ1glqf7K2crCIBrIGA9cuJSGwydwDgFYyV/LhVKSHgQ5SZ68oPo1GWoXCr/PPM/DWTCz/WfUFNHpl0RPOxsfe+hQKqm0KpcuaaIiftKv6yxN8L6UKtuyLlyARhSUTTpDXNtO3Y5Ef4kDZObs6bblWaona06E34+A4H2vUi0mKlBgotaoBSlfTt+VaVeg4zee+oqpaPN1YBucYeasTELb5Amj5L/CtgsmMSUhm1D6gEI8bSukmGqd6j3rIexLRq7d0ruHHZ0MY=;2me9/S751XiDhZeNtfzq3g=="
+secured: "lATwU5YXUSvizsTyKOGRKjUit9l+PASLIpVnqnIj2xkF2GtIJkFW0wfXVh3twhM0BbQGkDyTa2d4XwcZrurN7QZeWivx+N3ro0Y/9gCC6s1rNyvKBu0F3RkxBTCR2gGwVz0QTppBS0f+loexW6PFy79d0UFV4k35/3PMCfqKYcjkmvmQaGDpbvhSH0iPOsYBHhL/PS+yJDfKQp+Q7CMmyy4+DjPu4SCRY6Af1oB1evKnMGTwrgphmBDDLWuC4bTNO5mPwoeptscj8YsvgeCfi9ys9qg2YMUAiSZBOPmcEMXEktcXLJtR/8ww1SCdGs0sbFNszxdLErlQ2oMA5kNNEYeuijmtiufVi4z17YmivEw=;oOLgBQKWqEUG92LokP8RBw=="
 ---
 

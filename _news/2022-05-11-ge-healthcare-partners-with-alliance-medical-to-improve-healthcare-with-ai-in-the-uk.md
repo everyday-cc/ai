@@ -39,6 +39,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
+    excerpt: "Point Predictive Inc., the San Diego-based company that provides artificial intelligence (AI) solutions to lenders, announced today its strategic partnership with Provenir, a global leader in AI-powered risk decisioning software for the fintech industry."
+    publishedDateTime: 2022-05-10T16:05:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 0
 
 secured: "33li1u/JmIOfAO058AsAd0ZGv9r2PqICbxSUSiO2wVULtBx2zicz67YLYh9jVWMB6r5dyp0fDvG0HytbqVWEoqRZzfrqh8c+kVvBKE71yMCRPrwAbTTCH0/2Q2b8MJhgtdLY4xVf+4Y+VXqDz+EJ6LgIw0Rg86kKuCDNpoAqWd9i1pjzfCfSWynSV/SM8Rn0WdWqKsdp9YVGQ4Jgh5qKR/9jrtEXiYROtgqOUS33dzBjl5PWLw4l6bDJ/gYFg4P6758Wsy1Bq58kM1QgzCI8p5eOoPr+l8cp8Qja2kq8hUmPlmCDrl9T14gLohXdcXAb3GH3EPeSz+yocHQEi6tCK3STjH2GrC1rSnjzThuPCA42BrGnJL7Z0eYr3bKyEpkYRICGJtNa4M01GaWMSdijKIcFhenOrZPkm22fIIGxfMxR6n6UOGUU009LqFIBalybs+gxwkrQrt/a1b/CUqdeOL4LEvaxTR8J1AfEHj6PjjljwAklwI5A3iqgkXKDrn/QxjH7eb12MIjtypQSmCimAw==;HQNgr2YKqIG4uiOkG6Ptpw=="
 ---

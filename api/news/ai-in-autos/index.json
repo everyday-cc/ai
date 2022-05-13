@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -51,59 +51,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving.md",
-      "title": "Auditing Of AI Is Tricky, Especially When It Comes To Assessing AI Ethics Compliance, And Vexing Too For Auditing Those Autonomous Self-Driving Cars",
-      "excerpt": "AI auditing is still a nascent capability and often overlooks AI Ethics compliance. This will inexorably change and be increasingly vital, including even in the case of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6265c81c35d2f416ec30ff04/0x0.jpg?format=jpg&crop=2849,1725,x865,y0,safe&width=1200",
-          "width": 1200,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-12T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -1402,6 +1349,40 @@
       "provider": {
         "name": "EFE",
         "domain": "efe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
+      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
+      "excerpt": "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/world/2022/apr/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai-2447520.html",
+      "originalUrl": "https://www.newindianexpress.com/world/2022/apr/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai-2447520.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

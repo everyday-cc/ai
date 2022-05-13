@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/apple-director-machine-learning-ian-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/58490/content/work-from-apple.jpg"
         width: 708
         height: 430
-        isCached: true
-  - title: "Apple director of machine learning departs over return to in-person work policy"
-    excerpt: "Ian Goodfellow, Apple's director of machine learning, has departed the company over its return to work policy."
-    publishedDateTime: 2022-05-08T14:48:00Z
-    webUrl: "https://9to5mac.com/2022/05/08/apple-in-person-work-policy/"
-    ampWebUrl: "https://9to5mac.com/2022/05/08/apple-in-person-work-policy/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/05/08/apple-in-person-work-policy/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 55
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/apple-in-person-work-policy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Apple’s top artificial intelligence exec quits over return to office policy"
     excerpt: "Director of machine learning Ian Goodfellow announced his resignation last week, telling colleagues that CEO Tim Cook’s push to get employees back into the office had driven him out."

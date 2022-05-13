@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
 ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
@@ -69,6 +70,6 @@ related:
       domain: jordantimes.com
     quality: 21
 
-secured: "aoj90nLt5CJ2PPw43QJ+frz2U2Eh6RlfroPVDh4Qpzu22ecSokMJpqW/kJkkFNt0GiafEF1kIIT/QyTO3rQVHurFqs584o3yLq7G5TcLuwo8VNmxJXNkYNZlEbuFVZYgfSO/+y5n2pDKGNfj9tpwaPLSehYdvVY6tYsOHZTe94BklilgP5UAH+HyMnm6FwGvqYsmBnL4ZoJMudoRO8xGGw7bTAD5u8Z0YiNGI5AHExYLXyl+lypqYz2QcNWJ7KkhIUz3xeMnm/Qlfck+JQPNEaFQshUhYYOlrNiNhtiunDEMrWeWg4twgfPJizBX+h1tmPbUKb0ZIHMuFAiw6Q2njiqYmOloUUK5Hq3a4oKqr1Y=;42MeGkM3UYiRoswbPAD/1A=="
+secured: "xhQksKfgG2ftw255NQq7WLdxlvqxAhBEeqJx94ZR228BrHS8L9rrKY1loFvdLOeJqg0oiwtuEaWRvAKp0aVHoqrtnSK+2yqAH2QY186KaeSZsyv2evcKg73fwu6jlzSv64m3gLLTE5v+GAg2K4fQ2vsGCWqqXaVd3BbDSPzHP19JO5F88xTlEK1gh3ChiGGQ/DEWER6P/szJsqiLDqxCCMx2VtVx2D3FsUP6J8GWllDUgnNJNS3iYIsHtgEc6Cojkw2g/3cs42k3PSvydy7073fXzTJsx7Njyqbla9Qz8lH+ghgQq0eEp4rYgaC716U8VbNTeryuQaC+vqdboBWuDbbRZuK+Ncp5O5WGDQNDMMHAPv2FfNN21xKmdVrnHa6FeuoyZzr1ni1pW36kjbF699RQc34srHIR6PEhgm0C74fkXNIhUWez4BjdpSxdraqHocZAjm09BweXFgRJ9vN9n5dJzAwsbcZ0PAC3elb4TkepXy40qFtzGGft4GhAebGj1e9VD01wDy01KSulJ94igw==;txPf4VtJMSntAURXRFSauA=="
 ---
 

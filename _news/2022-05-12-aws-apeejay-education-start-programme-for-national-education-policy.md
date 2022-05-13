@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apeejay Education and AWS launch NEP accelerator programme for tech-driven learning"
+    excerpt: "using technologies such as artificial intelligence (AI) and machine learning (ML),\" said a joint statement by Apeejay Education and Amazon.com. However, the initial investments in the NEPAP programme were not disclosed. The NEPAP will have a collaborative ..."
+    publishedDateTime: 2022-05-13T07:19:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/news/apeejay-education-and-aws-launch-nep-accelerator-programme-for-tech-driven-learning/cid/1864908"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/apeejay-education-and-aws-launch-nep-accelerator-programme-for-tech-driven-learning/cid/1864908"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/apeejay-education-and-aws-launch-nep-accelerator-programme-for-tech-driven-learning/cid/1864908"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 70
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/May/1652425589_apeejay.jpg"
+        width: 558
+        height: 372
+        isCached: true
   - title: "Apeejay Education, AWS launch initiative to help academic institutions on technology"
     excerpt: "Apeejay Education and AWS will run the accelerator programme through multiple cohorts of academic institutions that can apply for the programme."
     publishedDateTime: 2022-05-12T09:12:00Z
@@ -76,6 +92,15 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Times Professional Learning launches Post Graduate Programme in e-Commerce & Supply Chain Management"
+    excerpt: "The three-month training programme aims to provide learners with requisite skills to boost employability and help them become industry-ready NEW DELHI, May 13, 2022 /PRNewswire/ -- Times Professional Learning (TPL),"
+    publishedDateTime: 2022-05-13T07:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-times-professional-learning-launches-post-graduate-programme-e-/2022/05/13/9601630.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "BH678QRaB27JCqwqus4eNIhJ//s1okjUXBHqldtU4yvBOQuTyGc7QiDSsGSnnmn0KuhgvZXoRFMz7wLR3I9QOv5nET4d2tr3qnmlQZi/roU5wm84XNk4RtcVMebCsSQuCgN3hiJw3HNZRbNPg0MGpjMuVMZ4mSRHFpClMlBcmfVx2oE/bUS6uDMV2+pQEL6dAvAPVxI1/jv/wNNPzGEmfkJM5aHPMynUjPkue8918pO58gf50KIuRNmO8e2QlLTFHdwKiYww4VFf1vSPAKJr4/mpRgNXAcw8+s8hIgHp27H2U476JuXFz4+g+PoBooIeDisM43j4VFTI5eoJ2WIY5LFLorUDOIMfT/wuZI41ounrNUVZWZ0wk0h1kOix+/Ku4YW0uWzGtWOts6vhE3WsD/pQ2RfzvYx1Lk4Vh9Uu4vV4o2pSlD9GqONHGn21ENGQXCVfpcDI9RHit/PryDVFRV77j2vGggjQ8SVDuJLlLIoBJOI36DbZyVGoMNysstHBdf/7Z/EStZFYmTyBer++wQ==;QGWhJgFAOS+/vFPWmItZeA=="
 ---

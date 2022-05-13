@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Synergies raises $12M to give factory managers an AI analytics assistant"
+    excerpt: "There’s no lack of startups around the world trying to make industrial activities more efficient with artificial intelligence. Some invent robots to assist or replace manual labor, while others use machine learning to help businesses discover insights."
+    publishedDateTime: 2022-05-12T04:28:00Z
+    webUrl: "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/"
+    ampWebUrl: "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/2.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Pyramid Analytics raises $120M for its AI-powered data analytics platform"
     excerpt: "The startup’s platform enables companies to turn their business data into charts and find useful patterns. Pyramid uses artificial intelligence to automate many of the manual tasks historically ..."
     publishedDateTime: 2022-05-09T20:58:00Z

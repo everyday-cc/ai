@@ -19,52 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Auditing Of AI Is Tricky, Especially When It Comes To Assessing AI Ethics Compliance, And Vexing Too For Auditing Those Autonomous Self-Driving Cars"
-    excerpt: "AI auditing is still a nascent capability and often overlooks AI Ethics compliance. This will inexorably change and be increasingly vital, including even in the case of AI-based self-driving cars."
-    publishedDateTime: 2022-05-12T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/"
+  - title: "Safer Driver Assistance Tech Now More Important Than Self-Driving Cars, Consumers Say"
+    excerpt: "Drivers want automakers to improve existing semi-autonomous driver support features before developing fully autonomous vehicles, as inconsistent performance remains a problem."
+    publishedDateTime: 2022-05-12T21:54:00Z
+    webUrl: "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/"
+    ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6265c81c35d2f416ec30ff04/0x0.jpg?format=jpg&crop=2849,1725,x865,y0,safe&width=1200"
-        width: 1200
-        height: 727
+      - url: "https://imageio.forbes.com/specials-images/imageserve/627d8169661424cee95ca2c9/0x0.jpg?format=jpg&width=1200"
+        width: 826
+        height: 430
         isCached: true
-  - title: "Study to use AI for improving the health and wellbeing of people with learning disabilities"
-    excerpt: "it is difficult to provide effective joined-up care between health and social services. For the DECODE (Data-driven machinE-learning aided stratification and management of multiple long-term COnditions in adults with intellectual disabilitiEs) project ..."
-    publishedDateTime: 2022-05-09T22:15:00Z
-    webUrl: "https://www.news-medical.net/news/20220509/Study-to-use-AI-for-improving-the-health-and-wellbeing-of-people-with-learning-disabilities.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220509/Study-to-use-AI-for-improving-the-health-and-wellbeing-of-people-with-learning-disabilities.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220509/Study-to-use-AI-for-improving-the-health-and-wellbeing-of-people-with-learning-disabilities.aspx"
+  - title: "These 3 technologies could make self-driving cars safer"
+    excerpt: "With autonomous vehicles already operating in several cities, technology companies are working on high-definition maps, better artificial intelligence models and remote control for fleets when needed."
+    publishedDateTime: 2022-05-11T18:02:00Z
+    webUrl: "https://www.smartcitiesdive.com/news/av-technologies-self-driving-car-safety/623471/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 51
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Self-driving Car Market Estimated to Expand at a Robust CAGR over 2019 – 2030"
-    excerpt: "Self-driving Cars – The Elevated Future of Mobility The race for a completely self-driving car is underway with increased ongoing testing and prototyping"
-    publishedDateTime: 2022-05-09T11:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-estimated-to-expand-at-a-robust-cagr-over-2019-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: smartcitiesdive
+      domain: smartcitiesdive.com
+    quality: 4
 
 secured: "76cBwxHJ4Zrp1+UlYj/B3Yg53WSStVZaTYgBOLoxDYKMIb6HlNQb/RbDlbwsqQchRuv4eAyO8VWeq9QyXzQrq6RyX3laCJ4YRoYKntkKaV6bqUQpM3s1SQLA1rYuJPQmfxZiO+yjCMfg1brMeXlPm6hLF3/bn2C+g4fprtJ3Oq0BJ/fiM+GlUo8pKxhHvEBXKkCHXbWvNt9dZ1Yj5HoW/mKU/mP1s3IiaEavpJTLlOSxcjtKsZFpFswVojrSwufDarBo8uNVINHDl9XEQipfyCZ7kQ/FcDrgHH1DI0j46EOdChATCMgiCITdDIso5jVzKLd7WTVi6P0kLGOCm08lNizZxFksZgq9+OYx1QrTrlcki5o2WIQcFow5y0YOX1Vlx6vSjM83u5D4/VVP8X/Rb66BdzkD2ucsp0k1otCI/ty8+0ilNnNSPCuVpTHnQY5OC6hQ8ZdhWS7u+k+V24rooe8qQgWhcteYFTij3aP6mTzT7gOdx0us+v+4V4G6JeUumIZIMOYD8NCKE7gnmROw3Q==;/RNWU6DezgInvQb32NE3RA=="
 ---

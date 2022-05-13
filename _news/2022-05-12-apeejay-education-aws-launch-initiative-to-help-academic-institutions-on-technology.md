@@ -76,6 +76,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apeejay Education and AWS launch NEP accelerator programme for tech-driven learning"
+    excerpt: "using technologies such as artificial intelligence (AI) and machine learning (ML),\" said a joint statement by Apeejay Education and Amazon.com. However, the initial investments in the NEPAP programme were not disclosed. The NEPAP will have a collaborative ..."
+    publishedDateTime: 2022-05-13T07:19:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/news/apeejay-education-and-aws-launch-nep-accelerator-programme-for-tech-driven-learning/cid/1864908"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/apeejay-education-and-aws-launch-nep-accelerator-programme-for-tech-driven-learning/cid/1864908"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/apeejay-education-and-aws-launch-nep-accelerator-programme-for-tech-driven-learning/cid/1864908"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 70
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/May/1652425589_apeejay.jpg"
+        width: 558
+        height: 372
+        isCached: true
+  - title: "Times Professional Learning launches Post Graduate Programme in e-Commerce & Supply Chain Management"
+    excerpt: "The three-month training programme aims to provide learners with requisite skills to boost employability and help them become industry-ready NEW DELHI, May 13, 2022 /PRNewswire/ -- Times Professional Learning (TPL),"
+    publishedDateTime: 2022-05-13T07:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-times-professional-learning-launches-post-graduate-programme-e-/2022/05/13/9601630.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "SoabQgxaoHlOaIJlnZmT6uZXYNqU+qeFhaGd1gjoT44jt+JMAcXfMuvjpvGZp4JP5UnV7waUaCblnck2bN5Q2TPZMh7ezyxOTm11pCAGi62bnweYJ6Ta7OUxpSkIAgpao2/JrkQfTG4m8Mm//l69YxGbxkOQsmCS7xC+XQZaBwFjBbLIolupEG4qAoIE8SZdVVojcgJmiptZgJWFClRIeb3wCB4UWJ/lfyC7uTwguWV9rfkJkt5x+9ku+hIKOzwInnN36V/0+1plVLBUVi1/VhYhnkKEJ7y/loxW2mQkGnbTW9m45pW406yZCcreW/rXPg9nwZY/2xmN/OH6zmyAbMYce067UYIlXv+keVv+Vu9iFcAK/aAwSs9rKct2HgRq7U7wpXg0xd+UbklxgwuSQ2cqWz6DRdxLswbY4LN9DvRmGULmtUh3v63MCUV8ANmyG7lzjRY4NRGSBuQzJdCx2e/H4iM50MnAr8fMJ2U8B2bD1At18+ASkmZjGaMmM0gxfPbUyz4dCHaoI+BhRJO9KQ==;JjyoIoYpFfEpDQupo0d7cw=="
 ---

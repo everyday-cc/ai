@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-05-computer-vision-as-a-solution-to-safety-challenges-in-industrial-facilities.md",
+      "title": "Computer Vision As A Solution To Safety Challenges In Industrial Facilities",
+      "excerpt": "In this article, we will discuss how to apply computer vision technology to detect safety hazards in industrial facilities, such as factories and logistic centers, in order to prevent human ...",
+      "sourceUrl": null,
+      "webUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
+      "originalUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ohsonline.com/-/media/OHS/OHS/Images/2022/05/computer-vision.jpg",
+          "width": 620,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ohsonline.com",
+        "domain": "ohsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-deep-learning-chip-market-revenue-growth-factors-trends-key-companies-forecast-to-2028.md",
       "title": "Deep Learning Chip Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2028",
       "excerpt": "VANCOUVER, BC, UNITED STATES, May 4, 2022 /EINPresswire.com / -- The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue ...",
@@ -1106,49 +1149,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-stop-worrying-about-ai-bias-all-the-time-says-deloittes-ai-ethics-lead.md",
-      "title": "Stop worrying about AI bias all the time, says Deloitte’s AI ethics lead",
-      "excerpt": "AI that discriminates against people is a big problem, but Beena Ammanath, executive director of the Global Deloitte AI Institute and head of Trustworthy AI and Ethical Tech, says AI ethics is about a lot more than bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
-      "originalUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/beena-ammanath-executive-director-of-the-global-deloitte-ai-institute-and-head-of-trustworthy-ai-and-ethical-tech.png?id=29755735&width=1500&coordinates=346%2C0%2C334%2C0&height=2000",
-          "width": 1500,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
-      "publishedDateTime": "2022-05-04T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

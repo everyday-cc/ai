@@ -1,36 +1,36 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
-publishedDateTime: 2022-05-12T21:04:00Z
-originalUrl: "https://www.ktep.org/business/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.ktep.org/business/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.ktep.org/business/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-ktep-org.cdn.ampproject.org/c/s/www.ktep.org/business/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
+publishedDateTime: 2022-05-12T21:13:00Z
+originalUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: KTEP
-  domain: ktep.org
+  name: Iowa Public Radio
+  domain: iowapublicradio.org
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
-    width: 880
-    height: 542
+  - url: "https://npr.brightspotcdn.com/dims4/default/4d5e077/2147483647/strip/true/crop/3935x2215+0+368/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F13%2Fap22132792840386-1bfe760d68d6a323aa45cf26c2aba65833914c4a.jpg"
+    width: 430
+    height: 242
     isCached: true
 
 related:
   - title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
     publishedDateTime: 2022-05-13T01:18:00Z
-    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
+    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     type: article
@@ -58,6 +58,6 @@ related:
         height: 400
         isCached: true
 
-secured: "jCvq+u8RfJlZ0FWDnlwlYoI35ftF9bhRQrI91BevoAI4ex3CIyZb8uJg2aQMiPH2P6IVCZcA1MC+8w7LKfNi4AqZoKRC4O1T93BxwxFdgu6YzbRStiTA7Ers03vBZ5xCFXvH2QT+JfD9R+mziH46vlOjc8XBrMROoaM6SvbFjzJ21LCp0ZGS2rvwU250N87hrIhKXJcH/EMKMWwMquQijZl13tKYwp43zF3eytDmig0os91VPrkT0mT8V/eL2ETOLUs8WFZdFPdOERESKXlo5XFAcJ2HRx57bCAeZBhyKpJfrSjU8kJRyE3L5Q3lyhJUR+r1JZmNCzfLTgon0CqurENM3TxyUilX254M5FMNri8=;1j3U49ac2I9E7ac4GcyLtw=="
+secured: "cjHsQjNiJ1i0HG1U+N6G2Pu3keo8csuW9Y43vGHAgtsQTzWyVtgQxVvva3RZ3g5f5N5dliUZuAlrAErXty/sNKKY4DK1NZvINWh5nO7WfIqkPrs72Gl/2cIxXHYJ9sFoqE/Bmv2rTJSoky5vgPc2SBGck+db9hyDvAwR4jhak7wVhRWf1fFZGxYdenqrKJVKIaxKfzqkWJ0f7y/KQqgAhW+o7VuZ8ljPE3E0a7n5nr32A7fAQu7pxoOn5Ko+yC8+e66LtNg/K600afuSFn9dlndqgE3Aq/WNd+qNYfzeh4X2G/bSyNL4MtsWCu8IAHYK0oEdI3+tPWsNeA7ZCwo57NSoGhxDTbve+Ry2bk5Xv3s=;xtschOPjdHm3/52JGb55tQ=="
 ---
 

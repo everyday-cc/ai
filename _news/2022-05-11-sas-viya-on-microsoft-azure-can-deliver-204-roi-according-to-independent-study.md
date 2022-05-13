@@ -2,9 +2,9 @@
 category: news
 title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
 excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-publishedDateTime: 2022-05-11T16:40:00Z
-originalUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
-webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
+publishedDateTime: 2022-05-11T16:29:00Z
+originalUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
+webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
 type: article
 quality: 50
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "http://targetinfinity.com/as/www/delivery/avw.php?zoneid=39&cb=INSERT_RANDOM_NUMBER_HERE&n=a7f52682"
+  - url: "https://www.businessghana.com/cms/webroot/img/news/thumb_2022-05-12-15184600.jpg"
     width: 300
-    height: 250
+    height: 225
     isCached: true
 
 related:
@@ -82,6 +82,22 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
+    excerpt: "Prior to implementing SAS Viya on Azure, interviewees noted that barriers to data access and disparate data sources made it difficult and time-consuming to build, deploy and manage AI models. Other issues they faced included the inefficiencies and high ..."
+    publishedDateTime: 2022-05-13T07:20:00Z
+    webUrl: "https://www.albawaba.com/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 61
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-05/jay.png?itok=5WUB_pkk"
+        width: 960
+        height: 540
         isCached: true
   - title: "Avaya, Microsoft expand partnership to pair Avaya OneCloud portfolio with Microsoft Azure"
     excerpt: "Unified communications vendor Avaya has expanded its global partnership with Microsoft by pairing the Avaya OneCloud portfolio with Microsoft Azure. Avaya says the partnership expansion wil provide organisations with more options to increase their productivity and customer engagement with"
@@ -192,6 +208,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
+  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment, study finds"
+    excerpt: "Quantified benefits included faster time to market for analytics insights, improved operational efficiency in model building and testing, and cost savings from retiring on-premises analytics infrastructure."
+    publishedDateTime: 2022-05-13T06:34:00Z
+    webUrl: "https://www.itp.net/infrastructure/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-study-finds"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 30
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
     excerpt: "Dubai, UAE: Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment over three years, according to a new commissioned Total Economic ..."
     publishedDateTime: 2022-05-11T13:26:00Z
@@ -202,6 +227,6 @@ related:
       domain: zawya.com
     quality: 21
 
-secured: "fyDC8WmgKcS4IDnJHUq14+U0RwE3xBNkZrDEcAsxEX6zXYRrXOOKb37hu5lTlMFUyWs0+rit2ZA/suLsrXJ+QFhjXsh/lz6zbfsMJDLPNoADx5mbj/9/Igc8BYfaj9nki47bxLPaasefHHOjDxuFwC8on6774+Z3XGmzreV+NVvhg4C7oX6BtEOItmfvx6LAF5RaeDT1emMv5eJhHP7KJZWedSKK9ZBuo4hoZCx/4IdUV8RBspuW/4vMJHrn6C6vIfqwCAY5K0tXUbdBcKKglE+BXX0CWAPGEYI97bJakJM5ZEQ1n6cZB9vVC+3pglodaa+cT3t+j2jJX6hBt5/NC8+LVRm7Xi+2wxQv2mknI0g=;mVq7jwZNBa5wQAf8eac4yA=="
+secured: "xYOedXi06EotNFsouoZoCRiQasLl2HcTtkFLDv85oRmSJ//0j63xShBLjSVZRljpBATEv2R2jiVqcZIflCESQ5Gbqcm6PfEqyUakwdkGFvthksxMt99VvQNO0IMQXvygW60RuMZhrM5ROoFsEfaWmgL5Vhezu4l9kZgJrJTQ7Sv88cxsHCYnBHqrlO69WtLdRuMovI0sGs4xdTwjEtlVCk/FdwFhVpOHhKpAD3Wnwv68DHOXU3BOaMHb3oD7Oi+tv/C1dOQ0V/pTswj1DZJ7yDm4ZpNo01FebYZta9frGXPN46uelYoSuUUPJXiuQeEw6124NPXiSR0FscDiGFO+iy/wAkhRsZHqLmdhFTmid9s=;wmMRQIholqu1jpGe3ycljg=="
 ---
 

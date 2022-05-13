@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-excerpt: "Forbes evaluated hundreds of submissions and recognized Nauto for its intelligent driver safety system that helps drivers avoid collisions and injuries by assessing roa"
-publishedDateTime: 2022-05-12T20:00:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+excerpt: "View original content to download multimedia:https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto ..."
+publishedDateTime: 2022-05-12T17:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-1031454864"
+webUrl: "https://markets.businessinsider.com/news/stocks/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-1031454864"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
 
 related:
   - title: "Explaining The Art Behind The Forbes AI 50 Design"
@@ -136,6 +134,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "4gnQRxfWLkMT1y9z5QhF8k+FAnbgfvx2k1zFRR4DsR6IQW4m69UWy9UTT4Gv2mNoWiJWyKX5+JcZ2/BhOyuTH9U8/TtztZmVmO0tClnrnZ+YDkdGDaWx7e4fypOsadBrgbOhYB0Xt+OH2ohRPWTOKwbrbJfqxrtG2prcUGpKzf2qPUQOFm7XFSK/OMS1Xvtuekmj0ZprsLKJ59viX8P1FXzVygwfVt1xZ9FxYHvAIYzmAwYLrHPOZP7MJycNgdNjcjelQhzG14cNsDnOpu8injSuddwSK9Z7GiwWYU2Cpo3D1RhsmncfBs68x9GEXNKp9UA+VEOpLPoclRpQIyEG9762yFc1iPqWAaXBkX8rln4=;mKDqfmrjY3AnHJ8vtCreYg=="
+secured: "oAjx/OaxbSEckvO8bOcUPCc3R4qMXUKLMHSwfT+z6bxjhDbUCSJ+ahu5/sk9QOtEpy3i6q4uIdBxbUlP6+4qWwAuurvqp270WKi0t57YamwP1LCVSzQMIetAYh2aSGQ24gG7P1ddC43EXFZOkpmSq/csLNeMPw/OgAm6wO1dRo5POsfiuo+V1k/0ZZ6i3iJwWqlmM6D+FAAiR8qDw6BeuGnkZJRXdTLsAZMaSXisjQ7BC4lewqsJdt7TzxAqqfp9AGFf/wLeGek+Zl+fWUYsajvy4l5vViqTRpEpqtOgn5c2Aps+/v1XRd+uNyTLXK5N/yfLBJ/NKq3Bk9jf1MkPasFlUP6aze/JUqIDxvzPDfk=;2RimZ8WgatxPZZ5LIInEGA=="
 ---
 
