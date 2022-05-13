@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AI In Pharma Global Market Report 2022"
-excerpt: "The \"AI In Pharma Global Market Report 2022, By Technology, Drug Type, Application\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2022-05-09T20:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-in-pharma-global-market-report-2022/article_efcc6150-0439-5556-9c73-b9d174e1bbc9.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-in-pharma-global-market-report-2022/article_efcc6150-0439-5556-9c73-b9d174e1bbc9.html"
+title: "Social Robots Market Research Report 2022 | Trends, Growth, Size, Share and Forecast 2027"
+excerpt: "\"Social Robots Market\"The global social robots market reached a value of US$ 2.6 Billion in 2021. Looking forward, IMARC Group expects the market to reach"
+publishedDateTime: 2022-05-13T00:55:00Z
+originalUrl: "https://www.digitaljournal.com/pr/social-robots-market-research-report-2022-trends-growth-size-share-and-forecast-2027"
+webUrl: "https://www.digitaljournal.com/pr/social-robots-market-research-report-2022-trends-growth-size-share-and-forecast-2027"
 type: article
-quality: 39
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - IBM AI
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://www.abnewswire.com/uploads/1652360552.jpeg"
+    width: 1920
+    height: 1479
     isCached: true
 
 related:
@@ -34,6 +34,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+  - title: "AI In Pharma Global Market Report 2022"
+    excerpt: "The \"AI In Pharma Global Market Report 2022, By Technology, Drug Type, Application\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-05-09T20:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-in-pharma-global-market-report-2022/article_efcc6150-0439-5556-9c73-b9d174e1bbc9.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "AI in Bio Pharmaceuticals Research Report 2022 - ResearchAndMarkets.com"
     excerpt: "AI is regarded by some top executives at big pharma (Novartis ... Microsoft partnered with robotic surgery startup Cmr Surgical on a proof of concept to store clinical data from cmr’s next-generation surgical robot, Versius, into a glass, marking ..."
     publishedDateTime: 2022-05-11T10:07:00Z
@@ -76,20 +90,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Social Robots Market Research Report 2022 | Trends, Growth, Size, Share and Forecast 2027"
-    excerpt: "\"Social Robots Market\"The global social robots market reached a value of US$ 2.6 Billion in 2021. Looking forward, IMARC Group expects the market to reach"
-    publishedDateTime: 2022-05-13T00:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/social-robots-market-research-report-2022-trends-growth-size-share-and-forecast-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.abnewswire.com/uploads/1652360552.jpeg"
-        width: 1920
-        height: 1479
-        isCached: true
   - title: "3D Machine Vision Market Size, Share, and Growth Analysis Forecast- 2025"
     excerpt: "Snapshot The 3D machine vision market has been estimated to experience numerous growth avenues in the foreseeable years."
     publishedDateTime: 2022-05-11T06:44:00Z
@@ -128,6 +128,6 @@ related:
         height: 337
         isCached: true
 
-secured: "jXw/yf8OgcF2gc7bvJC0bum5CzTOH+7EuWSdptL+2HjB3dOMnBJoKJzZEMUR+PRhsRhKVN+msD9bSbjc48ZwXjtM3g1azWjCMpNAH53NrYPCIXaTWAZ/dLdy+/ZqDMDbrlpBslpuhO85xKA8g2EfPRLhYWIcgF6LNJg9/N6V6UaQiYwwUp04tv0hpwrb5K5z3ayUBtTK9VCoilCf+q7SZQ/IojpTMvQhD9j51ne/yAx4InU+RSpbzELkFezaRmjSQAVDOVU+UM0gGS5gZp0lI+XHN4eRjYkL9f1hx0N5y25wlsKrFXfyd5MNO95q7azqU/cT2PvOZtzVBkCIWluTIl25v2BGSbkKHY2qRbvRibUpCMxzJDy8HZ120wVJUBIEEJqYNcEre4qbFVN3PWjmsxJCvj1t4ik4F/YgMiOmBIn732u08DWyq7nXzQrlrdBM//lR+2m6zKbJ3QBe1pAmV5YJYX8APygURlcaMBVr1LQBTLqJeP4BZy127qZCri8akksmdBcRWUG7Q5NlgqjNcA==;4TLAqq2QvwnwDVDMQ36JOw=="
+secured: "Yz/GJGGvgbCzlSX3cxkzdw1Ke9kRrKfJomMCzKddKqo/hMXb3dTdTdw1TeH7d25TwR6QaVs59+etFJhsFWZttNXUiYZRHzXz1hY5ss16/dkI51CoBXJ+Si/oUilmBX5VDPjRbKNSrUQ3SYPo1K6NEAEiAU/ER2gBF0axNt0WtgHYcynHELkcwjmxvYkfJO3CBenMtqIbBU7YHRZSj1PT83EtJcW2QDMspBsGdMgt1NHI78gqNhaKweFptzeGlzruCwUPCPxMjNWo2MCkDAnF/Dz4Sk0QSqsodPjygUto6uHi01PVlIis2G5bSxkI0V2UcjkO4DtUb+43aAYl9OVarzp1drwoxxTGMlzcuYhVezw=;ti9RHt3W/YtebXeESg0U6w=="
 ---
 

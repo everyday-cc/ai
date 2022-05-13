@@ -41,22 +41,20 @@ related:
         height: 640
         isCached: true
   - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-    publishedDateTime: 2022-05-12T21:12:00Z
-    webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+    publishedDateTime: 2022-05-13T01:04:00Z
+    webUrl: "https://www.wfae.org/united-states-world/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
     type: article
     provider:
-      name: New Hampshire Public Radio
-      domain: nhpr.org
-    quality: 51
+      name: WFAE
+      domain: wfae.org
+    quality: 31
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/b972cb3/2147483647/strip/true/crop/4983x2804+0+435/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F99%2Fb83d96f642378a9806c0d4e63415%2Fsununu-gov-2020-tuohyphoto.jpg"
-        width: 430
-        height: 242
+      - url: "https://npr.brightspotcdn.com/dims4/default/274272a/2147483647/strip/true/crop/3663x1923+0+258/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "DqVs5rtnGvWDXgjDBrOFlNSRLniad6HOafXF2CXQf54Uu8Pt2nNiuCU8p4rKijoYwwlz+b7NtHKjlFkPuHohuHvIDbyARyXyMmaJgTmMlOQsbpFHrNFtCVXy2Xe6yuyyLrUnkkk/nN5UGVHmesxvCCxlbWxMe8dLngjN5Ho2RLyEC+z/DD7sLSWtOFPi4bd1ZC3N8vlpa9kCP3dZCk09URSmhVx68YxJ4LJ4i5YtKG98SFeBpl4kKl6UmeCyTbbee5t0tCVii+YJJU17iCnraXR59dMjcyHA0cxL0YLMBs0XnpZ+ZSBFugvKCu9TLBR3mtxhuwMjL6KeF2MnW9VLv/lOB2YAydPIAQNdVzTVEMw=;LshDDu/FP/PR6Pz8rb9uUQ=="
+secured: "DhM6bW9KNx4qKL/hsrAHYATWsU1JaZ4dbi/I3K2IpSbxVpISWbrOiVGaVPdUSFvgx1FPLRmMSwCVGpOac+tIVwHKzjHTNxnXlGZxLeeQc1SKEKmwT2Yq+F1cC/vjJrqRnlBLUDHXzQQvO2L96AHw7C3Y1/nGqaZ8T4Hj5jT7+yU+/aUB8lyyFGJZAeTT0XRE2rp6SVtZvTISLX1XcJLL4IR4iNYlywl/LMptV6JmzehhJ06voEUzTAfRa/iEG3oNE9e6iBKhPfqcnp/kZgISfZAJEJgywqKWhRKG4G5GPX9CkqdAy8Y/OiZc5S9IjKxzMHbkrB2A150RylZYFp6q079sLOVpK5jsBGsB1vjBb2PxZpZK7MBlrzfmV8wCLTON6lONA27TTB0WuANyl/EvwNTazjq9iIiNTMAH+XrEJv09/J/ZqnpLcXnx5GQWtXkI8SN8tAs9U1xCSYCp0nhSwZX6HdCrvc3ko930FbVHLbJBFxYPpOmjSCHTZbLrkk2unnMC3/VmmgAHJSeBtXJDVA==;HsFBesEik6R8MQpLfb2wwg=="
 ---
 

@@ -24,6 +24,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Union hails 'historic' recognition deal with food delivery giant Deliveroo"
+    excerpt: "FOOD delivery giant Deliveroo has signed a recognition deal with the GMB trade union covering ... services will now be covered by a collective agreement that gives them a voice, including pay talks, guaranteed earnings, and representation in times of ..."
+    publishedDateTime: 2022-05-13T00:06:00Z
+    webUrl: "https://www.irishnews.com/business/2022/05/13/news/union-hails-historic-recognition-deal-with-food-delivery-giant-deliveroo-2709273/"
+    type: article
+    provider:
+      name: The Irish News
+      domain: irishnews.com
+    quality: 37
+    images:
+      - url: "http://www.irishnews.com/picturesarchive/irishnews/irishnews/2022/05/12/134922493-3c6e4f30-41cd-4f31-8014-bad66128503a.jpg"
+        width: 900
+        height: 472
+        isCached: true
+
 secured: "cZmkG8LH6psipHC748RK2nzMgYB7JAyR0GGl+H2RZ+839qq+Xwjt7UlBN4tNHEOO0geSHcaI89HIx50ZUyEjqVJmptJg5a4yuI14YtraaCyrSRHCSnGjWQBYsTvxz8XGfJVb8fU6n9AnQpClWCLdgOknw3yqL9U3zJEIuHAvCeaS7vO/GG/8C8ZyXVtq0wpts+W7YFgGZu82GIPmWtxQ+NL6onLu5gxpvj/vJvgukMzGcj5Qkj+iomo8C+EHVR5PnHlB4NdDV5PGM3g61HbctLdFcPKghYQ5E219+SDUJ2+Xj/tNr7h2w/OjIu6oi+0s4eVIxJ1LQOxeCuv5h8f86HQpICqRrG/BXZVZ73IZ5o6TRvYiORXrOmI5cQGdVgkR2Ev9XLbO/9dCbGJQsr8XEIjsx7hGn6OncaOS6+iKT3kaeqMMFIGYV+3vVgMh6FIxMi1qH3QuTO9Ln7S0hOWrKAPbMtr1I7nCQiSmoFmF1TmKAmcSe9PCR6TBFf9CWz6RYJII8kXiHSk8UlE6N2JS+g==;NweloQ3XGMyFctACA0u+Uw=="
 ---
 

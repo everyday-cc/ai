@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-    publishedDateTime: 2022-05-12T21:12:00Z
-    webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    type: article
-    provider:
-      name: New Hampshire Public Radio
-      domain: nhpr.org
-    quality: 51
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/b972cb3/2147483647/strip/true/crop/4983x2804+0+435/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F99%2Fb83d96f642378a9806c0d4e63415%2Fsununu-gov-2020-tuohyphoto.jpg"
-        width: 430
-        height: 242
-        isCached: true
   - title: "Federal officials caution employers on using AI in hiring"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission are sounding the alarm about the potential for AI human resources tools to discriminate against individuals with disabilities."
     publishedDateTime: 2022-05-12T23:53:00Z
@@ -60,7 +44,21 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
+    excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+    publishedDateTime: 2022-05-13T01:04:00Z
+    webUrl: "https://www.wfae.org/united-states-world/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    type: article
+    provider:
+      name: WFAE
+      domain: wfae.org
+    quality: 31
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/274272a/2147483647/strip/true/crop/3663x1923+0+258/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "deRoKYS96S/ZjOHsild3U4KVmCSxHC+00NPjMRhJEMlGv4bX+/YdcpVYLWx7/GcwEvR+fSiC4x9C2n8H1XnsmtPs+FTN/AmKFxeem1pUNk68sziD2t125lSGeHlXMDqbqgENmEByy8pO8iIXBjEoEmzspMLjLI/dTkA2Uq1CwMjB5/w/P5pu6FfP7CnKlB2DGCojM4JfhTpKS409WwnzloDB76sRmpOzj0WN15AxAbR+RHx5YYCvGZBO/H44850VRt2mYOv3ieUoWrGDpX74GArraHRcaz3behPgaKV63F7mWiX+oF5zjeT3vldoIt3t1KzgGqC7jxSmCaBgMla0le+ePiGQeMzUSd+D9xQ0D4M=;WpGhYZNGKB+pNBOSIhY09g=="
+secured: "fPNqo/isXMVHGHVUDNWSWI7u4xpqPtZ++klfgKnOCIdEI3dVNfijcPgPbD37javz3k58o94URDqrOw9WrhoP/wPjbo1pwXTjkxlVXEnz/a5q0UBOGJM4fWrCrLi3LtCPRw4p7eGy2p+nGwwnH2Zddra8nhk030m/o1H+xNCP0DAwO2NG3TesH3dmd9nk3+cAopS1hxdmPcgoujDRVY/7GnzYzIs93XSVp8EF4pjIcBuYl5w+2Wia5StgIPpDzYkWeRviO4+C1AqlKCcAqdp2Oyw3Sb64aVZ/iJUk3R83vRbRGZsnM39p29bEOyHSgIKwJZ9ifVYmTNzdvcuPcp+sNaL3O7mu8YkPC3GaXhRnGNGrsD7UNrH3HPo8hBU7K/l7LWu1tcDMg1UUo6RlI1IZp5q+KMzqczCnt8F56pYrmJifURn+Fm1Tp3igGsTKYIXoYNX34+rJD3iDfc5+/yFK1BSKJzXRXwyFeKLWiBtfFwUgC17bQFsGKugwxSGTNyvbgEHTu9fLUn95QVVZVvPPyw==;unD7/N9mVQkUP+gm01ZzFw=="
 ---
 

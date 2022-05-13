@@ -1,43 +1,33 @@
 ---
 category: news
-title: "Forbes Names Whisper to AI 50 List"
-excerpt: "For the second year in a row, Whisper is being recognized for its revolutionary AI-powered hearing aid, the Whisper Hearing System Forbes' 12-judge panel of experts in artificial intelligence from ..."
-publishedDateTime: 2022-05-12T23:51:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220512SF56419/forbes-names-whisper-to-ai-50-list/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220512SF56419/forbes-names-whisper-to-ai-50-list/"
+title: "Explaining The Art Behind The Forbes AI 50 Design"
+excerpt: "When tasked with creating the art for the fourth annual Forbes AI 50 list, it immediately struck me that we should use Artificial Intelligence to generate our deliverable. AI is making considerable strides not only in commercial applications, but in visual ..."
+publishedDateTime: 2022-05-10T08:15:00Z
+originalUrl: "https://www.forbes.com/sites/forbesdigitalcovers/2022/05/09/explaining-the-art-behind-the-forbes-ai-50-design/"
+webUrl: "https://www.forbes.com/sites/forbesdigitalcovers/2022/05/09/explaining-the-art-behind-the-forbes-ai-50-design/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 137
+published: true
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6275a785c7e155aec83ddefc/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 1201
     isCached: true
 
 related:
-  - title: "Explaining The Art Behind The Forbes AI 50 Design"
-    excerpt: "When tasked with creating the art for the fourth annual Forbes AI 50 list, it immediately struck me that we should use Artificial Intelligence to generate our deliverable. AI is making considerable strides not only in commercial applications, but in visual ..."
-    publishedDateTime: 2022-05-10T08:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesdigitalcovers/2022/05/09/explaining-the-art-behind-the-forbes-ai-50-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6275a785c7e155aec83ddefc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1201
-        isCached: true
   - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Forbes evaluated hundreds of submissions and recognized Nauto for its intelligent driver safety system that helps drivers avoid collisions and injuries by assessing roa"
     publishedDateTime: 2022-05-12T20:00:00Z
@@ -56,6 +46,20 @@ related:
     excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
     publishedDateTime: 2022-05-09T21:49:00Z
     webUrl: "https://ktla.com/business/press-releases/cision/20220509SF51230/arize-ai-named-to-forbes-ai-50-list-for-second-consecutive-year/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 37
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
+  - title: "Forbes Names Whisper to AI 50 List"
+    excerpt: "For the second year in a row, Whisper is being recognized for its revolutionary AI-powered hearing aid, the Whisper Hearing System Forbes' 12-judge panel of experts in artificial intelligence from ..."
+    publishedDateTime: 2022-05-12T23:51:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220512SF56419/forbes-names-whisper-to-ai-50-list/"
     type: article
     provider:
       name: KTLA
@@ -108,6 +112,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "BMIwmmyE0i2J+by3HK53cL99oCFompXX43RmvA+Ug3sKEQ43bOHVfzFwNT89kVSVqo8t7NpjgIm5o3WQYF+5ZQDeLSFsWnWHasdf/MqkVWM2FXciZbv4g6RnbzmArULc9kDUMg0eNuOYWDxqCtYPo1v3nhxp3/gnpX0G1WKKLBWm5e+Vno9693w7t992E2nnDlYj0YkC4x/wGYrxNpFkOeKd+LrYg0LWDn8+OmhQc927NTHbB4WBBuH+pnVjd8NKQJ5iqVmRm6/SSWYp85Ef79Iqdv6C6dNzi2fgeq86dTKhx0tm9tpgCi08VEuJkmBp7c1mExTmudjc+J6/mgDGEFkMCWTNGwtSt1LEjG0y4NY=;cBhGKI1Sik8wxf/aLLJ4pA=="
+secured: "mNFrTwNksqKosXFqP6g8FRiztSGjMlLD+hwflwaLPsUufk/zwfbVp+D5whfigzIQjnqLgfPFeQ4Qb6RgUtns2o8NAegz4426BMAlPCWFo+Emvxe5agj0TlH8vzq0Ro7aST6jjZLpLptg3hxxIRKEoWQb77ND/9bsD1SMEuev8/qZu211T0Sy2H8ue+0kAHqWHQo1vdMSqF9bwVPbbyDP3DHajhaOEqUzwHvYB+mwm+7e75CeHUMVl4WkRcBXJGpaN0GCWfQyycwcd40yyTUPi9kk9ZCcc0CBcGSMDppg63Z8Ovrs5ixE4NAWkUqm9TLev1yBnlqgeTjdcgEi5+hFQI9JTysszmEZ6eQyRZvP9FA=;sNVCvqjovVoWjmw/m1zHCw=="
 ---
 

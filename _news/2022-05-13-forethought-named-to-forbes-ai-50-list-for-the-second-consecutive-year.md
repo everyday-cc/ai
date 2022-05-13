@@ -2,31 +2,56 @@
 category: news
 title: "Forethought Named to Forbes AI 50 List for the Second Consecutive Year"
 excerpt: "Forethought, the human-centered AI platform, was named to Forbes AI 50 list for the second year in a row, accompanied by other notable privately-held North American organizations that are making the most interesting and effective use of artificial technology."
-publishedDateTime: 2022-05-12T19:28:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/12/9601331.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/12/9601331.htm"
+publishedDateTime: 2022-05-12T19:24:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/forethought-named-to-forbes-ai-50-list-for-the-second-consecutive-year/article_5dfe66d9-bb05-5f7e-a2fc-c10e77a793a0.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/forethought-named-to-forbes-ai-50-list-for-the-second-consecutive-year/article_5dfe66d9-bb05-5f7e-a2fc-c10e77a793a0.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI
 
+images:
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
+    isCached: true
+
 related:
-  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "View original content to download multimedia:https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto ..."
-    publishedDateTime: 2022-05-12T17:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-1031454864"
+  - title: "Explaining The Art Behind The Forbes AI 50 Design"
+    excerpt: "When tasked with creating the art for the fourth annual Forbes AI 50 list, it immediately struck me that we should use Artificial Intelligence to generate our deliverable. AI is making considerable strides not only in commercial applications, but in visual ..."
+    publishedDateTime: 2022-05-10T08:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesdigitalcovers/2022/05/09/explaining-the-art-behind-the-forbes-ai-50-design/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6275a785c7e155aec83ddefc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1201
+        isCached: true
+  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Forbes evaluated hundreds of submissions and recognized Nauto for its intelligent driver safety system that helps drivers avoid collisions and injuries by assessing roa"
+    publishedDateTime: 2022-05-12T20:00:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 47
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
   - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
     excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
     publishedDateTime: 2022-05-09T21:49:00Z
@@ -83,6 +108,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "b8oE9cs5oyF70D9BO9M6qWK/H6zENvhjMTD5AvVlMo2539uSWBWJPCW06BJbQJFiuajZbKXuI1LUeT7BWSV/iA8Bkemfs7chXpJsI7+8Qax9fqeOmawsT/BZyPR4ujarmFcE7wHbr8EyyakT3/68iqN3D0rDinSZf0gFlhkSHUSq5vT4xgPhYG+o3XurmBainMn0DvNb05xPavpTO+4sqIfibNQstx8D4RH/x0j61rzvUKebKInE+k5N0xgMI3mayx2TPZ2sjaMe8TTUxwlVQ04Yw2BU5UjUHTyHB3PKQTP+bVOdOZN9mYbI1QTeVrzxCzKwtHhnZtnt6WXh1xFoyFHcL6tAFRg1DAIQlTrTp2U=;767Q5pU2bVNeH84Txw/syQ=="
+secured: "UIHZ/aE+JYaj2RzMd+Fo79+FEkWNBXASre7blR3+r4NeEGAfXRr8J/Zcy12nyVjb2xAgbPgUdhFkNLxyazv6yJzuRrCs32PuW1XFInaB76oD5S/Fjwrky/dQI95pqyERpDJE6+7SzCJJQhVIUtc6jbF4G1P306p4sFtMt0lAIAEcuk2LCTvItHJBHVxdlqAsC08ayjmyFmIIt1+GShU3WtVzhZr1o75V7DG8ONQ4yNecOvmkvdK8zBH/5N38IpoSncPOarKi1a0UGxEai7m58I3iO8HGaS8yzvUCQl91LU8JN9Wqo9sNGj7Ry7cNY1dLbKCyyeYfgEsxBNHCjof7X7KautXlatpZsq5xULWAZBY=;C0dPWQbaL3vkOyUzYw7bsg=="
 ---
 

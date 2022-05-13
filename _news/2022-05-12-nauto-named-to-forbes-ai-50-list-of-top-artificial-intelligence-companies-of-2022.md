@@ -18,15 +18,34 @@ topics:
   - AI
 
 related:
-  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "View original content to download multimedia:https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto ..."
-    publishedDateTime: 2022-05-12T17:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-1031454864"
+  - title: "Explaining The Art Behind The Forbes AI 50 Design"
+    excerpt: "When tasked with creating the art for the fourth annual Forbes AI 50 list, it immediately struck me that we should use Artificial Intelligence to generate our deliverable. AI is making considerable strides not only in commercial applications, but in visual ..."
+    publishedDateTime: 2022-05-10T08:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesdigitalcovers/2022/05/09/explaining-the-art-behind-the-forbes-ai-50-design/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6275a785c7e155aec83ddefc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1201
+        isCached: true
+  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Forbes evaluated hundreds of submissions and recognized Nauto for its intelligent driver safety system that helps drivers avoid collisions and injuries by assessing roa"
+    publishedDateTime: 2022-05-12T20:00:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 47
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
   - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
     excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
     publishedDateTime: 2022-05-09T21:49:00Z
@@ -55,6 +74,20 @@ related:
         width: 600
         height: 207
         isCached: true
+  - title: "Forethought Named to Forbes AI 50 List for the Second Consecutive Year"
+    excerpt: "Forethought, the human-centered AI platform, was named to Forbes AI 50 list for the second year in a row, accompanied by other notable privately-held North American organizations that are making the most interesting and effective use of artificial technology."
+    publishedDateTime: 2022-05-12T19:24:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/forethought-named-to-forbes-ai-50-list-for-the-second-consecutive-year/article_5dfe66d9-bb05-5f7e-a2fc-c10e77a793a0.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 37
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Eigen Technologies Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Eigen Technologies (Eigen), the global intelligent document processing (IDP) provider, is proud to announce that the company has been named on the fourth annual Forbes AI 50 list 2022 for North America. Produced in partnership with Sequoia Capital, this ..."
     publishedDateTime: 2022-05-10T13:09:00Z
@@ -72,15 +105,6 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 17
-  - title: "Forethought Named to Forbes AI 50 List for the Second Consecutive Year"
-    excerpt: "Forethought, the human-centered AI platform, was named to Forbes AI 50 list for the second year in a row, accompanied by other notable privately-held North American organizations that are making the most interesting and effective use of artificial technology."
-    publishedDateTime: 2022-05-12T19:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/12/9601331.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 17
 
 secured: "HeIIyYOrhwZM1FJZQPJKy0qGFoK6xSX+M9MLE905bZ4Rd3Tpqo1gz7V8tdi1RQyFL95NMMeqsGw5IoZvprTyS7NZ4Z7PnalqhlAGyumDtNPIZ3RVgbCmJKpviCKrpRPBaD2YOG/J01N6vWTqROPl/qTL6d5nfEe8mDInrprnp4Ofbqauxo3Gdbuz9xUUQknT6qfuk1mmDFFMDOpWOht3+sVHhkAkcZ/3Za+u0iY4Epm4UFT7w+rVUXkg/ypigC9JnixEqVv4eGueRTSKT8mSXOu9+AoegK4/oaJvWxiC2G7m+iUfHYJHznb4Ohj2ROF39tVffkYDiTNGz9Cl0P83TeAcv06IMSKWTNkD2Mqg/Gw=;nnlKkGJrnYNwZnXpeIvGtg=="

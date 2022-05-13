@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Southie Autonomy Secures $2.5 Million Seed Funding & $5M in Robot Lease Financing"
-excerpt: "The platform utilizes artificial intelligence and augmented reality to automate highly ... it was very expensive and complex to reprogram robots to perform different tasks, causing the automation ROI to plummet. With Southie’s innovative AI-powered ..."
+excerpt: "Southie Autonomy, a developer of intelligent robotic automation, today announced it has raised $2.5 million in seed funding led by BootstrapLabs, a venture capital firm focused on applied artificial intelligence,"
 publishedDateTime: 2022-05-09T13:52:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-oceans-venture-capital-artificial-intelligence-621389a0bc45430c8a6cc63083a1f6fd"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-oceans-venture-capital-artificial-intelligence-621389a0bc45430c8a6cc63083a1f6fd"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-oceans-venture-capital-artificial-intelligence-621389a0bc45430c8a6cc63083a1f6fd"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-oceans-venture-capital-artificial-intelligence-621389a0bc45430c8a6cc63083a1f6fd"
 type: article
 quality: 34
 heat: 34
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "K+IPGHd0bGeKLc6zTrKqBbE6wbuI0cTWB0+FfkYZyGArNSq4PsIVuJUFmr8r2QVHbNNkZ85ryd8tfzu9dB17F0uMgwN+MjQRJOpAPsc+6uT17WuMumfpjSuCM8U1ajzQ5/4lMrQPzqsdz9MA/8nIpkPio86RG8Cm+ny9d5TOhvCyLd2L/MPPI/s+NyvBp1sOFdphj/wOVjqDNvgFkMxo6PrfOFlJ9HiFKJD7UK2Z2igOpWJRgOhaNx0iUXH3Kx+lpDUjfS0MCrcDX3efE7qsaf70S72aMWMn5QcCPNKEU/eOwKkFd+w/Re1ZPS/HuM9jVtuk+FQ4m43yU7yompq+jfRtopK/pwjxTwzY333cOCA=;DAZq8R2W3kw7eiUs7XXWiQ=="
+secured: "N5428xkcCiX6udUhNo1akBfGzk6zW5zUZjXxYllT8v1zyH3wtKGBAkM5b5ycLVKt3NmCSwB5isqI/s6Rq2Kl1kHUuA2i6vRFhaapsorkf5cY8nvnDdMRy8va8zBs1czs8Qygy0Msa/Kquajc4vbdSK/lJo7BTSm4cFDIVTLfdGIXu2mC/2outKLTrbJpQAthPaJvBrpMwRUFV+kmgLONbqowj1QoJcIsRq3t5OYzwy0cvXhc6816UT9DlR2R6/9s0faWZrh5NpTy+/tm2S8k5j482cNOZRKlV3NE9EO6qxTUW2HttXVHYZq1ldyWOTH1Otf6x44ETB6zDmfk0Q06SoSABlmDhGnzuKVbMZoFRaQ=;EXTfmdUI8SVt8+1CjA/I/g=="
 ---
 
