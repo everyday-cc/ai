@@ -64,12 +64,12 @@ related:
     quality: 9
   - title: "Sequitur Labs Showcases Complete Chip-to-Cloud Software and SaaS Solution at the Embedded Vision Summit"
     excerpt: "May 17 and 18. The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI -enabled products, including embedded systems and mobile applications. The Sequitur Labs Security ..."
-    publishedDateTime: 2022-05-10T12:32:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220510005250/sequitur-labs-showcases-complete-chip-to-cloud-software-and-saas-solution-at-the-embedded-vision-summit"
+    publishedDateTime: 2022-05-10T12:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sequitur-labs-showcases-complete-chip-to-cloud-software-/2022/05/10/9599076.htm"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 5
 
 secured: "H9Y8xys8UXCo1b8QxNIwAhSyJx+b04zEVXnc15lGrro/wQyYu4oGMk0cz50LWpb1LHY2Ll8Flpv8mORz+IJP+zLI4c7zwruM7sS7QX4pdiaHi/3beq72BDqjyD8Uruo0ggBO/iCIw5tZlpAV9qS1Ua7AoD6K7oeQmnBTVc9m7p0D5xL0pgxGAheYR/cFFVYK2gEH9muzQKrRq8z5Eon1AiYNugr30P7ITr3zFhCglzSZbf7Y6zFtX0Rrp91HlDgRLA5t8Pphc+MNskxMNTCSTA9KwbQTkr6lsgxL97wj4HoR/iSA2yaOf5XKIDl4SoX8X9O6ueqtYZ47HIuV1XzTTWPmMCIpOJpak5Kxq7nPkek=;G69dr1kC4+qt60FycpHp+g=="

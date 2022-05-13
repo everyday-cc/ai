@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: CRN
       domain: www.crn.in
     quality: 28
+  - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud™ Solutions on Microsoft Azure"
+    excerpt: "In addition to the reliability and scale of Microsoft Azure, Avaya CCaaS customers gain access to the power of Nuance's Contact Center AI technology integrated with OneCloud. \"The combined capabilities of Microsoft and Nuance give Avaya customers ..."
+    publishedDateTime: 2022-05-13T12:16:00Z
+    webUrl: "https://sip-trunking.tmcnet.com/news/2022/05/13/9601679.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
     excerpt: "NYSE:AVYA) Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
     publishedDateTime: 2022-05-09T13:28:00Z

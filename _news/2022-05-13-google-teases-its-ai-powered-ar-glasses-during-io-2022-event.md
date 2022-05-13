@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T11:13:00Z
 originalUrl: "https://www.gizmochina.com/2022/05/13/google-teases-ar-glasses-during-io-2022-event/"
 webUrl: "https://www.gizmochina.com/2022/05/13/google-teases-ar-glasses-during-io-2022-event/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Gizmochina

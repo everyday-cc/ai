@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-key-co
 webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-key-companies-and-analysis-top-trends-by-2030"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,93 +26,116 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Medical Market Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast"
-    excerpt: "Global Artificial Intelligence (AI) in Medical Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Artificial Intelligence (AI) in Medical Market Report also covers top key players,"
-    publishedDateTime: 2022-05-10T18:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-05-10"
+  - title: "Facial Recognition May Not Be Banned After All"
+    excerpt: "Following efforts to ban the use of facial recognition technology by authorities, it seems that some cities are having second thoughts amidst an increase in their crime rate. Some U.S. states and ..."
+    publishedDateTime: 2022-05-13T15:42:00Z
+    webUrl: "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074"
+    ampWebUrl: "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bc3f198cf7b38c71dd7b8b87c579e986.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "U.S. cities are backing off banning facial recognition as crime rises"
+    excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers."
+    publishedDateTime: 2022-05-12T15:09:00Z
+    webUrl: "https://www.reuters.com/world/us/us-cities-are-backing-off-banning-facial-recognition-crime-rises-2022-05-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/15gLJghNP6gOmMBv7i4aHTVe5rQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KMEMGIH2CJIC5CELHPUKA5RQX4.jpg"
+        width: 728
+        height: 381
+        isCached: true
+  - title: "Feds seek dismissal of planned class action against RCMP over facial recognition tool"
+    excerpt: "The federal government is asking a judge to dismiss a Quebec photographer's bid for certification of a class-action lawsuit, possibly involving millions of people, over the RCMP's use of a controversial facial-recognition tool."
+    publishedDateTime: 2022-05-13T09:45:00Z
+    webUrl: "https://www.cp24.com/news/feds-seek-dismissal-of-planned-class-action-against-rcmp-over-facial-recognition-tool-1.5901451"
+    ampWebUrl: "https://beta.cp24.com/news/2022/5/13/1_5901451.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/5/13/1_5901451.html"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 67
+    images:
+      - url: "https://beta.ctvnews.ca/cp24/en/news/2022/5/13/1_5901451/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
+  - title: "Facial recognition bans become less palatable amid surging crime rates in US cities"
+    excerpt: "Virginia will end a prohibition on the use of the technology by local police in July and California and the city of New Orleans could be next."
+    publishedDateTime: 2022-05-13T04:00:00Z
+    webUrl: "https://www.scmp.com/tech/policy/article/3177578/facial-recognition-bans-become-less-palatable-amid-surging-crime-rates"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 63
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/13/3ada3e9d-8235-4c33-a041-ebd7ad06f274_dbb172de.jpg?itok=y3K4eX-o&v=1652410925"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "FOCUS-U.S. cities are backing off banning facial recognition as crime rises"
+    excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers."
+    publishedDateTime: 2022-05-12T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/focus-u.s.-cities-are-backing-off-banning-facial-recognition-as-crime-rises"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
+  - title: "Tally of facial recognition bans being overturned keeps growing"
+    excerpt: "The high tide for restrictions in the United States regarding the use of facial recognition by law enforcement might have come and gone."
+    publishedDateTime: 2022-05-09T20:17:00Z
+    webUrl: "https://www.biometricupdate.com/202205/tally-of-facial-recognition-bans-being-overturned-keeps-growing"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 39
-  - title: "Machine learning as a Service Market Top Industry Players Analysis and Forecast to 2030"
-    excerpt: "The global machine learning as a service market size was valued at $13.95 billion in 2020, and is projected to reach $302.66 billion by 2030, growing at a"
-    publishedDateTime: 2022-05-12T08:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-market-top-industry-players-analysis-and-forecast-to-2030"
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Rising Crime Prods U.S. Cities to Reconsider Facial Recognition Bans"
+    excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers,"
+    publishedDateTime: 2022-05-12T15:12:00Z
+    webUrl: "https://thecrimereport.org/2022/05/12/rising-crime-prods-u-s-cities-to-reconsider-facial-recognition-bans/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
+        width: 720
+        height: 393
+        isCached: true
+  - title: "Facial Recognition Market And Its Amazing Applications Across Industries Trend | NEC Corporation, Cognitec Systems, Aware Inc"
+    excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
+    publishedDateTime: 2022-05-13T10:56:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-and-its-amazing-applications-across-industries-trend-nec-corporation-cognitec-systems-aware-inc"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 33
+    quality: 12
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market Emerging Trends and Competitive Landscape Forecast to 2031"
-    excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
-    publishedDateTime: 2022-05-10T08:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-emerging-trends-and-competitive-landscape-forecast-to-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Business Intelligence Market Trends Forecast and Industry Analysis to 2030"
-    excerpt: "Another factor which is expected to be a high-impact trend in the near future is the advancements in artificial intelligence. Companies worldwide are estimated to incorporate artificial intelligence with business intelligence solutions for sustainable growth."
-    publishedDateTime: 2022-05-10T06:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/business-intelligence-market-trends-forecast-and-industry-analysis-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/60465b83490cdff2f7eddb64a71e08f8aa46470b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
-    excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
-    publishedDateTime: 2022-05-10T18:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2025-2022-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-  - title: "Artificial Intelligence in the Education Sector Market Future Trends and Opportunities, Past, Present Data, and Deep Analysis by The Insight Partners"
-    excerpt: "The artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly"
-    publishedDateTime: 2022-05-12T11:47:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-future-trends-and-opportunities-past-present-data-and-deep-analysis-by-the-insight-partners"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "HEART + PAW, A PET VETERINARY, GROOMING, AND DOG DAYCARE SERVICES COMPANY, RECEIVES NATIONAL AND LOCAL RECOGNITION AS A TOP EMPLOYER"
-    excerpt: "Heart + Paw pet care, one of the fastest growing veterinary care, grooming, and dog daycare center groups in the country, has received both national and local recognition as an \"employer-of-choice\" and a Top Workplace,"
-    publishedDateTime: 2022-05-09T16:07:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220509PH49858/heart-paw-a-pet-veterinary-grooming-and-dog-daycare-services-company-receives-national-and-local-recognition-as-a-top-employer/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1812727/05_09_2022_GPTW_Press_Collage.jpg"
-        width: 400
-        height: 320
         isCached: true
 
 secured: "oTFxvvprCI7c8QxfJFwK7dbHdCqqp/n470Y4UfnbNMObCiifR9zFo5S83PYtjZemJVlnBl48PzXyZToluN80g4oAGciAuiirpHLaKl5LMqcVvomnOFvnS+lWNSKkVSEA4DBOB4ajI8wnFfFYuvE20jtUnZUvWrvuTUPCQrbBclaWIWdQoo+M0ryNJm/23qsnf5EZfhHpzHAVmOLUuYoPRfgfLmIP/7+3wD24Pu1DRUl6SfjmC6pU5n4sI18FLSNqmPnAq/qdfcynqYGLsOKflC9AcAqB1MI+cgi/e87NraHD1ipHt1cZ8cO+UNwy42O5cB9L1Y+2fnQJpMjgPM/FqPytgqgcRZ/Z2k/opyrzOmif2aEc2XHK7GqxNEGQNqe2C+RiVljltvKXNAgU24PAsQJo6l7ow5j5BhmQI9uLjZGqn8zts428AT6rdErV0ntnHywdIplmn/FzsuzGDTuGUB1cM5wVu2NA4mZ1pNYlAqGOY+miJxcFIW6+kleEhvVwPtBnmGaB8fw8Xz405chq+A==;ERTprYmEZpPWG8+QlvyxFQ=="

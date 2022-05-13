@@ -59,6 +59,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "U.S. civil rights enforcers warn employers against biased artificial intelligence"
+    excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities."
+    publishedDateTime: 2022-05-13T15:13:00Z
+    webUrl: "https://www.ibj.com/articles/u-s-civil-rights-enforcers-warn-employers-against-biased-artificial-intelligence"
+    type: article
+    provider:
+      name: Ibj.com
+      domain: ibj.com
+    quality: 47
+    images:
+      - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used hiring tools could violate civil rights laws."
     publishedDateTime: 2022-05-12T16:20:00Z

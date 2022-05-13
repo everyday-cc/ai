@@ -1,30 +1,29 @@
 ---
 category: news
 title: "The 1997 chess game that thrust AI into the spotlight"
-excerpt: "LeCun, one of the founding fathers of modern AI, lists among the achievements of today's computers an ability \"to translate any language into any language in a set of 200 languages\" or \"to have a single neural network that understands 100 languages\"."
-publishedDateTime: 2022-05-11T07:46:00Z
-originalUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
+excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just"
+publishedDateTime: 2022-05-11T03:22:00Z
+originalUrl: "https://www.rfi.fr/en/the-1997-chess-game-that-thrust-ai-into-the-spotlight"
+webUrl: "https://www.rfi.fr/en/the-1997-chess-game-that-thrust-ai-into-the-spotlight"
+ampWebUrl: "https://amp.rfi.fr/en/the-1997-chess-game-that-thrust-ai-into-the-spotlight"
+cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/the-1997-chess-game-that-thrust-ai-into-the-spotlight"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: RFI
+  domain: www.rfi.fr
 
 topics:
-  - Natural Language Processing
-  - AI
   - Facebook AI
+  - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
-    width: 1024
-    height: 682
+  - url: "https://s.rfi.fr/media/display/8d85bdb4-d0d9-11ec-b745-005056bfb2b6/w:1280/p:16x9/ef03b654b9dbbe37dc8ba22419f3817482766d3d.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -70,6 +69,6 @@ related:
       domain: jordantimes.com
     quality: 21
 
-secured: "xhQksKfgG2ftw255NQq7WLdxlvqxAhBEeqJx94ZR228BrHS8L9rrKY1loFvdLOeJqg0oiwtuEaWRvAKp0aVHoqrtnSK+2yqAH2QY186KaeSZsyv2evcKg73fwu6jlzSv64m3gLLTE5v+GAg2K4fQ2vsGCWqqXaVd3BbDSPzHP19JO5F88xTlEK1gh3ChiGGQ/DEWER6P/szJsqiLDqxCCMx2VtVx2D3FsUP6J8GWllDUgnNJNS3iYIsHtgEc6Cojkw2g/3cs42k3PSvydy7073fXzTJsx7Njyqbla9Qz8lH+ghgQq0eEp4rYgaC716U8VbNTeryuQaC+vqdboBWuDbbRZuK+Ncp5O5WGDQNDMMHAPv2FfNN21xKmdVrnHa6FeuoyZzr1ni1pW36kjbF699RQc34srHIR6PEhgm0C74fkXNIhUWez4BjdpSxdraqHocZAjm09BweXFgRJ9vN9n5dJzAwsbcZ0PAC3elb4TkepXy40qFtzGGft4GhAebGj1e9VD01wDy01KSulJ94igw==;txPf4VtJMSntAURXRFSauA=="
+secured: "ikVHqmF2a3BYPJJ2NJEuOpDk/oALcVHyaErtjfACtaMLhIaDMDouL0Wv6gB0abHJInn7cTyD5u3t5Br0vVPiRS0CC+44pS1KdsKfmL6UPsVv2QPWGzi6CCeYC1iAnpleCtkVkVmp1RhzAACWsoj1zVTZF2x1dezvImezS2dvhCAMo1cPTlkwgOO3aJv+w58yXdS0ncOHRBamSPBeh65IvlAdD8dy6rBGlbPPwwIig2dKudhXHRmoJ5PFBcx8wQq3QbF900lzvqk7XaSORLqLw9+0cTN25p8DijTP2xdDSpWbpJaSsg+MUqRbaQ3SZ4WRLkFv9D9g4ujNApgjM54WXYsxkXYkz0pIU0wR++H59Xg=;/yF6wpnPRl4s2h0r3UerdA=="
 ---
 

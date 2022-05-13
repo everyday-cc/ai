@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T13:42:00Z
 originalUrl: "https://globalnews.ca/news/8832700/ottawa-rcmp-lawsuit-clearview-ai/"
 webUrl: "https://globalnews.ca/news/8832700/ottawa-rcmp-lawsuit-clearview-ai/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Global News

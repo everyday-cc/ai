@@ -47,20 +47,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Future of Health- New Age of Virtual Reality (VR) in Healthcare Industry"
-    excerpt: "The waves of technological advancements have touched the shores of many sectors and businesses. Artificial Intelligence (AI), Virtual Reality (VR), and"
-    publishedDateTime: 2022-05-09T07:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/future-of-health-new-age-of-virtual-reality-vr-in-healthcare-industry"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6b0cacb0dc52a482f031fd2e48e48717cbb24b5e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "B+Z/FxKJLg3suxYCISEAH1MKmbvMbI/G7swWS1aoP9lKCmjbbnc6nL3FIE9OSI2Ngj0P6a7VC45NlTjIJvCZGvlo66BlBTPPIiRTafW/5KNdMOrdw6gfiRNJhMP4jxNC7Hc0iwxsR7ZiKVX8nNQc1R49RPZxGbMePBxCOiYcSTvCPBkzgeVWoi9BJpG/1NJCm4htNYJ5lD9Oyi53ig5cycPcjYKBlK2jf/cN4L9eiVBP0WhdbDKY8DNutfXYEHVbFhHZbXPPhJuZiDYF1ndQLkp0mJF6qqVjya8GIVqTaDfIYkQv+j31qlWBRyo3TjHja8lXvJaJ5kWMDMlJwYV9QL9Jn0e1vSjPwlVi712H5sU=;NfxCX7VAPrsIXmscruCt2A=="
 ---

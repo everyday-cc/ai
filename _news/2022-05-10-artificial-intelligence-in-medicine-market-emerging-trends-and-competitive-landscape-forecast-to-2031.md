@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Key Companies and Analysis Top Trends by 2030"
-    excerpt: "Snapshot The global facial recognition market is projected to register growth at a CAGR of 15.4% during the forecast"
-    publishedDateTime: 2022-05-09T11:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-key-companies-and-analysis-top-trends-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence (AI) in Medical Market Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast"
     excerpt: "Global Artificial Intelligence (AI) in Medical Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Artificial Intelligence (AI) in Medical Market Report also covers top key players,"
     publishedDateTime: 2022-05-10T18:29:00Z
@@ -59,6 +45,20 @@ related:
     quality: 33
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence (Ai) In Food & Beverages Market Strategic Assessment, Research, Share and Global Expansion by 2030"
+    excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai ... client base present over the enterprises of medicinal services, healthcare, innovation, next-gen technologies, semi-conductors, chemicals ..."
+    publishedDateTime: 2022-05-13T09:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-food-beverages-market-strategic-assessment-research-share-and-global-expansion-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
         width: 600
         height: 337
         isCached: true
@@ -85,34 +85,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 18
-  - title: "Artificial Intelligence in the Education Sector Market Future Trends and Opportunities, Past, Present Data, and Deep Analysis by The Insight Partners"
-    excerpt: "The artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly"
-    publishedDateTime: 2022-05-12T11:47:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-future-trends-and-opportunities-past-present-data-and-deep-analysis-by-the-insight-partners"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "HEART + PAW, A PET VETERINARY, GROOMING, AND DOG DAYCARE SERVICES COMPANY, RECEIVES NATIONAL AND LOCAL RECOGNITION AS A TOP EMPLOYER"
-    excerpt: "Heart + Paw pet care, one of the fastest growing veterinary care, grooming, and dog daycare center groups in the country, has received both national and local recognition as an \"employer-of-choice\" and a Top Workplace,"
-    publishedDateTime: 2022-05-09T16:07:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220509PH49858/heart-paw-a-pet-veterinary-grooming-and-dog-daycare-services-company-receives-national-and-local-recognition-as-a-top-employer/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1812727/05_09_2022_GPTW_Press_Collage.jpg"
-        width: 400
-        height: 320
-        isCached: true
 
 secured: "4HFb8lGXoB4jEkCX2xKbW7293vjgysaKh4rmkLrm/axELODBD4kZXwHieR//W3rRQgzVjIwsGpFMo+8kWCWFSqGhQ7jokU/tfxkDdbnCi+INq25VMJl9HHGPasCYBFQH2bhw+bbIV9yvhJnJGOlSkHaF92MMJUY/pkhaycxSgcGsbXernoRzqbWVbKmIX9G7QqBrqVAF1ZHrjwWedYsD0F67TT5pe6SI3IMeZCvdQ6odL+fcJ0gjpqdzyEJcFSXLZDgt5k28ITPxKX3JVgvd0ljDUxc5i5tm6gm77L4KFtRp/QPXI8JT6Zm1NQ86D0LxswlzDHB8Hd+iPtziEwsnDF6Z8eVt4mjGWorOSF7GB9089V2BssbBT5KfaBxsZT/rl5KMMRdtOTL7BPOc7QyTy3rrNR1Zh+fJ57nwEswFoq1eO53R9pNUBgumped8bbU2fr+hOa8ByTfE6vZKFL31HXL4yLME58zyOvgzuBliPorAszRdbQwhtZiUd/JbhkLB5Z2qepzjRVTmmQercvzlZw==;6yhK06YFpooNgo8TvnosdQ=="
 ---

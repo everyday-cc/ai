@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T13:50:00Z
 originalUrl: "https://analyticsindiamag.com/deepminds-multi-tasking-generalist-model-gato-that-can-do-it-all%EF%BF%BC%EF%BF%BC/"
 webUrl: "https://analyticsindiamag.com/deepminds-multi-tasking-generalist-model-gato-that-can-do-it-all%EF%BF%BC%EF%BF%BC/"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -14,6 +17,17 @@ provider:
 topics:
   - Google AI
   - AI
+
+related:
+  - title: "DeepMind’s new AI can perform over 600 tasks, from playing games to controlling robots"
+    excerpt: "Alphabet-backed research lab DeepMind created an AI system, Gato, that can perform hundreds of tasks ranging from controlling a robot to analyzing text."
+    publishedDateTime: 2022-05-13T12:15:00Z
+    webUrl: "https://techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 56
 
 secured: "xoOAkaaBT19WRUwkTc3HAzzyAlr9PCXdzDc+MUPM2huHG+cAJnPdQSl11inmUxZlZhE//MTQA0msfrAmHfSKUwBbsC4GCI3NfLX5l610rw1VLf6gQWmsqBfx+gnx9liVaul99PH3Ycy4+e7nqgina4yvX+de9Uj4/MDgMooJfKbkZyFR33IxcEam234/Xl5XqnKjMFBlYSUDllLxdGo6UPdKQdj3pUnvM7Ql6LU1G6s1ztHByyEf6SKHzHUZXxjvLWguMlJXHXaxWnmgL6lYuzj3P+yx7XrtppuvfzG6eA89gkDgmrL+zTGLyk5M/Lyl4WgBuIRyHvybCSefo8e0ZmDE4cvT49SmazrvOkucTTBs6VhBW1kq+QNeDGfABeCP6ZR5CyM8fXdDdYJTJoFZJug7FY0iDHk+Etq7B39AVleJFjLYIX3OhXFtVJRflYUWyG9d9wB+wN4KjlFFCep98oSNhl/UrslhnYNfdc4eDILhJrGT8EonbZ0kO5VqIz6bqauQgGniFWpm8txU6zhK+Q==;41REWz/BvVzVOHuN82MEig=="
 ---

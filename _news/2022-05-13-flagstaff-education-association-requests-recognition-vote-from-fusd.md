@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T13:30:00Z
 originalUrl: "https://azdailysun.com/news/local/education/flagstaff-education-association-requests-recognition-vote-from-fusd/article_4bce8a5a-d173-11ec-b95f-6745183181b6.html"
 webUrl: "https://azdailysun.com/news/local/education/flagstaff-education-association-requests-recognition-vote-from-fusd/article_4bce8a5a-d173-11ec-b95f-6745183181b6.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Arizona Daily Sun

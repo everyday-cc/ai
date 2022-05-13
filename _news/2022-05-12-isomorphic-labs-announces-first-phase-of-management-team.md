@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T12:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-12-isomorphic-labs-announces-first-phase-of-management-team"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-12-isomorphic-labs-announces-first-phase-of-management-team"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Daily Herald

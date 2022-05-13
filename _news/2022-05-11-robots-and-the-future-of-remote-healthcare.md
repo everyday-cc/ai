@@ -7,7 +7,7 @@ originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
 webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Future of Health- New Age of Virtual Reality (VR) in Healthcare Industry"
-    excerpt: "The waves of technological advancements have touched the shores of many sectors and businesses. Artificial Intelligence (AI), Virtual Reality (VR), and"
-    publishedDateTime: 2022-05-09T07:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/future-of-health-new-age-of-virtual-reality-vr-in-healthcare-industry"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6b0cacb0dc52a482f031fd2e48e48717cbb24b5e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "The robots are coming"
     excerpt: "Much of the region's surgical robot boom can be credited to the early success of Mako Surgical, a Davie firm that sold for $1.65 billion in 2013."
     publishedDateTime: 2022-05-12T23:10:00Z
@@ -64,6 +50,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "sJ2hpwefjlPUVortQHv+BywIcd/oahFMmD1hsslNu9gvecChxJu5xfSx0FEewg2CTst2f2vo7rayIYAsyIj2wL84XK0LP3u1nC+xF4MGtS1SrAYVnbq99VLac+MFVw/pvV0g9lgWA7dG1+XhJeQ5Ce2yyiFboigqbjnBuprqRm2+eeanWhu00qd7CTW6Q3Phon9TiLePk3AX3taNB8/AJhj54Wzpp/FsXD1bEEZWdmUORwx9O+c87RIeA+GEX8eG0EOaX0Ckw3umbKyxxhO8NWZdB3wq+6B0ZpBg8UR7wcpAd1aQGdKDMIHK5NSnqgjftGC1VMrbZb7YLig2dbymKcO5aekyqmlmBeTY4HUFmLg=;JbdFAAdXy/gYYnbHHoEK1A=="
+secured: "JgcOBitkO5s9sX1PttV8fhQGFVFrBU5/QAhfTwWQVRdyFf9lS5MRqfvoN4y1v3nrFEkVnYNxtTtJcA3ATn5YyuKUbwnxOgWsd+1L7L1AJ6o2JipgKM4meS2dc37ncOhARAl5jWpTHXY2JPpaQPAmftZ5+/PPMHnzaw8tvz1dW8X/A8C/ArXhCCXjRYbzOSL4iYnBINFLwZ1ej7DS9nUVsQDt/dXh595chUZbsN4c+lIFrsuZx78hT592cDwwYhYlns/ghVo3dIwfqKrapY4LihMdvbZxrI6Jt71n6k56JgTaWFGgUDjnjpoqZt8ZRPWLI9jY1jLiZQ6dMrUM4U78+cHFUjhMdsl2A9ZZwRA7uXJ3mENPNibpbFHnUokL52Uq6AiTRezbYBJU/kUkRCJhgQpuPaOVT0vOCwj85IUAnAFflRZ/t+VMIc/ZG9MR9ElTNqsSI6JfeDhh1f3S2cgC5i2KbziIeDmzYTciAv6nw0h6dYHQgZpMXrdXEzI7TfTD1EBHpdUhQEDs+D/zSd0cpQ==;aO9wg43VFSQxgwNdrYD+Vg=="
 ---
 

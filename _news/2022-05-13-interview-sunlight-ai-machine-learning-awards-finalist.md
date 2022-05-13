@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T12:46:00Z
 originalUrl: "https://www.computing.co.uk/interview/4049680/interview-sunlight-ai-machine-learning-awards-finalist"
 webUrl: "https://www.computing.co.uk/interview/4049680/interview-sunlight-ai-machine-learning-awards-finalist"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Computing

@@ -77,6 +77,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Google sprinkles AI on everything at I/O"
+    excerpt: "It will start out in Los Angeles, London ... Google has also aimed its massive AI brains at Google Docs, which now using various natural language processing magic can create automated summaries of great big long documents you can’t be bothered to ..."
+    publishedDateTime: 2022-05-13T12:09:00Z
+    webUrl: "https://telecoms.com/515325/google-sprinkles-ai-on-everything-at-i-o/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 37
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/05/google-io2022.jpg"
+        width: 1656
+        height: 893
+        isCached: true
 
 secured: "mnbULIfBceNaOOEmaJgqawgZkKECbRlupWaMZ/PSK5JWdSwmV3ADAUQWzDyOq7S/zybF1pW6ndEqqLhAEj3u6rciMUJdICGm8LsK09FZUZ0sECs622Q9SWxkm6Gm5SZFe8P6uajdBm/s0aCfnjFmMCKM2aRcQjhDZGKfE2Quv1ZTb9mMSJWMuJoLgEJbJNpVsDksqx+xMb7IlkTQOjCd4eBC3QxH3u3Fdg16fLDAD7/LsDeX22hBKKj5oZ+48NMYRP5ncm68GixcMRmnp7xgIKiCQCgqEhlMn7pyAf7xXJ26hb+YhY6SAojiU5U2J2VFV5nOK1us32g0qCqRIuk2HLehYv/CumyyG5SrlIBMmuBW+2dwrq4Az9o9Udsg03bX0Y5miUzWpO+ms/g/B5AIQtEojHk9MNlsoMk/A1BZETQlIefelsc9YPvzT2mrJdjqo6FHcqV2orUQbajs/rcYe1XQ1LSzJOcDX7vzBLduJB5N0GEsGc73MU6amCADJiCBuC/6BaIpote231TuLMjhzA==;ZFX5OJQ7V/rqbFgjcL4Wlg=="
 ---

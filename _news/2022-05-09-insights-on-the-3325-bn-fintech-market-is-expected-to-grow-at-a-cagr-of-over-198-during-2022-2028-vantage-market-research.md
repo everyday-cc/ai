@@ -41,6 +41,26 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "AI in Medical Imaging Market to Advance at CAGR of 36.1% During 2021 – 2031; Notes TMR Study"
+    excerpt: "Increasing acceptance of AI in medical imaging for detection, characterization, and monitoring of a wide spectrum of diseases is expanding lucrative avenues in"
+    publishedDateTime: 2022-05-13T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27188614/ai-in-medical-imaging-market-to-advance-at-cagr-of-36-1-during-2021-2031-notes-tmr-study"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27188614"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27188614"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+  - title: "Self-Driving Cars Market Growing at a CAGR of 20.3% over the Forecast Period 2022-2028"
+    excerpt: "Self-driving Cars Market is valued approximately USD 1.74 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 20.3% over"
+    publishedDateTime: 2022-05-13T12:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-cars-market-growing-at-a-cagr-of-20-3-over-the-forecast-period-2022-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "nsSEss52+DH1QFQ08oAO6ZLwdxz+a4jV8hOJVVgD7Fj23ZfHcdIMbW8b0R0YSL564au5q6A2gIuLuvFf2VyUo41ZoqOn+nAFMyqAyxVeNcAD52c3Rd7s2pxaVHEQ7vsjaMlsGBw3TqIqf/i/UDRV0Iv7TbtkZ0VSrkb0r3W3kmv7VCvLScXgiPYQ9+Ebre9oCmF1sUEa8GCo1ZouPqfVUu7jv3f2WEa4D3mGmj9iVpPY6GH23wdlti5LgLGL+AE7ykCea8sT3Ldg4OC2UA5YClPzRXxazzAir+h5qhW15hFK3gCrsvs6RwjVA1IES7stT4j/L+JTnU6TwvnpT4GVQ77VoxmTgYg9N50vmfKF4v2pnHOQxY50+9hh78/Sq77fJu+j8lAhG77N/JTctD/2ibZVUsyYVyzOX6/pc4vh4uTWEmLdz4ocndkmQXzUPIKzrYdTnNLpIrui/zy/2dtV2pa/rdDgVrfsKx07M+jTWe9fTWiqYLiIJ+4TEaE6wnlTgu6vcLMScwrDlKEYt53xlg==;nsYnFDw+6X2xK+/+7213Vw=="
 ---

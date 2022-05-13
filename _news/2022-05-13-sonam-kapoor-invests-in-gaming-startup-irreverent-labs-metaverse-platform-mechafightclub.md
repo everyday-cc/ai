@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T13:05:00Z
 originalUrl: "https://inc42.com/buzz/sonam-kapoor-invests-in-gaming-startup-irreverent-labs-metaverse-platform-mechafightclub/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content"
 webUrl: "https://inc42.com/buzz/sonam-kapoor-invests-in-gaming-startup-irreverent-labs-metaverse-platform-mechafightclub/?itm_source=inc42-sponsored-content&itm_medium=website&itm_campaign=sponsored-content"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: inc42.com

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from
 webUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/"
 type: article
 quality: 87
-heat: 257
+heat: 247
 published: true
 
 provider:
@@ -187,20 +187,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Microsoft FarmBeats for Students harnesses data and AI to plant big ideas in young minds"
-    excerpt: "Australian school students have had firsthand experience of the future of farming, including exposure to the concepts of using cloud computing, data and artificial intelligence (AI) to tackle real world agricultural challenges."
-    publishedDateTime: 2022-05-08T22:20:00Z
-    webUrl: "https://news.microsoft.com/en-au/features/microsoft-farmbeats-for-students-harnesses-data-and-ai-to-plant-big-ideas-in-young-minds/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 45
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/66/2022/03/SMMC-FarmBeats-_2_-scaled.jpg"
-        width: 2560
-        height: 1153
         isCached: true
   - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "The joint technology and go to market agreement will help customers accelerate their digital transformation initiatives in the cloud"

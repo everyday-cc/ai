@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/google-io-conference-art
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/"
 type: article
 quality: 77
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Google sprinkles AI on everything at I/O"
+    excerpt: "It will start out in Los Angeles, London ... Google has also aimed its massive AI brains at Google Docs, which now using various natural language processing magic can create automated summaries of great big long documents you can’t be bothered to ..."
+    publishedDateTime: 2022-05-13T12:09:00Z
+    webUrl: "https://telecoms.com/515325/google-sprinkles-ai-on-everything-at-i-o/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 37
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/05/google-io2022.jpg"
+        width: 1656
+        height: 893
+        isCached: true
 
 secured: "0gh3tkVhGRuJ1RHSV+wg6wRp+2buFgQX5c5OV1CnB0bJkO+UDi9HDDkm34jOEC7TfeF+ELsg6gN3rNkcfqtbtOaItitmP9ig6F5ikPIK0DhMNsAWir3YM3vwttod2+Z1iX4vup75VxW27IlbTPw3dGEc93vMmJfdI/A3c+WRiNaXAe/rVQEzyGjVcLDmAVkCJt30zFwsMWusHZKixg1PUcS/TVfCQk6sBEVOtgzKKdwiGj6GBPjpGkux9J3t4SGotlJ0ZfBwvOX9B7MtLI3JetGQRkeRz3YJk9+vEXPT43LgqO633KZXg8K5IOn+4+AHuWdEI6iXMiq9RtUKbJC17youylXvDkmVJt79d6ed9ng=;EhuW4mml7oIxd8OL+myrCA=="
 ---

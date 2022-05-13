@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Why This Surprising AI Leader's Future Looks Bright"
+    excerpt: "Here's why the unlikely contender is becoming one of the world's most important AI businesses. Throughout its 180-year history, John Deere has built an impressive brand as the premier manufacturer of farming and industrial machinery."
+    publishedDateTime: 2022-05-13T12:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-this-surprising-ai-leaders-future-looks-bright"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "How will AI affect the future of FinTech in India?"
     excerpt: "Artificial intelligence (AI) is also being used by financial firms to enhance security and transparency in systems for payments"
     publishedDateTime: 2022-05-11T12:35:00Z

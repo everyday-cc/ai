@@ -34,6 +34,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global AI in Bio Pharmaceuticals Market Analysis Report 2022: Technology Landscape, Competitive Landscape, Business Overview, Key Take-aways"
+    excerpt: "The \"AI in Bio Pharmaceuticals\" report has been added to ResearchAndMarkets.com's offering. This report forecasts a considerable trend for \"AI democratization\" where various machine learning/deep learning technologies become available in pre-trained,"
+    publishedDateTime: 2022-05-13T13:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-bio-pharmaceuticals-market-analysis-report-2022-technology-landscape-competitive-landscape-business-overview/article_4bb7721b-42bb-577f-9c44-32832d7bb35a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 2
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "IQ2syRVmP7Rk6+8RsyHXu9QDdzuIyhojCkq06KdFDdyI2+oItyc1m7aQY+Ajb8VY13ax2KwZ0enNpSYb4t3oRXXrkl3OZ3TftWpLWZEuR8IYS+peJOr6LWMh2p89GTamDi9Zd6gRHB2ZJAE9I2fiG/UTVORy3tR9CqrPEneSjcPZFhejmdlv99Ef+cPVVZeVOgSExS2tArh8dt9LqGykv5Su1s2K+anIKoxDFt6VY8Wh2XPCSTlTPrkewOQ3iSgVxEq1MkgPZuOgyuymhO7BrBR3bDIEvpC4zGroVX1G+kBhJ/vndg4OvwAuWZb7jZn04pWtQsTzlX7pksngjvr665Rk3bMnRQLCpXpprvMnKDWiE4UiFHKbB/mW7MZ/YDBpVLp7bvjunV1FiHmAeUuoggi6LQcE8i3FO6USrPXW6zhnGrH1j+kw6bBGsFIpaYAVindE3GXSCt715pVNtAmdVCbkbz2WmvQ107HR0blUrHNf05yFXEYISHnNqdprJoNXgF5YsD0uKXKu5W67DzmD0g==;C4Z9HoBrRYuXO7GwXTtcxQ=="
 ---

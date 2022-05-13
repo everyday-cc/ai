@@ -7,7 +7,7 @@ originalUrl: "https://ktla.com/business/press-releases/cision/20220509PH49858/he
 webUrl: "https://ktla.com/business/press-releases/cision/20220509PH49858/heart-paw-a-pet-veterinary-grooming-and-dog-daycare-services-company-receives-national-and-local-recognition-as-a-top-employer/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,96 +23,6 @@ images:
     width: 400
     height: 320
     isCached: true
-
-related:
-  - title: "Facial Recognition Market Key Companies and Analysis Top Trends by 2030"
-    excerpt: "Snapshot The global facial recognition market is projected to register growth at a CAGR of 15.4% during the forecast"
-    publishedDateTime: 2022-05-09T11:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-key-companies-and-analysis-top-trends-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Market Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast"
-    excerpt: "Global Artificial Intelligence (AI) in Medical Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Artificial Intelligence (AI) in Medical Market Report also covers top key players,"
-    publishedDateTime: 2022-05-10T18:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Machine learning as a Service Market Top Industry Players Analysis and Forecast to 2030"
-    excerpt: "The global machine learning as a service market size was valued at $13.95 billion in 2020, and is projected to reach $302.66 billion by 2030, growing at a"
-    publishedDateTime: 2022-05-12T08:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-market-top-industry-players-analysis-and-forecast-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market Emerging Trends and Competitive Landscape Forecast to 2031"
-    excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
-    publishedDateTime: 2022-05-10T08:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-emerging-trends-and-competitive-landscape-forecast-to-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Business Intelligence Market Trends Forecast and Industry Analysis to 2030"
-    excerpt: "Another factor which is expected to be a high-impact trend in the near future is the advancements in artificial intelligence. Companies worldwide are estimated to incorporate artificial intelligence with business intelligence solutions for sustainable growth."
-    publishedDateTime: 2022-05-10T06:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/business-intelligence-market-trends-forecast-and-industry-analysis-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/60465b83490cdff2f7eddb64a71e08f8aa46470b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
-    excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
-    publishedDateTime: 2022-05-10T18:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2025-2022-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-  - title: "Artificial Intelligence in the Education Sector Market Future Trends and Opportunities, Past, Present Data, and Deep Analysis by The Insight Partners"
-    excerpt: "The artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly"
-    publishedDateTime: 2022-05-12T11:47:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-future-trends-and-opportunities-past-present-data-and-deep-analysis-by-the-insight-partners"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "BFSyTtrTuXhgwh+uvMAGwdTOtrGFhf/Tw5y8H9Cs55NzGbAz0Z+KC/0UhoJ5l8p0jMNhsi1WL2fVMeggdJ2XdQl4XnvYvEEhLpBNJtvxG454jfXfj+u3CuXeysWSEeyajfdHwKBBUNIepOhk/7/nNhaKcDMLi2FoE66+fVgaGWfIUP+zHSEECtGhFUsjWjl0WhNPh4BkEADdifX+EQS5rEv/lDDoKFHkv+HaZkCxUis9PGPtPMq6mlhc0C1DweZbC8TWxN5yWw+FjQDYruXoUNWwHhuZizHYZjyVAafwAxMlkHNK35sdc7VIIOf0RXNJuvkcurKfDGcqHB+J6MozzPQXZcppNCDpPJPom6XuxCjUPz1IhR+6Rfl8MknED8ZlkM9sl17Fv2vRndcDQKHFAR9l49Nc+3Qye8OVVQjGsK5lFlTIBBiIVbRvRsTblktIVACRPX10CA5Ij3ugsJI6+EWPlXUJCHZaSA40p40C74Odcf//3bQMAl4Dd+xD4g6sXcfYHb9EAAijDDhdif+HDQ==;63YDo+wzFCygj3MF9koFJA=="
 ---

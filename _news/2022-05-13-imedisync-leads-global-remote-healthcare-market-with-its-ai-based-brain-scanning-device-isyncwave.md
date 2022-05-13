@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T13:07:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-imedisync-leads-global-remote-healthcare-market-with-its-/2022/05/13/9601828.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-imedisync-leads-global-remote-healthcare-market-with-its-/2022/05/13/9601828.htm"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: TMCnet

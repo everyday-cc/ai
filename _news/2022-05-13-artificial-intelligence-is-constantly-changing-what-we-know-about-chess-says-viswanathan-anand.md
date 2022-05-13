@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T13:49:00Z
 originalUrl: "https://www.cnbctv18.com/sports/artificial-intelligence-is-constantly-changing-what-we-know-about-chess-says-viswanathan-anand-13477092.htm"
 webUrl: "https://www.cnbctv18.com/sports/artificial-intelligence-is-constantly-changing-what-we-know-about-chess-says-viswanathan-anand-13477092.htm"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: cnbctv18

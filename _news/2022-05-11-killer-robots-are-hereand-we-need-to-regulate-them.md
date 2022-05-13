@@ -39,20 +39,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Future of Health- New Age of Virtual Reality (VR) in Healthcare Industry"
-    excerpt: "The waves of technological advancements have touched the shores of many sectors and businesses. Artificial Intelligence (AI), Virtual Reality (VR), and"
-    publishedDateTime: 2022-05-09T07:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/future-of-health-new-age-of-virtual-reality-vr-in-healthcare-industry"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6b0cacb0dc52a482f031fd2e48e48717cbb24b5e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "The robots are coming"
     excerpt: "Much of the region's surgical robot boom can be credited to the early success of Mako Surgical, a Davie firm that sold for $1.65 billion in 2013."
     publishedDateTime: 2022-05-12T23:10:00Z

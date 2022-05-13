@@ -52,6 +52,15 @@ related:
       name: WebMD
       domain: webmd.com
     quality: 19
+  - title: "Most Patients Have Positive Views About AI in Medicine"
+    excerpt: "Most patients have positive views about the ability of artificial intelligence (AI) to improve care but have concerns about unintended consequences, according to a research letter published online May 4 in JAMA Network Open."
+    publishedDateTime: 2022-05-13T12:35:00Z
+    webUrl: "https://www.physiciansweekly.com/most-patients-have-positive-views-about-ai-in-medicine/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 17
 
 secured: "rcy+uQp6iW7ZFqzacJyOJqpqeTuY4dnTJuAShMxpOVgDjiXtbp+E4Un2otIFIczc5OUDrmV9FeMnvWkolfTRoRZlGUPyhwUD//R/x2M0KVYD/TEzciFD3lRp7gNXgUw5qrmmFY0tbvnCSCD0AM7zdQIB5nnqlNai2mR3PJUb9V72hqVD4yj2y09CW91KMugB+DucAbX1IQSHw66JFiNE2Tq0rT3DHwyLpk+OjByXQCf1gryVK0NYqq5QItkS20/6ItfmEwkOrKRzsaZ+Wn0nuGfXASLV4SnNJblwOomqYeHJhWwEVluxWTWTzxodA2MCow8qc53dE08AYeZc5el7lz4UxFbKUr/7v7JOFGmIy+g=;soWsR+qsp+BzuUrTbbJgAg=="
 ---

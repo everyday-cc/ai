@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T12:21:00Z
 originalUrl: "https://www.digitaljournal.com/pr/pangeanic-breaks-down-language-barriers"
 webUrl: "https://www.digitaljournal.com/pr/pangeanic-breaks-down-language-barriers"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Digital Journal

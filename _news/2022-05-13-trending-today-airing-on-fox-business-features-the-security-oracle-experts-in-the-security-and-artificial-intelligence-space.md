@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T12:15:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/trending-today-airing-on-fox-business-features-the-security-oracle-experts-in-the-security-and/article_99a43e4c-70bf-534f-8c30-7702b27e6d0c.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/trending-today-airing-on-fox-business-features-the-security-oracle-experts-in-the-security-and/article_99a43e4c-70bf-534f-8c30-7702b27e6d0c.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: WFMZ-TV

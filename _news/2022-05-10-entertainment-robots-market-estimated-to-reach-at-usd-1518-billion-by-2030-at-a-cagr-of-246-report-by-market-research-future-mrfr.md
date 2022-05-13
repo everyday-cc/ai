@@ -41,6 +41,20 @@ related:
         width: 537
         height: 302
         isCached: true
+  - title: "The Delivery Robots Market size is expected to reach USD 957 million by 2026 from USD 212 million in 2021"
+    excerpt: "\"Delivery Robots Market\"Delivery robots market size is projected to grow from USD 212 million in 2021 to USD 957 million by 2026, at a CAGR of 35.1% from"
+    publishedDateTime: 2022-05-13T15:05:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million-in-2021"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "GRKMumhtG45PmQi1SgyYY8ccQQNNGxn8tCNsbXUQJaaZIf/ehJu3x4xL8OiVtH50wLE97/c7X17vGMaBc3kAxYope99x0H142hiqNM3bcptyTA25YgHkXIGmVHJTQPirobt2+eiHWPW6+dq0930guXTDnssJ+espACzmpV4XrSvo/yxlOygHiXwPFgF7on5UL27LZfk95mcpm/sP8py/plQDVBibt0xWaxOGFGwxlsV29bfMctBL4QxZMpKWP0W3ucWRJeqkCCs114HOV5BRSinM5hnyWLyhiihG/u75RRDH8EvBC/pK+Pd5zuA7wNJe7Pt9iVvey3oD9BHHB/kW2BbFxHqimu+PTi5b9E5CmnwiIFDlrjLzremsK2/+JWsCUngHi1ytMijzjTI+/rDw8/O2Hx5wNmwu4ynP4zKDVJGgfyVkZ4kKyOFCk4+rhtgY4Q2pQIZ6N8+BKg4T3tFU7JWjjfRlU0lmRa7AzKECNGteLvMqQGx34pbVvIocmuDLs/ehZynLB0nxs8CaHSIN+g==;YXLKZ6lP09qFGOGXbTtNCg=="
 ---

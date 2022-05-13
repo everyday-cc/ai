@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/intel-to-launch-sono
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/intel-to-launch-sonoma-creek-named-computer-vision-software-2022-05-09-775177"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 360
     height: 202
     isCached: true
-
-related:
-  - title: "Report: Intel's Looking to Sell Computer Vision Software"
-    excerpt: "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products."
-    publishedDateTime: 2022-05-08T21:18:00Z
-    webUrl: "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1"
-    ampWebUrl: "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
 
 secured: "PAJnDNNxvn++kL9bmS2SNe/iHM2buZmsuNGc2imtRE+9pdl5BrexTMgoxQgBZYsgxHwK0/em9hpAaslsRLHYkB4MjI53VaWTDbt5iTnIQtyYb/CBUlgosBj2kV1kOjMgn4eOvFNXyZHMZ93QcpyqAWtJo13ODPa7BYo+9HKXayH4lwDJGI+uakMLNJ6ppD8s2KCJIIDp1ph1Tp6OijEX4G1vT563gAdIZazRegoVTWA+78CQ3FxxOMaVzUNjUNtmWRiV00MxaXUJLT3SJzHjY5tVfalyW/ITuQPaOH75GlRvhc9ukZB5mIpUGjHp0ZQ8kmlsjvWskB5DvgxcPhoaSVONYXvhgPqI+W2/9AVvM+yVzw5I/WxO3VN8fGeptONWxFpMUBq8L2G2U/yRit1EkTHwRvTp5sja8wgaq1XZgaUJMxgQ/ZGRoyzUn9FQdyIbYvr894RYM2P26A/Lpq+T03hzd+xxTgFMU0m6YOENP/Xk4/vzE1Wuv1lhMKlz+LPSRBcFtUo6sQAYaIydyx/pMQ==;4b9BhHJTsfOebemCfONe3Q=="
 ---

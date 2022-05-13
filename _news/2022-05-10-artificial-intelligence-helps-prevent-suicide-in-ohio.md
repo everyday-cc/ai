@@ -2,19 +2,27 @@
 category: news
 title: "Artificial Intelligence Helps Prevent Suicide in Ohio"
 excerpt: "CareSource, a nationally recognized nonprofit health plan, announced today a collaboration with Clarigent Health to bring Artificial Intelligence (AI) to behavioral health providers in Ohio. Clairity,"
-publishedDateTime: 2022-05-10T16:39:00Z
-originalUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
-webUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
+publishedDateTime: 2022-05-10T15:42:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: Kxnet
-  domain: kxnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "ZvqQlfv8EnccIBkyfa/JeBB9Cwy/nWRZOvnhJnlkBpvGtjR9UqOXuvdUkaGcaVrC+ASsmsdcurzzxWz7NuxhK4v2GgglvvbQ1VXJYkoti8XePvKg+9aqCERI9LcEvvFsZdUXzgO+0ffx7I0UqU9g3mtvkq6eyrg77Oqi+n/dCFO06NcNWDhOzBIjZX8dcxyziNLjx/32SP/xdomvlpV9XbeFHRE78mdj8/j5j2u1EuLiHj7ULxkOfj9rh4hGA8Zyou1EkyjvhhhXKoIDtYVkrQwJNFD0BoSarL9kkYG5LTIpBBaukb4jvuCf887l3OkgU6lo8wCxru9s8o2ta5QU1OS4yAgWLnt4uSsJL4g9Y2U=;QKdFMrpZAhFh9JdueIf54w=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "+PwMrCSPRZ3sAiSIt4Nh6uTD+eT7V7eh9xZh7ayhJcTPHgjtKo4lgeOBNw6ab0ZRPokF08zxOL+NIeA18GoqVbDr+4j5peeeLIPztl1dlDZUmJDIu+NYEDvTnmKQGWPa3cjP9v+J3tK+kVutiDOGKiq+J2LUa5NckxnLFQs/2szhXWxA8zBu9kwMpVqUXKbC3b9gTBtyAHr9heMCYmld7nRB3a8am08ttXapjsL1FDHbx4EK1Sluu1NQSTQbDzEesnG2Kw0tSLTlp27t4YAO44RBRSYewwh9EEVhXmrKaVMF79L59KnjmPWTxG+2YxJ3sF7Zw1IEp8YEMgWYKGICzl23YaEu1z9Yxvg/haMJXNQ=;5Isl+IffZ5ZdFQcTmmbcQw=="
 ---
 

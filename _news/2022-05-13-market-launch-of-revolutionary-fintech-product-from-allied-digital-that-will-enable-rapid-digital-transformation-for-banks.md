@@ -44,6 +44,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Fintech Market [RISING TODAY] 2022 : Size, Share, Projections & Future Opportunities Recorded for the Period 2030"
+    excerpt: "Quadintel published a new report on the Fintech Market. The research report consists of thorough information about demand, growth, opportunities,"
+    publishedDateTime: 2022-05-13T13:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/fintech-market-rising-today-2022-size-share-projections-future-opportunities-recorded-for-the-period-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "wBDu1K7nwkUK03xkgt9JQUQyqo3w5YkcyNrhMTG4j7Li0MhKzu1JtbP6n7+n5WVgbebI5uGOxJArF58D6ecv1h7Nu4S9yAi4r+gLsxJUpajiMZXnCoztHWiTuXhsgsMFouR6AnsHDqHZHM3X5XtooujDwbW8VRzDHIbO98e/ftyWAU6wzgD2Aml652mQ4mT+tqCUpoJ6yjaMRDx5LTsGjSWTblvxo1bI864tlZb13VUuNFoGvDc1+qP6GHJYDXvwFo0yEanKT+dFBhmfkgw7PU7PTLKhD2G7UvpqxQMvIbm2MQDGWPtR9D8r1JeUzIS7VYOPw0iR16RixXvmWCXfxLRjvq05HJV4KejnadoI82g=;eJVXiPI0ATlKhxCSiJiPWQ=="
 ---

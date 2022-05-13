@@ -65,6 +65,17 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Multiple Disruptive Technologies Meet in Fintech Space"
+    excerpt: "That’s a longer-ranging positive because the applications for other disruptive technologies in the fintech world are immense, including the boosting of efficiencies. “Automation is not a new concept to AI, but combining AI and blockchain can allow for ..."
+    publishedDateTime: 2022-05-13T14:16:00Z
+    webUrl: "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space"
+    ampWebUrl: "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "MdGnprBj9POofZQGdnrOjPyWAw9sbCtDCLxpCJMqPtul6PYJDxh197eGJG+GCQyqmH3z7CptDz8yoHvnqvbVtRfEKyKyMjsdFiF4GQ3tXHPmRyFop1Qnq5k6TPdTnpefQlXQcEgNszXwVR1G/FnW4nWJcAN5jWc+xwGric/lA8HElqaX+pEQSki4PJMUNzY4+9hfwuqeofohpAhEfVYSmH4cNjP7UQ3uiIntuQJqAqPZEK67bmlW90u1GS62yJjEcudPe6FcAxxDIQYZpILonzseWE9Yicg/Lwx3peueRCoLSFRJXEk2avUuR/72hS94RC2w1bmbJKdAndtVpUvJ7p9T/RJr9Myn1iSY6ZhDAFc=;AbGFu4AlRGEM1XEmJ4lM7Q=="
 ---

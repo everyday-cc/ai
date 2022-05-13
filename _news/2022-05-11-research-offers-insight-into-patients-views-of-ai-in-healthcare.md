@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220510/Research-offers-insig
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: WebMD
       domain: webmd.com
     quality: 19
+  - title: "Most Patients Have Positive Views About AI in Medicine"
+    excerpt: "Most patients have positive views about the ability of artificial intelligence (AI) to improve care but have concerns about unintended consequences, according to a research letter published online May 4 in JAMA Network Open."
+    publishedDateTime: 2022-05-13T12:35:00Z
+    webUrl: "https://www.physiciansweekly.com/most-patients-have-positive-views-about-ai-in-medicine/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 17
 
 secured: "0ApdMZQiL9iSPNIyFrruLZQz6YRh7K/J8cWKXAvt+VP194WPfFXe74ab2X0nqYUBOGALkCMszikuO46vb17fh1tIn6fllKVSRLfj/qNzRuT0TPjWZD0Swb1Fqjt0xaWLukIo8ngyuFHmzjMEwA7rNfyI5snrXcSFHsi4pcTvXQvT1hDLxJ7+uoshKvrvzn39D1pufPAat8f9eKAfJ4YzMt5ykUhAbjT0/rQbwSFvMTLHY7PIRPvln7pLMh3xMcEO3/rvumkg/gInvuhBZeHqiGaeZb1SUAF5ATvJ4nVJeXz0nsX5wwJyXjRQ9+23Cb8R6keystTaHdYVYNsjsT3wWgHyKgV/JJHywNNfAvWly0k=;R6kRr0LGsF/Ruc4SzXXVTQ=="
 ---

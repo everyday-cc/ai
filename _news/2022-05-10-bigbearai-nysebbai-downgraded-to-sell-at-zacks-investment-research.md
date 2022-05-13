@@ -41,6 +41,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Kiromic BioPharma Reports First Quarter 2022 Financial Results and Recent Corporate Highlights"
+    excerpt: "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (“Kiromic” or the “Company”), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence (AI) and data mining platform to discover and develop cell and gene therapies with a therapeutic focus on immuno-oncology,"
+    publishedDateTime: 2022-05-13T12:08:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-30ce6c45ac424dae9652f7c7d06dac34"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "HGTukhsOu2Q9cGHW75qu1xYTtYNrzaxsY88d6HiFEg2crKv9It69YqeMv8C7ZNukBo4yzjLjmHo6oCbex+Ojco3nWddooxcwZrfi8J6JR7KA/4t9MQJGHAtqF0+8VBxGefaAr7K+K033AYln0DaxAjHLwxHuDEMGqQzaJFpS57zCjcFba+e1BO4nvsHO7ZajElBdggXV6rkotAO0f+tQTg+jH5fJ2RTqBaffO/iIe9T33tHP1ahsJyxsieZrvcN7zLtJluWY3vaG6F6nnyFi5WlPICInkyY/qMSAJUjcdK45lnCWcG7YYCETnkhXXBC/0VVV7WciTAhrRVU09ZMgUEEhyULPuzj0xZV2KnLIkrw=;KmFxnF/Dv978WaKhljcI+g=="
 ---
