@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars could be potential crime witnesses"
+    excerpt: "The police in San Francisco see camera-laden autonomous vehicles as potential witnesses in their criminal investigations, setting off alarm bells for privacy advocates, VICE reports. Why it matters: As Axios has reported,"
+    publishedDateTime: 2022-05-13T10:00:00Z
+    webUrl: "https://www.axios.com/2022/05/13/self-driving-cars-video-police-witness"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/m4u-MAElTIBPb-hJwhc8fpNj0dw=/0x0:1365x768/1366x768/2022/05/12/1652381213625.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "These 3 technologies could make self-driving cars safer"
     excerpt: "With autonomous vehicles already operating in several cities, technology companies are working on high-definition maps, better artificial intelligence models and remote control for fleets when needed."
     publishedDateTime: 2022-05-11T18:02:00Z

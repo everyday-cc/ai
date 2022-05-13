@@ -179,6 +179,20 @@ related:
         width: 696
         height: 465
         isCached: true
+  - title: "Machine Learning Operations (MLOps) Market to Observe Exponential Growth By 2022 to 2028 | Microsoft, Amazon, Google, IBM"
+    excerpt: "New Jersey, United States-Global Machine Learning Operations (MLOps) Market 2021 by Company, Regions, Type, and Application, Forecast to 2028 The Machine Learning Operations (MLOps) market report gives a definite examination of worldwide market size ..."
+    publishedDateTime: 2022-05-13T10:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-operations-mlops-market-to-observe-exponential-growth-by-2022-to-2028-microsoft-amazon-google-ibm"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 46
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Microsoft FarmBeats for Students harnesses data and AI to plant big ideas in young minds"
     excerpt: "Australian school students have had firsthand experience of the future of farming, including exposure to the concepts of using cloud computing, data and artificial intelligence (AI) to tackle real world agricultural challenges."
     publishedDateTime: 2022-05-08T22:20:00Z
@@ -225,6 +239,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 30
+  - title: "Announcing Microsoft AI for Accessibility Hackathon APAC winners: Thailand, Singapore, and Philippines accelerate inclusive innovation"
+    excerpt: "Asia Pacific, 13 May 2022 – Teams from Thailand, Singapore and Philippines are winners of the Microsoft AI for Accessibility (AI4A ... experts to co-build their solutions on Microsoft Azure and continued mentoring support to build out their solution ..."
+    publishedDateTime: 2022-05-13T08:14:00Z
+    webUrl: "https://news.microsoft.com/apac/2022/05/13/announcing-microsoft-ai-for-accessibility-hackathon-apac-winners-thailand-singapore-and-philippines-accelerate-inclusive-innovation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/05/microsoft-AI-for-accesibility-team-thailand_1920x1127-1600x939.png"
+        width: 1600
+        height: 939
+        isCached: true
 
 secured: "hiZmBmEX92X69tTvHFmgMt6CtMGlMaqqpO5eXCOXSWgPbb+KJhMq4O3NVnQCMGMsWgu04bvGxVUEE3JcmYMVsgU4GZqIzCDcdh5k5E6GggbLfkxVgx12FlbbEav4gRZXr0X6fW0gPh+99QEJ7ExiGCZKKiObX4S6P4sVR9eL4KkmnRzG9LKJvFKM72cc8oCzAEUbvLmObO+l8v9ZMdJgg71h6ZJUhaGzkqVg0+ZvPyxge4lc2GeMe1EAl36tI9a3+4SdDQBZNmerOqB0ZYAeVYgf5Dcy5kEAlXg3aMqOOYZDgNAV3Ft3VJuEio/njCpRDUD9b+OxJhhArdi11kghHIMEqiJT2mkvT+O2fzWNxlA=;mfSjPL3TDgYQoPyJO2awRw=="
 ---

@@ -31,20 +31,20 @@ images:
 
 related:
   - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-    publishedDateTime: 2022-05-12T21:13:00Z
-    webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+    publishedDateTime: 2022-05-13T02:04:00Z
+    webUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    ampWebUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
     type: article
     provider:
-      name: Iowa Public Radio
-      domain: iowapublicradio.org
-    quality: 53
+      name: WUWM
+      domain: wuwm.com
+    quality: 49
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/4d5e077/2147483647/strip/true/crop/3935x2215+0+368/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F13%2Fap22132792840386-1bfe760d68d6a323aa45cf26c2aba65833914c4a.jpg"
-        width: 430
-        height: 242
+      - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+        width: 880
+        height: 542
         isCached: true
   - title: "Federal officials caution employers on using AI in hiring"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission are sounding the alarm about the potential for AI human resources tools to discriminate against individuals with disabilities."
@@ -61,6 +61,6 @@ related:
         height: 400
         isCached: true
 
-secured: "yIdK8VCmcEo8J/4yB9Y6Opi0Dl6x5YpnTpMh2V+5qbclxOuBFSW4OAGtAgZz9HZ+TZiBf8wqMHSmwrQOxx9xHAN0FgiBCIjn4Ylomp1x1fhocdL8B5Fy/jRwp7sNEr3uRRsN6wEPmyjkAJ9XDElVMir5bwsMKr/Gaaes2luDMjHzB6nzcz/gOvmtdPZN/ndNS7ZNUX6wtZsp8B0C9PYWJGcGemUqo3kqjpolGFqug2Qfh1cqD8ZcJXBRayBCD+R+oNvTS5FKJQxmolQrTkkk0DwPnjBaKVhVARvzRujLKshxmRKeH8Ize2wAfCrI4iJ+U2movm1xc3PuHniqyK+HuaIJArym77W9kjkudBPEvQU=;mLCZbPybVd5+JV03A6oNmA=="
+secured: "odd7BsSNcGfw/tquPTWaIdTFbN6Ge8/JtsrB6ntYj2EQH5GUOiWjfB0ivPaiDDO0z6LlkKJ+PcWGtMUEaYngTGvPE2uwXNnrd+mAkQeOv7TFKMtf2Wmqt/tx3yNwnzZuzwzM89KZKYL0IvW7d2VgKojndR/Hu1z55jGA5wHdFLng3NtM4PEi4VXZec3XWQzPaH0nCoIUhLNiOrTXlUNCo8GhG6n7+LsHKVz//GecYExCZ1cNPTOykDGg2zgA1jR9OOpFXCjAmQ5swouYzrBk7qutiNvszAlvbnV7MCD6pgW/K9Z2mF8K1qPDFKPrZdmHj3IU0ZIALwvZ63AJkKiOEyvxbGfgSYCfbT9Z/b9Hnw/i19/LnWI/n9mZtZsnIZs5wTla3W3pZcz0ZfrjYeZ048G9Y9qbPSESELlMXuqlvyFaqE2bhJxOlb/iS8AsIEho0aNJfCebqYf3FbcCbHsfMn5JHsL6JMFWeEaSGr4muhxTmHtCqPCQuEua8QGaWqLNUMOegYAvLZI09d9SNR1nAg==;FUaKmO88uLlaZEpZFhGkww=="
 ---
 

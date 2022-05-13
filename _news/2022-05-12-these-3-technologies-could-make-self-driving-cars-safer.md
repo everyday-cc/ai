@@ -35,6 +35,20 @@ related:
         width: 826
         height: 430
         isCached: true
+  - title: "Self-driving cars could be potential crime witnesses"
+    excerpt: "The police in San Francisco see camera-laden autonomous vehicles as potential witnesses in their criminal investigations, setting off alarm bells for privacy advocates, VICE reports. Why it matters: As Axios has reported,"
+    publishedDateTime: 2022-05-13T10:00:00Z
+    webUrl: "https://www.axios.com/2022/05/13/self-driving-cars-video-police-witness"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/m4u-MAElTIBPb-hJwhc8fpNj0dw=/0x0:1365x768/1366x768/2022/05/12/1652381213625.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
     excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
     publishedDateTime: 2022-05-12T17:53:00Z

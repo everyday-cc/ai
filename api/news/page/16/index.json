@@ -2,6 +2,151 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-04-27-eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance.md",
+      "title": "Eurora raises $40M for its AI-based system to automate EU e-commerce shipping compliance",
+      "excerpt": "The e-commerce market has boomed in the last several years, and with that so has the appetite of tax collectors to do their bidding: make rules that make sure their countries are getting a cut. That’s spelled more red tape and more customs hoops (and costs) for those shipping and receiving",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/26/eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance/",
+      "originalUrl": "https://techcrunch.com/2022/04/26/eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1319013665.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/26/eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance/amp/",
+      "publishedDateTime": "2022-04-26T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030.md",
+      "title": "Computer Vision Market Trends, Size, Industry Analysis, Top key players, Growth, Opportunities & Forecast to 2030",
+      "excerpt": "Report Ocean published the latest research report on the computer vision market. In order to comprehend a market holistically, a variety of factors must be evaluated, including demographics, business cycles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030-2022-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030-2022-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-radically-human-how-ai-powered-and-new-technologies-are-shaping-our-future.md",
+      "title": "Radically Human: How AI-Powered And New Technologies Are Shaping Our Future",
+      "excerpt": "The latest book co-authored by Accenture CTO and futurist Paul Daugherty, Radically Human, examines the intersection between humanity and machines in the era of digital transformation and the implications it has for business and society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/27/radically-human-how-ai-powered-and-new-technologies-are-shaping-our-future/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/27/radically-human-how-ai-powered-and-new-technologies-are-shaping-our-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6268d7f02ca67ab6115a6d82/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/27/radically-human-how-ai-powered-and-new-technologies-are-shaping-our-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/27/radically-human-how-ai-powered-and-new-technologies-are-shaping-our-future/amp/",
+      "publishedDateTime": "2022-04-26T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-uae-vows-responsible-artificial-intelligence-rollout.md",
       "title": "UAE vows 'responsible' artificial intelligence rollout",
       "excerpt": "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university, opened to students last year, and the country has launched a number ...",
@@ -963,152 +1108,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-pointivos-ai-powered-analytics-platform-reduces-timeline-to-complete-tower-mount-mapping-by-up-to-90.md",
-      "title": "Pointivo's AI-Powered Analytics Platform Reduces Timeline to Complete Tower Mount Mapping By Up To 90%",
-      "excerpt": "Company leverages innovative technology and extensive data catalog to quickly and accurately complete tower mount mapping and analysisATLANTA,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pointivo-s-ai-powered-analytics-platform-reduces-timeline-to-complete-tower-mount-mapping-by-up-to-90-1031385683",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pointivo-s-ai-powered-analytics-platform-reduces-timeline-to-complete-tower-mount-mapping-by-up-to-90-1031385683",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1801141/Mount_Mapping_Final.jpg",
-          "width": 400,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker.md",
-      "title": "Part 3: How NatWest Group built auditable, reproducible, and explainable ML models with Amazon SageMaker",
-      "excerpt": "This is the third post of a four-part series detailing how NatWest Group, a major financial services institution, partnered with AWS Professional Services to build a new machine learning operations (MLOps) platform. This post is intended for data scientists, MLOps engineers, and data engineers who are",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/22/Featured-images-for-ML-8228.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T08:17:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-intentsify-appoints-new-cfo-vp-of-artificial-intelligence.md",
-      "title": "Intentsify Appoints New CFO, VP of Artificial Intelligence",
-      "excerpt": "Intentsify, the leading Intelligence Activation Platform and Demand Activation Programs provider, today announced another significant expansion of its executive team, as well as its second consecutive year of sponsorship of the Forrester B2B Summit taking place May 2nd to 4th,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-964c44f07dd649a1b2dc63e50afa9f8b",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-964c44f07dd649a1b2dc63e50afa9f8b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

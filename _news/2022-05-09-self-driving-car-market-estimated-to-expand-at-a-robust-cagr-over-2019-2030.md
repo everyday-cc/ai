@@ -25,22 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "Entertainment Robots Market Estimated to Reach at USD 15.18 Billion by 2030 at a CAGR of 24.6% - Report by Market Research Future (MRFR)"
-    excerpt: "North America will have admirable growth in the entertainment robots market over the forecast period. Because artificial intelligence & cognitive computing are becoming more widely used in North America, entertainment robots are in high demand. In the ..."
-    publishedDateTime: 2022-05-10T14:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27110199/entertainment-robots-market-estimated-to-reach-at-usd-15-18-billion-by-2030-at-a-cagr-of-24-6-repo"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27110199"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27110199"
+  - title: "Self-Driving Car Crashes Into Dummy Cyclist During AAA Testing"
+    excerpt: "Tesla and other car makers are aggressively rooting for self-driving vehicles. A recent research by AAA sheds light on the safety concerns."
+    publishedDateTime: 2022-05-13T10:24:00Z
+    webUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/"
+    ampWebUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 44
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://fossbytes.com/wp-content/uploads/2022/05/AAA-tests.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Self-driving cars may need ‘L-plates or flashing lights’ so Brits feel safe"
+    excerpt: "Nearly nine out of 10 people in the UK want self-driving vehicles to be clearly labelled (Picture: AP) It looks like UK residents aren’t entirely on board with the idea of sharing the roads ..."
+    publishedDateTime: 2022-05-12T01:25:00Z
+    webUrl: "https://metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/?ico=zone-post-strip_item_3_news"
+    ampWebUrl: "https://metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 42
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/02/PRI_222434820.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Shocking statistics show drunk driving is up"
+    excerpt: "Ruth, who asked not to use her last name, says she was recently in a drunk driving crash. She says the driver rear ended ... out there aimed at curbing the issue, Sgt Buratczuk says self-policing is still the best way to fix this growing problem."
+    publishedDateTime: 2022-05-13T03:00:00Z
+    webUrl: "https://www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up"
+    ampWebUrl: "https://www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up?_amp=true"
+    cdnAmpWebUrl: "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up?_amp=true"
+    type: article
+    provider:
+      name: KTNV Las Vegas
+      domain: ktnv.com
+    quality: 24
+  - title: "Embark's snowy testing conditions and other self-driving truck mileposts"
+    excerpt: "Self-driving truck testing has proliferated across the sun-speckled southern U.S., but few automated driving developers have ventured into more treacherous weather conditions. Over the past winter, Embark Trucks changed that. The company sought out snow ..."
+    publishedDateTime: 2022-05-12T13:54:00Z
+    webUrl: "https://www.autonews.com/mobility-report/embarks-snowy-testing-conditions-and-other-self-driving-truck-mileposts"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/DSC_2035.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Waymo’s self-driving cars are now being tested in downtown Phoenix"
+    excerpt: "PHOENIX (3TV/CBS 5) -- Google’s autonomous car company, Waymo, has officially launched self-driving cars pilot program in downtown Phoenix. Last month, the company was looking to expand operations into the heart of the Valley. Waymo had been operating in ..."
+    publishedDateTime: 2022-05-10T18:10:00Z
+    webUrl: "https://www.azfamily.com/2022/05/10/waymos-self-driving-cars-are-now-being-tested-downtown-phoenix/"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 19
+  - title: "Brands matter: Why trusting an existing brand can lure you into buying a driverless car"
+    excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ..."
+    publishedDateTime: 2022-05-11T13:11:00Z
+    webUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 11
 
 secured: "oqO8RvXvtqxbHij79roPFgIS7wYBtld7TuwBbdk+ec3kbkWttwypqgBV3PivNmgR2hnXROpiMjZoBdg1nrFfH7mhDIss+B3fJoYN43cJkZxlUKytPZVwK/bDZkgJ14qOjle+WOkiLMFrWb1yd7MnqAQbKGbgh1LXbAgD5pTOSLdqNdEBnMUKQtsFNScOMYi+4GV2eXNRj1UR5jEn7Eyd2SgJdSkWHyvl2to0XZbVhR+J9igzFvvs03oTvJcErv9xWuFOTFXo5pq9ffTKYfYr3EqyLNnRoOI0I4bVecMTFAIq8YR/SIszV7WMSvM0uzZ+780YMk/tV/f7s/KE2MHHuZnbSdEcFqVWdqyDllKI2BkX5sk3j49Hee4BoHxGY04GeolMcFEhnvd1wVBoBiGgS1iF2nxSQuA+R5OIQa5cvUUN4WqWHF4kJLVEpyoE4Q8oIsoPABup60+kccXmPqQ13qeFNye0zrOUJ/H+Yem3UHQ9l5IPwy/aglm2PYT+mic0QOlfko7i77UDKa2hY6NCsQ==;skRRWzovzbOtH3LV7kfjjg=="
 ---

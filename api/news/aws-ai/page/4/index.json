@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-29-pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists.md",
+      "title": "Pinecone announces $28M Series A for purpose-built database aimed at data scientists",
+      "excerpt": "When Pinecone launched last year, the company’s message was around building a serverless vector database designed specifically for the needs of data scientists. While that database is at the core of what the company is doing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/",
+      "originalUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1225803116.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/amp/",
+      "publishedDateTime": "2022-03-29T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-build-a-mental-health-machine-learning-risk-model-using-amazon-sagemaker-data-wrangler.md",
       "title": "Build a mental health machine learning risk model using Amazon SageMaker Data Wrangler",
       "excerpt": "This post is co-written by Shibangi Saha, Data Scientist, and Graciela Kravtzov, Co-Founder and CTO, of Equilibrium Point. Many individuals are experiencing new symptoms of mental illness, such as stress, anxiety, depression, substance use, and post-traumatic stress disorder (PTSD). According to Kaiser",
@@ -1325,49 +1377,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-leveraging-standards-to-optimize-ai-at-the-edge-what-agencies-need-to-know.md",
-      "title": "Leveraging Standards to Optimize AI at the Edge: What Agencies Need to Know",
-      "excerpt": "Ryan Luckay is a cloud-enabled artificial intelligence specialist master at Deloitte Consulting and has worked on numerous proofs of concept using edge AI tools, including OpenVino, Google Cloud Platform AutoML Vision and Amazon Web Services SageMaker.",
-      "sourceUrl": null,
-      "webUrl": "https://fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know",
-      "originalUrl": "https://fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202203/GettyImages-898824628.jpg?itok=pI-2vOYS",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know?amp",
-      "cdnAmpWebUrl": "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know?amp",
-      "publishedDateTime": "2022-03-14T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fedtechmagazine.com",
-        "domain": "fedtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

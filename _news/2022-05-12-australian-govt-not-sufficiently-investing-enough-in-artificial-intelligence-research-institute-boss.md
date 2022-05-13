@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Indigenous Australia demands recognition in constitution"
+    excerpt: "“I don't vote and wouldn't vote until we have our own voice,” said Gwenda Stanley ... whose leaders have struggled for generations to win recognition for injustices suffered since the beginning of European colonisation in the 1700s."
+    publishedDateTime: 2022-05-13T11:35:00Z
+    webUrl: "https://www.businesslive.co.za/bd/world/asia/2022-05-13-indigenous-australia-demands-recognition-in-constitution/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/world/asia/2022-05-13-indigenous-australia-demands-recognition-in-constitution/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2022-05-13-indigenous-australia-demands-recognition-in-constitution/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/ivrgZb1VQYYovzoCiAjnuKymlMYO8qSzD1iQ-jsPuXjcYbMN88enNvds5vC_hUY7ImNeAZHP0IIxXeyvBOfWbjvG-qi2WAfpti-ny-tBTdceXg=s750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "How Indigenous recognition could reshape Australia"
     excerpt: "It's been five years since the Uluru Statement from the Heart called for the creation of an Indigenous Voice to parliament, and the major parties are outlining their plans for recognition ahead of the election."
     publishedDateTime: 2022-05-10T23:07:00Z

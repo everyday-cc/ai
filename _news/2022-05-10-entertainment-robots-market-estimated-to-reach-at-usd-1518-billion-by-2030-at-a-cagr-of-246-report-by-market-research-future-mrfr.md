@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Car Market Estimated to Expand at a Robust CAGR over 2019 – 2030"
-    excerpt: "Self-driving Cars – The Elevated Future of Mobility The race for a completely self-driving car is underway with increased ongoing testing and prototyping"
-    publishedDateTime: 2022-05-09T11:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-estimated-to-expand-at-a-robust-cagr-over-2019-2030"
+  - title: "Artificial Intelligence Chip Market Size To Reach US$ 66.4 Billion by 2022-2027 | CAGR of 35.20% during Forecast Period – IMARC Group"
+    excerpt: "According to the latest report by IMARC Group, titled \"Global Artificial Intelligence Chip Market Size, Share, Industry Trends, Growth, Opportunity"
+    publishedDateTime: 2022-05-13T11:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-size-to-reach-us-66-4-billion-by-2022-2027-cagr-of-35-20-during-forecast-period-imarc-group"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 21
+    quality: 25
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheoYdwUNRdfvwqZfSMR9atdbKdoGnB7E3zzPe5zRK9X1ZX8WhILT8JPLgrGnqK3Dpe8X6IMXGmkO6pAL9uZolJCEM0jTbW1jtKkob8x__TRKTsRPWgpsUcv3WJCXMENMmw9Gh3_j73sRh84W7JSEA3qiCshXgOV-NEDggL21CqLNYa34fyhl1Y0g4/w637-h302/artificial-intelligence-chip-market-imarcgroup.jpg"
+        width: 537
+        height: 302
         isCached: true
 
 secured: "GRKMumhtG45PmQi1SgyYY8ccQQNNGxn8tCNsbXUQJaaZIf/ehJu3x4xL8OiVtH50wLE97/c7X17vGMaBc3kAxYope99x0H142hiqNM3bcptyTA25YgHkXIGmVHJTQPirobt2+eiHWPW6+dq0930guXTDnssJ+espACzmpV4XrSvo/yxlOygHiXwPFgF7on5UL27LZfk95mcpm/sP8py/plQDVBibt0xWaxOGFGwxlsV29bfMctBL4QxZMpKWP0W3ucWRJeqkCCs114HOV5BRSinM5hnyWLyhiihG/u75RRDH8EvBC/pK+Pd5zuA7wNJe7Pt9iVvey3oD9BHHB/kW2BbFxHqimu+PTi5b9E5CmnwiIFDlrjLzremsK2/+JWsCUngHi1ytMijzjTI+/rDw8/O2Hx5wNmwu4ynP4zKDVJGgfyVkZ4kKyOFCk4+rhtgY4Q2pQIZ6N8+BKg4T3tFU7JWjjfRlU0lmRa7AzKECNGteLvMqQGx34pbVvIocmuDLs/ehZynLB0nxs8CaHSIN+g==;YXLKZ6lP09qFGOGXbTtNCg=="

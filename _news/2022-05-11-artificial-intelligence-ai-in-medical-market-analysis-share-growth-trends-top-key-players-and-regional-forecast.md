@@ -78,20 +78,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Facial Recognition Market Will Grow at a CAGR of 17.1%; Emerging Trends, Industry Outlook Growth Opportunities"
-    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Facial Recognition Market research is an emerging exclusive report with meticulous efforts assumed to study the right and treasured information."
-    publishedDateTime: 2022-05-11T14:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-will-grow-at-a-cagr-of-17-1-emerging-trends-industry-outlook-growth-opportunities"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/99742949f7e11ca95efd09bf25cbd0e689bb45de-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
     excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
     publishedDateTime: 2022-05-10T18:11:00Z

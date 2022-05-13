@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Isomorphic Labs Announces First Phase of Management Team"
-excerpt: "Isomorphic Labs, a subsidiary of Alphabet, today announced the first phase of its management team. The company, established in November, was launched from Alphabet’s DeepMind to build on the success of AlphaFold,"
-publishedDateTime: 2022-05-12T12:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-12-isomorphic-labs-announces-first-phase-of-management-team"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-12-isomorphic-labs-announces-first-phase-of-management-team"
+excerpt: "Isomorphic Labs, a subsidiary of Alphabet, today announced the first phase of its management team. The company, established in November, was launched from Alphabet's DeepMind to build on the success of AlphaFold,"
+publishedDateTime: 2022-05-12T12:19:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-isomorphic-labs-announces-first-phase-management-team-/2022/05/12/9600813.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-isomorphic-labs-announces-first-phase-management-team-/2022/05/12/9600813.htm"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Google AI
   - AI
 
-secured: "JhJUXUjU17kco5UtCciztid36RSrEgxiSSzDGGY3912Ha01GTuizHclit3tWWtVXOFHzf1qUmB7WboHUB/qvoITdNetTv/nMLB2lr1YzfOnhCuiytSYeD65Nt/fybYzEobGJKIXh2II2cQ+bmyQRpenDj/pUALquDbWdovRu5GZe8ybv176uCE7PhiQgEa0iOulXPPk0wsacIk4irNy+XyZZ5X73GJH2jgZFNzmnapg4uVs80pCgsUHG4gMd5WEYZSRl3bmqo9s1JsSY30r+lRmFb8YE9+GeR26KObYc+TVgdaTRDUbotp7dZaMsEg8reQh958UMQ17bO0d6T6sP7DRb51xnvXlhZDLk/4c01CU=;3byLSeybsmsCQr+qpnntXQ=="
+secured: "qJDN62gNIpCs8e0tKYVrDun6TAYiZMCLrwiFsHAoNlR/9lPv8vulT2aKkkTtWYebPr4UEu2b0A2wwiHvfCdNF6fQrvrGZyEogq82JiSp36u+JhGOgq4TGPNdr8Q4J/HoWjnjYh0oSihFZUB/1Az943gbt6kOa1pkaKnJa8lDqzDpmgPoubHSXRwjXXG8rKv5hg8pmoo9NCQAb8v/lXw36CVpXwHTSOtGOvKnkseBWrP9rHk7rPAubHjCe3PpSJUiVImqb5vw2uUVctNxbybLLw5avCIgEIvXo5ssTTq7ASvWupMKqT/VZMbzzoaa5fOgbbPMcyFZMAN715LzDd6/tmob0vzyVHF5ehdZyVbc9v8=;ajMvK2pTyNIefBF1kIaxSw=="
 ---
 

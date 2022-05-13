@@ -189,6 +189,20 @@ related:
         width: 696
         height: 465
         isCached: true
+  - title: "Machine Learning Operations (MLOps) Market to Observe Exponential Growth By 2022 to 2028 | Microsoft, Amazon, Google, IBM"
+    excerpt: "New Jersey, United States-Global Machine Learning Operations (MLOps) Market 2021 by Company, Regions, Type, and Application, Forecast to 2028 The Machine Learning Operations (MLOps) market report gives a definite examination of worldwide market size ..."
+    publishedDateTime: 2022-05-13T10:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-operations-mlops-market-to-observe-exponential-growth-by-2022-to-2028-microsoft-amazon-google-ibm"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 46
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "The joint technology and go to market agreement will help customers accelerate their digital transformation initiatives in the cloud"
     publishedDateTime: 2022-05-10T09:16:00Z
@@ -221,6 +235,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 30
+  - title: "Announcing Microsoft AI for Accessibility Hackathon APAC winners: Thailand, Singapore, and Philippines accelerate inclusive innovation"
+    excerpt: "Asia Pacific, 13 May 2022 – Teams from Thailand, Singapore and Philippines are winners of the Microsoft AI for Accessibility (AI4A ... experts to co-build their solutions on Microsoft Azure and continued mentoring support to build out their solution ..."
+    publishedDateTime: 2022-05-13T08:14:00Z
+    webUrl: "https://news.microsoft.com/apac/2022/05/13/announcing-microsoft-ai-for-accessibility-hackathon-apac-winners-thailand-singapore-and-philippines-accelerate-inclusive-innovation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/05/microsoft-AI-for-accesibility-team-thailand_1920x1127-1600x939.png"
+        width: 1600
+        height: 939
+        isCached: true
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
     excerpt: "Dubai, UAE: Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment over three years, according to a new commissioned Total Economic ..."
     publishedDateTime: 2022-05-11T13:26:00Z

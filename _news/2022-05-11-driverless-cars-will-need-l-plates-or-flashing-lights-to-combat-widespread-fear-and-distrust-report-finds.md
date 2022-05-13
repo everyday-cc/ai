@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars may need ‘L-plates or flashing lights’ so Brits feel safe"
-    excerpt: "Nearly nine out of 10 people in the UK want self-driving vehicles to be clearly labelled (Picture: AP) It looks like UK residents aren’t entirely on board with the idea of sharing the roads ..."
-    publishedDateTime: 2022-05-12T01:25:00Z
-    webUrl: "https://metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/?ico=zone-post-strip_item_3_news"
-    ampWebUrl: "https://metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/amp/"
+  - title: "Bringing driverless trucks to the world"
+    excerpt: "That’s because after years of development, driverless trucking technology became commercially available for the first time in 2021. The company that brought this industry-transforming technology to market is California-based Plus."
+    publishedDateTime: 2022-05-10T06:00:00Z
+    webUrl: "https://www.fastcompany.com/90747782/bringing-driverless-trucks-to-the-world"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 42
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/02/PRI_222434820.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/Plus’s-Autonomous-Trucks-Powered-by-PlusDrive-1-1.jpg"
+        width: 1280
+        height: 790
         isCached: true
 
 secured: "UKa5ANGGN8qDo/GdZ+n86+KMHDBPxolzF1paipmggTjkW8m2lsZnc7oPUWwDXd/qWRAsFxOr0nm6ovQokjgGpLAUGJcJNsnuxsXlkRRggbm3xTaUG967ijHe0SegFBszdUSEAIsQFl1qVwr4U91bLoyYq3gHK7b99/iTygG3GHCcxvP+zhBzW+5ho3Dn6ziDCzuC7DzqlacBoOIn3PTB8f6CyKJb4EqevTIZrfndXzqALVVNAFsVTfBSEk3GhYEVLcpm05LikH9vRzIH97fXWrBMgd4UcGSdMAyMm9uPLnuIHAiaH4vabsTzKjZv9ENimsMfODxyvBltgybTGx41IMwdFyf3dLg3bcKk93OorYw=;T88Z9qW+tN+FXOrSfQL51w=="

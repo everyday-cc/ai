@@ -19,6 +19,49 @@ topics:
   - AI
 
 related:
+  - title: "Self-Driving Car Crashes Into Dummy Cyclist During AAA Testing"
+    excerpt: "Tesla and other car makers are aggressively rooting for self-driving vehicles. A recent research by AAA sheds light on the safety concerns."
+    publishedDateTime: 2022-05-13T10:24:00Z
+    webUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/"
+    ampWebUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 44
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2022/05/AAA-tests.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving cars may need ‘L-plates or flashing lights’ so Brits feel safe"
+    excerpt: "Nearly nine out of 10 people in the UK want self-driving vehicles to be clearly labelled (Picture: AP) It looks like UK residents aren’t entirely on board with the idea of sharing the roads ..."
+    publishedDateTime: 2022-05-12T01:25:00Z
+    webUrl: "https://metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/?ico=zone-post-strip_item_3_news"
+    ampWebUrl: "https://metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/05/11/self-driving-cars-may-need-l-plates-or-flashing-lights-for-safety-16626012/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 42
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/02/PRI_222434820.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Shocking statistics show drunk driving is up"
+    excerpt: "Ruth, who asked not to use her last name, says she was recently in a drunk driving crash. She says the driver rear ended ... out there aimed at curbing the issue, Sgt Buratczuk says self-policing is still the best way to fix this growing problem."
+    publishedDateTime: 2022-05-13T03:00:00Z
+    webUrl: "https://www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up"
+    ampWebUrl: "https://www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up?_amp=true"
+    cdnAmpWebUrl: "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up?_amp=true"
+    type: article
+    provider:
+      name: KTNV Las Vegas
+      domain: ktnv.com
+    quality: 24
   - title: "Embark's snowy testing conditions and other self-driving truck mileposts"
     excerpt: "Self-driving truck testing has proliferated across the sun-speckled southern U.S., but few automated driving developers have ventured into more treacherous weather conditions. Over the past winter, Embark Trucks changed that. The company sought out snow ..."
     publishedDateTime: 2022-05-12T13:54:00Z
@@ -33,6 +76,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Car Market Estimated to Expand at a Robust CAGR over 2019 – 2030"
+    excerpt: "Self-driving Cars – The Elevated Future of Mobility The race for a completely self-driving car is underway with increased ongoing testing and prototyping"
+    publishedDateTime: 2022-05-09T11:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-estimated-to-expand-at-a-robust-cagr-over-2019-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Brands matter: Why trusting an existing brand can lure you into buying a driverless car"
+    excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ..."
+    publishedDateTime: 2022-05-11T13:11:00Z
+    webUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 11
 
 secured: "XPG4U8lZy0jrSuRQohBuo3yDXj40BwsI4EHiGJcZUfm/6MvfDlyyLI1RCUJxbkSeU68IKZQ8mt9JTRpgecCaibzwxG4EsPWl2EiG6vsdU6vfWEvuufEmZegZc01QdYh0GIxy3dX6lhCA0tLbgruSp5xy2k+x9OIA9pHiQRH40jSBWnHrQVTtojymuiqSF8H6Pg/78WHWjv4/6Oqy2sI6i7SIA0Qv8rE6tAnt4+r5TM1E4MOQNq5x/0sfSUqWbWCyoGsD/OOHwSR2ohvUKTNrZzwjP5pXZ20cDCdNaKirpkm4C337TQwzAbFs7mzvfyQvdPMLotiASTPPqgg1G9MMYpHs7shKKr3I0jGQUxdKh+3lVGxajF/X/ClXPTRPtWbdXpzdKuipoDeYwAXte5H04x8LWH0o8djZJIuLJX6fOo9HxXNdGHmW9m4ySlX3xWWRTc0XornpBU5SCTvWwxxhD9GVcAkpzNwxVJAvgS4UPEVeRg+8tNIDzBQsKfcDTxoKLx0XcXQzYeIvEdDIyKRPiA==;y4rCUbpV/qHveAqYFokSTA=="
 ---

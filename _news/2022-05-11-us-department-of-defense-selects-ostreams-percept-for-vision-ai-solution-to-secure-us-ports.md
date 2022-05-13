@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-d1bae670
 webUrl: "https://apnews.com/press-release/business-wire/technology-d1bae670c6ae4d3fba97c04669bf5a76"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Perceptron: AI bias can arise from annotation instructions"
-    excerpt: "Research in the field of machine learning and AI, now a key technology in practically every industry and company, is far too voluminous for anyone to read it all. This column, Perceptron (previously Deep Science),"
-    publishedDateTime: 2022-05-08T18:15:00Z
-    webUrl: "https://techcrunch.com/2022/05/08/perceptron-ai-bias-can-arise-from-annotation-instructions/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
 
 secured: "BLIOtOQco2jFgccn959iQ92yVE/DJ5SR17DC8ddwvWRger2kWY7e+ANCdIWyYM0kcrE0aixktROru1w6Fdr56JGyPlvjFgtdkkblW77s16XBwJzdYFWpwNtNBqMADKpVQgN4NdI80DzHqoudZG0i7GiM4ve79R2bjcBe6ltYFBMCmsWdyBU0pOiLClt7DL1dSp7xxCdGYGM02JwW6+AH+IYr6mnzNngOYjEqLw6fHGtSTp3y35Kdm52N1s0o/RqREn1NUa5Z5x6LiImqcjhtuHnLqs/Fir2+oCR2Vbzy3vFlLxWQx3okpoo3yxUPDL/Y1DIPm5RDVNp/kUoQjmSK7BB1tZvRoZqFEflaOxoC6Lk=;rNEK3PR+2uz648zoIVZSJw=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Facial Recognition Market And Its Amazing Applications Across Industries Trend | NEC Corporation, Cognitec Systems, Aware Inc"
+    excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
+    publishedDateTime: 2022-05-13T10:56:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-and-its-amazing-applications-across-industries-trend-nec-corporation-cognitec-systems-aware-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 12
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "kYjfc5/wldvYQVVlDle6jRLpqUTn8UkHVB81hIIakIz8ajTf9xlghsSlG2DMCeddq017ziBl72EsiRHeb6XmOaD9Kj8nIX+xutD1OvJOoXSUv3nvuYn75jgExFeJrsLxGwSMg7o6qtRQRjd+X1jFJtXVlIeYZuuywyDrZj0Yxj0obchPoA6dma/dgXl1G+OrrCo6JGPu9rUdWlyloLOYSEZq+4wzJCq0noO5rrKUxLXpt0+YiVE/Ec90/N8Ct7yE6Ksgq+x0JL+5HoxR8HRgnvIX9/2ZK1mIQn+6Pxrh+wp1anv0ocE3WExWmhSqZ1DehQ6w2EpRzdB4cN18IcWvDW0vG94JUKF3/fgidZivGug=;nDrfl4j69I1ZG866QRmfZQ=="
 ---

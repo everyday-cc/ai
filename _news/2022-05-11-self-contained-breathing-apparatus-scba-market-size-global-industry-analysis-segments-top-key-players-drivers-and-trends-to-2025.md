@@ -88,20 +88,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Facial Recognition Market Will Grow at a CAGR of 17.1%; Emerging Trends, Industry Outlook Growth Opportunities"
-    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Facial Recognition Market research is an emerging exclusive report with meticulous efforts assumed to study the right and treasured information."
-    publishedDateTime: 2022-05-11T14:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-will-grow-at-a-cagr-of-17-1-emerging-trends-industry-outlook-growth-opportunities"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/99742949f7e11ca95efd09bf25cbd0e689bb45de-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in the Education Sector Market Future Trends and Opportunities, Past, Present Data, and Deep Analysis by The Insight Partners"
     excerpt: "The artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly"
     publishedDateTime: 2022-05-12T11:47:00Z

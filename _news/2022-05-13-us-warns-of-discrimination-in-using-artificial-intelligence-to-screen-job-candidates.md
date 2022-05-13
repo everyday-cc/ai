@@ -1,30 +1,28 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:13:00Z
-originalUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+publishedDateTime: 2022-05-13T02:04:00Z
+originalUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
-quality: 53
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Iowa Public Radio
-  domain: iowapublicradio.org
+  name: WUWM
+  domain: wuwm.com
 
 topics:
-  - AI in Autos
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/4d5e077/2147483647/strip/true/crop/3935x2215+0+368/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F13%2Fap22132792840386-1bfe760d68d6a323aa45cf26c2aba65833914c4a.jpg"
-    width: 430
-    height: 242
+  - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+    width: 880
+    height: 542
     isCached: true
 
 related:
@@ -59,6 +57,6 @@ related:
         height: 400
         isCached: true
 
-secured: "zHriAGcUa+I+HqLUseLGKXRKC1BSD8oBj/vLZeMsJwtK5H5Z0Xylc7USQpaon3FPZN+13+11wXx460+tKESBLnCliaVxY3rBLVocMK9WokfDn9YOrp1DXhcHq4bjvovemrvNdFxF7/HZZlryddBYKM//7jWRM3sA/SgBaYboIo1NVsqsWYLrla4Ov3uYjQhVhpKsuuY0sh5S4VJv2urpF+HpHrR1hmm66alE629wwqZRQV0B9ZAcRDW2B12e2e/qplvVxzrGG+KxSwcHo/HHOD4aMCCexTeTBAF8F3R7+TbsxJCsW0+dGA4fjz1451PNhZ6sd7LK9p2aA5cZRPIXnbUNFb+cjF7gCxKxMtfCmaAW933Z58Jm+j9nJuu8F9JyuU8NIFEtooLOa7Cozb9YMegXrXIGvXLhOBhNYYwS4Mb9i2A61wVCaZj61z45nrAXCuhyx5E5kv/3scdJDisqJF+cdNrK3veuFShKfbqqy3HA8KIXGS4NxeROde513+WjmYhF7PrR+n1rVjGAbRNmsg==;gXbsry8vzOArdUY535m6Lg=="
+secured: "AsNJiRz880SbFpj4S38ZcWATQlqcdRhtnUeFpcPNr6JtFgQDnZQX4uskvLk8awy4aDBWqWdfQmVra+Xa78eUqDxttN04a/KG+QqKRj7VQcuwT4ohjZv9pCRn2ZTlLhxL80j6xxtexh8FXtaLWJW1VcIg0X7klcBegPffk9zRj4EwnXg23koup1wD7hqf8aoYsN/qc/L6AEdE3s9KPlHM+tVaOdCncwL6ZunRFGT3RnFyrWSCogszQZS871SwD2FKEKOu71SyTah7fN0F4EeN1Pb5gdjI8aX70jtNJo45xNYsLA1JlZEGHK/vJ78gXhny+xYzIJKLQBv6/0CdYNh/QlO4L0+FVLkVkml3Y0cmML4=;58ffACWyi3mw0miQ5wZY8w=="
 ---
 
