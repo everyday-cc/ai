@@ -1,41 +1,20 @@
 ---
 category: news
 title: "Josh Williams Hospital Tour Revs Up Virtual Visits to Nascar Xfinity Racetracks Using Kid-Controlled Telepresence Robots from OhmniLabs"
-excerpt: "Ohmni Robots are easy for kids to control themselves using a tablet ... For many organizations, COVID-19 is still very much top of mind and keeping the patients and staff safe from the spread of bacteria and viruses is paramount. Williams was able to ..."
-publishedDateTime: 2022-04-29T14:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26898414/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controll"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/n26898414/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controll"
+excerpt: "Ohmni Robots are easy for kids to control themselves using a tablet ... For many organizations, COVID-19 is still very much top of mind and keeping the patients and staff safe from the spread ..."
+publishedDateTime: 2022-04-29T10:00:00Z
+originalUrl: "https://fox5sandiego.com/business/press-releases/cision/20220429NY41024/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled-telepresence-robots-from-ohmnilabs/"
+webUrl: "https://fox5sandiego.com/business/press-releases/cision/20220429NY41024/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled-telepresence-robots-from-ohmnilabs/"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Fox 5 San Diego
+  domain: fox5sandiego.com
 
 topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Josh Williams Hospital Tour Revs Up Virtual Visits to NASCAR"
-    excerpt: "Ohmni Robots are easy for kids to control themselves using a tablet ... For many organizations, COVID-19 is still very much top of mind and keeping the patients and staff safe from the spread ..."
-    publishedDateTime: 2022-04-29T16:37:00Z
-    webUrl: "https://speedwaydigest.com/index.php/news/xfinity-series-news/69110-josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar"
-    ampWebUrl: "https://speedwaydigest.com/index.php/news/xfinity-series-news/69110-josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar/amp"
-    cdnAmpWebUrl: "https://speedwaydigest-com.cdn.ampproject.org/c/s/speedwaydigest.com/index.php/news/xfinity-series-news/69110-josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar/amp"
-    type: article
-    provider:
-      name: speedwaydigest.com
-      domain: speedwaydigest.com
-    quality: 44
-    images:
-      - url: "https://www.speedwaydigest.com/images/jamp/page/9b645d23ab3899430c1db50d6444282d_L.jpg"
-        width: 1500
-        height: 1500
-        isCached: true
-
-secured: "GPtyXz9/yosdUFjhc/t6DuGvBYMlbFqwin4nRQQsB6QdoxFu4uXQ78qJXaj7w2eQPuGQvEwBbd+MSppjVZ/A0ib/2iFlzZLhlcyo7wUjYRnZN9ZqrFeyMIYj8iK7ylzDKzBFn6chP43exnp7um0Uhly49ekOJzLcCGNBiDb0KsGwtbum2uF+4xgvD+gkAM/tL8BZzlu6lMAUJJeASUkR6dS/PAP0r4Dqedlm98G7EKjoSAfLvGUGhlkSY6ONbXRv95PfJ2j31ekNq0ImU+i1zyncXbT8ouAbOphMg0FTa0QYgcSQfQXR9q2uPlR2TgkAmHXKdUsuOlXGsPgmvQA5xyTa17AGE753ncqQwBfbqAMafwRSJmBXPJRD3wArYk1U5tVKyYus665MEuXHumvGgwgERJhUHzmVJ6e+8leuuvUfSvVEubx1I88ZFMmsgkgSOgDv73EzI8Ba5VNZPMyWZp6HF9wNWgR8A6UfN/G+8rBHdWR8V71LKmLDU84f1yCfAM0VlrjtJAvoqr6vpdmRtQ==;YscXAukacC5OkMvO4aMq5A=="
+secured: "zcCBhQxBV9XlTPlCPH0vYdKoPBy5pYI+pgE6IxMnfhIbvwxumCcI1wQ3CPsSgSsmCNaBXboMkJUVeGdkzKgrwvQVSaorCwK6WtC/uVCkh0ciFCF8TujBXHcQR14SJ1Tiz29grEM+H3BhGJMrtv1uBfdGPETanzm01xlqUk6hD7nh4E5Dl9rnDXyV/jW8ZH5q0bzgHUIcW+BC2qKz/rwQq9dYLcSl8s2XFBNei71pjv3ap9xtaktFQ4qcJaBsPqbPZZgNRGnUA+xweTQz6xP/dxoBnl/hgN26h3YdT6zQUcGLVIKdLHQownQ2/2yHQxVaqhwNujrB56H9BkDFwWc92WbdsyGWwwf6Jya2slyJSI4=;24+6Z9c1ROeBpEaMR4ZBSQ=="
 ---
 
