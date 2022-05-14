@@ -2,23 +2,23 @@
 category: news
 title: "Sequitur Labs Showcases Complete Chip-to-Cloud Software and SaaS Solution at the Embedded Vision Summit"
 excerpt: "May 17 and 18. The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI -enabled products, including embedded systems and mobile applications. The Sequitur Labs Security ..."
-publishedDateTime: 2022-05-10T12:27:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sequitur-labs-showcases-complete-chip-to-cloud-software-/2022/05/10/9599076.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sequitur-labs-showcases-complete-chip-to-cloud-software-/2022/05/10/9599076.htm"
+publishedDateTime: 2022-05-10T12:32:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220510005250/sequitur-labs-showcases-complete-chip-to-cloud-software-and-saas-solution-at-the-embedded-vision-summit"
+webUrl: "https://www.morningstar.com/news/business-wire/20220510005250/sequitur-labs-showcases-complete-chip-to-cloud-software-and-saas-solution-at-the-embedded-vision-summit"
 type: article
 quality: 5
 heat: 5
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
   - AI Hardware
 
-secured: "KYGxMJakaot2z2Wsb4sb7tZSzos99m8RR4mFTB9vVktq7LZ9YQrr666Tt4R//bgoUZMSguGDfkq481eb/OxD2PQG3w7r1iQjavLx31gaZtmx1OJmj30gVePqoSWe2IeOIJ1sew2L2GJZcK1DITQRWhTtWz43Jy0uY5nN3BKbd83r21SZkEu/x2t26fL5KVMID1m9KFX9wyYdhDMs9m/1Z7CEHe/YTS+u5aWe2Koia+nrWVQxYdEzzu4IgKQnX1m43AiPIu1y7bkjd1hXt84zTPxzQHoJeDpXODeiRz0VJaZOgCAijFqL87q99rHqU3XAZ+Hxe8lVkXRx/xZb/yN672iw0wnMitqmAt23Xoe2aRI=;QOVimkgzPskdbH8Hrwqetw=="
+secured: "TqyKNK6MbsZRtNH5hfuXFN6uXIdUFvztc+3rvHZv+kmPT/H31Q9BMaz2iWs37re0ZH/j9f5GVTl67fbrS3z3S50WqenEFKpxqhVV7EO3uquh0Bh1y13n+gQnUSN3IjNW0EcsAshbpVfKm3Scz3n1lFZw3Jk9Q14ICvaFZBjx0+jUFHs3LZ14ihedpU+Ffqh731kWRGEWMc6qTRd8h/nAO7vrbHa59A5mW4zeG5OIE6D3p2SoRcD9glbceHm7Ww/RMnlf49NqRl5oSsbI2cGRXInkaSmWNKwByOxw1JneV55TGOvDuSk1jwok1G8P6TWfsqDOivagbiZdW48FlZGPFFciz1NqMxZx/CpoIY4CVko=;P2wkakN0ypRCT/INUdGl1Q=="
 ---
 

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "U.S. civil rights enforcers warn employers against biased AI"
-excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,” Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
-publishedDateTime: 2022-05-12T22:40:00Z
-originalUrl: "https://www.seattletimes.com/business/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/"
-webUrl: "https://www.seattletimes.com/business/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/"
-ampWebUrl: "https://www.seattletimes.com/business/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/?amp=1"
+excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities,"
+publishedDateTime: 2022-05-12T18:44:00Z
+originalUrl: "https://www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/"
+webUrl: "https://www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/"
+ampWebUrl: "https://www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
+cdnAmpWebUrl: "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Fox 23
+  domain: fox23.com
 
 topics:
   - AI
+
+images:
+  - url: "https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/resizer/ncV0jlI-iiHgujFeog18zA_A5sI=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3PDHKVR5RTTKV4MIFLKB6DGLQI.jpg"
+    width: 1440
+    height: 810
+    isCached: true
 
 related:
   - title: "U.S. Civil Rights Enforcers Warn Employers About Using Biased AI"
@@ -97,6 +103,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "oivr28rVWryQw4NoZuZwS4yUirCeO167lR38FUHAP5VMaj06R1N7RHKBl6I1EgwhrYd60+XHSw6sFgS6VJcOzSH0LF0WhZHUrLtpSJgNMB8jXv81yZMh4+/U7Qtsu+CDqcQkk0cFzTcLqqaIOa6mkR5rAMxwhLkeAx8VQM6AvCErTvAIUCTWvi3hKOggg273CHCK3XBVn9EANMSdArvW9fwvv6lRUzXN520C50Xx5Jy1Nni0Kd02xGm7ALh+qqMpRjBhTobeqbbKsKWilbjrgg3gTFRJRsYddvWWXQ2hW1x3Zud4HlG4uy5PGSOqbzmSq/+zOH5lhhRgwd8UgYyejeLY7CFuvaOf3tZHwzMIqyKJ59kHCLBAxnqlHz2i+HBNwrtLrqObZD7jVYKUxcFCm/8zFyF314xpXmsja0Ee8A4735TMj24KaQwJJZ7PM8Ptd1a7TgP7mNoTnd/cnnC16CQ9Rdvh+zbfE8/hWo7QNTdWwvdwasxxTd4Wh/Y9bp5dEpo3YQ05JMJqAleFc1eFiQ==;V54gf3MoAuVkbX3dfbNrDw=="
+secured: "ZsbeJw1QMgmYkae/mYk3WDCAGu1IqDdRKrDHVPSmsKUWTVrXZlE/jGMy9XNztc6zviCoJVUCIlqCORU2WptAvpeL8qZ/K0SP78ymodN5RlcpRbvZ19TzwtoHruWp4Pdi6uRI65qm/HMx7VpnfXJvuiZKsZQb8Db+b4ZLO9K8r20++ZNFkGcWSw7Mh3kwglhJ5/vvW2Nq40+wPuFaTCrBdv/46xi87QGuLVCmabluqQmoqMfi9SXLEOHHPFKEDpxEY37lgHWTdnB64zkA5WSa9RqSj+Yluyu35eMmXUWR9j92/ONTvBBqsp3L+9Ei3zurxr2OSGzlpko0orxWwQEUT/VI1ems6Jx0sKABpksdkL0=;06m/YpzHb9YMGESQEJO/dg=="
 ---
 

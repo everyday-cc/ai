@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-dr
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: MIT Technology Review
@@ -43,16 +43,7 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Lightning eMotors to Provide Self-Driving Electric Fleet Vehicles for Dedicated Routes"
-    excerpt: "Lightning eMotors and Perrone Robotics have partnered to offer Class 3 - 7 commercial fleet customers self-driving, electric fleet vehicles that can be deployed for a wide range of dedicated uses."
-    publishedDateTime: 2022-05-09T18:35:00Z
-    webUrl: "https://www.environmentalleader.com/2022/05/lightning-emotors-to-provide-self-driving-electric-fleet-vehicles-for-dedicated-routes/"
-    type: article
-    provider:
-      name: Environmental Leader
-      domain: environmentalleader.com
-    quality: 0
 
-secured: "1JOfYP+37n9oqZfIIFSULulesZylik4GaA2ARjsfJo69qA2sVnao7LC91vy1q2H6G71I8cr5CL1S1VBaQnCn6FC0tA0ZPhFc2PqqGtBFnUktETyNACeAYBucGZ5SaiyDQxbC+SivlnizN/pXTA/gg6kjhwtpmqZ5QOoV9tOLKy3aYuhg38ROqTROjBQc0m3RiQ8Xo90c7le4NsBwtgrijh/hjuYhSOdRRoZHewzyxEPP0RCGnkWA4sJXqSa2vIaXUtLb9+Yj/nGqHhMxK21mqFhD8Hq1nqRLD/vVU9NvlAl6gTL23B9DyaylY/ibvPtmHpcbIXM/hZwWLJdW2n9SgihyXosZDBuKz8kWVP37HVw=;bsuCY7F54bgVmyokEDqpIQ=="
+secured: "mnnRT+/p2Y2jtAy4MPV4LVzEwzuYg51RqKL07l72Xem4wvWgUq1Br4CBWQmm81sSTwWpgbMcAaHHXZEmRw+5++Lt8UNgTEYOg7Qukhzj/eD4gfndVFCpVhjcKOUHTj2h3yqUlGtdp2IO6vARGSaD8GQN3yWK0ya8XDdpIFX+zGFRe8NyVD0em00Qa5eJP/pbZkMD8yNZxehMb4ZU9HXdu+3sxadu0WO+R2Rb+NTmfNZB9pB3Rr+IjlYn0G4TV4XRH6xXVP+jRAhxpv7PN0JkGdFDm8PizAZFLJ2eSuaDj6D+p2TO/SJaDFMFasIweQ7OBHIRXkeuf/jQSZioJg7zQwrQi+tsvUzCq5cy0Y9beLs6jaeJ7piLJBg0M0p8OlJPXy5fYNaa7j7QAYaAWUDL1TJGmRGwTsbDAGuFqwyGMU98pg1n1q/QkBQ9QbkJ3eS9iVpnp++hlP1SZY+au+ujmiUlvyYK9DQ7K+K1VaJ5ehNaM+z010UjzaczwOCGcqZQ/gIHTNWRhzQEUUJtCpJvpg==;5BejxLi3K8nAlNtxQlXfnA=="
 ---
 

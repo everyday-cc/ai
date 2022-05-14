@@ -1,23 +1,22 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
-publishedDateTime: 2022-05-13T02:04:00Z
-originalUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
+publishedDateTime: 2022-05-13T01:04:00Z
+originalUrl: "https://www.wksu.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.wksu.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.wksu.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
-quality: 51
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: WUWM
-  domain: wuwm.com
+  name: WKSU
+  domain: wksu.org
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -74,6 +73,6 @@ related:
         height: 400
         isCached: true
 
-secured: "s4AxLxdyGP8ncrljyUAx/WTh/uvMmCvAF2VXIrEaLCQlyHAgZ1y++YfvxEQWCAs4K5DInDocgRAOVjp7x7lh+giNuIqEO6FV3G03rQQSwslBgaNC1u0qoJQNoir0j7UayLqVt18InT+A+7akujWBbruXRqpPPp9hun1lviKpJyMym5yZrnqYdgdhHSgU1vNrP6vW7aIys4MYVEf+RsJaEbck14v2+davQCLpccmblu3F5CZaWDnBCoiRMjqX+jq6nO9gdeLwJlcZNk5vbGTTus9CrJg5RdSCJXu2o+Q5Cpo//BcNZjuO5HS1VX7RuOdZOjAStTGc2/y4b24CTIN/rlQJT21EREoqusgiv4ENcak=;XEhGKs+YdOnMncY50VKfyw=="
+secured: "MEzSX+IsQGBqI4wgDilmsrfUYZSA/xbDjAr/b8qCZrga2LgMRu3s8XqK60CjrHLSfN66HYnF7glHaIKIpbpgDE+uvo8HH3Ama+IU7BR8JfnmxsJ94zncoP+r2ViVHfqh/IrwL9wxQmDE0cRFmD1YC4fu5+JMdMZWOvSM1Fokvpdex3vnf3/iks7gRrKpssDZmBcUS10AO/RdxjoobDB+e+RZFMaaNGMVJOGE6Ey51Eu30T2TNI1mHc/qDd3OH+V3J3aNJdBqmjBpp5bFlxbfS/qOmjOidHwLzFAiSCANnv5r2iRHCrvrWIF0TNUEQMdumqr5O6kQfA9iXXn1mLhGnAsfisAnRN/kLh0GPg6aN84=;OWSOpjNj1lCLM5u93HA4mw=="
 ---
 

@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 775
         isCached: true
-  - title: "Top Apple AI Guy Quits Over Back-to-Office Mandate"
-    excerpt: "The switch from full-time Work From Home to three days back in the hive was too much for one artificial intelligence exec"
-    publishedDateTime: 2022-05-09T18:21:00Z
-    webUrl: "https://www.lamag.com/culturefiles/top-apple-ai-guy-quits-over-back-to-office-mandate/"
-    type: article
-    provider:
-      name: Los Angeles Magazine
-      domain: lamag.com
-    quality: 17
 
 secured: "W6fn5cUkyPDfmmRlkYRZSjftpG92QB5q3VVpXjCZsXgRgSbWXD8hrRw8H49UTTgqOnW+Vtc5UtCSAHT7R2f4CWg0VWXStzlxPx9P5PjiuMHJCw0rdAjrAxiLp7NhD879Og/Rr0lH5P9Tjri1KQwTQPcm9nXs8EQ1lWmtCASlD+5YuEcKoweO01Wb7ECjAhQrkMIGmOypG4bERVpucwNmrfxhdrMVScbgQkCaDtw3a0CatTqa52fTFMHdZjsf4Ix3kPozGQm3BGIE599+7QhpeSGIupPmTdUKZf3DDJfLEYDfE5Z7ns1wT8k7tdzO+j2eRE11oU5ML6WvpKs9+miv6Su0RDLoJILThOMqzai5CKI=;qk1Qv78f4+pTMYadE5TOXw=="
 ---

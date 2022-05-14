@@ -72,6 +72,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "U.S. civil rights enforcers warn employers against biased AI"
+    excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities,"
+    publishedDateTime: 2022-05-12T18:44:00Z
+    webUrl: "https://www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/"
+    ampWebUrl: "https://www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
+    cdnAmpWebUrl: "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
+    type: article
+    provider:
+      name: Fox 23
+      domain: fox23.com
+    quality: 57
+    images:
+      - url: "https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/resizer/ncV0jlI-iiHgujFeog18zA_A5sI=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3PDHKVR5RTTKV4MIFLKB6DGLQI.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased artificial intelligence"
     excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities."
     publishedDateTime: 2022-05-13T15:13:00Z
@@ -86,17 +102,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "U.S. civil rights enforcers warn employers against biased AI"
-    excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,” Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
-    publishedDateTime: 2022-05-12T22:40:00Z
-    webUrl: "https://www.seattletimes.com/business/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "5VrWab1Y+dyGcZ8ELzhP9yZTTA5AGhQBvtgIY5WlHnQqI98qeh4Ae9IXn2O5P0qU5t8qdIBO4GwtQ8ufru23K7jlOCs1tP7n5aMhFw33Q/u3Y1YEovZARncANzCIjSzZmfEGZZVmKya21Zqf3iBWCZlW2Q85glyIYXV5pky3GGSrwha5NG1Fpj/mD+fhcfJv056kaWL+p9jWDF/jOGVgI2lEpJ825B0PzWgCi6CsoD4NJcAJyuzL39nDDDPInlcxkXx5r1LGBNdJdzTcGX/nhPGr7J7caCE1Efj4nkB3JD56JBkw8Mdf4GKIjGyVr7akCFNZkUF4BloVTZYzNBw6a9kgqle2iilU1f4cLMRKHt4=;m4YqqQjAcKCdK5QaWdW23A=="
 ---

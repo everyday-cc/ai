@@ -3,17 +3,18 @@ category: news
 title: "Artificial intelligence helps decode sounds of the animal kingdom"
 excerpt: "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human."
 publishedDateTime: 2022-05-06T13:37:00Z
-originalUrl: "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
-webUrl: "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
-ampWebUrl: "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
-cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
+originalUrl: "https://www.wcpo.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+webUrl: "https://www.wcpo.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+ampWebUrl: "https://www.wcpo.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
 type: article
 
 provider:
-  name: FOX 17
-  domain: fox17online.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -22,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "OWWB47CNdg0X/rJYiBmemW2HGCGuA4nKKPr3/zB4RWv+3tIILG8Cnyz2Znu+sTu0uxpPP4QGAX8TFGNFoAGUOfdvQaFTrkveEC1HL+o168UD/2k3Pzrzp4GTrSSlenbaKuQ6D7v5l4cLyyal6aanw1rQSJ1CmDI3c04V4e8JbtoXcfBWdZrhxTR9G79Obvmom9+5oMpg48FZlBEUghg9n9AYQCFZzMhl7RF9nuJ4U62iU54rkJ4Q84vM07H6y4ee/xy3gJu9bUVhDY7FS5XpMU4X2BfjoTQFqkl7kn2b6j1536R/Hx/mSJmjIkPwPz7W7VjKHx4VBRlOAUUuaYb150N8kpgAhDHywpBrzujAShMXG4imNkTx9IX3jruY1JReE9hv3t9QiIjOiNFp5pZ3gNp6zr220SLSjNutp7s4lkO2RNTeDe9WgZaw84EbwvZLsm+2NKX74fCWTffgrhfn5meDYzIsMFbfu7EmY/vJuTUoPk2RSLRf9BkQNPsKiDg+PnQ0Ga06B2s2bh5KpWu3lg==;odZpBbWAc8fB6du16x4X7A=="
+secured: "T4/7QmPV0SjXcof82Ls8bB6W7d2kUjKmtDon4cU5yDHvFd2lyErTIEcyJqqRrzDFVKGIWEbmHAJamHfqZS0uZsTB//r1JqdpR/sM/+K5BrFSMTE28RCMUnvCORR9m3/Hxf1q/gufPs29P77inU9xVtw6ulbtIIuooeLv7ytiIqY0Zj6AxR/FGRBZRBGGnx5J8AWWfYRNJ4l7YijBk0KXzy4a3ULU5oyE1AwOAUtc+vS9H+JZ4sYEY1OO8AS0xnIAbwDlbMQZpUyraNVZ3iqqYPSU7aM3kDTE8BIhxAYQQpBny8LEo25HrBLgYyNqjtDk9qerZP3NlDan29e+SvUrMo1rOgBYc2V0A7bLFgcT5PY=;PjJIkznCJjfpw3CJcPBZhw=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0"
-excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes SAN FRANCISCO, May 10, 2022 /PRNewswire/ -- D2iQ, the leading enterprise Kubernetes provider for smart ..."
+excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes. SAN FRANCISCO, May 10, 202"
 publishedDateTime: 2022-05-10T14:17:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
 type: article
 quality: 50
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
   - Machine Learning
 
@@ -41,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Endul08iWuvFZFAf/0t0YJCTaAxzOB2rtYu9pOebRvUXTupmT7S+CnccOSLKHs8yfJYIiJcv1W93Vc5F/0PyOtLegY1byiVSpRO1rfYNX7eqlBXDMCovNelaFrFQdujxn90uzVKdevpd4jmsqspD36rZafCDeYk1nQhdzugqRz/zC7BAeYhfyvWnoaK4ZVBGMEpxerW8sDF7drzLbk5x/3xn7MuS0uvOUJLY63vR9EvXlIesj3kILi9y2hxtBLzUibUcbIwRTIbao92Lcs+bgtc7BuOJZij8A4Anfbab0CIhsqAo66qGRa1D7Pen/dgqgQOiJKF2ETIB+n2Hp7DAx+ao9d7Bc3kOi/FjHHVc7CI=;qNOxkNtaw5O3jpIKVZAwwA=="
+secured: "fLZ5wKCJxttjjg1jvFhZ+LU3FVUztlh6XcrI2+xWEtRtgfL2vaV+n38/Vg0CiEivIgfgSIWDG9mlxv9S1PKhnUXakAWKtHjPnbuBy1CiPGLYCmVUZ4i62rBENHUD5ty/abjcUPQEJvfuJ5a9o1KHkbH7bMF/95Hr+5TJz/uQBXtKHE7cWGUBledc/1J4i82WAVC31bHiC4/ykBC4TJCmxPBB5VyUn+PyMuLcUSuI9EFtvTkPPuBkIv7cpXreXLuQCMJZGvORlNXp/WOr41hHwJidN00w0J5uHxaucsoTcnrz2oY826HX22dvLq3QLZ9F3AWV4LLCeDTyISy6xpkFNjOcbajYq80tQY77hu8Z3Vg=;IaCsiTs9aQe6DaPzgumbjg=="
 ---
 

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud™ Solutions on Microsoft Azure"
-excerpt: "RALEIGH-DURHAM, N.C., May 13, 2022 /PRNewswire/ -- Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, and Microsoft Corp. have expanded their global partnership by pairing the industry leading Avaya ..."
-publishedDateTime: 2022-05-13T10:34:00Z
-originalUrl: "https://www.asiaone.com/business/avaya-enters-strategic-partnership-microsoft-deliver-avaya-onecloud-solutions-microsoft"
-webUrl: "https://www.asiaone.com/business/avaya-enters-strategic-partnership-microsoft-deliver-avaya-onecloud-solutions-microsoft"
+excerpt: "In addition to the reliability and scale of Microsoft Azure, Avaya CCaaS customers gain access to the power of Nuance's Contact Center AI technology integrated with OneCloud. \"The combined capabilities of Microsoft and Nuance give Avaya customers ..."
+publishedDateTime: 2022-05-13T12:16:00Z
+originalUrl: "https://sip-trunking.tmcnet.com/news/2022/05/13/9601679.htm"
+webUrl: "https://sip-trunking.tmcnet.com/news/2022/05/13/9601679.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/pr-newswire_500_4_895.jpg?h=7de12b8a&itok=5UfKvAzi"
-    width: 600
-    height: 316
-    isCached: true
 
 related:
   - title: "Avaya enters strategic partnership with Microsoft to deliver CCaaS on Azure cloud"
@@ -51,6 +45,6 @@ related:
       domain: www.crn.in
     quality: 28
 
-secured: "ZrB/lECUIZz/9bikSBFozr74wFLvrh7dF+yr0WpHwblUh+t/nOWHJtgBLKsrve+PiivMkaZ0nepVVvd9pr0j3TGAhXbh8S/v+EkxMQp7h8saBDuU3MqsTmvDbqdJpy4bp445QiUIQQBeaFEfQ+4/xD3H4CSavAZteXmZRO19ZeMneOH+RNTvaxIMOXPcAj6cgkDam1OhgQnhajZhyjOiJEDpMiRTfWs6hN2qEfX8Pb5TJs+nEBIcTa/o4GCUMO8psQEllIipgNtxS9Z3TF9PfDlHTOJnnophVhoUf/Wbvm+fhaMB0GebGJBPFWtLw/GqRisQfnrNuFQ88qisjlp0luEMHG+VGY4XDPAW0t8bYxg=;ge/FtnW5JuWE89ZLZBZbSg=="
+secured: "wKYWxEUs4z6lHrGbeyGXY3U10JqL0YJhO54nnG6x0eZMRskKHxBAX4/lS+Xe/aW7mmAr/f1R7+Nq6aOdfb1TlksnpcLTc9nI/LsiNJNHbaU+KmhJ2aVRANEWXtN+0IWPbHG7v9NaCll7WFBRHuQqlr5i7Sn6K8WiA1LkD1VyJRWperEnPcQZFpQuuTsijrfmXmGq97Yip9mKGIC1xDJXJ4jMaiuPwg6EW8OM9amfEqkYHWNVEwwcM963JWwPrV0zB6/wIFjUKD9Z3a4nYLwXK1GSPhZtyHJIQrSaiwMlQDIESuwcJr1t7kdnEhYxGGVmacWbl4hRf6RlP8LBlMOSOVUAEClx+GDpZLdoyG5IcaA=;njuPDNFxNU0JpJOa5g88DQ=="
 ---
 

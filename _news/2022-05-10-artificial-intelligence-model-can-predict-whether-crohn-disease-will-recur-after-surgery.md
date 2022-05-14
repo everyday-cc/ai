@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-crohn-di
 ampWebUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-crohn-disease-recur.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-artificial-intelligence-crohn-disease-recur.amp"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-32.jpg"

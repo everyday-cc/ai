@@ -67,7 +67,12 @@ related:
     provider:
       name: New Hampshire Union Leader
       domain: unionleader.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/7/85/785c8c96-164c-5c96-acb3-903be39118e0/627c1d4755c85.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kRxKLNBzdQfgE69nx+jmFG3alii82jIgqJmE8SW7S9/Cx0nMLq3zpi5CKbZucCzmOh3H8yW171pvUa6ny/797CuzGmYE8iOqhw/H51kvAk676VEmYyAxogr4JrUEu4La9OzmmOb8AUWUehVky3HyeKbqOkYipbo+QgRTUm1LbVflgXP0zOQGpEXHuoq948uJuHAaUa6pNbtZvcWiQMvzuRJLG5RlyJNa6iVAbf+odwI+y4fPROWsTbvzJ9oL0ZYPKb3LrnLvfHKlj8Y+2hmc4CtMQMDQ98yAg3fo1PELUuiTXKVldqRNE7PDCjNbSliAFDHBvVlJOnuaLOsNXZeKPnEiw1oUfaq5nT4yLYuSKchkQx/MnW1eT3Ilxbii142jcCFy/ZNIymMddUgC/cVVK/YexOvobAAPmUnVgP7Ki8oc5BKbuqmDuWYEA0rorbiF1IofakZz8gf/gnNLBrPGzgJWyoTAy/CvulcqWedh4jvmW80Kd2sBrhfgLrEyI2T0vYA8weU2ppEiRTsqaKC7pQ==;Rb0Ym/3c5AXl4zqfUVkJeg=="
 ---

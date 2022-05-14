@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202205/canadian-lawmakers-demand-c
 webUrl: "https://www.biometricupdate.com/202205/canadian-lawmakers-demand-clearer-answers-on-facial-recognition-from-national-police"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1800
     height: 734
     isCached: true
-
-related:
-  - title: "Face recognition settlement highlights lack of federal law"
-    excerpt: "A settlement between Clearview AI and civil rights groups that restricts the company's sale of its facial recognition technology to private companies also spotlights the glaring lack of federal rules governing biometric information."
-    publishedDateTime: 2022-05-10T09:30:00Z
-    webUrl: "https://www.axios.com/2022/05/10/face-recognition-clearview-ai-settlement-federal-law"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 41
-    images:
-      - url: "https://images.axios.com/Y1se0B9OHWWiIVetQUsnP1TOTfM=/0x0:1920x1080/1366x768/2022/05/10/1652146619348.jpg"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "VwLJq4SI1cmUwPYzVApg6btGM+XqmHtXif63gFON7HVxjGdVf4uDUS4MruTV68POfunIeaM3c1xmLYV+rLuc7jDwmTn1iIZQbMikare2dei6OEuu4TBhzW+WGvLRM/NbuW6t/ZI2QWIwdy8wN5G8kIszyGnaq2kgNzdxupIOhDo8IUElQQHJP7w4AoLz7T6I6LpVp7PzE/3dsDbhkVbOvG5frMTclPqS4FjEc9s0E43ssPk7y/z48GtlCespou4Hh2RdXELD21170flRSl9DpEg/xDA3EGpQ9SwgH7p4pvskAu68MDSxwF2MaL/SpRN1a3XmH1t5YrfbM2i3hcdlzqGya6KDl+3ijau39y40t1mBLQ8A9jtJGsO6wSz0skFP4JkSLcbQvkeJs//YNlpzPkoJHZEaT58v++l3eGV2xllGWPKb4vjxvTAiqmXiwjIIEvsp+Bgu1VQFAS3yK4OuElHWrxsOrWSoHJ5epn9t02cxbLe+xXHLOSRTLVrMGC0V1UrVhi9llhB9RFjL4OBwEQ==;pc1sj5FmSh00WqDLTvTpKQ=="
 ---

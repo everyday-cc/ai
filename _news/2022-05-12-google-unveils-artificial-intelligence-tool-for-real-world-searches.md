@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-11T19:59:00Z
 originalUrl: "https://www.unionleader.com/news/business/google-unveils-artificial-intelligence-tool-for-real-world-searches/article_7e28b911-e883-5520-8562-3c5c59520a84.html"
 webUrl: "https://www.unionleader.com/news/business/google-unveils-artificial-intelligence-tool-for-real-world-searches/article_7e28b911-e883-5520-8562-3c5c59520a84.html"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/7/85/785c8c96-164c-5c96-acb3-903be39118e0/627c1d4755c85.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Google I/O: To build better AI, Google invites others to join its AI Test Kitchen"
@@ -67,6 +74,6 @@ related:
         height: 374
         isCached: true
 
-secured: "6Y2B6qg2XQ0lX7Ukewc27Myo9vaoVnaJb88sQ+NPPPuqCoXMt0KxTHGSiheGVpCBr2bopxjOUk/u6Y5u9CJTOy6K1ADZppgFxdvgZSJTcRnjChAnacS43yrkHhUhhEmrmMrto6nmXDog0oGgt/7st2UyhWuee/7e2ho/P3vDkuTFh3mAUQW0GFpRtl+E9S1n2XP8NqrcR/NGuYJKlRCVVaeNFX6kwad7YLTOpUWc33DQnliwwAWQOsRK/CN0iof4ifsN6YzRey5CDRXJt0rNCR+e/5ZDjDhCIWI1077ntzTlmptIKeQKJ0N6u8QeE4w6FlMCeHI1NrJHJQ+ZnKjkA9+6O87Yq6WiosKkToUAGQ50oQ9SdnKVDnWz4XcSjc8u7yi7Zn+1e3xnsMYLmz7k5zFji/eHq7pYEUvfc9grlS1I0Ydz2YXRsA0zYW04gIDtnUCIShYdrPYEYjPRVbwCg2o2TEa4RBdji5Kpf4Olt9aI/MP+7C29r8RlrkGTFf37bE3890tdtpWFi2e7zFdmvQ==;/r4eWatgWKkPn2LYy82g+g=="
+secured: "vgQ6HBnhTZyWv0pVJ3yMudOeU/6TeO+/DBHElNpo8k/+Nj6JIi3nqYBVj4dqVMyUyQh0aoh3Rxn1gDdPJ5I7dYUPLg50rLPDkMl2NDOuBQPztTmPifBuJS+cfcZL6gVT+Gj6xLwLSL52h2v93vVo+4PbBWOP80pmZD0CnNFvWYF/cOl7PihSGheXB9aC4h+33lW8IfYuth0GAlDH+lNkkrlqT/7GD/aUoYEoWnwEsTWdZo6KUndGkORTsqBUk8J5RJdPhveLGbPcYvq17yEuNF5faczG3LIwOj65vV0vDaOBef1flhgvVO1l8JfzH1t+Y2F4vdgvxTowqDEzwXCHKZC766UQGyzDJpVrvnJjvWY=;aEqwwR+/asFJ/O+fQeBxEA=="
 ---
 

@@ -36,19 +36,14 @@ related:
         height: 400
         isCached: true
   - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud™ Solutions on Microsoft Azure"
-    excerpt: "RALEIGH-DURHAM, N.C., May 13, 2022 /PRNewswire/ -- Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, and Microsoft Corp. have expanded their global partnership by pairing the industry leading Avaya ..."
-    publishedDateTime: 2022-05-13T10:34:00Z
-    webUrl: "https://www.asiaone.com/business/avaya-enters-strategic-partnership-microsoft-deliver-avaya-onecloud-solutions-microsoft"
+    excerpt: "In addition to the reliability and scale of Microsoft Azure, Avaya CCaaS customers gain access to the power of Nuance's Contact Center AI technology integrated with OneCloud. \"The combined capabilities of Microsoft and Nuance give Avaya customers ..."
+    publishedDateTime: 2022-05-13T12:16:00Z
+    webUrl: "https://sip-trunking.tmcnet.com/news/2022/05/13/9601679.htm"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/pr-newswire_500_4_895.jpg?h=7de12b8a&itok=5UfKvAzi"
-        width: 600
-        height: 316
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "p1VHd8Wrz9N18K7DJR7qcvfby/7t42BKZHNHoBG0XoNDJQvNYAsikThN+PWiO3ymgXyKbkMGtYnSWV2lET+ldr0XjEjnH7g9CN10KLEWgiM/HS8mWKk93jfOVEimsu8upVI5y6WlIGQ+5t8hp8uPw6apFYd+Tx1B4u43PdrKyGrW9BV2SmzLnbZS+2E4ZOOlHIJ0C2c9yKWZ1xAjN8hb5KwRY0J97SgNKoo+h9sO4xQO1LhiajWw5KvJZK3VLAykkLqZ8Gy8hrkyEydrTsji7kebFN2K76wRDGA1/mG7yL28ZqS8UWrmPhzh+PJ6pIoDKnKzAbuwOUO6d5n8/v+u2MPhTFeR7E6beGDa3RdpOixkDqslkBBzhgupwExSN8WKTcncG7r5e5ynMWFyRZcHgFrPdEVQaPGloHE2lxHBVOiwAbtCDLvEASepae1ZMw61MUIUuNxG6P06gFr8OFKl6aaAf8M5DNvpSXhEOgX6fahIXGPH0yxSJ/l+/R2CEOKz2rUq8R0sm6HYQUJBe2mg2A==;VbnZK8ip0FmAoyPTGTJ9rg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.northwell.edu/news/insights/ai-in-health-care-4-steps-
 webUrl: "https://www.northwell.edu/news/insights/ai-in-health-care-4-steps-to-disrupt-health-inequities"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 1546
     height: 1056
     isCached: true
+
+related:
+  - title: "AI trends to watch out for in digital healthcare"
+    excerpt: "The advent of new age technologies has influenced and affected several sectors and healthcare has also received its share of transformation. Today, the healthcare sector looks much different than it did just a decade"
+    publishedDateTime: 2022-05-14T10:24:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "Banking on the digitisation of healthcare: what the industry can learn from financial services?"
+    excerpt: "Sales Engineering, InterSystems As the healthcare industry continues on its digital transformation (DT) journey – which has only accelerated since the start of the pandemic – there is a lot it can learn from other sectors that have trodden a similar path."
+    publishedDateTime: 2022-05-10T18:46:00Z
+    webUrl: "https://www.globalbankingandfinance.com/banking-on-the-digitisation-of-healthcare-what-the-industry-can-learn-from-financial-services/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+  - title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
+    excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028.This press"
+    publishedDateTime: 2022-05-13T10:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/e3c6eede9f0b92ea738e91a001040ed4ff797a69-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "Z7chd6Wohy/KUaRPqwGPtTGLOrzCPzrleuH7u9zkerLgnGod9FghjFwSegrc+6lQMCA5SWwv3igjGTSKIzFkVZw+/a7UgPEwe0IPz/NXCkTm96Emu8RnY6K4GxPTxdeqTeMZaHC7dW0XvdtyVc4mRBMX5Yzq0G/GneSefm+cE6moDMEfPNEGVeUWONvhP5fOEUbe+l2kI9xPBfxyhCXDbvOQoEK9KilViXfgBMKiTOtHQvZlEZT/kzqOSAeGC1g+6X9Pe8rzOtoaY3Nx7C9Z6PsxoYwmLNm+M/55aJvCeTduikwE7FrLylBqn7rSFGI5W9yJ6SxhrVseHodRmTHHr1wPk2aG8fcyn+ie9/voE/gFbxIPfld3WwjTiKnGaMEe2fB/+A4VRNbKix8tRqrv2X2Lnexp8bIswGKcrRWjGa6j2tdJEPUbz72swmkF3uZdrOnwXjoWDlVGqlyYB9vrCsrPR++e99SXA6XBBCfpD0ctYMxr23dp+PRy+mSm/10RtnY/K4Ipj53WTBIqISPIUg==;XSeAp+DJWnoRHze4iDfPTg=="
 ---

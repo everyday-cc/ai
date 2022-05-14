@@ -70,7 +70,12 @@ related:
     provider:
       name: New Hampshire Union Leader
       domain: unionleader.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/7/85/785c8c96-164c-5c96-acb3-903be39118e0/627c1d4755c85.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0ovhsWck4P75LhdloMTCQbj5X+kv2RxRdFY6YcLWaPG02GWECuYcbxrOvKg95Q536eLDCQ/BVOWPGeWhOXLhd5m19Y6/0oeWI1hAW8L7/9OaZPuOcpMxhBvOMNT4IhTgrFBaXMIYY+y2YZ+fCUwntHx6/egZm4xNpeb7I+JjKrk9y14kJ8GYLMWeb5seXb7JzNmnXUuQaxLfeZA+CXQJn3kYUo5X+dCNmkkcN8JiYPpy5GlHHp7haJ+hrvSr357gyxiqDWVUB/KtR4+TZddQfZ0liud5M6O8nHtR0AZUofNq9N3meovya8i0PUG3Eiw0IMwr6XgMSK6ebjw6nPR6BpUiMAaEdbKSVeFN1J5RciM=;RAdhR2PwLyv5INrQX7bkWA=="
 ---

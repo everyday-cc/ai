@@ -2,19 +2,19 @@
 category: news
 title: "Google gets more multilingual as concern lingers on artificial intelligence and language nuance"
 excerpt: "The internet giant says new artificial intelligence technology lets it vastly expand Google Translate’s repertoire of the world’s languages."
-publishedDateTime: 2022-05-11T20:43:00Z
-originalUrl: "https://www.lex18.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
-webUrl: "https://www.lex18.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
-ampWebUrl: "https://www.lex18.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
-cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
+publishedDateTime: 2022-05-12T14:20:00Z
+originalUrl: "https://www.wkbw.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
+webUrl: "https://www.wkbw.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
+ampWebUrl: "https://www.wkbw.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
+cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: LEX18
-  domain: lex18.com
+  name: WKBW
+  domain: wkbw.com
 
 topics:
   - AI
@@ -38,6 +38,6 @@ related:
       domain: newsobserver.com
     quality: 24
 
-secured: "wy4e7SvxmDoOwRvQRifchUGHO7jgHWqHiKq6jBFwYaNer9smeuSPRNpBfWQFS6hxGCCZxc3Q61VkF7n/agNimyIlbk2W3+FTCTsjas9YWVEHUSfVnQL4DNGVossjRZRo+/hpTCnMnSFwybQ9zvTdgIYeplFtAlRn7YaQh2sxAwBqm4Hy/SFpIjvdNdYBuPE0XV8ICyKsoiZOWuefg6aTgHjrIc9Ovcf1f5B8T2mfUcIKoyX8IhG0j/EoRqQevY8rnFfakzhBmm75+eYeybIxf5YKH7bYl0P/hiP/IABcHFIBpwHEircq2BDkR8dw3R0H+ONisCXykBKIw1GRMdKXZS7cQp8w1Tr9LkU3+fZmTKB9aE+8JLUfPhINQ5ag7TjUPlCFUUH1cMNYu1klA2NOY1UGERYX0kFmJfYx3Dls0EePXndttPiXL+Wk0i+TYrvdTd/7Nnn/phQMv7EQXWhBQ9CD5vi4dbDhxEThWUIIWTBdHDaQdrAJKkLpq6ceyMmFcMuqnLPb3Gp5Us3Mr7nEIQ==;7jkzEcpxmdPYBOxZ0wZ8VQ=="
+secured: "Sp98AuDi5JHxDvVYs6YygvF4FS92ivIYwEcwZafjPNl1cbEsN5sqWNKBfsK+wkmHk0WluDdSp4rnWcD/RTto7EpMhD54n3EVIcmwm5Yd9PQlEw+/OT7fB61zZ4ZIhr9R+dU2ads6rQ9Xf3J/e851l1DdrTMSreFqfI2My3SNih8eeZLakLct59sSnlfZG5201seB8yXLSmgfs/HaIrrW2okTg90/GwHLDwwedD5QTanD52A80N0/vEwUhWEOaVbMUzYGza7ljKu3YGf+d15TQORq56x4qyrHS7FKBreMZ6Z9544az7Uk9P4jD6f5nG3aC05QLMBy4LuhjVpYppBEP4CEIXADmg253d6VYBq8Cmc=;dk302tjzH9DFctI9JXy5Dg=="
 ---
 

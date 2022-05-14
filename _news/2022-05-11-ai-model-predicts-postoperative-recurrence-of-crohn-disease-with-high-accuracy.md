@@ -36,7 +36,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-32.jpg"
         width: 2880
