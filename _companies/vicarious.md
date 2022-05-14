@@ -2,7 +2,7 @@
 name: "Vicarious"
 overview: "Vicarious is developing artificial general intelligence for robots. By combining insights from generative probabilistic models and systems neuroscience, our architecture trains faster, adapts more readily, and generalizes more broadly than AI approaches commonly used today."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://www.vicarious.com
 
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=m6XVt9H2cDE"
 
-secured: "Q8oc7zpCKCv3WxrY8hbTplLVwMBBTohniWFDchAPtFswHAXz02W+M+esJXgz6d7J4C2zyld391kVsWLq9iqDmY1pd3b2CGCzUKYtVSHgek5vpeFFuy9hdDGpk253xMooexIFQhGozQsZD7UGvMQ0QU3ePFV/4x057WK0Q8P4uVbOuL1tVLpQrUOc58U+fsNI47j25k5Dn1BFF1SnDS6cjamQ/f+U3T0FAu91rodAG4U3eJyndfWSQXflU/TivFmfhzvLZCob1Bi3lRsiTi6m3BF5qhWbVshwL0e603oMwqKCDfbWhHwWO+tnONmsg05r0Qpu78v1lahsaKtPBI7OQy4ugFJxAunF6CoW31TeIsSdTauK/XZBXfr8N7Rih+8evaBHD9hcNgsj/HwiIpYRzQ==;hS7Rt5KoKL9iObrFooyyOQ=="
+secured: "VXvggQsej6C+YVD34Kum83txbqlBfKw8huGDgHPdPW7gtNSWoSVod3zJjvIHSXS87nBMo3TrH2BB2ULV6gAstVcKdd3FiVQpVyL0JLUV4lQQnx6XMA4eWHfD8hh8r0gipVmO0vG3sq/UEyYlkVM9Gdr75o2x8RTl8yfPGDc6jArpa2dduLlNJccRbl/ogGf7xw7Bee5Z/9tlMJ5zrG/2KAQVxxojd4hFmnlE4bVaV1kLKCRhIgk6R40xYJ0xzn2Ds3SlbV4lZPaF245S931+5FrdEpDNpVVmPyLOn4/uoIyuSsRuQqHEm3/N4QdGPZBHd12afwPb+1E09061x740A2qfzxQ2FI9nb9SqFX7VOGCTtT0kBpm4VPGqydpLJVWNwB2fbjYvBsGQRdGkeydEdA==;AJyob/SyVukj8tHT54G9Nw=="
 ---
 

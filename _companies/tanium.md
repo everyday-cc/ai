@@ -2,7 +2,7 @@
 name: "Tanium"
 overview: "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale."
 type: "profile"
-heat: 78
+heat: 64
 
 website: https://www.tanium.com
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Tanium"
 
-secured: "16250bzKJilG0ZNcwil8axflW6k8QY3S+ccppC289Mzn6H5L1Hqxdh1P0tFuepXv6FtLhSwyFmcfl+5f4MFPqBnmF9ierhl2qw0zHHxj7ttgFe2hyW/1TDp5U8Wt4ZYLwxHyPxczflY8PFpDGvDCf7CmiVbHAXr76vhC2/PhtHPNGxMcsXGWABAKWs22BwIonsUzPmA1Ev9OfNDBxj+8bDc34HKTRSSXoOC5w3q4RxZuocvQF3U9gOrb8kVSm/wwZrXm+B+68wd6IGk+GwDdhi6Xb2Nad1ohTMihc8xFUVpTfGzKYQvbjLgBzRdwidr2M369n9cjXVZO+/0/ih+TxRwLu5BCc0tLvOYdtLKvf4U/tAclpphvg0oHEvbpuXRx3cBVMmZTWT2bU7KvluJHKNf0J9duF2E9+u7FmzJUiCA=;AV1bV+z3sNybd+DLYOIWZg=="
+secured: "rQVzsrwmBdk1FZTrCPVRsA4heA2gUzpR38kahAcyqzcVcr2WwBbENlL5pM2NWlRjCsYvERWo9wo1I1v3gi5Q4zt7Q1f18FTiHtkxVO0iNoh5/KSP+QqQCQ/p8+UQCV2L035GpXlMqqmmR0Jca91u9NkWh0na0pHiPI27M9t57fLMAR5zrBPcZt4fGHNaizydqVBPKY2SyBtZwAdFED2th6ir78tFx5lj6rYPNly3UIyNz6J7LRcdrqsUGfUdNTNH+YAIIZDyh2JwtpzRP11OMA1w+Bma3f1B16t/AtMYYA0VarFi7xGXqn72iz6b9XcAxVAo5dQz/OI1wG4KcZOEEqqkHGC9d6hxGXcspwWw1SkOWJHiwpcDHrWz0XO94w5RT4fKbW8V8kbmouwENwGvmJHt+PRm8uD0uNZ/vJ2Nz7w=;rtwNBEZrMYp2/uyL3+EiNw=="
 ---
 

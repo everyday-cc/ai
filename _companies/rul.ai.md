@@ -2,7 +2,7 @@
 name: "Rulai"
 overview: "Silicon Valley-based Rulai delivers AI virtual customer assistance that reduces sales and support costs, increases sales conversion rates and improves customer experience with quick, always-available, chat-and SMS-based, human-like conversational engagement.  These smart agents, driven by Rulai Natural Language Understanding (NLU) and Deep Learning  technologies, enable brands to handle their growing customer interaction volume faster and more efficiently by answering customer questions,completing tasks and learning from live agent:customer interaction.  Rulai Virtual Assistance complements live support with seamless escalation to human agents when desired or required for more complex issue resolution. Rulai solutions are developed and supported by a team of award-winning computer scientists and engineers widely considered to be among the world’s leading experts in the field of Machine Learning. For more information please contact www.rul.ai."
 type: "profile"
-heat: 58
+heat: 50
 
 website: https://rul.ai/
 
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "66FmcfOXNL5b+LIxta4FoffD879AKw6N8yto0Mo/yPOagQJsDeDQAKFvu9UUy+aAKZ8c+NNaCBaIXqDSqmszLhP8cw/PewBag5Djnwq2Ck+Yre2BZ3yQgI3YCphH82dba/R1O3BKhLmOjo9A33ROP6XdFXL4/yRcsVoJhLpc70L8kkTBQfoF6WhGRS2CsbJNimEAy7iKL3Rqykwh6s+xEFiiO4Wd3n1no+19TbzxDkx8fdbwbtHY6Vbozm1bIINbRYriqlNhytb68tkPTyDfPVsue9Rl3iuVJlBSsD5FhoPQENmt+FeAzBUuhFtaJlb/8nzLbGude9Ckquy9yHJdzG5QYx+prgcluiC8Lqi0pOfvEbtBWdhI/5L7MQbHPQtkCFn9rtiKB5pVGBWAj89Tew==;nkZ8HvhMG451P2fWJrm2wA=="
+secured: "YyVRVvtNn5Rh4Yd2jjnLV6RNFHXh2M73OJNhP5sQe8UFA6RI3jgQ/sYnJezfpEE/AXf7Wf6XYuDAVBe5co5kS/v1AEcYo/vb3gMYgiEhBMX/EOwUFawSv6RvY3/gTtvKCjfBaVxfHl+skZMFQ0gFhQgzjRnt1Ybsq+ooHwZ6oQr4M1cT0yULJwJC++sSM95v9iwThhvMnwz+33xtShvnCRoXG+jgyfNzi79lAFO10QkTWL4SwRZXaDhU4vbUF4hwyXTVRBtiJxDoVWq+CSwVELfK1tGaKiTV9yrLeZLCRONFOevr4T0W1UHQGwe+TOPe5/OpRwU5L+kqdZ8mgPZKN+gFW6pRKL5GDn/sd9sELj2njVRVvI7fz9Xwxl5YMgpzvTIBEkJ0kD85YuUsljBzWA==;CJqY1zWAkZj6ihBRcvRK1w=="
 ---
 
