@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Arrikto Launches Kubeflow as a Service Giving Data Scientists Instant Access to a Complete MLOps Platform"
-excerpt: "Kubeflow is an open source MLOps platform, originally developed by Google that includes integrated components for model training, multi-step pipelines, AutoML, serving, monitoring and artifact tracking. Arrikto's Kubeflow as a Service makes starting and ..."
-publishedDateTime: 2022-05-10T13:17:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arrikto-launches-kubeflow-as-a-service-giving-data-scientists-instant-access-to-a-complete-mlops/article_6637c55e-1c46-581a-b094-291176cc7a88.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arrikto-launches-kubeflow-as-a-service-giving-data-scientists-instant-access-to-a-complete-mlops/article_6637c55e-1c46-581a-b094-291176cc7a88.html"
+excerpt: "Kubeflow is an open source MLOps platform, originally developed by Google that includes integrated components for model training, multi-step pipelines, AutoML, serving, monitoring and artifact ..."
+publishedDateTime: 2022-05-10T13:06:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220510la51932/arrikto-launches-kubeflow-as-a-service-giving-data-scientists-instant-access-to-a-complete-mlops-platform"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220510la51932/arrikto-launches-kubeflow-as-a-service-giving-data-scientists-instant-access-to-a-complete-mlops-platform"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Machine Learning
@@ -36,6 +36,6 @@ related:
         height: 682
         isCached: true
 
-secured: "xZgE1meekdCDv1SE1kXMONc+edETS6SZNW8d+21ZUQRnWDALcTUHo4dKHo47J0YdcPy0z07yTgDDN+teULpuhJQgzG1NAmKYE4AbAHvGdVoqnAGkxxxQOpx00dNJ/jSF8nYSEMe8VUCNJnvL8L/r3CotPflWZg7S7anhOy9SvTvnFgxJKQ2SvnX3LHae2sqnRiInhQOK1iTuQS+2KOWbAY3MhmAWgd23GdbzFqeVt0cOecCyW+w6gkEy39MIFX7uuSNtWtf6r8MEVvvyXmxCmlLdnzo0uiiNaoz9LJz0HqLCNm7+bw7a5+DaidbEA0VwPnkoeu5BvIeln/4RgSLc5RXpydrcWN2EFD4gezLSRD8oOzGTv2cL6i+77OrRsksQmp4sghQfeAhHAqO6e5h7I4ZfATlzymNkp3LLmiau+wpAHe8YDvC5Ep8ET663zv1hT5BSYqpRqLw3/jcMbev96fEOWmA2Sh/QTmw+OK6Q5KczdshiyKyL2D+5Dw4+XPlNcD3wWr6W81RKdIlSmBfU6w==;WVut+zfwijlAuu0TnLGZmg=="
+secured: "x7B3JD6WUKsDjVvWpQlvJPbt+4g+who8bYA/O2qEN5M0zsnuY9Bs0yjXvh/jS+ON/pZa9oK+FJeIdSWHnf2bSq/GgAv0jDMh6xU0kJquV/ryCcB4/ooKSAHFiReanOWGNQE5/TTVwYwo0vH4jV0w0Yxq1017ktrF9go5/n8Edo0vivC9PZNB7EtvG10rbP/0gx/chGK+DG5oRPmin5MuGlOZtKSzYq74lDM9f/lBpl+yhURkNrGGW8KOT/79rTj4Zm3qPgb0HZ27aDOjR0ZjJ+VL0gE6eZchbBjKPWMjwYuAqZupR5SW9NVhflR0TRSe7Fo6O2j3ht2aWm9E7pt1+EREMmlMoG2cAFawOO/6vpg=;+oHzrJiXuxBXQXTLf0n/8g=="
 ---
 

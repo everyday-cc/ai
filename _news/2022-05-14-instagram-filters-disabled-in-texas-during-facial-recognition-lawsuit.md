@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Instagram disables certain face filters for Texans"
-excerpt: "As of May 11, Instagram's parent company, Meta, has removed the ability to use some of these filters. Meta says this is due to Texas' facial recognition laws. Paxton says the reason filters break the Texas Capture or Use of Biometric Identifier Act is they ..."
-publishedDateTime: 2022-05-12T00:18:00Z
-originalUrl: "https://www.khou.com/article/tech/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
-webUrl: "https://www.khou.com/article/tech/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
-ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
+title: "Instagram filters disabled in Texas during facial-recognition lawsuit"
+excerpt: "Instagram disabled its filters for users in Texas, thanks to a lawsuit filed by Attorney General Ken Paxton that alleged their facial-recognition technology residents’ privacy rights."
+publishedDateTime: 2022-05-14T00:48:00Z
+originalUrl: "https://nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/"
+webUrl: "https://nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/"
+ampWebUrl: "https://nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/amp/"
 type: article
-quality: 59
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.khou.com/assets/KYTX/images/546194956/546194956_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2022/05/instagram-filters-90.jpg?quality=75&strip=all&w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -47,6 +47,22 @@ related:
     excerpt: "Instagram's parent company, Meta, has removed the ability to use some of these filters. The reason for this cites Texas' facial recognition laws."
     publishedDateTime: 2022-05-11T16:54:00Z
     webUrl: "https://www.khou.com/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
+    ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 59
+    images:
+      - url: "https://media.khou.com/assets/KYTX/images/546194956/546194956_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Instagram disables certain face filters for Texans"
+    excerpt: "As of May 11, Instagram's parent company, Meta, has removed the ability to use some of these filters. Meta says this is due to Texas' facial recognition laws. Paxton says the reason filters break the Texas Capture or Use of Biometric Identifier Act is they ..."
+    publishedDateTime: 2022-05-12T00:18:00Z
+    webUrl: "https://www.khou.com/article/tech/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
     ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
     cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
     type: article
@@ -91,22 +107,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Instagram filters disabled in Texas during facial-recognition lawsuit"
-    excerpt: "Instagram disabled its filters for users in Texas, thanks to a lawsuit filed by Attorney General Ken Paxton that alleged their facial-recognition technology residents’ privacy rights."
-    publishedDateTime: 2022-05-14T00:48:00Z
-    webUrl: "https://nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/"
-    ampWebUrl: "https://nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/05/instagram-filters-90.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook and Instagram right now"
     excerpt: "The features were suspended two months after the attorney general sued the social media platforms’ parent company, saying that some of its practices violated Texans’ privacy."
     publishedDateTime: 2022-05-12T23:21:00Z
@@ -138,6 +138,6 @@ related:
         height: 2048
         isCached: true
 
-secured: "4J44wqMPI69mtJg/XWlUSZL8o0mMyfPVa9As/QrjyLHOrnL3qg079idEdUZJY44CqLvnUZ5ezVmdMdksqYk6xkKSTc093oEnyJY7UMkpdl8YyIO5IdwkQdAvSJB8pMNN0NBsuFctrFdYDpMhY92/c0q2aesPH77CtTc9a3lwVQdQmwXq+kd84ZFa0OV3ndPUH1wWWMbw7CL/dnoUYdBQMWeHqNuCyZwKkNnVtwZUpBMp5iCUDdO9zQcGJMzBkwOgFEOi7i4ax+/QTxnf9POcyiqLQmWtCjaneQDigywEvCeQfVxP5P9cDsnCPs/NyKbOoGu4M7+apIkZQEB6/ckwWxhroasbosdu4tLvKEdG32M=;6m21tKxWMph8TeUYxHoxZw=="
+secured: "plZUnNUVmCyLVRL19ig4RLQYJkSHtthUb1coAH7eFo7wtCmoPQvDN9rdlA+KovrT74jo6M6rPS+DVr8YKNeyLQ5x3xRqAabMta5U57dSRV76GNLx7+QoIUm0lxFp4bvXDdbAxFtVPWmLs+s61gHA5ALXfOOc7apuxC7HgmM0Oe5x7x/NYgFJJJSm+gQxTN5+IUrdbBTBCYlTVJwvtufIcnpitLixQSysT95cpcdH9JfFmRqCbD3kuX56WGhX8F/IRlVhJysMosnP1dTyw7PvQwiHjemRFXNFSaIvQux9eUysdSnc9LpBPppbFe+IXjPYlLITAG22iTJ/A8Cb/ehf3V3GqYmK0MJ0qFfJtGAHMgE=;Nq7y1tp/RjKEzyLK2bdMmQ=="
 ---
 

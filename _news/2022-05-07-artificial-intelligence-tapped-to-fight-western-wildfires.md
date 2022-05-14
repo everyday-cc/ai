@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Artificial intelligence tapped to fight Western wildfires"
-excerpt: "Officials tasked with preventing and battling large, destructive wildfires in the West could soon be using artificial intelligence in addition to their arsenal of prescribed burns, pick axes, chain saws and aircraft."
-publishedDateTime: 2022-05-07T16:57:00Z
-originalUrl: "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires"
-webUrl: "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires"
-ampWebUrl: "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true"
-cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true"
+excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
+publishedDateTime: 2022-05-07T16:40:00Z
+originalUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires-2/"
+webUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires-2/"
 type: article
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: The Durango Herald
+  domain: durangoherald.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/6f63def/2147483647/strip/true/crop/2436x1370+10+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fa8%2F2210e55e44b6ac36223edd42b57f%2Fwildfire.png"
-    width: 1280
-    height: 720
+  - url: "https://imengine.public.prod.dur.navigacloud.com/?uuid=ACDFAB13-4AE4-48A8-AA3A-808B5FC0BA6C&function=fit&type=preview"
+    width: 500
+    height: 291
     isCached: true
 
-secured: "iujuCD27rHjcErmQ37wilKcpeD1HUNOi+GCZUJ5S5IbmOU59AOu4WM0RDVYCiCcX2rO/Xt7K8IEgz7hmmQCznqfWkThO7jq1+gvLaAhTIYrL1EbuVFoDahURkcKwqe/qf5XftzcWDzjJBZMW3ZFezJ7leJ0A8m2wVTFv+35z5p7eZhZTb5Qr+65csWuz32dIm4jpfZMwd8s4ynyWW+JoIreucj+5daRdRkcEh56+f4D7T1DYl4BrHn9IOqyb0SknFulNOiVNKWgLBRkZcL4nRhlJaMU1XlSMoCfK/ldqpUG3Ay1C8r7yOvwLUcUSkw2xygzm9X1zFrafyfdoemkiFV+Wp+Z0JYjAbbVRbfNEVX5jI0hyAk4bnWHjVtuX8WXSDz/jpD1j0Igu7+OO0nLymSoOuBckqRLb4TKk8GH78hMJXeVxGIj5z9cu3YfoEqqH8GCPPHgwp89i6ARCQNZp9zWFarGqyxvUpBLx1a2tQ4oHwT9I1edIIu7UxfEe81xMicLZ81iSJrOPnxFtZI+qIg==;fn7NZ/jjFqzQceAEqQ8N7g=="
+secured: "UWEKCIXwFD79q8mjvhMBY6F29XeDfkp6grJqlJH0OP94yghWIjpW0rRRNW6nOYteLtrznrS1ISNR5ODoNwpbeoPgSxEL2qdmLCLnzGxMnjnMDtMJHef8Qq2zLTHm3U01eRQqTj6Yn8d9EKrkn11o4s+vGi0mjmJy/n1zdrA8KkuP28yp9pftPV2eLP8/T6dEEkGysHkuHUbDYNP3CgoJ0peUIIBje0mXZ+SlIlFr9c3UQ/jJwMSy+xqmWnTNmP4TYzhQtXOyK+q+rXBE/wWgFdIdMxG0wMpW4C+lswnhqcYvwMXZ8H5WEE4QeCpRlQO+Bt/bve/+s1p5vYckcKhZmgN+csjXgnTopDTSf8DXJ54=;iCy+QbgbGEzrk/qfmkySAw=="
 ---
 

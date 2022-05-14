@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27188614"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27188614"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -20,20 +20,24 @@ topics:
   - AI
 
 related:
-  - title: "Natural language processing market is Driven by Rise in Utility of Smart Devices, Finds TMR Study"
-    excerpt: "Various industrial sectors today including healthcare, manufacturing, BFSI, automotive, and advertising are growing adoption of different advanced"
-    publishedDateTime: 2022-05-09T07:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-market-is-driven-by-rise-in-utility-of-smart-devices-finds-tmr-study"
+  - title: "Machine Learning as a Service Market Reflect Impressive Growth Rate to During 2021-2031"
+    excerpt: "An uptick in the adoption of IoT (Internet of Things)-based applications is generating huge demand for machine learning (ML) to ensure the accuracy of business operations using IoT platforms. Thus, integration of the IoT technology within different ..."
+    publishedDateTime: 2022-05-13T13:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-market-reflect-impressive-growth-rate-to-during-2021-2031"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 26
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6b0cacb0dc52a482f031fd2e48e48717cbb24b5e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+    quality: 11
+  - title: "Self-Driving Cars Market Growing at a CAGR of 20.3% over the Forecast Period 2022-2028"
+    excerpt: "Self-driving Cars Market is valued approximately USD 1.74 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 20.3% over"
+    publishedDateTime: 2022-05-13T12:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-cars-market-growing-at-a-cagr-of-20-3-over-the-forecast-period-2022-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "pAx/EcBJbecrGAp4OeacAEpHQ0P8ZFRPG2Mz3Yyu1cf1b4ixbpKRiDMBMOyvNcp4SUG2g7wMMvyQharwzqOoxDRdluUpVe727lnMJJi1dD3j9ZmLJrN4fO9+a8PJcKla2upU6yf48QKAnaNun5w98F14rX3zaDf3S/6os/CeNFjbwBGVvxVP5Qwj4q1+jo3JnLXZja1eWpVXFGA30Qe/TDZmSUfEKcBR0TtXN1qDAr03LV6U5O/gnYO05dEBg4+TAbEobZPobjI17Iytf/uHlgG4a3xxw1C/9IVBUZzFlUX4R6cMNnHnHMQoVuIw5vsGaqNpEixbQl6SfSaepUmXaz2FyMNkc1l6W/Hl9rlCWCQ=;qDgQe9hV3bt1n4FEmzGGGQ=="
 ---

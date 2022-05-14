@@ -107,6 +107,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Instagram filters disabled in Texas during facial-recognition lawsuit"
+    excerpt: "Instagram disabled its filters for users in Texas, thanks to a lawsuit filed by Attorney General Ken Paxton that alleged their facial-recognition technology residents’ privacy rights."
+    publishedDateTime: 2022-05-14T00:48:00Z
+    webUrl: "https://nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/"
+    ampWebUrl: "https://nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/05/instagram-filters-90.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook and Instagram right now"
     excerpt: "Meta media representatives dispute that its facial recognition features have anything to do with its tagging software but said it suspended the filters in Texas and Illinois to “prevent meritless and distracting litigation” that is “based on a ..."
     publishedDateTime: 2022-05-13T22:41:00Z

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
-excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028. Londan, United kingdom -- -- 05/12"
-publishedDateTime: 2022-05-12T19:07:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028.This press"
+publishedDateTime: 2022-05-13T10:06:00Z
+originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
 type: article
-quality: 0
-heat: -1
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/e3c6eede9f0b92ea738e91a001040ed4ff797a69-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "Regtech Market Size 2022 Grow at 17.55% CAGR, drivers, challenges, and their impact on growth and demand forecasts in 2029"
@@ -34,6 +40,6 @@ related:
         height: 337
         isCached: true
 
-secured: "UHgIpWzLZwxUWpUxk8EuFQ8dxdARBMiUUPZUow1h98Yv71ZVc24lAIVu2urgkP8D3VSIRngK0cXQUqqPL2H7ngJrZEAsV8ZrURpVL2jKb6n+lmbQfieK5Oi/7rtFId10FQZrQRBPkxUyPBiKJBrEkLW+VyODHEdj46ea8ri+HIiYZpUJ40urfi6kel0yc5e/+4GNUSMIYQAGXxm71/3kfummoEqSNE1DbxL0NbIHraWYMOQduXpeEdY8dktoTe4ieHSH5t51ByeBUTVfA2/qF2DudkTUNE9vfCLu+dXLb5zLfvuwJ0hr4Hs5+TTqoPiSjqOefSuf4FTKPCz2eB0a6QNwGd1l9kyxgttF0LVfc14=;aU5hMexe0UpDHAIDDl7n/Q=="
+secured: "iTNjWJ4lNqm3975nstQHq+L4o11Gy+OtGfK3ry9tyW7s4VCNgNi+75L5TtcRJagSxCqLDsV+cvTlYHrUdZlCcRpJKpCgeAnZRKRMq7hVOsLY8LRc1cGHo7YaxycvjGzI5VxrOoU5qK3t6oSLe/3eDVb3WJa6HC+MoG53Ll2g7/x9acKfNFvfbD6kbhvVoCSk2qh7n3ZkPc0GyABj3kIy7QmfZbra5ATDkFrW0cYMhcP89Tn1xtIv8D6FRyCfxWTK9pnWLqT2HlyvS1G8KrzUOj1n8i0t2P7DFYD+i308lwMdZVxSAERR/vfweQD6sVgDVjmFrV00HmADfv5t9yUYiyEJqtqdtAUsz+oIrbMGkE0=;uajRAJ5gZTzWGipIhIfezg=="
 ---
 

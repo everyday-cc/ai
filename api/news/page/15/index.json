@@ -2,21 +2,21 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2022-04-28-low-energy-device-lights-up-artificial-neuronal-networks.md",
-      "title": "Low-Energy Device Lights Up Artificial Neuronal Networks",
-      "excerpt": "To date, research on hardware for artificial intelligence and machine learning applications has concentrated mainly on developing electronic or photonic synapses and neurons, and combining these to carry out basic forms of neural-type processing.",
+      "path": "_news/2022-04-28-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
+      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
+      "excerpt": "Baidu said 10 such autonomous cars began offering ... Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving automation ...",
       "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/low-energy-device-lights-up-artificial-neuronal-networks-361053",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/low-energy-device-lights-up-artificial-neuronal-networks-361053",
+      "webUrl": "https://www.independent.co.uk/news/baidu-ap-beijing-china-waymo-b2067257.html",
+      "originalUrl": "https://www.independent.co.uk/news/baidu-ap-beijing-china-waymo-b2067257.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/361053/low-energy-device-lights-up-artificial-neuronal-networks-361053-640x360.jpg?cb=20220428",
-          "width": 640,
-          "height": 360,
+          "url": "https://static.independent.co.uk/2022/04/28/08/China_Driverless_Technology_Baidu_09001.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T02:18:00-07:00",
+      "ampWebUrl": "https://www.independent.co.uk/news/baidu-ap-beijing-china-waymo-b2067257.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/baidu-ap-beijing-china-waymo-b2067257.html",
+      "publishedDateTime": "2022-04-28T00:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
+        "name": "The Independent",
+        "domain": "independent.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +40,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Autos",
         "AI"
       ]
     },

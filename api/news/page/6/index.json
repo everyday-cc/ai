@@ -99,19 +99,19 @@
     {
       "path": "_news/2022-05-07-artificial-intelligence-tapped-to-fight-western-wildfires.md",
       "title": "Artificial intelligence tapped to fight Western wildfires",
-      "excerpt": "Officials tasked with preventing and battling large, destructive wildfires in the West could soon be using artificial intelligence in addition to their arsenal of prescribed burns, pick axes, chain saws and aircraft.",
+      "excerpt": "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires",
-      "originalUrl": "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires",
+      "webUrl": "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires-2/",
+      "originalUrl": "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires-2/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/6f63def/2147483647/strip/true/crop/2436x1370+10+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fa8%2F2210e55e44b6ac36223edd42b57f%2Fwildfire.png",
-          "width": 1280,
-          "height": 720,
+          "url": "https://imengine.public.prod.dur.navigacloud.com/?uuid=ACDFAB13-4AE4-48A8-AA3A-808B5FC0BA6C&function=fit&type=preview",
+          "width": 500,
+          "height": 291,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,13 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true",
-      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true",
-      "publishedDateTime": "2022-05-07T09:57:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-07T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "7News and TheDenverChannel.com",
-        "domain": "thedenverchannel.com",
+        "name": "The Durango Herald",
+        "domain": "durangoherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -135,7 +135,6 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },

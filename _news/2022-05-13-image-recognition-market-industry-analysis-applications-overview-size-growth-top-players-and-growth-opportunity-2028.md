@@ -33,20 +33,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Conversational Artificial Intelligence (AI) Market To Reach A Good Rating As Discussed In The New Report |Google, Microsoft, IBM"
-    excerpt: "Conversational Artificial Intelligence (A.I.) is a technology that enables machines to understand the intent and context of human communication and"
-    publishedDateTime: 2022-05-09T08:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-to-reach-a-good-rating-as-discussed-in-the-new-report-google-microsoft-ibm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 40
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6b0cacb0dc52a482f031fd2e48e48717cbb24b5e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Facial Recognition Market Will Grow at a CAGR of 17.1%; Emerging Trends, Industry Outlook Growth Opportunities"
     excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Facial Recognition Market research is an emerging exclusive report with meticulous efforts assumed to study the right and treasured information."
     publishedDateTime: 2022-05-11T14:59:00Z

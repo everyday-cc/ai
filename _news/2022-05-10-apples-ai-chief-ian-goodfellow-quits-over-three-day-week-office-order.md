@@ -33,6 +33,15 @@ related:
       name: in.mashable
       domain: mashable.com
     quality: 49
+  - title: "Top Apple AI Guy Quits Over Back-to-Office Mandate"
+    excerpt: "The switch from full-time Work From Home to three days back in the hive was too much for one artificial intelligence exec"
+    publishedDateTime: 2022-05-09T18:21:00Z
+    webUrl: "https://www.lamag.com/culturefiles/top-apple-ai-guy-quits-over-back-to-office-mandate/"
+    type: article
+    provider:
+      name: Los Angeles Magazine
+      domain: lamag.com
+    quality: 17
 
 secured: "Ty8CkQZ42aXA/PeZtM5D9N3j76ADcSSX5G3dj0tkBj6LBcSdL8+tJftVFdaD3aVYJX6aqM1BK17Alpw75iv2KiwHbafpOFa/WkquaBUXimtwKjroYKKKUfUcjBFhyT5rrLC0BdDnEvyXc+BA0iFJcRh76IQ0QiGP1wyywBslf/c187kJvozm9lNFNoqzLFtrNOm/zMA09YW9HuwgS1byG3Ag0QMf3CZfJ8lS/EirgATzSsdpQQh/uu+7tUM7zEu4e65a6EIWnEq6gJtPFxcCGpjMh8ewtS0g5XYV/lB73doLyDJ9AsXRQYmAdYvQj7Ft5h6UF8Y+wGE7VNgRuMuQ8wsSbv1bjtshuo/tTU/f/uY=;t0ridScgZVMmfBSLgvOCbA=="
 ---

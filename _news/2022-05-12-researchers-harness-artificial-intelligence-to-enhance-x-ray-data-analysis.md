@@ -43,6 +43,20 @@ related:
         width: 534
         height: 300
         isCached: true
+  - title: "Remarkable Science: Our future with AI and Robots"
+    excerpt: "Life with robots once seemed possible only in science fiction with R2-D2 and C-3PO helping save the galaxy while audiences delighted in theaters. However, the future is now — scientific advances in artificial intelligence and robotics have brought robots ..."
+    publishedDateTime: 2022-05-14T01:19:00Z
+    webUrl: "https://www.statnews.com/event/remarkable-science-our-future-with-ai-and-robots/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 54
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2022/05/aiimage-only-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Hitting a new peak: Scientists enhance X-ray data analysis with artificial intelligence"
     excerpt: "Scientists at Argonne’s Advanced Photon Source have created a new method using artificial intelligence to speed up the analysis of X-ray diffraction data."
     publishedDateTime: 2022-05-11T00:00:00Z

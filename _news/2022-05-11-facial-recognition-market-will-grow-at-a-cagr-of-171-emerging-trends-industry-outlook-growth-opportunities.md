@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Conversational Artificial Intelligence (AI) Market To Reach A Good Rating As Discussed In The New Report |Google, Microsoft, IBM"
-    excerpt: "Conversational Artificial Intelligence (A.I.) is a technology that enables machines to understand the intent and context of human communication and"
-    publishedDateTime: 2022-05-09T08:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-to-reach-a-good-rating-as-discussed-in-the-new-report-google-microsoft-ibm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 40
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6b0cacb0dc52a482f031fd2e48e48717cbb24b5e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Image Recognition Market Industry Analysis, Applications, Overview, Size, Growth, Top Players and Growth Opportunity 2028"
     excerpt: "Google, Microsoft, Facebook, Pinterest, and Apple are investing in resources and research into image recognition and related applications. Improper data storage, security breaches, and misuse of facial recognition data are some of the primary concerns ..."
     publishedDateTime: 2022-05-13T13:32:00Z
