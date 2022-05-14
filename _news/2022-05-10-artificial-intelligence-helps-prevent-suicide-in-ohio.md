@@ -6,9 +6,6 @@ publishedDateTime: 2022-05-10T15:42:00Z
 originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
   name: Associated Press
@@ -17,6 +14,6 @@ provider:
 topics:
   - AI
 
-secured: "2sGxeW0nsKS/7x2I3FBoIC7PrWDz/0s17GDDjqbbFsoUXtggxOQa6+jxxz0xuzRrpVVVmuGwWSwilpw4sVQRho31USxvWUwyxiJXU4MfC/btWtQDVYMVPKQ0fANzf38G/TPjXwE+VniwUhgN0iJmBiFDDNMv0huNQ2aFlrDj9ajIlRvWCOwGLskuXK6vW6c2EzUDDwEU+UkA/kkOeuVzP/WPBpsxsQ/CgPdR2OBocRwXzvQZCd+G+OyhdMB5DI6KO1xcLPIxjtUrH9gb6uBL/nhF64XYISjgKOWy8ZZS7R9pJQGiQ8LwYeyIQaQba02nyOwfcrDJLGPT0itTQoUj+zeVUqfKSDvLHq2u9PiIqYc=;vaSeOjgfJW6safXr+W51kQ=="
+secured: "UfEwP63p6LpsGXFGnlUg0ASBHn2FVXznO/WYfRoz/n0oHPFJTgHg9vtIpp0NrNpxnvbg/69njrCARA+iNX5xvwBe/RjS7rwkC2lpiiZ6nPJjXD0YkuxloxjRgIV4DqB+V1p8+vE09c3PNrJ13lOpJzwC/wOTChOsEj0S0mh3IWD5mFl3BrXogdhF7r5P5VZJWKG76v8EuIyI2EQQppBAxZoSh9yYu51cSWCXiwWRikvl8/QAj7wPmpVfYs6G8HRtezkXcGAqGxF+Qt5wJTsuh7ktfHFxl+gZoH2EPfLRrrnkNCZD2kieYE76pPj83mk5iMGLK5bBpUMyKSHDhY9rc37RS6sIOfn4M5yhkt2lVY8=;wo1AB3AGqmrnfQ1fD2b1DA=="
 ---
 

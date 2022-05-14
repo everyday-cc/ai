@@ -3,26 +3,17 @@ category: news
 title: "AI Applied to Apple Watch ECG Can ID Ejection Fraction ≤40 Percent"
 excerpt: "Single-lead electrocardiograms (ECGs) from an Apple watch interpreted by an artificial intelligence (AI) algorithm can identify ejection fraction ≤40 percent, according to a"
 publishedDateTime: 2022-05-13T21:03:00Z
-originalUrl: "https://tulsaworld.com/lifestyles/health-med-fit/ai-applied-to-apple-watch-ecg-can-id-ejection-fraction-40-percent/article_c982fde0-6304-51ce-8fdb-a5370a292773.html"
-webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/ai-applied-to-apple-watch-ecg-can-id-ejection-fraction-40-percent/article_c982fde0-6304-51ce-8fdb-a5370a292773.html"
+originalUrl: "https://madison.com/lifestyles/health-med-fit/ai-applied-to-apple-watch-ecg-can-id-ejection-fraction-40-percent/article_a67ade7f-ab73-5575-bd58-2bc047f5976e.html"
+webUrl: "https://madison.com/lifestyles/health-med-fit/ai-applied-to-apple-watch-ecg-can-id-ejection-fraction-40-percent/article_a67ade7f-ab73-5575-bd58-2bc047f5976e.html"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/fa/cfa8d229-9ad0-5a3c-9e0f-e3548ca6263f/627eea0cddb83.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "wcr3mLWMxwImDkbmegypmdmoNlRoQ5XQ+FEhLEg8wgqRpZvUVnBbVwj6boKu2Sg2aJBZEwFSXglqhfQVMY2hmhlrSHgojOvHD6tw6Ip6KfNT8hiOvALIAthYerM+mkR3iqjKAOE5fcU3OlyTFmUmhIfnZNN+xDFs0s2DaoubZVgY2pRfsUF/aB2DRAairrIqKDbNwHxdCNxDf4g/lXA6PILiLCZrOnuJ9HlG1o/SeDRQsMyVXpr0v6eWKcsMB6qWoGI9rGM7wfnBj6ebp20OhvKbHsuA6TUPT3yV4CQL4OKVzpHWyOIBVIZaVfBflPCotoAlVwHKCy+uoAGLfp75/roXnbwpXbtZi+E3M9hA788=;BtAnJu6g7d7wbVQEcccNtw=="
+secured: "4SdxsT3aABadeuqOlpwg6ilIGKxmPj6lpQ9El1c25VGX+WuH6QGo2ez4h8kKYriSdqCuazqeJi01YOxojL81euuYTMAzQYz4/2OEPjqJO2jmjP2F0uOOI0Cogykn60ksOjqh51oFILX6gtYR0WRReaP82zdzI+ZcbmVkWOWD8U6E1Etg60gRaPt1jcyd1pNhPiCXODsnUzXsuSt00DtCjib5c/ed14lQVWuCsTgBiwUHuEMIMXQRYyx5n90t9DuZXBYAXIr3tUH3+Ee2u7hOv9uQKM6EDhPLsHig/RU+HoIZ/H0Mly57p/jF76M0RNZrVCg4izjo5RRc4ZbyrR0AdjFom2ngIwUNUVnwLRBKRPNGDsDoV1yP8yIyMvpYhrfOw4OHSrqcP37yvx7NaQMlLSppqf9GadEe86SszQGxMDXKON3b9iLcY1/CFOdlLDRLDHj5Qj09anqrCg0TMl7YLECjh04YsKS+XgGKvDvW+/XcwneZqZIui/S3EslaWK64OsIMV1tGauS+L2bC0FmA2A==;5+Pqxe4wcVQdQ1/df0aLwg=="
 ---
 
