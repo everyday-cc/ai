@@ -62,7 +62,7 @@
       "originalUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -350,6 +350,51 @@
         "AI",
         "Machine Learning",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology.md",
+      "title": "Clearwater AI agrees to restrict sales of facial recognition technology",
+      "excerpt": "In a landmark settlement, facial recognition company Clearwater AI, known for downloading billions of user photos from social media and other websites to build a face-search database for use by law enforcement, has agreed to cease sales to private ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
+      "originalUrl": "https://www.zdnet.com/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 343,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
+      "publishedDateTime": "2022-05-09T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales",
+        "Facebook AI"
       ]
     },
     {
@@ -887,33 +932,24 @@
     {
       "path": "_news/2022-05-05-swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects.md",
       "title": "Swinerton, Top 10 U.S. Contractor, Selects alwaysAI® to Bring Innovative Computer Vision Applications to Construction and Manufacturing Projects",
-      "excerpt": "SAN DIEGO, May 04, 2022 (GLOBE NEWSWIRE) -- Swinerton, a national general contractor with over 4,000 employees from coast-to-coast, announces a partnership with computer vision platform leader, alwaysAI®, to develop CV applications bringing new levels of ...",
+      "excerpt": "SAN DIEGO, May 04, 2022 (GLOBE NEWSWIRE) -- Swinerton, a national general contractor with over 4,000 employees from coast-to-coast, announces a partnership with computer vision platform leader ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-a114662bf24bff46edc5a7559791f6cd",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-a114662bf24bff46edc5a7559791f6cd",
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8534839/swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8534839/swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T10:02:00-07:00",
+      "publishedDateTime": "2022-05-04T11:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1394,59 +1430,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams.md",
-      "title": "Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams",
-      "excerpt": "Today, AWS announced the general availability of Amazon Rekognition Streaming Video Events, a fully managed service for camera manufacturers and service providers that uses machine learning (ML) to detect objects such as people, pets, and packages in live video streams from connected cameras. Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/Tangelo-2x-2-tile-image-with-bounding-boxes.png",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T13:41:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

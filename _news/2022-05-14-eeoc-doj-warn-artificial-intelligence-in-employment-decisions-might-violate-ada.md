@@ -42,21 +42,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-    publishedDateTime: 2022-05-13T01:04:00Z
-    webUrl: "https://www.wksu.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    ampWebUrl: "https://www.wksu.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    cdnAmpWebUrl: "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+  - title: "Bosses using AI to hire candidates risk discriminating against disabled applicants"
+    excerpt: "The Biden administration and Department of Justice have warned employers using AI software for recruitment purposes to take extra steps to support disabled job applicants or they risk violating the Americans with Disabilities Act (ADA)."
+    publishedDateTime: 2022-05-14T15:00:00Z
+    webUrl: "https://www.theregister.com/2022/05/14/recruitment_ai_disabled_discrimination/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/"
     type: article
     provider:
-      name: WKSU
-      domain: wksu.org
-    quality: 49
+      name: theregister
+      domain: theregister.com
+    quality: 51
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
-        width: 880
-        height: 542
+      - url: "https://regmedia.co.uk/2022/05/13/shutterstock_robot_recruiter.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Federal officials caution employers on using AI in hiring"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission are sounding the alarm about the potential for AI human resources tools to discriminate against individuals with disabilities."
@@ -71,6 +71,20 @@ related:
       - url: "https://cdn.fcw.com/media/img/cd/2022/05/12/051222_getty_fcw_ai_brain/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
+    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
+    publishedDateTime: 2022-05-12T21:04:00Z
+    webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 29
+    images:
+      - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 838
+        height: 628
         isCached: true
 
 secured: "WiwlD6sUe4A7W4NziZmpmP33+pJeWOEXx6+ZDLpTZJ4mSGFUo/PRoQ2H0HTd1iuisKWwfIAmKRdAED4xxKeUxG9IxPLb3xYTIumbA9pl1+up8URqwDrO+w9zeXNdxqi1L/aoJkl84wRsEof7qcWx7gGV2h9K4V8Rs6fTUtAVWGD+5c5fqm7TejiOIz/Ku1J9blF3CybXAxwv6Z5nEiix+aVr0m86MI/n48aZdWYSGmB1rnLb4wWxTyO4BUvnm8+Y5ROB0tVkKXdmVwhTR27POZyjVuTkI9Ee2D9GMf19c60wNT84lfxHzZdS2EsIAQZyjxJX/3ZMFXcZFc0jgfINs5N6Z21PXT7xMY2RmO9Q9kyAwyCzXt6nwgOkwRtxbInNQQpgvxRckG4gMxPQY05JSjOZLyu/Ko0L9vlK8l+4kGY+ScU5VbB7w8nAc5WX+F8qh+BAdBzqUoSjFCOkc0100IWdwgFExfupVJffOJuWh+7HMrYITweQPmSx7Y94swlFIRSHDuIuHcsqjxJOPa8xrQ==;DmwjwX63UIWDhvD2mFWg3w=="

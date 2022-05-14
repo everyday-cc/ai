@@ -27,20 +27,18 @@ images:
 
 related:
   - title: "Artificial intelligence model can predict whether Crohn disease will recur after surgery"
-    excerpt: "Using an artificial intelligence (AI) tool that emulates how humans visualize and is trained to recognize and classify images, investigators constructed a model that predicts the postoperative ..."
-    publishedDateTime: 2022-05-10T16:49:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-crohn-disease-recur.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-crohn-disease-recur.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-artificial-intelligence-crohn-disease-recur.amp"
+    excerpt: "A deep learning model trained to analyze histological images of surgical specimens accurately classified patients with and without Crohn disease recurrence, investigators report in The American Journal of Pathology The 10-year rate of postoperative ..."
+    publishedDateTime: 2022-05-10T14:51:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/952240"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 50
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-32.jpg"
-        width: 2880
-        height: 2095
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8a7cca69-0829-4c45-b78b-2305b23957c4/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 218
         isCached: true
 
 secured: "4TKKcK8hRfrsd8HncRgo67MPARxk0Ee6G1Lx16WgfTqh6AfG4FNM8F3vYYJPjUD594EMZU6ZR/yCeJqxNHuZyQjGV72Z4GAFhNZf9dETC2GaOMvBcsj46SAvtpLG6fnqL5KOYGsZh9bHoV7mBzKHVDNGkGiH+YeXTsEKVhwSk10Uj+/mK0i4lXiFvHT+7xyjxPKKc3ENTmsUd+eytC12lE7gYYYm1s9W6rQCcepVN+jmratf8FUv7ubVFaAUDduF9ZVKN+5cxGd3dLoXcET5o2KI4zr9X5eVtSFX3TmMYpDcst2iDWSu+LAint0Q0es0N7lNXleGwjqg2BD+b/iuoV21l627FQ6uPEMH9erS70I=;qWZrudc6vLHa4OLlXNZzCA=="

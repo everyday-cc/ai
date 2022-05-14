@@ -41,22 +41,6 @@ related:
         width: 320
         height: 240
         isCached: true
-  - title: "Self-Driving Car Crashes Into Dummy Cyclist During AAA Testing"
-    excerpt: "Tesla and other car makers are aggressively rooting for self-driving vehicles. A recent research by AAA sheds light on the safety concerns."
-    publishedDateTime: 2022-05-13T10:24:00Z
-    webUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/"
-    ampWebUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 44
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/05/AAA-tests.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds"
     excerpt: "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ..."
     publishedDateTime: 2022-05-11T11:52:00Z

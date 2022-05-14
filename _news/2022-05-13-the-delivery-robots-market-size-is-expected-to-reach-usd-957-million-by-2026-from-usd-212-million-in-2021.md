@@ -1,24 +1,28 @@
 ---
 category: news
 title: "The Delivery Robots Market size is expected to reach USD 957 million by 2026 from USD 212 million in 2021"
-excerpt: "Other technologies used in delivery robot deliveries include robotics, artificial intelligence, and machine learning. Robotics helps to build the robots with precision, ensuring they are sturdy and able to handle difficult terrains. Artificial intelligence ..."
-publishedDateTime: 2022-05-13T14:54:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27191458/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27191458/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million"
-ampWebUrl: "https://www.benzinga.com/amp/content/27191458"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27191458"
+excerpt: "\"Delivery Robots Market\"Delivery robots market size is projected to grow from USD 212 million in 2021 to USD 957 million by 2026, at a CAGR of 35.1% from"
+publishedDateTime: 2022-05-13T15:05:00Z
+originalUrl: "https://www.digitaljournal.com/pr/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million-in-2021"
+webUrl: "https://www.digitaljournal.com/pr/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million-in-2021"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/df545f41fed2420d2a28c1c8a30f83aff362c268-1-e1652495322767-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "Entertainment Robots Market Estimated to Reach at USD 15.18 Billion by 2030 at a CAGR of 24.6% - Report by Market Research Future (MRFR)"
@@ -52,6 +56,6 @@ related:
         height: 302
         isCached: true
 
-secured: "6SSKoNagIeZtgStNrCtykgUh/Hkxz2OxvzWehmdVD86YcXJyqQwWvj4egBUHXP/b7Oew62T0WgC8KZXibSCK+fSAdXfP13Ne/jGzUG+LVJ4SLbBTB0RRoLoksg4Cp1Yt4cqTa8ojkwUh3xn7Orf37sM0V2RqUrslKHvIuKhRfOqRpByuPMxoQU0xkB87+XGIsQGV7a3ELhXmcP0Vkc9vlYRCIR2L9wRJlum590mU1I048z9PvuzgaXminy2p7xpmtCbCLDVi9vTB14xcawuH/78ndvM5qN5COEMZ0X0/1cJdPlm353ExceEURSyVNS9ShVMxoytizRoTDtibuiSddlIzqt1BjDYlsIh2e6myeZy5TkF56dahsPo8lQrwBToI3ftjLHX3uxjz23vTjnt9SXQHGJs+8h8/4NP9DOPv4iBbheUEcCjLoS7xob3LaEmsxiVAcmya/f2zScLOJshcDcP1/IzZallNFl+W45xrKNo8X002hkLC5aie2FBxTVSkivdqCmylgZ6N3D4Eghnf3w==;kKx6G73rVt8Uvyy9v2y+Kg=="
+secured: "YEO+LjJT4eMLhIkHosDh/xL/PeAaNd9TzzlZtKEkTQI7Zfi72vFz+ZoHmpTAlZ1ZSJLXwx4S65+R714Z+CU9DqCF7xVPWlPEYKF+aRH/xEIevpG+AC3KbpbUU4lpVO9y6kYcUxZIU/wItuqZI6C/HJtcochSNMstJc74sNo0ezAn5jpF8ZeSGGJmg6LRQ3CSPNofDRDwYqPbLeEIWenkfJG4ZMdYLPxTBis7/Dw7LCo1r1LL0JOFZmDUhIrf2DBcdBrcbR3Tr3rltU0aopTMT9pi41uEcPf1vux3/XvVX/xud6ecQE15L5jxBHkb2WqxqyqtvFIuXPQF7Vd2qdEbGB7PU6TmGBEC0RRm4xvFljw=;ricZqJwRKUNz03U1qLuBxw=="
 ---
 

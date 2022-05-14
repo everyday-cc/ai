@@ -56,21 +56,35 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-    publishedDateTime: 2022-05-13T01:04:00Z
-    webUrl: "https://www.wksu.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    ampWebUrl: "https://www.wksu.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    cdnAmpWebUrl: "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+  - title: "Bosses using AI to hire candidates risk discriminating against disabled applicants"
+    excerpt: "The Biden administration and Department of Justice have warned employers using AI software for recruitment purposes to take extra steps to support disabled job applicants or they risk violating the Americans with Disabilities Act (ADA)."
+    publishedDateTime: 2022-05-14T15:00:00Z
+    webUrl: "https://www.theregister.com/2022/05/14/recruitment_ai_disabled_discrimination/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/"
     type: article
     provider:
-      name: WKSU
-      domain: wksu.org
-    quality: 49
+      name: theregister
+      domain: theregister.com
+    quality: 51
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
-        width: 880
-        height: 542
+      - url: "https://regmedia.co.uk/2022/05/13/shutterstock_robot_recruiter.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
+    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
+    publishedDateTime: 2022-05-12T21:04:00Z
+    webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 29
+    images:
+      - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 838
+        height: 628
         isCached: true
 
 secured: "DhM6bW9KNx4qKL/hsrAHYATWsU1JaZ4dbi/I3K2IpSbxVpISWbrOiVGaVPdUSFvgx1FPLRmMSwCVGpOac+tIVwHKzjHTNxnXlGZxLeeQc1SKEKmwT2Yq+F1cC/vjJrqRnlBLUDHXzQQvO2L96AHw7C3Y1/nGqaZ8T4Hj5jT7+yU+/aUB8lyyFGJZAeTT0XRE2rp6SVtZvTISLX1XcJLL4IR4iNYlywl/LMptV6JmzehhJ06voEUzTAfRa/iEG3oNE9e6iBKhPfqcnp/kZgISfZAJEJgywqKWhRKG4G5GPX9CkqdAy8Y/OiZc5S9IjKxzMHbkrB2A150RylZYFp6q079sLOVpK5jsBGsB1vjBb2PxZpZK7MBlrzfmV8wCLTON6lONA27TTB0WuANyl/EvwNTazjq9iIiNTMAH+XrEJv09/J/ZqnpLcXnx5GQWtXkI8SN8tAs9U1xCSYCp0nhSwZX6HdCrvc3ko930FbVHLbJBFxYPpOmjSCHTZbLrkk2unnMC3/VmmgAHJSeBtXJDVA==;HsFBesEik6R8MQpLfb2wwg=="

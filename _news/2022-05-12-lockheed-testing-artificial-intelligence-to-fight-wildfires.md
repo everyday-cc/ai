@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Lockheed testing artificial intelligence to fight wildfires"
-excerpt: "A global defense company shared details with FOX31 about the use of cutting-edge technology used in battlegrounds around the world to help fight wildfires."
-publishedDateTime: 2022-05-12T03:24:00Z
-originalUrl: "https://kdvr.com/video/lockheed-testing-artificial-intelligence-to-fight-wildfires/7676775/"
-webUrl: "https://kdvr.com/video/lockheed-testing-artificial-intelligence-to-fight-wildfires/7676775/"
+excerpt: "All those words describe artificial intelligence. Lockheed Martin, whose space division is based out of Jefferson County, wants to use AI to help gather critical details during a wildland fire."
+publishedDateTime: 2022-05-12T03:13:00Z
+originalUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/"
+webUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/"
+ampWebUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
+cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
 type: article
-quality: 19
-heat: 19
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -15,9 +17,14 @@ provider:
   domain: kdvr.com
 
 topics:
-  - AI in Autos
   - AI
 
-secured: "bsbFPChMc5GqvNovzyP8oxG3wJ1a0JfAbbiKHHmaY8rYlZMZyqRwiFOF1VgVYSyH0lpYcromyyFWKYR3KOp1nq486cbVtm+FCC6xUQ+kaJrSF/vs6Cmo6by04WfjNuawUkxCPrPlP3qhVU0leSBrLB3Mw34UvJgeDnXzhCbVaRts927XJMu+85GEdO5HeVRNIHZkNbdG38ZJFefjW2RLstZSoIqRN+XcALw+3lmljHHd3C3rXGezhq8hvHNEEYsspr67wvfw46z8LKzHrwj2ygDMUaK7DuZFWBV4atXqxGeol9m1jU3wVnP8vPFE1UOK3jS87Lt6nxxiUqHElWXQXAs7MkbKBze+VQlCdRSTxz1R6GIiQZrGYgY10OmPHgThpKjzo+8nArEuaevCS4nU2CbN4otwUJ363y21S28B4mhJq/wGvzqQ4BCVRelppUFmASNzD4iESVpdH70ZnWoVviXhyjW2Pw/aIPX+GQeCpWKvWLfsLbKvS93cyyuZ+IP0qyws8zBNjOFbaUjR2iPL5w==;TmBZSRHpvop4t+hkGixzRg=="
+images:
+  - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/04/GettyImages-1237477623.jpg?w=1280"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "OQkee1apAFbTgvNql6/bD/u6JMym2mVT8HM+4f3nwUTj5y2Yk7f+IkNSoydjDNEEKfkg5Kt2BiPoyutLAwe5QuqNVhMCl4SwfRoR40exmHAVWAlJQ2pQsn9vNqUAsQiqswAekUWwXUfQtwqa50G6R/93K+SM8Uz7vpjRz1q5Z+6GeRQXGa+jlQfcxuXqDWDq3xU1F409C0CDDWy3hxormC9Q+SPLADMi0oHPtjRZ5FJ/fk3UGTc16tvyO1INbA+q42tbqF7McHrEupG1TWLhtjrPZErWkx9xGo4IbJWXvWjULZEzO80t2HCS5Z+0hhNHOFk9jrG8lrYMODAsusEyxB0sAxuYDTMlSWgY5syzJRs=;bIgWp+CCKoOyR2YkV79YFA=="
 ---
 

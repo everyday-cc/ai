@@ -2,20 +2,26 @@
 category: news
 title: "Pactera EDGE's New OneForma App Makes the Creation of AI Data Sets More Convenient Than Ever"
 excerpt: "Pactera EDGE, a world-class digital solution provider for the data-driven, intelligent enterprise, announced today that its popular AI training-needs platform, OneForma, is now available as a downloadable app."
-publishedDateTime: 2022-05-12T19:30:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-pactera-edges-new-oneforma-app-makes-creation-ai-/2022/05/12/9601349.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-pactera-edges-new-oneforma-app-makes-creation-ai-/2022/05/12/9601349.htm"
+publishedDateTime: 2022-05-12T18:04:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pactera-edges-new-oneforma-app-makes-the-creation-of-ai-data-sets-more-convenient-than/article_ebbc9e71-22c4-57ad-94d3-171bc191efe2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pactera-edges-new-oneforma-app-makes-the-creation-of-ai-data-sets-more-convenient-than/article_ebbc9e71-22c4-57ad-94d3-171bc191efe2.html"
 type: article
-quality: 6
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "New OneForma App Provides Generation of AI Data Sets More Easier Than Ever"
@@ -35,6 +41,6 @@ related:
         height: 400
         isCached: true
 
-secured: "U8RjPdgG/hIeK6mdIYlZ5ckwe00MNYE3Nb3+twIU3N83Yr8FzCdOkvBPJlNlNAlVR74tj0TsPx8m8/zTC6iEMY3jh2Z6CJ02Fz+tZI6JFNaw8r84papr878AF+87pXFMji7I8tEGInz0r3YM2itLP+yKgesIYObiPy9czm8S6VeN1RZWn9/EgiwnS373kDfDEGNneFLNLhLwgf1LgaOrKts94Q0wEp97ky6oY+2QSvAA+0LDJWBh8Dq1oOgAcEG3HnfO2IYBQYt5EbpypDO3yfFZOB3ZrzeY3v0bJB/Xz9z2ic1woySELNHQx6Htm0cXZOvl5wfrI4MYkG5RL6YCE0vu+L27w4WDnNk/0HkUYFk=;RWk0ZlCgboFfAvGY3bdHJA=="
+secured: "e1LyAwxJRCPmfgTe7H12VP6SGD1Ay/fKAUUZ/2AWRZJFRe3NpjYTokIQHW9s33SrPJCx1GzUny1dJODWqztCMx76UTFSYbVkH3x97Ghq5skk8g/VYtruuvamn6lRrXnwPWmwtDnGVlkhtXIQDP6/Bb/Ngae1HOQ8d2tBgU56ZBsrjVwuwQZM6ahKpEZLr1ycj+3Mx4NCfGUDvIXC7aWkuQ9+7O1bH1qq19TJyTGWmIztM1ORyCsc0P9dIXSPtjbaT9xUsjALDHhMx8GaOnPkE1xMbi1m9PZzZrT0/LyFhok32X+yr0z3aTiQSfpf8WG5OCdrUoY7FyqY3wvwP/0P0xX3Yh1COvpfDVRaGF9kDyM=;xs1whGAxI5Itqlmq1FsPJw=="
 ---
 

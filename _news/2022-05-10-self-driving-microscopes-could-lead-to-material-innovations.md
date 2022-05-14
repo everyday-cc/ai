@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/analysis/news/self-driving-micr
 webUrl: "https://www.technologynetworks.com/analysis/news/self-driving-microscopes-could-lead-to-material-innovations-361425"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving microscopes discover shortcuts to new materials"
-    excerpt: "Researchers at the Department of Energy's Oak Ridge National Laboratory are teaching microscopes to drive discoveries with an intuitive algorithm, developed at the lab's Center for Nanophase Materials Sciences,"
-    publishedDateTime: 2022-05-09T19:31:00Z
-    webUrl: "https://techxplore.com/news/2022-05-self-driving-microscopes-shortcuts-materials.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-self-driving-microscopes-shortcuts-materials.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-self-driving-microscopes-shortcuts-materials.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-microscop.jpg"
-        width: 2880
-        height: 1659
-        isCached: true
   - title: "Self-driving microscopes inspire breakthroughs in new materials"
     excerpt: "An intuitive algorithm is opening up access to previously unexplored <a href=\"/products/189/Materials\">materials used in energy technologies, sensing and computing.<br /><br />"
     publishedDateTime: 2022-05-10T10:04:00Z

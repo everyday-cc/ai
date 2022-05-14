@@ -38,20 +38,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Media Alert: BrainChip and MosChip to Demonstrate Capabilities of Neural Processor IP and ASICs for Smart Edge Devices at IESA AI Summit"
-    excerpt: "The presentation ends with a demonstration of BrainChip’s Akida™ neural processor IP, enabling high performance and ultra-low power on-chip inference and learning and MosChip’s ASIC platform for smart edge devices. The IESA AI Summit is a two-day ..."
-    publishedDateTime: 2022-05-09T21:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-and-moschip-to-demonstrate-capabilities-of-neural-processor-ip-and-asics-for-smart-edge-devices-at-iesa-ai-summit"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/774e1c49ff8c5d1f2c8c30a3674aa8674e8bbb9d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "nYz3hwDHI/6R1+B3NS1mGluoY2/Uh3+f2+J96fDjGWEEGfuDw2eP4OyrwmDRSgbhY6lqQnaq5s2KT4Aoquj47iF7C/KUW8E2o0CJsF6fq9LddAixLayJiwjIhDF1aCTnF0uI2vIhD2FLnNUJbnQv2HgADVhyWfWamf/5sX5Gc17YNFEf02DjpSFaGPMByjvhOqGiTOvMoyjxWRQlMv5MKIttIQVVHQcuTHMPdbKJzh+IxXcDs8utNDjHySSQYjUKLVqKzpMg/muHdPbeA+3kpqkNL/oP8G9U0T0QcPWlkI+3GDrhJAr9kqQbmKfZHHJIRzScAaI3PZN0G7bTgqyWhhGTXauNgXMv7B46wzECQC8=;Ay9dhOCdatUVIC4wVC7eDA=="
 ---

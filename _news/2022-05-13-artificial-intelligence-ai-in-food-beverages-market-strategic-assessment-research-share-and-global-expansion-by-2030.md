@@ -48,6 +48,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Social Robots Market Research Report 2022 | Trends, Growth, Size, Share and Forecast 2027"
+    excerpt: "\"Social Robots Market\"The global social robots market reached a value of US$ 2.6 Billion in 2021. Looking forward, IMARC Group expects the market to reach"
+    publishedDateTime: 2022-05-13T00:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/social-robots-market-research-report-2022-trends-growth-size-share-and-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
+    images:
+      - url: "https://www.abnewswire.com/uploads/1652360552.jpeg"
+        width: 1920
+        height: 1479
+        isCached: true
   - title: "Artificial Intelligence in Medicine Market Emerging Trends and Competitive Landscape Forecast to 2031"
     excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
     publishedDateTime: 2022-05-10T08:40:00Z

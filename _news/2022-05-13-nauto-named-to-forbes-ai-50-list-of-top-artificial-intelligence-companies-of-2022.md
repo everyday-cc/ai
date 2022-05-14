@@ -38,19 +38,19 @@ related:
         width: 1200
         height: 1201
         isCached: true
-  - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
-    excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
-    publishedDateTime: 2022-05-09T21:49:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220509SF51230/arize-ai-named-to-forbes-ai-50-list-for-second-consecutive-year/"
+  - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
+    publishedDateTime: 2022-05-11T21:11:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
     images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
     excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
@@ -66,15 +66,6 @@ related:
         width: 2532
         height: 1143
         isCached: true
-  - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
-    publishedDateTime: 2022-05-11T21:11:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 29
   - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its selection to the 2022 Forbes AI 50 for North America. The list recognizes standout privately-held companies making the most advanced and impactful uses of artificial technology."
     publishedDateTime: 2022-05-12T12:00:00Z

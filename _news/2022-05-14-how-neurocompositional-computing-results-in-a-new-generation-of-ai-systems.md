@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-14T12:30:00Z
 originalUrl: "https://analyticsindiamag.com/how-neurocompositional-computing-results-in-a-new-generation-of-ai-systems/"
 webUrl: "https://analyticsindiamag.com/how-neurocompositional-computing-results-in-a-new-generation-of-ai-systems/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Analytics India Magazine

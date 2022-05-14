@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T15:15:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-trained-public-databases-can-be-misleading"
 webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-trained-public-databases-can-be-misleading"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Psychology Today

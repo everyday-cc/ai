@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving microscopes discover shortcuts to new materials"
-    excerpt: "Researchers at the Department of Energy's Oak Ridge National Laboratory are teaching microscopes to drive discoveries with an intuitive algorithm, developed at the lab's Center for Nanophase Materials Sciences,"
-    publishedDateTime: 2022-05-09T19:31:00Z
-    webUrl: "https://techxplore.com/news/2022-05-self-driving-microscopes-shortcuts-materials.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-self-driving-microscopes-shortcuts-materials.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-self-driving-microscopes-shortcuts-materials.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-microscop.jpg"
-        width: 2880
-        height: 1659
-        isCached: true
   - title: "Self-Driving Microscopes Could Lead to Material Innovations"
     excerpt: "Researchers are teaching microscopes to drive discoveries with an intuitive algorithm that could guide breakthroughs in new materials for energy technologies, sensing and computing."
     publishedDateTime: 2022-05-10T09:17:00Z

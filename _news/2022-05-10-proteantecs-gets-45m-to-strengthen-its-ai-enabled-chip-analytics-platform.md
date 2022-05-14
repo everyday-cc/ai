@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/05/2.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Pyramid Analytics raises $120M for its AI-powered data analytics platform"
-    excerpt: "The startup’s platform enables companies to turn their business data into charts and find useful patterns. Pyramid uses artificial intelligence to automate many of the manual tasks historically ..."
-    publishedDateTime: 2022-05-09T20:58:00Z
-    webUrl: "https://siliconangle.com/2022/05/09/pyramid-analytics-raises-120m-ai-powered-data-analytics-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Image-1.png"
-        width: 718
-        height: 419
         isCached: true
 
 secured: "K2B2vAmz8xsUN2xXAenSj5EuVrjCDTje9AMYlme5WfA+1F5DMQ/Os4OonrVQUdWBUBCR0jP+iL/1/RwT39WGBkQZ84wcw27JBD8HYtuVnHbxEdPGQW5w8zpy53axfyJqU1CVUMzJ65jQa7I15HRfE63S0nObaABNPZEuBafu9t1fsiiFHNedAeHU3Vrsnphl08dVrQ+Pceu/kG4FPIZXe8dqIlVj7G2MLVZslAl4W6Nsy6t3Qf7w2gMtd246brprtIWgZq34UR0T4eprqzjO4YuHPcjULtP70jC7NVm/DPgv25aJiQ2WZUjAcJrnbjd/qAvMyP1pwPJxV7hrmd+zgZIQNv85/DJm9paHz8eGEvKNop0IrM+WuKEeXQgyB7F4YyB3n/Lx1W2uoOz4mcufChVVmR23SBdGAGhYOfH5QYQn55MdI6Q+MdzOe6O4vIdUNtDuUjEmPRFacnFbIDz4LFn0rLLAynJjTJP39BzkYUx/okhW0V2Ba0PjozNjpMCXm+y/yZLSQQ/8WE0ezehopQ==;Zve7nnh0eeGtsUIUtXBXKA=="

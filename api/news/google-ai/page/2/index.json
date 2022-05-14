@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-05-three-former-deepminders-are-developing-ai-to-pick-stocks-and-crypto.md",
+      "title": "Three former DeepMinders are developing A.I. to pick stocks and crypto",
+      "excerpt": "Martin Schmid, Rudolf Kadlec and Matej Moravcik left DeepMind in January to set up EquiLibre Technologies, relocating to Prague in the Czech Republic. The trio used to work at IBM and developed an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "originalUrl": "https://www.cnbc.com/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102035717-72012198.jpg?v=1532564415",
+          "width": 5400,
+          "height": 3300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "publishedDateTime": "2022-04-05T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-alphabets-other-bet-a-deep-dive-into-deepmind.md",
       "title": "Alphabet's Other Bet: A Deep Dive Into DeepMind",
       "excerpt": "DeepMind has evolved from a small startup into a promising part of Alphabet. In 2020, cash flow was positive for the first time, and revenue tripled compared to the previous year. DeepMind's ...",
@@ -1427,49 +1479,6 @@
       "provider": {
         "name": "HotHardware",
         "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-ai-software-helps-date-and-decode-ancient-greek-texts.md",
-      "title": "AI software helps date and decode ancient Greek texts",
-      "excerpt": "AI software can help historians interpret and date ancient texts by reconstructing works destroyed over time, according to a new paper published in Nature. A team of computer scientists and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/54513-ai-software-helps-date-and-decode-ancient-greek-texts",
-      "originalUrl": "https://www.fudzilla.com/news/54513-ai-software-helps-date-and-decode-ancient-greek-texts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/a8e52848e4a53a7cf7323730535c863a_L.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
         "images": null,
         "publishers": null,
         "authors": null

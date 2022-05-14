@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/accesswire/business-brainchip-hol
 webUrl: "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Associated Press
@@ -38,20 +38,6 @@ related:
       - url: "https://www.accesswire.com/users/newswire/images/700662/BC-AIEnablement-002-1.jpg"
         width: 1395
         height: 758
-        isCached: true
-  - title: "Media Alert: BrainChip and MosChip to Demonstrate Capabilities of Neural Processor IP and ASICs for Smart Edge Devices at IESA AI Summit"
-    excerpt: "The presentation ends with a demonstration of BrainChip’s Akida™ neural processor IP, enabling high performance and ultra-low power on-chip inference and learning and MosChip’s ASIC platform for smart edge devices. The IESA AI Summit is a two-day ..."
-    publishedDateTime: 2022-05-09T21:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-and-moschip-to-demonstrate-capabilities-of-neural-processor-ip-and-asics-for-smart-edge-devices-at-iesa-ai-summit"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/774e1c49ff8c5d1f2c8c30a3674aa8674e8bbb9d-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "gYm8RvL8HvM1UOD+RkyWqT4amj7/diVzOo7xVjwNXyYLRjEla5G0XtJswt561PKA8vbGNTSUuPeUGNm0p4dQVnfaPM8fl7+aFUpnKWuSkE1TiGUa6kOpIVy4SOKoxr6ob9DE2VL8/w6KI5YdXsR01dTfC/ADMgM7FKar5uSf5xCb1UweNDKSDVN5w0+/5XfVOEDDtaTnTjaFyMisBK+RiOc+KMpFaHCHByUa7IAfElXm48vHAjA4fyrTdE4M4LLNEptyKRMscnr2am6zAjL1VJOWMC8nW0IXF2RTICvXNMskIa3LZn99rAOFH5QxFoL3UEVCuvhdEcrbH8VvwexpzkNtR7fxAwKZ4Jo/HBq+aAs=;huNsz4TMsL1O8NaHjrSviA=="

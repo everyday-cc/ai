@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-10T21:27:00Z
 originalUrl: "https://www.institutionalinvestor.com/article/b1xzhzkcpwwpn8/How-a-Machine-Learning-Program-Finds-Litigation-Financing-Deals"
 webUrl: "https://www.institutionalinvestor.com/article/b1xzhzkcpwwpn8/How-a-Machine-Learning-Program-Finds-Litigation-Financing-Deals"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/art_Legalist_0509.jpg"

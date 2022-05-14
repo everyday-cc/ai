@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The problem with self-driving cars"
+    excerpt: "The question was never about automating driving. The question is about how to transform the transit experience."
+    publishedDateTime: 2022-05-11T03:28:00Z
+    webUrl: "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/"
+    ampWebUrl: "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/06/shutterstock_635238704.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
   - title: "Safer Driver Assistance Tech Now More Important Than Self-Driving Cars, Consumers Say"
     excerpt: "Drivers want automakers to improve existing semi-autonomous driver support features before developing fully autonomous vehicles, as inconsistent performance remains a problem."
     publishedDateTime: 2022-05-12T21:54:00Z
@@ -41,20 +57,59 @@ related:
         width: 826
         height: 430
         isCached: true
-  - title: "Survey: Most people favor driver-support technology over self-driving vehicles"
-    excerpt: "May 13 (UPI) --Nearly eight in 10 people would prefer that the automobile industry put more effort into improving existing driver-support features than developing self-driving vehicles, according to a survey. AAA said that its survey on American attitudes ..."
-    publishedDateTime: 2022-05-13T17:23:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/05/13/aaa-self-driving-autonomous-cars/9991652459049/"
+  - title: "It will soon be easy for self-driving cars to hide in plain sight. We shouldn’t let them."
+    excerpt: "It will soon become easy for self-driving cars to hide in plain sight. The rooftop lidar sensors that currently mark many of them out are likely to become smaller. Mercedes vehicles with the new, partially automated Drive Pilot system,"
+    publishedDateTime: 2022-05-14T09:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 20
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 50
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/9991652459049/2022/1/7f5bc97c38ae7ada46aae13410aef080/v1.5/Survey-Most-people-favor-driver-support-technology-over-self-driving-vehicles.jpg"
-        width: 800
-        height: 534
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/AP_20342772404491.jpeg?w=3000"
+        width: 3000
+        height: 1687
         isCached: true
+  - title: "New laws for self-driving vehicles announced with the Queen’s Speech"
+    excerpt: "In April, techUK signed a letter coordinated by Wayve and the insurer AXA, urging the Prime Minister Boris Johnson to include AV legislation within the Queen’s Speech."
+    publishedDateTime: 2022-05-11T10:36:00Z
+    webUrl: "https://www.techuk.org/resource/new-laws-for-self-driving-vehicles-announced-with-the-queen-s-speech.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 24
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/1b564d0d-42e9-4eba-8bad60dcb9a60074/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/City-light-113155288-web-1500px.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "New laws for self-driving vehicles announced within the Queen’s Speech"
+    excerpt: "In April, techUK signed a letter coordinated by Wayve and the insurer AXA, urging the Prime Minister Boris Johnson to include AV legislation within the Queen’s Speech."
+    publishedDateTime: 2022-05-12T20:03:00Z
+    webUrl: "https://www.techuk.org/resource/new-laws-for-self-driving-vehicles-announced-with-the-queen-s-speech.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 24
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/1b564d0d-42e9-4eba-8bad60dcb9a60074/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/City-light-113155288-web-1500px.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Waymo’s self-driving cars are now being tested in downtown Phoenix"
+    excerpt: "PHOENIX (3TV/CBS 5) -- Google’s autonomous car company, Waymo, has officially launched self-driving cars pilot program in downtown Phoenix. Last month, the company was looking to expand operations into the heart of the Valley. Waymo had been operating in ..."
+    publishedDateTime: 2022-05-10T18:10:00Z
+    webUrl: "https://www.azfamily.com/2022/05/10/waymos-self-driving-cars-are-now-being-tested-downtown-phoenix/"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 19
   - title: "These 3 technologies could make self-driving cars safer"
     excerpt: "With autonomous vehicles already operating in several cities, technology companies are working on high-definition maps, better artificial intelligence models and remote control for fleets when needed."
     publishedDateTime: 2022-05-11T18:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.upi.com/Top_News/US/2022/05/13/aaa-self-driving-autono
 webUrl: "https://www.upi.com/Top_News/US/2022/05/13/aaa-self-driving-autonomous-cars/9991652459049/"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -23,56 +23,6 @@ images:
     width: 800
     height: 534
     isCached: true
-
-related:
-  - title: "Safer Driver Assistance Tech Now More Important Than Self-Driving Cars, Consumers Say"
-    excerpt: "Drivers want automakers to improve existing semi-autonomous driver support features before developing fully autonomous vehicles, as inconsistent performance remains a problem."
-    publishedDateTime: 2022-05-12T21:54:00Z
-    webUrl: "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/"
-    ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/627d8169661424cee95ca2c9/0x0.jpg?format=jpg&width=1200"
-        width: 826
-        height: 430
-        isCached: true
-  - title: "Self-driving cars could be potential crime witnesses"
-    excerpt: "The police in San Francisco see camera-laden autonomous vehicles as potential witnesses in their criminal investigations, setting off alarm bells for privacy advocates, VICE reports. Why it matters: As Axios has reported,"
-    publishedDateTime: 2022-05-13T10:00:00Z
-    webUrl: "https://www.axios.com/2022/05/13/self-driving-cars-video-police-witness"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/m4u-MAElTIBPb-hJwhc8fpNj0dw=/0x0:1365x768/1366x768/2022/05/12/1652381213625.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "These 3 technologies could make self-driving cars safer"
-    excerpt: "With autonomous vehicles already operating in several cities, technology companies are working on high-definition maps, better artificial intelligence models and remote control for fleets when needed."
-    publishedDateTime: 2022-05-11T18:02:00Z
-    webUrl: "https://www.smartcitiesdive.com/news/av-technologies-self-driving-car-safety/623471/"
-    type: article
-    provider:
-      name: smartcitiesdive
-      domain: smartcitiesdive.com
-    quality: 4
-  - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
-    excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
-    publishedDateTime: 2022-05-12T17:53:00Z
-    webUrl: "https://www.ktvb.com/article/news/local/drivers-choose-safety-improvements-over-self-driving-cars-according-to-aaa-idaho/277-97815cbe-50c1-4404-8b1a-4e7a389c0a0d"
-    type: article
-    provider:
-      name: KTVB
-      domain: ktvb.com
-    quality: 2
 
 secured: "QDXQYVPw20/vXEoDsWbSQKEkKtjjhTSE6r1TVOKyuDE8y6syvMOnLc9IfOCIbttxu6vP6sIJ9nvZn0Gm7VZxhllDPBRdHCdM0uzr+Fq8q0BGoH+V9U/DnMkdC0jNr7XLzlQbmOzHrGmsfkrg5AAx8gJAsyE43Xdj6feow+ZcXYEq/W3GpL6TM/SUKeAuHpQRg2YFtBUG4zKFRPYqRtv86nG2TeJJ7YuC9EjB5Pi7QoqQ1MrCju+MNUQH0PrrH59X9sN6qISWFobXzEn2ej+YsHRc0q03n+rFt5n7kq7rbU68nMqXnF+LtZ4J7VS2FZNFp7206nkIEqNnmU1qKq2hYftVWZrbeIpTR+sU+UPKMZNNONEE2PgliDIqr2j4TIMByxmWFB+wzbE48oWzh11//bEI/jTvxClfxEY7j182UoUqsh9GZrVL7/90bHmHc8RiNnigEeaOGVt576eS3CafpqLYQyO1AEGc8T50SJGDVEB8y+bQEPMCpCYzctkLLFes8zVgJA+BjTR+15/M3Y6DUQ==;3Jcn6s4woPD6k1Fp8ydQhA=="
 ---

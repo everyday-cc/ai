@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T15:42:00Z
 originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Associated Press

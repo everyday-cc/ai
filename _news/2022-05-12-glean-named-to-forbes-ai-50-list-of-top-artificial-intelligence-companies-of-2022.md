@@ -3,20 +3,25 @@ category: news
 title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
 excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
 publishedDateTime: 2022-05-11T21:11:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
 type: article
-quality: 29
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Explaining The Art Behind The Forbes AI 50 Design"
@@ -46,20 +51,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
-    excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
-    publishedDateTime: 2022-05-09T21:49:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220509SF51230/arize-ai-named-to-forbes-ai-50-list-for-second-consecutive-year/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 37
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
         isCached: true
   - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
     excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
@@ -121,6 +112,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "GA/HekV6S69fFHmclBYLxe6T48guYuSv0hIPpgnhUH5bIzwdBNEMAWXizYD/44D7e8ycGAqJRFQI7L3OkobAdyMiBHngC4CDBa+BAkoNI6oFsfzSPcqfxe1ZsIM55tIYFI5fsum9xocNFkx/nb1UkvjSRj0Z8vHtQdfv7+/REE2IcIkkBfkztJHg8MaS7gKi1K3ttPdMblqTWZvcpcXBVlZv3VdyH11OcVGTGA+ijI2NcagZqIcU0SvF00JMTgfYhIvUwCl+gjv4apwuigkM+ro8Vei4QIKwjUFCja7NG+6by1VU5+MYdZE/jofK5kznf0JpFx6Xi6uAQQWPNcj6TRLSRAwMmJUv07ibjGW7hdvOSdf3aK9H0+MOzpF5piy1yixvaVwNDmFAqEvCHsrzrid1Y/6QyuxfjEWAL8SDreEUg3vSnAfH1zynwO7niOi+fAuiM5fNzudvBZm3axEQy/nGihrE+a6V32jPe92nYX3GKnEHSR/mTa/49p+EmNlDwOit1JBnQxqpL7uvYsEgCQ==;IMygR8qiiFLXHABXN6eJCg=="
+secured: "hGBisrQnRwGjv2LoD+a+ZctiBK2NiGM9IlbrRZMLlFZPHg2AgRo7C/4S5EA0TDp8TJ6/n708f9kNaHpQinQcoofEPvs02ZWMZMMyBZwdXfcNE4dvkBMC23CZcFVspBd+NSVliHAe5zHu0hh+cYKs116cqJb2dX3qdpCBjQ14VSoAS9BRBv7ZfEl2WikvmGt7DjexvmvY7VnyCfmY5XwDWZzGQM/KPhG4iEwRlqJ7AEgP/p6KFO/kfYKcbV9+P9z5RhWLSsLFpUJVTAaYworlj6Etoi48CiunE/Qi7kwNh+WdfFXOXCC6mJJe357Nf6WMf2hybNMrSLbQUe8gOJIOtGYZ0BAxsP14bZgpuDRZ504=;sKtTIJbWTrX9EhRgWSCXMg=="
 ---
 

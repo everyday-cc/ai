@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence model can predict whether Crohn disease will recur after surgery"
-excerpt: "Using an artificial intelligence (AI) tool that emulates how humans visualize and is trained to recognize and classify images, investigators constructed a model that predicts the postoperative ..."
-publishedDateTime: 2022-05-10T16:49:00Z
-originalUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-crohn-disease-recur.html"
-webUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-crohn-disease-recur.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-crohn-disease-recur.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-artificial-intelligence-crohn-disease-recur.amp"
+excerpt: "A deep learning model trained to analyze histological images of surgical specimens accurately classified patients with and without Crohn disease recurrence, investigators report in The American Journal of Pathology The 10-year rate of postoperative ..."
+publishedDateTime: 2022-05-10T14:51:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/952240"
+webUrl: "https://www.eurekalert.org/news-releases/952240"
 type: article
-quality: 50
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
-  - AI in Autos
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-32.jpg"
-    width: 2880
-    height: 2095
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8a7cca69-0829-4c45-b78b-2305b23957c4/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 218
     isCached: true
 
 related:
@@ -44,6 +41,6 @@ related:
         height: 480
         isCached: true
 
-secured: "t2lMAMu0YOS+lCI37D4kOj3qxAU/UOt0SZBuOxujVODhYWfrh0aaR93s9e6kMj6BGUg09L8gPaCRGZzPu4IHKUwn0nK5mGai6DpA3R+xN0Mi87beRdKmbtVtrGk9ysITUrc9NFzaUuX/4uo+h4DpnMsOyUm67JKqd7dgXoHsQYcUSs2j9mfsWf3VT8s67WeGKrrOPDFoxCTI86RAQB29i9rM7ef2ohEJ05S6Qc1CozlQxe/jGyy5Hz+mD0ZFFe/1I0DN/MRF3i7SnCnuRgQKLlnH5xdN2N6RiH1qY4mwAi7OX3z6wbIk7LcmEJN15UtXIYriYVd9R6ywdIFJNco/zIYL2mTZUaKo1+d9mHo+rq5SMfw21pgTfGQw1/iUjoYPlIFBORTL5klbLmBNymnWoRGWyQ8CwUmpbVthnVeKtZJjHxW2mHdirt33ZCni+pSeDcwWu9V4FmwnGaHagLGPHnD04f7l+AaLdF54UDmBfMChsAmS/Kso9QH24ywxFrIuWCqCwigeW60uHWr4mBb0Ow==;5VPV5b1PmtT1SaUjINEikQ=="
+secured: "LBQcndQ6eQCMrnyHRF298qTUdPq6fYqh9fGgPpIkjqsvj/VWbl5CFQXRxU+tqXbXAvOQ/4UK831I/Z2NyMH+ArOge+jpIvY+1b0/jDc/WnWNY0EPmWWO8NT7tsfy83/mjnlBnfncesiD+hRGop5ozyKNWp+VIOQtQdCrFL+qT/KXn308TUop7aN6Ub75Nw9Sb62gupwVpklWugN4t1raPt5xqIPc/dP3QV8eKQXXkxgqbCeCc3TzelZ2Bcw0onkL3PE13S8CDEMBTPJnz6ZxPKn/wfdy73lzfG/OxYqd63/IqYqyYDBCbT+l2bJpEOOVEoLu/V4seX+LTI6DarikgasQQ2XMLvXvzrwhRE8xTFM=;qNpLzls2MK0gF40ltzQvbg=="
 ---
 
