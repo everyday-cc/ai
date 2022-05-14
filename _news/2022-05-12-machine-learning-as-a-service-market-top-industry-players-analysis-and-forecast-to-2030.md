@@ -63,6 +63,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "3D Machine Vision Market Size, Share, and Growth Analysis Forecast- 2025"
+    excerpt: "Snapshot The 3D machine vision market has been estimated to experience numerous growth avenues in the foreseeable years."
+    publishedDateTime: 2022-05-11T06:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/3d-machine-vision-market-size-share-and-growth-analysis-forecast-2025"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/3d-machine-vision-market.jpg?w=410"
+        width: 410
+        height: 1025
+        isCached: true
   - title: "Business Intelligence Market Trends Forecast and Industry Analysis to 2030"
     excerpt: "Another factor which is expected to be a high-impact trend in the near future is the advancements in artificial intelligence. Companies worldwide are estimated to incorporate artificial intelligence with business intelligence solutions for sustainable growth."
     publishedDateTime: 2022-05-10T06:54:00Z
@@ -77,15 +91,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
-    excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
-    publishedDateTime: 2022-05-10T18:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2025-2022-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
 
 secured: "VyaVQSfUKAU8I57H1vkyd6dSAiocfr9ryw4QUW8tlRXEb1qZID+PhwBYze/m31TaD1ktC7VkF8HUYIau1gL1HP45WHEMArOCYlPGBLVtjag6BhDSt9L8CKXGD5T8M/3fj5wtPh1mHfIr8Mn+QcvMIW1Cbg/CWnJARjvto/UF/nUOh4k9I5cUZG9mWu8j2hmxu+ryQB9Wd/vBi01ngn+VoIhaWIeGrBGpSOztiZJLZ0hae9LkkvGdf86JdtjTcfrlQj6RmmlAEpCogh6gTlayinQognBN7riuDITcmz66k4gOFitnAtwV+cZ3FjCuNm30rJGyqGgUVDsBJXPRcOFW3Yq/UaI+miCJcmjp66hTVl+FU+qGn10sWcp+/ykQbVguV49EWUA9pgjmKSJmgnfNfJIpKfGX2EEFg2EdFcDaxyYrN1xd9/BdlA4SZGiGfuZ37xcxj5fOubSrEcUCwpnJHtBHatsMVP1rKomN2jDDWwULwZJnOwDtKkTJzsqWvYrR+jNCwWjgV0ZgMXmh6vig5A==;hCgnbfHHzc2SHT+4TDqTRg=="
 ---

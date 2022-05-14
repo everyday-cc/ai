@@ -24,6 +24,42 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Insights on the $332.5 Bn Fintech Market is Expected to Grow at a CAGR of over 19.8% During 2022-2028 | Vantage Market Research"
+    excerpt: "Financial technology is one of the most widespread terms used for research in finance industry in present time. Financial Technology (FinTech) is the use of modern"
+    publishedDateTime: 2022-05-09T08:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27068440/insights-on-the-332-5-bn-fintech-market-is-expected-to-grow-at-a-cagr-of-over-19-8-during-2022-202"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27068440"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27068440"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Artificial Intelligence-based Security Market: Current Growth and Tomorrow’s Potentials | Market registering a CAGR of 30.25% by 2025"
+    excerpt: "Description New Research Study “”Artificial Intelligence-based Security Market 2022 analysis by Market Trends (Drivers, Constraints,"
+    publishedDateTime: 2022-05-12T10:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-based-security-market-current-growth-and-tomorrows-potentials-market-registering-a-cagr-of-30-25-by-2025"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
+  - title: "Self-Driving Cars Market Growing at a CAGR of 20.3% over the Forecast Period 2022-2028"
+    excerpt: "Self-driving Cars Market is valued approximately USD 1.74 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 20.3% over"
+    publishedDateTime: 2022-05-13T12:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-cars-market-growing-at-a-cagr-of-20-3-over-the-forecast-period-2022-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+
 secured: "irb+gjCD5LKgxPwCU3H6q88jqImiFbXcupIWYo55IGNBjA5UXrLNijjGgjqGmVUW9PdPzVf2nw8HJv/dpwPFVM3Ibz9zaOeDto3LI5YDTd76lj0L3A6K3PoIJsegWQ6Ep4P8nPcoXh+an1kMZrh/mOyxaeC8yQNvwVs4HTnl0ZcYv++cv8NdsuE62IZJUoLCbn5a1tn9QbCzR9HfrEnRi6TBfNQcSOX8t8xy8fJcHHv/jiUNc1kEQvjI1N7U/hBjw4Tsqx2maXee4sgTs0GC6yW6b/e3KtqEAjr+wYA3AJAa2xsz+BBFxuN8iasB97ZshClUHYWQtG7WXVW3iim22WFom4iZhmuDSLDMu7QKy8Y=;/IYC+YlpVxK9nHbSeqm3Ng=="
 ---
 

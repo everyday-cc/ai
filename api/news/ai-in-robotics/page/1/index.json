@@ -348,7 +348,7 @@
       "originalUrl": "https://www.livemint.com/education/news/india-inc-wants-ai-robotics-but-campuses-lack-such-skills-11652247649928.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -381,50 +381,6 @@
         "AI in Finance",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-robots-and-the-future-of-remote-healthcare.md",
-      "title": "Robots and the Future of Remote Healthcare",
-      "excerpt": "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented rate. A growing focus on technology -- and the ways it can help improve patient care and the provider experience -- is now at the forefront,",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634",
-      "originalUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1430,6 +1386,49 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-01-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a large drop in short interest in the month of April. As of April 15th, there was short interest totalling 8,800 shares, a drop of 47.6% from the March 31st total ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
+      "originalUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks8.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
+      "publishedDateTime": "2022-04-30T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
         "images": null,
         "publishers": null,
         "authors": null

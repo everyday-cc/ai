@@ -25,74 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Car Crashes Into Dummy Cyclist During AAA Testing"
-    excerpt: "Tesla and other car makers are aggressively rooting for self-driving vehicles. A recent research by AAA sheds light on the safety concerns."
-    publishedDateTime: 2022-05-13T10:24:00Z
-    webUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/"
-    ampWebUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
+  - title: "Entertainment Robots Market Estimated to Reach at USD 15.18 Billion by 2030 at a CAGR of 24.6% - Report by Market Research Future (MRFR)"
+    excerpt: "North America will have admirable growth in the entertainment robots market over the forecast period. Because artificial intelligence & cognitive computing are becoming more widely used in North America, entertainment robots are in high demand. In the ..."
+    publishedDateTime: 2022-05-10T14:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27110199/entertainment-robots-market-estimated-to-reach-at-usd-15-18-billion-by-2030-at-a-cagr-of-24-6-repo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27110199"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27110199"
     type: article
     provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 44
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
     images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/05/AAA-tests.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Shocking statistics show drunk driving is up"
-    excerpt: "Ruth, who asked not to use her last name, says she was recently in a drunk driving crash. She says the driver rear ended ... out there aimed at curbing the issue, Sgt Buratczuk says self-policing is still the best way to fix this growing problem."
-    publishedDateTime: 2022-05-13T03:00:00Z
-    webUrl: "https://www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up"
-    ampWebUrl: "https://www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up?_amp=true"
-    cdnAmpWebUrl: "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up?_amp=true"
+  - title: "Artificial Intelligence Chip Market Size To Reach US$ 66.4 Billion by 2022-2027 | CAGR of 35.20% during Forecast Period – IMARC Group"
+    excerpt: "According to the latest report by IMARC Group, titled \"Global Artificial Intelligence Chip Market Size, Share, Industry Trends, Growth, Opportunity"
+    publishedDateTime: 2022-05-13T11:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-size-to-reach-us-66-4-billion-by-2022-2027-cagr-of-35-20-during-forecast-period-imarc-group"
     type: article
     provider:
-      name: KTNV Las Vegas
-      domain: ktnv.com
-    quality: 24
-  - title: "Embark's snowy testing conditions and other self-driving truck mileposts"
-    excerpt: "Self-driving truck testing has proliferated across the sun-speckled southern U.S., but few automated driving developers have ventured into more treacherous weather conditions. Over the past winter, Embark Trucks changed that. The company sought out snow ..."
-    publishedDateTime: 2022-05-12T13:54:00Z
-    webUrl: "https://www.autonews.com/mobility-report/embarks-snowy-testing-conditions-and-other-self-driving-truck-mileposts"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/DSC_2035.jpg"
-        width: 1200
-        height: 630
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheoYdwUNRdfvwqZfSMR9atdbKdoGnB7E3zzPe5zRK9X1ZX8WhILT8JPLgrGnqK3Dpe8X6IMXGmkO6pAL9uZolJCEM0jTbW1jtKkob8x__TRKTsRPWgpsUcv3WJCXMENMmw9Gh3_j73sRh84W7JSEA3qiCshXgOV-NEDggL21CqLNYa34fyhl1Y0g4/w637-h302/artificial-intelligence-chip-market-imarcgroup.jpg"
+        width: 537
+        height: 302
         isCached: true
-  - title: "Waymo’s self-driving cars are now being tested in downtown Phoenix"
-    excerpt: "PHOENIX (3TV/CBS 5) -- Google’s autonomous car company, Waymo, has officially launched self-driving cars pilot program in downtown Phoenix. Last month, the company was looking to expand operations into the heart of the Valley. Waymo had been operating in ..."
-    publishedDateTime: 2022-05-10T18:10:00Z
-    webUrl: "https://www.azfamily.com/2022/05/10/waymos-self-driving-cars-are-now-being-tested-downtown-phoenix/"
+  - title: "The Delivery Robots Market size is expected to reach USD 957 million by 2026 from USD 212 million in 2021"
+    excerpt: "\"Delivery Robots Market\"Delivery robots market size is projected to grow from USD 212 million in 2021 to USD 957 million by 2026, at a CAGR of 35.1% from"
+    publishedDateTime: 2022-05-13T15:05:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million-in-2021"
     type: article
     provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 19
-  - title: "Brands matter: Why trusting an existing brand can lure you into buying a driverless car"
-    excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ..."
-    publishedDateTime: 2022-05-11T13:11:00Z
-    webUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 11
-  - title: "Interesting Driving Facts You May Not Know"
-    excerpt: "Think you know everything about the wonderful world of driving? Think again. Here are some interesting driving facts you may not know."
-    publishedDateTime: 2022-05-13T12:11:00Z
-    webUrl: "https://www.evanshalshaw.com/blog/interesting-driving-facts-you-may-not-know/"
-    type: article
-    provider:
-      name: Evans Halshaw
-      domain: evanshalshaw.com
-    quality: 4
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "oqO8RvXvtqxbHij79roPFgIS7wYBtld7TuwBbdk+ec3kbkWttwypqgBV3PivNmgR2hnXROpiMjZoBdg1nrFfH7mhDIss+B3fJoYN43cJkZxlUKytPZVwK/bDZkgJ14qOjle+WOkiLMFrWb1yd7MnqAQbKGbgh1LXbAgD5pTOSLdqNdEBnMUKQtsFNScOMYi+4GV2eXNRj1UR5jEn7Eyd2SgJdSkWHyvl2to0XZbVhR+J9igzFvvs03oTvJcErv9xWuFOTFXo5pq9ffTKYfYr3EqyLNnRoOI0I4bVecMTFAIq8YR/SIszV7WMSvM0uzZ+780YMk/tV/f7s/KE2MHHuZnbSdEcFqVWdqyDllKI2BkX5sk3j49Hee4BoHxGY04GeolMcFEhnvd1wVBoBiGgS1iF2nxSQuA+R5OIQa5cvUUN4WqWHF4kJLVEpyoE4Q8oIsoPABup60+kccXmPqQ13qeFNye0zrOUJ/H+Yem3UHQ9l5IPwy/aglm2PYT+mic0QOlfko7i77UDKa2hY6NCsQ==;skRRWzovzbOtH3LV7kfjjg=="
 ---

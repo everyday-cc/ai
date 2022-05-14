@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook and Instagram right now"
+    excerpt: "Meta media representatives dispute that its facial recognition features have anything to do with its tagging software but said it suspended the filters in Texas and Illinois to “prevent meritless and distracting litigation” that is “based on a ..."
+    publishedDateTime: 2022-05-13T22:41:00Z
+    webUrl: "https://www.expressnews.com/news/local/article/A-Ken-Paxton-lawsuit-is-why-Texans-can-t-access-17172064.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 9
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/57/03/22474971/3/rawImage.jpg"
+        width: 1364
+        height: 2048
+        isCached: true
 
 secured: "4J44wqMPI69mtJg/XWlUSZL8o0mMyfPVa9As/QrjyLHOrnL3qg079idEdUZJY44CqLvnUZ5ezVmdMdksqYk6xkKSTc093oEnyJY7UMkpdl8YyIO5IdwkQdAvSJB8pMNN0NBsuFctrFdYDpMhY92/c0q2aesPH77CtTc9a3lwVQdQmwXq+kd84ZFa0OV3ndPUH1wWWMbw7CL/dnoUYdBQMWeHqNuCyZwKkNnVtwZUpBMp5iCUDdO9zQcGJMzBkwOgFEOi7i4ax+/QTxnf9POcyiqLQmWtCjaneQDigywEvCeQfVxP5P9cDsnCPs/NyKbOoGu4M7+apIkZQEB6/ckwWxhroasbosdu4tLvKEdG32M=;6m21tKxWMph8TeUYxHoxZw=="
 ---

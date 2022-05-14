@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg"

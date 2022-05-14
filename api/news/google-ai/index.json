@@ -2,29 +2,38 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-14-deepminds-astounding-new-gato-ai-makes-me-fear-humans-will-never-achieve-agi.md",
-      "title": "DeepMind’s astounding new ‘Gato’ AI makes me fear humans will never achieve AGI",
-      "excerpt": "DeepMind just unveiled a new AI system called Gato that makes OpenAI's GPT-3 look like a child's toy. But are we any closer to AGI?",
+      "path": "_news/2022-05-13-inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions.md",
+      "title": "Inflection AI, led by LinkedIn and DeepMind co-founders, raises $225M to transform computer-human interactions",
+      "excerpt": "Inflection AI, the startup co-founded by LinkedIn co-founder Reid Hoffman and founding DeepMind member Mustafa Suleyman, has raised $225 million in funding.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepminds-astounding-new-gato-ai-makes-fear-humans-will-never-achieve-agi",
-      "originalUrl": "https://thenextweb.com/news/deepminds-astounding-new-gato-ai-makes-fear-humans-will-never-achieve-agi",
+      "webUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/",
+      "originalUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 124,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?w=1024",
+          "width": 1024,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T12:00:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/",
+      "publishedDateTime": "2022-05-13T09:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

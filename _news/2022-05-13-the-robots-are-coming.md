@@ -19,34 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Robots and the Future of Remote Healthcare"
-    excerpt: "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented rate. A growing focus on technology -- and the ways it can help improve patient care and the provider experience -- is now at the forefront,"
-    publishedDateTime: 2022-05-11T01:10:00Z
-    webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
+  - title: "Target tests manicure robots"
+    excerpt: "Target is testing manicure robots in some of its stores. The machines from startup Clockwork provide a \"fast-casual\" version of nail care compared with the full-service, sit-down experience at a conventional salon."
+    publishedDateTime: 2022-05-10T10:00:00Z
+    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2022/05/target-tests-manicure-robots.html?page=all"
     type: article
     provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 56
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Killer Robots Are Here—and We Need to Regulate Them"
-    excerpt: "Argument: Killer Robots Are Here—and We Need to Regulate Them Killer Robots Are Here—and We Need to Regu... | View Comments () Swarms of robots with the ability to kill humans are no longer only the stuff of science fiction."
-    publishedDateTime: 2022-05-11T13:46:00Z
-    webUrl: "https://foreignpolicy.com/2022/05/11/killer-robots-lethal-autonomous-weapons-systems-ukraine-libya-regulation/"
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 39
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2022/05/killer-robots-lethal-autonomous-weapons-GettyImages-1131807237.jpg?w=1000"
-        width: 1000
-        height: 666
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "B+Z/FxKJLg3suxYCISEAH1MKmbvMbI/G7swWS1aoP9lKCmjbbnc6nL3FIE9OSI2Ngj0P6a7VC45NlTjIJvCZGvlo66BlBTPPIiRTafW/5KNdMOrdw6gfiRNJhMP4jxNC7Hc0iwxsR7ZiKVX8nNQc1R49RPZxGbMePBxCOiYcSTvCPBkzgeVWoi9BJpG/1NJCm4htNYJ5lD9Oyi53ig5cycPcjYKBlK2jf/cN4L9eiVBP0WhdbDKY8DNutfXYEHVbFhHZbXPPhJuZiDYF1ndQLkp0mJF6qqVjya8GIVqTaDfIYkQv+j31qlWBRyo3TjHja8lXvJaJ5kWMDMlJwYV9QL9Jn0e1vSjPwlVi712H5sU=;NfxCX7VAPrsIXmscruCt2A=="
 ---

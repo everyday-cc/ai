@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-
 ampWebUrl: "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/"
 type: article
-quality: 89
-heat: 139
+quality: 91
+heat: 141
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Computer Vision
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/05/ai_development.jpg?fit=800%2C450&strip=all"

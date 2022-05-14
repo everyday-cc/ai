@@ -75,15 +75,20 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
-    excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
-    publishedDateTime: 2022-05-10T18:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2025-2022-05-10"
+  - title: "3D Machine Vision Market Size, Share, and Growth Analysis Forecast- 2025"
+    excerpt: "Snapshot The 3D machine vision market has been estimated to experience numerous growth avenues in the foreseeable years."
+    publishedDateTime: 2022-05-11T06:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/3d-machine-vision-market-size-share-and-growth-analysis-forecast-2025"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/3d-machine-vision-market.jpg?w=410"
+        width: 410
+        height: 1025
+        isCached: true
 
 secured: "xszLufhzZh4szqk0iSTZ/xIhyokLbj8vzNzix9DT3zliCMfNF2FzZAq+FLDZrFDt+Nnt9I12aFO0w36GeCq66845EwBfSx0x4RHcjNG09nMoUE1vdHwgHl2uA0kjjnAtTVkzdSfrMktlpYaQ4BLjmpNQBLlR63+KiVEcUQOTJkucJ1F1qCh9kUt+LQwUWvVbdRkZqB7Q7ltzmIIjm2Lx7nri4dJ6TCzaZ9FmzpjE8ehvXYuyR7yovXbqETdAm9An2rPqKvDMUtIOfQZsbL9NGtBriS6qq1+Swmm1GXmnJCoTjlbojXEIPsDe/YA84zF5z8lqwP+RveoXwZb5DhEdrnaFG6nYUPHvwvY/SiCPkKk=;mraO6TPvUUz4doERfo7o0g=="
 ---

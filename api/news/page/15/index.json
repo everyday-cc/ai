@@ -2,6 +2,236 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-04-28-low-energy-device-lights-up-artificial-neuronal-networks.md",
+      "title": "Low-Energy Device Lights Up Artificial Neuronal Networks",
+      "excerpt": "To date, research on hardware for artificial intelligence and machine learning applications has concentrated mainly on developing electronic or photonic synapses and neurons, and combining these to carry out basic forms of neural-type processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/low-energy-device-lights-up-artificial-neuronal-networks-361053",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/low-energy-device-lights-up-artificial-neuronal-networks-361053",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/361053/low-energy-device-lights-up-artificial-neuronal-networks-361053-640x360.jpg?cb=20220428",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-be-the-first-to-know.md",
+      "title": "Be the first to know",
+      "excerpt": "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://greensboro.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_a94af464-ff3d-537b-9505-9a29ffc36332.html",
+      "originalUrl": "https://greensboro.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_a94af464-ff3d-537b-9505-9a29ffc36332.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/7/9a/79ae647c-2d35-526e-b34e-7a1b158aab14/626a3f0336ce6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News & Record",
+        "domain": "greensboro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers.md",
+      "title": "HPE and Salesforce unveil AI and automation tools for developers",
+      "excerpt": "HPE has launched its Swarm Learning and Machine Learning Development System whilst Salesforce announced further integration with Slack, Tableau, and Mulesoft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "originalUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "publishedDateTime": "2022-04-27T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-how-ai-can-close-gaps-in-cybersecurity-tech-stacks.md",
+      "title": "How AI can close gaps in cybersecurity tech stacks",
+      "excerpt": "Using AI and machine learning brings greater intelligence to endpoint and patch management and improves risk-based vulnerability assessments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
+      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323419199.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
+      "publishedDateTime": "2022-04-27T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud.md",
+      "title": "How AI-driven company Oculeus helps telecom service providers better combat fraud",
+      "excerpt": "Oculeus claims its solutions use AI to help its customers better manage and protect their business and network operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
+      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1364721861-e1651091651812.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
+      "publishedDateTime": "2022-04-27T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-uae-vows-responsible-artificial-intelligence-rollout.md",
       "title": "UAE Vows 'Responsible' Artificial Intelligence Rollout",
       "excerpt": "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university ...",
@@ -934,229 +1164,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.md",
-      "title": "New HPE offerings aim to turbocharge machine-learning implementation",
-      "excerpt": "Machine Learning Development System and Swarm Learning address implementation pain points for enterprise users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
-      "originalUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/17/21/ai_machine-learning_analytics_data-scientist-100777422-large-100914304-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
-      "publishedDateTime": "2022-04-27T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-using-ai-to-diagnose-mild-cognitive-impairment-that-progresses-to-alzheimers.md",
-      "title": "Using AI to diagnose mild cognitive impairment that progresses to Alzheimer's",
-      "excerpt": "Alzheimer's disease is the main cause of dementia worldwide. Although there is no cure, early detection is considered crucial for being able to develop effective treatments that act before its progress is irreversible.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/brain-mri.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.amp",
-      "publishedDateTime": "2022-04-27T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-nvidia-said-to-be-testing-an-rtx-40-series-gpu-that-needs-up-to-900-watts.md",
-      "title": "Nvidia said to be testing an RTX 40 series GPU that needs up to 900 watts",
-      "excerpt": "With the RTX 3090 Ti graphics card, Nvidia squeezed the last bit of performance it could from the Ampere architecture by raising the power limit to",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
-      "originalUrl": "https://www.techspot.com/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-27-image-12.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
-      "publishedDateTime": "2022-04-27T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street.md",
-      "title": "2 AI Growth Stocks With 101% to 339% Upside, According to Wall Street",
-      "excerpt": "According to some estimates, the AI industry could be worth $1.8 trillion annually by 2030, but that doesn't count the enormous value organizations will unlock by using it -- that number is almost impossible to quantify.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street",
-      "originalUrl": "https://www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street?amp",
-      "publishedDateTime": "2022-04-27T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses.md",
-      "title": "Bell and Amazon Web Services launch AWS Wavelength Zones to advance 5G for businesses",
-      "excerpt": "This enables software developers and businesses to take full advantage of 5G networks and the cloud with AWS to build solutions that leverage real-time visual data processing, augmented/virtual reality (AR/VR), artificial intelligence and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.canadianmanufacturing.com/manufacturing/bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses-281082/",
-      "originalUrl": "https://www.canadianmanufacturing.com/manufacturing/bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses-281082/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.canadianmanufacturing.com/wp-content/uploads/2021/10/PLT_INDUSYRY4.0_WSUPERBIXBOX_SEPT21_JLR.jpg",
-          "width": 300,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Canadian Manufacturing",
-        "domain": "canadianmanufacturing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

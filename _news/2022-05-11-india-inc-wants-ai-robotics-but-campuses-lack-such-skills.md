@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/education/news/india-inc-wants-ai-robotics-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/india-inc-wants-ai-robotics-but-campuses-lack-such-skills/amp-11652247649928.html"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "How Indian startups embed Ethical AI in their processes"
-    excerpt: "According to the Global AI Adoption Index 2021, 91 percent of companies using AI think it’s important to understand how the models arrived at a decision. Additionally, more than half of the businesses pointed out stumbling blocks that gets in the way of embedding ethical AI in their processes,"
-    publishedDateTime: 2022-05-09T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-indian-startups-embed-ethical-ai-in-their-processes/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/ethical-ai-in-indian-startups.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "RcyeHZjsTU12g3/07tKa6zUvHotDDIodYlQxAVfOYqtEz2GHAAEV4pmTv+C9yVnKhT/WCu8XiWiJeBLjM16iToxpiExQumB85aePvqVx0uxY9088H62UrFJDjNgKDQQG31E4q9rpkTEShM0ucgt/qA+Y1t660gg8Eqve6ydbdLELRywUR/ianpMkL9aTzO/G43fwbaAc3MOEtAOUmy0cmAZsyaSvX9rjfkQKDQ4i/PtZn4cXgZEyH2TaZX+ObdvsAOqR1MMvMalmO/AxEVqFo+oGOLvMd5XfDv0qK8uxQUXQtc6UigsOcsh0H73F5lS4Do1dwjuQdnn5JhhUkeKh0mzQ/k3wytG093wpoz/CMgsOVhWAQdd6Ej3ZET38iSd1vTSn2TsULzX7O1HsTzRaPXwSVCUXqOdZg2t3Tl5bJvCI90S7vp9Xom4SbLjbzAJ4vWR3ZMhHRm9Nm2cj4CByq1A0t7sXH3X7BG8iF9zhXmaYix62rljY48hYjr3bD0QSQbnmUJpz3txJeA/aWY7xTw==;l7O6/KMwueA/JQFAtR3ifA=="
 ---

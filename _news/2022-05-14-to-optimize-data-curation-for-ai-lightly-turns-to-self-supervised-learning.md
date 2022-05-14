@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/05/13/to-optimize-data-curation-for-ai-lig
 ampWebUrl: "https://venturebeat.com/2022/05/13/to-optimize-data-curation-for-ai-lightly-turns-to-self-supervised-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/13/to-optimize-data-curation-for-ai-lightly-turns-to-self-supervised-learning/amp/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 related:
   - title: "How Meta’s off-belief learning enhances human-AI collaboration sans direct data sharing"

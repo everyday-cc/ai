@@ -1,21 +1,28 @@
 ---
 category: news
 title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-excerpt: "View original content to download multimedia: https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto"
-publishedDateTime: 2022-05-12T17:03:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
+excerpt: "Forbes evaluated hundreds of submissions and recognized Nauto for its intelligent driver safety system that helps drivers avoid collisions and injuries by assessing roa"
+publishedDateTime: 2022-05-12T20:00:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
 type: article
-quality: 27
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
 
 related:
   - title: "Explaining The Art Behind The Forbes AI 50 Design"
@@ -115,6 +122,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "fv1h7UVfYiRgEz97EoNgbJya5cv3GAyUq0iTERrh+MNGdeYui0V14/hl/khxVtz+tObNO8tQi3Ypdq1P30L2OeZweRFmccj7BDhNChvpUHnqREXA8yxBwzpjZjFHzv4sQlAOBKRtINaXu58fobBg5F5jzzEaQ66GNbh1T7G9YNv8fJYzYnU61JFyG57muK1/GVyU8YmpgqlmDJd6stoB1G6xpKhWyGTiJn8afx0tZLjZJ1Um2iZTOrnH1gZxIjzqnJVC40KGlRt+fKjPvy+EJr6+U5p6tmB1UFPmlAH/IWVNe/u+bcnkhpiCELsM9SQkEXWtSD+SsoryosJQSQtlUQavRIQxDGzXQMgbyNhFrvk=;H0COtZBI66OVCY2dOOGVRw=="
+secured: "qb7dRX3L/4AZPg6DJZAKG0i0XfHC9yChuGdtQppmHzjFQiYmbdWq2Wd6bWXgFDieeF4GcNsnMkVLuNuX1rDibJljuXL21bN976uT5K2l3qJvjasIZlVzwHAtWZhVx84+H1G+ZdaPxB9nalXjYRxOdskmO6t66bpBNtvAIbvvL2Fj/nzfwpRcPfpQYEtWUSBNY65RLMOTOcZ7vpn1Ynn2JhECvndlRK8pKXyqNjD0TPp5ROFdRnttQAmoczsHfVumrQTy3DyyOqoqmoPNDPCm1hwGtFwTt+fJ63axk8aP2qVTulV1OUJ4MTeeydIBnD9o/+cNGTP+E0JTY/me9ApT7BKQMWqPcPR39C7X+kbWktY=;uEskNeXhzefhoZDmVKsTbw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-11-2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory.md",
+      "title": "2022 DesignCon Shows Evolution Of Electronic Chip Communication And Memory",
+      "excerpt": "DesignCon covered electronic design and integration, including photonic in chip communication. Rambus presented talks discussing the use of various xDDR and HBM memories for various applications including edge AI training,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62534598a4ecd6156f4ebda5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/amp/",
+      "publishedDateTime": "2022-04-10T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-10-chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.md",
       "title": "Chipotle tests tortilla chip-making robots to combat labor shortage",
       "excerpt": "Chippy, the robot named and designed by Miso Robotics, will be able to cook and season Chipotle’s popular chips.",
@@ -1336,62 +1388,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
-      "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
-      "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
-      "publishedDateTime": "2022-03-27T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "Google AI",
-        "Facebook AI",
-        "AI in Healthcare"
       ]
     }
   ],

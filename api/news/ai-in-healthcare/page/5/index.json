@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-13-artificial-intelligence-helps-treat-spinal-cord-injuries.md",
+      "title": "Artificial Intelligence Helps Treat Spinal Cord Injuries",
+      "excerpt": "By utilizing artificial intelligence (AI) and robotics, researchers have stabilized an enzyme that can degrade scar tissue resulting from spinal cord injuries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/spinal-cord-injuries.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
+      "publishedDateTime": "2022-03-12T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-12-researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.md",
       "title": "Researchers develop a system of synthetic biosensors to assess the response of cancer therapy",
       "excerpt": "Immune checkpoint blockade (ICB) inhibitors have transformed the treatment of cancer and have become the frontline therapy for a broad range of malignancies. It's because they work better than the previous standard of care.",
@@ -1265,49 +1308,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-the-artificial-intelligence-enabled-nation.md",
-      "title": "The artificial intelligence-enabled nation",
-      "excerpt": "One of the most interesting elements of public policy in India these days is tracking where artificial intelligence is being used as a multiplier and what impact it is generating. There is little doubt that artificial intelligence will, soon, transform the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html",
-      "originalUrl": "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/opinions/2022/feb/21/the-artificial-intelligence-enabled-nation-2421823.amp",
-      "publishedDateTime": "2022-02-20T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

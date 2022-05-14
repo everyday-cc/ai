@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Forbes evaluated hundreds of submissions and recognized Nauto for its intelligent driver safety system that helps drivers avoid collisions and injuries by assessing roa"
+    publishedDateTime: 2022-05-12T20:00:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 49
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
   - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
     excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
     publishedDateTime: 2022-05-09T21:49:00Z
@@ -73,15 +87,6 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 27
-  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "View original content to download multimedia: https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto"
-    publishedDateTime: 2022-05-12T17:03:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
     quality: 27
   - title: "Eigen Technologies Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Eigen Technologies (Eigen), the global intelligent document processing (IDP) provider, is proud to announce that the company has been named on the fourth annual Forbes AI 50 list 2022 for North America. Produced in partnership with Sequoia Capital, this ..."

@@ -35,6 +35,15 @@ related:
         width: 498
         height: 370
         isCached: true
+  - title: "How will AI affect the future of FinTech in India?"
+    excerpt: "Artificial intelligence (AI) is also being used by financial firms to enhance security and transparency in systems for payments"
+    publishedDateTime: 2022-05-11T12:35:00Z
+    webUrl: "https://ibsintelligence.com/ibsi_prime_news/how-will-ai-affect-the-future-of-fintech-in-india/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 19
   - title: "Fintech Market [RISING TODAY] 2022 : Size, Share, Projections & Future Opportunities Recorded for the Period 2030"
     excerpt: "Quadintel published a new report on the Fintech Market. The research report consists of thorough information about demand, growth, opportunities,"
     publishedDateTime: 2022-05-13T13:44:00Z

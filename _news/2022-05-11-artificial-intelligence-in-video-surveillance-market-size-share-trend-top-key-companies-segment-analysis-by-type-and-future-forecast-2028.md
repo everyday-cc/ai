@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global GPU for Deep Learning Market 2022 Opportunity Analysis, Comprehensive Insights, CAGR Status and Future Opportunity Assessment by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 10, 2022 (CDN Newswire via Comtex) -- Global GPU for Deep Learning Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 offers an in-depth ..."
+    publishedDateTime: 2022-05-11T03:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2022-opportunity-analysis-comprehensive-insights-cagr-status-and-future-opportunity-assessment-by-2028-2022-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Tiny Machine Learning (TinyML) Market Research Report 2022 Size, Share, Growth, Trends and Forecast 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 12, 2022 (The Expresswire) -- “Tiny Machine Learning (TinyML) Market” report provides market size, it classify market based on region, product, and application."
     publishedDateTime: 2022-05-12T11:24:00Z
@@ -37,85 +51,47 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-  - title: "AI In Pharma Global Market Report 2022"
-    excerpt: "The \"AI In Pharma Global Market Report 2022, By Technology, Drug Type, Application\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-05-09T20:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-in-pharma-global-market-report-2022/article_efcc6150-0439-5556-9c73-b9d174e1bbc9.html"
+  - title: "Cyber Security in Robotics Market 2022 Development Status, Competition Analysis, Type and Application 2029"
+    excerpt: "Furthermore, the world is witnessing rapid increase in information security, human safety, data protection which, in turn, is creating potential growth opportunities for the cyber security in robotics market players. Leveraging Artificial Intelligence and ..."
+    publishedDateTime: 2022-05-13T03:44:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/13/cyber-security-in-robotics-market-2022-development-status-competition-analysis-type-and-application-2029/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "AI in Bio Pharmaceuticals Research Report 2022 - ResearchAndMarkets.com"
-    excerpt: "AI is regarded by some top executives at big pharma (Novartis ... Microsoft partnered with robotic surgery startup Cmr Surgical on a proof of concept to store clinical data from cmr’s next-generation surgical robot, Versius, into a glass, marking ..."
-    publishedDateTime: 2022-05-11T10:07:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-86f0d638b22a40dda9d8e1b38b8a9e6d"
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 33
+  - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
+    excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
+    publishedDateTime: 2022-05-10T18:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2025-2022-05-10"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Neural Network Market New Innovations Trends, Research, Global Share and Growth Factor"
-    excerpt: "Significant advancement in the field of artificial intelligence (AI), surge in cloud disruption ... solutions are expected to drive the growth of the growth of the global neural networks market. On the other hand, lack of skilled professionals hinders ..."
-    publishedDateTime: 2022-05-11T06:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/neural-network-market-new-innovations-trends-research-global-share-and-growth-factor"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+  - title: "Artificial Intelligence in the Education Sector Market Future Trends and Opportunities, Past, Present Data, and Deep Analysis by The Insight Partners"
+    excerpt: "The artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly"
+    publishedDateTime: 2022-05-12T11:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-future-trends-and-opportunities-past-present-data-and-deep-analysis-by-the-insight-partners"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 31
+    quality: 15
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/721043d015e7592d3878c959eb0b07c6df1918ee-e1652191764450-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Social Robots Market Research Report 2022 | Trends, Growth, Size, Share and Forecast 2027"
-    excerpt: "\"Social Robots Market\"The global social robots market reached a value of US$ 2.6 Billion in 2021. Looking forward, IMARC Group expects the market to reach"
-    publishedDateTime: 2022-05-13T00:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/social-robots-market-research-report-2022-trends-growth-size-share-and-forecast-2027"
+  - title: "Insights on the Smart Robot Global Market to 2027 - by Component, Mobility, Application, Vertical and Region - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global smart robot market reached a value of US$ 8.94 Billion in 2021."
+    publishedDateTime: 2022-05-09T13:31:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-9-insights-on-the-smart-robot-global-market-to-2027-by-component-mobility-application-vertical-and-region-researchandmarketscom"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.abnewswire.com/uploads/1652360552.jpeg"
-        width: 1920
-        height: 1479
-        isCached: true
-  - title: "3D Machine Vision Market Size, Share, and Growth Analysis Forecast- 2025"
-    excerpt: "Snapshot The 3D machine vision market has been estimated to experience numerous growth avenues in the foreseeable years."
-    publishedDateTime: 2022-05-11T06:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/3d-machine-vision-market-size-share-and-growth-analysis-forecast-2025"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/3d-machine-vision-market.jpg?w=410"
-        width: 410
-        height: 1025
-        isCached: true
-  - title: "Artificial Intelligence-based Security Market: Current Growth and Tomorrow’s Potentials | Market registering a CAGR of 30.25% by 2025"
-    excerpt: "Description New Research Study “”Artificial Intelligence-based Security Market 2022 analysis by Market Trends (Drivers, Constraints,"
-    publishedDateTime: 2022-05-12T10:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-based-security-market-current-growth-and-tomorrows-potentials-market-registering-a-cagr-of-30-25-by-2025"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 3
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
   - title: "Intelligent Speech and Voice Recognition Market Size Is Expected To Grow At A CAGR Of 23.8% During Assessment Period 2022-2028 | 111 Report Pages"
     excerpt: "Intelligent Speech and Voice Recognition Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in ..."
     publishedDateTime: 2022-05-12T10:51:00Z

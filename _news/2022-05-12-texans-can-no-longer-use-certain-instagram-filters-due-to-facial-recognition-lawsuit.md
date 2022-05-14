@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-
 cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://thumbnails.texastribune.org/trgaGo7pTw-KgAz2LE4WIjofnFw=/1200x630/filters:quality(95)/static.texastribune.org/media/files/92e525dfa5fa30ca5b37b9d58650156c/Meta%20REUTERS%20TT.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook and Instagram right now"
+    excerpt: "Meta media representatives dispute that its facial recognition features have anything to do with its tagging software but said it suspended the filters in Texas and Illinois to “prevent meritless and distracting litigation” that is “based on a ..."
+    publishedDateTime: 2022-05-13T22:41:00Z
+    webUrl: "https://www.expressnews.com/news/local/article/A-Ken-Paxton-lawsuit-is-why-Texans-can-t-access-17172064.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 9
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/57/03/22474971/3/rawImage.jpg"
+        width: 1364
+        height: 2048
         isCached: true
 
 secured: "80Rx8FkvYV8MGcXkc/8Ozf2tYcbih8mAuEC2R5WfhFWWF9SRoP+GxB9UyJl+UoeRsEUAymzjNnfY73dG5p3ESK44Qh9XcA3dakrrdGAnJuzMhpGYtMLDv4c3NXrm2oD98TEZc0tZ0WKKVE3tpZbiC5Rh5QLOTCDmQTCesk8+O67VZWCHHbMWQzw1FjS4RySe9xwu0eye/3VuWkzlJ1jCl9w9Ot5Xfzka5Vj+kQz4KXSYto60/2rOekmeIgrzhiH8DzHf36HynDoumzXoLJsv7Qjqceogcaf8bs5wv89I3YkZr4LJ9X3J/kplwlVolelNd8NepVt6RCOq6VmkQA3Nj/Kuw235Xq+2iK3+HDkz/4Rsmgez90oFpPFCyrBvNk+iNRyOhmxAUDUD4THOc4gmNqpXgktLExbqRXVZsdsLXsWf/bGRg0H8ZDxEcnsF4EG5zsXKfDkQi442+TcXKq99xgLVuWkU8/jByFjm4M76uxBmzuvyBZa7mh/Weg51pL5Q+d3QjlW0etb2iZB9K903jQ==;dnp9SV42i9B3ONANqdxPWw=="

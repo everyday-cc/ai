@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/deepminds-astounding-new-gato-ai-makes
 webUrl: "https://thenextweb.com/news/deepminds-astounding-new-gato-ai-makes-fear-humans-will-never-achieve-agi"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: The Next Web
@@ -21,17 +21,6 @@ provider:
 topics:
   - Google AI
   - AI
-
-related:
-  - title: "DeepMind’s new AI can perform over 600 tasks, from playing games to controlling robots"
-    excerpt: "Alphabet-backed research lab DeepMind created an AI system, Gato, that can perform hundreds of tasks ranging from controlling a robot to analyzing text."
-    publishedDateTime: 2022-05-13T12:15:00Z
-    webUrl: "https://techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 56
 
 secured: "yUPZ702gz0RmmZbe4zBdRjJS7W4LaWY521WIP4g7tiiusYcS5QoM+CGhJhRETF8/B40+MNNLPtJPnCKuZs7I+Noe5qHQ9vWUPgah8CzL4guUyxoHqiZz1apZE8YIK0beCf+WoJHoyCaAkBngVydHPi7f8I6wqfTBuQzAK6w2w/bh7JhZrFMvI6proobC0i5YZIxJfswKanbw73ZCI/PLdI+HYRCCyxItYB16YC9mA7ngM6AoTy5NgWYSC3KXMLiqd26z5LiXo0hlygJw1RdVo9nIYp4BLQIyKJU83Er1CNXVHMuSHqMu460xD05+22B2xboWDRLwUT82AaemVwy3SqfPdEgJ8TkHFH6LRV6PJ9M=;hFJqA3YqIIZup9yQSqNpzQ=="
 ---

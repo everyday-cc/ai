@@ -56,6 +56,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Self-driving Car Market Estimated to Expand at a Robust CAGR over 2019 – 2030"
+    excerpt: "Self-driving Cars – The Elevated Future of Mobility The race for a completely self-driving car is underway with increased ongoing testing and prototyping"
+    publishedDateTime: 2022-05-09T11:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-estimated-to-expand-at-a-robust-cagr-over-2019-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "ZTgVxjT6ZerSvQXRQaMkw4mqciKyxO5EZWZ4slNroRtdLL+CoyEa/5d3/RHUpyJ+fET0SyduBnp2vj+S72AGR167P9t6lHeP6I4NuI2RDW2UHEs/Wu8py+ywobFMd6YQ+UdrvgP2Q2w/WB7a2+Rlu3twT9ojRn3PMyEinwqqeHv4L4vkzhFjDkwY9NtgYdcsRA+vzQfKwJEnO/nLuB4wOUycTN9jQZteIA/MQTmIhJNy+CaXA9XmdmSpayqCh4FJycMwhkU4ey0gEmtj4yzdYOnSsgGOnUlV+VDfeXK3cjxQsKbtVPOJ94Qss/V5u8QCGdkaIPlkz1IswIpvLV18UhzMS0PsT1dYZm02fasEIxU=;Df8svCU1+imkrANU84Gi8A=="
 ---

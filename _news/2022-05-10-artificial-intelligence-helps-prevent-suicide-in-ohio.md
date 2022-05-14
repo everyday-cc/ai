@@ -2,22 +2,28 @@
 category: news
 title: "Artificial Intelligence Helps Prevent Suicide in Ohio"
 excerpt: "CareSource, a nationally recognized nonprofit health plan, announced today a collaboration with Clarigent Health to bring Artificial Intelligence (AI) to behavioral health providers in Ohio. Clairity,"
-publishedDateTime: 2022-05-10T16:39:00Z
-originalUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
-webUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
+publishedDateTime: 2022-05-10T15:42:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Kxnet
-  domain: kxnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
-secured: "fWbSwiUvOHfJChVif3gP1TdYxEPVm45CUylm/5kld7/CmquQLpzg3r5UCBwd+WIZ+tDKS8++0+1VEzP8YSy0GoLBUVMx6uwYaWD+qM6nbgDi6Du5qnn+r2i7gZg37DOc1GJc9yYvui1NmTMU5F2gGuE8C9rCvfcR7H3/tTtimclQ7sCfFW+w8a0wsvS6t5S2c1ddEgZWAUG/a4GzpG+K18+xFQqH1OajIBLzJXc34GiTyex1KzWtsmVbCdd4vnfIMbWoBuZl51issC0w5L6I30vz3dZDszd9oX/oiz/Kz2AzZ8Rjdk/3RTNFHYB0ckNvIrfETSFgKeKs2PZd0hNes4dj91H29rcDo+JwmjGmve8=;hSI2j44np8k3I/OPUz8/OA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "sAB/4aNLuLgMrjZjawsIS8WVgMTDiSysSaUe8mmoILsO05mBf4UCHY+eD4ef6I2rdgC3RFGF+IxY8Pc5xvEjDPPQt8BGqe1GuqBn+4UbUiHCOmlFn+QvmiY7XRR7U7knG40XTA4Yq3lwrVLhVvU3Tr/Cz0Pa1f2WQyQPxd6cgLndBA5xgtDUbJrwbWRHrUeLm6Wj10Bfn7PUXaXKDkcMdT4eVwXedQvrFP4/+Sss3Xsy/OTqacXKlG8KY44r52eQGLyYZlAsQars6k7lq7HNjlF/DjTD448mLBW3Lxy0hOAQFg9l3IKh+j/YgpaLhq56DtsbfbtCk6EJ/Glnjz81Y6zoPW2VObEgiSkCXI7t65M=;9O9OELADiQYq9Km7TDiDfw=="
 ---
 

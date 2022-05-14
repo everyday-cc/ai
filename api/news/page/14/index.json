@@ -2,6 +2,250 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-04-29-inworld-shows-off-impressive-ai-powered-character-generation-and-interaction.md",
+      "title": "Inworld shows off impressive AI-powered character generation and interaction",
+      "excerpt": "Characters in games and other digital experiences tend to be rather static, working from a set of lines and responses written long ago. But the future of games could be more responsive, generative, and of course AI-powered — something Inworld AI is attempting to enable with a newly available beta",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/",
+      "originalUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/inworld.jpg?w=1024",
+          "width": 1024,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/",
+      "publishedDateTime": "2022-04-28T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-snap-is-fueling-our-selfie-obsessions-with-a-flying-camera.md",
+      "title": "Snap Is Fueling Our Selfie Obsessions With a Flying Camera",
+      "excerpt": "Snap is mostly known for its sticky social network consisting of fleeting messages and legitimately impressive augmented reality filters. But every so often Snap, which calls itself a “camera company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/snap-pixy-drone-camera/",
+      "originalUrl": "https://www.wired.com/story/snap-pixy-drone-camera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/snap-pixy-drone-camera/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snap-pixy-drone-camera/amp",
+      "publishedDateTime": "2022-04-28T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-self-driving-tesla-crashes-into-15-million-private-jet-while-being-summoned.md",
+      "title": "Self-driving Tesla crashes into £1.5 million private jet while being ‘summoned’",
+      "excerpt": "One of the self-driving features on a Tesla car is known as ‘smart summon’ and allows the owner to call the car remotely from around 200 feet. Unfortuantely, there’s sometimes an expensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
+      "originalUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/04/SEC_101095692.jpg?quality=90&strip=all&zoom=1&resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
+      "publishedDateTime": "2022-04-28T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few.md",
+      "title": "Federal banking agencies trying to ensure AI, ML benefit most rather than the few",
+      "excerpt": "Measuring risks and setting benchmarks for emerging fintech is top of mind for NIST and the Commerce Department.",
+      "sourceUrl": null,
+      "webUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
+      "originalUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://federalnewsnetwork.com/wp-content/uploads/2022/04/stanfordpanel.jpg",
+          "width": 1555,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "federalnewsnetwork.com",
+        "domain": "federalnewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware.md",
+      "title": "Exafunction aims to reduce AI dev costs by abstracting away hardware",
+      "excerpt": "The most sophisticated AI systems today are capable of impressive feats, from directing cars through city streets to writing human-like prose. But they share a common bottleneck: hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/",
+      "originalUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/",
+      "publishedDateTime": "2022-04-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters.md",
       "title": "Richard Bartle and Richard Garriott: How humans should treat advanced AI characters",
       "excerpt": "Richard Bartle and Richard Garriott talked at GamesBeat Summit 2022 about being new citizens of the metaverse.",
@@ -908,107 +1152,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-28-low-energy-device-lights-up-artificial-neuronal-networks.md",
-      "title": "Low-Energy Device Lights Up Artificial Neuronal Networks",
-      "excerpt": "To date, research on hardware for artificial intelligence and machine learning applications has concentrated mainly on developing electronic or photonic synapses and neurons, and combining these to carry out basic forms of neural-type processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/low-energy-device-lights-up-artificial-neuronal-networks-361053",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/low-energy-device-lights-up-artificial-neuronal-networks-361053",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/361053/low-energy-device-lights-up-artificial-neuronal-networks-361053-640x360.jpg?cb=20220428",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-28-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
-      "title": "China Grants First Driverless Taxi Permits to Baidu, Pony.ai",
-      "excerpt": "China Grants First Driverless Taxi Permits to Baidu ... has in recent years invested heavily in autonomous driving and artificial intelligence technology, including automated personal assistants ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp",
-      "publishedDateTime": "2022-04-28T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-be-the-first-to-know.md",
-      "title": "Be the first to know",
+      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
       "excerpt": "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ...",
       "sourceUrl": null,
-      "webUrl": "https://greensboro.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_a94af464-ff3d-537b-9505-9a29ffc36332.html",
-      "originalUrl": "https://greensboro.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_a94af464-ff3d-537b-9505-9a29ffc36332.html",
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/7/9a/79ae647c-2d35-526e-b34e-7a1b158aab14/626a3f0336ce6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1016,13 +1174,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T23:59:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838",
+      "publishedDateTime": "2022-04-28T02:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News & Record",
-        "domain": "greensboro.com",
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1033,150 +1191,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers.md",
-      "title": "HPE and Salesforce unveil AI and automation tools for developers",
-      "excerpt": "HPE has launched its Swarm Learning and Machine Learning Development System whilst Salesforce announced further integration with Slack, Tableau, and Mulesoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "originalUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "publishedDateTime": "2022-04-27T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-ai-can-close-gaps-in-cybersecurity-tech-stacks.md",
-      "title": "How AI can close gaps in cybersecurity tech stacks",
-      "excerpt": "Using AI and machine learning brings greater intelligence to endpoint and patch management and improves risk-based vulnerability assessments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323419199.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
-      "publishedDateTime": "2022-04-27T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud.md",
-      "title": "How AI-driven company Oculeus helps telecom service providers better combat fraud",
-      "excerpt": "Oculeus claims its solutions use AI to help its customers better manage and protect their business and network operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1364721861-e1651091651812.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
-      "publishedDateTime": "2022-04-27T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

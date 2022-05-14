@@ -2,6 +2,240 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-05-04-eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses.md",
+      "title": "EKA partners with NuPort Robotics to introduce smart Electric Buses",
+      "excerpt": "NuPort Robotics, a Canadian company announced its plans earlier ... are not only environmentally friendly but also futuristic through incorporation of Artificial Intelligence thereby making our buses efficient and safer to operate on Indian roads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.uniindia.com/story/EKA-partners-with-NuPort-Robotics-to-introduce-smart-Electric-Buses",
+      "originalUrl": "https://www.uniindia.com/story/EKA-partners-with-NuPort-Robotics-to-introduce-smart-Electric-Buses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uniindia.com/public/default-image/default-730x400.png",
+          "width": 730,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United News of India",
+        "domain": "uniindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
+      "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
+      "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/426610",
+      "originalUrl": "https://www.entrepreneur.com/article/426610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-426610.jpeg",
+          "width": 3001,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains.md",
+      "title": "Two sisters create a startup that puts sustainability into global supply chains",
+      "excerpt": "Built on the cloud and using AI, it processes mountains of unstructured and uncleansed ... But as is the case with any startup, the journey taken by Atkins and Vowels has not been easy or straightforward. The pair have had to work doubly hard to establish ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/",
+      "originalUrl": "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/givvable_main_2000.jpg",
+          "width": 2000,
+          "height": 1332,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
+      "title": "DeepMind Is Working on a Solution to Bias in AI",
+      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
+          "width": 1178,
+          "height": 1070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
+      "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
+      "excerpt": "DETROIT (Reuters) - Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483827.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-baidu-gets-a-permit-that-tesla-will-envy.md",
       "title": "Baidu Gets a Permit That Tesla Will Envy",
       "excerpt": "\"Their self-driving fleet has driven 40 times the distance between San Francisco and New York City.\" Wei Dong, vice president and chief safety operations officer at Baidu Intelligent Driving Business Group, said in a statement that China's regulatory ...",
@@ -918,211 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-elon-musk-boasts-teslas-optimus-robots-will-have-full-artificial-intelligence.md",
-      "title": "Elon Musk boasts Tesla's 'Optimus' robots will have full artificial intelligence",
-      "excerpt": "But according to Tesla boss Elon Musk, his humanoid robot, Optimus, is coming soon – and it might also contain the first true Artificial Intelligence. “Tesla AI might play a role in AGI,” the multi-billionaire tweeted, “given that it trains against ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543",
-      "originalUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.dailystar.co.uk/incoming/article26859846.ece/ALTERNATES/s615/0_FILE-PHOTO-Tesla-CEO-Elon-Musk-reveals-the-Tesla-Energy-Powerwall-Home-Battery-during-an-event-in-H.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543.amp",
-      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543.amp",
-      "publishedDateTime": "2022-05-03T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Star",
-        "domain": "dailystar.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-empowerly-launches-artificial-intelligence-scholar-program-for-junior-high-and-high-school-students.md",
-      "title": "Empowerly Launches Artificial Intelligence Scholar Program for Junior High and High School Students",
-      "excerpt": "today announced the launch of its Artificial Intelligence (AI) Scholar Program. Developed by Stanford and MIT alumni, the Program was created as a way to empower students from grades 7 through 12 to learn how to apply AI to build socially-impactful projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-empowerly-launches-artificial-intelligence-scholar-program-junior-high-/2022/05/03/9594380.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-empowerly-launches-artificial-intelligence-scholar-program-junior-high-/2022/05/03/9594380.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-known_ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th.md",
-      "title": "Known_Ai Film Festival First to Offer All-Artificial Intelligence-Enhanced Film Slate May 6th",
-      "excerpt": "LONDON, May 3, 2022 /PRNewswire/ -- The Metaverse – Ai Cinematics, a producer of artificial intelligence (Ai) assisted films and theatrical shorts, has created the World’s first Ai-specific film festival and awards show. Partnering with the UK-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-entertainment-lifestyle-film-festivals-artificial-intelligence-1ff54804ee8f75ca3ea1b91444ffd3dd",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-entertainment-lifestyle-film-festivals-artificial-intelligence-1ff54804ee8f75ca3ea1b91444ffd3dd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-powered-proven-skincare-launches-worlds-first-personalized-eye-cream-duo.md",
-      "title": "AI-Powered PROVEN Skincare Launches World’s First Personalized Eye Cream Duo",
-      "excerpt": "PROVEN Skincare, the AI-powered, technology-first skincare brand, today announced the launch of the world’s first personalized Eye Cream Duo. The Duo is formulated with potent ingredients that target multiple skin concerns at once while nourishing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-be960773442b4f6982b56a85dc591b6a",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-be960773442b4f6982b56a85dc591b6a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-14-steps-for-getting-started-with-data-driven-market-segmentation.md",
-      "title": "14 Steps For Getting Started With Data-Driven Market Segmentation",
-      "excerpt": "Shane Paladin, Siteimprove 2. Identify Trends Using AutoML AutoML capabilities help identify trends in data, allowing segmentation to be recognized automatically by intelligent decision support.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62702e786a33e85a57a3642e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/amp/",
-      "publishedDateTime": "2022-05-03T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

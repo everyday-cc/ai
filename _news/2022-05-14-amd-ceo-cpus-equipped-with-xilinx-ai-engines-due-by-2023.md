@@ -27,7 +27,7 @@ related:
     provider:
       name: Electronic Design
       domain: electronicdesign.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/05/Xilinx_Baidu_Edge_Board.627d39ae5ecb9.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200

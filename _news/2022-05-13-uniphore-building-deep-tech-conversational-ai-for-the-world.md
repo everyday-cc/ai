@@ -58,15 +58,6 @@ related:
         width: 424
         height: 283
         isCached: true
-  - title: "Kakao Brain Brings Big Improvements to the Metaverse with New Face-Swap Technology"
-    excerpt: "[2] CVPR (Conference on Computer Vision and Pattern Recognition), co-sponsored by Institute of Electrical ... [3] Identity gradient is a learning signal telling the face-swapping model which part must be tuned to change the person's identity accurately."
-    publishedDateTime: 2022-05-09T05:48:00Z
-    webUrl: "https://www.wric.com/news/business/press-releases/cision/20220508CN49049/kakao-brain-brings-big-improvements-to-the-metaverse-with-new-face-swap-technology/"
-    type: article
-    provider:
-      name: WRIC
-      domain: wric.com
-    quality: 13
 
 secured: "XT10CltHRYb7xgYbIIUsLM4ksj1/MPVf1jpf8HM7juGfEUXn+FWhOkxTDMB3WH9MDq72eR+22g6caFpuq5wiFATmp/QCQNks6wMtDDlu+n2iT2khDfU3Ibl1D1EGd7pL6egwCTmZtDQRBWVfISkVBMY0T4znSr9s2H9Nplr4H7jOshdR2YBa90CegpRWTGXyfXdMo6i7j9fEmUWnK11PXejjXnW+vFF4OdkkAvv3UBya6cEbEzYzExSqjTCVVvGXC3Oqfz5khwWSPCaFsnC+M1RKHDHyzwmCiAQrzZvenC5Qzsiu/YHauluJIc4NsM0YiBMe77NiHqYdo7R5WB4X8iFU+1XBORl6pfu6PyaQ/nk=;OA8LjW4nK3INJus8AEnyqw=="
 ---

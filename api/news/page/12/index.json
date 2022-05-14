@@ -2,6 +2,210 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-05-02-an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world.md",
+      "title": "An AI-ML solution that lets people with disabilities to interact with the world",
+      "excerpt": "They find it tough to access digital content and services and communicate too on the online platforms. Here’s a start-up, DeepVisionTech.AI, which builds a digital interpreter solutions, using artificial intelligence and machine learning solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/ef95ah/article65372881.ece/alternates/LANDSCAPE_615/letstalk.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece/amp/",
+      "publishedDateTime": "2022-05-01T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-would-you-buy-a-work-of-art-created-by-artificial-intelligence.md",
+      "title": "Would you buy a work of art created by artificial intelligence?",
+      "excerpt": "Are computers capable of creating art, will they ever be? In the meantime, examples of artificial art have increased considerably since the last Biennale. We talked about this with Luca Gambardella, who analyses nature to teach artificial intelligence how to be autonomous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.domusweb.it/en/art/2022/05/02/would-you-buy-a-work-of-art-created-by-artificial-intelligence.html",
+      "originalUrl": "https://www.domusweb.it/en/art/2022/05/02/would-you-buy-a-work-of-art-created-by-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Loves by Domus",
+        "domain": "domusweb.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-ai-in-renewable-energy-market-size-to-surpass-us-7582-bn-by-2030.md",
+      "title": "AI in Renewable Energy Market Size to Surpass US$ 75.82 Bn by 2030",
+      "excerpt": "Tokyo, May 01, 2022 (GLOBE NEWSWIRE) -- The global artificial intelligence (AI) in renewable energy market size was estimated at US$ 8.24 billion in 2021. The growing need for power in emerging and established regions is one of the primary reasons driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g26921951/ai-in-renewable-energy-market-size-to-surpass-us-75-82-bn-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g26921951/ai-in-renewable-energy-market-size-to-surpass-us-75-82-bn-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26921951",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26921951",
+      "publishedDateTime": "2022-05-01T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-01-believe-it-or-not-ai-can-help-brands-connect-with-customers-in-an-empathetic-way.md",
+      "title": "Believe it or not, AI can help brands connect with customers in an empathetic way",
+      "excerpt": "Developments in artificial intelligence (AI) to help brands recognize opportunities to respond in an empathetic way are on the rise. Understanding the customer mindset really starts with brands ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-can-help-brands-connect-with-customers-empathetic-way",
+      "originalUrl": "https://thenextweb.com/news/ai-can-help-brands-connect-with-customers-empathetic-way",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fimage-20.jpeg&signature=fdb6b8bdad7a3fe3ea7ffb4d5bfd6f3d",
+          "width": 741,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-01T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-01-is-there-a-link-between-personality-and-cognitive-decline.md",
+      "title": "Is There a Link Between Personality and Cognitive Decline?",
+      "excerpt": "No one is shocked when the perpetual Netflix-binging couch potato develops dementia. But can personality traits actually predict who will develop cognitive decline? A study published in April in Journal of Personality and Social Psychology says there is an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/health-and-medicine/22671/link-personality-cognitive-decline",
+      "originalUrl": "https://www.labroots.com/trending/health-and-medicine/22671/link-personality-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/health-and-medicine/22671/link-personality-cognitive-decline/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/health-and-medicine/22671/link-personality-cognitive-decline/amp",
+      "publishedDateTime": "2022-04-30T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-01-autonomous-race-car-sets-new-self-driving-land-speed-record.md",
       "title": "Autonomous race car sets new self-driving land speed record",
       "excerpt": "On the other hand, this is racing as technological development, in its purest form. Self-driving street cars might drive fairly cautiously, but there will always be times when these machines ...",
@@ -919,258 +1123,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-aws-bags-victory-over-microsoft-in-fight-for-10bn-nsa-contract.md",
-      "title": "AWS bags victory over Microsoft in fight for $10bn NSA contract",
-      "excerpt": "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
-      "originalUrl": "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/8oGbNhHrdUVzT8e8dns8dE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field.md",
-      "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
-      "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai.md",
-      "title": "Breaking Down Silos To Create A 360-Degree Total Experience Strategy Through Conversational AI",
-      "excerpt": "Raghu Ravinutala is CEO of leading CX automation platform Yellow.ai, writing about customer experience (CX), AI, conversational AI and more. Over the past two years, we have seen customer experience management become a primary barometer of business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626a938f149fc7a7c9b6f347/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/amp/",
-      "publishedDateTime": "2022-04-29T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-enterprise-use-cases-for-computer-vision.md",
-      "title": "Enterprise Use Cases For Computer Vision",
-      "excerpt": "Manish Garg is the Co-founder and Chief Product Officer at Skan.ai, a computer-vision-based process intelligence platform. Computer vision conjures up thoughts of autonomous vehicles and facial recognition for many of us. Indeed, billions of dollars have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,3375,x0,y240,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
-      "publishedDateTime": "2022-04-29T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-baidu-ponyai-get-chinas-first-commercial-driverless-robotaxi-permits.md",
-      "title": "Baidu & Pony.AI get China’s first commercial driverless robotaxi permits",
-      "excerpt": "Baidu and Pony.ai are two Chinese companies that have been ... Previous permits relate to testing the self-driving vehicles without a safety driver in the vehicle. China has seen a raft of self-driving services in several cities across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/",
-      "originalUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/01/Baidu-Apollo.jpg",
-          "width": 2048,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1",
-      "publishedDateTime": "2022-04-29T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

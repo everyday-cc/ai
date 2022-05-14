@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 69
 
 secured: "AoXaBSBEbahRtAnX6XFK8/DJfnRmrmM3iRV0HehZRSoc65nMqyYwlHNzXX5DMCXEIFrfVjBEB+XgjCF1kB1Ze9IDswh0vH4PxdEdCzxRZAYmHcx8isRowvzEHkW00yQOJaEDmLzaxFOawB7VAefMz7cnqXFajScEz88VvbEcmeJtiZtdvdozG1R/+hFt60PEqrRJgW0xulct67zqG21qEhsml6T7kTmqXRcuOyKX/UqAdLgc31ypUtc5CB95AJ0bD1mqP0jJ2jWw7J2qwtH+0HtzK9WuarCcZdH1MVK8WT2N11dvQ85r1RSkMrxKWwCjQCTzOXiuROEufnu+rexdmW+Bb/TpDqyI6kePP5auvNY/1D5MEcNvhUPsvmh6jx4NeyY8nYGuk59fu/d7EvVyhqVhoC1PHFfZ6NRtiXfqNV3v6DVilAIdn1lL0R9N6xR726QmO6vlfo2rPclbLk3crdr0/Kal01CnqkibwNxOC3tTGEv5VX+yPgz0tLL/pWG1Md7fhCgfk9WKuECPzwuEsg==;ZgUGsW7pjRscfVlmgQjMgw=="
 ---

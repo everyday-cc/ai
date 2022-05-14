@@ -2,6 +2,102 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-01-24-overcoming-ai-and-ml-roadblocks-in-financial-services.md",
+      "title": "Overcoming AI and ML Roadblocks in Financial Services",
+      "excerpt": "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
+      "originalUrl": "https://www.csoonline.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-tinyml-is-bringing-deep-learning-models-to-microcontrollers.md",
+      "title": "TinyML is bringing deep learning models to microcontrollers",
+      "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning models owe their initial success to large server",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication",
+      "originalUrl": "https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FTinyML.jpg&signature=997d2edaf97d5f261cf3e6961cc0200a",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model.md",
       "title": "Microsoft will force update your PCs to Windows 10 21H2 to train its own ML Update model",
       "excerpt": "Microsoft has begun the forced rollout of Windows 10 21H2 update to Windows 10 20H2 devices in order to help train its Machine Learning-assisted intelligent Windows Update rollout model.",
@@ -1290,93 +1386,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-deep-learning-works-like-the-human-brain-in-future.md",
-      "title": "Deep Learning Works Like The Human Brain In Future",
-      "excerpt": "Deep learning is a subfield or part of machine learning. Algorithms that replicate or inspire the human brain, consisting of algorithms designed to mimic the structure and operation of the human ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103554579/Deep-Learning-Works-Like-The-Human-Brain-In-Future",
-      "originalUrl": "https://menafn.com/1103554579/Deep-Learning-Works-Like-The-Human-Brain-In-Future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/18/pr_10652_2e032352_image_story.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T02:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-ai-from-sensor-data-to-smart-monitoring.md",
-      "title": "AI: from sensor data to smart monitoring",
-      "excerpt": "The solution to navigating the data lies in automation and artificial intelligence (AI ... can process huge amounts of data using Deep Neural Networks (DNNs). These neural networks are key ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/ai-from-sensor-data-to-smart-monitoring/",
-      "originalUrl": "https://www.itproportal.com/features/ai-from-sensor-data-to-smart-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-from-sensor-data-to-smart-monitoring/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-from-sensor-data-to-smart-monitoring/",
-      "publishedDateTime": "2022-01-18T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

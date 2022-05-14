@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-13-enhance-the-caller-experience-with-hints-in-amazon-lex.md",
+      "title": "Enhance the caller experience with hints in Amazon Lex",
+      "excerpt": "We understand speech input better if we have some background on the topic of conversation. Consider a customer service agent at an auto parts wholesaler helping with orders. If the agent knows that the customer is looking for tires, they’re more likely to recognize responses (for example, “Michelin”)",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-the-caller-experience-with-hints-in-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-the-caller-experience-with-hints-in-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/11/ML-9066-image001-whitebackground.png",
+          "width": 1067,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T15:36:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-14-to-optimize-data-curation-for-ai-lightly-turns-to-self-supervised-learning.md",
       "title": "To optimize data curation for AI, Lightly turns to self-supervised learning",
       "excerpt": "VentureBeat’s own list of the top data labeling software vendors includes Appen’s Figure Eight, Amazon Sagemaker Ground Truth, SuperAnnotate, Dataloop and V7’s Darwin. Other popular vendors ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/13/to-optimize-data-curation-for-ai-lightly-turns-to-self-supervised-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -41,7 +93,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -149,49 +202,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-14-deepminds-astounding-new-gato-ai-makes-me-fear-humans-will-never-achieve-agi.md",
-      "title": "DeepMind’s astounding new ‘Gato’ AI makes me fear humans will never achieve AGI",
-      "excerpt": "DeepMind just unveiled a new AI system called Gato that makes OpenAI's GPT-3 look like a child's toy. But are we any closer to AGI?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepminds-astounding-new-gato-ai-makes-fear-humans-will-never-achieve-agi",
-      "originalUrl": "https://thenextweb.com/news/deepminds-astounding-new-gato-ai-makes-fear-humans-will-never-achieve-agi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-13-ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations.md",
       "title": "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations",
       "excerpt": "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ...",
@@ -240,6 +250,58 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions.md",
+      "title": "Inflection AI, led by LinkedIn and DeepMind co-founders, raises $225M to transform computer-human interactions",
+      "excerpt": "Inflection AI, the startup co-founded by LinkedIn co-founder Reid Hoffman and founding DeepMind member Mustafa Suleyman, has raised $225 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/",
+      "originalUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?w=1024",
+          "width": 1024,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/",
+      "publishedDateTime": "2022-05-13T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -779,7 +841,7 @@
       "originalUrl": "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2?d_id=3524666&ncid_tag=tweetlnkushpmg00000016",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -803,6 +865,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-ai-hiring-tools-can-violate-disability-protections-government-warns.md",
+      "title": "AI Hiring Tools Can Violate Disability Protections, Government Warns",
+      "excerpt": "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10",
+      "originalUrl": "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-543409/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
+      "publishedDateTime": "2022-05-12T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1121,100 +1234,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-scientists-enhance-x-ray-data-analysis-with-artificial-intelligence.md",
-      "title": "Scientists enhance X-ray data analysis with artificial intelligence",
-      "excerpt": "Artificial intelligence (AI ... task of analyzing data from high-energy X-ray experiments. With a new neural network-based method called BraggNN, the Argonne team can more precisely identify ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-scientists-x-ray-analysis-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-05-scientists-x-ray-analysis-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/scientists-enhance-x-r.jpg",
-          "width": 534,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-scientists-x-ray-analysis-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-scientists-x-ray-analysis-artificial-intelligence.amp",
-      "publishedDateTime": "2022-05-12T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-viable-is-quantifying-qualitative-customer-feedback-with-ai.md",
-      "title": "Viable is quantifying qualitative customer feedback with AI",
-      "excerpt": "Viable focuses on aggregating customer feedback across channels using AI and GPT-3. The platform offers a full analysis service that provides written analysis on top of the feedback and can be applied to areas such as product management,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/12/viable-is-quantifying-qualitative-customer-feedback-with-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/12/viable-is-quantifying-qualitative-customer-feedback-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1138200970-e1591912751366.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/12/viable-is-quantifying-qualitative-customer-feedback-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/viable-is-quantifying-qualitative-customer-feedback-with-ai/amp/",
-      "publishedDateTime": "2022-05-12T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

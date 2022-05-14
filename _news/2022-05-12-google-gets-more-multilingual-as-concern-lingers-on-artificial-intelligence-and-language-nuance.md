@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Google gets more multilingual as concern lingers on artificial intelligence and language nuance"
-excerpt: "The internet giant says new artificial intelligence technology lets it vastly expand Google Translate’s repertoire of the world’s languages."
-publishedDateTime: 2022-05-11T20:43:00Z
-originalUrl: "https://www.lex18.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
-webUrl: "https://www.lex18.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
-ampWebUrl: "https://www.lex18.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
-cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
+excerpt: "The internet giant says new artificial intelligence technology lets it vastly expand Google Translate's repertoire of the world's languages. Google added 24 such languages this week, including Quechua and other Indigenous South American languages such as ..."
+publishedDateTime: 2022-05-11T21:51:00Z
+originalUrl: "https://www.wxyz.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
+webUrl: "https://www.wxyz.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
+ampWebUrl: "https://www.wxyz.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
+cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: LEX18
-  domain: lex18.com
+  name: WXYZ Detroit
+  domain: wxyz.com
 
 topics:
   - AI
@@ -25,6 +25,19 @@ images:
     height: 720
     isCached: true
 
-secured: "TBB/v0WWxqlVMZlCkD/PJOt14L4POhfcaOyPjxYud5FXFJLwvAYhu2JSKT8umoXSTLSC5uZCVnR5YKY2Jf4TDchDv1Lfj7LtsniTEBauUVJuxa0GBm0XKqbStuAtoz3PdTBwG7Jkyr9/DPHuNRxKP0TETAOcGtrTw4gpqC30gTNC98Zgg762Zb6ljaPC4suuk1tazNAAFQImCENQScuCvHAI5pZbzCbyFtylKzhayhclGbtSNimnVSUiTjjJiSUuILi8WSdJttJ8HdiYwmial+lEDLfPriWw1IeQ2bbr5VCZs4XN3FNtb2VMbs9mIY+CX2PJDWe4ilT9N1yTvs0mM7Hzo0bdykB69J4RSihVWyBOUcu5Pm0UPClpuTudtswec0a1DLk46Ykc5ZCwMPaNdlIBksDj/GJQChGgyW5MbcoCWwutSwFXk8qy2tA1KD3AqwsxuQlxUDaprPU2vqXGDS1dOsVRx11dk4EktHg3oq+BJduVMEnVWwm4wWVTbBCSgmjM/jXbP8R5vhrw47S9Ug==;VzuiLL+upj7oYXHYJkDJWg=="
+related:
+  - title: "Google gets more multilingual, but will it get the nuance?"
+    excerpt: "About 10 million people speak Quechua, but trying to automatically translate emails and text messages into the most widely spoken Indigenous language family in the Americas was long all but ..."
+    publishedDateTime: 2022-05-11T19:47:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article261350052.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article261350052.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article261350052.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 24
+
+secured: "WjXiQeQZ8mR+csfbZ+B165jdK6Ue1RKWcRx3UWMAH/qYoH9xy8u8FnTuYZ6oCho4I6by0I/xtvKI7QJodJOvcJjxVEb4959PJCvWG5AtrNQ044lUVUhLnQSkEQpQpuOvXYnvznmkWOl8TIpbN2RFW5t+WLHUxz6VfoGJ/gkx+Vz62JmcUhqnNYaquQISDvxR7gphiQPkkxJ5A/hr2a9TbG1GTApeXTYw3apWX6kAQ/BNLDh9drihUO8nWitVSK+Uf4lfQUBA0HvlH+218t+fyG9vVPb5JuJL4IMLbhAOmp9xLiw1k3LWmhaA+My+fhfFRov6Dj/hv6ijtXvopUUARWbdn8I/RAs/elgskk1Mlko=;GEcPZ76JLiKErsT9bYixDA=="
 ---
 

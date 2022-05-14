@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "How will AI affect the future of FinTech in India?"
+    excerpt: "Artificial intelligence (AI) is also being used by financial firms to enhance security and transparency in systems for payments"
+    publishedDateTime: 2022-05-11T12:35:00Z
+    webUrl: "https://ibsintelligence.com/ibsi_prime_news/how-will-ai-affect-the-future-of-fintech-in-india/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 19
   - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
     excerpt: "Allied Digital Services Ltd, a publicly-traded global IT solutions, services and Master Systems integration company, officially announced the launch of its new FinTech product 'FinoAllied' which is an AI-Powered Conversational Banking platform ..."
     publishedDateTime: 2022-05-12T12:28:00Z

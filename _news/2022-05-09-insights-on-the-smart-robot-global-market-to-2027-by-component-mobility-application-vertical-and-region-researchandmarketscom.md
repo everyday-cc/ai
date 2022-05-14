@@ -19,35 +19,88 @@ topics:
   - AI
 
 related:
-  - title: "Cognitive Computing: Applications and Global Markets"
-    excerpt: "Reportlinker.com announces the release of the report \"Cognitive Computing: Applications and Global Markets\" -  Using 2020 as the base year, the report provides estimated market data for the designated forecast period from 2021 to 2026."
-    publishedDateTime: 2022-05-09T09:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27068568/cognitive-computing-applications-and-global-markets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27068568"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27068568"
+  - title: "Global GPU for Deep Learning Market 2022 Opportunity Analysis, Comprehensive Insights, CAGR Status and Future Opportunity Assessment by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 10, 2022 (CDN Newswire via Comtex) -- Global GPU for Deep Learning Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 offers an in-depth ..."
+    publishedDateTime: 2022-05-11T03:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2022-opportunity-analysis-comprehensive-insights-cagr-status-and-future-opportunity-assessment-by-2028-2022-05-10"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Worldwide Healthcare Cognitive Computing Industry to 2027 - Featuring Apple, CognitiveScale, Enterra Solutions and Google Among Others"
-    excerpt: "Brand New App to watch all of WFMZ-TV News and Syndicated Programing 24/7 on your Streaming App enabled TV."
-    publishedDateTime: 2022-05-10T20:10:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/worldwide-healthcare-cognitive-computing-industry-to-2027---featuring-apple-cognitivescale-enterra-solutions-and/article_1fdc36dd-d350-59e7-8262-34a92b44d23a.html"
+  - title: "Global Tiny Machine Learning (TinyML) Market Research Report 2022 Size, Share, Growth, Trends and Forecast 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 12, 2022 (The Expresswire) -- “Tiny Machine Learning (TinyML) Market” report provides market size, it classify market based on region, product, and application."
+    publishedDateTime: 2022-05-12T11:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-tiny-machine-learning-tinyml-market-research-report-2022-size-share-growth-trends-and-forecast-2028-2022-05-12"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 9
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+  - title: "Cyber Security in Robotics Market 2022 Development Status, Competition Analysis, Type and Application 2029"
+    excerpt: "Furthermore, the world is witnessing rapid increase in information security, human safety, data protection which, in turn, is creating potential growth opportunities for the cyber security in robotics market players. Leveraging Artificial Intelligence and ..."
+    publishedDateTime: 2022-05-13T03:44:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/13/cyber-security-in-robotics-market-2022-development-status-competition-analysis-type-and-application-2029/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 33
+  - title: "Artificial Intelligence in Video Surveillance Market Size, Share, Trend, Top Key Companies, Segment Analysis by Type and Future Forecast 2028"
+    excerpt: "Global Artificial Intelligence in Video Surveillance Market growth prospects of the regional and global markets"
+    publishedDateTime: 2022-05-11T11:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-surveillance-market-size-share-trend-top-key-companies-segment-analysis-by-type-and-future-forecast-2028-2022-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
+    excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
+    publishedDateTime: 2022-05-10T18:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2025-2022-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+  - title: "Artificial Intelligence in the Education Sector Market Future Trends and Opportunities, Past, Present Data, and Deep Analysis by The Insight Partners"
+    excerpt: "The artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly"
+    publishedDateTime: 2022-05-12T11:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-future-trends-and-opportunities-past-present-data-and-deep-analysis-by-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
         width: 600
-        height: 338
+        height: 337
+        isCached: true
+  - title: "Intelligent Speech and Voice Recognition Market Size Is Expected To Grow At A CAGR Of 23.8% During Assessment Period 2022-2028 | 111 Report Pages"
+    excerpt: "Intelligent Speech and Voice Recognition Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in ..."
+    publishedDateTime: 2022-05-12T10:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/intelligent-speech-and-voice-recognition-market-size-is-expected-to-grow-at-a-cagr-of-23-8-during-assessment-period-2022-2028-111-report-pages"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "kYjfc5/wldvYQVVlDle6jRLpqUTn8UkHVB81hIIakIz8ajTf9xlghsSlG2DMCeddq017ziBl72EsiRHeb6XmOaD9Kj8nIX+xutD1OvJOoXSUv3nvuYn75jgExFeJrsLxGwSMg7o6qtRQRjd+X1jFJtXVlIeYZuuywyDrZj0Yxj0obchPoA6dma/dgXl1G+OrrCo6JGPu9rUdWlyloLOYSEZq+4wzJCq0noO5rrKUxLXpt0+YiVE/Ec90/N8Ct7yE6Ksgq+x0JL+5HoxR8HRgnvIX9/2ZK1mIQn+6Pxrh+wp1anv0ocE3WExWmhSqZ1DehQ6w2EpRzdB4cN18IcWvDW0vG94JUKF3/fgidZivGug=;nDrfl4j69I1ZG866QRmfZQ=="

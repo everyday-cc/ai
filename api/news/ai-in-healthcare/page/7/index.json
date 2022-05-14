@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-07-healthtech-startup-qureai-32-mn-from-uks-sbri-healthcare-for-cancer-detection-solution.md",
+      "title": "Healthtech Startup Qure.ai £3.2 Mn From UK’s SBRI Healthcare For Cancer Detection Solution",
+      "excerpt": "Qure.ai’s model involves selling its diagnostic tools directly to hospitals, collaborate with health-centric non-profits, and medical devices companies among others. The startup claims that ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/",
+      "originalUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/02/qure-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/amp/",
+      "publishedDateTime": "2022-02-06T20:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-02-06-the-promise-of-ai-in-gene-and-cell-therapy-operations.md",
       "title": "The Promise of AI in Gene and Cell Therapy Operations",
       "excerpt": "There is no longer any doubt that artificial intelligence (AI ... Such functions are critical to the success of gene and cell therapy operations. Toni Manzano, PhD Co-Founder and CSO, Aizon ...",
@@ -1317,50 +1360,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-ford-adt-form-venture-to-make-vehicle-security-products.md",
-      "title": "Ford, ADT form venture to make vehicle security products",
-      "excerpt": "Ford and security company ADT have formed a joint venture that will help businesses protect vehicles and expensive equipment they carry from theft. The first product from the",
-      "sourceUrl": null,
-      "webUrl": "https://www.centralillinoisproud.com/news/business/ford-adt-form-venture-to-make-vehicle-security-products/",
-      "originalUrl": "https://www.centralillinoisproud.com/news/business/ford-adt-form-venture-to-make-vehicle-security-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.centralillinoisproud.com/wp-content/uploads/sites/57/2022/01/cbab350b08784c3d95c997b9a89ebe36.jpg?w=1280",
-          "width": 1280,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.centralillinoisproud.com/news/business/ford-adt-form-venture-to-make-vehicle-security-products/amp/",
-      "cdnAmpWebUrl": "https://www-centralillinoisproud-com.cdn.ampproject.org/c/s/www.centralillinoisproud.com/news/business/ford-adt-form-venture-to-make-vehicle-security-products/amp/",
-      "publishedDateTime": "2022-01-18T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Central Illinois Proud",
-        "domain": "centralillinoisproud.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

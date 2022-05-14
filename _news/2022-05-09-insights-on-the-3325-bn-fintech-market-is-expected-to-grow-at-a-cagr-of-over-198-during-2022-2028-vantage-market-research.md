@@ -27,31 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Natural Language Processing Market is estimated to register a CAGR of 16.7% during the forecast period 2022 – 2032"
-    excerpt: "The healthcare natural language processing market is expected to rise at a CAGR of 16.7%, with the market valuation reaching US$ 14.6 Bn by the end of 2032.One of the key drivers and investors in the natural language processing business is large corporations."
-    publishedDateTime: 2022-05-09T07:00:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-05-09/healthcare-natural-language-processing-market-is-estimated-to-register-a-cagr-of-167-during-the-fo"
+  - title: "Robotic Catheterization Systems Market is set to experience a significant growth of 14.8% CAGR from 2022 to 2029"
+    excerpt: "A recent clinical study radiation level research with robotic catheterization and normal cardiac intervention procedures reveals that robotic"
+    publishedDateTime: 2022-05-13T11:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robotic-catheterization-systems-market-is-set-to-experience-a-significant-growth-of-14-8-cagr-from-2022-to-2029"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 29
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "AI in Medical Imaging Market to Advance at CAGR of 36.1% During 2021 – 2031; Notes TMR Study"
-    excerpt: "Increasing acceptance of AI in medical imaging for detection, characterization, and monitoring of a wide spectrum of diseases is expanding lucrative avenues in"
-    publishedDateTime: 2022-05-13T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27188614/ai-in-medical-imaging-market-to-advance-at-cagr-of-36-1-during-2021-2031-notes-tmr-study"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27188614"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27188614"
+  - title: "Artificial Intelligence-based Security Market: Current Growth and Tomorrow’s Potentials | Market registering a CAGR of 30.25% by 2025"
+    excerpt: "Description New Research Study “”Artificial Intelligence-based Security Market 2022 analysis by Market Trends (Drivers, Constraints,"
+    publishedDateTime: 2022-05-12T10:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-based-security-market-current-growth-and-tomorrows-potentials-market-registering-a-cagr-of-30-25-by-2025"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
   - title: "Self-Driving Cars Market Growing at a CAGR of 20.3% over the Forecast Period 2022-2028"
     excerpt: "Self-driving Cars Market is valued approximately USD 1.74 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 20.3% over"
     publishedDateTime: 2022-05-13T12:06:00Z

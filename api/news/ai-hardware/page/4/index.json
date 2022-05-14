@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
+      "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
+      "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "publishedDateTime": "2022-03-27T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Google AI",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-27-10-interesting-facts-about-nvidia-hopper-h100-gpu.md",
       "title": "10 Interesting Facts About NVIDIA Hopper H100 GPU",
       "excerpt": "At the Graphics Technology Conference (GTC), NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago. With 9X faster AI training and 30X faster inference, it’s more ...",
@@ -1355,58 +1411,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints.md",
-      "title": "AI Chip Startups Pull In Funding as They Navigate Supply Constraints",
-      "excerpt": "Investors are funneling billions of dollars into startups that make chips designed for artificial-intelligence applications, which have largely avoided the supply-chain constraints and backlogs faced by larger chip makers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "originalUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-504456/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "publishedDateTime": "2022-03-15T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/05/13/cyber-security-in-robotics-mark
 webUrl: "https://www.fmiblog.com/2022/05/13/cyber-security-in-robotics-market-2022-development-status-competition-analysis-type-and-application-2029/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -20,24 +20,89 @@ topics:
   - AI in Security
 
 related:
-  - title: "IDS Imaging Development Systems GmbH to exhibit a range of intelligent security solutions at automatica 2022 exhibition"
-    excerpt: "One new feature, for example, is the block-based editor, with which users can develop their own programme sequences with AI image processing functions, such as object recognition or classification, without any programming knowledge. With the Ensenso ..."
-    publishedDateTime: 2022-05-10T13:24:00Z
-    webUrl: "https://www.sourcesecurity.com/news/ids-imaging-development-systems-gmbh-intelligent-security-solutions-automatica-2022-exhibition-co-12175-ga.1652173086.html?ref=nav"
+  - title: "Global GPU for Deep Learning Market 2022 Opportunity Analysis, Comprehensive Insights, CAGR Status and Future Opportunity Assessment by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 10, 2022 (CDN Newswire via Comtex) -- Global GPU for Deep Learning Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 offers an in-depth ..."
+    publishedDateTime: 2022-05-11T03:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2022-opportunity-analysis-comprehensive-insights-cagr-status-and-future-opportunity-assessment-by-2028-2022-05-10"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 0
-  - title: "Global Autonomous Tractors Markets, 2022-2026: Developments in AI, Machine Vision & Machine Learning Remain Critical to Commercialization & Growth"
-    excerpt: "The \"Autonomous Tractors - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Autonomous Tractors Market to Reach"
-    publishedDateTime: 2022-05-11T12:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27133429/global-autonomous-tractors-markets-2022-2026-developments-in-ai-machine-vision-machine-learning-re"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Tiny Machine Learning (TinyML) Market Research Report 2022 Size, Share, Growth, Trends and Forecast 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 12, 2022 (The Expresswire) -- “Tiny Machine Learning (TinyML) Market” report provides market size, it classify market based on region, product, and application."
+    publishedDateTime: 2022-05-12T11:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-tiny-machine-learning-tinyml-market-research-report-2022-size-share-growth-trends-and-forecast-2028-2022-05-12"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+  - title: "Artificial Intelligence in Video Surveillance Market Size, Share, Trend, Top Key Companies, Segment Analysis by Type and Future Forecast 2028"
+    excerpt: "Global Artificial Intelligence in Video Surveillance Market growth prospects of the regional and global markets"
+    publishedDateTime: 2022-05-11T11:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-surveillance-market-size-share-trend-top-key-companies-segment-analysis-by-type-and-future-forecast-2028-2022-05-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
+    excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
+    publishedDateTime: 2022-05-10T18:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2025-2022-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+  - title: "Artificial Intelligence in the Education Sector Market Future Trends and Opportunities, Past, Present Data, and Deep Analysis by The Insight Partners"
+    excerpt: "The artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly"
+    publishedDateTime: 2022-05-12T11:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-future-trends-and-opportunities-past-present-data-and-deep-analysis-by-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Insights on the Smart Robot Global Market to 2027 - by Component, Mobility, Application, Vertical and Region - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global smart robot market reached a value of US$ 8.94 Billion in 2021."
+    publishedDateTime: 2022-05-09T13:31:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-9-insights-on-the-smart-robot-global-market-to-2027-by-component-mobility-application-vertical-and-region-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 0
+  - title: "Intelligent Speech and Voice Recognition Market Size Is Expected To Grow At A CAGR Of 23.8% During Assessment Period 2022-2028 | 111 Report Pages"
+    excerpt: "Intelligent Speech and Voice Recognition Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in ..."
+    publishedDateTime: 2022-05-12T10:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/intelligent-speech-and-voice-recognition-market-size-is-expected-to-grow-at-a-cagr-of-23-8-during-assessment-period-2022-2028-111-report-pages"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "dqRu23pVFTMHP86K7qtmWt5p9FOoka4Ywukre0LzbTE7xd+3Tgb4TsyeO15qYrbn0nW5j0KOn3IF6i+6gaV3ZfBSI6hlv3NAUI/z0GbdL7bLS1I7FzKksY1UDJqZdA/vvwostXDVNYG1ht1vEPFNv6+3o9RoYiM/Vob5ET+R1+Hnjf5TcBcLiv9tRJzgi22ohgdQmDdcDiXUxYtwRCAUNjhSXQJ6Xez8rDrlg3+cZ/ih6n3mqnMneCGQtorHgVbrouyJbkOb1H8G7VEDEZ+SiWPDDLvXoQM2UmuQrVnbvHvNkbZH7owfeCDxquBGCtLwPUIt0c3HhdCu5+KBNnsEcm9jZzLPfKRayEcy9wnKiIk=;GB3H7P6OtiB+K1PzDm44Wg=="
 ---

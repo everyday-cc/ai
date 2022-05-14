@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-13T20:29:00Z
 originalUrl: "https://executivegov.com/2022/05/diu-jaic-seek-to-address-erroneous-financial-transactions-with-machine-learning/"
 webUrl: "https://executivegov.com/2022/05/diu-jaic-seek-to-address-erroneous-financial-transactions-with-machine-learning/"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://executivegov-media.s3.amazonaws.com/2022/05/13/ae/41/73/b2/33/fe/27/e4/00P4y000017t9t3EAA.png"

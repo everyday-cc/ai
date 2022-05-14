@@ -1,44 +1,24 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
-excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028.This press"
-publishedDateTime: 2022-05-13T10:06:00Z
-originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
-webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028. Londan, United kingdom -- -- 05/12"
+publishedDateTime: 2022-05-12T19:07:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
 type: article
-quality: 18
-heat: 18
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
+  - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence in the Education Sector Market Future Trends and Opportunities, Past, Present Data, and Deep Analysis by The Insight Partners"
-    excerpt: "The artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly"
-    publishedDateTime: 2022-05-12T11:47:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-future-trends-and-opportunities-past-present-data-and-deep-analysis-by-the-insight-partners"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Regtech Market Size 2022 Grow at 17.55% CAGR, drivers, challenges, and their impact on growth and demand forecasts in 2029"
     excerpt: "The Regtech market size will Expected to Reach at a CAGR of 17.55% in terms of revenue to reach above USD 28.83 billion by 2029. Regtech Market Overview:"
     publishedDateTime: 2022-05-10T06:55:00Z
@@ -54,6 +34,6 @@ related:
         height: 337
         isCached: true
 
-secured: "H0d5VRIX4cK+0b8hKiJFHVUcVJd8nU8bF5esYT37voz34AzwkrB4OgPNR6M1A6Sbp/oxfOaLaIYF0b4eNITL8M/l4+zOAwidedULve6CYQn1ZcaxFLnmP0ERjE18AcgxHSJzz8bdfmy1B1uhhmYRRjsnSlV2+bVnEJk8mqPMYfImyDRtJ9jbf7bEW2dbcT6+xn+PKKboYsa+Oup8JmgU4rt8LPMhYH2eV7ul6UKbI+rqNGryQqpW+wTdDETyaor+xUksPkEvoUrm+rigCX/LbpOWz8FApTSdKcmn4vbMmWkLekVMM9BphdInIqmQRWYq04AFIbyQSkmnlfRVkY5jOJi+PTSTlTsJyUaj/QHY1Hgd/647Pto6O7KJDPFu1lwYIzm1UMdbRZeDvy+4onYRV5M3ONa5bp4MlJeGtDHewkN5R1CMYfUK3huKaejUufRx1mpuo5Xqrccrs+/EnRANA/hYgexChAT00mY0CaKDUwGY4MTjNWWvJ9+C3NcISq/Ov3cjo6ShXndGPDSsorSSYA==;lxtBkz4usv8c1FS+eYDNEw=="
+secured: "UHgIpWzLZwxUWpUxk8EuFQ8dxdARBMiUUPZUow1h98Yv71ZVc24lAIVu2urgkP8D3VSIRngK0cXQUqqPL2H7ngJrZEAsV8ZrURpVL2jKb6n+lmbQfieK5Oi/7rtFId10FQZrQRBPkxUyPBiKJBrEkLW+VyODHEdj46ea8ri+HIiYZpUJ40urfi6kel0yc5e/+4GNUSMIYQAGXxm71/3kfummoEqSNE1DbxL0NbIHraWYMOQduXpeEdY8dktoTe4ieHSH5t51ByeBUTVfA2/qF2DudkTUNE9vfCLu+dXLb5zLfvuwJ0hr4Hs5+TTqoPiSjqOefSuf4FTKPCz2eB0a6QNwGd1l9kyxgttF0LVfc14=;aU5hMexe0UpDHAIDDl7n/Q=="
 ---
 

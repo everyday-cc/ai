@@ -7,8 +7,8 @@ originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
 webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: MedPage Today
@@ -26,30 +26,32 @@ images:
     isCached: true
 
 related:
-  - title: "Killer Robots Are Here—and We Need to Regulate Them"
-    excerpt: "Argument: Killer Robots Are Here—and We Need to Regulate Them Killer Robots Are Here—and We Need to Regu... | View Comments () Swarms of robots with the ability to kill humans are no longer only the stuff of science fiction."
-    publishedDateTime: 2022-05-11T13:46:00Z
-    webUrl: "https://foreignpolicy.com/2022/05/11/killer-robots-lethal-autonomous-weapons-systems-ukraine-libya-regulation/"
+  - title: "Google Offers a More Modest Vision of the Future"
+    excerpt: "Artificial intelligence is being woven into an array ... a time when Google offered a wondrous vision of the future, with driverless cars, augmented-reality eyewear, unlimited storage of emails ..."
+    publishedDateTime: 2022-05-11T22:27:00Z
+    webUrl: "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.html"
+    ampWebUrl: "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/11/technology/google-conference-ai.amp.html"
     type: article
     provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 39
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
     images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2022/05/killer-robots-lethal-autonomous-weapons-GettyImages-1131807237.jpg?w=1000"
-        width: 1000
-        height: 666
+      - url: "https://static01.nyt.com/images/2022/05/11/multimedia/11economy-briefing-google/11economy-briefing-google-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "The robots are coming"
-    excerpt: "Much of the region's surgical robot boom can be credited to the early success of Mako Surgical, a Davie firm that sold for $1.65 billion in 2013."
-    publishedDateTime: 2022-05-12T23:10:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2022/05/12/cover-story-the-surgical-robots-are-coming.html"
+  - title: "How Visionary Leaders Will Drive The Future Of AI"
+    excerpt: "That said, ask any two individuals what AI is, and one is very likely to get two conflicting answers. This is not just among ordinary people but also top-level decision-makers. Ma"
+    publishedDateTime: 2022-05-10T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/10/how-visionary-leaders-will-drive-the-future-of-ai/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
-secured: "91ota+tSBZb+pWIYtPJPFUc/dXkEE8HBvyB6vqq6efP3F5Q4AxJu7/Rz4ZpAbilVocZu5UblIN7ieBiGWU05zrYeGHMmyQER2NVOAHYoMt99KhkdmeGqFyN1j+J38uMz2UJFq6Meqie+6frhvy+AkQ3eJ8E/MkCHtVWKf9IKJB2heoo0izgWbwYxzPES/kh6NSlkurgaxtFYFTSVuJKaTKb82//4jUKf04hWi2/Hjy2IKPIVj51JXCfX3uE/rP3F/3Biy121qzOjcKHiDKsg0h5RgG70nwZab+g+8cefYQ+iEXnVPFzOzx3PG2WjO8lV3+/1e4DVC2sJ5qcD9nLyFQyzYTQvq+qPjjUjclTfV0E=;TUBSwJpzQWMvblRtu9bgGQ=="
+secured: "NR0fiH0bFBxzjbLsp/BAIp0oxXnOurgFrc+mWY40usEfqARzJ1WQT4tdn1yUWyuvKvroXOrG4TxzwuRpGRf42XxEGK5lOQcoahRXK+DjIBCeBIOnLFC8fP5c4wE2u9pM4QlmZ3S4FxgbkkBo2F7h78DrNW1P15IqA23Tojy+eLKlIho9eecj5FwHwxGwly6oDD0O2BGnEir4cbIn7gHRrEp/IX8aMOd5ZviwOeKZoD5Vb1PyfKnjM7JomBIJuOqr/k3Pm1KpxzO/pj2gtqSnLFT+6QJPBARkjM0oESBDGinBIfgbrHL90VDuQyT822R8EmnIQDCfPcB/9sxpiq2xjLldv8jK2AuKeTmUgAB5pWHS2diCMLRYE0yoVNwVgyrXabvLezWgO9svnDGnfiInQ33dw9Ty6q0nEcX8u1hCB78Iaf0Fe89ohulALP6sYwmj8C0PMdQ4zKi0tnXoICsnZxM6FMPcdPMS/pgl6iSntM28CdgEWRzgFULItTSIVeiDfd30i76SAcF2kvNTz98HQA==;oIyGs+9NnT6ToFTUo4hBzQ=="
 ---
 

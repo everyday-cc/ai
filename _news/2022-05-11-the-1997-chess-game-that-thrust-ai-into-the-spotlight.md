@@ -1,29 +1,29 @@
 ---
 category: news
 title: "The 1997 chess game that thrust AI into the spotlight"
-excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just"
-publishedDateTime: 2022-05-11T03:22:00Z
-originalUrl: "https://www.rfi.fr/en/the-1997-chess-game-that-thrust-ai-into-the-spotlight"
-webUrl: "https://www.rfi.fr/en/the-1997-chess-game-that-thrust-ai-into-the-spotlight"
-ampWebUrl: "https://amp.rfi.fr/en/the-1997-chess-game-that-thrust-ai-into-the-spotlight"
-cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/the-1997-chess-game-that-thrust-ai-into-the-spotlight"
+excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer. May 11, 1997 was a watershed for ..."
+publishedDateTime: 2022-05-11T07:46:00Z
+originalUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
+webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
+ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: RFI
-  domain: www.rfi.fr
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://s.rfi.fr/media/display/8d85bdb4-d0d9-11ec-b745-005056bfb2b6/w:1280/p:16x9/ef03b654b9dbbe37dc8ba22419f3817482766d3d.jpg"
-    width: 1280
-    height: 720
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
       domain: jordantimes.com
     quality: 21
 
-secured: "jLqGw1BnSdPj7yuuo+6KOe8rd85CG64zkU29TyNHYmu36mi+PNYh9WPGp1BWaphFJdUzCo2ScsPKYKi/s5Uv4XSn1ojSvpfN+ZiWBW6ku4E3VnJAV2wpAvlR94EXSqb2XSkGVmSwqdr1+Z5eSX06sK2g7TBRp5a7O/3L2iaW17xwsBxhm2OK2641GSW8v0FWlgXSodUZa3cqpurRc8uHFgp/6vybP6YPKTg7agH1QL7Os4SMI/6Ilo6O2D2jtEe8l9HmZvD2yuONr8wn03RVTxW7+MLpRgejYCyCkTjc/4EnIm6sdUsSioAx4V5/ptIV7dUhvt4FNFQZfK6K6ESVtbjlLdehbRFfmapQ9O9gC+Q=;jUYNe0Rju56qMGQwxQ33yQ=="
+secured: "JrEtqnF5pXwbuCKLll1nZYlc6RW7sJ5XtrmtaAYhlIZWoSMiFGvMTuFXJvhnO0t5XWnt1nczOgbOihnbbl4/wPDXsgsUr0JdNBpS57LIB2il29IkshufOY4ZxnxK8N2gsLtZL4nmkZB+j1vbA1YPAGZ5PaR5/Cutz3NgJdsO6A11Ull2EMR4lcaQHxje+kn8nFXnqC87f5PzeCmdPDSDl7ZlyNZ+mjFMl61gJ8sR1QxzM30HDTFAKVgo8BvTYKxfiu810CZzkstzPcVacou3xaV0m3iIA+sOkLaN/UjMwrMLZGAMVu5MDAafvKHS9yinTM32efwXLNHJb8OH3QKmFMo/DKHd8+2NwJfyU62eoC0=;gBrNZl26T9z5+43eWRuK6g=="
 ---
 

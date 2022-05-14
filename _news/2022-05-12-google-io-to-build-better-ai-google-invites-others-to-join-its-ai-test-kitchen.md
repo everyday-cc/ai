@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-to-build-better-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
 type: article
 quality: 82
-heat: 113
+heat: 112
 published: true
 
 provider:
