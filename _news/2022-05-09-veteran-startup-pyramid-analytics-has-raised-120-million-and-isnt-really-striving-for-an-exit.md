@@ -25,17 +25,6 @@ images:
     height: 690
     isCached: true
 
-related:
-  - title: "Pyramid Analytics Scores $120M In New Funding, Plans Channel Expansion"
-    excerpt: "The funding news Monday comes on the heels of Pyramid Analytics joining Amazon Web Services’ ISV Accelerate program through which Pyramid and AWS will co-sell and ... by combining data analytics, artificial intelligence and machine learning with human ..."
-    publishedDateTime: 2022-05-09T13:18:00Z
-    webUrl: "https://www.crn.com/news/applications-os/pyramid-analytics-scores-120m-in-new-funding-plans-channel-expansion"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 4
-
 secured: "aDLtp6NkwPUS5BFv+jz/+3QiHXuFNLzro3riBLhHV5devLMaD5dSiFchKvIVoAG82IA1RfCrSCP3PM8c2zRdORkTg4ts0jOn9ADNkZ8rPq3qQZR3tsn4gdm/ptnbDn/GARwUv0uwXNYUmmgoTDYZbIGFRczqV+gk3sqamoMyqaqPllVNb49VIc0RX6ESjhYKU2mhs/Sjingo2xCzWqv1RPg0vQxygmGWiBC6wluBjy9MaZmL/YteO8Ga4bgEsco4f/aR8RNQ5FmEHuBXXBdSAcLrB7qaXmfBmGG4KkKp0dsyEIMic/1SvKmBxfrgeAijC6q3tOOitJpSbbLl1yp1j3coWKGK6WJC8dLLpSuz75ho/VVZrg2L0lOcvNyYWcpYUuYFgv/Fw/B3NQmOy2gxgXacjcMlRjndNUQGJx7MQ7R+jRaLXyjVjL9KrT+mzbh5Z0W0oRlJ8p+cY34afUJWe1FIHCf3bPwU/NdW/fa/cpbofoXpUQnt1ApBjooIPPcb+lXGcymTy7NYjSV2zLkQ4g==;fxgmz5RA6jxPy21/hbIJQA=="
 ---
 

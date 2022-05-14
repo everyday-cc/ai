@@ -212,22 +212,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Facial recognition startup Clearview AI agrees to limits in U.S. court settlement"
-    excerpt: "The settlement will end a 2-year-old lawsuit brought by the American Civil Liberties Union and other groups over alleged violations of an Illinois digital privacy law"
-    publishedDateTime: 2022-05-09T13:35:00Z
-    webUrl: "https://www.theglobeandmail.com/business/international-business/article-facial-recognition-startup-clearview-ai-agrees-to-limits-in-us-court/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/international-business/article-facial-recognition-startup-clearview-ai-agrees-to-limits-in-us-court/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/international-business/article-facial-recognition-startup-clearview-ai-agrees-to-limits-in-us-court/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 69
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/a4Wsnx6Bh7Gm3jNK93oCGVSQBOA=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/576JG2B4Z5O2NIENACSRNG5OBI.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facial recognition company Clearview AI agrees to restrict sale of database in settlement"
     excerpt: "The company can no longer sell to private businesses or law enforcement, according to a settlement reached Monday."
     publishedDateTime: 2022-05-09T20:27:00Z

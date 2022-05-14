@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/cogniteam-elevates-low-code-a
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/cogniteam-elevates-low-code-ai-robotics-platform/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: enterprisetalk
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cogniteam to enhance low-code AI robotics platform with $5.6M"
-    excerpt: "However, the rise of digital transformation in AI and robotics begs the question — how far can low-code applications really go? In AI and robotics, designing a system from scratch often requires ..."
-    publishedDateTime: 2022-05-09T15:00:00Z
-    webUrl: "https://venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/"
-    ampWebUrl: "https://venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/Dr.-Yehuda-Elmaliah-Co-Founder-and-CEO-at-Cogniteam.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Low-code AI Robotics Platform Cogniteam Raises $5.6M"
     excerpt: "Cogniteam, a robotics development company that recently launched the Nimbus robotics AI operating platform, announced the closing of a $5.6 million"
     publishedDateTime: 2022-05-10T00:28:00Z

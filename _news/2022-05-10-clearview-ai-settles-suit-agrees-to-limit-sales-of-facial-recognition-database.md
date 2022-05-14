@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html"
 type: article
 quality: 116
-heat: 566
+heat: 556
 published: true
 
 provider:
@@ -198,22 +198,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2020/06/facial-recognition-racial-bias-amazon-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Facial recognition startup Clearview AI agrees to limits in U.S. court settlement"
-    excerpt: "The settlement will end a 2-year-old lawsuit brought by the American Civil Liberties Union and other groups over alleged violations of an Illinois digital privacy law"
-    publishedDateTime: 2022-05-09T13:35:00Z
-    webUrl: "https://www.theglobeandmail.com/business/international-business/article-facial-recognition-startup-clearview-ai-agrees-to-limits-in-us-court/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/international-business/article-facial-recognition-startup-clearview-ai-agrees-to-limits-in-us-court/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/international-business/article-facial-recognition-startup-clearview-ai-agrees-to-limits-in-us-court/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 69
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/a4Wsnx6Bh7Gm3jNK93oCGVSQBOA=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/576JG2B4Z5O2NIENACSRNG5OBI.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Facial recognition firm Clearview AI agrees to restrictions on use of its massive database"
     excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without their consent."

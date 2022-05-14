@@ -73,31 +73,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "Apple’s top artificial intelligence exec quits over return to office policy"
-    excerpt: "Director of machine learning Ian Goodfellow announced his resignation last week, telling colleagues that CEO Tim Cook’s push to get employees back into the office had driven him out."
-    publishedDateTime: 2022-05-09T14:29:00Z
-    webUrl: "https://nypost.com/2022/05/09/apple-exec-ian-goodfellow-quits-over-return-to-office-policy/"
-    ampWebUrl: "https://nypost.com/2022/05/09/apple-exec-ian-goodfellow-quits-over-return-to-office-policy/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/05/09/apple-exec-ian-goodfellow-quits-over-return-to-office-policy/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 55
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/05/Ian_Goodfellow_Apple_HQ.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Apple loses director of machine learning over return to in-person work policy"
-    excerpt: "Ian (pictured above) had been at the helm of Apple's machine learning efforts for three years and recently announced his departure because of Apple's in-person work policy. Workplace culture has evolved significantly across many organizations in the post ..."
-    publishedDateTime: 2022-05-09T13:45:00Z
-    webUrl: "https://www.techspot.com/news/94512-apple-loses-director-machine-learning-over-return-person.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 46
 
 secured: "CHdxrvR3YB1VNINp9mCI3CicDdL7je0rIFol9ju4C4Pcdpkztn4O1V6+mJWRStBNx2avxMyKVspCojyvzGFYheJS6hFnC1nrX1K59pp4w8KpDynnclG4ZQl7XLN6FXmhO7dDmbKzXzaAALea/AzYqnZJNKjoAoBaUOd8xx18uppv22SUirQ2/jSPGeupmquG4wfSjkCNtjDWgEv3lqaa5wCpmkNCisYEC9nSeOZ79GfJBTLJlN9fUmwF9R4+QWM+AFeAu8EJlkV99nkJxHYAG7fp8gqETLXGruQ8XYvvdOzgXEaR3bM+/SORgJUhsSH5aNUO8NNXA7b/+fpoIa4REaMp8i39TKAgnR3/uUdX3Ko=;6gsbTyTkcV6Nyanfw1G0Qg=="
 ---

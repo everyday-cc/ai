@@ -65,17 +65,6 @@ related:
       name: Google
       domain: blog.google
     quality: 54
-  - title: "Another firing among Google’s AI brain trust, and more discord"
-    excerpt: "Google declined to elaborate about the researcher’s dismissal, but it offered a full-throated defense of the research he criticized and of its unwillingness to publish his assessment."
-    publishedDateTime: 2022-05-09T15:00:00Z
-    webUrl: "https://www.seattletimes.com/business/another-firing-among-googles-ai-brain-trust-and-more-discord/"
-    ampWebUrl: "https://www.seattletimes.com/business/another-firing-among-googles-ai-brain-trust-and-more-discord/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/another-firing-among-googles-ai-brain-trust-and-more-discord/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
 secured: "ZE9/yKVt7ngCtQ/wbmaWSZJFHmfGlkFWV/CWbamMlIOTo54yk45xYaaRoOfiv+Z3WhdZRov1YZCYJBeSx4oF1ZyhbDa8LzF/DRIKI7dTha9sZAjFv9an4ThoMsNV5qiPT4QEilsiCgdLVOb+5H5CN0/oUYbCIlav1ryihrRGddourq62Kie44o9FHZOpELUeQyrA496p305GPXhZEpwvlv6OmpJykVNSugd3CInMPPUkWaBegqHOSnkAi1T1KESCoz6cNYiGkjcql2AGVqJSieUTWr/VkGlWaSi8Xjc8RcmBdB+79QXfZNuoBax4JAZS8/7ht9LE1wXB/OuhYTnV9fqNN8SmRHEZxA73/O4gTSA=;289nTmg6iMvP3PDzf84JhA=="
 ---

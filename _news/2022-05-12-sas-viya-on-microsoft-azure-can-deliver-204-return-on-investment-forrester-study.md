@@ -49,15 +49,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
-    excerpt: "NYSE:AVYA) Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
-    publishedDateTime: 2022-05-09T13:28:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/05/09/avaya-enters-strategic-partnership-with-microsoft-to-deliver-avaya-onecloud-tm"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 15
 
 secured: "p1VHd8Wrz9N18K7DJR7qcvfby/7t42BKZHNHoBG0XoNDJQvNYAsikThN+PWiO3ymgXyKbkMGtYnSWV2lET+ldr0XjEjnH7g9CN10KLEWgiM/HS8mWKk93jfOVEimsu8upVI5y6WlIGQ+5t8hp8uPw6apFYd+Tx1B4u43PdrKyGrW9BV2SmzLnbZS+2E4ZOOlHIJ0C2c9yKWZ1xAjN8hb5KwRY0J97SgNKoo+h9sO4xQO1LhiajWw5KvJZK3VLAykkLqZ8Gy8hrkyEydrTsji7kebFN2K76wRDGA1/mG7yL28ZqS8UWrmPhzh+PJ6pIoDKnKzAbuwOUO6d5n8/v+u2MPhTFeR7E6beGDa3RdpOixkDqslkBBzhgupwExSN8WKTcncG7r5e5ynMWFyRZcHgFrPdEVQaPGloHE2lxHBVOiwAbtCDLvEASepae1ZMw61MUIUuNxG6P06gFr8OFKl6aaAf8M5DNvpSXhEOgX6fahIXGPH0yxSJ/l+/R2CEOKz2rUq8R0sm6HYQUJBe2mg2A==;VbnZK8ip0FmAoyPTGTJ9rg=="
 ---

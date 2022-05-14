@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/google-io-conference-art
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/"
 type: article
 quality: 77
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -52,17 +52,6 @@ related:
       name: Google
       domain: blog.google
     quality: 54
-  - title: "Another firing among Google’s AI brain trust, and more discord"
-    excerpt: "Google declined to elaborate about the researcher’s dismissal, but it offered a full-throated defense of the research he criticized and of its unwillingness to publish his assessment."
-    publishedDateTime: 2022-05-09T15:00:00Z
-    webUrl: "https://www.seattletimes.com/business/another-firing-among-googles-ai-brain-trust-and-more-discord/"
-    ampWebUrl: "https://www.seattletimes.com/business/another-firing-among-googles-ai-brain-trust-and-more-discord/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/another-firing-among-googles-ai-brain-trust-and-more-discord/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Google sprinkles AI on everything at I/O"
     excerpt: "It will start out in Los Angeles, London ... Google has also aimed its massive AI brains at Google Docs, which now using various natural language processing magic can create automated summaries of great big long documents you can’t be bothered to ..."
     publishedDateTime: 2022-05-13T12:09:00Z

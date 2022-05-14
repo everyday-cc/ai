@@ -50,15 +50,6 @@ related:
       name: CRN
       domain: www.crn.in
     quality: 28
-  - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
-    excerpt: "NYSE:AVYA) Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
-    publishedDateTime: 2022-05-09T13:28:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/05/09/avaya-enters-strategic-partnership-with-microsoft-to-deliver-avaya-onecloud-tm"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 15
 
 secured: "ZrB/lECUIZz/9bikSBFozr74wFLvrh7dF+yr0WpHwblUh+t/nOWHJtgBLKsrve+PiivMkaZ0nepVVvd9pr0j3TGAhXbh8S/v+EkxMQp7h8saBDuU3MqsTmvDbqdJpy4bp445QiUIQQBeaFEfQ+4/xD3H4CSavAZteXmZRO19ZeMneOH+RNTvaxIMOXPcAj6cgkDam1OhgQnhajZhyjOiJEDpMiRTfWs6hN2qEfX8Pb5TJs+nEBIcTa/o4GCUMO8psQEllIipgNtxS9Z3TF9PfDlHTOJnnophVhoUf/Wbvm+fhaMB0GebGJBPFWtLw/GqRisQfnrNuFQ88qisjlp0luEMHG+VGY4XDPAW0t8bYxg=;ge/FtnW5JuWE89ZLZBZbSg=="
 ---

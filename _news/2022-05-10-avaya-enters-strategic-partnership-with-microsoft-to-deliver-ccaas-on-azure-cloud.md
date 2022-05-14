@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: CRN
       domain: www.crn.in
     quality: 28
-  - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
-    excerpt: "NYSE:AVYA) Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
-    publishedDateTime: 2022-05-09T13:28:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/05/09/avaya-enters-strategic-partnership-with-microsoft-to-deliver-avaya-onecloud-tm"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 15
 
 secured: "V0oa5Z1W1zMySepb5SAKxWUxbb7DiE+FN9ec0p6hvd2T3uj1NPeW9CxdXP+FlGxbFmOqFxWyXD8KmU6sVk6g4SqyqWRKHOe0Kb5lshPQyBBynZBrSuKeq1YE4Fyfj30bUJmvIN0283Mhp34hfRehtyhSky/2mVGBHsrnjh66uE3L2TX4E5NDz2qj1wgAP7FOGM3ChjYiqxTAjb6eJvjDx2MEU9D4w/yGQpCzLUeruHQiXlDrEze9VsxZbgIg83igx/SGS34Tsc6nyYeXy4UrUr3M0kI60cvDCg1j1gWUl1ASdMbZs/AVt3RlETHwzeWpCJ3XCy6XJjo4dWG9L+v7BblVcCD/yPJkxddgQgA5o+nvqBlziJBixJXrdmW/9V0P6HKxPegg11Cnkk6FFlYjTao59KRvOR0MItbaL77QYK5xWMN7r6VxxZDbp5brJzEKqEv8HeqBRrmqpvZ3HuRGmVAqQ9foObAMKsJdq6uJ+G4i2BE+9BwFKerTpRMG3AhtrHG5P3qD8/YiReAF7UWmPg==;A+uN6aDNE9MOoaKPI02QkQ=="
 ---
