@@ -62,22 +62,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "U.S. civil rights enforcers warn employers against biased AI"
-    excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities,"
-    publishedDateTime: 2022-05-12T18:44:00Z
-    webUrl: "https://www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/"
-    ampWebUrl: "https://www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
-    cdnAmpWebUrl: "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
-    type: article
-    provider:
-      name: Fox 23
-      domain: fox23.com
-    quality: 57
-    images:
-      - url: "https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/resizer/ncV0jlI-iiHgujFeog18zA_A5sI=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3PDHKVR5RTTKV4MIFLKB6DGLQI.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased artificial intelligence"
     excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities."
     publishedDateTime: 2022-05-13T15:13:00Z
@@ -105,6 +89,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/25/55/37/22468592/3/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "U.S. civil rights enforcers warn employers against biased AI"
+    excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
+    publishedDateTime: 2022-05-12T19:40:00Z
+    webUrl: "https://www.record-eagle.com/nation_world/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/article_0777c2e8-d9e0-51fc-b991-333b0d2a1804.html"
+    type: article
+    provider:
+      name: Traverse City Record-Eagle
+      domain: record-eagle.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/record-eagle.com/content/tncms/assets/v3/editorial/d/39/d398ac7d-bdb6-5154-8839-b5b1df2f1155/627d454be81e9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "5WYA4JW28XFUmn4E3j7B5JTYwJ9igLkpDSfwcEj8Zo7oWjQ8qgtwmJGcJeg2PManspRVjAWCHZxG4+0eofZgsNYEbZ8xalIZaS8dXaZtuS5/PBrtmXdThclAy+C5M+ghC/0r7t9qtgrId6C3ubpkZ+ldeHW4I4NXcAWUq/0lBsSmHEGgQqOLctA3oqcd2B0XEakPtHcWophkgMdJixGLY8RkjxWkOE0ZuaOqvqCLEm1gJ1nZFG79e9LadsaACALUDELCe9RUMpmBeqq7CJ42JYyUe0XGB+a/8W6Tbd4HKrE2QeiONQo1r/JtaocCuif0frdhp679w0bLQ0bObZUT2N1HV/w4klFM/XuRAxm7YfayId9o2FuBTfRjPlcBgWydUaMgh98B77t3MDb1jSMEnx0MDnRDYT4pfQb/IS+mRCojOzneR7qZWfbyR1Rb0Qi+WZtPZZu0neFCPdtKXUEIGgJ74youi4t6CljShPVv4sP3exv41PdbgbgOjNOj822RzI9S8QruYO6MezCjYws2Jg==;lbeOse5StzxYxWZEy3lfOQ=="

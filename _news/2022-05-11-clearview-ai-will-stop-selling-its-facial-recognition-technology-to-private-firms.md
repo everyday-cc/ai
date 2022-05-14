@@ -36,22 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 103
-  - title: "Clearview AI's creepy facial-recognition business takes a major legal hit"
-    excerpt: "Clearview AI, the facial-recognition company which made headlines in January of 2020 for secretly scraping billions of photos from social media sites, will be prohibited from selling access to its ..."
-    publishedDateTime: 2022-05-09T23:40:00Z
-    webUrl: "https://mashable.com/article/clearview-ai-facial-recognition-settlement-illinois"
-    ampWebUrl: "https://mashable.com/article/clearview-ai-facial-recognition-settlement-illinois?amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/clearview-ai-facial-recognition-settlement-illinois?amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 88
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/021hFeKoZ85KkQi4g1aZkty/hero-image.fill.size_1200x675.v1652135066.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Face-scanner Clearview agrees to limits in court settlement"
     excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people’s photos without their consent. The company in a legal filing Monday agreed to permanently stop ..."
     publishedDateTime: 2022-05-10T07:42:00Z
@@ -277,20 +261,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/34204635424_46f0c0b8b4_c.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Settlement Curbs Firm's Facial Recognition Database In US"
-    excerpt: "Startup Clearview AI has agreed to limit access to its controversial facial recognition database in the United States, settling a lawsuit filed by privacy advocates, a court filing showed Monday. The deal,"
-    publishedDateTime: 2022-05-09T23:32:00Z
-    webUrl: "https://www.ibtimes.com/settlement-curbs-firms-facial-recognition-database-us-3500532"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 41
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/09/facial-recognition-software-such-as-that-used-at.jpg"
-        width: 768
-        height: 557
         isCached: true
   - title: "Facial Recognition Startup Agrees to Limit Data Collection"
     excerpt: "Clearview AI has agreed to permanently stop selling access to its database to private businesses or individuals around the U.S., ending a two-year-old lawsuit brought by the American Civil Liberties Union and other groups alleging that it collected people’s photos without their consent and in violation of Illinois digital privacy law,"

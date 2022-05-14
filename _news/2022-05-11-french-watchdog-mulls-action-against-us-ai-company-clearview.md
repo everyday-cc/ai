@@ -55,14 +55,19 @@ related:
         height: 808
         isCached: true
   - title: "Clearview AI Settles ACLU Illinois Lawsuit Confirming Continuity of Business Supporting Public Safety"
-    excerpt: "Agreement confirms company’s compliance with privacy law while allowing continued growth of Clearview AI’s industry leading facial recognition technology (FRT) platform Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country,"
-    publishedDateTime: 2022-05-12T10:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220512005422/clearview-ai-settles-aclu-illinois-lawsuit-confirming-continuity-of-business-supporting-public-safety"
+    excerpt: "Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country, has reached a settlement agreement in Illinois state court that confirms the company’s compliance with the state’s privacy law."
+    publishedDateTime: 2022-05-12T10:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-law-enforcement-agencies-state-courts-american-civil-liberties-union-f97e15dc9281471c8944cc7c1ac67949"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 2
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "1Jp8GDqIlmApK3loQD3tc0bJ79W+xpjFTWQJbsoD51v9o3+0bGRa+T5vwBzS22FDEAeDlVYuwUVx/Nc/37dWZcjvg+SeFOuNUcxRV8reKQP1WKC6D7AHaNefEJs7ckkpj6CC75AUlEY0ojuK6tsKVuvIcCsGLM9mfCBBJTDWnb9i9rg9XgEiwP8MHVz/LXfex7c+xVqC6xlgBpYIDwy/nemhLrQPKXDkBo6aD0dybHJoYnj/26VCcWT809xd8W2CYlCzpk7LZsr1qyHiNAM3wGctu8dPCdWd1OXD1rtd0kfjR3fuPve+Sa3lIUMPx6oq4rqaO06w2bYrwLaBFHX2Sp53UTqE5UrDg6j1ZaYPlUy+JCIZrY0D8DOLCegVxXEfTxInadtgpxXXGILV6X0NAHmtFXOHPTxUPuUIlm9vDbo8Ellqft2ZToGctTuEXWJjfmTuUCz3LewXKHFQogyaVR0mCQ065R0r5s/SDc1tC0y5kYfYi8UCjCB03QCH6yDgpY6WRQq6rupzPY1aORO3xg==;2FxAKCR+fvZFQDsCTdipkw=="
 ---

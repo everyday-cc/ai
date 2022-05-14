@@ -44,6 +44,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
+    excerpt: "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The"
+    publishedDateTime: 2022-05-12T02:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://lh3.googleusercontent.com/__Jn4g-5HH4_ZMyjmWpuer2Zb_RLKiPRLMDswfTePpLBtBbnq31QHR6DQvAS9_82whxKfpi7RUOoCnEkEbn1mdgwAnexrzC9RskHWubQ_Cdu-kSf9_UDd6l7OdAAKKiZVqK6ANqCwWP4RyI2oA"
+        width: 1012
+        height: 445
+        isCached: true
   - title: "AI Could Be Used To Detect Arthritis Earlier"
     excerpt: "In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen, computer scientists and physicians have now succeeded in teaching an artificial neural network to ..."
     publishedDateTime: 2022-05-11T09:28:00Z
@@ -61,15 +75,6 @@ related:
     provider:
       name: idw
       domain: idw-online.de
-    quality: 17
-  - title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
-    excerpt: "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi"
-    publishedDateTime: 2022-05-11T18:15:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
     quality: 17
 
 secured: "q3LCYOwtDCV4/eauHH7Ae8a1vIn7AxCdi/ogxpqev/EJ78B+qC0RNKx0SPVz3kPhMwydEn7bv96H6mNpEe5KqgnIpXzsuf6scoWWv2a+iIlsn/s2YHEeXvdRND+q0VikyTx+QiHFMQc4p/k5saigXuY+2OLzhqtYwCuGi7tFLGJkYJfSPEPiMYdAc2EqJymAxrUu9kfZ/NacAbip4a9dlaHL761Abhf4R7S5u3dqeP8Znv0bqfkEVEbz2nGpzaT3EiDwOEjO2/52djS1VxGNVhuIlrpZCK3K/0fKplbEgpl6X8gVNllD0WNcrX0y9gPidovL+RoVPe/pPsbtt35m7A4efqI7y4OOB35TANK2mCM=;jQnSgt8S1c1j0wVdc8Nw+w=="

@@ -123,6 +123,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook, Instagram right now"
+    excerpt: "Meta, the parent conglomerate of Instagram and Facebook, quietly disabled augmented reality filters on its platforms across the state Wednesday. The move comes two months after Te"
+    publishedDateTime: 2022-05-14T15:59:00Z
+    webUrl: "https://www.expressnews.com/politics/texas/article/A-Ken-Paxton-lawsuit-is-why-Texans-can-t-access-17173056.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 10
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/33/70/22396454/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook and Instagram right now"
     excerpt: "Meta media representatives dispute that its facial recognition features have anything to do with its tagging software but said it suspended the filters in Texas and Illinois to “prevent meritless and distracting litigation” that is “based on a ..."
     publishedDateTime: 2022-05-13T22:41:00Z

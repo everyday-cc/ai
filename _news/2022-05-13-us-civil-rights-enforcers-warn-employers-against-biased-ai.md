@@ -1,28 +1,26 @@
 ---
 category: news
 title: "U.S. civil rights enforcers warn employers against biased AI"
-excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities,"
-publishedDateTime: 2022-05-12T18:44:00Z
-originalUrl: "https://www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/"
-webUrl: "https://www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/"
-ampWebUrl: "https://www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
-cdnAmpWebUrl: "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
+excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
+publishedDateTime: 2022-05-12T19:40:00Z
+originalUrl: "https://www.record-eagle.com/nation_world/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/article_0777c2e8-d9e0-51fc-b991-333b0d2a1804.html"
+webUrl: "https://www.record-eagle.com/nation_world/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/article_0777c2e8-d9e0-51fc-b991-333b0d2a1804.html"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Fox 23
-  domain: fox23.com
+  name: Traverse City Record-Eagle
+  domain: record-eagle.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/resizer/ncV0jlI-iiHgujFeog18zA_A5sI=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3PDHKVR5RTTKV4MIFLKB6DGLQI.jpg"
-    width: 1440
-    height: 810
+  - url: "https://bloximages.chicago2.vip.townnews.com/record-eagle.com/content/tncms/assets/v3/editorial/d/39/d398ac7d-bdb6-5154-8839-b5b1df2f1155/627d454be81e9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -103,6 +101,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "TAJBWmsd0VV7BR0cftAbpd755pVtsih2hr3v57lonv0qfUEIase4hCbSaFw9KNTcgnXcxBfm+NHgQQhkFjdFGJRO13vtvWm0jho5LQP+MwUMxpkx3if/IPtS3hIeaJx2Kdu9p0eTpu/2v7kxKCm9Gi7P9N5ez/5icJfC37WS42iJU/2qbGPAH+8y4Gb1l0ZH7Vvjrzh2UO4VyuEbx2lAQopCXtwNzbanQP/SDA9JW9L9Zb/h8tug4KyW4nwGQj8taNIcNGYd1GEVSchSNZSZ5ixpPSTnit67ifgp3Ora4iUhzT23bRLNiMKeK9OvhCNxYkbUqaehkTYWSfs01LnejHHGHX59OwEKjbtZGZFMGBKuKfkf+McDDUCeByKBcVIeeDr/VSXG71FA1pTi8O1vf91k1+VGBFbS4urT5erACn9s33KhrtCtqRy/y9iDO/JIu43xctFGmW15lZakA3kDXGG8f62krTU65mSUv27hjUhQ8LbgqYeydYierheZiWUUXdpc2DxMdRdhxGaswA34SQ==;BdX5PJhvoYMsqPqa77g+KQ=="
+secured: "loTnhuTM8Zz30gluFzfYn5Wh1t4zLWZ+Zu2Y6adKyx9Iniep5W54JfKMM38M+7vqf+WCv6LjCCJ9P3BGz+iOnSQfcjG3Gy1WP972LMRFS/1S3GcEgrqrhOw9KskNpxvWizuEmviM6fHH35/orT35WuBzJmnHuWzlwo4qFxMuq63hKZnX4k7mjmkMEj9Mxv84hXf+MLS0+9WnYfJ/DJmECqDN0cci1LJS09ZcbQlnXCfjkDIi1xya32kmUj8SfXuR06XNqJ8jToY2qfviD485NjNYYw6c2ArU3sMUlXwZPkgQ+1yV6i5KUdm5rROj9WlCaF5lNCQZB5rMwvsyM2nvy+3lKg/iy48cOi3SH388ykc=;++zExPGodgVNVnG4cmlIrQ=="
 ---
 

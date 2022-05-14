@@ -27,20 +27,17 @@ images:
 
 related:
   - title: "Google gets more multilingual, but will it get the nuance?"
-    excerpt: "But that was before the current wave of AI advancements in real-time translation. Harvard University language scholar Américo Mendoza, who speaks Quechua, said getting Google’s attention brings ..."
-    publishedDateTime: 2022-05-11T20:01:00Z
-    webUrl: "https://wtop.com/business-finance/2022/05/google-gets-more-multilingual-but-will-it-get-the-nuance/"
+    excerpt: "About 10 million people speak Quechua, but trying to automatically translate emails and text messages into the most widely spoken Indigenous language family in the Americas was long all but ..."
+    publishedDateTime: 2022-05-11T19:47:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article261350052.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article261350052.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article261350052.html"
     type: article
     provider:
-      name: WTOP News
-      domain: wtop.com
+      name: Raleigh News & Observer
+      domain: newsobserver.com
     quality: 24
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2022/05/Google_Translate_Languages_09464-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
 
-secured: "SDgek1IBCuYZaPAnxw+cIhcMg+I3a3+TSGBweU0A9rAEDVakP9R3cjLRJS5DWu6JgabqMhGplDBKiz3KFtjknkJ1v5er7aMspNi0kkwUeqd2kDccP0meyi4shgTXQV4G3xF1mROJaTfRMAw59lQCqrlPneDO//HsqwbgBkohWrXs4NFLRF087aWJdMvg3tLZRUJZ5i0eDLAYd6BWi6gzvSkDGPqMTpuxyRSaedMo/mCy4afNz3YqxdODN+VJ2z5BoeU5MO7kMtZ+Iz3kLJdWl8KbKMMurigmkBBKCMWD0Q+i2dZ0ihCSAVIxrOmOcRFWY7KhUA5BuJXfOK9vXklnI0QFaaowZiD/fcKvEhsqIEQ=;G23Ef/bUS2gGHw6L8//fqQ=="
+secured: "w7vmAcoGXO42A8hftDpXvZsXO8JDZxDNyUnI0Iy5Qvw0ors7t+aeGCiqDmLIAKVw+zg6rrNRlx3IOg3xu9/n7PuCB46iJNCIRGyoGwjNpUvW6lEjiv588NsZl+oAoTD95S3+t2YEd83OpnIo8hVtlJLgXbfxPPFfc8lZAhpNsr7071ZdNF+E4T8eEnaqSO/TqP6HxqJbPiG+2vX4SkkyyCWhCBo/72zcdHSNdc+Wrx+VEBmZX9Y8y8pIjene76UdzgEoueB94tOVvlSBSW7G4TVLGWvfiluLJU83qxQNJt5sQwKCH936rvWSo+5Jhx2BDzcSYOCC93ju7rGfrN4nahBSDAT2cL/otfCURn0btq1nxO226J6bA5lgvgAjmyHNA1siCXMHNQMFlj5k0n7vHp1zxuN2sFSYyawTF0pDqlMPzlfWXgZvzshiNusLOLaAaONlUnzNPiGI4dL3w+SImtvcw6fU2O9gC+YekvPHeGLsjq5mdW3jmbduNuvulb6/le98AO5Ui07aiDagwOTJCg==;BG10+IsGqH9he4zker31wg=="
 ---
 

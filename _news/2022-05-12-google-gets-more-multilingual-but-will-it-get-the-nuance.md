@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Google gets more multilingual, but will it get the nuance?"
-excerpt: "But that was before the current wave of AI advancements in real-time translation. Harvard University language scholar Américo Mendoza, who speaks Quechua, said getting Google’s attention brings ..."
-publishedDateTime: 2022-05-11T20:01:00Z
-originalUrl: "https://wtop.com/business-finance/2022/05/google-gets-more-multilingual-but-will-it-get-the-nuance/"
-webUrl: "https://wtop.com/business-finance/2022/05/google-gets-more-multilingual-but-will-it-get-the-nuance/"
+excerpt: "About 10 million people speak Quechua, but trying to automatically translate emails and text messages into the most widely spoken Indigenous language family in the Americas was long all but ..."
+publishedDateTime: 2022-05-11T19:47:00Z
+originalUrl: "https://www.newsobserver.com/news/business/article261350052.html"
+webUrl: "https://www.newsobserver.com/news/business/article261350052.html"
+ampWebUrl: "https://amp.newsobserver.com/news/business/article261350052.html"
+cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article261350052.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WTOP News
-  domain: wtop.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://wtop.com/wp-content/uploads/2022/05/Google_Translate_Languages_09464-scaled.jpg"
-    width: 2560
-    height: 1706
-    isCached: true
 
 related:
   - title: "Google gets more multilingual as concern lingers on artificial intelligence and language nuance"
@@ -42,6 +38,6 @@ related:
         height: 720
         isCached: true
 
-secured: "uL0XCPFgdy7GJxchKWtdULYoVWoMl+V16ABZrGfFqu9oDS1N6W1NmiTa5pKk0e2veaH/2FlklsCLft/KB2YvZB2q905vy0XRdulNhQ7JUUReOBRniejv+Dj8sBdPSXwMrCjsTzl+tK/qwcfF/gDqptIvGA/GQ4ZSQP8TdEuIIX05OdakF19cLJ0ihwagic6AP0XH9gZZBuq/PZoVC3XHKGJybanetfh0rVfZrSM7R426vt+tekYM84TrXtbm36RHjSocgEOswZ/VN5xTNdhLH+njPg6855kkXbhZmJcpFF69pcRgb7+9GQLcyiDRTNyhKlpqf8JtIxusR7UzzUY8m9H32k1amzx0wcXx/ja4VRc=;qFMCJ91pEHAZ2YQZQxGFRA=="
+secured: "O28WQ7pXfkNpg+KfrdaSgSlEROTd3QP/uQjZmVfTGXEYwO2MI230dCoo2a6KfZtjyUnU6dYYBYtrGoR6VFARe3NdBhoLLIVHwyY8t3sdXbNRrzC2uwXK8IW+90Rq6uV+UHiSIsugG+UG25iJjf4B02xacThprCnZ5GpmXtb8Nzzmq79PSUeyqSFLHw2w9WTgTRkYlr4PZf3QIbbKrhd/pyJh1y5ZBEMKrLCAAwo7ifJYUVNRtfHFp1PJ8YQTyjgQiK8YPpby0oXgASE0NshrxCAF3BIV8BHEsptKfPdF3jMeXl4iu1mgew2cL35DRyJ6s2BNe+QY+jTdFgSDf4I+K/Rk8wo7inciIgdnXjJClck=;ZCqz/JYLWIjVIT0XpUk+zQ=="
 ---
 

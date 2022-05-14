@@ -41,20 +41,6 @@ related:
         width: 1945
         height: 1112
         isCached: true
-  - title: "Low-code AI Robotics Platform Cogniteam Raises $5.6M"
-    excerpt: "Cogniteam, a robotics development company that recently launched the Nimbus robotics AI operating platform, announced the closing of a $5.6 million"
-    publishedDateTime: 2022-05-10T00:28:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/24729-low-code-ai-robotics-platform-cogniteam-raises-5-6m"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 69
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/e0e94e6968c6377af6ab72185d0cabb0.jpg?t=20220510_002455"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "FGrCNVSjVEbONuyi9fFssqUjL0nmteqNN45SXA2+QKvIDrzJedGs8W1wq0kkhR0vRP5k92WzC8FxCdE0OUmMMNgKh10RjC8W4DmRU5hb1Dm23ulAjkQLb8szh88O5RIBgLyiVG9URKXjGnE1Q9CTdqmT2jrP/XnBf0r4ykvWdYU88gy04lGV+dk1ewDcYOAHmUlsJ5Ery9Ap3jhxdV7OWkn1i0RvIKVq//gzpLeAkzqqOr0WeyNfzP4ySAqLl1MEFu6uZfSTCRACkO57uuoTg6QJ4ghH/Xayhh/XhVy3APUctCh0veABac0OvZK1hvjuBkASMvlupeiYcXYY5u+NacWvWRY5FZ0f6Ce4vn3CLv+6SFSuxuSglpYvoGgFSwB4o9rKkovHxt9mT0czdGctGVwUqNs3Z9iIg1RjgpEyIA/untKwDVWg+oQPJhbKCrg/l/ik95Nt094H2CkP/NitMmxBIg3RwdWCmhu1xx0ElF1MSSk5YpqO5v8USH+xycDwpPA2wFMDbSczScEnJzAa5A==;Q126k5dazSlHZvIw4i7DHg=="
 ---

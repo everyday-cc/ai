@@ -59,14 +59,19 @@ related:
         height: 711
         isCached: true
   - title: "Clearview AI Settles ACLU Illinois Lawsuit Confirming Continuity of Business Supporting Public Safety"
-    excerpt: "Agreement confirms company’s compliance with privacy law while allowing continued growth of Clearview AI’s industry leading facial recognition technology (FRT) platform Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country,"
-    publishedDateTime: 2022-05-12T10:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220512005422/clearview-ai-settles-aclu-illinois-lawsuit-confirming-continuity-of-business-supporting-public-safety"
+    excerpt: "Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country, has reached a settlement agreement in Illinois state court that confirms the company’s compliance with the state’s privacy law."
+    publishedDateTime: 2022-05-12T10:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-law-enforcement-agencies-state-courts-american-civil-liberties-union-f97e15dc9281471c8944cc7c1ac67949"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 2
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Jgnth4kjEQmSQ4u7f+EuaZzXMq1YcrJ+OoGguSfhkRTZZ8Z6GfLuvyBjOpB+6X/KiREinmkigFOwmG+DqCKCyW7tdFn9OL26PKzFqe0CLMkgs5BxmK0yvO1I4ch2HWFI107OPL2Sq2HGIf7vPAjRl9kVQrGlnglKer6tm/n+eFRBsbV5GBoROt5RhyzRUqn/ps8dUtygibwbuGV9MRfnWfk0ZqTpdak6zFOKJhWDVmZsvI1SZGp+L7J6CzJaN4xy7dbrwFtk9a9vO0Ejjsz/WrPwiL4juZAZFxDwM48GI4H3S823FaVWgT4vyMkzBafvu4JkrwBWnTtxcEx7rGs7DgGK4WQtwEmBoSw7mH3VjCk=;DBRIggB+6AzXpCRfnTCSHg=="
 ---
