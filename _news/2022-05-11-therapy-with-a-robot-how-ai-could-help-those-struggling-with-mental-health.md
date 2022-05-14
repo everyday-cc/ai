@@ -7,8 +7,8 @@ originalUrl: "https://www.northjersey.com/story/news/health/2022/05/11/therapy-r
 webUrl: "https://www.northjersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: NorthJersey.com
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Robotics startup emerges from stealth with AI-powered perception tech"
+    excerpt: "After four years of developing its artificial perception technology, a Cambridge robotics startup has emerged from stealth mode ... The company set out in 2018 to build AI-powered technology that allows mobile robots to have 3D, human-level perception."
+    publishedDateTime: 2022-05-09T14:20:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2022/05/09/rgo-robotics-ai-perception-tech.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 49
 
 secured: "L8pXREP8ynM4cWCpSFWfm1fWf+itYKYxvfIuYPH3GiOoU5jfcCgGo2NLfOBw0Z9SIFK2iICzlUK0uWD0v4eUdF0yxN2En73SwJ1LaPJQA+9QcY8XNXF+aMFvyJF0C52aSfkxcaI0lUMhMOyvjXkf17nQdCnuuImtqrdxGG99LrLMvz+W9wAPPNVpSNF9/0GLaboo0rWB66YzwCJ4znQNnu09JCV/NV/cIfnMBjoylfVTUybrarFZi/TIr/6L7ELszL6cguN4DOmBV2tRMo694yXOx1XbalUsNyGyXCUhw79VkGpEys5zLqohm2+c4lpEtkxuSVHpNX9Uf4voUQ/nCutKUwsDtc5vX6TmZqmZwOPsHm15rYUYEaWSDUDUYIRIx8+ipjw+zP1vs7A1oUab+BA+EFfbL/tvGNqkqk8kLSwT4sRS9K9V43y9GcDyi5zhVFXrW8DZwF8oI5efLIzOlC73kbOdBJ/2e97KDcBkRl+apxkfp8x3qXQCgcvpDbfAAtbZfVVto+KkBJA6wc83EQ==;e7FbM9NjykrX14HoEv3ZUw=="
 ---

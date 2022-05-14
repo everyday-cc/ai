@@ -78,18 +78,16 @@ related:
         height: 600
         isCached: true
   - title: "Intel launches new AI chips, challenging Nvidia's market"
-    excerpt: "AI chip startups have been getting huge investments in recent years as AI computing is one of the fastest growing areas for data centers. Prying market share away from Nvidia has been a challenge ..."
-    publishedDateTime: 2022-05-11T03:18:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/intel-launches-new-ai-chips-challenging-nvidias-market/91481980"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/intel-launches-new-ai-chips-challenging-nvidias-market/91481980"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/intel-launches-new-ai-chips-challenging-nvidias-market/91481980"
+    excerpt: "Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion. AI chip startups have been getting huge investments in recent years as AI computing is one of the fastest growing areas for ..."
+    publishedDateTime: 2022-05-11T02:58:00Z
+    webUrl: "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 57
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91481980,imgsize-25812,width-1200,height-628,overlay-etcio/intel-launches-new-ai-chips-challenging-nvidia-s-market.jpg"
+      - url: "https://www.reuters.com/resizer/AACwGwpnSd5iGcEK9g46idFVWww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SOBZSM5ZJNMQVNYYJKHNWXFA4Y.jpg"
         width: 1200
         height: 628
         isCached: true

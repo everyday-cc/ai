@@ -43,33 +43,16 @@ related:
         height: 1043
         isCached: true
   - title: "The Delivery Robots Market size is expected to reach USD 957 million by 2026 from USD 212 million in 2021"
-    excerpt: "\"Delivery Robots Market\"Delivery robots market size is projected to grow from USD 212 million in 2021 to USD 957 million by 2026, at a CAGR of 35.1% from"
-    publishedDateTime: 2022-05-13T15:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million-in-2021"
+    excerpt: "Other technologies used in delivery robot deliveries include robotics, artificial intelligence, and machine learning. Robotics helps to build the robots with precision, ensuring they are sturdy and able to handle difficult terrains. Artificial intelligence ..."
+    publishedDateTime: 2022-05-13T14:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27191458/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27191458"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27191458"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Self-driving Car Market Estimated to Expand at a Robust CAGR over 2019 – 2030"
-    excerpt: "Self-driving Cars – The Elevated Future of Mobility The race for a completely self-driving car is underway with increased ongoing testing and prototyping"
-    publishedDateTime: 2022-05-09T11:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-estimated-to-expand-at-a-robust-cagr-over-2019-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "ZTgVxjT6ZerSvQXRQaMkw4mqciKyxO5EZWZ4slNroRtdLL+CoyEa/5d3/RHUpyJ+fET0SyduBnp2vj+S72AGR167P9t6lHeP6I4NuI2RDW2UHEs/Wu8py+ywobFMd6YQ+UdrvgP2Q2w/WB7a2+Rlu3twT9ojRn3PMyEinwqqeHv4L4vkzhFjDkwY9NtgYdcsRA+vzQfKwJEnO/nLuB4wOUycTN9jQZteIA/MQTmIhJNy+CaXA9XmdmSpayqCh4FJycMwhkU4ey0gEmtj4yzdYOnSsgGOnUlV+VDfeXK3cjxQsKbtVPOJ94Qss/V5u8QCGdkaIPlkz1IswIpvLV18UhzMS0PsT1dYZm02fasEIxU=;Df8svCU1+imkrANU84Gi8A=="
 ---

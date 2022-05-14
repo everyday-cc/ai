@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/accesswire/business-brainchip-hol
 webUrl: "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Associated Press
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Media Alert: BrainChip Drives Intelligent Edge AI at AutoSens Detroit"
-    excerpt: "About BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY) BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company’s first-to-market neuromorphic processor, Akida TM, mimics the human brain to analyze only ..."
-    publishedDateTime: 2022-05-09T12:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 54
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/774e1c49ff8c5d1f2c8c30a3674aa8674e8bbb9d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "BrainChip Holdings Ltd.: BrainChip Launches AI Enablement Program"
     excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 10, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced a"
     publishedDateTime: 2022-05-10T21:43:00Z
@@ -53,15 +39,6 @@ related:
         width: 1395
         height: 758
         isCached: true
-  - title: "BrainChip Holdings Ltd.: Media Alert: BrainChip Drives Intelligent Edge AI at AutoSens Detroit"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 9, 2022 / BrainChip Holdings Ltd (ASX:BRN, OTCQX:BRCHF, ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, is exhibiting the latest capabilities of its Akida neuromorphic computing ..."
-    publishedDateTime: 2022-05-09T12:25:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/55995599-brainchip-holdings-ltd-media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 22
   - title: "Media Alert: BrainChip and MosChip to Demonstrate Capabilities of Neural Processor IP and ASICs for Smart Edge Devices at IESA AI Summit"
     excerpt: "The presentation ends with a demonstration of BrainChip’s Akida™ neural processor IP, enabling high performance and ultra-low power on-chip inference and learning and MosChip’s ASIC platform for smart edge devices. The IESA AI Summit is a two-day ..."
     publishedDateTime: 2022-05-09T21:34:00Z
@@ -76,15 +53,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "BrainChip & MosChip to Demonstrate Capabilities of Neural Processor IP & ASICs for Smart Edge Devices at IESA AI Summit"
-    excerpt: "BrainChip Holdings Ltd and MosChip Technologies are jointly presenting a session at the India Electronics & Semiconductor Association (IESA) AI Summit discussing how the companies are working collaboratively to enable neural network IP for edge applications."
-    publishedDateTime: 2022-05-09T12:14:00Z
-    webUrl: "https://www.design-reuse.com/news/51897/brainchip-moschip-neural-processor-ip.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 10
 
 secured: "gYm8RvL8HvM1UOD+RkyWqT4amj7/diVzOo7xVjwNXyYLRjEla5G0XtJswt561PKA8vbGNTSUuPeUGNm0p4dQVnfaPM8fl7+aFUpnKWuSkE1TiGUa6kOpIVy4SOKoxr6ob9DE2VL8/w6KI5YdXsR01dTfC/ADMgM7FKar5uSf5xCb1UweNDKSDVN5w0+/5XfVOEDDtaTnTjaFyMisBK+RiOc+KMpFaHCHByUa7IAfElXm48vHAjA4fyrTdE4M4LLNEptyKRMscnr2am6zAjL1VJOWMC8nW0IXF2RTICvXNMskIa3LZn99rAOFH5QxFoL3UEVCuvhdEcrbH8VvwexpzkNtR7fxAwKZ4Jo/HBq+aAs=;huNsz4TMsL1O8NaHjrSviA=="
 ---

@@ -25,20 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Intel launches deep learning processors"
-    excerpt: "During its Vision 2022 event, Intel Tuesday launched its second-generation Habana AI deep learning processors that deliver high performance and high efficiency. The new chips include the Habana Gaudi2 and Habana Greco and use 7-nanometer technology."
-    publishedDateTime: 2022-05-10T20:52:00Z
-    webUrl: "https://www.crn.com.au/news/intel-launches-deep-learning-processors-579816"
+  - title: "Intel Pits New Gaudi2 AI Training Engine Against Nvidia GPUs"
+    excerpt: "Nvidia is not the only company that has created specialized compute units that are good at the matrix math and tensor processing that underpins AI"
+    publishedDateTime: 2022-05-10T19:38:00Z
+    webUrl: "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/"
+    ampWebUrl: "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 76
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/intel-habana-gaudi2-logo.jpg"
+        width: 709
+        height: 428
+        isCached: true
+  - title: "Intel Vision 2022: AI Gaudi2 Chip, Accenture Collaboration And More Products Unveiled"
+    excerpt: "PM EDT Intel Corp. on Tuesday announced a slew of products in its silicon, software and services portfolio during its first Vision event in Dallas, Texas. The company launched its AI Gaudi2 chip, 4th generation Xeon Scalable processors,"
+    publishedDateTime: 2022-05-10T23:11:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-vision-2022-ai-gaudi2-chip-accenture-collaboration-and-more-products-unveiled"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 47
+    images:
+      - url: "https://www.crn.com/resources/0275-151d4128ee94-8c7cb94d45ba-1000/intel_vision_keynote-_resized.jpg"
+        width: 599
+        height: 523
+        isCached: true
+  - title: "Intel reveals Gaudi 2 AI training engine to challenge NVIDIA"
+    excerpt: "Intel Vision 2022 announced that Habana Labs has launched its second-generation deep learning processors for training and inference."
+    publishedDateTime: 2022-05-13T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/intel-reveals-gaudi-2-ai-training-engine-to-challenge-nvidia/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://i.nextmedia.com.au/News/20220511075121_intel_sign.jpg"
-        width: 1254
-        height: 836
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Intel-brings-out-Gaudi2-AI-training-engine-to-challenge-NVIDIA.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Intel Vision 2022: Habana Gaudi2 AI training processor arrives to challenge the Nvidia A100"
+    excerpt: "For customers, Habana Labs says that Gaudi2 offers a “high-performance deep learning training processor alternative for computer vision workload” and is suitable for object detection in autonomous vehicles, medical imaging, and defect detection in ..."
+    publishedDateTime: 2022-05-11T18:27:00Z
+    webUrl: "https://www.itworldcanada.com/article/intel-vision-2022-habana-gaudi2-ai-training-processor-arrives-to-challenge-the-nvidia-a100/483711"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 9
 
 secured: "H9Y8xys8UXCo1b8QxNIwAhSyJx+b04zEVXnc15lGrro/wQyYu4oGMk0cz50LWpb1LHY2Ll8Flpv8mORz+IJP+zLI4c7zwruM7sS7QX4pdiaHi/3beq72BDqjyD8Uruo0ggBO/iCIw5tZlpAV9qS1Ua7AoD6K7oeQmnBTVc9m7p0D5xL0pgxGAheYR/cFFVYK2gEH9muzQKrRq8z5Eon1AiYNugr30P7ITr3zFhCglzSZbf7Y6zFtX0Rrp91HlDgRLA5t8Pphc+MNskxMNTCSTA9KwbQTkr6lsgxL97wj4HoR/iSA2yaOf5XKIDl4SoX8X9O6ueqtYZ47HIuV1XzTTWPmMCIpOJpak5Kxq7nPkek=;G69dr1kC4+qt60FycpHp+g=="
 ---

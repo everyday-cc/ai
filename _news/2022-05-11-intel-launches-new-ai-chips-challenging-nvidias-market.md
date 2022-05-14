@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Intel launches new AI chips, challenging Nvidia's market"
-excerpt: "AI chip startups have been getting huge investments in recent years as AI computing is one of the fastest growing areas for data centers. Prying market share away from Nvidia has been a challenge ..."
-publishedDateTime: 2022-05-11T03:18:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/intel-launches-new-ai-chips-challenging-nvidias-market/91481980"
-webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/intel-launches-new-ai-chips-challenging-nvidias-market/91481980"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/intel-launches-new-ai-chips-challenging-nvidias-market/91481980"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/intel-launches-new-ai-chips-challenging-nvidias-market/91481980"
+excerpt: "Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion. AI chip startups have been getting huge investments in recent years as AI computing is one of the fastest growing areas for ..."
+publishedDateTime: 2022-05-11T02:58:00Z
+originalUrl: "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9"
+webUrl: "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9"
 type: article
-quality: 57
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: cio.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-91481980,imgsize-25812,width-1200,height-628,overlay-etcio/intel-launches-new-ai-chips-challenging-nvidia-s-market.jpg"
+  - url: "https://www.reuters.com/resizer/AACwGwpnSd5iGcEK9g46idFVWww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SOBZSM5ZJNMQVNYYJKHNWXFA4Y.jpg"
     width: 1200
     height: 628
     isCached: true
@@ -199,6 +201,6 @@ related:
       domain: stockhouse.com
     quality: 4
 
-secured: "6CBXyBnQMtmbt/9lYDKNx3fneKownG7PE3AJJ8muvA1OBk/Ss+K3xRanXKylZj2/pB0EhE92YcJ3AUEQHkFYWyejpQEHy4bUfeUbnevN6zrbdx0pZp05ebYwhWcD07O8PRqNU2Twh0nsIOrCizu8BXGFYnkOtk45CCkoE5McwOv50oGxlhrwF1erW9fbsNQVd5kmgbyDMpJ1rMTXtZDb+XhcjWv8C15lHzetTNeqYc7pjJTtmn+AOKdqvqvopAtFYHIJ3QL9Dw6n335hnrE3bcd0nCqnpJ8tf6ebVZUTkkrzo59uS4ghmWC4VS+J0CQm7EaSO3ITGya9WcCDNX1/0BSnBMbJ3a/Y0vib+Yy8iO8=;2zxUJJUomY8l2UGNwi0shA=="
+secured: "E2vPSXq1pLi+88WlqVdQWDGSpfwcxT1zSWAnhe2UrIHxhMnQ1J6JtjI56QpQshKNI/oAxm5nxl7zLtOITpkeStSx6eL+qYJh5xcvP0S9VQdU+MrlOBD3K0fHfyyM2IiYjW4bUkZkU3SxW+lGNDTkciGfp205PAFZ/3Jb5Jo4oQnVTd2KxBhnaQTT/SIb9jSisaZqgARqNanw4D3ZV9/xu3ceV72/bwrzQe+9scP1FvXqDdnktJP07MhEau4crPghVdYHbLBKa9UccPvm1Gn4krOqjFZEo6mDkXFH8THH3aJQgEbCJg4cdIjqc3rMSFwLMD2fQBuFrrFNqg8ux1S3f5TZ5nJlThyW32GmB2vWucs=;DxzqRy+2cEVf4BqYy5bMjQ=="
 ---
 

@@ -77,20 +77,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Deepspatial Announces Successful Deployment and Client Validation of its AI-Driven Platform for Government Sector in Education"
-    excerpt: "Deepspatial provided insights and solutions to Policy and Decision Makers in the Department of Education; Pilot encompassing over 100 schools in the State of Meghalaya, India; Pro"
-    publishedDateTime: 2022-05-09T12:36:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-india-education-artificial-intelligence-ebd317e29d6569de1a005aa977f25385"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "+igPzkSWrvGhvKMO/Lc/7FRKspXXM3WUgh0t/668GRBNmadlPzNLJUDN9k8rkIlyDYvev/MlAyG+bXZYtUFwN8ufv8nP55Xgn0XPFJvIZcg8gr+KCoG25jlVzd0i7ENX2X+N6POVcZkFker/S7tf1AgmEiuctKqoa5xwhADLQy+Hbi2YHoJfdl0Mjfi5ZYpCJIQGuVEYHjU+Z48rvHh8C/U6tO+pwackpG0z4S7BQ81A/xpdMiQf4EtFOJSgnv2Su9oVBg8DgnGpl0MhgNGjWWdieKvgTMJMbQw8rI5OgYWJVmAL65sKpuGDEn//ETHMG52+nUt9eRzHKZZJRnhc0GSoUBvS6cFMGSwmxh7dml82vimDimVX2A512EIoWi4ULWzU/srRbyETb/A4i+sv70VhRGJAwfecsqiS6W4J93aGKY2W1UeicuJi7WhwRSEGq7Mk+MkEDY9F2mhrlaBrNcIoBEmg2NdYVME/SjGFjPf2jzUEgU8ER1c3jPjLMTUd6DipwWy7hpOEfTbGl0lGrw==;gM62umcCRT/T6E20mMI4tQ=="
 ---

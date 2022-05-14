@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "IIT-Hyderabad to invest in eight deep tech start ups"
-    excerpt: "Sangareddy: iTIC Incubator at Indian Institute of Technology Hyderabad (IIT-H) recently selected eight deep tech startups from across India to support"
-    publishedDateTime: 2022-05-09T11:34:00Z
-    webUrl: "https://telanganatoday.com/iit-hyderabad-to-invest-in-eight-deep-tech-start-ups"
-    ampWebUrl: "https://telanganatoday.com/iit-hyderabad-to-invest-in-eight-deep-tech-start-ups/amp"
-    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/iit-hyderabad-to-invest-in-eight-deep-tech-start-ups/amp"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 44
-    images:
-      - url: "https://telanganatoday.com/wp-content/uploads/2022/05/IIT-Hyderabad-827x450-1.jpg"
-        width: 827
-        height: 450
-        isCached: true
   - title: "iHub-Data at IIIT Hyderabad launches Foundations of Modern Machine Learning Course"
     excerpt: "Hub-Data at IIIT Hyderabad invites applications from second-year undergraduate engineering students for its 50-week online course on Foundations of Modern Mach"
     publishedDateTime: 2022-05-13T08:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://technosports.co.in/2022/05/12/arctic-sound-m/?amp"
 cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/05/12/arctic-sound-m/?amp"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Vision 2022: AI Gaudi2 Chip, Accenture Collaboration And More Products Unveiled"
-    excerpt: "PM EDT Intel Corp. on Tuesday announced a slew of products in its silicon, software and services portfolio during its first Vision event in Dallas, Texas. The company launched its AI Gaudi2 chip, 4th generation Xeon Scalable processors,"
-    publishedDateTime: 2022-05-10T23:11:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-vision-2022-ai-gaudi2-chip-accenture-collaboration-and-more-products-unveiled"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 47
-    images:
-      - url: "https://www.crn.com/resources/0275-151d4128ee94-8c7cb94d45ba-1000/intel_vision_keynote-_resized.jpg"
-        width: 599
-        height: 523
-        isCached: true
   - title: "The three-way race for GPU dominance in the data centre"
     excerpt: "Nvidia, AMD, and Intel are about to slug it out for a share of the growing graphics-processing-unit market that’s being fuelled by the needs of AI and ML."
     publishedDateTime: 2022-05-10T02:29:00Z

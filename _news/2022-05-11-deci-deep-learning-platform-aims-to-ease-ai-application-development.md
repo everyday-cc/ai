@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -83,20 +83,6 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 34
-  - title: "Deepspatial Announces Successful Deployment and Client Validation of its AI-Driven Platform for Government Sector in Education"
-    excerpt: "Deepspatial provided insights and solutions to Policy and Decision Makers in the Department of Education; Pilot encompassing over 100 schools in the State of Meghalaya, India; Pro"
-    publishedDateTime: 2022-05-09T12:36:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-india-education-artificial-intelligence-ebd317e29d6569de1a005aa977f25385"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "jJANOfJEvLqQ8I4L1JIkade3lbLBMf4et9AWkundkLVlmwf7HEdDiG0cWk2VELL9Ee4jbbg0xAHWmHhFHFjRHWnzjmxN7ek4aRgaZgB+tQclPtgvgtSsfhotW5VaTC3uWwI1NhSYU9BEbVTNC6MeK4yVDxj3UVlKZJlZEL6Mgb4eBIQuLw/PRI+e/lVNk18luwBKudYL3T6hOwWX0r2C/MK2cKMM2s584/xEI9SBuB1IzQXrbdf+NJTclX04sXxnY/rH4GyFd+10nWsZbhGlil+MhyvPj2xsAqE5TR+rywjb6MOjyKS37tJM85q10LSi3mooWkHSGfBB+WuM124h5kAnrkvTS6No1aDvGyGEV4qtirZsIkeglIwuEjDOgsb/0SxSsGEFQf7lDrw82guUSQEYYEoAXSrhnFco6IzRr4wMrUfiJAz5JTdXwNFTCSWzUsrMj+FPP/Z/Z5YYtMIg8F+P9hZwYbKbeWPkjKAkw1chxPZmdMbaAgcOkoQAaN2rj6dfgKV/QClUPkX8OKvFsg==;o8/kpb6xCx3zdsQo+NCXBw=="
 ---

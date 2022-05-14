@@ -69,15 +69,6 @@ related:
         width: 375
         height: 238
         isCached: true
-  - title: "Self-driving microscopes discover shortcuts to new materials"
-    excerpt: "Researchers at the Department of Energy’s Oak Ridge National Laboratory are teaching microscopes to drive discoveries with an intuitive algorithm, developed at the lab’s Center for Nanophase Materials Sciences,"
-    publishedDateTime: 2022-05-09T12:00:00Z
-    webUrl: "https://www.ornl.gov/news/self-driving-microscopes-discover-shortcuts-new-materials"
-    type: article
-    provider:
-      name: Oak Ridge National Lab
-      domain: ornl.gov
-    quality: 4
 
 secured: "MGnBkfKdRZT0VL3TWLqU3xZP7WVXAL5RNJzYjRUjOXrCshkMQ2+Q6dixNMnhyE9z3KKnzoEoZPnVYEt5YLXl7v+46UR6ZhpOtJrYvJ3LE3RUqxBEXCsmHadGJ7Nk63XnP/bimrXJcVLO91edO6MOuA6mmS/Tf/Z69KdRGmh10bSWSQ6iJVP1Q+GNE9wPSeyKRmng/dZl7enrm1EU0aZ/Wefb9aBn34z7PDuJ3ak/lsbhSKDo2Ue+Fgwn8AKFoSu30e41XzLcqPrpSWzQZy5zk806a8BDJzzznM9915LJ3SvnfHmpneLeaiBLIAFDMClOumy5AL5hu1E8e69QMGAP/YlctoO30MbNnOp+Dc/zJGo=;ar5N+6pd8uyQWQY8GK3usQ=="
 ---

@@ -24,22 +24,6 @@ images:
     height: 836
     isCached: true
 
-related:
-  - title: "Intel's Habana Labs unveils Gaudi2 and Greco AI processors"
-    excerpt: "Intel's Habana Labs subsidiary has unveiled two new chips for artificial intelligence workloads. The subsidiary - which Intel acquired for $2 billion back in 2019 - debuted the Gaudi2, the second generation deep learning training processor;"
-    publishedDateTime: 2022-05-11T11:50:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/intels-habana-labs-unveils-gaudi2-and-greco-ai-processors/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/gaudi2-mezzanine-card-719x500.2e16d0ba.fill-1200x630.jpg"
-        width: 719
-        height: 378
-        isCached: true
-
 secured: "qa00S6yeVoAd1W9Ho456pYSzz0Yj3MljUpy3r/0/uNHqjmHmCygmJocwBlkcr0+Mimp9xXQnYSvlZQVuJWPpg/7b62HPd0ErG6Q6VUDyy6Ho11i9vRzeYnz3Qch4i1QLDDjunkeXp+Sla3tJnZcZI4Er0QlE4r0JwT+GuCq+1MrCPfZzJpob3DBnhPV/gol7uWxplATn2W2bRzQthUNh2z8esrnmBl15biUn9RrPsCVFyhzW6BkwNp3pZoaGh9ecJzjKwacmZKhlHfTPS8CJAy5+yrTKTcV/MRsZY1rgrnywcqRPNO0AB5Aj+82CgrsAOwwHHSEof0yENP0XBDIK+8mGzhKYGfnQ2Y0XKUjdCOfcxCY7tExpFwmHhzV48yg2d4JIxDrO2E/5KJsU1cPHjqWyAKeYEP0Igzbn5sTftVKnF7qlDmOkko86xpEfFD3VUNMfjF8gogKZY3AWTMF81yfkzjyKfkXudMvUl8x3bYGKlHckl1fJpWeTMiWc9zf5LAQW1VfX8hBalzoJzQavhg==;swkNukRy0N56XC7L+1ejmg=="
 ---
 

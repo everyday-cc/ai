@@ -1,28 +1,26 @@
 ---
 category: news
 title: "China Scrutiny Stymies JD.Com Fintech Unit's $2 Billion Hong Kong IPO - Sources"
-excerpt: "JD Technology, the fintech arm of Chinese e-commerce company JD.Com ... In the same month, JD.Com sold its cloud and AI businesses to JD Digits for a combined valuation of 15.7 billion yuan, in a move seen by the market to help dilute the latter's original ..."
-publishedDateTime: 2022-05-12T09:40:00Z
-originalUrl: "https://www.ibtimes.com/china-scrutiny-stymies-jdcom-fintech-units-2-billion-hong-kong-ipo-sources-3504473"
-webUrl: "https://www.ibtimes.com/china-scrutiny-stymies-jdcom-fintech-units-2-billion-hong-kong-ipo-sources-3504473"
+excerpt: "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,"
+publishedDateTime: 2022-05-12T08:52:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-05-12/china-scrutiny-stymies-jd-com-fintech-units-2-billion-hong-kong-ipo-sources"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-05-12/china-scrutiny-stymies-jd-com-fintech-units-2-billion-hong-kong-ipo-sources"
 type: article
-quality: 20
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/03/24/organised-tour-to-jd-coms-headquarters-and-asia.jpg"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources"
@@ -46,6 +44,6 @@ related:
       domain: channelnewsasia.com
     quality: 0
 
-secured: "3XBjVoqozoPhQn16/Ld5L/A1Q9xMJWwSfTRM7Ui+mp0C/fci8PyoZb6X26/00MqhiYjYnTq9LElq3ZbJgxU9Afx9/3qTuqtf7jZjzZWvJ0SrtFxuDby27QfBL2f4Exb9Yv4DVPIZKQ8XsNpZKRvSoEUNOtk0gNz2cC+ecwGlgoymc104Vt0kmEv6TYtsOWjvAtxVy9vcrsRMgc8qmea2uZeTqTXPZ6z2wkrvMAjRYQ8ZdQvQ1ha/1zUhxHX4FgwXyPQmpHb/SJ8FF97Nz0FDt7bINfdsQoqKB31I498tJtEq6O5FXZuZcEd5Krq00mM+lstSTNIGE8Rk4UtLYz2GzHmqwq1bnItaaQ75OjfwqonqYFf8XWZxzUyqM0Afqzgs76jChzWEc4L1qAerQLhPSmoUSqsiyTEd5NDg03atXRjSXHbpMVdmTELS4Am+kLnste/K2PUPnn8zJh1FBPA3L4LtqU2yUgeLnCdpOS4yEFbO4M9zdLEhZOcM0ZRXTOu7QtxzsntUKg0yhV3SXA5rAQ==;BlID3kF9yiQLsovnPIw8hA=="
+secured: "Tu7Dgx2bcP4hl4jpn2alaK3IiUb+KDIvlswhVH4Os5p51LaOtm8foeAS9c25Aow8M97IRT3zCTHgag5uD9e5nAaSSct7tIVP3oMraFSlC+dmHryylqJghTClaMIPHYfq6moLjsBDRJyilVMJPisrBBY6CYJq5einXYo7leCcI14+MZae0eiOu+zBilNqxYF1rfRUKX+WjtL9JiKHX7mIhKgzJlfDll5oFhlWfL92lxHfpnE+3iqgYaukJzxRL6MJjNRbVuJq/vs2WILMt8uYsKT1KJVCLgPQpOtF3CbBlgcIBQcFT08r4U6Agv820eY1QrW26MloxMfd+xwfwY21pNafXOzvf4HTLMZxdgM71HL2CFiIsScF7oQjEGgGy293MG42Epq/j0Amsqrww7tSM7uPy43sq+UaTjrjLZjVhSw/qOIIDThJMBk/76QhiLG5ks3ECGqmz4GVo3FlKUa+sSc5kCVHbQT4rWBHNqfDpGLx1pN4F9c+oD3J/jNSPxSDDK2tPbmve/7zlERnm/J5yQ==;cr+3eHphKT/S4yuvQRjqeQ=="
 ---
 

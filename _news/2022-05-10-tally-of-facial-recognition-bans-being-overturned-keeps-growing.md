@@ -94,20 +94,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "Facial Recognition Market Key Companies and Analysis Top Trends by 2030"
-    excerpt: "Snapshot The global facial recognition market is projected to register growth at a CAGR of 15.4% during the forecast"
-    publishedDateTime: 2022-05-09T11:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-key-companies-and-analysis-top-trends-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Rising Crime Prods U.S. Cities to Reconsider Facial Recognition Bans"
     excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers,"
     publishedDateTime: 2022-05-12T15:12:00Z

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-30-lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told.md",
+      "title": "Lisa Smith chose to go to area controlled by ‘demonic’ terrorist group, court told",
+      "excerpt": "Lisa Smith, a former soldier who denies membership of Isis, chose to travel to an area controlled by the “demonic” terrorist organisation having rejected peace and integration to embrace what is militant and violent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/news/crime-and-law/courts/lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told-1.4839460",
+      "originalUrl": "https://www.irishtimes.com/news/crime-and-law/courts/lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told-1.4839460",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/image-creator/?id=1.4839459&origw=1440",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-artificial-intelligence-really-isnt-all-that-intelligent.md",
       "title": "Artificial intelligence really isn’t all that intelligent",
       "excerpt": "Narrow AI applications such as Google Search and Amazon Alexa are great at solving specific problems, but only as long as you stick to the script.",
@@ -1287,49 +1330,6 @@
       "provider": {
         "name": "Japan Today",
         "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-the-best-rated-upright-vacuums-stick-vacuums-robot-vacuums-and-mop-vacuums-you-can-buy-in-2022.md",
-      "title": "The best rated upright vacuums, stick vacuums, robot vacuums and mop vacuums you can buy in 2022",
-      "excerpt": "And a large number of vacuums are now on sale for spring cleaning-- we weren't seeing these kind of deals back in January. And if you absolutely hate vacuuming? Robot vacuums such as the iRobot Roomba do the job for you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-rated-upright-stick-robot-and-mop-vacuums-you-can-buy/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-rated-upright-stick-robot-and-mop-vacuums-you-can-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/01/06/2c5d3573-a0ae-4af6-9e76-f19a57a6d6c6/thumbnail/1200x630/2dda76924cd88bd34e6590b6757c0697/gettyimages-1280594007.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-rated-upright-stick-robot-and-mop-vacuums-you-can-buy/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-rated-upright-stick-robot-and-mop-vacuums-you-can-buy/",
-      "publishedDateTime": "2022-03-22T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

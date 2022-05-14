@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://i.ibb.co/3h0zHPg/MRO-NEW.jpg"

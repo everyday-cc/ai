@@ -67,15 +67,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Learning to Live with Fintech"
-    excerpt: "It takes two to tango, and banks and fintechs are increasingly realising this. while such tie-ups help the former slash operational costs, for the latter, it promises access to a wider universe."
-    publishedDateTime: 2022-05-09T12:12:00Z
-    webUrl: "https://www.fortuneindia.com/long-reads/learning-to-live-with-fintech/108091"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 4
 
 secured: "kWS/ntahiDaAJU0wlpw44wyYkiw6J3ppVYrnfuhd3SuRKfZ9E4L14dohtC+Tk70dlE3WIji1LrWjHiZaB3Y1PpslPNiMCDaCqF3hayOcb7yoDCzoSm2HDYRZjaxMmtb7BjbXCBIc/7NOwLqgqrdgBPIAgmMo2p2mMQXrCCHurr/106P2h5DCgdi51wb1aWxCxahnVf07XeURzhfSNH4NE8O4hsPSBIC/FtyclGN060lJ7Xge9Wn9Qr68RgJZG1E3lqcxJHZerIBE6AjBm+cwDDu9zUvEKIIasGjFLFeEGfA4Sr5JNAoivpRhcCY2abrMBDAWNu2sHtza3ZKDjy29R4Frx2WKB3f8G032ty7SUvZvR0uSXLVY30vdJ86kh1vOvdkD64/k86qVwOp2/FVcLKOC1pmFZHQLEEc8Evn4cdCrxwXqJHY4J0MYP4ykxfQ1YHDJOboNREmWPQcmBrs0A8ubH2rskcmIonDRm5Fk9/HAYcxWexiLHrQijsRjCjqxCsQ0wwEtfNVT3oUndKmqDA==;ONUFfx0KOki650AUvEcRjw=="
 ---

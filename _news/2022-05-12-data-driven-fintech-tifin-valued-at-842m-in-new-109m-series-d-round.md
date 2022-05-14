@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Learning to Live with Fintech"
-    excerpt: "It takes two to tango, and banks and fintechs are increasingly realising this. while such tie-ups help the former slash operational costs, for the latter, it promises access to a wider universe."
-    publishedDateTime: 2022-05-09T12:12:00Z
-    webUrl: "https://www.fortuneindia.com/long-reads/learning-to-live-with-fintech/108091"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 4
 
 secured: "L0Jr18KSBjNPcYZ43y0lR30TPkUAEITEjyhvCyiUXDJuxOVr79H9ih+BrZ72sgD6FEkrngYd6mX46vYN4q3LGgaeGOp6CuDKZ5vGUvmxYzPvfGwGjm05KQZ7pun8rRzbVHeW7CXVI7TngIQ4gDpJ4LSdKXoIs8LS2mRxAxcKNXpfAgiilq4gmul/iZ/8sD+rVQFHwV/mfEOFVNSEW0RI3Wa6OIHLzo6dHEQpfcDnLE8lthq8C5CV9Uc3F2/+xAtWO9bAZGmUQtYAyW+t9yjT/DyIxvObWJvkU1D2J4rJnoA8Pr5StfiT17pVSamsbp5ILfsnbKT4av0uLe7nQ4YAuNaErksdIVTjRfb3fctl0Pj61ob0P2g3FYea4otUYqHKHZENKs4NleRsuJmbq3j2j1UTQL2H3cMNsv2NpQNaeMJVvv7WhyMit32MJH429XNBbxS10xXRQLh7hz0Ec3Jr20+IRvTpd+QH6Zb7KLdefJKUlnmKDFEUAGhZOFHp2Ncr6TQdI/MnnOHuFGsI6jxtQw==;SvNuH7mISD8fHDvdUx9zOQ=="
 ---

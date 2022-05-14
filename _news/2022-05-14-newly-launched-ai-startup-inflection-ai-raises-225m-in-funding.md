@@ -50,15 +50,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 56
-  - title: "FIRMUS raises $4.5 million for its AI-based construction platform"
-    excerpt: "FIRMUS has raised $4.5 million in seed funding for its artificial intelligence (AI)-powered construction platform. The Israeli AI and computer vision startup specializes in advanced computer vision techniques that assess construction blueprints ..."
-    publishedDateTime: 2022-05-09T12:37:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367613/firmus-raises-45-million-for-its-ai-based-construction"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 47
   - title: "An AI startup from the founders of LinkedIn and DeepMind scored $225M in funding"
     excerpt: "A startup created by the co-founders of LinkedIn Corp. and DeepMind Technologies Ltd. has $225 million in funding lined up to help improve how humans to communicate with computers. Palo Alto-based Inflection AI Inc. disclosed the funding in a regulatory ..."
     publishedDateTime: 2022-05-13T19:27:00Z

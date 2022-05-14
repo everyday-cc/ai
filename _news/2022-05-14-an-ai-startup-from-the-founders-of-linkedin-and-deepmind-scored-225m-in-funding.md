@@ -44,15 +44,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 56
-  - title: "FIRMUS raises $4.5 million for its AI-based construction platform"
-    excerpt: "FIRMUS has raised $4.5 million in seed funding for its artificial intelligence (AI)-powered construction platform. The Israeli AI and computer vision startup specializes in advanced computer vision techniques that assess construction blueprints ..."
-    publishedDateTime: 2022-05-09T12:37:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367613/firmus-raises-45-million-for-its-ai-based-construction"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 47
   - title: "Newly launched AI startup Inflection AI raises $225M in funding"
     excerpt: "Artificial intelligence startup Inflection AI Inc. has raised $225 million in funding. Inflection AI detailed the funding in a filing with the U.S. Securities and Exchange Commission. The Palo Alto, California-based startup specified that the financing was provided in the form of an equity investment but didn’t disclose the investors who provided the capital."
     publishedDateTime: 2022-05-13T19:54:00Z

@@ -68,15 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Learning to Live with Fintech"
-    excerpt: "It takes two to tango, and banks and fintechs are increasingly realising this. while such tie-ups help the former slash operational costs, for the latter, it promises access to a wider universe."
-    publishedDateTime: 2022-05-09T12:12:00Z
-    webUrl: "https://www.fortuneindia.com/long-reads/learning-to-live-with-fintech/108091"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 4
 
 secured: "He1pl5yVlp7EG2wnu/uVKADZ9yzEV6ZTK0HCKNaGwFAW5S5f6goMcEBC1zf440LPtAI/3Fl3CiPV2o8VMuuWab65iHRHMm29yv7NE8UCrRhL1oOhi7YhMWzDXsgeCoPsdaw2zNz7jurqMNh9ka/wgh1V9g+M+EszHiB2PgO7EoYCKcxyr67OZTJAX8+ZYpJMZIyoInK9pceXGK7bDoaK4vO3kCiOW2tkxZpCeC/7VDx8KFgSdUO5E0EnRcqcSmIR3ANTOl4njXVkLY+lg+GZ0e3ksMlQ5X/fuSimAxV61uF+ZvrZSRVGb+JGCuCkO1EOXJgsBr8iQmbQ+kyGOeJNlWaoCtfKFZhSj5f5pNuMJUKnTETBO/LU5s7w5YzX/w0wVUYgSe5fIghdWqyH9VFR5IUPebcqQvYVZxE2KTl10PgPD7HBFhS8QwBsUXowNh3f57VFEpqvB/m4h0+s5WDbIBFc3+v8kSJumEI9mpEp+VHNk4IhKwHTfZKO2Gv30oQYoi3J212gdeBDRZkVch4qzg==;FQNh6FgYgwfXnHAdT8MWqQ=="
 ---
