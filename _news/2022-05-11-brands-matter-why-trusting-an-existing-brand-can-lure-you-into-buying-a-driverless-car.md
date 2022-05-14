@@ -5,12 +5,7 @@ excerpt: "But the idea of a fully automated driving mode, where artificial intel
 publishedDateTime: 2022-05-11T06:48:00Z
 originalUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 webUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
-ampWebUrl: "https://theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 type: article
-quality: 51
-heat: 91
-published: true
 
 provider:
   name: The Conversation
@@ -20,67 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://images.theconversation.com/files/458038/original/file-20220413-10209-m9fr41.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
-    width: 320
-    height: 240
-    isCached: true
-
-related:
-  - title: "Self-Driving Car Crashes Into Dummy Cyclist During AAA Testing"
-    excerpt: "Tesla and other car makers are aggressively rooting for self-driving vehicles. A recent research by AAA sheds light on the safety concerns."
-    publishedDateTime: 2022-05-13T10:24:00Z
-    webUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/"
-    ampWebUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 44
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/05/AAA-tests.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bringing driverless trucks to the world"
-    excerpt: "That’s because after years of development, driverless trucking technology became commercially available for the first time in 2021. The company that brought this industry-transforming technology to market is California-based Plus."
-    publishedDateTime: 2022-05-10T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90747782/bringing-driverless-trucks-to-the-world"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/Plus’s-Autonomous-Trucks-Powered-by-PlusDrive-1-1.jpg"
-        width: 1280
-        height: 790
-        isCached: true
-  - title: "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds"
-    excerpt: "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ..."
-    publishedDateTime: 2022-05-11T11:52:00Z
-    webUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 20
-    images:
-      - url: "https://i.inews.co.uk/content/uploads/2022/05/SEI_99688536-1200x630-pl-exclusive.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Interesting Driving Facts You May Not Know"
-    excerpt: "Think you know everything about the wonderful world of driving? Think again. Here are some interesting driving facts you may not know."
-    publishedDateTime: 2022-05-13T12:11:00Z
-    webUrl: "https://www.evanshalshaw.com/blog/interesting-driving-facts-you-may-not-know/"
-    type: article
-    provider:
-      name: Evans Halshaw
-      domain: evanshalshaw.com
-    quality: 4
-
-secured: "HcySpXKd+wBWH6GiVtTnJ5TBRuiUY9laO3iTf9Hkt4kY+YXSgjIXdin+whS5XypmiP1nUUI3JR+WZqUYuVDQdLaCOGtC9I4x/L7SQPpaiFtFW8T2RDlQhpQYcGj7b6bWn7ZKzzU8SMWoXaPCeGaPz+EeYrNlPv+NjDLx4mjxpV2SnjWMWEL4p0MaGal9tqVDJVCoqZkG5klA+dfJ0Y6Q3mCtEJVGr9T3cupfFe0whbV3wp75nZOYfCJGTdR1ri3J62kOFKu3eG9XeA2tx1IHsCnzKAvnf/uYktw+4NqzhlJE50hzDV8U3Nkps4sfhjDWYFioPrX+aK4cXwpjAGQEl+4Ownw2DFC3nkflqDtzTPY=;DR8SrGeYCrkLH9Y+bwskjA=="
+secured: "R10RmsKlK3YP2kbBBzAQKoPnGdxY4umRW5EA6z4S3eJpiPsa0tAjHHJZ2gHFCvzc+BwkhuX3B7k1RHtCn76RJknkcx5XBc70ndWVJwUiRFG3pC0UNC2ffE8U33Sf6pFwbg/gSMLDhfVPldIwpW2+WNzFBuoXr/uqVlnJQjeP6oPaCOlsEkj/YUyoDrkpe+dLd6C9WMl9V4KfQ5f4a6GT4PTskJSbmWKFQCF9Y0ZsWPhlX4+Nj9OH4Lb/chDM2M3glfosDIYIMQje1vcWnYTzApEI+1a23aPQ7sn3UK0hYeyrInUKPFyA9rWvG0rQtjAY9K56WXA3auL3fEfaumXCrdsh51/NEiTlHZo9WHY3jQc=;rQS/LJQIGJMCbHIa/FnXBQ=="
 ---
 
