@@ -52,6 +52,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 20
+  - title: "Shareholder: Amazon’s ‘astronomical’ misuse of customer data could ruin company"
+    excerpt: "Taking a new approach to bringing attention to how Amazon uses individuals’ data, a shareholder is suing Jeff Bezos, Andy Jassy and 17 other Amazon l"
+    publishedDateTime: 2022-05-14T18:30:00Z
+    webUrl: "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company"
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 0
 
 secured: "/uRT5h5byOrvEUFH0hTSU72Cr0d6QCMS0WPTY11LaGSWUAJezucU9VhxbRwxFqX29TpUJOaWFMWtvt/XKEvt5YZnytew9hQwo00zFbw64DYtABsWsSz26ohY7sC1qYAhr2dCGG8/6wSB+o2DxUocMj6VlISA/RkpdFnr1xKjSmLKAaNl+IiP+PKM3jHcH0W6kmgHr3PjcUrRTDlUO9HozXQW4YUtpYApo7F1Yl8EHqikTOhlfay5z2dUXuYp7+LWvxrQ6JvMQsODVMIQ2XDZRpgUgxUooOfNjQ5+tBz25SCYsppZeMpbbgwj5bE7a8Ioxzi99fgaddPySdO1qfwZ2Mbj7Opp1zYMnfWVLlBd0baWCRQXeWxKQWVwBfUQeZ8ued4Q7OgY6EkWv6o/bA7yQ8V6P+5NidftSIfzCbX+PM4zHchRvEO982fs0YdHnqf5qxumRfnsAiRqZ8lh4D8AenpVmgU817slifP1OYkNApHZj58XM/83sRjOoZ+PACxTZetG6S9x0ELAZuoNr4iJ3Q==;hfBAYEVcYa+/KzlfEixMBA=="
 ---

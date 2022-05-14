@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "BigBear.ai Holdings, Inc. (BBAI) CEO Reggie Brothers on Q1 2022 Results - Earnings Call Transcript"
-    excerpt: "Q1 2022 Earnings Conference Call May 9, 2022 17:00 ET Corporate Participants Reggie Brothers - Chief Executive Officer Josh Kinley -"
-    publishedDateTime: 2022-05-10T01:31:00Z
-    webUrl: "https://seekingalpha.com/article/4509340-bigbear-ai-holdings-inc-bbai-ceo-reggie-brothers-on-q1-2022-results-earnings-call-transcript"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4509340-bigbear-ai-holdings-inc-bbai-ceo-reggie-brothers-on-q1-2022-results-earnings-call-transcript"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4509340-bigbear-ai-holdings-inc-bbai-ceo-reggie-brothers-on-q1-2022-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 45
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "ax+aG6KzQFyYLXaTKgObipYubeLJ9dRh/vdsz646U3+ytIb4zML9aiFZA+ohLCYcxWq5N1SZers5E0iXPRnHl+vA0A7uHOJJh+3goA1FyhuZ4zsDuPGpjAGASaSSUqqd95P48UyL2G/1l3GgWMR/UA7XmMN2C8ah3cGz5lU1LRNBn5DX/wJE4SorGYm4DoVhp7AJIjAFlga7g6KbhOp/a3eW94cFff9sg6pJr300CmIM4CG3TBonIEeLZ3NwfJQmIfgXqukjAO8T8sSIqjZD/F2qXz8MW8+etqHwHZnqaEOTS/H1w25nKWxSEXCE+mVz+vZCtpPnuB/mKnvAAh38uCLuDPxydEKQg5NMUwlKu/U=;JcFMHhVejV2pb4hjNFl1Bw=="
 ---

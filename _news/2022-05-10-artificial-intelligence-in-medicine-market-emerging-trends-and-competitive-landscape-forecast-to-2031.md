@@ -104,6 +104,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Image Recognition Market Industry Analysis, Applications, Overview, Size, Growth, Top Players and Growth Opportunity 2028"
+    excerpt: "Google, Microsoft, Facebook, Pinterest, and Apple are investing in resources and research into image recognition and related applications. Improper data storage, security breaches, and misuse of facial recognition data are some of the primary concerns ..."
+    publishedDateTime: 2022-05-13T13:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-industry-analysis-applications-overview-size-growth-top-players-and-growth-opportunity-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "4HFb8lGXoB4jEkCX2xKbW7293vjgysaKh4rmkLrm/axELODBD4kZXwHieR//W3rRQgzVjIwsGpFMo+8kWCWFSqGhQ7jokU/tfxkDdbnCi+INq25VMJl9HHGPasCYBFQH2bhw+bbIV9yvhJnJGOlSkHaF92MMJUY/pkhaycxSgcGsbXernoRzqbWVbKmIX9G7QqBrqVAF1ZHrjwWedYsD0F67TT5pe6SI3IMeZCvdQ6odL+fcJ0gjpqdzyEJcFSXLZDgt5k28ITPxKX3JVgvd0ljDUxc5i5tm6gm77L4KFtRp/QPXI8JT6Zm1NQ86D0LxswlzDHB8Hd+iPtziEwsnDF6Z8eVt4mjGWorOSF7GB9089V2BssbBT5KfaBxsZT/rl5KMMRdtOTL7BPOc7QyTy3rrNR1Zh+fJ57nwEswFoq1eO53R9pNUBgumped8bbU2fr+hOa8ByTfE6vZKFL31HXL4yLME58zyOvgzuBliPorAszRdbQwhtZiUd/JbhkLB5Z2qepzjRVTmmQercvzlZw==;6yhK06YFpooNgo8TvnosdQ=="
 ---

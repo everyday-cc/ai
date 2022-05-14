@@ -26,36 +26,38 @@ images:
     isCached: true
 
 related:
-  - title: "Entertainment Robots Market Estimated to Reach at USD 15.18 Billion by 2030 at a CAGR of 24.6% - Report by Market Research Future (MRFR)"
-    excerpt: "North America will have admirable growth in the entertainment robots market over the forecast period. Because artificial intelligence & cognitive computing are becoming more widely used in North America, entertainment robots are in high demand. In the ..."
-    publishedDateTime: 2022-05-10T14:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27110199/entertainment-robots-market-estimated-to-reach-at-usd-15-18-billion-by-2030-at-a-cagr-of-24-6-repo"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27110199"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27110199"
+  - title: "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP"
+    excerpt: "The global Call Center AI Market size is to grow from USD 1.6 billion in 2022 to USD 4.1 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.3% during the forecast period. The advent of AI in the call center offers enhanced customer support services and better experience coupled with rising development in customer engagement through social media platforms to boost the growth of the call center AI in the market."
+    publishedDateTime: 2022-05-13T22:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "The Delivery Robots Market size is expected to reach USD 957 million by 2026 from USD 212 million in 2021"
-    excerpt: "\"Delivery Robots Market\"Delivery robots market size is projected to grow from USD 212 million in 2021 to USD 957 million by 2026, at a CAGR of 35.1% from"
-    publishedDateTime: 2022-05-13T15:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million-in-2021"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+  - title: "Artificial Intelligence In Fashion Retail Market Emerging Trends and Will Generate New Growth Opportunities Status 2028| Microsoft,IBM,Google ,AWS"
+    excerpt: "A report was released recently that sheds lots of light on the Artificial Intelligence In Fashion Retail Market. The report covers an overview of the"
+    publishedDateTime: 2022-05-13T11:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-fashion-retail-market-emerging-trends-and-will-generate-new-growth-opportunities-status-2028-microsoftibmgoogle-aws"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 22
+    quality: 48
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/df545f41fed2420d2a28c1c8a30f83aff362c268-1-e1652495322767-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
         width: 600
         height: 337
         isCached: true
+  - title: "Self-Driving Cars Market Growing at a CAGR of 20.3% over the Forecast Period 2022-2028"
+    excerpt: "Self-driving Cars Market is valued approximately USD 1.74 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 20.3% over"
+    publishedDateTime: 2022-05-13T12:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-cars-market-growing-at-a-cagr-of-20-3-over-the-forecast-period-2022-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "ZTgVxjT6ZerSvQXRQaMkw4mqciKyxO5EZWZ4slNroRtdLL+CoyEa/5d3/RHUpyJ+fET0SyduBnp2vj+S72AGR167P9t6lHeP6I4NuI2RDW2UHEs/Wu8py+ywobFMd6YQ+UdrvgP2Q2w/WB7a2+Rlu3twT9ojRn3PMyEinwqqeHv4L4vkzhFjDkwY9NtgYdcsRA+vzQfKwJEnO/nLuB4wOUycTN9jQZteIA/MQTmIhJNy+CaXA9XmdmSpayqCh4FJycMwhkU4ey0gEmtj4yzdYOnSsgGOnUlV+VDfeXK3cjxQsKbtVPOJ94Qss/V5u8QCGdkaIPlkz1IswIpvLV18UhzMS0PsT1dYZm02fasEIxU=;Df8svCU1+imkrANU84Gi8A=="
 ---

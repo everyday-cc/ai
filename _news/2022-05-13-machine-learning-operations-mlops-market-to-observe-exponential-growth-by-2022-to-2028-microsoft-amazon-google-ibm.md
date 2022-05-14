@@ -100,20 +100,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Avaya, Microsoft expand partnership to pair Avaya OneCloud portfolio with Microsoft Azure"
-    excerpt: "Unified communications vendor Avaya has expanded its global partnership with Microsoft by pairing the Avaya OneCloud portfolio with Microsoft Azure. Avaya says the partnership expansion wil provide organisations with more options to increase their productivity and customer engagement with"
-    publishedDateTime: 2022-05-10T01:57:00Z
-    webUrl: "https://itwire.com/it-industry-news/strategy/avaya,-microsoft-expand-partnership-to-pair-avaya-onecloud-portfolio-with-microsoft-azure.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 60
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/edbe7be11627d2e934e4efc0d1dab222_M.jpg"
-        width: 375
-        height: 375
-        isCached: true
   - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud solutions on Microsoft Azure"
     excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, and Microsoft Corporation have expanded their global partnership by pairing the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organisations with more options to increase their productivity and customer engagement with unrivalled reliability,"
     publishedDateTime: 2022-05-11T09:08:00Z
@@ -143,20 +129,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Avaya Partners with Microsoft to Deliver Avaya OneCloud Solutions on Microsoft Azure"
-    excerpt: "Avaya's joint technology and go-to-market agreement with Microsoft will help customers accelerate their digital transformations in the cloud."
-    publishedDateTime: 2022-05-10T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Avaya-Partners-with-Microsoft-to-Deliver-Avaya-OneCloud-Solutions-on-Microsoft-Azure-152848.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 47
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/145747-0522_CaaS_480x610-ORG.png"
-        width: 480
-        height: 610
         isCached: true
   - title: "Avaya partners with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "Avaya and Microsoft Corp. have expanded their global partnership by pairing the industry leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations with more options to increase their productivity and customer engagement with unrivaled reliability,"

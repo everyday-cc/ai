@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/trend
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/trending-today-airing-on-fox-business-features-the-security-oracle-experts-in-the-security-and/article_99a43e4c-70bf-534f-8c30-7702b27e6d0c.html"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - AI
   - AI in Security
+
+related:
+  - title: "AI vs. AI: Forecasting the Ethical Dilemma Circling Law, Business and Technology"
+    excerpt: "This article provides a discussion of the legal and ethical questions involved when private companies defend themselves and then retaliate as a result of a cyberattack—a so-called counterpunch known as the “hack-back."
+    publishedDateTime: 2022-05-13T14:00:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2022/05/13/ai-vs-ai-forecasting-the-ethical-dilemma-circling-law-business-and-technology/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 29
+  - title: "Tech Visionaries to Address Accelerating Machine Learning, Unifying AI Platforms and Taking Intelligence to the Edge, at the Fifth Annual AI Hardware"
+    excerpt: "Meta’s Director of AI Research will open Edge AI Summit. Other notable keynotes include Microsoft Azure’s CTO, Mark Russinovich, plus Wells Fargo’s EVP of Model Risk, Agus Sudjianto; Synopsys’ President & COO, Sassine Ghazi; Cadence’s Executive ..."
+    publishedDateTime: 2022-05-10T20:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=661475"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 17
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "dDnbx5xIsV6pLY44rlleInJ33cxPA1scqnRqGSJWXmSFVzDrFNy6tFmsIhK3woT25G/pH7jsL5UZyIBbwcsnQYdaYKIm7aqbB2laFAPTNvQvNfFjrAIu7D65pbPPYj5EBbrFKUXXBIjug4aqKT21ITE5vhOJeAjI8tuFN4lJ6sg09mrZi3ecdhvTuHK3NEIsDKUfUH8lxM/Tc5e/4MYAW5Fl0Ef73ADShNDnNexK6gYpDBJAJ0NGW0CAYBz/px8yuDhIJn03vF37iu/xtqR40QdN8CrBAqHMtDCIQXIfAFhCI4L195XGFDH0EaMtCAaFbYwx8w1keargq8/P4nHBI3W911fEPYqq3/x8g+pHBEa9CwoZYs2ZhNFJhgXWPcV0yoGt3o+ZnOpEUi41aahLHg8sAfkcFCAW3hwtYrxE3XdPt0nogNmKCv+8DqOpgLMfLzyTTzcKUqg0XZCrEL0xbj1igIM6vphhq3gF/H7Un29q2knX+ETLN6oQVNojUw7R7gvVixIKIY+gHXh0Vdgnsg==;cZUnYQzbdgAepiwX8TOM7A=="
 ---

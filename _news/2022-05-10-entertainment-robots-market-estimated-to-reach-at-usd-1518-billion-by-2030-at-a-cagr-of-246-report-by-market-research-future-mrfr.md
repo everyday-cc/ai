@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market Size To Reach US$ 66.4 Billion by 2022-2027 | CAGR of 35.20% during Forecast Period – IMARC Group"
-    excerpt: "According to the latest report by IMARC Group, titled \"Global Artificial Intelligence Chip Market Size, Share, Industry Trends, Growth, Opportunity"
-    publishedDateTime: 2022-05-13T11:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-size-to-reach-us-66-4-billion-by-2022-2027-cagr-of-35-20-during-forecast-period-imarc-group"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheoYdwUNRdfvwqZfSMR9atdbKdoGnB7E3zzPe5zRK9X1ZX8WhILT8JPLgrGnqK3Dpe8X6IMXGmkO6pAL9uZolJCEM0jTbW1jtKkob8x__TRKTsRPWgpsUcv3WJCXMENMmw9Gh3_j73sRh84W7JSEA3qiCshXgOV-NEDggL21CqLNYa34fyhl1Y0g4/w637-h302/artificial-intelligence-chip-market-imarcgroup.jpg"
-        width: 537
-        height: 302
-        isCached: true
   - title: "The Delivery Robots Market size is expected to reach USD 957 million by 2026 from USD 212 million in 2021"
     excerpt: "\"Delivery Robots Market\"Delivery robots market size is projected to grow from USD 212 million in 2021 to USD 957 million by 2026, at a CAGR of 35.1% from"
     publishedDateTime: 2022-05-13T15:05:00Z

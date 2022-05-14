@@ -41,20 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial Intelligence Chip Market Size To Reach US$ 66.4 Billion by 2022-2027 | CAGR of 35.20% during Forecast Period – IMARC Group"
-    excerpt: "According to the latest report by IMARC Group, titled \"Global Artificial Intelligence Chip Market Size, Share, Industry Trends, Growth, Opportunity"
-    publishedDateTime: 2022-05-13T11:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-size-to-reach-us-66-4-billion-by-2022-2027-cagr-of-35-20-during-forecast-period-imarc-group"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheoYdwUNRdfvwqZfSMR9atdbKdoGnB7E3zzPe5zRK9X1ZX8WhILT8JPLgrGnqK3Dpe8X6IMXGmkO6pAL9uZolJCEM0jTbW1jtKkob8x__TRKTsRPWgpsUcv3WJCXMENMmw9Gh3_j73sRh84W7JSEA3qiCshXgOV-NEDggL21CqLNYa34fyhl1Y0g4/w637-h302/artificial-intelligence-chip-market-imarcgroup.jpg"
-        width: 537
-        height: 302
-        isCached: true
 
 secured: "V3wncvKQgHooEII2IDY+NzPwLRnzW0N970C6MyHtM3Xmq3sn2pbA1OxIp9uyo0Qa/dhW3+IQkHYsQWJTAoZcG9p8xAINOcMYq7cfBZplbUe7Kw71lZiijkxvv97LktSSLQscwSi0zqgwKa5+dO02Egmu6Okl3NTW1M8bsCDLHb8/aJXz2+Bfe53tf7xFOX2NH3du+UANYBrTUL+lEiH/e0NAMRIV5BdjmC8NZc1kTr2PDcarb7/spVO2VUC7abM5IDjyjqusV27JQZtmHfVUiqEwrruzz0SgClEJ8xv9FVK8FNJmOqLDEN8TqujQM/o6kBllogx3HkQ/SXefSmpQc6vEuPba6xUFrwJKLQQfRPQ5g9Oa219cHdAfm3AjXv/fhMGTcAYB+tWwknVy8oGKZERECK6ADJxbvGVeUYuhbUdmrVCcZbqkIqkhN40dB9fiDE9KOjuqhqBGx1lh73ZVX4c01XoQ2astaUJ6pEWMbaV+MsCxqsghghA9S23gdJI1P1sPDMB+XnzRRywuYEf4Pw==;qdTQGstkTf17JqmFFzHe1w=="
 ---

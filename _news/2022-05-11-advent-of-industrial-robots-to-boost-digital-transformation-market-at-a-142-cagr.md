@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/advent-of-industrial-robots-to-boost-digit
 webUrl: "https://techbullion.com/advent-of-industrial-robots-to-boost-digital-transformation-market-at-a-14-2-cagr/"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Facial Recognition Market Will Grow at a CAGR of 17.1%; Emerging Trends, Industry Outlook Growth Opportunities"
+    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Facial Recognition Market research is an emerging exclusive report with meticulous efforts assumed to study the right and treasured information."
+    publishedDateTime: 2022-05-11T14:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-will-grow-at-a-cagr-of-17-1-emerging-trends-industry-outlook-growth-opportunities"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/99742949f7e11ca95efd09bf25cbd0e689bb45de-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Regtech Market Size 2022 Grow at 17.55% CAGR, drivers, challenges, and their impact on growth and demand forecasts in 2029"
+    excerpt: "The Regtech market size will Expected to Reach at a CAGR of 17.55% in terms of revenue to reach above USD 28.83 billion by 2029. Regtech Market Overview:"
+    publishedDateTime: 2022-05-10T06:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/regtech-market-size-2022-grow-at-17-55-cagr-drivers-challenges-and-their-impact-on-growth-and-demand-forecasts-in-2029"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/60465b83490cdff2f7eddb64a71e08f8aa46470b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "XO4/4MPjrrLSljWvrzOYavMdHdEpypmhZ4IJPc84OaeXNiDafI4kW4zO/G3K5a22+mB6DcX3E/clt3cIDyqQsfTESGQRLeQ47eLUDU/PyyQ4tpqhv0vtDelbMfYJ9GymOcxU+IYyquRcWR7wkFC3i3Hf2dZo9D9JtUWdA380LGjdS2TuIaQ9155om6HxhEZ17PzaNxXW6X+kElXc1dUZjROFTtXxXij7E8IF62mPSLsWX6CD2AQwL5RDR4WtW+WWExQOQUn6SHR3Aqm6TW/OghV1fBjZH6oxbAawlE7jrGU1SOaOgcLzZzyUTO+lsG7sgTuUjzKTlr997GKKPDerC6uE3ODy+q3z/RlrNq2Z6OoTUMayHiSGPa1FxCi1w6cT+vaOGpa/9zu6hIbX0vDEs/7I+RbQlh0ixRbwa9fOOT+5HqPfPGNnnV6QJr2Nx5NO18nABIuseRHbJpGK/uaQeYuCeOflpaUCgNRjdETqHSM7PVENK7ebJwCG8v3LMT5eisELS8RKZsQn4wG01j6UCA==;o3W9LL03NxteMCDgwcCJjA=="
 ---

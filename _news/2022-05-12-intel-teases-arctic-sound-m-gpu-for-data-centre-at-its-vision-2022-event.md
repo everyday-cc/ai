@@ -9,8 +9,8 @@ ampWebUrl: "https://technosports.co.in/2022/05/12/arctic-sound-m/?amp"
 cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/05/12/arctic-sound-m/?amp"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: TechnoSports
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The three-way race for GPU dominance in the data centre"
-    excerpt: "Nvidia, AMD, and Intel are about to slug it out for a share of the growing graphics-processing-unit market that’s being fuelled by the needs of AI and ML."
-    publishedDateTime: 2022-05-10T02:29:00Z
-    webUrl: "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/?fpid=1"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nvidia_amd_intel.jpg"
-        width: 504
-        height: 315
-        isCached: true
   - title: "Intel teases Arctic Sound M GPU for data center: ACM-G10 GPU + 150W"
     excerpt: "Intel Arctic Sound M PCIe Gen 4 graphics card based on the Intel Xe-HPG GPU is dropping in Q3 2022, I'll believe it when I see it."
     publishedDateTime: 2022-05-11T02:41:00Z

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-excerpt: "View original content to download multimedia: https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto"
-publishedDateTime: 2022-05-12T17:03:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
+excerpt: "The list recognizes standout privately-held companies making the most advanced and impactful uses of artificial technology. This year, Forbes evaluated hundreds of submissions and recognized Nauto ..."
+publishedDateTime: 2022-05-12T18:00:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
 type: article
-quality: 47
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Explaining The Art Behind The Forbes AI 50 Design"
@@ -38,20 +32,6 @@ related:
         width: 1200
         height: 1201
         isCached: true
-  - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
-    publishedDateTime: 2022-05-11T21:11:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 47
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
     excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
     publishedDateTime: 2022-05-11T12:30:00Z
@@ -66,6 +46,15 @@ related:
         width: 2532
         height: 1143
         isCached: true
+  - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
+    publishedDateTime: 2022-05-11T21:11:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 29
   - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its selection to the 2022 Forbes AI 50 for North America. The list recognizes standout privately-held companies making the most advanced and impactful uses of artificial technology."
     publishedDateTime: 2022-05-12T12:00:00Z
@@ -112,6 +101,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "sgwK4aeVCEyAOz0ABDzI/ZTDwjaY9KcSf3NepwyEjUmtLEKCBjxI/TA4uAFu0kGcEaWo7L9fYI12ZWF3U+AkLu+vXUgqBGYHIBL5LvsfPJN0Ff1P2b0ENh0vmZ/DCCyWgTTVKRKLKDwp1ht8NfURZbggEWzYEJ4pBRVM94I1YtEYUJLxfiMQF90O6I4Gs+hx2NZH+QerkH7duj4/IxnSYGd3/xcEdX9u+11BqVfhTUh7yLfsrYi3lLuwBbhnUEU+LebvDg9QhGPiTrSUMpSEYawV7667SLsuHejqHIu4xq+oeNvsg8No532V02HRfHdqJCtkc6QFtAu9Yole1CEl+sf35Aixpma495w3DRZspv4=;eg/26aP1Mx7qTGAtcmFi0w=="
+secured: "redk4FNz8pNj0kmUpJj35DccuJ4F5V9fswxfnnbnIPkDgJmsOT0MvdiEkOm5BilpHq4HUQeR7amQ3LvkzuAvb5A/BaIJMzqbbyGCIsTakXLKr2J9dstcyJ9iIh1ZF4OhOgYsrgJzkBcecc8oks//bDN01/GtRn25aC+sAxVK4VEiDVx/YC/PRweO6MTOQtVZ3FcCMJMXHAsIyUsgHeTaTbe4yBXvqPq7lQJqgqA9S3r9p4tsWwEkJVrUOPs8n1Bm4rLxWmwfw5Uvj9kZhRboWKjoovx1J91BdZJCqA944WYZ/6mdUzLvoUoJY2bJwEcjkmAjKVfiBrmP+NBDYK+5TBHc4dAIbsIEMc1xDA9xaac=;7mRtvJe+sXrLYdSsGg/TuA=="
 ---
 

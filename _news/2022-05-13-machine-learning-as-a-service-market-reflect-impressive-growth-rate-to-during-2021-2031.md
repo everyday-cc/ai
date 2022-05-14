@@ -30,15 +30,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
-  - title: "Self-Driving Cars Market Growing at a CAGR of 20.3% over the Forecast Period 2022-2028"
-    excerpt: "Self-driving Cars Market is valued approximately USD 1.74 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 20.3% over"
-    publishedDateTime: 2022-05-13T12:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-cars-market-growing-at-a-cagr-of-20-3-over-the-forecast-period-2022-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "r+M8q9q35kwTTQfcBjXzHhauG3E/K9r7cV0ECVDr0erfjzu3E5/tEL+04WAgTStJmxIRZyuJtDOIMYXac6M4FEBeglNK3Rmt7USvQ7P8CJYCB8kK337YZ51BX0GkwqMUVIgOLjOcuxetPq5h+gt8SLBkAlodvuEgAB2q9NrTIX8vCWig3lioGSnhAH4Fd6dcpdOtbpATgu/DzKkGxa8uVRocaehTGeVV1UN9D78kH/3zGl8xUFTSW70YLrazF8g8/uLFeIB7W6ETDGnkJ69BoeqkvVzirFQ9bO0qqop2uvYGFI9wZtPe83QILs9slPDOUzlvTYuFOvb2MCsWpDvkzrY41f61/07aydMVbW4jCa0wWsfnfyYmvg/Bo2b+6CzVE3UuUM/fWYVm3tQHt+FonIozGlPY4V8u4vckt4inLcWI3oExnCgY6O2kTdzVZHHF/MPm8JTfWsyEdAkgdh9Y3K/Wt6GXcWw4buJ71gwAsoxqYnrjVZPbfD/8xDR18RexEYCX8L3iLkNGyi7XGgxucg==;7Mp1WVBNo6xWCddEY1RdQA=="
 ---

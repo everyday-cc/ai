@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "BigBear.ai Holdings, Inc. (BBAI) CEO Reggie Brothers on Q1 2022 Results - Earnings Call Transcript"
-    excerpt: "Q1 2022 Earnings Conference Call May 9, 2022 17:00 ET Corporate Participants Reggie Brothers - Chief Executive Officer Josh Kinley -"
-    publishedDateTime: 2022-05-10T01:31:00Z
-    webUrl: "https://seekingalpha.com/article/4509340-bigbear-ai-holdings-inc-bbai-ceo-reggie-brothers-on-q1-2022-results-earnings-call-transcript"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4509340-bigbear-ai-holdings-inc-bbai-ceo-reggie-brothers-on-q1-2022-results-earnings-call-transcript"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4509340-bigbear-ai-holdings-inc-bbai-ceo-reggie-brothers-on-q1-2022-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 45
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Rackspace Technology, Inc. (RXT) CEO Kevin Jones on Q1 2022 Results - Earnings Call Transcript"
     excerpt: "Q1 2022 Earnings Conference Call May 10, 2022 17:00 ET Corporate Participants Kevin Jones - Chief Executive Officer Amar Maletira -"
     publishedDateTime: 2022-05-11T01:52:00Z

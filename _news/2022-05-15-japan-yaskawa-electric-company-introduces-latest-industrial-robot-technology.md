@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-14T19:15:00Z
 originalUrl: "https://timesofindia.indiatimes.com/videos/tech/japan-yaskawa-electric-company-introduces-latest-industrial-robot-technology/videoshow/91568741.cms"
 webUrl: "https://timesofindia.indiatimes.com/videos/tech/japan-yaskawa-electric-company-introduces-latest-industrial-robot-technology/videoshow/91568741.cms"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: India Times

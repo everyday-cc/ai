@@ -51,6 +51,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Shareholder: Amazon’s ‘astronomical’ misuse of customer data could ruin company"
+    excerpt: "Taking a new approach to bringing attention to how Amazon uses individuals’ data, a shareholder is suing Jeff Bezos, Andy Jassy and 17 other Amazon l"
+    publishedDateTime: 2022-05-14T18:30:00Z
+    webUrl: "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company"
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 0
 
 secured: "KZY+IUDcihFbR8EGYi4Vo7/VHRgvtZowtQI77qaha11EyRHjdbCpzmF72jok0ZnwifG/YXVRiTPMpTL2OV8wE+CIeT+J1VW8VLT5nuhwlDB/yzzNTDClg0NEa9agzwvD1GfVJ43KSiEmzEC1pjDyZzAbIydeB5j7sL3YP0puXm3Zq3Ekw7P3JtBsA+70KK4pBzZucb5TnCIIKm+bQnINHBFIQ6xau/mos9Ud9wpaMPTvmbqTCktvQIXAQnu3beUxK9U6bZK8VbD8rUydAoFyoKiIYjCSHTF1JPYS4IxoUuRvZaEDSToYhhFEElYCnK00ojFzJmHl7FI4mRTO86cti5bZ2QB4qs/p6REdurIHaFMGF/UC6KkqNIdR8DQ4HNj+nK8vYvUsxmirqQfY+/vnxyUusQ/203nkqbydoquy2G/bd4DOqDJBbZUJQbH1rOA8OR3AFZYP06rWa0e4YPuu7PwtrpoCIrvnGZTvfcTDp7/NeikMPOB+s0SXuyProaQ+Z5FtYw5xUYWKi2oU+n5HcQ==;6XrS9oxtJrqVd7oxPlC+2Q=="
 ---

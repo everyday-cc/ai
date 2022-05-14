@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T09:00:00Z
 originalUrl: "https://www.blackenterprise.com/never-worry-about-running-out-of-ideas-for-content-with-friday-ai-writer/"
 webUrl: "https://www.blackenterprise.com/never-worry-about-running-out-of-ideas-for-content-with-friday-ai-writer/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Black Enterprise

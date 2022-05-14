@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/nexoptic-announces-collaboration
 webUrl: "https://www.digitaljournal.com/pr/nexoptic-announces-collaboration-with-semicon-networks-south-korean-government-for-auto-pilot-systems"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "The Korean Government's Global Startup Competition is back"
+    excerpt: "The K-Startup Grand Challenge (KSGC ... in fields such as Artificial Intelligence (AI), financial technology (fintech), logistics, biotechnology, robotics, game development, Internet of Things (IoT) and e-commerce, are applying to compete."
+    publishedDateTime: 2022-05-11T19:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27149199/the-korean-governments-global-startup-competition-is-back"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27149199"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27149199"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "weGE64FCRbIh1MlTQKqhxO1l+e4TxDgp1ojnJGoWCekIzATa1RLsFdHdisKCCPKer6OU+n/UeOXO1w54/KdSQCipZx2lLXseG/XcLg9g/4mp5KY++GAtn7NGPfFF2VyfC2aanvWZ8N4aZmO6k8PJQkNpeJeMUYWdCU5iAETTzCriO0LyZrnmWG/bKty2cvT9xJunwJhlMu8JmmU+tE0WEQVJLxynCHBHUVe7N0hRLkGMZB4hPOf48ZnQcvLtQTuBYMYUlm9PUAX7ioK8Ikc0mZSyPsWnbMDhEzyH6I1I1EARRfVAL5RlTjp8YxvG/G0zuzXRo6N7+FlsTJRkoUX1aLnLP00lM7+O/BewEkqoEDM=;eFad8spQ1tUxZnohXRmASw=="
 ---

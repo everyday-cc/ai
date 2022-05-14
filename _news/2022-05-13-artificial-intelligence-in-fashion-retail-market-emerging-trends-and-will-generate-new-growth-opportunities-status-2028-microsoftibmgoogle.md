@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-fashi
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-fashion-retail-market-emerging-trends-and-will-generate-new-growth-opportunities-status-2028-microsoftibmgoogle-aws"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,24 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Will Grow at a CAGR of 17.1%; Emerging Trends, Industry Outlook Growth Opportunities"
-    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Facial Recognition Market research is an emerging exclusive report with meticulous efforts assumed to study the right and treasured information."
-    publishedDateTime: 2022-05-11T14:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-will-grow-at-a-cagr-of-17-1-emerging-trends-industry-outlook-growth-opportunities"
+  - title: "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP"
+    excerpt: "The global Call Center AI Market size is to grow from USD 1.6 billion in 2022 to USD 4.1 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.3% during the forecast period. The advent of AI in the call center offers enhanced customer support services and better experience coupled with rising development in customer engagement through social media platforms to boost the growth of the call center AI in the market."
+    publishedDateTime: 2022-05-13T22:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+  - title: "Artificial Intelligence Chip Market Size To Reach US$ 66.4 Billion by 2022-2027 | CAGR of 35.20% during Forecast Period – IMARC Group"
+    excerpt: "According to the latest report by IMARC Group, titled \"Global Artificial Intelligence Chip Market Size, Share, Industry Trends, Growth, Opportunity"
+    publishedDateTime: 2022-05-13T11:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-size-to-reach-us-66-4-billion-by-2022-2027-cagr-of-35-20-during-forecast-period-imarc-group"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 19
+    quality: 25
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/99742949f7e11ca95efd09bf25cbd0e689bb45de-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheoYdwUNRdfvwqZfSMR9atdbKdoGnB7E3zzPe5zRK9X1ZX8WhILT8JPLgrGnqK3Dpe8X6IMXGmkO6pAL9uZolJCEM0jTbW1jtKkob8x__TRKTsRPWgpsUcv3WJCXMENMmw9Gh3_j73sRh84W7JSEA3qiCshXgOV-NEDggL21CqLNYa34fyhl1Y0g4/w637-h302/artificial-intelligence-chip-market-imarcgroup.jpg"
+        width: 537
+        height: 302
         isCached: true
-  - title: "Image Recognition Market Industry Analysis, Applications, Overview, Size, Growth, Top Players and Growth Opportunity 2028"
-    excerpt: "Google, Microsoft, Facebook, Pinterest, and Apple are investing in resources and research into image recognition and related applications. Improper data storage, security breaches, and misuse of facial recognition data are some of the primary concerns ..."
-    publishedDateTime: 2022-05-13T13:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-industry-analysis-applications-overview-size-growth-top-players-and-growth-opportunity-2028"
+  - title: "Self-Driving Cars Market Growing at a CAGR of 20.3% over the Forecast Period 2022-2028"
+    excerpt: "Self-driving Cars Market is valued approximately USD 1.74 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 20.3% over"
+    publishedDateTime: 2022-05-13T12:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-cars-market-growing-at-a-cagr-of-20-3-over-the-forecast-period-2022-2028"
     type: article
     provider:
       name: Digital Journal

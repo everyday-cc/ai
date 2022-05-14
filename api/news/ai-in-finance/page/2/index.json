@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-04-21-fintech-market-size-to-reach-usd-16652680-million-by-2028-at-a-cagr-of-139-valuates-reports.md",
-      "title": "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports",
-      "excerpt": "The global fintech market size is projected to reach USD 16652680 Million by 2028 from USD 6588780 Million in 2021 at a Compound Annual Growth Rate (CAGR) of 13.9% during the fore",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-fintech-market-size-reach-usd-16652680-million-2028-/2022/04/21/9587422.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-fintech-market-size-reach-usd-16652680-million-2028-/2022/04/21/9587422.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-21-canadian-fintech-start-up-savvii-group-inc-offering-a-uniquely-holistic-approach-to-personal-finance-announces-10m-in-seed-funding.md",
       "title": "Canadian Fintech Start-Up SAVVII Group Inc. -- Offering a Uniquely Holistic Approach to Personal Finance -- Announces $10M in Seed Funding",
       "excerpt": "Unprecedented security, AI-powered financial coaching and industry-leading dynamic tools provide a connected financial experience that empowers Canadian consumers to take charge of their financial health TORONTO,",
@@ -1284,6 +1250,58 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-smarthop-raises-30m-to-boost-trucking-fintech-products.md",
+      "title": "SmartHop raises $30M to boost trucking fintech products",
+      "excerpt": "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
+      "originalUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Guillermo-and-Miguel.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
+      "publishedDateTime": "2022-04-06T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

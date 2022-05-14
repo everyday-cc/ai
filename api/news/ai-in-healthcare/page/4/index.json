@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-23-investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age.md",
+      "title": "Investigation into the potential of artificial intelligence in the digital age",
+      "excerpt": "As a general-purpose technology, artificial intelligence (AI) has the potential to change our lives. It could bring many benefits, from increasing farming efficiency to helping to fight climate change and making transport safer,",
+      "sourceUrl": null,
+      "webUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/",
+      "originalUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/epthinktank.eu/wp-content/uploads/2022/03/EPRS-AaG-729329-Investigation-artificial-intelligence-digital-age-FINAL.png?fit=1024%2C545&ssl=1",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/?amp=1",
+      "cdnAmpWebUrl": "https://epthinktank-eu.cdn.ampproject.org/c/s/epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/?amp=1",
+      "publishedDateTime": "2022-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EP Research Service",
+        "domain": "epthinktank.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-icertis-launches-industry-first-contract-intelligence-solution-for-healthcare-providers.md",
       "title": "Icertis Launches Industry-First Contract Intelligence Solution for Healthcare Providers",
       "excerpt": "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced the launch of  (ICI) for Healthcare Providers. The industry-first CLM solution helps healthcare providers accelerate digital transformation by modernizing complex agreements such as payer,",
@@ -1284,41 +1327,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-hub-security-partners-with-enlitic-to-secure-health-data-enhance-patient-care-through-artificial-intelligence.md",
-      "title": "HUB Security Partners with Enlitic to Secure Health Data, Enhance Patient Care Through Artificial Intelligence",
-      "excerpt": "Artificial intelligence (AI) technology in healthcare requires secure patient data to reach its true potential. Healthcare providers have that data but have struggled to protect it. In 2021, the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/cision/20220314LN90671/hub-security-partners-with-enlitic-to-secure-health-data-enhance-patient-care-through-artificial-intelligence/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/cision/20220314LN90671/hub-security-partners-with-enlitic-to-secure-health-data-enhance-patient-care-through-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

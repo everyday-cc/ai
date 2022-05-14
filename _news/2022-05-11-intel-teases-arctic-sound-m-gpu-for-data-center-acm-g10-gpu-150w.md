@@ -35,20 +35,6 @@ related:
         width: 1600
         height: 891
         isCached: true
-  - title: "The three-way race for GPU dominance in the data centre"
-    excerpt: "Nvidia, AMD, and Intel are about to slug it out for a share of the growing graphics-processing-unit market that’s being fuelled by the needs of AI and ML."
-    publishedDateTime: 2022-05-10T02:29:00Z
-    webUrl: "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/?fpid=1"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nvidia_amd_intel.jpg"
-        width: 504
-        height: 315
-        isCached: true
 
 secured: "TDixV+adGNoGIBpcVt+bYSbwERwsAdgNeSDPwv2RvO7AbnXEouoX8sQegZEtZ8kkzn6kHeook5PFHgKL3qNSzP7d2Jo47LHkRFnL0OvdHd8pRQoM42+R7oMqeFWkq2oF4a642lAzNyhhL9D7vcJloGXqAqJFcEetvaoHEJ3P8+zlYJph5vLGPYSR90M35wnND6qpZljDJKd0sMjqBOo4B5ImQwTUSiKZqytqBY7x0KGSjnd/w1PINLkAoZsflHoH0Cax83lZ922BXJPZ9RkE8WY3soCNCUn0hSMazfxdPVWHsO4IK75kQE3QmiOKayq39x6Z4MHc41nuCXrXLSpwDeZ5EJ+be/dqPaGe0RKOreg=;0T1HDTmVRgNvxnhEanwTxg=="
 ---
