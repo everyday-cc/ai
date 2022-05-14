@@ -221,11 +221,11 @@
       "twitter": {
         "username": "etzioni",
         "url": "https://twitter.com/etzioni",
-        "followers": 26422
+        "followers": 26424
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-        "citations": 43292
+        "citations": 43312
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
@@ -472,7 +472,7 @@
       "twitter": {
         "username": "katecrawford",
         "url": "https://twitter.com/katecrawford",
-        "followers": 77266
+        "followers": 77265
       },
       "topics": [
         "AI"
@@ -532,7 +532,7 @@
       "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
-        "citations": 301047
+        "citations": 301435
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
@@ -640,7 +640,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=910z20QAAAAJ",
-        "citations": 55085
+        "citations": 55161
       },
       "wikipedia": {
         "url": "http://en.wikipedia.org/wiki/Daniela_L._Rus"
@@ -735,7 +735,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=P6krKIkAAAAJ",
-        "citations": 193015
+        "citations": 193177
       },
       "affiliation": {
         "path": "",
@@ -773,7 +773,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=4mF2FgcAAAAJ",
-        "citations": 347672
+        "citations": 347871
       },
       "affiliation": {
         "path": "",
@@ -1060,7 +1060,7 @@
       "bio": "Queen Mary University of London",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1DS8DjgAAAAJ",
-        "citations": 241087
+        "citations": 241223
       },
       "affiliation": {
         "path": "",
@@ -1180,7 +1180,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=3VyGrdwAAAAJ",
-        "citations": 17942
+        "citations": 17953
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Karl_Iagnemma"
@@ -1255,7 +1255,7 @@
       "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
-        "citations": 200935
+        "citations": 201082
       },
       "affiliation": {
         "path": "",
