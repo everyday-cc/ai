@@ -1,28 +1,21 @@
 ---
 category: news
 title: "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices"
-excerpt: "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three"
-publishedDateTime: 2022-05-10T16:35:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
-webUrl: "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
+excerpt: "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three wholly-owned subsidiary Robotic Assistance Devices (RAD),"
+publishedDateTime: 2022-05-10T16:27:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
 type: article
-quality: 44
-heat: 44
+quality: 7
+heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/e3c6eede9f0b92ea738e91a001040ed4ff797a69-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "Another Order of 3 Robots from a top ranked global logistics Company for $AITX: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
@@ -35,6 +28,6 @@ related:
       domain: dailyherald.com
     quality: 14
 
-secured: "6tbk4RWZDYA/3+tqfhgC/R8LloUXarWxYI2vNbYjh0wUK1ssSyvSagwpPP5vE1W4xgAW0JqHDQc1NUI1LVLtmykooRZFo5nRADgsjA7IQ/GtYX4jLN0P2lSRHaEbBA8KxxTYrpmahhbdNmCE2NCCtAh/SyJ01ZCzvywhYwzFK3LP0E5xwb9Epzuy3d1z0VPR+Q5jthPFQ2zxOow/SZBgu4ktO7hAxD2QjUGiMJhUbSSB+nmplLpQucL67Znkvb0fvuIEslXWan6jiTny88m+eALPAtLHqTWSJ90qoOeTS1dI5IZqLeIN+wcBT9ZbeEZidn7tLtAi8dLJ4N8vYCgMLL05PpwSlcR9MDKh+DPKseU=;E7zLf0qsKP22+9ozTWxSyQ=="
+secured: "80/R8l80n3wNc9oNujd+VoH3sq9pjwX8Cc3Kb+8X0mTIsCFb2tms4Wc0cDNVnJTJH66YKkVVas9azEh45sHCPCXQb3dtxHGnPYVCRyjacF6SRvlbasMml9huZC7phrTJEhupHSo/0FJU+62K22QpB7aP/f3It0jtKwArXeemytt0mJ5X9sOxta/b4moFBdb3HyvwoyWAg1pvIJYIwR/tojBrPKCmyOoLdRcEYuN2jPT6yR23wQVzElY4pvKX7V48cDumq/g8XMUrsDIMzI8D0pkIrmFptcs3PKZ/RgMmvqeb4LT7oFndcI58LV6Fnfo/qa5uo/QQ16bp/hjE3tTSzIGthFv6CeNnDKphZXUlMnL+D/4JbtRc1kr7dblxn2dTcSM6G4t9/NygJIW0Ge28wE2n7QufHWD9q5L2cpnxV9PBCEBZPF1kuusw7JfD+uAbmS2l+HDCL6rtUVIQeUyyrweqPxUbjHWbWhgFlGcaR9hsouMl+CtyW49G8xCj5PhvdX+z6w9VGBnlbMG6FLeRlw==;nfv/XBUQ42+h39Q24T0wlA=="
 ---
 

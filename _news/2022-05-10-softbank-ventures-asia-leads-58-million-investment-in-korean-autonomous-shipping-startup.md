@@ -30,17 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "The Korean Government's Global Startup Competition is back"
-    excerpt: "The K-Startup Grand Challenge (KSGC ... in fields such as Artificial Intelligence (AI), financial technology (fintech), logistics, biotechnology, robotics, game development, Internet of Things (IoT) and e-commerce, are applying to compete."
-    publishedDateTime: 2022-05-11T19:42:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27149199/the-korean-governments-global-startup-competition-is-back"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27149199"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27149199"
+  - title: "The Korean Government’s Global Startup Competition is back"
+    excerpt: "Application period is open until May 31st for the K-Startup Grand Challenge startup accelerator program organized by the Korean Government. Startups from"
+    publishedDateTime: 2022-05-11T19:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-korean-governments-global-startup-competition-is-back"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/e3c6eede9f0b92ea738e91a001040ed4ff797a69-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "xZzZ/sROyO6tsnOY1vngAWn/Wpy/AGXROFu9cEiodQZ5G9AcYqff1KpXGtnyrrBbncV4QBzejx7oi0T49WnjZxDlUDxx+Lj+r28WKEdeHl+cMv0F8whSUeoLCbPlp+3AGF5QxwVU3Y1ngoe74Pxtk71aIItgh+OzXvGSFMFx9mKIrKC3oYMk2PQZRXfRZQTw8YqF6sKpmdE5pb8uS9hT5wFSrUsuWHQWYZ80Mgk9iWNroKE45NuwPEfjcqKPuxuht8z7gg9WdO2V6+yBGdWyjtIg1yUM/rWtU68SxSSdWjYijNT+TOA9/7uYhnEIGNV86WmFastpYGM6Ixzf221TP+THhGPwsJ1kiK97uwImhRN9EBDfFj9q77BUgII8bTeLMBEa5U6i3CbhUCs49yzBhMjpCpssWGO73IoYL8G+vqqON3hyP32f/pT8xzTxld0DLNy5S9ORXARdy84DLwRScdBGyRCIm+IoAIPIrDMEf3ud4NqycjHF7e0yCBmYEsqdeghMOECgOED+KjLPk8/Pjg==;12yCoe7FLor+Zq6vOiyZSg=="
 ---

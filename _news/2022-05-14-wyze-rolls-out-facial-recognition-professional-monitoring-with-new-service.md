@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/wyze-rolls-out-facial-recogniti
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Invasion of privacy? New bill allows police to access facial recognition camera data"
-    excerpt: "On Sunday, the Knesset’s Ministerial Legislation Committee approved a bill regulating the use of facial recognition cameras in public areas, permitting the defense establishment to access the data and use it without obtaining a court order. According to ..."
-    publishedDateTime: 2022-05-09T09:43:00Z
-    webUrl: "https://www.israelnationalnews.com/news/327200"
-    type: article
-    provider:
-      name: Arutz Sheva
-      domain: israelnationalnews.com
-    quality: 12
 
 secured: "bIDUWdzXc+QM9GkzNnKwgRMPGHfzH2p/pSO0B88GFJccIFL2rKzm/2YMiMu3003MvAY8RxOjf6+vwstcy56hUTh6raQ41PLTO9RHRk5FczWpiiGfc03/Wbq80pgZUQiH1CT+MRqQna8feWqwkplKPlsT/TEaphAfStKxtIRckkRvzceBRP0e8WAaSuZKm9RH3t+CBqxdcIV+xTMXF8ZcC/i7qHXkCPbQdQEAG5regeao7LhLMWkujubNDA8MaMWK+a3pmgwkPzGWi5hxHTrX3Sib6HQqShE+XS6F6g1J/eiSouUg7TA5GTSzHSwNlv/GEfUbJkd0Ipcr7F6EhPVKzdtlwrX0YURKTXC7pMSXgAorTl3dlewylv1/9qi+7XN4FuOvbRkOku6UmN5Vt/KpHedX5ofLbgoknRj9Y0TXqJEXbXdGZlTbyszkLMcFZOhIW1lyL4zFDwBYIi+tIM9VsD0Z0Xeg0/l0fWHiHOne8OiPUUxvxKbwHn2CtU+9AGWHoZIHsmWHat1K70EcWSbSbA==;4Pr87AjHF+plbh53ti8V1g=="
 ---

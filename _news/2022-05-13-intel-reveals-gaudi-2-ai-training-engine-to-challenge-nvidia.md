@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 585
         isCached: true
+  - title: "Intel Pits New Gaudi2 AI Training Engine Against Nvidia GPUs"
+    excerpt: "Nvidia is not the only company that has created specialized compute units that are good at the matrix math and tensor processing that underpins AI"
+    publishedDateTime: 2022-05-10T19:38:00Z
+    webUrl: "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/"
+    ampWebUrl: "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 76
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/intel-habana-gaudi2-logo.jpg"
+        width: 709
+        height: 428
+        isCached: true
 
 secured: "xzwbm8ifpPVIIogrU3868Qjk30POYNzMvzuT4gLbKhPgpw8z9Kj+/RbpUFPUa0Q1Pb564eJPkfmtolTS+m+n26A1SBF38BRciJJxxqtbOVWMeylt+0zyOI6SOFZTlN4IU3jDBQ7Fu7mtI45vop1MaTtG+TGjPbto8YC6RP9yV00n8JV39y0+OfMkRgoCp1KsLpbkFwaga1r3ZztWun8yucAW+8MCPvTpFVH7/MNddBiIrqCeVL50SW+1wru1dIWfcbiDxtrh2VElDT4mjHCi/Ddj96jRcY48gGO63z6YGk/yPdTVZQPqrrYL46fxdGZ1wvrIlAuI2khKIgNpatAZLzDmkrFg01zThclXcDWNZhk=;RaVSDhtqG1j/fNJ3qnxQag=="
 ---

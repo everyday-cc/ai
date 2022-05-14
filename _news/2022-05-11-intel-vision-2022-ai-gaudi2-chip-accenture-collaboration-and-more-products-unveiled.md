@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/components-peripherals/intel-vision-2022-
 webUrl: "https://www.crn.com/news/components-peripherals/intel-vision-2022-ai-gaudi2-chip-accenture-collaboration-and-more-products-unveiled"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -25,52 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Intel launches deep learning processors"
-    excerpt: "During its Vision 2022 event, Intel Tuesday launched its second-generation Habana AI deep learning processors that deliver high performance and high efficiency. The new chips include the Habana Gaudi2 and Habana Greco and use 7-nanometer technology."
-    publishedDateTime: 2022-05-10T20:52:00Z
-    webUrl: "https://www.crn.com.au/news/intel-launches-deep-learning-processors-579816"
+  - title: "Intel teases Arctic Sound M GPU for data centre at its Vision 2022 Event"
+    excerpt: "Arctic Sound M GPUs can manage 30+ 1080p streams, 40+ gaming streams, 62 Virtualized Functions, and 150 AI TOPs."
+    publishedDateTime: 2022-05-12T07:10:00Z
+    webUrl: "https://technosports.co.in/2022/05/12/arctic-sound-m/"
+    ampWebUrl: "https://technosports.co.in/2022/05/12/arctic-sound-m/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/05/12/arctic-sound-m/?amp"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 58
+    images:
+      - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/05/Intel-Arctic-Sound-M-DG2.jpg"
+        width: 1600
+        height: 891
+        isCached: true
+  - title: "The three-way race for GPU dominance in the data centre"
+    excerpt: "Nvidia, AMD, and Intel are about to slug it out for a share of the growing graphics-processing-unit market that’s being fuelled by the needs of AI and ML."
+    publishedDateTime: 2022-05-10T02:29:00Z
+    webUrl: "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
     quality: 39
     images:
-      - url: "https://i.nextmedia.com.au/News/20220511075121_intel_sign.jpg"
-        width: 1254
-        height: 836
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nvidia_amd_intel.jpg"
+        width: 504
+        height: 315
         isCached: true
-  - title: "Intel's Habana Labs unveils Gaudi2 and Greco AI processors"
-    excerpt: "Intel's Habana Labs subsidiary has unveiled two new chips for artificial intelligence workloads. The subsidiary - which Intel acquired for $2 billion back in 2019 - debuted the Gaudi2, the second generation deep learning training processor;"
-    publishedDateTime: 2022-05-11T11:50:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/intels-habana-labs-unveils-gaudi2-and-greco-ai-processors/"
+  - title: "Intel teases Arctic Sound M GPU for data center: ACM-G10 GPU + 150W"
+    excerpt: "Intel Arctic Sound M PCIe Gen 4 graphics card based on the Intel Xe-HPG GPU is dropping in Q3 2022, I'll believe it when I see it."
+    publishedDateTime: 2022-05-11T02:41:00Z
+    webUrl: "https://www.tweaktown.com/news/86126/intel-teases-arctic-sound-gpu-for-data-center-acm-g10-150w/index.html"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/gaudi2-mezzanine-card-719x500.2e16d0ba.fill-1200x630.jpg"
-        width: 719
-        height: 378
-        isCached: true
-  - title: "Intel Vision 2022: Habana Gaudi2 AI training processor arrives to challenge the Nvidia A100"
-    excerpt: "For customers, Habana Labs says that Gaudi2 offers a “high-performance deep learning training processor alternative for computer vision workload” and is suitable for object detection in autonomous vehicles, medical imaging, and defect detection in ..."
-    publishedDateTime: 2022-05-11T18:27:00Z
-    webUrl: "https://www.itworldcanada.com/article/intel-vision-2022-habana-gaudi2-ai-training-processor-arrives-to-challenge-the-nvidia-a100/483711"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 9
-  - title: "Sequitur Labs Showcases Complete Chip-to-Cloud Software and SaaS Solution at the Embedded Vision Summit"
-    excerpt: "May 17 and 18. The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI -enabled products, including embedded systems and mobile applications. The Sequitur Labs Security ..."
-    publishedDateTime: 2022-05-10T12:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sequitur-labs-showcases-complete-chip-to-cloud-software-/2022/05/10/9599076.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "hoPBN7y6iqy7qM2+pMHPGfFjcpcSR3UfLGY8o6YHWH+f3s7u7Cq29aLRzxE9KbqCfylu1Zlo3Knbn81PaB+4ZLkHjlg1n/32ntP/3NUAIzk2/MmaprRbuEtX7jSVA1riPrn7E5prT9LkJ6DTZpWJbaV96YZDTjdAkPv9JPe5F5Ed7UaABGPP7RjBn6WaH+Ej4iLCB4FGFIUqUTYvUz6xxYfYx6jo4mXvXQdraezQK7ARxMwHSgBIME0merNvnB9WDt73FSlB37WmoSEOapg0xS3jFmn/D10dOJQo6TDY/i6Es2BZ2dyKf+Js8XhQp9TtPBd/LUYDwUjM5QvvSzEm6iFP4DDKJm50gqTl7Wq1z2DhwIt/4DqHsPL5le+dTCBPFFLxnxUXR6irDYoVzwDKx2tsB93R6xAhB4PYgi7lwxpb5uxezPQwlwQvqC8SYmZ1aqYGItp91kvKdoQOKqj+f0OWDpHI3Mycb68aZsXXtAJKlCcsJb+wVHPjnIOUbG9QTxFyjhSl1+XhAtYmrf+i4Q==;pyiVAG5mVNT7uSLGzJMmGQ=="
 ---

@@ -66,20 +66,6 @@ related:
         width: 1920
         height: 1479
         isCached: true
-  - title: "South Africa IT Market Report 2022 - Key Drivers Include AI, Cloud Computing, Big Data Analytics, 5G and IOT - ResearchAndMarkets.com"
-    excerpt: "The “IT Industry in South Africa 2022” report has been added to ResearchAndMarkets.com’s offering. The pandemic has given an enormous boost to digital transformation, and the IT industry. Supply chain issues,"
-    publishedDateTime: 2022-05-09T09:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-business-africa-b105d0901b2f4080b2cd061fe4a41ad1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Autonomous Tractors Markets, 2022-2026: Developments in AI, Machine Vision & Machine Learning Remain Critical to Commercialization & Growth"
     excerpt: "The \"Autonomous Tractors - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Autonomous Tractors Market to Reach"
     publishedDateTime: 2022-05-11T12:15:00Z

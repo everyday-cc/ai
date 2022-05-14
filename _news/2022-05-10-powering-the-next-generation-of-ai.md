@@ -36,7 +36,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://scitechdaily.com/images/Machine-Learning-Model-Proposes-New-Molecules-Drug-Discovery-Process-777x518.jpg"
         width: 777

@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-he
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Pits New Gaudi2 AI Training Engine Against Nvidia GPUs"
+    excerpt: "Nvidia is not the only company that has created specialized compute units that are good at the matrix math and tensor processing that underpins AI"
+    publishedDateTime: 2022-05-10T19:38:00Z
+    webUrl: "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/"
+    ampWebUrl: "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 76
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/intel-habana-gaudi2-logo.jpg"
+        width: 709
+        height: 428
+        isCached: true
   - title: "Intel reveals Gaudi 2 AI training engine to challenge NVIDIA"
     excerpt: "Intel Vision 2022 announced that Habana Labs has launched its second-generation deep learning processors for training and inference."
     publishedDateTime: 2022-05-13T09:30:00Z

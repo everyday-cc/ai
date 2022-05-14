@@ -22,15 +22,15 @@ topics:
 
 related:
   - title: "Google gets more multilingual as concern lingers on artificial intelligence and language nuance"
-    excerpt: "The internet giant says new artificial intelligence technology lets it vastly expand Google Translate's repertoire of the world's languages. Google added 24 such languages this week, including Quechua and other Indigenous South American languages such as ..."
-    publishedDateTime: 2022-05-11T21:51:00Z
-    webUrl: "https://www.wxyz.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
-    ampWebUrl: "https://www.wxyz.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
-    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
+    excerpt: "The internet giant says new artificial intelligence technology lets it vastly expand Google Translate’s repertoire of the world’s languages."
+    publishedDateTime: 2022-05-11T20:43:00Z
+    webUrl: "https://www.lex18.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance"
+    ampWebUrl: "https://www.lex18.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
+    cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/national/google-gets-more-multilingual-as-concern-lingers-on-artificial-intelligence-and-language-nuance?_amp=true"
     type: article
     provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
+      name: LEX18
+      domain: lex18.com
     quality: 45
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/1e4a1ee/2147483647/strip/true/crop/8640x4860+0+450/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F24%2F6a%2Fe5d88717442082d1111ddaeee98d%2Fap22131612382020.jpg"

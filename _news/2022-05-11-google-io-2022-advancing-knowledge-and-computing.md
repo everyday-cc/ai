@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "AI 50 2022: North America’s Top AI Companies Shaping The Future"
-    excerpt: "This year’s inductees reflect the booming VC interest as well as the growing variability in AI-focused startups making unique uses of existing technologies, others developing their own and many simply enabling other companies to add AI to their business model."
-    publishedDateTime: 2022-05-09T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62758aa52a077e0e6a66609a/0x0.jpg?format=jpg&crop=1920,1079,x0,y0,safe&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Google Made Some Pretty Big Errors In Its I/O 2022 Translate Slides"
     excerpt: "The main keynote of Google I/O 2022 went off without a hitch for the most part, but there were some fairly significant translation errors ... themselves centered on new AI learning techniques helping to bring 24 new languages to the service."
     publishedDateTime: 2022-05-12T23:20:00Z

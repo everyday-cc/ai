@@ -9,8 +9,8 @@ ampWebUrl: "https://technosports.co.in/2022/05/12/arctic-sound-m/?amp"
 cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/05/12/arctic-sound-m/?amp"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: TechnoSports
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "The three-way race for GPU dominance in the data center"
-    excerpt: "Nvidia, AMD, and Intel are about to slug it out for a share of the growing graphics-processing-unit market that’s being fueled by the needs of artificial intelligence and machine learning."
-    publishedDateTime: 2022-05-09T10:00:00Z
-    webUrl: "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.html"
-    ampWebUrl: "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.amp.html"
+  - title: "Intel Vision 2022: AI Gaudi2 Chip, Accenture Collaboration And More Products Unveiled"
+    excerpt: "PM EDT Intel Corp. on Tuesday announced a slew of products in its silicon, software and services portfolio during its first Vision event in Dallas, Texas. The company launched its AI Gaudi2 chip, 4th generation Xeon Scalable processors,"
+    publishedDateTime: 2022-05-10T23:11:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-vision-2022-ai-gaudi2-chip-accenture-collaboration-and-more-products-unveiled"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
+      name: CRN
+      domain: crn.com
+    quality: 47
     images:
-      - url: "https://images.idgesg.net/images/article/2022/03/nvidia-hopper-gpu-100922543-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
+      - url: "https://www.crn.com/resources/0275-151d4128ee94-8c7cb94d45ba-1000/intel_vision_keynote-_resized.jpg"
+        width: 599
+        height: 523
         isCached: true
   - title: "The three-way race for GPU dominance in the data centre"
     excerpt: "Nvidia, AMD, and Intel are about to slug it out for a share of the growing graphics-processing-unit market that’s being fuelled by the needs of AI and ML."
@@ -57,6 +55,15 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Intel teases Arctic Sound M GPU for data center: ACM-G10 GPU + 150W"
+    excerpt: "Intel Arctic Sound M PCIe Gen 4 graphics card based on the Intel Xe-HPG GPU is dropping in Q3 2022, I'll believe it when I see it."
+    publishedDateTime: 2022-05-11T02:41:00Z
+    webUrl: "https://www.tweaktown.com/news/86126/intel-teases-arctic-sound-gpu-for-data-center-acm-g10-150w/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "S6D+Ye7I83XWXWRrTmCE3SZpja6XfXprdvpObR0QevZn3oX855gJx1Btcr49UU9p1dUb4Y0BFWZwVcaMip4soKoy8A6tkAMno4t3nEoZBx6p/djBC3E1cthcdN3PpcX1AEAjJ/Sih0Za6jC77H/WE7qPXp/N10SvpRVtBPevXLK9wMWVXFnsDewmU9DiVaTGZodIxNHxPfa+mXqJqU526IlNFp2ExVsIeFz4H2enh/+pIZoPCB+dkrFrT6Hg9kcRC31tuTpxWps/LrOdtc4LYCGaUQPH/b4jsXYvOrSgZHnmRlz3iDa0VZW7lZ7lzhWS/4sLXIcf603jhjnY+Ab8wLBpVwulKNI6ylMqpXZ7rFU=;wkztSdiISPM4bsu5M/0QjQ=="
 ---

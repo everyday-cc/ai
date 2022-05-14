@@ -631,6 +631,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-12-intel-teases-arctic-sound-m-gpu-for-data-centre-at-its-vision-2022-event.md",
+      "title": "Intel teases Arctic Sound M GPU for data centre at its Vision 2022 Event",
+      "excerpt": "Arctic Sound M GPUs can manage 30+ 1080p streams, 40+ gaming streams, 62 Virtualized Functions, and 150 AI TOPs.",
+      "sourceUrl": null,
+      "webUrl": "https://technosports.co.in/2022/05/12/arctic-sound-m/",
+      "originalUrl": "https://technosports.co.in/2022/05/12/arctic-sound-m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technosports.co.in/wp-content/uploads/2022/05/Intel-Arctic-Sound-M-DG2.jpg",
+          "width": 1600,
+          "height": 891,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technosports.co.in/2022/05/12/arctic-sound-m/?amp",
+      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/05/12/arctic-sound-m/?amp",
+      "publishedDateTime": "2022-05-12T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechnoSports",
+        "domain": "technosports.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-a-sensor-sniffs-for-cancer-using-artificial-intelligence.md",
       "title": "A Sensor Sniffs for Cancer, Using Artificial Intelligence",
       "excerpt": "Researchers at Memorial Sloan Kettering Cancer Center (MSK) have developed a sensor that can be trained to sniff for cancer, with the help of artificial intelligence. Although the training doesn’t work the same way one trains a police dog to sniff for ...",
@@ -1114,7 +1157,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-revolution-has-started-with-arthritis-207050-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1146,58 +1189,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-improving-skin-tone-representation-across-google.md",
-      "title": "Improving skin tone representation across Google",
-      "excerpt": "Seeing yourself reflected in the world around you — in real life, media or online — is so important. And we know that challenges with image-based technologies and representation on the web have historically left people of color feeling overlooked and misrepresented. Last year, we announced Real Tone",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/monk-skin-tone-scale/",
-      "originalUrl": "https://blog.google/products/search/monk-skin-tone-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skin_Tone_v2_2096x8752x.max-1300x1300.png",
-          "width": 1300,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/monk-skin-tone-scale/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/monk-skin-tone-scale/amp/",
-      "publishedDateTime": "2022-05-11T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

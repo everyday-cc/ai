@@ -53,20 +53,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "South Africa IT Market Report 2022 - Key Drivers Include AI, Cloud Computing, Big Data Analytics, 5G and IOT - ResearchAndMarkets.com"
-    excerpt: "The “IT Industry in South Africa 2022” report has been added to ResearchAndMarkets.com’s offering. The pandemic has given an enormous boost to digital transformation, and the IT industry. Supply chain issues,"
-    publishedDateTime: 2022-05-09T09:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-business-africa-b105d0901b2f4080b2cd061fe4a41ad1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global AI in Bio Pharmaceuticals Market Analysis Report 2022: Technology Landscape, Competitive Landscape, Business Overview, Key Take-aways"
     excerpt: "The \"AI in Bio Pharmaceuticals\" report has been added to ResearchAndMarkets.com's offering. This report forecasts a considerable trend for \"AI democratization\" where various machine learning/deep learning technologies become available in pre-trained,"
     publishedDateTime: 2022-05-13T13:45:00Z

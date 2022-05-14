@@ -24,30 +24,57 @@ images:
     isCached: true
 
 related:
-  - title: "Strengthening Company Culture With Artificial Intelligence"
-    excerpt: "To achieve ultimate value from technology, it’s important to consider how it could benefit various parts of the business: organizational efficiency, team collaboration, productivity, R&D opportunities and team empowerment."
-    publishedDateTime: 2022-05-09T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/"
+  - title: "Artificial Intelligence Revolution Has Started With Arthritis"
+    excerpt: "Scientists and physicians have now succeeded in teaching artificial neural networks to differentiate between rheumatoid arthritis, psoriatic arthritis, and healthy joints. This new finding is described in the journal Frontiers in Medicine. There are many ..."
+    publishedDateTime: 2022-05-11T17:44:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-revolution-has-started-with-arthritis-207050-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-revolution-has-started-with-arthritis-207050-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-revolution-has-started-with-arthritis-207050-1.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Medindia
+      domain: medindia.net
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6272e3b2ed8a29c5f841d642/0x0.jpg?format=jpg&width=1200"
+      - url: "https://images.medindia.net/amp-images/health-images/stem-cell-osteoarthritis-knee.jpg"
         width: 1200
-        height: 522
+        height: 1000
         isCached: true
-  - title: "Improving PPA With AI"
-    excerpt: "AI does not start learning from ground zero. In most cases, the AI agent (processor) will be pre-trained or fed a large amount of data, such as 15,000 samples of floor planning. At this point, the AI machines have already gained some intelligence."
-    publishedDateTime: 2022-05-12T07:08:00Z
-    webUrl: "https://semiengineering.com/improving-ppa-with-ai/"
+  - title: "Accelerating Startup Innovation with Simulation, HPC, and AI"
+    excerpt: "But these complexities don’t have to keep you up at night. Smarter, simpler, and scalable simulation, HPC, and AI solutions can unlock your potential and transform your startup."
+    publishedDateTime: 2022-05-11T13:20:00Z
+    webUrl: "https://techcrunch.com/sponsor/altair-sponsor/accelerating-startup-innovation-with-simulation-hpc-and-ai/"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "AI Could Be Used To Detect Arthritis Earlier"
+    excerpt: "In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen, computer scientists and physicians have now succeeded in teaching an artificial neural network to ..."
+    publishedDateTime: 2022-05-11T09:28:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/ai-could-be-used-to-detect-arthritis-earlier-361480"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 19
+  - title: "Early detection of arthritis using artificial intelligence"
+    excerpt: "There are many different types of arthritis, and diagnosing the exact type of inflammatory disease that is affecting a patient’s joints is not always easy. In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen,"
+    publishedDateTime: 2022-05-10T19:30:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/952230"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
+  - title: "Early detection of arthritis using artificial intelligence"
+    excerpt: "In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen, computer scientists and physicians have now succeeded in teaching an artificial neural network to differentiate between rheumatoid arthritis,"
+    publishedDateTime: 2022-05-10T13:47:00Z
+    webUrl: "https://idw-online.de/de/news793432"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
     quality: 17
 
 secured: "K1OcQIZwVX5xFh52ngYTN1tY2E6JFqeTy4/bLGMvhsA+waLdfOZAmIjAiCa+B2D8KirZu4l1DgyzUFok7rjdB/oslCQ5GEsWOB1kEdvyRHB4SCVXJOxNL9JG/mC17ELVARGXH4xf3iEs5winsIvTQciey1Rgz+ESCYmmydCyqsDzX6ZYzf8al33nrFBx/MrVYyWI77/YhyyhjZP5Yt7RwLAacMcECdk37mTpzBP6I0oE1cgFwnCbr+B8sUv57d8lFVGnpZmrCtmLq6xONs+ihF8XAY2sfejIbWIUea7BE2UiW+Fxzyo2dcEDRLcXmIfugBlgj5ooJ4bFtO+WhYbkh3TC761DZgmenZEyFJMtYps=;8biG21sSISVrVnzIO5SzTQ=="

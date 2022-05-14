@@ -46,22 +46,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Enterprise hits and misses - real world AI uses cases get a review, retailers get a customer loyalty test, and NFTs sneak into our metaverse"
-    excerpt: "This week - real world AI use cases get a closer look, while retailers grapple with consumer (dis)loyalty. Blockchain for identity verification and gets a surprising nod, and Atlassian reviews its outage (and gets reviewed)."
-    publishedDateTime: 2022-05-09T09:25:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-real-world-ai-uses-cases-get-review-retailers-get-customer-loyalty-test"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-real-world-ai-uses-cases-get-review-retailers-get-customer-loyalty-test?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-real-world-ai-uses-cases-get-review-retailers-get-customer-loyalty-test?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 22
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
-        width: 424
-        height: 283
-        isCached: true
 
 secured: "l87NEw5YxFqfRO/dVZxo8G0/RrUdyALmh1V4kDHTOYiXcEhrm18UfIHzCpfT+B6bBbkl0UyvogBib5ip+dIlMTjMCEbSKaSpaHqy2n5G0DAcdc7z12Rdp3s400BXCjjRBR8gMuEL+kD0L9c+kVXY/rkqeciJv3UNaFxSDB6enJQdI8qYfthupN+Q2IvaQikD1PAMGQpo+fDZTPkF8Kb6xIsIPtZ/60qlPdQMD9uhsSBLH7Dp6KPIYOUixOGoztDS0Z5Q2Av89RLtjaEhh+IW2hDyAauBMGWzmgN0wRrAHS1LLpxAjWGuSwHlNdekkIzGDrzv7E3+sR1bOjMkVDVSGw1tcXX3isbgoqyv36h9YxSW4+/JDtvKqpDJLKtgNVAKeCvuDx5YRkK6TTGQrbaYVQLtNftzAbx2sgmUSmMWerDkNTsSUxWwe0v2alQiDS9jI4N+scIqX+0BuFDEXzEnmBukWj8DOS2yPDu49a83SBaj/yxk1V7MLjYksJLKh36G1rcRzN9sfUyiwL1WsVlVDg==;UwrMLwcIQj7rgOL8SE0B7w=="
 ---

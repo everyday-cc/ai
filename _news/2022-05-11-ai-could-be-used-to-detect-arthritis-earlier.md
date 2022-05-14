@@ -44,6 +44,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
+    excerpt: "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The"
+    publishedDateTime: 2022-05-12T02:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://lh3.googleusercontent.com/__Jn4g-5HH4_ZMyjmWpuer2Zb_RLKiPRLMDswfTePpLBtBbnq31QHR6DQvAS9_82whxKfpi7RUOoCnEkEbn1mdgwAnexrzC9RskHWubQ_Cdu-kSf9_UDd6l7OdAAKKiZVqK6ANqCwWP4RyI2oA"
+        width: 1012
+        height: 445
+        isCached: true
   - title: "Early detection of arthritis using artificial intelligence"
     excerpt: "There are many different types of arthritis, and diagnosing the exact type of inflammatory disease that is affecting a patient’s joints is not always easy. In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen,"
     publishedDateTime: 2022-05-10T19:30:00Z

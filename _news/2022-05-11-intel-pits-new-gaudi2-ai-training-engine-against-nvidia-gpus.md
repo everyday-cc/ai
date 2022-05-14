@@ -28,21 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Tested: Arc A370M, Intel’s first discrete GPU to seriously battle Nvidia and AMD"
-    excerpt: "We visited Intel to test Arc A370M, its debut discrete graphics for mainstream laptops. It holds its own against the RTX 3050 and pulls far ahead in tasks that lean on Intel's \"Deep Link\" special sauce."
-    publishedDateTime: 2022-05-09T10:45:00Z
-    webUrl: "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html"
-    ampWebUrl: "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html/amp"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html/amp"
+  - title: "Nvidia Unveils New Chip to Help AI Understand Users"
+    excerpt: "Nvidia is unveiling the H100 \"Hopper,\" a new technology that has the ability to speed up Artificial Intelligence applications. It will be an"
+    publishedDateTime: 2022-05-09T12:51:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 84
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 76
     images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2022/05/intel-arc-graphics.jpg?quality=50&strip=all&w=1024"
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Nvidia-Unveils-New-Chip-to-Help-AI-Understand-Users-1024x585.png"
         width: 1024
-        height: 576
+        height: 585
+        isCached: true
+  - title: "Intel reveals Gaudi 2 AI training engine to challenge NVIDIA"
+    excerpt: "Intel Vision 2022 announced that Habana Labs has launched its second-generation deep learning processors for training and inference."
+    publishedDateTime: 2022-05-13T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/intel-reveals-gaudi-2-ai-training-engine-to-challenge-nvidia/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Intel-brings-out-Gaudi2-AI-training-engine-to-challenge-NVIDIA.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "/WjJZ4XuX4oqLcdFwk6B0xMKgoI641q+Z+OAsza3VO6LxnLGzT+hi+giQQpBiKWMUEmWjgnoMLmZS6A1CYf6ufGeaoAWvDyeBBbeN7Qnv4uJahVJvM6+C1ZAc6x2LvxGVwOKQ8gfjgLgIpCvvptI34xvasapENLFjgxTJ8gTVFjFEm3WGCcfBN7+gIiQ569pxRTooT8yWRfGtY1xmXYVRtiUoWO6NB/HiaP3hNblnVeZzFezCJHTr4oJdJYiI9PxO2z+anOpkIhPZ7KwhdrLwnVJbVgaCmla64Lmyft2J/14mjwbu5LPGlZB3TppAx8lB6wqx8fJFAhnIGEr4xWznSbzwJ2AnF5l40RW8Ijmdt+GFKuGjjIcbyKNYGUow4cgwiYpAuLr5RCwkfS+XpLcCahe354K9jHhQ9IyMjeoXN01dsyMhaqrgrZJ6ooo/BOfpRXKvUKFgNVb+OajrA3WlQvooijGNwwFSw9ZFvF1Wa+SIP1pSgQcjviNqjC69jtZiBF1X0CviTgcStlJKF7PrQ==;rqTsF9Jymg/HbUWzgJWUuA=="

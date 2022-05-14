@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
 ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"

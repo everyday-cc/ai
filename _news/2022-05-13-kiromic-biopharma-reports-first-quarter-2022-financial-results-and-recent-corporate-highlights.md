@@ -37,20 +37,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 17
-  - title: "BioXcel Therapeutics Reports First Quarter 2022 Financial Results and Recent Operational Highlights"
-    excerpt: "Received FDA approval of IGALMI™ (dexmedetomidine) sublingual film for acute treatment of agitation associated with schizophrenia or bipolar I or II disorder in adults Top-line data readout in Q4 2022/early Q1 2023 for TRANQUILITY II Phase 3 trial evaluating BXCL501 in acute treatment of agitation associated with Alzheimer’s disease Extended cash runway into 2025 with $260 million strategic financing for IGALMI commercial launch and clinical and regulatory milestones U."
-    publishedDateTime: 2022-05-09T11:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/covid-technology-health-business-mental-3717bf59c739265c231f90dcf287f725"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "TWgebl2dX7eUEegFSckirVzUGFWJtW5Xpo1RJkpXUC7o4YgBJsLqUoTeItT4tkwX735evbm74EZaYV9Fijzxp8FAuNKvEieWYqWEnymZjEA/PQSTLabT7PgAQRouMS5baOvZkeS4HmSrUeX40fpNCdAb2AtumFfPYaXlFzPSbESr2FRrQt/1VQUGKFUdc4sUEReYMZFe465C5ObqbIHqVVB7c76oX8JmvQdUw+9VdudOv4H5SesOpVw7x+UfKDbJFzvgWOIEA2sHaiabyj1wVcruRjNtP0OQBgHLkq6veVmLOcjDNnjWw00RYqQoqdRmsnnuZWPDCxt3vPVwcp4A5dbjdi5td7MpNmTj2TGVv7s=;P5y9dwGUPrOZHDdMXsjM8g=="
 ---
