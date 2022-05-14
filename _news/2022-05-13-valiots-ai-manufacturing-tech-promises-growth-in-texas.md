@@ -34,20 +34,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Inside a Texas greenhouse run by robots and AI"
-    excerpt: "And what they’re doing is they’re trying to use robotics and artificial intelligence to improve agriculture. So this is actually their second greenhouse. They also have one in California. And the one in Lockhart is really big – over 500,000 square ..."
-    publishedDateTime: 2022-05-09T16:04:00Z
-    webUrl: "https://www.texasstandard.org/stories/inside-a-texas-greenhouse-run-by-robots-and-ai/"
-    type: article
-    provider:
-      name: Texas Standard
-      domain: texasstandard.org
-    quality: 54
-    images:
-      - url: "https://www.texasstandard.org/wp-content/uploads/2022/05/52061693078_c33be0f210_b.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "Eq3V/YDrBiLMdIQk2SauO/8pmMa4kGLxhNKJ22jxm1xsz5gTBXMtRIKz+ZQvdH53eCg2XtxzlT6vbqVgOSJuFcTgqz8CSJH65xNkrlByYiLSb32c1c+vQQuZJshPHuJ4Wje2NaH8xeR3z6Hn2O2FYT3Gm8TzmxwACIipCX8EJ+uYEbN5BXEJLSnkiotk1YDnXNyxoSpvqGnsxpaXIMA+/NSIlgCOPCLx1vDNfSlarnlgKEJsiRZ2Fzo7UVFK25EzLvIkGEpsbNSRhKHhRDbrfTY3qOo0PWUFtGssT5YmnqIX69DHChScEMEHtjKKWqsRisj9arslLHNN6U6le/hjTMNczzBGnPOImrRM3m+hlOHDTqJuBlyzQDnT3Wph2zGWeGa7Da5bBGQ1g45R0tBaCi8tAh+9ZwWy8jB2m/DDyhAlZsYZKi3uHQ2oIjdqejv3dmm9pFn1IIH5mnBEMFJugBVS+jers1wBQOiWQERtT56h7I6e9BYcUgKnWXGLkIIGB7EXYzoST8paLDt9O4M3ag==;BFx+77Lgdxsj+pT47IPsVQ=="
 ---

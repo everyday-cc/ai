@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-03-galileo-emerges-from-stealth-to-streamline-ai-model-development.md",
+      "title": "Galileo emerges from stealth to streamline AI model development",
+      "excerpt": "As the use of AI becomes more common throughout the enterprise, the demand for products that make it easier to inspect, discover and fix critical AI errors is increasing. After all, AI is costly ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/",
+      "originalUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/05/open-source-data-science.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/amp/",
+      "publishedDateTime": "2022-05-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-ai-will-not-replace-assistants.md",
       "title": "AI Will Not Replace Assistants",
       "excerpt": "I am not an Artificial Intelligence expert. I am not even a software engineer, for that matter. But I do know one thing: Assistants are going be to among the last jobs in the office to be replaced by technology. This is much more than a hot take.",
@@ -588,8 +639,8 @@
       "title": "RPT-FOCUS-Startups apply artificial intelligence to supply chain disruptions",
       "excerpt": "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tech-supplychain-idUKL2N2WV0DC",
-      "originalUrl": "https://www.reuters.com/article/tech-supplychain-idUKL2N2WV0DC",
+      "webUrl": "https://www.reuters.com/article/tech-supplychain/rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2WV0DC",
+      "originalUrl": "https://www.reuters.com/article/tech-supplychain/rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2WV0DC",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1102,58 +1153,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-traceable-ai-nabs-60m-to-secure-app-apis-using-machine-learning.md",
-      "title": "Traceable AI nabs $60M to secure app APIs using machine learning",
-      "excerpt": "Businesses need machine learning here. To have zero trust you need API clarity. You can no longer easily buy or hire security people, so you need to solve these vulnerabilities via technology.”",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/02/2307940/",
-      "originalUrl": "https://techcrunch.com/2022/05/02/2307940/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/traceable_all_threats_of_threat_actor.png",
-          "width": 3838,
-          "height": 2026,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/02/2307940/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/02/2307940/amp/",
-      "publishedDateTime": "2022-05-02T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

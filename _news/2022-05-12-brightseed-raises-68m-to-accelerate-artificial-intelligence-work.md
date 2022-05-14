@@ -7,7 +7,7 @@ originalUrl: "https://www.fooddive.com/news/brightseed-raises-68m-to-accelerate-
 webUrl: "https://www.fooddive.com/news/brightseed-raises-68m-to-accelerate-artificial-intelligence-work/623355/"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 770
     height: 364
     isCached: true
-
-related:
-  - title: "Brightseed’s first AI-detected ‘phytonutrient’ comes to market alongside a $68M A round"
-    excerpt: "Who knows what secrets await in the hearts of plants? Brightseed has found a couple of them, anyway, using an AI-based analysis method, and will be bringing its first products to market soon with the help of a $68 million B round."
-    publishedDateTime: 2022-05-09T16:02:00Z
-    webUrl: "https://techcrunch.com/2022/05/09/brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round/"
-    ampWebUrl: "https://techcrunch.com/2022/05/09/brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/09/brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/04272022-Brightseed-03.jpg?w=1024"
-        width: 1024
-        height: 686
-        isCached: true
 
 secured: "noHe0z0neeCm0XNfnAlbgvQsQUD1W8hx9G1AEhGCcIHWTwQG4IYjFw+Nq33b/0X04kSNT3JlkYN/4GX8W3nnCk5NLPp2+0ZLNdSV5VgAmMET44gTDBrYS/PBi+r61RYagHLGDInyzT7nmeUJDumBZ8Av1k16u4mIWxxlVButRtW2m0SXwNHQn96AgEANLvxnGUW9EXEcoCpMy9RSdBvd2Ks9doZjB1txepcXr1gE2UOklB+y5ndpXJJ488WsxzPvRNnLfA86IIITGnP8gjf5vD0OYQxYTtZaydVNDX0N5wkUWyXLKe9Nf3mLfLGCiLV4shFt701+fBX3kkXnMCuWUq6cyQ8oiX0dj8fjqXSoJq7CsOrCeTue90hMocUrED+/GoIK1MMJHoiEzPQaraQRlsYX3OmjZbG+CiWm/r9BJiiW84WMVsJowfpAeawglQU3sMskcLNz+BN25P3yXXUy4t0OZf+5Zct5fJyO4SCFBC2B3EKfyS2yaBZZIJhSOqaeBt0cXyakax9kciGZmnDIxQ==;AGxweYNzIoDsKrCTv2Gy0w=="
 ---

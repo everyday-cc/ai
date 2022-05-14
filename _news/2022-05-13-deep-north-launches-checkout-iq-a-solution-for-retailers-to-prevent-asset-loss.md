@@ -20,14 +20,14 @@ topics:
 
 related:
   - title: "Deep North Launches Checkout IQ, a Solution for Retailers to Prevent Asset Loss"
-    excerpt: "Computer Vision and AI-based Offering 'Checkout IQ' Helps Reduce Shrinkage at Checkout & Self-CheckoutFOSTER CITY, Calif., May 12, 2022"
-    publishedDateTime: 2022-05-12T13:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss-1031453943"
+    excerpt: "Its end-to-end software solution combines computer vision with deep learning technologies to help retailers and businesses deliver metrics such as footfall, conversion, consumer demographics ..."
+    publishedDateTime: 2022-05-12T14:25:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 15
 
 secured: "PVJrghmK1Ojk3ayPIL2yTZNdc05B2ZO7O1+TOh2/YqEw6/F3HJYJOKc9b9ittvBA8ySuFV5W52PsyReC+OVzkMBNKbFc368igy1kd6kONCfSWxxB8RU6guDXryi7EapHT53/BsQFfB85Thr0YFbFS5cJ8KkKgPU+PkhnRjuKeSrZSTNnrsP2mnAR/vkptrory+cQYIervQ8QO6BSDA6WFEpiFtZQnYh5WJIQMZvFvISfMQdIIdmGik0oc/4bcIBy9Qygggnc8ARc709L73+M6HTqHvzl7QAPtbYX+hY1L1Rlga3+JQQIaIjmVrv/HJqHHgYfMpVeTS1MtM3wckp638AvbxFLZ1sJum2SZ6PXTbU=;s342+ab6MiBqKAUpiJ6jFw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kgw.com/amp/article/news/local/technology/intel-ai-compu
 cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: KGW8
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Inside a Texas greenhouse run by robots and AI"
-    excerpt: "And what they’re doing is they’re trying to use robotics and artificial intelligence to improve agriculture. So this is actually their second greenhouse. They also have one in California. And the one in Lockhart is really big – over 500,000 square ..."
-    publishedDateTime: 2022-05-09T16:04:00Z
-    webUrl: "https://www.texasstandard.org/stories/inside-a-texas-greenhouse-run-by-robots-and-ai/"
-    type: article
-    provider:
-      name: Texas Standard
-      domain: texasstandard.org
-    quality: 54
-    images:
-      - url: "https://www.texasstandard.org/wp-content/uploads/2022/05/52061693078_c33be0f210_b.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Valiot’s AI Manufacturing Tech Promises Growth in Texas"
     excerpt: "A Hub of American Manufacturing Valiot & Texas Officials Valiot Meets with Texas Government Leaders AUSTIN, Texas - May 12, 2022 - (Newswire.com)"
     publishedDateTime: 2022-05-12T18:00:00Z

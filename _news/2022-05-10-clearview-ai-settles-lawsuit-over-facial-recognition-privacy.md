@@ -321,20 +321,6 @@ related:
     quality: 60
   - title: "Clearview AI to stop selling facial recognition tool to private firms"
     excerpt: "The facial recognition company Clearview AI will be banned from working with private companies ... including a $650 million settlement from Facebook related to its facial recognition use. The U.S. has no federal facial recognition law, even though the ..."
-    publishedDateTime: 2022-05-09T16:30:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/05/09/clearview-illinois-court-settlement/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 58
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOCQUNDAGUI6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 857
-        isCached: true
-  - title: "Clearview AI to stop selling facial recognition tool to private firms"
-    excerpt: "The facial recognition company Clearview AI will be banned from working with private companies ... including a $650 million settlement from Facebook related to its facial recognition use. The U.S. has no federal facial recognition law, even though the ..."
     publishedDateTime: 2022-05-09T22:20:00Z
     webUrl: "https://www.phillytrib.com/clearview-ai-to-stop-selling-facial-recognition-tool-to-private-firms/article_382b0268-a81f-587f-a52b-c4a15bcb7453.html"
     type: article

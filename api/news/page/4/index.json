@@ -1180,21 +1180,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-10-explaining-the-art-behind-the-forbes-ai-50-design.md",
-      "title": "Explaining The Art Behind The Forbes AI 50 Design",
-      "excerpt": "When tasked with creating the art for the fourth annual Forbes AI 50 list, it immediately struck me that we should use Artificial Intelligence to generate our deliverable. AI is making considerable strides not only in commercial applications, but in visual ...",
+      "path": "_news/2022-05-10-apples-machine-learning-chief-quits-over-return-to-office-policy.md",
+      "title": "Apple's machine learning chief quits over return-to-office policy",
+      "excerpt": "He left a note to colleagues saying, \"I believe strongly that more flexibility would have been the best policy for my team\"",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesdigitalcovers/2022/05/09/explaining-the-art-behind-the-forbes-ai-50-design/",
-      "originalUrl": "https://www.forbes.com/sites/forbesdigitalcovers/2022/05/09/explaining-the-art-behind-the-forbes-ai-50-design/",
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/981839/apple-s-machine-learning-chief-quits-over-return-to-office-policy-981839.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/981839/apple-s-machine-learning-chief-quits-over-return-to-office-policy-981839.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6275a785c7e155aec83ddefc/0x0.jpg?format=jpg&width=1200",
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC8yMDIyLTA1LTEwLTEwLTEzLTM2LTg1MTg2NjllMTdjN2U2ODRlNzU5YzA3YTcwOTE1MWFlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
           "width": 1200,
-          "height": 1201,
+          "height": 740,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1202,23 +1202,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T01:15:00-07:00",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/981839",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/981839",
+      "publishedDateTime": "2022-05-10T03:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1227,6 +1218,7 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

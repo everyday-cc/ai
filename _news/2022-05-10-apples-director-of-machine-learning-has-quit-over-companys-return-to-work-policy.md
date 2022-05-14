@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple director of machine learning quits because of the company's return-to-work policy, report says"
-    excerpt: "\"I believe strongly that more flexibility would have been the best policy for my team,\" Ian Goodfellow told staff, according to reporter Zoe Schiffer."
-    publishedDateTime: 2022-05-09T15:21:00Z
-    webUrl: "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5"
-    ampWebUrl: "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://i.insider.com/6279226b94a2c10018ee8ec7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Apple's machine learning chief quits over return-to-office policy"
     excerpt: "He left a note to colleagues saying, \"I believe strongly that more flexibility would have been the best policy for my team\""
     publishedDateTime: 2022-05-10T10:13:00Z
@@ -73,6 +57,15 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Top Apple AI Guy Quits Over Back-to-Office Mandate"
+    excerpt: "The switch from full-time Work From Home to three days back in the hive was too much for one artificial intelligence exec"
+    publishedDateTime: 2022-05-09T18:21:00Z
+    webUrl: "https://www.lamag.com/culturefiles/top-apple-ai-guy-quits-over-back-to-office-mandate/"
+    type: article
+    provider:
+      name: Los Angeles Magazine
+      domain: lamag.com
+    quality: 17
 
 secured: "CHdxrvR3YB1VNINp9mCI3CicDdL7je0rIFol9ju4C4Pcdpkztn4O1V6+mJWRStBNx2avxMyKVspCojyvzGFYheJS6hFnC1nrX1K59pp4w8KpDynnclG4ZQl7XLN6FXmhO7dDmbKzXzaAALea/AzYqnZJNKjoAoBaUOd8xx18uppv22SUirQ2/jSPGeupmquG4wfSjkCNtjDWgEv3lqaa5wCpmkNCisYEC9nSeOZ79GfJBTLJlN9fUmwF9R4+QWM+AFeAu8EJlkV99nkJxHYAG7fp8gqETLXGruQ8XYvvdOzgXEaR3bM+/SORgJUhsSH5aNUO8NNXA7b/+fpoIa4REaMp8i39TKAgnR3/uUdX3Ko=;6gsbTyTkcV6Nyanfw1G0Qg=="
 ---

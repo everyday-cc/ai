@@ -59,6 +59,34 @@ related:
         width: 1372
         height: 468
         isCached: true
+  - title: "IBM Signs Strategic Collaboration Agreement with Amazon Web Services to Deliver IBM Software as-a-Service on AWS"
+    excerpt: "Building on IBM Software being available as-a-Service on IBM Cloud, this first-of-its-kind agreement between IBM and AWS will provide clients"
+    publishedDateTime: 2022-05-11T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-signs-strategic-collaboration-agreement-with-amazon-web-services-to-deliver-ibm-software-as-a-service-on-aws-1031447470"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
+  - title: "HERE collaborates with AWS on supply chain solutions"
+    excerpt: "HERE Technologies has announced it has entered a five-year strategic collaboration agreement with Amazon Web Services (AWS) to help organizations improve their supply chain visibility, transportation and logistics (T&L),"
+    publishedDateTime: 2022-05-11T13:39:00Z
+    webUrl: "https://www.just-auto.com/uncategorised/here-collaborates-with-aws-on-supply-chain-solutions/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 54
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/05/here_aws_scs_1-1038x535.jpg"
+        width: 1038
+        height: 535
+        isCached: true
   - title: "IBM to offer software through AWS"
     excerpt: "The US technology firm this week announced that it has signed a strategic collaboration agreement with AWS and plans to offer “a broad array” of its software catalog as Software-as-a-Service (SaaS) through the cloud company’s marketplace."
     publishedDateTime: 2022-05-12T14:18:00Z
@@ -72,6 +100,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Inside_IBM_Cloud_Dallas.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 631
+        isCached: true
+  - title: "IBM, Amazon Expand Partnership With Services On AWS"
+    excerpt: "PM EDT IBM and Amazon Web Services have signed a multi-year strategic collaboration agreement to offer IBM automation, artificial intelligence, security, sustainability and other software-as-a-service offerings through the AWS Marketplace."
+    publishedDateTime: 2022-05-11T20:43:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-amazon-expand-partnership-with-services-on-aws"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0275-151f0f04ded9-adab79fb6909-1000/abstract_partnership400.jpg"
+        width: 599
+        height: 400
         isCached: true
   - title: "IBM expands AWS parnership with new services"
     excerpt: "IBM and Amazon Web Services have signed a multi-year strategic collaboration agreement to offer IBM automation, artificial intelligence, security, sustainability and other software-as-a-service offerings through the AWS Marketplace."

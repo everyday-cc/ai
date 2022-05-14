@@ -1,29 +1,29 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:12:00Z
-originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+publishedDateTime: 2022-05-13T02:04:00Z
+originalUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: New Hampshire Public Radio
-  domain: nhpr.org
+  name: WUWM
+  domain: wuwm.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/7975a33/2147483647/strip/true/crop/880x495+0+104/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2F59%2Fcaff455b404c8d90e640967f5185%2Fhealthcareworkersthanks-eq.jfif"
-    width: 430
-    height: 242
+  - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+    width: 880
+    height: 542
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
         height: 400
         isCached: true
 
-secured: "hH9124LEDeKl3568iz0Vz7Q/lsOTm2hEIKHRukm4M+YrHTka4SPBVa8PjiCk8EbleqdCYEn2tTBTs76dZ6gpeM2Qy5WP/hl2nsJ/eXBWQmFUFy98fJPIuyMPDo4DYUX8MSQ9xJlM4XCIyq451T54Ah11FvqcZfKzt1ZRBpcUPCpXA8sqKpGb3OkguvKA9MfIehOXRY6THuigPyMTIKOtWRSaTQLXvKy/QW7iOD3EdDbOX5r+fMuPUhWO97b4Dbt5cvQUv3J08g6M31XbJt2rKzppgrPTRenb6EvEEfx5lKlyp+sCDVON+wXNihwwuYcbm3kFHDDHUiXjAY5n7gJzPdX83AEpl0AhnghjvHRfJjg=;3ugefb/s3p/PCgpwt5d6Zg=="
+secured: "s4AxLxdyGP8ncrljyUAx/WTh/uvMmCvAF2VXIrEaLCQlyHAgZ1y++YfvxEQWCAs4K5DInDocgRAOVjp7x7lh+giNuIqEO6FV3G03rQQSwslBgaNC1u0qoJQNoir0j7UayLqVt18InT+A+7akujWBbruXRqpPPp9hun1lviKpJyMym5yZrnqYdgdhHSgU1vNrP6vW7aIys4MYVEf+RsJaEbck14v2+davQCLpccmblu3F5CZaWDnBCoiRMjqX+jq6nO9gdeLwJlcZNk5vbGTTus9CrJg5RdSCJXu2o+Q5Cpo//BcNZjuO5HS1VX7RuOdZOjAStTGc2/y4b24CTIN/rlQJT21EREoqusgiv4ENcak=;XEhGKs+YdOnMncY50VKfyw=="
 ---
 

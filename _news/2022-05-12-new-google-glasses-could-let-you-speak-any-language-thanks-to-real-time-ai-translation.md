@@ -89,6 +89,22 @@ related:
         width: 3720
         height: 2480
         isCached: true
+  - title: "Google can now translate eight more Indian languages. Full list here"
+    excerpt: "Google has upgraded its 'language translate' feature by adding 24 languages spoken in different countries. Of the 24 languages, Google has included eight Indian languages including Sanskrit-one of the"
+    publishedDateTime: 2022-05-14T07:03:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here-11652510255533.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here/amp-11652510255533.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here/amp-11652510255533.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/05/14/600x338/Google-translate_1652511568986_1652511569252.JPG"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Google Translate adds support for 24 new languages learned with machine learning"
     excerpt: "Google LLC said it’s adding another 24 languages to its Google Translate app during its I/O developer conference today. The new supported languages include dialects that are spoken by more than 300 million people across the world,"
     publishedDateTime: 2022-05-12T00:25:00Z

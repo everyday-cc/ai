@@ -7,7 +7,7 @@ originalUrl: "https://azdailysun.com/ap/national/ai-may-be-next-big-firefighting
 webUrl: "https://azdailysun.com/ap/national/ai-may-be-next-big-firefighting-tool/article_d5396e51-6ba2-5d1f-9d52-f09d66958f28.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI Conquered Chess. Investing Could Be Next."
-    excerpt: "Sophisticated software that aims to pinpoint uncertainty—and avoid it—is poised to remake the advisory practice."
-    publishedDateTime: 2022-05-09T17:00:00Z
-    webUrl: "https://www.barrons.com/advisor/articles/ai-investing-financial-advisors-51652115449?mod=hp_LATEST"
-    ampWebUrl: "https://www.barrons.com/amp/advisor/articles/ai-investing-financial-advisors-51652115449"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/advisor/articles/ai-investing-financial-advisors-51652115449"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-533550/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "LIV5sPcmNeWGKGFXDxg5mrDA/zJWmYIGi0bgsa1noNjP+97kq15Z1GJk38aeWEIeyFAyfgzzRCaRnhknA3Wfhhqu3BWM1DFGU27CDMQ0QHW5qO5+OxSTehonDI4iV6fu/eDCq5ti+o0+BikU8NG/hu0wNVZRxaqrXMbSUwZYFmzunqO38QnPGkXLcYgZC378x2R2eH2vSuPsVCYT/UCK0edo8AzFF2+QOjUtUGr2qpN/N9Hdh3wY0rOS4E6Z+y9GzvpKkLDefeULFnqcDIzLPcGlAkVck9aOUQO1jGsPGHDkeiqOSQqdX4bQcpJ0HW50gtbarNTHOfc9gE2Kj6ANblvZBGdnr1N6bU5teS0m/5Y=;uTIqB2y7HmJaiNQ10ElhSw=="
 ---

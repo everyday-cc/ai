@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-04-13-cognitive-computing-market-projected-to-775-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
+      "title": "Cognitive Computing Market projected to $77.5 billion by 2025 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "The report includes the study of the key players offering cognitive computing solutions and services. The major vendors Microsoft (US), Google (US), IBM (US), Numenta (US), SAS Institute (US), AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104000062/Cognitive-Computing-Market-projected-to-775-billion-by-2025-Exclusive-Report-by-MarketsandMarkets™&source=139",
+      "originalUrl": "https://menafn.com/1104000062/Cognitive-Computing-Market-projected-to-775-billion-by-2025-Exclusive-Report-by-MarketsandMarkets™&source=139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-04/12/EP_2d3d0image_story.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-unionai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology.md",
       "title": "Union.ai Raises $10M in Seed Funding for AI and ML Orchestration Technology",
       "excerpt": "Union.ai offers new services on top of Flyte so that ... here to help them every step of the way through a cloud offering that allows them to start building production-grade ML pipelines in ...",
@@ -1071,57 +1114,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know.md",
-      "title": "Overcoming Supply Chain Challenges With AI: What Large Manufacturers Need To Know",
-      "excerpt": "The supply chain has always been extremely complex and hard to manage; everything has become incomparably harder as the Covid-19 pandemic brought about a whole chain of unprecedented challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61a8c4981493e6d6ce4b83af/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/amp/",
-      "publishedDateTime": "2022-04-12T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

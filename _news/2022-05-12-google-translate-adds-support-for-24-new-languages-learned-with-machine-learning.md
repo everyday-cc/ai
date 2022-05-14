@@ -88,6 +88,22 @@ related:
         width: 3720
         height: 2480
         isCached: true
+  - title: "Google can now translate eight more Indian languages. Full list here"
+    excerpt: "Google has upgraded its 'language translate' feature by adding 24 languages spoken in different countries. Of the 24 languages, Google has included eight Indian languages including Sanskrit-one of the"
+    publishedDateTime: 2022-05-14T07:03:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here-11652510255533.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here/amp-11652510255533.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here/amp-11652510255533.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/05/14/600x338/Google-translate_1652511568986_1652511569252.JPG"
+        width: 600
+        height: 337
+        isCached: true
   - title: "New Google glasses could let you speak any language thanks to real-time AI translation"
     excerpt: "Google CEO Sundar Pichai this week teased the prototype of a new pair of smart glasses - they use augmented reality to provide live translations of any language as you hear it being spoken"
     publishedDateTime: 2022-05-12T11:30:00Z

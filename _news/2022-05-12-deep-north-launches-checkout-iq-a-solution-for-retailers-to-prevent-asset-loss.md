@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Deep North Launches Checkout IQ, a Solution for Retailers to Prevent Asset Loss"
-excerpt: "Computer Vision and AI-based Offering 'Checkout IQ' Helps Reduce Shrinkage at Checkout & Self-CheckoutFOSTER CITY, Calif., May 12, 2022"
-publishedDateTime: 2022-05-12T13:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss-1031453943"
-webUrl: "https://markets.businessinsider.com/news/stocks/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss-1031453943"
+excerpt: "Its end-to-end software solution combines computer vision with deep learning technologies to help retailers and businesses deliver metrics such as footfall, conversion, consumer demographics ..."
+publishedDateTime: 2022-05-12T14:25:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
 type: article
-quality: 45
-heat: 45
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Machine Learning
@@ -33,6 +29,6 @@ related:
       domain: multichannelmerchant.com
     quality: 15
 
-secured: "ouqvn/t6glfn80ZOaCtJ4jtKVE+3dtsQzggelbO/sJ3vhmNR+rEpQrZe3njkfWltYktb64ADRu6FuCYVydk4EtirYU/kDXtS2gN4q2793iZ3UPJJpWfX7HNzOfo+MDtBixVZ3XpExT3c/vweZvO/q+RiojtzHJp5QrdQwVa74+Jp0g+jEsKOq3FMHchqk01vSIBeLRpLVE43OP6b4KAwUXd5thId62lLMJgpV0PWl2HFPHeWoDnlJZKSh/Wv+PbA+fd9Qy5j+//OOOeJWJuXkp2Ob7kw/wGzDuzxXT05bOTLbwLpbBRv21/5HbkLz8qh/HNxwtcxqKQz3uChj/JNF0Gr6AlMIfIdbuyne4jd2EI=;xAOHhf9adt6qjnr7bEJbSg=="
+secured: "qqvXCXtpYB1fHo3Jnp2YDrwljeSghn8dRs7JpFfGemN6uQD4AX9W8Zlkj75I2jf7g7i2SkQgUg2NaS1N0utzWAG5sw+JWGou+RsPtKBH18xwyr3zHvKXV6UrMbNvyGNTdsNCQO8wGniXoUpflwEJdFwOXSrT0sZ61k7OWE4SIZbHSgtU4xNamOqckV2cMfA4CGZh+QDUkoiUvQf4/T/tL+JHYntXtM4ihdSvF+540RV+66gGLilJyiLyJs26DWKlyty/pU3KXW+0VgrhsjlooBgpeDdnX7XjGxlIaHzeoWUaB24ofyize2qvoLRj+SvMT+c1by7lYMzOEpSfCBuY/z2t1Ol8DK3AQtYJP7PdXLw=;z28kmd/+qykV1VVZ9IrUsQ=="
 ---
 

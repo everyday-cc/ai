@@ -1,0 +1,53 @@
+---
+category: news
+title: "Artificial Intelligence Technology Solutions Inc. (OTCMKTS:AITX) Short Interest Up 82.5% in April"
+excerpt: "Artificial Intelligence Technology Solutions Inc. (OTCMKTS:AITX – Get Rating) was the target of a significant growth in short interest in the month of April. As of April 30th, there was short interest totalling 182,700 shares, a growth of 82.5% from the ..."
+publishedDateTime: 2022-05-14T05:40:00Z
+originalUrl: "https://www.etfdailynews.com/2022/05/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-up-82-5-in-april/"
+webUrl: "https://www.etfdailynews.com/2022/05/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-up-82-5-in-april/"
+ampWebUrl: "https://www.etfdailynews.com/2022/05/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-up-82-5-in-april/amp/"
+cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/05/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-up-82-5-in-april/amp/"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: ETF Daily News
+  domain: etfdailynews.com
+
+topics:
+  - AI
+
+related:
+  - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Up 101.1% in April"
+    excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) saw a significant growth in short interest in April. As of April 30th, there was short interest totalling 789,700 shares, a growth of 101."
+    publishedDateTime: 2022-05-13T06:44:00Z
+    webUrl: "https://www.defenseworld.net/2022/05/13/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-101-1-in-april.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 37
+  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Short Interest Update"
+    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) saw a large decrease in short interest in the month of April. As of April 30th, there was short interest totalling 1,300 shares, a decrease of 67.5% from the ..."
+    publishedDateTime: 2022-05-12T15:26:00Z
+    webUrl: "https://www.defenseworld.net/2022/05/12/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-short-interest-update.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 15
+  - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Sees Significant Growth in Short Interest"
+    excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ – Get Rating) saw a large growth in short interest in the month of April. As of April 30th, there was short interest totalling 26,500 shares,"
+    publishedDateTime: 2022-05-14T05:22:00Z
+    webUrl: "https://www.defenseworld.net/2022/05/14/global-x-artificial-intelligence-technology-etf-nasdaqaiq-sees-significant-growth-in-short-interest.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 15
+
+secured: "7vAcVaJgO3Sr6oRxUevlbJLkVyAcJSKLOQAMB6R3S1k0EO9XtWcrl/hLj8hm/0YkFbDVarJSr/qEOr02WsF21amh9AF9hnBJi/C13fLx6LugFGaBXR91g5JALv+zwdUZ8skYzNfvcBvRV7FW+7itKsqbG499MSDwr+wJwzvxw6qp514ngdSWqUEYeDOyOzH6F1DNtXWUGgi2e70iFV1KImpurkZ3ouqsDPfKevXhQoI1IYunyJJEzKfZrGuMhfZa2bEQ03JEMHz0MApl+uYBzjiZ+cBMKEzDib3moYWVqJ4m4VqP5aieXOYkXJvuQjol+ycsSC92sSH00EvukmXeKGo0H3xm0I1XMrGCfs5+OJk=;rdG8paPrT6E4LrT6AfMRQw=="
+---
+

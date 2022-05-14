@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robots and the Future of Remote Healthcare"
-excerpt: "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented rate. A growing focus on technology -- and the ways it can help improve patient care and the provider experience -- is now at the forefront,"
+excerpt: "Although the technology has been around for several years, it is crucially important as we start to look toward the future ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that ..."
 publishedDateTime: 2022-05-11T01:10:00Z
-originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
-webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
+originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
+webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
 type: article
 quality: 56
 heat: -1
@@ -15,9 +15,9 @@ provider:
   domain: medpagetoday.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Robotics
+  - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg"
@@ -52,6 +52,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "pwHKM+SgNqWEKuTH/EzDd5YgLZ00GWRM2C4XivuKetjI4gvCAs/BmlaV73aYVfncWcu4yz+lCmCY7k1L+9AYgmPjCmza7TfBrZ2XBOH+QLxhFEpeJSdQKylNaPJIKDbnx9LYRU2Pw4yTcBjMN+EpXuQ+H/ogtLY+qh/xbxJdpw/UidForuLNMKy/vSUreWo3MUu3b3R0cNW53/brNSSREZ15eugVb/vqSc1rThSs/tdlbkq4UatJcyZCGxn0CVXWarrIKJU38sPtNe3DP1TH7I7sBzpjxqRTFgD2NOMJeBPPmpi87b32QGqd6sIFOFr3+KIRfQm0oBXX3RaUsBU/+Pgz/cS39oIHlvxj5nbJqdE=;Hr/gWyHZcwlxCXiURENf+A=="
+secured: "xXW3P//3IkK7TyP8XuzSUCYn4CbIdhLCQlAPziqkH0PS0LdIE7TL20+1FkzrzTGMLnE2JT3TI2cbPmQT/oup8absNcrgXfNDU3nfq01XrX713ug9PDL3KDJw7sPSYCmM74EbkBYyq3UIMZHmVGQT/iMton3BFQqal0q66xxXDUHBf7W1A5zdHqcOgpyXhvqjFCCa8+X5JA2yWL1oSkFbT2E+MiJtCP8GDjrob0Czfj1yEI7nwo4WxJYBZVWRzMbwTX88HVuygGV7OyFEeycg+VvhmMkrsEvpgN5kr7UHRB/cpbcu2OJuqjbDRdGz6EUvQhtmoyE9RSkKqh3jNo6e0Po3q24sVyFy+ZFxdNq0voE=;/jKAP77OzQmrQtKb3QNyLg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-04-21-ais-future-is-packed-with-promise-and-potential-pitfalls.md",
+      "title": "AI’s future is packed with promise and potential pitfalls",
+      "excerpt": "Foundation models are based on deep neural networks and self-supervised learning that accepts unlabeled or partially labeled raw data. Algorithms then use small amounts of identified data to determine correlations,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/",
+      "originalUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/future_AI.jpg?fit=800%2C449&strip=all",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/amp/",
+      "publishedDateTime": "2022-04-20T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-post-kyndryl-software-and-consulting-boost-ibm-financials.md",
       "title": "Post Kyndryl, software and consulting boost IBM financials",
       "excerpt": "“Harnessing the power of technology such as hybrid cloud and AI remains essential as our clients face ... which will be available from May 31 this year. IBM also shed its Watson Health division this quarter, with CFO James Kavanaugh telling analysts ...",
@@ -1082,58 +1134,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-tesla-has-now-over-100000-people-in-its-full-self-driving-beta-program-is-an-accelerated-rate-of-improvement-coming.md",
-      "title": "Tesla has now over 100,000 people in its Full Self-Driving Beta program – is an accelerated rate of improvement coming?",
-      "excerpt": "Tesla CEO Elon Musk revealed that the automaker has now over 100,000 people in its Full Self-Driving (FSD) Beta program. Does it mean that we are going to start seeing an accelerated rate of ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/",
-      "originalUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/",
-      "publishedDateTime": "2022-04-20T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

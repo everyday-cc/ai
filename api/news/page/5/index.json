@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-10-explaining-the-art-behind-the-forbes-ai-50-design.md",
+      "title": "Explaining The Art Behind The Forbes AI 50 Design",
+      "excerpt": "When tasked with creating the art for the fourth annual Forbes AI 50 list, it immediately struck me that we should use Artificial Intelligence to generate our deliverable. AI is making considerable strides not only in commercial applications, but in visual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesdigitalcovers/2022/05/09/explaining-the-art-behind-the-forbes-ai-50-design/",
+      "originalUrl": "https://www.forbes.com/sites/forbesdigitalcovers/2022/05/09/explaining-the-art-behind-the-forbes-ai-50-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6275a785c7e155aec83ddefc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1201,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-google-announces-cloud-tpu-virtual-machines-for-ai-workloads.md",
       "title": "Google announces Cloud TPU virtual machines for AI workloads",
       "excerpt": "Google Cloud has announced the general availability of TPU virtual machines (VMs) for artificial intelligence workloads. The general availability release includes a new TPU embedding API, which Google Cloud claims can accelerate large-scale,",
@@ -312,7 +363,7 @@
       "originalUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 556,
+      "heat": 546,
       "tags": null,
       "images": [
         {
@@ -1182,58 +1233,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-report-intels-looking-to-sell-computer-vision-software.md",
-      "title": "Report: Intel's Looking to Sell Computer Vision Software",
-      "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
-      "originalUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

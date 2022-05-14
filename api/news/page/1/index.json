@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-14-it-will-soon-be-easy-for-self-driving-cars-to-hide-in-plain-sight-we-shouldnt-let-them.md",
+      "title": "It will soon be easy for self-driving cars to hide in plain sight. We shouldn’t let them.",
+      "excerpt": "It will soon become easy for self-driving cars to hide in plain sight. The rooftop lidar sensors that currently mark many of them out are likely to become smaller. Mercedes vehicles with the new, partially automated Drive Pilot system,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/",
+      "originalUrl": "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/05/AP_20342772404491.jpeg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/",
+      "publishedDateTime": "2022-05-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-enhance-the-caller-experience-with-hints-in-amazon-lex.md",
       "title": "Enhance the caller experience with hints in Amazon Lex",
       "excerpt": "We understand speech input better if we have some background on the topic of conversation. Consider a customer service agent at an auto parts wholesaler helping with orders. If the agent knows that the customer is looking for tires, they’re more likely to recognize responses (for example, “Michelin”)",
@@ -1147,7 +1190,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1190,58 +1233,6 @@
         "AWS AI",
         "Computer Vision",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven.md",
-      "title": "Microsoft is enabling Kubernetes for Windows edge-computing devices via 'Project Haven'",
-      "excerpt": "Wondering what Microsoft has up its sleeve for Build 2022? Here are a few tidbits gleaned from the hundreds of sessions listed on its web site, including a new Kubernetes-at-the-edge effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a52ae7d89b8c9f6c7d7ce376c59cc30a6a73fb9c/2022/05/12/5944f6ae-7d42-4eb9-97cb-248e7b042c8f/build2022.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "publishedDateTime": "2022-05-12T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

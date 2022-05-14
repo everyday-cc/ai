@@ -3,8 +3,8 @@ category: news
 title: "RPT-FOCUS-Startups apply artificial intelligence to supply chain disruptions"
 excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
 publishedDateTime: 2022-05-03T10:00:00Z
-originalUrl: "https://www.reuters.com/article/tech-supplychain-idUKL2N2WV0DC"
-webUrl: "https://www.reuters.com/article/tech-supplychain-idUKL2N2WV0DC"
+originalUrl: "https://www.reuters.com/article/tech-supplychain/rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2WV0DC"
+webUrl: "https://www.reuters.com/article/tech-supplychain/rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2WV0DC"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 628
     isCached: true
 
-secured: "uZyc2+l+XLi1V7gxhF9Dh5JIuePiT+0K+I7YgzHpTyeFeqELE/B/l3UbNmD8eN+NdPW1tKHQ/cUd/Sn/J6tUm6FYZjgFJ+dTWaBfq70saqnGyCIv6CLPRbCEvd0aMPcw3ktHamU1iAH0FZ3QfuNf46603lTPikQzQMbyEriXTTM33Sl6ucAxBEALBJ9Ae4fNob62woSn6Y18tBavg8nhuA91V48njLcOotBbeJLcQZgzgfyQGb6CY+/Y02FoNpm/z6FYIr6/e9BQPkFpxBtayvOaHvNvv4iH9gUPXbSRqbDex4/O2my5UsUDcb0FSNWggw1mYxwxRRzMS3nU57CEGwOFmTWcqrLNVIMwcIrZuXA=;YZIVEIc4eoaFgXmO+aFbag=="
+secured: "DK4SZUJczHOMZZXucnvueZFx65gJSQb10mFLnIWDiTsUWhkICflZGi1MhyNKgEpqcNQNfdMruJN+nwd96jiME/aV+IMZNsOmJwBt6btW513Y7F82sMr2k2rZQnezahMeLOjas8UX+jbRhasJyqP7Hy7IjJzhHXbIeikc42BgJXeJfXUf45EqYRNdWvkrixQr3jzSn6+y1fJ+IbXw0mIALSuz31GYz7Tjo4Wr88Egp4Xs7VhnlF7vf7VRfSeZOMd/syUABDmOFL0OMQyB9XAyFpahuYqO3Zyk43XGkqdAUmbj1t9vn0a1dRti3YKVbRBtQLPMNsReP7PeOaEYpod/OqXULyfoyH0E621UhTGnwkU=;rQkiiuGeUsVCFEmwTAxPXw=="
 ---
 

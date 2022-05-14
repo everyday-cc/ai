@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/moderate-classify-an
 webUrl: "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/"
 type: article
 quality: 130
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Emotion Detection and Recognition Market"
-    excerpt: "Moreover, technological advancements are expected to assist the global emotion detection and recognition market growth during the forecast period. Furthermore, expansion in research and development capabilities in speech-based emotion detection systems and ..."
-    publishedDateTime: 2022-05-09T15:17:00Z
-    webUrl: "https://www.transparencymarketresearch.com/emotion-detection-and-recognition-market.html"
-    type: article
-    provider:
-      name: Transparency Market Research
-      domain: transparencymarketresearch.com
-    quality: 4
 
 secured: "sYmqT0Rw5KMdvqRI2gdm9t6RUGPJrj/0rlRchOBloluwzQnYxLN4veR4S1PrPrWLOEtf5CKZKGCFm2mzbc1DYf8rGgElpbJPwgGZZi+4qJwc7OVVpuJ20wPr5YJUNjF82wErhKWeKtaC+ppQMTRyid8qA0MZ/t8dyB4nQ3k4HHSuuvGuiHycqGygd2zXK2ToqY6IHf0kaNwg57OSXjb4N60W49XSHPyKqWlncYo9S+5i0rSIo1m0uLw4caEAn/xKjgDDP0sx1BvPb32HFkv+AdRb/tNcC9ROhDYCqw1o1En0AKsCbZAjmAMzZHVb53o3lk7isppE9F6Nv9Vxl+fRAPjcDj1LV3LmPdzWDss3jX4=;PJtxz6QVAzGL9zrMii7yuw=="
 ---

@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-04-29-anthropics-quest-for-better-more-explainable-ai-attracts-580m.md",
+      "title": "Anthropic’s quest for better, more explainable AI attracts $580M",
+      "excerpt": "Less than a year ago, Anthropic was founded by former OpenAI VP of research Dario Amodei, intending to perform research in the public interest on making AI more reliable and explainable.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/",
+      "originalUrl": "https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1160995648.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/amp/",
+      "publishedDateTime": "2022-04-29T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-arm-announces-new-iot-hardware.md",
       "title": "Arm announces new IoT hardware",
       "excerpt": "As part of Arm’s roadmap, the company is also working on Total Solutions for vision, object recognition and smart sensor fusion. The first one will be addressed by Cortex-A53, while the latter ...",
@@ -1114,49 +1165,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners.md",
-      "title": "PowerVoice, the world's best AI voice biometric technology, is recruiting global partners",
-      "excerpt": "“Panoramic view of Korea Water Resources Corporation’s artificial intelligence control room remotely monitored with the voice recognition function of Power Voice” PowerVoice claimed to have commercialized the world’s first voice recognition service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/ab26880195/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/ab26880195/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26880195",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26880195",
-      "publishedDateTime": "2022-04-28T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
