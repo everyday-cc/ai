@@ -34,20 +34,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Intel unveils new AI chip, Accenture collab and more products"
-    excerpt: "Intel on Tuesday announced a slew of products in its silicon, software and services portfolio during its first Vision event in Dallas, Texas. The company launched its AI Gaudi2 chip, 4th generation Xeon Scalable processors,"
-    publishedDateTime: 2022-05-11T00:42:00Z
-    webUrl: "https://www.crn.com.au/news/intel-unveils-new-ai-chip-accenture-collab-and-more-products-579835"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/Intel_Wafer.jpeg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Intel unveils new cloud-to-edge technologies at Vision"
     excerpt: "To accomplish this, Nourish + Bloom worked with Intel and UST, a leading transformation solutions company, to tap into the collective technical knowledge for building innovations like a next-generation self-checkout using computer vision technology and a ..."
     publishedDateTime: 2022-05-11T09:42:00Z

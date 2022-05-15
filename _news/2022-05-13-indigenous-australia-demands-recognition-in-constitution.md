@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Indigenous recognition could reshape Australia"
-    excerpt: "It's been five years since the Uluru Statement from the Heart called for the creation of an Indigenous Voice to parliament, and the major parties are outlining their plans for recognition ahead of the election."
-    publishedDateTime: 2022-05-10T23:07:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/lifematters/how-indigenous-recognition-could-reshape-australia/13875422"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 24
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/13875466-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Australian Govt. not sufficiently investing enough in artificial intelligence: research institute boss"
     excerpt: "The head of research body The Australian Institute of Machine Learning (AIML) has slammed the Australian Government for not spending enough on artificial intelligence capability. AIML director Simon Lucey said at the Technology in Government conference today that investing in AI would lead to foreign investments into Australia."
     publishedDateTime: 2022-05-11T23:05:00Z

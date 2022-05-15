@@ -1,28 +1,26 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-13T02:04:00Z
-originalUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
+publishedDateTime: 2022-05-12T21:04:00Z
+originalUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Texas Public Radio
-  domain: tpr.org
+  name: KUOW
+  domain: kuow.org
 
 topics:
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
-    width: 880
-    height: 542
+  - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+    width: 838
+    height: 628
     isCached: true
 
 related:
@@ -89,6 +87,6 @@ related:
         height: 400
         isCached: true
 
-secured: "uGVqTygTif34lnRVAkXO1//SIparOjc2H3kzXvRzZzRVu+CCMYeRIbgXaV19aYPCQ2sg3v/IfGvIredTKSnvFkxrLRaRckd5lRYrSgCEgkb7OdztQ26PNoaQRXC7/1HlzwknUuwgeXk+xySFYKsdWU99omfS0CjDWq1sXNB8bPijP4FS5JAUjttrC9jF4ztmwpltZDnYwWMjd+a6r39B5kGPfuu5y3v/6QCNoRG1rR88DA/D0MlsiZ8EKxZq+CEYTWk3nkk2GRJcHkCxFLnV+FFiteFVUw5JgA7aMFfe1QHGkxHqkOORwye1SfX/UxqWMHXNl65OdfWES3w9M3uQ3wwwJTVIsa1IJ1ZamsMYAWk=;KPKWKXuvCCjgONA3TUSnPw=="
+secured: "Z00L+3pRJpdv7hV+yf0Fi9CTpPREn58bF0hJDE+gFuyaYoxxHvQFvY3qvixxDKHbumfdePOEP80oPYCHPayCtrwM6LAZzdfb35soV9hiM4bIn2/zZq+DD4dfZhTYBrBKpZL0+gF4V7u6q3t9IUCDGJGV1+Z2mBP6RCT21dOKtXmp1Zw7aygVhl4h5whAP3HlEFUQkiidM6oxfKFvdn0nmZU1hoFTKnzPodlNWy0BfQMB3SD+fstFnfa7BPBxZuuHCaiFZ1sxNKTHb37kjN9RBa6i9qf8gotEUV/mrRlPvJrqg5fU4ehL8zjXxd235qY52P1/D/tmxwX1qUZVs7BToOUADaYeTCKXVNf+6vy6fvM=;YPngKLctSmRdnWa30NZMyQ=="
 ---
 

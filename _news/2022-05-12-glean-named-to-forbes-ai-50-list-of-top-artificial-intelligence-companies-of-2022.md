@@ -3,28 +3,41 @@ category: news
 title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
 excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
 publishedDateTime: 2022-05-11T21:11:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
 type: article
-quality: 49
-heat: 49
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
+  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "View original content to download multimedia: https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto"
+    publishedDateTime: 2022-05-12T17:03:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
     excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
     publishedDateTime: 2022-05-11T12:30:00Z
@@ -47,15 +60,6 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 27
-  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "PALO ALTO, Calif., May 12, 2022 /PRNewswire/ -- Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its selection to the 2022 Forbes AI 50 for North America. The list ..."
-    publishedDateTime: 2022-05-12T17:18:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/article_c0e6b8a2-9354-55ba-8d1a-2f84c7212b8f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
     quality: 27
   - title: "6sense Named To Forbes AI 50 List of Companies to Watch in 2022"
     excerpt: "“We’re proud to make the Forbes AI 50 list and to be recognized as an innovative leader,” said Jason Zintak, 6sense CEO. “6sense is the first and only platform to apply the power of AI across the entire buyers’ journey to provide a better ..."
@@ -85,6 +89,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "X31X82aCAJ6g1kVqvkCODBb06oArTktfnUo2STK8modvxlpuEGQcSza+1cAzZBiZvUMHsI9z6IFzlsB7nWqZK28BzsG8QKpfdZV8szxg4xGlqTYTPrKXr7GA33hauNAEf1796XVuflvDnC+KcBYtHnrDsARBfiN9pMxj+A0trhtC0P6QMqXuec0xruvcMk5CCojMjvLhto9Yqe5r7lR4VAA/GWR1TmU+C3kFQQ18YMo3+TADHGfOfzIoFO3xq3720zeeP1B47w2LcT+idQgjCQg8d3f3pifSru7b2oOXuMCZMMNN4bpTMRC3uLEKJSWh7rdxlOwDShlZkNLDkLcEKJfv3fMkPabEpMm0cLuNMjVPr7bDbn20uGo++PHi+5eV3cWNU3KlpowX8zH0To/a00VB0FfSHf//1p31B6OqpiNL/J+RoBE4Z3PnIOhiXiDCw2hcMaSkdQDjLgPkliaZeO/P2nxHlL+l1IewORO/bYoE/UHov7ydR4S2zEc4JDfAZG4+paEIIgzQtVe+040cYQ==;tvxvh5mKeGvrcfjHS4oiMQ=="
+secured: "/nEnp32oP5UNWfpEtVAfGdWRS3SJsNBz1VSrrsCjO31F4kclugRX3kQPADs35M5b+7kSTkaZO11DQjVaBPfqjqnW0xoYMGV3LMb4270vwd16FXE+vCAsLgbiuLr/+kKsKERfHyykodpcTdO6jkmL6l+79yO0rtG/gGSb8/LF9v4yqzssCGF/NJzJP88xkHu0y1XnBaJjbXiWX21SMuhAXCeC8zB/MfPlOKrTrjIf3LXu4S5mmEqwJlF254p7jijEJrjJCDdPfU6ECxkpbMQs/HTq60KqzgckIEiO17HCI4ReeWdP7bK+rv+8zk//MRDDSxtPguDyRF99vIo+AqKQ1p1jebZkLDY2tTphticXcuM=;cHsQPI4E0tjHU12z3aiwVQ=="
 ---
 

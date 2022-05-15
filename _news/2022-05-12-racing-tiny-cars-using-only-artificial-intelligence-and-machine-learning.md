@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
 type: article
 quality: 75
-heat: 105
+heat: 106
 published: true
 
 provider:

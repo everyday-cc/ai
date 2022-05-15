@@ -7,7 +7,7 @@ originalUrl: "https://www.news5cleveland.com/news/local-news/cleveland-official-
 webUrl: "https://www.news5cleveland.com/news/local-news/cleveland-official-says-police-do-not-use-facial-recognition-technology-have-no-plans-to-start"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "ICE Has Assembled a 'Surveillance Dragnet' with Facial Recognition and Data, Report Says"
-    excerpt: "Immigration and Customs Enforcement has used facial recognition to search through the driver's license photos of one in three adults in the U.S., according to a new report by Georgetown Law's Center on Privacy and Technology."
-    publishedDateTime: 2022-05-12T14:53:00Z
-    webUrl: "https://www.govexec.com/technology/2022/05/ice-has-assembled-surveillance-dragnet-facial-recognition-and-data-report-says/366851/?%3Foref=GovExecTCO"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 30
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2022/05/12/051122_getty_fcw_ice_protest/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "xu9KElgBHA58Nuw3sPne/GZiwYbnstjohnnf3lALyFhCB3RJqQQrNu309fa/VUe92xL48e7vIFYXK+FaGqI3O/a/6wWXGN1MZegB/gjnXKPf1bwiOtYhDebFcIoJbnqxG/wZ3mtgfskEsLyO9QJ/3svf82yVjQ8XN0S4Us7J9q5NSv+tGMPIJwdCW1s4ZDkji7vzCDnV9VOueFMGLQrvgnu32TWn/blgnQW/6N/EFdLaN+eQX55EKvb4NbnB2jMfnHB2s/QA5AXjRCAdt68LTLMtVQ/KEI9dQ5Z3ix+6kqp5lddKOmbkZG/uCO+jGHzBc6xePG9CR16tx/nQJxgBMf2ZBg4E6YMcKZ+JRQfuG26iveEeYBYSS+6t0yThCYvHKVSEmYFDcxo57yTyqtL4jzQvJHw6AX+GRejrA0dPoPqdxpCOeEJiKOsxR313oc1gU52pMMhq32GBcVUThCi626A4hDVMYwiO6isnMqXLK23f3MsznBGlI71W+nJFY9CHByPygS3vDFwrLdqOt7yJpQ==;TZeiIKWvRm7md+tqLSYpGA=="
 ---

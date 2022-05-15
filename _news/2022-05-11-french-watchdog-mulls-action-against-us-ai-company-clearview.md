@@ -24,37 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Settlement: Clearview AI to Limit Sales of Biometric Database"
-    excerpt: "After two years of legal proceedings, Clearview AI agreed this week to limit the sale of its facial recognition software to government agencies as part of a settlement reached with the American Civil Liberties Union."
-    publishedDateTime: 2022-05-10T23:06:00Z
-    webUrl: "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database"
-    ampWebUrl: "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true"
+  - title: "Clearview AI Banned From Selling Controversial Facial Recognition Tech With A Caveat"
+    excerpt: "Meta announced that it was shutting down Facebook’s Face Recognition system and deleting over 1 billion people’s facial recognition templates. Only a month later, Clearview AI won a patent on its facial recognition algorithm,"
+    publishedDateTime: 2022-05-12T20:14:00Z
+    webUrl: "https://hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
+    ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Clearview AI's facial recognition settlement is a frightening window into our future"
-    excerpt: "Another powerful tool for fascist snoopers is facial recognition software. Its potential for misuse was at least partially curbed Monday with a court settlement stemming from a lawsuit filed by the American Civil Liberties Union against Clearview AI ..."
-    publishedDateTime: 2022-05-11T00:00:00Z
-    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/clearview-ai-facial-recognition-abortion-rcna28310"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/rcna28310"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/rcna28310"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
+      name: HotHardware
+      domain: hothardware.com
     quality: 67
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-05/220511-ROB-AI-Lawsuit-jg-46cc53.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://images.hothardware.com/contentimages/newsitem/58532/content/clearview-ai-banned-selling-facial-recognition-tech-caveat-news.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Clearview AI clears the final hurdle in its quest to undermine US democracy"
     excerpt: "Clearview AI and the ACLU recently reached a settlement over the company's use of facial recognition. And both are declaring victory."
@@ -97,34 +81,6 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/clearview%20ai%20sale%20ban.jpg"
         width: 900
         height: 507
-        isCached: true
-  - title: "Instagram filters affected by Clearview AI facial recognition database lawsuit"
-    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
-    publishedDateTime: 2022-05-12T15:51:00Z
-    webUrl: "https://www.wandtv.com/news/instagram-filters-affected-by-clearview-ai-facial-recognition-database-lawsuit/article_ba80693c-d213-11ec-8dd0-0f11fd3a1f73.html"
-    type: article
-    provider:
-      name: WAND
-      domain: wandtv.com
-    quality: 52
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/64/064af774-4ead-11eb-88d7-13a705cb4fae/5ff34794c18c7.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Instagram filters not affected by Clearview AI facial recognition database lawsuit"
-    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
-    publishedDateTime: 2022-05-12T15:51:00Z
-    webUrl: "https://www.wandtv.com/news/instagram-filters-not-affected-by-clearview-ai-facial-recognition-database-lawsuit/article_ba80693c-d213-11ec-8dd0-0f11fd3a1f73.html"
-    type: article
-    provider:
-      name: WAND
-      domain: wandtv.com
-    quality: 50
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/34/0340d145-6bb6-5e48-806e-6f38a42ebeed/627db846a1431.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Clearview AI will stop selling its facial recognition technology to private firms"
     excerpt: "Clearview AI - the facial recognition company whose massive database has been used recently to identify Russian soldiers killed in Ukraine, as well as rioters who stormed the US Capitol building in 2021 - will no longer sell its technology to private ..."

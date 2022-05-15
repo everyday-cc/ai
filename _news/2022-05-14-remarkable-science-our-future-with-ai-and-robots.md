@@ -57,15 +57,6 @@ related:
         width: 534
         height: 300
         isCached: true
-  - title: "Hitting a new peak: Scientists enhance X-ray data analysis with artificial intelligence"
-    excerpt: "Scientists at Argonne’s Advanced Photon Source have created a new method using artificial intelligence to speed up the analysis of X-ray diffraction data."
-    publishedDateTime: 2022-05-11T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/952452"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 11
 
 secured: "dXsEnwutn9dAPruybgVC10w6Dz4ALkWIdPN7Op1DhUh4OIhcNQW/B86b/fFccirPOe5B5B0Fr2Zv9JGBCLFmlHNVO2lqhFwmOdydw+DWVrmSqjjO2tg9+jMhskZdqNEjch8duL37lT37IHwvcnG0qgTk5ERL5Si0YMJTFI/1Pe/n0z4nSgQ66Sxp4br3OUiqKZWLuXl2Q/6Qmc/fcz1Muh2YPZqmjPR4r2DOOlWE5CCwKGiJr+HhRWFFW5Qgkqga+dEk23v4eJsz+o+ZGgOT0sqS/qNqf1292LKYIUNynkOEVAC+7zcjDJfeLmDig58lTR1oLtfVxNhhbm8RkDwfFb/7/yaE8CeKlV9gQWYgtlsLo6Adfs8VdllK/+1zRA8yRl9LsKyrtZ2tfIvBGDQPJ+T0MBUFsRKty5QPuUpgwi8hLbb5mWIADVUCZOAi3syaIhrzxkdGzEvYU/pRjFEtKZ3oLXQ/7g7Dn79c9RUc+NDN4gMb2o0DtutPFssmC2NjjMVrYzxT8vhiX5wdHjihbw==;BOtsYGRPY30Zh4S8ofpGfQ=="
 ---

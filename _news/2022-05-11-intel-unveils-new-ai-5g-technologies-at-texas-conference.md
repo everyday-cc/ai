@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kgw.com/amp/article/news/local/technology/intel-ai-compu
 cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel unveils new AI chip, Accenture collab and more products"
-    excerpt: "Intel on Tuesday announced a slew of products in its silicon, software and services portfolio during its first Vision event in Dallas, Texas. The company launched its AI Gaudi2 chip, 4th generation Xeon Scalable processors,"
-    publishedDateTime: 2022-05-11T00:42:00Z
-    webUrl: "https://www.crn.com.au/news/intel-unveils-new-ai-chip-accenture-collab-and-more-products-579835"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/Intel_Wafer.jpeg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Valiot’s AI Manufacturing Tech Promises Growth in Texas"
     excerpt: "A Hub of American Manufacturing Valiot & Texas Officials Valiot Meets with Texas Government Leaders AUSTIN, Texas - May 12, 2022 - (Newswire.com)"
     publishedDateTime: 2022-05-12T18:00:00Z

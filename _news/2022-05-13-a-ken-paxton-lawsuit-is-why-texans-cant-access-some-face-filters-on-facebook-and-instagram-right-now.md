@@ -91,6 +91,34 @@ related:
         width: 560
         height: 320
         isCached: true
+  - title: "Instagram filters affected by Clearview AI facial recognition database lawsuit"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
+    publishedDateTime: 2022-05-12T15:51:00Z
+    webUrl: "https://www.wandtv.com/news/instagram-filters-affected-by-clearview-ai-facial-recognition-database-lawsuit/article_ba80693c-d213-11ec-8dd0-0f11fd3a1f73.html"
+    type: article
+    provider:
+      name: WAND
+      domain: wandtv.com
+    quality: 52
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/64/064af774-4ead-11eb-88d7-13a705cb4fae/5ff34794c18c7.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Instagram filters not affected by Clearview AI facial recognition database lawsuit"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
+    publishedDateTime: 2022-05-12T15:51:00Z
+    webUrl: "https://www.wandtv.com/news/instagram-filters-not-affected-by-clearview-ai-facial-recognition-database-lawsuit/article_ba80693c-d213-11ec-8dd0-0f11fd3a1f73.html"
+    type: article
+    provider:
+      name: WAND
+      domain: wandtv.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/34/0340d145-6bb6-5e48-806e-6f38a42ebeed/627db846a1431.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta removed some filters from Instagram citing the state's face recognition privacy laws"
     excerpt: "... of their face-changing filters have been removed from Instagram for fear that they could break Texas laws about facial recognition. Texas Attorney General Ken Paxton said the big concern is that Meta could store your facial data and sell it without ..."
     publishedDateTime: 2022-05-12T04:38:00Z

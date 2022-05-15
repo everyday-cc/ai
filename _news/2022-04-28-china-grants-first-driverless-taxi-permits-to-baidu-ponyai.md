@@ -1,28 +1,26 @@
 ---
 category: news
-title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ..."
-publishedDateTime: 2022-04-28T09:56:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+title: "China Grants First Driverless Taxi Permits to Baidu, Pony.ai"
+excerpt: "China Grants First Driverless Taxi Permits to Baidu ... has in recent years invested heavily in autonomous driving and artificial intelligence technology, including automated personal assistants ..."
+publishedDateTime: 2022-04-28T07:05:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+webUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+ampWebUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
 type: article
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "uCVEOMUiaHKJvoQyJLXA7CZ+Dc4yfH072Iz7Zj0I2k+jNVndbR2yzYj6DzHNUaVOiZChktN7FIF00aKrI28FpybikpUfodkEP3Z1mx/l5MEFzOAJSMZXTAkvgjBZRm9SUvQ1QL1VABtPLgFDrwwM5Y0vheSbC560f91FZYlu61yhocJ6+t3hEgyPSASPktKpdKVG/UOJoV3ldRcRI5pZl3xWKalNkBZ94y6OP/7tXmRID6goqXGTFXJMfbqkY0qCF2H4LpSpr1lN5wUPUdDnQYKALZY/bmeBbG5ttXq/cFbUTaauo0uFO1T1k6osuqmF8r/LiU7h+6YUDfoO+1cIVRotLv3XcLZ/9awysoA9Z+c=;fZfadp/PyjToyg46PTDDKw=="
+secured: "xlw2b4+r8d0KE+GJFRqvWV3s/2cKG4EWxfGPGFkkDIf+QWPTyINrsXzqWAthGXZeCuUCSWt5CQnYNFiqzKurRCzLF1Y7Avfirumkm/iEHdqMyUFTQi5jnJMt1S98A4rWwOeNL+5uQVAaRX3W14wPcgDOOluJHp792NQN6We38bYNNaBfC0OaOKs1fZxs3rvWwgAUEqlu0XcdrfBM8eR7REMwn5HLgOK/DbvcTPXjFpOVhCP1VcjxdTXF5okrRFxZeUOBA8+eT2J83hGVJe2JSJ0sdhrHawn3DQIgSGNEyKxh6fnHn/JhyA8FA2KRlz4y+laJOEcLAYlQ6fUih1caXyYRv77kqguvFDruoE93ZDM=;M6QJIlvweoNmHA2/pYiEsQ=="
 ---
 

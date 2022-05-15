@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
-excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028. Londan, United kingdom -- -- 05/12"
-publishedDateTime: 2022-05-12T19:07:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028.This press"
+publishedDateTime: 2022-05-13T10:06:00Z
+originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "AI trends to watch out for in digital healthcare"
@@ -59,6 +65,6 @@ related:
       domain: webmd.com
     quality: 19
 
-secured: "URGGHFxWxAjJNdXOOxddhRwnO4dqoN1IfVNumStlNYDI/KovCQDu0pNxomvNbsKUFxNttJN7bL+SjucRLvvijUW2uty4Z+JJQU/old4pnUFlx9s4Z1i7TaMLHS+7NjqW01SoZvRdm+jjZdDu8LBAXfy99SIxI+m1umvJYogzq52unRuG2XmyKPj6PNilBRYcKX0nVnzNzjDLVqyad/TSgJURK3HRI29DIniMYmT6zIApXQOM8LB+Mt9bl9W0oRFqQYOIR2w8c3eloQtsdzDsGWK1CEVBqF/9X1Dcy8WoOwfPum24rLq4h4nAZq4aQqSykPdrx/Vxbwj/LfY+kJISw3evkmZD80OjuCA5cdbFjYc=;N+1KqB0Lmgi8gJnDxIqGwA=="
+secured: "RTVxuyuLSx/mUY0iTUlx1d9DKpTsdoqSnX5j2g2hX1PhDA0JouzPQguTmM6AqJ7UuSCIYNTqLp1UpN4eZNpZk+fwdSp5sHp6nE7Jy2iyzwey2mAb0MtKuSnawXzM9RbqPOejdzliHOcCNcxTAVBvWL6hv95lXq9wtHZaxnUSgsNOELgruNRrHmlaoYojQD1uuaMpsFlMVK5mhVqkTqovM/r3gKM4MD3BgAjJdMFIrnrzHrJOUPMRII36DH+sdpDzbC5BcsoYGnfYuh0/DygYwfHk+j7NUZ8cbadWKJLKgAH/1UAtKG/lawCSoYLzyxn1GReZRaQU6OE0vjXTqcFOa77nw4LXiqLwbV7QkoOZiHM=;RnkDXTPDCWjy01S3Z7R8vA=="
 ---
 

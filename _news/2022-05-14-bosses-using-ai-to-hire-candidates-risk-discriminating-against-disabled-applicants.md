@@ -58,22 +58,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-    publishedDateTime: 2022-05-13T02:04:00Z
-    webUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    ampWebUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    type: article
-    provider:
-      name: Texas Public Radio
-      domain: tpr.org
-    quality: 49
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
-        width: 880
-        height: 542
-        isCached: true
   - title: "Federal officials caution employers on using AI in hiring"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission are sounding the alarm about the potential for AI human resources tools to discriminate against individuals with disabilities."
     publishedDateTime: 2022-05-12T23:53:00Z
@@ -87,6 +71,20 @@ related:
       - url: "https://cdn.fcw.com/media/img/cd/2022/05/12/051222_getty_fcw_ai_brain/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
+    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
+    publishedDateTime: 2022-05-12T21:04:00Z
+    webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 29
+    images:
+      - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 838
+        height: 628
         isCached: true
 
 secured: "1/LV6fFNvq0MqFRVIiG8Zcr3uMV38ZqgG4y3Ak+7HfwKj6wFpTG7WNLPnAtYoVQm9Ff/cybO8vz7v7I0690kpW1rOT17A4KhRm5bsXgZ2+/NslxOQeaE1JLIq01pd5xyZLX3SIyaD2w2zgc02btGMa21bUFFR9U70q8W8mgEP4Qj28UK0E7H8j++ZCHsG4gPmpo4IpGfE8sbq+5PZPMgzO9Q9BpxzSpkaQX9f8cv/iAdysyVkbLL6stm05pfVP8rkXheIYTySzMYQ16kYbRxA05xALDcMkMDLqe76a3QDRSgpQETk5nBF9CcFDLQi+6Xa2i9D1rwkpa5YS1ALhlYS3XvBjgEsJWpt/fvHu1CTxo=;VjCNSYJ5C5rvnjZu2IYz/g=="
