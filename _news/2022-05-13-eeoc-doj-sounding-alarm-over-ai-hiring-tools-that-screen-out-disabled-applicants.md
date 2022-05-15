@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-12T19:50:00Z
 originalUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/05/eeoc-doj-sounding-alarm-over-ai-hiring-tools-that-screen-out-disabled-applicants/"
 webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/05/eeoc-doj-sounding-alarm-over-ai-hiring-tools-that-screen-out-disabled-applicants/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: federalnewsnetwork.com

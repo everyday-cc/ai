@@ -38,6 +38,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 37
+  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Up 54.5% in April"
+    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a significant growth in short interest in April. As of April 30th, there was short interest totalling 13,600 shares,"
+    publishedDateTime: 2022-05-15T07:52:00Z
+    webUrl: "https://www.defenseworld.net/2022/05/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-54-5-in-april.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 31
   - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Sees Significant Growth in Short Interest"
     excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ – Get Rating) saw a large growth in short interest in the month of April. As of April 30th, there was short interest totalling 26,500 shares,"
     publishedDateTime: 2022-05-14T05:22:00Z

@@ -41,20 +41,6 @@ related:
         width: 1199
         height: 635
         isCached: true
-  - title: "Salesforce to buy Troops.ai"
-    excerpt: "Salesforce, the San Francisco-based provider of customer relationship management (CRM) software, plans to add technology from the company, Troops.ai, to Slack once the acquisition ... listing in Microsoft’s Azure Marketplace, the tool sends “signals ..."
-    publishedDateTime: 2022-05-10T21:50:00Z
-    webUrl: "https://www.crn.com.au/news/salesforce-to-buy-troopsai-579814"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/salesforce-tower.jpg"
-        width: 607
-        height: 455
-        isCached: true
 
 secured: "1EqLEB2FaMvwBMbT0m28upbvq+tkPcX9I+BM1MsG4TsWfohYeV/CkbulznDHQJsuFOalOTcmocealEJ1cQe0w9EzfbUkTQouooBPyYPVOQkphmRXlmJI9VOpRLLIvpZd9kEYlmL3dKtzGxcZt9hlAvgJwWSHYRha+jCtRxYsEBJxKxL+PbHnh0khHDGx9R3w11bL8I+j3uDNJjZ6M98PTxMhht68+B5hPlRKWFJtx5O0P7hEcekm2welgTPK+rG3dr4VHAShSPq2fRpQGw9luHFodev16hBRwbP9HFqm9/p8JehNDOeBLBfnOCj19NfWQJTHlgBNvw+Wqd26oy87zNqAbyVSeFYEfx8dGFDypka1qcnNP14wEqfXRRuSuz5cUenVSyyzkufQf/eaQyEgpY/ksEp25uASBiFkwes3FiTbR9qrKsYmE24/qcYNTHB4kI5xgAFaUWVTI/6ZHb6UhTbGuZ1AcG2dZMNJUQEr5iRdiSc1jQfmBpxwplfcV2niaSaHTqZIgYI2wulQrs3QpA==;WOHoSeK1TQeDsg1gLQLnGA=="
 ---

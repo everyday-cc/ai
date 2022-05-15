@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6265c81c35d2f416ec30ff04/0x0.jpg?format=jpg&crop=2849,1725,x865,y0,safe&width=1200"
         width: 1200
         height: 727
-        isCached: true
-  - title: "China is building a 590-foot dam in only 2 years thanks to AI and 3D printing"
-    excerpt: "China will reportedly build a massive hydropower dam in the space of only two years, thanks to AI, construction robots, and 3D printing technology."
-    publishedDateTime: 2022-05-10T21:01:00Z
-    webUrl: "https://interestingengineering.com/china-590-foot-dam-ai-3d-printing"
-    ampWebUrl: "https://amp.interestingengineering.com/china-590-foot-dam-ai-3d-printing"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/china-590-foot-dam-ai-3d-printing"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2pE74w9/sizes/istock-153699394_resize_md.jpg"
-        width: 744
-        height: 419
         isCached: true
   - title: "AI vs. AI: Forecasting the Ethical Dilemma Circling Law, Business and Technology"
     excerpt: "This article provides a discussion of the legal and ethical questions involved when private companies defend themselves and then retaliate as a result of a cyberattack—a so-called counterpunch known as the “hack-back."

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://can-newsletter.org/uploads/media/raw/478cc66ae63932aa1c10a9dbd39c2991.jpg"
         width: 700
         height: 237
-        isCached: true
-  - title: "SECU To Deploy Scienaptic’s AI-Powered Credit Decisioning Platform"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that SECU (State Employees’ Credit Union of Maryland) is planning to implement its AI-powered credit decisioning platform. The deployment, scheduled for later this year ..."
-    publishedDateTime: 2022-05-10T21:59:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/secu-deploy-scienaptics-ai-powered-credit-decisioning-platform"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 37
-    images:
-      - url: "https://financialit.net/sites/default/files/scienaptic_24.png"
-        width: 1366
-        height: 768
         isCached: true
 
 secured: "jJANOfJEvLqQ8I4L1JIkade3lbLBMf4et9AWkundkLVlmwf7HEdDiG0cWk2VELL9Ee4jbbg0xAHWmHhFHFjRHWnzjmxN7ek4aRgaZgB+tQclPtgvgtSsfhotW5VaTC3uWwI1NhSYU9BEbVTNC6MeK4yVDxj3UVlKZJlZEL6Mgb4eBIQuLw/PRI+e/lVNk18luwBKudYL3T6hOwWX0r2C/MK2cKMM2s584/xEI9SBuB1IzQXrbdf+NJTclX04sXxnY/rH4GyFd+10nWsZbhGlil+MhyvPj2xsAqE5TR+rywjb6MOjyKS37tJM85q10LSi3mooWkHSGfBB+WuM124h5kAnrkvTS6No1aDvGyGEV4qtirZsIkeglIwuEjDOgsb/0SxSsGEFQf7lDrw82guUSQEYYEoAXSrhnFco6IzRr4wMrUfiJAz5JTdXwNFTCSWzUsrMj+FPP/Z/Z5YYtMIg8F+P9hZwYbKbeWPkjKAkw1chxPZmdMbaAgcOkoQAaN2rj6dfgKV/QClUPkX8OKvFsg==;o8/kpb6xCx3zdsQo+NCXBw=="

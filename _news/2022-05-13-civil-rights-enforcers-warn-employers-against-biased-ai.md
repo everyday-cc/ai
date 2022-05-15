@@ -87,16 +87,14 @@ related:
         height: 1365
         isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
-    excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
-    publishedDateTime: 2022-05-12T19:50:00Z
-    webUrl: "https://www.sunherald.com/news/business/article261387662.html"
-    ampWebUrl: "https://amp.sunherald.com/news/business/article261387662.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article261387662.html"
+    excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities,"
+    publishedDateTime: 2022-05-12T19:59:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article261387662.html"
     type: article
     provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 37
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 17
 
 secured: "nQwiDRhBteuoQU3cgC+jYHODg9b6nrP6SS23UzEyHv7vU8Y87Udt3fTKv5PSDapWXYVLHXyCbRbEMUVvE4lCzsC4Jz+ewoZJ4LOumMMtWhprSw/H5giSxQHaV/B7niaO1SQgVcQ+yssdKoKn5bfHaNZoKoDISP5TsLL0wi8Mpm6yPHlcJxxAIHm2SosZc9/VxWIuJA+KgVYee6FzaOTwvjHK4d4Tom8amsR1fkBEQAJC4up3MuG1RdFKhgBjRV2KNS1bFvwdUvXrB3USSdUtqj/b2TYOvdk8IL5uqvuVvJ0KxDnppT9+Z60gxdLcXXNPUuDbMLzirIouv+qmqyKZIVAJWXnNeuUNnOMnc20hdCedQgIYmt1X+qMkbCJUxJdh+MRSf4G4vbDxJq82qntOw8xGI57MxFUGAeD4ASd4oj0CDT/UqzErrHo9D1idhIuh1x6fewwv6ATkUwwOifCHW5WTwePMXVb2QD5NptUTKvI2KYtWbzaRZfpfXI8NlZlYzlNsfqWxOdH/SAY/mfmT2Q==;wkFoBo87NWN5SBdMLOXnFQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.caixinglobal.com/2022-05-13/opinion-china-us-ai-rivalr
 webUrl: "https://www.caixinglobal.com/2022-05-13/opinion-china-us-ai-rivalry-doesnt-have-to-be-a-zero-sum-game-101884771.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Language Translation Apps Come of Age"
-    excerpt: "Translation applications driven by artificial intelligence are showing promise for schools in improving communications with parents and students. As these technologies advance, so do the possibilities for their use."
-    publishedDateTime: 2022-05-10T22:44:00Z
-    webUrl: "https://www.govtech.com/education/k-12/opinion-language-translation-apps-come-of-age"
-    ampWebUrl: "https://www.govtech.com/education/k-12/opinion-language-translation-apps-come-of-age?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/opinion-language-translation-apps-come-of-age?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/ddf11ed/2147483647/strip/true/crop/1000x521+0+63/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4f%2F7a%2F916aaff64699b141eb9462bba19f%2Ftranslationapp.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Opinion: Language translation apps come of age"
     excerpt: "And then have their responses translated back into English. The advent of AI-driven translation tools is already making some question the need for learning foreign languages, now that digital devices can handle many of our interpretation and translation needs."
     publishedDateTime: 2022-05-12T00:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1546
         height: 1056
         isCached: true
+  - title: "How Do Patients Feel About AI in Health Care? It Depends"
+    excerpt: "A new survey looks at what patients think about AI playing a role in their health care diagnosis and management."
+    publishedDateTime: 2022-05-12T19:08:00Z
+    webUrl: "https://www.webmd.com/a-to-z-guides/news/20220512/how-do-patients-feel-about-ai-in-health-care-it-depends"
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 19
   - title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
     excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028. Londan, United kingdom -- -- 05/12"
     publishedDateTime: 2022-05-12T19:07:00Z

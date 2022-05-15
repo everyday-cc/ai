@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-banned-selling-controv
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: HotHardware
@@ -25,22 +25,6 @@ images:
     width: 708
     height: 398
     isCached: true
-
-related:
-  - title: "Canadian lawmakers demand clearer answers on facial recognition from national police"
-    excerpt: "... Members of Parliament examining face biometrics use in the country saw further clarification of the RCMP’s use of facial recognition and the expected safeguards. The hearing was also beset by allegations from lawmakers that unclear testimony from ..."
-    publishedDateTime: 2022-05-10T22:22:00Z
-    webUrl: "https://www.biometricupdate.com/202205/canadian-lawmakers-demand-clearer-answers-on-facial-recognition-from-national-police"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
 
 secured: "dgzneJSegeG6OXHXjYFstV7I9djcgFRZtwy0fe5pyufJehOxw+2m549eDPJeZCFfIZLmP3nAhnDNPIoJe274j5EQXfwmx1eUsYOyWDeMsgIL3drEWMshYHNRU7f/+ZjnQYYklQyzECBsA2DWdYHl7yZpsQSD7CPzvF5X0JPXDxFB7PhZMtNn5EVQmOBcptp+f1M7keOHzOhykWqBNx64TT2srC89sO5PYmptIVdQFNuW1n7pHAe7Lh1ycDu6ueXSkamaCZFXb6p6gL9BIWsu5xaJaxtRVuwUuMOS4T4AGG/aD0QTET5Z1Uh/OQtrfnpUOU0DFho3+hDRCTk8oHlplF3C4vmKBHILxz/KPfCcgYQIIy8efVYOU1X0U+mHsyV/YwubRI5olvo/WMX7Ex6udngKrE7L/L1yuiu4SiwZJLeuYoxFUnX3JiBL9VCdXe6Yd8HDC7Yp2RkuknM9NL87Glr5lv2ahm7LUCg0k1CxcWhqLSk0Qf5Ubv+TKgnT4hWPn6Wv7D80AaeXfkpreT/s9w==;bxL8eoCnFToRfuhViKLotg=="
 ---

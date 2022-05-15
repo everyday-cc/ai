@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3660079/salesforce-acquires-sl
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.amp.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Computerworld
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce to buy Troops.ai"
-    excerpt: "Salesforce, the San Francisco-based provider of customer relationship management (CRM) software, plans to add technology from the company, Troops.ai, to Slack once the acquisition ... listing in Microsoft’s Azure Marketplace, the tool sends “signals ..."
-    publishedDateTime: 2022-05-10T21:50:00Z
-    webUrl: "https://www.crn.com.au/news/salesforce-to-buy-troopsai-579814"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/salesforce-tower.jpg"
-        width: 607
-        height: 455
-        isCached: true
   - title: "Natural Language Processing Market Is Booming Worldwide Genpact Limited, SAP SE, Salesforce.com Inc."
     excerpt: "New Jersey, N.J., May 11, 2022 Natural Language Processing Market report focused on the comprehensive analysis of current and future prospects of the"
     publishedDateTime: 2022-05-12T10:57:00Z

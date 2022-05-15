@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-15T13:29:00Z
 originalUrl: "https://www.jpost.com/diaspora/article-706744"
 webUrl: "https://www.jpost.com/diaspora/article-706744"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Jerusalem Post Blogs

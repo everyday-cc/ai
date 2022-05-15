@@ -35,6 +35,20 @@ related:
         width: 1600
         height: 891
         isCached: true
+  - title: "Intel Vision 2022: AI Gaudi2 Chip, Accenture Collaboration And More Products Unveiled"
+    excerpt: "PM EDT Intel Corp. on Tuesday announced a slew of products in its silicon, software and services portfolio during its first Vision event in Dallas, Texas. The company launched its AI Gaudi2 chip, 4th generation Xeon Scalable processors,"
+    publishedDateTime: 2022-05-10T23:11:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-vision-2022-ai-gaudi2-chip-accenture-collaboration-and-more-products-unveiled"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 47
+    images:
+      - url: "https://www.crn.com/resources/0275-151d4128ee94-8c7cb94d45ba-1000/intel_vision_keynote-_resized.jpg"
+        width: 599
+        height: 523
+        isCached: true
   - title: "Intel teases Arctic Sound M GPU for data center: ACM-G10 GPU + 150W"
     excerpt: "Intel Arctic Sound M PCIe Gen 4 graphics card based on the Intel Xe-HPG GPU is dropping in Q3 2022, I'll believe it when I see it."
     publishedDateTime: 2022-05-11T02:41:00Z

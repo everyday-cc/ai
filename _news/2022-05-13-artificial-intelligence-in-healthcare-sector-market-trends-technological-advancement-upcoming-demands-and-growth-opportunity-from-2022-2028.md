@@ -1,20 +1,64 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
-excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028.This press"
-publishedDateTime: 2022-05-13T10:06:00Z
-originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
-webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028. Londan, United kingdom -- -- 05/12"
+publishedDateTime: 2022-05-12T19:07:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
-secured: "J87artTa5bDzKfjlWj/ZuOVw25B6r9gq3xKsTgBNHeFCKSTell/vSyK+yX+i98YmvJmKYgpZs42+lwwUDeTtIUm5XES8EczSMcShqsv1YCtdrQBWQkWzBFlSIlHkDjQWJssQ4nrGSA26C0cBZVCUfK80EiIYDHOaYVjbSbCAXQsXE6yi1wqhHx5H+9M9SSUPrhF8IgzQKQkmJOdLMp4SZ3vpxdZzcPT2dJoTg+vf8b01/4Jf4xl1Gs0a/Te/3GczB1b2TBR2kDbYFl94UCe7W+VuN2CPWNbIfUGKVDfNeTfHlv+wDYtTS8C/1EJneM1xsR1Hq34i6g9w/eFZYoeuuftZmXFIq8gDE0JOKbcegbsp5Vs0W+f1v+Z6PKvdXQH6MJJ4yJWCQsKaWJi9nm5ypTlI4/TwPjuRaWlMhUcI8W5BCiPzdnqWMCNbpvhjiNwXu8tVFnN031kf3fgh9KTntq2bHetHaCSy/uZPJ7VU+DivbkoJcypKznvfTNMdjXem+FthBHcJamhUHdDfEXa6Bg==;SBsRewZ+Gxq4Xj+hYXCCYw=="
+related:
+  - title: "AI trends to watch out for in digital healthcare"
+    excerpt: "The advent of new age technologies has influenced and affected several sectors and healthcare has also received its share of transformation. Today, the healthcare sector looks much different than it did just a decade"
+    publishedDateTime: 2022-05-14T10:24:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "AI in health care: 4 steps to disrupt health inequities"
+    excerpt: "Artificial intelligence can help close the equity gap in health care. Exactly how this will happen may surprise you. Why it must happen should not. In October 2021, the New York City Board of Health declared racism a public health crisis and in response ..."
+    publishedDateTime: 2022-05-12T13:39:00Z
+    webUrl: "https://www.northwell.edu/news/insights/ai-in-health-care-4-steps-to-disrupt-health-inequities"
+    type: article
+    provider:
+      name: Northwell Health
+      domain: northwell.edu
+    quality: 39
+    images:
+      - url: "https://dam.northwell.edu/m/4735888572cf7649/Drupal-NEWS_Michael-Dowling-AI-in-health-care.jpg"
+        width: 1546
+        height: 1056
+        isCached: true
+  - title: "How Do Patients Feel About AI in Health Care? It Depends"
+    excerpt: "A new survey looks at what patients think about AI playing a role in their health care diagnosis and management."
+    publishedDateTime: 2022-05-12T19:08:00Z
+    webUrl: "https://www.webmd.com/a-to-z-guides/news/20220512/how-do-patients-feel-about-ai-in-health-care-it-depends"
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 19
+
+secured: "URGGHFxWxAjJNdXOOxddhRwnO4dqoN1IfVNumStlNYDI/KovCQDu0pNxomvNbsKUFxNttJN7bL+SjucRLvvijUW2uty4Z+JJQU/old4pnUFlx9s4Z1i7TaMLHS+7NjqW01SoZvRdm+jjZdDu8LBAXfy99SIxI+m1umvJYogzq52unRuG2XmyKPj6PNilBRYcKX0nVnzNzjDLVqyad/TSgJURK3HRI29DIniMYmT6zIApXQOM8LB+Mt9bl9W0oRFqQYOIR2w8c3eloQtsdzDsGWK1CEVBqF/9X1Dcy8WoOwfPum24rLq4h4nAZq4aQqSykPdrx/Vxbwj/LfY+kJISw3evkmZD80OjuCA5cdbFjYc=;N+1KqB0Lmgi8gJnDxIqGwA=="
 ---
 

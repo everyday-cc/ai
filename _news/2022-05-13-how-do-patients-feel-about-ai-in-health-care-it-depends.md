@@ -19,40 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Research offers insight into patients' views of AI in healthcare"
-    excerpt: "New research from Yale Cancer Center provides a new understanding of patients' views of artificial intelligence (AI) in healthcare. While comfort level varied by clinical application, most respondents had positive views about AI's ability to improve care."
-    publishedDateTime: 2022-05-10T22:50:00Z
-    webUrl: "https://www.news-medical.net/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx"
+  - title: "AI trends to watch out for in digital healthcare"
+    excerpt: "The advent of new age technologies has influenced and affected several sectors and healthcare has also received its share of transformation. Today, the healthcare sector looks much different than it did just a decade"
+    publishedDateTime: 2022-05-14T10:24:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
+      name: India Times
+      domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
         isCached: true
-  - title: "Most Patients Have Positive Views About AI in Medicine"
-    excerpt: "Most patients have positive views about the ability of artificial intelligence (AI) to improve care but have concerns about unintended consequences, according to a research letter published online May 4 in JAMA Network Open."
-    publishedDateTime: 2022-05-13T12:35:00Z
-    webUrl: "https://www.physiciansweekly.com/most-patients-have-positive-views-about-ai-in-medicine/"
+  - title: "AI in health care: 4 steps to disrupt health inequities"
+    excerpt: "Artificial intelligence can help close the equity gap in health care. Exactly how this will happen may surprise you. Why it must happen should not. In October 2021, the New York City Board of Health declared racism a public health crisis and in response ..."
+    publishedDateTime: 2022-05-12T13:39:00Z
+    webUrl: "https://www.northwell.edu/news/insights/ai-in-health-care-4-steps-to-disrupt-health-inequities"
     type: article
     provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 17
-  - title: "Most patients have positive views about AI in medicine"
-    excerpt: "Most patients have positive views about the ability of artificial intelligence (AI) to improve care but have concerns about unintended consequences, according to a research letter published online ..."
-    publishedDateTime: 2022-05-13T18:40:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-patients-positive-views-ai-medicine.html"
+      name: Northwell Health
+      domain: northwell.edu
+    quality: 39
+    images:
+      - url: "https://dam.northwell.edu/m/4735888572cf7649/Drupal-NEWS_Michael-Dowling-AI-in-health-care.jpg"
+        width: 1546
+        height: 1056
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
+    excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028. Londan, United kingdom -- -- 05/12"
+    publishedDateTime: 2022-05-12T19:07:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 17
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "VaLvlWDstAm27QKVWQ3lxWhNNlrf3DPVrokRElFg641ln5ym6Gm4yIZtXbMt6mBmGmLq5hrRSJB8zJHF1xds9eMl6r4ZGCem4QwbiFQ97mDMzLqer1ZPsDRo4hiCH4UQkUCXya15MXGjXs1n2YxGnpWbq2emWAP777DtjQ3SCdQmNE8XCf9W1KOulo0EgtZooQEDwDUfSJDeCaxLjPoEJtCjqoleJ/6Ia4yYkAT19siElaBhAxrzMkoKP+d5nZaKjpmjSZOYNUybz+iMnM2VE7NDjjwj9KzW6ig8IAobwXLYxSS6Dev3rWszEhMpH/tDpCkVoOskwaFmGiVpbAYnbaVoyi2BkZbggw9bbaZX45tupV2JvY9Bn6Mccelf9tHMfZukdPkLIPq/HdpLtpL/N7KVEkaQaRvhvtqHtdHA63yMAVLr/uIeg0CfivxACKeRwrdOQ9u1OB4rECY+i4Tpf1M+UkdFTGo6nXOxxolX1jzjJ7yRIulUUz8vIY78bLmodBlpDtpIMJr8NgrCbkDezg==;ixsFgUO44wqiCpLo5f6iKw=="
 ---

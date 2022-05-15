@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/sustainable-business/brand-watch-
 webUrl: "https://www.reuters.com/business/sustainable-business/brand-watch-under-spotlight-never-before-companies-turn-ai-get-their-numbers-2022-05-11/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "It’s never too early to get your AI ethics right"
-    excerpt: "The Ethical AI Governance Group wants to give startups a framework for avoiding scandals and blunders while deploying new technology."
-    publishedDateTime: 2022-05-10T22:03:00Z
-    webUrl: "https://www.protocol.com/ai-ethics-startups"
-    ampWebUrl: "https://www.protocol.com/amp/ai-ethics-startups-2657296846"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-ethics-startups-2657296846"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 74
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-coinbase-shares-fell-sharply-after-the-company-reported-weaker-than-expected-results-less-than-p-greater-than.png?id=29412744&width=400&coordinates=0%2C186%2C0%2C187&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "tKbQXH/j/3i5XAfYpLMsfFcQTGCrwTjgeqxMkLVCfeSfc0GHocMsMsBLNNY8dNWNrdpkcSZapnyN1U5yhFQMGiJxnkw0z1sXxlL39ijdvI5NzZaOqbPIqBYF59SyhmViJcoFiztIXEVQ0liyHRi4Z2kSVG8JqEtTvkvSoIeMgHxRKBXMdQQF3e7cNlEGeZd502yw38X1BTLD4h6C3X9FojiPDo9YnQ20cj6eHMwK1M2JCIOJnAP77vDhG6AsIN/rixWCFpjz+ZKyex/ScybcnR+RNMw3GEFsU+GQYtKpV4y0QQ3YoGcuZ5fH874k5L0f15VIRr3ftUPjuNbxcxSAo6V4IM2jHh8LEjpmirX5++RRFmgtxHC8bPqyGf/owspbFiYpyltWj+OdAAHQDCBEjjtJ5b5VBVGavw2uaePsf3oUjQw+cD97hJaOTVeU9KlxD1pcvb+IwQzGjpyD+9c3X4F/5k7WHRUQPOmz3wzYL0zKa/x0nnn+2CgQqp2qGLXhModQrCkb/7ZdeKKHuf3AHg==;CuNiqjl79e/9L2j5cSjnmw=="
 ---

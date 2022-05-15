@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 727
         isCached: true
-  - title: "China is building a 590-foot dam in only 2 years thanks to AI and 3D printing"
-    excerpt: "China will reportedly build a massive hydropower dam in the space of only two years, thanks to AI, construction robots, and 3D printing technology."
-    publishedDateTime: 2022-05-10T21:01:00Z
-    webUrl: "https://interestingengineering.com/china-590-foot-dam-ai-3d-printing"
-    ampWebUrl: "https://amp.interestingengineering.com/china-590-foot-dam-ai-3d-printing"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/china-590-foot-dam-ai-3d-printing"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2pE74w9/sizes/istock-153699394_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "How AI is used in filmmaking"
     excerpt: "However, compared to today’s sophisticated tech, Lucas’ AI system was pretty basic. Marvel villain Thanos’ origin story is a good case in point. The tech team put tracking dots on Josh Brolin’s face to capture his expressions."
     publishedDateTime: 2022-05-12T12:30:00Z

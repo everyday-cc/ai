@@ -158,15 +158,6 @@ related:
         width: 1200
         height: 711
         isCached: true
-  - title: "Facial recognition company Clearview AI permanently banned from selling data to private companies"
-    excerpt: "Facial recognition surveillance company Clearview AI has permanently ... Deputy Director of the ACLU Speech, Privacy, and Technology Project, said in a statement . \"Clearview can no longer treat people’s unique biometric identifiers as an ..."
-    publishedDateTime: 2022-05-10T19:40:00Z
-    webUrl: "https://www.euronews.com/next/2022/05/10/facial-recognition-company-clearview-ai-permanently-banned-from-selling-data-to-private-co"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 23
   - title: "Clearview AI Settles ACLU Illinois Lawsuit Confirming Continuity of Business Supporting Public Safety"
     excerpt: "Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country, has reached a settlement agreement in Illinois state court that confirms the company’s compliance with the state’s privacy law."
     publishedDateTime: 2022-05-12T10:02:00Z

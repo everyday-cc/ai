@@ -34,6 +34,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intel's Habana Labs unveils Gaudi2 and Greco AI processors"
+    excerpt: "Intel's Habana Labs subsidiary has unveiled two new chips for artificial intelligence workloads. The subsidiary - which Intel acquired for $2 billion back in 2019 - debuted the Gaudi2, the second generation deep learning training processor;"
+    publishedDateTime: 2022-05-11T11:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/intels-habana-labs-unveils-gaudi2-and-greco-ai-processors/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/gaudi2-mezzanine-card-719x500.2e16d0ba.fill-1200x630.jpg"
+        width: 719
+        height: 378
+        isCached: true
+  - title: "Intel Fires Up Rivalry With Nvidia, TSMC With AI Chip Launch"
+    excerpt: "Intel Corporation INTC launched a new chip called Gaudi2, which focused on artificial intelligence computing. Intel also launched a new chip, Greco, for inferencing work: taking an AI algorithm and making a prediction or identifying an object."
+    publishedDateTime: 2022-05-11T12:29:00Z
+    webUrl: "https://www.benzinga.com/news/22/05/27128444/intel-fires-up-rivalry-with-nvidia-tsmc-with-ai-chip-launch"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
   - title: "Intel Upgrades for AI Wars with Habana-Designed AI Chip"
     excerpt: "The 7-nm Habana-designed Gaudi2 is twice as fast as its first-generation predecessor, according to the company."
     publishedDateTime: 2022-05-11T13:19:00Z
@@ -43,6 +66,15 @@ related:
       name: Electronic Design
       domain: electronicdesign.com
     quality: 34
+  - title: "Intel Vision 2022: Habana Gaudi2 AI training processor arrives to challenge the Nvidia A100"
+    excerpt: "For customers, Habana Labs says that Gaudi2 offers a “high-performance deep learning training processor alternative for computer vision workload” and is suitable for object detection in autonomous vehicles, medical imaging, and defect detection in ..."
+    publishedDateTime: 2022-05-11T18:27:00Z
+    webUrl: "https://www.itworldcanada.com/article/intel-vision-2022-habana-gaudi2-ai-training-processor-arrives-to-challenge-the-nvidia-a100/483711"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 9
 
 secured: "paNin2n/+/m/bJ3LFo+/3SSCEVVZLssxa7hCxpHcAEqYBmw7ks/4rutN5QwOEo4TFcQgCXMUduTdmtJ2uIJx59goFUtNTtYuEHPmmSd8daz7XAYxsjonfFSHoC0v4XgOPbJhz8OHL/Fp+eWeIQBWYotqKAUJ7TKUkhoOWXIM6f6s85IARiutxChGcPlcvnzi5Id9wFgFlzkLC++9W7LmhHfoB11HMe3oX5OFBGgfNlgh4e9IahdjpNblrKuLW5iIRybksm1r4VvMTKKcZPuXaZLTJLzyN5uVdwMPicP/nVXkZDHoORviekhXenKte4aLmMAxb+S8KX+EXplxrTZ/0b6PfqwHFmwUP1VjnRnRXqv6Rrt1sCZGdezszuKx2uieQ0u9Pra5rwj0xLm7oKl90UUlHBbgdQwJvJJe+EtRffhE/UPa46K2unew+8nvv8WYHCIoTDRTi2MuQZXFjVqnEnX3epzN5ke2jgFYQFHDf+z3VTrwJ90ozeqx4LePL/E7OOvl2AhHzzGbk4AB8qxUwA==;TnyhWwqNGkU+RGA/B1L2Zg=="
 ---

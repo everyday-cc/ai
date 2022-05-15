@@ -3,8 +3,8 @@ category: news
 title: "Deep Learning Market Research Report with Emerging Trends, Leading Manufactures, Upcoming issues & Challenges in 2022-2030"
 excerpt: "May 05, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed ..."
 publishedDateTime: 2022-05-05T16:23:00Z
-originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-emerging-trends-leading-manufactures-upcoming-issues-challenges-in-2022-2030-2022-05-05?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-emerging-trends-leading-manufactures-upcoming-issues-challenges-in-2022-2030-2022-05-05?tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-emerging-trends-leading-manufactures-upcoming-issues-challenges-in-2022-2030-2022-05-05"
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-emerging-trends-leading-manufactures-upcoming-issues-challenges-in-2022-2030-2022-05-05"
 type: article
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "NSljp151Kww3W1Y9sbjhxzlTf+AUr9Sd2U/6TJKtptiGnQKqBlNcpRcP5rERS6WF4NvifqK4dwU6/MJWsvqOQn8ymszeAnsXqAd7ReHTZXkc44XAY/a0Z5CqUD0yon5swxkfS/UC8kqpm56mkuPFdisv4CPHAy5aXq/tPu5C74waklXddIiv9Gm9WrJdfsc8RJKjN0sMWR15zrMW26xkU2elDu8J0+K2gWodm+PaT6fevZQMPTTTUrR1rwZTZvDor2M5cQ0lwZN92o2Jy76uP54lkaDBjFWtVjz+Qgy5Nvu5e34i4lRUWfJwZUc0KaGXjwGSG5/wGLxnADIaew+1oiU8FnsqaqMTpmvX3DTg5nU=;MY5sXoqATM2yQ6OPcgFy1A=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "Dh5fXA8IiGM6+dAi8Z6/1/LBI/4GeC7W0IOXeeZXek1ciY4iEEWSRGeOIvQwvBGdY404mfNKwSzJkrnUQzxc9TZGSg+OnAgi1IjOUfUdKz80KnxE1b/Lvc9UEz9NWVTW3DhabWGGaz5zryhoXGEJU2NDvKHo20Zt/y0mJJbsGuPXbCih/zJEr27IlQUbcfGiVKBIiPUTy58lEBJ+NZgJTXFAV7KrWL0KAtDJNU/L9LJOdqgyHvecx/jUTQmBMnoTZRjRxwZK+bqnvOD/LPAbZm/iivINBYsdEUjguSZADUSAcKbe3RSUaf+oNrZmFJlMKXpEeruTF+gvJVde3KnnNOPQ/YGulhLB55bkTgXV9V4=;B7o4qsyK4irN7swXZNJMqQ=="
 ---
 

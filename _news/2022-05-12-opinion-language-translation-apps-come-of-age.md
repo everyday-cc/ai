@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Language Translation Apps Come of Age"
-    excerpt: "Translation applications driven by artificial intelligence are showing promise for schools in improving communications with parents and students. As these technologies advance, so do the possibilities for their use."
-    publishedDateTime: 2022-05-10T22:44:00Z
-    webUrl: "https://www.govtech.com/education/k-12/opinion-language-translation-apps-come-of-age"
-    ampWebUrl: "https://www.govtech.com/education/k-12/opinion-language-translation-apps-come-of-age?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/opinion-language-translation-apps-come-of-age?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/ddf11ed/2147483647/strip/true/crop/1000x521+0+63/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4f%2F7a%2F916aaff64699b141eb9462bba19f%2Ftranslationapp.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Opinion: China-U.S. AI Rivalry Doesn’t Have to Be a Zero-Sum Game"
     excerpt: "The U.S. has advantages such as leading hardware, research, and talent, whereas China has unparalleled masses of AI-ready data at its disposal to drive technological development, a strong will to succeed in its quest for primacy, and a head start in its ..."
     publishedDateTime: 2022-05-13T11:34:00Z
