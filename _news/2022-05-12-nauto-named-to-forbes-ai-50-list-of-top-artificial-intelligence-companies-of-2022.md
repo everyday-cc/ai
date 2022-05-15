@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Explaining The Art Behind The Forbes AI 50 Design"
-    excerpt: "When tasked with creating the art for the fourth annual Forbes AI 50 list, it immediately struck me that we should use Artificial Intelligence to generate our deliverable. AI is making considerable strides not only in commercial applications, but in visual ..."
-    publishedDateTime: 2022-05-10T08:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesdigitalcovers/2022/05/09/explaining-the-art-behind-the-forbes-ai-50-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6275a785c7e155aec83ddefc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1201
-        isCached: true
   - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
     publishedDateTime: 2022-05-11T21:11:00Z
@@ -110,6 +96,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 17
+  - title: "People.ai Recognized as One of Inc. Magazine's Best Places to Work for 2022"
+    excerpt: "People.ai, the premiere Revenue Operations and Intelligence (RO&I) platform, today announced it has been named to Inc. magazine's annual Best Workplaces list. Featured in the May/June 2022 issue, hitting newsstands on May 17,"
+    publishedDateTime: 2022-05-10T13:45:00Z
+    webUrl: "https://www.koin.com/business/press-releases/cision/20220510DE51788/people-ai-recognized-as-one-of-inc-magazines-best-places-to-work-for-2022/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 15
 
 secured: "HeIIyYOrhwZM1FJZQPJKy0qGFoK6xSX+M9MLE905bZ4Rd3Tpqo1gz7V8tdi1RQyFL95NMMeqsGw5IoZvprTyS7NZ4Z7PnalqhlAGyumDtNPIZ3RVgbCmJKpviCKrpRPBaD2YOG/J01N6vWTqROPl/qTL6d5nfEe8mDInrprnp4Ofbqauxo3Gdbuz9xUUQknT6qfuk1mmDFFMDOpWOht3+sVHhkAkcZ/3Za+u0iY4Epm4UFT7w+rVUXkg/ypigC9JnixEqVv4eGueRTSKT8mSXOu9+AoegK4/oaJvWxiC2G7m+iUfHYJHznb4Ohj2ROF39tVffkYDiTNGz9Cl0P83TeAcv06IMSKWTNkD2Mqg/Gw=;nnlKkGJrnYNwZnXpeIvGtg=="
 ---

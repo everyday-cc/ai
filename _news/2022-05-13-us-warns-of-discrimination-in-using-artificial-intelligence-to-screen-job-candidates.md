@@ -1,27 +1,26 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
 publishedDateTime: 2022-05-12T21:04:00Z
-originalUrl: "https://news.wjct.org/national-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://news.wjct.org/national-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+originalUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
 type: article
-quality: 31
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: WJCT
-  domain: wjct.org
+  name: KUOW
+  domain: kuow.org
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/274272a/2147483647/strip/true/crop/3663x1923+0+258/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
-    width: 1200
-    height: 630
+  - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+    width: 838
+    height: 628
     isCached: true
 
 related:
@@ -88,6 +87,6 @@ related:
         height: 400
         isCached: true
 
-secured: "I1PS+Kn9U4PUEPFtL+M5TTKlPMtQusj9z6zTX8qwc+UuMA4BeIwHYQyunVGal8SzSI16bbpgBMrzK2ZGI/mt+LNx2uUNgBAsZNivgXtMACRlmoJnzuuE0F8YhfAGItdlef9KFQaa0xx8YZuJ+Ri4XjdEM09dAnKgZ/5WgYydARCEzWp+PXJ4RxotDbToi1ZtfVK++9BChwmAfAZJUvUJm5rgruTshG5OS/TfVUlpSij8WUw8FT+BvYmaaZBslriAlc2jIUSfGXWYItHUOJCu/2jlp6CwKbg8nEwD4N+XzBvR+pYf4U8xVHzOM/lc8ZfnycSLvtz2UmEUTy6gTj77yLaRkAsZv+XnCPbgV7TbZEA=;q3wOVu65RpErWnP2I3BnDA=="
+secured: "yfBktFd0OZQVUHDzpq+UTCDTatzc1ov6BOLE0G5FIUxoJ47DdIvYlQypuFzxIIEYVZAPsJhgNwVCwA0hQCpoYP9tvxY11lRZGGry8K1iJA4iN1ENsdap6rmVkFpXa8f0Eg4Zv/y5O0dtXjMsU9XSzso13wUFYQ1cChyxw2XF2xnwOBD8wTdCqRVsYL4TQlzX5zO+DAnqB62hbdqbqBE2WbD5jRe2jBUjdvbTphCf1fwK3rTcNmhqLMBwHfn14ArVcUxLLQBTLQmgZ5agaXavTJfZ23jX9R8XWPwz1RLELfFo9N24IdyiMACLNyRORXn7snT+mXU459Mu0H51lxOlEh8oGgQGdBGx3K0FU4SKJjc=;gjw05mb/9W2D6IZpKChPJA=="
 ---
 

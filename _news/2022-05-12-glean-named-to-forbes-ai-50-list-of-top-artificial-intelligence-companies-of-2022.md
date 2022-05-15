@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-north-ame
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Explaining The Art Behind The Forbes AI 50 Design"
-    excerpt: "When tasked with creating the art for the fourth annual Forbes AI 50 list, it immediately struck me that we should use Artificial Intelligence to generate our deliverable. AI is making considerable strides not only in commercial applications, but in visual ..."
-    publishedDateTime: 2022-05-10T08:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesdigitalcovers/2022/05/09/explaining-the-art-behind-the-forbes-ai-50-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6275a785c7e155aec83ddefc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1201
-        isCached: true
   - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "View original content to download multimedia: https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto"
     publishedDateTime: 2022-05-12T17:03:00Z
@@ -111,6 +97,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 17
+  - title: "People.ai Recognized as One of Inc. Magazine's Best Places to Work for 2022"
+    excerpt: "People.ai, the premiere Revenue Operations and Intelligence (RO&I) platform, today announced it has been named to Inc. magazine's annual Best Workplaces list. Featured in the May/June 2022 issue, hitting newsstands on May 17,"
+    publishedDateTime: 2022-05-10T13:45:00Z
+    webUrl: "https://www.koin.com/business/press-releases/cision/20220510DE51788/people-ai-recognized-as-one-of-inc-magazines-best-places-to-work-for-2022/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 15
 
 secured: "TsyheZAftmje6I6kHM3LgMzu0SdbOQLoJZ4dc4Bs14G2W5qvSnrT+X5A5xdqFEGHjLljfJoKCsUc5kkujnUvyafrXHD/PiM1g6viZGvlsHyMmzyZVU3opSp/2R0MSmCh/bZqvrTLpMwjoaGx0wkWK5VThxoAfVXBG+u9bCzz+xH7xTJxiFVIGX52/MdZ8phiAoVlpBvu3P4eQKFZLeR4kRb8/Fo6CcJNmLNQXq8LyyXoVqyLGmangyCF5pHxVIuTOyp18x6tjrUEthqLXVXnRvi7wjSv3Zi4sx20Yhk0vksDmML2SLII0JF07RWiOqwfMOJR9guHCHBGNlujtWJ17/exJSKuOrvQ7jKbmlNS7rg=;+PDd1t2gAHBsKNRKmgnIbQ=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face-scanner Clearview agrees to limits in court settlement"
-    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people’s photos without their consent. The company in a legal filing Monday agreed to permanently stop ..."
-    publishedDateTime: 2022-05-10T07:42:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/face-scanner-clearview-agrees-limits-court-settlement-rcna28059"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna28059"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna28059"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 74
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-05/220510-clearview-mb-0828-4ee5e0.jpg"
-        width: 4226
-        height: 2817
-        isCached: true
   - title: "Settlement: Clearview AI to Limit Sales of Biometric Database"
     excerpt: "After two years of legal proceedings, Clearview AI agreed this week to limit the sale of its facial recognition software to government agencies as part of a settlement reached with the American Civil Liberties Union."
     publishedDateTime: 2022-05-10T23:06:00Z
@@ -104,22 +88,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-05/220511-ROB-AI-Lawsuit-jg-46cc53.jpg"
         width: 2500
         height: 1250
-        isCached: true
-  - title: "Clearview AI Banned From Selling Controversial Facial Recognition Tech With A Caveat"
-    excerpt: "Meta announced that it was shutting down Facebook’s Face Recognition system and deleting over 1 billion people’s facial recognition templates. Only a month later, Clearview AI won a patent on its facial recognition algorithm,"
-    publishedDateTime: 2022-05-12T20:14:00Z
-    webUrl: "https://hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
-    ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 67
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58532/content/clearview-ai-banned-selling-facial-recognition-tech-caveat-news.jpg"
-        width: 708
-        height: 398
         isCached: true
   - title: "Clearview AI clears the final hurdle in its quest to undermine US democracy"
     excerpt: "Clearview AI and the ACLU recently reached a settlement over the company's use of facial recognition. And both are declaring victory."
@@ -233,15 +201,6 @@ related:
         width: 1200
         height: 711
         isCached: true
-  - title: "Illinois privacy law thwarts Clearview AI's controversial facial recognition tool"
-    excerpt: "A privacy law in Illinois is causing headaches for some major tech firms that want to use facial recognition technology. A controversial New York startup is the latest company to find itself on the wrong side of a court ruling involving the law."
-    publishedDateTime: 2022-05-10T18:43:00Z
-    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2022/05/10/clearview-ai-illinois-biometric-privacy-law.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
   - title: "Facial recognition company Clearview AI permanently banned from selling data to private companies"
     excerpt: "Facial recognition surveillance company Clearview AI has permanently ... Deputy Director of the ACLU Speech, Privacy, and Technology Project, said in a statement . \"Clearview can no longer treat people’s unique biometric identifiers as an ..."
     publishedDateTime: 2022-05-10T19:40:00Z

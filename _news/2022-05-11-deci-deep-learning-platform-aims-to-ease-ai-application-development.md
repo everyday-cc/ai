@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://can-newsletter.org/uploads/media/raw/478cc66ae63932aa1c10a9dbd39c2991.jpg"
         width: 700
         height: 237
-        isCached: true
-  - title: "Application essential to AI development, says Quanta CTO"
-    excerpt: "There is a large variety of AI technology whose development should be based on application scenarios to solve real problems, according to Ted Chang, CTO and vice president of Quanta Computer."
-    publishedDateTime: 2022-05-10T07:50:00Z
-    webUrl: "https://www.digitimes.com/news/a20220509PD200/ai-quanta-computer.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220509pd200_files/2_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "SECU To Deploy Scienaptic’s AI-Powered Credit Decisioning Platform"
     excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that SECU (State Employees’ Credit Union of Maryland) is planning to implement its AI-powered credit decisioning platform. The deployment, scheduled for later this year ..."

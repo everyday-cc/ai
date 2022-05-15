@@ -20,17 +20,17 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Mobile Artificial Intelligence (AI) Market Is Growing Rapidly with Significant Growth by 2031"
-    excerpt: "Rise in the use of artificial intelligence (AI) in smartphones is projected to drive the sales growth in the global mobile artificial intelligence (AI) market during the forecast period of 2021 to 2031. An upcoming study by Transparency Market Research ..."
-    publishedDateTime: 2022-05-10T08:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-ai-market-is-growing-rapidly-with-significant-growth-by-2031"
+  - title: "Machine Learning as A Service Market is expected to cross the value of US$ 118.4 With CAGR 36.10% Bn by the end of 2031"
+    excerpt: "Transparency Market Research delivers key insights on the global machine learning as a service market. In terms of revenue, the global machine learning as a service market is estimated to expand at a CAGR of 36.10% during the forecast period, owing to ..."
+    publishedDateTime: 2022-05-13T07:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-market-is-expected-to-cross-the-value-of-us-118-4-with-cagr-36-10-bn-by-the-end-of-2031"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 45
+    quality: 15
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/eea86736617bebaee6bb8546c05988ae203ee4e6-600x337.jpg"
         width: 600
         height: 337
         isCached: true

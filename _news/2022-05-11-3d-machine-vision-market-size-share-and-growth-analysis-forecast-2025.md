@@ -76,20 +76,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market Emerging Trends and Competitive Landscape Forecast to 2031"
-    excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
-    publishedDateTime: 2022-05-10T08:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-emerging-trends-and-competitive-landscape-forecast-to-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Image Recognition Market Industry Analysis, Applications, Overview, Size, Growth, Top Players and Growth Opportunity 2028"
     excerpt: "Google, Microsoft, Facebook, Pinterest, and Apple are investing in resources and research into image recognition and related applications. Improper data storage, security breaches, and misuse of facial recognition data are some of the primary concerns ..."
     publishedDateTime: 2022-05-13T13:32:00Z

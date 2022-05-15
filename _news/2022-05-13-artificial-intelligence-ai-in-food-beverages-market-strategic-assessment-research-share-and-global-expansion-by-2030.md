@@ -62,20 +62,6 @@ related:
         width: 1920
         height: 1479
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market Emerging Trends and Competitive Landscape Forecast to 2031"
-    excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
-    publishedDateTime: 2022-05-10T08:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-emerging-trends-and-competitive-landscape-forecast-to-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "3D Machine Vision Market Size, Share, and Growth Analysis Forecast- 2025"
     excerpt: "Snapshot The 3D machine vision market has been estimated to experience numerous growth avenues in the foreseeable years."
     publishedDateTime: 2022-05-11T06:44:00Z

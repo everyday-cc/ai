@@ -19,47 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market worth US$ 152.24 Bn by 2025"
-    excerpt: "Furthermore, the market for deep learning is being driven by rising requirement for machine ... with financial might are expected to join this evolving sector. TMR Research is a premier provider of customized market research and consulting services to ..."
-    publishedDateTime: 2022-05-10T07:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-worth-us-152-24-bn-by-2025"
+  - title: "AI and Automation in Banking Industry to Top US$ 182 Bn Amid Growing Adoption of Advanced Financial Techniques"
+    excerpt: "AI and Automation in Banking Market to Register 22.8% CAGR as Inclination Towards Personalized Financial Services Grows - Fact.MR offers unbiased analysis on the global AI and automation in banking market for the forecast period of 2022 to 2032."
+    publishedDateTime: 2022-05-10T16:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9599578.htm"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
     images:
-      - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/deep-learning-market-1.jpg?w=410"
-        width: 410
-        height: 1025
-        isCached: true
-  - title: "Self-driving Bus Market is projected to reach $75.51 billion by 2027"
-    excerpt: "The Global self-driving bus market size was valued at $6.86 billion in 2019 and is projected to reach $75.51 billion by 2027, registering a CAGR of 40.8% from 2020 to 2027. North America accounted for the highest share in 2019 and is expected to be the highest contributor to the global self-driving bus market,"
-    publishedDateTime: 2022-05-10T15:14:00Z
-    webUrl: "https://www.linkedin.com/pulse/self-driving-bus-market-projected-reach-7551-billion-2027-singh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF79jlYfI7eqA/article-cover_image-shrink_600_2000/0/1652194764540?e=1657756800&v=beta&t=Y03vkhqZzhbT4zMXDQAQufQRVf5ZzYAY6AHkrfJ5orE"
-        width: 740
-        height: 416
-        isCached: true
-  - title: "Machine Learning as A Service Market is expected to cross the value of US$ 118.4 With CAGR 36.10% Bn by the end of 2031"
-    excerpt: "Transparency Market Research delivers key insights on the global machine learning as a service market. In terms of revenue, the global machine learning as a service market is estimated to expand at a CAGR of 36.10% during the forecast period, owing to ..."
-    publishedDateTime: 2022-05-13T07:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-market-is-expected-to-cross-the-value-of-us-118-4-with-cagr-36-10-bn-by-the-end-of-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/eea86736617bebaee6bb8546c05988ae203ee4e6-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mma.prnewswire.com/media/713666/FactMR_Logo.jp"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "poza2++T66DY3BTJpHGAxfEr+Pe5dcYwfPMJRWUv6p628yPACe2TZfynT7VK0ZpSmOyMS51xmzNsYDXprZ6G9ypz5SJ5hU9ertATDdqH1FJ3JXVMce/SoJrK4O9xEMjS8nAEBgSX4eBOsX9H5zPDZXxEONlk0x+KS0dEZHXh4voFaUzSDFiPJXd8dWO7Pz9WBrD/7q+0ACRTRLNQyjxKKXEZ2TLRlzcSLR+1LffroJmoskyZHqxRKbNqeOqi1JzEZL4C6hYnU3R8Sk67rLgPjsOz70PHwB1Kje35hxpueazoAheTkyAWvPfFMV04MkzhDWGB6rdZYFg8+N2i1OcinsChFx9eTKDD0D4JQv0hkaLQtKGDL0wPQ5Dh509O/TUABs1pZiYLzxRaAWmTmEPnmy2RjWqUH19sG2769/LvLU2r++DDUmxJg+Dftu4fU6M7SD46cHmSyKy2+BdYXnJnv26gI1Nbe70GI0LlX8YqEBxh98XW5fTqikJP15Pz2hk4qjQ+DhFUGmWxYs+8u3kpag==;hEQN+fjKcDuQVlo+V77nAg=="

@@ -54,20 +54,6 @@ related:
         width: 700
         height: 237
         isCached: true
-  - title: "Application essential to AI development, says Quanta CTO"
-    excerpt: "There is a large variety of AI technology whose development should be based on application scenarios to solve real problems, according to Ted Chang, CTO and vice president of Quanta Computer."
-    publishedDateTime: 2022-05-10T07:50:00Z
-    webUrl: "https://www.digitimes.com/news/a20220509PD200/ai-quanta-computer.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220509pd200_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "DeepMind Trains AI Controller for Nuclear Fusion Research Device"
     excerpt: "Researchers at Google subsidiary DeepMind and the Swiss Plasma Center at EPFL have developed a deep reinforcement learning (RL) AI that creates control algorithms for tokamak devices used in nuclear fusion research."
     publishedDateTime: 2022-05-10T13:30:00Z

@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Face recognition settlement highlights lack of federal law"
-    excerpt: "A settlement between Clearview AI and civil rights groups that restricts the company's sale of its facial recognition technology to private companies also spotlights the glaring lack of federal rules governing biometric information."
-    publishedDateTime: 2022-05-10T09:30:00Z
-    webUrl: "https://www.axios.com/2022/05/10/face-recognition-clearview-ai-settlement-federal-law"
+  - title: "Clearview AI Banned From Selling Controversial Facial Recognition Tech With A Caveat"
+    excerpt: "Meta announced that it was shutting down Facebook’s Face Recognition system and deleting over 1 billion people’s facial recognition templates. Only a month later, Clearview AI won a patent on its facial recognition algorithm,"
+    publishedDateTime: 2022-05-12T20:14:00Z
+    webUrl: "https://hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
+    ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 41
+      name: HotHardware
+      domain: hothardware.com
+    quality: 67
     images:
-      - url: "https://images.axios.com/Y1se0B9OHWWiIVetQUsnP1TOTfM=/0x0:1920x1080/1366x768/2022/05/10/1652146619348.jpg"
-        width: 1366
-        height: 768
+      - url: "https://images.hothardware.com/contentimages/newsitem/58532/content/clearview-ai-banned-selling-facial-recognition-tech-caveat-news.jpg"
+        width: 708
+        height: 398
         isCached: true
+  - title: "Illinois privacy law thwarts Clearview AI's controversial facial recognition tool"
+    excerpt: "A privacy law in Illinois is causing headaches for some major tech firms that want to use facial recognition technology. A controversial New York startup is the latest company to find itself on the wrong side of a court ruling involving the law."
+    publishedDateTime: 2022-05-10T18:43:00Z
+    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2022/05/10/clearview-ai-illinois-biometric-privacy-law.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
 
 secured: "VwLJq4SI1cmUwPYzVApg6btGM+XqmHtXif63gFON7HVxjGdVf4uDUS4MruTV68POfunIeaM3c1xmLYV+rLuc7jDwmTn1iIZQbMikare2dei6OEuu4TBhzW+WGvLRM/NbuW6t/ZI2QWIwdy8wN5G8kIszyGnaq2kgNzdxupIOhDo8IUElQQHJP7w4AoLz7T6I6LpVp7PzE/3dsDbhkVbOvG5frMTclPqS4FjEc9s0E43ssPk7y/z48GtlCespou4Hh2RdXELD21170flRSl9DpEg/xDA3EGpQ9SwgH7p4pvskAu68MDSxwF2MaL/SpRN1a3XmH1t5YrfbM2i3hcdlzqGya6KDl+3ijau39y40t1mBLQ8A9jtJGsO6wSz0skFP4JkSLcbQvkeJs//YNlpzPkoJHZEaT58v++l3eGV2xllGWPKb4vjxvTAiqmXiwjIIEvsp+Bgu1VQFAS3yK4OuElHWrxsOrWSoHJ5epn9t02cxbLe+xXHLOSRTLVrMGC0V1UrVhi9llhB9RFjL4OBwEQ==;pc1sj5FmSh00WqDLTvTpKQ=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Shareholder: Amazon’s ‘astronomical’ misuse of customer data could ruin company"
-excerpt: "Taking a new approach to bringing attention to how Amazon uses individuals’ data, a shareholder is suing Jeff Bezos, Andy Jassy and 17 other Amazon l"
-publishedDateTime: 2022-05-14T18:30:00Z
-originalUrl: "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company"
-webUrl: "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company"
+title: "Shareholder: Amazon's 'astronomical' misuse of customer data could ruin company"
+excerpt: "Amazon has already come under fire for how its uses biometric data, things like fingerprints and facial images."
+publishedDateTime: 2022-05-15T01:00:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/15/shareholder-amazon039s-039astronomical039-misuse-of-customer-data-could-ruin-company"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/15/shareholder-amazon039s-039astronomical039-misuse-of-customer-data-could-ruin-company"
 type: article
-quality: 0
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: The Lima News
-  domain: limaohio.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/05/13/1584269.jpg"
+    width: 1240
+    height: 826
+    isCached: true
 
 related:
   - title: "Shareholder: Amazon's 'astronomical' misuse of customer data could ruin company"
@@ -61,6 +67,6 @@ related:
       domain: seattletimes.com
     quality: 20
 
-secured: "5X9/FCXnyX1dMv02MMYJGhe/khdoJ8i/wGXOD29i0XrtmCT+VVxVvdXYK5m8bQbS7chrmy9cxdrDZvH81YHCw1MVg12lzASzqwqy6l9YWPD5vsnFBLmGA4730IuduVAbNJW6H3g4aWp99S9fy/cAGi4Yd9dpKZ0SHrapBAVil1otNBXwSyqtg6OpVFRL14NqaWMWgPV/Y0Jf3towW9CWFteynd8jpDpA0MNNQostysi5lIav0YqwH0gMUob5hLpwUyzLtmm0BPGECmKdV8y/xhk7DLbpkAdanuxZGxmIAbhl7DXOc6g/J5o4IeIP0UJhzo2UvvHzkgACqe4bktivA8zul6WxupYdx0u1+JNv/dM=;nn9zqdxFr1ndwti0QBOx3g=="
+secured: "cLcMhvf6Ig3g5e/86ZtWbY+EUMfWoTp0ijql6sI12Ynk+/Xf5EjeHYNHqfW6BsknCNglP1f8L+ouYSOi/wiEIaHx3LeW+iGJHx+j9W24+c3iVuqC4CKetcRQCBsJR6CeOc8aDLX0W69MWCIaQ43Sd2zFT6kBXUdYM24XKF4OKG2YGnG0XqXVyJibIBcge9qyWmFgGQxcYZTH3qL84zOfBdwjvkwCoM0ayvaSprHtjsbFVue1/0Z416z0J+eg3T/ixrmlKxqCtw+6h69pToMrFKvGta2gfOUitgM1IWh42A1T681nsz63YFu+vt+m46/kKj77bYmkCw60iTu+No6vdwL5gB5yLpXzODJWlQJs+us=;O00igV67WXZOPdmOWZzrew=="
 ---
 
