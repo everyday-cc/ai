@@ -41,15 +41,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "$35 Million In New Funding For AI To Personalize Cancer Treatment"
-    excerpt: "OncoHost raises $35 million to further develop and test its precision oncology platform, combining proprietary bioinformatics, signal processing, and machine learning."
-    publishedDateTime: 2022-05-10T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2022/05/10/35-million-in-new-funding-for-ai-to-personalize-cancer-treatment/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "XSh+YX47ScyPQmi12Am13JPnyE4iuGb5Eavbmcb5pavYSbuXfDsXHKs8W7SIQb6brOiHFZz60OxSXIQZQAMaCUbZgIo4g3mIpI0maIArbky/f1VJtQNy0xnDV/dYmZlPgsUS2bi0ndi8QqHgTTU8wRw+NUNnJ2WLPlBI2o9TgD0epz5U0Y4wlEN2Z3j5/dVyF/ZFP8LWQZKG7vn0o1DlFnTXKTJm0lz+zyHIduWYdU77E7cXwdHBc3PmTHdRWshSMp84d0iaTl3HRivofp0fbj/+7FD6ZMd2dS3C0bOaBIBX02dQeQlCld7wVR5iJSIPOfprHw6tpQ5KznLtwimW8XNuIUS47aHWPoa9W5Yr7aKdpLu5j/qK3xZoD+pzay/kT1tAjQPIZFFPKYhwiMNeZpNMJrEb2yTRfpx0LsV9W1akAa3RVoml0hRf0yZTuf0d3a+6w1k6PAacgBiohNaQMDKytEahzqeks62D0pzqJ5nV5EcTEMfJLyzXFQh5F8cpY/eGWWD9j73mDsh1fVdmiQ==;LFYPEafhS12dkp8UsjoI6w=="
 ---

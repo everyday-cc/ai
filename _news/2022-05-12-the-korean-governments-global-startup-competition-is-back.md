@@ -1,24 +1,27 @@
 ---
 category: news
-title: "The Korean Government's Global Startup Competition is back"
-excerpt: "The K-Startup Grand Challenge (KSGC ... in fields such as Artificial Intelligence (AI), financial technology (fintech), logistics, biotechnology, robotics, game development, Internet of Things (IoT) and e-commerce, are applying to compete."
-publishedDateTime: 2022-05-11T19:42:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27149199/the-korean-governments-global-startup-competition-is-back"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27149199/the-korean-governments-global-startup-competition-is-back"
-ampWebUrl: "https://www.benzinga.com/amp/content/27149199"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27149199"
+title: "The Korean Government’s Global Startup Competition is back"
+excerpt: "Application period is open until May 31st for the K-Startup Grand Challenge startup accelerator program organized by the Korean Government. Startups from"
+publishedDateTime: 2022-05-11T19:40:00Z
+originalUrl: "https://www.digitaljournal.com/pr/the-korean-governments-global-startup-competition-is-back"
+webUrl: "https://www.digitaljournal.com/pr/the-korean-governments-global-startup-competition-is-back"
 type: article
-quality: 24
-heat: 24
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6f1e17aee11727a0b88b5e8f92ca7a250a88c3bd-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "NexOptic Announces Collaboration with Semicon Networks & South Korean Government for Auto-Pilot Systems"
@@ -36,6 +39,6 @@ related:
         height: 337
         isCached: true
 
-secured: "OeGFgar4wyOmcdmfaNKGBESFjRIrZ2AXS7cOBi0traGDWXxINKfW7EobcD5PvOKNt3HcVzBzWV4lJppYNFsP/eZ17BJirdvesjUMQ1GkgH8O5uL2J1DZtnzH6+fhT/1zccCQ3pKDfW8lXPrUw9nROyvLZW97xHdg7JxJkhIb0i7K2ppunHCDRBb31WNxFWa13pC0u9mUcpS4kj2klF/T1MH7bvkgl8Y1xjG2AhzuZ8bZmsPznmZwx7LzS3UY8tpfpxL836dnQIXc9FRKKdr3JJhn9t4duQfBJWi+mcHky51VDTCWow3l02QIenQUuutU0OGQ/sx4bltWg52Hd9lOU8sk5Mg1FsY4Nnwcw01mD9YGKrCVf0d7QOIuymDtMrIFvS9OZeT4Gbwf6BvpPpbTrr7OkWrjUmVp/IRSBsgxwIer+ktB/W6I8b3NFIBXeePGJrlbDHfA9vvDM0l1ykyWhnykwylp8G7wAfJbW82lWbxZ+a4WIpsKJszhPBvKzTQZwkB5eojqSYbIU5fdPnpLeQ==;S3CnNBOl+W+GLOc1YgNerA=="
+secured: "HwbhuggRpqjDBgwpXiON+6Kbzlo66ArbkZiwyn9zCq/M9eo9FE86SVp7ZX7bf5gm0ticJuIdfwbLOeJArt/dMwVasMOzUPejCaMbOraLI8E+WtF0Yz3WR43OQ9XmizvQ2kR3rbK6+1vKSC0o9fItfGH/6oypqhH9a24HqNaEG8mbouc/QAhZ57GTJO+LSqgeBTJU8R+XnRkrTiAHCibHbmISU8xaTlZq6onZMKJ0BLyYTLiT14EVtyReJEgW575aruq6p7YaUCAzc0MrfxhCkJu2gAKoEwaRN3omF/X1uQmeK7NuWTup3hwNnqH3/ThmSjW1iKYvfjD4KEuVarsKQ+f3NBOi77yGsyQieIIsaWY=;F157CFxDncexZPyeMmrx6Q=="
 ---
 

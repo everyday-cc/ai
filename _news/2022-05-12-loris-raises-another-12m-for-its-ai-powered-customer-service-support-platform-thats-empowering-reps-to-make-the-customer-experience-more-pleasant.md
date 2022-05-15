@@ -27,51 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tenyx raises $15M to build more intelligent voice-based customer service AI"
-    excerpt: "Tenyx, which is developing a voice-based customer service solution powered by AI, has raised $15 million in a venture funding round."
-    publishedDateTime: 2022-05-10T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/"
-    ampWebUrl: "https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/amp/"
+  - title: "Webinar | Reimagining the Banking Experience with Artificial Intelligence"
+    excerpt: "The rapid evolution of technology across all industries is revolutionising customers’ expectations around digital transactions. According to industry estimates, 6 out of 10 customers say that their experience with one industry is likely to influence their expectations for other verticals too."
+    publishedDateTime: 2022-05-13T05:30:00Z
+    webUrl: "https://ibsintelligence.com/webinars/webinar-reimagining-the-banking-experience-with-artificial-intelligence/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 36
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2017/02/gettyimages-84164497.jpg?w=1024"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Customer service automation startup Lang lands $15M"
-    excerpt: "He would be — he’s the co-founder of Lang.ai, a startup developing a platform that automatically tags customer conversations to resolve service issues ostensibly more quickly. By applying ..."
-    publishedDateTime: 2022-05-12T12:18:00Z
-    webUrl: "https://techcrunch.com/2022/05/12/2313590/"
-    ampWebUrl: "https://techcrunch.com/2022/05/12/2313590/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/2313590/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2015/07/shutterstock_102266374.jpg?w=1000"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Concentric AI Raises Series A Funding Led by Ballistic Ventures to Autonomously Secure Business-Critical Data"
-    excerpt: "SAN JOSE, Calif., May 11, 2022 — Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, announced today it has raised $14.5 million in Series A funding. Led by Ballistic Ventures, a new VC firm solely ..."
-    publishedDateTime: 2022-05-11T17:06:00Z
-    webUrl: "https://www.darkreading.com/risk/concentric-ai-raises-series-a-funding-led-by-ballistic-ventures-to-autonomously-secure-business-critical-data"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 18
-    images:
-      - url: "https://beta.darkreading.com/images/og-image.jpg"
-        width: 342
-        height: 342
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/Webinar-Hexaware_May2022.jpg"
+        width: 1118
+        height: 617
         isCached: true
 
 secured: "aDYr2jdCCNJaYj3Unb7rORNGGTDoAS/wgSBVxF+XAgIeQEwW3oUOH2vQPItip5iXsfMjf1qF0Obw7HbocJ4eUEcp2UbhrxERoYG6Mb2+hmEdFD+3QY1onXY9vRrQ0bz44vzhM9C5V2mGITG3o1f0UXivNjoSAXRjebVAzwIFBCYD2Jp1FPYNtbn0rQQ6yD9YvKbr4LsyTxXvNqTQwysHgQOCOBJa5F7GSg3XU4k9aULOKNW8FteB1zZh6L0FzLmICAPldy8hoWmdgK455cxdPfpcdoGMxUegaZv4ZhVJEQ9zid0Y9gqWXg5krkX+Q/p8+tp/v9fd/FaJiRFqs8ZtzFptHUHbqk83TPh1NvKlLaQ=;7OLXmV64ZCt6djwvkmX3UA=="

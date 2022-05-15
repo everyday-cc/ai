@@ -1,12 +1,12 @@
 ---
 category: news
 title: "From data literacy to AI skills: Vital traits you need in today's workforce"
-excerpt: "If we don’t focus on the right type of AI, Acemoglu said, there are “potentially disastrous consequences for income inequality and social cohesion.” While there have been concerns over AI replacing humans in factories and warehouses, savvy employers ..."
-publishedDateTime: 2022-05-14T21:01:00Z
-originalUrl: "https://www.standardmedia.co.ke/business/work-life/article/2001445450/from-data-literacy-to-ai-skills-vital-traits-you-need-in-todays-workforce"
-webUrl: "https://www.standardmedia.co.ke/business/work-life/article/2001445450/from-data-literacy-to-ai-skills-vital-traits-you-need-in-todays-workforce"
-ampWebUrl: "https://www.standardmedia.co.ke/business/amp/work-life/article/2001445450/from-data-literacy-to-ai-skills-vital-traits-you-need-in-todays-workforce"
-cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/business/amp/work-life/article/2001445450/from-data-literacy-to-ai-skills-vital-traits-you-need-in-todays-workforce"
+excerpt: "Comfortable working with AI and robots Most experts agree the future of artificial intelligence is the future of work. And robotic technology is expected to keep expanding, with the global ..."
+publishedDateTime: 2022-05-15T00:24:00Z
+originalUrl: "https://standardmedia.co.ke/health/work-life/article/2001445450/from-data-literacy-to-ai-skills-vital-traits-you-need-in-todays-workforce"
+webUrl: "https://standardmedia.co.ke/health/work-life/article/2001445450/from-data-literacy-to-ai-skills-vital-traits-you-need-in-todays-workforce"
+ampWebUrl: "https://www.standardmedia.co.ke/health/amp/work-life/article/2001445450/from-data-literacy-to-ai-skills-vital-traits-you-need-in-todays-workforce"
+cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/health/amp/work-life/article/2001445450/from-data-literacy-to-ai-skills-vital-traits-you-need-in-todays-workforce"
 type: article
 quality: 55
 heat: 55
@@ -25,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "QU3g7NQqFwRf2xZNO4f51alSYZdf5qdt4uqSDKTgxTfUWTQ41d9RC3U2hVyZP9G8jgmXiEdf1TWb+pU6k/yAWmavTKY+JTW0EU0aefHrJboorK59BB4WLpG59e1Yojaaqg21D+tUbeESR93ZuZ0hXCFncbW6G/nLt9CofGg/eRZv20A6etgMU6uBMXWIAEaeKCdgQZ6SXG8srmxV3AMaSo4TuMK9SwgXL4CrPcjEMWxyZ7hQgnucIP9mSgToqYZ8MaTzEA6dP80pv0ZKm6QVLI+BoMz3u6WAN2VCLwe5ydTaxNeUbcsTSggNJs98pIOl8208eeziohWy9ELYeZFJr3SyX6hOwd+lzNOYBG1dN6w=;XvNm6LDB86gKi9tzb2voNg=="
+secured: "wCObszuXhLoaMJw/j+Dcq5LPOMLmZomobAzZSNpgfGHQiA3VKDs/JmMeDvtF1R7pDqBbfkS52c6XKQVcFmkTiNnpVgWKmKJhQ8S507+HceI11HJM97g7pp2FpdXzkBPlV+MreF67vjxsc0SJVBCQzm5LumDVFfu+prophFkbvYP+6fZ0tLFBT8xgVs2bdeY5RFxN0tm5nMzzpzGZ6UBEyd0oYEE0Z11pZyQhU2X5hVfMm51hOfaCauOX8v+EtA2Ybj1igSQdE8JEo8IxEQFgjTcSLhbKnQNf2v4Low/XS4pwj2dLk8mNYLb13WK/tNHJ9wbY37wvrJAbFEJA9az1eOr8edi3VbRdicrtakrqHo8=;f4XqSYbTAsZHM2zgPS3puQ=="
 ---
 

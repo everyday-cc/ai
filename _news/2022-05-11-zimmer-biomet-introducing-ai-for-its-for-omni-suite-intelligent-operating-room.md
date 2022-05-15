@@ -23,31 +23,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "Zimmer Biomet Debuts First-of-its-Kind Artificial Intelligence Capabilities for Omni™ Suite Intelligent Operating Room"
-    excerpt: "We seamlessly transform the patient experience through our innovative products and suite of integrated digital and robotic technologies that leverage data, data analytics and artificial intelligence. With 90+ years of trusted leadership and proven ..."
-    publishedDateTime: 2022-05-10T11:17:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for-omni-suite-intelligent-operating/article_739d925b-aacc-548a-85b1-9c6bb8123159.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 13
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/a2/5a213679-2d83-5be9-a7f6-0c4114afbb65/612e0c67988dc.image.jpg?crop=650%2C341%2C351%2C0&resize=650%2C341&order=crop%2Cresize"
-        width: 650
-        height: 341
-        isCached: true
-  - title: "Zimmer Biomet Debuts First-of-its-Kind Artificial Intelligence Capabilities for Omni(TM) Suite Intelligent Operating Room"
-    excerpt: "We seamlessly transform the patient experience through our innovative products and suite of integrated digital and robotic technologies that leverage data, data analytics and artificial intelligence. With 90+ years of trusted leadership and proven ..."
-    publishedDateTime: 2022-05-10T11:32:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/05/10/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
-
 secured: "O3SFNt/St5iqLvE+ZtL2pMzcYn5X3ETtXEzGKOedMbtRc2Hjb89rCTFrsgnujObWCfVJaeSWpcIcrlcxsp+uSCwadBfz/bAxbZlALWQXHsWw3kefMCf/0ONvAxou55bAE3g6IYcoYNIH0h/9g2aZBpimEhyAADlM09hsfT+0hQSUau3DA94Gxz4aGPL/7fYRQVhcMTCOl0Lnhh4l6W0aGSHZi0NEJAg4OAkb1bHAOh4ayLN6KqX0WxPX3H9gXclbmlSkXbW7dAPWAhghCsn4Ao5ZYRCc3NwRedxDhK9Xd/6m+Mh0N0LcRnKbqgA5vKDoW8M4HbABNWsyfHI31yKpzbDojzAIoPQB4jemVA+Wn4PnLdqMZSHXm6aLF/2RbwHQ8eWCvVGqjX7jQQKCtctlZ2M/iALkltKQAMxAOR3mgzKaFHd62lPwkvSWDWm3Ruz6FeNeX4FYL9HIwJH+0YGXcMeRMroC8QS5z65Aobw9KgAHnuwpoUSouSCrw0osvoK+MWptwwHe3WAaEC0O0yVDcQ==;1gN4hko0EMrRdVyGGKaxmg=="
 ---
 

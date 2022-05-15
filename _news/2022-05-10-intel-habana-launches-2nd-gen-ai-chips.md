@@ -78,9 +78,9 @@ related:
         height: 600
         isCached: true
   - title: "Intel launches new AI chips, challenging Nvidia's market"
-    excerpt: "Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion. AI chip startups have been getting huge investments in recent years as AI computing is one of the fastest growing areas for ..."
-    publishedDateTime: 2022-05-11T02:58:00Z
-    webUrl: "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9"
+    excerpt: "Intel Corp on Tuesday launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp ."
+    publishedDateTime: 2022-05-10T18:32:00Z
+    webUrl: "https://www.reuters.com/technology/intel-launches-new-ai-chips-challenging-nvidias-market-2022-05-10/"
     type: article
     provider:
       name: Reuters

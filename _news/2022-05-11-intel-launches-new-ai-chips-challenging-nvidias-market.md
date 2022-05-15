@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel launches new AI chips, challenging Nvidia's market"
-excerpt: "Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion. AI chip startups have been getting huge investments in recent years as AI computing is one of the fastest growing areas for ..."
-publishedDateTime: 2022-05-11T02:58:00Z
-originalUrl: "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9"
-webUrl: "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9"
+excerpt: "Intel Corp on Tuesday launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp ."
+publishedDateTime: 2022-05-10T18:32:00Z
+originalUrl: "https://www.reuters.com/technology/intel-launches-new-ai-chips-challenging-nvidias-market-2022-05-10/"
+webUrl: "https://www.reuters.com/technology/intel-launches-new-ai-chips-challenging-nvidias-market-2022-05-10/"
 type: article
 quality: 67
 heat: -1
@@ -203,6 +203,6 @@ related:
       domain: stockhouse.com
     quality: 4
 
-secured: "IS7dAaKEjNF1GFs7sZ5oBRjwRPlual+QEtAUEXKl+v6fouQZrYvNslwyaem0OGn3A8GzIsPlshAf/WzjUMCygg1on6BZwxdJGr6tMR7agUZn4U6abQpZk0ZhdYpXQ/KsWRD0FrMjZqb3teBstY100rcORLfUKLQWWONRbketubZRmguRbGU07pCsfpmyw+ZrPJBmkWT0PoZNxuFu7KrnFraRODHsr2jR/GhCGb+dv3iE7wqTwW0a0WTgBxeADMoof3afQYIXws+gB3mjzhNEaTQ+DLUVGcKye/as5kHqYqXuhEsiBaGEZ9xcDIv+dZftjuRNiA1hyssf+sLEbnQ7G2wlqbVaq2KypgnZYPkYAOIrY/lD6S+EF2mTCCwLTLmoxIPoCV5KKqTVXSDvn96gQb5HEDNXDAlbkJc4YqD7XF/XJMioQbMe6Yqp+nOi2z/B+nX/qN1lmev+VIn66IrXYdMBmQN/IrbfVArISGp2CYdGgsaeZ0lXhyahDVb1+EgKDV4k4ee+23xelmkmxnBDqA==;taQ3vlSTVKFCL4Tj/85jrQ=="
+secured: "ttTe9J/RfLwehonNJkdQaWJ/4NjJxl9sPuaTW7t5KFVocpf8T+Blj5pGojT5oHkRNNdF5MorK+lezNeOGpeoZ5O71EvjOw3QUToccS65QlHQyV0bQWHsOIS/EDarEPhxim3DiKNmgxTQ1D0QCINNGWyhyHWz1skFVOoHl0Z8tTJz+Gt8Oy4QxVaTMn0YgSbQK8sbP5Ej5eX2p9I6RfB415F1TREiB7b9JWV4SIB5FMk2xWHIK7uK7jQN8Yrnfl+aqeqXQXJSoI2WzzY9rkwQtiSDPmJiL9vWjXSJOZCiEOIy1QTYyPJKX/PcqOQ0dS8BLfiIzsBWUCS0ag9a1krUl6cloQchNDS9g1oOratB20o=;3qNYjpya4kPt03QKCg0nAQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.in/news/sas-viya-on-microsoft-azure-can-deliver-20
 webUrl: "https://www.crn.in/news/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-forrester-study/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Avaya enters strategic partnership with Microsoft to deliver CCaaS on Azure cloud"
-    excerpt: "In addition to the Microsoft Azure, Avaya CCaaS customers will gain access to the power of Nuance’s Contact Centre AI technology integrated with OneCloud. The combined capabilities is said to give Avaya customers flexibility to create and deliver ..."
-    publishedDateTime: 2022-05-10T11:20:00Z
-    webUrl: "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud"
-    ampWebUrl: "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 69
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/teamwork-puzzle-2-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud™ Solutions on Microsoft Azure"
     excerpt: "In addition to the reliability and scale of Microsoft Azure, Avaya CCaaS customers gain access to the power of Nuance's Contact Center AI technology integrated with OneCloud. \"The combined capabilities of Microsoft and Nuance give Avaya customers ..."
     publishedDateTime: 2022-05-13T12:16:00Z

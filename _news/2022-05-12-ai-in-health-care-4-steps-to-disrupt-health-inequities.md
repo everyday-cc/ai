@@ -51,14 +51,19 @@ related:
       domain: globalbankingandfinance.com
     quality: 24
   - title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
-    excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028. Londan, United kingdom -- -- 05/12"
-    publishedDateTime: 2022-05-12T19:07:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+    excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028.This press"
+    publishedDateTime: 2022-05-13T10:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6f1e17aee11727a0b88b5e8f92ca7a250a88c3bd-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "Z7chd6Wohy/KUaRPqwGPtTGLOrzCPzrleuH7u9zkerLgnGod9FghjFwSegrc+6lQMCA5SWwv3igjGTSKIzFkVZw+/a7UgPEwe0IPz/NXCkTm96Emu8RnY6K4GxPTxdeqTeMZaHC7dW0XvdtyVc4mRBMX5Yzq0G/GneSefm+cE6moDMEfPNEGVeUWONvhP5fOEUbe+l2kI9xPBfxyhCXDbvOQoEK9KilViXfgBMKiTOtHQvZlEZT/kzqOSAeGC1g+6X9Pe8rzOtoaY3Nx7C9Z6PsxoYwmLNm+M/55aJvCeTduikwE7FrLylBqn7rSFGI5W9yJ6SxhrVseHodRmTHHr1wPk2aG8fcyn+ie9/voE/gFbxIPfld3WwjTiKnGaMEe2fB/+A4VRNbKix8tRqrv2X2Lnexp8bIswGKcrRWjGa6j2tdJEPUbz72swmkF3uZdrOnwXjoWDlVGqlyYB9vrCsrPR++e99SXA6XBBCfpD0ctYMxr23dp+PRy+mSm/10RtnY/K4Ipj53WTBIqISPIUg==;XSeAp+DJWnoRHze4iDfPTg=="
 ---

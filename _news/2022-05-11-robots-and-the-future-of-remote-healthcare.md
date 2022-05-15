@@ -42,16 +42,7 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "How Visionary Leaders Will Drive The Future Of AI"
-    excerpt: "That said, ask any two individuals what AI is, and one is very likely to get two conflicting answers. This is not just among ordinary people but also top-level decision-makers. Ma"
-    publishedDateTime: 2022-05-10T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/10/how-visionary-leaders-will-drive-the-future-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
-secured: "hGLay0Ek+RrJAW3Oin7kd9cjBodC3OQTsjkWa6hIMwqKkId5vDSlr5s9jy3BmhBLlrY3VwjxGPEoXptACY8/5Dd960N6KCqY5EZVPkukX2yw4UXWRLLvpYUVck7TM12ncXCtPGGcu0cxW7uqaGqIdwWAXvCWL6RjOz/qugDQbvxe3xjLsTPhvRhJhnzA5KlN0OmCRMzvG45rvi32XmYT4ndjmASmn0H7TisUw16mzJJOH+7cDYijRTitasEKOrpEc2gqtAqAoxqc9T4X4iNyoh6PqFyMCN8nVmGWLVyTolTBNJX1XVOR5BxeX7ADTcTLVn+90+DuC686M+jxkYBdRcY5OaT9qj98HaaXFQIBjR8=;YqkrgWrfQg6w02MmC7AUDg=="
+secured: "so6RypUQL8g1U9ah7U7Id9jDOpcksJOHBlAfTNuvT7HGM0lZc2YXaR3rI9JI/oTnp6n7lfJ8jUC2jvIT8EcoLnHxfcrGy4PkT9QP4XryV6vekwCFjNv6cbANt1oeNxHVWZvwSj+zQ3gEPwGDovDFDFCX/TVaB3MlJlGh13a/SrbvgfjpJDMmMduBqqj6kUwLZ5bodRai+nu42DOqTpZ1Y6kJNzbTYmAQh779ZlM1vsSlTjAkstyhHZGiT8KI0FDZ7YiXl+YmnhLIDJzQF1LlAq3vNlBWdI69QwuR08KG2I/7MpPbcDeqx8vB0z0Rj8FK5PvhiLcCW8W5F4rF7twre6gmOdCs30pSLhMLBQRqkVOHyM/iLbz0PKYexTDo2BABduosBvCn8Ml1mWFWVwkTUwmrs7BTmf9K56GE751tJeGfuFYuaRdUQ6iPQ0BY/Uw4NUdl6cDnEd7fCGtVG1TdaNGLPnHErWTf6It8VNuCT1qpV1nDsxlvFiOXbEOz4HozDZiIT6xMbSLM1eLUS8Y6qw==;6U0GuzA/2yjQk1PMEmY7Dw=="
 ---
 

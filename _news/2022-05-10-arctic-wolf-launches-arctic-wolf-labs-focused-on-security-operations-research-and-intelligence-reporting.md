@@ -24,17 +24,6 @@ images:
     height: 342
     isCached: true
 
-related:
-  - title: "Elder Research and Statistics.com Launch Machine Learning Operations Certificate Program on edX"
-    excerpt: "Courses support the use of Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure Machine Learning (AML). edX is the education movement for restless learners and a leading global online learning platform from 2U, Inc. (Nasdaq ..."
-    publishedDateTime: 2022-05-10T12:38:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/elder-research-and-statistics-com-launch-machine-learning-operations-certificate-program-on-edx/article_e160604b-43f8-5cb9-81e3-faec40ee3c79.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 9
-
 secured: "scYBIw8NB7llq8lOCoFCzKSgTid9KiiWu53MaK5jlz/1zKyp2M1NplYqDl8H/sypdbNoOppT0yqhNjhQeIZXKl2WuakFjRxtZ9xNgSx/N+Xnq8PX6eGDqm4avYLAX96vCtwxluGk7UTv5FIMZZHwGp7xr6TrOMTILJT04FwjEf6guyxC5QuH13IBSGkF69JOEznwudOlchJgJoaiPA6ASgI3BDjvHSkDc2lCxr+EJ7ds2X7uRgV7mR8Skd7ClaJQRLLyQkA51I3dNNndUq0BvK/8M9SmdxZieC+4mdR+P+CeuS4e7sqfdsmmuZwE8o5wClNOkEw6mWfFZpkx7Fho8rbvSB242cR7qLwgEzxV62jNqV7X3HmArgWO1qKvDcU+MYf1jYC5kFKJq1Q9yGhLjzeCW9g1p6yxpAyuk1ltynJ5oz+KCNIuiJhWkhlmNiY/QzfXBIU7MZEz+XhxyFMavf8rZ0jQewdcRAkQHb9nI3fzbgCxj/m8dvbCe9oA/bqsXliMyAuqFd3KN1k7SxyW0Q==;k6CssRgqw1U3PC/WXsLZPg=="
 ---
 

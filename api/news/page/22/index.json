@@ -2,57 +2,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_news/2022-04-23-ai-tool-accurately-predicts-tumour-regrowth-in-cancer-patients.md",
-      "title": "AI tool accurately predicts tumour regrowth in cancer patients",
-      "excerpt": "Exclusive: Tool predicts how likely tumours are to grow back in cancer patients after they have undergone treatment",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
-      "originalUrl": "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d1dd9f83b44248489e5d8b093ad28b046262e0d5/0_182_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=25109500e1bdf5d279d65eb44289f9ed",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
-      "publishedDateTime": "2022-04-22T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-23-house-lawmakers-investigating-govt-use-of-facial-recognition-software.md",
       "title": "House lawmakers investigating gov't use of facial recognition software",
       "excerpt": "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates.",
@@ -1115,6 +1064,49 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies.md",
+      "title": "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies",
+      "excerpt": "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26754709",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26754709",
+      "publishedDateTime": "2022-04-21T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

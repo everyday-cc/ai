@@ -2,57 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2022-04-21-how-to-improve-contact-center-training-with-ai-simulation.md",
-      "title": "How To Improve Contact Center Training With AI Simulation",
-      "excerpt": "Salesforce \"State of Service\" report shows that almost 80% of contact center agents say their company views them as customer advocates or brand ambassadors, and 77% of ag",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625eebe47a9fb17059edc980/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/",
-      "publishedDateTime": "2022-04-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-21-the-metaverse-needs-conversational-aibut-its-no-easy-ride.md",
       "title": "The Metaverse Needs Conversational AI—But It's No Easy Ride",
       "excerpt": "There are a few reasons why consumers and brands have been slow to warm to metaverse technology, one of which is the inadequate quality of voice and chat assistants.",
@@ -1180,6 +1129,41 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows.md",
+      "title": "Koïos Intelligence and Applied to Further Digitize Sales and Service Workflows",
+      "excerpt": "Applied Systems today announced a new collaboration with Koïos Intelligence to optimize and simplify insurance sales and service processes with artificial intelligence and natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8525727/koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows/",
+      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8525727/koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
       ]
     }
   ],

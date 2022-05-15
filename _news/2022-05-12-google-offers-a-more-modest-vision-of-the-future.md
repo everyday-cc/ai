@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.a
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/11/technology/google-conference-ai.amp.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How Visionary Leaders Will Drive The Future Of AI"
-    excerpt: "That said, ask any two individuals what AI is, and one is very likely to get two conflicting answers. This is not just among ordinary people but also top-level decision-makers. Ma"
-    publishedDateTime: 2022-05-10T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/10/how-visionary-leaders-will-drive-the-future-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "QvSrSeSn+EoMl9tOhXUXQFUJyg+ZhUZbjTOGSmKNxymwxc/cyawk9M3o2s0hQRSaZQLv/WNLfT7+oWw4jUyB+JB89gpoLQJuKFRT5IldGfhNfmFrU/yijs/PW53fhZz8PelHc9+6B1lbBYKYIFKiuUR0qbICg04/zRTH/rutOAiS1Dt16kFxNNGiNzDfKnD6ieEdKLeyl0x4eZlnH2NUM8a0dhL2f4fFDA55P6CchAkdzw9S3LEHxTFHjbm6QnnHw/wfdxe6QspanSGK9AMWG8b+eLrvhFkfpbVEQWac990gjgrXfNOXfoG8oP1XtFxU7LNRSzd1BWywoHCDFMx2tHrqQL5eSsG7371bEGa1buM=;y1PE4G7LDqlQBRnpQ4Gmxw=="
 ---

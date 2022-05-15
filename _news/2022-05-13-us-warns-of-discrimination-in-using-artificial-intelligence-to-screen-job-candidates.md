@@ -2,25 +2,26 @@
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
 excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-13T02:04:00Z
-originalUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+publishedDateTime: 2022-05-12T21:12:00Z
+originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Texas Public Radio
-  domain: tpr.org
+  name: New Hampshire Public Radio
+  domain: nhpr.org
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/eb65c16/2147483647/strip/true/crop/4365x2457+0+408/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F14%2Fgettyimages-1240670492-7dae1eac0f702f45f1eaea9bb03fc59a3a40ce0a.jpg"
+  - url: "https://npr.brightspotcdn.com/dims4/default/c12b64b/2147483647/strip/true/crop/1920x1081+0+100/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2Fcb%2Fa74a1d844255ab2edff35ef4b192%2Frochester-city-hall-nh-nhpr-photo-dan-tuohy.JPG"
     width: 430
     height: 242
     isCached: true
@@ -89,6 +90,6 @@ related:
         height: 400
         isCached: true
 
-secured: "CSR2MFwyQPHmcu/7OLd108rW/jTMVAPQ6eUqpwFM+I2AvQwBytOEdMQLsH1kk4cJrZAGphqVu0x9vhzabTHC+Jd8t7ZWU6/Kd5tJcgGWNXjpCpGdJIcKoGM0ulaapBahBgBeCIfEmkdnmjStKe79SYAth5ydeQkLVrBVKSU89rx153r2e9bTxtUHIQdqP50/hugqpwXzwirGgeKZM+cA6Lu1d0vmHfhJ6e0nPUq6Wm+L3kG0Vm0UaIcz6CuBAwPiBny/iOd4/yTLQHY+zOm1QVFEdmkON4nQyimCrP0WCR0ZTlCe1RDJQslYj7Xf16VMF4UsLHcYR7wVWM1GN8nT6jLZRxFSZ/IUr+N/DPxNELQ=;/eUTnl3EXJENjU5cmI8Eyg=="
+secured: "XNN4101oiyCt81/RxzoX4HfsggQ4s4ATtmfB1Qd0yHMp2hnkC7SoD48wngXbyI++gTRbxYNnzMnoX+7jbcgXu8zE32JSf0nQUAmIk8fbVON47V/fSQSFx0rcj3qHjehtjsBuuo45LAvmLGQckptQemr4tb5ftogU4YLUwo6ZoWosp+1AYyq9Tk5SBIF2/ASbUuo4m+1BJ4LRsIBGROyVti4IKxWBNG+Y72gsyj420lKlHMR36DvfRrzj/CcPA9Khc0DPHBNkxUXNDERonADaQjlETXl0eevZDcywB5RxK+VlRGAPHj9X3t0PfWUHg5CrpMzOQaVDRKCQtUuDq5Ts6qqYnMn+aQL/EwHLCZ/tj7c=;LkF5GLZqk3zXj2aWPZW0Kw=="
 ---
 

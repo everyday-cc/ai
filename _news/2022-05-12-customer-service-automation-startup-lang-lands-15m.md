@@ -30,51 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Tenyx raises $15M to build more intelligent voice-based customer service AI"
-    excerpt: "Tenyx, which is developing a voice-based customer service solution powered by AI, has raised $15 million in a venture funding round."
-    publishedDateTime: 2022-05-10T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/"
-    ampWebUrl: "https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/amp/"
+  - title: "Lang.ai looks to help orgs extract value from customer conversations, with AI"
+    excerpt: "Lang's AI-powered customer conversation platform extracts the key concepts in a conversation automatically, so they can be grouped into categories that make sense for a particular business."
+    publishedDateTime: 2022-05-12T19:54:00Z
+    webUrl: "https://venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2017/02/gettyimages-84164497.jpg?w=1024"
-        width: 1024
-        height: 681
+      - url: "https://venturebeat.com/wp-content/uploads/2018/07/conversation1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 792
         isCached: true
-  - title: "Loris Raises Another $12M for its AI-Powered Customer Service Support Platform That’s Empowering Reps to Make the Customer Experience More Pleasant"
-    excerpt: "Loris is a no-code AI solution that integrates with existing customer service platforms, to assist agents with language in real-time during conversations. CEO Etie Hertz shares"
-    publishedDateTime: 2022-05-12T13:27:00Z
-    webUrl: "https://www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/"
-    ampWebUrl: "https://www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/amp/"
+  - title: "Taking The Conversation To A New Level: How AI Can Help Businesses Transform Customer Communications"
+    excerpt: "Conversational AI technologies like chatbots, virtual agents and voice assistants (think Alexa and Siri) have come a long way since the 1840s when Ada Lovelace wrote the first machine algorithm. It's remarkable on so many levels,"
+    publishedDateTime: 2022-05-10T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/10/taking-the-conversation-to-a-new-level-how-ai-can-help-businesses-transform-customer-communications/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/10/taking-the-conversation-to-a-new-level-how-ai-can-help-businesses-transform-customer-communications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/10/taking-the-conversation-to-a-new-level-how-ai-can-help-businesses-transform-customer-communications/amp/"
     type: article
     provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 21
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://www.alleywatch.com/wp-content/uploads/2022/05/Etie-Hertz_loris-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Concentric AI Raises Series A Funding Led by Ballistic Ventures to Autonomously Secure Business-Critical Data"
-    excerpt: "SAN JOSE, Calif., May 11, 2022 — Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, announced today it has raised $14.5 million in Series A funding. Led by Ballistic Ventures, a new VC firm solely ..."
-    publishedDateTime: 2022-05-11T17:06:00Z
-    webUrl: "https://www.darkreading.com/risk/concentric-ai-raises-series-a-funding-led-by-ballistic-ventures-to-autonomously-secure-business-critical-data"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 18
-    images:
-      - url: "https://beta.darkreading.com/images/og-image.jpg"
-        width: 342
-        height: 342
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,4000,x0,y128,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "rJigZA9+uFZkmYHpnSYV+sExG9zzG7uN7ldC0MDRwBGzMBSp42s8bokhgdCxFrYExgs4+NcH8+VlfHybhkFKMIFWqaC663IuDmnrZn/4r7F4JTenT8m2ql3M4LJizJSKWJPy72pe2qVua2by2VHqu2nWWTa6yaLXqT90pd0Jx4Uj3AAbCp0Jjs/V429YUmOnP/O6nX5jh3xg5nXnxIdSrqD/AKAc1UYafiasgYwKZngDTXaUGr+eTx2CCG9tDJurlNLWYiwKNbPQB2wL9qRAj8OWyF292lMXeQX2S/EyYH0u9XhoIWuDLMVag4ynTH2FvAa7cqDV/vFDsRv0MpS6tCzWjYzaFYfls0dhVjLtNPUt2RYsgTcGHXAuLcDtrFVIeJUwH4BHYmyGEsPOOOgnVPrNyiVBXBEXWVhfLacntXkFk+vhyVAvEjujGNkyFbcDoAzzxnQirCpnjs8vYa7iWK9S/Os74bETi6K+myhaEdmb1jloe7m832+WhKQJiY19yYDuJAF0r3FtDmnl9mAUeA==;hzQ5YAuosYYIut2EMZLZdg=="

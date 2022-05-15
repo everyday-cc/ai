@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mskcc.org/news/sensor-sniffs-cancer-using-artificial-int
 cdnAmpWebUrl: "https://www-mskcc-org.cdn.ampproject.org/c/s/www.mskcc.org/news/sensor-sniffs-cancer-using-artificial-intelligence?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: mskcc.org
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "$35 Million In New Funding For AI To Personalize Cancer Treatment"
-    excerpt: "OncoHost raises $35 million to further develop and test its precision oncology platform, combining proprietary bioinformatics, signal processing, and machine learning."
-    publishedDateTime: 2022-05-10T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2022/05/10/35-million-in-new-funding-for-ai-to-personalize-cancer-treatment/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Using human-centered design to power AI for contract analysis"
     excerpt: "Advances in AI have allowed for innovative uses in a variety of industries, including law, regulatory compliance, tax & accounting, and other corporate work"
     publishedDateTime: 2022-05-12T12:52:00Z

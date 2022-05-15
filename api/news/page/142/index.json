@@ -2,40 +2,6 @@
   "page": 142,
   "value": [
     {
-      "path": "_news/2022-01-13-net4-launches-video-analytics-powered-by-aws-wavelength.md",
-      "title": "Net4 launches video analytics powered by AWS Wavelength",
-      "excerpt": "Net4, a UK-based technology service provider, has launched its video analytics platform, known as Net4.Vision, which is powered by AWS Wavelength.Alex Taylor, Net4's CEO said,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html",
-      "publishedDateTime": "2022-01-13T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-13-using-localized-models-to-get-more-from-your-aiml-investments.md",
       "title": "Using Localized Models To Get More From Your AI/ML Investments",
       "excerpt": "There are a lot of opportunities to experiment with localized models to help businesses gain a clearer understanding of their demographics and the unique needs and desires of different locations.",
@@ -1142,6 +1108,40 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-artificial-intelligence-trade-could-roar-back-in-2022.md",
+      "title": "Artificial Intelligence Trade Could Roar Back in 2022",
+      "excerpt": "Artificial intelligence (AI) is one of the premier disruptive technologies, but that status didn't prevent some AI equities from sliding alongside other innovative growth fare in 2021. However, it wasn't an entirely lost year for AI investors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022?amp",
+      "publishedDateTime": "2022-01-12T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

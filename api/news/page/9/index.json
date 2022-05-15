@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2022-05-04-petuum-unveils-enterprise-mlops-platform.md",
-      "title": "Petuum Unveils Enterprise MLOps Platform",
-      "excerpt": "Tong Wen is an Architect and Director of Engineering at Petuum. Tong joined Petuum from Microsoft where he was a member of the founding team of Azure Machine Learning. Tong has 10+ years of experience in building innovative and high-impact AI/ML and HPC ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-04-when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi.md",
       "title": "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION “META-aivi”",
       "excerpt": "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and enhance ...",
@@ -1141,6 +1098,51 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure.md",
+      "title": "Dell forms security partnerships with major cloud providers AWS, Microsoft Azure",
+      "excerpt": "and they are now expanding it to the public cloud with Azure and expanding features with advanced capabilities with AWS (corruption detection, analytics and machine learning). \"These options provide a robust vault/recovery solution at scale for enterprises ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/news/cloud-security/dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure",
+      "originalUrl": "https://www.scmagazine.com/news/cloud-security/dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2022/02/GettyImages-477611329.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security",
+        "AWS AI"
       ]
     }
   ],

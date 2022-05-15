@@ -26,6 +26,20 @@ images:
 
 related:
   - title: "Concentric AI Raises Series A Funding Led by Ballistic Ventures to Autonomously Secure Business-Critical Data"
+    excerpt: "SAN JOSE, Calif., May 11, 2022 — Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, announced today it has raised $14.5 million in Series A funding. Led by Ballistic Ventures, a new VC firm solely ..."
+    publishedDateTime: 2022-05-11T17:06:00Z
+    webUrl: "https://www.darkreading.com/risk/concentric-ai-raises-series-a-funding-led-by-ballistic-ventures-to-autonomously-secure-business-critical-data"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 18
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
+        isCached: true
+  - title: "Concentric AI Raises Series A Funding Led by Ballistic Ventures to Autonomously Secure Business-Critical Data"
     excerpt: "Round of $14.5M to Support Team of AI Experts and Cybersecurity Leaders Targeting Overshared Data with AI-based Solutions for Data Access Governance and Loss Prevention Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting ..."
     publishedDateTime: 2022-05-11T12:00:00Z
     webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-11-concentric-ai-raises-series-a-funding-led-by-ballistic-ventures-to-autonomously-secure-business-critical-data"

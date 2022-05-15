@@ -2,40 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2022-04-08-best-neato-robot-vacuum-deals-updated-april-2022.md",
-      "title": "Best Neato Robot Vacuum Deals – Updated April 2022",
-      "excerpt": "So you are able to use your voice to control these robot vacuums ... iRobot does have one that is D-shaped. Keep in mind that Neato does not have as many robot vacuums in its lineup as some ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/best-neato-robot-vacuum-deals",
-      "originalUrl": "https://www.androidheadlines.com/best-neato-robot-vacuum-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-08-this-startup-raised-185-million-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions.md",
       "title": "This Startup Raised $18.5 Million From Sequoia To Reinvent How To Use AI To Make Predictions",
       "excerpt": "A new Stanford-bred startup says it has a solution using a new class of artificial intelligence ... termed “graph neural networks,” which approaches machine learning by treating the data ...",
@@ -1108,6 +1074,58 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-monitaur-launches-governml-to-manage-ai-data-lifecycle.md",
+      "title": "Monitaur launches GovernML to manage AI data lifecycle",
+      "excerpt": "Monitaur offers GovernML as a web-based, SaaS application to establish and maintain a system of record across their entire AI portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/",
+      "originalUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299-e1648759666670.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/",
+      "publishedDateTime": "2022-04-06T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],
