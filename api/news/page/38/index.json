@@ -2,6 +2,40 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-04-11-china-ends-gaming-approval-freeze-grants-first-licenses-since-july-last-year.md",
+      "title": "China ends gaming approval freeze, grants first licenses since July last year",
+      "excerpt": "HONG KONG — China’s gaming regulator on Monday granted publishing licenses to 45 games belonging to the likes of Baidu and XD Inc’s “Party Star,” ending a nine-month long freeze that has ...",
+      "sourceUrl": null,
+      "webUrl": "https://nationalpost.com/pmn/business-pmn/china-ends-gaming-approval-freeze-grants-first-licenses-since-july-last-year",
+      "originalUrl": "https://nationalpost.com/pmn/business-pmn/china-ends-gaming-approval-freeze-grants-first-licenses-since-july-last-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Post",
+        "domain": "nationalpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-how-smart-are-ai-chips-really.md",
       "title": "How Smart Are AI Chips, Really?",
       "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
@@ -1132,50 +1166,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.md",
-      "title": "Healthcare to increase tech spending for cybersecurity, marketing and AI",
-      "excerpt": "More than 80 percent of companies expect to increase or maintain technology spending in the next 12 months, with healthcare, life sciences and financial companies planning the largest increases, according to research Bloomberg released April 8.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/10.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

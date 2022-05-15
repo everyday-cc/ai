@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-04-21-oracle-contracts-and-pricing-a-challenge-says-gartner.md",
+      "title": "Oracle contracts and pricing a 'challenge' says Gartner",
+      "excerpt": "Oracle's pricing models and contracts can be \"challenging to navigate\" and \"frustrating for customers,\" according to a Gartner report that otherwise heaps praise on the omnipresent enterprise software company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/21/oracle_contracts_pricing_gartner/",
+      "originalUrl": "https://www.theregister.com/2022/04/21/oracle_contracts_pricing_gartner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2016/08/07/oracle_logo_360b_shutterstock.jpg",
+          "width": 648,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/21/oracle_contracts_pricing_gartner/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/oracle_contracts_pricing_gartner/",
+      "publishedDateTime": "2022-04-21T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-braincube-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Braincube Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Braincube, a leading global IIoT platform and advanced business app suite dedicated to manufacturers, today announced the availability of Braincube’s ready-to-use Data Visualization app package suite as an offering within the Microsoft Azure Marketplace.",
@@ -1107,58 +1150,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-ais-future-is-packed-with-promise-and-potential-pitfalls.md",
-      "title": "AI’s future is packed with promise and potential pitfalls",
-      "excerpt": "Foundation models are based on deep neural networks and self-supervised learning that accepts unlabeled or partially labeled raw data. Algorithms then use small amounts of identified data to determine correlations,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/",
-      "originalUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/future_AI.jpg?fit=800%2C449&strip=all",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/amp/",
-      "publishedDateTime": "2022-04-20T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

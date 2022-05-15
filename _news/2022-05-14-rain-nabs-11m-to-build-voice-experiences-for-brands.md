@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/13/rain-nabs-11m-to-build-voice-expe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/13/rain-nabs-11m-to-build-voice-experiences-for-brands/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 91
 published: true
 
 provider:

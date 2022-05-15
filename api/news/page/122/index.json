@@ -2,6 +2,58 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2022-01-29-from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform.md",
+      "title": "From low code to no code: Azure GPT-3 and Microsoft’s Power Platform",
+      "excerpt": "The Power Platform GPT-3 models are running in Azure, on the Azure Machine Learning service, using the new managed endpoints. This means the Power Platform team doesn’t have to manage the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
+      "originalUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2021/06/tr-dax-smart-narrative.jpg",
+          "width": 1440,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/amp/",
+      "publishedDateTime": "2022-01-29T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-course-listing-for-computer-science.md",
       "title": "Course Listing for Computer Science",
       "excerpt": "and object recognition. The purpose of this class is to ground students in the basics of how humans interact with technology, and make students aware of the breadth of topic areas related to human-computer interaction (HCI). This course emphasizes ...",
@@ -1131,49 +1183,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-waymo-sues-state-dmv-to-keep-robotaxi-safety-details-secret.md",
-      "title": "Waymo sues state DMV to keep robotaxi safety details secret",
-      "excerpt": "A court may decide whether Waymo's business interests outweigh the public's right to understand the safety issues around self-driving cars",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/waymo-sues-state-dmv-to-keep-robotaxi-safety-details-secret/ar-AATeIKz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/a87d333/2147483647/strip/true/crop/5388x3603+341+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F46%2F743f192846669dfbca0ba9668179%2F473702-sd-me-ucsd-driver-less-vehicels-hl-003.jpg",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true",
-      "publishedDateTime": "2022-01-28T05:00:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
-        "domain": "latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

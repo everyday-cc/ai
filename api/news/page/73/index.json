@@ -2,6 +2,49 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-03-14-nference-accelerates-self-supervised-language-model-training-with-cerebras-cs-2-system.md",
+      "title": "nference Accelerates Self-Supervised Language Model Training with Cerebras CS-2 System",
+      "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and nference, an AI-driven health technology company, today announced a collaboration to accelerate natural language processing (NLP) for biomedical research and development by orders of magnitude with a Cerebras CS-2 system installed at the nference headquarters in Cambridge,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-artificial-intelligence-robotics-technology-park-launched-in-ktaka.md",
       "title": "Artificial Intelligence & Robotics Technology Park launched in K'taka",
       "excerpt": "Artificial Intelligence and Robotics Technology Park (ARTPARK), the first of its' kind in the country, a not-for-profit foundation has been launched i..",
@@ -1044,49 +1087,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-for-indiana-jones-deepminds-most-recent-ai-innovation-may-be-ideal.md",
-      "title": "For Indiana Jones, DeepMind’s most recent AI innovation may be ideal",
-      "excerpt": "Restoring and piecing together old inscriptions, manuscripts and other works might be made easier by a new AI model developed by Alphabet. It is very uncommon for ancient manuscripts to be damaged and partial,",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/for-indiana-jones-deepminds-most-recent-ai-innovation-may-be-ideal/",
-      "originalUrl": "https://bestgamingpro.com/for-indiana-jones-deepminds-most-recent-ai-innovation-may-be-ideal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/03/The-latest-DeepMind-AI-breakthrough-could-be-perfect-for-Indiana-Jones.png",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-12T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

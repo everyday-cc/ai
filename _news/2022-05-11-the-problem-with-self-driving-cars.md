@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-car
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -105,15 +105,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Waymo’s self-driving cars are now being tested in downtown Phoenix"
-    excerpt: "PHOENIX (3TV/CBS 5) -- Google’s autonomous car company, Waymo, has officially launched self-driving cars pilot program in downtown Phoenix. Last month, the company was looking to expand operations into the heart of the Valley. Waymo had been operating in ..."
-    publishedDateTime: 2022-05-10T18:10:00Z
-    webUrl: "https://www.azfamily.com/2022/05/10/waymos-self-driving-cars-are-now-being-tested-downtown-phoenix/"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 19
   - title: "These 3 technologies could make self-driving cars safer"
     excerpt: "With autonomous vehicles already operating in several cities, technology companies are working on high-definition maps, better artificial intelligence models and remote control for fleets when needed."
     publishedDateTime: 2022-05-11T18:02:00Z

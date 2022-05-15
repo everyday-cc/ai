@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Social Robots Market Research Report 2022 | Trends, Growth, Size, Share and Forecast 2027"
+    excerpt: "\"Social Robots Market\"The global social robots market reached a value of US$ 2.6 Billion in 2021. Looking forward, IMARC Group expects the market to reach"
+    publishedDateTime: 2022-05-13T00:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/social-robots-market-research-report-2022-trends-growth-size-share-and-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
+    images:
+      - url: "https://www.abnewswire.com/uploads/1652360552.jpeg"
+        width: 1920
+        height: 1479
+        isCached: true
   - title: "Global AI in Bio Pharmaceuticals Market Analysis Report 2022: Technology Landscape, Competitive Landscape, Business Overview, Key Take-aways"
     excerpt: "The \"AI in Bio Pharmaceuticals\" report has been added to ResearchAndMarkets.com's offering. This report forecasts a considerable trend for \"AI democratization\" where various machine learning/deep learning technologies become available in pre-trained,"
     publishedDateTime: 2022-05-13T13:45:00Z

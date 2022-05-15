@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
-    excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
-    publishedDateTime: 2022-05-10T18:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2025-2022-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
   - title: "Intelligent Speech and Voice Recognition Market Size Is Expected To Grow At A CAGR Of 23.8% During Assessment Period 2022-2028 | 111 Report Pages"
     excerpt: "Intelligent Speech and Voice Recognition Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in ..."
     publishedDateTime: 2022-05-12T10:51:00Z

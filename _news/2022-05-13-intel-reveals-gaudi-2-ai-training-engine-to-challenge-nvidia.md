@@ -41,20 +41,6 @@ related:
         width: 709
         height: 428
         isCached: true
-  - title: "Intel launches new AI chips, challenging Nvidia's market"
-    excerpt: "Intel Corp on Tuesday launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp ."
-    publishedDateTime: 2022-05-10T18:32:00Z
-    webUrl: "https://www.reuters.com/technology/intel-launches-new-ai-chips-challenging-nvidias-market-2022-05-10/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/AACwGwpnSd5iGcEK9g46idFVWww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SOBZSM5ZJNMQVNYYJKHNWXFA4Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Intel launches new AI chips"
     excerpt: "Intel has launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia. Gaudi2 is the second generation processor by Habana Labs,"
     publishedDateTime: 2022-05-10T22:12:00Z

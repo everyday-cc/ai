@@ -38,20 +38,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech"
-    excerpt: "SAS Hackathon an incubator for innovation and social justice. CARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data scientists and technology enthusia"
-    publishedDateTime: 2022-05-10T17:35:00Z
-    webUrl: "https://www.kget.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
-    type: article
-    provider:
-      name: KGET.com
-      domain: kget.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/1812710/SAS_Milwaukee_County_Courthouse.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "CWuUNVzEgndjDmKJAJt/xM9MnK/R12NjQuGvipxX9IuUMvJS0Ga5B3GHIS5UFOwZ0BRkiKbhtXQ8opAAp1e8Zb8r9TtyKsonAX0QP/PZ7sI8tGlmcs0JlH71TV+Egi0PV5d1C/GRFDq0GRmqnN4NTCl+kMP8I2gJKIkIr5flFYgjbLuKv/2fdCncPSPEIWLaAq6bo+O8Ud6EXytcKipl02JxYZyR2iAVnFd5ylg9pw9v9ZKfbnUo35Yk1nNYWk9Ko/Ii54S9TCrqjeCNITLhtIxsGdjLuc3t2wEDexMzmgizLqb+Ob4EyZC8AmxVSdgDZq7AYWIyIcI9gfsBIIu7jP183yHmbncIn1U1zi3caYafYDm4eUH4DN2nXf9Ck34mJ7U7MYVUNX0eZp/gu84EL79xN7vusssPi9hDGa0ZfW/9IfPi/zGvWOTLh0ULsBW8rhDDK/SBQ/53/3HW3ojyAsVCWxURoDdzxT1kp/R+6ynLcA0agTO1Gs0ukxAamHpnjDI++jZu8NSoPww1LjJjtw==;4BRTCIb3Qk4FAux/l95/rA=="
 ---

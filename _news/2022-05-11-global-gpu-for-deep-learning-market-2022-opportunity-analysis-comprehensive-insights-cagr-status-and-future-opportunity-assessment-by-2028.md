@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-lear
 webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2022-opportunity-analysis-comprehensive-insights-cagr-status-and-future-opportunity-assessment-by-2028-2022-05-10"
 type: article
 quality: 51
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
-    excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
-    publishedDateTime: 2022-05-10T18:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2025-2022-05-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
   - title: "Artificial Intelligence in the Education Sector Market Future Trends and Opportunities, Past, Present Data, and Deep Analysis by The Insight Partners"
     excerpt: "The artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly"
     publishedDateTime: 2022-05-12T11:47:00Z

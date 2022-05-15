@@ -109,15 +109,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Waymo’s self-driving cars are now being tested in downtown Phoenix"
-    excerpt: "PHOENIX (3TV/CBS 5) -- Google’s autonomous car company, Waymo, has officially launched self-driving cars pilot program in downtown Phoenix. Last month, the company was looking to expand operations into the heart of the Valley. Waymo had been operating in ..."
-    publishedDateTime: 2022-05-10T18:10:00Z
-    webUrl: "https://www.azfamily.com/2022/05/10/waymos-self-driving-cars-are-now-being-tested-downtown-phoenix/"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 19
   - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
     excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
     publishedDateTime: 2022-05-12T17:53:00Z

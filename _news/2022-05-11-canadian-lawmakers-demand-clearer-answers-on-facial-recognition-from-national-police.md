@@ -41,15 +41,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Illinois privacy law thwarts Clearview AI's controversial facial recognition tool"
-    excerpt: "A privacy law in Illinois is causing headaches for some major tech firms that want to use facial recognition technology. A controversial New York startup is the latest company to find itself on the wrong side of a court ruling involving the law."
-    publishedDateTime: 2022-05-10T18:43:00Z
-    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2022/05/10/clearview-ai-illinois-biometric-privacy-law.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
 
 secured: "VwLJq4SI1cmUwPYzVApg6btGM+XqmHtXif63gFON7HVxjGdVf4uDUS4MruTV68POfunIeaM3c1xmLYV+rLuc7jDwmTn1iIZQbMikare2dei6OEuu4TBhzW+WGvLRM/NbuW6t/ZI2QWIwdy8wN5G8kIszyGnaq2kgNzdxupIOhDo8IUElQQHJP7w4AoLz7T6I6LpVp7PzE/3dsDbhkVbOvG5frMTclPqS4FjEc9s0E43ssPk7y/z48GtlCespou4Hh2RdXELD21170flRSl9DpEg/xDA3EGpQ9SwgH7p4pvskAu68MDSxwF2MaL/SpRN1a3XmH1t5YrfbM2i3hcdlzqGya6KDl+3ijau39y40t1mBLQ8A9jtJGsO6wSz0skFP4JkSLcbQvkeJs//YNlpzPkoJHZEaT58v++l3eGV2xllGWPKb4vjxvTAiqmXiwjIIEvsp+Bgu1VQFAS3yK4OuElHWrxsOrWSoHJ5epn9t02cxbLe+xXHLOSRTLVrMGC0V1UrVhi9llhB9RFjL4OBwEQ==;pc1sj5FmSh00WqDLTvTpKQ=="
 ---

@@ -35,15 +35,6 @@ related:
         width: 1600
         height: 891
         isCached: true
-  - title: "Intel debuts new chips for AI workloads, data center acceleration and laptops"
-    excerpt: "Intel Corp. today expanded its product portfolio with several new chips, including an artificial intelligence processor that it promises will provide twice the performance of Nvidia Corp.’s flagship A100 graphics card."
-    publishedDateTime: 2022-05-10T17:57:00Z
-    webUrl: "https://siliconangle.com/2022/05/10/intel-debuts-new-chips-ai-workloads-data-center-acceleration-laptops/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
   - title: "VSBLTY NAMED INTEL® CHANNEL PARTNER OF THE YEAR AT INTEL VISION 2022"
     excerpt: "VSBLTY technology provides enhanced customer engagement and audience measurement using machine learning and computer vision. Its industry leading VisionCaptor™ and DataCaptor™ software combine motion graphics and interactive brand messaging with ..."
     publishedDateTime: 2022-05-12T19:56:00Z

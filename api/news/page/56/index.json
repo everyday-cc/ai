@@ -2,6 +2,48 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-03-25-sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards.md",
+      "title": "SparkCognition acquires Bangalore-based AI startup Integration Wizards",
+      "excerpt": "\"The team is excited to capitalize on SparkCognitions incredible depth of talent, considerable IP portfolio, and deep subject matter expertise, providing our customers with even greater value and a broader AI based portfolio,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/articleshow/90443970.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/articleshow/90443970.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-846637,msid-90445030/automation_ai_thumb-image_ettech3.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms",
+      "publishedDateTime": "2022-03-25T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-inspur-information-and-feinberg-school-of-medicine-at-northwestern-university-improve-patient-outcomes-using-ai-and-machine-learning.md",
       "title": "Inspur Information and Feinberg School of Medicine at Northwestern University Improve Patient Outcomes Using AI and Machine Learning",
       "excerpt": "At NVIDIA GTC, Inspur Information announced the results of its partnership with the Feinberg School of Medicine at Northwestern University in leveraging artificial intelligence (AI) to advance medical research and healthcare.",
@@ -1077,49 +1119,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-business-law-prof-blog.md",
-      "title": "Business Law Prof Blog",
-      "excerpt": "I'm continuing to read my way through Hilary Allen's Driverless Finance ... We now have rapidly developing artificial intelligence technology working to identify and learn from patterns ...",
-      "sourceUrl": null,
-      "webUrl": "https://lawprofessors.typepad.com/business_law/2022/03/driverless-finance-fintech-and-risk-management.html",
-      "originalUrl": "https://lawprofessors.typepad.com/business_law/2022/03/driverless-finance-fintech-and-risk-management.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lawprofessors.typepad.com/responsive-template/CALIadvert.jpg",
-          "width": 800,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TypePad",
-        "domain": "typepad.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

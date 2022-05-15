@@ -41,7 +41,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://media.wired.com/photos/627bfb60a95c6a3c6c74ef4b/master/pass/Google-IO-Skin-Tone-Scale-Business-1258016046.jpg"
         width: 2400

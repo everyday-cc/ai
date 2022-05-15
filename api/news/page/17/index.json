@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-04-28-coherent-raises-75m-series-b-to-enable-hybrid-work-era-development.md",
+      "title": "Coherent raises $75M series B to enable hybrid-work era development",
+      "excerpt": "Coherent Spark’s no-code app provides in a few minutes what can take days or weeks using a conventional business software development cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/",
+      "originalUrl": "https://venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1341846254-e1651015028230.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/amp/",
+      "publishedDateTime": "2022-04-27T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-hpe-looks-to-deliver-the-power-of-swarm-learning.md",
       "title": "HPE looks to deliver the power of ‘swarm learning’",
       "excerpt": "When applied to intelligent devices operating in the real world, “swarm learning” refers to decentralization. This means that users can share learnings at the edge, or at distributed sites, without moving or exposing data.",
@@ -1105,57 +1157,6 @@
         "Machine Learning",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance.md",
-      "title": "Eurora raises $40M for its AI-based system to automate EU e-commerce shipping compliance",
-      "excerpt": "The e-commerce market has boomed in the last several years, and with that so has the appetite of tax collectors to do their bidding: make rules that make sure their countries are getting a cut. That’s spelled more red tape and more customs hoops (and costs) for those shipping and receiving",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/26/eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance/",
-      "originalUrl": "https://techcrunch.com/2022/04/26/eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1319013665.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/26/eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance/amp/",
-      "publishedDateTime": "2022-04-26T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

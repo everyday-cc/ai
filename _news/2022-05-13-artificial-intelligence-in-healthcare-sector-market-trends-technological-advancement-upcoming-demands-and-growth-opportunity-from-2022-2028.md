@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
-excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028.This press"
-publishedDateTime: 2022-05-13T10:06:00Z
-originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
-webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028. Londan, United kingdom -- -- 05/12"
+publishedDateTime: 2022-05-12T19:07:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
 type: article
-quality: 18
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6f1e17aee11727a0b88b5e8f92ca7a250a88c3bd-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
+  - AI in Healthcare
 
 related:
   - title: "AI trends to watch out for in digital healthcare"
@@ -55,16 +49,7 @@ related:
         width: 1546
         height: 1056
         isCached: true
-  - title: "Banking on the digitisation of healthcare: what the industry can learn from financial services?"
-    excerpt: "Sales Engineering, InterSystems As the healthcare industry continues on its digital transformation (DT) journey – which has only accelerated since the start of the pandemic – there is a lot it can learn from other sectors that have trodden a similar path."
-    publishedDateTime: 2022-05-10T18:46:00Z
-    webUrl: "https://www.globalbankingandfinance.com/banking-on-the-digitisation-of-healthcare-what-the-industry-can-learn-from-financial-services/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
 
-secured: "ymJPc78iBA+V98M0NnyNQYwgxW9Y7vi73kaSjTGYOlbk2am+g67Vj6cWTd7IM8hPB7D94lQSxZ3Sc3qid5nwLTR3qIx2uok1e3A3Qvp7+m4wtFYZqvVR3PrqsIECnpFd2Boauw0Cme+gXx2L9hWsbzjal3UEZcBNCjrTqjE/mHUGlDkKWhXFVgoGM3lFsdAT3QrRQ7+OaMgueMPCwj89LCZI2mm0gQyOpFECfFBROFm2JLUaldxP7+9jdk7t7oijFREGUWI+pbjFra4SvlyfUmj+6NqPImlXI/X9K5O6Z0anxMj+JbefPfrIQsl/ADw3cilejoKfwto9/F5Re8e8E0dKp4JgKwFRzLHCir/jCqpA8yVzBB4KEevPhxqqFTupCcsFICJRYAfk1nUAXTi/oxZxv+memgrqn1z+/pG0VcJJpjLz2h6ojav8+lCchY6SJ2E+I6IHeGinvp49j1z5+XsYieO8kEHo1lsDKw6l2xuwoo2SEPOe4FXzGlh1wTeGr4IHC2Kl002ENPMuWEE22g==;bz+PfcBauhTtzSmBwa36lw=="
+secured: "Tin9gZF8I91U3vfVw41hgs8HTf6JT7QI8fjL1/fUyxa4j71WkAjVkuFknSEfwIHSxyOo2aR8/UzwLMcKO48zWhwVmDpLJTYPkDPvWgrisQod4FRz1h8wHe9x+xLYfRwoZa/q4bxpLjqj3mNsh+Su+b3BJJxBHU/owO/tkwpcHj8lJPRWGoqs9NA0iL6lu26XK+b29pPs3bE4KcVbRz559sWxUzuXfSXyN6tfqozc1PA3ql8vehfGGdZq/5gDMvAL0rHdF/tyRNlW/lNPU2RJPK/17AOgrvm75kemPX5ddhAsW1EVC7fYNZt8qy9XqTRhVycIZ1jhA5PkeZatY8rYL1LeVA6ui9qMuEOZ2aULz9Y=;Ibv0YB3BoVD5nEkAU7wsgw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-02-22-general-motors-autonomous-driving-unit-cruise-is-seeking-nhtsa-approval-to-deploy-vehicles-without-steering-wheels-or-brake-pedals.md",
+      "title": "General Motors' Autonomous Driving Unit Cruise is Seeking NHTSA Approval to Deploy Vehicles Without Steering Wheels or Brake Pedals",
+      "excerpt": "General Motors’ autonomous driving unit Cruise has petitioned the U.S. National Highway Traffic Safety Administration (NHTSA) for permission to deploy the Cruise Origin driverless shuttle on roads in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/5217/General-Motors’-Autonomous-Driving-Unit-Cruise-is-Seeking-NHTSA-Approval-to-Deploy-Vehicles-Without-Steering-Wheels-or-Brake-Pedals",
+      "originalUrl": "https://www.futurecar.com/5217/General-Motors’-Autonomous-Driving-Unit-Cruise-is-Seeking-NHTSA-Approval-to-Deploy-Vehicles-Without-Steering-Wheels-or-Brake-Pedals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202202/21/l_62140c95c23f7.jpeg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-21T13:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-lord-lebedevs-peerage-under-spotlight-after-his-lack-of-contribution-to-parliament-since-maiden-speech.md",
       "title": "Lord Lebedev's peerage under spotlight after his lack of contribution to Parliament since maiden speech",
       "excerpt": "Boris Johnson recommended Evgeny Lebedev for a peerage, but the tycoon has not voted or contributed since his maiden speech.",
@@ -1145,57 +1188,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-stanford-university-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours.md",
-      "title": "Stanford University use AI computing to cut DNA sequencing down to five hours",
-      "excerpt": "A Stanford University-led research team has set a new Guinness World Record for the fastest DNA sequencing technique using AI computing to accelerate workflow speed. The research, led by Dr Euan Ashley, professor of medicine, genetics and biomedical data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
-      "originalUrl": "https://www.zdnet.com/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/074b82c6e2ac31afabaf019d1a4d72e286bea9df/2022/02/21/5b895d9d-2b35-483f-aba1-fc27fbd65ecb/guinness-world-record-group-scaled.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/",
-      "publishedDateTime": "2022-02-20T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

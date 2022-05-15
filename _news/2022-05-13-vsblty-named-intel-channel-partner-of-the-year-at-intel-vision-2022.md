@@ -35,15 +35,6 @@ related:
         width: 1600
         height: 891
         isCached: true
-  - title: "Intel debuts new chips for AI workloads, data center acceleration and laptops"
-    excerpt: "Intel Corp. today expanded its product portfolio with several new chips, including an artificial intelligence processor that it promises will provide twice the performance of Nvidia Corp.’s flagship A100 graphics card."
-    publishedDateTime: 2022-05-10T17:57:00Z
-    webUrl: "https://siliconangle.com/2022/05/10/intel-debuts-new-chips-ai-workloads-data-center-acceleration-laptops/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
   - title: "Intel teases Arctic Sound M GPU for data center: ACM-G10 GPU + 150W"
     excerpt: "Intel Arctic Sound M PCIe Gen 4 graphics card based on the Intel Xe-HPG GPU is dropping in Q3 2022, I'll believe it when I see it."
     publishedDateTime: 2022-05-11T02:41:00Z

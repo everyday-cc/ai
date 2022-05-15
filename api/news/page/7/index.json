@@ -339,6 +339,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-07-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
+      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
+      "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/04/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/04/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/04/28/1567739.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-07-nvidia-burns-55-million-settling-with-sec-on-gpu-sales-to-crypto-miners.md",
       "title": "Nvidia burns $5.5 million settling with SEC on GPU sales to crypto miners",
       "excerpt": "We all had a bad time waiting out the graphics card shortage that took place from late 2020 up until recently, but it wasn’t the first time crypto mining was to blame for a lack of Nvidia and AMD GPUs. Back in 2017 and 2018 there was another similar ...",
@@ -1132,58 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division.md",
-      "title": "Google merges DeepMind's AI health efforts with newly formed Google Health division",
-      "excerpt": "Google acquired DeepMind, a London based artificial intelligence (AI) firm, back in 2014. The company is famous for its AlphaGo AI that defeated the world Go champion and was in the news in 2016 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
-      "originalUrl": "https://www.neowin.net/news/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2018/11/1542144283_google_deepmind_health_and_google_health_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
-      "publishedDateTime": "2022-05-05T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

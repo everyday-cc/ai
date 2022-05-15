@@ -479,21 +479,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices.md",
-      "title": "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices",
-      "excerpt": "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three",
+      "path": "_news/2022-05-11-robots-and-the-future-of-remote-healthcare.md",
+      "title": "Robots and the Future of Remote Healthcare",
+      "excerpt": "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented rate. A growing focus on technology -- and the ways it can help improve patient care and the provider experience -- is now at the forefront,",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
-      "originalUrl": "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "webUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634",
+      "originalUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/6f1e17aee11727a0b88b5e8f92ca7a250a88c3bd-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -503,11 +503,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T09:35:00-07:00",
+      "publishedDateTime": "2022-05-10T18:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -518,7 +518,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

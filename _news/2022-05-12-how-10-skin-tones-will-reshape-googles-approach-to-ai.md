@@ -8,7 +8,7 @@ webUrl: "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision
 ampWebUrl: "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://media.wired.com/photos/627bfb60a95c6a3c6c74ef4b/master/pass/Google-IO-Skin-Tone-Scale-Business-1258016046.jpg"

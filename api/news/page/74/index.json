@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-03-12-for-indiana-jones-deepminds-most-recent-ai-innovation-may-be-ideal.md",
+      "title": "For Indiana Jones, DeepMind’s most recent AI innovation may be ideal",
+      "excerpt": "Restoring and piecing together old inscriptions, manuscripts and other works might be made easier by a new AI model developed by Alphabet. It is very uncommon for ancient manuscripts to be damaged and partial,",
+      "sourceUrl": null,
+      "webUrl": "https://bestgamingpro.com/for-indiana-jones-deepminds-most-recent-ai-innovation-may-be-ideal/",
+      "originalUrl": "https://bestgamingpro.com/for-indiana-jones-deepminds-most-recent-ai-innovation-may-be-ideal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestgamingpro.com/wp-content/uploads/2022/03/The-latest-DeepMind-AI-breakthrough-could-be-perfect-for-Indiana-Jones.png",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-12T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bestgamingpro",
+        "domain": "bestgamingpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-12-the-latest-deepmind-ai-breakthrough-could-be-perfect-for-indiana-jones.md",
       "title": "The latest DeepMind AI breakthrough could be perfect for Indiana Jones",
       "excerpt": "Uncovering the mysteries of the ancient world could soon get a little easier thanks to a new release from DeepMind. The Alphabet-owned firm has revealed Ithaca, a new AI model that could help ...",
@@ -1097,49 +1140,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-how-to-spot-fake-russian-social-media-accounts-and-posts.md",
-      "title": "How to spot fake Russian social media accounts and posts",
-      "excerpt": "Not many people take the time to research before ... according to Facebook. He’s an invention of a Russian troll farm targeting Ukraine. His face was made by AI.” If you look closely at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/columnist/komando/2022/03/10/ukraine-war-how-spot-fake-russian-social-media-accounts-and-posts/9444791002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/columnist/komando/2022/03/10/ukraine-war-how-spot-fake-russian-social-media-accounts-and-posts/9444791002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/02/26/USAT/d9bb4b32-178d-469f-ab5e-54f1b45e8950-protests_1.jpg?auto=webp&crop=6999,3937,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T17:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

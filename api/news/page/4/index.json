@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-05-11-man-vs-machine-the-1997-chess-game-that-brought-ai-into-view.md",
-      "title": "Man vs. machine: The 1997 chess game that brought AI into view",
-      "excerpt": "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news",
-      "originalUrl": "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/05/11/thumbs/800x531/204611.jpg",
-          "width": 1600,
-          "height": 1061,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news/amp",
-      "publishedDateTime": "2022-05-11T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2022-05-11-a-closer-look-at-the-research-to-help-ai-see-more-skin-tones.md",
       "title": "A closer look at the research to help AI see more skin tones",
       "excerpt": "Today at I/O we released the Monk Skin Tone (MST) Scale in partnership with Harvard professor and sociologist Dr. Ellis Monk. The MST Scale, developed by Dr. Monk, is a 10-shade scale designed to be more inclusive of the spectrum of skin tones in our society. We’ll be incorporating the MST Scale into",
@@ -374,7 +330,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2022-opportunity-analysis-comprehensive-insights-cagr-status-and-future-opportunity-assessment-by-2028-2022-05-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -427,7 +383,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -555,6 +511,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-robots-and-the-future-of-remote-healthcare.md",
+      "title": "Robots and the Future of Remote Healthcare",
+      "excerpt": "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented rate. A growing focus on technology -- and the ways it can help improve patient care and the provider experience -- is now at the forefront,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634",
+      "originalUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -738,7 +738,7 @@
       "originalUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1131,33 +1131,24 @@
     {
       "path": "_news/2022-05-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices.md",
       "title": "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices",
-      "excerpt": "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three",
+      "excerpt": "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three wholly-owned subsidiary Robotic Assistance Devices (RAD),",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
-      "originalUrl": "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/6f1e17aee11727a0b88b5e8f92ca7a250a88c3bd-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T09:35:00-07:00",
+      "publishedDateTime": "2022-05-10T09:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1167,7 +1158,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Healthcare",
         "AI"
       ]
     }

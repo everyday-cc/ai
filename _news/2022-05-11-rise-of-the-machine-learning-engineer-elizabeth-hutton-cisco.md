@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

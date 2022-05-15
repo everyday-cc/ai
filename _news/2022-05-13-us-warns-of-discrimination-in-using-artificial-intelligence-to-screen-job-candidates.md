@@ -1,23 +1,22 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
-publishedDateTime: 2022-05-12T21:04:00Z
-originalUrl: "https://www.kawc.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.kawc.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.kawc.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-kawc-org.cdn.ampproject.org/c/s/www.kawc.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
+publishedDateTime: 2022-05-12T21:13:00Z
+originalUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
-quality: 51
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: KAWA
-  domain: kawc.org
+  name: Iowa Public Radio
+  domain: iowapublicradio.org
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -90,6 +89,6 @@ related:
         height: 400
         isCached: true
 
-secured: "P8MhNkYefOKYWVghtHvbnsISA+Fy9qECJ5YHqWt0nM7pDsQ0RJyW9piKHf1vBxdoMRggSfFInqo+tGWGxFg1vqpJsgVDtU9UTjOyWcGNmY/RYWpwcylEVw2pOB1u4dVO/NWxPXdHcyBhUxtz3vSSWctqBt3uAOrDR2SxeMKIfiIi9Zy3fxdTLgkSeFgneskJ+Mthcbck/IsAEwJacaDxNdYQQN9v/vFUHZxdWeXUtI/sfWcPxwQf6Les0cFp8xFcTNjjLC97tyu6ylE74+gsURK7YMhTOb729ik5X8sjbsj7xpJT4kcX76qwq12UjKjX+RbIIs4aSnErqrfl4ckCldlTfwoShFXGAu99slblaE0=;hr2ixYQgKtFumaqxvfkzxQ=="
+secured: "bu1H6m+ilYOleQP6YtnA9nNOXvPocLmaU83y+Gxu7RnSztWyDlJXbrKKEWLr6dn42i+4LbePjIr26d2uG4B9RcGAxhhk7p6CsEP0kY7OuaO84xA7qUbXXEVtdTtIA4ut9/FLbI+LY05nChO8UQM44Ta7NbV6nEHZNRGQxlw+ISJZs3ZoOTonMLzuazspzEMUQpDCjadXfCiu2RIKAglyaOprydcY+E3cy/xtZJZ71M5PxMYxtv+c3WUVeDUtyq2zg/2voQ/VYjsP6pDBrLGGcp7rmSpm+6jWxyMRnlERvYue3Cd9c5/TfVRxyxXq0DJU5lMqt+chiyOyOZfifYIWy012xg4b+4eXkMZD49nue4Y=;4Nmu8Fg54hR4aiTeIgHSHg=="
 ---
 

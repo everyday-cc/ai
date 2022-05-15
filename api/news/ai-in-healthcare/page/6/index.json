@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-23-american-oncology-network-aon-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-precision-oncology-and-personalized-cancer.md",
+      "title": "American Oncology Network (AON) and VieCure Announce Strategic Collaboration to Accelerate Adoption of Precision Oncology and Personalized Cancer Care",
+      "excerpt": "American Oncology Network, LLC (AON) , a high-growth medical oncology provider with a focus on supporting the long-term viability of oncology treatment in community-based settings, announced today a strategic collaboration with VieCure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550827.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550827.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence-driven-precision-medicine-collaboration.md",
+      "title": "Cyclerion Therapeutics and Ariana Pharma Announce an Artificial Intelligence-driven Precision Medicine Collaboration",
+      "excerpt": "Ariana Pharma's proprietary KEM(R) (Knowledge Extraction and Management) eXplainable Artificial Intelligence (xAI ... who may benefit most from the therapy, by identifying patient-selection ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence-driven-precision-medicine-collaboration-2022-02-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence-driven-precision-medicine-collaboration-2022-02-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19.md",
       "title": "Skymount Medical, Inc.: Skymount Medical Receives UK MHRA Approval to Test New Treatment in Patients with Mild to Moderate COVID-19",
       "excerpt": "Feb. 22, 2022 (GLOBE NEWSWIRE) -- Skymount Medical, a drug discovery company using an artificial intelligence (AI ... the reach of this combination therapy internationally.\"",
@@ -1240,93 +1326,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-artificial-intelligence-can-help-free-up-anesthesiologists-time-in-or.md",
-      "title": "Artificial Intelligence Can Help Free Up Anesthesiologists’ Time in OR",
-      "excerpt": "February 08, 2022 - Artificial intelligence systems may be able to assist anesthesiologists in the operating room, according to MIT and Massachusetts General Hospital (MGH) researchers. In a special edition of Artificial Intelligence in Medicine ...",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/artificial-intelligence-can-help-free-up-anesthesiologists-time-in-or",
-      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligence-can-help-free-up-anesthesiologists-time-in-or",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-861104740-1-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/artificial-intelligence-can-help-free-up-anesthesiologists-time-in-or",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-can-help-free-up-anesthesiologists-time-in-or",
-      "publishedDateTime": "2022-02-08T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-aiml-innovations-tech2heal-selected-for-prestigious-health-tech-campus.md",
-      "title": "AI/ML Innovations’ Tech2Heal Selected for Prestigious Health Tech Campus",
-      "excerpt": "TORONTO, ON / ACCESSWIRE / February 7, 2022 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF)(FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-ml-innovations-tech2heal-selected-for-prestigious-health-tech-campus",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-ml-innovations-tech2heal-selected-for-prestigious-health-tech-campus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/129c9d3527a44bb72394eb2f37ffd03563881116-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
