@@ -1,26 +1,28 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
-publishedDateTime: 2022-05-12T21:04:00Z
-originalUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
+publishedDateTime: 2022-05-13T02:04:00Z
+originalUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: Texas Public Radio
+  domain: tpr.org
 
 topics:
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 838
-    height: 628
+  - url: "https://npr.brightspotcdn.com/dims4/default/eb65c16/2147483647/strip/true/crop/4365x2457+0+408/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F14%2Fgettyimages-1240670492-7dae1eac0f702f45f1eaea9bb03fc59a3a40ce0a.jpg"
+    width: 430
+    height: 242
     isCached: true
 
 related:
@@ -87,6 +89,6 @@ related:
         height: 400
         isCached: true
 
-secured: "yfBktFd0OZQVUHDzpq+UTCDTatzc1ov6BOLE0G5FIUxoJ47DdIvYlQypuFzxIIEYVZAPsJhgNwVCwA0hQCpoYP9tvxY11lRZGGry8K1iJA4iN1ENsdap6rmVkFpXa8f0Eg4Zv/y5O0dtXjMsU9XSzso13wUFYQ1cChyxw2XF2xnwOBD8wTdCqRVsYL4TQlzX5zO+DAnqB62hbdqbqBE2WbD5jRe2jBUjdvbTphCf1fwK3rTcNmhqLMBwHfn14ArVcUxLLQBTLQmgZ5agaXavTJfZ23jX9R8XWPwz1RLELfFo9N24IdyiMACLNyRORXn7snT+mXU459Mu0H51lxOlEh8oGgQGdBGx3K0FU4SKJjc=;gjw05mb/9W2D6IZpKChPJA=="
+secured: "CSR2MFwyQPHmcu/7OLd108rW/jTMVAPQ6eUqpwFM+I2AvQwBytOEdMQLsH1kk4cJrZAGphqVu0x9vhzabTHC+Jd8t7ZWU6/Kd5tJcgGWNXjpCpGdJIcKoGM0ulaapBahBgBeCIfEmkdnmjStKe79SYAth5ydeQkLVrBVKSU89rx153r2e9bTxtUHIQdqP50/hugqpwXzwirGgeKZM+cA6Lu1d0vmHfhJ6e0nPUq6Wm+L3kG0Vm0UaIcz6CuBAwPiBny/iOd4/yTLQHY+zOm1QVFEdmkON4nQyimCrP0WCR0ZTlCe1RDJQslYj7Xf16VMF4UsLHcYR7wVWM1GN8nT6jLZRxFSZ/IUr+N/DPxNELQ=;/eUTnl3EXJENjU5cmI8Eyg=="
 ---
 

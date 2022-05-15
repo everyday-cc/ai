@@ -1,21 +1,27 @@
 ---
 category: news
 title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
-excerpt: "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi"
-publishedDateTime: 2022-05-11T18:15:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+excerpt: "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The"
+publishedDateTime: 2022-05-12T02:15:00Z
+originalUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+webUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
+
+images:
+  - url: "https://lh3.googleusercontent.com/__Jn4g-5HH4_ZMyjmWpuer2Zb_RLKiPRLMDswfTePpLBtBbnq31QHR6DQvAS9_82whxKfpi7RUOoCnEkEbn1mdgwAnexrzC9RskHWubQ_Cdu-kSf9_UDd6l7OdAAKKiZVqK6ANqCwWP4RyI2oA"
+    width: 1012
+    height: 445
+    isCached: true
 
 related:
   - title: "Artificial Intelligence Revolution Has Started With Arthritis"
@@ -71,6 +77,6 @@ related:
       domain: idw-online.de
     quality: 17
 
-secured: "c2XSjWLk/gp9jCiM+6EwWsqi970dktBLQmdDNN/1X33pdR4q0os+FFbIkti1ORBXjIgQVoGI+kqKJRAsiN+fSYW7hKEJH1zjUosQRxu02M2FYlpa1MniYvQR04tO420OBdcR/S0q789vjiJ9zI5+0xY+po2oY9xNxdzM0JjdpN2ErT3H50P3D7iuN5RFSZSPbml21UTq71zMnrO1KM1W5QBbpVbF9rCqmLU4KcooAvWzvAefsag60fY4+d8xWnpzQSFlrquRNI2eZ+D/Ot+1W7Sn+yIDNfc2+K811mtbEp0ccJUddlXb/c/4baRZoNbOL6a74ML0whbANefe2T5+wsFiZQoTmaO2gl5DGXsDiTd80gnyX8/bEq+TlrWJ7LxWjIK2DtzO8UoPvRl+TzP90xUfpQ58PWSaquCnQCQa1XQotOPSYKZD8y+CQ8d7gLMo5rpr710N3iySkOdpuRvKOa8S3720L56yc13mhSnRR7KY+YlStowWrgrYvvmugGosGvVdxubfA5K6MSCKGK7org==;rx/Q4jOYXqVKF6Di6HqIHg=="
+secured: "+PNtEb1Eh2n5YYScHkMy1IDfUddHax2fdmgfAqq4b8PE3Y2kZo1LFuSt+22SBD+yBsGgGDcZYG5YwUCBDDV8n8gY093knRPvFiiZRYijV5yWKJRUg+vzjDicvLIRDyvZDls5mONjMIeSan3hBT4Ydw61TP/Cm8EmduHWfQAwbdg3hxdVmid4aSK0XcYm7DSM1hcadDDwYCjXEZJTQBjyimxedS2Rb0Qv3j34B6VS1FLdc142ftLHA2HJgEsBHoBU7v+7G6Q+tkvTqPPK1TJLh8ZmrIs2D35MsKkzakGv8Mv0GOj1MxoUYtXvWdf4FauzaMHjPImz7Ybio5lWN5aVn1nltxaHWZEeWm4/PDckz/E=;6GGn4hkdHt1vpYrD975Kkg=="
 ---
 

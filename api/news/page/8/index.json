@@ -243,25 +243,34 @@
     },
     {
       "path": "_news/2022-05-05-aible-to-participate-in-the-bake-off-session-at-gartner-data-analytics-summit-may-9-11-in-london.md",
-      "title": "Aible to Participate in the 'Bake-Off' Session at Gartner Data & Analytics Summit, May 9-11 in London",
-      "excerpt": "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All",
+      "title": "Aible to Participate in the ‘Bake-Off’ Session at Gartner Data & Analytics Summit, May 9-11 in London",
+      "excerpt": "Aible, the only enterprise AI solution that guarantees impact in one month, is proud to announce that it will participate in the “Bake-Off” at the Gartner Data & Analytics Summit, held on May 9-11 in London.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8535548/aible-to-participate-in-the-bake-off-session-at-gartner-data-analytics-summit-may-9-11-in-london",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8535548/aible-to-participate-in-the-bake-off-session-at-gartner-data-analytics-summit-may-9-11-in-london",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-europe-london-91b69bab833ac3e4e644f998780349b8",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-europe-london-91b69bab833ac3e4e644f998780349b8",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T06:26:00-07:00",
+      "publishedDateTime": "2022-05-05T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

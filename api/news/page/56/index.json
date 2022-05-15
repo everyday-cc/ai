@@ -2,6 +2,58 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-03-25-crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai.md",
+      "title": "Crossing National And Cultural Boundaries: The Next Phase Of Media Content Creation Using AI",
+      "excerpt": "After aligning on goals and targeting, brands can take their content and start messaging to new audiences locally and globally starting with synthetic voice technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623c69a0d637bace3de8cac3/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/amp/",
+      "publishedDateTime": "2022-03-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-runai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any-cloud.md",
       "title": "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud'",
       "excerpt": "The Run:ai Atlas Platform brings simplicity to GPU management by providing researchers with on-demand access to pooled resources for any AI workload and has built-in integration with NVIDIA Triton ...",
@@ -1088,58 +1140,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-the-check-up-our-latest-health-ai-developments.md",
-      "title": "The Check Up: our latest health AI developments",
-      "excerpt": "Over the years, teams across Google have focused on how technology — specifically artificial intelligence and hardware innovations — can improve access to high-quality, equitable healthcare across the globe.Accessing the right healthcare can be challenging depending on where people live and whether local",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/check-up-ai-developments-2022/",
-      "originalUrl": "https://blog.google/technology/health/check-up-ai-developments-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealth-BannerV2_Pp0TFr5.max-1300x1300.png",
-          "width": 1300,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/check-up-ai-developments-2022/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/check-up-ai-developments-2022/amp/",
-      "publishedDateTime": "2022-03-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -3,24 +3,25 @@ category: news
 title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
 excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
 publishedDateTime: 2022-05-11T21:11:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -107,6 +108,6 @@ related:
       domain: koin.com
     quality: 15
 
-secured: "TsyheZAftmje6I6kHM3LgMzu0SdbOQLoJZ4dc4Bs14G2W5qvSnrT+X5A5xdqFEGHjLljfJoKCsUc5kkujnUvyafrXHD/PiM1g6viZGvlsHyMmzyZVU3opSp/2R0MSmCh/bZqvrTLpMwjoaGx0wkWK5VThxoAfVXBG+u9bCzz+xH7xTJxiFVIGX52/MdZ8phiAoVlpBvu3P4eQKFZLeR4kRb8/Fo6CcJNmLNQXq8LyyXoVqyLGmangyCF5pHxVIuTOyp18x6tjrUEthqLXVXnRvi7wjSv3Zi4sx20Yhk0vksDmML2SLII0JF07RWiOqwfMOJR9guHCHBGNlujtWJ17/exJSKuOrvQ7jKbmlNS7rg=;+PDd1t2gAHBsKNRKmgnIbQ=="
+secured: "LUTO2ZBIpC382xzP1FfRccVPbNTjadI2/a/ZYbthGowabz1EK1T/myJBep+/LRX20BPuMTkcS/hrbu6pjCJfjA804nh4yJSkD3LWDBlo0gAzoHPAUgoaIvhj1jieQeJYU45y4QPg+I5rJrkUG+t2A8+z1dhjIYf62KUTEF9HD1lVtkqWPk93h0d6Os7mjW5eYkThr/9VXwtZbrKv8z3X1JRSBwCl/fhkZ67qtvORJQP/oenXt3+PgtHM0JJTKMgTwYt3kS7wTfm4e9/oGKmNBZo96+BKoc99LGrxA7VxSaY4s+F+uE0GJLE/6gvTFw0943oG0wK+14dTZFBSUHfkFi769Z1sweHWMQtXkMs1hPo=;oMi1LS74UVsuWLSSYi0rMA=="
 ---
 

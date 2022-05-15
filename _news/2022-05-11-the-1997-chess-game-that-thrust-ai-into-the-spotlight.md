@@ -1,29 +1,29 @@
 ---
 category: news
 title: "The 1997 chess game that thrust AI into the spotlight"
-excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer. May 11, 1997 was a watershed for ..."
-publishedDateTime: 2022-05-11T07:46:00Z
-originalUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
+excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the - Kenya breaking news | Kenya news today | Capitalfm.co.ke"
+publishedDateTime: 2022-05-11T06:55:00Z
+originalUrl: "https://www.capitalfm.co.ke/news/2022/05/the-1997-chess-game-that-thrust-ai-into-the-spotlight/"
+webUrl: "https://www.capitalfm.co.ke/news/2022/05/the-1997-chess-game-that-thrust-ai-into-the-spotlight/"
+ampWebUrl: "https://www.capitalfm.co.ke/news/2022/05/the-1997-chess-game-that-thrust-ai-into-the-spotlight/amp/"
+cdnAmpWebUrl: "https://www-capitalfm-co-ke.cdn.ampproject.org/c/s/www.capitalfm.co.ke/news/2022/05/the-1997-chess-game-that-thrust-ai-into-the-spotlight/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Capital FM
+  domain: capitalfm.co.ke
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
-    width: 1024
-    height: 682
+  - url: "https://www.capitalfm.co.ke/news/files/2022/05/06c11a108d0e6ea1955723c2752aeb35beb7e488.jpg"
+    width: 768
+    height: 512
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
       domain: jordantimes.com
     quality: 21
 
-secured: "+Zlg5iizw7nB9gcTW4ijhPhAtsTc4pHpHfKTtBX7tsDTZjcq7HGzLl/gxAPhSe22c91JrheXdsRrI78XtnpImE/YN2+2VZRNrb7NOUzD5IAxJoYFg0uiRgUBlBPMJtH/OnfvGKgeYY4JkYXeSCluWa53Ymi6svKZp1u9Jaat+ILMPDZtNEu4ZXpJs1L5y7tExQdnpSeqUGoMgguHUrI2yKOfD8MhnYaVfsjEoysXi1pTlAuo7yY+Ku+dpnGq4NFEUuXrnywDtKHNGN3TYO0xWCIwNv74P4Pf9tNTspYI4oLKbo8DHUQ9ZBvkxJ3FcM0fjTTCwfSRbBHzR510DlHuEuEPT8yWYPleUeGNnvmdZ3XvIAJOPyQcCYQR5w/GtK9COs/JATzxGZJOGZ0c96QqhrPXCn83eybX003GAK7bulyRBK3GT2gDWUrJn8OqpA2LJZrxAgSNpUxGNe+iqKGR7YaZnkxpkpSYJBKOcsKZukUEyT8XAR+74/WU74d+Oqx0hEMtjBgv1L/bt0yNBJ/JUg==;emYHfyXzunufUgz3pANXOQ=="
+secured: "YgUciPgplJDhAoi5Ge8QcUp+wwRtEp/Es8dDDfmP+k8bxTBEf3FJ3B3FSPjNazRaoND5te1Sj1sjxX5yf/ZtscqGrHHSYrlbB3N969bcbrD0JXgQ9PcA3OjYjuFnRcl1kg7Gqqb5X8qFaWqPHUXKL414Rs2xhVTHullyArImGStgrLFpmvYA++Y5+YZp7CgO7kvKn2spRs5VvMkl/mM1IlvuOr9aRcr6eA7yLxt8vRaLfni6bzQUDv/JfXxWVC0Supt51u76yqIaoyZaTZpymbMCKs6A2AxJdAQSvM/4t+28hmoeBJO99ZaOyDa1bc4r5uCqyrxQdhtBZNltcdHSZGDtxVe6gqo8usHs24TMO0o=;xSVzftEoDU1uZq6hTjQpfw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sa
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true"
 type: article
 quality: 74
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2020/06/facial-recognition-racial-bias-amazon-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Facial recognition firm Clearview AI agrees to restrictions on use of its massive database"
-    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without their consent."
-    publishedDateTime: 2022-05-10T10:25:00Z
-    webUrl: "https://wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/"
-    ampWebUrl: "https://wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 68
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/09/facial-recognition-e1557763570147.png"
-        width: 864
-        height: 486
         isCached: true
   - title: "Clearview AI's facial recognition settlement is a frightening window into our future"
     excerpt: "Another powerful tool for fascist snoopers is facial recognition software. Its potential for misuse was at least partially curbed Monday with a court settlement stemming from a lawsuit filed by the American Civil Liberties Union against Clearview AI ..."

@@ -142,6 +142,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-30-7-hours-of-sleep-is-optimal-in-middle-age-study.md",
+      "title": "7 hours of sleep is optimal in middle age: Study",
+      "excerpt": "Seven hours is the ideal amount of sleep for people in their middle age and upwards as a new study has found that both insufficient or excessive sleep is associated with poorer cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
+      "originalUrl": "https://www.indiatvnews.com/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/04/woman-sleep-1651251890.jpg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
+      "publishedDateTime": "2022-04-30T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-30-why-companies-should-stop-trying-to-be-ai-first.md",
       "title": "Why companies should stop trying to be “AI-first”",
       "excerpt": "Artificial intelligence has become a buzzword in the tech industry. Companies are eager to present themselves as “AI-first” and use the terms “AI,” “machine learning,” and “deep ...",
@@ -1110,49 +1153,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-microsoft-ceo-talks-up-new-growth-engines.md",
-      "title": "Microsoft CEO talks up ‘new growth engines’",
-      "excerpt": "Microsoft reported a better-than-expected third fiscal quarter this week, with CEO Satya Nadella calling several products “new growth engines” for the company and predicting that IT budgets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-up-new-growth-engines-579337",
-      "originalUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-up-new-growth-engines-579337",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20220429095350_Satya_smiling-print-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

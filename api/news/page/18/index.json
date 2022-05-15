@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-04-27-rovio-robot-controlled-via-skype-with-emotiv-brain-reading-headset.md",
+      "title": "Rovio robot controlled via Skype with Emotiv brain-reading headset",
+      "excerpt": "The Emotive EPOC \"mind-control\" headset may not be quite as advanced ... for some basic tasks -- like controlling a WowWee Rovio robot via Skype. That impressive feat was accomplished by the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2010-04-27-rovio-robot-controlled-via-skype-with-emotiv-brain-reading-heads.html",
+      "originalUrl": "https://www.engadget.com/2010-04-27-rovio-robot-controlled-via-skype-with-emotiv-brain-reading-heads.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/5FznVsS1iYDouET5v05ZDA--~B/aD0zMzE7dz01MTU7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2010/04/rovio-emotiv-04-26-2010.jpg",
+          "width": 515,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry.md",
       "title": "The Lithuanian collaboration of iDenfy and Alternative Payments – a safer future for the Fintech industry",
       "excerpt": "Alternative Payments integrated iDenfy’s full-stack, multilingual ID verification to secure their customers’ dataThe digital platform for identity",
@@ -1113,49 +1165,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-a-model-to-improve-robots-ability-to-hand-over-objects-to-humans.md",
-      "title": "A model to improve robots' ability to hand over objects to humans",
-      "excerpt": "For decades, researchers worldwide have been trying to develop robots that can efficiently assist humans and work alongside them as they tackle a variety of everyday tasks. To do this effectively, however,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.html",
-      "originalUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-model-to-improve-rob.jpg",
-          "width": 2040,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-robots-ability-humans.amp",
-      "publishedDateTime": "2022-04-26T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

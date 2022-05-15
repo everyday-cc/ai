@@ -57,22 +57,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Facial recognition firm Clearview AI agrees to restrictions on use of its massive database"
-    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without their consent."
-    publishedDateTime: 2022-05-10T10:25:00Z
-    webUrl: "https://wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/"
-    ampWebUrl: "https://wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 68
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/09/facial-recognition-e1557763570147.png"
-        width: 864
-        height: 486
-        isCached: true
   - title: "Clearview AI clears the final hurdle in its quest to undermine US democracy"
     excerpt: "Clearview AI and the ACLU recently reached a settlement over the company's use of facial recognition. And both are declaring victory."
     publishedDateTime: 2022-05-12T20:47:00Z

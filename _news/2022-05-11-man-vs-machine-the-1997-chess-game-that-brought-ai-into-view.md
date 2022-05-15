@@ -45,20 +45,20 @@ related:
         height: 400
         isCached: true
   - title: "The 1997 chess game that thrust AI into the spotlight"
-    excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer. May 11, 1997 was a watershed for ..."
-    publishedDateTime: 2022-05-11T07:46:00Z
-    webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
+    excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the - Kenya breaking news | Kenya news today | Capitalfm.co.ke"
+    publishedDateTime: 2022-05-11T06:55:00Z
+    webUrl: "https://www.capitalfm.co.ke/news/2022/05/the-1997-chess-game-that-thrust-ai-into-the-spotlight/"
+    ampWebUrl: "https://www.capitalfm.co.ke/news/2022/05/the-1997-chess-game-that-thrust-ai-into-the-spotlight/amp/"
+    cdnAmpWebUrl: "https://www-capitalfm-co-ke.cdn.ampproject.org/c/s/www.capitalfm.co.ke/news/2022/05/the-1997-chess-game-that-thrust-ai-into-the-spotlight/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: Capital FM
+      domain: capitalfm.co.ke
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.capitalfm.co.ke/news/files/2022/05/06c11a108d0e6ea1955723c2752aeb35beb7e488.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "1997 chess game thrusts AI into spotlight"
     excerpt: "Yann LeCun, head of AI research at Meta/Facebook, told AFP there had been “absolutely incredible progress” in recent years. LeCun, one of the founding fathers of modern AI, lists among the achievements of today’s computers an ability “to translate ..."

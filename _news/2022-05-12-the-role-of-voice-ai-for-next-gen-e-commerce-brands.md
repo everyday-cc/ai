@@ -56,20 +56,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How to get better leads and conversions with Google’s AI"
-    excerpt: "Let’s start with the more sophisticated and precise ... is a bit more valuable than typical will help steer the engine’s AI automations in the right direction. It’s like giving it a nudge ..."
-    publishedDateTime: 2022-05-10T10:59:00Z
-    webUrl: "https://searchengineland.com/how-to-get-better-leads-and-conversions-with-googles-ai-384956"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: "https://searchengineland.com/wp-content/seloads/2022/05/Optmyzr-AdobeStock_359933895_Editorial_Use_Only-scaled.jpeg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "PNJstbuTHFeHp4bQJ69ct405wMT+1mPVaJULU4SfLh7qPrGTBWN27LgzpdRdAeklZmU8SzDUg8nx3tISoE8yHJKJIFomI04Jxpj+qlZxyVA35B7nmkVgwnM5tFyFvFPNw5ROdkIvd9zRWUWi/mr8W6YN0LThxSn2sPkHFajqUaVCEnORJ3/S6WAMqKxjmJ0miHo2bxxjT2chN0QttqE7vuEQrsHxR5SRbXAxUeRzOtDaZduj6vHS+aHLVf0Zav8RSCGwiigMvjlZEfaRqtcRlLlhAmAPbThokv8sSTwBarf75YUfeUNSJ4JbqFB7HHvUz7NKg5kgI6sk/mkgnfCMAdREOY53N+TWWxgR8z6nIJE=;Df7H65VbUyGqBmx5wf+7Rg=="
 ---
