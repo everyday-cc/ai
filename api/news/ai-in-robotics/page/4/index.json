@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-19-hospital-robots-are-helping-combat-a-wave-of-nurse-burnout.md",
+      "title": "Hospital Robots Are Helping Combat a Wave of Nurse Burnout",
+      "excerpt": "Moxi and other delivery-focused assistants have become even more critical as the Covid-19 pandemic has pushed health care workers to their limits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/",
+      "originalUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6259fcdbe445956782d8b731/master/pass/Diligent-Moxi-Robot-Nurse-Burnout-Business.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/amp",
+      "publishedDateTime": "2022-04-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-elon-musk-there-will-likely-be-a-humanoid-robot-in-every-home-by-2050.md",
+      "title": "Elon Musk: There will likely be a humanoid robot in every home by 2050",
+      "excerpt": "Tesla CEO Elon Musk thinks that the company will have an interesting prototype sometime this year and something interesting within at least two years.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/robots-musk-in-homes",
+      "originalUrl": "https://interestingengineering.com/robots-musk-in-homes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Xm6lJ5z0OD/sizes/tesla-bot_resize_md.jpeg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/robots-musk-in-homes",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/robots-musk-in-homes",
+      "publishedDateTime": "2022-04-18T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars.md",
       "title": "AI Ethics And The Acclaimed AI Uncanny Valley, Which Also Rattles AI-Based Self-Driving Cars",
       "excerpt": "AI ethics has a love-hate relationship with the famous or infamous uncanny valley, which can be particularly explored via the advent of AI-based self-driving cars.",
@@ -1251,93 +1347,6 @@
       "provider": {
         "name": "Metro",
         "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-tesla-is-aiming-to-start-production-of-its-optimus-humanoid-robot-in-2023.md",
-      "title": "Tesla is aiming to start production of its Optimus humanoid robot in 2023",
-      "excerpt": "Elon Musk gave a timeline to production for the first time for the Tesla Optimus project, a humanoid robot capable of doing general tasks. The CEO believes the company can bring the ambitious project to production as soon as next year.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/",
-      "originalUrl": "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/amp/",
-      "publishedDateTime": "2022-04-07T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-best-neato-robot-vacuum-deals-updated-april-2022.md",
-      "title": "Best Neato Robot Vacuum Deals – Updated April 2022",
-      "excerpt": "So you are able to use your voice to control these robot vacuums ... iRobot does have one that is D-shaped. Keep in mind that Neato does not have as many robot vacuums in its lineup as some ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/best-neato-robot-vacuum-deals",
-      "originalUrl": "https://www.androidheadlines.com/best-neato-robot-vacuum-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
         "images": null,
         "publishers": null,
         "authors": null

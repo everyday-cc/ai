@@ -44,20 +44,6 @@ related:
         width: 709
         height: 428
         isCached: true
-  - title: "Intel Launches Deep Learning Processors To Rival Nvidia AI Chips"
-    excerpt: "During its Vision 2022 event, Intel Tuesday launched its second-generation Habana AI deep learning processors that deliver high performance and high efficiency. The new chips include the Habana Gaudi2 and Habana Greco and use 7-nanometer technology."
-    publishedDateTime: 2022-05-10T15:41:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-launches-deep-learning-processors-to-rival-nvidia-ai-chips"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Intel launches new AI chips"
     excerpt: "Intel has launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia. Gaudi2 is the second generation processor by Habana Labs,"
     publishedDateTime: 2022-05-10T22:12:00Z

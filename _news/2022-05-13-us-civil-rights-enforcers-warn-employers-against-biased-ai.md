@@ -2,19 +2,19 @@
 category: news
 title: "U.S. civil rights enforcers warn employers against biased AI"
 excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
-publishedDateTime: 2022-05-12T19:46:00Z
-originalUrl: "https://www.bradenton.com/news/business/article261387662.html"
-webUrl: "https://www.bradenton.com/news/business/article261387662.html"
-ampWebUrl: "https://amp.bradenton.com/news/business/article261387662.html"
-cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/business/article261387662.html"
+publishedDateTime: 2022-05-12T19:50:00Z
+originalUrl: "https://www.sunherald.com/news/business/article261387662.html"
+webUrl: "https://www.sunherald.com/news/business/article261387662.html"
+ampWebUrl: "https://amp.sunherald.com/news/business/article261387662.html"
+cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article261387662.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Bradenton Herald
-  domain: bradenton.com
+  name: Biloxi Sun Herald
+  domain: sunherald.com
 
 topics:
   - AI
@@ -97,6 +97,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "7Glmbc2UFNv8BcCRVeu+IuFdwVapfncoE6peoLqbxRIh2pSFuXxO+yPsYrvAgKKpYN3Vpd49eOrWHDmbQKi8E7u1TmgLH5y3tAKcz6Ax0UrdvD+hVRjvCDevQqhuTunUWDTST86mnvVgiMPASiVBRpA+jeL1INr0IkHo5t8um3kLYBziYYToy55E9Qq1GLOWXp0A6olGRN2jmA5c79JBPkYu4oguqJLpDd/IzrD+2P1LRWspN+zXqRdf4kjz3sPSBXhTC3bL7mGEsSl5yIsfMQVTSXOoQfVhHDhNFwIMwZT2I8z9YmFMUvh2gXvAWFaGwGOfSnsFooVWeVrfhs0Ki7Jb07/AUqtGai4TrDMTyoviw25ES8Cn8P7EMXmo3C0yn4ZoI5+mp4EM5dFcbZvffAf2nrgLI1B0thfUs6GHBubL2cFMZdXgJkwKbyEomrp8q+cK4O8wv15Nziyk/rk/hJ14nUvzscyqJCgjVCEF5A+tHP92E5KTPD/N003MOTYc7P5GUF7NKdqlppPR8z2KbA==;lu/7Ci5exBjvv0zsEprH8g=="
+secured: "m8EgHdxJ1Wjp7O+fHoW2nKMcPkQB/RX7Pqfy7BjR4ayyQFz2uy+C6aYUsNvWV6lqAkjq+PtyHsuZ389qjsoLkRExskY1qkyr+ZIR9T+vbjs7dkQ3i9+0TBr7z/ohHy/OUogRZwrr8hqog6e1UDGdzhWdcoM6BPQMNf3l2Da8fDWPy4tvdIr/xgTd8rNk0M7jfppFbjVl9sAMHGMHlmz3b9s/TFd7OVpXcUFcJTqQyZV1I7eWDTNuAhOh4849jpQH3Ad/04LjHCenwaxQU4zlsXfkDZEmFOyWKw92u20cDv/DB830wHD7d8547HLdBeUZFU1gvpZWPCYIFN9sCwArWW8+nkfECGVq3waUZBJLye1HTQofLfqmjZjQhT9uoxG0tA6bgj73oGkmzX66GioBq+QhCOFBuoRZlafqa0eEruWVsuM22WGQRKFbTKIEH3NSDNlFu8abSUXLnGimvFFf25pQhMrDyvZ/3k49I/cvywX/UqEUb6jp7dHA3SV07cNafsSIRAWGJicx5tKwjj+P6w==;sglpf80pmNj0RqTtgHKOHA=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-11-man-vs-machine-the-1997-chess-game-that-brought-ai-into-view.md",
+      "title": "Man vs. machine: The 1997 chess game that brought AI into view",
+      "excerpt": "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news",
+      "originalUrl": "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/05/11/thumbs/800x531/204611.jpg",
+          "width": 1600,
+          "height": 1061,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news/amp",
+      "publishedDateTime": "2022-05-11T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-a-closer-look-at-the-research-to-help-ai-see-more-skin-tones.md",
       "title": "A closer look at the research to help AI see more skin tones",
       "excerpt": "Today at I/O we released the Monk Skin Tone (MST) Scale in partnership with Harvard professor and sociologist Dr. Ellis Monk. The MST Scale, developed by Dr. Monk, is a 10-shade scale designed to be more inclusive of the spectrum of skin tones in our society. We’ll be incorporating the MST Scale into",
@@ -51,6 +95,48 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-salesforce-acquires-slack-bot-maker-troopsai.md",
+      "title": "Salesforce acquires Slack-bot maker Troops.ai",
+      "excerpt": "Salesforce has announced the acquisition of Troops.ai, a revenue and communications platform that uses Slack and Microsoft Teams bots to surface CRM data from platforms such as Sa",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.html",
+      "originalUrl": "https://www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/05/slack-2-100888266-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.amp.html",
+      "publishedDateTime": "2022-05-11T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -480,7 +566,7 @@
       "originalUrl": "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -652,7 +738,7 @@
       "originalUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1043,21 +1129,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-10-qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions.md",
-      "title": "Qualcomm goes beyond smartphones with 5G and edge-AI robotics solutions",
-      "excerpt": "Qualcomm’s robotic tech is taking its tech beyond smartphones. The platform combines Qualcomm AI Engine and 5G chip capabilities for cutting-edge applications and possibilities, including ...",
+      "path": "_news/2022-05-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices.md",
+      "title": "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices",
+      "excerpt": "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/",
-      "originalUrl": "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/",
+      "webUrl": "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "originalUrl": "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/qualcomm-robots-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 680,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/6f1e17aee11727a0b88b5e8f92ca7a250a88c3bd-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1065,23 +1151,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/amp/",
-      "publishedDateTime": "2022-05-10T09:11:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T09:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1090,113 +1167,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
         "AI in Robotics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service.md",
-      "title": "Arrikto expands it MLOps platform with Kubeflow as a Service",
-      "excerpt": "Interestingly, Venetsanopoulos argues that the company’s biggest competitor right now isn’t other managed services like AWS’ SageMaker but businesses trying to build their own platforms by ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/10/arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service/",
-      "originalUrl": "https://techcrunch.com/2022/05/10/arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-997042320.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/10/arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service/amp/",
-      "publishedDateTime": "2022-05-10T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future.md",
-      "title": "IBM’s CEO wants to chart quantum-fueled, AI-powered path to the future",
-      "excerpt": "Whatever IBM had been doing ... and the growing market for ESG and sustainability. While Watson, the company’s artificial intelligence brand, may have lost some of its shine over the years ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future/",
-      "originalUrl": "https://techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Arvind-at-Think.jpeg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future/amp/",
-      "publishedDateTime": "2022-05-10T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

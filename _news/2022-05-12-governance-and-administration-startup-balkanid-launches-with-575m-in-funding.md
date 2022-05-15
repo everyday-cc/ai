@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Graft™ Launches to Bring Modern AI to Everyone With $4.5 Million Pre-Seed Funding"
+    excerpt: "Graft emerged from stealth to put modern AI within reach of every organization. Graft distills the AI infrastructure and workflows that top companies are converging around into an all-in-one package that is easy to use,"
+    publishedDateTime: 2022-05-12T16:41:00Z
+    webUrl: "https://insidebigdata.com/2022/05/12/graft-launches-to-bring-modern-ai-to-everyone-with-4-5-million-pre-seed-funding/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 12
   - title: "Startup BalkanID launches AI-powered Identity Governance and Administration solution"
     excerpt: "BalkanID will start out focused on the mid-market but plans to expand that, as they further develop their solution from automated IGA to fully automated telemetry."
     publishedDateTime: 2022-05-12T12:00:00Z

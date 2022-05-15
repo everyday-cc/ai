@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cute.md",
+      "title": "Takara Tomy's remote control robo-Q robot is tiny, incredibly cute",
+      "excerpt": "You see, the February-bound robo-Q bipedal robot is about the size of a human thumb, yet its heart and mind are big enough to understand commands via remote control. There's even obstacle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
+      "originalUrl": "https://www.engadget.com/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/oMZyEz1ppGI0FM6wRpNWoQ--~B/aD00MjE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2009/01/robo-qphoto1_small.jpg",
+          "width": 500,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
+      "publishedDateTime": "2022-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-what-happens-when-computers-start-programming-us.md",
+      "title": "What Happens When Computers Start Programming Us?",
+      "excerpt": "researchers at the University of Pittsburgh designed a robotic arm that Nathan can control with his mind. Nathan has very little control of his own arms. The remote robotic arm can perform many ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/",
+      "originalUrl": "https://investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2022/01/shirk-1-25-2.png",
+          "width": 600,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/amp/",
+      "publishedDateTime": "2022-01-25T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-sri-on-the-future-of-robotics.md",
       "title": "SRI on the future of robotics",
       "excerpt": "Thomas Low, the director of the robotics laboratory at SRI International, writes about what roles robotics will grow into in coming years.",
@@ -1331,111 +1426,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-roomba-j7-plus-vs-jet-bot-ai-plus-can-these-robot-vacuums-pass-the-poop-test.md",
-      "title": "Roomba j7 Plus vs. Jet Bot AI Plus: can these robot vacuums pass the poop test?",
-      "excerpt": "But is this feature worth splashing out on a top-of-the-line bot for? I put two of the newest to the test — iRobot’s Roomba j7 ($650 for the vacuum, $850 for the j7 Plus version with the auto-empty base) and Samsung’s Jet Bot AI Plus ($1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
-      "originalUrl": "https://www.theverge.com/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/5t0Y73CMlU0v_aM0IW41rB_rfWs=/0x0:2040x1360/1400x933/filters:focal(881x943:1207x1269):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70399687/vtuohy_220110_4963_0019.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
-      "publishedDateTime": "2022-01-17T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience.md",
-      "title": "Industrial robotics company Exotec raises $335M to ‘improve supply chain resilience’",
-      "excerpt": "Exotec is a French robotics company used by some of the world's biggest retailers such as Gap, and it's now valued at $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/",
-      "originalUrl": "https://venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Skypod-System_full-view.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/amp/",
-      "publishedDateTime": "2022-01-17T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

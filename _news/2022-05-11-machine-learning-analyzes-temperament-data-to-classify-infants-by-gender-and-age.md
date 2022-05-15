@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220510/Machine-learning-anal
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220510/Machine-learning-analyzes-temperament-data-to-classify-infants-by-gender-and-age.aspx"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "AI predicts infant age, gender based on temperament"
-    excerpt: "low-quality caregiving.\" Washington State University. \"AI predicts infant age, gender based on temperament.\" ScienceDaily. ScienceDaily, 10 May 2022. <www.sciencedaily.com/releases/2022/05/220510102856.htm>. Washington State University. (2022, May 10)."
-    publishedDateTime: 2022-05-10T15:38:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220510102856.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
 secured: "EniP8QKcUnHXd9wJqd2QDjJpjuD8V0Fa5CQQr/Dfk/I0mNhTj5cJ2D5Hf2vPAVX5JnlR4/cEtkIPSKERm/Wfqg71LNo3Bolkfkxh1sN1024DBIbTgnkOIcLgmu8GTHlVHxqOFgWiIsCMctOZvPGCCpr6p39s4mZeJRfC+N94kukFyqw0NxUiQBVLvLfF/XuHjvCU78JPgaN8opZTJQuCPO76yEHVVts2ztzTW2BvoZb7Ncifrkm0ZYQv8JF9WxBWvXNM7+DYdQ7oiGWk8LCb6XRjZxnSTkuDFvPvARQXTT2id4zOSHQ3ZpBSAelQCt0BPXgu42o6gu5ZP0GXSZel95+Cf7vDCJPa7jmmcfELVSuG8un7k1ADaxYGHlz+e5HatH52ALoXS+yqFIcJNqbKg38Bq8uybWZofJ81bN7h94RhrYiEz7t+X0wDvg+jbx4AgvckKk76SSGtgsu9RjUFgC3HK/OvizagoOXNve+G8lUvP/wSA0fCgW6Ziw5GPxhTXa7a8nANKl1cRmhDcrx+yA==;2LJjar7dQstLvHBEINsWmw=="
 ---

@@ -87,6 +87,20 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "Salesforce To Take Over Troops.ai For Microsoft Teams, Slack Integration Power"
+    excerpt: "Salesforce plans to acquire a company that provides an integration tool for Salesforce subsidiary Slack and rival collaboration application Microsoft Teams. Salesforce, the San Francisco-based provider of customer relationship management (CRM) software,"
+    publishedDateTime: 2022-05-10T17:23:00Z
+    webUrl: "https://www.crn.com/news/cloud/salesforce-to-take-over-troops-ai-for-microsoft-teams-slack-integration-power"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 50
+    images:
+      - url: "https://www.crn.com/resources/026b-12cf4fd92e80-ce477e33ae03-1000/salesforce-tower.jpg"
+        width: 609
+        height: 457
+        isCached: true
   - title: "Machine Learning Operations (MLOps) Market to Observe Exponential Growth By 2022 to 2028 | Microsoft, Amazon, Google, IBM"
     excerpt: "New Jersey, United States-Global Machine Learning Operations (MLOps) Market 2021 by Company, Regions, Type, and Application, Forecast to 2028 The Machine Learning Operations (MLOps) market report gives a definite examination of worldwide market size ..."
     publishedDateTime: 2022-05-13T10:19:00Z

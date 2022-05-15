@@ -42,20 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How these AI solutions for agriculture are keeping plants and growers happy"
-    excerpt: "Eighty percent of companies out there want to use AI, they’re testing AI, they’re planning projects around AI applications, but when you ask them what’s in production, it’s an innovator’s game,” he said ."
-    publishedDateTime: 2022-05-10T15:16:00Z
-    webUrl: "https://siliconangle.com/2022/05/10/ai-solutions-agriculture-keep-plants-growers-happy-delltechworld/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Jonathan-Seckler-Keith-Bradley-Dell-Technologies-World-2022.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "PNJstbuTHFeHp4bQJ69ct405wMT+1mPVaJULU4SfLh7qPrGTBWN27LgzpdRdAeklZmU8SzDUg8nx3tISoE8yHJKJIFomI04Jxpj+qlZxyVA35B7nmkVgwnM5tFyFvFPNw5ROdkIvd9zRWUWi/mr8W6YN0LThxSn2sPkHFajqUaVCEnORJ3/S6WAMqKxjmJ0miHo2bxxjT2chN0QttqE7vuEQrsHxR5SRbXAxUeRzOtDaZduj6vHS+aHLVf0Zav8RSCGwiigMvjlZEfaRqtcRlLlhAmAPbThokv8sSTwBarf75YUfeUNSJ4JbqFB7HHvUz7NKg5kgI6sk/mkgnfCMAdREOY53N+TWWxgR8z6nIJE=;Df7H65VbUyGqBmx5wf+7Rg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://static.toiimg.com/photo/75433510.cms"
         width: 330
         height: 300
-        isCached: true
-  - title: "How these AI solutions for agriculture are keeping plants and growers happy"
-    excerpt: "Eighty percent of companies out there want to use AI, they’re testing AI, they’re planning projects around AI applications, but when you ask them what’s in production, it’s an innovator’s game,” he said ."
-    publishedDateTime: 2022-05-10T15:16:00Z
-    webUrl: "https://siliconangle.com/2022/05/10/ai-solutions-agriculture-keep-plants-growers-happy-delltechworld/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Jonathan-Seckler-Keith-Bradley-Dell-Technologies-World-2022.png"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "okZa9WwQRFscWyz5TKRlwqyPwEZEX5a3D347X9QPcgqqbJ/IkqnonSwXiQ5ogTbp9Q75cna7HmFDfjMhVBDFlktNVUyBw3E8lLnaHS4U1FD6pyb92tlGLBraQhfr2JMQFaviDarMG/ltauqFMdqCrxyEzMqVT7qcxzottg12kSb1BestBFjznyoIj24Ucd8obhuk/kpqZQ4iDSzvoIKcGU7t1q+YVdoASS14dzWcEE+hZVnvbgzGX4l7FU4LCr3fAXIGztSv9teCSdf4TgaRoTpP58wbseeGBxrpjHGBllM7DFOfva4+0nAopCkNc9T1p0TD4U0FRT1FKO7PtukAkjxag9gsGF0mRNkxJIOhTnzOdF9Jt6HYcerVfmLJvkqEO2FLn6VDw+YC7O+5wsW6yVczQSQyHg/NlPwdQlbdOVWG6Im8+OyKoVCwoKMORWPDk0QL0fDwXn1TrBpo9l/6gYx4rrOMwjA4Wjs9bYGCeuT5gm9aEm5U2sxN4XRlNJk7hyXixOdstgKwYtemUcoBSg==;HIOmPdc+i1PXYb/wUHUK5g=="

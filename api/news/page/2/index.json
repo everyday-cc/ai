@@ -933,7 +933,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1016,6 +1016,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-synergies-raises-12m-to-give-factory-managers-an-ai-analytics-assistant.md",
+      "title": "Synergies raises $12M to give factory managers an AI analytics assistant",
+      "excerpt": "There’s no lack of startups around the world trying to make industrial activities more efficient with artificial intelligence. Some invent robots to assist or replace manual labor, while others use machine learning to help businesses discover insights.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/",
+      "originalUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/2.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/",
+      "publishedDateTime": "2022-05-11T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1148,58 +1200,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more.md",
-      "title": "Google ups the AI ante with new features for Voice, Assistant, Maps and more",
-      "excerpt": "AI systems are allowing search to take “huge ... A new capability, Nest Hub Max, allows systems to process and recognize users to start conversations much easier, Tasca said.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/",
-      "originalUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1175256533-e1652306874947.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/",
-      "publishedDateTime": "2022-05-11T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

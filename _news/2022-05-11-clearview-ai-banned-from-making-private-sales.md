@@ -85,20 +85,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Clearview AI settles lawsuit over facial recognition privacy"
-    excerpt: "Monday settled a lawsuit brought by the American Civil Liberties Union (ACLU). The ACLU alleged 'that Clearview repeatedly violated the Illinois Biometric Information"
-    publishedDateTime: 2022-05-10T16:50:00Z
-    webUrl: "https://www.jurist.org/news/2022/05/clearview-ai-settles-lawsuit-over-facial-recognition-privacy/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 56
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/01/artificial_intelligence_1643478423.jpg"
-        width: 1280
-        height: 888
-        isCached: true
   - title: "Instagram filters affected by Clearview AI facial recognition database lawsuit"
     excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
     publishedDateTime: 2022-05-12T15:51:00Z

@@ -89,14 +89,14 @@ related:
         isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
-    publishedDateTime: 2022-05-12T19:46:00Z
-    webUrl: "https://www.bradenton.com/news/business/article261387662.html"
-    ampWebUrl: "https://amp.bradenton.com/news/business/article261387662.html"
-    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/business/article261387662.html"
+    publishedDateTime: 2022-05-12T19:50:00Z
+    webUrl: "https://www.sunherald.com/news/business/article261387662.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article261387662.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article261387662.html"
     type: article
     provider:
-      name: Bradenton Herald
-      domain: bradenton.com
+      name: Biloxi Sun Herald
+      domain: sunherald.com
     quality: 37
 
 secured: "78/Vw75BMeOgc3H5fpfgo251mwVmKYEb7E9F2amLJAijjP1x2qqG9f5tfMwGGUFxCOgZl90DqdCnTwkwfaIH6pbXW8Afy0ZtaSEMtkr6vkX0GuQRZWR1cKjju7Rn8hmY2AlCDNgrIFnZa8Ek1PJ7cioh7ttJTwYhIX6vCtj2NV2Xo0Mlo/aIh0GEcdwNBMjgyP8+EE2NOPx8FEHjBAgq3tNXsjX8h/RNnga1UHM1pnmFal5g7N1yWvya/zcBJ1f2YWZg7Zcm4U5+pRZ4GHd4cPZ9IoJvVbOqYrevK3gOa8yXRUM4KUz2mDMG0iJII+dJn+68Xviovf4BdQwx9Fw831TBnr418904oTUFFNOMEN1GLLW2urMPqdsD4TAl1FqSHjdsE6xiJaESAb7W421U97ATmzTHZR2WTeh6yP+vr1/M/Iy78u8aul77f3VmRrMqo2A1FHu7XMUYlaT2aOTGaNqDtILTiMif+5+u0TD+mlnX3TXAw6wR2/7I1GmLfbk3nDkZ8jhBVMt+WR0di4QXBQ==;nrXujgqGJJ4OuPQbwTq0+g=="

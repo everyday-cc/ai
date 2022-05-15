@@ -24,17 +24,6 @@ images:
     height: 768
     isCached: true
 
-related:
-  - title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
-    excerpt: "a global leader in AI-powered risk decisioning software for the fintech industry. Available through the Provenir Marketplace, Point Predictive's Artificial + Natural Intelligence™ solutions provide Provenir customers with increased underwriting ..."
-    publishedDateTime: 2022-05-10T15:19:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/article_39166c37-7a76-545d-899f-cc98fa9bcad2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-
 secured: "CEYlNI08DkvOVEBjF6F7mXLp1KMqsQUwSocXyLE/Bzrn+YhGRsNPnfRQv4mMJ6J2r8guiMcp5vYqjXUbNaaFfxT9qrCN4qQBGv79IBh7hm38ZbvA3DoAZxA3bLt876mS6shyA+k9NAvoghJXAi2Q73yrnrlnvakxGNJopqtdadR77H/4d60dhe8t7SdsLllcNNAbho3emZNjlauUcWyn7RXkGrm4a0j5S9m2a581Y2RFl/6td1pfjaByDEBi8RLxG1qLLInURYZrCIwYAoXTJ+EbXsLDvWaW3HMLgUo9nrxQeES7rB8zqCrefkxao7BvvFDt9ivLx7NzqJ2qUVkkTNH9VVru8oSa75AhLhXMkzM=;9LyYHWxs+ablG/MNgJyhzQ=="
 ---
 

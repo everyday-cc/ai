@@ -1,10 +1,10 @@
 ---
 category: news
 title: "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0"
-excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes. SAN FRANCISCO, May 10, 202"
+excerpt: "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes SAN FRANCISCO, May 10, 2022 /PRNewswire/ -- D2iQ, the leading enterprise Kubernetes provider for smart ..."
 publishedDateTime: 2022-05-10T14:17:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: apnews.com
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
   - Machine Learning
 
@@ -22,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "62Zv34eheFnA2HCGnACxAf9HB8ID7DkuOmiykvxk85cv2xvBBk0zTa5V3W2YYdiLUYjtOUV9/cUmxfBkEHWyleh7HCVdFB0hP4KyB9DqdEfL9nmnBcbSietOfORdKS59uMgWOx8PM1SqNGMZyyS1za3R1TMT+FLhB+w3cy4LRynbzh3zqXGAKGiJfIJrYT9S6TpMvUd5wyGt3MFHb+p8ohG4EJJBm8x1nPqkpkAaieL7TOHWZJRTv95qqr2v7/rysMIsxlFowV50bosNdeD9k/AZ0GyoUsTN0l02EJ978nhpN7DUhNNrpRjCJxQclS+oQeWLQz47m4cl/La055HP421XXXPBQLXDcSgTAa7zOYI=;KAmmHHP6VrEo0BJfxRKrXQ=="
+secured: "80xSHPX/5mlnjkbL48PW1Ix1NXJPoLileKa2SgUw8zhj4fUqk6kZScN/JXmOMq25EsvDEajoYoldf9hzo1+a0zZtr5S3/ts4MvpQbNrjoX1eC9KlikwOhJ36j0Ge41eJs6IvCrxn5t3oOCLufqyKbw44zSngEScSgnSihz8Zi68biVx0mbE7qPBq5Gjw1aFS+WQyr5j/k8J47agp9N2e6gVDo5r+Z4xnCzJJKwHR3S4BAiUDV0Qn9BQq9ydAAhBR0VJDjyrQ0DbhagrlKP99giRBahEKsUUrDvkqvudGstKa2TQB/9GoiZKKuyYO9SyaL5ct0B2LAoUzkjMfxdjKHoY2kpuxU+PhS2AFZzsplR8=;L7beQKQU5mwPwGh6ZmEytA=="
 ---
 

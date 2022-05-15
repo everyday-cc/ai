@@ -3,24 +3,25 @@ category: news
 title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
 excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
 publishedDateTime: 2022-05-11T21:11:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -89,6 +90,6 @@ related:
       domain: apnews.com
     quality: 17
 
-secured: "2PV4mtJwNEVztaGJbZDIRT4Bthc0xm9aM/7CuF6s+7WEZKsMabizm8jUYOISF+ugrvPigs5fqWprtqHONMv2odSMlhD9yPr3s87bHqwAiXqB/Z/iQVGTXPOKeGiJUHd3kH1mW3V+k7m+MQRarZHQ7E1w3p+uEy5iAOurVy9Xum4vyxiuFVgpLimK+S7kwxdWzcRPLysfMJg0Lbx9ZYeBO1S2VOS6uLKjJwQaFoAQW6nsZ6Arf24yVqa7p8vSCxepcQokNenjwmnnzw5CtpN+vwOYFoJCfvyha1zEwwizNorrKNkjJm9DQLMPhByZ8yC2dowFSvod9rZ0OoSxCSXCthuJhqld7w6Nbf0F+gKjlb4=;QPzUhRe1WI+sTVvFftNcQA=="
+secured: "iPD8ZDpQvkmsmP1kVkHYE9bGHiKg16uHk4kCnnNKwnZNwyKsXmMRQMhQXOZocXlNipfjdnONKh4SUGf0AnCXXCHCK7kIJW9Qt9Ot7dapXCSunG+n7Z0rSNIx9Bh8IIkiLkTEC9ZDXBqPLYYQ4heNo00cVQRqnMZG6Pb5YA2YXxCt8UT2hGmPbrtF377n4539RTf2C4L7As+tBCdLpaOYyKjUweRSh1OQOZj3WYFKRU02wG2VG19Vu0sj6Z6UvgPAhM3mTON/qinTqVQsvcyqviPwoUdYy/oMNiOPxW4GAk1aAF4of4xY9ocIMO7bSyGWM+PYEuUM7IqWCX94ozk37hg3MoM3LXT2AsHaXA52LOw=;Pf7uUKXbefeT3E86K/6HLg=="
 ---
 

@@ -74,20 +74,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Clearview AI settles lawsuit over facial recognition privacy"
-    excerpt: "Monday settled a lawsuit brought by the American Civil Liberties Union (ACLU). The ACLU alleged 'that Clearview repeatedly violated the Illinois Biometric Information"
-    publishedDateTime: 2022-05-10T16:50:00Z
-    webUrl: "https://www.jurist.org/news/2022/05/clearview-ai-settles-lawsuit-over-facial-recognition-privacy/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 56
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/01/artificial_intelligence_1643478423.jpg"
-        width: 1280
-        height: 888
-        isCached: true
   - title: "Clearview AI banned from making private sales"
     excerpt: "Controversial facial recognition company Clearview AI has been banned from selling tools that use its facial recognition database to private entities across the United States, following a lawsuit in a state with strict biometric privacy laws."
     publishedDateTime: 2022-05-11T11:54:00Z

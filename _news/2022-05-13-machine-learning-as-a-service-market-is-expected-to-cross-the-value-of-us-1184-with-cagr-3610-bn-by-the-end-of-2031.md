@@ -24,6 +24,17 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Machine Learning As A Service Market To Surpass Valuation Of US$ 118.4 Bn By 2031"
+    excerpt: "Transparency Market Research delivers key insights on the global machine learning as a service market. In terms of revenue, the global machine"
+    publishedDateTime: 2022-05-11T12:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-market-to-surpass-valuation-of-us-118-4-bn-by-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+
 secured: "qS7H5GdEbbq/UzBTayhhPYYP9wSVDlnXawZ5sePOKHHnf09HL7aQT/rNgfm5A+sxPjwrjXrz8nPMcUGrS1/kovWI29AhkbYcKfbopgTH8gW85silzLDhcqWQXLdJZD9mHCgUUV3OSsO2yV2z0RvR5rM41HfxL9q+4YsecnwW+O5srShbtvW2EpPCi3X1NOKpEi5cjQsz9sa5QRZASlgigvjRw+NLmu2IaWb4AQdFpD0ojf8ZQKG2Iykm0naEXxM1kLPRRERoDsITDJu00jtFGaWBhbYyDFovMNOGMji+K0aDGi+q3cl6Dxa1d7dkqpCkAA2T6Ec3QkNWJ/DXe1iSIRN0V+bb6xzGHiUoOIdv6RfNmJ376lmSh7h6MnRE1TDFLI5seDwzIm2IwGpwTU7o8GF8X4V4ckieiJs3+iaorxxXTaKDRugeDW/Sguc2c2waKiSiFq66ky+gj5Ca2ruBzW1nVgoBsIfcnT6Etkg8AqyC5hMyfOsZ6A3lqir2JUnLnADDll8cS+UbqjskUR0T6A==;i4Lr5723h4Uzol5/U7ZdAA=="
 ---
 

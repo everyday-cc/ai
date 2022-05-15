@@ -1,26 +1,29 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
+excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
 publishedDateTime: 2022-05-12T21:04:00Z
-originalUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+originalUrl: "https://www.kawc.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.kawc.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.kawc.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-kawc-org.cdn.ampproject.org/c/s/www.kawc.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
-quality: 29
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: KAWA
+  domain: kawc.org
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 838
-    height: 628
+  - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+    width: 880
+    height: 542
     isCached: true
 
 related:
@@ -87,6 +90,6 @@ related:
         height: 400
         isCached: true
 
-secured: "7OgbXcPodbsiTFnaDqvhhmMS7RFfvp1o0P5e7TUePS4I9iyOar0NmeJ78MHdlqVHjh/m6n/8sGmVf4vyNfHWzCQypVRGsdm8yr/79OyDGLfjP2+iN4iZNA7Mt2W5560iWdOac4sfqBaHdm4pyKPqg6de6BjcoWTa1Auq0NCs7ZHWU1vrdvb/IlD2TsL5ZxzLS95iOjK1ASWMuWoC2nJcxk2Vhf6nKwFxqYIB04pVPxJJffU6OaINrczB6XBBwjH940gl49EdZzOUCTu5ID0ZttoJashYHZdI9OXB8SoNTCZvXJR/gJ3GwtZQFJV/gBNDvPYHB1IRH2Z0REXNAAgLO6rc+xxwVw77reMRAaYFm8c=;yU4tbp3yPgx6XXPWWYT/mw=="
+secured: "P8MhNkYefOKYWVghtHvbnsISA+Fy9qECJ5YHqWt0nM7pDsQ0RJyW9piKHf1vBxdoMRggSfFInqo+tGWGxFg1vqpJsgVDtU9UTjOyWcGNmY/RYWpwcylEVw2pOB1u4dVO/NWxPXdHcyBhUxtz3vSSWctqBt3uAOrDR2SxeMKIfiIi9Zy3fxdTLgkSeFgneskJ+Mthcbck/IsAEwJacaDxNdYQQN9v/vFUHZxdWeXUtI/sfWcPxwQf6Les0cFp8xFcTNjjLC97tyu6ylE74+gsURK7YMhTOb729ik5X8sjbsj7xpJT4kcX76qwq12UjKjX+RbIIs4aSnErqrfl4ckCldlTfwoShFXGAu99slblaE0=;hr2ixYQgKtFumaqxvfkzxQ=="
 ---
 
