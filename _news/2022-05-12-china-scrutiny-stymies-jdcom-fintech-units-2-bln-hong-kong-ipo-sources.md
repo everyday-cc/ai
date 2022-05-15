@@ -2,13 +2,15 @@
 category: news
 title: "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources"
 excerpt: "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,"
-publishedDateTime: 2022-05-12T06:46:00Z
-originalUrl: "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources"
-webUrl: "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources"
+publishedDateTime: 2022-05-12T09:09:00Z
+originalUrl: "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources-0"
+webUrl: "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources-0"
+ampWebUrl: "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources-0?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources-0?amp"
 type: article
-quality: 32
-heat: 32
-published: false
+quality: 52
+heat: 72
+published: true
 
 provider:
   name: Nasdaq
@@ -38,6 +40,6 @@ related:
       domain: channelnewsasia.com
     quality: 0
 
-secured: "T1TT7dXKiGDn+8H08CEgJIVkD4MlC+BDMCxhBleJxQzrUr5ILcX9hwl0QiKz4r8MzXGt0Es+auJXo0NYgXnExNGjD8QylFtlCfvUd6hg73BbN+ai0Ba1y3BhbC9j5CsmbQz9Phdc+Z4sPnEDn4MDnLkiXpYGKrkX+ettxUGZpGn6i0llpw1KFaJgp5u/9988qFfg++9E23j+O1NK01RMOZqunp4bhZxZ5yl52NOChgDtrhK43FPtK+wnsrqTLan1d6zaFHC5UMIj8ne4d3XpST1e4dzd5bJCq9XgY0Nl/kXBk0YkhGRMnT1zuUtgczu7tkDyLGmMDKLoWbOElIhUbi9mFuI8rJNOSWeLW+HpDVETAfG5gFuryMOFtn4ZaELnkii3UNOGkgNQvC5hJxK9EfxGr/n3R72WqLCNsAD6vxRkHjY3Zg+c7HYoRq9uoetw/bi3xwVG+A3lyLY46iyFinXLijo1mmGi6uhdGUYJeVu13jAQ8fBzx2LQHUwV5Jix49+90P53p8DgjOEtcYVepQ==;w3YmG/BQK3aU/QUgNmQzVQ=="
+secured: "fRoSrjpYX7+5w5VWlBKy/6Jvm+uS3KyEyyMY2nSDHkgbxqMpsBWXpRQ5o03iqTrcQ1f+gbR2opMzeYzrAIq/SrEzgyhcOTqqm4wMHksrbvc5KIC2MXG6vnZJDfiR7PpfTklAK3PPki+Wlj4H7XZL4oVU271s4Df7WKfPu5KPfrf39pCRyv58qO3F8fyBYWf5SvHIto5yXpDxr1RXN1CHl/2wbbaIWTTsfQlzUnKjicMZ1xPOEOwfdUg6qePCNQKkpOFDt+3ogo4nBNwQXoa2v4vLrLdUZ3hHKn4VMRQ+3HKjG+tiVn9bGmiRiCoOJBi3wnr9hm84Kfxym+DISanfA2JuGnJqSVq1MnHvHFGkeTH6hQx6jYGa3BCiUaiH8a00H+p5V8j4a05//53NNZ+XfzSmsv0tqBdvtnChAUWbxJ1nlbdYYXRPjVSl6RsEE+BDT4f0Sb5tIg3K1M2QTyKe5QLat4VUZfgaKsb5Rzm7VWt1cjj562/DQFrMXY+DG0Npp5vKSd0XWgCYZwkxD63llA==;eYJ6C5lVmW0KFXmNAkbfOQ=="
 ---
 

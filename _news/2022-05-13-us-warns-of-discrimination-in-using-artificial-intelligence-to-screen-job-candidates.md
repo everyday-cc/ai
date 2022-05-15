@@ -1,29 +1,27 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:12:00Z
-originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+publishedDateTime: 2022-05-12T21:04:00Z
+originalUrl: "https://news.wjct.org/national-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://news.wjct.org/national-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: New Hampshire Public Radio
-  domain: nhpr.org
+  name: WJCT
+  domain: wjct.org
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/c12b64b/2147483647/strip/true/crop/1920x1081+0+100/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2Fcb%2Fa74a1d844255ab2edff35ef4b192%2Frochester-city-hall-nh-nhpr-photo-dan-tuohy.JPG"
-    width: 430
-    height: 242
+  - url: "https://npr.brightspotcdn.com/dims4/default/274272a/2147483647/strip/true/crop/3663x1923+0+258/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -90,6 +88,6 @@ related:
         height: 400
         isCached: true
 
-secured: "aTbWeST8KDTQsjiANKBsxsCZQF75voz7pOzaDyP3+4Y2vLN6w6egb4y1Ri0eXBsFy2bUwvIlY2DMpIfbVCcs8qfUJRcMJoRBQv5aK/b/UEMoJGiX60/uj8pN2v7S/59HHxfQu0zonwwiX05IFLMl1J3UxKVOMXmR1Uc/ZHHsYG4P2bWrRdfHSluJNfeBuo1LB0kcG1rialfC0I7I+Jvkte6gBQG0hqVEsn6wgno8aFBU9OQZK5WaUVKE+0SX9Vf1q/PzLWLBc55jnvVarltM5OX64ewEO+Su5EglBUU+JBlC/5NsKmoR1qSi6PO8B1ofpK4+0XdGD8FJyBe85rH7m/SamVSc1XKiXmnDGFNksMc=;YM12MkGUnw1Bq2kn7uF6nQ=="
+secured: "I1PS+Kn9U4PUEPFtL+M5TTKlPMtQusj9z6zTX8qwc+UuMA4BeIwHYQyunVGal8SzSI16bbpgBMrzK2ZGI/mt+LNx2uUNgBAsZNivgXtMACRlmoJnzuuE0F8YhfAGItdlef9KFQaa0xx8YZuJ+Ri4XjdEM09dAnKgZ/5WgYydARCEzWp+PXJ4RxotDbToi1ZtfVK++9BChwmAfAZJUvUJm5rgruTshG5OS/TfVUlpSij8WUw8FT+BvYmaaZBslriAlc2jIUSfGXWYItHUOJCu/2jlp6CwKbg8nEwD4N+XzBvR+pYf4U8xVHzOM/lc8ZfnycSLvtz2UmEUTy6gTj77yLaRkAsZv+XnCPbgV7TbZEA=;q3wOVu65RpErWnP2I3BnDA=="
 ---
 

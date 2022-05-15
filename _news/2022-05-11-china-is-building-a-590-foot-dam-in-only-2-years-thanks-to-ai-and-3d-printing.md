@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/china-590-foot-dam-ai-3d-prin
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/china-590-foot-dam-ai-3d-printing"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "China is using AI and 3D printing to build a 590-foot-tall dam without the need for human workers, scientists say"
-    excerpt: "Using artificial intelligence, construction robots, and zero human labor, China is poised to complete the Yangqu dam by 2024, they said."
-    publishedDateTime: 2022-05-10T05:16:00Z
-    webUrl: "https://www.businessinsider.com/china-robots-ai-3d-print-dam-no-human-labor-2022-5"
-    ampWebUrl: "https://www.businessinsider.com/china-robots-ai-3d-print-dam-no-human-labor-2022-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-robots-ai-3d-print-dam-no-human-labor-2022-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://i.insider.com/6279eb5f94a2c10018eeb1f4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "China Says It’s 3D Printing a 590-Foot Hydroelectric Dam With Zero Human Labor"
     excerpt: "Here’s a riddle for you. How can a country with enough resources to 3D print a new hydroelectric dam using artificial intelligence, driverless trucks and seemingly the best construction ..."
     publishedDateTime: 2022-05-11T13:47:00Z

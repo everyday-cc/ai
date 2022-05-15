@@ -41,20 +41,6 @@ related:
         width: 320
         height: 240
         isCached: true
-  - title: "Bringing driverless trucks to the world"
-    excerpt: "That’s because after years of development, driverless trucking technology became commercially available for the first time in 2021. The company that brought this industry-transforming technology to market is California-based Plus."
-    publishedDateTime: 2022-05-10T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90747782/bringing-driverless-trucks-to-the-world"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/Plus’s-Autonomous-Trucks-Powered-by-PlusDrive-1-1.jpg"
-        width: 1280
-        height: 790
-        isCached: true
   - title: "Interesting Driving Facts You May Not Know"
     excerpt: "Think you know everything about the wonderful world of driving? Think again. Here are some interesting driving facts you may not know."
     publishedDateTime: 2022-05-13T12:11:00Z

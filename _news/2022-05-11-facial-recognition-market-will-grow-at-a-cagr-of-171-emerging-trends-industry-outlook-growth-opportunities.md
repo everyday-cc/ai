@@ -34,20 +34,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 13
-  - title: "Regtech Market Size 2022 Grow at 17.55% CAGR, drivers, challenges, and their impact on growth and demand forecasts in 2029"
-    excerpt: "The Regtech market size will Expected to Reach at a CAGR of 17.55% in terms of revenue to reach above USD 28.83 billion by 2029. Regtech Market Overview:"
-    publishedDateTime: 2022-05-10T06:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/regtech-market-size-2022-grow-at-17-55-cagr-drivers-challenges-and-their-impact-on-growth-and-demand-forecasts-in-2029"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/60465b83490cdff2f7eddb64a71e08f8aa46470b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "kWDR8k4+mYMP6lpINZYZWMuRnC1wGsApkR6cRJX20xV5vM8Psu2qRuTKL3N9cU5X5uG3u5aDjzcBUEpgiJMVru56J+YDkucJ4rkupS767fFtjTR4Nw/oKrd+9xHt05Vkn++TL/r35vfrTaiY4Gjh/W5dPBZOgPo869sgENEwJkjRkFVOFujl2+pVcJLb9GXrm4kvuIIMUIiJe9phVyCeYHmK+xnRAqaVZ9Pv5UibudqNEaprW0AXx7X6rCpV4lucz/akuojEisg3hzFwYLtnSDkHaXRvHhHeOTlcSBTid0mjoB5fdI5WAY5pc3nnCgs0qlx6qXiJKqEjym05hVZ/5saRtsnngdR9w3XzjN6BVnI=;KYi6h4Vibb1raEZFY/5DLw=="
 ---

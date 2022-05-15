@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-health-8
 webUrl: "https://apnews.com/press-release/business-wire/technology-health-86f0d638b22a40dda9d8e1b38b8a9e6d"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "KNUST advances research in Artificial Intelligence"
-    excerpt: "The Vice-Chancellor of the Kwame Nkrumah University of Science and Technology (KNUST), Professor Mrs. Rita Akosua Dickson, has said the University remains committed to advancing research in Artificial Intelligence (AI)."
-    publishedDateTime: 2022-05-10T06:48:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/KNUST-advances-research-in-Artificial-Intelligence-1534118"
+  - title: "Global AI in Bio Pharmaceuticals Market Analysis Report 2022: Technology Landscape, Competitive Landscape, Business Overview, Key Take-aways"
+    excerpt: "The \"AI in Bio Pharmaceuticals\" report has been added to ResearchAndMarkets.com's offering. This report forecasts a considerable trend for \"AI democratization\" where various machine learning/deep learning technologies become available in pre-trained,"
+    publishedDateTime: 2022-05-13T13:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-bio-pharmaceuticals-market-analysis-report-2022-technology-landscape-competitive-landscape-business-overview/article_4bb7721b-42bb-577f-9c44-32832d7bb35a.html"
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 37
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 2
     images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/460/46046790.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
-        height: 404
+        height: 338
         isCached: true
 
 secured: "VxU22MRUL/MWkjJG0NYk7Hnf0vdl1iRhHQHp3GmoQ64rjZ3f3DoHEk0e4/by4TLH0mX2f2H1agbnKAkFfuUQVuezdpHlMtDbndu3+fZZXg0u70/WUz//GtjfBdl5ehztfcUW4CbLcBee0qiMAgvxxwEINX20AaHzhElwQAXMGJxuv9zirOidiLJy//CPSD3hwyHyEtX0wZYXzS5r/e+NTH8TDQn1YIPt1eMaElEi3KvMb/eu4IZwU29Nl6hRdXqPQg5nVlzMoZzFWhxBlZFHgTtH3iTz/tSSwodY8w49Vcr/V8WJAClb8CGE3rN/08G/chDznyfizDEIL6v1r3nyoeE8VKr3O4nIcGnA+G0ja3w=;tlmpw2j49qIs9VyG+YiPAA=="

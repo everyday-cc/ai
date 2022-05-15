@@ -156,22 +156,6 @@ related:
         width: 1280
         height: 888
         isCached: true
-  - title: "Clearview AI – No more controversial facial rec tool for US private companies"
-    excerpt: "Clearview AI reached an agreement for the lawsuit filed against them in Illinois state court two years ago by the ACLU and several other nonprofits The company also agreed to not offer free trials of its software to individual police officers without a ..."
-    publishedDateTime: 2022-05-10T06:46:00Z
-    webUrl: "https://techhq.com/2022/05/clearview-ai-no-more-controversial-facial-rec-tool-for-us-private-companies/"
-    ampWebUrl: "https://techhq.com/amp/2022/05/clearview-ai-no-more-controversial-facial-rec-tool-for-us-private-companies/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/05/clearview-ai-no-more-controversial-facial-rec-tool-for-us-private-companies/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://techhq.com/white.png"
-        width: 614
-        height: 250
-        isCached: true
   - title: "Clearview AI banned from making private sales"
     excerpt: "Controversial facial recognition company Clearview AI has been banned from selling tools that use its facial recognition database to private entities across the United States, following a lawsuit in a state with strict biometric privacy laws."
     publishedDateTime: 2022-05-11T11:54:00Z

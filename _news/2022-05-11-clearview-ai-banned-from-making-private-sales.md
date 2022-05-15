@@ -161,22 +161,6 @@ related:
         width: 1280
         height: 888
         isCached: true
-  - title: "Clearview AI – No more controversial facial rec tool for US private companies"
-    excerpt: "Clearview AI reached an agreement for the lawsuit filed against them in Illinois state court two years ago by the ACLU and several other nonprofits The company also agreed to not offer free trials of its software to individual police officers without a ..."
-    publishedDateTime: 2022-05-10T06:46:00Z
-    webUrl: "https://techhq.com/2022/05/clearview-ai-no-more-controversial-facial-rec-tool-for-us-private-companies/"
-    ampWebUrl: "https://techhq.com/amp/2022/05/clearview-ai-no-more-controversial-facial-rec-tool-for-us-private-companies/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/05/clearview-ai-no-more-controversial-facial-rec-tool-for-us-private-companies/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://techhq.com/white.png"
-        width: 614
-        height: 250
-        isCached: true
   - title: "Instagram filters affected by Clearview AI facial recognition database lawsuit"
     excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
     publishedDateTime: 2022-05-12T15:51:00Z

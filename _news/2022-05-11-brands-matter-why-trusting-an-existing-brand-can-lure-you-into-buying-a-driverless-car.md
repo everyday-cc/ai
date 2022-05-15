@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/brands-matter-why-trusting-an-existi
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bringing driverless trucks to the world"
-    excerpt: "That’s because after years of development, driverless trucking technology became commercially available for the first time in 2021. The company that brought this industry-transforming technology to market is California-based Plus."
-    publishedDateTime: 2022-05-10T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90747782/bringing-driverless-trucks-to-the-world"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/Plus’s-Autonomous-Trucks-Powered-by-PlusDrive-1-1.jpg"
-        width: 1280
-        height: 790
-        isCached: true
   - title: "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds"
     excerpt: "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ..."
     publishedDateTime: 2022-05-11T11:52:00Z
@@ -65,6 +51,6 @@ related:
       domain: evanshalshaw.com
     quality: 4
 
-secured: "RSkdVCtvPsEVn9pXZyA56/1cOzp4wzuu0KqKlIR1HEDc64ZoRoyfj/r4pIoat7N3ZMXK7m/nloqADWB4OXUbnmWrKNeunl9q4OCy4YKLDbfUpKZaCviujEYIhVzTboSv0soZwY4DPX+d0fTiIrYHuHrftYzEuxciS4Y7vaEb4mMWPFCwFMeFFLy30maGmfzo0eF3N3vJe+3XpEYulo2VWRkYXjmkoq6o1Kv0mtq+50j7UABhlbzFckoLtWdOqEiXFpKJuWUXe271BQ4qtP79FCv8vyyvoM18RgpR1l62+Vd1Qh2S6yNqPs/QaLwQDyCVwFocRnKhmzDiTDe1lb99wVG21Q5DYhrgwUlG3sFLbOE=;fLajx8xpF4azo+j9MP0SRg=="
+secured: "8OphSkbII5f/wSRyggGwizSRkUOpoE7cT1lQuuBGRbB9sSKp7df8KqFd9gDRjF9oz5O239JgYkQUjD/tM/tRINV/8na/pT3oblPs08PFCNvbRhtjIp4irpisRuO96WmtlAj2HiNZbJDMDwa6M9Rh9SACuSH5YhbHlVCSSrVQNpt32YIm7ie1/mIiQw2niAA0ZzQCvtNEPEc/Zj2Cub58Rn3MaOxSrRalKbgaVKtwiW9BKTisX2/0Dt5qGQshb+H1wTwJm2TZGQiGgb3ZLVUKrG++/yP5nasSu8RHCX0Jwil4wRg68nO/29ztOkSEBI9TtLr35BIjYr1U02EoxKFPtrc49OAqVIxuRvzTYF3iQHM=;IjWacgXbvJh77W+kpEPg+Q=="
 ---
 

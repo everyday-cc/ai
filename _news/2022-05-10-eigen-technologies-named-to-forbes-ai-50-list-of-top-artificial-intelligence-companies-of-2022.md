@@ -32,6 +32,34 @@ related:
         width: 1200
         height: 1201
         isCached: true
+  - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
+    publishedDateTime: 2022-05-11T21:11:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "View original content to download multimedia: https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto"
+    publishedDateTime: 2022-05-12T17:03:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
     excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
     publishedDateTime: 2022-05-11T12:30:00Z
@@ -46,15 +74,6 @@ related:
         width: 2532
         height: 1143
         isCached: true
-  - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
-    publishedDateTime: 2022-05-11T21:11:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 29
   - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its selection to the 2022 Forbes AI 50 for North America. The list recognizes standout privately-held companies making the most advanced and impactful uses of artificial technology."
     publishedDateTime: 2022-05-12T12:00:00Z
@@ -63,15 +82,6 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 27
-  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "The list recognizes standout privately-held companies making the most advanced and impactful uses of artificial technology. This year, Forbes evaluated hundreds of submissions and recognized Nauto ..."
-    publishedDateTime: 2022-05-12T18:00:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220512LA56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
     quality: 27
   - title: "6sense Named To Forbes AI 50 List of Companies to Watch in 2022"
     excerpt: "“We’re proud to make the Forbes AI 50 list and to be recognized as an innovative leader,” said Jason Zintak, 6sense CEO. “6sense is the first and only platform to apply the power of AI across the entire buyers’ journey to provide a better ..."

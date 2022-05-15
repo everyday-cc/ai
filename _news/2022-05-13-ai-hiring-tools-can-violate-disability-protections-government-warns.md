@@ -46,22 +46,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-    publishedDateTime: 2022-05-12T21:12:00Z
-    webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    type: article
-    provider:
-      name: New Hampshire Public Radio
-      domain: nhpr.org
-    quality: 51
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/c12b64b/2147483647/strip/true/crop/1920x1081+0+100/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2Fcb%2Fa74a1d844255ab2edff35ef4b192%2Frochester-city-hall-nh-nhpr-photo-dan-tuohy.JPG"
-        width: 430
-        height: 242
-        isCached: true
   - title: "Bosses using AI to hire candidates risk discriminating against disabled applicants"
     excerpt: "The Biden administration and Department of Justice have warned employers using AI software for recruitment purposes to take extra steps to support disabled job applicants or they risk violating the Americans with Disabilities Act (ADA)."
     publishedDateTime: 2022-05-14T15:00:00Z
@@ -91,6 +75,20 @@ related:
       - url: "https://cdn.fcw.com/media/img/cd/2022/05/12/051222_getty_fcw_ai_brain/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
+    excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+    publishedDateTime: 2022-05-12T21:04:00Z
+    webUrl: "https://news.wjct.org/national-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    type: article
+    provider:
+      name: WJCT
+      domain: wjct.org
+    quality: 31
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/274272a/2147483647/strip/true/crop/3663x1923+0+258/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "OelzRupDEp9PQJJiSDtEvk1/2QErmGHzxLMdYJhh+UqL7tkK8yE6wOFkPMAFvMw8lzIGuN3Zy2zLwMOdJ6hpdz68/bLc64FVVw8/qJG3OFAzXK4ths5fqUU60GD97B6IXiJl5Xi+7S1gIwOLvh8ks/bX0Yt5xZazShtZMEW9gqe4TZLVtRIu7Co3jvdiQjpFQDWw1AVFZpYThA5+l3vdLb2Jb7AXiPv1+3ZB5AXNIuRjy7weved0HeB+TGsTN1lIofX7bM67BhLYYWQWy5DGaerecFClcrsD3rJXq+5Lfk8mTseZXiC3Apw53lUEf4vMVgCWFue0mNrWrF6DtD5MYgeRbnCItwQHXJXS4We8yXq7tVVhRxwad0B6x+bp4PaaQ1t4jod3xRHRV08PppiwlSQKJvEM458lvcpqZ7WE7nQL13K5PsFAsgETZkPtIg4nIsH87hJuGPKXtFWiGuP9bIrxKbck24oVhQfRd1jtIHpS8yMOJa+CJqccvRjF9oCIXeEeBaDHvuKA/vIUKxosEA==;kwUAfYgRo37/6dnN6F/qxg=="

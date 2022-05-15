@@ -90,20 +90,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Business Intelligence Market Trends Forecast and Industry Analysis to 2030"
-    excerpt: "Another factor which is expected to be a high-impact trend in the near future is the advancements in artificial intelligence. Companies worldwide are estimated to incorporate artificial intelligence with business intelligence solutions for sustainable growth."
-    publishedDateTime: 2022-05-10T06:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/business-intelligence-market-trends-forecast-and-industry-analysis-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/60465b83490cdff2f7eddb64a71e08f8aa46470b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Image Recognition Market Industry Analysis, Applications, Overview, Size, Growth, Top Players and Growth Opportunity 2028"
     excerpt: "Google, Microsoft, Facebook, Pinterest, and Apple are investing in resources and research into image recognition and related applications. Improper data storage, security breaches, and misuse of facial recognition data are some of the primary concerns ..."
     publishedDateTime: 2022-05-13T13:32:00Z

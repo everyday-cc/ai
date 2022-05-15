@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-10T16:27:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
 type: article
-quality: 9
+quality: 7
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: dailyherald.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -29,6 +28,6 @@ related:
       domain: dailyherald.com
     quality: 14
 
-secured: "RZ+CluOnxgaUuB6UU8viyv3wOHpUjDbZxlBukuSXEYGxFqk6cEXwdfgLm7vFN+hWXN3+WPxl4Hr13e/HtMsEOICXobQFZfNdrt/D0ZizBB2nNOvMjMtvNQdbC8Olf+nph8q7q/NfXiRqQ2fxAd95tmbff4TvfXBjrZ1xETNLGjBbt2suxY1vqplCaU4xeOfK81auS4R4UoBWjATezPWstiPhjHFT6yqOdI82wYOiQFlVPSoi2t9w+hH1TyAd0J/zuMQS0hz4Z2LvPOmmh2JhGAWH7uiKttdskijxWNdv2Ru1wfguatu6P/FT2X0dTwvE5aAMmDMdqcrb4PJlfhypZfNQ022liCG6V2A9FWyaNFmc+d2PF7eXUIdCzMNxCRkrOeSi2zADUPyTHRZ1qxTR7lLmSuG6SBhIXXsK84L58VzmZuHyGg+gsWKfpsjNwbomNsGoPM/ypriWyoBT8WvQ6ijoplFN2GjJ6fxyF7d/qmZwXj8hb0H9lJNcdzYnSyl5a11NQCiTZz3+/9tQnjnNRg==;GesIkMnKZZmWVgg4VeBOYQ=="
+secured: "7yBVtZFLyq3v3a8eK6Ap5U8Mgw7/WcG3+PFG1ebE4o40dxg4hRaBYTS9TGhPU5jeChxMTq5nmabhp0EPv69oPO6viBsCdu0VoROD67LvOAItUcpHdw+jGdNPM799fOjGSH72ywZeqOvCh8OQYDXteCSdo5BwC8LJhmlY6oe6aES6vWBvBuNakVg2FrN9JhqD537SVg3mvYn0rIehNyBxR9WFL7iUEGf24fzkhaJGj/AcGqVHlUA8ZIko6bbTI7kw0sB/N7qyHQCSxqnnMHsjPBHnaikncpvFoLwtJdiItuhMPAcrzarj+hMZzgXuoAHVyIz24dF2T1onjd4MFH6ZQaAPnR4khd5zztKablha5Av+n00xgKAc8hLgzoZUHuZasl8tgyFONg6aM087VRyzaUMakJSAZSN+yMgS1A8D6ygV2wlOhxbb6h4llzaGq3a1vZoAtdtRtAb0NbvisiHSJzoiCF38L3jAQ8JcZCNY/Q65w/emfQiZdouvYef90BL+HOAftgbTEfeUje3Fjz+yQA==;4pU4oPs4F48P3ibxkKoHJA=="
 ---
 

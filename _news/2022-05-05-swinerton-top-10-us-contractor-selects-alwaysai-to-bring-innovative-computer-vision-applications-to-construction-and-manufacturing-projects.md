@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "De1WXmR4gwybt+JjcZBG+bd9H0j6ogos0bHHMwfJljfcp45d6MngEqZ23xg92+X9x+zU5qtto34ElSa4dcvkMx0tIXT9lrSncIJ+xmCVZd2w00A9b1XmlsRRbniUtjFfyT5mAMSWu7sI3ALfMs55MGpIV+MO/kyOgrU/xmQNJh6sn+COfsLIEtZlnuIP11pxug05n+XckY1u8L+1jUksSL73LH+03M13vzr/hEvq2Sfp/KMyBdMxVrhzKNTiKyRuZH0ZCvSaOeV6JZQS5M/F8YA84lyDwYHF/H1SVKATDRHQHZ8nkWQp85U3a7HtlzbkMYX+IHleVZ1WSP9Dql8KOO9kcwZrvoZKRUn8fk43h+k=;juLmnnW++y1RqCkpuUSbCQ=="
+images:
+  - url: "https://ml.globenewswire.com/Resource/Download/f2be4e77-1694-46cc-b756-0bda87fd099d"
+    width: 3872
+    height: 2355
+    isCached: true
+
+secured: "usqYOrmTpciY+MEa/rWh7vsS74RpVcYPT8hyuo9SfVZBxak/STkb+XIHLaptgrOQBovkxuuh8a4CYMGM1ZiKX6hsmXfSU9Uwcx0ZOu05jlmThUSej2Dmh/yWrJzBK/0r7QigtAnA3CbP5jlePGlNQwReLScPZ7ogh2hlwtthr0He02w3h/33tWgKrHpSwXhfWZ1UjPnysP48EpKMJSqTIGaBCkqK+s46IpTTEnVfym22jgjmNq4HW62y0ykHnCrr1LFriK2EFusTL0IDnuzM+YjHO2RKDWZyvICCDFWYensfpQrYNBqiRkz7W3sjaBDBvxOaGxzpz9TdHM1waBzPNrGshD3AMyG5ECnDybqZuic=;gAYzjl0iFs6TLnFSxWXRQA=="
 ---
 
