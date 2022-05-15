@@ -2,6 +2,58 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2022-01-30-bias-in-ai-is-spreading-and-its-time-to-fix-the-problem.md",
+      "title": "Bias in AI is spreading and it’s time to fix the problem",
+      "excerpt": "To unlock the full power of automation and create change, we must understand how and why bias in AI happens and what to do about it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/",
+      "originalUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1304302959.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/",
+      "publishedDateTime": "2022-01-29T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform.md",
       "title": "From low code to no code: Azure GPT-3 and Microsoft’s Power Platform",
       "excerpt": "The Power Platform GPT-3 models are running in Azure, on the Azure Machine Learning service, using the new managed endpoints. This means the Power Platform team doesn’t have to manage the ...",
@@ -1139,49 +1191,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-msi-geforce-rtx-3050-gaming-x-8g-review-gpu-architecture.md",
-      "title": "MSI GeForce RTX 3050 Gaming X 8G review - GPU Architecture",
-      "excerpt": "Tensor Cores, which provide enormous speedups for AI neural network training and inferencing The GPC is the dominant high-level hardware block with all of the key graphics processing units ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.guru3d.com/articles-pages/msi-rtx-3050-gaming-x-8g-review,4.html",
-      "originalUrl": "https://www.guru3d.com/articles-pages/msi-rtx-3050-gaming-x-8g-review,4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.guru3d.com/articles-pages/index.php?ct=articles&action=file&id=69252",
-          "width": 725,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guru3D.com",
-        "domain": "guru3d.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

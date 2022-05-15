@@ -26,69 +26,79 @@ images:
     isCached: true
 
 related:
-  - title: "Texans can no longer use certain Instagram filters due to facial recognition lawsuit"
-    excerpt: "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports."
-    publishedDateTime: 2022-05-12T14:23:00Z
-    webUrl: "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/"
-    ampWebUrl: "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp"
+  - title: "AI Weekly: AI tools for hiring under scrutiny; Clearview AI settlement reaction"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-13T20:31:00Z
+    webUrl: "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/"
+    ampWebUrl: "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/"
     type: article
     provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60"
-        width: 700
-        height: 467
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1079268358.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Instagram disables certain face filters for Texans"
-    excerpt: "Instagram's parent company, Meta, has removed the ability to use some of these filters. The reason for this cites Texas' facial recognition laws."
-    publishedDateTime: 2022-05-11T16:54:00Z
-    webUrl: "https://www.khou.com/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
-    ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
+  - title: "Clearview AI Banned From Selling Controversial Facial Recognition Tech With A Caveat"
+    excerpt: "Meta announced that it was shutting down Facebook’s Face Recognition system and deleting over 1 billion people’s facial recognition templates. Only a month later, Clearview AI won a patent on its facial recognition algorithm,"
+    publishedDateTime: 2022-05-12T20:14:00Z
+    webUrl: "https://hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
+    ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 59
+      name: HotHardware
+      domain: hothardware.com
+    quality: 67
     images:
-      - url: "https://media.khou.com/assets/KYTX/images/546194956/546194956_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://images.hothardware.com/contentimages/newsitem/58532/content/clearview-ai-banned-selling-facial-recognition-tech-caveat-news.jpg"
+        width: 708
+        height: 398
         isCached: true
-  - title: "Instagram disables certain face filters for Texans"
-    excerpt: "As of May 11, Instagram's parent company, Meta, has removed the ability to use some of these filters. Meta says this is due to Texas' facial recognition laws. Paxton says the reason filters break the Texas Capture or Use of Biometric Identifier Act is they ..."
-    publishedDateTime: 2022-05-12T00:18:00Z
-    webUrl: "https://www.khou.com/article/tech/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
-    ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
+  - title: "Clearview AI clears the final hurdle in its quest to undermine US democracy"
+    excerpt: "Clearview AI and the ACLU recently reached a settlement over the company's use of facial recognition. And both are declaring victory."
+    publishedDateTime: 2022-05-12T20:47:00Z
+    webUrl: "https://thenextweb.com/news/clearview-ai-just-cleared-final-hurdle-in-its-quest-to-undermine-us-democracy"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 59
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
     images:
-      - url: "https://media.khou.com/assets/KYTX/images/546194956/546194956_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FclearviewAI.jpg&signature=3504ff8120cde142610d17cd9cb3b167"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Texas & Illinois Facial Recognition Laws Lead To Instagram Filter Ban"
-    excerpt: "After Texas Attorney General Ken Paxton filed a lawsuit back in February against Meta alleging the company was not properly using its facial recognition technology, Meta disabled filters on"
-    publishedDateTime: 2022-05-12T17:26:00Z
-    webUrl: "https://bossip.com/2132998/meta-filter-ban/"
-    ampWebUrl: "https://bossip.com/2132998/meta-filter-ban/amp/"
-    cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2132998/meta-filter-ban/amp/"
+  - title: "Clearview AI agrees to restrict US sales of facial recognition mostly to law enforcement"
+    excerpt: "Clearview AI, a controversial facial-recognition software company, agreed on Monday that it will not sell its software to most companies in the United States — a decision that will largely restrict its use to law-enforcement agencies in the country."
+    publishedDateTime: 2022-05-11T13:35:00Z
+    webUrl: "https://www.egyptindependent.com/clearview-ai-agrees-to-restrict-us-sales-of-facial-recognition-mostly-to-law-enforcement/"
     type: article
     provider:
-      name: Bossip
-      domain: bossip.com
-    quality: 59
+      name: Egypt Independent
+      domain: egyptindependent.com
+    quality: 64
     images:
-      - url: "https://bossip.com/wp-content/uploads/sites/28/2022/05/1652371215888.jpg?w=560&h=320&crop=1&strip=all&quality=80"
-        width: 560
-        height: 320
+      - url: "https://amayei.nyc3.digitaloceanspaces.com/2021/11/X4NCWPFI55LBPKOSMXSJZDZL2I-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Clearview AI banned from making private sales"
+    excerpt: "Controversial facial recognition company Clearview AI has been banned from selling tools that use its facial recognition database to private entities across the United States, following a lawsuit in a state with strict biometric privacy laws."
+    publishedDateTime: 2022-05-11T11:54:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/clearview-ai-banned-from-making-private-sales.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 54
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/clearview%20ai%20sale%20ban.jpg"
+        width: 900
+        height: 507
         isCached: true
   - title: "Instagram filters not affected by Clearview AI facial recognition database lawsuit"
     excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
@@ -104,81 +114,49 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta removed some filters from Instagram citing the state's face recognition privacy laws"
-    excerpt: "... of their face-changing filters have been removed from Instagram for fear that they could break Texas laws about facial recognition. Texas Attorney General Ken Paxton said the big concern is that Meta could store your facial data and sell it without ..."
-    publishedDateTime: 2022-05-12T04:38:00Z
-    webUrl: "https://www.kvue.com/article/tech/meta-removed-some-filters-from-instagram-citing-the-states-face-recognition-privacy-laws/269-153b23d5-c720-4e9b-9491-8951441b3a98"
-    ampWebUrl: "https://www.kvue.com/amp/article/tech/meta-removed-some-filters-from-instagram-citing-the-states-face-recognition-privacy-laws/269-153b23d5-c720-4e9b-9491-8951441b3a98"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/meta-removed-some-filters-from-instagram-citing-the-states-face-recognition-privacy-laws/269-153b23d5-c720-4e9b-9491-8951441b3a98"
+  - title: "Clearview AI will stop selling its facial recognition technology to private firms"
+    excerpt: "Clearview AI - the facial recognition company whose massive database has been used recently to identify Russian soldiers killed in Ukraine, as well as rioters who stormed the US Capitol building in 2021 - will no longer sell its technology to private ..."
+    publishedDateTime: 2022-05-11T11:24:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/clearview-ai-will-stop-selling-its-facial-recognition-technology-to-private-firms/"
     type: article
     provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 50
+      name: IET
+      domain: theiet.org
+    quality: 49
     images:
-      - url: "https://media.kvue.com/assets/KVUE/images/7ad9533f-98f9-4e3b-8991-aaf6ea290fc0/7ad9533f-98f9-4e3b-8991-aaf6ea290fc0_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Instagram filters disabled in Texas during facial-recognition lawsuit"
-    excerpt: "Instagram disabled its filters for users in Texas, thanks to a lawsuit filed by Attorney General Ken Paxton that alleged their facial-recognition technology residents’ privacy rights."
-    publishedDateTime: 2022-05-14T00:48:00Z
-    webUrl: "https://nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/"
-    ampWebUrl: "https://nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/05/instagram-filters-90.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook and Instagram right now"
-    excerpt: "The features were suspended two months after the attorney general sued the social media platforms’ parent company, saying that some of its practices violated Texans’ privacy."
-    publishedDateTime: 2022-05-12T23:21:00Z
-    webUrl: "https://www.texastribune.org/2022/05/12/texas-face-filters-instagram-facebook-meta/"
-    ampWebUrl: "https://www.texastribune.org/2022/05/12/texas-face-filters-instagram-facebook-meta/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2022/05/12/texas-face-filters-instagram-facebook-meta/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 29
-    images:
-      - url: "https://thumbnails.texastribune.org/trgaGo7pTw-KgAz2LE4WIjofnFw=/1200x630/filters:quality(95)/static.texastribune.org/media/files/92e525dfa5fa30ca5b37b9d58650156c/Meta%20REUTERS%20TT.jpg"
+      - url: "https://eandt.theiet.org/media/15480/dreamstime_l_208516777.jpg?crop=0,0.31791666666666668,0,0.18989583333333326&cropmode=percentage&width=1200&height=450&rnd=132617507000000000"
         width: 1200
-        height: 630
+        height: 450
         isCached: true
-  - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook, Instagram right now"
-    excerpt: "Meta, the parent conglomerate of Instagram and Facebook, quietly disabled augmented reality filters on its platforms across the state Wednesday. The move comes two months after Te"
-    publishedDateTime: 2022-05-14T15:59:00Z
-    webUrl: "https://www.expressnews.com/politics/texas/article/A-Ken-Paxton-lawsuit-is-why-Texans-can-t-access-17173056.php"
+  - title: "Facial Recognition: Clearview-ACLU Settlement Charts a New Path for BIPA and the First Amendment"
+    excerpt: "The closely watched privacy and First Amendment battle between Clearview AI (“Clearview”) and the American Civil Liberties Union (“ACLU”) came to a close on May 9, 2022 as the"
+    publishedDateTime: 2022-05-12T22:37:00Z
+    webUrl: "https://www.natlawreview.com/article/facial-recognition-clearview-aclu-settlement-charts-new-path-bipa-and-first"
+    ampWebUrl: "https://www.natlawreview.com/article/facial-recognition-clearview-aclu-settlement-charts-new-path-bipa-and-first?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/facial-recognition-clearview-aclu-settlement-charts-new-path-bipa-and-first?amp"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 10
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 46
     images:
-      - url: "https://s.hdnux.com/photos/01/25/33/70/22396454/3/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
-  - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook and Instagram right now"
-    excerpt: "Meta media representatives dispute that its facial recognition features have anything to do with its tagging software but said it suspended the filters in Texas and Illinois to “prevent meritless and distracting litigation” that is “based on a ..."
-    publishedDateTime: 2022-05-13T22:41:00Z
-    webUrl: "https://www.expressnews.com/news/local/article/A-Ken-Paxton-lawsuit-is-why-Texans-can-t-access-17172064.php"
+  - title: "French Watchdog Mulls Action Against U.S. AI Company Clearview"
+    excerpt: "The head of France's data privacy said on Wednesday she was considering triggering the process of fining U.S.-based Clearview AI, a facial recognition company the regulator had ordered to stop amassing data from people based in the country."
+    publishedDateTime: 2022-05-11T14:00:00Z
+    webUrl: "https://www.ibtimes.com/french-watchdog-mulls-action-against-us-ai-company-clearview-3503093"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 9
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
     images:
-      - url: "https://s.hdnux.com/photos/01/25/57/03/22474971/3/rawImage.jpg"
-        width: 1364
-        height: 2048
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/11/french-data-protection-watchdog-presents-its-annual-report.jpg"
+        width: 1200
+        height: 711
         isCached: true
 
 secured: "dZ3xpSGJNo0xHFFBnwFKahb2z/B1JdpH1ubshQUrzPw8G9lKMa3o2nsfO3njh/bWj9II9kY6bL3BRMiVWBEKaTPs6NP6J6JPLRx5vmgPZJNMSLHgkvDY5sRVonW+D5plGsRoPXgLiUOJaAhuZ5j/u49gBu5qNgnzNajda0mMyNxjcvzx/dVqOE6/CAZwyHvX8B0SmVq0oAP5N64vRRzMrpfvwQg03xmmLvUsvi0/Ik1uaDbuhylx2x6sY51BA+1SstfXjTwJ3GKzKVyjDV/2YJ4Ym2kMBmbukvjzIOLc5ATI0NdFUtqDhJKEsieTy8/C91a9I/XNW8rfHLocypt2SfS/OjVoBTKiIDbFJ3Youz/7fpr2DEL23KKvlqfPgRyrwlrAjwqOie+eXZHNxsQ/GUu79SBmDdI7MLWZ+UE4F5hjK4Rnt+oqNwiWcbARNZ+yCAFqr0a47dvfkRV+kL1NM7A/5durIqtJ1a29EJqb8nZ8A/DJSe+/ofXtyGRXpa0t3L3aSvoRZCQ2WckH3GmkDg==;b4sUfFj3IPamvUhHQYV3Rg=="

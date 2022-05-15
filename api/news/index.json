@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-16-brainchip-and-edge-impulse-partner-to-accelerate-aiml-deployments.md",
+      "title": "BrainChip and Edge Impulse Partner to Accelerate AI/ML Deployments",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 15, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, and Edge Impulse,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-brainchip-holdings-ltd-0e1d526615410529bbae213f394cff1a",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-brainchip-holdings-ltd-0e1d526615410529bbae213f394cff1a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-15T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-15-facial-recognition-surveillance-is-a-threat-to-civil-liberties.md",
       "title": "Facial recognition surveillance is a threat to civil liberties",
       "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ...",
@@ -418,6 +462,57 @@
       ]
     },
     {
+      "path": "_news/2022-05-14-ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction.md",
+      "title": "AI Weekly: AI tools for hiring under scrutiny; Clearview AI settlement reaction",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/",
+      "originalUrl": "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1079268358.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/",
+      "publishedDateTime": "2022-05-13T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-14-rain-nabs-11m-to-build-voice-experiences-for-brands.md",
       "title": "Rain nabs $11M to build voice experiences for brands",
       "excerpt": "A growing number of high-profile vendors occupy a voice recognition market expected to be worth $22 billion by 2026, but one of the lower-profile startups on the scene, Rain Technology ...",
@@ -625,7 +720,7 @@
       "originalUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1095,92 +1190,6 @@
       "provider": {
         "name": "The Indian Express",
         "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-editorial-513-facial-recognition-software-use-raises-concerns.md",
-      "title": "Editorial, 5/13: Facial recognition software use raises concerns",
-      "excerpt": "Lincoln police have used facial recognition software from the state Department of Motor Vehicles to help identify 23 possible suspects in crimes as varied as shoplifting, burglary and",
-      "sourceUrl": null,
-      "webUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.html",
-      "originalUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/5/4e/54e4fc76-17c8-55b6-b532-351a4ac46bb0/5f011cb378336.image.jpg?resize=496%2C320",
-          "width": 496,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html",
-      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html",
-      "publishedDateTime": "2022-05-12T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lincoln Journal Star",
-        "domain": "journalstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.md",
-      "title": "Deep learning technology boosts the speed of localization photoacoustic imaging",
-      "excerpt": "After a lightning strike, thunder can be heard for a short period of time afterward. This is due to the fact that the surrounding material that was struck by lightning absorbs the light, and as a result of the conversion of this light into heat,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/detail_of_microscope_lenses_observing_a_slide_with_sample_wells_in_the_laboratory-angellodeco_e84c7a54b30247a0a1ad679809f0b548-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
-      "publishedDateTime": "2022-05-12T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

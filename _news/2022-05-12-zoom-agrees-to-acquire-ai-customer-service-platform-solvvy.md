@@ -51,6 +51,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "VIDA Introduces New AI-Enabled Biomarker Services"
+    excerpt: "Announced at the 2022 American Thoracic Society (ATS) International Conference, this suite of services empowers sponsors to leverage VIDA's unique AI-enabled biomarker generation services and decades of validated techniques with previously generated ..."
+    publishedDateTime: 2022-05-15T15:59:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/vida-introduces-new-ai-enabled-biomarker-services/article_4ab3ba45-40fd-5161-be34-baecb4d93428.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
 
 secured: "OuNrDL40tLHddTLFGYBYjBskOYnhcCqaDGXo7rpF2HdMG1jNscS/XziQzqnMRxGjttr13Rns14ilqVLo8OcSWAHdZ/E/weOJhQ/nwHR+bRB3VbrVCk7n7uO0nPbx9E+CdZI75ZyfUvinuM4X+3holoiDfjrORZ9ubqYhx28GYiaWD4q0jYpsI2tjNC98o60Uoy7GUgA8pOGKpRJbIVv/v+32iQ5GX+s6ymbRs6Vub7C0NWmfJ10zJ27vSYdVvRl/wls+yneO4VCwr9bh42j8Gvl+LZKIRRrb7crIUZ/GzLAnncOLTv/lY6Xgs652mPCiqOFdp65XivxP7S1DB+cpghswhtvPBO1nKKNuliGmjQDsM2MBFuzV4r0Ni/tL8sABtPJYQWKkai2fIvHpINhDnpQUzKGDzgbW+lW0TWyQdGnA4kmSm/+m7Qf06OQ5JrDKyDA1W/s/ac99drKVVFwy1QaVHP3v5S5Qh6DQB8QFrJyvFxeerRrMCQd30ZDzXBQl5Q6eCsJ1hMVJyw9fCyNoTQ==;WyzGB76biqnb07HeIa5GZQ=="
 ---

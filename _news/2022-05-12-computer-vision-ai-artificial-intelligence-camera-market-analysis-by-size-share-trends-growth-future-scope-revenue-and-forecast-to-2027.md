@@ -24,22 +24,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "3D Machine Vision Market Size, Share, and Growth Analysis Forecast- 2025"
-    excerpt: "Snapshot The 3D machine vision market has been estimated to experience numerous growth avenues in the foreseeable years."
-    publishedDateTime: 2022-05-11T06:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/3d-machine-vision-market-size-share-and-growth-analysis-forecast-2025"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/3d-machine-vision-market.jpg?w=410"
-        width: 410
-        height: 1025
-        isCached: true
-
 secured: "GCZidh5sw2aIZKyiMPu8lAgrxL8YWvGx2BNmD5lvaakjMEOXUgW8DZCXsYg6L0f7snR49+Og9Tjb4mmLg/69Knf9qB/LXRhTIZ+iVb1wWWLGefBvfGltSKyaOyG0Rz3rFo+sTtj3GkOf+ajBaP//HXRmA0lEZSZV53UQWwbMyV9h+v63hZmwl4b+yLAerVZkfhVildtJ4ws2PCOVEadUSNejeVPoIcxy7blJaWc+Si7pLvDS1LiP+fOZchAKxAQJL3WTF1oUqU6/Thu+oT+J7inpGw4UCV1v1LsWunMB+A6YTnT+MlFI7bmB5vc9mm8+0jZDE3HyBOg6+CfUkD258EICynKwtUlKdA3v6CgPo7I=;8QCnPJXqd4NdPzd+JVuJpA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://technosports.co.in/2022/05/12/arctic-sound-m/?amp"
 cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/05/12/arctic-sound-m/?amp"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: TechnoSports
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel teases Arctic Sound M GPU for data center: ACM-G10 GPU + 150W"
-    excerpt: "Intel Arctic Sound M PCIe Gen 4 graphics card based on the Intel Xe-HPG GPU is dropping in Q3 2022, I'll believe it when I see it."
-    publishedDateTime: 2022-05-11T02:41:00Z
-    webUrl: "https://www.tweaktown.com/news/86126/intel-teases-arctic-sound-gpu-for-data-center-acm-g10-150w/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "VSBLTY NAMED INTEL® CHANNEL PARTNER OF THE YEAR AT INTEL VISION 2022"
     excerpt: "VSBLTY technology provides enhanced customer engagement and audience measurement using machine learning and computer vision. Its industry leading VisionCaptor™ and DataCaptor™ software combine motion graphics and interactive brand messaging with ..."
     publishedDateTime: 2022-05-12T19:56:00Z

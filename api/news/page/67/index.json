@@ -2,6 +2,49 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-03-17-natural-language-processing-market-is-poised-to-drive-accelerated-expansion-in-coming-years.md",
+      "title": "Natural Language Processing Market is Poised to Drive Accelerated Expansion in Coming Years",
+      "excerpt": "Natural Language Processing Demand To Boom in Asia-Pacific in Future! Natural Language Processing (NLP) allows machines t",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103864595/Natural-Language-Processing-Market-is-Poised-to-Drive-Accelerated-Expansion-in-Coming-Years",
+      "originalUrl": "https://menafn.com/1103864595/Natural-Language-Processing-Market-is-Poised-to-Drive-Accelerated-Expansion-in-Coming-Years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?640664",
+          "width": 383,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-cognitive-services-market-outlook-and-growth-stance-forecast-2022-2031.md",
       "title": "Cognitive Services Market Outlook and Growth Stance Forecast 2022-2031",
       "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Mar 16, 2022, 07:46 /Comserve / -- Cognitive Services Market offers overview of leading companies encompassing their successful marketing strategies, market ...",
@@ -1051,48 +1094,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-forbes-names-landing-ai-a-top-startup-employer.md",
-      "title": "Forbes Names Landing AI a Top Startup Employer",
-      "excerpt": "Landing AI, which provides software that makes building and deploying AI solutions in manufacturing fast and easy, today announced that it has been recognized by Forbes as one of America's Best Startup Employers 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/forbes-names-landing-ai-a-top-startup-employer/article_8b36efb0-21fe-5f75-880c-2781ca79f9a9.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/forbes-names-landing-ai-a-top-startup-employer/article_8b36efb0-21fe-5f75-880c-2781ca79f9a9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

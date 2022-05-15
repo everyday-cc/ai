@@ -2,6 +2,60 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-04-27-eden-ai-unifies-ml-apis-from-several-cloud-vendors.md",
+      "title": "Eden AI unifies ML APIs from several cloud vendors",
+      "excerpt": "French startup Eden AI has raised a $1.6 million pre-seed round (€1.5 million) to build a programming interface that lets you access AI engines from multiple vendors. The company unifies those APIs and offers a simple way to try them out,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/",
+      "originalUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Eden-AI.jpeg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/",
+      "publishedDateTime": "2022-04-27T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance.md",
       "title": "Eurora raises $40M for its AI-based system to automate EU e-commerce shipping compliance",
       "excerpt": "The e-commerce market has boomed in the last several years, and with that so has the appetite of tax collectors to do their bidding: make rules that make sure their countries are getting a cut. That’s spelled more red tape and more customs hoops (and costs) for those shipping and receiving",
@@ -148,20 +202,20 @@
     },
     {
       "path": "_news/2022-04-27-uae-vows-responsible-artificial-intelligence-rollout.md",
-      "title": "UAE vows 'responsible' artificial intelligence rollout",
-      "excerpt": "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university, opened to students last year, and the country has launched a number ...",
+      "title": "UAE vows ‘responsible’ artificial intelligence rollout",
+      "excerpt": "aims to have a quarter of its transport driverless by 2030. Abu Dhabi’s Mohamed bin Zayed University of Artificial Intelligence, touted as the world’s first graduate-level AI university ...",
       "sourceUrl": null,
-      "webUrl": "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout",
-      "originalUrl": "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout",
+      "webUrl": "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article",
+      "originalUrl": "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-04/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg?h=a31d927f&itok=yIzQoqk4",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/UAE-artificial-intelligence-AFP-1K-04.jpg",
+          "width": 1024,
+          "height": 670,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,11 +225,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T20:34:00-07:00",
+      "publishedDateTime": "2022-04-26T20:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Al-Monitor",
-        "domain": "al-monitor.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1065,49 +1119,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-machine-learning-model-can-steer-traumatic-brain-injury-patients-to-life-saving-care.md",
-      "title": "Machine learning model can steer traumatic brain injury patients to life-saving care",
-      "excerpt": "A prognostic model developed by University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons is the first to use automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI).",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/2-brain.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp",
-      "publishedDateTime": "2022-04-26T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

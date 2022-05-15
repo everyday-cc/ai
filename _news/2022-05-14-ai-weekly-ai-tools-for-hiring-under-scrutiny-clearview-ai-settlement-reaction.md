@@ -1,46 +1,35 @@
 ---
 category: news
-title: "Clearview AI banned from making private sales"
-excerpt: "Controversial facial recognition company Clearview AI has been banned from selling tools that use its facial recognition database to private entities across the United States, following a lawsuit in a state with strict biometric privacy laws."
-publishedDateTime: 2022-05-11T11:54:00Z
-originalUrl: "https://ia.acs.org.au/article/2022/clearview-ai-banned-from-making-private-sales.html"
-webUrl: "https://ia.acs.org.au/article/2022/clearview-ai-banned-from-making-private-sales.html"
+title: "AI Weekly: AI tools for hiring under scrutiny; Clearview AI settlement reaction"
+excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+publishedDateTime: 2022-05-13T20:31:00Z
+originalUrl: "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/"
+webUrl: "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/"
+ampWebUrl: "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 83
+heat: 173
+published: true
 
 provider:
-  name: ia.acs
-  domain: acs.org.au
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Sales
 
 images:
-  - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/clearview%20ai%20sale%20ban.jpg"
-    width: 900
-    height: 507
+  - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1079268358.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
-  - title: "AI Weekly: AI tools for hiring under scrutiny; Clearview AI settlement reaction"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
-    publishedDateTime: 2022-05-13T20:31:00Z
-    webUrl: "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/"
-    ampWebUrl: "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1079268358.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Clearview AI Banned From Selling Controversial Facial Recognition Tech With A Caveat"
     excerpt: "Meta announced that it was shutting down Facebook’s Face Recognition system and deleting over 1 billion people’s facial recognition templates. Only a month later, Clearview AI won a patent on its facial recognition algorithm,"
     publishedDateTime: 2022-05-12T20:14:00Z
@@ -84,6 +73,20 @@ related:
       - url: "https://amayei.nyc3.digitaloceanspaces.com/2021/11/X4NCWPFI55LBPKOSMXSJZDZL2I-390x220.jpg"
         width: 390
         height: 220
+        isCached: true
+  - title: "Clearview AI banned from making private sales"
+    excerpt: "Controversial facial recognition company Clearview AI has been banned from selling tools that use its facial recognition database to private entities across the United States, following a lawsuit in a state with strict biometric privacy laws."
+    publishedDateTime: 2022-05-11T11:54:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/clearview-ai-banned-from-making-private-sales.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 54
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/clearview%20ai%20sale%20ban.jpg"
+        width: 900
+        height: 507
         isCached: true
   - title: "Instagram filters affected by Clearview AI facial recognition database lawsuit"
     excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
@@ -158,6 +161,6 @@ related:
         height: 711
         isCached: true
 
-secured: "bJ8Hkh/dL2p8JvWnHoqnUZcpXDi+EbZXSZC/SLF/wmSie/JQOrXsnc5al1lnYWoni6IqaHBYio/dhSa7ZXZvt4j/6fcbZA8qRU42blTt9p12CyxhnedTJ3RpW+B5LUhgNImUgogXcfZZBKwct0adFQnKuudRr2k9P9uxZ10Nx02qmgIcjCIZ4R00eshIpsxG3hGPIGC/FeQgdPyK7Up7DVr776/s4pdy+kHixb8J9skKCnvCvqLhTDQHVSPjIHgdaFZU4VXSKWpizBn4gLp2he5SWfg2JGyrGO5x0rBsfI+zF5U0at0H9c03b9xuo9XjXJS7Qli2/BMvewY7Ih1ZWiSxywcVgS4Me/VQZbD1Un7XPhTGafxpdeEtDXPOs8KcBg4bzoAMUB+xjMGzU8pr+RzJtW1pkGPc0t4z2jYXWx+KzbU5zgnTj3C/p72nw718rdz2N5fjLkfJe+EZwT/607vUOtuiFOopJYP8AK3jqmckiK7CFz56vlJQPzjS9Fo8evjTuWr2UWgkybz8X+EbDw==;65cMkDikkCfPf6PW3gBvMg=="
+secured: "BXj2h4szcyWwQ3b3Hjex/G/6nsA5tqatniEXeltHswwJ4fA6NH3rMpzbxhxOcU3E4OkBZrAsbll8GXAMaEPs9ZxWXAeGpzfv351GG1dcyJVOytZXIcHFoEarWJN8p+JSSABK96eS1ZAquc/IBnS9Z3pZvOfrzJZNJlcAY6A94ag9e1ONi4U6ABZ/Jwr6TW3gHcohtdMox3hyGFpSKk2yGi9ynZV3RTJZSAvAvFvxYPIabDS7Yv0DjIvDzrarl7hC/M3ApA/o/7xkdGjSYwbZ+nXNkNM1Qq7jowzyf5zlN0U6VdX002Zhbs7x1gxbXxhwDpYMcpuoBjJYm8wzeEtfvt511g9VNVkfpp/ZYuCFS9U=;6fGi2LgQc8gVOHbx+HGdHw=="
 ---
 

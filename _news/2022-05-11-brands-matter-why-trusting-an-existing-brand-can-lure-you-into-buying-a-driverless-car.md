@@ -5,7 +5,12 @@ excerpt: "But the idea of a fully automated driving mode, where artificial intel
 publishedDateTime: 2022-05-11T06:48:00Z
 originalUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 webUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
+ampWebUrl: "https://theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 type: article
+quality: 51
+heat: 71
+published: true
 
 provider:
   name: The Conversation
@@ -15,6 +20,37 @@ topics:
   - AI in Autos
   - AI
 
-secured: "LzMJmjZoe/Mpgre6y0M5UmFUFRxrWc6h5AUhnwwjhfOE6m25yUhLFoWEGm8iwN1PQv3RtI3+C7kFER2X10dvB0CXkR1z/96WrP7JMAExy+qRIYoF9+6iiiB6Aj4NHEgvQ0OizH2DyMe6/5ZTDBEZMxjJrXhICi8/K6TiO/uxNF5G4+F1QyZ1pjCgjFXt6PAYtgGpx1IgYJlA2rTLJbfyK5kDXBrwgalOsYARHclPmPoLGQQq/ifcAs1NofZWdFZ1Tk7L0dvfACVmqlFru56wLONxVBGN0R++ZKM8m/jjHBNZZJ2hGIK3AmSBaTjWB2RleXHjsBrneThxcoCOHoHrZ+9x6U6umKCQlLbVxtgd4sU=;yEYAlMPD/fOL9OGjmBwFvw=="
+images:
+  - url: "https://images.theconversation.com/files/458038/original/file-20220413-10209-m9fr41.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
+    width: 320
+    height: 240
+    isCached: true
+
+related:
+  - title: "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds"
+    excerpt: "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ..."
+    publishedDateTime: 2022-05-11T11:52:00Z
+    webUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 20
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2022/05/SEI_99688536-1200x630-pl-exclusive.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Interesting Driving Facts You May Not Know"
+    excerpt: "Think you know everything about the wonderful world of driving? Think again. Here are some interesting driving facts you may not know."
+    publishedDateTime: 2022-05-13T12:11:00Z
+    webUrl: "https://www.evanshalshaw.com/blog/interesting-driving-facts-you-may-not-know/"
+    type: article
+    provider:
+      name: Evans Halshaw
+      domain: evanshalshaw.com
+    quality: 4
+
+secured: "+E6T8aKHLM7NzTqsJYluralVp+QrcLP1rWzbb/nuLKexiprmlRlhQ42YD2dg8gA6YuaPpcFiGg0zuWw/rptA/Yn5sgTJTeu/q17KU0ajRK/gsiY8lv0PGw1JLXpxWPdWjdbsoNNLLBsQ1LTxL5qzPn6KKs5TTBitlxdlH1Wp1oEbuv9qa36muIPuPrYryE3mlWsKYelONRPhkdvI7Wskif27jxXQUI21rl5GH2/5a/Jr//PepFYdFKM7zdXjfWSULnPlDYZm15DVyYfhlD5PZiCnq/KSIJOKMVXGo0w2p7ymoVPthklHvfdJkk70U/G3NUL82FXl+eXBAoKITKFkCg1mEmSvSqb1uJ2gfXLabb8=;899QRrkak1IAVCKkazupeg=="
 ---
 

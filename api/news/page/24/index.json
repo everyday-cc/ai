@@ -2,6 +2,40 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-04-21-fintech-market-size-to-reach-usd-16652680-million-by-2028-at-a-cagr-of-139-valuates-reports.md",
+      "title": "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports",
+      "excerpt": "The global fintech market size is projected to reach USD 16652680 Million by 2028 from USD 6588780 Million in 2021 at a Compound Annual Growth Rate (CAGR) of 13.9% during the fore",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-fintech-market-size-reach-usd-16652680-million-2028-/2022/04/21/9587422.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-fintech-market-size-reach-usd-16652680-million-2028-/2022/04/21/9587422.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-oracle-contracts-and-pricing-a-challenge-says-gartner.md",
       "title": "Oracle contracts and pricing a 'challenge' says Gartner",
       "excerpt": "Oracle's pricing models and contracts can be \"challenging to navigate\" and \"frustrating for customers,\" according to a Gartner report that otherwise heaps praise on the omnipresent enterprise software company.",
@@ -1099,58 +1133,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-nvidia-wants-to-use-gpus-and-ai-to-accelerate-and-improve-future-chip-design.md",
-      "title": "Nvidia wants to use GPUs and AI to accelerate and improve future chip design",
-      "excerpt": "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
-      "originalUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2022/04/2022-04-20-ts3_thumbs-baa.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
-      "publishedDateTime": "2022-04-20T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

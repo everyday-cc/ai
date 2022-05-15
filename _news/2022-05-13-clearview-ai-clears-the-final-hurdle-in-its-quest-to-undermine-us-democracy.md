@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Weekly: AI tools for hiring under scrutiny; Clearview AI settlement reaction"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-13T20:31:00Z
+    webUrl: "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/"
+    ampWebUrl: "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1079268358.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Clearview AI Banned From Selling Controversial Facial Recognition Tech With A Caveat"
     excerpt: "Meta announced that it was shutting down Facebook’s Face Recognition system and deleting over 1 billion people’s facial recognition templates. Only a month later, Clearview AI won a patent on its facial recognition algorithm,"
     publishedDateTime: 2022-05-12T20:14:00Z
@@ -72,6 +88,34 @@ related:
         width: 900
         height: 507
         isCached: true
+  - title: "Instagram filters affected by Clearview AI facial recognition database lawsuit"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
+    publishedDateTime: 2022-05-12T15:51:00Z
+    webUrl: "https://www.wandtv.com/news/instagram-filters-affected-by-clearview-ai-facial-recognition-database-lawsuit/article_ba80693c-d213-11ec-8dd0-0f11fd3a1f73.html"
+    type: article
+    provider:
+      name: WAND
+      domain: wandtv.com
+    quality: 52
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/64/064af774-4ead-11eb-88d7-13a705cb4fae/5ff34794c18c7.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Instagram filters not affected by Clearview AI facial recognition database lawsuit"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
+    publishedDateTime: 2022-05-12T15:51:00Z
+    webUrl: "https://www.wandtv.com/news/instagram-filters-not-affected-by-clearview-ai-facial-recognition-database-lawsuit/article_ba80693c-d213-11ec-8dd0-0f11fd3a1f73.html"
+    type: article
+    provider:
+      name: WAND
+      domain: wandtv.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/34/0340d145-6bb6-5e48-806e-6f38a42ebeed/627db846a1431.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Clearview AI will stop selling its facial recognition technology to private firms"
     excerpt: "Clearview AI - the facial recognition company whose massive database has been used recently to identify Russian soldiers killed in Ukraine, as well as rioters who stormed the US Capitol building in 2021 - will no longer sell its technology to private ..."
     publishedDateTime: 2022-05-11T11:24:00Z
@@ -115,20 +159,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/11/french-data-protection-watchdog-presents-its-annual-report.jpg"
         width: 1200
         height: 711
-        isCached: true
-  - title: "Clearview AI Settles ACLU Illinois Lawsuit Confirming Continuity of Business Supporting Public Safety"
-    excerpt: "Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country, has reached a settlement agreement in Illinois state court that confirms the company’s compliance with the state’s privacy law."
-    publishedDateTime: 2022-05-12T10:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-law-enforcement-agencies-state-courts-american-civil-liberties-union-f97e15dc9281471c8944cc7c1ac67949"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "G+t14rpnNjkc97PVT0lnawj56pxosBozRoxN2a/l6Y42IIkF8+8yuKyPBmBFlh/lyYoMGlYhGSjf3TkUPWWIlgksS/xleWKz9CTX2A5GSXGEvwzRcQaxqu87V9l7N1XHVgNPqlKJF3DoNMLOboWonTopWvrY7LaNqaZl4kksvdrD89iKsQx+6PR6EpF1Xw++ljRiFmoXSq4gRE15YHBAncFub/nUWtKLZ5gF1WSUHTgUc5g05m/WN0kW6V0i1jYQCF6frtAvfUbuBI8APzNh+pFnT1WveODRxr77pC7uHQc/PFFhwMahe41+SkluX81aJ+/EkBeSKlCPgkIWAplNnft+j7oYHEs8K/1pRcf/Q4zKE8hRQqLwPOt4VrBZ5J13IBC0MRUYUQYJGDqhSH4ctVU50Msj4NEWXKgzS9Gy4PzqpBRN9B00NeeKP1PLUu8ze8foEZbgy0ZcLLsxFOJJv5PxQofVEaJZCxPEHG7nmpjAby+qxPasxK1c4ICJkqmE4cRGAP55h2FdQ94cyE3J9A==;5Z+FjLf4XwtFKlHJnMiWiw=="

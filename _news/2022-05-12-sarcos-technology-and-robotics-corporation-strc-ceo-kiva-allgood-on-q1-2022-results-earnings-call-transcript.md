@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Rackspace Technology, Inc. (RXT) CEO Kevin Jones on Q1 2022 Results - Earnings Call Transcript"
-    excerpt: "Q1 2022 Earnings Conference Call May 10, 2022 17:00 ET Corporate Participants Kevin Jones - Chief Executive Officer Amar Maletira -"
-    publishedDateTime: 2022-05-11T01:52:00Z
-    webUrl: "https://seekingalpha.com/article/4509869-rackspace-technology-inc-rxt-ceo-kevin-jones-on-q1-2022-results-earnings-call-transcript"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4509869-rackspace-technology-inc-rxt-ceo-kevin-jones-on-q1-2022-results-earnings-call-transcript"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4509869-rackspace-technology-inc-rxt-ceo-kevin-jones-on-q1-2022-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 32
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "YIg/ysyW63cV3671CUmOjlvKuu+sxp762Ck7B8zZUQob+2BDYwLCfzQJaEh9nDUDrplysv7GkQq048E/1CPGxpxwVnc7V4NQBuWel0TcbIlyqTjzfhblP4kK/HMpGpBgjQDMQuO+bM3oJFAh1GSXaIxwQNw8DWgcSYZK6w/ct72fHkj1IJ+8xJ6PvzGUS6mvzakHRMiImtf4PXXpUi00/x1e/7ksGv+RVkz+h+gnzOgi4USE8OF2kL3oa1dM89zkPkSf1nfX7ggxF8sp9RcyKqL9p3E3Oqbz5qUJ4RQK2W/NbJ3Pz6cmUJ5RQPOXmOhq8WDwVv/H6nJBCS0WB4oU9gNkJoTM/plXkJJxhVFS4ME=;tmOqvnhC4Ei1NN6Cp7MDqw=="
 ---

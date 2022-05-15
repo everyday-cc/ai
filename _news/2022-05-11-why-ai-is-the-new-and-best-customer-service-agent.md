@@ -55,6 +55,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "VIDA Introduces New AI-Enabled Biomarker Services"
+    excerpt: "Announced at the 2022 American Thoracic Society (ATS) International Conference, this suite of services empowers sponsors to leverage VIDA's unique AI-enabled biomarker generation services and decades of validated techniques with previously generated ..."
+    publishedDateTime: 2022-05-15T15:59:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/vida-introduces-new-ai-enabled-biomarker-services/article_4ab3ba45-40fd-5161-be34-baecb4d93428.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
 
 secured: "rgJd5n0EsFOIalRS+vi5KbXqwHftEyTQIz9GZws+BFNt42pBfkWSAKDCUSds859RpXnhyT19boAcE7rQQO74A0/cB9QMUpv52/w4TuMV0Lsrw2st5rryXu6YqPvBz6emwycPqWwqr3s8kBwtcuv3v4ILJhSHsC5F+Zz1lNjkwrReBMihtnmYTeNYOxwiZv0udMCCC+TfMhDB6hrD5HcbbvPiqn/Z6/4gam6qAN37aBtIJal/15CuzvqStfHmdEU4dTvyh1kCzF5R70BpifHdL4DPNrnknEtNBydZdo6g5GxnnCUbmWIDlgYWH/kPo2XpPbyXArVmYVfBuv/frEFBuzECpqu2KDVFDF4FVJoBwhmD9zJ9LJiNxFsgouyqh5cNCTSMORiZmNutHjuHBpUFIdySJh50FW+DxJTirHSPtaqEYms35sin6igDAXXFfpYbmT770C/b1+5FzWuYadawpG+1Ufv77ZazVqcXSQxrScc4EbhRt3hrlibyG5/VKp8oFOXfY9IS/NPvcql412Z9Zw==;fRiDN4Uu4Ost9sXmfEl2iQ=="
 ---

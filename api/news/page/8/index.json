@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-06-new-shape-memory-alloy-discovered-through-artificial-intelligence-framework.md",
+      "title": "New shape memory alloy discovered through artificial intelligence framework",
+      "excerpt": "Researchers used an Artificial Intelligence Materials Selection framework (AIMS) to discover a new shape memory alloy. The shape memory alloy showed the highest efficiency during operation achieved thus far for nickel-titanium-based materials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220505143808.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220505143808.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division.md",
       "title": "Google merges DeepMind's AI health efforts with newly formed Google Health division",
       "excerpt": "Google acquired DeepMind, a London based artificial intelligence (AI) firm, back in 2014. The company is famous for its AlphaGo AI that defeated the world Go champion and was in the news in 2016 ...",
@@ -1059,58 +1101,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-traceable-ai-raises-60-million-for-unique-api-security-platform.md",
-      "title": "Traceable AI raises $60 million for unique API security platform",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/",
-      "originalUrl": "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/",
-      "publishedDateTime": "2022-05-04T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

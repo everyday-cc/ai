@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-13-editorial-513-facial-recognition-software-use-raises-concerns.md",
+      "title": "Editorial, 5/13: Facial recognition software use raises concerns",
+      "excerpt": "Lincoln police have used facial recognition software from the state Department of Motor Vehicles to help identify 23 possible suspects in crimes as varied as shoplifting, burglary and",
+      "sourceUrl": null,
+      "webUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.html",
+      "originalUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/5/4e/54e4fc76-17c8-55b6-b532-351a4ac46bb0/5f011cb378336.image.jpg?resize=496%2C320",
+          "width": 496,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html",
+      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html",
+      "publishedDateTime": "2022-05-12T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.md",
+      "title": "Deep learning technology boosts the speed of localization photoacoustic imaging",
+      "excerpt": "After a lightning strike, thunder can be heard for a short period of time afterward. This is due to the fact that the surrounding material that was struck by lightning absorbs the light, and as a result of the conversion of this light into heat,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/detail_of_microscope_lenses_observing_a_slide_with_sample_wells_in_the_laboratory-angellodeco_e84c7a54b30247a0a1ad679809f0b548-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
+      "publishedDateTime": "2022-05-12T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-us-civil-rights-enforcers-warn-employers-about-using-biased-ai.md",
       "title": "U.S. Civil Rights Enforcers Warn Employers About Using Biased AI",
       "excerpt": "The use of AI is compounding the longstanding discrimination that jobseekers with disabilities face,” Assistant Attorney General Kristen Clarke told reporters Thursday.",
@@ -104,21 +190,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-13-ses-ai-corporation-ses-ceo-qichao-hu-on-q1-2022-earnings-call-transcript.md",
-      "title": "SES AI Corporation (SES) CEO Qichao Hu on Q1 2022 Earnings Call Transcript",
-      "excerpt": "Q1 2022 Earnings Conference Call May 12, 2022 05:00 PM ET Company Participants Eric Goldstein - VP, IR Qichao Hu - Founder and CEO Jing Nealiss -",
+      "path": "_news/2022-05-13-safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say.md",
+      "title": "Safer Driver Assistance Tech Now More Important Than Self-Driving Cars, Consumers Say",
+      "excerpt": "Drivers want automakers to improve existing semi-autonomous driver support features before developing fully autonomous vehicles, as inconsistent performance remains a problem.",
       "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4510965-ses-ai-corporation-ses-ceo-qichao-hu-on-q1-2022-earnings-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4510965-ses-ai-corporation-ses-ceo-qichao-hu-on-q1-2022-earnings-call-transcript",
+      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/",
+      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627d8169661424cee95ca2c9/0x0.jpg?format=jpg&width=1200",
+          "width": 826,
+          "height": 430,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -126,14 +212,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4510965-ses-ai-corporation-ses-ceo-qichao-hu-on-q1-2022-earnings-call-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4510965-ses-ai-corporation-ses-ceo-qichao-hu-on-q1-2022-earnings-call-transcript",
-      "publishedDateTime": "2022-05-12T16:51:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/",
+      "publishedDateTime": "2022-05-12T14:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -142,6 +237,7 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -195,49 +291,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-clearview-ai-banned-from-selling-controversial-facial-recognition-tech-with-a-caveat.md",
-      "title": "Clearview AI Banned From Selling Controversial Facial Recognition Tech With A Caveat",
-      "excerpt": "Meta announced that it was shutting down Facebook’s Face Recognition system and deleting over 1 billion people’s facial recognition templates. Only a month later, Clearview AI won a patent on its facial recognition algorithm,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat",
-      "originalUrl": "https://hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58532/content/clearview-ai-banned-selling-facial-recognition-tech-caveat-news.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-banned-selling-controversial-facial-recognition-tech-caveat",
-      "publishedDateTime": "2022-05-12T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -552,7 +605,7 @@
       "originalUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -648,7 +701,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -993,83 +1046,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-12-intel-teases-arctic-sound-m-gpu-for-data-centre-at-its-vision-2022-event.md",
-      "title": "Intel teases Arctic Sound M GPU for data centre at its Vision 2022 Event",
-      "excerpt": "Arctic Sound M GPUs can manage 30+ 1080p streams, 40+ gaming streams, 62 Virtualized Functions, and 150 AI TOPs.",
-      "sourceUrl": null,
-      "webUrl": "https://technosports.co.in/2022/05/12/arctic-sound-m/",
-      "originalUrl": "https://technosports.co.in/2022/05/12/arctic-sound-m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technosports.co.in/wp-content/uploads/2022/05/Intel-Arctic-Sound-M-DG2.jpg",
-          "width": 1600,
-          "height": 891,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technosports.co.in/2022/05/12/arctic-sound-m/?amp",
-      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/05/12/arctic-sound-m/?amp",
-      "publishedDateTime": "2022-05-12T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechnoSports",
-        "domain": "technosports.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources.md",
-      "title": "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources",
-      "excerpt": "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources",
-      "originalUrl": "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources?amp",
-      "publishedDateTime": "2022-05-11T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-12-synergies-raises-12m-to-give-factory-managers-an-ai-analytics-assistant.md",
       "title": "Synergies raises $12M to give factory managers an AI analytics assistant",
       "excerpt": "There’s no lack of startups around the world trying to make industrial activities more efficient with artificial intelligence. Some invent robots to assist or replace manual labor, while others use machine learning to help businesses discover insights.",
@@ -1208,6 +1184,49 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-new-robotics-gaming-school-coming-to-piedmont.md",
+      "title": "New robotics & gaming school coming to Piedmont",
+      "excerpt": "“We know that there will be a huge increase in the number of positions available throughout our state and nation in robotics in gaming in artificial intelligence,” Dr. Contreras said. District ...",
+      "sourceUrl": null,
+      "webUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/",
+      "originalUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myfox8.com/wp-content/uploads/sites/17/2022/05/Capture20.png?w=1280",
+          "width": 640,
+          "height": 273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/amp/",
+      "cdnAmpWebUrl": "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/amp/",
+      "publishedDateTime": "2022-05-11T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGHP",
+        "domain": "myfox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

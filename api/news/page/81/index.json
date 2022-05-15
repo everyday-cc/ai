@@ -2,6 +2,59 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-03-04-ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible.md",
+      "title": "AI-powered intelligent security makes the hybrid enterprise possible",
+      "excerpt": "For countless companies around the world, being able to keep business going with a remote or hybrid workforce during the pandemic has been essential. While the cybersecurity challenges of having workers in the home have been massive,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/",
+      "originalUrl": "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/1-Using-AI-to-secure-the-newly-hybrid-enterprise.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/amp/",
+      "publishedDateTime": "2022-03-03T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-predicting-the-future-of-ai-and-analytics-in-endpoint-security.md",
       "title": "Predicting the future of AI and analytics in endpoint security",
       "excerpt": "Endpoint security is accelerating thanks to the aggressive use of AI and ML by bad actors intent on wreaking havoc for financial gain.",
@@ -1129,50 +1182,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-why-ai-and-robotics-are-the-key-to-true-digital-transformation.md",
-      "title": "Why AI and Robotics are the Key to True Digital Transformation",
-      "excerpt": "Artificial Intelligence (AI) and robotics are terms used to describe machines with human-like abilities, or the simulation of natural intelligence in machines, that is programmed to learn and mimic the actions of humans.",
-      "sourceUrl": null,
-      "webUrl": "https://za.investing.com/news/why-ai-and-robotics-are-the-key-to-true-digital-transformation-2515818",
-      "originalUrl": "https://za.investing.com/news/why-ai-and-robotics-are-the-key-to-true-digital-transformation-2515818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
-          "width": 251,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

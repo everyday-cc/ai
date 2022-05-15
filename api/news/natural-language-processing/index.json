@@ -264,7 +264,7 @@
       "originalUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -510,7 +510,7 @@
       "originalUrl": "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1250,49 +1250,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-02-voiceitt-announces-new-initiative-expanding-voice-tech-capabilities-for-users-with-disabilities.md",
-      "title": "Voiceitt Announces New Initiative, Expanding Voice Tech Capabilities for Users with Disabilities",
-      "excerpt": "a leader in advanced speech recognition technology for people with non-standard speech, announces the launch of its community engagement and development initiative called Project Ensemble. Project Ensemble invites individuals with non-standard speech to ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-middle-east-israel-tel-aviv-fd4efc5432a160974723d57aae3ed601",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-middle-east-israel-tel-aviv-fd4efc5432a160974723d57aae3ed601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-02-accern-raises-20m-series-b-round-to-accelerate-access-to-nocode-natural-language-processing-for-citizen-data-scientists.md",
       "title": "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists",
       "excerpt": "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ...",
@@ -1322,6 +1279,49 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-voiceitt-announces-new-initiative-expanding-voice-tech-capabilities-for-users-with-disabilities.md",
+      "title": "Voiceitt Announces New Initiative, Expanding Voice Tech Capabilities for Users with Disabilities",
+      "excerpt": "a leader in advanced speech recognition technology for people with non-standard speech, announces the launch of its community engagement and development initiative called Project Ensemble. Project Ensemble invites individuals with non-standard speech to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/02/9593315.htm",
+      "originalUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/02/9593315.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1808758/Project_Ensemble.jpg",
+          "width": 389,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

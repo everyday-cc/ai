@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-10-clearview-ai-settles-suit-agrees-to-limit-sales-of-facial-recognition-database.md",
+      "title": "Clearview AI settles suit, agrees to limit sales of facial recognition database.",
+      "excerpt": "Clearview AI, the facial recognition software maker, on Monday settled a lawsuit brought by the American Civil Liberties Union and agreed to limit its face database in the United States primarily to government agencies and not allow most American companies to have access to it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 546,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/business/09clearview-aclu-settlement/merlin_166989159_f077e4a8-2604-45d6-9401-ef7212a8286d-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html",
+      "publishedDateTime": "2022-05-09T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round.md",
       "title": "Brightseed’s first AI-detected ‘phytonutrient’ comes to market alongside a $68M A round",
       "excerpt": "Who knows what secrets await in the hearts of plants? Brightseed has found a couple of them, anyway, using an AI-based analysis method, and will be bringing its first products to market soon with the help of a $68 million B round.",
@@ -256,26 +309,17 @@
       "title": "Finishing touch: How scientists are giving robots humanlike tactile senses",
       "excerpt": "Giving robots sight and hearing is fairly straightforward these days, but equipping them with a robust sense of touch is far more difficult.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/robot-senses-touch/",
-      "originalUrl": "https://www.digitaltrends.com/news/robot-senses-touch/",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/robot-senses-touch/",
+      "originalUrl": "https://www.digitaltrends.com/cool-tech/robot-senses-touch/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cropped-hand-of-woman-touching-robot.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/robot-senses-touch/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/robot-senses-touch/?amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-09T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1157,58 +1201,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business.md",
-      "title": "Microsoft veteran Bob Muglia: Relational knowledge graphs will transform business",
-      "excerpt": "The basic story is this: Five companies have created modern data analytics platforms, Snowflake, Amazon, Databricks, Google, and Azure, but those data analytics ... That includes much more use of machine learning within business analytics, as the name ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6c1577c7fa2cd45817e9491718dfc95ca6d3457e/2022/05/07/4f3a30a8-c5f2-4bbd-8a4f-86a5f7b488ec/from-modern-data-stack-to-knowledge-graphs-5-1-22-slide-28.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "publishedDateTime": "2022-05-07T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -487,7 +487,7 @@
       "originalUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -771,26 +771,17 @@
       "title": "Finishing touch: How scientists are giving robots humanlike tactile senses",
       "excerpt": "Giving robots sight and hearing is fairly straightforward these days, but equipping them with a robust sense of touch is far more difficult.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/robot-senses-touch/",
-      "originalUrl": "https://www.digitaltrends.com/news/robot-senses-touch/",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/robot-senses-touch/",
+      "originalUrl": "https://www.digitaltrends.com/cool-tech/robot-senses-touch/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cropped-hand-of-woman-touching-robot.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/robot-senses-touch/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/robot-senses-touch/?amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-09T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

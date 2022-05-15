@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "UK public want self-driving cars to be labelled"
-    excerpt: "Nearly nine out of 10 people in the UK (86%) want self-driving vehicles to be labeled so they can be clearly distinguished from human-driven vehicles, according to a major new survey led by UCL researchers. The research team surveyed 4,860 members of the ..."
-    publishedDateTime: 2022-05-11T16:50:00Z
-    webUrl: "https://techxplore.com/news/2022-05-uk-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-uk-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-uk-self-driving-cars.amp"
+  - title: "It will soon be easy for self-driving cars to hide in plain sight. We shouldn’t let them."
+    excerpt: "It will soon become easy for self-driving cars to hide in plain sight. The rooftop lidar sensors that currently mark many of them out are likely to become smaller. Mercedes vehicles with the new, partially automated Drive Pilot system,"
+    publishedDateTime: 2022-05-14T09:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 50
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/googleselfdr.png"
-        width: 680
-        height: 451
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/AP_20342772404491.jpeg?w=3000"
+        width: 3000
+        height: 1687
         isCached: true
 
 secured: "4tpsBiUYqXjWPGpYeOcdjn0n71AonIPPHedik+JELI0M2F4Q1gj130ouj2Od8h5049zOmzUFYkpgCFuDQp9qVaEG1l9YH9VaoZijhpJCFzmdG3FS7yCf0k7t4a42FKih1w5LAzVgTNt+dgBDaj7j94BPV7TU+J1jmNi6jR16UJX3maFZba4Nro4X0GfOdsPdMXHJC1lysr+aE557ij9Yvzs4FGK1tCeD/h3sKaxSAW5CTHkf0FY47ycnw3vKbKaln1xq3aKi82PMsumWQuQVc73xYmeSIvjwjzzk2RVX5ADnwnSb7lnXCb4lPTum+GU79xY4zLVV86+NjU/b/N40+0DWXNT4UGaV6WrCcbJker0=;4iMZeUyj+KINdJUxg342iA=="

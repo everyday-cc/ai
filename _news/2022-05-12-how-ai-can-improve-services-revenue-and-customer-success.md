@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-reven
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "VIDA Introduces New AI-Enabled Biomarker Services"
+    excerpt: "Announced at the 2022 American Thoracic Society (ATS) International Conference, this suite of services empowers sponsors to leverage VIDA's unique AI-enabled biomarker generation services and decades of validated techniques with previously generated ..."
+    publishedDateTime: 2022-05-15T15:59:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/vida-introduces-new-ai-enabled-biomarker-services/article_4ab3ba45-40fd-5161-be34-baecb4d93428.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
 
 secured: "uyjOjGGB2x7Q8sTKhb9FyjDkkNUggKEUm+YPyP4asEweSQSPyM87G6IONc/N7L3InyR/Cm9qXH+EgcPGhoQLwWx+YyqH/7mdPX4e96Df1okJC1n3AQZpAKl1UEUu83vHTUCfS60Dg7lAmIp99+Fkn/x1OA2KjVGlMiicFaHEva375yDo4UzB8gwb7gkwdy22M6vlXArW4mlzC0amfkkN4FeYaeYCa++onQ0R2MLj/pBi8bnGMuGph2c6LvyjHYeV6HIrw4AI/UgEdiAkmJKn5dZgNrVMPKy5hF/2m1KJGZYaGOu3m7JcrzmJ7xuIChJD8L0wq/hDfgFUCJlFeB5Tq33oY3hg51QWQ5REEoYZufs=;CyBuybkTMTMpI4FXLJu60Q=="
 ---

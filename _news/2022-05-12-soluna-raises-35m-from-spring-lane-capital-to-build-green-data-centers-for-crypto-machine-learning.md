@@ -1,30 +1,27 @@
 ---
 category: news
 title: "Soluna Raises $35M From Spring Lane Capital to Build Green Data Centers for Crypto, Machine Learning"
-excerpt: "Soluna Raises $35M From Spring Lane Capital to Build Green Data Centers for Crypto, Machine Learning. This announcement brings Soluna’s total funding for data centers co-located"
-publishedDateTime: 2022-05-12T12:00:00Z
-originalUrl: "https://www.boersennews.de/nachrichten/artikel/soluna-raises-35m-from-spring-lane-capital-to-build-green-data-centers-for-crypto-machine-learning/3663471/"
-webUrl: "https://www.boersennews.de/nachrichten/artikel/soluna-raises-35m-from-spring-lane-capital-to-build-green-data-centers-for-crypto-machine-learning/3663471/"
+excerpt: "Soluna Holdings, Inc. Soluna Raises $35M From Spring Lane Capital to Build Green Data Centers for Crypto, Machine Learning"
+publishedDateTime: 2022-05-12T12:49:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/soluna-raises-35m-from-spring-lane-capital-to-build-green-data-centers-for-crypto-machine-learning-1031453366"
+webUrl: "https://markets.businessinsider.com/news/stocks/soluna-raises-35m-from-spring-lane-capital-to-build-green-data-centers-for-crypto-machine-learning-1031453366"
 type: article
-quality: 41
-heat: 41
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Börsennews
-  domain: boersennews.de
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://www.boersennews.de/images/social/og-image.jpg"
-    width: 1920
-    height: 1005
-    isCached: true
-
-secured: "VE3Y9Z/IvwnbMF8DwkKGifLBLxQNFeia/hQPR0VWayx6MXszINzCuttaH4HUZd4jU8OMvq/fCzLjmIAJqHqWF3hG9RYnoHF2xtieOg3TNto4WC++o1fUoumsW7ZRj0gwLTffPA8rYAE1/BtGKX8eK3CMUWDVNAZi2ltMUv7LJO3QuC1Wd5EuQ/BK/hhkYN0JETfeo/30wcjFqDUA2rDYvLFOAdxnxI0KTHjbyb+O6QRcmiP5oF3+OfyoF3tvL8Lmdbx9Ee1XbttHxSE8m9pf+iJQb9Lv7Kz/VDWUMSZrwMue80BgcXx9lP+BTxoacNCEnVGDIzvXcqLnnWo3NcgyijWwRendcI6nSqKDJE7jQoA=;dMtFlgJn2nYnva1rjHaS7w=="
+secured: "Kixw02KKWswF8Cy0L+TeyvsjKbsPj9pXt8kF0h08xWM7WHzBinife8MzhwZjroYY5GCPYFwKmOg/Lshirx0CdANaBQAqK+AUSiYQNqxMtKzj5vqVt5quMvhjpAyRUffJbZm+gGWnEtXLXA65Sd5s79Y2owNZ/aYUROin5A2BnluXv/H/PDywcPwCsNq9n24HP4vp74KW5ktTm2BwDXAwCmURqWFfNmIuXD2sKZMQH8r4pn4cPISEDnVNNmuw6QOOPqfEGQOeSrP8qNqccXT2ZzRbNuNhVjSAXJxrvdAvI4SEV3Ook645y2y1D0Aig3yceGHY8Uvr/38jC/W8CDYGTRHqu1+o3+gPmLaGhrIirqw=;KyusVNKjmHvSLZawRlI0gQ=="
 ---
 

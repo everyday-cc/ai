@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Feds seek dismissal of planned class action against RCMP over facial recognition tool"
-excerpt: "The federal government is asking a judge to dismiss a Quebec photographer's bid for certification of a class-action lawsuit, possibly involving millions of people, over the RCMP's use of a controversial facial-recognition tool."
-publishedDateTime: 2022-05-13T09:45:00Z
-originalUrl: "https://www.cp24.com/news/feds-seek-dismissal-of-planned-class-action-against-rcmp-over-facial-recognition-tool-1.5901451"
-webUrl: "https://www.cp24.com/news/feds-seek-dismissal-of-planned-class-action-against-rcmp-over-facial-recognition-tool-1.5901451"
-ampWebUrl: "https://beta.cp24.com/news/2022/5/13/1_5901451.html"
-cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/5/13/1_5901451.html"
+title: "Facial recognition is making a comeback in US cities. Here's what we know"
+excerpt: "Policymaker consensus around facial recognition technology is changing, with some US cities electing to reverse bans on the AI tech, but debate is ongoing."
+publishedDateTime: 2022-05-14T00:00:00Z
+originalUrl: "https://interestingengineering.com/facial-recognition-comeback-clearview"
+webUrl: "https://interestingengineering.com/facial-recognition-comeback-clearview"
+ampWebUrl: "https://amp.interestingengineering.com/facial-recognition-comeback-clearview"
+cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facial-recognition-comeback-clearview"
 type: article
-quality: 67
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: CP24
-  domain: cp24.com
+  name: Interesting Engineering
+  domain: interestingengineering.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://beta.ctvnews.ca/cp24/en/news/2022/5/13/1_5901451/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-    width: 1020
-    height: 574
+  - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3ROaeo7NOv/sizes/facial-recognition-comeback-clearview_resize_md.jpg"
+    width: 744
+    height: 419
     isCached: true
 
 related:
@@ -57,6 +57,22 @@ related:
         width: 728
         height: 381
         isCached: true
+  - title: "Feds seek dismissal of planned class action against RCMP over facial recognition tool"
+    excerpt: "The federal government is asking a judge to dismiss a Quebec photographer's bid for certification of a class-action lawsuit, possibly involving millions of people, over the RCMP's use of a controversial facial-recognition tool."
+    publishedDateTime: 2022-05-13T09:45:00Z
+    webUrl: "https://www.cp24.com/news/feds-seek-dismissal-of-planned-class-action-against-rcmp-over-facial-recognition-tool-1.5901451"
+    ampWebUrl: "https://beta.cp24.com/news/2022/5/13/1_5901451.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/5/13/1_5901451.html"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 67
+    images:
+      - url: "https://beta.ctvnews.ca/cp24/en/news/2022/5/13/1_5901451/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "Facial recognition bans become less palatable amid surging crime rates in US cities"
     excerpt: "Virginia will end a prohibition on the use of the technology by local police in July and California and the city of New Orleans could be next."
     publishedDateTime: 2022-05-13T04:00:00Z
@@ -70,22 +86,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/13/3ada3e9d-8235-4c33-a041-ebd7ad06f274_dbb172de.jpg?itok=y3K4eX-o&v=1652410925"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facial recognition is making a comeback in US cities. Here's what we know"
-    excerpt: "Policymaker consensus around facial recognition technology is changing, with some US cities electing to reverse bans on the AI tech, but debate is ongoing."
-    publishedDateTime: 2022-05-14T00:00:00Z
-    webUrl: "https://interestingengineering.com/facial-recognition-comeback-clearview"
-    ampWebUrl: "https://amp.interestingengineering.com/facial-recognition-comeback-clearview"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facial-recognition-comeback-clearview"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 58
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3ROaeo7NOv/sizes/facial-recognition-comeback-clearview_resize_md.jpg"
-        width: 744
-        height: 419
         isCached: true
   - title: "FOCUS-U.S. cities are backing off banning facial recognition as crime rises"
     excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers."
@@ -134,6 +134,6 @@ related:
         height: 337
         isCached: true
 
-secured: "pQYDnHfbWJF6clgT5LsmQ9itAPGpyv/Hgv+kuhjkkJ2KEnj6LRZXOnF7uCMHP1whYq3hbTK09CbWB8nLBp0FX9QrJN4vjJjyVvUdHEtTt8gmSd3QYVNsfADaDvly++OrnisPMDK2A1SWgqciYhv9FmojMbGz2coV1zKg6SIUJ2GGE5BtyjUmUT+Q2p77OcSIp7hVxXvmy7LJwdk3Rfj4kVXzS5jFEWDr4Brs6uFI11yJWFLa813Wx+Kgj3e5VKgokcrM4BTmenMzXtWnraHvxMu1oGF7uUHw+O6DoqINZh1C4o99ei6d8QpLoQFHPEQ3malEUyLdDeRyvMmYo4J/gul2L+MEMikld8j+r9VwQBs=;38qV2oJ3Ni7BaVBWlnX1MA=="
+secured: "kqVjnFDGrw+HuJPQ7CtzZOcKLoqk4OGgpNtQqVeCy3BiHDZnAmfsVjvCWIQNIfX41uVZVJb9yqfgvZ4q4DZFVmI3LQw6rBD1AiQXbEy8Moq9n55vwau+lnnPpH5WTR54p28SXd9ZcnTjVS/5dhFka7jts+F5FpNRkdD9J82/PXrDihnH0YipzkFatLbZH5T88BU+yAhd7YnzOrsH542CeVsB+1wOGU0jKwnE/K2DQp8FHzUz1AuXJNvBsyZKVP9EQk9bFAsuhaXydaQO+Nl1v7MeP3QQaLKtPXmsDLEIUPw6S369o4pgMqV5n2UN+4JDYowMyudRsEBqnEMc8zpVg3wadC8QPIkoyhyXyRv5bQE=;r6JkcIsfOWIY/Iuj75uC/Q=="
 ---
 

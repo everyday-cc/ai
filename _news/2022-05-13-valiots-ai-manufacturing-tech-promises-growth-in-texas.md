@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/valiots-ai-manufacturing-tech-pr
 webUrl: "https://www.digitaljournal.com/pr/valiots-ai-manufacturing-tech-promises-growth-in-texas"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,33 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Intel unveils new AI, 5G technologies at Texas conference"
-    excerpt: "Many of the artificial intelligence semiconductor technologies aim to boost productivity, cybersecurity and public health outcomes."
-    publishedDateTime: 2022-05-11T01:22:00Z
-    webUrl: "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521"
-    ampWebUrl: "https://www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521"
-    cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521"
-    type: article
-    provider:
-      name: KGW8
-      domain: kgw.com
-    quality: 59
-    images:
-      - url: "https://media.kgw.com/assets/KGW/images/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Intel unveils new cloud-to-edge technologies at Vision"
-    excerpt: "To accomplish this, Nourish + Bloom worked with Intel and UST, a leading transformation solutions company, to tap into the collective technical knowledge for building innovations like a next-generation self-checkout using computer vision technology and a ..."
-    publishedDateTime: 2022-05-11T09:42:00Z
-    webUrl: "https://it-online.co.za/2022/05/11/intel-unveils-new-cloud-to-edge-technologies-at-vision/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
 
 secured: "Eq3V/YDrBiLMdIQk2SauO/8pmMa4kGLxhNKJ22jxm1xsz5gTBXMtRIKz+ZQvdH53eCg2XtxzlT6vbqVgOSJuFcTgqz8CSJH65xNkrlByYiLSb32c1c+vQQuZJshPHuJ4Wje2NaH8xeR3z6Hn2O2FYT3Gm8TzmxwACIipCX8EJ+uYEbN5BXEJLSnkiotk1YDnXNyxoSpvqGnsxpaXIMA+/NSIlgCOPCLx1vDNfSlarnlgKEJsiRZ2Fzo7UVFK25EzLvIkGEpsbNSRhKHhRDbrfTY3qOo0PWUFtGssT5YmnqIX69DHChScEMEHtjKKWqsRisj9arslLHNN6U6le/hjTMNczzBGnPOImrRM3m+hlOHDTqJuBlyzQDnT3Wph2zGWeGa7Da5bBGQ1g45R0tBaCi8tAh+9ZwWy8jB2m/DDyhAlZsYZKi3uHQ2oIjdqejv3dmm9pFn1IIH5mnBEMFJugBVS+jers1wBQOiWQERtT56h7I6e9BYcUgKnWXGLkIIGB7EXYzoST8paLDt9O4M3ag==;BFx+77Lgdxsj+pT47IPsVQ=="
 ---

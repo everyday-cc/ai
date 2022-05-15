@@ -2,6 +2,49 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-02-24-meta-to-break-language-barriers-with-ai-builds-universal-speech-translator.md",
+      "title": "Meta to break language barriers with AI, builds universal speech translator",
+      "excerpt": "Meta announced an ambitious plan to use AI for translation which has been used by several players including Google & Apple, Indian Govt too has launched its ambitious NLTM programme",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/03/full/1643876854-9687.jpg?im=Resize,width=1200",
+          "width": 1200,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html",
+      "publishedDateTime": "2022-02-24T00:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems.md",
       "title": "UC Berkeley robot navigation could chart a new-course for self-driving systems",
       "excerpt": "An approach that uses hours of video and elements of reinforcement learning can guide a robot vehicle almost two miles without a full map of the surroundings.",
@@ -1122,48 +1165,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-andy-warhol-reads-his-diaries-as-an-ai-in-netflix-doc-series-trailer.md",
-      "title": "Andy Warhol 'reads' his diaries as an AI in Netflix doc series trailer",
-      "excerpt": "One of the most famous yet enigmatic artists of the 20th century, Andy Warhol has continued to perplex the world long after his death in 1987. But a new Netflix series will attempt to decipher the artist's own writings in his own voice — well,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/andy-warhol-netflix",
-      "originalUrl": "https://mashable.com/video/andy-warhol-netflix",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/videos/00qSt2Rcnd0zmLokKCHD9ZR/hero-image.fill.size_1200x675.v1645636459.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

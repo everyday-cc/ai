@@ -36,22 +36,6 @@ related:
         width: 1600
         height: 1061
         isCached: true
-  - title: "The 1997 Chess Game With Garry Kasparov That Thrust AI Into Spotlight"
-    excerpt: "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally achieved what developers had been promising for decades."
-    publishedDateTime: 2022-05-11T03:52:00Z
-    webUrl: "https://www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686"
-    ampWebUrl: "https://www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 61
-    images:
-      - url: "https://c.ndtvimg.com/2022-05/3d14dnpo_garry-kasparov_625x300_11_May_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "The 1997 chess game that thrust AI into the spotlight"
     excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer. May 11, 1997 was a watershed for ..."
     publishedDateTime: 2022-05-11T07:46:00Z
@@ -62,7 +46,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
         width: 1024

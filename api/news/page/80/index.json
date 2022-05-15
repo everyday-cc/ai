@@ -2,6 +2,58 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-03-05-infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it.md",
+      "title": "Infrastructure is broken, Gecko is using robotics to help fix it",
+      "excerpt": "It’s certainly the sort of thing that rings true in the startup’s home town of ... “Gecko’s unique combination of robotics, software, and AI radically improves the ability to inspect ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/",
+      "originalUrl": "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bdeUbFv78dM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/amp/",
+      "publishedDateTime": "2022-03-04T14:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-05-microsoft-makes-a-big-move-into-ai-driven-healthcare.md",
       "title": "Microsoft Makes a Big Move Into AI-Driven Healthcare",
       "excerpt": "American tech giant Microsoft - Get Microsoft Corporation Report has made a major push into artificial intelligence this week, closing its deal to acquire AI pioneer Nuance Commun",
@@ -1135,59 +1187,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible.md",
-      "title": "AI-powered intelligent security makes the hybrid enterprise possible",
-      "excerpt": "For countless companies around the world, being able to keep business going with a remote or hybrid workforce during the pandemic has been essential. While the cybersecurity challenges of having workers in the home have been massive,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/",
-      "originalUrl": "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/1-Using-AI-to-secure-the-newly-hybrid-enterprise.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/amp/",
-      "publishedDateTime": "2022-03-03T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

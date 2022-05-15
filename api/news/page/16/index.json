@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-04-28-fintech-startup-finbotsai-raises-3-mn-from-accel-to-expand-its-asia-footprints.md",
+      "title": "Fintech Startup Finbots.AI Raises $3 Mn From Accel To Expand Its Asia Footprints",
+      "excerpt": "Fintech startup Finbots.AI, a venture targeted at banks and financial institutions, has raised $3 Mn in a Series A round from Accel.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/",
+      "originalUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/04/Finbot-Social.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/",
+      "publishedDateTime": "2022-04-28T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
       "title": "People in Beijing can now book a taxi with no one at the wheel",
       "excerpt": "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ...",
@@ -156,6 +199,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-28-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
+      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
+      "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838",
+      "publishedDateTime": "2022-04-28T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-low-energy-device-lights-up-artificial-neuronal-networks.md",
       "title": "Low-Energy Device Lights Up Artificial Neuronal Networks",
       "excerpt": "To date, research on hardware for artificial intelligence and machine learning applications has concentrated mainly on developing electronic or photonic synapses and neurons, and combining these to carry out basic forms of neural-type processing.",
@@ -195,49 +281,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
-      "title": "China Grants First Driverless Taxi Permits to Baidu, Pony.ai",
-      "excerpt": "China Grants First Driverless Taxi Permits to Baidu ... has in recent years invested heavily in autonomous driving and artificial intelligence technology, including automated personal assistants ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp",
-      "publishedDateTime": "2022-04-28T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1109,49 +1152,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-hpe-releases-ml-development-system-to-help-companies-deploy-ai-at-scale.md",
-      "title": "HPE releases ML development system to help companies deploy AI at scale",
-      "excerpt": "HPE today released a new Machine Learning Development System. The ready-to-use system allows users to immediately build and train AI models at scale and realize faster value.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/hpe-releases-ml-development-system-to-help-companies-deploy-ai-at-scale/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/hpe-releases-ml-development-system-to-help-companies-deploy-ai-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

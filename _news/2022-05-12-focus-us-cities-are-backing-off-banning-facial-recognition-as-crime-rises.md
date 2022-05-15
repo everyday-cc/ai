@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition is making a comeback in US cities. Here's what we know"
+    excerpt: "Policymaker consensus around facial recognition technology is changing, with some US cities electing to reverse bans on the AI tech, but debate is ongoing."
+    publishedDateTime: 2022-05-14T00:00:00Z
+    webUrl: "https://interestingengineering.com/facial-recognition-comeback-clearview"
+    ampWebUrl: "https://amp.interestingengineering.com/facial-recognition-comeback-clearview"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facial-recognition-comeback-clearview"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 58
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3ROaeo7NOv/sizes/facial-recognition-comeback-clearview_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Rising Crime Prods U.S. Cities to Reconsider Facial Recognition Bans"
     excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers,"
     publishedDateTime: 2022-05-12T15:12:00Z
@@ -93,6 +109,15 @@ related:
         width: 720
         height: 393
         isCached: true
+  - title: "Facial recognition technology is a valuable tool"
+    excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."
+    publishedDateTime: 2022-05-15T18:32:00Z
+    webUrl: "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 19
   - title: "Facial Recognition Market And Its Amazing Applications Across Industries Trend | NEC Corporation, Cognitec Systems, Aware Inc"
     excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
     publishedDateTime: 2022-05-13T10:56:00Z

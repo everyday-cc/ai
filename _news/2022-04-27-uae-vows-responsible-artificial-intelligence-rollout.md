@@ -1,20 +1,26 @@
 ---
 category: news
-title: "UAE vows 'responsible' artificial intelligence rollout"
-excerpt: "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university, opened to students last year, and the country has launched a number ..."
-publishedDateTime: 2022-04-27T03:34:00Z
-originalUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout"
-webUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout"
+title: "UAE vows ‘responsible’ artificial intelligence rollout"
+excerpt: "aims to have a quarter of its transport driverless by 2030. Abu Dhabi’s Mohamed bin Zayed University of Artificial Intelligence, touted as the world’s first graduate-level AI university ..."
+publishedDateTime: 2022-04-27T03:15:00Z
+originalUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
+webUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
 type: article
 
 provider:
-  name: Al-Monitor
-  domain: al-monitor.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ph3SMtvzDSOunfrBPw9ElWbnz46g8K2e1hp9YpAXqorjXlYVo7P5s0xfpEQwRJRoS1FCzPCOHwXNjNdqbC7cNmRMnyia0hxI5A044a3q+bpobctJARrLD0MIUhUgtv4Qsenad6B7yPsI/Vk9Tr7sT2aXN5ewX+eS/wjFM4y+muu9/zC4Ib1Y8NGVfcq2DUhcl0EjsurUzdYmo5WsBT4gOI6ylrT4c9bZvNZfyiUVklTiuB/sc5YALsahvNv7BvImSTPJkYCM8AmkSCUfP7PdMJZxleDW/YciZdV8icC8SuonI0Sd0hI6CScbTfo9x78TquTn7wvOwCeTIa8Rm0tRvgHitJk/traB3dZgk0zbjaU=;m8G3QBzKiuVgsIj6goLl9A=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/UAE-artificial-intelligence-AFP-1K-04.jpg"
+    width: 1024
+    height: 670
+    isCached: true
+
+secured: "NCEX/qrsaA7fMPJ4G5y7UR5Ji9Km3LBfr1H2clYE+dws+veT2xKY5wnTNmXPFX/9Gt258omH9Krhg4MRDlB97YY9iiX/i8Girhdfnlzn7AXTxxy2GzRm1ADg/y0hVFSmUywyOqTNQ8hC/kvG2kMExDEPFs1B6JJL5ATMLZ53fz58RU8TLkO2ljk4EyxAVrh1oBNiU6E8R76imIyhptYA61xaTV96nF/t8xVabPk1DKjblorFMifhA5lqWEG4uImy5aedJegE/0Agc2rbByCwEJdz2LtokG/J7eQm42uq3dU02hjhMYcRV80ZDRB/uYBWGPVlM/8FRI+9RWT91DfBO5wAIkdH0UocJBb7Lg281hg=;nAR54QzcBryT4jRgWBmouA=="
 ---
 

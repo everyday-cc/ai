@@ -2,6 +2,40 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-03-14-kbc-launches-ai-fintech.md",
+      "title": "KBC launches AI fintech",
+      "excerpt": "Belgian bank KBC has launched its own fintech to sell the AI applications it has developed to third parties. Called Discai, the separate legal entity will focus on selling AI-based applications to business-to-business firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/newsarticle/39862/kbc-launches-ai-fintech",
+      "originalUrl": "https://www.finextra.com/newsarticle/39862/kbc-launches-ai-fintech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-nference-accelerates-self-supervised-language-model-training-with-cerebras-cs-2-system.md",
       "title": "nference Accelerates Self-Supervised Language Model Training with Cerebras CS-2 System",
       "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and nference, an AI-driven health technology company, today announced a collaboration to accelerate natural language processing (NLP) for biomedical research and development by orders of magnitude with a Cerebras CS-2 system installed at the nference headquarters in Cambridge,",
@@ -1044,49 +1078,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-artificial-intelligence-and-the-future-of-war.md",
-      "title": "Artificial Intelligence and the Future of War",
-      "excerpt": "Consider an alternative history for the war in Ukraine. Intrepid Ukrainian Army units mount an effort to pick off Russian supply convoys. But rather than rely on sporadic air cover, the Russian convoys travel under a blanket of cheap drones.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-future",
-      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/RussiaDrone.jpg",
-          "width": 1222,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-12T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

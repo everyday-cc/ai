@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-03-13-artificial-intelligence-and-the-future-of-war.md",
+      "title": "Artificial Intelligence and the Future of War",
+      "excerpt": "Consider an alternative history for the war in Ukraine. Intrepid Ukrainian Army units mount an effort to pick off Russian supply convoys. But rather than rely on sporadic air cover, the Russian convoys travel under a blanket of cheap drones.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-future",
+      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/RussiaDrone.jpg",
+          "width": 1222,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-12-for-indiana-jones-deepminds-most-recent-ai-innovation-may-be-ideal.md",
       "title": "For Indiana Jones, DeepMind’s most recent AI innovation may be ideal",
       "excerpt": "Restoring and piecing together old inscriptions, manuscripts and other works might be made easier by a new AI model developed by Alphabet. It is very uncommon for ancient manuscripts to be damaged and partial,",
@@ -1097,49 +1140,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-aci-worldwide-introduces-aci-fraud-scoring-for-financial-institutions.md",
-      "title": "ACI Worldwide Introduces ACI Fraud Scoring for Financial Institutions",
-      "excerpt": "has announced the launch of Fraud Scoring Services—which is a fraud scoring platform offering next-gen machine learning capabilities for financial institutions of all sizes “to deliver real ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/03/188109-aci-worldwide-introduces-aci-fraud-scoring-for-financial-institutions/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/03/188109-aci-worldwide-introduces-aci-fraud-scoring-for-financial-institutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/score-match-game-competition.jpg",
-          "width": 1280,
-          "height": 1264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/188109-aci-worldwide-introduces-aci-fraud-scoring-for-financial-institutions/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188109-aci-worldwide-introduces-aci-fraud-scoring-for-financial-institutions/amp/",
-      "publishedDateTime": "2022-03-10T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
