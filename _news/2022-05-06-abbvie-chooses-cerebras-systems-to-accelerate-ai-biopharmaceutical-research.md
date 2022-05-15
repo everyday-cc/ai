@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AbbVie Chooses Cerebras Systems to Accelerate AI Biopharmaceutical Research"
-excerpt: "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption . Cerebras Systems, the pioneer in high performance artificial intelligence (AI)"
-publishedDateTime: 2022-05-05T19:40:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research"
+excerpt: "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, and AbbVie,"
+publishedDateTime: 2022-05-05T17:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "mQEnynQY9G+Yk2USbguzUN4mO6tp0xe03GhS2hakESCOxhOQF5ZRsX9eeogjvQWIElH02xXE/gdKhQncINxxg3VbOt+YdTtDtRYU7xYPSNe0Bl/aekV9AdVuPYqZc208gzA+aineAF/c4DDmV9z2cWZcLhYqueqncNOM+y6aIyUOI0uWEP9+k1oRYG7gxdIl11plJ+SVi3Rryd4YkN0y+V5+JgGTqfckVz2WkHEJskglIZY6FTVgDAW0oPwAKgTt+iI5SrJDAOymWu5Vec84PgIVwQ2CrkIJ7AzQ9B3E54qijK3/cdIR4z0rOdfH0OS94TyvUT1C/RJs2zYIq7rhXG4LRHLCxXmOQJBeT4PFNVE=;B1Q8Pg6ByNi6N5AOrHA27Q=="
+secured: "XAYda8vkqkV+tGC+y+r/eOA2Zvkj8pCN7WmoUBxGaiYGIJodQprLAlF4qhJ+NJv1oFu3Ucdq+PAnGedeHgtg5rYqh3NrYAb9dCB/XXfXX+ApauRtLlyHeBhKh9JVB5UrFeK4cvtl6yprPPYpcLF2YZvBnnKYRTvhFGfW4yme98L7LLW6zArQQCVa9RMBu4Ha/EZFqxgbh2cOOpC4B3TJ7Jlg4t8B5vHyf2WfmYRicx1wM7onJ+8Yzx/LJPw8YlinTXWS3a0GInq9pySyYHHk6awidloTZiU/spf8v+RGLU8yFNt0wgQZ3f/DpvpkdVGUhUJgRqkl40tX/SbdXa0sUEw3OcApiTVyoH7YosgYk4r34dkf+JjVdctwi9a4wicZAbyUXvewOqiwTCczLMV9tImcYv1jOKwdiLPP8t0+yUQQKIfRuBDsrPVfXtG9rc4p67Ur1CYjgV9oMdYwnVdLhZhGE3PfVcRpZYUohlpS981/8etQOTG0wy2wHr2DiNyGiWRGXr7OTnBQGImuyWafvA==;O/pNEdlz69MXWeXpFrd8pw=="
 ---
 

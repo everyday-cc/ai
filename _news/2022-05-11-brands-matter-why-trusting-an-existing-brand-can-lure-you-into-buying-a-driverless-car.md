@@ -5,12 +5,7 @@ excerpt: "But the idea of a fully automated driving mode, where artificial intel
 publishedDateTime: 2022-05-11T06:48:00Z
 originalUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 webUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
-ampWebUrl: "https://theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 type: article
-quality: 51
-heat: 71
-published: true
 
 provider:
   name: The Conversation
@@ -20,37 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://images.theconversation.com/files/458038/original/file-20220413-10209-m9fr41.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
-    width: 320
-    height: 240
-    isCached: true
-
-related:
-  - title: "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds"
-    excerpt: "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ..."
-    publishedDateTime: 2022-05-11T11:52:00Z
-    webUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 20
-    images:
-      - url: "https://i.inews.co.uk/content/uploads/2022/05/SEI_99688536-1200x630-pl-exclusive.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Interesting Driving Facts You May Not Know"
-    excerpt: "Think you know everything about the wonderful world of driving? Think again. Here are some interesting driving facts you may not know."
-    publishedDateTime: 2022-05-13T12:11:00Z
-    webUrl: "https://www.evanshalshaw.com/blog/interesting-driving-facts-you-may-not-know/"
-    type: article
-    provider:
-      name: Evans Halshaw
-      domain: evanshalshaw.com
-    quality: 4
-
-secured: "BX5gDojPNmmkiXw1DLrhh/QCYOBp/OcuO7o/Ohijn9kWS87G2yEiNtfMSk4++N7DJhqL2bMjJcM4wkVKpO8nKn4DBjEnqewnDBfqwf0Fkh+pVDdtyt5rDsy7I/MWkhQH+nznZ59DFP8YHK3x4kIX3BoXJ0ZeP8tcb0BZ+yTP5PwRPcij1qh9mQotFm/DcE5/9ceqLaHP7JqOzk09unLuGCC+2mRBdpt+fmpVgpglnZnbjKERLpnfMNDD4CIiIf772GQCLXld4bXVZOF5/rMOU8Q4QphAXTFJ21BI2FJohtzRjfnxiCVOBafS0tt5zarCTu1AznRfVV2dy+q26DGdNz4qYdmqhn+eDbGJOejrDBE=;2Yma2vViUlf/Cy2GsmcKjA=="
+secured: "v4mpO37O6JcWElc8BzjvDr4muZHPoLw2SgUxm4YoySTcNfmAdzOnL9VDPAycEb4TimxUcimOK8VLmmxYcuf4nuuv+PXMNqodm6s9MOCXJAdaUyIkBI/CuAZSjIXjmQuV9t0JlgApr8CAL4gsBSU/7qC0dSbdKlGZiLVjA14j6hhozNWL2wEO7tKNtg1N6o1VGHCgWgcuUF+ShaHyQCBTIwoKm4Vi0kOE/wwkafnwKPf/Wmh9t8JfOGZnkVszWfs4gLn4yOROemtgpxl91ESKONJN/k9XpSbjFYhq6ws1WFykWKn4NZ1eORfNjpT/QD9dwqeAu5PGP20iEqaHFPL2NyHOs4Z2taSSODwHqys2LAI=;TlKBS/GNx/VEPiG2RK9UoA=="
 ---
 
