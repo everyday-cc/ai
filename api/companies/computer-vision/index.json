@@ -23,7 +23,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 735273
+        "followers": 735364
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -37,7 +37,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 443,
+      "heat": 444,
       "tags": [
         "Non-profit"
       ],
@@ -72,7 +72,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 91743
+        "followers": 91757
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -132,7 +132,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 26803
+        "followers": 26805
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -188,7 +188,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 58229
+        "followers": 58230
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
