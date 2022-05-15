@@ -2,28 +2,22 @@
 category: news
 title: "U.S. civil rights enforcers warn employers against biased AI"
 excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
-publishedDateTime: 2022-05-12T20:00:00Z
-originalUrl: "https://www.wpxi.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/"
-webUrl: "https://www.wpxi.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/"
-ampWebUrl: "https://www.wpxi.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
-cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
+publishedDateTime: 2022-05-12T19:46:00Z
+originalUrl: "https://www.bradenton.com/news/business/article261387662.html"
+webUrl: "https://www.bradenton.com/news/business/article261387662.html"
+ampWebUrl: "https://amp.bradenton.com/news/business/article261387662.html"
+cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/business/article261387662.html"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WPXI
-  domain: wpxi.com
+  name: Bradenton Herald
+  domain: bradenton.com
 
 topics:
   - AI
-
-images:
-  - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/ncV0jlI-iiHgujFeog18zA_A5sI=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3PDHKVR5RTTKV4MIFLKB6DGLQI.jpg"
-    width: 1440
-    height: 810
-    isCached: true
 
 related:
   - title: "U.S. Civil Rights Enforcers Warn Employers About Using Biased AI"
@@ -103,6 +97,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "bMsrXfh9aypw0DW4xMccfg6oHGuWngqmYqhCfJ+LeK/GLCLkfM0WFiKQBLcXJgYUCi6uHcNRTUIniIEam9CA5wkepxoWwz9EsZ2OufFInFfYcH/bR8L5H08VK0bpgIHpr9aFbr9JUd5YHvOT834WEY83Yvij9tb/xCPGQxJB4XKmFSmfgdiq4SUL/+PxB0fOK3iwzhmokYa51wOX+l0/zPb2YXgVQEt9xbULGZPFi4ztyVyEAnr3ssZEv4hRUWlGxVD4P5n4GA1CQ9Vgmjg1uSnUCMC4XQ/01U8IWfUz7h0C5ZAti3ujq/T28hTv/XX2BgrEhd1Q3XnHcMgCh0fuMtyhH9Pae3Vgs3uF5sH0hxc=;LJduSx9O+SLi6x5x/KrdMA=="
+secured: "7Glmbc2UFNv8BcCRVeu+IuFdwVapfncoE6peoLqbxRIh2pSFuXxO+yPsYrvAgKKpYN3Vpd49eOrWHDmbQKi8E7u1TmgLH5y3tAKcz6Ax0UrdvD+hVRjvCDevQqhuTunUWDTST86mnvVgiMPASiVBRpA+jeL1INr0IkHo5t8um3kLYBziYYToy55E9Qq1GLOWXp0A6olGRN2jmA5c79JBPkYu4oguqJLpDd/IzrD+2P1LRWspN+zXqRdf4kjz3sPSBXhTC3bL7mGEsSl5yIsfMQVTSXOoQfVhHDhNFwIMwZT2I8z9YmFMUvh2gXvAWFaGwGOfSnsFooVWeVrfhs0Ki7Jb07/AUqtGai4TrDMTyoviw25ES8Cn8P7EMXmo3C0yn4ZoI5+mp4EM5dFcbZvffAf2nrgLI1B0thfUs6GHBubL2cFMZdXgJkwKbyEomrp8q+cK4O8wv15Nziyk/rk/hJ14nUvzscyqJCgjVCEF5A+tHP92E5KTPD/N003MOTYc7P5GUF7NKdqlppPR8z2KbA==;lu/7Ci5exBjvv0zsEprH8g=="
 ---
 

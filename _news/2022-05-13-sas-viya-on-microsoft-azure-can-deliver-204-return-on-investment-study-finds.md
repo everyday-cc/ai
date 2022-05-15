@@ -33,20 +33,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-    excerpt: "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics."
-    publishedDateTime: 2022-05-10T14:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg"
-        width: 400
-        height: 299
-        isCached: true
   - title: "Avaya expands partnership with Microsoft to offer OneCloud solutions on Azure"
     excerpt: "The global scale of Microsoft helps ensure that our joint customers rapidly deploy Avaya OneCloud solutions in any cloud environment of their choic.."
     publishedDateTime: 2022-05-11T09:29:00Z

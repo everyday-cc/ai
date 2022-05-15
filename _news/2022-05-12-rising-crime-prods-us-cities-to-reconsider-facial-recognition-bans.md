@@ -94,20 +94,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "Facial Recognition Startup Agrees to Limit Data Collection"
-    excerpt: "Clearview AI has agreed to permanently stop selling access to its database to private businesses or individuals around the U.S., ending a two-year-old lawsuit brought by the American Civil Liberties Union and other groups alleging that it collected people’s photos without their consent and in violation of Illinois digital privacy law,"
-    publishedDateTime: 2022-05-10T14:06:00Z
-    webUrl: "https://thecrimereport.org/2022/05/10/facial-recognition-startup-agrees-to-limit-data-collection/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Facial Recognition Market And Its Amazing Applications Across Industries Trend | NEC Corporation, Cognitec Systems, Aware Inc"
     excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
     publishedDateTime: 2022-05-13T10:56:00Z

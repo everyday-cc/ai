@@ -1,29 +1,26 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:12:00Z
-originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
+publishedDateTime: 2022-05-12T21:04:00Z
+originalUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
 type: article
-quality: 51
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: New Hampshire Public Radio
-  domain: nhpr.org
+  name: KUOW
+  domain: kuow.org
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/c12b64b/2147483647/strip/true/crop/1920x1081+0+100/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2Fcb%2Fa74a1d844255ab2edff35ef4b192%2Frochester-city-hall-nh-nhpr-photo-dan-tuohy.JPG"
-    width: 430
-    height: 242
+  - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+    width: 838
+    height: 628
     isCached: true
 
 related:
@@ -90,6 +87,6 @@ related:
         height: 400
         isCached: true
 
-secured: "XNN4101oiyCt81/RxzoX4HfsggQ4s4ATtmfB1Qd0yHMp2hnkC7SoD48wngXbyI++gTRbxYNnzMnoX+7jbcgXu8zE32JSf0nQUAmIk8fbVON47V/fSQSFx0rcj3qHjehtjsBuuo45LAvmLGQckptQemr4tb5ftogU4YLUwo6ZoWosp+1AYyq9Tk5SBIF2/ASbUuo4m+1BJ4LRsIBGROyVti4IKxWBNG+Y72gsyj420lKlHMR36DvfRrzj/CcPA9Khc0DPHBNkxUXNDERonADaQjlETXl0eevZDcywB5RxK+VlRGAPHj9X3t0PfWUHg5CrpMzOQaVDRKCQtUuDq5Ts6qqYnMn+aQL/EwHLCZ/tj7c=;LkF5GLZqk3zXj2aWPZW0Kw=="
+secured: "7OgbXcPodbsiTFnaDqvhhmMS7RFfvp1o0P5e7TUePS4I9iyOar0NmeJ78MHdlqVHjh/m6n/8sGmVf4vyNfHWzCQypVRGsdm8yr/79OyDGLfjP2+iN4iZNA7Mt2W5560iWdOac4sfqBaHdm4pyKPqg6de6BjcoWTa1Auq0NCs7ZHWU1vrdvb/IlD2TsL5ZxzLS95iOjK1ASWMuWoC2nJcxk2Vhf6nKwFxqYIB04pVPxJJffU6OaINrczB6XBBwjH940gl49EdZzOUCTu5ID0ZttoJashYHZdI9OXB8SoNTCZvXJR/gJ3GwtZQFJV/gBNDvPYHB1IRH2Z0REXNAAgLO6rc+xxwVw77reMRAaYFm8c=;yU4tbp3yPgx6XXPWWYT/mw=="
 ---
 

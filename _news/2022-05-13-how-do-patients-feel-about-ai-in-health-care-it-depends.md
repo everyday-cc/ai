@@ -35,20 +35,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "New AI study looks to improve healthcare of people with a learning disability"
-    excerpt: "are using It aims to use machine learning to better understand the interaction between long-term conditions in people with learning disabilities and their care needs so as to provide effective joined-up care between health and social services. About one ..."
-    publishedDateTime: 2022-05-10T13:54:00Z
-    webUrl: "https://www.learningdisabilitytoday.co.uk/new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability"
-    type: article
-    provider:
-      name: learningdisabilitytoday.co.uk
-      domain: learningdisabilitytoday.co.uk
-    quality: 55
-    images:
-      - url: "https://www.learningdisabilitytoday.co.uk/media/39199/health-technology-primary.jpg"
-        width: 824
-        height: 354
-        isCached: true
   - title: "Most Patients Have Positive Views About AI in Medicine"
     excerpt: "Most patients have positive views about the ability of artificial intelligence (AI) to improve care but have concerns about unintended consequences, according to a research letter published online May 4 in JAMA Network Open."
     publishedDateTime: 2022-05-13T12:35:00Z

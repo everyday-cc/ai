@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sa
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true"
 type: article
 quality: 74
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Shady AI company agrees to limit sales of facial recognition tech"
-    excerpt: "Clearview AI, the controversial facial recognition company, was just crippled by a recent legal settlement. The settlement means that Clearview AI will end sales of its biometric data to private companies and individuals in the United States."
-    publishedDateTime: 2022-05-10T14:17:00Z
-    webUrl: "https://knowtechie.com/shady-ai-company-agrees-to-limit-sales-of-facial-recognition-tech/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 73
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2020/06/facial-recognition-racial-bias-amazon-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Clearview AI's facial recognition settlement is a frightening window into our future"
     excerpt: "Another powerful tool for fascist snoopers is facial recognition software. Its potential for misuse was at least partially curbed Monday with a court settlement stemming from a lawsuit filed by the American Civil Liberties Union against Clearview AI ..."
     publishedDateTime: 2022-05-11T00:00:00Z

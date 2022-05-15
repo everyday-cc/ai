@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/newyorklawjournal/2022/05/13/ai-vs-ai-forecast
 webUrl: "https://www.law.com/newyorklawjournal/2022/05/13/ai-vs-ai-forecasting-the-ethical-dilemma-circling-law-business-and-technology/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -19,29 +19,63 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Trending Today, Airing on Fox Business, Features The Security Oracle, Experts in the Security and Artificial Intelligence Space"
-    excerpt: "ORLANDO, Fla., May 13, 2022 /PRNewswire/ -- Coming soon to Trending Today, airing on Fox Business, The Security Oracle, a leader in the security and artificial intelligence space, reveals how its revolutionary robots are changing the world of security ..."
-    publishedDateTime: 2022-05-13T12:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/trending-today-airing-on-fox-business-features-the-security-oracle-experts-in-the-security-and/article_99a43e4c-70bf-534f-8c30-7702b27e6d0c.html"
+  - title: "Racing tiny cars using only Artificial Intelligence and Machine Learning"
+    excerpt: "It's called the Amazon Web Services DeepRacer League, where small 1/18th scale cars are being trained to complete a racetrack as fast as possible, by themselves. “It has major components in ..."
+    publishedDateTime: 2022-05-11T21:31:00Z
+    webUrl: "https://ottawa.ctvnews.ca/racing-tiny-cars-using-only-artificial-intelligence-and-machine-learning-1.5898864"
+    ampWebUrl: "https://beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
-  - title: "Tech Visionaries to Address Accelerating Machine Learning, Unifying AI Platforms and Taking Intelligence to the Edge, at the Fifth Annual AI Hardware"
-    excerpt: "Meta’s Director of AI Research will open Edge AI Summit. Other notable keynotes include Microsoft Azure’s CTO, Mark Russinovich, plus Wells Fargo’s EVP of Model Risk, Agus Sudjianto; Synopsys’ President & COO, Sassine Ghazi; Cadence’s Executive ..."
-    publishedDateTime: 2022-05-10T20:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=661475"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 17
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 75
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
         isCached: true
+  - title: "Auditing Of AI Is Tricky, Especially When It Comes To Assessing AI Ethics Compliance, And Vexing Too For Auditing Those Autonomous Self-Driving Cars"
+    excerpt: "AI auditing is still a nascent capability and often overlooks AI Ethics compliance. This will inexorably change and be increasingly vital, including even in the case of AI-based self-driving cars."
+    publishedDateTime: 2022-05-12T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6265c81c35d2f416ec30ff04/0x0.jpg?format=jpg&crop=2849,1725,x865,y0,safe&width=1200"
+        width: 1200
+        height: 727
+        isCached: true
+  - title: "China is building a 590-foot dam in only 2 years thanks to AI and 3D printing"
+    excerpt: "China will reportedly build a massive hydropower dam in the space of only two years, thanks to AI, construction robots, and 3D printing technology."
+    publishedDateTime: 2022-05-10T21:01:00Z
+    webUrl: "https://interestingengineering.com/china-590-foot-dam-ai-3d-printing"
+    ampWebUrl: "https://amp.interestingengineering.com/china-590-foot-dam-ai-3d-printing"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/china-590-foot-dam-ai-3d-printing"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2pE74w9/sizes/istock-153699394_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
+  - title: "How AI is used in filmmaking"
+    excerpt: "However, compared to today’s sophisticated tech, Lucas’ AI system was pretty basic. Marvel villain Thanos’ origin story is a good case in point. The tech team put tracking dots on Josh Brolin’s face to capture his expressions."
+    publishedDateTime: 2022-05-12T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-ai-is-used-in-filmmaking/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "LOIsasxmOXF7vNTMJ0fBv+YCuN5dXjWocV5oIy0lDRasB8fTZpWjZiO/vx+tsIQpN+mF9I2rXqsj34+WpAUu8DuSKRzkEg5ll3fIag3vI7R5OP0oFibm8L9O3A9IyzLYMkB5POAEKK/sstO4kD68b3B+nnHlnErqnMq/8ds0v9w3TKGSJdCmaBv7mRgZ+pfuhyQSZB0VDET/VjXTTKfBihUneWRLfcjw5gS61LpVQWILAf0l6eZVtQuDDe7OSA9MTLzBmmdpXosCfphk8V5AzTjHkop6k8ufyAsG+Qp7Dlvyjb5Cd9H2WfA/M/lL/gJzM53hiMpr5jn7eUNPBlluvAcexFKv4qZsy+4w5AAoLPDOv7QPwbZ2/68FspEyzhQuGE6gn8KBXC2baZBS4XJuztHVwonevnK/QiZfCt6qeEV9km8ce4KvWue/Gm6kQfifQJiSt/rgcO3KhQFtS80ZDpLn5W0K+QkXpbzFxERXmONBDN8i+Ddws9Ll8TnKkQGuRi4NE81GfYcR4IMLuQaQ+A==;IX07wFxCV1chc3CWu/vxvg=="
 ---

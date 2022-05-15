@@ -1,27 +1,21 @@
 ---
 category: news
 title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
-excerpt: "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The"
-publishedDateTime: 2022-05-12T02:15:00Z
-originalUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
-webUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+excerpt: "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi"
+publishedDateTime: 2022-05-11T18:15:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
-
-images:
-  - url: "https://lh3.googleusercontent.com/__Jn4g-5HH4_ZMyjmWpuer2Zb_RLKiPRLMDswfTePpLBtBbnq31QHR6DQvAS9_82whxKfpi7RUOoCnEkEbn1mdgwAnexrzC9RskHWubQ_Cdu-kSf9_UDd6l7OdAAKKiZVqK6ANqCwWP4RyI2oA"
-    width: 1012
-    height: 445
-    isCached: true
 
 related:
   - title: "Artificial Intelligence Revolution Has Started With Arthritis"
@@ -67,16 +61,7 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 19
-  - title: "Early detection of arthritis using artificial intelligence"
-    excerpt: "In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen, computer scientists and physicians have now succeeded in teaching an artificial neural network to differentiate between rheumatoid arthritis,"
-    publishedDateTime: 2022-05-10T13:47:00Z
-    webUrl: "https://idw-online.de/de/news793432"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 17
 
-secured: "+PNtEb1Eh2n5YYScHkMy1IDfUddHax2fdmgfAqq4b8PE3Y2kZo1LFuSt+22SBD+yBsGgGDcZYG5YwUCBDDV8n8gY093knRPvFiiZRYijV5yWKJRUg+vzjDicvLIRDyvZDls5mONjMIeSan3hBT4Ydw61TP/Cm8EmduHWfQAwbdg3hxdVmid4aSK0XcYm7DSM1hcadDDwYCjXEZJTQBjyimxedS2Rb0Qv3j34B6VS1FLdc142ftLHA2HJgEsBHoBU7v+7G6Q+tkvTqPPK1TJLh8ZmrIs2D35MsKkzakGv8Mv0GOj1MxoUYtXvWdf4FauzaMHjPImz7Ybio5lWN5aVn1nltxaHWZEeWm4/PDckz/E=;6GGn4hkdHt1vpYrD975Kkg=="
+secured: "7mYcCBhiFPLtoI7KbYxHgvkAQrkAGNraUvBvjKVZHIIGdQvkTvHKASsgftZXqBO5WKW9JDNri8jYRBXjn3W2VRqnGE+fz0UrTfO/LNUCycuS7LWRowj4FmPvgCPV1EuQWsJQMkYSjk4OG7oHohqwFKZBs50Z3oSq7rtk5PH2XJ1FK5kYzAUDRrfbcV1R4ZyIcCxIKdHHCHUSiOTNWquMUPibYigZ1t1xGR011xoU+ils8LaG4nUg1EFlzLlFwcw7mbM7AX5wAE6fFJQjOjkx4Wu4mX4g1FVqaPcZhWNFTDo7IW2vQE7S4p7Otb5lBc98ITjhAtXu6j0DY2e5UpLRf/aNdeBuvMzSQFLua73VI/QvTTV9muFU1Fr7LU5dDhxcq8WMvuAsjrFOxPZSjtMYy4hBKLV7dRF05PoqLCIzakYj4pV5WutvpeG3QEmpNscM5NK/tMNu5fcsqPuSGzmbhAAob7aAM+c7qrj70nYg8xQRoQjj2qPlFFQgMLJ9D3cBB0tAmAh+iqucVZ1S3GzBvA==;DkYGZ37UKpaFK/6esrrMeQ=="
 ---
 

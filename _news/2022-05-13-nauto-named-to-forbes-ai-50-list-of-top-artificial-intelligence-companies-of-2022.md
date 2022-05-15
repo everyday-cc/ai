@@ -27,16 +27,16 @@ related:
   - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
     publishedDateTime: 2022-05-11T21:11:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 49
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
     excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
@@ -61,15 +61,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 27
-  - title: "Eigen Technologies Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "Eigen Technologies (Eigen), the global intelligent document processing (IDP) provider, is proud to announce that the company has been named on the fourth annual Forbes AI 50 list 2022 for North America. Produced in partnership with Sequoia Capital, this ..."
-    publishedDateTime: 2022-05-10T13:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9599327.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
   - title: "6sense Named To Forbes AI 50 List of Companies to Watch in 2022"
     excerpt: "“We’re proud to make the Forbes AI 50 list and to be recognized as an innovative leader,” said Jason Zintak, 6sense CEO. “6sense is the first and only platform to apply the power of AI across the entire buyers’ journey to provide a better ..."
     publishedDateTime: 2022-05-11T13:46:00Z
@@ -97,15 +88,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 17
-  - title: "People.ai Recognized as One of Inc. Magazine's Best Places to Work for 2022"
-    excerpt: "People.ai, the premiere Revenue Operations and Intelligence (RO&I) platform, today announced it has been named to Inc. magazine's annual Best Workplaces list. Featured in the May/June 2022 issue, hitting newsstands on May 17,"
-    publishedDateTime: 2022-05-10T13:45:00Z
-    webUrl: "https://www.koin.com/business/press-releases/cision/20220510DE51788/people-ai-recognized-as-one-of-inc-magazines-best-places-to-work-for-2022/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 15
 
 secured: "3I0eHnv2k2uezjNUKwhH4VaWAJlICXYePHyb7TkJIewcOM96NqLxj6e798LxmP5cSJZAxRtwcp80q9EhqA9NgwFDZ1FP+ooHXax5WWWUd1gTmPJrHfg+QEWrpTXE4gO15KUpw8dF2JE8/liukFKPDko2lKT9+44k8YV4oOQM5yqQt12Zz0o150t6faenTV2Xg/y/TKneaxkhPnqiUkhRuUL/n2QVoKr1yQBJBqvwawe4f58kZPmvjVoGFgpAHehreXLJHesXtgEDV9ZHk/NB44BEg3HvnRZl4vs+3nmL25dR3w/CyK7yLRuxO+LNz/HZUmpAgkrNe8InbjuUYmbNDw3KeGV1Ddt86llD+nTHUps=;3h2olZa223OKcos4Ivq54g=="
 ---

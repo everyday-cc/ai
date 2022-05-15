@@ -73,22 +73,6 @@ related:
         height: 682
         isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
-    excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
-    publishedDateTime: 2022-05-12T20:00:00Z
-    webUrl: "https://www.wpxi.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/"
-    ampWebUrl: "https://www.wpxi.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 57
-    images:
-      - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/ncV0jlI-iiHgujFeog18zA_A5sI=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3PDHKVR5RTTKV4MIFLKB6DGLQI.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used hiring tools could violate civil rights laws."
     publishedDateTime: 2022-05-12T16:20:00Z
     webUrl: "https://www.chron.com/news/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
@@ -102,6 +86,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "U.S. civil rights enforcers warn employers against biased AI"
+    excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
+    publishedDateTime: 2022-05-12T19:46:00Z
+    webUrl: "https://www.bradenton.com/news/business/article261387662.html"
+    ampWebUrl: "https://amp.bradenton.com/news/business/article261387662.html"
+    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/business/article261387662.html"
+    type: article
+    provider:
+      name: Bradenton Herald
+      domain: bradenton.com
+    quality: 37
 
 secured: "lu2+Xmm6wOcNZKLbdhFjURClbZlOOXlwdZhojg/0JINLAId5NdQ8b+c1M6kayO33mN3U18BX2gDVjguHhd7NRYIED5dgMCLbsNAvLxQxXV90ftVPMfPc6/Y+FgfbQUrqv0Okg2hpVbhmkggo2no05DITCXOjyJqXGD/eEDpqc87VKXYifKGPYHQGlsqEyGFhkss6o+aDv7rMX74mtxfo1kab5o8NbznK2mcZMtIn8+4mRXkjhc3P9U+8j4ySXKFzuqMgHuQ2o2rOouAVEtCSFk1vwPkRCJYAqdG2jyGmn4t1buCaAyb4b+9tkiybyEOEJVejrQ8fggOA3FWg8ug0sjO8Ssvwqt89qJvBw/wRlhA=;wwjabNZpnPOmz4wDn+CfQQ=="
 ---

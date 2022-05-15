@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kgw.com/amp/article/news/local/technology/intel-ai-compu
 cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: KGW8
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel unveils new AI chip, Accenture collab and more products"
+    excerpt: "Intel on Tuesday announced a slew of products in its silicon, software and services portfolio during its first Vision event in Dallas, Texas. The company launched its AI Gaudi2 chip, 4th generation Xeon Scalable processors,"
+    publishedDateTime: 2022-05-11T00:42:00Z
+    webUrl: "https://www.crn.com.au/news/intel-unveils-new-ai-chip-accenture-collab-and-more-products-579835"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/Intel_Wafer.jpeg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Valiot’s AI Manufacturing Tech Promises Growth in Texas"
     excerpt: "A Hub of American Manufacturing Valiot & Texas Officials Valiot Meets with Texas Government Leaders AUSTIN, Texas - May 12, 2022 - (Newswire.com)"
     publishedDateTime: 2022-05-12T18:00:00Z
@@ -36,6 +50,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 17
+  - title: "Intel unveils new cloud-to-edge technologies at Vision"
+    excerpt: "To accomplish this, Nourish + Bloom worked with Intel and UST, a leading transformation solutions company, to tap into the collective technical knowledge for building innovations like a next-generation self-checkout using computer vision technology and a ..."
+    publishedDateTime: 2022-05-11T09:42:00Z
+    webUrl: "https://it-online.co.za/2022/05/11/intel-unveils-new-cloud-to-edge-technologies-at-vision/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "LntojRgXHdyRP/2x9JNxhlaoBdFUibw4orl53gGKtJu9tBG/i0Tjm41GENX0zbqvodZaY1FX0V7DTi4EwgTz2lJFeJAY33ptEaDdL+x4lksLZY8dEGWeuxeNFUtTU5XByAhSwolrhPUZECVupMxngG1p0QYmyWamsprAZukugyy8MB2Y6OIDCucTEHgJcP6vjLbC8/0L7k53ao8AClQdSVzF2v6CmMbHPWfrvfO3mppWFcRmq56V7A3kY9pst4zzYLC8myFiLVhzRAFN3gLiTPts9xsBlQ1Ql4xOVdU2ysABbAYJq+uBR0nDSsUaXMa7zLmq1Pw8YuUNfCqWzWe469XwXs0JXyDGuutrbsECd+jm0P8ZPUwXnP2uKWP4e7ZR/i+eYIkvBW09BBHpeWSX788InAJzZpxq2sD2UtDAG/Rjgya76th5a0CKfOrXksWUTtGsFdm4GMayxaGCsn8lv3yQ8KCfW6M/RD+5vEUBATttdudtdHTneyoI2Q8FVyVk7e/E2a9FnwDKe5GtOaCWiQ==;fpIAFw/IWR+LKtjxbPmwzg=="
 ---

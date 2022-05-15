@@ -146,15 +146,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 21
-  - title: "HERE Collaborates with AWS on Supply Chain Solutions to Improve End-to-End Visibility and Fleet Efficiency"
-    excerpt: "HERE Technologies, the world’s leading location data and technology platform, today announced it has entered a five-year strategic collaboration agreement with Amazon Web Services (AWS) to help organizations improve their supply chain visibility,"
-    publishedDateTime: 2022-05-10T14:01:00Z
-    webUrl: "https://www.wiproud.com/business/press-releases/globenewswire/1000632239/here-collaborates-with-aws-on-supply-chain-solutions-to-improve-end-to-end-visibility-and-fleet-efficiency/"
-    type: article
-    provider:
-      name: WLAX
-      domain: wiproud.com
-    quality: 16
 
 secured: "zWUHUEXhs7TvogF4Gfie2g7O9DILt+hxEreUojaJmp+vlNChBPzN8n+ah9/VmDvA8Q09yRV3YGxG/ySg/CJpi+3+peIx/IIHhfccpj6tW3YnBRgrIkuUQsKZF346DffDXI7+cwpDZ6rbE6E5LpxqAfpPZmhC8m+/W16thHimWytjbpy9GuQ6PF5lssDA3e6traADJgBdYgq2DNWnpOM5zbh3LAleUDQ0X11VFV4FFhuR5lkWrotL5cHNbW2aJhpxDgp83AeMmS5+bSFHB62NHvAFYOFh8Mr8f2fzog+NfhX4vy/ARIR9Yg0vPEWpeFFaZED/xcuOKZR7QoDk/TCg8wMpHsl9jiJB67xiqGBFjncF6wvE4TW6wdHPZv2MC8/+KsGvkjMjdIK6wk+ZRnR8ouj8Yayq2/RrQ3zWUOzZjzOeRhS3tLSerKdVtiC7RSOTEwypQE8qW19aSSLmjWRhsvk40hIhOPlCcO+3Oz8+LsDhJEaDt7LhqKh3z7PY9v3yxbicAlQ85FD3SEB5E29M2g==;bvM+7etrkoS3KG3EQ0mC+A=="
 ---

@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 792
         isCached: true
-  - title: "Taking The Conversation To A New Level: How AI Can Help Businesses Transform Customer Communications"
-    excerpt: "Conversational AI technologies like chatbots, virtual agents and voice assistants (think Alexa and Siri) have come a long way since the 1840s when Ada Lovelace wrote the first machine algorithm. It's remarkable on so many levels,"
-    publishedDateTime: 2022-05-10T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/10/taking-the-conversation-to-a-new-level-how-ai-can-help-businesses-transform-customer-communications/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/10/taking-the-conversation-to-a-new-level-how-ai-can-help-businesses-transform-customer-communications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/10/taking-the-conversation-to-a-new-level-how-ai-can-help-businesses-transform-customer-communications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,4000,x0,y128,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "rJigZA9+uFZkmYHpnSYV+sExG9zzG7uN7ldC0MDRwBGzMBSp42s8bokhgdCxFrYExgs4+NcH8+VlfHybhkFKMIFWqaC663IuDmnrZn/4r7F4JTenT8m2ql3M4LJizJSKWJPy72pe2qVua2by2VHqu2nWWTa6yaLXqT90pd0Jx4Uj3AAbCp0Jjs/V429YUmOnP/O6nX5jh3xg5nXnxIdSrqD/AKAc1UYafiasgYwKZngDTXaUGr+eTx2CCG9tDJurlNLWYiwKNbPQB2wL9qRAj8OWyF292lMXeQX2S/EyYH0u9XhoIWuDLMVag4ynTH2FvAa7cqDV/vFDsRv0MpS6tCzWjYzaFYfls0dhVjLtNPUt2RYsgTcGHXAuLcDtrFVIeJUwH4BHYmyGEsPOOOgnVPrNyiVBXBEXWVhfLacntXkFk+vhyVAvEjujGNkyFbcDoAzzxnQirCpnjs8vYa7iWK9S/Os74bETi6K+myhaEdmb1jloe7m832+WhKQJiY19yYDuJAF0r3FtDmnl9mAUeA==;hzQ5YAuosYYIut2EMZLZdg=="
 ---

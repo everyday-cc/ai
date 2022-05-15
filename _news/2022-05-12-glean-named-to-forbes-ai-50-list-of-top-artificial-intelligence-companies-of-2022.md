@@ -3,25 +3,24 @@ category: news
 title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
 excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
 publishedDateTime: 2022-05-11T21:11:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
 type: article
-quality: 49
-heat: 49
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -62,15 +61,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 27
-  - title: "Eigen Technologies Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "Eigen Technologies (Eigen), the global intelligent document processing (IDP) provider, is proud to announce that the company has been named on the fourth annual Forbes AI 50 list 2022 for North America. Produced in partnership with Sequoia Capital, this ..."
-    publishedDateTime: 2022-05-10T13:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9599327.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
   - title: "6sense Named To Forbes AI 50 List of Companies to Watch in 2022"
     excerpt: "“We’re proud to make the Forbes AI 50 list and to be recognized as an innovative leader,” said Jason Zintak, 6sense CEO. “6sense is the first and only platform to apply the power of AI across the entire buyers’ journey to provide a better ..."
     publishedDateTime: 2022-05-11T13:46:00Z
@@ -98,16 +88,7 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 17
-  - title: "People.ai Recognized as One of Inc. Magazine's Best Places to Work for 2022"
-    excerpt: "People.ai, the premiere Revenue Operations and Intelligence (RO&I) platform, today announced it has been named to Inc. magazine's annual Best Workplaces list. Featured in the May/June 2022 issue, hitting newsstands on May 17,"
-    publishedDateTime: 2022-05-10T13:45:00Z
-    webUrl: "https://www.koin.com/business/press-releases/cision/20220510DE51788/people-ai-recognized-as-one-of-inc-magazines-best-places-to-work-for-2022/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 15
 
-secured: "LUTO2ZBIpC382xzP1FfRccVPbNTjadI2/a/ZYbthGowabz1EK1T/myJBep+/LRX20BPuMTkcS/hrbu6pjCJfjA804nh4yJSkD3LWDBlo0gAzoHPAUgoaIvhj1jieQeJYU45y4QPg+I5rJrkUG+t2A8+z1dhjIYf62KUTEF9HD1lVtkqWPk93h0d6Os7mjW5eYkThr/9VXwtZbrKv8z3X1JRSBwCl/fhkZ67qtvORJQP/oenXt3+PgtHM0JJTKMgTwYt3kS7wTfm4e9/oGKmNBZo96+BKoc99LGrxA7VxSaY4s+F+uE0GJLE/6gvTFw0943oG0wK+14dTZFBSUHfkFi769Z1sweHWMQtXkMs1hPo=;oMi1LS74UVsuWLSSYi0rMA=="
+secured: "2PV4mtJwNEVztaGJbZDIRT4Bthc0xm9aM/7CuF6s+7WEZKsMabizm8jUYOISF+ugrvPigs5fqWprtqHONMv2odSMlhD9yPr3s87bHqwAiXqB/Z/iQVGTXPOKeGiJUHd3kH1mW3V+k7m+MQRarZHQ7E1w3p+uEy5iAOurVy9Xum4vyxiuFVgpLimK+S7kwxdWzcRPLysfMJg0Lbx9ZYeBO1S2VOS6uLKjJwQaFoAQW6nsZ6Arf24yVqa7p8vSCxepcQokNenjwmnnzw5CtpN+vwOYFoJCfvyha1zEwwizNorrKNkjJm9DQLMPhByZ8yC2dowFSvod9rZ0OoSxCSXCthuJhqld7w6Nbf0F+gKjlb4=;QPzUhRe1WI+sTVvFftNcQA=="
 ---
 

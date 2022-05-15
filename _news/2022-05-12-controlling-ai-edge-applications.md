@@ -55,15 +55,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "DeepMind Trains AI Controller for Nuclear Fusion Research Device"
-    excerpt: "Researchers at Google subsidiary DeepMind and the Swiss Plasma Center at EPFL have developed a deep reinforcement learning (RL) AI that creates control algorithms for tokamak devices used in nuclear fusion research."
-    publishedDateTime: 2022-05-10T13:30:00Z
-    webUrl: "https://www.infoq.com/news/2022/05/deepmind-fusion-control/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 34
 
 secured: "SIaB3ubNo0VovX5PJnqDfmml5yXucVdDeUCZgXtrDt0NcUGmsMPIk2e+OW1EHMMbc36G3mEqW9FGFCiz9d0yEu4P5HOyiF5zDAcziYdOcDYrWkMJGpIr6tta7ryCIZU7kRIrjprRMKlFSrswzgKgj3HS+DWeqJtZfjyuYAo+Vsg2eVnimya+obqhjyamZhDhuTWTFMAlXa5KWzKCureqpPY/E0XVaTDCXRMpjvoAQgBbuM4I+QEGDq2DPuB/c9FFJDeZBxzSJtUVkqNRHohIusAwBqfi0pR1ydDh8WxGY+5rc5zUbTj1+BBmTluQuX3f3Kha3x87YItLPE0sYrgPeLMd1etwvxbsgooAW1d0wFk=;Y8IFCGTEE4Qyg/HZnT7Yuw=="
 ---

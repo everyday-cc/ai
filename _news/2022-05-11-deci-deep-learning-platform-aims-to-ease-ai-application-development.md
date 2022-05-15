@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "DeepMind Trains AI Controller for Nuclear Fusion Research Device"
-    excerpt: "Researchers at Google subsidiary DeepMind and the Swiss Plasma Center at EPFL have developed a deep reinforcement learning (RL) AI that creates control algorithms for tokamak devices used in nuclear fusion research."
-    publishedDateTime: 2022-05-10T13:30:00Z
-    webUrl: "https://www.infoq.com/news/2022/05/deepmind-fusion-control/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 34
 
 secured: "jJANOfJEvLqQ8I4L1JIkade3lbLBMf4et9AWkundkLVlmwf7HEdDiG0cWk2VELL9Ee4jbbg0xAHWmHhFHFjRHWnzjmxN7ek4aRgaZgB+tQclPtgvgtSsfhotW5VaTC3uWwI1NhSYU9BEbVTNC6MeK4yVDxj3UVlKZJlZEL6Mgb4eBIQuLw/PRI+e/lVNk18luwBKudYL3T6hOwWX0r2C/MK2cKMM2s584/xEI9SBuB1IzQXrbdf+NJTclX04sXxnY/rH4GyFd+10nWsZbhGlil+MhyvPj2xsAqE5TR+rywjb6MOjyKS37tJM85q10LSi3mooWkHSGfBB+WuM124h5kAnrkvTS6No1aDvGyGEV4qtirZsIkeglIwuEjDOgsb/0SxSsGEFQf7lDrw82guUSQEYYEoAXSrhnFco6IzRr4wMrUfiJAz5JTdXwNFTCSWzUsrMj+FPP/Z/Z5YYtMIg8F+P9hZwYbKbeWPkjKAkw1chxPZmdMbaAgcOkoQAaN2rj6dfgKV/QClUPkX8OKvFsg==;o8/kpb6xCx3zdsQo+NCXBw=="
 ---

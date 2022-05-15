@@ -21,16 +21,16 @@ related:
   - title: "Glean Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Glean, the work assistant with intuition, announces that the company has been named to the Forbes AI 50 awards list. The list recognizes standouts in privately-held North American companies making the most interesting and effective use of artificial intelligence technology."
     publishedDateTime: 2022-05-11T21:11:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_d51964a0-a784-5bfd-98f9-9bb20f5e64e5.html"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-north-america-artificial-intelligence-palo-alto-77801585c4a146b88081c138df7e963a"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 49
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "View original content to download multimedia: https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto"
@@ -69,15 +69,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 27
-  - title: "Eigen Technologies Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "Eigen Technologies (Eigen), the global intelligent document processing (IDP) provider, is proud to announce that the company has been named on the fourth annual Forbes AI 50 list 2022 for North America. Produced in partnership with Sequoia Capital, this ..."
-    publishedDateTime: 2022-05-10T13:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9599327.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
   - title: "Forbes Names Whisper to AI 50 List"
     excerpt: "For the second year in a row, Whisper is being recognized for its revolutionary AI-powered hearing aid, the Whisper Hearing System Forbes' 12-judge panel of experts in artificial intelligence from the fields of academia, technology, and venture capital ..."
     publishedDateTime: 2022-05-12T20:50:00Z
@@ -96,15 +87,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 17
-  - title: "People.ai Recognized as One of Inc. Magazine's Best Places to Work for 2022"
-    excerpt: "People.ai, the premiere Revenue Operations and Intelligence (RO&I) platform, today announced it has been named to Inc. magazine's annual Best Workplaces list. Featured in the May/June 2022 issue, hitting newsstands on May 17,"
-    publishedDateTime: 2022-05-10T13:45:00Z
-    webUrl: "https://www.koin.com/business/press-releases/cision/20220510DE51788/people-ai-recognized-as-one-of-inc-magazines-best-places-to-work-for-2022/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 15
 
 secured: "a9FIrNyuLPBW9vKcNak27SHU2TEHRK2EhiW1Vq26yjXF1bP6Bv8SnI1bOGaPRy2Pf4Kl1KR5X0a3UCuhc5Nf1R4ZLiVWVstHk411Em2TzTqj09M0cKQ12jniT0axQSNtKtFUAjeJiXPOuNbyXi8+uqkDF8LSTde95CfSzL1iXj3VKm/E+N9m+x3TwybPC9IWYYr2FKWh5TucHgZodvhK2tUU8xr3PfJKfuBq+spe16iYhzum8gtAS+x7xb3/lyBYIqtB5QIRGIQWN1uXwLEbZdjZC73kbV9Znm+qqSR5k29QIJkMIc4x0e+iX1Yts9KG3NPz8SU8YG47vl0JnW/ifpyPZIBEaHxOC+2PaVcUfb4=;F4oECKl6pXwFUhPjHa9tpw=="
 ---

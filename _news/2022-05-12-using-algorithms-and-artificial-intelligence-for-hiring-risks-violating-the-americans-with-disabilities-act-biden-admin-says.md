@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "U.S. civil rights enforcers warn employers against biased AI"
-    excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
-    publishedDateTime: 2022-05-12T20:00:00Z
-    webUrl: "https://www.wpxi.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/"
-    ampWebUrl: "https://www.wpxi.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/technology/us-civil-rights/LIBFBKU2WYEIKYFQ2KJLFF4QBI/?outputType=amp"
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 57
-    images:
-      - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/ncV0jlI-iiHgujFeog18zA_A5sI=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3PDHKVR5RTTKV4MIFLKB6DGLQI.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased artificial intelligence"
     excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities."
     publishedDateTime: 2022-05-13T15:13:00Z
@@ -103,6 +87,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "U.S. civil rights enforcers warn employers against biased AI"
+    excerpt: "“We are sounding an alarm regarding the dangers tied to blind reliance on AI and other technologies that we are seeing increasingly used by employers,\" Assistant Attorney General Kristen Clarke of the department’s Civil Rights Division told reporters ..."
+    publishedDateTime: 2022-05-12T19:46:00Z
+    webUrl: "https://www.bradenton.com/news/business/article261387662.html"
+    ampWebUrl: "https://amp.bradenton.com/news/business/article261387662.html"
+    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/business/article261387662.html"
+    type: article
+    provider:
+      name: Bradenton Herald
+      domain: bradenton.com
+    quality: 37
 
 secured: "78/Vw75BMeOgc3H5fpfgo251mwVmKYEb7E9F2amLJAijjP1x2qqG9f5tfMwGGUFxCOgZl90DqdCnTwkwfaIH6pbXW8Afy0ZtaSEMtkr6vkX0GuQRZWR1cKjju7Rn8hmY2AlCDNgrIFnZa8Ek1PJ7cioh7ttJTwYhIX6vCtj2NV2Xo0Mlo/aIh0GEcdwNBMjgyP8+EE2NOPx8FEHjBAgq3tNXsjX8h/RNnga1UHM1pnmFal5g7N1yWvya/zcBJ1f2YWZg7Zcm4U5+pRZ4GHd4cPZ9IoJvVbOqYrevK3gOa8yXRUM4KUz2mDMG0iJII+dJn+68Xviovf4BdQwx9Fw831TBnr418904oTUFFNOMEN1GLLW2urMPqdsD4TAl1FqSHjdsE6xiJaESAb7W421U97ATmzTHZR2WTeh6yP+vr1/M/Iy78u8aul77f3VmRrMqo2A1FHu7XMUYlaT2aOTGaNqDtILTiMif+5+u0TD+mlnX3TXAw6wR2/7I1GmLfbk3nDkZ8jhBVMt+WR0di4QXBQ==;nrXujgqGJJ4OuPQbwTq0+g=="
 ---

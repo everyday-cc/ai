@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2022/05/justice-eeoc-release
 webUrl: "https://www.nextgov.com/emerging-tech/2022/05/justice-eeoc-release-guide-prevent-ai-discrimination/366887/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "AI compounds discrimination against disabled"
+    excerpt: "Organizations are responsible for ensuring their hiring and performance management tools do not discriminate against individuals with disabilities, federal civil rights officials say."
+    publishedDateTime: 2022-05-13T15:41:00Z
+    webUrl: "https://gcn.com/emerging-tech/2022/05/ai-compounds-discrimination-against-disabled/366901/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 37
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2022/05/13/051222_getty_fcw_ai_brain/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech"
+    excerpt: "SAS Hackathon an incubator for innovation and social justice. CARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data scientists and technology enthusia"
+    publishedDateTime: 2022-05-10T17:35:00Z
+    webUrl: "https://www.kget.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
+    type: article
+    provider:
+      name: KGET.com
+      domain: kget.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/1812710/SAS_Milwaukee_County_Courthouse.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "LwfCgCRn0pw0+8V2Rh4WbybrrCec1WPYH8O1Xdy8Ps+huCNFd6QqBRv+0h8Jy8HUlxqNw8EJ9hm6XeBEXFJ2Hn8kYDo18ezLjoWPrQnH2levoX7TNopAO5kxggmW4FvuzVety3EX7Js1+d6MEfAd1ElXJiQLsnwTrgzBQ1BW6i75GWCAeuDLX6NddYfVM4j7Nads5PKeVyAZceCFFJL/QxLr6wze4UP2jwMskbN2Faqqb75OIdsza8sRH3XBT2hLCnaRu2/9mdWBXLssZ43IEQKylVRC1NKk+NlHNB1fiQBaiGYnrscc/4flzh7Vt8m3OlbO3KoUELCEFWOSYEanYW29A0ehXGaCOW8jT8Xnzw0=;wy2dP2WNBv5xt6kv/mKqDQ=="
 ---

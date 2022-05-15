@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220510/Research-offers-insig
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI study looks to improve healthcare of people with a learning disability"
-    excerpt: "are using It aims to use machine learning to better understand the interaction between long-term conditions in people with learning disabilities and their care needs so as to provide effective joined-up care between health and social services. About one ..."
-    publishedDateTime: 2022-05-10T13:54:00Z
-    webUrl: "https://www.learningdisabilitytoday.co.uk/new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability"
-    type: article
-    provider:
-      name: learningdisabilitytoday.co.uk
-      domain: learningdisabilitytoday.co.uk
-    quality: 55
-    images:
-      - url: "https://www.learningdisabilitytoday.co.uk/media/39199/health-technology-primary.jpg"
-        width: 824
-        height: 354
-        isCached: true
   - title: "How Do Patients Feel About AI in Health Care? It Depends"
     excerpt: "A new survey looks at what patients think about AI playing a role in their health care diagnosis and management."
     publishedDateTime: 2022-05-12T19:08:00Z

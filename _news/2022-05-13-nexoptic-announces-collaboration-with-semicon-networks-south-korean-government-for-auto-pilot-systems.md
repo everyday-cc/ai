@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "The Korean Government’s Global Startup Competition is back"
-    excerpt: "Application period is open until May 31st for the K-Startup Grand Challenge startup accelerator program organized by the Korean Government. Startups from"
-    publishedDateTime: 2022-05-11T19:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-korean-governments-global-startup-competition-is-back"
+  - title: "The Korean Government's Global Startup Competition is back"
+    excerpt: "The K-Startup Grand Challenge (KSGC ... in fields such as Artificial Intelligence (AI), financial technology (fintech), logistics, biotechnology, robotics, game development, Internet of Things (IoT) and e-commerce, are applying to compete."
+    publishedDateTime: 2022-05-11T19:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27149199/the-korean-governments-global-startup-competition-is-back"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27149199"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27149199"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6f1e17aee11727a0b88b5e8f92ca7a250a88c3bd-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "weGE64FCRbIh1MlTQKqhxO1l+e4TxDgp1ojnJGoWCekIzATa1RLsFdHdisKCCPKer6OU+n/UeOXO1w54/KdSQCipZx2lLXseG/XcLg9g/4mp5KY++GAtn7NGPfFF2VyfC2aanvWZ8N4aZmO6k8PJQkNpeJeMUYWdCU5iAETTzCriO0LyZrnmWG/bKty2cvT9xJunwJhlMu8JmmU+tE0WEQVJLxynCHBHUVe7N0hRLkGMZB4hPOf48ZnQcvLtQTuBYMYUlm9PUAX7ioK8Ikc0mZSyPsWnbMDhEzyH6I1I1EARRfVAL5RlTjp8YxvG/G0zuzXRo6N7+FlsTJRkoUX1aLnLP00lM7+O/BewEkqoEDM=;eFad8spQ1tUxZnohXRmASw=="
 ---

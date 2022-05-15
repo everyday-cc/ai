@@ -9,8 +9,8 @@ ampWebUrl: "https://beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: CTV News
@@ -28,22 +28,56 @@ images:
     isCached: true
 
 related:
-  - title: "How a grocery startup in Georgia is using AI and edge computing for \"frictionless\" shopping"
-    excerpt: "The couple who started Nourish & Bloom are banking on a \"warm, pantry feeling\" -- combined with contactless checkout and delivery robots -- to help build their brand."
-    publishedDateTime: 2022-05-10T14:39:00Z
-    webUrl: "https://www.zdnet.com/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/"
+  - title: "Auditing Of AI Is Tricky, Especially When It Comes To Assessing AI Ethics Compliance, And Vexing Too For Auditing Those Autonomous Self-Driving Cars"
+    excerpt: "AI auditing is still a nascent capability and often overlooks AI Ethics compliance. This will inexorably change and be increasingly vital, including even in the case of AI-based self-driving cars."
+    publishedDateTime: 2022-05-12T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/12/auditing-of-ai-is-tricky-especially-when-it-comes-to-assessing-ai-ethics-compliance-and-vexing-too-for-auditing-those-autonomous-self-driving-cars/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://www.zdnet.com/a/img/resize/790605947c9350f0b7314063f5f5f416a9aef396/2022/05/10/4a74ac8a-0c2e-4034-8a78-798ecbdf150b/nourish.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6265c81c35d2f416ec30ff04/0x0.jpg?format=jpg&crop=2849,1725,x865,y0,safe&width=1200"
         width: 1200
-        height: 400
+        height: 727
         isCached: true
+  - title: "China is building a 590-foot dam in only 2 years thanks to AI and 3D printing"
+    excerpt: "China will reportedly build a massive hydropower dam in the space of only two years, thanks to AI, construction robots, and 3D printing technology."
+    publishedDateTime: 2022-05-10T21:01:00Z
+    webUrl: "https://interestingengineering.com/china-590-foot-dam-ai-3d-printing"
+    ampWebUrl: "https://amp.interestingengineering.com/china-590-foot-dam-ai-3d-printing"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/china-590-foot-dam-ai-3d-printing"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2pE74w9/sizes/istock-153699394_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
+  - title: "AI vs. AI: Forecasting the Ethical Dilemma Circling Law, Business and Technology"
+    excerpt: "This article provides a discussion of the legal and ethical questions involved when private companies defend themselves and then retaliate as a result of a cyberattack—a so-called counterpunch known as the “hack-back."
+    publishedDateTime: 2022-05-13T14:00:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2022/05/13/ai-vs-ai-forecasting-the-ethical-dilemma-circling-law-business-and-technology/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 29
+  - title: "How AI is used in filmmaking"
+    excerpt: "However, compared to today’s sophisticated tech, Lucas’ AI system was pretty basic. Marvel villain Thanos’ origin story is a good case in point. The tech team put tracking dots on Josh Brolin’s face to capture his expressions."
+    publishedDateTime: 2022-05-12T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-ai-is-used-in-filmmaking/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "Cr2kqrEwfuqluu0pz3qI9NP9Dz82oViFM0iPn4zCToHd3vuiywA9YZb+DuXk02G7Hszjn9dDvsNzmrYPhMesyYWYTjcjGihal+Z3URHKtCKqbn/7hwPmP+ZGcgT7Qwx0FukHeALh6pLxNA6zQJTTY7Vg/KhrudiVtiBrYWAFrMTd3KNtQxlICZxAfKhbbLZvplTALj8GTLFwdY4Qo6uszdNLXqfZ/0njM098Wr8I7v46iN3B2yIii1amX8fw1t8wLPfR9sL5Z5gLXLCYMkiRBhyFgHtBaM8fWDJpdg3FGNgzEq7eg4O9fAnu36q+6kzefFtxY9x4ILRHiOIvImkWd/bfvglKDTmB6xh6dDMljjQ=;XAmZAoxga7rbFHzF7x8NEw=="
 ---

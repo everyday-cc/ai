@@ -35,6 +35,24 @@ related:
         width: 1600
         height: 891
         isCached: true
+  - title: "Intel debuts new chips for AI workloads, data center acceleration and laptops"
+    excerpt: "Intel Corp. today expanded its product portfolio with several new chips, including an artificial intelligence processor that it promises will provide twice the performance of Nvidia Corp.’s flagship A100 graphics card."
+    publishedDateTime: 2022-05-10T17:57:00Z
+    webUrl: "https://siliconangle.com/2022/05/10/intel-debuts-new-chips-ai-workloads-data-center-acceleration-laptops/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+  - title: "VSBLTY NAMED INTEL® CHANNEL PARTNER OF THE YEAR AT INTEL VISION 2022"
+    excerpt: "VSBLTY technology provides enhanced customer engagement and audience measurement using machine learning and computer vision. Its industry leading VisionCaptor™ and DataCaptor™ software combine motion graphics and interactive brand messaging with ..."
+    publishedDateTime: 2022-05-12T19:56:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/05/12/vsblty-named-intel-xae-channel-partner-of-the-year-at-intel-vision-2022"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 4
 
 secured: "TDixV+adGNoGIBpcVt+bYSbwERwsAdgNeSDPwv2RvO7AbnXEouoX8sQegZEtZ8kkzn6kHeook5PFHgKL3qNSzP7d2Jo47LHkRFnL0OvdHd8pRQoM42+R7oMqeFWkq2oF4a642lAzNyhhL9D7vcJloGXqAqJFcEetvaoHEJ3P8+zlYJph5vLGPYSR90M35wnND6qpZljDJKd0sMjqBOo4B5ImQwTUSiKZqytqBY7x0KGSjnd/w1PINLkAoZsflHoH0Cax83lZ922BXJPZ9RkE8WY3soCNCUn0hSMazfxdPVWHsO4IK75kQE3QmiOKayq39x6Z4MHc41nuCXrXLSpwDeZ5EJ+be/dqPaGe0RKOreg=;0T1HDTmVRgNvxnhEanwTxg=="
 ---

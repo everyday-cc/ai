@@ -43,20 +43,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Shady AI company agrees to limit sales of facial recognition tech"
-    excerpt: "Clearview AI, the controversial facial recognition company, was just crippled by a recent legal settlement. The settlement means that Clearview AI will end sales of its biometric data to private companies and individuals in the United States."
-    publishedDateTime: 2022-05-10T14:17:00Z
-    webUrl: "https://knowtechie.com/shady-ai-company-agrees-to-limit-sales-of-facial-recognition-tech/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 73
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2020/06/facial-recognition-racial-bias-amazon-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Clearview AI clears the final hurdle in its quest to undermine US democracy"
     excerpt: "Clearview AI and the ACLU recently reached a settlement over the company's use of facial recognition. And both are declaring victory."
     publishedDateTime: 2022-05-12T20:47:00Z

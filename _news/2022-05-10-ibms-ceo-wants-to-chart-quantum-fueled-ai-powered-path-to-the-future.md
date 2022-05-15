@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1024
     height: 575
     isCached: true
-
-related:
-  - title: "IBM CEO says generalized AI ‘still a long time away,’ wants focus on near-term value"
-    excerpt: "Eleven years after IBM Watson wowed the tech world by beating two of Jeopardy’s biggest champions, the days of tackling “moonshot” generalized AI goals outside the research lab are over, IBM chairman and CEO Arvind Krishna told reporters yesterday,"
-    publishedDateTime: 2022-05-10T13:09:00Z
-    webUrl: "https://venturebeat.com/2022/05/10/ibm-ceo-says-generalized-ai-still-a-long-time-away-wants-focus-on-near-term-value/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
 
 secured: "nUDhjVoFLOgckacfsRWJcK1Ab0zltF9i9319K9MnyxNL3/knVTVjx+abBaHwNItI0TZmg2AfWjyixFblKjGmfDJjgiFRtGpW9jm57p4BoDSqcMmUPE5H8zv6DEkq6mrZbvIijT0oshdMaEnUx/4Kb7tLEbwOl+MW9TgFDhOuzbw8ekllJ7rL5+2k68l/LDRP4mzJhNUig9xzG/DJ9/CnU4t6BpyYn7P/GJ0CTu52QtbMx6yaV+PBTgG4fs4QjVbtkZHhv5kIDMEeF/zlIScKgb4veqBXr9X65zLWoTOLkCUGAMs17O/2+rtRx9pUbzAZyP6U6crTIeMwsGfcJQjc/gLipwiUz+Wd1LM+1iQXsdYVxdHkDCx/uBdV0plMrQqikRhuIh7hhXL7sXKqhZr3vjGGiRh2jAPByqE9L5mEBPwGs7v0I871tXq4fFZsUzd9zhHP+IQMEc1l56b8YCOliZEoqOuNzsJ9ygz8o+xihDrB0sRtLNhlgg/ACWqlXno+nkpmtowUlz2pxt6qKWhtCA==;IxTYUD20oZWCD+gXAMJMiQ=="
 ---

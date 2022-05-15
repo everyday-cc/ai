@@ -33,15 +33,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Exploring The Galaxy Of Fintech Services Within The Metaverse"
-    excerpt: "The future of fintech within the metaverse looks promising, with applications being developed to facilitate virtual transactions, impart financial education and enhance the user experience of customers and employees."
-    publishedDateTime: 2022-05-10T13:33:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/05/10/exploring-the-galaxy-of-fintech-services-within-the-metaverse/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
 secured: "XT10CltHRYb7xgYbIIUsLM4ksj1/MPVf1jpf8HM7juGfEUXn+FWhOkxTDMB3WH9MDq72eR+22g6caFpuq5wiFATmp/QCQNks6wMtDDlu+n2iT2khDfU3Ibl1D1EGd7pL6egwCTmZtDQRBWVfISkVBMY0T4znSr9s2H9Nplr4H7jOshdR2YBa90CegpRWTGXyfXdMo6i7j9fEmUWnK11PXejjXnW+vFF4OdkkAvv3UBya6cEbEzYzExSqjTCVVvGXC3Oqfz5khwWSPCaFsnC+M1RKHDHyzwmCiAQrzZvenC5Qzsiu/YHauluJIc4NsM0YiBMe77NiHqYdo7R5WB4X8iFU+1XBORl6pfu6PyaQ/nk=;OA8LjW4nK3INJus8AEnyqw=="
 ---

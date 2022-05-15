@@ -148,15 +148,6 @@ related:
       name: Westfaironline.com
       domain: westfaironline.com
     quality: 19
-  - title: "HERE Collaborates with AWS on Supply Chain Solutions to Improve End-to-End Visibility and Fleet Efficiency"
-    excerpt: "HERE Technologies, the world’s leading location data and technology platform, today announced it has entered a five-year strategic collaboration agreement with Amazon Web Services (AWS) to help organizations improve their supply chain visibility,"
-    publishedDateTime: 2022-05-10T14:01:00Z
-    webUrl: "https://www.wiproud.com/business/press-releases/globenewswire/1000632239/here-collaborates-with-aws-on-supply-chain-solutions-to-improve-end-to-end-visibility-and-fleet-efficiency/"
-    type: article
-    provider:
-      name: WLAX
-      domain: wiproud.com
-    quality: 16
 
 secured: "Y40ajv2xbx/me/vMBYoTbT0X70F2Dy1k3T/0ID5epimGKF5MwUyepv7Mqx11kaYNVAwNyKXQ8B4I2oDK77sEyQqv3CkyIGIjI2HMAZwspc4tku3/RzKuSZUJdpubk5dm4KeFr8cVQPvMBUoOdq+kw7gzaFW10kt44jt8Ck1p6tHzOCE132jiXV8KDl1eRbfELMzIvtL5PW8by2MBPWhdeladxbblnoJkrmGsyOPHeSDHZQ3ItdD1OoKKfWCco53n+QfiuD4XHMLyEALWACKBKo4nC/jbXad8GNBo92viF+jJ+/Mk3VHyyGnO9oPlelPSYVBmIUzynoKjMoK5Nyc1zmXi//1jpaPzuSdjEGiP+wE=;1V4U6WqYsD+OVTTIaQt4yg=="
 ---

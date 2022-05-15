@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extrac
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Taking The Conversation To A New Level: How AI Can Help Businesses Transform Customer Communications"
-    excerpt: "Conversational AI technologies like chatbots, virtual agents and voice assistants (think Alexa and Siri) have come a long way since the 1840s when Ada Lovelace wrote the first machine algorithm. It's remarkable on so many levels,"
-    publishedDateTime: 2022-05-10T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/10/taking-the-conversation-to-a-new-level-how-ai-can-help-businesses-transform-customer-communications/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/10/taking-the-conversation-to-a-new-level-how-ai-can-help-businesses-transform-customer-communications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/10/taking-the-conversation-to-a-new-level-how-ai-can-help-businesses-transform-customer-communications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,4000,x0,y128,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Customer service automation startup Lang lands $15M"
     excerpt: "He would be — he’s the co-founder of Lang.ai, a startup developing a platform that automatically tags customer conversations to resolve service issues ostensibly more quickly. By applying ..."
     publishedDateTime: 2022-05-12T12:18:00Z

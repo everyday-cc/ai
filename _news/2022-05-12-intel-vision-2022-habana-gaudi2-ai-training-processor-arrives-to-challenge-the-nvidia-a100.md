@@ -35,6 +35,48 @@ related:
         width: 709
         height: 428
         isCached: true
+  - title: "Intel Launches Deep Learning Processors To Rival Nvidia AI Chips"
+    excerpt: "During its Vision 2022 event, Intel Tuesday launched its second-generation Habana AI deep learning processors that deliver high performance and high efficiency. The new chips include the Habana Gaudi2 and Habana Greco and use 7-nanometer technology."
+    publishedDateTime: 2022-05-10T15:41:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-launches-deep-learning-processors-to-rival-nvidia-ai-chips"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Intel launches new AI chips, challenging Nvidia's market"
+    excerpt: "Intel Corp on Tuesday launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp ."
+    publishedDateTime: 2022-05-10T18:32:00Z
+    webUrl: "https://www.reuters.com/technology/intel-launches-new-ai-chips-challenging-nvidias-market-2022-05-10/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/AACwGwpnSd5iGcEK9g46idFVWww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SOBZSM5ZJNMQVNYYJKHNWXFA4Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Intel launches new AI chips"
+    excerpt: "Intel has launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia. Gaudi2 is the second generation processor by Habana Labs,"
+    publishedDateTime: 2022-05-10T22:12:00Z
+    webUrl: "https://www.itnews.com.au/news/intel-launches-new-ai-chips-579811"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/intel.png"
+        width: 1600
+        height: 1215
+        isCached: true
   - title: "Intel Vision 2022: AI Gaudi2 Chip, Accenture Collaboration And More Products Unveiled"
     excerpt: "PM EDT Intel Corp. on Tuesday announced a slew of products in its silicon, software and services portfolio during its first Vision event in Dallas, Texas. The company launched its AI Gaudi2 chip, 4th generation Xeon Scalable processors,"
     publishedDateTime: 2022-05-10T23:11:00Z
@@ -77,6 +119,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Intel Fires Up Rivalry With Nvidia, TSMC With AI Chip Launch"
+    excerpt: "Intel Corporation INTC launched a new chip called Gaudi2, which focused on artificial intelligence computing. Intel also launched a new chip, Greco, for inferencing work: taking an AI algorithm and making a prediction or identifying an object."
+    publishedDateTime: 2022-05-11T12:29:00Z
+    webUrl: "https://www.benzinga.com/news/22/05/27128444/intel-fires-up-rivalry-with-nvidia-tsmc-with-ai-chip-launch"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
 
 secured: "3pVXlZn4GiTI0dGEPzLnFfa7GTA5/61L0ISWsfF8G/bhnXSoSa6r3eBY3oRsnLIJqew2WrBKXdervewIsEsKu/dJU2qCc4PIgDdcRKRiI053PbAuKGh5m+zR+0YA8wm6F0YHyEElQM6fF3WQO0RwlPTDYlve669SYZhzFOl1/pAFrij1c5cV/GOJ7GYefDBj1dZ94FVToNuulu6E896tJP5tXzvhVZ0S6le8jEres+JK1HPMYZ6zSnVjbet1h9rTuMgzrQb3TnbQ24Mg5uD8+8xROE1lLTUKlrLRKOvuhaSxR+Bi3yTHSEDe9nIYac89VleeaQaK4eBKUCS4ArxHx9ukXrHO0dVWWydG4TcHPz3KXxv9gpC9GfzX6lbT01oIVOERgaUlZU+6I1wKG/UoY2XfCc6bC0LM2ZCI7zdr79foTHRu/DFmkpRP8xYQfkL0b/mkvV0mzocSeBp9iaq4Pqq8uqHMnwUCG9Y0qRRv7ZVkvOk62MNy7EXk2ugDx1KHuDxd9vJs3yYcZk2QgUv87g==;IVFBXMldhovkN9xgG8gXSQ=="
 ---

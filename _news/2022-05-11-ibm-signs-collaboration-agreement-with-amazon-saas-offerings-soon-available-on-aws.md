@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreemen
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1"
 type: article
 quality: 68
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -147,15 +147,6 @@ related:
       name: Westfaironline.com
       domain: westfaironline.com
     quality: 19
-  - title: "HERE Collaborates with AWS on Supply Chain Solutions to Improve End-to-End Visibility and Fleet Efficiency"
-    excerpt: "HERE Technologies, the world’s leading location data and technology platform, today announced it has entered a five-year strategic collaboration agreement with Amazon Web Services (AWS) to help organizations improve their supply chain visibility,"
-    publishedDateTime: 2022-05-10T14:01:00Z
-    webUrl: "https://www.wiproud.com/business/press-releases/globenewswire/1000632239/here-collaborates-with-aws-on-supply-chain-solutions-to-improve-end-to-end-visibility-and-fleet-efficiency/"
-    type: article
-    provider:
-      name: WLAX
-      domain: wiproud.com
-    quality: 16
 
 secured: "Eoa5ZhOy3I5KlvvWHc25xM4zEC3oMByo5BXFefs9abZpP21GM1b5SdKPdbLTasx7+GQB+B04rW2IkyTGOZOdwItSBZKsU/cQCtNdqUTYUOtuAkAa7RV5f5spCWrzV23IvcKzkfoitw4FfYRxFZBJMaj8QKmBWCdVEMsZkP8mhvOvN7IMTfSRC//qUPJflyYJTeHJxy4I9D5fvicakVGk1r1RlemnUusC45lQPOVsupUuvsgWYwOhT76PPre3v+miNBf2zMhGA/XkBhQkOm/OhyhxRhXV3iwpMshp8w5LsNfa5HJRGFFZN8h7fFeFm24H+x8UMfRGYP4wCn9Fd2lcf9k3iC1T5nDerTl3gbyKFjwCGcYXAUwIYWpEY4tQBe66IVzXqC4uAAYqrNdcw4fCZC/W5RLhR8cadYPsoLHjMx18Su4VaP10STZGo9StaEjwS0N1VidlV+AlLT+bUPZLuV4q6QfQEtzm1QneAou2h8eMsSx74mTSc/akhI5PxYEtSVyF8DeYH+pY2kxxaNzGwQ==;RtaRjHOD2mMc1Iod/SP6Mw=="
 ---
