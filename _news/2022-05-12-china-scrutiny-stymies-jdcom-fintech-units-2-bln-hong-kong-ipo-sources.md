@@ -2,21 +2,31 @@
 category: news
 title: "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources"
 excerpt: "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,"
-publishedDateTime: 2022-05-12T09:09:00Z
-originalUrl: "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources-0"
-webUrl: "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources-0"
+publishedDateTime: 2022-05-12T07:52:00Z
+originalUrl: "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/"
+webUrl: "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/"
 type: article
-quality: 32
-heat: 32
-published: false
+quality: 52
+heat: 72
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/hLcxPDYq3sDZ9zFaofocCH2PX1M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34I2Z4M7X5NR5JVIWPJ6ZQKHU4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "China Scrutiny Stymies JD.Com Fintech Unit's $2 Billion Hong Kong IPO - Sources"
@@ -43,6 +53,6 @@ related:
       domain: channelnewsasia.com
     quality: 0
 
-secured: "78PTWRaJCrRRImV19kN78TO3bHgPZbLerxeXsjQ3EZ7sVRXI2XkB5gm4cj97X0WfLFgRAhEIL91gE19CZUmItz9dmWpDYUg/8oHnFriLyW7BgMgmZmXTv5e8YIEQZIfZLaEcIfq/4+rWUyGLQRYsXJ/Vi7gevS10/O/mwOCDUK+634Bn+HnNA9PfGPu68SPUcHJACv2mWVh9l/ZsN7iHIjZn0fO9vh0rsLuZfjQm4uZY3uZu1dd6OUcYGkrPkp8Rtljur8uRcAFdqRNLSPh5WMOgcqmRQfUa1H0U5jynrFqUSs0UlPvRDcIe7hKmd9sn1wmnHK3u2IX3LIpsi5XW0ielqVTCv93FubDJZ8Jv7tGVJNG5obzij2XixmEafP4GqsKXSd+E2t5orqjivOjLEo2N089RDCChdUWfJfrtIsAC0InhvOOo8cptx6OIryPBr009BXrCXySgANDlTdx4+Xjm464vgUcoSmB8MNumPPWvbb+1RsDJSgr5XjcwRwzlkUD1oZdKPTTg/b844vx1Qg==;mdy3nSidUrf1LcGezMNMCg=="
+secured: "c9m6X6GumVUR71HwCJ9HX26DD13kXMOGCUVvnqyg9JLVNpMS0BISDuEllqmc+GDphAfwmIDsM4wbGkCo9p7XUBfCPsRLAfOMQ0zh/YSndfx4gWM49F9LFhQ7DlKmlpTf7pbs2dFz93b8nqlL7INQtv3senHyddLS+sAToHjKDzaDFfB2MwgxyhxuNwYdmDD8Hih+GB/KnLtfkXZDz8rKhOZNI+zLm/ASQWBlkhfkZAviKDWDPfr/vQAAB29hXCN6RoyqeKTerYpW4b6ARlYjcvGXZXBjvrM4ZGIzBpUSyFm7Jfi5PU2DZnDeKbE7FdepzfkUjxM/B5BXphWBq/HZxcFEAl9/WMDyfsrCdFGxun0=;8QjYRRWTUdyF5YodpLPSQg=="
 ---
 

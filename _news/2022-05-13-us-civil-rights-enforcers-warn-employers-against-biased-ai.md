@@ -1,21 +1,27 @@
 ---
 category: news
 title: "U.S. civil rights enforcers warn employers against biased AI"
-excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities,"
-publishedDateTime: 2022-05-12T19:59:00Z
-originalUrl: "https://www.newsobserver.com/news/business/article261387662.html"
-webUrl: "https://www.newsobserver.com/news/business/article261387662.html"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used hiring tools could violate civil rights laws."
+publishedDateTime: 2022-05-12T21:24:00Z
+originalUrl: "https://apnews.com/article/technology-discrimination-artificial-intelligence-e1bcf4a2e7f1b671cbf3a44bc99b3656"
+webUrl: "https://apnews.com/article/technology-discrimination-artificial-intelligence-e1bcf4a2e7f1b671cbf3a44bc99b3656"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://storage.googleapis.com/afs-prod/media/44b8c1f14b7c4f699caf934933d88e6b/3000.jpeg"
+    width: 3000
+    height: 2000
+    isCached: true
 
 related:
   - title: "U.S. Civil Rights Enforcers Warn Employers About Using Biased AI"
@@ -95,6 +101,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "+wxp5xz+nwb+d//MKKiqcegzWd6HFTr5T1rCzuv5lzQk2kR/yUIgVYvyWg3IStkPLaPe77KYmwPS5Ow+OltmzQYrQH0p6dYp3mLEAQaexnarGtaKJ61xuZWoAAXCfgyx2Np7sUZGwZslEBAt/ztlZoo1wAjqI1HPVEkbzFp0S6KddkD+pzolDG16INGnjBFqbm16Fz6cc9EwdGmfWMUkuJeGFqzkG6QNBCsJWPdFeuCc3esu8JTYqwZUN1gu9fQm500BxACeF9AenCmh2LH9ay6pydObXNqZGPSoe7z/EhLbUxdEFuAtG2Idsw61TR+UcOjysy7p2JgqZryLUAjJ17/Ia7HloQlC6EpoT60aKAnAm3fMP87Wj6ufbXUv+F/eMCx9rA2Ux28Sb9NHXSbA4uSdKFiuaqO6cQO79Rg3qZ6F6OI2mYybL8ENQFhVXfXnwUfDQkPDv2z+IKLEUzGDHSon/9hFnF5052OqVGimxlnN8vlgg4O+YiKkuBL40ucChtPoin2XxWQYtgGSONOYBw==;CYl8sksAu7jZ/aUSRTm2Lg=="
+secured: "SKU1c16ohumfE+t0IWjsWpR03KCMUOqmObQKqk0C4jRCVvcr5KRuxVxHvSgZnMx3Rj+tQqmqPONl+9TimTz4cdhGc5nhkAstZmy+fmkKzZ3L3aijOWsntSI77xNchtoXKe5+qCCf5BczjoJRzV5Q7uGBPLHm6vBvecVvV7Ul+ebPqxzBWvSWIuShMt/bH04uWcjCVVRT1USH+9Gvpvm3FEb+fYkbL80DgDQEdlZCZNjUTWCXkqp8BeENw5RZQYc04zH2siz2ICm4b3om8v0wTh9Fvr5NL2DDrCGcawDPlzo72g67uXSwH7VJ7RaGyfcY0fABI8cKFVgqBzdYWb3Hbph6Funw8z3Yp8pvHZAixgE=;IIi3lhOPZ/tdyJ0HWMNlqg=="
 ---
 

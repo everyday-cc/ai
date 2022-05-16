@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/natural-language-processing-mark
 webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-market-is-booming-worldwide-genpact-limited-sap-se-salesforce-com-inc"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Salesforce acquires Slack-bot maker Troops.ai"
-    excerpt: "Salesforce has announced the acquisition of Troops.ai, a revenue and communications platform that uses Slack and Microsoft Teams bots to surface CRM data from platforms such as Sa"
-    publishedDateTime: 2022-05-11T07:22:00Z
-    webUrl: "https://www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/05/slack-2-100888266-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 635
-        isCached: true
 
 secured: "1EqLEB2FaMvwBMbT0m28upbvq+tkPcX9I+BM1MsG4TsWfohYeV/CkbulznDHQJsuFOalOTcmocealEJ1cQe0w9EzfbUkTQouooBPyYPVOQkphmRXlmJI9VOpRLLIvpZd9kEYlmL3dKtzGxcZt9hlAvgJwWSHYRha+jCtRxYsEBJxKxL+PbHnh0khHDGx9R3w11bL8I+j3uDNJjZ6M98PTxMhht68+B5hPlRKWFJtx5O0P7hEcekm2welgTPK+rG3dr4VHAShSPq2fRpQGw9luHFodev16hBRwbP9HFqm9/p8JehNDOeBLBfnOCj19NfWQJTHlgBNvw+Wqd26oy87zNqAbyVSeFYEfx8dGFDypka1qcnNP14wEqfXRRuSuz5cUenVSyyzkufQf/eaQyEgpY/ksEp25uASBiFkwes3FiTbR9qrKsYmE24/qcYNTHB4kI5xgAFaUWVTI/6ZHb6UhTbGuZ1AcG2dZMNJUQEr5iRdiSc1jQfmBpxwplfcV2niaSaHTqZIgYI2wulQrs3QpA==;WOHoSeK1TQeDsg1gLQLnGA=="
 ---

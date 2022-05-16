@@ -21,13 +21,18 @@ topics:
 related:
   - title: "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources"
     excerpt: "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,"
-    publishedDateTime: 2022-05-12T09:09:00Z
-    webUrl: "https://www.nasdaq.com/articles/china-scrutiny-stymies-jd.com-fintech-units-%242-bln-hong-kong-ipo-sources-0"
+    publishedDateTime: 2022-05-12T07:52:00Z
+    webUrl: "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 32
+      name: Reuters
+      domain: reuters.com
+    quality: 52
+    images:
+      - url: "https://www.reuters.com/resizer/hLcxPDYq3sDZ9zFaofocCH2PX1M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34I2Z4M7X5NR5JVIWPJ6ZQKHU4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "China Scrutiny Stymies JD.Com Fintech Unit's $2 Billion Hong Kong IPO - Sources"
     excerpt: "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,"
     publishedDateTime: 2022-05-12T09:40:00Z

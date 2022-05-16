@@ -1,33 +1,36 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
-publishedDateTime: 2022-05-12T21:04:00Z
-originalUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
+publishedDateTime: 2022-05-12T21:12:00Z
+originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
-quality: 29
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: New Hampshire Public Radio
+  domain: nhpr.org
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 838
-    height: 628
+  - url: "https://npr.brightspotcdn.com/dims4/default/2e07f06/2147483647/strip/true/crop/640x360+0+33/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fnhpr%2Ffiles%2F201404%2Felection_day_by_nhpr.jpg"
+    width: 430
+    height: 242
     isCached: true
 
 related:
   - title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
-    publishedDateTime: 2022-05-12T20:18:00Z
-    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
+    publishedDateTime: 2022-05-13T01:18:00Z
+    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
     ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     type: article
@@ -101,6 +104,6 @@ related:
         height: 250
         isCached: true
 
-secured: "4q5801ZjNu/obe4f9XmyWvTe0dKjOsa0QnXuIw80BBHetIrPhfidOrfzy/rcxcBLSECbURmx+ONx2sqrcejTTnLRdVoNU7GpBgZNoxX8cA40uOUtbyxRAqMrI0BR9xKGx6em64KBQKmEihWvnhqfEQi31YX1CnSeIdl5aCLvfyVdEeH3HJUCFmC87cG0hrNFbaH2gRKMfzXQR86w1sbsgl2NIFb4S/tnBjioVAzkSOc80XwmhCSFRXTsVa89oPdKBinIdgMkZUUj3mpx9ZXUrAQszmCFsd+MMGeN45emW0IOXTzit4YAjT7hEo1YTNQd4kK2sZYPijoOojNsjrzjmW/SljiALOBj2ZGs8hFvkt4o0qsekZaSGfn+MQ9jwGzQt7iVy9EuHzGNdESeoPjRmM3lLwW+RkIR9Ld3YUE4r/Dqi/LlgCiIOp2FIpm+QXyM2wQ+KzfmabesjHjLGKfWIewo+tkwCkOVWgpFceVQtTFNw1TISUqA4eGVX2gGl7fhy6LanVQfbocuroOMlmBq+A==;uBTuaYaKftT1gYDgcIubtw=="
+secured: "mSdLY2k5dkQ1kV4s74CfvDUdqD8vOV4oJZ9noSmYVWNabr7sOogEhrxEQf5KUki2Kzs6xIHYMY57w8wqaUl1hTgORDs2bDstkVhv6wI8nuYD0kjxv7A0Wm1kI6fPawG8az0CAXMeS8YPbCzDnTsg858II5usafQoCGrd7q/6unkZ9/b74gf4VPg8tLOvda56GSVDgfkNCBoAFeNhh4nDXJ6aOpnkdoKHF2QzomcVRzQQoAgK4yrMEZJ+ZScDql33/uzYMamDCgyw3o/E8iaJA6WBM93AlsMfIOyG+ld+vmDk8a3I8JCagbwl1tH7re/M4y5P52OGRjd4VF2t5db6xlyEWFxzPYTDh5RMevY5Gd0=;HkTorJL04q7n+ZRuQzYpbQ=="
 ---
 

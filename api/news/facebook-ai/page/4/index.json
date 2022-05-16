@@ -2,6 +2,60 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-29-ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities.md",
+      "title": "AI Weekly: AI supercomputers and facial recognition to verify taxpayers’ identities",
+      "excerpt": "Meta (formerly Facebook) announced an AI supercomputer. Also, more revelations about the IRS' use of facial recognition have come to light.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
+      "originalUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
+      "publishedDateTime": "2022-01-28T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-meta-platforms-fb-to-launch-worlds-fastest-ai-computer.md",
       "title": "Meta Platforms (FB) to Launch World's Fastest AI Computer",
       "excerpt": "Meta Platform's (FB) launches new artificial intelligence supercomputer, which will help lay the groundwork for building Metaverse.",
@@ -1422,58 +1476,6 @@
         "AI",
         "Google AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-09-7-ways-the-technology-sector-could-support-global-society-in-2022.md",
-      "title": "7 ways the technology sector could support global society in 2022",
-      "excerpt": "Learn more Some of the excesses of 2021 have shown us how digital technologies can undermine what philosophers call future “human flourishing.” A lot has been written on this topic in the first few days of the new year,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1148773616.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/amp/",
-      "publishedDateTime": "2022-01-08T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

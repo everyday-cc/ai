@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-eno
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

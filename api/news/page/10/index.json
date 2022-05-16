@@ -2,6 +2,93 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-04-vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology.md",
+      "title": "VW Group To Rely On Qualcomm Chips For Its Self-Driving Technology",
+      "excerpt": "All VW Group brands will use this chip starting in 2026 in a deal that runs through to ... Instead, it is also working alongside Argo AI and has already partnered with the company to develop an all-autonomous version of the electric ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
+      "originalUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/05/VW-ID.-Buzz-2a-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
+      "publishedDateTime": "2022-05-04T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-stop-worrying-about-ai-bias-all-the-time-says-deloittes-ai-ethics-lead.md",
+      "title": "Stop worrying about AI bias all the time, says Deloitte’s AI ethics lead",
+      "excerpt": "AI that discriminates against people is a big problem, but Beena Ammanath, executive director of the Global Deloitte AI Institute and head of Trustworthy AI and Ethical Tech, says AI ethics is about a lot more than bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
+      "originalUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/beena-ammanath-executive-director-of-the-global-deloitte-ai-institute-and-head-of-trustworthy-ai-and-ethical-tech.png?id=29755735&width=1500&coordinates=346%2C0%2C334%2C0&height=2000",
+          "width": 1500,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
+      "publishedDateTime": "2022-05-04T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system.md",
       "title": "Worldline and Algoan to develop open-banking-based credit assessment system",
       "excerpt": "WLN], a global leader in payment services, and Algoan, a leading credit scoring provider, today announced a collaboration agreement to jointly develop a next-level credit assessment solution to help lenders and services providers make better credit decisions.",
@@ -1044,108 +1131,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-galileo-emerges-from-stealth-to-streamline-ai-model-development.md",
-      "title": "Galileo emerges from stealth to streamline AI model development",
-      "excerpt": "As the use of AI becomes more common throughout the enterprise, the demand for products that make it easier to inspect, discover and fix critical AI errors is increasing. After all, AI is costly ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/",
-      "originalUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/05/open-source-data-science.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/amp/",
-      "publishedDateTime": "2022-05-03T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-will-not-replace-assistants.md",
-      "title": "AI Will Not Replace Assistants",
-      "excerpt": "I am not an Artificial Intelligence expert. I am not even a software engineer, for that matter. But I do know one thing: Assistants are going be to among the last jobs in the office to be replaced by technology. This is much more than a hot take.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/",
-      "originalUrl": "https://www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626fee9a3da25fb982b8e8a8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/amp/",
-      "publishedDateTime": "2022-05-03T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

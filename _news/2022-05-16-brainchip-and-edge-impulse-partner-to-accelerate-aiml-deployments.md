@@ -1,18 +1,18 @@
 ---
 category: news
 title: "BrainChip and Edge Impulse Partner to Accelerate AI/ML Deployments"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 15, 2022 /BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, and Edge Impulse, the leading development platform for machine learning (ML) on edge devices,"
-publishedDateTime: 2022-05-15T23:08:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/05/15/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments"
-webUrl: "https://stockhouse.com/news/press-releases/2022/05/15/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 15, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, and Edge Impulse, the leading development platform for machine learning ..."
+publishedDateTime: 2022-05-15T21:55:00Z
+originalUrl: "https://www.digitaljournal.com/pr/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments"
+webUrl: "https://www.digitaljournal.com/pr/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
@@ -24,6 +24,6 @@ images:
     height: 727
     isCached: true
 
-secured: "GZCgkAQFnCdCsP8BMkUqs28UJLMgsb60/hmEIsh1ON5azTdmbYijjPGbwFvRsBgIPjDH7+CgjQWT3DvGbZF5+oYQyVlVtVHc4qFXleBRCdLz2bwcGotUhYqRC7TNzzg0KqwPHHhRUg8jv5gw88LNRWanmZjqUbAgZ2OBWT2i1dr7BbvoroWos4IOriet0pO6T8CvuhQnvX4P4Bvde3WNLZ6Al/pdYzxmeGivtJM97QmvskYx/83GITqZurmunffCJWfFoyu6OAlOsHEz1cX9RJpENH+KkALFCpbm/eQD1BoWJzN+1iMJ5eszb7VKE/S6F5/ipz48f7HYG5w2qCpMMeFphNgP5cfi6+XKCY9+kQo=;nYjq9FSjqucRWg42wAIWfw=="
+secured: "wO1+B9NX+boGzx0lPZM9QkmXof0DwzUMPH01DEd0bcban6Q2iPG9I0Vz66iOgVaRQwVbRwb+9uObvQYYMDkxDhL3EEANz48bC4I3D/1zbC9Q1Q7EHDGoFY/X5M4RsZ9nWJmMORzz1EUg2o/UZ+0MHGoorcqHDrd9qaYRBuoCb4RYfm6MAzVByLR470NxeojjyAupvCf16H2jOEnBntIIVS8e/9/Go829Ah591mEIz3PiSE3ydU3pAxmPNFYLfKw6ZnNQHZJIVPdAx6kUxCXzU5B1SANJeihjJextj4AfLdnxinsmykYpm0VoJwtCVdyicpYcYvDekYKK6lXy8mVfwJndvzFszDy6kN5F9Jgcfck=;hJ7IPXYpp3oaDbLM8mkCpA=="
 ---
 

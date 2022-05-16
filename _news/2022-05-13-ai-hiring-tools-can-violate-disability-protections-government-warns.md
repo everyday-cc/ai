@@ -2,9 +2,9 @@
 category: news
 title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
 excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
-publishedDateTime: 2022-05-12T20:18:00Z
-originalUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
-webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
+publishedDateTime: 2022-05-13T01:18:00Z
+originalUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
+webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 type: article
@@ -45,6 +45,22 @@ related:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426
         height: 808
+        isCached: true
+  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
+    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
+    publishedDateTime: 2022-05-12T21:12:00Z
+    webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 51
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/2e07f06/2147483647/strip/true/crop/640x360+0+33/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fnhpr%2Ffiles%2F201404%2Felection_day_by_nhpr.jpg"
+        width: 430
+        height: 242
         isCached: true
   - title: "Bosses using AI to hire candidates risk discriminating against disabled applicants"
     excerpt: "The Biden administration and Department of Justice have warned employers using AI software for recruitment purposes to take extra steps to support disabled job applicants or they risk violating the Americans with Disabilities Act (ADA)."
@@ -90,21 +106,7 @@ related:
         width: 400
         height: 250
         isCached: true
-  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
-    publishedDateTime: 2022-05-12T21:04:00Z
-    webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 29
-    images:
-      - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 838
-        height: 628
-        isCached: true
 
-secured: "qDpvUj7wTRs8cNXEYdxu7nQkHDGMFx7DQVlVtcRikBNmeYK+SZNLFLjmYcGbvoMIxOFdICG0gT2GECDrLNCKq5hOZ5mgQadG2GuiEi+X8rqlu8FZH71KoNHzN0G3hwnVIfGjTyLhgniKEBb76njzD8ouhMtPvXMFyEBPZslMUEsGC/wl21M89lZ5O6bK3NVwdX2kSyjUkIUK0Hp5nSFVHhSxKsUfdRppZdi4sWMSAfg4xYyTZZqrlxm0szg6RVc86JO5EhK/rOfsbJrWpoPJqaJxKhzjsd6fz1s9Byg0LjBcgVPSLQEGW1Om5tt5Lw7KO1EQhz7KVrujRsArvJ+OeNQz6VouwrwucBJU/rj3XDs=;wPyOTGPk9ztdp3yJpMzDaQ=="
+secured: "Ireojj9/gAQ90n7NLsXtI6SvgMGz07FouGxsj3okCZmUBrT7xfoogDUtOu8qSf2IzV72/JEVqGKtiMD9iCRxRgsPDggPGlb5fIYmf0SUYWnjNG8E7WXHEnh1fKao2X0O1ap1MqwjI0YNd0QEwRyHpM77gr39LgoO3PYeGwmpRJ6XOwlayekYtFFnw29uuXPZ681RWkFq0QWWN6E/HUvFF7knvyp5uNzNwKe+UW9CPkYzzIoW5sf92tKkKMOfa7s+Bhhmjg9KkcUukwkzA9MfR8LjQrA5zVx1wLm0pJzbAa1xhAwAc7IDLFI73sJe+FbuIN+axa8BZQS5tNs1uygcYHeIBxbZ4lyS5/fYslU2IKU=;AQeSdiZUlXraDrIQi9pkhQ=="
 ---
 

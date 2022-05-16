@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-31-metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier.md",
+      "title": "Meta's AI luminary LeCun explores deep learning's energy frontier",
+      "excerpt": "Three decades ago, Yann LeCun, while at Bell Labs, formalized an approach to machine learning called convolutional neural networks that would prove to be profoundly productive in solving tasks such as image recognition. CNNs, as they're commonly known ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "originalUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d42df9d1daed1dad8a379ab0a69ec88a5d09e3a5/2022/03/31/602b7f95-1939-459f-b036-4776385ec5d2/lecun-splash-image.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "publishedDateTime": "2022-03-31T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-are-we-ready-to-transform-lives-with-ai.md",
       "title": "Are We Ready To Transform Lives With AI?",
       "excerpt": "AI has paved the way for dynamic changes at the workplace and in personal life, by automating a host of processes and activities",
@@ -1346,61 +1400,6 @@
         "Facebook AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer.md",
-      "title": "Graphcore unveils next-generation AI chips and plans for powerful supercomputer",
-      "excerpt": "Graphcore, a company developing AI accelerator chips, has announced the latest generation of its products and plans for an AI supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/",
-      "originalUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/",
-      "publishedDateTime": "2022-03-03T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

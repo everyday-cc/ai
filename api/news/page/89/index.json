@@ -2,6 +2,110 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-02-25-putting-ai-to-work-for-cx-and-sales-in-2022.md",
+      "title": "Putting AI to work for CX and sales in 2022",
+      "excerpt": "In sales, AI is often touted as the new way to forecast and drive results. While it sounds good, you can’t throw AI at just any problem.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/",
+      "originalUrl": "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/amp/",
+      "publishedDateTime": "2022-02-24T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits.md",
+      "title": "Converging AI And Longevity Research: Cutting Edge Innovation In Insurtech At HITS",
+      "excerpt": "The convergence of artificial intelligence, aging research, distributed ledger technologies, new sensors, augmented and virtual reality is driving innovation in health and life insurance. To facilitate for this trend Generali set up HITS - House of Insurtech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/",
+      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6217ac51d6e1527d378590b6/0x0.jpg?format=jpg&crop=2047,960,x0,y9,safe&fit=crop",
+          "width": 2047,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/amp/",
+      "publishedDateTime": "2022-02-24T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency.md",
       "title": "AI-Powered MarTech Startup Intelligent Relations Announces Acquisition of Net Positive Agency",
       "excerpt": "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net Positive Agency for a mix of cash and equity. The acquisition will enable Intelligent Relations to bolster its existing artificial intelligence powered PR platform with new services and capabilities.",
@@ -1036,92 +1140,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-nobleai-announces-rollout-of-aws-govcloud.md",
-      "title": "Noble.AI Announces Rollout of AWS GovCloud",
-      "excerpt": "Noble.AI announced the rollout of AWS GovCloud support for their Science-Based AI Platform. By choosing to enable GovCloud, Noble.AI",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/",
-      "originalUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Noble.AI-Announces-Rollout-of-AWS-GovCloud_-Enabling-Customers-to-tackle-their-most-strategic-R_D-workloads-01-1.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/amp/",
-      "publishedDateTime": "2022-02-24T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-zf-to-develop-chassis-for-baidus-smart-ev-brand-jidu.md",
-      "title": "ZF to develop chassis for Baidu's smart EV brand Jidu",
-      "excerpt": "German supplier ZF Friedrichshafen will assist Jidu, a smart electric-vehicle brand of Chinese self-driving technology developer Baidu, to develop chassis and other components. Under an agreement ...",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/automakers/zf-develop-chassis-baidus-smart-ev-brand-jidu",
-      "originalUrl": "https://europe.autonews.com/automakers/zf-develop-chassis-baidus-smart-ev-brand-jidu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/JIDU%20Robocar%20Concept%20Car.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

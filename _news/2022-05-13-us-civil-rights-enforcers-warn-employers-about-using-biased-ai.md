@@ -91,14 +91,19 @@ related:
         height: 1365
         isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
-    excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities,"
-    publishedDateTime: 2022-05-12T19:59:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article261387662.html"
+    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used hiring tools could violate civil rights laws."
+    publishedDateTime: 2022-05-12T21:24:00Z
+    webUrl: "https://apnews.com/article/technology-discrimination-artificial-intelligence-e1bcf4a2e7f1b671cbf3a44bc99b3656"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 17
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/44b8c1f14b7c4f699caf934933d88e6b/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "5WYA4JW28XFUmn4E3j7B5JTYwJ9igLkpDSfwcEj8Zo7oWjQ8qgtwmJGcJeg2PManspRVjAWCHZxG4+0eofZgsNYEbZ8xalIZaS8dXaZtuS5/PBrtmXdThclAy+C5M+ghC/0r7t9qtgrId6C3ubpkZ+ldeHW4I4NXcAWUq/0lBsSmHEGgQqOLctA3oqcd2B0XEakPtHcWophkgMdJixGLY8RkjxWkOE0ZuaOqvqCLEm1gJ1nZFG79e9LadsaACALUDELCe9RUMpmBeqq7CJ42JYyUe0XGB+a/8W6Tbd4HKrE2QeiONQo1r/JtaocCuif0frdhp679w0bLQ0bObZUT2N1HV/w4klFM/XuRAxm7YfayId9o2FuBTfRjPlcBgWydUaMgh98B77t3MDb1jSMEnx0MDnRDYT4pfQb/IS+mRCojOzneR7qZWfbyR1Rb0Qi+WZtPZZu0neFCPdtKXUEIGgJ74youi4t6CljShPVv4sP3exv41PdbgbgOjNOj822RzI9S8QruYO6MezCjYws2Jg==;lbeOse5StzxYxWZEy3lfOQ=="
 ---
