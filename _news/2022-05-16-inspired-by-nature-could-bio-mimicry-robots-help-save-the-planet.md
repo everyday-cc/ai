@@ -3,12 +3,9 @@ category: news
 title: "Inspired by nature: Could bio mimicry robots help save the planet?"
 excerpt: "As we look to a future in which advanced robotics technologies are ever-more integrated with our everyday lives, the idea that robots might help us protect the planet we live on i"
 publishedDateTime: 2022-05-16T08:31:00Z
-originalUrl: "https://www.theengineer.co.uk/content/in-depth/inspired-by-nature-could-biomimicry-robots-help-save-the-planet"
-webUrl: "https://www.theengineer.co.uk/content/in-depth/inspired-by-nature-could-biomimicry-robots-help-save-the-planet"
+originalUrl: "https://www.theengineer.co.uk/umbraco/surface/redirect/article?slug=inspired-by-nature-could-biomimicry-robots-help-save-the-planet"
+webUrl: "https://www.theengineer.co.uk/umbraco/surface/redirect/article?slug=inspired-by-nature-could-biomimicry-robots-help-save-the-planet"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: The Engineer
@@ -18,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.theengineer.co.uk/media/qlrfztng/frame80-combined-v1.jpg"
-    width: 800
-    height: 450
-    isCached: true
-
-secured: "0+VIbkzIDWpO70yUyjVUfNwS3FgIGJg8UdBZZcb9N8YT1/t5rdImL06xAiv0VhwsKNhcBewgavZkGE3nC+zLZXBMzqb2O74I35WDc8/1e53lWzXvqA9sftOyic0f8rR2OM+ZZMnVnwmFHYZ5dQwB7M8x8a7/6aBuQio2/lN/3BZgoxUn8gHAtcdPeuOFvPxhxV2WdidXTusOqRVHoo8/D3ADG6AWkI2XA571XUwGgPHIlvcuvx1NMQhyY53p3TSo13jt0mb4fdAmBx4kjDoeji2FkNHqfEPvHwOUeS6WOVsPub127OsCdZ+EfELi6pwWAUAI1uEGBPbNGxc0hV+g4gmT0a2HCYULV5InoRPd5WM=;OLmBBxiMY/JXAR1NknB27A=="
+secured: "mW3+6MegOehcTcudUzS7RZvLT3sDzaGXiNdXXQD8qW71CBJg3eMF+LbTthm9Dq6p7GTnYeKYktAdjUERPv0Hm9zpt16TPozFW5pP99aJ5uJt0J2HzJpzLK+hc4dzDmpxL6gqLj8Qj07X2yu2MxWov/TZ6Jfe/1ltwstsN1FlEKzlXYEY+wMV698lglWp2Z2G9JtFNyfuRsHWurLyajZWnVMe3exULmEoWRTqBZGLGvPyLIKduxrxTQofHmMvhOAvelhlPBIM3H8DlbqbhLx2OB3CQCwR5b/FuesW27QpPCzHbYDa0YrZGCCBew3X1fGc1N8+6g3hz+/j938S+v7SYiOKdWTdkiTtHLF/KAu5WcuZiaeoK+IBlCRgBmhddsVn0HC/L3tQCjYELws3lE9Q5m6TfZmRkxbSYmZ/2MNa7TPLttWUkhICv8QPuJRullyl7EOWMKdBd/4mr9b1vg3+SH9syffAJyeBBRPVc2QU0c1h7kZvbvmKuOWi3BikfcuTkusRBtN3TJB6r0IJyyqtow==;uShOvLqy5NHwjwjKDGEPAQ=="
 ---
 

@@ -1,23 +1,20 @@
 ---
 category: news
-title: "Identity Verification Startup iDenfy Partners with Credex to Upgrade the Lending Platform's Security"
-excerpt: "Kaunas, Lithuania -- (ReleaseWire) -- 05/16/2022 -- iDenfy, a Lithuanian startup providing remote identity verification and fraud prevention solutions, has partnered with Credex, a financial institution that offers digital lending services."
-publishedDateTime: 2022-05-16T05:10:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/releasewire-2022-5-16-identity-verification-startup-idenfy-partners-with-credex-to-upgrade-the-lending-platforms-security"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/releasewire-2022-5-16-identity-verification-startup-idenfy-partners-with-credex-to-upgrade-the-lending-platforms-security"
+title: "Identity Verification Startup iDenfy Partners with Credex to Upgrade the Lending Platform’s Security"
+excerpt: "The digital ID verification company will enhance security infrastructure for CredexThis press release was orginally distributed by ReleaseWireKaunas,"
+publishedDateTime: 2022-05-16T10:16:00Z
+originalUrl: "https://www.digitaljournal.com/pr/identity-verification-startup-idenfy-partners-with-credex-to-upgrade-the-lending-platforms-security"
+webUrl: "https://www.digitaljournal.com/pr/identity-verification-startup-idenfy-partners-with-credex-to-upgrade-the-lending-platforms-security"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
   - AI in Security
 
-secured: "PAOZLxKJxNrwcyG262CCxc/LRxrVnqLRLnyFO4PvRSlHYmRAJul1fV/3lHZFgFg0zMtN8nqGRoKUCq0F92VCu9Rd1hydKJtfxBzukgh2+TResP7XzopCjCS+Ow3Ixp5suyb12cRFgIeC0nJF7esRiIWz0+qUb8GMIifzgBxSnhd543ZHTidk227sGvBN0PKwX9IGTuM3fWY5wev0X7eVfRWoQ3eqxnZH/M7n83rP3LIw8ScWCgt11+2GM+T5E+6F7TXBCYgBw125IMK8HwSlMj3p2BeMkHGtAuEzMCpT4R/pf2yU4qUR2H5s4HK/ZDtuCWpFiZH6KLrx8HerQ29SkcIERs+FZA3f2bD5L4zNkG8=;WGx3A1OLwZeFE6pY0QhOhw=="
+secured: "wOQI+tXVOKIKoxbSK4MSKHLSjzvIGtn0Ey6/qveMcfdBSa7OkrgpHW5fy2IDO2AshSMMpV1NizkZE8T5AxMSckcy0mmhHes13Otuqh0mQQwudSiDAp3qfXEmT/PZzpv1UbZ4hJQgrSTnNudVstTv66nunFrLW5Ycf++zyBSzOGSWauamr4VbTYqBbE+HoRlgKddT+RU4WiUgQxb5cu7xjKn0lldoAtPGEsa1iSSgTocH9VJZvVYlhINxT4Az882gKYGj1vGvQp4fPAsc8A7FKPRkAM1VVN4oAWu6LgbjgMZJkcOhzku8dTQDG6AhVOJDy+R2f1ptAQUHAKjUvj8S03K1hzNlG/G7TfR8uHzAUnMra87xpwOT5/roufvGWk03kNGZCMgxiKW3tHmIWFKscrqGtO1T1OMVD+xMuDokhv2F6GcfKX10Hmv/WFpaaiCtjuUdZ/pwwOKEJ2f1lGrMfo5BLSMvdoVoWIrmNQCzH5q4mGGK39qSL6OOGaGOGKXi8JODYtWbJxabB3whnyALjg==;eXwwzbja9dpFsvugUAgJZQ=="
 ---
 
