@@ -7,7 +7,7 @@ originalUrl: "https://www.bioworld.com/articles/518747-fda-grants-breakthrough-d
 webUrl: "https://www.bioworld.com/articles/518747-fda-grants-breakthrough-device-designation-for-wysa-digital-therapy"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wysa receives USFDA approval for AI led device for mental health"
+    excerpt: "The device delivers cognitive behavioural therapy (CBT) via a smartphone-based conversational agent to reduce the symptoms of depression and anxiety, .."
+    publishedDateTime: 2022-05-16T08:15:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91592319,imgsize-18776,width-1200,height-628,overlay-ethealthworld/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "FDA designates AI-based therapy for pain, depression, anxiety as breakthrough device"
     excerpt: "Wysa announced it has received breakthrough device designation from the FDA for its artificial intelligence-based digital mental health conversational agent for adults with chronic musculoskeletal pain,"
     publishedDateTime: 2022-05-13T19:24:00Z

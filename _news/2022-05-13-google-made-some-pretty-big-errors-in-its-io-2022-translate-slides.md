@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Google I/O 2022: Advancing knowledge and computing"
-    excerpt: "[TL;DR]Nearly 24 years ago, Google started with two graduate students, one product, and a big mission: to organize the world’s information and make it universally accessible and useful. In the decades since, we’ve been developing our technology to deliver on that mission.The progress we've made is because"
-    publishedDateTime: 2022-05-11T17:00:00Z
-    webUrl: "https://blog.google/technology/developers/io-2022-keynote/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 54
   - title: "Google sprinkles AI on everything at I/O"
     excerpt: "It will start out in Los Angeles, London ... Google has also aimed its massive AI brains at Google Docs, which now using various natural language processing magic can create automated summaries of great big long documents you can’t be bothered to ..."
     publishedDateTime: 2022-05-13T12:09:00Z

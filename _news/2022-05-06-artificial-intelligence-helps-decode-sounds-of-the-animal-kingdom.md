@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/5752abc/2147483647/strip/true/crop/900x506+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F97%2F14%2Fc5200d774c06abf9d29172df0431%2Funderstanding-animal-sounds.jpeg"
@@ -22,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gJNlfSU5owoZm7utTsiL4a2SviW5I4nOjl38/5Yj4h9WYty1JRa8e2ZugIw/kvlMQXH0W1RemYyGn92DBUEax7SsctYpndXdEGTdqvxssA3SkxHWGsVuUzLaj7OUk/uR15FcK0j0n6X5VvLhZVlTzghs4/xqEPEwP2A7aHxUq3VcJ3r3kv3n4OMyKNG14HpBMoJ3k8k/zuh3FqGyirSHPPALSvYt9CYJAPINxnZhkCkyu4WWDNIFIWVNKYxqdiBglMfUowbfqS6kr8aeFLLLgstXRYsB6q+ujGTZnBkzvQnU64nkkV16FxrpoI+oEbRy1YZcIiLERIiTW+G7sJiZBzDdSrseEyoY1s/OMqLfJ28=;QWU3Zqz1VMzJnlmL3m3kgA=="
+secured: "cX9GosZu/vTNgphOMGAoST+FTdyZV9/WLFmj8/BPvIKfqXe+ulW0Ky7U6mURXFnryLwN47dstBDIhaegJlDDPrUSf9LkzSaW5WDXUOKOzP9KwURcYyJbSsUYumGjtS5W49zxmhxHZjbJzuIqV1pLWww58CqWKeXhq43KJVMyuK22GjKVbHqPC0c3W5wkycD8gLYLPktYLls7rf7lYTdzwNuuj8wZNXxvgS46LEp01+g1k6UQRhco0Co9hSvvXmG1cAaUflikyByeYwkxQaRNWBkEcl3ER8arcgpqhZUEeuAWVwpzmnHRJCmHg6oo7gM4UzAU5pYT8mTriy9ZVvYW2j7WgL13Kwxr9HNYmwrU6w+gWtfkW2oOzrBGBu8tsvVp5HyfH1U6g7Qwl955dVadGWDxhZwad0cp3tgUcPwsSbSFNbRdUSLKepAoX61RFFlATAFWS8iuV1PQ3FDWd3ZgH2vSDboguqbigEuPdZsage0wcxaCVRIAWysl1QpsFmEBdTTTJxh+1W7ca18o4tKGZQ==;wQd9tFo5FIwebzAgTAs0cA=="
 ---
 

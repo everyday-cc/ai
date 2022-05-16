@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from
 webUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
-  - title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
-    excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-    publishedDateTime: 2022-05-11T16:29:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 30
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment, study finds"
     excerpt: "Quantified benefits included faster time to market for analytics insights, improved operational efficiency in model building and testing, and cost savings from retiring on-premises analytics infrastructure."
     publishedDateTime: 2022-05-13T06:34:00Z

@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/tech/tech-news/hiring-algorithms-artificial-int
 ampWebUrl: "https://www.nbcnews.com/news/amp/rcna28481"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna28481"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2022_01/1643120472715_tdy_pop_8a_hoda_ward_loop_220125_1920x1080-wn6hgx.jpg"

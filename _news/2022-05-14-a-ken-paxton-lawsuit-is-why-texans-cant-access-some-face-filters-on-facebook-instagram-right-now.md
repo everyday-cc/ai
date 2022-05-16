@@ -42,22 +42,6 @@ related:
         height: 467
         isCached: true
   - title: "Instagram disables certain face filters for Texans"
-    excerpt: "Instagram's parent company, Meta, has removed the ability to use some of these filters. The reason for this cites Texas' facial recognition laws."
-    publishedDateTime: 2022-05-11T16:54:00Z
-    webUrl: "https://www.khou.com/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
-    ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 59
-    images:
-      - url: "https://media.khou.com/assets/KYTX/images/546194956/546194956_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Instagram disables certain face filters for Texans"
     excerpt: "As of May 11, Instagram's parent company, Meta, has removed the ability to use some of these filters. Meta says this is due to Texas' facial recognition laws. Paxton says the reason filters break the Texas Capture or Use of Biometric Identifier Act is they ..."
     publishedDateTime: 2022-05-12T00:18:00Z
     webUrl: "https://www.khou.com/article/tech/texans-no-longer-able-to-use-instagram-filters/501-b02016bf-08ea-409a-9e40-cad8ac8dd6ce"

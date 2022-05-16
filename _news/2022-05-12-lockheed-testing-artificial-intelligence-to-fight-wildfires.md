@@ -8,8 +8,8 @@ webUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fi
 ampWebUrl: "https://kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
 cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/local/lockheed-test-artificial-intelligence-to-fight-fires/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/04/GettyImages-1237477623.jpg?w=1280"

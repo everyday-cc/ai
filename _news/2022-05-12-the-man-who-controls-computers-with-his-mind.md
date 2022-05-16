@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1050
     height: 550
     isCached: true
-
-related:
-  - title: "This is what may happen when we merge the human brain and computers"
-    excerpt: "... capable of simulating the multiplicity of neural connections using an artificial technical neural network. In the late eighties, instead of creating a rigid computing mechanism, information ..."
-    publishedDateTime: 2022-05-11T15:46:00Z
-    webUrl: "https://thenextweb.com/news/thimerge-human-brain-and-computers"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fmatrix-brain.jpg&signature=5e2613be0fd78bfb07d0ec832129756b"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "Js2qbqIvxTDk8M4P/7zqgFkZQyFNnN5UrT8NfwN8fFY/Q8SaEAoaG3rK/UtN0VqXcxU56AZktftbyOg/B9/EPhB9veM+GBgsergYW6IrxQ844Ta1Ks15N1wurY97O2NUgwo1mGJqH14RypWfHLxePZnatFoZ2Qk5jj8uI+9EmyaX2pR65qw0t6bw9GfQzSancZxLur2vjCGj4VAyEncfWSCE1bffD23ChAiHI81yGhN8EzMnOYMdtRzVrfchGYXy2QX9WWigY/O6Dz1udoyH0I+reN+Sb695vnRJsiWW+ZhSrffQQdkdilhHF1UXCQLplhhIcbnQWJ3ilG6AWJxMcebaOzE8dcRFfrpCqTugjyQlOKOWQllthRIbvhWNYOyiswMGTsHWJuZ8M2gaevRwEUdHiwKKGQTTg789saZPibde/71IZrNJeLiTFH7P8M9t4yha6ptqzoJGjRifZPhwElQg51ZNIMrt8AopFFAojpmgbrR27jluPqRmtE+mK784KfbC6m0sp5L2mPlQs1gzPw==;FRNNQbVbOxdyNP6jVGgpYw=="
 ---

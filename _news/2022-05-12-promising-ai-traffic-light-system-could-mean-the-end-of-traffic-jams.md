@@ -19,22 +19,6 @@ topics:
 
 related:
   - title: "AI traffic light system could make traffic jams a distant memory"
-    excerpt: "Because the AI created by the Aston University team \"sees\" high traffic ... The program can be set up to view any traffic junction—real or simulated—and will start learning autonomously. The reward system can be manipulated, for example to encourage ..."
-    publishedDateTime: 2022-05-11T16:42:00Z
-    webUrl: "https://techxplore.com/news/2022-05-ai-traffic-distant-memory.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-ai-traffic-distant-memory.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-ai-traffic-distant-memory.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-traffic-light-syste.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI traffic light system could make traffic jams a distant memory"
     excerpt: "Long queues at traffic lights could be a thing of the past, thanks to a new artificial intelligence system developed by researchers in the West Midlands."
     publishedDateTime: 2022-05-16T05:00:00Z
     webUrl: "https://www.expressandstar.com/news/2022/05/16/ai-traffic-light-system-could-make-traffic-jams-a-distant-memory/"

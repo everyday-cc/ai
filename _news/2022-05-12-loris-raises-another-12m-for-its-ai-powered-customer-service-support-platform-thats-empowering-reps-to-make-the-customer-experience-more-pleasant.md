@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 1500
         isCached: true
+  - title: "AI-Powered Retail Analytics Platform, Intelligence Node, Appoints Senior Executives & Advisory Board Members to Drive US Expansion"
+    excerpt: "Global Retail Intelligence leader Intelligence Node announces several strategic hires to accelerate its growth in the US market. It has also appointed four prominent retail leaders on its advisory board to guide the company as its North American customer base expands."
+    publishedDateTime: 2022-05-16T09:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-powered-retail-analytics-platform-intelligence-node-appoints-/2022/05/16/9602164.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "aDYr2jdCCNJaYj3Unb7rORNGGTDoAS/wgSBVxF+XAgIeQEwW3oUOH2vQPItip5iXsfMjf1qF0Obw7HbocJ4eUEcp2UbhrxERoYG6Mb2+hmEdFD+3QY1onXY9vRrQ0bz44vzhM9C5V2mGITG3o1f0UXivNjoSAXRjebVAzwIFBCYD2Jp1FPYNtbn0rQQ6yD9YvKbr4LsyTxXvNqTQwysHgQOCOBJa5F7GSg3XU4k9aULOKNW8FteB1zZh6L0FzLmICAPldy8hoWmdgK455cxdPfpcdoGMxUegaZv4ZhVJEQ9zid0Y9gqWXg5krkX+Q/p8+tp/v9fd/FaJiRFqs8ZtzFptHUHbqk83TPh1NvKlLaQ=;7OLXmV64ZCt6djwvkmX3UA=="
 ---

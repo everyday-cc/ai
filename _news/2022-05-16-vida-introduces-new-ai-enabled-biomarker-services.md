@@ -54,6 +54,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Edge Browser Will AI Improve All Web Images"
+    excerpt: "Turing Image Super-Resolution will automatically turn website images into high resolution graphics for users of Edge browser"
+    publishedDateTime: 2022-05-16T09:22:00Z
+    webUrl: "https://www.searchenginejournal.com/edge-browser-will-ai-improve-all-web-images/450350/"
+    type: article
+    provider:
+      name: Search Engine Journal
+      domain: searchenginejournal.com
+    quality: 37
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/05/turing-image-super-resolution-6282145c5dc44-sej.jpg"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "Zoom agrees to acquire AI customer service platform Solvvy"
     excerpt: "Financial terms of the deal were not disclosed. Solvvy is a California-based startup that delivers customer self-service experience powered by machine learning and artificial intelligence."
     publishedDateTime: 2022-05-12T13:17:00Z

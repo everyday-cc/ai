@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-ana
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AI-Powered Retail Analytics Platform, Intelligence Node, Appoints Senior Executives & Advisory Board Members to Drive US Expansion"
+    excerpt: "Global Retail Intelligence leader Intelligence Node announces several strategic hires to accelerate its growth in the US market. It has also appointed four prominent retail leaders on its advisory board to guide the company as its North American customer base expands."
+    publishedDateTime: 2022-05-16T09:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-powered-retail-analytics-platform-intelligence-node-appoints-/2022/05/16/9602164.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "dlZ1yQaZhBOljimTLsh+d7BL1DvAutyIy6AiqRjd8T8PH2Dh4Ahtr0icRXxEnu0NaL1iC5w+5ZUwIdrz+ldQ0Wj1haEmogUCrENpuNvRxWClqZsubNXTLH7BJ8ybY0TtabF36vyNIrQHDSgs9dQjfUuWXUv0mo9Rqljb6HaHuOLazN32j/F8BO0E1XMnNtsj52NJOjlll5wZVkQGFpXdJ9oS0SUq/40lSkgxRlDW8eyTeoxOrmnfJBGEkR7qL8hII2bjHx5ufD6HiaCA0e8dbJ73c0i9I9jhMNwPYKtBWdym4Yl88Ucg0GCa/NtjchST1tg2JaHiayqpsxlQQD84ezyMVWbIj/E1OZCJ3SBiIoHW34xdxxXTooN1FDUA5LfIwRQ5cTXlzJMdqiUvD++2vXCEqF1IoVrzBvwl+bXmHjMZpVHwFtt/espZVfdQk38JDbjcic6oEvGzPtbDSnjsBheIAFU/XqQX8MClgyUJ1rBHwfpNfXydmcNkimD8Q+YofBA6nHcTababALIQ+IBbhA==;qxvqIv7PgmOWt2AcMemSOA=="
 ---

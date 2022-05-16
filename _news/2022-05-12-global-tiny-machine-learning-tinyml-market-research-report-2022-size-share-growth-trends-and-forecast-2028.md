@@ -51,6 +51,20 @@ related:
         width: 1920
         height: 1479
         isCached: true
+  - title: "Educational Robot Market: Global Forecast, Size, Share, Growth Analysis and Report 2021-2026"
+    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-05-16T09:22:00Z
+    webUrl: "https://www.digitaljournal.com/pr/educational-robot-market-global-forecast-size-share-growth-analysis-and-report-2021-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence-based Security Market: Current Growth and Tomorrow’s Potentials | Market registering a CAGR of 30.25% by 2025"
     excerpt: "Description New Research Study “”Artificial Intelligence-based Security Market 2022 analysis by Market Trends (Drivers, Constraints,"
     publishedDateTime: 2022-05-12T10:37:00Z

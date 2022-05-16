@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-reven
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Edge Browser Will AI Improve All Web Images"
+    excerpt: "Turing Image Super-Resolution will automatically turn website images into high resolution graphics for users of Edge browser"
+    publishedDateTime: 2022-05-16T09:22:00Z
+    webUrl: "https://www.searchenginejournal.com/edge-browser-will-ai-improve-all-web-images/450350/"
+    type: article
+    provider:
+      name: Search Engine Journal
+      domain: searchenginejournal.com
+    quality: 37
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/05/turing-image-super-resolution-6282145c5dc44-sej.jpg"
+        width: 1600
+        height: 840
         isCached: true
   - title: "VIDA Introduces New AI-Enabled Biomarker Services'"
     excerpt: "Announced at the 2022 American Thoracic Society (ATS) International Conference, this suite of services empowers sponsors to leverage VIDA's unique AI-enabled biomarker generation services and ..."

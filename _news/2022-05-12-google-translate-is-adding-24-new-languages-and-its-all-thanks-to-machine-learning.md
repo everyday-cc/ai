@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Translate learns 24 new languages"
-    excerpt: "For years, Google Translate has helped break down language barriers and connect communities all over the world. And we want to make this possible for even more people — especially those whose languages aren’t represented in most technology. So today we’ve added 24 languages to Translate, now supporting"
-    publishedDateTime: 2022-05-11T15:16:00Z
-    webUrl: "https://blog.google/products/translate/24-new-languages/"
-    ampWebUrl: "https://blog.google/products/translate/24-new-languages/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/24-new-languages/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 111
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io_2022_heroes_translate-11.max-1300x1300.jpg"
-        width: 1300
-        height: 541
-        isCached: true
   - title: "Google adds support for 24 new languages to Translate"
     excerpt: "Google is adding support for 24 new languages to its Translate tool, the company announced today during its I/O 2022 developer conference. Among the newly available languages are Sanskrit, Tsongae and Sorani Kurdish."
     publishedDateTime: 2022-05-11T17:29:00Z
@@ -73,22 +57,6 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5ef38f70-d14d-11ec-9ffb-4994f1bacf3b"
         width: 1600
         height: 1000
-        isCached: true
-  - title: "Google can now translate eight more Indian languages. Full list here"
-    excerpt: "Google has upgraded its 'language translate' feature by adding 24 languages spoken in different countries. Of the 24 languages, Google has included eight Indian languages including Sanskrit-one of the"
-    publishedDateTime: 2022-05-14T07:03:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here-11652510255533.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here/amp-11652510255533.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here/amp-11652510255533.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/05/14/600x338/Google-translate_1652511568986_1652511569252.JPG"
-        width: 600
-        height: 337
         isCached: true
   - title: "Google Translate adds support for 24 new languages learned with machine learning"
     excerpt: "Google LLC said it’s adding another 24 languages to its Google Translate app during its I/O developer conference today. The new supported languages include dialects that are spoken by more than 300 million people across the world,"

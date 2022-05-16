@@ -40,7 +40,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2022_01/1643120472715_tdy_pop_8a_hoda_ward_loop_220125_1920x1080-wn6hgx.jpg"
         width: 760
