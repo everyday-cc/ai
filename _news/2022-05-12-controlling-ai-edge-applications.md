@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deci deep-learning platform aims to ease AI application development"
-    excerpt: "Using Deci, the company says, AI developers can achieve improved inference performance and efficiency to enable effective deployments on resource-constrained edge devices, maximize hardware use and reduce training and inference cost."
-    publishedDateTime: 2022-05-11T13:18:00Z
-    webUrl: "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/"
-    ampWebUrl: "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/ai_development.jpg?fit=800%2C450&strip=all"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Curious Thing’s voice AI communication platform asks the right questions"
     excerpt: "Sydney-based Curious Thing is an aptly-named startup. The voice AI communication platform can call people and ask them questions like “How are you feeling today?” and then follow up with ..."
     publishedDateTime: 2022-05-15T20:00:00Z
@@ -57,6 +41,15 @@ related:
         width: 5529
         height: 3691
         isCached: true
+  - title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
+    excerpt: "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi"
+    publishedDateTime: 2022-05-11T18:15:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 17
 
 secured: "SIaB3ubNo0VovX5PJnqDfmml5yXucVdDeUCZgXtrDt0NcUGmsMPIk2e+OW1EHMMbc36G3mEqW9FGFCiz9d0yEu4P5HOyiF5zDAcziYdOcDYrWkMJGpIr6tta7ryCIZU7kRIrjprRMKlFSrswzgKgj3HS+DWeqJtZfjyuYAo+Vsg2eVnimya+obqhjyamZhDhuTWTFMAlXa5KWzKCureqpPY/E0XVaTDCXRMpjvoAQgBbuM4I+QEGDq2DPuB/c9FFJDeZBxzSJtUVkqNRHohIusAwBqfi0pR1ydDh8WxGY+5rc5zUbTj1+BBmTluQuX3f3Kha3x87YItLPE0sYrgPeLMd1etwvxbsgooAW1d0wFk=;Y8IFCGTEE4Qyg/HZnT7Yuw=="
 ---

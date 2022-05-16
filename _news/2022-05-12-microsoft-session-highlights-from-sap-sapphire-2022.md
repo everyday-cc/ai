@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from
 webUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
         width: 1600
         height: 939
         isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-    excerpt: "Dubai, UAE: Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment over three years, according to a new commissioned Total Economic ..."
-    publishedDateTime: 2022-05-11T13:26:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-x0av2kla"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 21
 
 secured: "wCKtT8L2rXl7cu5az6cRCb1YS+FaDoSONfKnwC1tvgDpbplh3BfTBwRhdymkKbIP2AlcLm/5tX8QfQd0n2ltIuQloiG9I29Hwoati4G+sf8IU+ATjsBlS0hjTtK/QPHdBGFnKVulObTsomeRvVwwQNm8j3F4/hqEkJnNH2O6KkUEJ0s+F+ZT+ZklfsK9rKecApw1fQunSiTBbXee2hduseB3czn8q+K7RHUW/Nz5DOzrnsQJWNuGbFdYcRGhsckSS36KKZYWJ8VEINqLyY7giwJzqbf9IYBx2Oyv80vIaHSc4kl9tTO6+tNkJrGWl94GndYDfL21MpU5IlbdBTewW4iD7bCptrLcU/koJcqpZc4=;2m5YQjMB6saSCe952LCnIw=="
 ---

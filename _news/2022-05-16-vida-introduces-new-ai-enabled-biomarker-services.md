@@ -40,21 +40,19 @@ related:
         width: 1200
         height: 725
         isCached: true
-  - title: "Why AI is the new (and best) customer service agent"
-    excerpt: "AI is becoming the new customer service agent. As customers demand service that is highly personalized, easily navigable, and resolving of their concerns, questions, and needs, AI is being leveraged to automate tasks,"
-    publishedDateTime: 2022-05-11T15:00:00Z
-    webUrl: "https://venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/"
-    ampWebUrl: "https://venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/why-ai-is-the-new-and-best-customer-service-agent/amp/"
+  - title: "VIDA Introduces New AI-Enabled Biomarker Services"
+    excerpt: "New VIDA analysis packages & novel biomarkers empower trial sponsors to unlock breakthrough insights. SAN FRANCISCO, May 15, 2022 /PRNewswire/ -- (ATS International Conference)  V"
+    publishedDateTime: 2022-05-15T16:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/covid-technology-health-clinical-trials-f7be8cc3b1fe6fbfe0a9feea805e8836"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/10/shutterstock_366626837.jpg?w=1200&strip=all"
-        width: 1000
-        height: 667
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Zoom agrees to acquire AI customer service platform Solvvy"
     excerpt: "Financial terms of the deal were not disclosed. Solvvy is a California-based startup that delivers customer self-service experience powered by machine learning and artificial intelligence."
@@ -65,15 +63,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "VIDA Introduces New AI-Enabled Biomarker Services"
-    excerpt: "Announced at the 2022 American Thoracic Society (ATS) International Conference, this suite of services empowers sponsors to leverage VIDA's unique AI-enabled biomarker generation services and decades of validated techniques with previously generated ..."
-    publishedDateTime: 2022-05-15T15:59:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/vida-introduces-new-ai-enabled-biomarker-services/article_4ab3ba45-40fd-5161-be34-baecb4d93428.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
 
 secured: "fmAwSE778lmtm1J7FNqhmOF6C6MWiJDNqcNzG6B209GtodQuBooYYNRo75rl0s2UbdpEgx4uLS9Oi/PyMJa/PFnODRhsl4u/xePu5t5d/tkcNm4Z7/O/wn1uNTrr7ws5hC/4g+D3X9IfKe98VpqfM+3OU441lXBCZk8zl24bFeZ38ae6ZZiy+wD8d2BgyyJg4/GNPWJylyyMxVf+B1sJHU1orWGsi4jtog/401vji+5Zru0oxsuFEZdV14KVKyqpfLbPFMYfgFk8uc3r1diPdkn99s4/dbAWUCSFu99JnDuN/oMM8MQjFp1lDSTyHH1j6dT4N5MZIsLgeQj1Wvxkxv7RdWy1Qem+GGEVzD2I/1A=;YUWb4hheXbormuhf4pwEZQ=="
 ---

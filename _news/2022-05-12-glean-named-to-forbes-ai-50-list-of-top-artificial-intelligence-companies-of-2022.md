@@ -47,15 +47,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 27
-  - title: "6sense Named To Forbes AI 50 List of Companies to Watch in 2022"
-    excerpt: "“We’re proud to make the Forbes AI 50 list and to be recognized as an innovative leader,” said Jason Zintak, 6sense CEO. “6sense is the first and only platform to apply the power of AI across the entire buyers’ journey to provide a better ..."
-    publishedDateTime: 2022-05-11T13:46:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-5a580e21096e7398f0cb7481ace03b36"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
   - title: "Forbes Names Whisper to AI 50 List"
     excerpt: "For the second year in a row, Whisper is being recognized for its revolutionary AI-powered hearing aid, the Whisper Hearing System Forbes' 12-judge panel of experts in artificial intelligence from the fields of academia, technology, and venture capital ..."
     publishedDateTime: 2022-05-12T20:50:00Z

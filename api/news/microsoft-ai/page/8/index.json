@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-08-procurement-analytics-market-growing-at-a-cagr-253-key-player-oracle-coupa-software-genpact-rosslyn-data-technologies-microsoft.md",
+      "title": "Procurement Analytics Market Growing at a CAGR 25.3% | Key Player Oracle, Coupa Software, Genpact, Rosslyn Data Technologies, Microsoft",
+      "excerpt": "“SAP (Germany), Oracle (US), SAS Institute (US), Coupa Software (US), Genpact (US), Rosslyn Data Technologies (UK), Microsoft (US), IBM ... Cloud & Cognitive Software, Systems, Global Technology Services, Global Business Services, and Global Financing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/procurement-analytics-market-growing-at-a-cagr-25-3-key-player-oracle-coupa-software-genpact-rosslyn-data-technologies-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/procurement-analytics-market-growing-at-a-cagr-25-3-key-player-oracle-coupa-software-genpact-rosslyn-data-technologies-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/01fe6d4aa0839aba65ce133e75a52110b8854c9d-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-therapeutic-solutions-international-announces-reduction-of-covid-19-associated-cognitive-decline-by-quadramune-nutraceutical-in-animal-model.md",
       "title": "Therapeutic Solutions International Announces Reduction of COVID-19 Associated Cognitive Decline by QuadraMune® Nutraceutical in Animal Model",
       "excerpt": "Therapeutic Solutions International announced today filing of a new patent covering data demonstrating QuadraMune administration reduces cognitive decline caused by administration of COVID-19 spike protein in mice. In a series of experiments, mice were ...",
@@ -1334,40 +1377,6 @@
       "provider": {
         "name": "Newswire",
         "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-blameless-new-commsflow-streamlines-how-engineers-manage-incidents-and-keep-all-stakeholders-informed.md",
-      "title": "Blameless New CommsFlow(™) Streamlines How Engineers Manage Incidents and Keep All Stakeholders Informed",
-      "excerpt": "Blameless, the leading Reliability Engineering platform, is announcing the availability of its new CommsFlow product capability, designed to keep all stakeholders updated as the reliability of services and applications are impacted by incidents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532432.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532432.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

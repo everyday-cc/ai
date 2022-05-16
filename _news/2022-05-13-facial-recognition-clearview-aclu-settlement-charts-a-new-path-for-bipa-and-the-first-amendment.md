@@ -73,20 +73,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Clearview AI agrees to restrict US sales of facial recognition mostly to law enforcement"
-    excerpt: "Clearview AI, a controversial facial-recognition software company, agreed on Monday that it will not sell its software to most companies in the United States — a decision that will largely restrict its use to law-enforcement agencies in the country."
-    publishedDateTime: 2022-05-11T13:35:00Z
-    webUrl: "https://www.egyptindependent.com/clearview-ai-agrees-to-restrict-us-sales-of-facial-recognition-mostly-to-law-enforcement/"
-    type: article
-    provider:
-      name: Egypt Independent
-      domain: egyptindependent.com
-    quality: 64
-    images:
-      - url: "https://amayei.nyc3.digitaloceanspaces.com/2021/11/X4NCWPFI55LBPKOSMXSJZDZL2I-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Instagram filters affected by Clearview AI facial recognition database lawsuit"
     excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
     publishedDateTime: 2022-05-12T15:51:00Z
@@ -114,20 +100,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/34/0340d145-6bb6-5e48-806e-6f38a42ebeed/627db846a1431.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "French Watchdog Mulls Action Against U.S. AI Company Clearview"
-    excerpt: "The head of France's data privacy said on Wednesday she was considering triggering the process of fining U.S.-based Clearview AI, a facial recognition company the regulator had ordered to stop amassing data from people based in the country."
-    publishedDateTime: 2022-05-11T14:00:00Z
-    webUrl: "https://www.ibtimes.com/french-watchdog-mulls-action-against-us-ai-company-clearview-3503093"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/11/french-data-protection-watchdog-presents-its-annual-report.jpg"
-        width: 1200
-        height: 711
         isCached: true
 
 secured: "f3LoRawqK+hc42zalpcB/Oi1GJnxNl6gh0cdU2R720FvpU5qir0O7zjt8RoSpyAvMY0L6bpbr4up3NuCOZhoWNIYaKTiEjxQ99V/2PPVC8ky+d5IiMcwnRkOPc3bqjjlrBSZNwz/azRzYVRb9CW+5blw2L4jQdTFV90q7HkHZRWID3IfVuSqJay1Xk+WE69OnJRlKPADXDHq6S9rhwKPng2WgEL7AyjnYxGErxEwtjdkJ9sMkEmjmrH+5gIVYJ17PGDyvaPJyUQEpQnAHdAENaBSDUyy4TbpqZOGSmXuecXDBtqh+B6AotoIbhIsCVzB5p9TjYM2ZcYTGGPX6JfOSV/w4xM8yEnabSIvr3BHb6Y=;lAK2cs+1FK76vEPkD3+vEA=="

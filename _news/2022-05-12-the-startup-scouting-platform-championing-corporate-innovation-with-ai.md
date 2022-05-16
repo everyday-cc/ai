@@ -1,55 +1,54 @@
 ---
 category: news
 title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
-excerpt: "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The"
-publishedDateTime: 2022-05-12T02:15:00Z
-originalUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
-webUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+excerpt: "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi"
+publishedDateTime: 2022-05-11T18:15:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://lh3.googleusercontent.com/__Jn4g-5HH4_ZMyjmWpuer2Zb_RLKiPRLMDswfTePpLBtBbnq31QHR6DQvAS9_82whxKfpi7RUOoCnEkEbn1mdgwAnexrzC9RskHWubQ_Cdu-kSf9_UDd6l7OdAAKKiZVqK6ANqCwWP4RyI2oA"
-    width: 1012
-    height: 445
-    isCached: true
-
 related:
-  - title: "Artificial Intelligence Revolution Has Started With Arthritis"
-    excerpt: "Scientists and physicians have now succeeded in teaching artificial neural networks to differentiate between rheumatoid arthritis, psoriatic arthritis, and healthy joints. This new finding is described in the journal Frontiers in Medicine. There are many ..."
-    publishedDateTime: 2022-05-11T17:44:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-revolution-has-started-with-arthritis-207050-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-revolution-has-started-with-arthritis-207050-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-revolution-has-started-with-arthritis-207050-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/stem-cell-osteoarthritis-knee.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
-  - title: "Accelerating Startup Innovation with Simulation, HPC, and AI"
-    excerpt: "But these complexities don’t have to keep you up at night. Smarter, simpler, and scalable simulation, HPC, and AI solutions can unlock your potential and transform your startup."
-    publishedDateTime: 2022-05-11T13:20:00Z
-    webUrl: "https://techcrunch.com/sponsor/altair-sponsor/accelerating-startup-innovation-with-simulation-hpc-and-ai/"
+  - title: "Curious Thing’s voice AI communication platform asks the right questions"
+    excerpt: "Sydney-based Curious Thing is an aptly-named startup. The voice AI communication platform can call people and ask them questions like “How are you feeling today?” and then follow up with ..."
+    publishedDateTime: 2022-05-15T20:00:00Z
+    webUrl: "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/"
+    ampWebUrl: "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 47
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/FounderShoot-2.jpg"
+        width: 5529
+        height: 3691
+        isCached: true
+  - title: "Controlling AI edge applications"
+    excerpt: "AI, Boxer-8253AI, and Boxer-8254AI IPCs. The company’s recent Gene-EHL5 subcompact board with CAN and 5G connectivity is made to meet edge applications. The Boxer-8240AI features the Nvidia Jetson AGX Xavier module (Source: Aaeon) For example,"
+    publishedDateTime: 2022-05-12T11:22:00Z
+    webUrl: "https://can-newsletter.org/hardware/controllers/220512_controlling-ai-edge-applications_boxer-8233ai_boxer-8240ai_boxer-8253ai_boxer-8254ai_gene-ehl5_aaeon"
+    type: article
+    provider:
+      name: can-newsletter
+      domain: can-newsletter.org
+    quality: 39
+    images:
+      - url: "https://can-newsletter.org/uploads/media/raw/478cc66ae63932aa1c10a9dbd39c2991.jpg"
+        width: 700
+        height: 237
+        isCached: true
 
-secured: "eeWzEPVrq27X48lUmxnIofq223B0o3E2cdjt4DcqBPQ+PA2Yh+jnwvj6r1Qmslp3zkC0AHp/4A2V7JWbrfZpaCfFZ+3g2wQPkA0wTT5AzvCBv6Lg7gfsIlDcrmj0m4tqRXz70kzRnDv+jhthcM2BC0LCGfiHzSSFmuBkd2lmuAMQDBiaYjj3I5nXc078GsmHhYEOKUOI/6TWkEE71tjRkHGcHq0fM3RvLhe+d8DtBMgLolMaBc/OVIKIxG3CuTlvKJdL8TkI/FmvkTsmdSx4DeUybKcIYI1YvjnxS/hxATYUAviT5x8NjxUQBkpv5JNiOshQYrBit5uBZ24+aTumJeUIt5G8FkPkorobPSdgzEM=;OS/iS9xcIPK2lmYiyTRB7Q=="
+secured: "KD2/zs+7EXhqbU/By8ZTTeZRW9EYi8lcjb+g46TNr/kTrxFm5UPHY5Lbyha2MVG/1MfytddfuPmooYFJnq/DfdLipzaPWQa6GaX86NJXHmLeVYUXa/bnCSvxnNINvRfEYvLnfKpFY014H5CtN/P3ysSITq3NQGX05eAuNaF+HLs0M8a2aDE45+mx6SP4gXCtv+w8SylkQV9npslVBtaw/hs/PXsYgFoG12R5jRvQjrbQ6zIWynTv55dKQ52Q0D/nffAvqt3FYwFTVChGsD0cEWONYncQDnEu9ALygr4c9WMuRqTppUxLozfSE+FNG9LnbwTqlsPlzyreFuBjysOimFIg2Y986u1PLV4TNPZnuw7cIoIqA6tNchU97JdlGbznxpBZVvkckFvVWa/6Zyn+/QpSK64m01CZ6gCZ2oF1u8vIZKbg3TuZmZGSXBQTsO8c4eoZvruR75QPsxDUdq0m4uaqVAivyGVr+wPlC4Z2hG9PEJpNlmItBCcCWuqm43MUwbLWtevzQNd0P4oZfosWLQ==;TPZlDHR0rPwpZW9keN4+aA=="
 ---
 

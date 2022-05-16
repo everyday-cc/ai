@@ -1,29 +1,26 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-13T02:04:00Z
-originalUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
+publishedDateTime: 2022-05-12T21:04:00Z
+originalUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
 type: article
-quality: 51
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Texas Public Radio
-  domain: tpr.org
+  name: KUOW
+  domain: kuow.org
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/d5d6df3/2147483647/strip/true/crop/4256x2395+0+216/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F15%2Fgettyimages-1240669381_custom-144a52603518a39d815c097382e17f4d2652af4b.jpg"
-    width: 430
-    height: 242
+  - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+    width: 838
+    height: 628
     isCached: true
 
 related:
@@ -113,6 +110,6 @@ related:
       domain: mcknightsseniorliving.com
     quality: 8
 
-secured: "U/CmL8DFwGo42+T2BziNs2DIM5JDMStGbw0soqdVdDZ8D2x2PmhAxFCoxmVcE7lXymMp1s7HCJOX3xlgy+sM6+BzcBaEkozkETixSAw9y7eiNQwICkBN4h0G2u3ZPNqEVqTFkjqOpBOpiiaioUBgw4uTrBJNKWDZu+09w6DexDDSBNQz3iIt516+N3UFLux47KKdVLZE1KP0OCOLDkpUlYnstuaV/PZ7g/WKmV98yy3KK5PRBRoXTBQMYsWzEZAfqB64tObxK5eYEhzoXeU8/xEEMBnJ75e9/dKmBWHfazEf2lWQCKi7XAF2Dk4kCtJrOthB3m3UJ9hBMd5jhRMGcgHRfAwfUTfZegSqrxkScK6sA0rGIDcxRBdK+VfjZkdxiHrkDQWy4GscFsqzguFicMHcPR7rzQi9KDHKsixnr1STb/OH+EkLFEik04ZSYJ8j76e9qxh8iVpoXtidDA0MpJ0W0PmaUxm1bc5BOSfDGikFuZ8TVFySpyq8LnWgXlARX0JWebUEm7JtHI14aFOLEA==;AHhdSKaylwUzGxwf8bQI3A=="
+secured: "cFEYigbF7jkmDzvgeDRz7znhTyH9iMcvdR+zJ7UpqUEvJDsc2sR/5DjcCtLwT5lvOnTOf6aahXE6sODVpuffbKN/Kd6cwDalgMoUdaCTloQLdbC6Ra0joqU8J2tQC+orP8X+8AQUIytTrkoLPpzt5mcxshk7aE2Hb5eC+pwhJGkQyhSkcLZFj2IEiThmWFRCDQHT+uoZtrywcdTz1GD5CneNVSIG2dWUy2juwDCrZMq/jm3RdC2BYQoieaDa3xI59ntlhsSxYNOrU7B0XXn3lOkHCFKAzdn+S6DSyXWYA/QYZwmpDHaterwZS3yBYKDBAGoVcha2KcQ9hL99+Yl5hIcSqY8qQQG7lBaixFEE4hc=;1XsD1gg6h0sW2g9KNhCZ2A=="
 ---
 

@@ -60,9 +60,9 @@ related:
   - title: "Can AI Identify Race From Medical X-Rays?"
     excerpt: "An astonishing new study published in The Lancet Digital Health shows that AI can predict a person’s race based on X-ray images with a high degree of accuracy, but scientists do not know exactly how."
     publishedDateTime: 2022-05-15T23:09:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
     type: article
     provider:
       name: Psychology Today

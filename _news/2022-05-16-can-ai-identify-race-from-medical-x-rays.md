@@ -3,10 +3,10 @@ category: news
 title: "Can AI Identify Race From Medical X-Rays?"
 excerpt: "An astonishing new study published in The Lancet Digital Health shows that AI can predict a person’s race based on X-ray images with a high degree of accuracy, but scientists do not know exactly how."
 publishedDateTime: 2022-05-15T23:09:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays"
-webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
 type: article
 quality: 57
 heat: -1
@@ -73,6 +73,6 @@ related:
         height: 576
         isCached: true
 
-secured: "GZ2iyrqyw1bfNfdFC+VyLU7pD6BbZYDtnpD5gu8NERmL/QHynqPDIj9DDENgC27phVZVH4qcnX48eGKvmfFTdGKcNBCkRPZMkqbEv2jpivq7FjIvTXmPM+HJomFz5Mk+AtdIW5hRH/ED2Q2CBxzPysq5X2X3Jw8TNYkjEtw/N3FgjHE2CzJTncA6+qNjc+k23V4kvx5vsGevc+03XW4mXuat2MBwuSnjFArhkNKMx06FJzCS9wbS4ACJbZNDplWvvdmLHzquBuPo3DSqGNZEGMozX/NAi4AdL6H2LEoXgZ469MLsAfQf1Y4SrlFNYJfH86FZFW7WDaFaPhPxbnlWz/IJbNBr5mGQua0ddZOZMKa2tEUp2LAH8ztn9wxg8o9IkdZJkPjywEs6aTFs5D+n1n0B5+lx6upOlTwixT4I3u1wxHEW3OuxP9YoU6IipMlXye0JGRUPdkOWSPTGWAvpwXiyrQneYgwp/fngROdxH7eGy7V9kC8BFj8vGBa8H8QMSnoQOnP5PxLGK7k27Ar2Ow==;QXOpOwZpE1HXqa1T79SMYQ=="
+secured: "KTYi1sEjhaWDi9Sy/1FSg9l/ks9PLm/o4BwGyLTnpDWEProzLXn5pGhtDry7+RFci1S8v5j4PpNjUUtQc8wWPnR2cMB8sewXuJYM40t7FA8rIiN4EGY3yq3Le06gEmhnsjEMELAwAGYKMX1t9TW+UgT3dmF3Rfr3cVwNC17VcdGbfITudg3MDmBoUrpVWn32Nh9HJap9pCa0WAtLvPVqTocEDESJdZt6xwqLB8MDaDhMH1YAX+C0Wn01HXAB/3ISMDQrw/G1Rbrr5+rzY0o01YXc3DMurGiT4hXKlk0qBudtumbJEkP2MIHMcw/afl1jKTOwlpqJ/U628vY6nikpHfUg5Q8cf1zKxa3CfPtmPrE=;a5+DtS3qKsVL5rNCD84ogw=="
 ---
 

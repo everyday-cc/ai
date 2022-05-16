@@ -97,15 +97,6 @@ related:
         width: 1600
         height: 939
         isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-    excerpt: "Dubai, UAE: Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment over three years, according to a new commissioned Total Economic ..."
-    publishedDateTime: 2022-05-11T13:26:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-x0av2kla"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 21
 
 secured: "WU6IcdQaQ1pRwReLiWb8xb7F5Gj4nbSXWNcSHQQDSgUESU7T81AjUbi3sjBO8EgozKupL8S3qms0wisvDggNhNmS97UNKZpiVQgYQB1fVPxZyr49qHmVaDjY2hSctX26g/lsxeQ2JFkOw8+5tRutLSIZP3inVQ+pRVKXSdOqGMjyyY5vrrR3iChG003/8PCPgDLDbk9Lfna5blPfcXQIuLR7YFQSEe7NXNqVCwq8EbWeMnazhfaCjoOjea9sL38pkCbQCQKOhBF1xhv/rOZqJgl3yt1J0TF0nTnhFdYj06QHCx8lLe8IrBaOr06cqi+lNX20g5g1WrrmG1AFXw10igtkLQsMOqHTl3KUmzODSos=;hjw2tFONTmak5mmn732uSw=="
 ---
