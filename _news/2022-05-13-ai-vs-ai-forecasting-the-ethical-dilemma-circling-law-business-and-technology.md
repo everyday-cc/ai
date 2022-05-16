@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 727
         isCached: true
+  - title: "Building AI for healthcare made easier with programming tools"
+    excerpt: "Chronic disease prediction and management is one of five projects under Singapore’s national AI strategy launched in 2019. . Read more at straitstimes.com."
+    publishedDateTime: 2022-05-16T04:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/building-ai-for-healthcare-made-easier-with-programming-tools"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/05/16/ac_profOng_160522.jpg?VersionId=fwE7bWPg9d3hX43zFvxORfd_zS3OejWb"
+        width: 860
+        height: 573
+        isCached: true
   - title: "How AI is used in filmmaking"
     excerpt: "However, compared to today’s sophisticated tech, Lucas’ AI system was pretty basic. Marvel villain Thanos’ origin story is a good case in point. The tech team put tracking dots on Josh Brolin’s face to capture his expressions."
     publishedDateTime: 2022-05-12T12:30:00Z

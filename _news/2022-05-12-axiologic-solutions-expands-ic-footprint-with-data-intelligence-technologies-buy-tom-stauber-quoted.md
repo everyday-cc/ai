@@ -23,17 +23,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Axiologic Solutions Adds Data Intelligence Technologies to IC Portfolio"
-    excerpt: "Rapidly growing mid-tier federal technology firm makes second acquisition in less than 18 months, expanding expertise in artificial intelligence, cybersecurity and data science Today, Axiologic Solutions LLC,"
-    publishedDateTime: 2022-05-11T12:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/b27133010/axiologic-solutions-adds-data-intelligence-technologies-to-ic-portfolio"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
-
 secured: "hvX+IP2Yc/xm0y0YgXrFf8Ku2jklIsGzl7gaW5Z0dQGtwoHjVYMj28Sek5fZcWGTMEQzs8VzxrBXqi6Rlw7In6e/Pt1bYTe7QS+xjkG1w8vmaeGnEUmLQDRfBskxJp87yBWqKHgWZ6Ks4N3pWZ9gZ1J81BP3JmUROXdmQdAXd9zoHag9Un7ILq8fAL6rsQ0MbQZKD7HDT5vgoxFKy3YcbUKzk7ehEduaJ9twWI4i9VXIbO/rEMqsX9/u8MAsuALtHvCfkk9YxMv168W3SUgD3Fr4bNzbV27TwaZFUflQ7At3h4NnlMRicX/Umz3/BVAwIY9IyfOT4n1z6/e30YPq791Jd+yTQsdSbxF6wJllcAY=;MoSMI4KTQwhrjlAunh7IsA=="
 ---
 

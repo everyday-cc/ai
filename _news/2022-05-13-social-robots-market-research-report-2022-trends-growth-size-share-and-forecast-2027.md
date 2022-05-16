@@ -48,20 +48,6 @@ related:
         width: 335
         height: 250
         isCached: true
-  - title: "Artificial Intelligence in Video Surveillance Market Size, Share, Trend, Top Key Companies, Segment Analysis by Type and Future Forecast 2028"
-    excerpt: "Global Artificial Intelligence in Video Surveillance Market growth prospects of the regional and global markets"
-    publishedDateTime: 2022-05-11T11:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-surveillance-market-size-share-trend-top-key-companies-segment-analysis-by-type-and-future-forecast-2028-2022-05-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence-based Security Market: Current Growth and Tomorrow’s Potentials | Market registering a CAGR of 30.25% by 2025"
     excerpt: "Description New Research Study “”Artificial Intelligence-based Security Market 2022 analysis by Market Trends (Drivers, Constraints,"
     publishedDateTime: 2022-05-12T10:37:00Z

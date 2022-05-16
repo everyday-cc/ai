@@ -39,15 +39,6 @@ related:
         width: 342
         height: 342
         isCached: true
-  - title: "Concentric AI Raises Series A Funding Led by Ballistic Ventures to Autonomously Secure Business-Critical Data"
-    excerpt: "Round of $14.5M to Support Team of AI Experts and Cybersecurity Leaders Targeting Overshared Data with AI-based Solutions for Data Access Governance and Loss Prevention Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting ..."
-    publishedDateTime: 2022-05-11T12:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-11-concentric-ai-raises-series-a-funding-led-by-ballistic-ventures-to-autonomously-secure-business-critical-data"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "VFfLC8o/6S3keA1wGBkNme2x3dGkfy3x6Ug125Wd7gD9vP7hDAshwIJtbLh9004CQbwIwUxIwksMl9+Q7sh0Kmysr3Lwb69/P/HZwpfrEL3H92EnicBHsPHBOtmF9kLs7YALpwJK46EeeqhyvBBq2PLvXklwy2QmOI4h1CqrnzG5g+frux+IXBt/DCFT1sK7KF7UdKlkB1/7Aw6nOV54UCUCEljDRnxHRhQCxF6aI+L78OM4JaitRn/HnewqC8RD/LfIcnBP9qBBsFQxc0f6HEPB3CQSK5pK/v67XICXs91uUih6QXW9lEbWRkbP2v/Fz0CvXYevrLUrzVvDVS+EN7/300I8BV0wz8OtD5y6kZrvC+TOFynF9ny9CIgpsu/ZkPk/z1o+uP5SCcVu9ssV7kPv8zxnx6nAccYdhmQS61nV5cECFlh9LPAG5YicCfESdiOBARCSoBM/3dLLPgxj0jExazJCBkv1X+4ebkCV/CYbrRr835DP4pgXc5sBbf5Z7WcluqvDB9fpNVVrWEup9w==;X6wkq/VL3IdYJbsJDf4nUQ=="
 ---

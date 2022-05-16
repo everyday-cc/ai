@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
 type: article
 quality: 75
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6265c81c35d2f416ec30ff04/0x0.jpg?format=jpg&crop=2849,1725,x865,y0,safe&width=1200"
         width: 1200
         height: 727
+        isCached: true
+  - title: "Building AI for healthcare made easier with programming tools"
+    excerpt: "Chronic disease prediction and management is one of five projects under Singapore’s national AI strategy launched in 2019. . Read more at straitstimes.com."
+    publishedDateTime: 2022-05-16T04:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/building-ai-for-healthcare-made-easier-with-programming-tools"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/05/16/ac_profOng_160522.jpg?VersionId=fwE7bWPg9d3hX43zFvxORfd_zS3OejWb"
+        width: 860
+        height: 573
         isCached: true
   - title: "AI vs. AI: Forecasting the Ethical Dilemma Circling Law, Business and Technology"
     excerpt: "This article provides a discussion of the legal and ethical questions involved when private companies defend themselves and then retaliate as a result of a cyberattack—a so-called counterpunch known as the “hack-back."

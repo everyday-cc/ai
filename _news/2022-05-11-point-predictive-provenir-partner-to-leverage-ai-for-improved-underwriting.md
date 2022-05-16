@@ -7,7 +7,7 @@ originalUrl: "https://www.autoremarketing.com/autofinjournal/point-predictive-pr
 webUrl: "https://www.autoremarketing.com/autofinjournal/point-predictive-provenir-partner-leverage-ai-improved-underwriting"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "GE Healthcare partners with Alliance Medical to improve healthcare with AI in the UK"
-    excerpt: "GE Healthcare (NYSE:GE) announced today that it signed an agreement with Alliance Medical to create a new digital health solution."
-    publishedDateTime: 2022-05-11T11:07:00Z
-    webUrl: "https://www.massdevice.com/ge-healthcare-partners-with-alliance-medical-to-improve-healthcare-with-ai-in-the-uk/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 47
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2022/05/85b7331a-58a9-4ead-90f5-873011033916.jpg"
-        width: 770
-        height: 500
-        isCached: true
 
 secured: "bY6+EsFKz+tZ1a+WXrdM0tmjqDvH5zzXcCjhjcYyxY8PYkF+unsPn/hBaPe7LTE34pT6WmCn3yqxg899FP1ZXR/6nQHzJ+sLJYDZJ+yjfZ9t+/LtkCdnJVTcKJFBJgpytmZ6bUBXykZEHN8g+Yl2lKFraWTjW992BEwZ1SwrbWhD0GXn/h4ZifTRGavoOdyE10nQagJERmHIu5KisNXSohQA4dHNb6yjLX1k0TwOeCHSFZnPDE/Q5d6C5jAAMM8R59PADcykD2/voZ0QgaP6i1CL5xXTCNGRS9cABUeBB2bcv1Dw8Zw9kswg1891gtQ54NLRtVMmGis42+w4ZEX2PM3tjnkreY3NgmEigY9zaro=;Ec6Ehpq04sMjYN1MtXy/xw=="
 ---

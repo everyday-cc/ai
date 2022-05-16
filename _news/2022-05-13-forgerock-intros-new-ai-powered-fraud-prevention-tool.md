@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "ForgeRock releases AI-driven anti-fraud solution"
-    excerpt: "Join AI and data leaders for insightful talks and ... screening measures throughout the login process. Since the start of the pandemic, the amount of digital fraud and account takeovers has ..."
-    publishedDateTime: 2022-05-11T12:00:00Z
-    webUrl: "https://venturebeat.com/2022/05/11/forgerock-releases-ai-driven-anti-fraud-solution/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "ForgeRock shares down on weak guidance, launches AI anti-fraud solution"
     excerpt: "Shares in ForgeRock Inc. dropped in late trading after the digital identity management company predicted a lower-than-expected earnings outlook. The company also announced a new artificial intelligence-driven anti-fraud solution."
     publishedDateTime: 2022-05-12T00:17:00Z

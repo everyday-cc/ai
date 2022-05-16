@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/05/11/forgerock-shares-weak-guidance
 webUrl: "https://siliconangle.com/2022/05/11/forgerock-shares-weak-guidance-launches-new-ai-anti-fraud-solution/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "ForgeRock releases AI-driven anti-fraud solution"
-    excerpt: "Join AI and data leaders for insightful talks and ... screening measures throughout the login process. Since the start of the pandemic, the amount of digital fraud and account takeovers has ..."
-    publishedDateTime: 2022-05-11T12:00:00Z
-    webUrl: "https://venturebeat.com/2022/05/11/forgerock-releases-ai-driven-anti-fraud-solution/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "ForgeRock Intros New AI-powered Fraud Prevention Tool"
     excerpt: "ForgeRock introduced ForgeRock Autonomous Access, a new solution that uses artificial intelligence (AI) to prevent identity-based cyber attacks"
     publishedDateTime: 2022-05-13T01:14:00Z

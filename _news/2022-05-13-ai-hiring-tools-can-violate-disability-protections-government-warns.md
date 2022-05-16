@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disabil
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
         width: 400
         height: 250
         isCached: true
+  - title: "Using artificial intelligence software for employment decisions could be discriminatory: feds"
+    excerpt: "Employers using artificial intelligence tools in the hiring process could be guilty of disability discrimination, according to the federal government."
+    publishedDateTime: 2022-05-16T04:49:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/using-artificial-intelligence-software-for-employment-decisions-could-be-discriminatory-feds/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 8
 
 secured: "tz+xvxonVAR5IV+2+XEpkJ4asWiU/dz3KOp2QRVoQrjHmhlYL3LuEzIRDgtk6tEAwpzJYa7eM5c0KNnH9P3xD3AHonr3hqpYNeZUxiwI+ujA2JC7SqQptL5XVtEJlSt/oaXs0DLU3TjJ/SLhLTLNnzHAyWaY2r4n+Nj1rDU+U3PjMySQStTUO2Li4KzYFt+cYFbeDGSnXYlWd07p2P1fYVeHjVIMCRM2mDx79hEvJnUXSzcH8PzoIMd53U8ABuBwsI55XyuVwmPsbF95IzHLTAKnJOQilcHYMtFd7/AbM2SmSETRcyV2DYN+Cq0FNfdUsvEdwZh6QZ5xi0V2UsYzei6/8tmExQ1psvrFO3tw3koZY4XSunsQrhJDYQGEkjtUvz84u4EO5KdumHM4xs88kKVLz+ZudpllwFdKHHcOSmT9wQ3acrf8M73RNkodMo9Y1CltFJMcx2qlpOrqVL5a3djBSaIKEPcelWDXQqPI0iZFKzP6e6Z+3/QzKCa/H5fXvh1bNboqk3ss1pPsflejgg==;fWKdPcD3beJvmIbsTg4k5Q=="
 ---

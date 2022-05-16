@@ -103,7 +103,16 @@ related:
         width: 400
         height: 250
         isCached: true
+  - title: "Using artificial intelligence software for employment decisions could be discriminatory: feds"
+    excerpt: "Employers using artificial intelligence tools in the hiring process could be guilty of disability discrimination, according to the federal government."
+    publishedDateTime: 2022-05-16T04:49:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/using-artificial-intelligence-software-for-employment-decisions-could-be-discriminatory-feds/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 8
 
-secured: "Dun56eADMU/MIDr+meG6U3zjklUKG3FJzokdprDrz0kR4EAPx4CWJNyZgg9ZIUH0GWIrIi3AYurL2clGJNIvMg2UD8FQepLq4GPR2ZUcdtakXBPsRxVNJwMsy3meEwLlv5A9LOBBRCh+74eXndHPsEZEBvSd9+G8Yl8LD5soerZrOakFiEKp10Rp3bNKUQpMGeX20vnqz9gs/WIPh71dKxBu6auquBvu3yUqsDU9bGgbWsVeQ2MoAvTMVTAUAcdPv7ZNSevee/bwbXeBjLuQBH0HHwvs59bRxA0YitlVqpT3o2ifZrYvKMl7nkAkxSUkl7asFk/4nhbVHSqK8q+EZCV1OtoaNNGIMWIhy6dzDOs=;i2V+VgoLl+OIYv80g1L/wQ=="
+secured: "U/CmL8DFwGo42+T2BziNs2DIM5JDMStGbw0soqdVdDZ8D2x2PmhAxFCoxmVcE7lXymMp1s7HCJOX3xlgy+sM6+BzcBaEkozkETixSAw9y7eiNQwICkBN4h0G2u3ZPNqEVqTFkjqOpBOpiiaioUBgw4uTrBJNKWDZu+09w6DexDDSBNQz3iIt516+N3UFLux47KKdVLZE1KP0OCOLDkpUlYnstuaV/PZ7g/WKmV98yy3KK5PRBRoXTBQMYsWzEZAfqB64tObxK5eYEhzoXeU8/xEEMBnJ75e9/dKmBWHfazEf2lWQCKi7XAF2Dk4kCtJrOthB3m3UJ9hBMd5jhRMGcgHRfAwfUTfZegSqrxkScK6sA0rGIDcxRBdK+VfjZkdxiHrkDQWy4GscFsqzguFicMHcPR7rzQi9KDHKsixnr1STb/OH+EkLFEik04ZSYJ8j76e9qxh8iVpoXtidDA0MpJ0W0PmaUxm1bc5BOSfDGikFuZ8TVFySpyq8LnWgXlARX0JWebUEm7JtHI14aFOLEA==;AHhdSKaylwUzGxwf8bQI3A=="
 ---
 

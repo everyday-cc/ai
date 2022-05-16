@@ -86,20 +86,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Clearview AI banned from making private sales"
-    excerpt: "Controversial facial recognition company Clearview AI has been banned from selling tools that use its facial recognition database to private entities across the United States, following a lawsuit in a state with strict biometric privacy laws."
-    publishedDateTime: 2022-05-11T11:54:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/clearview-ai-banned-from-making-private-sales.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 54
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/clearview%20ai%20sale%20ban.jpg"
-        width: 900
-        height: 507
-        isCached: true
   - title: "Instagram filters affected by Clearview AI facial recognition database lawsuit"
     excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
     publishedDateTime: 2022-05-12T15:51:00Z
@@ -113,20 +99,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/64/064af774-4ead-11eb-88d7-13a705cb4fae/5ff34794c18c7.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Clearview AI will stop selling its facial recognition technology to private firms"
-    excerpt: "Clearview AI - the facial recognition company whose massive database has been used recently to identify Russian soldiers killed in Ukraine, as well as rioters who stormed the US Capitol building in 2021 - will no longer sell its technology to private ..."
-    publishedDateTime: 2022-05-11T11:24:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/clearview-ai-will-stop-selling-its-facial-recognition-technology-to-private-firms/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 49
-    images:
-      - url: "https://eandt.theiet.org/media/15480/dreamstime_l_208516777.jpg?crop=0,0.31791666666666668,0,0.18989583333333326&cropmode=percentage&width=1200&height=450&rnd=132617507000000000"
-        width: 1200
-        height: 450
         isCached: true
   - title: "Facial Recognition: Clearview-ACLU Settlement Charts a New Path for BIPA and the First Amendment"
     excerpt: "The closely watched privacy and First Amendment battle between Clearview AI (“Clearview”) and the American Civil Liberties Union (“ACLU”) came to a close on May 9, 2022 as the"

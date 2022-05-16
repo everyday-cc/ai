@@ -46,20 +46,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Overjet Named to Forbes AI 50 List of Most Promising A.I. Companies Shaping the Future"
-    excerpt: "Overjet is the only dental and one of the five healthcare A.I. start-ups in Forbes' annual list of companies using artificial intelligence to create a better future BOSTON, May 11, 2022 /PRNewswire/ -- Overjet has been named one of North America's Top A."
-    publishedDateTime: 2022-05-11T12:30:00Z
-    webUrl: "https://fox59.com/business/press-releases/cision/20220511NE53512/overjet-named-to-forbes-ai-50-list-of-most-promising-a-i-companies-shaping-the-future/"
-    type: article
-    provider:
-      name: FOX59 News
-      domain: fox59.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1514996/overjet_Logo.jpg?p=publish"
-        width: 2532
-        height: 1143
-        isCached: true
   - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
     excerpt: "Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its selection to the 2022 Forbes AI 50 for North America. The list recognizes standout privately-held companies making the most advanced and impactful uses of artificial technology."
     publishedDateTime: 2022-05-12T12:00:00Z
@@ -77,15 +63,6 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 17
-  - title: "Forethought Named to Forbes AI 50 List for the Second Consecutive Year"
-    excerpt: "Forethought, the human-centered AI platform, was named to Forbes AI 50 list for the second year in a row, accompanied by other notable privately-held North American organizations that are making the most interesting and effective use of artificial technology."
-    publishedDateTime: 2022-05-12T19:24:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-067e20f53fd142d5aeb6d46ddbf5f95c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
     quality: 17
 
 secured: "a9FIrNyuLPBW9vKcNak27SHU2TEHRK2EhiW1Vq26yjXF1bP6Bv8SnI1bOGaPRy2Pf4Kl1KR5X0a3UCuhc5Nf1R4ZLiVWVstHk411Em2TzTqj09M0cKQ12jniT0axQSNtKtFUAjeJiXPOuNbyXi8+uqkDF8LSTde95CfSzL1iXj3VKm/E+N9m+x3TwybPC9IWYYr2FKWh5TucHgZodvhK2tUU8xr3PfJKfuBq+spe16iYhzum8gtAS+x7xb3/lyBYIqtB5QIRGIQWN1uXwLEbZdjZC73kbV9Znm+qqSR5k29QIJkMIc4x0e+iX1Yts9KG3NPz8SU8YG47vl0JnW/ifpyPZIBEaHxOC+2PaVcUfb4=;F4oECKl6pXwFUhPjHa9tpw=="

@@ -1,25 +1,27 @@
 ---
 category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-publishedDateTime: 2022-04-29T12:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
-webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
+excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+publishedDateTime: 2022-04-29T02:00:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/258040"
+webUrl: "https://www.ryt9.com/en/anpi/258040"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-secured: "Q4SnodAE2PuI8pCHW1NounK3uRyLOz5w14pIiN6ctS/yjUEjhJK9JIEVuK4+CibiQ1o6YPZmkpbGe/zyYYUHqYW3Lw2yDJSqEKgIM9h9o84LQUxephOhIId8c5O9PNkrLnbyyFwXPyRwJTSmqgxc3kBFFdJyytEeKQoPISqjxQclKepHQZFGRz21r/8bANAbKGxLlwkX13O+LTVGKIIyzdKCuJWwRgz10evsc7eHsJX84IBTJGAvhxCnjv+JuoI7jd3ezo7rK4OCrQUywBmPB6bmgGJvihYExfcRkhVRwtS4CHrgqkzBedMs8LuvDdw1yXWd/CGEQT5DHwTCzIwsvC/A7uwOM6yoaCeqRCencf5loU/0v6CHNUH43fdqVMOPAqTqCt4UeIZAKV67BMG8zXRNqxOrtr3Xyob13iy4kf4zrQo+yfMd3wY7EsEwds69H+rpPf9QuTbOLyj0ckGVzBcecblfaoK9IAmO/MIi81/1DBOIA78tuBiF47U1goXcZM0AzaLq0T2E0b4q3GOp/A==;QcDRuggM7Ht6o+oEPriByA=="
+images:
+  - url: "https://www.ryt9.com/img/files/20220429/iq9f569a3e44ec243e714b4394c8b83d08.jpg"
+    width: 599
+    height: 370
+    isCached: true
+
+secured: "gxA2uVpnmQ5FwZ6vfS7LArNJ8wrB00Yu/lhEmw13hNPvjNMfvrroq62n6/+ulKdcuNiOZPId38cDmZgXdXovsNQzgHlFl4QG9d10t1N5J5g+dmOq3gqsKfLWiNOF0IjtKhIE0whv0xyMt6SvyLJjLD7jFSWUK3MSmTEHmNTRHkRT0s/jmIsgz7LZXanN7DjOEZM7K+kojLj1MJ2+M8INN+6CsnzrRYohqFEdrU0EuC7w8o1jMiGXazj/vqqwwGAk16Ys9fHGhF/4cq3KKdzHsBCkOdSadUb5buJgeOHAYOQxAEDMo7eWYjmS7LY7PfZeC32/P341dAfwgn7guRX1bY+jHbQlExDvPyUBJG2MAoM=;HBTh4zugKVpOs6u8y+mzxQ=="
 ---
 

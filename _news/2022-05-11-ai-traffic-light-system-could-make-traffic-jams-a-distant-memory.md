@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-05-ai-traffic-distant-memory.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-ai-traffic-distant-memory.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: techxplore
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI traffic light system could make traffic jams a distant memory"
+    excerpt: "Long queues at traffic lights could be a thing of the past, thanks to a new artificial intelligence system developed by researchers in the West Midlands."
+    publishedDateTime: 2022-05-16T05:00:00Z
+    webUrl: "https://www.expressandstar.com/news/2022/05/16/ai-traffic-light-system-could-make-traffic-jams-a-distant-memory/"
+    type: article
+    provider:
+      name: Express & Star
+      domain: expressandstar.com
+    quality: 37
+    images:
+      - url: "https://www.expressandstar.com/resizer/cpox9jDNsJUDDMDiUr8RQQrSXMU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/RIHOU3A4YVFGJML7S2FS46UBSA.jpg"
+        width: 1200
+        height: 902
+        isCached: true
   - title: "Promising AI traffic light system could mean the end of traffic jams"
     excerpt: "Aston University researchers have developed an artificial intelligence system to manage traffic more efficiently at intersections."
     publishedDateTime: 2022-05-12T05:31:00Z

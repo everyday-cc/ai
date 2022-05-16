@@ -37,14 +37,19 @@ related:
       domain: techcrunch.com
     quality: 47
   - title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
-    excerpt: "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi"
-    publishedDateTime: 2022-05-11T18:15:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+    excerpt: "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The"
+    publishedDateTime: 2022-05-12T02:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 17
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://lh3.googleusercontent.com/__Jn4g-5HH4_ZMyjmWpuer2Zb_RLKiPRLMDswfTePpLBtBbnq31QHR6DQvAS9_82whxKfpi7RUOoCnEkEbn1mdgwAnexrzC9RskHWubQ_Cdu-kSf9_UDd6l7OdAAKKiZVqK6ANqCwWP4RyI2oA"
+        width: 1012
+        height: 445
+        isCached: true
 
 secured: "J++F8IoqsBOmi1CAgPTklylimwfZkc154b90KSOBiR+BxGyPQL8fs3xpqmAe1JdYqC2jOlFf/s6lOB0ld6u4rZ9OXOc1mTs8k8wMWBNGf5Z/HI3BG0MMX7pv8AX0Im1ZpM0dro7qFPDA89gqLUkfu4qW6Et9X8n/YGskRS1dQ5hkzXVMYqxViEk1HRih9l1V7zg3JYqRkBqNuHBezbgFdomPljyII4haVLc5VKmDHtdJWTmMhFh+DiCmICoBBafShT+G/O/zPesytrNevAvOoMATTPo12O9KtGUvO4FqTrBo0XWzqPpA3napqBg8qmr5KMXb3XslTpyItpGjT7LG+NxTiHJVvB9lvDpjH8DuCCFAHInQosM0pFgZlTXx61+s23xHn16ZcQXaEcU1qj/1xeRVxxm/DWaVQaTwK8L2/RFNMd8fwB3+8cYD4xg8ktff5awxnJVPFPJhKw2d9uFEFYOjVWCuLo4W1G8NeU8S6BlAfGHrgqyh2fODgekoCetXz+XAM+g+7ItJO7mhD1mZSA==;uRHdxMAAMcvIbG10LerfkQ=="
 ---

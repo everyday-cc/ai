@@ -1,20 +1,26 @@
 ---
 category: news
-title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION “META-aivi”"
-excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and enhance ..."
-publishedDateTime: 2022-05-04T14:32:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a"
-webUrl: "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a"
+title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\""
+excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and ..."
+publishedDateTime: 2022-05-04T14:00:00Z
+originalUrl: "https://www.rochesterfirst.com/business/press-releases/cision/20220504HK28756/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/"
+webUrl: "https://www.rochesterfirst.com/business/press-releases/cision/20220504HK28756/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WROC-TV
+  domain: rochesterfirst.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "lbkC/Cm00JFNr55ZjfR7lL63HFzBph3tILWriGTD0LaL/Koqgota9IzFGM2fdOhPOkTdH3zRQQs3NosxRFR2BRO2cK1t/taJpvQpA8jHZN/Zfxygm1nlbLL2AnyGqY+v/mJCC8NsHPeYCE5jxZvlQylLe5eOgKbO/MXp04OZW6kViwOai/UZvMdJ15dV/Xq5B3IZ7AvDnOcbkeJdayDbppYVNAMLp1Nio+Hi63WRGBo0msZGcov5IQqbJ7z7Vy6Mc1xTP9XTizlLZ3kv2cbXTrvqRaLAf8cOyuAhvG1mj2RpaqlQWalY4Wqc4edzilFFXcjxB0Jn7scudJAl9Z8ohpGONxNk1oBes71Z5ZGpsGg=;2+deufkScCT3ZdAmUkHFOQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1799549/META_aivi_empowers_frontline_workers_wearable_AI_solutions.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "xA1Xk6zdo91xzpQ3jg9INvF82LC1e3CuvUEQEFjhumDgs/U3HPRo9Bo6pal4LnQaaT6vS0FVRUMooqk2BgTgirDTSd+i7U8gide9G8j0rZAQNiJ8hx06XUASFlgUrtV6+kEfsBlIIQzcNNIL+rdjgKl4797tSxUOglCWV/YU56bGWqz5pP+oiRAtwN+mDOPjYn9z7oMwvxVRei/TJR5K7BzfJY8DAhiu1PhwzfZJLBgaa6KbO8WucW7EAqZUwR3z2f+jfdfjp9XSIpDAn3u3AlxyOP6Vaw1TlMYNgiTfU9k2IDeiFAsDjY4HnRTi3kBPYBKrot+rcG8jcUvEJeEfAnIP8X6TXL5qVxK2vL7FGu8=;LoV7JZ1njO5qs+hpomfcUQ=="
 ---
 

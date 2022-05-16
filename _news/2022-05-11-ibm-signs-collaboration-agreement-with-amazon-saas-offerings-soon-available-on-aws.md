@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreemen
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1"
 type: article
 quality: 68
-heat: 158
+heat: 128
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i.itbusiness.ca/wp-content/uploads/2022/05/think-2022.jpg"
         width: 1372
         height: 468
-        isCached: true
-  - title: "IBM Signs Strategic Collaboration Agreement with Amazon Web Services to Deliver IBM Software as-a-Service on AWS"
-    excerpt: "Building on IBM Software being available as-a-Service on IBM Cloud, this first-of-its-kind agreement between IBM and AWS will provide clients"
-    publishedDateTime: 2022-05-11T11:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-signs-strategic-collaboration-agreement-with-amazon-web-services-to-deliver-ibm-software-as-a-service-on-aws-1031447470"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
         isCached: true
   - title: "HERE collaborates with AWS on supply chain solutions"
     excerpt: "HERE Technologies has announced it has entered a five-year strategic collaboration agreement with Amazon Web Services (AWS) to help organizations improve their supply chain visibility, transportation and logistics (T&L),"
@@ -113,22 +99,6 @@ related:
         width: 690
         height: 428
         isCached: true
-  - title: "Telia Company accelerates company-wide cloud adoption by upskilling 2,000 employees on AWS and cloud technologies"
-    excerpt: "Largest in-house AWS training program in the Nordic region to date, investment in the upskilling of 10 percent of Telia’s total workforceDeep collaboration"
-    publishedDateTime: 2022-05-11T12:40:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/telia-company-accelerates-company-wide-cloud-adoption-by-upskilling-2-000-employees-on-aws-and-cloud-technologies-44423/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/telia-company-accelerates-company-wide-cloud-adoption-by-upskilling-2-000-employees-on-aws-and-cloud-technologies-44423/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/telia-company-accelerates-company-wide-cloud-adoption-by-upskilling-2-000-employees-on-aws-and-cloud-technologies-44423/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 38
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IBM to Deliver Software as-a-Service on AWS"
     excerpt: "IBM (NYSE: IBM) today announced it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc. (AWS), with plans to offer a broad array of its software catalog as Software-as-a-Service (SaaS) on AWS."
     publishedDateTime: 2022-05-12T17:48:00Z
@@ -138,15 +108,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 21
-  - title: "IBM partners with Amazon Web Services in SaaS arrangement"
-    excerpt: "IBM has signed a strategic collaboration agreement with Amazon Web Services Inc. (AWS), with plans to offer a broad array of its software catalog as Software-as-a-Service (SaaS) on AWS."
-    publishedDateTime: 2022-05-11T12:35:00Z
-    webUrl: "https://westfaironline.com/147770/ibm-partners-with-amazon-web-services-in-saas-arrangement/"
-    type: article
-    provider:
-      name: Westfaironline.com
-      domain: westfaironline.com
-    quality: 19
 
 secured: "Eoa5ZhOy3I5KlvvWHc25xM4zEC3oMByo5BXFefs9abZpP21GM1b5SdKPdbLTasx7+GQB+B04rW2IkyTGOZOdwItSBZKsU/cQCtNdqUTYUOtuAkAa7RV5f5spCWrzV23IvcKzkfoitw4FfYRxFZBJMaj8QKmBWCdVEMsZkP8mhvOvN7IMTfSRC//qUPJflyYJTeHJxy4I9D5fvicakVGk1r1RlemnUusC45lQPOVsupUuvsgWYwOhT76PPre3v+miNBf2zMhGA/XkBhQkOm/OhyhxRhXV3iwpMshp8w5LsNfa5HJRGFFZN8h7fFeFm24H+x8UMfRGYP4wCn9Fd2lcf9k3iC1T5nDerTl3gbyKFjwCGcYXAUwIYWpEY4tQBe66IVzXqC4uAAYqrNdcw4fCZC/W5RLhR8cadYPsoLHjMx18Su4VaP10STZGo9StaEjwS0N1VidlV+AlLT+bUPZLuV4q6QfQEtzm1QneAou2h8eMsSx74mTSc/akhI5PxYEtSVyF8DeYH+pY2kxxaNzGwQ==;RtaRjHOD2mMc1Iod/SP6Mw=="
 ---
