@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T13:30:00Z
 originalUrl: "https://techxplore.com/news/2022-05-weakly-machine-features-microscopy-images.html"
 webUrl: "https://techxplore.com/news/2022-05-weakly-machine-features-microscopy-images.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: techxplore

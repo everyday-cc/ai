@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healt
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-grows-at-an-incredible-speed"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "AI In Pharma Market See Huge Growth for New Normal | IBM Watson Health; Alphabet Inc.; Concreto HealthAI"
-    excerpt: "New Jersey, N.J., May 11, 2022 The AI In Pharma Market research report provides a thorough and comprehensive analysis of the global Industry. It contains"
-    publishedDateTime: 2022-05-12T04:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-pharma-market-see-huge-growth-for-new-normal-ibm-watson-health-alphabet-inc-concreto-healthai"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/59a169b2a70d8102777da1f1989c4bb10e3db2cf-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "2tAl4lZAuMbBvS2mG0CiOjh1lOOW2+rsYFydPIKKtPFXRP77CAcg/e3waaqp4Yn4BNBqiTU7EjvLlqUmW1hArjrlJ29Nv6o15pzu/KERIJr3gqpjB0LJO8T0YcNAjRJLLsvo4xHi0Ku7HpXRohHgE0tcXt47nIi0mYcvO64wT50v2uRK36DFMgEUpZ66at1Vt+wec71j9rCqMBmSYY+fjiGJlThtsyrtZ/i7I34vSqYSBDIx//FGFPvlwhXfJufTAI4FQ8PIpn5MJEQbTL3np8DqkSEtx7tDQq6q1mbvyCQzrom/zURc/nZiLbT4Cs/QX7xTZWhCM/x4Qzhycu78aZpwE8jQLhMKce63rDWjQ2UnDCT3sxDC6Ty6r+dwbLeakcp/RLbfu9kFMWoTaryjZIbD/24IcCkO4gX8/zU1zqnkxxCpLkQA1YdoF7Phk2hk80WktyO826AFnzZsW+zMkQWoS6TkC6a+bYJUV7fkPGHGOZ6RnFdsRFD+YmNIPGqYkBUv17ucoZnSkisL6kaiCA==;wYVH6/VZ3HUn6B1Xn68zOQ=="
 ---

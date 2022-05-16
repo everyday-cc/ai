@@ -34,6 +34,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 13
+  - title: "iHub-Data AT IIIT HYDERABAD LAUNCHES FOUNDATIONS OF MODERN MACHINE LEARNING COURSE"
+    excerpt: "Mentors with considerable exposure to machine learning will help participants to realise objectives of tutorial projects. Industry experts will also contribute to the learning outcome through ..."
+    publishedDateTime: 2022-05-16T18:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254058&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
 
 secured: "AKZShHH37n8304Qm+w1427Q0fyFk/g1HJ1ZL7JZnlw6QH5oWWVp4FLbPpdHMbbAH0X0iAvaEBIS4D2x4Rf4N6BTsNmGlA0Kpl7xYvHfhZ210ushn9hsNfQFq74kGP7MEk/HSgHbnhWGPCbSlzFhLWGa3HFLbbotPDe9cYbEZN2pVEVx/vqQpsgKTsSrU5UXJA1+zbsb2eDGFnewU1g4OlHg7GgoSPysCStGqx5tcoozqxfi8yvr0E0RrZgR6/3A4Piy0UmqnQzgyaw4jl7iTM4E6mVPpmAs22F30fIniSesvDuWMSXSiMWNI67aS+7fz++NYzdXh28Uz3CwTZ08Q62un9mJxEHDmAZw/53GQLzc=;PlX18fxDmTNZBpO5CW7lIg=="
 ---

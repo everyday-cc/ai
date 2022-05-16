@@ -20,22 +20,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "IBM customers interested in the cloud can now run its software on AWS"
-    excerpt: "Customers using AWS will be able to access IBM software for automation, data and artificial intelligence, security and sustainability that’s built on Red Hat OpenShift Service on AWS. Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on ..."
-    publishedDateTime: 2022-05-12T04:05:00Z
-    webUrl: "https://www.protocol.com/bulletins/ibm-aws-cloud-software"
-    ampWebUrl: "https://www.protocol.com/amp/ibm-aws-cloud-software-2657302123"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ibm-aws-cloud-software-2657302123"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 59
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-ibms-software-portfolio-will-now-be-available-on-aws-raising-questions-about-the-future-of-ibm-cloud-less-than-br-greater-than-less-than-p-greater-than.jpg?id=28137119&width=400&coordinates=0%2C208%2C0%2C209&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
-        isCached: true
   - title: "IBM to offer software through AWS"
     excerpt: "The US technology firm this week announced that it has signed a strategic collaboration agreement with AWS and plans to offer “a broad array” of its software catalog as Software-as-a-Service (SaaS) through the cloud company’s marketplace."
     publishedDateTime: 2022-05-12T14:18:00Z

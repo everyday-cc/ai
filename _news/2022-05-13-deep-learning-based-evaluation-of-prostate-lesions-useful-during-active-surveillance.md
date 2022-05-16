@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T00:00:00Z
 originalUrl: "https://www.healio.com/news/hematology-oncology/20220516/deep-learningbased-evaluation-of-prostate-lesions-useful-during-active-surveillance"
 webUrl: "https://www.healio.com/news/hematology-oncology/20220516/deep-learningbased-evaluation-of-prostate-lesions-useful-during-active-surveillance"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Healio

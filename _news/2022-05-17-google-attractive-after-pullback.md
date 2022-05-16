@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T17:54:00Z
 originalUrl: "https://seekingalpha.com/article/4512101-google-attractive-after-pullback"
 webUrl: "https://seekingalpha.com/article/4512101-google-attractive-after-pullback"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Seeking Alpha

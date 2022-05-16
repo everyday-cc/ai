@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T19:57:00Z
 originalUrl: "https://www.sfu.ca/computing/newsandevents/2022/computing-science-professors-receive-computer-graphics-awards.html"
 webUrl: "https://www.sfu.ca/computing/newsandevents/2022/computing-science-professors-receive-computer-graphics-awards.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Simon Fraser University

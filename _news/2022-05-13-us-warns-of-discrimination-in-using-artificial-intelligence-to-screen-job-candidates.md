@@ -1,28 +1,27 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:12:00Z
-originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+publishedDateTime: 2022-05-12T21:04:00Z
+originalUrl: "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-hawaiipublicradio-org.cdn.ampproject.org/c/s/www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: New Hampshire Public Radio
-  domain: nhpr.org
+  name: Hawaii Public Radio
+  domain: hawaiipublicradio.org
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/1de9943/2147483647/strip/true/crop/880x495+0+82/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2Fff%2F88b58534493e90ced23288407c2d%2Fcoalprotestersimage.jpg"
+  - url: "https://npr.brightspotcdn.com/dims4/default/4ca644a/2147483647/strip/true/crop/3936x2215+0+203/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F16%2Fap22136505808953_custom-a51309a281905ed9e54b595118751e2ec48e4a14.jpg"
     width: 430
     height: 242
     isCached: true
@@ -54,7 +53,7 @@ related:
     provider:
       name: The National Law Review
       domain: natlawreview.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426
@@ -114,6 +113,6 @@ related:
       domain: mcknightsseniorliving.com
     quality: 8
 
-secured: "ikbVxIH2xjsgFCtAsv4goIa+JwhyTTYxuyWfxMApPWeSqsHqXhcifoG3r155zlMB/7BkhQjCL6pJXaB3wPVsATQDws/DMNTNyZt1mfhZuWO26CzKrKHvvjpEhYle9s2+9EzcfC9MAGz3QEVwZ2o2SwUgyO8JhcOcBWblOmBjyBvVTiJCqCu6+8HJBGcMU/9k/ton4YUME9AnQKaPwyTvJianYj33b67ae5PvjliL+JtJbgkMIZZv1Aq9N5xq6iRLGeyF1IL3HzmX0v3Gqk+UkpfSS0UviTaWDbZqNzHAWL0/hayF0+qDNaZ0gZNg1pErwAlslVuqG+wmb2ZRnYLo75TA8tNcctSGAfFSI+0JRXd0typJC4y9kAJ5/zvcw77IRAi77iNYICZufS4rtGXoNKvt7RVLllMGPGLzI4nvscw2wtjRfEBjhqW6EaEL5zoRhTG5fVq4zXCdGVBAefeEof53/bVAZHJ9rtI1t/QCIOALEn9zhbl6BdyQghaFa+36g7nMoabPmgFEjbvKd6uTiA==;Bm+1lXsz5zzVJTzQ029p0w=="
+secured: "zGzgUiWnzOqILbn+a3LKpKP3AWdN9DpXumeui5nR/e7rm926bu0q2dumsRTXUZyzlsu75roqQkHaJhsL9j9ozFKqQtq6GYnEWZVjF4FLyGxU+sQ7i6tRQtoV+0WcgR9Ql5zE3vrI6DIaFC3RzWTHYMoaY9QeGKqh7wNW0QWJAGQw5SwAiVilB8ek0jVZSKxIGGKuM0dk6puZD251E5MGBYtz88mSF+DKjoqRo/I+Buq0IG9PNydUiXz1+JvWUvmzT7M0P7/BY85/yYikFleVd+Ov/Ug9i2EoiIfBi3h30pFKIk48gCEi2cTm5xe31L9bhO7UWcpp1SyeoX8jY4ofuHCBXrqrtBAzYrq0dXLJ4OY=;BO1Ql/Kpe7C6g90dlnhRqQ=="
 ---
 

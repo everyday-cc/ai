@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T18:34:00Z
 originalUrl: "https://www.extremetech.com/internet/335644-human-rights-groups-ask-zoom-to-scrap-emotion-ai"
 webUrl: "https://www.extremetech.com/internet/335644-human-rights-groups-ask-zoom-to-scrap-emotion-ai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: ExtremeTech

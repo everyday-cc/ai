@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "AI Pioneer Red Dot Analytics Teams Up with MetaVerse Green Exchange to Support Carbon Neutral Data Centers"
+    excerpt: "MetaVerse Green Exchange (MVGX), a digital green exchange licensed and regulated by the Monetary Authority of Singapore (MAS) and industrial AI pioneer Red Dot Analytics (RDA), a deep tech spin-off from Nanyang Technological University (NTU), Singapore ..."
+    publishedDateTime: 2022-05-15T08:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Pollution-Industry-Smokestack-thijs-stoop-unsplash.jpg"
+        width: 1200
+        height: 1500
+        isCached: true
   - title: "Uniphore: Building deep-tech conversational AI for the world"
     excerpt: "Uniphore has the vision of becoming the horizontal AI layer running across every organisation and every single conversation, including—not in the too distant future—in-person conversations"
     publishedDateTime: 2022-05-13T08:57:00Z

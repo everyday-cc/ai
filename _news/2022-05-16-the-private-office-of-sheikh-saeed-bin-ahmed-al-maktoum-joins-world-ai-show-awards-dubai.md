@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/zexprwire-2022
 webUrl: "https://finance.dailyherald.com/dailyherald/article/zexprwire-2022-5-16-the-private-office-of-sheikh-saeed-bin-ahmed-al-maktoum-joins-world-ai-show-and-awards-dubai"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "The Private Office Of Sheikh Saeed Bin Ahmed Al Maktoum Joins World AI Show & Awards Dubai"
+    excerpt: "To be held under the patronage of the Private Office of HH Sheikh Saeed Bin Ahmed Al Maktoum, a member of the royal family of Dubai, the 35th global edition of World AI Show & Awards will bring ..."
+    publishedDateTime: 2022-05-16T19:58:00Z
+    webUrl: "https://menafn.com/1104223932/The-Private-Office-Of-Sheikh-Saeed-Bin-Ahmed-Al-Maktoum-Joins-World-AI-Show-Awards-Dubai"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
 
 secured: "rMtzcpobsDOz4zz7blIiNwRpKuwkY6HSJOn7t+4zBYjp7DQsMoZEy8rw5hqbAy2Fu/PcPygqihT3EF9ip3S8fQZFq/cVBsPHKbQiRq9y7Zwa82zLGqhn3nCKCcWT3iW0IbCxPrKIbUofjsktBFx9/YR9ZCVFzJj3Ql8omMbK8wgu14P2Hwr3MD3xdyS6GkvYB/Uylf+u2QmiJZ/vBdR9XZgA8x64VTcAI+Yj+8QlMHB1Bsf2n/vhbwddQEd50ka+GOC59Xhcnbqx/jrHeuwrgyIGdRvImB3iizF8aOM7xjaFj/aNAj13laUbVAVFEUisxVmDxXbxOsOQxHrM7fdcnTTw1dKfy5eKr2lEq9qD1SY=;f4CPanigxZSJ49ZsfftkeQ=="
 ---

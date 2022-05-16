@@ -89,6 +89,22 @@ related:
         height: 682
         isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
+    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
+    publishedDateTime: 2022-05-16T20:28:00Z
+    webUrl: "https://www.ctpost.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+    ampWebUrl: "https://www.ctpost.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 57
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/55/37/22468592/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used hiring tools could violate civil rights laws."
     publishedDateTime: 2022-05-12T21:24:00Z
     webUrl: "https://apnews.com/article/technology-discrimination-artificial-intelligence-e1bcf4a2e7f1b671cbf3a44bc99b3656"

@@ -3,21 +3,32 @@ category: news
 title: "Blaize and Innovatrics Provide Edge Ready, Low Power, Low Latency Facial Recognition Technology!"
 excerpt: "Innovatrics, a global leader in biometric technology, and Blaize®, the AI computing innovator revolutionizing edge computing, today announced a technology partnership to deliver ready-to-use facial recognition solutions designed for access control and public security applications leveraging SmartFace Embedded and Blaize edge computing devices."
 publishedDateTime: 2022-05-16T12:43:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-biometrics-2d73e50808434105a3414c36c87713b0"
-webUrl: "https://apnews.com/press-release/business-wire/technology-biometrics-2d73e50808434105a3414c36c87713b0"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-16-blaize-and-innovatrics-provide-edge-ready-low-power-low-latency-facial-recognition-technology"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-16-blaize-and-innovatrics-provide-edge-ready-low-power-low-latency-facial-recognition-technology"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "56LI5Wa8yLiIjYXH2qvAEjNqHs+5UBvEzf9Jxy5aoPK+eTaX5VABnIi4Z4/RP7dNB67dcF2GYgmncO+yaUiBIrcBai3iS5Oaj0Ccr9HGk0/74/AgKgSGD2PBw6vJhupSIuLnJkX8CG+jNqu3FKtiA6413EGOGGV+I6dQSNKZd48lQAVEUbnLJQrVsxIPm/pMwJGHqvUT+xbzN1/JfYIrCRLyUF+Vgp0SpCK2nh4vWaty4JSdLoHu8FKVGe+DcTp8lLV5vaKxcSuRZMKmHVUyi5eK40SUXIai39mi8vWpU2XCndDcmgzs85KlswRMUtdFmqxT3sbrGrKLxTE3tEMuwBim6r16cnJxPO1WGjZjMb4=;aSYEaa6x7T9CZ8DjozXDow=="
+related:
+  - title: "Innovatrics and Blaize partner up for facial recognition security at the edge"
+    excerpt: "The technology partnership will feature SmartFace Embedded by Innovatrics and the Blaize Pathfinder P1600 Embedded System on Module."
+    publishedDateTime: 2022-05-16T19:22:00Z
+    webUrl: "https://www.biometricupdate.com/202205/innovatrics-and-blaize-partner-up-for-facial-recognition-security-at-the-edge"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 48
+
+secured: "iqo1IoqRVPgH3g7mwkTOOQ+eVJQafiY3nGZte+PIklUqpVAOT2CJQywx+DGUB2xMc0AIUb//76Y/xuPIxB7xalheH1DOSp6+zDxm5ww+syd1R821fIgpdQq6AQaWsYdsHJBdfZBXURhLib255Mo73MuZCxgyAQbMCc93dj35Fcn2V9H1PlocoQulCrqEiO8ByJvzGO2BDurYZBubh4Xa2/JqFTX8K/aRoy2rX3vUD8rsJxTq2tZN897mF3B9td04msvv7QkFQqeU3HSgO+kpjHrm2LvRfle/DfHrW3jPEDr6oe7p+Q96qU4cBhYUP8aUSjYnO6UvVXqcjtLWj0nOy36t25ciFYDPgGaWAFYwnuc=;lio8MtNY0sLndB1Vn0Ry4A=="
 ---
 

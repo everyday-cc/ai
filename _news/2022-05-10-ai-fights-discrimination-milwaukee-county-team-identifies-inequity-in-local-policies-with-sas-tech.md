@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech"
-excerpt: "SAS Hackathon an incubator for innovation and social justice. CARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data scientists and technology enthusia"
-publishedDateTime: 2022-05-10T14:35:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
+excerpt: "The combination of AI in the cloud gives Hackathon teams – and businesses ... Per Reggie Townsend, Director of the SAS Data Ethics Practice and recent appointee to the National Intelligence Artificial Advisory Committee, “As part of our responsible ..."
+publishedDateTime: 2022-05-10T16:25:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-wisconsin-discrimination-race-and-ethnicity-racial-injustice-f3dd369fa744596c740c0b0ddcd255ef"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-wisconsin-discrimination-race-and-ethnicity-racial-injustice-f3dd369fa744596c740c0b0ddcd255ef"
 type: article
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Microsoft AI
+  - AI Ethics
   - AI
 
-secured: "EACADNRYzzrohGUshSO1P7en1kGmi3M+muXTJgfQ005ZXRQ/agVVHaU0D6XbDpiulbSti1HXSCdLphYpvVhY+MadghjAcEdtb0mhJDFWGoKv8qspFFxQRxIiqzc4NysotTG7Xr1hFosVngJepOQQTbh9yQh+Sgz0T+i37r4KW0iiYeGo9nCEi3riLgk0lVjEIWte6jowYYgNTBo2+Sq/bkPkg/tfsnFEiMAYFC+KGLlL7/fYZe5sJnu1q4ePuGu5Vht+o5ovu6W0tsSfZPvX2Z21WJLIYXDxTLGR4wZ/dpuWt+/t52TZbYeourSmZJDZvJ86Ieus/znKV6VMCs/dxa6vv10aYAdvX8vX0dFVfo6iAMuhRzOWfAHPgIWAczLPGoV0Je30dEF+xB46lYrbMfPG3KBGHVHYXOfIeZxaMMEoxK1sdDjtmADHlTnDPAm/SC2WIDdIy8G/G4A4QTmEz6S9Qt/Vv96BeIolhqufeRJecf9VZx+jEqyoP9iv547k0a2U98npwAv2FhmfXURjkA==;lz/sdPV2HxKUhAgk9XVyhA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "N3Rge8uP/ZrcimN6k3NeGGeivFa7OcP+81fKmcA53msO+KxD/70XoeZPgiOcWFwtRpQGoYfi8dyGdykuI33T7Jd6NWsFB3Akb8EJQdJQNRSx9v3ge1/i3QJKHWgx6CU6xFsle009ZSTqfp2q2YCyKlSJLLRz2uFMPx3TU1GFCc3Rck7joEOfRh8xoDPhz3xrUXmZ5kdKUzlYWgfV52vqsAB8qwufb2+mxYbPy4qZh/UrEYDPROt5avzNJCK3I4dTRpHYIkoq1HDR0vTW3kp5oaBoKQqudYskqgJxGHb/CbbT1J3CkAmJGqy4gcgGRg2EzZekdri8UlDRwHMbjmAuzbnk7Z7xEz1qKqnC1Y47pjs=;YMi2htOe7boctzASyT/tHw=="
 ---
 

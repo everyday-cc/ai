@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-
 cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://bossip.com/wp-content/uploads/sites/28/2022/05/1652371215888.jpg?w=560&h=320&crop=1&strip=all&quality=80"
         width: 560
         height: 320
-        isCached: true
-  - title: "Meta removed some filters from Instagram citing the state's face recognition privacy laws"
-    excerpt: "... of their face-changing filters have been removed from Instagram for fear that they could break Texas laws about facial recognition. Texas Attorney General Ken Paxton said the big concern is that Meta could store your facial data and sell it without ..."
-    publishedDateTime: 2022-05-12T04:38:00Z
-    webUrl: "https://www.kvue.com/article/tech/meta-removed-some-filters-from-instagram-citing-the-states-face-recognition-privacy-laws/269-153b23d5-c720-4e9b-9491-8951441b3a98"
-    ampWebUrl: "https://www.kvue.com/amp/article/tech/meta-removed-some-filters-from-instagram-citing-the-states-face-recognition-privacy-laws/269-153b23d5-c720-4e9b-9491-8951441b3a98"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/meta-removed-some-filters-from-instagram-citing-the-states-face-recognition-privacy-laws/269-153b23d5-c720-4e9b-9491-8951441b3a98"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 50
-    images:
-      - url: "https://media.kvue.com/assets/KVUE/images/7ad9533f-98f9-4e3b-8991-aaf6ea290fc0/7ad9533f-98f9-4e3b-8991-aaf6ea290fc0_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Instagram filters disabled in Texas during facial-recognition lawsuit"
     excerpt: "Instagram disabled its filters for users in Texas, thanks to a lawsuit filed by Attorney General Ken Paxton that alleged their facial-recognition technology residents’ privacy rights."

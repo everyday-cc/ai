@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T19:12:00Z
 originalUrl: "https://www.bizjournals.com/sanjose/news/2022/05/16/kriya-therapeutics-scores-270m-in-funding.html"
 webUrl: "https://www.bizjournals.com/sanjose/news/2022/05/16/kriya-therapeutics-scores-270m-in-funding.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T18:12:00Z
 originalUrl: "https://www.pcmag.com/opinions/you-can-say-no-to-face-scans-for-airplane-boarding"
 webUrl: "https://www.pcmag.com/opinions/you-can-say-no-to-face-scans-for-airplane-boarding"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: PC Magazine

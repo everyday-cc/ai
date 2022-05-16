@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/ibm-to-offer-software-t
 webUrl: "https://www.datacenterdynamics.com/en/news/ibm-to-offer-software-through-aws/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM customers interested in the cloud can now run its software on AWS"
-    excerpt: "Customers using AWS will be able to access IBM software for automation, data and artificial intelligence, security and sustainability that’s built on Red Hat OpenShift Service on AWS. Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on ..."
-    publishedDateTime: 2022-05-12T04:05:00Z
-    webUrl: "https://www.protocol.com/bulletins/ibm-aws-cloud-software"
-    ampWebUrl: "https://www.protocol.com/amp/ibm-aws-cloud-software-2657302123"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ibm-aws-cloud-software-2657302123"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 59
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-ibms-software-portfolio-will-now-be-available-on-aws-raising-questions-about-the-future-of-ibm-cloud-less-than-br-greater-than-less-than-p-greater-than.jpg?id=28137119&width=400&coordinates=0%2C208%2C0%2C209&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
-        isCached: true
   - title: "IBM to Deliver Software as-a-Service on AWS"
     excerpt: "IBM (NYSE: IBM) today announced it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc. (AWS), with plans to offer a broad array of its software catalog as Software-as-a-Service (SaaS) on AWS."
     publishedDateTime: 2022-05-12T17:48:00Z

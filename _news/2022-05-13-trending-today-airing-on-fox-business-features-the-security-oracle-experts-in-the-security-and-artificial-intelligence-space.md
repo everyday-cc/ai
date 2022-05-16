@@ -19,15 +19,20 @@ topics:
   - AI in Security
 
 related:
-  - title: "AI vs. AI: Forecasting the Ethical Dilemma Circling Law, Business and Technology"
-    excerpt: "This article provides a discussion of the legal and ethical questions involved when private companies defend themselves and then retaliate as a result of a cyberattack—a so-called counterpunch known as the “hack-back."
-    publishedDateTime: 2022-05-13T14:00:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2022/05/13/ai-vs-ai-forecasting-the-ethical-dilemma-circling-law-business-and-technology/"
+  - title: "Funding Data and AI That Serve the Social Sector"
+    excerpt: "Five ways for funders to think about investing in data and AI that would put ownership of responsible data and AI squarely in the hands of the social sector."
+    publishedDateTime: 2022-05-16T21:58:00Z
+    webUrl: "https://ssir.org/articles/entry/funding_data_and_ai_that_serve_the_social_sector"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 29
+      name: ssir.org
+      domain: ssir.org
+    quality: 39
+    images:
+      - url: "https://ssir.org/images/blog/Porway-Funding_Data_for_Good-737x737.jpg"
+        width: 737
+        height: 737
+        isCached: true
 
 secured: "dDnbx5xIsV6pLY44rlleInJ33cxPA1scqnRqGSJWXmSFVzDrFNy6tFmsIhK3woT25G/pH7jsL5UZyIBbwcsnQYdaYKIm7aqbB2laFAPTNvQvNfFjrAIu7D65pbPPYj5EBbrFKUXXBIjug4aqKT21ITE5vhOJeAjI8tuFN4lJ6sg09mrZi3ecdhvTuHK3NEIsDKUfUH8lxM/Tc5e/4MYAW5Fl0Ef73ADShNDnNexK6gYpDBJAJ0NGW0CAYBz/px8yuDhIJn03vF37iu/xtqR40QdN8CrBAqHMtDCIQXIfAFhCI4L195XGFDH0EaMtCAaFbYwx8w1keargq8/P4nHBI3W911fEPYqq3/x8g+pHBEa9CwoZYs2ZhNFJhgXWPcV0yoGt3o+ZnOpEUi41aahLHg8sAfkcFCAW3hwtYrxE3XdPt0nogNmKCv+8DqOpgLMfLzyTTzcKUqg0XZCrEL0xbj1igIM6vphhq3gF/H7Un29q2knX+ETLN6oQVNojUw7R7gvVixIKIY+gHXh0Vdgnsg==;cZUnYQzbdgAepiwX8TOM7A=="
 ---

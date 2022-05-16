@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T19:14:00Z
 originalUrl: "https://thenextweb.com/news/exclusive-john-deere-closes-in-fully-autonomous-farming-latest-acquisition"
 webUrl: "https://thenextweb.com/news/exclusive-john-deere-closes-in-fully-autonomous-farming-latest-acquisition"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: The Next Web

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artific
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/assets/v3/editorial/d/95/d950e724-ed71-58ff-aa1b-e6cb09c7fd5b/627d867cd5bae.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "U.S. civil rights enforcers warn employers against biased AI"
+    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
+    publishedDateTime: 2022-05-16T20:28:00Z
+    webUrl: "https://www.ctpost.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+    ampWebUrl: "https://www.ctpost.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 57
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/55/37/22468592/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased artificial intelligence"
     excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities."

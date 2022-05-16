@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T17:27:00Z
 originalUrl: "https://www.djournal.com/kaust-acquisisce-una-quota-di-propriet-di-cinque-startup-internazionali-all-avanguardia-e-introduce-nuove/article_94990831-b0f5-51fb-b7c9-5825f4fa3dc8.html"
 webUrl: "https://www.djournal.com/kaust-acquisisce-una-quota-di-propriet-di-cinque-startup-internazionali-all-avanguardia-e-introduce-nuove/article_94990831-b0f5-51fb-b7c9-5825f4fa3dc8.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Journal

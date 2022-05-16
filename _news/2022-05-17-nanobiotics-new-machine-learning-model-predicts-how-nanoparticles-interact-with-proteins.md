@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T18:56:00Z
 originalUrl: "https://phys.org/news/2022-05-nanobiotics-machine-nanoparticles-interact-proteins.html"
 webUrl: "https://phys.org/news/2022-05-nanobiotics-machine-nanoparticles-interact-proteins.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Phys.org

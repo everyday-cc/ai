@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2022-05-artificial-intelligence-offset-huma
 ampWebUrl: "https://techxplore.com/news/2022-05-artificial-intelligence-offset-human-frailties.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-artificial-intelligence-offset-human-frailties.amp"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: techxplore
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-35.jpg"

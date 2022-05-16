@@ -31,19 +31,14 @@ images:
 
 related:
   - title: "Salience Labs Raises $11.5 Million Seed to Develop Ultra High-speed Chips Using Photonics for AI Applications"
-    excerpt: "Salience Labs has raised a seed round of $11.5 million to develop an ultra high-speed multi-chip processor combining photonics and electronics to accelerate exponential advances in AI. The round was led by Cambridge Innovation Capital and Oxford Science ..."
+    excerpt: "Salience Labs has raised a seed round of $11.5 million to develop an ultra high-speed multi-chip processor combining photonics and electronics to accelerate exponential advances in AI. The round was led by Cambridge Innovation Capital and Oxford Science Enterprises,"
     publishedDateTime: 2022-05-12T08:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/salience-labs-raises-11-5-million-seed-to-develop-ultra-high-speed-chips-using-photonics/article_760371ad-06b6-53a7-9a5d-7554fc54b0c1.html"
+    webUrl: "https://www.eagletribune.com/region/salience-labs-raises-11-5-million-seed-to-develop-ultra-high-speed-chips-using-photonics/article_2be83257-a0a7-5783-b20b-9ee79fb58214.html"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 35
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/26/7266998d-462a-5c5a-8bc3-244d03bf1e14/627cbfa83dd44.image.jpg?crop=1287%2C676%2C0%2C466&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 15
 
 secured: "5auK4GJQS0OxbBRcEp5aWl9c5S8Baowc/VEKm1MOq99KBmv4GA42K0bVq4k8RJ3uj/ihc+ZjNdI3+1Cm/KJ+ELzjkfXsefem2lf7GfBZqkf+MNzuwjG7FUyRv9bDx1YjKog86jObsChLgyG/F9qQgatFy3BV89V6iiwTbugY8s50zwV/46ScXfjuG86GtfzwbMGvItskO0740ciNCQDhnYOLX+VBzSzBdtw+Nlbmbqe0RRc9t5wKut3K75eteuqeO48CdgsH7cesxTkuPb8abuwNxIp56ywzASwrRzvr2XXus2L1pSEcWucV0zQlM7oK+RuFGlGu9563M1L1QSlCMzvvF1zAfRD9TmYSSERiMziWeH05OGdmR4ShuH2PG0ppiZ2awZArBGCru2hkqnMDIn3X5PPy+8Jxv9emVSKVNdxMfH5/31cLrdf7y0fBUozLsc0AcjCnd8GnnDBAJKWlCwsYjtIl/EfokL4A6NBIMrghsvB9yUx29mYkB8c7LSWISLloMj6la4hOPGzYT/+8dA==;PQAywU40Bct2yQy4Axhk/Q=="
 ---

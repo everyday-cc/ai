@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-priv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records"
+    excerpt: "The claim provides access to justice and a means of compensation which would not have been viable on an individual basis due to the cost"
+    publishedDateTime: 2022-05-16T18:58:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/982280/litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records-982280.html"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 38
 
 secured: "fcJOCsCJcWO20JIzSMEuEFRMt4J0x6FvJP0z0t8xuDzCCerrTWUDS97zREaVgnOkBkCUVeb2WIEeKg91YYjpfN7j9DGpTQG2z6OGTJq1avEcCflMhU7eRONLGwcB5WvnF1ON1Whv5LhPrQwc0v/QE3XfVrZ5pNbidLZ8jjejQ56//fDGjQQKVJmanPyFyLR9ZKRFeyZxZvmo4/nIc3waOiNZRNtulu73SZEIiX71Z3V+xEEvK7rfiB9pnqAVGowu0iGxXhdTArMf+wn8ej8u3RVTvk4naqxd7wqat/bq3vVmU6Gl9iCu+y8RzsE78JdHo6f4wezeXcd/EXu6CusDBHPrXv7Cf0Wv7ZaBga5igdAIEFCifkWJC2WBPWgtopei0BB8OtggEG/JODyiohyk093OUwjXoeEYxj6llkJzzyMtI2J8NicztqSDQta71Jxi7M7gH15xbq42RXcwHE4cQbMA5K87AsGQVY3aQWGM+0MSXE+MSjLJ17GcZg7tiIuYW0Ze+9jJQTgQc71wW3sfxQ==;2oBUYl9WxWd3FNaWGpz7TA=="
 ---

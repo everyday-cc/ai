@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T17:56:00Z
 originalUrl: "https://techxplore.com/news/2022-05-artificial-muscles-robot-vacuum.html"
 webUrl: "https://techxplore.com/news/2022-05-artificial-muscles-robot-vacuum.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

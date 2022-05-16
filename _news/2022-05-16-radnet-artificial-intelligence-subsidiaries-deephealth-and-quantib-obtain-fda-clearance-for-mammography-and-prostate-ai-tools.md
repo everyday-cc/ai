@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-16T10:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/radnet-artificial-intelligence-subsidiaries-deephealth-and-quantib-obtain-fda-clearance-for-mammography-and-prostate-ai/article_0d26159c-8777-5ef7-b390-8ad26fa72191.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/radnet-artificial-intelligence-subsidiaries-deephealth-and-quantib-obtain-fda-clearance-for-mammography-and-prostate-ai/article_0d26159c-8777-5ef7-b390-8ad26fa72191.html"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:

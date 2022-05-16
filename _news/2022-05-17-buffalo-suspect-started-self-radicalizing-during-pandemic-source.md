@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T19:41:00Z
 originalUrl: "https://abc7news.com/buffalo-suspect-started-self-radicalizing-during-pandemic-source/11856090/"
 webUrl: "https://abc7news.com/buffalo-suspect-started-self-radicalizing-during-pandemic-source/11856090/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: ABC7 San Francisco

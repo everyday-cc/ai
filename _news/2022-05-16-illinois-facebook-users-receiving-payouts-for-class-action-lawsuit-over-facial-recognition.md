@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records"
+    excerpt: "The claim provides access to justice and a means of compensation which would not have been viable on an individual basis due to the cost"
+    publishedDateTime: 2022-05-16T18:58:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/982280/litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records-982280.html"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 38
 
 secured: "RCcOwl4unQRFBx8mV/c0u2rYBSIZ4BTyLcw8Sv0D8bMRH7RpJXU4qvm7kVtTRT21lgyDKlvDniDqvEkKxk8SgBxdIt95CzeQa95oF9DaXe+4IEz7qjrLGVE+xUS977ApX5jqeSV1fxco+E3RzH/Q5di2g3tqSA/y3ylNwjP8JUknHzoGVMfQA+qar0y6LfeAq/iilMT/h1DPye+iCajNps0PAH53Hpq+bDdCgr+rjSrtDDQfixGPvfAgXC3FcyBcEnkuSc6h0P/9zRyC4BI5TRClFuavHUZLET4a8bXPcfEo58BKqoav6ccYmPEEud6WTff9FVNRz3K7PsPzspbn/n9jFbVjKPPGkFqv7/mMojbJKR+dGcMkuAIe99IJpu9FkOkFCNJQqBfJnEhLghG20lWn2HnxJsaZOmCLCHJ9q3xWbpVv2w8DDyTNTo3/vsAMZQd0lwLs4+BDpG9UxWdKouUk4hriwHzMqG5WdzrUUSXIyEyymnVsTPIoZ3VAGXRmul1QkUHbrEua8ApfwqAc4Q==;1GCoM+23UKpj3JJ5XkPN/w=="
 ---

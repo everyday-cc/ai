@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T18:39:00Z
 originalUrl: "https://www.digitaljournal.com/pr/europe-artificial-intelligence-in-defense-market-to-hit-us-3169-95-million-by-2028-to-grow-steady-at-11-3-cagr-business-market-insights"
 webUrl: "https://www.digitaljournal.com/pr/europe-artificial-intelligence-in-defense-market-to-hit-us-3169-95-million-by-2028-to-grow-steady-at-11-3-cagr-business-market-insights"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

@@ -26,47 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Synergies raises $12M to give factory managers an AI analytics assistant"
-    excerpt: "There’s no lack of startups around the world trying to make industrial activities more efficient with artificial intelligence. Some invent robots to assist or replace manual labor, while others use machine learning to help businesses discover insights."
-    publishedDateTime: 2022-05-12T04:28:00Z
-    webUrl: "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/"
-    ampWebUrl: "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/"
+  - title: "Kore.ai CEO says conversational AI is the foundation of the metaverse"
+    excerpt: "Kore.ai, a Florida-based company focused on providing enterprises with AI-first virtual assistants, wants to take conversational intelligence into the metaverse."
+    publishedDateTime: 2022-05-13T12:00:00Z
+    webUrl: "https://venturebeat.com/2022/05/13/kore-ai-ceo-says-conversational-ai-is-the-foundation-of-the-metaverse/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Uniphore: Building deep-tech conversational AI for the world"
+    excerpt: "Uniphore has the vision of becoming the horizontal AI layer running across every organisation and every single conversation, including—not in the too distant future—in-person conversations"
+    publishedDateTime: 2022-05-13T08:57:00Z
+    webUrl: "https://www.forbesindia.com/article/saas-rising/uniphore-building-deeptech-conver-sational-ai-for-the-world/76279/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 37
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/2.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.forbesindia.com/media/images/2022/May/img_184841_uniphore_sm_sm.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Loris Raises Another $12M for its AI-Powered Customer Service Support Platform That’s Empowering Reps to Make the Customer Experience More Pleasant"
-    excerpt: "Loris is a no-code AI solution that integrates with existing customer service platforms, to assist agents with language in real-time during conversations. CEO Etie Hertz shares"
-    publishedDateTime: 2022-05-12T13:27:00Z
-    webUrl: "https://www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/"
-    ampWebUrl: "https://www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2022/05/loris-conversational-ai-customer-service-support-natural-language-processing-etie-hertz/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 21
-    images:
-      - url: "https://www.alleywatch.com/wp-content/uploads/2022/05/Etie-Hertz_loris-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "AI-Powered Retail Analytics Platform, Intelligence Node, Appoints Senior Executives & Advisory Board Members to Drive US Expansion"
-    excerpt: "Global Retail Intelligence leader Intelligence Node announces several strategic hires to accelerate its growth in the US market. It has also appointed four prominent retail leaders on its advisory board to guide the company as its North American customer base expands."
-    publishedDateTime: 2022-05-16T09:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-powered-retail-analytics-platform-intelligence-node-appoints-/2022/05/16/9602164.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "J0kSVV+cRUka4Y1EB0vLyZdpIzWFYfUmPC2SZDh7jgTPVj3FfuZRQBV1hpARavvXDKl49NuQfYY7Ybb3TEJhKT31FoS3BzivXMQItiFmGjLVfneWFlqqN13mxs4qEGXovNHJ7Eje2VidI/Aim7wOwyRLlUO9y89do3T1w7jdHfWeX2sl3uy7DuTRhisSa8GlyLHEgGghR/DWZZL3CtwrH0cgAOb4OfgqMrbOU1qmPQrCoEPdgBz1lj6JFymrbneVo44plH611CRcmj+A+63subLgyOZVFJhV0KtHEMipMbYVvbJ2HfAFuMyUDN8SyAkhhW4YM8HZSQl5Eai2R3NAjJsWAYWH/9BP3ZIvKPqOtq6YRahX2aOv50sZACbb12GR4F0P1I2aeJC0tgo9ay5C3ILcgzS7nIiH6M9exNDtbrfiThISx8BEQJgA/siGrv0KORehjMoOcX53FhMK5yJBhkbYvOdLcmJ1J94+dekEYuRwAavSS5L+RFkT3R9WIU1ycoNno8Vse0xZwGuXG8qb2Q==;pLuszPE4je4GQF+H0L1xhQ=="
 ---

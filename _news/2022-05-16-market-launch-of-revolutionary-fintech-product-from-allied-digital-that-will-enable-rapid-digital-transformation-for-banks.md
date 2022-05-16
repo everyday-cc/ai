@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
-    excerpt: "Allied Digital Services Ltd, a publicly-traded global IT solutions, services and Master Systems integration company, officially announced the launch of its new FinTech product 'FinoAllied' which is an AI-Powered Conversational Banking platform ..."
-    publishedDateTime: 2022-05-12T12:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/12/9600536.htm"
+    excerpt: "Allied Digital Services Ltd, a publicly-traded global IT solutions, services and Master Systems integration company, officially announced the launch of its new FinTech product ' F"
+    publishedDateTime: 2022-05-12T10:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254034&cat=PR News Wire"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
   - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
     excerpt: "Government of India recently announced the rapid digitalization of the banking sector as part of the Digital India initiative that will stimulate financial inclusion. RBI further appended and promotes its policy of Secure and Informed Digital Banking."

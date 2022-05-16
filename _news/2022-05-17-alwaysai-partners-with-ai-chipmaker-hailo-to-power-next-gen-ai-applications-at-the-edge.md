@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-16T17:00:00Z
 originalUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/"
 webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/"
 type: article
-quality: 8
-heat: -1
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "FLEX LOGIX PARTNERS WITH ROBOFLOW TO ENABLE SPECIALIZED AI MODELS FOR COMPUTER VISION APPLICATIONS | Morningstar"
@@ -27,6 +28,15 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 15
+  - title: "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge"
+    excerpt: "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base."
+    publishedDateTime: 2022-05-16T16:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-e192e09560706e5d8810c71f5f2a3485"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
 
 secured: "dmI09/SoR/JSrx6m0hKHcoAOjt9uOyqMmP4hRmDLhpC/cN6duMg5tpcZv6c2P3I4jAntbzvAL6x82nn9n45by9qiH3Z8Q+N3E6wTWAVeoH2AcdO43F1UBirbiZj3d4n4S87Z6Yx79WZ8VmGXxHquXklCU4dTB+XQvIAGWDFDzvSPVRjpGZ1dmpva06silwrcro3MqVJttuvBD302OwNjizs2xG76nYipJtxTitFnC/sTyna3bkR5tunc0QLFRwlkx4IhxNgGj8kJkM+gwh0+JCg4tf709NyP7cdq6SsVuTIRbcZwZ3TK9b4LIuD/AVi1QKADdAHc37Ky50ORpr2NXRB1+jcytlQF6wpDjlDl5wg=;RiJnkP54P0aAqamLlXftMw=="
 ---
