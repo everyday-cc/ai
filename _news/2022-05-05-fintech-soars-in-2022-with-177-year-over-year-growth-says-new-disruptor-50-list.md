@@ -1,12 +1,10 @@
 ---
 category: news
-title: "Fintech soars in 2022 with 177% year-over-year growth says new disruptor 50 list."
-excerpt: "Fintech software is eating the world. According to a new report, more than 20 cents of every dollar from venture capital went into fintech startups globally marking $134 billion in investment and 177%"
-publishedDateTime: 2022-05-05T09:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/p27012798/fintech-soars-in-2022-with-177-year-over-year-growth-says-new-disruptor-50-list"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/p27012798/fintech-soars-in-2022-with-177-year-over-year-growth-says-new-disruptor-50-list"
-ampWebUrl: "https://www.benzinga.com/amp/content/27012798"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27012798"
+title: "Fintech soars in 2022 with 177% year-over-year growth says new disruptor 50 list"
+excerpt: "Fintech software is eating the world. According to a new report, more than 20 cents of every dollar from venture capital went into fintech startups globally marking $134 billion in investment and 177% year-over-year growth. With an uptick in retail ..."
+publishedDateTime: 2022-05-05T09:25:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27012784/fintech-soars-in-2022-with-177-year-over-year-growth-says-new-disruptor-50-list"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/n27012784/fintech-soars-in-2022-with-177-year-over-year-growth-says-new-disruptor-50-list"
 type: article
 
 provider:
@@ -17,6 +15,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "MupgnrmHEObsRFWplDXuOuvV7RHN4h1g7qonvbWQ9hZFXg6ljhW37sMtfOP5SjUZOLqnSCDRfGB41JCjor9q7BOVa7N2qkLawD3/r08p/f7gfdEpFVVbXwNc4J5ud07dk+q4zBBGogmSfqkzXcziRaPqbt93tn3jqQ2S+n67priHpajy4/UjPgTABCljALB0kTNFwUtZOxhL4VSMveBzSOuTz3b4gYDgWChuWGp6Tpg2QNX+Em/8hoHhM08WVCnTzDoo3otSQUgEtQV+wC9F2xZRqXWFnWYBFVrggFKCcke+xJZZWYovV0bbokeD07putkIIPwqFbQ9LA8B+fR+lzZri7NKzgIr5YIOFh6LCsr9gInLQGeE2NFnbeDSq9QO55OT9O2Nxu0pOGrTD1Uyz3Iq4U9k8AiinFQQ8o8lECDHA55eoZccZXzLQpjH/TklqWGbNTZdO1q8YsLMwopaywCEqf31WNQGI1Qhefc8m3yoD4VoJHUi0nu4UdDFj+P4OZeQXf18FPFfJlu7g2yWTsA==;aWxwxhm8m1fGQX45RRQLfw=="
+secured: "2JR5vyB5+E9lF3C4RLO+7MT34V5pywIHEKZo9s4ArR3VUdA34kanhRfkeIq3rKoWn0x+9ArFFue0xuIcaCduMqSx7uIDrZ9bRdVWegIfRU+Dbpb65n4jIsqqWMHBwVVLslaJyY4tjdfQ2gD6phHNk8u4dWMEqtg1aEzgnI26lW+DUyV9NLuZMCFKxPnJG1d97uoscA9tvEvRZYHvAqlShL+2kG1CNpiILzAymiwq5TpGdeN7Saw/S02v9YKuofTtIvCEYbSFcjBshic7v9FTmlmXDv73zB+Kyqfhz+4Q3b9qaE5BihuRndv8rszFOG5AGwQZdEEQhg3SPe7JB6o1tP1MP4tIpYgL34LXgkBk/Qn1SL+6fYirY4GeM3n37xFoXA+eSUevw8tY7ElxpF98O9XWh5u2P4D8haki0jLOH8qAJi48d7jceJc7+DwOSpm4cPAZho2DNlh9RWNPbcvZFMCCwT/Lzhcb4dkQCjkBGaGOII6MhOpcoju18VtaYhr8s34uAPurDAdPTOGaNKnFEA==;QqWDRoQLEBSgNOMCvTmU9w=="
 ---
 

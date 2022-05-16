@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://npr.brightspotcdn.com/dims4/default/1de9943/2147483647/strip/true/crop/880x495+0+82/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2Fff%2F88b58534493e90ced23288407c2d%2Fcoalprotestersimage.jpg"
@@ -113,6 +114,6 @@ related:
       domain: mcknightsseniorliving.com
     quality: 8
 
-secured: "MivZaMtucdaL9wefggRgWrGkH+tMrRNryIqUxGCokA4SqKdKv9oPu0G3XOLTWepvlu9ifIYWBqUrhOfKHdygQBCFhLm4o2BkiMfOpLaQXjGAUziXayKQp56XwNf2vx5UaaS4vehR6YZMkvwLntqPomwlh2rwnI9XzVuEtgJxFMejC6yW2L0I9ngXW+hWcZCwLHDLDJgRmCq91OiOBa+1teof2MprSzP4nSazYzAOgPsurgSCnOG1XBptvvou0X3rTpEaseG4LnW640yUH62AN90bdvV3SJag6nQjZSDRiIoF7CyD+wBaxXYmkaPF8VcraeXPqZrJ5LWjjCMsZJ7G4ztjJvZAizdO0BEWXWPfQQg=;PwAmMb7x1rzN9ZcsbXceDQ=="
+secured: "ikbVxIH2xjsgFCtAsv4goIa+JwhyTTYxuyWfxMApPWeSqsHqXhcifoG3r155zlMB/7BkhQjCL6pJXaB3wPVsATQDws/DMNTNyZt1mfhZuWO26CzKrKHvvjpEhYle9s2+9EzcfC9MAGz3QEVwZ2o2SwUgyO8JhcOcBWblOmBjyBvVTiJCqCu6+8HJBGcMU/9k/ton4YUME9AnQKaPwyTvJianYj33b67ae5PvjliL+JtJbgkMIZZv1Aq9N5xq6iRLGeyF1IL3HzmX0v3Gqk+UkpfSS0UviTaWDbZqNzHAWL0/hayF0+qDNaZ0gZNg1pErwAlslVuqG+wmb2ZRnYLo75TA8tNcctSGAfFSI+0JRXd0typJC4y9kAJ5/zvcw77IRAi77iNYICZufS4rtGXoNKvt7RVLllMGPGLzI4nvscw2wtjRfEBjhqW6EaEL5zoRhTG5fVq4zXCdGVBAefeEof53/bVAZHJ9rtI1t/QCIOALEn9zhbl6BdyQghaFa+36g7nMoabPmgFEjbvKd6uTiA==;Bm+1lXsz5zzVJTzQ029p0w=="
 ---
 
