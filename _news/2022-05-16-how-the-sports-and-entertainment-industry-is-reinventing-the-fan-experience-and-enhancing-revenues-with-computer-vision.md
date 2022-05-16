@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/100000542/how-the-sports-and-entertainme
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000542/how-the-sports-and-entertainment-industry-is-reinventing-the-fan-experience-and-enhancing-revenues-with-computer-vision.html/amp"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     height: 487
     isCached: true
 
-related:
-  - title: "Webinar | Reimagining the Banking Experience with Artificial Intelligence"
-    excerpt: "The rapid evolution of technology across all industries is revolutionising customers’ expectations around digital transactions. According to industry estimates, 6 out of 10 customers say that their experience with one industry is likely to influence their expectations for other verticals too."
-    publishedDateTime: 2022-05-13T05:30:00Z
-    webUrl: "https://ibsintelligence.com/webinars/webinar-reimagining-the-banking-experience-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 36
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/Webinar-Hexaware_May2022.jpg"
-        width: 1118
-        height: 617
-        isCached: true
-
-secured: "s2Ff09IRRtXSd5O4PkVt9rok2t62elLoKlZ8fUC040530JeB5olQHaJQtUpbcSYeOwso6m8qnaYOnWshLApwwBYDy/Bloveyk2BoitcA2ATS7hPDKu9Z6IlYi2zIQV9v2n7nBHWw1fHXjZTVkvpfeKJQD3EbyDbJrG3GWGLgFKyk5rn4M2z7+EzNCsWWj44Ysxxqo4DAiEliA7FL+AODzPpXal+0eaOLGrKBtb84lPrE0Z1ysRb0CaecU0OARAdxt5emoGgw8i3rXzyMkLOy+nQLCaZJJEuVMA/43ZVAJjo3QlYGd3w4p/GhH3jLlI1fR97UGcEbV+5D3jb7qtsM3QpXXiw/6/BSJQaJBOoXfM0=;pjGPgpNEhLhWFqKGh3FNRw=="
+secured: "lp4UOTE0BkCAmUbmC5Gvf1EC54+soHoDh6tU+Soeqj5EaaQHHSm2XqquDh4UM++ywdmodjdJLsVpl0ewWlbtlViE0r1UYwk0GsS6zOiE+7QMFnMQIIY0BRlNCrjp6KzcjTPXleFKo3DlHkHraJPPsrKjhAY+8GDcC1zeHOgHd9SLKc59v2YYqpcb+70Vcl1owGacvYAC+YcpW3bRphgqDVHmnOFlviNDDU7UcnPo92WR+4I3PAg7janynyM1K9GziIbbcGS91YD7mC4QntTGppstHAf04GvVjsWHs+7NDRqRvaKHyGXBA81tldVQpkMKivETmy0hUwmGCv5k/6TdUD9T36mJr98KQe747/jTpnfqFpaGKn2iJLABRO5hVY/Jl+jQF07M2zQhIAoKMIY552GafwvQ7292JN4bdjKsuHgJ7JnRnm6pwolm4mG5v6rcuVt5xdkCizpyrHOyUfi71oRzSZfmD8VfhpKQw2720lJ31XIq9gjJOSl6DH1Ee+yWTbbogyywml0H7Vko/isAiw==;3o8tBEhD36MHvr7OOhHP9A=="
 ---
 

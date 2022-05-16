@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communicat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 5529
     height: 3691
     isCached: true
-
-related:
-  - title: "Controlling AI edge applications"
-    excerpt: "AI, Boxer-8253AI, and Boxer-8254AI IPCs. The company’s recent Gene-EHL5 subcompact board with CAN and 5G connectivity is made to meet edge applications. The Boxer-8240AI features the Nvidia Jetson AGX Xavier module (Source: Aaeon) For example,"
-    publishedDateTime: 2022-05-12T11:22:00Z
-    webUrl: "https://can-newsletter.org/hardware/controllers/220512_controlling-ai-edge-applications_boxer-8233ai_boxer-8240ai_boxer-8253ai_boxer-8254ai_gene-ehl5_aaeon"
-    type: article
-    provider:
-      name: can-newsletter
-      domain: can-newsletter.org
-    quality: 39
-    images:
-      - url: "https://can-newsletter.org/uploads/media/raw/478cc66ae63932aa1c10a9dbd39c2991.jpg"
-        width: 700
-        height: 237
-        isCached: true
 
 secured: "MXQCv98DcJnauwWSwDUsPUSn9YDFhWQaUZIebHzFMfH8pMdDI2xC7krI33EhwCeJ3kbrI98d4XxsGqIwFS+2gnr0yfrOZUSbGZ8Cp4MX7mQW89Rv1+dzBq/6qMIaZptkLrfLvYu5uvqbtZzGGO0oC8ecYJfyteylWrMSorLUA8+tUdt1w/VCQoUOcNry37oFdNFs5W9jb2Rceb3VkD0o/SQl6R0xrex2+pKvNQrDq7H4qUZdB+263Q7PcGZMaqaumNIxmHRxJMe7bkp2WcYp9JSepil3b0FuV1zgOAo+KDb0rOqIrvR+VabMONRJlr0g4bc5PkyiGrfrr4E+evQOYBOUV5U+DURKY3IWFuJHjq0=;oRZCoXxDpXB6nF3UiaJV5g=="
 ---

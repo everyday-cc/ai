@@ -5,9 +5,11 @@ excerpt: "As transportation becomes autonomous, maritime navigation is also set 
 publishedDateTime: 2022-05-16T12:21:00Z
 originalUrl: "https://interestingengineering.com/worlds-first-autonomous-cargo-ship"
 webUrl: "https://interestingengineering.com/worlds-first-autonomous-cargo-ship"
+ampWebUrl: "https://amp.interestingengineering.com/worlds-first-autonomous-cargo-ship"
+cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/worlds-first-autonomous-cargo-ship"
 type: article
-quality: 12
-heat: 12
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "H800YoL/kwx5Lfht0UQm9vNw1ln4DrqVPm7C5KZAP61leCjdYPzLUg7P+QOJZN1i4FcKeqjoMmCVhlgDL3dCRK/0oBcKtLQKS9Z5BS2uEEHHzxP7PZqiX3w0E/fqYs6qmUSuEUq69nd6sQ+r0TmSKYLV3e8FmyAiMf5x4u+xRP8OKA1QRQsOEiUZt0GIEce3ZxJ22CMEkwFyODTnN9sZynijgL1g3nRE5fWVXNfij8q5nh/RGoSZqT82W+VZiBZ0uoheZIyzQHmWCeSAFrPWn+hIxGFEnu0ODZerWJJ+6bhToo2g317MbKBjjvk8oBqfaX19OiPRljHuuCG+13UY9MgYgO/RCbOOCvFoR8giv8M=;07Ayvagp2vSTOZp+B1K0YQ=="
+images:
+  - url: "https://inteng-storage.s3.amazonaws.com/img/iea/nZwXeVZrOv/sizes/orca-ai_resize_md.jpg"
+    width: 744
+    height: 419
+    isCached: true
+
+secured: "dhB6m9IEmW+RPTzFj2w5JsOuD5fv0DzjXroEliaXtClArgVe3yQ58C4PGW/dptcclMB8K2KXQzt9RqjGh1e+uHO34wc+Qo6SmU5H56O3j2bMecHCZ1wMD21TZKWWVorZZct02SkqBYQyl6YCdX8MWf0PmmkpmKQoxo0EqKLdlQAu/HCYmJFEq6rVh4Jj/zZKevJhTrLkfLVsV+lcUPJSaSR8HEkKzPGbDSk5SaKp+m6aoaRUeba3SLWIpPJwxn9ctaih7lM7lr70TKa+UW/32hA6rxm44FBqQWqr6YgM9AFwR40jApd92xsCUBCj3x28w33G/fJPg7xPGB7OQdYO+pfNCJnt6ykukHo2XxQ5B2g=;8Ei9oR9ZrnIwPwshwWRDvw=="
 ---
 

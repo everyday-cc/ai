@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-bu
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
 type: article
-quality: 91
-heat: 161
+quality: 93
+heat: 173
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI Ethics
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//62814aa647441d8a952568f8/0x0.jpg?format=jpg&crop=2715,1528,x279,y50,safe&width=1200"
@@ -98,6 +99,17 @@ related:
       name: Electronic Design
       domain: electronicdesign.com
     quality: 36
+  - title: "Self-driving cars hit a third of cyclists, all oncoming cars in testing"
+    excerpt: "Autonomous cars may be further away than believed. Testing of three leading systems found that they hit a third of cyclists, and failed to avoid any oncoming cars. The tests [PDF] performed by the American Automobile Association (AAA) looked at three vehicles: a 2021 Hyundai Santa Fe with Highway Driving Assist,"
+    publishedDateTime: 2022-05-16T16:30:00Z
+    webUrl: "https://www.theregister.com/2022/05/16/selfdriving_system_tests/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/16/selfdriving_system_tests/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/selfdriving_system_tests/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 24
   - title: "What happens when things don't go according to plan for a self-driving truck"
     excerpt: "Kodiak Robotics showcased its self-driving trucks' ability to pull over on the shoulder when something goes wrong, a critical milestone on the path toward commercial deployment."
     publishedDateTime: 2022-05-16T08:00:00Z
@@ -122,6 +134,6 @@ related:
       domain: ktvb.com
     quality: 2
 
-secured: "DSNZBKgnypEKHmMkaULH14nlfJ9pxC5JsIxOk+NniYMEg58svSQ76jPxOxuITO0IHtcpwqC1EW9ppOv9G013U0xgRYMDmYh7nNmXhNWTXRIU9sPsTlkhOI5xg6glSsCAUy3Ve6B1KPmKtPjeeU0inFXPWxvvim7S98KspuT+Yo8/QdBlMi7rCjl0zNCAcLtpLcpsBl4HhZ5Fh32PpmlgpFb0hq+NhkyWLfKjb/WjsECF4mQtdMdTetiT8DKWhsHZQo4gZo2pMr3WojIHQzcgCqRbUA1gea/fGzHRnXXYKI0mWRp9Qnt+2XgHlrjrHdUxZ6jw1P6/soTae2ljM16Y6uB3b55yGZ8ruVnycmNVl1o=;4XxaCthYNzpnY5V0m52+Kg=="
+secured: "F7X3+uZaK7piEla0ftM6IZ1bXmBHuIOMGcR6+NHflKJTcBcZxlA3pwLMXiMyPZIFd5dVkOLwkBdKeE3Hc/4/+k0gpETIXt65XXS8uRMipvp2al5b13ntVbdiXwMjfpH8uMrt5X5jh6Td+KX+pdhBn+hR9q0SE2KQkGeRysaWsXgUdjvJQE0HHE7+r3zTriq0QH71SPCmKR6xuHWB34m5ObRbSEtrGOK4Ug8w/weiULeTfHeMmfGs2bAUONjN/NZXZYLDFjY0aJP1jGbB5xApzLdTtL55nCjT1PtaTOntrcaimE7tDYt5NG0AbPKvV3AsXCNdl3Q7f/neKOPhuUZ+9kxtHm0dI77zIFpVM2srw/vu7jS6WKBtS0PqEP1lcJnsf9GX/SIELsYj7feYWd4loVxJUHszPsAUT5Pkm1WUhQbwEuITDStqonKe/oRO1N7D1sCBW85kwIXaq1HJl32OuD07YxY5kJIElYofahrDeo1NYrxB8EDjDJ+qIvQwps1nLbOg7bgwn7sT2hZ2af7bWw==;VYMs2Vqv0RKxjiq/B/+ZeQ=="
 ---
 

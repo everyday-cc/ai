@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning produces more accurate rainfall predictions"
-    excerpt: "In a recent study, researchers from the Institute of Industrial Science, The University of Tokyo, developed a method that can provide more accurate predictions of local precipitation, using a novel machine-learning approach. Precipitation can vary ..."
-    publishedDateTime: 2022-05-12T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/952645"
+  - title: "New research could provide earlier warning of tsunamis"
+    excerpt: "New research could provide earlier warning of tsunamis Deep-learning models can be trained to assess the magnitude of mega earthquakes in real time Date: May 12, 2022 Source: DOE/Los Alamos ..."
+    publishedDateTime: 2022-05-12T14:36:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/05/220512092652.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0347bf79-0e99-460a-9dc3-8557db668ced/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "g9hEMdDhJ6S/SAE814g5jVZASacc8IhxiEqTg7kJOHlhYdIm9nxOU5sDVHFuTbJwujKOS+0OyTRtD3fwLuJlD69B5cnlYl6Xme0GdhaW2arlPiM/lRbZ9SpNV2aoovHzrfI68EO7GQc+RcFNF2d0j+/X+v/WQ1VF1YFwgbSzUYFIDwDbzVZeZDWItsw3jl9K2z827YuyVunkaNSCyBS+gWu6m6P0OVHXXThYC+MVMcjTlAzy1gR0rJFRD8otBcUJRXWNBLwMTJQSHFsbH/KIypEzQTegQomq8sbZs97qn7W41GrZ/qMl4hu4Anfa5hflqIZmh/ih9Pa0bZqxwMg9plygXBSgABACM7xg9WEHVj8=;PTmvsTCNq1TR8KGOcDK4PA=="
 ---

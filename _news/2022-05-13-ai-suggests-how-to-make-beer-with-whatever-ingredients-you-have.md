@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2319188-ai-suggests-how-to-ma
 webUrl: "https://www.newscientist.com/article/2319188-ai-suggests-how-to-make-beer-with-whatever-ingredients-you-have/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "How to Make Sure Your Résumé Passes Muster With an AI Reader"
+    excerpt: "Including just the right keywords is crucial to getting to the next step in a job search"
+    publishedDateTime: 2022-05-16T16:00:00Z
+    webUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_listc_pos3"
+    ampWebUrl: "https://www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-544215/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "JeldHIr3rUII4VJ9cpV65ybKQntnb6oGC5bop2Wz8Ta7aAbZkAFcJZRj56mT10BQsQaNKAHAKHgyWVqEYTz2c42M5IL1DjiGxgVaDlmfdSM65RiEJcskCl96qCn3zqhLtXXcfedNszgpnP8cgEXxNspVbcQqpWbd9rJ/3Ov5BV9w7FMGMqVzgvNq2BqTyqhBhcGm85WTtRYN1W34v+AX5LRzxxw1bWrhAFTG+e9VLWLVskbvAwalmEW7QCxpcQDZKBREySTUKhxaEMIeYnL0AE1iOX3FalR0EuQTVnJa8IbTwBqnhIUeDeUpXdxKKEE2L1LYMZsR7jRP+UMrU+oMXONdwDJ34f+0TEpTPM+WC/TSb+JV1IG6mAFIdXeaw4D0AHlgkssrdoXK5o7+kbdyvZUq0qYvK0mTKEwOulHuFEmaCNDEBZrs860qU3vjS1C+yc7GYcx09DODnmoQqfiHYWCwublweJX8WoDi41MW9uWS2XX7NSk4ggCC7mhkq1KawKC/0VKYL4DO+BmegNCdRQ==;Sf7EvjfhUE/2dQSXpNt/uA=="
 ---

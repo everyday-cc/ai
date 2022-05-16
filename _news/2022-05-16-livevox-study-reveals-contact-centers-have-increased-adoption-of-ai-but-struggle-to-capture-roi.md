@@ -1,22 +1,24 @@
 ---
 category: news
 title: "LiveVox Study Reveals Contact Centers Have Increased Adoption of AI, But Struggle to Capture ROI"
-excerpt: "The research study finds that despite increased interest in AI technology, only 44% of organizations experience benefits from implementing AI tools in their contact center LiveVox Holdings, Inc. (“LiveVox&CloseCurlyDoubleQuote;"
-publishedDateTime: 2022-05-16T12:37:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/05/16/livevox-study-reveals-contact-centers-have-increased-adoption-of-ai-but-struggle"
-webUrl: "https://stockhouse.com/news/press-releases/2022/05/16/livevox-study-reveals-contact-centers-have-increased-adoption-of-ai-but-struggle"
+excerpt: "The research study finds that despite increased interest in AI technology, only 44% of organizations experience benefits from implementing AI tools in their contact center LiveVox Holdings, Inc. (\"Liv"
+publishedDateTime: 2022-05-16T12:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/b27218798/livevox-study-reveals-contact-centers-have-increased-adoption-of-ai-but-struggle-to-capture-roi"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/b27218798/livevox-study-reveals-contact-centers-have-increased-adoption-of-ai-but-struggle-to-capture-roi"
+ampWebUrl: "https://www.benzinga.com/amp/content/27218798"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27218798"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "hyLNUPg+fVHqaBsmwDVKGADITs1TzTqLtMJUtmWUXRM90Q61UCFloBNAsjQ6vTpwdVF8jNg/mYPkOjzuHkJIJykkQ63u+Y3iOQ6TYH2WUyGheoSgccln4mWa9VLmmIKXBfsWwCm6PyFAmnTA3G0tepPt4EOuAUcY6SWZpLb90iuFdAAqCK/tK3eZG9ZVJQPdL4NTouqnxF8f1FfyG0da3wZtC5RSI2+cLr5Td3JhN4dbJRXTjS8D4onNERiED8AJGGayijY2v3qdLUPtXClP6vpF3TD6vhikZXGOMjz1Rd8JokSwckYolb8vdCkhgmhpDts3vbCHD3UhGC8QmIu04mdgIU0JAnL+0B3ytAlSQxpUsrE0wBhOj0ati98PjeMD/ha9veV3+osll+fhDI5/lHiTJOochBMKGuWp8zWV1qTNCvIWRdeLFNuoPzxwONQ8ZyXK9l+cZPcgkKha7fZNa8y4pU69nyfXnEp+uJmgfZvR4qzJNXfnXaR5w2E9QWtJvchXh8G3F9VVarOKWv8d4Q==;3HPMSI9kxdy0XNHfa5tPQQ=="
+secured: "tjcBecI3Kk1ZDqDDY4OKbtGPn9PJYuEcQ5TYai7Y16Y6n3x+ZvTmTNC370Z0hND4m9q7zrQ/Gj9iUWDO9tIdyVj/3mgz9DnDtYJQFPSf2gToS9HYvUBadLKth4M6vJBwqGtUBCVWxUQKOQkvnLsUKmlnPEwJL3k7pNQ8RM53GOs6tbpB0KSasSDO8l9bjEk2AFO3duE7Ic1cMxm633vQRtFnxeNqc/+rotcBRlxaZBAmlhW7AKVaeHD/YluXeW2m4KEReC3n0S8USoguvobKaCftQ87XS5tZWOS2mvwk6o1gPb3NCobXfO6P+98+llGlUlwQjRB/vu/PpT2RguSIi9t9jb1aZD7GUCsdvgNM9BI=;ZByY7FBUpP9JYdRcrXZ0oQ=="
 ---
 

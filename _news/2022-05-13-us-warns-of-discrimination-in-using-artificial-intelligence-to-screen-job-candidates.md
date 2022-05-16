@@ -2,25 +2,26 @@
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
 excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-13T02:04:00Z
-originalUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+publishedDateTime: 2022-05-12T21:12:00Z
+originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Texas Public Radio
-  domain: tpr.org
+  name: New Hampshire Public Radio
+  domain: nhpr.org
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/1f23a6d/2147483647/strip/true/crop/5184x2918+0+269/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2F54%2Facaed109461c9835f2caf2d4d13d%2Fcity-hall-ready-to-work-nirenberg-palacios-020722.JPG"
+  - url: "https://npr.brightspotcdn.com/dims4/default/1de9943/2147483647/strip/true/crop/880x495+0+82/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2Fff%2F88b58534493e90ced23288407c2d%2Fcoalprotestersimage.jpg"
     width: 430
     height: 242
     isCached: true
@@ -112,6 +113,6 @@ related:
       domain: mcknightsseniorliving.com
     quality: 8
 
-secured: "ojA/sAnYplxVQKTeePgfcN0iarWOC//GlLvEGd9PQEwntjZXmQn6uHo5Ao+hYRBo4TKFpbHVwc4gtaC3nfgnGDPRiCHgPwxEwm6x7Zsw8yA9B5EAarYiDFfIV1oaG3uMWTZogNhj4kLYQSj8x1kBXCuJcyATNcvkULjla09POdR3/1e+goCuy0vE+jGvpVBorAosPCPNSvEMXQcNCyKi6Cr7H8tvFlXIG4I7Xhr/BIO6AnvjCC4zL7/2EjpzT8x48nTH/G/rl7fXLWT73FaRM7BP3pjOc3EZekuSTQQ1qHsfHc9kxIwAqujgZwCRW65VuVdQ+sfQ2xlgWJPbc9z5wAiFFWWljEU54okY07LDmX8=;YdZcwjTyPdvkedon2yLzzQ=="
+secured: "MivZaMtucdaL9wefggRgWrGkH+tMrRNryIqUxGCokA4SqKdKv9oPu0G3XOLTWepvlu9ifIYWBqUrhOfKHdygQBCFhLm4o2BkiMfOpLaQXjGAUziXayKQp56XwNf2vx5UaaS4vehR6YZMkvwLntqPomwlh2rwnI9XzVuEtgJxFMejC6yW2L0I9ngXW+hWcZCwLHDLDJgRmCq91OiOBa+1teof2MprSzP4nSazYzAOgPsurgSCnOG1XBptvvou0X3rTpEaseG4LnW640yUH62AN90bdvV3SJag6nQjZSDRiIoF7CyD+wBaxXYmkaPF8VcraeXPqZrJ5LWjjCMsZJ7G4ztjJvZAizdO0BEWXWPfQQg=;PwAmMb7x1rzN9ZcsbXceDQ=="
 ---
 

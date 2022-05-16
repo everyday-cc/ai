@@ -1,27 +1,23 @@
 ---
 category: news
 title: "OneTrust Launches Fully Integrated Ethics & Compliance Cloud"
-excerpt: "Integration of Convercent by OneTrust Ethics & Compliance technology empowers ethics teams to build strong cultures ATLANTA, May 16, 2022"
-publishedDateTime: 2022-05-16T09:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/onetrust-launches-fully-integrated-ethics-compliance-cloud-1031463614"
-webUrl: "https://markets.businessinsider.com/news/stocks/onetrust-launches-fully-integrated-ethics-compliance-cloud-1031463614"
+excerpt: "Ethics and Compliance, and ESG and Sustainability. The OneTrust platform is backed by 200 patents and powered by the OneTrust Athena™ AI and robotic automation engine."
+publishedDateTime: 2022-05-16T09:44:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/16/9602162.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/16/9602162.htm"
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "z+5YMm/hTS/dnIYUo61hKzvCKGOPMH7zwKTAqImrp/1V9AbVaXeW52ed7C8c311srqkWLGHkaoYhM5cUmpxhEORmuAxfKApB3qQQVyaTD1npz82wDr86CDf0xJy+v11jbOUVHIQ6LWhmWqoMXQF7foBSmCkfBnYE7ldUFVsS9aiqdDO79K7ib0hdvsfYlriZ3A/5ZmDKQ5tPIP3zR/o2breWrA/E9t+lfDUleYIz/8IqAcZAkXMPFvz0SMORrfhL6W6qkxmjCEOXeNIMVJf+GxE3x/vrI642wHYnW8yqArsY9fJo25PPe5k6n29fXZjRg4/sgLhp0VQyqhvPMuckgvQcFJ9U2MKTMjHFkF3IOVk=;1RQZ89VCh6ggyvs7M2Ka7Q=="
+secured: "RyOY5O3IBonvrg+uVRqJVLoceYW3AKvf5ZbofrBvmbUnqYfRtg7C7E0NVvqx8N6hVsyjd/2LslabsJvgVlfpGzNetGNiHjZj+VF5mqnxzKYc/dBzbxlQ7Tgiln1q3/CXEXYPyF/Nt5OvDjuZv+PM5QWyU4vDesDyjEEIQiXXeXGlPorUzm+54WKR4PoDadgAuWTj1vta7kVXSNdxLzCzuRsYcRQKn20EKjvx0OMJaPJXiyGtLZnWUB9pmOrX3H7xX5bUKXnnQWv9UhPIwpcmbVTEWKt2/Pal5EH/vu18YC+v86TMGmwgxnOJV4EkfJ+Afii1+fMAAcoRsKcT91nKfip8SjWW7AtWsdICHfICdJ7cchG7Q9KSdINO/tv1onpV31ZhOaQApppgp8az4R2E75Uo9hUk1uM8m/ouAKxmIp1J7zamTw+026Wy4yHXSygIA853+3Q99ZPG66ppk+8b8JCb0RneuhKaORlhqtLIM9ti6K6Jwb0C8k5YvM0Ft3YXio+0dHO51i+34ZeEqgj+WQ==;CG/GKp70G0dYGDIWtoAxOw=="
 ---
 

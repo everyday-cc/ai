@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-16T15:40:00Z
 originalUrl: "https://menafn.com/1104222138/HPE-achieves-breakthroughs-in-AI-solutions-in-machine-learning"
 webUrl: "https://menafn.com/1104222138/HPE-achieves-breakthroughs-in-AI-solutions-in-machine-learning"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?302780"

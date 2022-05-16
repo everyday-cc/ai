@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "GM’s Cruise And BrightDrop Explore Self-Driving Delivery Vans"
+    excerpt: "GM engineers are currently working to install autonomous vehicle technology developed by the automaker’s Cruise subsidiary in its new BrightDrop electric delivery vans. Sources familiar with GM’s plans told Bloomberg the automaker is currently working on the self-driving delivery vans with the eventual goal of launching a fully driverless package delivery service."
+    publishedDateTime: 2022-05-16T17:41:00Z
+    webUrl: "https://gmauthority.com/blog/2022/05/gms-cruise-and-brightdrop-explore-self-driving-delivery-vans/"
+    type: article
+    provider:
+      name: GM Authority
+      domain: gmauthority.com
+    quality: 4
   - title: "GM Cruise and BrightDrop start to work on autonomous delivery vans"
     excerpt: "General Motors is working with BrightDrop electric van business by setting up its autonomous software Cruise in the vans."
     publishedDateTime: 2022-05-15T19:08:00Z

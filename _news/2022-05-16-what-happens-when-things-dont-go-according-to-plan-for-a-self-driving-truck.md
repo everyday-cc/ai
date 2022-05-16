@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve//62814aa647441d8a952568f8/0x0.jpg?format=jpg&crop=2715,1528,x279,y50,safe&width=1200"
         width: 1200
@@ -107,6 +107,17 @@ related:
       name: Electronic Design
       domain: electronicdesign.com
     quality: 36
+  - title: "Self-driving cars hit a third of cyclists, all oncoming cars in testing"
+    excerpt: "Autonomous cars may be further away than believed. Testing of three leading systems found that they hit a third of cyclists, and failed to avoid any oncoming cars. The tests [PDF] performed by the American Automobile Association (AAA) looked at three vehicles: a 2021 Hyundai Santa Fe with Highway Driving Assist,"
+    publishedDateTime: 2022-05-16T16:30:00Z
+    webUrl: "https://www.theregister.com/2022/05/16/selfdriving_system_tests/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/16/selfdriving_system_tests/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/selfdriving_system_tests/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 24
   - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
     excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
     publishedDateTime: 2022-05-12T17:53:00Z

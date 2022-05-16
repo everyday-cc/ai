@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-16T15:18:00Z
 originalUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8542587/emza-and-alif-demonstrate-fast-ultra-efficient-object-detection-for-tiny-ai-edge-devices/"
 webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8542587/emza-and-alif-demonstrate-fast-ultra-efficient-object-detection-for-tiny-ai-edge-devices/"
 type: article
-quality: 8
-heat: 8
+quality: 10
+heat: 10
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 secured: "/G5ecw4i8Q25iORJ0NrrqzHJ8so7KQ/gM/8O/L4OS1kXPXcRpKx1eA45OQuNW+CB4ucDRL7qIDM7KfSRycILmIDnvD/EACxGTc9O6UteGql32Dzyy0gyBATahHBuOGeY0fPcoC7oIGpeXf0jNbALn3lbnPxCLhQwQ5uHoFj+zyBnGn/+phzm4MMuJvSmFsSehBiMMV73zybIdfUisRVzcp7qsRc6Ood5gI2+qZuqV7FlTU8ibWGuvHAlnIlMevtlvbC2wHI8fVhrXCkQeR7EaLksSr57QKNNbab0phuFx7Hia5r0XzPI0I6ive7ThzUw+4vzwoL2/etJU1yq4c4f5G5PxfxOX0XqT0TJvtJ36Vs=;XQwMmSqcdRXrS9AVJUht7A=="
 ---

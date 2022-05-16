@@ -6,9 +6,9 @@ publishedDateTime: 2022-05-16T15:30:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 50
+heat: 70
+published: true
 
 provider:
   name: Digital Journal
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
@@ -55,6 +56,6 @@ related:
         height: 337
         isCached: true
 
-secured: "qX/t+LZq1LOcU6KPwEG9Y1DGXwHNTgObMYI8MAAOs4SlOnSQk5vw3VIsLTGwxUMk/vsIVcpo+NaW2SsfcCUyGmirICRxrKY+ewYNXHlCed/hKCCK3zpCQl/lVEZEnhMt97YlfNbF2arzJ4KXWCVPq9ma4iJkfJM4r6+4lIj8T1rQ//VPcJN6BHJ5qFFqRz9nGDmbYDbu0WT7fj++PUKRFwSvVN9fUvWCHH/uNUf/RdFFBSxV2i3hCWlL8rHAGYYMTF4G8uzRwCHWc8fqTGv4Cj2cEhhTNvrngfYh2o5ucb/Nfu7mCICROPDsSb5kxgzudTv6PFzHElSLtHp32hSxXhPpuVAE+prpyc+QfLYvk8c=;LnGVbLwsLuGXchntuwuzMg=="
+secured: "RPw/pRNDRjmXLhrAwc3FYWvMpjTYQYiaNPhDdEQWZZOZuTG9iCBWosAK7CKQapAEN0djjjVujJMQBa7fiNlyvx/H9gY3Ahk1FW7YmsRStl0p48B2cAqwLff2LHcDnMGvN1QVAqJGTKHj/3kS9yFh0CvD4ra1uFwx1vE2uJIJ1CB9QwTwDhr73X8OY537LICDqF/FzaOyFwg47sUGsKpZA0jCySso1tqGbarReA9K1XV5mZUdFPtBW6IUOj46gB+GLuS5EKGvO6vPrKqM4vf/GTzAgqmVL5Efsqog6G91E4Jb/Ws72LSm0x/8NjL1eqI7ExcpWtSXCh8/LZVEwqtUS9I32lw+ZJm3KyqVZh0oKFPUvIakURjdII6NwV28P1+Pql9yR11SCtvBlI61rAt/jE3Gjgg/1hj5y1tCc7nLwXU43ykgxyD9oiPmaolLo2WczqXlryTgCoyBbNSkPRIdKWChIGqQeGdaQLJNhDwMf/2ASG+F5yKFyuSuNcrpRTukG7SjM8y5CjRa07vW3bQqlg==;MhwufeVBmlchqtCEtKq+hA=="
 ---
 
