@@ -352,7 +352,7 @@
       "originalUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -778,17 +778,17 @@
       "title": "Report: Intel's Looking to Sell Computer Vision Software",
       "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
       "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
-      "originalUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
+      "webUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
+      "originalUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.620.jpg",
-          "width": 620,
-          "height": 349,
+          "url": "https://i.pcmag.com/imagery/articles/004kalOwExUYRCKwszss8R3-1.fit_lim.size_1200x630.v1651974043.jpg",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -796,9 +796,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
-      "publishedDateTime": "2022-05-08T14:18:00-07:00",
+      "ampWebUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
+      "publishedDateTime": "2022-05-08T10:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -934,11 +934,11 @@
       "title": "Revealed: Intel's plan to sell software simplifying computer vision training",
       "excerpt": "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register.",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/",
-      "originalUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/",
+      "webUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/?td=rt-3a",
+      "originalUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/?td=rt-3a",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
       "images": [
         {

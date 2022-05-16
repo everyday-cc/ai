@@ -1,20 +1,18 @@
 ---
 category: news
 title: "AI Image Recognition Market - 60% of Growth to Originate from North America |BFSI Segment to be Significant for Revenue Generation|Technavio"
-excerpt: "This market research report segments the AI image recognition market by End-user (BFSI, Automotive, Retail, Security, and Others) and Geography (North America, APAC, Europe, South America, and the Middle East and Africa). The AI image recognition market ..."
-publishedDateTime: 2022-05-16T09:10:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27213434/ai-image-recognition-market-60-of-growth-to-originate-from-north-america-bfsi-segment-to-be-signif"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/n27213434/ai-image-recognition-market-60-of-growth-to-originate-from-north-america-bfsi-segment-to-be-signif"
-ampWebUrl: "https://www.benzinga.com/amp/content/27213434"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27213434"
+excerpt: "The AI image recognition market size is set to grow by USD 3.56 billion from 2021 to 2026 as per the latest market report by Technavio. The"
+publishedDateTime: 2022-05-16T10:59:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2022/05/16/9602165.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/16/9602165.htm"
 type: article
-quality: 22
-heat: 22
+quality: 2
+heat: 2
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -25,6 +23,6 @@ images:
     height: 225
     isCached: true
 
-secured: "lP36AFxHwvs/hDTo7f9N3B+SuzkjDhcHQuzmk4ELbXiMmWNWED09N/JCxVlROEUKRFSHhRjfdYAX/qX+zvMebrDug7WWIQqoB9PPmpWhlhZwKXdYe3418+rpF4pqTDT/Ri1Xp8EAIv32VsCW1Ok3N7mtg8ljhYTij2kOV2fRS3heKxPwVByCr+699dNj95lck0sK80wXo6l4HDzYdkf2sDpcfT3fAP6LMyXPA0jbcGexjxebXeziSheApDwInZshDetirgPDvo2Jo6jMVsDy+L7B74KLDfsb5aHQgv++CW7EAysvusNBL6k7KzA+0TgFwBwEkSDiJFhoS7fD2cgkBRKj6CjzY/l2h9qTqLCV2Mg=;GZuW6W5k9N6sjLYSHYio2A=="
+secured: "cSFZhReIILF7k9ALBrfJL5Mr4ZCVYTRwiDaR2VJMj2g6OWgy3fBMnV81D8+2bvUHz32UTtW3ZvO2uCmuQxfhODAQhsGAdFcT7GqwN3uUAXB+TFK/WSi2hsxGxFECxrOTCzcoRbnj6B4x3IvRU7rHma4O8OFSGHYJukWXu3WB88vm5TWC86l9UaE/6knFA6PjCJg980uugGDhOzgtPvJQ9xUUAsijbgxVhcHgMnsEzUzHh49kx6+tqR58tMv6zjYD/f8JrafXTCE7vNq0TieiYIcLOcVnpNtQIb0ssXeK1i20Ulbu0SEbxcYetzL6BDXxHrdJNsxb01wq/+rpFGJT+Y/4sJheJfH/E00m7gC35yE=;aruOoxaoUp3FFu7D6JIlzw=="
 ---
 

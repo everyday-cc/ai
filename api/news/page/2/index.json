@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-13-15-key-tips-to-leverage-visual-search-for-marketing-in-2022.md",
+      "title": "15 Key Tips To Leverage Visual Search For Marketing In 2022",
+      "excerpt": "Agency 11. Remember, A Picture Is Worth A Thousand AI Interpretations In this connected era, it is crucial to understand how artificial intelligence, machine learning, object recognition and algorithms can be affected by color, objects, composition and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627d90028555d69d19210491/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/amp/",
+      "publishedDateTime": "2022-05-13T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-no-joke-googles-ai-is-smart-enough-to-understand-your-humor.md",
+      "title": "No Joke: Google's AI is Smart Enough To Understand Your Humor",
+      "excerpt": "Amid a flurry of new hardware including the Pixel 7, the Pixel Buds Pro and a new Pixel Tablet, Google dropped one development at its I/O developer conference that went largely unnoticed: its AI can now understand jokes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/036dd9834bc973e9ba35e4b99168d39526eb8267/2022/05/12/e325e935-0564-4a8a-a853-97a41a827de4/screen-shot-2022-05-12-at-4-10-19-pm.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
+      "publishedDateTime": "2022-05-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-leave-it-to-the-robots-what-the-jetsons-got-right-about-ai.md",
+      "title": "Leave It To The Robots: What The Jetsons Got Right About AI",
+      "excerpt": "While the show exaggerated futuristic technology, it can help us think about the real role AI can and should play in the workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee90f75a2b06400077bbb41/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
+      "publishedDateTime": "2022-05-13T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones.md",
       "title": "Dubai students invent robot that can disarm explosives in war zones",
       "excerpt": "A group of university students in the UAE have developed an autonomous robotic device that can disarm explosives. Students from Canadian University Dubai (CUD) have developed a high-tech, safe, and cost-effective solution to neutralize hazardous environments.",
@@ -268,57 +424,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-13-ai-hiring-tools-can-violate-disability-protections-government-warns.md",
-      "title": "AI Hiring Tools Can Violate Disability Protections, Government Warns",
-      "excerpt": "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10",
-      "originalUrl": "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-543409/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
-      "publishedDateTime": "2022-05-12T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-13-run-automatic-model-tuning-with-amazon-sagemaker-jumpstart.md",
       "title": "Run automatic model tuning with Amazon SageMaker JumpStart",
       "excerpt": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). In March 2022, we also announced the support for APIs in JumpStart. JumpStart provides one-click fine-tuning",
@@ -379,7 +484,7 @@
       "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -472,6 +577,58 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-ai-hiring-tools-can-violate-disability-protections-government-warns.md",
+      "title": "AI Hiring Tools Can Violate Disability Protections, Government Warns",
+      "excerpt": "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
+      "originalUrl": "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-543409/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
+      "publishedDateTime": "2022-05-12T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -577,6 +734,58 @@
         "AWS AI",
         "Computer Vision",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups.md",
+      "title": "Watch the latest TechCrunch Live here: Raising monster rounds for self-driving mobility startups",
+      "excerpt": "TechCrunch Live records, well, live every Wednesday at noon Pacific, and it’s a great time. The events are free, and is available to watch on Facebook, YouTube, and Twitter. However, if you want ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/",
+      "originalUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Df0KQS_Dox8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/",
+      "publishedDateTime": "2022-05-12T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -926,6 +1135,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-12-new-google-glasses-could-let-you-speak-any-language-thanks-to-real-time-ai-translation.md",
+      "title": "New Google glasses could let you speak any language thanks to real-time AI translation",
+      "excerpt": "Google CEO Sundar Pichai this week teased the prototype of a new pair of smart glasses - they use augmented reality to provide live translations of any language as you hear it being spoken",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266",
+      "originalUrl": "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.dailystar.co.uk/incoming/article26945548.ece/ALTERNATES/s615/0_2022-05-12-15.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp",
+      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp",
+      "publishedDateTime": "2022-05-12T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Star",
+        "domain": "dailystar.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-biotech-ceo-were-only-growing-stronger-with-ai-robotics.md",
       "title": "Biotech CEO: We're Only Growing Stronger With AI, Robotics",
       "excerpt": "We're dependent on data, we're dependent on better artificial intelligence that enables us to use models ... Again, we use AI, we use robotics, we use data science, and we use it all at the edge of where the technology is today as a way to enable our ...",
@@ -975,255 +1227,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-apeejay-education-aws-launch-nep-accelerator-programme.md",
-      "title": "Apeejay Education, AWS launch NEP Accelerator programme",
-      "excerpt": "This is the first program in India to support the technology transformation of education institutions as per the NEP 2020, according to Apeejay Education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
-      "originalUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/05/12/1600x900/congress-santiago-american-business-technology-services-america_b095090a-3ae3-11eb-95ec-0fdf1bc83475_1652346526516.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
-      "publishedDateTime": "2022-05-12T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-the-man-who-controls-computers-with-his-mind.md",
-      "title": "The Man Who Controls Computers With His Mind",
-      "excerpt": "Staring at the computer screen, searching his mind for a way to begin ... interfaces have learned to play simple tunes on a digital keyboard, control exoskeletons and maneuver robotic limbs with enough dexterity to drink from a bottle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-facebookJumbo-v5.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
-      "publishedDateTime": "2022-05-12T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge.md",
-      "title": "California’s AI-Powered Wildfire Prevention Efforts Contend With Data Challenge",
-      "excerpt": "The state’s utilities are racing to build AI models capable of identifying equipment problems that could cause wildfires.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
-      "originalUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-542314/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
-      "publishedDateTime": "2022-05-12T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster.md",
-      "title": "This startup hopes photonics to will get us to AI systems faster",
-      "excerpt": "Meanwhile, the speed of AI computation doubles every 3 or 4 months ... Salience Labs is an Oxford-based startup that thinks it has the answer, by combining an ultra-high-speed multi-chip processor ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
-      "originalUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f74lQ-V7xXg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
-      "publishedDateTime": "2022-05-12T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-microsoft-session-highlights-from-sap-sapphire-2022.md",
-      "title": "Microsoft session highlights from SAP Sapphire 2022",
-      "excerpt": "Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T01:00:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
       ]
     }
   ],

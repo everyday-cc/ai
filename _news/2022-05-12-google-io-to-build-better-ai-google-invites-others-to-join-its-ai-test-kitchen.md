@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-to-build-better-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
 type: article
 quality: 82
-heat: 122
+heat: 102
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google details its latest language model and AI Test Kitchen, a showcase for AI research"
-    excerpt: "During its first keynote at Google I/O 2022, Google detailed its latest language model, LaMDA 2, and an app called AI Test Kitchen."
-    publishedDateTime: 2022-05-11T18:31:00Z
-    webUrl: "https://techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/"
-    ampWebUrl: "https://techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/AI_TestKitchen.gif?w=680"
-        width: 680
-        height: 383
-        isCached: true
   - title: "Google Announces AI Test Kitchen App For Beta Testing Of The Latest Language Models At I/O 2022"
     excerpt: "The American search giant revealed a bunch of new updates that will fall under the AI technology. Moving forward, we can clearly see that Google will be using a lot of AI technology in the future and the new upcoming features that were announced include multisearch that will allow a user to pair the image searches with the text searches and addition of support for 24 new languages in Google Translate."
     publishedDateTime: 2022-05-12T09:04:00Z
@@ -61,20 +45,6 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-71_1d9a.620.jpg"
         width: 619
         height: 374
-        isCached: true
-  - title: "Google is beta testing its AI future"
-    excerpt: "It’s clear that the future of Google is tied to AI language models. At this year’s I/O conference, the company announced a raft of updates that rely on this technology, from new “multisearch” features that let you pair image searches with text queries to improvements for Google Assistant and support for 24 new languages in Google Translate."
-    publishedDateTime: 2022-05-11T17:54:00Z
-    webUrl: "https://www.theverge.com/2022/5/11/23065072/google-ai-app-test-kitchen-future-io-2022"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 71
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/b2EBKUnJTy_3cs5MYVg9ZEUzPpw=/0x43:2096x1140/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23451217/TestKitchen_still.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Google unveils artificial intelligence tool for real-world searches"
     excerpt: "Alphabet Inc.'s Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company previewed a ..."

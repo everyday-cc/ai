@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 1429
         isCached: true
-  - title: "Google details its latest language model and AI Test Kitchen, a showcase for AI research"
-    excerpt: "During its first keynote at Google I/O 2022, Google detailed its latest language model, LaMDA 2, and an app called AI Test Kitchen."
-    publishedDateTime: 2022-05-11T18:31:00Z
-    webUrl: "https://techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/"
-    ampWebUrl: "https://techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/AI_TestKitchen.gif?w=680"
-        width: 680
-        height: 383
-        isCached: true
   - title: "Google Announces AI Test Kitchen App For Beta Testing Of The Latest Language Models At I/O 2022"
     excerpt: "The American search giant revealed a bunch of new updates that will fall under the AI technology. Moving forward, we can clearly see that Google will be using a lot of AI technology in the future and the new upcoming features that were announced include multisearch that will allow a user to pair the image searches with the text searches and addition of support for 24 new languages in Google Translate."
     publishedDateTime: 2022-05-12T09:04:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-71_1d9a.620.jpg"
         width: 619
         height: 374
-        isCached: true
-  - title: "Google is beta testing its AI future"
-    excerpt: "It’s clear that the future of Google is tied to AI language models. At this year’s I/O conference, the company announced a raft of updates that rely on this technology, from new “multisearch” features that let you pair image searches with text queries to improvements for Google Assistant and support for 24 new languages in Google Translate."
-    publishedDateTime: 2022-05-11T17:54:00Z
-    webUrl: "https://www.theverge.com/2022/5/11/23065072/google-ai-app-test-kitchen-future-io-2022"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 71
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/b2EBKUnJTy_3cs5MYVg9ZEUzPpw=/0x43:2096x1140/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23451217/TestKitchen_still.png"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "8TMMay8AjOKZmIJHZIcWXJgjXnB4VfOarscH5Fxjh3SQ8Omti0GLo/FleeFYRA9gQUz5T6vbo6nwoanCpPZrFIgdYhz0p4sDaikme0EsfzqMgLwIMz42i2vDKa757rFv0OneptUp3tmEyUCIADilYDSQmzzinXc8GBs+8dpH94ml2y8UFbVXV1aNDWPaWxvPgm5iFgldxq/lykjJEciqrKJhrh399JnmD50JcCxiJKlu6MHkONmoZdkTeuXHDR4KjGDphsSRn4hjfWvFE3CtRUjxlIKsmlmSVerHQu2cuFYe+RfcprBilIOBXt3iUh5m64e+Dcedh6jlcPhQl0WwBF9gdh7XDAWZ3GKa6m0Xvfj8mj3VExF1BJlcH3zf3Cq7hFG+btKMMYVkYviA5OO+nthmVDeXDjMxwfLCvArEpeG+bFY8H1kDpnkDSOM9yrjP26vJO27V+40Ksfka1OEZlrpwryn+lil81v+XadQ2eTxFOJ+5kzev3c/EuZ3lCGFcYOh+n6+y90MQYrVLoFNuOw==;QefVNRK7kq1wxcKYC4xQGw=="

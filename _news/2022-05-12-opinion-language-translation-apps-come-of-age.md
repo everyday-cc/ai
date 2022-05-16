@@ -25,19 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: China-U.S. AI Rivalry Doesn’t Have to Be a Zero-Sum Game"
-    excerpt: "The U.S. has advantages such as leading hardware, research, and talent, whereas China has unparalleled masses of AI-ready data at its disposal to drive technological development, a strong will to succeed in its quest for primacy, and a head start in its ..."
-    publishedDateTime: 2022-05-13T11:34:00Z
-    webUrl: "https://www.caixinglobal.com/2022-05-13/opinion-china-us-ai-rivalry-doesnt-have-to-be-a-zero-sum-game-101884771.html"
+  - title: "New Google glasses could let you speak any language thanks to real-time AI translation"
+    excerpt: "Google CEO Sundar Pichai this week teased the prototype of a new pair of smart glasses - they use augmented reality to provide live translations of any language as you hear it being spoken"
+    publishedDateTime: 2022-05-12T11:30:00Z
+    webUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266"
+    ampWebUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
+    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 37
+      name: Daily Star
+      domain: dailystar.co.uk
+    quality: 51
     images:
-      - url: "https://img.caixin.com/2022-05-13/165244150521696_560_373.jpg"
-        width: 560
-        height: 373
+      - url: "https://i2-prod.dailystar.co.uk/incoming/article26945548.ece/ALTERNATES/s615/0_2022-05-12-15.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Google reveals AI tool for real-world searches"
+    excerpt: "Google on Wednesday in the US previewed augmented-reality glasses that display translations of conversations in real-time, and it laid out additional plans to bridge the real world and its digital universe of search,"
+    publishedDateTime: 2022-05-11T21:38:00Z
+    webUrl: "https://www.crn.com.au/news/google-reveals-ai-tool-for-real-world-searches-579890"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/2022-05-11T193107Z_1_LYNXNPEI4A12A_RTROPTP_4_ALPHABET-GOOGLE-DEVELOPERS.JPG"
+        width: 2034
+        height: 1356
+        isCached: true
+  - title: "Translation glasses and watchful AI: Google’s announcements at I/O"
+    excerpt: "Glancing at a smart device so you can talk to it. Putting on glasses so you can understand a foreign language. Pointing your phone at something to see where it came from. These are Google's latest AI innovations,"
+    publishedDateTime: 2022-05-14T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/14/translation-glasses-and-watchful-aigoogles-announcements-at-io"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/13/1584573.jpg"
+        width: 1240
+        height: 827
         isCached: true
 
 secured: "k95OzrpxFED74ExXfO5wMP544hG6gUk6YTmbCUNCgF2VfbWjPX1DtdWEptDNkoH+t/tkNlNpQUpwOIaddt6qcseqCl3Rl/z3KH6+iDQo5vyfm09iSHWl+G6AHpLsyKyzAVKqSoKcJE74VSAsCyQ+rh4d2PlVapggfx1slSaor7GNyTPuK8VcGPYcRMyp0rkVlY1j4gyGTyqvV1dxtPy+Ku4qM5PfMhIPbGM3oO9P9GF5TcpKIR9j7xrzuq1RFvrrsrNdaGMSGONtq7CCSEOb0NtGFpWfV6CLZySWIcheWgH61HJ8pZrf6rui9aLo7lLx7+sIcQLOAfCW2dOz4Z6RBvDaUdgAMEYZCQlAwhVXEm8=;1QSsP6NJSyfTFxg1LsVysA=="

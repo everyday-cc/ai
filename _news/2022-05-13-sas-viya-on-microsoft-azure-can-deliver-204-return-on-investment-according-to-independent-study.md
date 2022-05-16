@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Avaya OneCloud – now available on Microsoft Azure"
+    excerpt: "Avaya and Microsoft have expanded their global partnership by combining the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations have more options to increase productivity and customer engagement."
+    publishedDateTime: 2022-05-16T11:25:00Z
+    webUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 69
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/05/Avaya-Microsoft-Azure-Announce-CPaaS-Integration-1280x720-1.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Machine Learning Operations (MLOps) Market to Observe Exponential Growth By 2022 to 2028 | Microsoft, Amazon, Google, IBM"
     excerpt: "New Jersey, United States-Global Machine Learning Operations (MLOps) Market 2021 by Company, Regions, Type, and Application, Forecast to 2028 The Machine Learning Operations (MLOps) market report gives a definite examination of worldwide market size ..."
     publishedDateTime: 2022-05-13T10:19:00Z

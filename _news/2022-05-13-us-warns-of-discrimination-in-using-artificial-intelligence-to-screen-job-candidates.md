@@ -1,40 +1,43 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
-publishedDateTime: 2022-05-12T21:04:00Z
-originalUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.kuow.org/stories/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
+publishedDateTime: 2022-05-12T21:12:00Z
+originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
-quality: 29
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: New Hampshire Public Radio
+  domain: nhpr.org
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/2f0aa44aca3f5f26556328e723114826.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 838
-    height: 628
+  - url: "https://npr.brightspotcdn.com/dims4/default/6edbeda/2147483647/strip/true/crop/990x557+0+47/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2Fe9%2Fb0e0c6674e25a8371cab04354d6d%2Fstate-trooper-vehicles.PNG"
+    width: 430
+    height: 242
     isCached: true
 
 related:
   - title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
-    publishedDateTime: 2022-05-13T01:18:00Z
-    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
+    publishedDateTime: 2022-05-12T20:18:00Z
+    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://images.wsj.net/im-543409/social"
         width: 1280
@@ -110,6 +113,6 @@ related:
       domain: mcknightsseniorliving.com
     quality: 8
 
-secured: "wn0UksyAYB1WfyCa93sWVwp39OCvYq27n7Ln4Q1hg1N132uV+IqpK5+adU+3l1Zxy/PuujJizZKvtzEj9+VKipYFjtxl7c/9er9XZxBWy6dpKJ7xDrwrSTduSzMCRW0LYx6cy5nb++IRdX1fU+H9s/BG/Ic3REPNKd44/Sen9kIB/6UskUzvTyaybjDTjTE65xLiJH973ONoC1AyN3y5AAb536psXeWk5BvVRKXyyJFSXhdguc7gOVkajKSdvmF5kAoEyqvzpiVSoeXovsieTJZ2sqwJk2EcSDZLLy/22yxgvSyk57xdFHB1T+Na52pZDSGrs/0JBW40/9E+jYn8Q9OAba78zuUqZxamxKcFQb44Owwf+Q5nDmX0xtn+Lh8AGN+IdXP6eQLRx+WSAicOdwxm7T4tlj08ynCjhTxzkYxIAFS7xg+DKG1DGfCBDg8Gjn087ci0S727MZunZ4ev1H8qfPPHMSqEpi35JHiQ+AVX6c2mn310y8sDgDAZHB1+YvVQmXcuN8VZ2AjzlkKReg==;bgDorzKUvBSHTVBjM1/EVQ=="
+secured: "6SBQyCDIYWLJKmN2Cf4b7Bh/EuRykNlgEuHoNoGJLFzBOvqYSV2mUJxNUJFFLv/pCLx5WQRPWAA16Qy3lq0ox+uHaf8iE6t+L72lvh6AuLU3Naxx3FXy8RgXpNuB6IfQf5QTxXCZ7m+5P1h6/Tn4Xt4cq0NFM3lYYKITEAJ6iEpKu72WnBLLJKSGe00EAnnm+U7yLg3f+vvploi6s4AFHeb1Gu1HTgjBmAP3sFgr1vHUSDpFNzLTAl0h4mPmrMpqcUe+UO+QLllHplUaaz9HAGkbnp3Xt1EOH0PnGBNTODCWtBZlqPLga7aNufydYDbtHxEqkKJ3CPMZ2vghCB3l/6sunzzR9LZFKE2skbwa7xM=;tSqF/3mQCM5rlpHYcoFUdw=="
 ---
 

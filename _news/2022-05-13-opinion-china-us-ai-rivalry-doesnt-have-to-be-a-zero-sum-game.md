@@ -23,22 +23,6 @@ images:
     height: 373
     isCached: true
 
-related:
-  - title: "Opinion: Language translation apps come of age"
-    excerpt: "And then have their responses translated back into English. The advent of AI-driven translation tools is already making some question the need for learning foreign languages, now that digital devices can handle many of our interpretation and translation needs."
-    publishedDateTime: 2022-05-12T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/12/opinion-language-translation-apps-come-of-age"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/11/1581512.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-
 secured: "/5lYrKY1sFyKsYFiFlzSTzUr8gKla7u4DpRt2YNFvAgirAEDZ9rKHFIzJzyWaJfKlPhDfQuOMGebXBgfszLiQQYjgmfycL8CDjVhodSZRjskuD6XLw942+4ggsBpB9yglweCf6CONtWn99Wvvb0PxSCxTdViUPyQEKuhwQ0sQsZmNO9RDUgRoTfzJRjAwBosqyaWT1SmWL1gGy3VdtKq6W5i+g7KAIm9stq69df+WINdIqMS8/rBjVuu45+nCl0o8Qg6xzjfOXXBjrVBnqwKLpRso6jPxAO+eb2VaQhMXxlGaHKPSbZTBHeFo2E22jrIJyez0GvC9exS2imJCo2piri0wLY8ikIdrgSWOXeX4qo=;BZmfwam8yMJfrxicMjHDuw=="
 ---
 

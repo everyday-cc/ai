@@ -25,21 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Google Workspace Suite To Gain 7 New AI Tools For Usability & Security"
-    excerpt: "Google is expanding its use of AI in Workspace in a bid to improve the usability and security of its services. That's based on a recent announcement from"
-    publishedDateTime: 2022-05-11T18:47:00Z
-    webUrl: "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp"
+  - title: "New Google glasses could let you speak any language thanks to real-time AI translation"
+    excerpt: "Google CEO Sundar Pichai this week teased the prototype of a new pair of smart glasses - they use augmented reality to provide live translations of any language as you hear it being spoken"
+    publishedDateTime: 2022-05-12T11:30:00Z
+    webUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266"
+    ampWebUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
+    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 74
+      name: Daily Star
+      domain: dailystar.co.uk
+    quality: 51
     images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/10/google-workspace-gmail-new-icon.jpg"
-        width: 1172
-        height: 678
+      - url: "https://i2-prod.dailystar.co.uk/incoming/article26945548.ece/ALTERNATES/s615/0_2022-05-12-15.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Translation glasses and watchful AI: Google’s announcements at I/O"
+    excerpt: "Glancing at a smart device so you can talk to it. Putting on glasses so you can understand a foreign language. Pointing your phone at something to see where it came from. These are Google's latest AI innovations,"
+    publishedDateTime: 2022-05-14T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/14/translation-glasses-and-watchful-aigoogles-announcements-at-io"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/13/1584573.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "Opinion: Language translation apps come of age"
+    excerpt: "And then have their responses translated back into English. The advent of AI-driven translation tools is already making some question the need for learning foreign languages, now that digital devices can handle many of our interpretation and translation needs."
+    publishedDateTime: 2022-05-12T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/12/opinion-language-translation-apps-come-of-age"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/11/1581512.jpg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "PFKFDBrTCnA3KjqNM7eCkk6q3nPE7uOdK1FUUmxwjXPIKluaCVt6KpmuL1PGqmi1t091dG/HH9ULzEkMJlI/Cp/Dvg62qQgus1hvXSxbiqWlVLydm/mM93y5hUV18HF5I2O4zE0gm3RBfH0Gb+Lnn07XKRkQq+YYJcCGXTz63y8UD4nKfammFV4cCEclUu2EnuoVTNv9s1iKliV8tHOgRnWJtULKhAZoAKjXz2doQTQ3oym9T8CHCwWr4Q4+owiP+PrOcDiYxWlqpCZIYZZndUGKCaNiIDWZL0UlPhaj7Mr1vnGWeyys9c5OdA/HVmVPEPVvPHMmIZHDvI47E0BlCT2jsRUM03yEMtR4Hbs5M00=;bW8e2IVSEMh55h+cou2sTA=="

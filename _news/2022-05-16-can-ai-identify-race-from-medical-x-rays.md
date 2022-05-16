@@ -3,10 +3,10 @@ category: news
 title: "Can AI Identify Race From Medical X-Rays?"
 excerpt: "An astonishing new study published in The Lancet Digital Health shows that AI can predict a person’s race based on X-ray images with a high degree of accuracy, but scientists do not know exactly how."
 publishedDateTime: 2022-05-15T23:09:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
+originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays"
+webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/can-ai-identify-race-medical-x-rays?amp"
 type: article
 quality: 57
 heat: -1
@@ -73,6 +73,6 @@ related:
         height: 576
         isCached: true
 
-secured: "KTYi1sEjhaWDi9Sy/1FSg9l/ks9PLm/o4BwGyLTnpDWEProzLXn5pGhtDry7+RFci1S8v5j4PpNjUUtQc8wWPnR2cMB8sewXuJYM40t7FA8rIiN4EGY3yq3Le06gEmhnsjEMELAwAGYKMX1t9TW+UgT3dmF3Rfr3cVwNC17VcdGbfITudg3MDmBoUrpVWn32Nh9HJap9pCa0WAtLvPVqTocEDESJdZt6xwqLB8MDaDhMH1YAX+C0Wn01HXAB/3ISMDQrw/G1Rbrr5+rzY0o01YXc3DMurGiT4hXKlk0qBudtumbJEkP2MIHMcw/afl1jKTOwlpqJ/U628vY6nikpHfUg5Q8cf1zKxa3CfPtmPrE=;a5+DtS3qKsVL5rNCD84ogw=="
+secured: "6xCTfwi2qw9zSxtS09AKlS5D/0pVBkn8IgdITYKazmWfL/E8iZLlKSyjGIpVXHbtwnTMYb6i6N9iCtl77CrUgoUaZALnVghJAEQwixRf3P2BiuuiYvhHdtwHILxZOURw/DXPjH0KeAJ4GLJQbCkjbSSVtppIiX4qs5Ow5RnxJvfDj0dp4/FdROYFE5Jep/Wz5RUTNu4pAXWyuRNc5ARaYZKSZn90nxjzpdA91uBeUWvh5+Nh6pY4QUtVB1tjsMRzm7CEr18U91cXOCeahE45JqKjHuY8eCxDfh1tIXDHaujTSDHuN5WQ5cuvdCYa2fXgccHsyG7fCfFrtTuHRhxqnyCziPbX7V8rWxfDg8ltpc8=;ZuCmDEpWcjhmHZir+cpxJA=="
 ---
 

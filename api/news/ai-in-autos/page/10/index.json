@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-02-13-the-ethical-ai-question-of-whether-self-driving-cars-ought-to-be-a-good-samaritan-and-forewarn-when-human-driven.md",
+      "title": "The Ethical AI Question Of Whether Self-Driving Cars Ought To Be A Good Samaritan And Forewarn When Human-Driven...",
+      "excerpt": "driving systems that will be driving cars for us. These are considered self-driving cars (for my extensive coverage of self-driving cars and AVs, see the link here). An intriguing question arises: Will the advent of AI-based true self-driving cars include ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/13/the-ethical-ai-question-of-whether-self-driving-cars-ought-to-be-a-good-samaritan-and-forewarn-when-human-driven-cars-are-going-to-crash-into-each-other/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/13/the-ethical-ai-question-of-whether-self-driving-cars-ought-to-be-a-good-samaritan-and-forewarn-when-human-driven-cars-are-going-to-crash-into-each-other/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/609ee74190ee4662948f3410/0x0.jpg?format=jpg&crop=3782,2128,x0,y249,safe&fit=crop",
+          "width": 3782,
+          "height": 2128,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/13/the-ethical-ai-question-of-whether-self-driving-cars-ought-to-be-a-good-samaritan-and-forewarn-when-human-driven-cars-are-going-to-crash-into-each-other/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/13/the-ethical-ai-question-of-whether-self-driving-cars-ought-to-be-a-good-samaritan-and-forewarn-when-human-driven-cars-are-going-to-crash-into-each-other/amp/",
+      "publishedDateTime": "2022-02-13T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-13-5-chinese-stocks-in-cathie-woods-portfolio.md",
       "title": "5 Chinese Stocks in Cathie Wood’s Portfolio",
       "excerpt": "For example, the company’s Advanced Driving Support System (ADAS), Apollo, has twice as much data on miles driven than any other initiative in the world, giving Baidu (and China) a large lead in the global AI arms race. In addition, Baidu’s cloud ...",
@@ -1392,58 +1445,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems.md",
-      "title": "Annotell raises $24M to develop data labeling tools for autonomous driving systems",
-      "excerpt": "Annotell, a company developing data labeling tools for autonomous vehicle systems, has raised $24 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/",
-      "originalUrl": "https://venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/self-driving-car.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/amp/",
-      "publishedDateTime": "2022-02-03T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

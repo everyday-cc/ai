@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-2
 cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Daily Star
@@ -27,77 +27,48 @@ images:
     isCached: true
 
 related:
-  - title: "Google adds support for 24 new languages to Translate"
-    excerpt: "Google is adding support for 24 new languages to its Translate tool, the company announced today during its I/O 2022 developer conference. Among the newly available languages are Sanskrit, Tsongae and Sorani Kurdish."
-    publishedDateTime: 2022-05-11T17:29:00Z
-    webUrl: "https://www.engadget.com/google-translate-24-language-expansion-171810853.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-translate-24-language-expansion-171810853.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-translate-24-language-expansion-171810853.html"
+  - title: "Google reveals AI tool for real-world searches"
+    excerpt: "Google on Wednesday in the US previewed augmented-reality glasses that display translations of conversations in real-time, and it laid out additional plans to bridge the real world and its digital universe of search,"
+    publishedDateTime: 2022-05-11T21:38:00Z
+    webUrl: "https://www.crn.com.au/news/google-reveals-ai-tool-for-real-world-searches-579890"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5ef38f70-d14d-11ec-9ffb-4994f1bacf3b"
-        width: 1600
-        height: 1000
+      - url: "https://i.nextmedia.com.au/News/2022-05-11T193107Z_1_LYNXNPEI4A12A_RTROPTP_4_ALPHABET-GOOGLE-DEVELOPERS.JPG"
+        width: 2034
+        height: 1356
         isCached: true
-  - title: "Google Translate adds support for 24 new languages"
-    excerpt: "According to Google CEO Sundar Pichai, the expansion allows the company to cover languages spoken by more than three million people. Pichai credited the breakthrough to a new monolingual AI learning approach where Google's translation algorithm learns how ..."
-    publishedDateTime: 2022-05-11T17:56:00Z
-    webUrl: "https://www.engadget.com/google-translate-24-language-expansion-171810853.html?src=rss"
+  - title: "Translation glasses and watchful AI: Google’s announcements at I/O"
+    excerpt: "Glancing at a smart device so you can talk to it. Putting on glasses so you can understand a foreign language. Pointing your phone at something to see where it came from. These are Google's latest AI innovations,"
+    publishedDateTime: 2022-05-14T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/14/translation-glasses-and-watchful-aigoogles-announcements-at-io"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5ef38f70-d14d-11ec-9ffb-4994f1bacf3b"
-        width: 1600
-        height: 1000
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/13/1584573.jpg"
+        width: 1240
+        height: 827
         isCached: true
-  - title: "Google Translate is adding 24 new languages, and it’s all thanks to machine learning"
-    excerpt: "As part of Google I/O 2022, the company has revealed its latest changes to Google Translate, including the addition of 24 new languages. These aren’t the world’s most common languages, but some are used by millions of people across the globe."
-    publishedDateTime: 2022-05-11T17:16:00Z
-    webUrl: "https://www.androidpolice.com/google-translate-is-adding-24-new-languages/"
-    ampWebUrl: "https://www.androidpolice.com/google-translate-is-adding-24-new-languages/amp/"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-translate-is-adding-24-new-languages/amp/"
+  - title: "Opinion: Language translation apps come of age"
+    excerpt: "And then have their responses translated back into English. The advent of AI-driven translation tools is already making some question the need for learning foreign languages, now that digital devices can handle many of our interpretation and translation needs."
+    publishedDateTime: 2022-05-12T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/12/opinion-language-translation-apps-come-of-age"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 69
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/Google-Translate.jpg"
-        width: 3720
-        height: 2480
-        isCached: true
-  - title: "Google Translate adds support for 24 new languages learned with machine learning"
-    excerpt: "Google LLC said it’s adding another 24 languages to its Google Translate app during its I/O developer conference today. The new supported languages include dialects that are spoken by more than 300 million people across the world,"
-    publishedDateTime: 2022-05-12T00:25:00Z
-    webUrl: "https://siliconangle.com/2022/05/11/google-translate-adds-support-24-new-languages-learned-machine-learning/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Google-Trtanslate.jpg"
-        width: 1000
-        height: 416
-        isCached: true
-  - title: "Google diversifies its translation service, adds 24 languages"
-    excerpt: "Google added 24 languages to its translation service, including South American, African, and South Asian languages not commonly found on popular tech products. It could help keep languages alive, but certain cultural nuances may not translate."
-    publishedDateTime: 2022-05-13T15:30:00Z
-    webUrl: "https://www.csmonitor.com/Technology/2022/0513/Google-diversifies-its-translation-service-adds-24-languages"
-    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/Technology/2022/0513/Google-diversifies-its-translation-service-adds-24-languages"
-    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/Technology/2022/0513/Google-diversifies-its-translation-service-adds-24-languages"
-    type: article
-    provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
+      name: The Star
+      domain: thestar.com.my
     quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/11/1581512.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "pyuw03hJ32bQ6XDcNhTaawZ/yh+P9GW2VaETg4QjStEvjEAB/xBdVi939xt7ExJyyByCBfBf7kFsNBp8AtGhcbOrtzRsGS52xv1S/RfDoDa7AT0Z3hP+JChZTb8OGFExrzov5cVqkvxgslLCBCTjV8wVI8203huMZiMFdgAtW3tbeyQwovguLDGZw4QN7m+obEIxRVtmcWeXB0oHW9iDXiqJZrhmYWz6tvXFqjVUDOY6p+X81Sv6e3AFC1uZDJNbu8OKjz0DJdfETV/5jVfEvCrNCbttlgfPVOs6GIL7KGu6c5E6yeBJqFFkj8GKOGPo7LBSCfyRXhoFdpn7U3SZrf/N9DRTMhtjMsAAJwTJiZz8YpoTIPonGkTQ1ESEEHXtSZYi86zXePtF7uLeN9ZBpFprXPFjinwUuDbRz3jUQ/2YXpt/91yqhY2LqMrDY4J0wHPofeFhSpwIrrXPBez244ujt1cpyfBUrNEDr9aAKrZMw1kNexr+DNnuRbqZ1Pp2LznJJ7IIrwHkfjKzyTVsGQ==;9TIc/T6E9mRaBff/3MuAXA=="
 ---

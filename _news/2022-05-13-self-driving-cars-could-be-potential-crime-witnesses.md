@@ -55,15 +55,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "These 3 technologies could make self-driving cars safer"
-    excerpt: "With autonomous vehicles already operating in several cities, technology companies are working on high-definition maps, better artificial intelligence models and remote control for fleets when needed."
-    publishedDateTime: 2022-05-11T18:02:00Z
-    webUrl: "https://www.smartcitiesdive.com/news/av-technologies-self-driving-car-safety/623471/"
-    type: article
-    provider:
-      name: smartcitiesdive
-      domain: smartcitiesdive.com
-    quality: 4
   - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
     excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
     publishedDateTime: 2022-05-12T17:53:00Z

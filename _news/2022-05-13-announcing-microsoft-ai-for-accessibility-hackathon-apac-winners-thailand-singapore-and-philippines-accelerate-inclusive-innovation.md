@@ -44,6 +44,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Avaya OneCloud – now available on Microsoft Azure"
+    excerpt: "Avaya and Microsoft have expanded their global partnership by combining the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations have more options to increase productivity and customer engagement."
+    publishedDateTime: 2022-05-16T11:25:00Z
+    webUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 69
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/05/Avaya-Microsoft-Azure-Announce-CPaaS-Integration-1280x720-1.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
     excerpt: "Prior to implementing SAS Viya on Azure, interviewees noted that barriers to data access and disparate data sources made it difficult and time-consuming to build, deploy and manage AI models. Other issues they faced included the inefficiencies and high ..."
     publishedDateTime: 2022-05-13T07:20:00Z

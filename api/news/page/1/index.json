@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-16-cncf-launches-ethics-in-open-source-training-course.md",
+      "title": "CNCF launches ethics in open source training course",
+      "excerpt": "The Cloud Native Computing Foundation has developed a new certification for developers looking to better incorporate ethical-first thinking into their open source software design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
+      "originalUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/05/cio-ethics-imageby-rapideye-gettyimages-162922472-100842471-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
+      "publishedDateTime": "2022-05-16T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-software.md",
+      "title": "Cyber security startup IEM Labs launches plagiarism checker, AI-powered software",
+      "excerpt": "New Delhi: Kolkata-based cyber security Startup IEM Labs has launched a plagiarism checker and an AI-powered content generation software. The plagiarism checker, called IEMSecure, can scan through 10 billion sources in just a few seconds, while the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/articleshow/91596909.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/articleshow/91596909.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-91597161/ai_artificial-intelligence_tech_startups_funding5.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/amp_articleshow/91596909.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/amp_articleshow/91596909.cms",
+      "publishedDateTime": "2022-05-16T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-wysa-receives-usfda-approval-for-ai-led-device-for-mental-health.md",
       "title": "Wysa receives USFDA approval for AI led device for mental health",
       "excerpt": "The device delivers cognitive behavioural therapy (CBT) via a smartphone-based conversational agent to reduce the symptoms of depression and anxiety, ..",
@@ -89,6 +184,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-16-tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai.md",
+      "title": "TU Delft: TU Delft has launched the Digital Ethics Centre for fair and safe AI",
+      "excerpt": "What does human-centred and responsible AI look like? Digital technology can be found pretty much in every corner of our society. But companies and institutions don’t always know how to deal with technological innovations. The TU Delft Digital Ethics ...",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
+      "originalUrl": "https://indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/TU-Delft-building-photo-by-Frank-van-Schadewijk-1-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
+      "publishedDateTime": "2022-05-15T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-brainchip-and-edge-impulse-partner-to-accelerate-aiml-deployments.md",
       "title": "BrainChip and Edge Impulse Partner to Accelerate AI/ML Deployments",
       "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 15, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, and Edge Impulse,",
@@ -141,7 +279,7 @@
       "originalUrl": "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -373,7 +511,7 @@
       "originalUrl": "https://www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1054,162 +1192,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-15-key-tips-to-leverage-visual-search-for-marketing-in-2022.md",
-      "title": "15 Key Tips To Leverage Visual Search For Marketing In 2022",
-      "excerpt": "Agency 11. Remember, A Picture Is Worth A Thousand AI Interpretations In this connected era, it is crucial to understand how artificial intelligence, machine learning, object recognition and algorithms can be affected by color, objects, composition and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627d90028555d69d19210491/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/amp/",
-      "publishedDateTime": "2022-05-13T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-no-joke-googles-ai-is-smart-enough-to-understand-your-humor.md",
-      "title": "No Joke: Google's AI is Smart Enough To Understand Your Humor",
-      "excerpt": "Amid a flurry of new hardware including the Pixel 7, the Pixel Buds Pro and a new Pixel Tablet, Google dropped one development at its I/O developer conference that went largely unnoticed: its AI can now understand jokes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/036dd9834bc973e9ba35e4b99168d39526eb8267/2022/05/12/e325e935-0564-4a8a-a853-97a41a827de4/screen-shot-2022-05-12-at-4-10-19-pm.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "publishedDateTime": "2022-05-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-leave-it-to-the-robots-what-the-jetsons-got-right-about-ai.md",
-      "title": "Leave It To The Robots: What The Jetsons Got Right About AI",
-      "excerpt": "While the show exaggerated futuristic technology, it can help us think about the real role AI can and should play in the workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee90f75a2b06400077bbb41/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
-      "publishedDateTime": "2022-05-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

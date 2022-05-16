@@ -1,27 +1,19 @@
 ---
 category: news
 title: "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech"
-excerpt: "SAS Hackathon an incubator for innovation and social justiceCARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data"
-publishedDateTime: 2022-05-10T14:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech-1031442768"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech-1031442768"
+excerpt: "The combination of AI in the cloud gives Hackathon teams ... Per Reggie Townsend, Director of the SAS Data Ethics Practice and recent appointee to the National Intelligence Artificial Advisory ..."
+publishedDateTime: 2022-05-10T14:56:00Z
+originalUrl: "https://fox2now.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
+webUrl: "https://fox2now.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
 type: article
-quality: 57
-heat: 77
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Fox2Now St. Louis
+  domain: fox2now.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1812710/SAS_Milwaukee_County_Courthouse.jpg"
@@ -29,36 +21,6 @@ images:
     height: 267
     isCached: true
 
-related:
-  - title: "AI compounds discrimination against disabled"
-    excerpt: "Organizations are responsible for ensuring their hiring and performance management tools do not discriminate against individuals with disabilities, federal civil rights officials say."
-    publishedDateTime: 2022-05-13T15:41:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/05/ai-compounds-discrimination-against-disabled/366901/"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://cdn.gcn.com/media/img/cd/2022/05/13/051222_getty_fcw_ai_brain/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech"
-    excerpt: "SAS Hackathon an incubator for innovation and social justice. CARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data scientists and technology enthusia"
-    publishedDateTime: 2022-05-10T17:35:00Z
-    webUrl: "https://www.kget.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
-    type: article
-    provider:
-      name: KGET.com
-      domain: kget.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/1812710/SAS_Milwaukee_County_Courthouse.jpg"
-        width: 400
-        height: 267
-        isCached: true
-
-secured: "yPUpK0/1sl3RgQlPLw0Tk/ikZElcIBcZ20fDqPJKgtRvepR2l84plFhu3cv4k1AvaLOAVJvv00lDY4Y50Y2I3rowhXFcdKZ7gw1zmG24mIkDLB/b5q8m297bS8qiGvTSZt+7IAbsTHipL6faE2nKUmla9LvDp7YkLAY0FmV8XbS6S2Ha9z/uGeRWv57I8cGfRCGFsO1eL3Z+lNChW6/JsQBZ3ObtCwGaLInaX5J9EdDNxIC36v4Whe+QXLilUnY5z8NlFVl6quwFNyU/dRah0g/iSIqNdTpYYHpZUeqnEs/4MoNmsgT9Lql6atnNnPlXWtX42CVnx0hgENJl57E7VfMhWiNLPmYnJBgqZXOaD7o4o05vULegBMgUq5fjYs8uG7bafK+G3mJ4ADSgmA54bnvt5u17xajTC3nM5LfYygKhvTtmdA6TGTP4V0cB5lOzW8k/MVYb9aop9xJ/8WEfLh9mMV5Y6CxqWanStCaALpF6yOZLgj6lHrzUVHCxb8OxRAj89Fy7/vP3a5ParGsT6g==;ukQjmcugLVbPqdCtcZLerw=="
+secured: "9AIomneIJzwRRhncGSqhnFaJ7Ph3CecBn3vaUPKi3OmMqAH0Yhsw6TdgdzXitErM9XQFIVk8ftGVo2VvwvoZx7MM7HW5lsLKlpOzLk+GPakQE7pMJZIWewIVRga5mF5ZdQv0JBMeBoaUJ8oWgs+LW1SH+vdIzwX95ooagv3jmKVXpqHSZHeFvTc+3pGBXYsLmcJbmxTMLZDXumOcbNS60v2oUQRK10Qkm9jW88h62AtTt+dDo8Zozp7Nr8K71mbavxafWeb9BI8DDPQtwxkDOH2mmEl4Y8jlT4T86bIBjCKjLwpPPw6d6yWXJ2PfjcvQtJwPcU8OPF7unaAyk0yCi1D+IWXVdNtvTqtCvaLoyyc=;64GkCM9bWov8g8LxicIJ1g=="
 ---
 

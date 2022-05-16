@@ -2,6 +2,273 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-09-using-graph-neural-networks-to-measure-the-spatial-homogeneity-of-road-networks.md",
+      "title": "Using graph neural networks to measure the spatial homogeneity of road networks",
+      "excerpt": "Researchers at Purdue University and Peking University have recently carried out a study aimed at better understanding road networks in cities worldwide using machine-learning tools. Their paper, published in Nature Machine Intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2022/using-graph-neural-net.jpg",
+          "width": 800,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.amp",
+      "publishedDateTime": "2022-05-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-nvidia-unveils-new-chip-to-help-ai-understand-users.md",
+      "title": "Nvidia Unveils New Chip to Help AI Understand Users",
+      "excerpt": "Nvidia is unveiling the H100 \"Hopper,\" a new technology that has the ability to speed up Artificial Intelligence applications. It will be an",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/Nvidia-Unveils-New-Chip-to-Help-AI-Understand-Users-1024x585.png",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/",
+      "publishedDateTime": "2022-05-09T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-rgo-robotics-exits-stealth-aims-to-disrupt-mobile-robotics-with-visionary-functionality.md",
+      "title": "Rgo Robotics exits stealth, aims to disrupt mobile robotics with visionary functionality",
+      "excerpt": "Rgo Robotics enables mobile robots to operate autonomously by understanding their environment through artificial perception technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/09/rgo-robotics-exits-stealth-aims-to-disrupt-mobile-robotics-with-visionary-functionality/",
+      "originalUrl": "https://venturebeat.com/2022/05/09/rgo-robotics-exits-stealth-aims-to-disrupt-mobile-robotics-with-visionary-functionality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit.md",
+      "title": "Media Alert: BrainChip Drives Intelligent Edge AI at AutoSens Detroit",
+      "excerpt": "About BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY) BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company’s first-to-market neuromorphic processor, Akida TM, mimics the human brain to analyze only ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit",
+      "originalUrl": "https://www.digitaljournal.com/pr/media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/774e1c49ff8c5d1f2c8c30a3674aa8674e8bbb9d-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology.md",
+      "title": "DRAFT Startup Spotlight: The challenges and promises of facial recognition technology",
+      "excerpt": "“We don’t fundamentally understand how that black box, AI, does what it does,” said Ricanek. “We’re exploring that through this whole realm of explainable AI, and that’s going on ...",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/",
+      "originalUrl": "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg",
+          "width": 1264,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1",
+      "publishedDateTime": "2022-05-09T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-strengthening-company-culture-with-artificial-intelligence.md",
+      "title": "Strengthening Company Culture With Artificial Intelligence",
+      "excerpt": "To achieve ultimate value from technology, it’s important to consider how it could benefit various parts of the business: organizational efficiency, team collaboration, productivity, R&D opportunities and team empowerment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6272e3b2ed8a29c5f841d642/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-tested-arc-a370m-intels-first-discrete-gpu-to-seriously-battle-nvidia-and-amd.md",
       "title": "Tested: Arc A370M, Intel’s first discrete GPU to seriously battle Nvidia and AMD",
       "excerpt": "We visited Intel to test Arc A370M, its debut discrete graphics for mainstream laptops. It holds its own against the RTX 3050 and pulls far ahead in tasks that lean on Intel's \"Deep Link\" special sauce.",
@@ -153,17 +420,17 @@
       "title": "Report: Intel's Looking to Sell Computer Vision Software",
       "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
       "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
-      "originalUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
+      "webUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
+      "originalUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.620.jpg",
-          "width": 620,
-          "height": 349,
+          "url": "https://i.pcmag.com/imagery/articles/004kalOwExUYRCKwszss8R3-1.fit_lim.size_1200x630.v1651974043.jpg",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,9 +438,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software?amp=1",
-      "publishedDateTime": "2022-05-08T14:18:00-07:00",
+      "ampWebUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
+      "publishedDateTime": "2022-05-08T10:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -927,291 +1194,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
-      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
-      "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/04/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/04/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/04/28/1567739.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-nvidia-burns-55-million-settling-with-sec-on-gpu-sales-to-crypto-miners.md",
-      "title": "Nvidia burns $5.5 million settling with SEC on GPU sales to crypto miners",
-      "excerpt": "We all had a bad time waiting out the graphics card shortage that took place from late 2020 up until recently, but it wasn’t the first time crypto mining was to blame for a lack of Nvidia and AMD GPUs. Back in 2017 and 2018 there was another similar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
-      "originalUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/05/nvidia-crypto-money-sec-settlement-mining-gpu-graphics-cards-gaming-availability.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
-      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
-      "publishedDateTime": "2022-05-06T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pcinvasion.com",
-        "domain": "pcinvasion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-revealed-intels-plan-to-sell-software-simplifying-computer-vision-training.md",
-      "title": "Revealed: Intel's plan to sell software simplifying computer vision training",
-      "excerpt": "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/",
-      "originalUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/10/21/shutterstock_eye_computer_vision.jpg",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/06/intel_computer_vision/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/intel_computer_vision/",
-      "publishedDateTime": "2022-05-06T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-the-quest-for-explainable-ai.md",
-      "title": "The quest for explainable AI",
-      "excerpt": "Explainable AI seeks to infuse algorithms with transparency so that even lay users can ensure their AI is operating within acceptable bounds.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1364050120-e1651871311915.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/",
-      "publishedDateTime": "2022-05-06T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-process-larger-and-wider-datasets-with-amazon-sagemaker-data-wrangler.md",
-      "title": "Process larger and wider datasets with Amazon SageMaker Data Wrangler",
-      "excerpt": "Amazon SageMaker Data Wrangler reduces the time to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio. Data Wrangler can simplify your data preparation and feature engineering processes and help you with data selection, cleaning, exploration, and visualization.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/process-larger-and-wider-datasets-with-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-larger-and-wider-datasets-with-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ml-9302.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T10:30:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model.md",
-      "title": "Build a custom Q&A dataset using Amazon SageMaker Ground Truth to train a Hugging Face Q&A NLU model",
-      "excerpt": "In recent years, natural language understanding (NLU) has increasingly found business value, fueled by model improvements as well as the scalability and cost-efficiency of cloud-based infrastructure. Specifically, the Transformer deep learning architecture, often implemented in the form of BERT models,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/23/ML-4130-image015.jpg",
-          "width": 1287,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T09:29:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

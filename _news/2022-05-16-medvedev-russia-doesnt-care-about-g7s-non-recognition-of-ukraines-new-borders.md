@@ -3,8 +3,8 @@ category: news
 title: "Medvedev: Russia ‘Doesn’t Care About G7’s Non-Recognition’ of Ukraine’s ‘New Borders’"
 excerpt: "Russia doesn’t care if the G7 does not recognize Ukraine’s “new borders,” Russian security council deputy chairman Dmitry Medvedev said at the weekend, after the group of leading economies reiterated that it will “never recognize borders Russia has attempted to change by military aggression."
 publishedDateTime: 2022-05-16T08:19:00Z
-originalUrl: "https://cnsnews.com/article/international/patrick-goodenough/medvedev-russia-doesnt-care-about-g7s-non-recognition"
-webUrl: "https://cnsnews.com/article/international/patrick-goodenough/medvedev-russia-doesnt-care-about-g7s-non-recognition"
+originalUrl: "https://www.cnsnews.com/index.php/article/international/patrick-goodenough/medvedev-russia-doesnt-care-about-g7s-non-recognition"
+webUrl: "https://www.cnsnews.com/index.php/article/international/patrick-goodenough/medvedev-russia-doesnt-care-about-g7s-non-recognition"
 type: article
 quality: 32
 heat: 32
@@ -24,6 +24,6 @@ images:
     height: 401
     isCached: true
 
-secured: "m0lEy0nuF+Gx/1VyORD70XpTDk1ZS0lBHkd2EuOTHBwwy3K4RK+ymQ/yeEoHBuUfvmAjE9RLY1PLImuS3Zm2oH/pfjv5oT8D1iV7S42Xw03ScLxcAMNbbUPL8bpH0PTiJ3ZgqRpGkzd6XHNG31pCR9Hu4qtJ81YKNx3Z507q4eTJO+DXHLJh/7ZTiR5akfFErPUrpyN/+Vb8gLgqxWbtEzr1zB7EwgbgBFkDHgkL9w5/AoXSg5OccxdBCuuFRxZx0VxqNyzdEb3yTWAFGqreGTveKvoY9Jx4NnAP6ez27rYaDd5BmPgbM0B55hIQui3Ta1rkEpmUbUriNgVR9jSc61WKLGTC0Wii8dCFc8BII28=;S+PsSjtWVhar7xzRVdS6LA=="
+secured: "L4gIM8htIPbKpSE6NoFWDsuh9FmiTejRmgefJ6Xzgs3QfvHNNRvMrNCpR1H1rfiobD2Umu9LgQVHyC52Q53givzG+Y+UN6c2f6wUVnlnfzoXggJjo4ruSqkef0uXfK8KewNH9+bz5H4JVMjn1YJUSa5Eu3azt8RZQQ/pcjkY6xeCkR7EVSqfDZZQ2fOBpyTW5huL+VZPLBkz00mO1if5QIbnnFc8p0biwViE1+Snaf+62OYEDRvRtzzUsGa4Ef0aUwk9W0GDGnt8YeUTPPiiqOJYs/K5ArvH3ZCXdaOhwfOofQvA14dvcZDHY0Aflp5rYUDbNcAqU0VjLnaJ+RxgtGy/IvnKcs9YVacHnztB5Pc=;YWMggKH/jui0UvfQWQMZxg=="
 ---
 

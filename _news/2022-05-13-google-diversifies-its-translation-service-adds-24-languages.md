@@ -21,81 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Google adds support for 24 new languages to Translate"
-    excerpt: "Google is adding support for 24 new languages to its Translate tool, the company announced today during its I/O 2022 developer conference. Among the newly available languages are Sanskrit, Tsongae and Sorani Kurdish."
-    publishedDateTime: 2022-05-11T17:29:00Z
-    webUrl: "https://www.engadget.com/google-translate-24-language-expansion-171810853.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-translate-24-language-expansion-171810853.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-translate-24-language-expansion-171810853.html"
+  - title: "Google can now translate eight more Indian languages. Full list here"
+    excerpt: "Google has upgraded its 'language translate' feature by adding 24 languages spoken in different countries. Of the 24 languages, Google has included eight Indian languages including Sanskrit-one of the"
+    publishedDateTime: 2022-05-14T07:03:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here-11652510255533.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here/amp-11652510255533.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-can-now-translate-eight-more-indian-languages-assamese-bhojpuri-dogri-konkani-maithili-meiteilon-mizo-sanskrit-full-list-here/amp-11652510255533.html"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5ef38f70-d14d-11ec-9ffb-4994f1bacf3b"
-        width: 1600
-        height: 1000
-        isCached: true
-  - title: "Google Translate adds support for 24 new languages"
-    excerpt: "According to Google CEO Sundar Pichai, the expansion allows the company to cover languages spoken by more than three million people. Pichai credited the breakthrough to a new monolingual AI learning approach where Google's translation algorithm learns how ..."
-    publishedDateTime: 2022-05-11T17:56:00Z
-    webUrl: "https://www.engadget.com/google-translate-24-language-expansion-171810853.html?src=rss"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5ef38f70-d14d-11ec-9ffb-4994f1bacf3b"
-        width: 1600
-        height: 1000
-        isCached: true
-  - title: "Google Translate is adding 24 new languages, and it’s all thanks to machine learning"
-    excerpt: "As part of Google I/O 2022, the company has revealed its latest changes to Google Translate, including the addition of 24 new languages. These aren’t the world’s most common languages, but some are used by millions of people across the globe."
-    publishedDateTime: 2022-05-11T17:16:00Z
-    webUrl: "https://www.androidpolice.com/google-translate-is-adding-24-new-languages/"
-    ampWebUrl: "https://www.androidpolice.com/google-translate-is-adding-24-new-languages/amp/"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-translate-is-adding-24-new-languages/amp/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 69
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/Google-Translate.jpg"
-        width: 3720
-        height: 2480
-        isCached: true
-  - title: "Google Translate adds support for 24 new languages learned with machine learning"
-    excerpt: "Google LLC said it’s adding another 24 languages to its Google Translate app during its I/O developer conference today. The new supported languages include dialects that are spoken by more than 300 million people across the world,"
-    publishedDateTime: 2022-05-12T00:25:00Z
-    webUrl: "https://siliconangle.com/2022/05/11/google-translate-adds-support-24-new-languages-learned-machine-learning/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Google-Trtanslate.jpg"
-        width: 1000
-        height: 416
-        isCached: true
-  - title: "New Google glasses could let you speak any language thanks to real-time AI translation"
-    excerpt: "Google CEO Sundar Pichai this week teased the prototype of a new pair of smart glasses - they use augmented reality to provide live translations of any language as you hear it being spoken"
-    publishedDateTime: 2022-05-12T11:30:00Z
-    webUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266"
-    ampWebUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
-    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
-    type: article
-    provider:
-      name: Daily Star
-      domain: dailystar.co.uk
-    quality: 51
-    images:
-      - url: "https://i2-prod.dailystar.co.uk/incoming/article26945548.ece/ALTERNATES/s615/0_2022-05-12-15.jpg"
-        width: 615
-        height: 409
+      - url: "https://images.livemint.com/img/2022/05/14/600x338/Google-translate_1652511568986_1652511569252.JPG"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "kleHmiMsaspQtF+VfmDA6Aj1wNvCuVcCDv7wGujjYNWfDFmL0wYj0Wtf0yVsClc3qQlsKlx6qX1Q6o57VKHQhtQSXR8dER99xXjx9zaS4ngzFR2D5a89IQRs2aJ0pjaogzvo2wp7hhJBCxmPdFQsFLuYUZUHQc1Ski0KZqdZajQqq5Rq59MubQUrTAzGnpJ7PPQn1i4RXh1kSrAyU9RnJpFAJCpu/1f1CHZXS33AsjEPjJJTkRR4CvaGOvOmaGBvrx/VHAf/Gj2WfKemrX0n48ZJ6zp1vMHkRj58m+hYUJkUPEOmQHA5r5+HWWzuMhn1exTcfzEijLMkoMcKJtGJ9HSoEP6dYcssePzUPFIyMDtHi3gB9bmyqHHjRYcUbcKw14CZeuAii6eJH21Z/BMWl+J9Xs9hrhp8Y/lQVRAXz2AXlcIRUA8GMjbIzv0izzeIUxjh6cYn7R4p8Lmjg9pb3dMx8qKY+fxtnwdszGUWB7vUwd3Ty6bAxy5iQVuuJQzqlpu7d0aPOVK4wZqU7VVUbQ==;iNlgmTRRavDxwaebeOGCPw=="

@@ -159,7 +159,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -396,21 +396,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-10-ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech.md",
-      "title": "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech",
-      "excerpt": "SAS Hackathon an incubator for innovation and social justiceCARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data",
+      "path": "_news/2022-05-10-d2iq-streamlines-smart-cloud-native-application-deployments-with-kaptain-aiml-20.md",
+      "title": "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0",
+      "excerpt": "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes SAN FRANCISCO, May 10, 2022 /PRNewswire/ -- D2iQ, the leading enterprise Kubernetes provider for smart ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech-1031442768",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech-1031442768",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1812710/SAS_Milwaukee_County_Courthouse.jpg",
-          "width": 400,
-          "height": 267,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -420,21 +420,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T07:44:00-07:00",
+      "publishedDateTime": "2022-05-10T07:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -445,7 +436,7 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI Ethics"
+        "Machine Learning"
       ]
     },
     {
