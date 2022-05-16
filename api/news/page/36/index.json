@@ -2,6 +2,40 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-04-12-when-it-comes-to-ai-can-we-ditch-the-datasets-using-synthetic-data-for-training-machine-learning-models.md",
+      "title": "When It Comes to AI, Can We Ditch the Datasets? Using Synthetic Data for Training Machine-Learning Models",
+      "excerpt": "A machine-learning model for image classification that’s trained using synthetic data can rival one trained on the real thing, a study shows. Huge amounts of data are needed to train machine-learning models to perform image classification tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/when-it-comes-to-ai-can-we-ditch-the-datasets-using-synthetic-data-for-training-machine-learning-models/",
+      "originalUrl": "https://scitechdaily.com/when-it-comes-to-ai-can-we-ditch-the-datasets-using-synthetic-data-for-training-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-natural-language-processing-market-size-worth-usd-1653-billion-by-2028.md",
       "title": "Natural Language Processing Market Size Worth USD 16.53 Billion by 2028",
       "excerpt": "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the",
@@ -1100,58 +1134,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-how-low-code-machine-learning-can-power-responsible-ai.md",
-      "title": "How low-code machine learning can power responsible AI",
-      "excerpt": "Although accuracy of AI models is important, there is an urgent need to understand how AI can be designed to operate responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/",
-      "originalUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1182764552.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/amp/",
-      "publishedDateTime": "2022-04-11T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

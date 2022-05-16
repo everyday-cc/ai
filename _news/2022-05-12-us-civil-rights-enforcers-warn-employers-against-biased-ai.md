@@ -1,26 +1,28 @@
 ---
 category: news
 title: "U.S. civil rights enforcers warn employers against biased AI"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used hiring tools could violate civil rights laws."
-publishedDateTime: 2022-05-12T16:20:00Z
-originalUrl: "https://www.chron.com/news/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
-webUrl: "https://www.chron.com/news/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities,"
+publishedDateTime: 2022-05-12T16:46:00Z
+originalUrl: "https://thehill.com/news/ap/ap-technology/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/"
+webUrl: "https://thehill.com/news/ap/ap-technology/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/"
+ampWebUrl: "https://thehill.com/news/ap/ap-technology/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/news/ap/ap-technology/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/amp/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/25/55/37/22468592/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/f5ad71513aff4975a6d89f61f8f02e63.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -101,6 +103,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "5VrWab1Y+dyGcZ8ELzhP9yZTTA5AGhQBvtgIY5WlHnQqI98qeh4Ae9IXn2O5P0qU5t8qdIBO4GwtQ8ufru23K7jlOCs1tP7n5aMhFw33Q/u3Y1YEovZARncANzCIjSzZmfEGZZVmKya21Zqf3iBWCZlW2Q85glyIYXV5pky3GGSrwha5NG1Fpj/mD+fhcfJv056kaWL+p9jWDF/jOGVgI2lEpJ825B0PzWgCi6CsoD4NJcAJyuzL39nDDDPInlcxkXx5r1LGBNdJdzTcGX/nhPGr7J7caCE1Efj4nkB3JD56JBkw8Mdf4GKIjGyVr7akCFNZkUF4BloVTZYzNBw6a9kgqle2iilU1f4cLMRKHt4=;m4YqqQjAcKCdK5QaWdW23A=="
+secured: "g5sYh+YtJRDOxa+2wPJmT+m+wjna6pp1Xt1dpshz5+1YjeBFkZLQ2BwHvAF1AXZtn9TxqToKb3sSBfx2UVJHF8+qjRRkmXacB22zucofGd7wxuqStlDpWXpX2OdWY8rIbyv9AD7neV4mwvh9m8AmNvlDJwvRbaqvTexo0jO7LU7Pv/bZhk8d01R8xgKz18/LQiR4HwZFUvrzOlCJmTlqOSUdLgWhVfZecQEfiiH3mGiW9rZVYDTmbqlTKQoeiMDVHZtutuQuqKBV5TCs2NXTGvHAl6lwbjmHLbrK0vDj1vL/rFEBoutpYib+o/Y3RJ9hF3zq61E5M9e2UXy5h/N7iWemxPuErfoDk4pm2EzQays=;KnVnRnXrlUBsqi/KbHOhNA=="
 ---
 

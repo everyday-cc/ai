@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Curious Thing’s voice AI communication platform asks the right questions"
+    excerpt: "Sydney-based Curious Thing is an aptly-named startup. The voice AI communication platform can call people and ask them questions like “How are you feeling today?” and then follow up with ..."
+    publishedDateTime: 2022-05-15T20:00:00Z
+    webUrl: "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/"
+    ampWebUrl: "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/FounderShoot-2.jpg"
+        width: 5529
+        height: 3691
+        isCached: true
   - title: "Controlling AI edge applications"
     excerpt: "AI, Boxer-8253AI, and Boxer-8254AI IPCs. The company’s recent Gene-EHL5 subcompact board with CAN and 5G connectivity is made to meet edge applications. The Boxer-8240AI features the Nvidia Jetson AGX Xavier module (Source: Aaeon) For example,"
     publishedDateTime: 2022-05-12T11:22:00Z

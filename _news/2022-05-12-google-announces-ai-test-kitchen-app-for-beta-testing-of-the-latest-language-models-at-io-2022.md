@@ -59,6 +59,20 @@ related:
         width: 680
         height: 383
         isCached: true
+  - title: "Google is beta testing its AI future"
+    excerpt: "It’s clear that the future of Google is tied to AI language models. At this year’s I/O conference, the company announced a raft of updates that rely on this technology, from new “multisearch” features that let you pair image searches with text queries to improvements for Google Assistant and support for 24 new languages in Google Translate."
+    publishedDateTime: 2022-05-11T17:54:00Z
+    webUrl: "https://www.theverge.com/2022/5/11/23065072/google-ai-app-test-kitchen-future-io-2022"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 71
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/b2EBKUnJTy_3cs5MYVg9ZEUzPpw=/0x43:2096x1140/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23451217/TestKitchen_still.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google unveils artificial intelligence tool for real-world searches"
     excerpt: "Alphabet Inc.'s Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company previewed a ..."
     publishedDateTime: 2022-05-11T19:59:00Z

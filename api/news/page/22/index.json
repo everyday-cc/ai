@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-04-25-introducing-coloringcoolcom-a-website-that-provides-a-variety-of-coloring-pages-and-how-to-draw-on-all-topics-perfect-for-kids-and-toddlers.md",
+      "title": "Introducing ColoringCool.com a website that provides a variety of coloring pages and how to draw on all topics perfect for kids and toddlers",
+      "excerpt": "Science discovered that color recognition is a critical cognitive-developmental step for toddlers. It plays a vital role in object recognition and is a vital part of helping children develop their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/introducing-coloringcool-com-a-website-that-provides-a-variety-of-coloring-pages-and-how-to-draw-on-all-topics-perfect-for-kids-and-toddlers",
+      "originalUrl": "https://www.digitaljournal.com/pr/introducing-coloringcool-com-a-website-that-provides-a-variety-of-coloring-pages-and-how-to-draw-on-all-topics-perfect-for-kids-and-toddlers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/2af0417e9234cd0ca277f493889c7249eaa33629-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
       "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
       "excerpt": "Pharmacists documented cognitive services on Palm-based devices with ... Data were exported into Microsoft Excel 2000 for graphing. CliniTrend for Windows NT, version 2.02 (ASHP, Bethesda, MD ...",
@@ -1097,50 +1140,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-gist-researchers-teach-robots-to-identify-partially-hidden-objects.md",
-      "title": "GIST researchers teach robots to identify partially hidden objects",
-      "excerpt": "Typically, when AI is presented with a scene of cluttered objects, the system will try to identify each item based only on its visible parts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/",
-      "originalUrl": "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-GIST-research.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-22T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

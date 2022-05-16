@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/zoom-emotion-recognition-software-fight-for-the-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/zoom-emotion-recognition-software-fight-for-the-futur-1848911353/amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Human rights groups demand Zoom stop any plans for controversial emotion AI"
-    excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia.org and is the author of ..."
-    publishedDateTime: 2022-05-11T10:00:00Z
-    webUrl: "https://www.protocol.com/enterprise/zoom-emotion-ai-aclu-rights"
-    ampWebUrl: "https://www.protocol.com/amp/zoom-emotion-ai-aclu-rights-2657297476"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/zoom-emotion-ai-aclu-rights-2657297476"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 57
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-pedestrians-in-the-financial-district-of-san-francisco-california-u-s-on-monday-may-9-2022-less-than-p-greater-than.jpg?id=29787626&width=400&coordinates=0%2C196%2C0%2C197&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "3JHo1AO3D5atkG+763K3GwCoQo69PonaR5/mhwZR5AlaXVvbYQ2VVVt1hXdnoQcRD88joYEGq+6D07Sg6j9rKButIednfGYc5v+6OZi4LS/l3Sl4tPgWesEsjrZKsZwQwZCR2Ed0iNENN+0+BrAZzSp1MS/g7f1BpThwuLo0o/ct7sIWXyty+ABgCfsWmbXkrUM8vIXQEdYbFLJ8ujI/0yyXUJKXM/lTIS173Hu1JcOpEmwNHYag0YIj173MpV473+v3pd2JmAzNItcgNRqmsZ21uyYDg1aMULu30N2Envmim/sEAxW2TODOZXhEbEh7VYM1P+AR3XdGZy6h8ST8ZRIfCEJDPZ2lvjVTC/9gbes=;yqwXg4QW/lKWb/3kU9jBHw=="
 ---

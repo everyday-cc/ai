@@ -523,6 +523,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices.md",
+      "title": "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices",
+      "excerpt": "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "originalUrl": "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions.md",
       "title": "Qualcomm goes beyond smartphones with 5G and edge-AI robotics solutions",
       "excerpt": "Qualcomm’s robotic tech is taking its tech beyond smartphones. The platform combines Qualcomm AI Engine and 5G chip capabilities for cutting-edge applications and possibilities, including ...",
@@ -1376,60 +1419,6 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-the-rise-of-artificial-intelligence-will-robots-actually-replace-people.md",
-      "title": "The Rise Of Artificial Intelligence: Will Robots Actually Replace People?",
-      "excerpt": "Robots and artificial intelligence (AI) are expected to permeate our daily lives by 2025. This could have huge implications on several business sectors, most notably health care, customer service, and logistics. Already, AI is responsible for medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
-      "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5e432e1ba854780006b10cf4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
-      "publishedDateTime": "2022-05-03T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
         "AI in Autos"
       ]
     }

@@ -43,15 +43,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "AI Could Be Used To Detect Arthritis Earlier"
-    excerpt: "In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen, computer scientists and physicians have now succeeded in teaching an artificial neural network to ..."
-    publishedDateTime: 2022-05-11T09:28:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/ai-could-be-used-to-detect-arthritis-earlier-361480"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 19
 
 secured: "bXqKKdov32HV/33YBiZPoTnStBpQ2ds/Zqh4fKxK+3nadTvEcnOgkVvKWW9aDXXrHrsKCyYFoexqiyPuTafEHUgd8M2E0X+yqvzcTXvOWt2Iija337JWoOgpsLWk5qGd0CjxBA9g/TsKRanxPxamMFknVQfLQ8FrCUi020Gm6p9njr3wGa1wGvFrudMudonJKb3k7BLQZIICZKA0jrz6OeHbXBL7rKGbPPTQpPrY7pZZrVXwjJOx+MBvTYno6QoYpSdH3+WlGxwkULM9y0zsvZsI+cMQjdXNqIkHcyjD+xctBDyiuoamUgi1wU5RYhBaKrr1tgz0vFZjtLOdEzPOWohJ3zQ/iBQpSLvPLLzCZpSubXBUxPdpxQm0e/yI9rhtqLZwkppP3j4x0V9YH4dwq8pJLu0dJwituIm9P/680NYAeAN+lAdRkJDSoKUUruPC4vpW2GRk6Y63RApL/pLVInQLpMy3dXOq47J4+XsHwYeOvlA4+TwcyGqwgNWVn3rGy1goWDRpUiuOvbrEQ1GoyA==;okVtvxikn+IIBAupzzvuNA=="
 ---

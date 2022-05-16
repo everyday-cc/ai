@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-revolution
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-revolution-has-started-with-arthritis-207050-1.htm"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "AI Could Be Used To Detect Arthritis Earlier"
-    excerpt: "In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen, computer scientists and physicians have now succeeded in teaching an artificial neural network to ..."
-    publishedDateTime: 2022-05-11T09:28:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/ai-could-be-used-to-detect-arthritis-earlier-361480"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 19
   - title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
     excerpt: "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi"
     publishedDateTime: 2022-05-11T18:15:00Z

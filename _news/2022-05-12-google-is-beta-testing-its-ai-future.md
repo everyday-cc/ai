@@ -30,71 +30,67 @@ images:
     isCached: true
 
 related:
-  - title: "Google Adopts 10-Step Skin Tone Scale to Teach Diversity to Its AI"
-    excerpt: "You'll notice the Monk Skin Tone Scale in beauty related searches, but Google is also building it deeply into its AI infrastructure, it says at Google I/O. Stephen Shankland has been a reporter at CNET since 1998 and covers browsers, microprocessors ..."
-    publishedDateTime: 2022-05-11T17:32:00Z
-    webUrl: "https://www.cnet.com/news/google-adopts-10-step-skin-tone-scale-to-teach-diversity-to-its-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-adopts-10-step-skin-tone-scale-to-teach-diversity-to-its-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-adopts-10-step-skin-tone-scale-to-teach-diversity-to-its-ai/"
+  - title: "Google I/O: To build better AI, Google invites others to join its AI Test Kitchen"
+    excerpt: "On Wednesday at Google I/O, the company showcased LaMDA 2. During the I/O keynote, Google CEO Sundar Pichai called it Google's \"most advanced conversational AI yet.\" The tech giant is working on LaMDA and other models to improve Search, Google Assistant ..."
+    publishedDateTime: 2022-05-11T20:06:00Z
+    webUrl: "https://www.zdnet.com/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://www.cnet.com/a/img/resize/e9ea64ddd2300081f89e479058fa4a2eb4bef2dc/2022/05/11/4bb7d3d8-604f-4403-942b-cd58bd11fc71/monk-skin-tone-schema-google.jpg?auto=webp&fit=crop&height=630&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/ab8bcde7ffed4e3a8a481d1c210a436f8e1cc4fc/2022/05/11/30026320-f49f-45f7-95fb-5a5c47bb63d4/imagine-it.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 1429
+        isCached: true
+  - title: "Google details its latest language model and AI Test Kitchen, a showcase for AI research"
+    excerpt: "During its first keynote at Google I/O 2022, Google detailed its latest language model, LaMDA 2, and an app called AI Test Kitchen."
+    publishedDateTime: 2022-05-11T18:31:00Z
+    webUrl: "https://techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/"
+    ampWebUrl: "https://techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/google-details-its-latest-language-model-and-ai-test-kitchen-a-showcase-for-ai-research/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 80
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/AI_TestKitchen.gif?w=680"
+        width: 680
+        height: 383
+        isCached: true
+  - title: "Google Announces AI Test Kitchen App For Beta Testing Of The Latest Language Models At I/O 2022"
+    excerpt: "The American search giant revealed a bunch of new updates that will fall under the AI technology. Moving forward, we can clearly see that Google will be using a lot of AI technology in the future and the new upcoming features that were announced include multisearch that will allow a user to pair the image searches with the text searches and addition of support for 24 new languages in Google Translate."
+    publishedDateTime: 2022-05-12T09:04:00Z
+    webUrl: "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022"
+    ampWebUrl: "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 77
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-71_1d9a.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
+  - title: "Google unveils artificial intelligence tool for real-world searches"
+    excerpt: "Alphabet Inc.'s Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company previewed a ..."
+    publishedDateTime: 2022-05-11T19:59:00Z
+    webUrl: "https://www.unionleader.com/news/business/google-unveils-artificial-intelligence-tool-for-real-world-searches/article_7e28b911-e883-5520-8562-3c5c59520a84.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/7/85/785c8c96-164c-5c96-acb3-903be39118e0/627c1d4755c85.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google unveils new 10-shade skin tone scale to test AI for bias"
-    excerpt: "Monk through Photoshop and other digital art tools curated 10 tones - a manageable number for people who help train and assess AI systems. He and Google surveyed around 3,000 people across the United States and found that a significant number said a 10 ..."
-    publishedDateTime: 2022-05-11T16:51:00Z
-    webUrl: "https://www.reuters.com/technology/google-unveils-new-10-shade-skin-tone-scale-test-ai-bias-2022-05-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "Google Has a Plan to Stop Its New AI From Being Dirty and Rude"
-    excerpt: "The future of computing is AI-powered chatbots that have read the entire internet—if Google can figure out how to tame them."
-    publishedDateTime: 2022-05-12T10:13:00Z
-    webUrl: "https://www.wired.com/story/google-voice-assistant-future/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
-  - title: "Google Unveils New 10-Shade Skin Tone Scale to Test AI for Bias"
-    excerpt: "Alphabet Inc's Google on Wednesday unveiled a palette of 10 skin tones that it described as a step forward in making gadgets and apps that better serve people of color. The company said its new Monk Skin Tone Scale replaces a flawed standard of six colors known as the Fitzpatrick Skin Type,"
-    publishedDateTime: 2022-05-11T17:51:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-05-11/google-unveils-new-10-shade-skin-tone-scale-to-test-ai-for-bias"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "Google Adopts 10-Step Skin Tone Scale so its AI Understands Diversity"
-    excerpt: "You'll notice the Monk Skin Tone Scale in beauty-related searches to start, but Google is also building it deeply into its AI infrastructure."
-    publishedDateTime: 2022-05-12T18:16:00Z
-    webUrl: "https://www.cnet.com/news/google-adopts-10-step-skin-tone-scale-so-its-ai-understands-diversity/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
-  - title: "Google Introduces Monk Skin Tone Scale to Improve AI Color Equity"
-    excerpt: "When it comes to trailblazers in the field of color equity, Google doesn’t grace the top of many lists. But there’s a contingent within the company trying to change that. At its I/O 2022 conference, Google introduced a tool it intends to use to improve color equity through representation."
-    publishedDateTime: 2022-05-12T15:30:00Z
-    webUrl: "https://www.extremetech.com/extreme/335462-google-introduces-monk-skin-tone-scale-to-improve-ai-color-equity"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 37
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2022/05/inclusive_schema_0509_anUYk5H.max-1000x1000-monk-skin-tone-scale-mst-640x358.png"
-        width: 640
-        height: 358
         isCached: true
 
 secured: "TsFC4/8+LFXA9eRAIux2GVJ67Pej7B5vCH26tU2bqbj05jJ/G5n8pcoKgo+YGy233e9IH+4+l0oUaaF5pWIEyeSTN6YT/00P5Xgei5DS+Kso3tFrAssXpmHzjyN+2jx6zYhTyUJsPq/iSbM7yHZe3cSLnbw8B/LLJLpRsYgC0yDq0TmQkAkDRiGf2gMh6x1KsG9sMEwtcaX0ZTEB9X1JF+Z9EgbR3GREBBXfSmzHAXpLt8jQinyKpHUjexH8jIHNaGycde0uKytjf8yVvqAMOgu4uT2qvhPFXLmiOfSLQi+XwlPTFHYf6rUz2YNc/9fYIcg4+ndBkXv9Nig+Teqgik6uhQVIaOnJCzAzyJ7k1KOTBBHOiaDyK/2HGYCaaGxYmrbMG5qlZuJ/u1xMtSJGNiI5OklqMhMHlGH8o6Pjn7K0T6Z3t8qZOBtVUrF+3Dj3oiGr9O9PYxnz4WK1ICA+OJiO5eyQZZSbZrr6Rwrz2+qWKKZKsYnMcgaNvV8T6SZo7aZnTZ8f8ujRqhi7Zp6JdA==;B3ruIhIn/svdEryxlycw5Q=="

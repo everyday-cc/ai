@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from
 webUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/"
 type: article
 quality: 87
-heat: 187
+heat: 157
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Avaya expands partnership with Microsoft to offer OneCloud solutions on Azure"
-    excerpt: "The global scale of Microsoft helps ensure that our joint customers rapidly deploy Avaya OneCloud solutions in any cloud environment of their choic.."
-    publishedDateTime: 2022-05-11T09:29:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 71
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91490488,imgsize-6487,width-1200,height-628,overlay-ettelecom/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
     excerpt: "Prior to implementing SAS Viya on Azure, interviewees noted that barriers to data access and disparate data sources made it difficult and time-consuming to build, deploy and manage AI models. Other issues they faced included the inefficiencies and high ..."
     publishedDateTime: 2022-05-13T07:20:00Z
@@ -59,36 +43,6 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-05/jay.png?itok=5WUB_pkk"
         width: 960
         height: 540
-        isCached: true
-  - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud solutions on Microsoft Azure"
-    excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, and Microsoft Corporation have expanded their global partnership by pairing the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organisations with more options to increase their productivity and customer engagement with unrivalled reliability,"
-    publishedDateTime: 2022-05-11T09:08:00Z
-    webUrl: "https://www.itweb.co.za/content/lwrKxq3YG5D7mg1o"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/lwrKxq3YG5D7mg1o"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxq3YG5D7mg1o"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 57
-    images:
-      - url: "https://lh3.googleusercontent.com/IsADlNsJ5quYT4eXuGJwDIfAqEuO6_jbZJT2ngR6Igug4EocWVXf8usDsRWV4gvXgZCa8gWe2xClJeJoC9eR7aC4=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
-  - title: "Avaya partners with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
-    excerpt: "Avaya and Microsoft Corp. have expanded their global partnership by pairing the industry leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations with more options to increase their productivity and customer engagement with unrivaled reliability,"
-    publishedDateTime: 2022-05-11T09:40:00Z
-    webUrl: "https://www.crn.in/news/avaya-partners-with-microsoft-to-deliver-avaya-onecloud-solutions-on-microsoft-azure/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 47
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2021/08/16173811/CRN_Mergers_05_696.jpg"
-        width: 696
-        height: 465
         isCached: true
   - title: "Machine Learning Operations (MLOps) Market to Observe Exponential Growth By 2022 to 2028 | Microsoft, Amazon, Google, IBM"
     excerpt: "New Jersey, United States-Global Machine Learning Operations (MLOps) Market 2021 by Company, Regions, Type, and Application, Forecast to 2028 The Machine Learning Operations (MLOps) market report gives a definite examination of worldwide market size ..."

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "How 10 Skin Tones Will Reshape Google’s Approach to AI"
+    excerpt: "For years, the tech industry has relied on a six-shade scale to classify skin tones. The search giant’s open source alternative could change that."
+    publishedDateTime: 2022-05-11T21:12:00Z
+    webUrl: "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/"
+    ampWebUrl: "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/627bfb60a95c6a3c6c74ef4b/master/pass/Google-IO-Skin-Tone-Scale-Business-1258016046.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Google Adopts 10-Step Skin Tone Scale to Teach Diversity to Its AI"
     excerpt: "You'll notice the Monk Skin Tone Scale in beauty related searches, but Google is also building it deeply into its AI infrastructure, it says at Google I/O. Stephen Shankland has been a reporter at CNET since 1998 and covers browsers, microprocessors ..."
     publishedDateTime: 2022-05-11T17:32:00Z
@@ -40,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google is beta testing its AI future"
-    excerpt: "It’s clear that the future of Google is tied to AI language models. At this year’s I/O conference, the company announced a raft of updates that rely on this technology, from new “multisearch” features that let you pair image searches with text queries to improvements for Google Assistant and support for 24 new languages in Google Translate."
-    publishedDateTime: 2022-05-11T17:54:00Z
-    webUrl: "https://www.theverge.com/2022/5/11/23065072/google-ai-app-test-kitchen-future-io-2022"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 71
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/b2EBKUnJTy_3cs5MYVg9ZEUzPpw=/0x43:2096x1140/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23451217/TestKitchen_still.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google unveils new 10-shade skin tone scale to test AI for bias"
     excerpt: "Monk through Photoshop and other digital art tools curated 10 tones - a manageable number for people who help train and assess AI systems. He and Google surveyed around 3,000 people across the United States and found that a significant number said a 10 ..."
     publishedDateTime: 2022-05-11T16:51:00Z
@@ -62,15 +64,6 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 47
-  - title: "Google Has a Plan to Stop Its New AI From Being Dirty and Rude"
-    excerpt: "The future of computing is AI-powered chatbots that have read the entire internet—if Google can figure out how to tame them."
-    publishedDateTime: 2022-05-12T10:13:00Z
-    webUrl: "https://www.wired.com/story/google-voice-assistant-future/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
     quality: 47
   - title: "Google Unveils New 10-Shade Skin Tone Scale to Test AI for Bias"
     excerpt: "Alphabet Inc's Google on Wednesday unveiled a palette of 10 skin tones that it described as a step forward in making gadgets and apps that better serve people of color. The company said its new Monk Skin Tone Scale replaces a flawed standard of six colors known as the Fitzpatrick Skin Type,"

@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Curious Thing’s voice AI communication platform asks the right questions"
+    excerpt: "Sydney-based Curious Thing is an aptly-named startup. The voice AI communication platform can call people and ask them questions like “How are you feeling today?” and then follow up with ..."
+    publishedDateTime: 2022-05-15T20:00:00Z
+    webUrl: "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/"
+    ampWebUrl: "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/FounderShoot-2.jpg"
+        width: 5529
+        height: 3691
+        isCached: true
 
 secured: "SIaB3ubNo0VovX5PJnqDfmml5yXucVdDeUCZgXtrDt0NcUGmsMPIk2e+OW1EHMMbc36G3mEqW9FGFCiz9d0yEu4P5HOyiF5zDAcziYdOcDYrWkMJGpIr6tta7ryCIZU7kRIrjprRMKlFSrswzgKgj3HS+DWeqJtZfjyuYAo+Vsg2eVnimya+obqhjyamZhDhuTWTFMAlXa5KWzKCureqpPY/E0XVaTDCXRMpjvoAQgBbuM4I+QEGDq2DPuB/c9FFJDeZBxzSJtUVkqNRHohIusAwBqfi0pR1ydDh8WxGY+5rc5zUbTj1+BBmTluQuX3f3Kha3x87YItLPE0sYrgPeLMd1etwvxbsgooAW1d0wFk=;Y8IFCGTEE4Qyg/HZnT7Yuw=="
 ---

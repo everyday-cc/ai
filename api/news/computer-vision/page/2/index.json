@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-29-arm-announces-new-iot-hardware.md",
+      "title": "Arm announces new IoT hardware",
+      "excerpt": "As part of Arm’s roadmap, the company is also working on Total Solutions for vision, object recognition and smart sensor fusion. The first one will be addressed by Cortex-A53, while the latter ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
+      "originalUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1097773250.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
+      "publishedDateTime": "2022-04-29T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects.md",
       "title": "IonQ And Hyundai Steer Partnership Toward Quantum ML To Recognize Traffic Signals And Objects",
       "excerpt": "“QML doesn't need numerous processing steps for traffic road sign recognition like classical approaches to object detection,” he said. “Quantum recognizes a sign and interprets its meaning in one single step.” IonQ has already completed the ...",
@@ -1305,58 +1357,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031.md",
-      "title": "Computer Vision Market Size, Share, Trends 2022 Competitive Dynamics, COVID Impact, Segmentation and Key Players Strategies by 2031",
-      "excerpt": "Apr 18, 2022 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till 2030. Report further now discusses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031-2022-04-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031-2022-04-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

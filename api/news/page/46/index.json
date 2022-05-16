@@ -2,6 +2,57 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-04-04-adversarial-ai-and-the-dystopian-future-of-tech.md",
+      "title": "Adversarial AI and the dystopian future of tech",
+      "excerpt": "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
+      "originalUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
+      "publishedDateTime": "2022-04-03T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-gupshup-acquires-activeai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies.md",
       "title": "Gupshup acquires Active.Ai, the Leading Conversational AI Platform for Banks and Fintech Companies",
       "excerpt": "Acquisition Brings Advanced, AI powered Omnichannel Conversational Engagement Solutions to BFSI Organizations Gupshup, a global leader in conversational engagement, announced today the acquisition",
@@ -1096,50 +1147,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-emerging-ai-technologies-in-higher-education.md",
-      "title": "Emerging AI Technologies in Higher Education",
-      "excerpt": "Technologies that utilize artificial intelligence and the cloud can help university networks adapt to the changing networking landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education",
-      "originalUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp",
-      "publishedDateTime": "2022-04-01T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

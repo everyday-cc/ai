@@ -344,6 +344,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-12-how-10-skin-tones-will-reshape-googles-approach-to-ai.md",
+      "title": "How 10 Skin Tones Will Reshape Google’s Approach to AI",
+      "excerpt": "For years, the tech industry has relied on a six-shade scale to classify skin tones. The search giant’s open source alternative could change that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/",
+      "originalUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/627bfb60a95c6a3c6c74ef4b/master/pass/Google-IO-Skin-Tone-Scale-Business-1258016046.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp",
+      "publishedDateTime": "2022-05-11T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-deci-deep-learning-platform-aims-to-ease-ai-application-development.md",
       "title": "Deci deep-learning platform aims to ease AI application development",
       "excerpt": "Using Deci, the company says, AI developers can achieve improved inference performance and efficiency to enable effective deployments on resource-constrained edge devices, maximize hardware use and reduce training and inference cost.",
@@ -352,7 +404,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1361,58 +1413,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-arm-announces-new-iot-hardware.md",
-      "title": "Arm announces new IoT hardware",
-      "excerpt": "As part of Arm’s roadmap, the company is also working on Total Solutions for vision, object recognition and smart sensor fusion. The first one will be addressed by Cortex-A53, while the latter ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
-      "originalUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1097773250.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
-      "publishedDateTime": "2022-04-29T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

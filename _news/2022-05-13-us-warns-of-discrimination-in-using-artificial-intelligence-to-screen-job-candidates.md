@@ -2,26 +2,26 @@
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
 excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:12:00Z
-originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+publishedDateTime: 2022-05-13T02:04:00Z
+originalUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: New Hampshire Public Radio
-  domain: nhpr.org
+  name: Texas Public Radio
+  domain: tpr.org
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/2e07f06/2147483647/strip/true/crop/640x360+0+33/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fnhpr%2Ffiles%2F201404%2Felection_day_by_nhpr.jpg"
+  - url: "https://npr.brightspotcdn.com/dims4/default/d5d6df3/2147483647/strip/true/crop/4256x2395+0+216/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F15%2Fgettyimages-1240669381_custom-144a52603518a39d815c097382e17f4d2652af4b.jpg"
     width: 430
     height: 242
     isCached: true
@@ -104,6 +104,6 @@ related:
         height: 250
         isCached: true
 
-secured: "mSdLY2k5dkQ1kV4s74CfvDUdqD8vOV4oJZ9noSmYVWNabr7sOogEhrxEQf5KUki2Kzs6xIHYMY57w8wqaUl1hTgORDs2bDstkVhv6wI8nuYD0kjxv7A0Wm1kI6fPawG8az0CAXMeS8YPbCzDnTsg858II5usafQoCGrd7q/6unkZ9/b74gf4VPg8tLOvda56GSVDgfkNCBoAFeNhh4nDXJ6aOpnkdoKHF2QzomcVRzQQoAgK4yrMEZJ+ZScDql33/uzYMamDCgyw3o/E8iaJA6WBM93AlsMfIOyG+ld+vmDk8a3I8JCagbwl1tH7re/M4y5P52OGRjd4VF2t5db6xlyEWFxzPYTDh5RMevY5Gd0=;HkTorJL04q7n+ZRuQzYpbQ=="
+secured: "Dun56eADMU/MIDr+meG6U3zjklUKG3FJzokdprDrz0kR4EAPx4CWJNyZgg9ZIUH0GWIrIi3AYurL2clGJNIvMg2UD8FQepLq4GPR2ZUcdtakXBPsRxVNJwMsy3meEwLlv5A9LOBBRCh+74eXndHPsEZEBvSd9+G8Yl8LD5soerZrOakFiEKp10Rp3bNKUQpMGeX20vnqz9gs/WIPh71dKxBu6auquBvu3yUqsDU9bGgbWsVeQ2MoAvTMVTAUAcdPv7ZNSevee/bwbXeBjLuQBH0HHwvs59bRxA0YitlVqpT3o2ifZrYvKMl7nkAkxSUkl7asFk/4nhbVHSqK8q+EZCV1OtoaNNGIMWIhy6dzDOs=;i2V+VgoLl+OIYv80g1L/wQ=="
 ---
 

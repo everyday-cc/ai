@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-04-11-using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations.md",
+      "title": "Using AI To Predict Side Effects From New Anticancer Drug Combinations",
+      "excerpt": "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/cancer-research/news/using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations-360478",
+      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations-360478",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/360478/using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations-360478-640x360.jpg?cb=20220411",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-self-driving-water-taxi-stalls-out-in-knoxville-as-company-struggles-to-find-an-operator.md",
       "title": "Self-driving water taxi stalls out in Knoxville as company struggles to find an operator",
       "excerpt": "The startup behind the world’s first autonomous water taxi is having difficulty partnering with Knoxville companies. But all is not lost.",
@@ -1119,58 +1162,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-oracle-data-warehouse-vs-redshift-compare-data-warehouse-software.md",
-      "title": "Oracle Data Warehouse vs Redshift: Compare data warehouse software",
-      "excerpt": "Oracle Data Warehouse and Amazon Redshift are popular data warehousing solutions. Read this feature comparison.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/",
-      "originalUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/04/istock-1061299140.jpg?x27523",
-          "width": 1258,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/amp/",
-      "publishedDateTime": "2022-04-08T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

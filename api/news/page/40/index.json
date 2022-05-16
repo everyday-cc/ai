@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-04-08-how-artificial-intelligence-powered-tools-can-support-clinical-decision-making.md",
+      "title": "How Artificial Intelligence-Powered Tools Can Support Clinical Decision-Making",
+      "excerpt": "With unlimited processing power and an ability to \"learn\" over time, AI-powered clinical decision support (CDS) software has gotten more attention over the past few years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f4e47455e0c17f79712a595/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/",
+      "publishedDateTime": "2022-04-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-the-census-is-broken-can-ai-fix-it.md",
       "title": "The Census Is Broken. Can AI Fix It?",
       "excerpt": "Machine learning can help count people to deliver government funding and decide political representation, but the technology still makes mistakes.",
@@ -1130,49 +1182,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-7-virtual-reality-stocks-bringing-web-30-to-life.md",
-      "title": "7 Virtual Reality Stocks Bringing Web 3.0 to Life",
-      "excerpt": "Virtual reality stocks are becoming more popular due to VR headsets and videos. Investing in these stocks can have a lucrative payoff.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2022/04/7-virtual-reality-stocks-bringing-web-3-0-to-life-fb-msft-aapl-googl-goog-nvda-sony-mttr/",
-      "originalUrl": "https://investorplace.com/2022/04/7-virtual-reality-stocks-bringing-web-3-0-to-life-fb-msft-aapl-googl-goog-nvda-sony-mttr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/07/virtual-reality-stocks-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

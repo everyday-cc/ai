@@ -24,17 +24,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "Mobile Marketing Market is expected to grow to US$ 91 billion by 2032 - Persistence Market Research"
-    excerpt: "High penetration of smartphones, better network bandwidths and easy shopping is pushing businesses to take their marketing strategy online, listing it online, tracking the progress through dimensions and traffic,"
-    publishedDateTime: 2022-05-11T10:00:00Z
-    webUrl: "https://www.informazione.it/c/8505247A-D0FB-4265-8AAE-72758B006C85/Mobile-Marketing-Market-is-expected-to-grow-to-US-91-billion-by-2032-Persistence-Market-Research"
-    type: article
-    provider:
-      name: informazione
-      domain: informazione.it
-    quality: 7
-
 secured: "V3wncvKQgHooEII2IDY+NzPwLRnzW0N970C6MyHtM3Xmq3sn2pbA1OxIp9uyo0Qa/dhW3+IQkHYsQWJTAoZcG9p8xAINOcMYq7cfBZplbUe7Kw71lZiijkxvv97LktSSLQscwSi0zqgwKa5+dO02Egmu6Okl3NTW1M8bsCDLHb8/aJXz2+Bfe53tf7xFOX2NH3du+UANYBrTUL+lEiH/e0NAMRIV5BdjmC8NZc1kTr2PDcarb7/spVO2VUC7abM5IDjyjqusV27JQZtmHfVUiqEwrruzz0SgClEJ8xv9FVK8FNJmOqLDEN8TqujQM/o6kBllogx3HkQ/SXefSmpQc6vEuPba6xUFrwJKLQQfRPQ5g9Oa219cHdAfm3AjXv/fhMGTcAYB+tWwknVy8oGKZERECK6ADJxbvGVeUYuhbUdmrVCcZbqkIqkhN40dB9fiDE9KOjuqhqBGx1lh73ZVX4c01XoQ2astaUJ6pEWMbaV+MsCxqsghghA9S23gdJI1P1sPDMB+XnzRRywuYEf4Pw==;qdTQGstkTf17JqmFFzHe1w=="
 ---
 

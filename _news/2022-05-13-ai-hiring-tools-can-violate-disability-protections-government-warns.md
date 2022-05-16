@@ -48,17 +48,17 @@ related:
         isCached: true
   - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
     excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-    publishedDateTime: 2022-05-12T21:12:00Z
-    webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    publishedDateTime: 2022-05-13T02:04:00Z
+    webUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+    ampWebUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
     type: article
     provider:
-      name: New Hampshire Public Radio
-      domain: nhpr.org
+      name: Texas Public Radio
+      domain: tpr.org
     quality: 51
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/2e07f06/2147483647/strip/true/crop/640x360+0+33/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fnhpr%2Ffiles%2F201404%2Felection_day_by_nhpr.jpg"
+      - url: "https://npr.brightspotcdn.com/dims4/default/d5d6df3/2147483647/strip/true/crop/4256x2395+0+216/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F15%2Fgettyimages-1240669381_custom-144a52603518a39d815c097382e17f4d2652af4b.jpg"
         width: 430
         height: 242
         isCached: true
@@ -107,6 +107,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Ireojj9/gAQ90n7NLsXtI6SvgMGz07FouGxsj3okCZmUBrT7xfoogDUtOu8qSf2IzV72/JEVqGKtiMD9iCRxRgsPDggPGlb5fIYmf0SUYWnjNG8E7WXHEnh1fKao2X0O1ap1MqwjI0YNd0QEwRyHpM77gr39LgoO3PYeGwmpRJ6XOwlayekYtFFnw29uuXPZ681RWkFq0QWWN6E/HUvFF7knvyp5uNzNwKe+UW9CPkYzzIoW5sf92tKkKMOfa7s+Bhhmjg9KkcUukwkzA9MfR8LjQrA5zVx1wLm0pJzbAa1xhAwAc7IDLFI73sJe+FbuIN+axa8BZQS5tNs1uygcYHeIBxbZ4lyS5/fYslU2IKU=;AQeSdiZUlXraDrIQi9pkhQ=="
+secured: "tz+xvxonVAR5IV+2+XEpkJ4asWiU/dz3KOp2QRVoQrjHmhlYL3LuEzIRDgtk6tEAwpzJYa7eM5c0KNnH9P3xD3AHonr3hqpYNeZUxiwI+ujA2JC7SqQptL5XVtEJlSt/oaXs0DLU3TjJ/SLhLTLNnzHAyWaY2r4n+Nj1rDU+U3PjMySQStTUO2Li4KzYFt+cYFbeDGSnXYlWd07p2P1fYVeHjVIMCRM2mDx79hEvJnUXSzcH8PzoIMd53U8ABuBwsI55XyuVwmPsbF95IzHLTAKnJOQilcHYMtFd7/AbM2SmSETRcyV2DYN+Cq0FNfdUsvEdwZh6QZ5xi0V2UsYzei6/8tmExQ1psvrFO3tw3koZY4XSunsQrhJDYQGEkjtUvz84u4EO5KdumHM4xs88kKVLz+ZudpllwFdKHHcOSmT9wQ3acrf8M73RNkodMo9Y1CltFJMcx2qlpOrqVL5a3djBSaIKEPcelWDXQqPI0iZFKzP6e6Z+3/QzKCa/H5fXvh1bNboqk3ss1pPsflejgg==;fWKdPcD3beJvmIbsTg4k5Q=="
 ---
 

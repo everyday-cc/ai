@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-24-cagr-of-227-cleaning-robot-market-size-to-hit-usd-3494-billion-in-2028-says-brandessence-market-research.md",
+      "title": "CAGR of 22.7%, Cleaning Robot Market Size to hit USD 34.94 Billion in 2028, Says Brandessence Market Research",
+      "excerpt": "The Cleaning Robot Market Value is expected to record a valuation of USD 34.94 Billion by 2028, Registering to Accelerate at a 22.7% CAGR, According to the most recent study by Brandessence Market Research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cagr-227-cleaning-robot-market-size-hit-usd-/2022/03/24/9570077.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cagr-227-cleaning-robot-market-size-hit-usd-/2022/03/24/9570077.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york.md",
       "title": "Skyline Robotics To Deploy The Ozmo Window-Cleaning Robot In New York",
       "excerpt": "Deep tech robotics and automation company, Skyline Robotics, completes its $6.5M pre-Series A funding round ahead of the planned deployment of the first Ozmo Window-Cleaning Robot in New York City Skyline Robotics,",
@@ -1239,49 +1282,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-elliq-companion-robot-for-aging-adults-hits-market.md",
-      "title": "ElliQ companion robot for aging adults hits market",
-      "excerpt": "ElliQ is designed to alleviate the effects of loneliness or social isolation and connect users to their families and caregivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/elliq-companion-robot-aging-adults-hits-market/",
-      "originalUrl": "https://www.therobotreport.com/elliq-companion-robot-aging-adults-hits-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/03/ElliQ-1536x910-1.jpg",
-          "width": 1536,
-          "height": 910,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

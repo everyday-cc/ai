@@ -2,6 +2,49 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-03-16-neural-networks-market-is-expected-to-reach-15261-billion-by-2030-says-amr.md",
+      "title": "Neural Networks Market Is Expected to Reach $152.61 Billion by 2030: Says AMR",
+      "excerpt": "According to the report published by Allied Market Research, the global neural network market was estimated at $14.35 billion in 2020, and is projected to reach $152.61 billion by 2030, registering a CAGR of 26.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103857434/Neural-Networks-Market-Is-Expected-to-Reach-15261-Billion-by-2030-Says-AMR",
+      "originalUrl": "https://menafn.com/1103857434/Neural-Networks-Market-Is-Expected-to-Reach-15261-Billion-by-2030-Says-AMR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?105039",
+          "width": 421,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-the-best-robot-vacuums-you-can-buy.md",
       "title": "The best robot vacuums you can buy",
       "excerpt": "Robot vacuums have come a long way over the past few years. They’re smarter, more powerful and (marginally) better at avoiding chair legs than they ever were before, and you don",
@@ -1072,40 +1115,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale.md",
-      "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale",
-      "excerpt": "Intuition Robotics today announced the official commercial launch of its digital care companion, ElliQ which is now available for purchase via elliq.com. ElliQ, the sidekick for healthier, happier aging,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.at/nachrichten/aktien/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "originalUrl": "https://www.finanzen.at/nachrichten/aktien/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.finanzen.at/nachrichten/amp/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "cdnAmpWebUrl": "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "publishedDateTime": "2022-03-16T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finanzen",
-        "domain": "finanzen.at",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
