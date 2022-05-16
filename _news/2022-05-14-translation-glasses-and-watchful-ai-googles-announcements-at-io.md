@@ -25,49 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "New Google glasses could let you speak any language thanks to real-time AI translation"
-    excerpt: "Google CEO Sundar Pichai this week teased the prototype of a new pair of smart glasses - they use augmented reality to provide live translations of any language as you hear it being spoken"
-    publishedDateTime: 2022-05-12T11:30:00Z
-    webUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266"
-    ampWebUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
-    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
+  - title: "Google Announces AI Test Kitchen App For Beta Testing Of The Latest Language Models At I/O 2022"
+    excerpt: "The American search giant revealed a bunch of new updates that will fall under the AI technology. Moving forward, we can clearly see that Google will be using a lot of AI technology in the future and the new upcoming features that were announced include multisearch that will allow a user to pair the image searches with the text searches and addition of support for 24 new languages in Google Translate."
+    publishedDateTime: 2022-05-12T09:04:00Z
+    webUrl: "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022"
+    ampWebUrl: "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1"
     type: article
     provider:
-      name: Daily Star
-      domain: dailystar.co.uk
-    quality: 51
+      name: Mashable
+      domain: mashable.com
+    quality: 77
     images:
-      - url: "https://i2-prod.dailystar.co.uk/incoming/article26945548.ece/ALTERNATES/s615/0_2022-05-12-15.jpg"
-        width: 615
-        height: 409
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-71_1d9a.620.jpg"
+        width: 619
+        height: 374
         isCached: true
-  - title: "Google reveals AI tool for real-world searches"
-    excerpt: "Google on Wednesday in the US previewed augmented-reality glasses that display translations of conversations in real-time, and it laid out additional plans to bridge the real world and its digital universe of search,"
-    publishedDateTime: 2022-05-11T21:38:00Z
-    webUrl: "https://www.crn.com.au/news/google-reveals-ai-tool-for-real-world-searches-579890"
+  - title: "Google I/O 2022: Google’s artificial intelligence and machine learning breakthroughs, explained"
+    excerpt: "... where a machine learning model only sees monolingual text – meaning, it learns to translate into another language without ever seeing an example. However, the company noted that the technology is not perfect and it would keep improving these models."
+    publishedDateTime: 2022-05-13T05:09:00Z
+    webUrl: "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/"
+    ampWebUrl: "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 77
     images:
-      - url: "https://i.nextmedia.com.au/News/2022-05-11T193107Z_1_LYNXNPEI4A12A_RTROPTP_4_ALPHABET-GOOGLE-DEVELOPERS.JPG"
-        width: 2034
-        height: 1356
+      - url: "https://images.indianexpress.com/2022/05/google.jpg"
+        width: 1200
+        height: 667
         isCached: true
-  - title: "Opinion: Language translation apps come of age"
-    excerpt: "And then have their responses translated back into English. The advent of AI-driven translation tools is already making some question the need for learning foreign languages, now that digital devices can handle many of our interpretation and translation needs."
-    publishedDateTime: 2022-05-12T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/12/opinion-language-translation-apps-come-of-age"
+  - title: "Google Made Some Pretty Big Errors In Its I/O 2022 Translate Slides"
+    excerpt: "The main keynote of Google I/O 2022 went off without a hitch for the most part, but there were some fairly significant translation errors ... themselves centered on new AI learning techniques helping to bring 24 new languages to the service."
+    publishedDateTime: 2022-05-12T23:20:00Z
+    webUrl: "https://www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html?amp"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/04/google-translate-new-languages-io-22.png"
+        width: 1500
+        height: 771
+        isCached: true
+  - title: "Google sprinkles AI on everything at I/O"
+    excerpt: "It will start out in Los Angeles, London ... Google has also aimed its massive AI brains at Google Docs, which now using various natural language processing magic can create automated summaries of great big long documents you can’t be bothered to ..."
+    publishedDateTime: 2022-05-13T12:09:00Z
+    webUrl: "https://telecoms.com/515325/google-sprinkles-ai-on-everything-at-i-o/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 37
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/05/google-io2022.jpg"
+        width: 1656
+        height: 893
+        isCached: true
+  - title: "Meta ‘Open-Sources’ Its Latest Large Language Model"
+    excerpt: "The Meta AI research team has announced that it would make ... Slator is the leading source of news and research for the global translation, localization, and language technology industry. Our Advisory practice is a trusted partner to clients looking ..."
+    publishedDateTime: 2022-05-12T09:45:00Z
+    webUrl: "https://slator.com/meta-open-sources-its-latest-large-language-model/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
     quality: 24
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/11/1581512.jpg"
-        width: 1240
-        height: 826
+      - url: "https://slator.com/assets/ninja-forms/85/META-AI-Language-Model-2022.png"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "udzdZZOTfqLoCbB/RQ+aoS2RAERZ65TIEa0R4vUhLI/HdH00b/E6QM0ay4n2rBTzRg7YqzAeALaZk/kC/LzDfvCIq31JZ1ftKytt0njhLOFlRyDE9G17VFDOz0u2DGobJ+Dc4APNxaxMZ5r0gfZIuKwTygRRQaoI0UqA9o60Oq7fohEK6eHWauzVqTAP8Syj609o94hhPi5ZCUDcUqnXiYJk1vcYZWvDAZ6HVWsEu74v/SNDddpCLabxks9pLDOibiBZFSHbH+HKOHcyHTU11JMnjEs9/Mk2RjcZoG1+TmgmoRXL/EZzD2u2XMDGYOuRgyiduw7i/fv0gz0VGtz89hAF3m8UnKxBVQQCCGeqzVU=;7QPfbNo8A8t50iPQ+Azw6Q=="

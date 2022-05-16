@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T13:00:00Z
 originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Red-Hat-and-IBM-Tapped-to-Modernize-US-Department-of-Educations-G5-Grants-Management-System-152837.aspx"
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Red-Hat-and-IBM-Tapped-to-Modernize-US-Department-of-Educations-G5-Grants-Management-System-152837.aspx"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: dbta.com

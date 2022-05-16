@@ -1,0 +1,54 @@
+---
+category: news
+title: "Cruise, BrightDrop Explore Self-Driving Electric Vans"
+excerpt: "Cruise, the self-driving startup controlled by General Motors Co., is working with the automaker’s BrightDrop electric van business on a plan to develop autonomous delivery vehicles, people familiar with the matter said."
+publishedDateTime: 2022-05-16T14:07:00Z
+originalUrl: "https://www.ttnews.com/articles/cruise-brightdrop-explore-self-driving-electric-vans"
+webUrl: "https://www.ttnews.com/articles/cruise-brightdrop-explore-self-driving-electric-vans"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Transport Topics
+  domain: ttnews.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/brightdrop-1200.jpg?itok=qBg_-Wpp"
+    width: 470
+    height: 246
+    isCached: true
+
+related:
+  - title: "GM’s Cruise and BrightDrop Explore Self-Driving Electric Vans"
+    excerpt: "Cruise LLC, the self-driving startup controlled by General Motors Co., is working with the automaker’s BrightDrop electric van business on a plan to develop autonomous delivery vehicles, people familiar with the matter said. Cruise and BrightDrop have ..."
+    publishedDateTime: 2022-05-13T15:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-05-13/gm-s-cruise-and-brightdrop-explore-self-driving-electric-vans"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD_3SJL94SGQ/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "GM Cruise and BrightDrop start to work on autonomous delivery vans"
+    excerpt: "General Motors is working with BrightDrop electric van business by setting up its autonomous software Cruise in the vans."
+    publishedDateTime: 2022-05-15T19:08:00Z
+    webUrl: "https://techstory.in/gm-cruise-and-brightdrop-start-to-work-on-autonomous-delivery-vans/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 2
+
+secured: "v8StjOEA/5aXmS9subKLfbU/EjQMpZlmJ0sHMrSFMagfG2Wz4KeERw0kDwAy+VKys6GHlHoQJvnZUsVmMXKVjwfCcvtncIm7JY64ryO+0gHsU98safXN2rwFev65JsBdXHbOswUuC0fY0/eY/cAlyJk6EwXUJ4A9f6cAi/lA+2ecvKAQCKwbt+72zGtU3XGekzEfPHKT9UuT/YOfJictOnoyAx2nPLCB56I9Pv4bcDiOKKNjCfOFLllMhnKeRjzqLfxUyHIht1HPh48b00mWPj+f0KnS8rAYnHTcdVh0pPVv2uA+VtaYfr5rs+SQqCK+1zp+InosJbQ2ICJN0dNUFKMSmZhcWko/pTJ7YabVIs4=;r2NyFojR3WEiTaHhN5ZWTw=="
+---
+

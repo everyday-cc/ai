@@ -23,22 +23,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "ForgeRock Intros New AI-powered Fraud Prevention Tool"
-    excerpt: "ForgeRock introduced ForgeRock Autonomous Access, a new solution that uses artificial intelligence (AI) to prevent identity-based cyber attacks"
-    publishedDateTime: 2022-05-13T01:14:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/24826-forgerock-intros-new-ai-powered-fraud-prevention-tool"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/c967e52171fd1f3b645b47588992fd9f.jpg?t=20220513_011127"
-        width: 752
-        height: 408
-        isCached: true
-
 secured: "chZoP3N55u5nJvTMEjSGS7IsXA73oSah0vdL2iBJ7Qh+GsA7qAjTHmK62oIisHbT0KJ3GQTMTzUZmGEWhm3ecrUm+W90Kkdz2Cyk3edOIWpSKuHlUJgClfApzSWUoq4Dwkmxi51W9A1G9o7mwrG2xfOXT3F/ROzG+EbQG+owfb5ANLRpvokAgIHzpggxvzvDRNFpwWDMSvsxAOuGaMij+6nJYObMERsUbOwuHLSu+t/plMpOsQMIEhF2XeKMYgvU77yVVFLMDHc0DKfLWFUlS4gRJ9sFuYSA9oRS/dde8dwqntvRBfT4xB0p/GogQX8u0YTxCcvfHMeYvx/iAIODvfubTT/AFPFu4KBp5Evzl58Y8rRovgFSZfpbQaGEx8SiHGhlvq94ZxUMuIeYt7CfJHUgzvspZgG3C7Ar+v8SDKTXmwnapDbW42FixikgAzgeBctRCffOojDSKv/uLV2QZ2I8lYITt+UJBj2oytJhXyLBXqT4Q9yBRg2VfkJexogo60NHeBxfMTdjVSfvZotbRA==;cJXqTbgSocLwXZ8r2rjCew=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "US cops kick back against facial recognition bans"
+    excerpt: "In brief Facial recognition bans passed by US cities are being overturned as law enforcement and lobbyist groups pressure local governments to tackle rising crime rates. In July, the state of Virginia will scrap its ban on the controversial technology after less than a year."
+    publishedDateTime: 2022-05-16T13:30:00Z
+    webUrl: "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 74
+    images:
+      - url: "https://regmedia.co.uk/2021/03/05/facial.jpg"
+        width: 1000
+        height: 575
+        isCached: true
   - title: "Feds seek dismissal of planned class action against RCMP over facial recognition tool"
     excerpt: "The federal government is asking a judge to dismiss a Quebec photographer's bid for certification of a class-action lawsuit, possibly involving millions of people, over the RCMP's use of a controversial facial-recognition tool."
     publishedDateTime: 2022-05-13T09:45:00Z

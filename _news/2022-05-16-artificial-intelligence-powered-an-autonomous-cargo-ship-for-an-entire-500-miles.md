@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T12:21:00Z
 originalUrl: "https://interestingengineering.com/worlds-first-autonomous-cargo-ship"
 webUrl: "https://interestingengineering.com/worlds-first-autonomous-cargo-ship"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Interesting Engineering

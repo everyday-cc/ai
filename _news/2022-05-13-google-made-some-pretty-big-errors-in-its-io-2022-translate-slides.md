@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Announces AI Test Kitchen App For Beta Testing Of The Latest Language Models At I/O 2022"
+    excerpt: "The American search giant revealed a bunch of new updates that will fall under the AI technology. Moving forward, we can clearly see that Google will be using a lot of AI technology in the future and the new upcoming features that were announced include multisearch that will allow a user to pair the image searches with the text searches and addition of support for 24 new languages in Google Translate."
+    publishedDateTime: 2022-05-12T09:04:00Z
+    webUrl: "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022"
+    ampWebUrl: "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 77
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-71_1d9a.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
   - title: "Google I/O 2022: Google’s artificial intelligence and machine learning breakthroughs, explained"
     excerpt: "... where a machine learning model only sees monolingual text – meaning, it learns to translate into another language without ever seeing an example. However, the company noted that the technology is not perfect and it would keep improving these models."
     publishedDateTime: 2022-05-13T05:09:00Z
@@ -43,6 +59,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Translation glasses and watchful AI: Google’s announcements at I/O"
+    excerpt: "Glancing at a smart device so you can talk to it. Putting on glasses so you can understand a foreign language. Pointing your phone at something to see where it came from. These are Google's latest AI innovations,"
+    publishedDateTime: 2022-05-14T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/14/translation-glasses-and-watchful-aigoogles-announcements-at-io"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/13/1584573.jpg"
+        width: 1240
+        height: 827
+        isCached: true
   - title: "Google sprinkles AI on everything at I/O"
     excerpt: "It will start out in Los Angeles, London ... Google has also aimed its massive AI brains at Google Docs, which now using various natural language processing magic can create automated summaries of great big long documents you can’t be bothered to ..."
     publishedDateTime: 2022-05-13T12:09:00Z
@@ -56,6 +86,20 @@ related:
       - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/05/google-io2022.jpg"
         width: 1656
         height: 893
+        isCached: true
+  - title: "Meta ‘Open-Sources’ Its Latest Large Language Model"
+    excerpt: "The Meta AI research team has announced that it would make ... Slator is the leading source of news and research for the global translation, localization, and language technology industry. Our Advisory practice is a trusted partner to clients looking ..."
+    publishedDateTime: 2022-05-12T09:45:00Z
+    webUrl: "https://slator.com/meta-open-sources-its-latest-large-language-model/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/ninja-forms/85/META-AI-Language-Model-2022.png"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "mnbULIfBceNaOOEmaJgqawgZkKECbRlupWaMZ/PSK5JWdSwmV3ADAUQWzDyOq7S/zybF1pW6ndEqqLhAEj3u6rciMUJdICGm8LsK09FZUZ0sECs622Q9SWxkm6Gm5SZFe8P6uajdBm/s0aCfnjFmMCKM2aRcQjhDZGKfE2Quv1ZTb9mMSJWMuJoLgEJbJNpVsDksqx+xMb7IlkTQOjCd4eBC3QxH3u3Fdg16fLDAD7/LsDeX22hBKKj5oZ+48NMYRP5ncm68GixcMRmnp7xgIKiCQCgqEhlMn7pyAf7xXJ26hb+YhY6SAojiU5U2J2VFV5nOK1us32g0qCqRIuk2HLehYv/CumyyG5SrlIBMmuBW+2dwrq4Az9o9Udsg03bX0Y5miUzWpO+ms/g/B5AIQtEojHk9MNlsoMk/A1BZETQlIefelsc9YPvzT2mrJdjqo6FHcqV2orUQbajs/rcYe1XQ1LSzJOcDX7vzBLduJB5N0GEsGc73MU6amCADJiCBuC/6BaIpote231TuLMjhzA==;ZFX5OJQ7V/rqbFgjcL4Wlg=="

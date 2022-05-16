@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-27-how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-19025-million-by-2028.md",
+      "title": "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028",
+      "excerpt": "With this collaboration, AWS will be able to help its users ... as a payment method for the finance industry. The global artificial intelligence market size is expected to reach USD 360.36 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25252700",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700",
+      "publishedDateTime": "2022-01-27T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-how-logzio-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker.md",
       "title": "How Logz.io accelerates ML recommendations and anomaly detection solutions with Amazon SageMaker",
       "excerpt": "Logz.io is an AWS Partner Network (APN) Advanced Technology Partner with AWS Competencies in DevOps, Security, and Data &amp; Analytics. Logz.io offers a software as a service (SaaS) observability platform based on best-in-class open-source software solutions for log, metric, and tracing analytics. Customers",
@@ -1341,59 +1384,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-financial-regulators-concerned-about-reliance-on-aws-azure-and-google-cloud.md",
-      "title": "Financial regulators concerned about reliance on AWS, Azure and Google Cloud",
-      "excerpt": "The Prudential Regulation Authority is reportedly seeking ways to access more data from the big three cloud providers",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/policy-legislation/it-regulation/361935/financial-regulators-scrutinise-reliance-aws-azure-google-cloud",
-      "originalUrl": "https://www.itpro.co.uk/policy-legislation/it-regulation/361935/financial-regulators-scrutinise-reliance-aws-azure-google-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641816559/Cloud-computing-GettyImages-159993825.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/policy-legislation/it-regulation/361935/financial-regulators-scrutinise-reliance-aws-azure-google-cloud?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/it-regulation/361935/financial-regulators-scrutinise-reliance-aws-azure-google-cloud?amp",
-      "publishedDateTime": "2022-01-10T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

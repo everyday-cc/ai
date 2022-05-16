@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T12:59:00Z
 originalUrl: "https://techcrunch.com/2022/05/16/optibus-taps-100m-at-a-1-3b-valuation-for-its-ai-based-mass-transit-operations-platform/"
 webUrl: "https://techcrunch.com/2022/05/16/optibus-taps-100m-at-a-1-3b-valuation-for-its-ai-based-mass-transit-operations-platform/"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: TechCrunch

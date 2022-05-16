@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-voice-a
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-role-of-voice-ai-for-next-gen-e-commerce-brands/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 330
     height: 300
     isCached: true
-
-related:
-  - title: "Google ups the AI ante with new features for Voice, Assistant, Maps and more"
-    excerpt: "AI systems are allowing search to take “huge ... A new capability, Nest Hub Max, allows systems to process and recognize users to start conversations much easier, Tasca said."
-    publishedDateTime: 2022-05-11T22:30:00Z
-    webUrl: "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/"
-    ampWebUrl: "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1175256533-e1652306874947.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "PNJstbuTHFeHp4bQJ69ct405wMT+1mPVaJULU4SfLh7qPrGTBWN27LgzpdRdAeklZmU8SzDUg8nx3tISoE8yHJKJIFomI04Jxpj+qlZxyVA35B7nmkVgwnM5tFyFvFPNw5ROdkIvd9zRWUWi/mr8W6YN0LThxSn2sPkHFajqUaVCEnORJ3/S6WAMqKxjmJ0miHo2bxxjT2chN0QttqE7vuEQrsHxR5SRbXAxUeRzOtDaZduj6vHS+aHLVf0Zav8RSCGwiigMvjlZEfaRqtcRlLlhAmAPbThokv8sSTwBarf75YUfeUNSJ4JbqFB7HHvUz7NKg5kgI6sk/mkgnfCMAdREOY53N+TWWxgR8z6nIJE=;Df7H65VbUyGqBmx5wf+7Rg=="
 ---

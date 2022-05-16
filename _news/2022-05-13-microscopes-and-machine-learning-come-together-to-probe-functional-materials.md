@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-13T00:00:00Z
 originalUrl: "https://www.materialstoday.com/computation-theory/news/microscopes-learning-functional-materials/"
 webUrl: "https://www.materialstoday.com/computation-theory/news/microscopes-learning-functional-materials/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Materials Today

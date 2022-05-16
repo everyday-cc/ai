@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T13:10:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2022/05/16/new-research-finds-icad-s-profound-ai-risk-for-digital-breast-tomosynthesis-is-2"
 webUrl: "https://stockhouse.com/news/press-releases/2022/05/16/new-research-finds-icad-s-profound-ai-risk-for-digital-breast-tomosynthesis-is-2"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Stockhouse

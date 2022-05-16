@@ -106,7 +106,7 @@
       "originalUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1106,19 +1106,19 @@
     {
       "path": "_news/2022-05-05-swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects.md",
       "title": "Swinerton, Top 10 U.S. Contractor, Selects alwaysAI® to Bring Innovative Computer Vision Applications to Construction and Manufacturing Projects",
-      "excerpt": "SAN DIEGO, May 04, 2022 (GLOBE NEWSWIRE) -- Swinerton, a national general contractor with over 4,000 employees from coast-to-coast, announces a partnership with computer vision platform leader ...",
+      "excerpt": "SAN DIEGO, May 04, 2022 (GLOBE NEWSWIRE) -- Swinerton, a national general contractor with over 4,000 employees from coast-to-coast, announces a partnership with computer vision platform leader, alwaysAI®, to develop CV applications bringing new levels of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8534839/swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8534839/swinerton-top-10-us-contractor-selects-alwaysai-to-bring-innovative-computer-vision-applications-to-construction-and-manufacturing-projects",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-a114662bf24bff46edc5a7559791f6cd",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-a114662bf24bff46edc5a7559791f6cd",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ml.globenewswire.com/Resource/Download/f2be4e77-1694-46cc-b756-0bda87fd099d",
-          "width": 3872,
-          "height": 2355,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1128,11 +1128,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T11:29:00-07:00",
+      "publishedDateTime": "2022-05-04T10:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

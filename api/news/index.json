@@ -2,6 +2,206 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-16-ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars.md",
+      "title": "AI Ethics Tempted But Hesitant To Use AI Adversarial Attacks Against The Evils Of Machine Learning, Including For Self-Driving Cars",
+      "excerpt": "The net result would seem to be an outcome of good. Not everyone agrees with that sentiment. From an AI Ethics perspective, there is a lot of handwringing going on about this meaty topic. Some would argue that by leveraging adversarial attacks, even when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62814aa647441d8a952568f8/0x0.jpg?format=jpg&crop=2715,1528,x279,y50,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2022-05-16T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools.md",
+      "title": "Inscribes battles fraud with AI-powered detection and automation tools",
+      "excerpt": "Today every $1 in fraud loss costs U.S. financial services firms $4, according to LexisNexis Risk Solutions. Synthetic identity fraud, when fraudsters create identities not associated with real people,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/",
+      "originalUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/fraud-detection.jpg?fit=600%2C600&strip=all",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/",
+      "publishedDateTime": "2022-05-16T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-crippling-ai-cyberattacks-are-inevitable-4-ways-security-pros-can-prepare.md",
+      "title": "Crippling AI cyberattacks are inevitable: 4 ways security pros can prepare",
+      "excerpt": "As enterprise companies battle a growing number of major security breaches, they need to prepare for increasingly sophisticated AI-driven cybercrimes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
+      "originalUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1057918132.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
+      "publishedDateTime": "2022-05-16T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-deepminds-new-ai-gato-can-play-videogames-and-control-robots.md",
+      "title": "DeepMind’s new AI, Gato, can play videogames and control robots",
+      "excerpt": "While we’re not quite there yet, a new AI system developed by Alphabet’s DeepMind might have brought us one step closer. Gato is DeepMind’s latest AI that can perform more than 600 different tasks, such as playing videogames,",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can-play-videogames-and-control-robots",
+      "originalUrl": "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can-play-videogames-and-control-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2022/05/a-14.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-cncf-launches-ethics-in-open-source-training-course.md",
       "title": "CNCF launches ethics in open source training course",
       "excerpt": "The Cloud Native Computing Foundation has developed a new certification for developers looking to better incorporate ethical-first thinking into their open source software design.",
@@ -227,6 +427,51 @@
       ]
     },
     {
+      "path": "_news/2022-05-16-is-nlp-innovating-faster-than-other-domains-of-ai.md",
+      "title": "Is NLP innovating faster than other domains of AI",
+      "excerpt": "Why is there such intense competition in this field, or in other words, are other AI domains lagging behind NLP in terms of innovation?",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-domains-of-ai/",
+      "originalUrl": "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-domains-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/NLP_AIM-1300x731.gif",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-15T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-brainchip-and-edge-impulse-partner-to-accelerate-aiml-deployments.md",
       "title": "BrainChip and Edge Impulse Partner to Accelerate AI/ML Deployments",
       "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 15, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, and Edge Impulse,",
@@ -366,6 +611,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-15-artificial-intelligence-benefits-psoriatic-arthritis-patients.md",
+      "title": "Artificial Intelligence Benefits Psoriatic Arthritis Patients",
+      "excerpt": "PredictAI, a new machine-learning tool developed by researchers, speeds up the diagnosis of psoriatic arthritis (PsA) by up to 4 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
+      "publishedDateTime": "2022-05-15T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-14-public-buses-in-tamil-nadu-to-get-ai-enabled-panic-button.md",
       "title": "Public buses in Tamil Nadu to get AI-enabled panic button",
       "excerpt": "Tamil Nadu Chief Minister M K Stalin on Saturday launched Artificial Intelligence (AI)-enabled panic button-cum-CCTV surveillance project in 500 Chennai buses as part of an initiative to improve the safety of women and children.",
@@ -468,7 +756,7 @@
       "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/dan-odowd-senate-campaign-targeting-teslas-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -841,49 +1129,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-14-deepminds-astounding-new-gato-ai-makes-me-fear-humans-will-never-achieve-agi.md",
-      "title": "DeepMind’s astounding new ‘Gato’ AI makes me fear humans will never achieve AGI",
-      "excerpt": "DeepMind just unveiled a new AI system called Gato that makes OpenAI's GPT-3 look like a child's toy. But are we any closer to AGI?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepminds-astounding-new-gato-ai-makes-fear-humans-will-never-achieve-agi",
-      "originalUrl": "https://thenextweb.com/news/deepminds-astounding-new-gato-ai-makes-fear-humans-will-never-achieve-agi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-13-ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations.md",
       "title": "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations",
       "excerpt": "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ...",
@@ -933,265 +1178,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions.md",
-      "title": "Inflection AI, led by LinkedIn and DeepMind co-founders, raises $225M to transform computer-human interactions",
-      "excerpt": "Inflection AI, the startup co-founded by LinkedIn co-founder Reid Hoffman and founding DeepMind member Mustafa Suleyman, has raised $225 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/",
-      "originalUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?w=1024",
-          "width": 1024,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/",
-      "publishedDateTime": "2022-05-13T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-facial-recognition-may-not-be-banned-after-all.md",
-      "title": "Facial Recognition May Not Be Banned After All",
-      "excerpt": "Following efforts to ban the use of facial recognition technology by authorities, it seems that some cities are having second thoughts amidst an increase in their crime rate. Some U.S. states and ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
-      "originalUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bc3f198cf7b38c71dd7b8b87c579e986.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp",
-      "publishedDateTime": "2022-05-13T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-an-optimist-at-the-helm-of-ibm.md",
-      "title": "An Optimist at the Helm of IBM",
-      "excerpt": "Over the past 30 years, IBM has changed drastically, becoming a major player in cloud computing and artificial intelligence. And during those decades, Arvind Krishna was rising through the ranks of Big Blue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/05/15/business/30corneroffice/30corneroffice-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.amp.html",
-      "publishedDateTime": "2022-05-13T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice.md",
-      "title": "How AI Solutions And Strong Leadership Could Have Avoided The UK’s Worst-Ever Miscarriage Of Justice",
-      "excerpt": "Very critical of the Post Office Horizon scandal, HEC Paris Professor of Accounting and Management Control and chairholder at HI! Paris Center Aluna Wang explains how the anomaly detection system she developped and more attention to how the data is used could help avoid such issues in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
-      "originalUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627e65898626d96b9c8f32a1/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
-      "publishedDateTime": "2022-05-13T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-formidable-human-ai-relations-can-accelerate-sustainability-efforts.md",
-      "title": "Formidable Human-AI Relations Can Accelerate Sustainability Efforts",
-      "excerpt": "When working in harmony with humans, AI and other automation systems have the potential to make huge impacts on economic growth across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f8ef32c53de1add7201f44a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
-      "publishedDateTime": "2022-05-13T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T13:47:00Z
 originalUrl: "https://insidehpc.com/2022/05/wekas-zvibel-on-streamlining-the-data-pipeline-that-fuels-ai-ml/"
 webUrl: "https://insidehpc.com/2022/05/wekas-zvibel-on-streamlining-the-data-pipeline-that-fuels-ai-ml/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: insideHPC

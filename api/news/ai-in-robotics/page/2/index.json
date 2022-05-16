@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-04-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
+      "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
+      "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/426610",
+      "originalUrl": "https://www.entrepreneur.com/article/426610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-426610.jpeg",
+          "width": 3001,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-3-leading-us-robotics-clusters-create-alliance.md",
+      "title": "3 leading US robotics clusters create alliance",
+      "excerpt": "MassRobotics, Pittsburgh Robotics Network and Silicon Valley Robotics have combined forces to create a cluster alliance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/3-leading-us-robotics-clusters-create-alliance/",
+      "originalUrl": "https://www.therobotreport.com/3-leading-us-robotics-clusters-create-alliance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-robotics-clusters.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-elon-musk-boasts-teslas-optimus-robots-will-have-full-artificial-intelligence.md",
       "title": "Elon Musk boasts Tesla's 'Optimus' robots will have full artificial intelligence",
       "excerpt": "But according to Tesla boss Elon Musk, his humanoid robot, Optimus, is coming soon – and it might also contain the first true Artificial Intelligence. “Tesla AI might play a role in AGI,” the multi-billionaire tweeted, “given that it trains against ...",
@@ -1253,110 +1349,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-jack-in-the-box-rolls-out-robots-to-flip-burgers-and-serve-drinks.md",
-      "title": "Jack in the Box Rolls Out Robots to Flip Burgers and Serve Drinks",
-      "excerpt": "Jack in Box, for one, has harnessed the power of tech, partnering with Miso Robotics to introduce robots to one of its San Diego restaurants.  Relying on a combination of artificial intelligence, machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/425734",
-      "originalUrl": "https://www.entrepreneur.com/article/425734",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1650985396-GettyImages-1289092918.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022.md",
-      "title": "Final week to buy 2-for-1 passes to TC Sessions: Robotics 2022",
-      "excerpt": "Who’s ready for a full day dedicated to robots, the people who build them, fund them and envision new possibilities? Would that be you? Then get ready for TC Sessions: Robotics 2022 on July 22 at the Hynes Convention Center in Boston,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/",
-      "originalUrl": "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628-1-1.png?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/amp/",
-      "publishedDateTime": "2022-04-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

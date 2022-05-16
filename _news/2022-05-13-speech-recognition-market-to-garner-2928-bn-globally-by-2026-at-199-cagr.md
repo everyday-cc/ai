@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR"
+    excerpt: "Allied Market Research recently published a report, titled, “Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and"
+    publishedDateTime: 2022-05-16T15:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI CCTV Market to Garner $55.22 Billion by 2030"
     excerpt: "According to the report published by Allied Market Research, the global AI CCTV market generated $14.83 billion in 2020, and is expected to garner $55.22 billion by 2030, witnessing a CAGR of 14.9% from 2021 to 2030. The report provides an extensive ..."
     publishedDateTime: 2022-05-13T02:45:00Z

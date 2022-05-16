@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T08:31:00Z
 originalUrl: "https://www.theengineer.co.uk/umbraco/surface/redirect/article?slug=inspired-by-nature-could-biomimicry-robots-help-save-the-planet"
 webUrl: "https://www.theengineer.co.uk/umbraco/surface/redirect/article?slug=inspired-by-nature-could-biomimicry-robots-help-save-the-planet"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Engineer

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 29
+  - title: "Inflection AI raises $225 million to transform computer-human interactions"
+    excerpt: "Mustafa Suleyman (DeepMind’s ML research unit’s cofounder) and Reid Hoffman (LinkedIn cofounder) launched Inflection AI. Some of the AI experts in Inflection AI worked at DeepMind, Google LLC, and Meta (previously Facebook). The start-up develops AI ..."
+    publishedDateTime: 2022-05-16T12:53:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/79056/inflection-ai-raises-225-million-to-transform-computer-human-interactions/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
 
 secured: "nL5TkGLB7J0ladZadV5ykDuf+jCzNmys5pr4B00+3KqsLk+lvK/SMTjjZUpngUk/mlC6z1WfDyRHlGaSevImlDfoLeOOqnafm3pJDSzPNpE/yW8ZZlwUH6P3APCRaWmP3PeLEyNSOLKcZ3X+YEVscHlsLP+Koq2X7fpxnujYlEkypY2mci7S5GYh4CQSyu+PgbQc2GBV5TvbAsL1uybLmUbPEvnC9gQrsciYot0MFp/bYSqGT5Iq/Gq1txDXKq73dMfCShuEyG6j+10qbHkimCDkTcKu9GLktrubuk58EVQCtB+SK8CTjvEbN/JQzNBt4O0jaeTiscnXXLdWQGcLiVh5//CzKq4dlU6ouP5xxQesdjXW3aZYd2SQZm/UON0jbhJxU3amNYgm5gbOE4WlRXgQ24ORtNOwPOw5XoroCqrkTaTxa/SZH3CrVnLSUbcwNiHvBAz1Q0ay5WYOVs8W4BtEJpOXA4JV5iNGJ5wb9G63sgGZPlh8lYfvDgA5ounqapnJsNiluzxnCzXW8NXktg==;0oQSJXuDAMryt57I1twQlg=="
 ---

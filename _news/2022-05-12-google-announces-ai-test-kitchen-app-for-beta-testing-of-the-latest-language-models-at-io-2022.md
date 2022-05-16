@@ -9,8 +9,8 @@ ampWebUrl: "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Mashable
@@ -27,35 +27,79 @@ images:
     isCached: true
 
 related:
-  - title: "Google I/O: To build better AI, Google invites others to join its AI Test Kitchen"
-    excerpt: "On Wednesday at Google I/O, the company showcased LaMDA 2. During the I/O keynote, Google CEO Sundar Pichai called it Google's \"most advanced conversational AI yet.\" The tech giant is working on LaMDA and other models to improve Search, Google Assistant ..."
-    publishedDateTime: 2022-05-11T20:06:00Z
-    webUrl: "https://www.zdnet.com/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/"
+  - title: "Google I/O 2022: Google’s artificial intelligence and machine learning breakthroughs, explained"
+    excerpt: "... where a machine learning model only sees monolingual text – meaning, it learns to translate into another language without ever seeing an example. However, the company noted that the technology is not perfect and it would keep improving these models."
+    publishedDateTime: 2022-05-13T05:09:00Z
+    webUrl: "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/"
+    ampWebUrl: "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 77
     images:
-      - url: "https://www.zdnet.com/a/img/resize/ab8bcde7ffed4e3a8a481d1c210a436f8e1cc4fc/2022/05/11/30026320-f49f-45f7-95fb-5a5c47bb63d4/imagine-it.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://images.indianexpress.com/2022/05/google.jpg"
         width: 1200
-        height: 1429
+        height: 667
         isCached: true
-  - title: "Google unveils artificial intelligence tool for real-world searches"
-    excerpt: "Alphabet Inc.'s Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company previewed a ..."
-    publishedDateTime: 2022-05-11T19:59:00Z
-    webUrl: "https://www.unionleader.com/news/business/google-unveils-artificial-intelligence-tool-for-real-world-searches/article_7e28b911-e883-5520-8562-3c5c59520a84.html"
+  - title: "Google Made Some Pretty Big Errors In Its I/O 2022 Translate Slides"
+    excerpt: "The main keynote of Google I/O 2022 went off without a hitch for the most part, but there were some fairly significant translation errors ... themselves centered on new AI learning techniques helping to bring 24 new languages to the service."
+    publishedDateTime: 2022-05-12T23:20:00Z
+    webUrl: "https://www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html?amp"
     type: article
     provider:
-      name: New Hampshire Union Leader
-      domain: unionleader.com
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/04/google-translate-new-languages-io-22.png"
+        width: 1500
+        height: 771
+        isCached: true
+  - title: "Translation glasses and watchful AI: Google’s announcements at I/O"
+    excerpt: "Glancing at a smart device so you can talk to it. Putting on glasses so you can understand a foreign language. Pointing your phone at something to see where it came from. These are Google's latest AI innovations,"
+    publishedDateTime: 2022-05-14T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/14/translation-glasses-and-watchful-aigoogles-announcements-at-io"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/7/85/785c8c96-164c-5c96-acb3-903be39118e0/627c1d4755c85.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/13/1584573.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "Google sprinkles AI on everything at I/O"
+    excerpt: "It will start out in Los Angeles, London ... Google has also aimed its massive AI brains at Google Docs, which now using various natural language processing magic can create automated summaries of great big long documents you can’t be bothered to ..."
+    publishedDateTime: 2022-05-13T12:09:00Z
+    webUrl: "https://telecoms.com/515325/google-sprinkles-ai-on-everything-at-i-o/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 37
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/05/google-io2022.jpg"
+        width: 1656
+        height: 893
+        isCached: true
+  - title: "Meta ‘Open-Sources’ Its Latest Large Language Model"
+    excerpt: "The Meta AI research team has announced that it would make ... Slator is the leading source of news and research for the global translation, localization, and language technology industry. Our Advisory practice is a trusted partner to clients looking ..."
+    publishedDateTime: 2022-05-12T09:45:00Z
+    webUrl: "https://slator.com/meta-open-sources-its-latest-large-language-model/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/ninja-forms/85/META-AI-Language-Model-2022.png"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "kRxKLNBzdQfgE69nx+jmFG3alii82jIgqJmE8SW7S9/Cx0nMLq3zpi5CKbZucCzmOh3H8yW171pvUa6ny/797CuzGmYE8iOqhw/H51kvAk676VEmYyAxogr4JrUEu4La9OzmmOb8AUWUehVky3HyeKbqOkYipbo+QgRTUm1LbVflgXP0zOQGpEXHuoq948uJuHAaUa6pNbtZvcWiQMvzuRJLG5RlyJNa6iVAbf+odwI+y4fPROWsTbvzJ9oL0ZYPKb3LrnLvfHKlj8Y+2hmc4CtMQMDQ98yAg3fo1PELUuiTXKVldqRNE7PDCjNbSliAFDHBvVlJOnuaLOsNXZeKPnEiw1oUfaq5nT4yLYuSKchkQx/MnW1eT3Ilxbii142jcCFy/ZNIymMddUgC/cVVK/YexOvobAAPmUnVgP7Ki8oc5BKbuqmDuWYEA0rorbiF1IofakZz8gf/gnNLBrPGzgJWyoTAy/CvulcqWedh4jvmW80Kd2sBrhfgLrEyI2T0vYA8weU2ppEiRTsqaKC7pQ==;Rb0Ym/3c5AXl4zqfUVkJeg=="

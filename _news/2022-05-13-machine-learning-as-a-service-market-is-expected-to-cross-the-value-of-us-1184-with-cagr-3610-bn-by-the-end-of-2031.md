@@ -39,6 +39,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence In Diagnostics Market To Exceed Valuation of US$ 5,225.4Mn By 2030"
+    excerpt: "According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Diagnostics Market Size Is Expected To"
+    publishedDateTime: 2022-05-16T13:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-to-exceed-valuation-of-us-5225-4mn-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 7
 
 secured: "qS7H5GdEbbq/UzBTayhhPYYP9wSVDlnXawZ5sePOKHHnf09HL7aQT/rNgfm5A+sxPjwrjXrz8nPMcUGrS1/kovWI29AhkbYcKfbopgTH8gW85silzLDhcqWQXLdJZD9mHCgUUV3OSsO2yV2z0RvR5rM41HfxL9q+4YsecnwW+O5srShbtvW2EpPCi3X1NOKpEi5cjQsz9sa5QRZASlgigvjRw+NLmu2IaWb4AQdFpD0ojf8ZQKG2Iykm0naEXxM1kLPRRERoDsITDJu00jtFGaWBhbYyDFovMNOGMji+K0aDGi+q3cl6Dxa1d7dkqpCkAA2T6Ec3QkNWJ/DXe1iSIRN0V+bb6xzGHiUoOIdv6RfNmJ376lmSh7h6MnRE1TDFLI5seDwzIm2IwGpwTU7o8GF8X4V4ckieiJs3+iaorxxXTaKDRugeDW/Sguc2c2waKiSiFq66ky+gj5Ca2ruBzW1nVgoBsIfcnT6Etkg8AqyC5hMyfOsZ6A3lqir2JUnLnADDll8cS+UbqjskUR0T6A==;i4Lr5723h4Uzol5/U7ZdAA=="
 ---

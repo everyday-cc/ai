@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T13:30:00Z
 originalUrl: "https://www.chemistryworld.com/news/machine-learning-finds-fluoride-battery-materials-that-could-rival-lithium/4015669.article"
 webUrl: "https://www.chemistryworld.com/news/machine-learning-finds-fluoride-battery-materials-that-could-rival-lithium/4015669.article"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Chemistry World

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T13:56:00Z
 originalUrl: "https://fox2now.com/business/press-releases/cision/20220516NE57926/overjet-receives-second-fda-clearance-adding-overjet-caries-assist-to-the-industrys-1-dental-ai-platform/"
 webUrl: "https://fox2now.com/business/press-releases/cision/20220516NE57926/overjet-receives-second-fda-clearance-adding-overjet-caries-assist-to-the-industrys-1-dental-ai-platform/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Fox2Now St. Louis

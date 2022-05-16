@@ -18,29 +18,36 @@ topics:
   - AI
 
 related:
-  - title: "Governance and administration startup BalkanID launches with $5.75M in funding"
-    excerpt: "Governance and administration solution startup BalkanID Inc. launched out of stealth mode today with $5.75 million in funding to accelerate product and customer development. The s"
-    publishedDateTime: 2022-05-12T12:00:00Z
-    webUrl: "https://siliconangle.com/2022/05/12/governance-administration-startup-balkanid-launches-5-75m-funding/"
+  - title: "Inscribes battles fraud with AI-powered detection and automation tools"
+    excerpt: "Today every $1 in fraud loss costs U.S. financial services firms $4, according to LexisNexis Risk Solutions. Synthetic identity fraud, when fraudsters create identities not associated with real people,"
+    publishedDateTime: 2022-05-16T15:30:00Z
+    webUrl: "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/"
+    ampWebUrl: "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 18
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/subburama_headshotjpeg2.jpeg"
-        width: 634
-        height: 414
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/fraud-detection.jpg?fit=600%2C600&strip=all"
+        width: 600
+        height: 600
         isCached: true
-  - title: "Graft™ Launches to Bring Modern AI to Everyone With $4.5 Million Pre-Seed Funding"
-    excerpt: "Graft emerged from stealth to put modern AI within reach of every organization. Graft distills the AI infrastructure and workflows that top companies are converging around into an all-in-one package that is easy to use,"
-    publishedDateTime: 2022-05-12T16:41:00Z
-    webUrl: "https://insidebigdata.com/2022/05/12/graft-launches-to-bring-modern-ai-to-everyone-with-4-5-million-pre-seed-funding/"
+  - title: "ForgeRock Intros New AI-powered Fraud Prevention Tool"
+    excerpt: "ForgeRock introduced ForgeRock Autonomous Access, a new solution that uses artificial intelligence (AI) to prevent identity-based cyber attacks"
+    publishedDateTime: 2022-05-13T01:14:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24826-forgerock-intros-new-ai-powered-fraud-prevention-tool"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 12
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/c967e52171fd1f3b645b47588992fd9f.jpg?t=20220513_011127"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "WHE1A7GC1hvtF82tjh6T64l1/dSP907vyV7x26OsHKgHyGHYAH9PWZvN7vgV4ioXI6+WR0Wfg9bf9c3qPWjnNYMTOQS9n70Lx41KjmOeS7iz3z2LbGuSC/Yvc2EendMAMIKqUakAfcIi2aEi7scS8VHPukZp0I4MmSot4Y8N/+huJvMNLU+EFWEYCYiz35UyE6Z9FbU5WK8tgJvyy3KqmhftBBvnZDNxHSpTm95vbs0Ur6H30XZ11kG3eAXLjvUqeE7Crxs1GYDv4KYVDiyOsoEKW1R+qd3HJfvVb/n78r7YOL4m95Qb045jEeNZJKCy+PrzC7j8P++EaRwwn4kYDspl0GYE5133Zmzp16nf3QSw7/FGapQ6iRmEq0N8INQS9LD4ODbCRG1Q32OfxcrhruS6FjI3Lxbz3EH5pdLl6r42OPdo6spbf2N6M0Y+2jUdXlrL9zWShRDLQm8wyZtn1BT7B9IiltnF7CPBlUY+dHNQe7AEpXWpQFdF70+1fPuK86g+SOlTAGJ4RwO3tPE4Ng==;kJ58VzPtEN0z8bGujsmR9g=="
 ---

@@ -2,6 +2,307 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-04-23-aging-politicians-like-sen-dianne-feinstein-should-know-when-its-time-to-leave-the-stage.md",
+      "title": "Aging politicians like Sen. Dianne Feinstein should know when it’s time to leave the stage",
+      "excerpt": "But without exception, decreased endurance, memory degradation, physical health concerns and general cognitive decline, are part of our balancing acts. Like cars, refrigerators and 10--year-old ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/",
+      "originalUrl": "https://www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/?amp=1",
+      "publishedDateTime": "2022-04-22T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-secure-aws-codeartifact-access-for-isolated-amazon-sagemaker-notebook-instances.md",
+      "title": "Secure AWS CodeArtifact access for isolated Amazon SageMaker notebook instances",
+      "excerpt": "AWS CodeArtifact allows developers to connect internal code repositories to upstream code repositories like Pypi, Maven, or NPM. AWS CodeArtifact is a powerful addition to CI/CD workflows on AWS, but it is similarly effective for code-bases hosted on a Jupyter notebook. This is a common development paradigm",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/secure-aws-codeartifact-access-for-isolated-amazon-sagemaker-notebook-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/secure-aws-codeartifact-access-for-isolated-amazon-sagemaker-notebook-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/19/ML-4423-image001-whitebackground.png",
+          "width": 655,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T09:56:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto.md",
+      "title": "Canadian government invests in woman-led, sustainable AI company in Toronto",
+      "excerpt": "The Federal Economic Development Agency for Southern Ontario (FedDev Ontario) today announced an investment of over C$5.7 million in Canvass Analytics Inc. (Canvass AI) a woman-led artificial intelligence (AI) company whose mission is to make AI easy-to-use so that the industrial sector can accelerate its transformation into a profitable and environmentally sustainable industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691",
+      "originalUrl": "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/04/canvass_logo_square.png",
+          "width": 520,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1",
+      "publishedDateTime": "2022-04-22T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-mobileye-founder-tapped-for-automotive-hall-of-fame-innovator-award.md",
+      "title": "Mobileye Founder Tapped for Automotive Hall of Fame Innovator Award",
+      "excerpt": "Mobileye CEO Amnon Shashua, a pioneer in artificial intelligence and self-driving vehicle technology, is being honored by Automotive Hall of Fame. He’s been named the 2022 Mobility Innovator Award winner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedetroitbureau.com/2022/04/mobileye-founder-tapped-for-automotive-hall-of-fame-innovator-award/",
+      "originalUrl": "https://www.thedetroitbureau.com/2022/04/mobileye-founder-tapped-for-automotive-hall-of-fame-innovator-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedetroitbureau.com/wp-content/uploads/2022/04/Mobileye-CEO-Shashua-at-CES-2021.jpeg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheDetroitBureau",
+        "domain": "thedetroitbureau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-roborock-launches-q-series-robot-vacuums-expanding-the-convenience-of-its-award-winning-automated-cleaning-tech-into-most-us-households.md",
+      "title": "Roborock Launches Q-Series Robot Vacuums, Expanding the Convenience of its Award-Winning Automated Cleaning Tech into Most U.S. Households",
+      "excerpt": "Roborock makes auto-emptying a staple in robotic cleaning in the US with new mid-range offering led by the immediate release of the Q5+ HONG KONG, April 22, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/roborock-launches-q-series-robot-vacuums-expanding-convenience-its-award-winning-automated",
+      "originalUrl": "https://www.asiaone.com/business/roborock-launches-q-series-robot-vacuums-expanding-convenience-its-award-winning-automated",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2022/Q5_0.jpg?itok=rH_gvu2l",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry.md",
+      "title": "Computer Vision Startup Encord Launches DICOM Image Annotation Tool To Eradicate Manual Data Labelling for Healthcare Industry",
+      "excerpt": "Encord's platform empowers some of the world's leading companies building computer vision models for medical imaging including Kings College London, Memorial Sloan Kettering Cancer Center and Stanford Medical Centre The first dedicated Digital Imaging and Communications in Medicine (DICOM) tool provides 3D annotation for modalities such as CT,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-cool-or-creepy-video-shows-ai-robot-taught-how-to-open-doors.md",
+      "title": "Cool or Creepy? Video Shows AI Robot Taught How to Open Doors",
+      "excerpt": "Opening doors is a complex task for robots. Using a deep learning approach, researchers taught one to open a door with a 96.8% success rate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050",
+      "originalUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2024457/robot-opening-door.png",
+          "width": 1696,
+          "height": 1036,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050?amp=1",
+      "publishedDateTime": "2022-04-22T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-palantirs-poaching-of-former-nhsx-ai-chief-branded-scandalous.md",
       "title": "Palantir's poaching of former NHSX AI chief branded “scandalous”",
       "excerpt": "The controversial tech company is currently competing for a £240 million NHS federated data platform (FDP) contract",
@@ -791,325 +1092,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028.md",
-      "title": "Deep Learning in Manufacturing Market 2022, Overview, Size, Share, Demand, Segment, Applications, sales Market, Forecast 2028",
-      "excerpt": "Apr 21, 2022 (The Expresswire) -- Global“Deep Learning in Manufacturing”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-polyn-technology-delivers-nasp-test-chip-for-tiny-ai.md",
-      "title": "POLYN Technology Delivers NASP Test Chip For Tiny AI",
-      "excerpt": "POLYN Technology has announced that its first Neuromorphic Analog Signal Processor (NASP) chip is packaged and evaluated, demonstrating proof of the technology's brain-mimicking architecture. It is the first Tiny AI true analog design to be used next to sensors.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconsemiconductor.net/article/114634/POLYN_Technology_Delivers_NASP_Test_Chip_for_Tiny_AI",
-      "originalUrl": "https://siliconsemiconductor.net/article/114634/POLYN_Technology_Delivers_NASP_Test_Chip_for_Tiny_AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=shutterstock_376500043.jpg",
-          "width": 655,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "siliconsemiconductor",
-        "domain": "siliconsemiconductor.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-design-is-merging-with-machine-learning-in-home-decor.md",
-      "title": "Design Is Merging With Machine Learning In Home Décor",
-      "excerpt": "The blend of human and machine knowledge to address the sales challenge of home design is an interesting application of AI and other tools, a blend that can help both the businesses and the end customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&width=1200",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
-      "publishedDateTime": "2022-04-21T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-fintech-market-size-to-reach-usd-16652680-million-by-2028-at-a-cagr-of-139-valuates-reports.md",
-      "title": "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports",
-      "excerpt": "The global fintech market size is projected to reach USD 16652680 Million by 2028 from USD 6588780 Million in 2021 at a Compound Annual Growth Rate (CAGR) of 13.9% during the fore",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-fintech-market-size-reach-usd-16652680-million-2028-/2022/04/21/9587422.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-fintech-market-size-reach-usd-16652680-million-2028-/2022/04/21/9587422.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-oracle-contracts-and-pricing-a-challenge-says-gartner.md",
-      "title": "Oracle contracts and pricing a 'challenge' says Gartner",
-      "excerpt": "Oracle's pricing models and contracts can be \"challenging to navigate\" and \"frustrating for customers,\" according to a Gartner report that otherwise heaps praise on the omnipresent enterprise software company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/21/oracle_contracts_pricing_gartner/",
-      "originalUrl": "https://www.theregister.com/2022/04/21/oracle_contracts_pricing_gartner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2016/08/07/oracle_logo_360b_shutterstock.jpg",
-          "width": 648,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/21/oracle_contracts_pricing_gartner/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/oracle_contracts_pricing_gartner/",
-      "publishedDateTime": "2022-04-21T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-braincube-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Braincube Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Braincube, a leading global IIoT platform and advanced business app suite dedicated to manufacturers, today announced the availability of Braincube’s ready-to-use Data Visualization app package suite as an offering within the Microsoft Azure Marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-90dc659d962bffd8d6fc0e0c77ae2850",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-90dc659d962bffd8d6fc0e0c77ae2850",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-how-to-use-ai-to-create-more-human-service-not-less.md",
-      "title": "How To Use AI To Create More Human Service, Not Less",
-      "excerpt": "Instead of focusing on replacing humans with machines, we need to think about how AI makes humans better at their jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62050c6421a4b6bcff9ea195/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/amp/",
-      "publishedDateTime": "2022-04-21T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

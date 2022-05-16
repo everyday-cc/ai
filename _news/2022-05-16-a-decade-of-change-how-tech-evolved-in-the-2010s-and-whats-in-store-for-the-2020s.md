@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T13:00:00Z
 originalUrl: "https://www.nasdaq.com/articles/a-decade-of-change%3A-how-tech-evolved-in-the-2010s-and-whats-in-store-for-the-2020s"
 webUrl: "https://www.nasdaq.com/articles/a-decade-of-change%3A-how-tech-evolved-in-the-2010s-and-whats-in-store-for-the-2020s"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Nasdaq

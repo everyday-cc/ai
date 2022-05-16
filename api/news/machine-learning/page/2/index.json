@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-05-aible-to-participate-in-the-bake-off-session-at-gartner-data-and-analytics-summit-may-9-11-in-london.md",
+      "title": "Aible to Participate in the 'Bake-Off' Session at Gartner Data and Analytics Summit, May 9-11 in London",
+      "excerpt": "Aible recently scored highest for the AutoML Use Case in 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services. Aible is a Silver Sponsor of the Gartner Summit and is one of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-05/55964903-aible-to-participate-in-the-bake-off-session-at-gartner-data-and-analytics-summit-may-9-11-in-london-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-05/55964903-aible-to-participate-in-the-bake-off-session-at-gartner-data-and-analytics-summit-may-9-11-in-london-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-deep-learning-chip-market-revenue-growth-factors-trends-key-companies-forecast-to-2028.md",
       "title": "Deep Learning Chip Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2028",
       "excerpt": "VANCOUVER, BC, UNITED STATES, May 4, 2022 /EINPresswire.com / -- The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue ...",
@@ -43,49 +77,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-rapid-adaptation-of-deep-learning-teaches-drones-to-survive-any-weather.md",
-      "title": "Rapid adaptation of deep learning teaches drones to survive any weather",
-      "excerpt": "To face this challenge, a team of engineers from Caltech has developed Neural-Fly, a deep-learning method that can help drones cope with new and unknown wind conditions in real time just by updating a few key parameters. Neural-Fly is described in a study ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/rapid-adaptation-of-de.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.amp",
-      "publishedDateTime": "2022-05-04T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

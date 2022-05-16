@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-16-is-nlp-innovating-faster-than-other-domains-of-ai.md",
+      "title": "Is NLP innovating faster than other domains of AI",
+      "excerpt": "Why is there such intense competition in this field, or in other words, are other AI domains lagging behind NLP in terms of innovation?",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-domains-of-ai/",
+      "originalUrl": "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-domains-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/NLP_AIM-1300x731.gif",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-15T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-15-facial-recognition-surveillance-is-a-threat-to-civil-liberties.md",
       "title": "Facial recognition surveillance is a threat to civil liberties",
       "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ...",
@@ -300,21 +345,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-12-new-google-glasses-could-let-you-speak-any-language-thanks-to-real-time-ai-translation.md",
-      "title": "New Google glasses could let you speak any language thanks to real-time AI translation",
-      "excerpt": "Google CEO Sundar Pichai this week teased the prototype of a new pair of smart glasses - they use augmented reality to provide live translations of any language as you hear it being spoken",
+      "path": "_news/2022-05-12-google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022.md",
+      "title": "Google Announces AI Test Kitchen App For Beta Testing Of The Latest Language Models At I/O 2022",
+      "excerpt": "The American search giant revealed a bunch of new updates that will fall under the AI technology. Moving forward, we can clearly see that Google will be using a lot of AI technology in the future and the new upcoming features that were announced include multisearch that will allow a user to pair the image searches with the text searches and addition of support for 24 new languages in Google Translate.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266",
-      "originalUrl": "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266",
+      "webUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022",
+      "originalUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://i2-prod.dailystar.co.uk/incoming/article26945548.ece/ALTERNATES/s615/0_2022-05-12-15.jpg",
-          "width": 615,
-          "height": 409,
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-71_1d9a.620.jpg",
+          "width": 619,
+          "height": 374,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -322,13 +367,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp",
-      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp",
-      "publishedDateTime": "2022-05-12T04:30:00-07:00",
+      "ampWebUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1",
+      "publishedDateTime": "2022-05-12T02:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Star",
-        "domain": "dailystar.co.uk",
+        "name": "Mashable",
+        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1374,49 +1419,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-voiceitt-announces-new-initiative-expanding-voice-tech-capabilities-for-users-with-disabilities.md",
-      "title": "Voiceitt Announces New Initiative, Expanding Voice Tech Capabilities for Users with Disabilities",
-      "excerpt": "a leader in advanced speech recognition technology for people with non-standard speech, announces the launch of its community engagement and development initiative called Project Ensemble. Project Ensemble invites individuals with non-standard speech to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/02/9593315.htm",
-      "originalUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/02/9593315.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1808758/Project_Ensemble.jpg",
-          "width": 389,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T12:30:00Z
 originalUrl: "https://www.morningstar.com/news/pr-newswire/20220516sf57748/flex-logix-partners-with-roboflow-to-enable-specialized-ai-models-for-computer-vision-applications"
 webUrl: "https://www.morningstar.com/news/pr-newswire/20220516sf57748/flex-logix-partners-with-roboflow-to-enable-specialized-ai-models-for-computer-vision-applications"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Morningstar%2c Inc.

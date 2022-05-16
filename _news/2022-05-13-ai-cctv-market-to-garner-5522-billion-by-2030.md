@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-cctv-market-to-garner-55-22-b
 webUrl: "https://www.digitaljournal.com/pr/ai-cctv-market-to-garner-55-22-billion-by-2030-2"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR"
+    excerpt: "Allied Market Research recently published a report, titled, “Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and"
+    publishedDateTime: 2022-05-16T15:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Speech Recognition Market to Garner $29.28 Bn, Globally, by 2026 at 19.9% CAGR"
     excerpt: "Allied Market Research recently published a report, “Speech Recognition Market by Deployment Mode (On Cloud and On Premise) and End Use"
     publishedDateTime: 2022-05-13T02:45:00Z

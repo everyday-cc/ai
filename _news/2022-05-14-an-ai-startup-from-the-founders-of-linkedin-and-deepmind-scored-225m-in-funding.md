@@ -58,6 +58,15 @@ related:
         width: 1034
         height: 580
         isCached: true
+  - title: "Inflection AI raises $225 million to transform computer-human interactions"
+    excerpt: "Mustafa Suleyman (DeepMind’s ML research unit’s cofounder) and Reid Hoffman (LinkedIn cofounder) launched Inflection AI. Some of the AI experts in Inflection AI worked at DeepMind, Google LLC, and Meta (previously Facebook). The start-up develops AI ..."
+    publishedDateTime: 2022-05-16T12:53:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/79056/inflection-ai-raises-225-million-to-transform-computer-human-interactions/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
 
 secured: "8ZwfDCOXYOFmOB7bcEdX8HrX4V28fT+x7orVDrRVHjAUo9qIqZO4J5qi3+dSRtcZEOtezlMtSHs+j16+zM4bZabYO2IdE28gm33dffH/VKCRG2DqwDzfb9Q4o+eflf2ZsNXnOFPUwhbqnzHdySiz48oGJ/+TWJ0lH3wehfW/qNcGIzryjfaFPvVg3rPN5k25IlyL4LaTCJcJN7lfSLEPIB3Fi01MXBwBovykGx7YTTAaR+QvW1lYxBVjYqsBgrcC3Tzdfz1s/QlbUvwHMtlmCj4ZT6I+UnFbfrh9gYg4RoDq7zbp6Fy/s/TIJfoeDVWgTQsN8yRywAp73p9FYlwqyCG4IuvxgSQYRL2Q2/hA6GLA9qMdejkMw0f08UtgiTHC/jUoNq6hy1IpY9+u/xzIp4P1z4zI1a0Gxq9Znyu9sGEXfSkJ0lOm72Qge2/yXxts0u8g+X8kkloK0PY2AcB1PAkc9gNxQ8e33aApv4sngxEVFiKQii/fOuTwaorjv0Sw2zNzYr8si4pdbf8PoOkJkA==;9lSmpiDSzl7ncOiL5niO1g=="
 ---

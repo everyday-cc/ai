@@ -106,6 +106,15 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 30
+  - title: "Microsoft launches Open Data for Society"
+    excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
+    publishedDateTime: 2022-05-16T12:42:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-launches-open-data-for-society/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "GrTdzRpY1/1NJoMVaBdJzfm5B712KW1FphqmosCTBSM19iwjyjBIS6aPTVfhXxn7h2FK+W1Y2fRT01Lj8iRI9rdwQ2gZkH65KTX4NOnxd+a3ogsZY8aj80p2Ozt6MGuLQoFu3tFsWw+2RomcLoTiF/4H7I4IgkB7vsWbXJF4kDprQzm9nzNx4+8glofGaXAsuhw27qc71wLbnyzAtt0DInQwLKGmYQZ20CoXtZy7pMVM6eFQ6wRFPtWtImU0HRmXOh7udBRJj/ISbq/7w5pKLEt14SyickWNnNVqx3WvzuzNET6gYMJKKME7wbA00i4WAy/y4bjpOMSgotcsOPnXCMZuV735pJFw3+7eNe9bQA3z3Yv+f0slrLtx+HGcUs0exFCITtDNiasTgeB/KpF6Wj1Af6k6r9rsi17iTiraDleaKDKRZiW6j/tPVwro7fKo1XuET7Xk2WJplcw4bTonnpus//SVHtvjJz3+SzhER/8HMzl4d+jZ9j1Fot4ju0q0xYOlFpcF5BoLq9DqG/Bpyw==;t2uKlZkOv8azalHGYHpVwA=="
 ---

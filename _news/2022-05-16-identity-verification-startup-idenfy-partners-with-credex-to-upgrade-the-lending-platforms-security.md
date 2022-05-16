@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T10:16:00Z
 originalUrl: "https://www.digitaljournal.com/pr/identity-verification-startup-idenfy-partners-with-credex-to-upgrade-the-lending-platforms-security"
 webUrl: "https://www.digitaljournal.com/pr/identity-verification-startup-idenfy-partners-with-credex-to-upgrade-the-lending-platforms-security"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Digital Journal

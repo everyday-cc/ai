@@ -2,6 +2,317 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-13-inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions.md",
+      "title": "Inflection AI, led by LinkedIn and DeepMind co-founders, raises $225M to transform computer-human interactions",
+      "excerpt": "Inflection AI, the startup co-founded by LinkedIn co-founder Reid Hoffman and founding DeepMind member Mustafa Suleyman, has raised $225 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/",
+      "originalUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?w=1024",
+          "width": 1024,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/",
+      "publishedDateTime": "2022-05-13T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-facial-recognition-may-not-be-banned-after-all.md",
+      "title": "Facial Recognition May Not Be Banned After All",
+      "excerpt": "Following efforts to ban the use of facial recognition technology by authorities, it seems that some cities are having second thoughts amidst an increase in their crime rate. Some U.S. states and ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
+      "originalUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bc3f198cf7b38c71dd7b8b87c579e986.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp",
+      "publishedDateTime": "2022-05-13T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-an-optimist-at-the-helm-of-ibm.md",
+      "title": "An Optimist at the Helm of IBM",
+      "excerpt": "Over the past 30 years, IBM has changed drastically, becoming a major player in cloud computing and artificial intelligence. And during those decades, Arvind Krishna was rising through the ranks of Big Blue,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/15/business/30corneroffice/30corneroffice-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.amp.html",
+      "publishedDateTime": "2022-05-13T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-gms-cruise-and-brightdrop-explore-self-driving-electric-vans.md",
+      "title": "GM’s Cruise and BrightDrop Explore Self-Driving Electric Vans",
+      "excerpt": "Cruise LLC, the self-driving startup controlled by General Motors Co., is working with the automaker’s BrightDrop electric van business on a plan to develop autonomous delivery vehicles, people familiar with the matter said. Cruise and BrightDrop have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-05-13/gm-s-cruise-and-brightdrop-explore-self-driving-electric-vans",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-05-13/gm-s-cruise-and-brightdrop-explore-self-driving-electric-vans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD_3SJL94SGQ/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice.md",
+      "title": "How AI Solutions And Strong Leadership Could Have Avoided The UK’s Worst-Ever Miscarriage Of Justice",
+      "excerpt": "Very critical of the Post Office Horizon scandal, HEC Paris Professor of Accounting and Management Control and chairholder at HI! Paris Center Aluna Wang explains how the anomaly detection system she developped and more attention to how the data is used could help avoid such issues in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
+      "originalUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627e65898626d96b9c8f32a1/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
+      "publishedDateTime": "2022-05-13T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-formidable-human-ai-relations-can-accelerate-sustainability-efforts.md",
+      "title": "Formidable Human-AI Relations Can Accelerate Sustainability Efforts",
+      "excerpt": "When working in harmony with humans, AI and other automation systems have the potential to make huge impacts on economic growth across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f8ef32c53de1add7201f44a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
+      "publishedDateTime": "2022-05-13T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-15-key-tips-to-leverage-visual-search-for-marketing-in-2022.md",
       "title": "15 Key Tips To Leverage Visual Search For Marketing In 2022",
       "excerpt": "Agency 11. Remember, A Picture Is Worth A Thousand AI Interpretations In this connected era, it is crucial to understand how artificial intelligence, machine learning, object recognition and algorithms can be affected by color, objects, composition and ...",
@@ -244,49 +555,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-13-google-io-2022-googles-artificial-intelligence-and-machine-learning-breakthroughs-explained.md",
-      "title": "Google I/O 2022: Google’s artificial intelligence and machine learning breakthroughs, explained",
-      "excerpt": "... where a machine learning model only sees monolingual text – meaning, it learns to translate into another language without ever seeing an example. However, the company noted that the technology is not perfect and it would keep improving these models.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/",
-      "originalUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/05/google.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/",
-      "publishedDateTime": "2022-05-12T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-13-editorial-513-facial-recognition-software-use-raises-concerns.md",
       "title": "Editorial, 5/13: Facial recognition software use raises concerns",
       "excerpt": "Lincoln police have used facial recognition software from the state Department of Motor Vehicles to help identify 23 possible suspects in crimes as varied as shoplifting, burglary and",
@@ -484,7 +752,7 @@
       "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -983,249 +1251,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit.md",
-      "title": "Texans can no longer use certain Instagram filters due to facial recognition lawsuit",
-      "excerpt": "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
-      "originalUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
-      "publishedDateTime": "2022-05-12T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSAT",
-        "domain": "ksat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round.md",
-      "title": "Data-driven fintech TIFIN valued at $842M in new $109M Series D round",
-      "excerpt": "TIFIN brought in $109 million in fresh funding to bring its tech to the wealth and asset management industries",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/",
-      "originalUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1153689483.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/",
-      "publishedDateTime": "2022-05-12T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-how-ai-can-improve-services-revenue-and-customer-success.md",
-      "title": "How AI can improve services revenue and customer success",
-      "excerpt": "Having real-time data that can be modeled using AI and machine learning can help to solve customer success challenges today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/",
-      "originalUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-customer_succes_ai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/",
-      "publishedDateTime": "2022-05-12T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-new-google-glasses-could-let-you-speak-any-language-thanks-to-real-time-ai-translation.md",
-      "title": "New Google glasses could let you speak any language thanks to real-time AI translation",
-      "excerpt": "Google CEO Sundar Pichai this week teased the prototype of a new pair of smart glasses - they use augmented reality to provide live translations of any language as you hear it being spoken",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266",
-      "originalUrl": "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.dailystar.co.uk/incoming/article26945548.ece/ALTERNATES/s615/0_2022-05-12-15.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp",
-      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp",
-      "publishedDateTime": "2022-05-12T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Star",
-        "domain": "dailystar.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-biotech-ceo-were-only-growing-stronger-with-ai-robotics.md",
-      "title": "Biotech CEO: We're Only Growing Stronger With AI, Robotics",
-      "excerpt": "We're dependent on data, we're dependent on better artificial intelligence that enables us to use models ... Again, we use AI, we use robotics, we use data science, and we use it all at the edge of where the technology is today as a way to enable our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/",
-      "originalUrl": "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/679121/robotics-lab.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

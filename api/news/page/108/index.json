@@ -2,6 +2,324 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2022-02-11-new-algorithm-bill-could-force-facebook-to-change-how-the-news-feed-works.md",
+      "title": "New algorithm bill could force Facebook to change how the news feed works",
+      "excerpt": "Photo by Leigh Vogel for The Verge A new bipartisan bill, introduced on Wednesday, could ... testimony from Facebook whistleblower Frances Haugen in 2020, members of both parties have started working together to find ways to regulate algorithms that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/new-algorithm-bill-could-force-facebook-to-change-how-the-news-feed-works/ar-AATHH8i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/sNodlR-Z5KIzTklQkFw80EiLyQE=/0x302:2040x1370/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23194488/lvogel_220119_4968_0010.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T09:35:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
+        "domain": "theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million.md",
+      "title": "Billion dollar fintech Liquidity Group uses AI to fund another fintech with $30 million",
+      "excerpt": "“Our AI platform allows us to move at light speed – going from ... and we look forward to supporting other great fintech companies in the future.” “Liquidity’s capital infusion will fuel our continued rapid growth,” said ThinkMarkets CEO ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/",
+      "originalUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/02/fintech-liquidity-fund-with-AI.png",
+          "width": 700,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/amp/",
+      "publishedDateTime": "2022-02-10T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-7-aai-airports-chosen-for-voice-of-customer-recognition-2021.md",
+      "title": "7 AAI airports chosen for Voice of Customer recognition 2021",
+      "excerpt": "The Ministry of Civil Aviation (MoCA) on Thursday said seven airports that participated in the ACI-ASQ survey in 2021 have been chosen for ‘Voice of Customer Recognition’ under Airports Council International (ACI) World’s Voice of the Customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701",
+      "originalUrl": "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-89485701,imgsize-100,width-1280,height-720,resizemode-75/89485701.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp",
+      "publishedDateTime": "2022-02-10T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-spinny-acquires-ai-powered-car-connectivity-startup-scouto.md",
+      "title": "Spinny acquires AI-powered car connectivity startup Scouto",
+      "excerpt": "Mumbai: Used car retailing platform Spinny has acquired AI-powered connected car startup Scouto for an undisclosed sum. Scouto has built an end-to-end connected car technology suite that provides detailed intelligence on a car's health and performance and ...",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89484921.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89484921.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-40956,msid-89485264/spinny.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms",
+      "publishedDateTime": "2022-02-10T07:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-micropsi-raises-34m-to-retrain-industrial-robots-using-human-demonstrations.md",
+      "title": "Micropsi raises $34M to retrain industrial robots using human demonstrations",
+      "excerpt": "“We and everybody around us — that’s us, who provide the AI, but also the makers of robots ... “Most customers will start with a single system and then add more as they validate its ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
+      "originalUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1316352689-e1635532855453.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
+      "publishedDateTime": "2022-02-10T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify.md",
+      "title": "On AI Ethics: Wendy Foster, Director Of Engineering And Data Science At Shopify",
+      "excerpt": "Your academic background spans both the humanities and technical disciplines; how does that inform your perspective as an executive and thought leader on AI ethics? Foster: I actually think about this a lot, unpacking it to see what I can mine for my teams ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62042ef5da6fdebdbc4354fc/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/amp/",
+      "publishedDateTime": "2022-02-10T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-who-its-time-to-eliminate-ageism-in-artificial-intelligence.md",
+      "title": "WHO: It’s Time to Eliminate Ageism in Artificial Intelligence",
+      "excerpt": "February 10, 2022 - As caregivers examine how artificial intelligence (AI) can improve healthcare for ... The risks associated with AI-driven healthcare revolve mainly around ageism, which is discrimination based on one’s age that can affect how useful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.who.int/publications/i/item/9789240040793",
+      "originalUrl": "https://healthitanalytics.com/news/who-its-time-to-eliminate-ageism-in-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.who.int/images/default-source/campaigns/global-campaign-to-combat-ageism/ageism-in-ai---cover.tmb-1200v.jpg?sfvrsn=8925a8df_1",
+          "width": 1200,
+          "height": 1697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-fewer-autonomous-vehicle-companies-in-california-drive-millions-more-miles-in-testing.md",
       "title": "Fewer autonomous vehicle companies in California drive millions more miles in testing",
       "excerpt": "Fewer companies tested autonomous vehicles ... reported period, test vehicles with human safety drivers behind the wheel traveled about 4,091,500 million miles on California’s public roads ...",
@@ -822,325 +1140,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-ibm-flash-storage-line-gets-ransomware-protection.md",
-      "title": "IBM flash storage line gets ransomware protection",
-      "excerpt": "In keeping with its vendor-neutral strategy, IBM designed Cyber Vault to be used with any storage that works with by its Spectrum Virtualize software. It enables rapid deployment of block storage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/cloud/learn/block-storage",
-      "originalUrl": "https://siliconangle.com/2022/02/08/ibm-flash-storage-line-gets-ransomware-protection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1.cms.s81c.com/sites/default/files/styles/ibm_cloud_wide_background/public/2019-12-12/003_1.jpg?itok=75eiZEG1",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-all-symbols-in-tensorflow-datasets.md",
-      "title": "All symbols in TensorFlow Datasets",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es",
-      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=es",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-kids-dont-try-this-at-home-robot-destroys-mankind.md",
-      "title": "Kids! Don’t Try This At Home! Robot Destroys Mankind",
-      "excerpt": "Keep in mind, I’m interpreting their comments as saying (essentially): “Soon machines will think and then they will out-think us and be impossible to control.” It is easy to imagine ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/06/01/kids-dont-try-this-at-home-robot-destroys-mankind/",
-      "originalUrl": "https://hackaday.com/2016/06/01/kids-dont-try-this-at-home-robot-destroys-mankind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/06/robots.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-making-collaborative-robots-user-friendly.md",
-      "title": "Making Collaborative Robots User Friendly",
-      "excerpt": "Collaborative robots are designed to work closely with human co-workers. They can do the mind-numbing repetitive tasks or do tasks like grinding and welding that are dangerous for humans. They can also be used to lift heavy objects. Yet the safety of these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/making-collaborative-robots-user-friendly",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/making-collaborative-robots-user-friendly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Universal%20Robots.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-microsoft-has-plans-to-make-autonomous-cars-intelligent.md",
-      "title": "Microsoft Has Plans to Make Autonomous Cars Intelligent",
-      "excerpt": "as well as the Microsoft Cognitive Services API. Seven talked about how Microsoft's Cognitive Services API already includes an Emotion API capable of understanding the emotions of someone's face, including anger, contempt, disgust, fear, happiness ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/microsoft-has-plans-make-autonomous-cars-intelligent",
-      "originalUrl": "https://www.designnews.com/microsoft-has-plans-make-autonomous-cars-intelligent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Microsoft_connected-car-image.png",
-          "width": 1188,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-idme-to-end-facial-recognition-requirement-for-government-agencies.md",
-      "title": "ID.me to end facial recognition requirement for government agencies",
-      "excerpt": "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/7431644449552/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IDme-to-end-facial-recognition-requirement-for-government-agencies.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
-      "publishedDateTime": "2022-02-09T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-sony-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust.md",
-      "title": "Sony trains AI to leave world’s best Gran Turismo drivers in the dust",
-      "excerpt": "an artificial intelligence program has delivered another humiliation, leaving the world’s best video game racing drivers in the dust. Researchers at Sony trained an AI called GT Sophy to play ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/feb/09/sony-playstation-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust",
-      "originalUrl": "https://www.theguardian.com/technology/2022/feb/09/sony-playstation-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3033fb179fb48b9042b5388377f0c20fd1f031fc/108_0_1616_970/master/1616.jpg?width=620&quality=85&auto=format&fit=max&s=70631904ece175ccc23d7ce5f4b032ef",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/feb/09/sony-playstation-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/sony-playstation-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust",
-      "publishedDateTime": "2022-02-09T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

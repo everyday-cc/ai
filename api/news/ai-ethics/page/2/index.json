@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-18-sas-data-ethics-head-named-to-national-ai-advisory-committee.md",
+      "title": "SAS data ethics head named to National AI Advisory Committee",
+      "excerpt": "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg",
+          "width": 320,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars.md",
       "title": "AI Ethics And The Acclaimed AI Uncanny Valley, Which Also Rattles AI-Based Self-Driving Cars",
       "excerpt": "AI ethics has a love-hate relationship with the famous or infamous uncanny valley, which can be particularly explored via the advent of AI-based self-driving cars.",
@@ -1375,58 +1427,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-banks-using-ai-are-ripe-for-russian-sabotage-report.md",
-      "title": "Banks Using AI Are Ripe for Russian Sabotage: Report",
-      "excerpt": "Experts worry machine learning's reliance on large data sets to train make them particularly vulnerable to data manipulation attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118",
-      "originalUrl": "https://gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5d71f36ce0903f5bf93ce3b439ef76fe.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118/amp",
-      "publishedDateTime": "2022-03-22T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

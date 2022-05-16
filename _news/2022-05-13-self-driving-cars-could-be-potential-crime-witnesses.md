@@ -55,15 +55,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
-    excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
-    publishedDateTime: 2022-05-12T17:53:00Z
-    webUrl: "https://www.ktvb.com/article/news/local/drivers-choose-safety-improvements-over-self-driving-cars-according-to-aaa-idaho/277-97815cbe-50c1-4404-8b1a-4e7a389c0a0d"
-    type: article
-    provider:
-      name: KTVB
-      domain: ktvb.com
-    quality: 2
 
 secured: "jODH027Cqc8LBN0hknCMZPg5CmuRsxUgyO54UxPsPa2SGgK9yhH+Twbr2gJ5VSIpVsjZWjnMOP4DxkaGVuGmpIbGLJ8uK6MOzxFFjSpbvhZsc1rwSvvqbYOJi6Ju9YfO1i3eUMUrdQhBgaOmZ+KscvCV82uuG8FcLsONUHJcCUhZrB/Aeb+o9zfyAm+Aw30L7sLQy0xtPVvM+Aa0XP4NW6HllVkcnEx+0YmpM3qWC3P1T96CrXniyqviF6jIIXcoMgjFhFpTQTiWUU8RoerseBXhDbngQZb2IK8iG3gnHEmOGcvuK04YwnCmoMRBw3feZBHZarQaZF58ePazy9wJKtePOnXphkSetiEUzGhtuWLW8xX70ELLPUf4JrnMmgVUAvP7WXpMbGTgYHJAQtYpYo0htNwVXtvF/9HboAOLEv1SX9dm1QL9xDDheIKEIIOL1gDsSralzaJmPppAyjuC4+4ZEuFVUNLXHFUwUMvBQrTwx+kbeGrQiIukT2xvqJEEk5klVi9f8+Hoif5bKMFKIg==;VAkUPhqNBpBF6OewQxRDwA=="
 ---

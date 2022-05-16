@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T12:43:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-biometrics-2d73e50808434105a3414c36c87713b0"
 webUrl: "https://apnews.com/press-release/business-wire/technology-biometrics-2d73e50808434105a3414c36c87713b0"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Associated Press

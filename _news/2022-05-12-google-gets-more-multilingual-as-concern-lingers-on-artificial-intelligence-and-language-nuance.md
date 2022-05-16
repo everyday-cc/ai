@@ -25,19 +25,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Google gets more multilingual, but will it get the nuance?"
-    excerpt: "About 10 million people speak Quechua, but trying to automatically translate emails and text messages into the most widely spoken Indigenous language family in the Americas was long all but ..."
-    publishedDateTime: 2022-05-11T19:47:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article261350052.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article261350052.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article261350052.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 24
-
 secured: "TUSbMGLg1zhKBnAm3yQUoY8nrkI5itZ+VW3RLI07aqB3ryIWNqbXMQmA2ykP7E2F6oRNxURPdypZhaRpgsDkZWnDeFhBYoQKskqRSHe3NNMFQx44giLunl4lRHY5+7/aDWdxW/NJscSGb38Uw7SwPbjBfqlljvxlOI4dHE6yvFabVhTtH23tQgVMOcJnFJkJYJwL4rGKWASV3eIGvGU/BMJv9S4JU4wwNYmKYd1yEHNMY0TzczSKjFxwrQWY8tpb8IOlwrprxKUZ/+/uFjGJPEDjI1iuJR+GeLN6lNJ55b5y3gbXHziFAvurFIuFWY3LKvG9TJixk22V1sb6NMJmiIqDlIfPJrYTj+nB1fSH3cifZHbL8QEZq6phuA5GMKHcWOz0LorzpfndEu8UrQknu48+i6WOD5l/f4gL/3y2z4Z0v7ChK7I1MgxHTV1W5wOsx1Y/7Tz6shLmGsB7HoB8JHikoPkKjHoJdIPo/NMZp9n4r2g5jLm1MGnqPrzmI9VkzVvKCbxrt31+ynkB8xl+Bw==;CI1IQOCY5wIu32jD8XGEog=="
 ---
 

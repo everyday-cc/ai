@@ -32,54 +32,95 @@ images:
     isCached: true
 
 related:
-  - title: "Racing tiny cars using only Artificial Intelligence and Machine Learning"
-    excerpt: "It's called the Amazon Web Services DeepRacer League, where small 1/18th scale cars are being trained to complete a racetrack as fast as possible, by themselves. “It has major components in ..."
-    publishedDateTime: 2022-05-11T21:31:00Z
-    webUrl: "https://ottawa.ctvnews.ca/racing-tiny-cars-using-only-artificial-intelligence-and-machine-learning-1.5898864"
-    ampWebUrl: "https://beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html"
+  - title: "AI Ethics Tempted But Hesitant To Use AI Adversarial Attacks Against The Evils Of Machine Learning, Including For Self-Driving Cars"
+    excerpt: "The net result would seem to be an outcome of good. Not everyone agrees with that sentiment. From an AI Ethics perspective, there is a lot of handwringing going on about this meaty topic. Some would argue that by leveraging adversarial attacks, even when ..."
+    publishedDateTime: 2022-05-16T15:31:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 75
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62814aa647441d8a952568f8/0x0.jpg?format=jpg&crop=2715,1528,x279,y50,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Building AI for healthcare made easier with programming tools"
-    excerpt: "Chronic disease prediction and management is one of five projects under Singapore’s national AI strategy launched in 2019. . Read more at straitstimes.com."
-    publishedDateTime: 2022-05-16T04:00:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/building-ai-for-healthcare-made-easier-with-programming-tools"
+  - title: "It will soon be easy for self-driving cars to hide in plain sight. We shouldn’t let them."
+    excerpt: "It will soon become easy for self-driving cars to hide in plain sight. The rooftop lidar sensors that currently mark many of them out are likely to become smaller. Mercedes vehicles with the new, partially automated Drive Pilot system,"
+    publishedDateTime: 2022-05-14T09:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 50
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/05/16/ac_profOng_160522.jpg?VersionId=fwE7bWPg9d3hX43zFvxORfd_zS3OejWb"
-        width: 860
-        height: 573
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/AP_20342772404491.jpeg?w=3000"
+        width: 3000
+        height: 1687
         isCached: true
-  - title: "AI vs. AI: Forecasting the Ethical Dilemma Circling Law, Business and Technology"
-    excerpt: "This article provides a discussion of the legal and ethical questions involved when private companies defend themselves and then retaliate as a result of a cyberattack—a so-called counterpunch known as the “hack-back."
-    publishedDateTime: 2022-05-13T14:00:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2022/05/13/ai-vs-ai-forecasting-the-ethical-dilemma-circling-law-business-and-technology/"
+  - title: "Why Is Solving For Trust In AI So Challenging?"
+    excerpt: "we are called to consider AI through the lenses of effective governance, ethics and trust. Like any technology, enterprises should be able to trust that the AI tools they use deliver the outcomes they expect. While there is no silver bullet, there are ..."
+    publishedDateTime: 2022-05-16T12:48:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/16/why-is-solving-for-trust-in-ai-so-challenging/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 29
-  - title: "How AI is used in filmmaking"
-    excerpt: "However, compared to today’s sophisticated tech, Lucas’ AI system was pretty basic. Marvel villain Thanos’ origin story is a good case in point. The tech team put tracking dots on Josh Brolin’s face to capture his expressions."
-    publishedDateTime: 2022-05-12T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-is-used-in-filmmaking/"
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Self-Driving Car Crashes Into Dummy Cyclist During AAA Testing"
+    excerpt: "Tesla and other car makers are aggressively rooting for self-driving vehicles. A recent research by AAA sheds light on the safety concerns."
+    publishedDateTime: 2022-05-13T10:24:00Z
+    webUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/"
+    ampWebUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 44
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2022/05/AAA-tests.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Intel Leverages Habana’s AI Chips to Train Self-Driving Cars"
+    excerpt: "... 8,000 Gaudi2 server chips in its data centers to inform of further advances of the upcoming Gaudi3 chip. Intel rolled out a new generation of AI server chips that offer a massive jump in computing, memory, and networking capabilities, setting it ..."
+    publishedDateTime: 2022-05-12T18:30:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21241539/electronic-design-intel-leverages-habanas-ai-chips-to-train-selfdriving-cars"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 36
+  - title: "What happens when things don't go according to plan for a self-driving truck"
+    excerpt: "Kodiak Robotics showcased its self-driving trucks' ability to pull over on the shoulder when something goes wrong, a critical milestone on the path toward commercial deployment."
+    publishedDateTime: 2022-05-16T08:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/kodiak-sees-milestone-self-driving-trucks-achieving-fail-safe-act"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/KODIAKNEW-MAIN_i.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
+    excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
+    publishedDateTime: 2022-05-12T17:53:00Z
+    webUrl: "https://www.ktvb.com/article/news/local/drivers-choose-safety-improvements-over-self-driving-cars-according-to-aaa-idaho/277-97815cbe-50c1-4404-8b1a-4e7a389c0a0d"
+    type: article
+    provider:
+      name: KTVB
+      domain: ktvb.com
+    quality: 2
 
 secured: "fu2mww+QwGwG/ac4L5uzqWhKcVIebslZ88BwGKEnn8ReP1OKM5howpoCNGSFhp9DwYVeYmJJ3xogQR/wnjk2hitrx/hJE7h0k+7Dd4lHr9zYTikY6+3k/5nC+97CW5VcKXIXp2LVIOpH4+Xg2hCM3RFaTDqWFR4/Az3Wuawkg2j0Hwhaqpqn+ifwkxmTgdCFR4of0YtiuOov/9l+PHYseHva2FkB6Uv4KQLWrCfUO8gZ4y3JpVgicZwWYqV6bzPhSxay+L1LmksyOs6is1CyLFt+SdjOZEVRKW6k4FSrRJeolkhRzQ0u8jS6SDyazzzaEifVTvdBN/tIJwnF1h3EfOR2ZDjM8amMatdAg1N90mvrH3C0BbU7CPe4srzWw2DneJWZfNiQp1ubfMfHAE6MNOBEeAIvxmwEfboy+MRcV6n7cEgfKqmQkcgoTzyUaKGRDaLK/oRLrCyxgcIHphCzsebGjzmDAASKoyb8eOmHp4bZlPVx5XyDZPDXGICuN3g1J27laYfFvleq5LCIAvyCSQ==;59dg+kxn4IJ6f3KuRKJdAA=="
 ---

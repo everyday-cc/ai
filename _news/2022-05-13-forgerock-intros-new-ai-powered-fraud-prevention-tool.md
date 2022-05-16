@@ -24,20 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "ForgeRock shares down on weak guidance, launches AI anti-fraud solution"
-    excerpt: "Shares in ForgeRock Inc. dropped in late trading after the digital identity management company predicted a lower-than-expected earnings outlook. The company also announced a new artificial intelligence-driven anti-fraud solution."
-    publishedDateTime: 2022-05-12T00:17:00Z
-    webUrl: "https://siliconangle.com/2022/05/11/forgerock-shares-weak-guidance-launches-new-ai-anti-fraud-solution/"
+  - title: "Inscribes battles fraud with AI-powered detection and automation tools"
+    excerpt: "Today every $1 in fraud loss costs U.S. financial services firms $4, according to LexisNexis Risk Solutions. Synthetic identity fraud, when fraudsters create identities not associated with real people,"
+    publishedDateTime: 2022-05-16T15:30:00Z
+    webUrl: "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/"
+    ampWebUrl: "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/forgerock1.png"
-        width: 850
-        height: 480
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/fraud-detection.jpg?fit=600%2C600&strip=all"
+        width: 600
+        height: 600
         isCached: true
+  - title: "Startup BalkanID launches AI-powered Identity Governance and Administration solution"
+    excerpt: "BalkanID will start out focused on the mid-market but plans to expand that, as they further develop their solution from automated IGA to fully automated telemetry."
+    publishedDateTime: 2022-05-12T12:00:00Z
+    webUrl: "https://channelbuzz.ca/2022/05/startup-balkanid-launches-ai-powered-identity-governance-and-administration-solution-39089/"
+    type: article
+    provider:
+      name: Channel Buzz
+      domain: channelbuzz.ca
+    quality: 10
 
 secured: "dRki/ymkZT+63mKnODerqVX0xha9R7alsYef5zou5JMueE2bJLQ292mZnfVXj6cE9r1XVGvpaby/4dIu+tKnpjt5PmDyOMoJazIDz2WrK0+AcgZFBQ7s3E4615SqrhED2i06BDJf028SPT7OdxbTOPa3oUeVXZ9NmqXFslgFrz/SpabuaOoKnM5qP7MIN3wSYK0ay3jPUzMAa/zNz4RLz3uHKF0s3/pQng+qLWQFAnw8d4nO+S91SDvRP5/HHcQxtZieNBgIrMfuXp6EgHAayOiuUjebEOY9Yl1d0XzJ29f1YSfqzmEU47+3/YxEFDz1fFjSPq81LObB6ZexTKVyq0wsWxCSDCOpSER0PLLztvM=;BriznkcBGEfqXfTpAQwhQA=="
 ---

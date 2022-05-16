@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-14-six-nines-announces-support-for-aws-for-games.md",
+      "title": "Six Nines Announces Support for AWS for Games",
+      "excerpt": "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220413sf22045/six-nines-announces-support-for-aws-for-games",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220413sf22045/six-nines-announces-support-for-aws-for-games",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-unionai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration.md",
       "title": "Union.ai raises $10M to simplify AI and ML workflow orchestration",
       "excerpt": "Union.ai, a startup emerging from stealth with a commercial version of the open source AI orchestration platform Flyte, today announced that it raised $10 million in a round contributed by NEA and ...",
@@ -1324,49 +1358,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-snowflake-or-is-there-a-better-way-to-play-the-data-cloud.md",
-      "title": "Snowflake, Or Is There A Better Way To Play The Data Cloud?",
-      "excerpt": "Combined they are stronger than the sum of their parts. In fact, Snowflake was the only partner of AWS at the launch of SageMaker Canvas (a visual, no-code, machine learning tool that allows ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4498744-snowflake-better-way-play-data-cloud",
-      "originalUrl": "https://seekingalpha.com/article/4498744-snowflake-better-way-play-data-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1273823720/image_1273823720.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4498744-snowflake-better-way-play-data-cloud",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4498744-snowflake-better-way-play-data-cloud",
-      "publishedDateTime": "2022-03-30T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

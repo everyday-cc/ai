@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T13:00:00Z
 originalUrl: "https://www.nytimes.com/2022/05/16/NYT-Presents/elon-musk-tesla-autopilot.html"
 webUrl: "https://www.nytimes.com/2022/05/16/NYT-Presents/elon-musk-tesla-autopilot.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: New York Times

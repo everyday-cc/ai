@@ -70,6 +70,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence (Ai) In Pharmaceutical Market Research on Demand and Production, Top Players with Trends and Forecast till 2030"
+    excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Pharmaceutical Market Size Is Expected To Reach USD 7,147.2 Million By 2029., at a CAGR of 31.2% during the forecast period.” The ..."
+    publishedDateTime: 2022-05-16T13:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-pharmaceutical-market-research-on-demand-and-production-top-players-with-trends-and-forecast-till-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Intelligent Speech and Voice Recognition Market Size Is Expected To Grow At A CAGR Of 23.8% During Assessment Period 2022-2028 | 111 Report Pages"
     excerpt: "Intelligent Speech and Voice Recognition Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in ..."
     publishedDateTime: 2022-05-12T10:51:00Z
@@ -81,6 +95,20 @@ related:
     quality: 0
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Self-driving Car Market [RESEARCH STUDY] 2022 : Research Report With COVID 19 Update Key Players Analysis, Growth Factors and Forecast to 2030"
+    excerpt: "Quadintel published a new report on the Self-driving Car Market. The research report consists of thorough information about demand, growth, opportunities,"
+    publishedDateTime: 2022-05-16T14:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-research-study-2022-research-report-with-covid-19-update-key-players-analysis-growth-factors-and-forecast-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
         width: 600
         height: 337
         isCached: true

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T13:43:00Z
 originalUrl: "https://eandt.theiet.org/content/articles/2022/05/the-ai-pilot-can-we-remove-maverick-from-his-cockpit/"
 webUrl: "https://eandt.theiet.org/content/articles/2022/05/the-ai-pilot-can-we-remove-maverick-from-his-cockpit/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: IET

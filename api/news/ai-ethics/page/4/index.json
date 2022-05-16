@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-01-ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars.md",
+      "title": "AI Deciding How To Distribute Harm Breeds Dicey AI Ethics Dilemma, Markedly So For Nascent AI-Based Self-Driving Cars",
+      "excerpt": "AI systems are having to ascertain how to distribute harm, a decidedly Ethical AI issue, including for the case of AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62184c65dbd6bd0c97949c9c/0x0.jpg?format=jpg&crop=5676,3194,x0,y188,safe&fit=crop",
+          "width": 5676,
+          "height": 3194,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/amp/",
+      "publishedDateTime": "2022-03-01T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-ai-and-the-non-technical-humans.md",
       "title": "AI and the Non-Technical Humans",
       "excerpt": "Since Alan Touring offered up the idea of machines that might think like humans, artificial intelligence (AI) has fascinated many and frightened more than a few. AI is a specter that could ruin the human race.",
@@ -1350,49 +1403,6 @@
         "AI",
         "AI Ethics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-salesforce-empowered-an-ai-ethics-team-to-keep-it-honest-dealing-with-third-party-apps-is-trickier.md",
-      "title": "Salesforce empowered an AI ethics team to keep it honest. Dealing with third-party apps is trickier.",
-      "excerpt": "Some ethics roles sit inside a legal compliance team or are relegated to a monthly governance or privacy check-in. However, Baxter’s team has a surprising amount of day-to-day interaction and input into decisions made throughout the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/salesforce-ethics-team-lacks-control",
-      "originalUrl": "https://www.protocol.com/enterprise/salesforce-ethics-team-lacks-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/kathy-baxter.png?id=29248254&width=1500&coordinates=360%2C0%2C320%2C0&height=2000",
-          "width": 1500,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/salesforce-ethics-team-lacks-control-2656561932",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/salesforce-ethics-team-lacks-control-2656561932",
-      "publishedDateTime": "2022-02-09T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -101,6 +101,15 @@ related:
         width: 1600
         height: 939
         isCached: true
+  - title: "Microsoft launches Open Data for Society"
+    excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
+    publishedDateTime: 2022-05-16T12:42:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-launches-open-data-for-society/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "xK9bOPwyLB9SOAV3fSGyj58ZBRlmh45NrtNU8gNjRvdrolQG7szNTanDdrvgYvC1oK4c4OglScD1Y52CiNAbARP2CzCQ+WUqUA64/ZPHTcqPqwtuPYHTIS9ULCGHnDRYgrJ5yf+toYjWVLp0/ffFueAkaEryZ2pNF06/WIdVxQ2szp7AiOkJda4SMV74HkjTl69XyWfhGvtmb2CIZfymVQTvLfwGKQ8W/AYL/R1vHH+9QzY7pYJWKy1msBW4/tPxQZqaYVvQt+aAf2G+pPaKFETgBQ7xC9va+I66XlVhXT0ef4gc6I/SKXMiSQ4+AykQvPfBIcjfnplp1SkFnLRWXySgT5hM+HlnCTYeUmmbPnAHT8Otzt3XRjMoxKqdlOeFABAQu76PRtKZ4/x8IU4MT74jYF6KNEWokCcigDNy/YK4CcL6hgCREAMsiVI3bQ8vK/eB3qWz9EKz3ACQ1x7r4JriKffbBip5xij7DbUfBhFTzsZrq5vfg+VMfAtF5dL5pv7DDmcznVYogfP4RvKp0g==;I7Q76w5C0qxrCPlAf17f/A=="
 ---

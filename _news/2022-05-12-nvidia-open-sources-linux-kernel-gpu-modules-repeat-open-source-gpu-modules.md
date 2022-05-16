@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/12/nvidia_gpu_kernel/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/12/nvidia_gpu_kernel/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 2000
     height: 1700
     isCached: true
-
-related:
-  - title: "Meta ‘Open-Sources’ Its Latest Large Language Model"
-    excerpt: "The Meta AI research team has announced that it would make ... Slator is the leading source of news and research for the global translation, localization, and language technology industry. Our Advisory practice is a trusted partner to clients looking ..."
-    publishedDateTime: 2022-05-12T09:45:00Z
-    webUrl: "https://slator.com/meta-open-sources-its-latest-large-language-model/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
-    images:
-      - url: "https://slator.com/assets/ninja-forms/85/META-AI-Language-Model-2022.png"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "4dNa+jCqYE+kps4P9rPi3lrQypbmHlTWwKze811Sh3XwUPMTsyc1FvsBrp+plnzoV+G54bt/PFJ5yoyGtv7UtSwRDOAdYKGVmGyzG4gbZiJLExvukA0SonPMYJ5MEw7VwQMKZVRNgh4CvNmdwXtRvudoY6u467lG91RcRCH4G/inOgdRMt95O//5ofPGnvXLwyhmPrUqnaPeG4M/HQJsKmwqHUDPJoo+oKXUpK+3Nvngfs4aS+sdxdMUsQvRvc8YN/wr3FUmGDvQU+9rmrTvyGyN4uADRdLtsD7ZXVMMOeWY8Ujxwsw3hm7Ox9XNgN+CMDweXyYQHaZ+FXH8i0EmmoVOQuMlz4fSfpzjUMYRZN1aoo9+Q3jPy2RdEm0aDUsQo4t6OeabONopmWTOqNILzPH1+s/gLqP9F0NNnCRPQqVhn5V6u3GCH0zwWtL44XWg3Y2+QS8ioOwYJkwzkHL309/Nf1s/oOznvnReA1eoB2ffkpP6G9YGScLbMH2aN99XqLiUzhoz90v6HfhNPBOQ6w==;jxWTLhhx0vnwYo0dLtSwHA=="
 ---

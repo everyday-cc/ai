@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T13:08:00Z
 originalUrl: "https://www.axios.com/pro/health-tech-deals/2022/05/16/investors-pull-back-on-artificial-intelligence"
 webUrl: "https://www.axios.com/pro/health-tech-deals/2022/05/16/investors-pull-back-on-artificial-intelligence"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Axios

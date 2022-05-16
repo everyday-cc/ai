@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T12:37:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2022/05/16/livevox-study-reveals-contact-centers-have-increased-adoption-of-ai-but-struggle"
 webUrl: "https://stockhouse.com/news/press-releases/2022/05/16/livevox-study-reveals-contact-centers-have-increased-adoption-of-ai-but-struggle"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Stockhouse

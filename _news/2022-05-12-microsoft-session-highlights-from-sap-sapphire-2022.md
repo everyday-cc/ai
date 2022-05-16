@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from
 webUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
         width: 1600
         height: 939
         isCached: true
+  - title: "Microsoft launches Open Data for Society"
+    excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
+    publishedDateTime: 2022-05-16T12:42:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-launches-open-data-for-society/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "wCKtT8L2rXl7cu5az6cRCb1YS+FaDoSONfKnwC1tvgDpbplh3BfTBwRhdymkKbIP2AlcLm/5tX8QfQd0n2ltIuQloiG9I29Hwoati4G+sf8IU+ATjsBlS0hjTtK/QPHdBGFnKVulObTsomeRvVwwQNm8j3F4/hqEkJnNH2O6KkUEJ0s+F+ZT+ZklfsK9rKecApw1fQunSiTBbXee2hduseB3czn8q+K7RHUW/Nz5DOzrnsQJWNuGbFdYcRGhsckSS36KKZYWJ8VEINqLyY7giwJzqbf9IYBx2Oyv80vIaHSc4kl9tTO6+tNkJrGWl94GndYDfL21MpU5IlbdBTewW4iD7bCptrLcU/koJcqpZc4=;2m5YQjMB6saSCe952LCnIw=="
 ---

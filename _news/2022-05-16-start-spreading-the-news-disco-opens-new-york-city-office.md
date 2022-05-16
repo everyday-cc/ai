@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T12:02:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/start-spreading-the-news-disco-opens-new-york-city-office/article_48d26a20-4812-5c60-ab59-725ece409949.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/start-spreading-the-news-disco-opens-new-york-city-office/article_48d26a20-4812-5c60-ab59-725ece409949.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Joplin Globe

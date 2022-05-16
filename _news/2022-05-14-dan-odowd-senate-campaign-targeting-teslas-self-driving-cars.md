@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/dan-odowd-senate-campa
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/dan-odowd-senate-campaign-targeting-teslas-self-driving-cars/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Self-Driving Car Crashes Into Dummy Cyclist During AAA Testing"
-    excerpt: "Tesla and other car makers are aggressively rooting for self-driving vehicles. A recent research by AAA sheds light on the safety concerns."
-    publishedDateTime: 2022-05-13T10:24:00Z
-    webUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/"
-    ampWebUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 44
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/05/AAA-tests.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "7ZN5OY9jIvGzZngL/KKMH0pDqBH8dxwl8nY6SfUEP/eHl2x2tBjbstBRH4yrs3WU/Kcv08XEsBheyOdkkN6p3u1naTjei2VCViGIgtVtMb79XJjduWJ1MJD697OOmqLIgL56g3qbsRTt80qnbItFQIc+OaAbHjtld9WguWASRPyHtPRREFq6R82a51R+UH8bQ5MyQ6H19c3dSRXgCBP0EcdOZVX7P6dgpLPEielU7f3QEfbLVKgM333I4lvR0oZZgmJxYzOk+KpPlo44Z+tXqhjEzH492skkyEnQXH4/zC2P/uCDjkNjKO04V4iKfSYhFcRbJakNEuDg/pQsbNqwdlZS/jkziTtwNpjz0N3l3Zlg00gqM+tTpfWk0Be1qmSi+eTsnnEVDAPtWN6xvgcT5wUmOhFW5F9eBNI5OkXqMvCsVMmxgpGLrgPiskZO2cBF7MYLRLo3zJQWupM+6g/UWzvnH/Gs9G5LkpkxqvFbWtvYdWrEQTBBOG4xGVxXXe7+QBL8PYyfjEfkqHyO+xR43w==;gOYIp3eIPnvOGwC4oNN8yw=="
 ---

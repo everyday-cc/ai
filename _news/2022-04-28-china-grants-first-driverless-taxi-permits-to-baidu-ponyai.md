@@ -5,6 +5,8 @@ excerpt: "China Grants First Driverless Taxi Permits to Baidu ... has in recent 
 publishedDateTime: 2022-04-28T07:05:00Z
 originalUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
 webUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+ampWebUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
 type: article
 
 provider:
@@ -19,6 +21,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "CjhaVO058SdaYc+xmdRwbZxh0NvuzhIy7qIhmYSNik5088ftE1VMDxjUhcZUiRjW+YbsjNzTv+dHM7GLPeSHvUOPfocNCpe143l0XAsFJj3WPRlQ/oHlaBYOJ12Mxl5fEwZhi3LHrnheUNvSaJ+3XqxFm4hQrbSkI8JWeHNrecJvF0JSvNVCOUngHzac/6L3W89gU4by7TF7yyyHG4FVRRQMyFGzNUjSjnrA5IRnS0WXQe8Tx8mdGkZuUGGJQ+PFIA4EjPiwfARSPdWbuv7Nl1bkE8flLJ58SVCeyUkukwbpHRH4y8BkmlMRl8dxhElzMQWPD4/Y3tUWyGcdE1Gfv8dVIdbclDmbRJAI2f+wCuA=;NDY67kxSg5pZmxHqSjsT/Q=="
+secured: "1kNYqRobYaMNfTopWNfzH0xw1LfwY+u5RGpM3VeDR6l3GOS6IyluUHNWHceTFRWhjRSvnASuvAGAAEqh3JDFinlnDK8vEN4UxQigXZ1ZeZI9+J4zmeN5KajDcYbDyznbUjeqXdCAyfNooRUlRgglK0GubywQJvZAT1/eQoHwD2cYv4+pQZarDRAv0IbThAMEBNjNVBaZvL2LbbYTZQq6LI9cozPdi16Uj48rKl6xvE6yR4OW/kplxfi/mDlSEJ2LgbrJbuEETyEgUQQQgC9rYCWU4OFyQ1jYBIb1///QzBSealrz28l6DRixv+J5nB5Rlfep+yJxbtYwHRy2/oUsV16tD/xaa/u25dsid2Ak1Ak=;NPR9Jm/xDrx3feWTEzBc4w=="
 ---
 

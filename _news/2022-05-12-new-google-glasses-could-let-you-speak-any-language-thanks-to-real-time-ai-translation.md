@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-2
 cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: 61
+published: false
 
 provider:
   name: Daily Star
@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google reveals AI tool for real-world searches"
-    excerpt: "Google on Wednesday in the US previewed augmented-reality glasses that display translations of conversations in real-time, and it laid out additional plans to bridge the real world and its digital universe of search,"
-    publishedDateTime: 2022-05-11T21:38:00Z
-    webUrl: "https://www.crn.com.au/news/google-reveals-ai-tool-for-real-world-searches-579890"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/2022-05-11T193107Z_1_LYNXNPEI4A12A_RTROPTP_4_ALPHABET-GOOGLE-DEVELOPERS.JPG"
-        width: 2034
-        height: 1356
-        isCached: true
-  - title: "Translation glasses and watchful AI: Google’s announcements at I/O"
-    excerpt: "Glancing at a smart device so you can talk to it. Putting on glasses so you can understand a foreign language. Pointing your phone at something to see where it came from. These are Google's latest AI innovations,"
-    publishedDateTime: 2022-05-14T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/14/translation-glasses-and-watchful-aigoogles-announcements-at-io"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/13/1584573.jpg"
-        width: 1240
-        height: 827
-        isCached: true
   - title: "Opinion: Language translation apps come of age"
     excerpt: "And then have their responses translated back into English. The advent of AI-driven translation tools is already making some question the need for learning foreign languages, now that digital devices can handle many of our interpretation and translation needs."
     publishedDateTime: 2022-05-12T00:00:00Z

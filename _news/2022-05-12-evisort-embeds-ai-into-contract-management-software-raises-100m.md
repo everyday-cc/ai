@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Evisoft embeds AI into contract management software, raises $100M"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
-    publishedDateTime: 2022-05-11T20:50:00Z
-    webUrl: "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/"
-    ampWebUrl: "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "cTXlQRCy5ntBcF8SBTCGs/9AVUmmagD/X9RmVtXYWvNLxTX5MrMfd0vTl3Dz1KTz9YlzV8zzAIt7Bh1+bE06gIkm2uwMeIYuMnOYfL+hql/xtU+fe2GmxdQMujfyTyW8H9qbLgpi8pKpkC9mvtxVl9terAa5WAs7kM4I8aNYxqIX1yMNhzY9od+b3syGcHcNnqIgCMOycL3jYGOU1kwcTZQ/h8Z/vxLnZOl3Hf6KYg3jCX+MbTFkBzSl40C6nx3ddRb0TsJiTi262XjzFxG+j+ZY6p+6HuqHgaYyHNMlIihGO16LIxxVj4FhZTz7fAT9+HiXI7OjfDnIquDMUgU5SpM5O5GCn9d6YoYIP+z4uTjbQfaHVNF9Vq9OnKqNzedE0xjAekYqu17f1qMRNT4qYnWjGU6Sel10SKRYhACCF7eevCUWnFNgl5MxslySV5h2QFwwMAeuLI9TyrsXPRG7HPUnRna/2mezOmebe863Ol3d3CE0gLI+OAPAoiMcMvByh0awge5aUBcxuqVqOgxh3A==;r/H3i6WIibIesvy2j/WApA=="
 ---

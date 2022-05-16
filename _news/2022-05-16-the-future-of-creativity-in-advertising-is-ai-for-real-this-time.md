@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T11:22:00Z
 originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/05/16/the-future-of-creativity-in-advertising-is-ai-for-real-this-time/"
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/05/16/the-future-of-creativity-in-advertising-is-ai-for-real-this-time/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes
