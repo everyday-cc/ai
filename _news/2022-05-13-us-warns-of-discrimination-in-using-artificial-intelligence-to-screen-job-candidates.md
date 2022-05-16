@@ -26,8 +26,8 @@ images:
 related:
   - title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
     excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
-    publishedDateTime: 2022-05-13T01:18:00Z
-    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
+    publishedDateTime: 2022-05-12T20:18:00Z
+    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
     type: article
@@ -86,7 +86,21 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "AI Hiring Tools Discriminate Against People With Disabilities, Warns US"
+    excerpt: "As employers increasingly use artificial intelligence (AI) tools to hire workers, the Department of Justice and the"
+    publishedDateTime: 2022-05-15T22:50:00Z
+    webUrl: "https://menafn.com/1104214082/AI-Hiring-Tools-Discriminate-Against-People-With-Disabilities-Warns-US"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?204550"
+        width: 400
+        height: 250
+        isCached: true
 
-secured: "FN7+Up8e2PxjhYMva/QLaiFfSGPL/nK/9TANDH5lOAGewI14GWtDOivZrOm0Pp31p1ldvuKeAIjNMCweYWBUofOPFdiI7PBz6vRIvRyDF2c5wFfUbQfA8JINiE0JVzMRn5jPOdPE+Z6sqnhFpvZm/OU/ymWocUFj6Vah8EemrCNhu8sEFeL6xe20C7uUSVCrsQwYTkHfl8zIiaqKx6yqI/H7S95KATc2vUKHi4KtSe7sdAr12NASRNNujw5k8COWVe2W2OVCjCR7v+MGEuJ5Xhz/u6UN71VvFnVLvyl1AcqwBbdkaL0thOwjpuGUHZ/WjZzVctN7kkR9VbvfSdaCCrhvopWb+se1EdA9YpNcT6c=;+VFF2Tzxz6oZ6jnAJPEWrA=="
+secured: "4q5801ZjNu/obe4f9XmyWvTe0dKjOsa0QnXuIw80BBHetIrPhfidOrfzy/rcxcBLSECbURmx+ONx2sqrcejTTnLRdVoNU7GpBgZNoxX8cA40uOUtbyxRAqMrI0BR9xKGx6em64KBQKmEihWvnhqfEQi31YX1CnSeIdl5aCLvfyVdEeH3HJUCFmC87cG0hrNFbaH2gRKMfzXQR86w1sbsgl2NIFb4S/tnBjioVAzkSOc80XwmhCSFRXTsVa89oPdKBinIdgMkZUUj3mpx9ZXUrAQszmCFsd+MMGeN45emW0IOXTzit4YAjT7hEo1YTNQd4kK2sZYPijoOojNsjrzjmW/SljiALOBj2ZGs8hFvkt4o0qsekZaSGfn+MQ9jwGzQt7iVy9EuHzGNdESeoPjRmM3lLwW+RkIR9Ld3YUE4r/Dqi/LlgCiIOp2FIpm+QXyM2wQ+KzfmabesjHjLGKfWIewo+tkwCkOVWgpFceVQtTFNw1TISUqA4eGVX2gGl7fhy6LanVQfbocuroOMlmBq+A==;uBTuaYaKftT1gYDgcIubtw=="
 ---
 

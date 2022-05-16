@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Market New Innovations Trends, Research, Global Share and Growth Factor"
-    excerpt: "Significant advancement in the field of artificial intelligence (AI), surge in cloud disruption ... solutions are expected to drive the growth of the growth of the global neural networks market. On the other hand, lack of skilled professionals hinders ..."
-    publishedDateTime: 2022-05-11T06:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/neural-network-market-new-innovations-trends-research-global-share-and-growth-factor"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/721043d015e7592d3878c959eb0b07c6df1918ee-e1652191764450-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Social Robots Market Research Report 2022 | Trends, Growth, Size, Share and Forecast 2027"
     excerpt: "\"Social Robots Market\"The global social robots market reached a value of US$ 2.6 Billion in 2021. Looking forward, IMARC Group expects the market to reach"
     publishedDateTime: 2022-05-13T00:55:00Z
@@ -78,20 +64,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/1652360552.jpeg"
         width: 1920
         height: 1479
-        isCached: true
-  - title: "3D Machine Vision Market Size, Share, and Growth Analysis Forecast- 2025"
-    excerpt: "Snapshot The 3D machine vision market has been estimated to experience numerous growth avenues in the foreseeable years."
-    publishedDateTime: 2022-05-11T06:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/3d-machine-vision-market-size-share-and-growth-analysis-forecast-2025"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/3d-machine-vision-market.jpg?w=410"
-        width: 410
-        height: 1025
         isCached: true
   - title: "Artificial Intelligence-based Security Market: Current Growth and Tomorrow’s Potentials | Market registering a CAGR of 30.25% by 2025"
     excerpt: "Description New Research Study “”Artificial Intelligence-based Security Market 2022 analysis by Market Trends (Drivers, Constraints,"

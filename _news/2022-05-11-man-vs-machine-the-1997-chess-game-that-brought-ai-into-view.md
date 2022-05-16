@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game
 cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news/amp"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 1997 chess game that thrust AI into the spotlight"
-    excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer. May 11, 1997 was a watershed for ..."
-    publishedDateTime: 2022-05-11T07:46:00Z
-    webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "1997 chess game thrusts AI into spotlight"
     excerpt: "Yann LeCun, head of AI research at Meta/Facebook, told AFP there had been “absolutely incredible progress” in recent years. LeCun, one of the founding fathers of modern AI, lists among the achievements of today’s computers an ability “to translate ..."
     publishedDateTime: 2022-05-11T19:33:00Z

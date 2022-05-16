@@ -1,30 +1,29 @@
 ---
 category: news
 title: "BrainChip and Edge Impulse Partner to Accelerate AI/ML Deployments"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 15, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, and Edge Impulse,"
-publishedDateTime: 2022-05-15T21:41:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-brainchip-holdings-ltd-0e1d526615410529bbae213f394cff1a"
-webUrl: "https://apnews.com/press-release/accesswire/technology-brainchip-holdings-ltd-0e1d526615410529bbae213f394cff1a"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 15, 2022 /BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, and Edge Impulse, the leading development platform for machine learning (ML) on edge devices,"
+publishedDateTime: 2022-05-15T23:08:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/05/15/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments"
+webUrl: "https://stockhouse.com/news/press-releases/2022/05/15/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments"
 type: article
-quality: 71
-heat: 71
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI
   - Machine Learning
-  - AI Hardware
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.accesswire.com/users/newswire/images/701417/image.png"
+    width: 1374
+    height: 727
     isCached: true
 
-secured: "2NE4NpmPtk098AbALRKpP77Uh6BlNkC7Fb1KaTlsZBGRztSjx+Mut88jAL/4na1h3DU1Gm7Kpbrgl0l7ktg7xDKOCviyq0BJUPjpnYJUUttaspY6cDInaSSMh48CB3fYJLTBS19jdWB/t46e6vynmO4oaPJMV2V+fAbxYeJJnQNX3IIRBSDTMbQYZ7OJRqnWoY76aLo5/NXrc68uk3+dbViGV7vpskqRX+DqFH0ucdztAJExffS79Gfv206cgqIGCEnmrvREMtWg8ITm8O7PsmRpN4Mh5/RAYW9ebpq45LW33l7Ejf9Bz5sBBz7j7SL1TiOZiKvr/HnvKxva64Cl9dByrg42FwYkHJSmCxtBEb8=;mmX7rHJ/mFjB1jfTGrYUlw=="
+secured: "GZCgkAQFnCdCsP8BMkUqs28UJLMgsb60/hmEIsh1ON5azTdmbYijjPGbwFvRsBgIPjDH7+CgjQWT3DvGbZF5+oYQyVlVtVHc4qFXleBRCdLz2bwcGotUhYqRC7TNzzg0KqwPHHhRUg8jv5gw88LNRWanmZjqUbAgZ2OBWT2i1dr7BbvoroWos4IOriet0pO6T8CvuhQnvX4P4Bvde3WNLZ6Al/pdYzxmeGivtJM97QmvskYx/83GITqZurmunffCJWfFoyu6OAlOsHEz1cX9RJpENH+KkALFCpbm/eQD1BoWJzN+1iMJ5eszb7VKE/S6F5/ipz48f7HYG5w2qCpMMeFphNgP5cfi6+XKCY9+kQo=;nYjq9FSjqucRWg42wAIWfw=="
 ---
 

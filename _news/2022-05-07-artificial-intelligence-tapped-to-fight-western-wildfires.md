@@ -1,25 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence tapped to fight Western wildfires"
-excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
-publishedDateTime: 2022-05-07T16:40:00Z
-originalUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires-2/"
-webUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires-2/"
+excerpt: "Officials tasked with preventing and battling large, destructive wildfires in the West could soon be using artificial intelligence in addition to their arsenal of prescribed burns, pick axes, chain saws and aircraft."
+publishedDateTime: 2022-05-07T16:57:00Z
+originalUrl: "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires"
+webUrl: "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires"
+ampWebUrl: "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true"
+cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true"
 type: article
 
 provider:
-  name: The Durango Herald
-  domain: durangoherald.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://imengine.public.prod.dur.navigacloud.com/?uuid=ACDFAB13-4AE4-48A8-AA3A-808B5FC0BA6C&function=fit&type=preview"
-    width: 500
-    height: 291
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/6f63def/2147483647/strip/true/crop/2436x1370+10+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fa8%2F2210e55e44b6ac36223edd42b57f%2Fwildfire.png"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "OGnKtammN9K5A13ezzs04EynUfCMKaa31/mI0i0eZsW9m/ZaiasMRt3AiNtYK5ysifoX203jTf8sKzl00OizlIvSoeGFOqfYiez5pjvNMvQZotxt7uzIPoJVUiWNfY8kaWE5g8wv//1Th6hK8tFfbyEI5j/C3Q9pJdymHvpc/ZnIVKy/eOOAhua/TZPjm9o7VTaWjZl/l8JDrSMdjuWqP+YDLLU+H3j2za2FTorc++fW9XkQXrbfChh+wiHcdNu/LTO/Ct/8RRjwnvPktL08Ut37L6Vi68GNU7GWZtzd7w9F4c96Sy6OZvOOTXlSTJHUMSuh+t7vVUCnoNwCS9M80VBaJ4F5wFYxLEzRPENFMIobWOjIULJzZPCpO7FmZWXix1tE+2vyFvXOflZOpeqWubF1pwJUNSTLOi9+8LqaG09c+pzYtqi33Q5AnpnieuPS8BGvMYpmWUgTcA+Awin7RyCaiYm4m0mXSwXFJd2WqB2n9XoZfbg0Ds9xyepnII7urE8F9hlzYARHZPLfTrKleA==;Gd4L72Eg3kjCWpwghWKczg=="
+secured: "ON24asAhEfrZXJ/MWVpDPSJYGMXNdGW/BY9oQX+NCG0693prlSCVM4suitttOzK15kpWjaFvjmESJN+EBgitNyvDjVy230irc4qPoCqEqaKEJ3vjy/JP1R/s+oPNKfXluPHgW+S8emHb1fFViNck8r1M26bIiyF4Vx18z7X3BnO6SoQiS9XaiRWkRGDQmNz2Ibyix2FwiqM7YaNEFCdCYaBUS1bzVC8c2moFqdRLomTLmu1l3PdNvA6XN7Yj1XILNsyslWgFQTxiJz2enWpzTQH2ozIskUr5NJ4Mr/5hl3O9YMK8WcJTHnCmwqzx9ZNm+YIprGdkb1vou2SjSthn+4mbIcbCkw3yawsfZi+4Cns=;fSiQg9mnrpyJPHnuYz8asQ=="
 ---
 

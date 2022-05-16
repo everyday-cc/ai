@@ -1,26 +1,26 @@
 ---
 category: news
-title: "UAE vows ‘responsible’ artificial intelligence rollout"
-excerpt: "aims to have a quarter of its transport driverless by 2030. Abu Dhabi’s Mohamed bin Zayed University of Artificial Intelligence, touted as the world’s first graduate-level AI university ..."
-publishedDateTime: 2022-04-27T03:15:00Z
-originalUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
-webUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
+title: "UAE vows 'responsible' artificial intelligence rollout"
+excerpt: "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university, opened to students last year, and the country has launched a number ..."
+publishedDateTime: 2022-04-27T03:34:00Z
+originalUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout"
+webUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Al-Monitor
+  domain: al-monitor.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/UAE-artificial-intelligence-AFP-1K-04.jpg"
-    width: 1024
-    height: 670
+  - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-04/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg?h=a31d927f&itok=yIzQoqk4"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "NCEX/qrsaA7fMPJ4G5y7UR5Ji9Km3LBfr1H2clYE+dws+veT2xKY5wnTNmXPFX/9Gt258omH9Krhg4MRDlB97YY9iiX/i8Girhdfnlzn7AXTxxy2GzRm1ADg/y0hVFSmUywyOqTNQ8hC/kvG2kMExDEPFs1B6JJL5ATMLZ53fz58RU8TLkO2ljk4EyxAVrh1oBNiU6E8R76imIyhptYA61xaTV96nF/t8xVabPk1DKjblorFMifhA5lqWEG4uImy5aedJegE/0Agc2rbByCwEJdz2LtokG/J7eQm42uq3dU02hjhMYcRV80ZDRB/uYBWGPVlM/8FRI+9RWT91DfBO5wAIkdH0UocJBb7Lg281hg=;nAR54QzcBryT4jRgWBmouA=="
+secured: "SShdZWjTa3IXA/XRfUZQLAnXKmnq1H+leugFhAPNRIhOaUpkrGHhvyK6krEBobHIAALy97rElcD/cUoDCGW4bEvpTpfSWxad1CIAGjJUPCFEXVA2P3NMuP9Nvsw3tu5LyAN/kmV2D1oJH0Q9poi+xZA/4+plUJizVPypA+1hVR5vrrK+RwsuVjwSAO0VxTjm6i5hyndQZWKiY1hhuhYwk5yvdbnublEIyYpXOymrfOPJHfvP6IyZE7d84d8AYlsnHe4hWzSF9/kvoAteTwb9OGH6ntu984UW3e21VnIM5duCw4Th9dqriv1naeWu9ekmGLkOLq/E05Be9417hQ8Zf66vhPN3iLi+37vXHj2vGJg=;0P3qhKoh+/WSdDXBoNKNYg=="
 ---
 

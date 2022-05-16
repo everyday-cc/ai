@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-05-ai-traffic-distant-memory.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-ai-traffic-distant-memory.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: techxplore
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aston University: AI traffic light system could make traffic jams a distant memory"
-    excerpt: "Long queues at traffic lights could be a thing of the past, thanks to a new artificial intelligence system developed by Aston University researchers. The system – the first of its kind – reads live camera footage and adapts the lights to compensate,"
-    publishedDateTime: 2022-05-11T06:21:00Z
-    webUrl: "https://indiaeducationdiary.in/aston-university-ai-traffic-light-system-could-make-traffic-jams-a-distant-memory/"
-    ampWebUrl: "https://indiaeducationdiary.in/aston-university-ai-traffic-light-system-could-make-traffic-jams-a-distant-memory/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aston-university-ai-traffic-light-system-could-make-traffic-jams-a-distant-memory/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 51
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2022/04/Aston-University.jpeg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Promising AI traffic light system could mean the end of traffic jams"
     excerpt: "Aston University researchers have developed an artificial intelligence system to manage traffic more efficiently at intersections."
     publishedDateTime: 2022-05-12T05:31:00Z

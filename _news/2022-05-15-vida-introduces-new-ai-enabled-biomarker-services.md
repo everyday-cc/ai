@@ -50,6 +50,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "VIDA Introduces New AI-Enabled Biomarker Services'"
+    excerpt: "Announced at the 2022 American Thoracic Society (ATS) International Conference, this suite of services empowers sponsors to leverage VIDA's unique AI-enabled biomarker generation services and ..."
+    publishedDateTime: 2022-05-15T23:03:00Z
+    webUrl: "https://menafn.com/1104215642/VIDA-Introduces-New-AI-Enabled-Biomarker-Services"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?204550"
+        width: 400
+        height: 250
+        isCached: true
   - title: "Zoom agrees to acquire AI customer service platform Solvvy"
     excerpt: "Financial terms of the deal were not disclosed. Solvvy is a California-based startup that delivers customer self-service experience powered by machine learning and artificial intelligence."
     publishedDateTime: 2022-05-12T13:17:00Z

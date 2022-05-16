@@ -1,20 +1,26 @@
 ---
 category: news
 title: "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices"
-excerpt: "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three wholly-owned subsidiary Robotic Assistance Devices (RAD),"
-publishedDateTime: 2022-05-10T16:27:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
+excerpt: "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three"
+publishedDateTime: 2022-05-10T16:35:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
+webUrl: "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
-secured: "d8smbLNCYjy1gudp01qepJL2TrCps2/hZZ6RSuucSbRv9mwQCaRi4jMofbp6uym4vps9fZvr5r/NeiNNhysQaz7E0jZFTBpw70EqKO3uUctAR0riGlPJpC8h+ok58LTAU4vsCVQJHdne2TP6QJb5iWodc2ifxi28kt5vgfJwIl+481j+DOcn4q6NhWg/6rjQiJAsUA84WNcHvgUGGwo0vXeA8uIgQl57vHhxSkVAiEvx650N1TRlR01b4TySZG6MnnKdCWNUfUAw4xidprhpegZ95D45h7bkb7Vr1wegyq4AU3S0HlHzkDyi+BpeZhECu4EL8JiPG09W3jpyLWIIbyYRZGW6044MIdWYNEUVCnFlZ9+aAY2Opt3l47gej7v3WTcMfEou/BllmugtIqBpjk2VYiTGEXRvFOS+4uqetYni3OXS/UXUqJ8eoEJFOmuTS6yBoiuk4wZHrFBH0e70JQegJWgBPiy7Owk1bwJpXCkgg5ZO6C5ZlAuYVArzGXr8SacE2qh9Lv52Zhg6o+9bDg==;FdmCekdwI2xPqMOLT93/4w=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "S0GcecgVqPXG/vhLYyNXDVVhRg+JBrs4/yTdSGGTL/233VeoSw1Fh83R9b/BtTKu6h2aI/YpNDjFN6ADgeJpeO3P9HK/VhBJ/KMiQxHuRW15xm7jexCp7ezfNS3jbb016o1+mzAmFnNyIyUidE7tIehqjgMWE8IYLnKNMDPQ/df+PUvTXxsNyg58awTW9WT+pSKJ3THVxn8ZuicgJRT/nr2ulsyT6ItkT4N5TVlrXPcqEoVZqXuGRuH48tVdB0qfusWpFHrAlOG1pizns/TLNNnIYQNQ9NSt++1XTBClSH0MeytPxTqKxCf9tv86/AX9+DaDTw5492UXWwyzjKnStBpDAKm4nwCWdss2T2vZjFM=;TgKwXHbpzdSZmJH7KGJBjw=="
 ---
 

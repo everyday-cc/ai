@@ -2,14 +2,14 @@
 category: news
 title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
 excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
-publishedDateTime: 2022-05-13T01:18:00Z
-originalUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
-webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318?mod=hp_minor_pos10"
+publishedDateTime: 2022-05-12T20:18:00Z
+originalUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
+webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "AI Hiring Tools Discriminate Against People With Disabilities, Warns US"
+    excerpt: "As employers increasingly use artificial intelligence (AI) tools to hire workers, the Department of Justice and the"
+    publishedDateTime: 2022-05-15T22:50:00Z
+    webUrl: "https://menafn.com/1104214082/AI-Hiring-Tools-Discriminate-Against-People-With-Disabilities-Warns-US"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?204550"
+        width: 400
+        height: 250
+        isCached: true
   - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
     excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities"
     publishedDateTime: 2022-05-12T21:04:00Z
@@ -91,6 +105,6 @@ related:
         height: 628
         isCached: true
 
-secured: "OelzRupDEp9PQJJiSDtEvk1/2QErmGHzxLMdYJhh+UqL7tkK8yE6wOFkPMAFvMw8lzIGuN3Zy2zLwMOdJ6hpdz68/bLc64FVVw8/qJG3OFAzXK4ths5fqUU60GD97B6IXiJl5Xi+7S1gIwOLvh8ks/bX0Yt5xZazShtZMEW9gqe4TZLVtRIu7Co3jvdiQjpFQDWw1AVFZpYThA5+l3vdLb2Jb7AXiPv1+3ZB5AXNIuRjy7weved0HeB+TGsTN1lIofX7bM67BhLYYWQWy5DGaerecFClcrsD3rJXq+5Lfk8mTseZXiC3Apw53lUEf4vMVgCWFue0mNrWrF6DtD5MYgeRbnCItwQHXJXS4We8yXq7tVVhRxwad0B6x+bp4PaaQ1t4jod3xRHRV08PppiwlSQKJvEM458lvcpqZ7WE7nQL13K5PsFAsgETZkPtIg4nIsH87hJuGPKXtFWiGuP9bIrxKbck24oVhQfRd1jtIHpS8yMOJa+CJqccvRjF9oCIXeEeBaDHvuKA/vIUKxosEA==;kwUAfYgRo37/6dnN6F/qxg=="
+secured: "qDpvUj7wTRs8cNXEYdxu7nQkHDGMFx7DQVlVtcRikBNmeYK+SZNLFLjmYcGbvoMIxOFdICG0gT2GECDrLNCKq5hOZ5mgQadG2GuiEi+X8rqlu8FZH71KoNHzN0G3hwnVIfGjTyLhgniKEBb76njzD8ouhMtPvXMFyEBPZslMUEsGC/wl21M89lZ5O6bK3NVwdX2kSyjUkIUK0Hp5nSFVHhSxKsUfdRppZdi4sWMSAfg4xYyTZZqrlxm0szg6RVc86JO5EhK/rOfsbJrWpoPJqaJxKhzjsd6fz1s9Byg0LjBcgVPSLQEGW1Om5tt5Lw7KO1EQhz7KVrujRsArvJ+OeNQz6VouwrwucBJU/rj3XDs=;wPyOTGPk9ztdp3yJpMzDaQ=="
 ---
 

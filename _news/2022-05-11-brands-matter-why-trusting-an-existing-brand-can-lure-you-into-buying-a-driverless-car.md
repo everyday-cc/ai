@@ -8,9 +8,6 @@ webUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-bran
 ampWebUrl: "https://theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 type: article
-quality: 51
-heat: 71
-published: true
 
 provider:
   name: The Conversation
@@ -26,31 +23,6 @@ images:
     height: 240
     isCached: true
 
-related:
-  - title: "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds"
-    excerpt: "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ..."
-    publishedDateTime: 2022-05-11T11:52:00Z
-    webUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 20
-    images:
-      - url: "https://i.inews.co.uk/content/uploads/2022/05/SEI_99688536-1200x630-pl-exclusive.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Interesting Driving Facts You May Not Know"
-    excerpt: "Think you know everything about the wonderful world of driving? Think again. Here are some interesting driving facts you may not know."
-    publishedDateTime: 2022-05-13T12:11:00Z
-    webUrl: "https://www.evanshalshaw.com/blog/interesting-driving-facts-you-may-not-know/"
-    type: article
-    provider:
-      name: Evans Halshaw
-      domain: evanshalshaw.com
-    quality: 4
-
-secured: "+E6T8aKHLM7NzTqsJYluralVp+QrcLP1rWzbb/nuLKexiprmlRlhQ42YD2dg8gA6YuaPpcFiGg0zuWw/rptA/Yn5sgTJTeu/q17KU0ajRK/gsiY8lv0PGw1JLXpxWPdWjdbsoNNLLBsQ1LTxL5qzPn6KKs5TTBitlxdlH1Wp1oEbuv9qa36muIPuPrYryE3mlWsKYelONRPhkdvI7Wskif27jxXQUI21rl5GH2/5a/Jr//PepFYdFKM7zdXjfWSULnPlDYZm15DVyYfhlD5PZiCnq/KSIJOKMVXGo0w2p7ymoVPthklHvfdJkk70U/G3NUL82FXl+eXBAoKITKFkCg1mEmSvSqb1uJ2gfXLabb8=;899QRrkak1IAVCKkazupeg=="
+secured: "z7C8n72HWFO0t6K9hDzkFiUu7V5LY+QRPxR8WiLHuxOAb/BgvgJ+3P2cS5aZxkqTWpLS+Q2BELehHWJ8hysL/6p5pbaM1AkS42CBO+/SIIlnBpX9p4XTyZA3pxLa/igZ6w5ZfSBWRY2Dvc/71+ZnyAjGc1XGsyNcJCTXBIPssMve6vF7S7lAUCvlsKkK0BJTZD+7jsDPrsuBIAiRp7yhH8n+Zh4rEX3G9gfNyQCX2E0uyKP1C/xnhlHbj/6aGnl9j5sf+sC36yKDixSZFDQZDE4u54KvDgS+8ssGln8E+dEslfjzpIOH+nEyGDJoVzSldPH6Ua5p3zySsIbJByzUU5K0g5kES3whAujiFE45vtE=;M8oH7fK0hqqtUJbkruJCAA=="
 ---
 

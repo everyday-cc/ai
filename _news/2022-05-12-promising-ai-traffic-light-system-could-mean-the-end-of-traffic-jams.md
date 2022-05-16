@@ -34,22 +34,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Aston University: AI traffic light system could make traffic jams a distant memory"
-    excerpt: "Long queues at traffic lights could be a thing of the past, thanks to a new artificial intelligence system developed by Aston University researchers. The system – the first of its kind – reads live camera footage and adapts the lights to compensate,"
-    publishedDateTime: 2022-05-11T06:21:00Z
-    webUrl: "https://indiaeducationdiary.in/aston-university-ai-traffic-light-system-could-make-traffic-jams-a-distant-memory/"
-    ampWebUrl: "https://indiaeducationdiary.in/aston-university-ai-traffic-light-system-could-make-traffic-jams-a-distant-memory/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aston-university-ai-traffic-light-system-could-make-traffic-jams-a-distant-memory/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 51
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2022/04/Aston-University.jpeg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "q2E9KA6ORJXPvH/isLztV6ujlA4GzAwpAtsaWbO3v3R8RtdTQSaDdzupH09LGGikWu+S8wjpDbS1aRY02tINZU9NG46Ny0h259FdqV/tnft3bMpvQMnNpfwvgIMUWGKCQwy4gtraRFhhHbwVCEZR3gL64BVtABzG9gMR/NjugwQx6FqB5B6jlvnWSsbHZKD89p9XpyFDgVFx6UcT3JhHfGqhhQrbigIunQyXNzf0BRvi+CNa5v9tqdlOiW6LrDmGGo2NOatVjIixdxUXKS9cnYY6ZZdOWD3dJEamd35Bs67WiigP/qBdz3C/5JrkzN2clmnX7Fd8ZeU3xvqerve3jow1ga8+iOrTks+CLXYfHtM=;UgCpolezvtoqrT+p/607VA=="
 ---
