@@ -2,7 +2,7 @@
 name: "Domino Data Lab"
 overview: "We’re building the platform that enables thousands of data scientists to develop better medicines, grow more productive crops, build better cars, or simply recommend the best song to play next."
 type: "profile"
-heat: 20
+heat: 18
 
 website: https://www.dominodatalab.com/
 
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "xtM3PUJgxmhNfpb8ARCeEObLZhD4R8M83HDGH47ZtZa9X4HrfrNjOWxlK/HkcKVbdj1V15RSwA7lvtR1bx/jJxgZqp4RMLDVc2+Hl4LYHbFBPiV2SgK3gCd7/EEOWttR37+hJFMcoPhpVPW8BC29m1hOlvbvjS7THIKC4yUpKGXwqytmw2hti68fMHfxRwQMzhwVWXwDDGbRSUFlikadpXyA/U2I0ed4u1R5r+Xy9NFDl2osC+tnPMRw5KaEen7dMCC4J/RcwvonAtKvLOg4/chZsf5yVGgXVH6XjDURS1qPbqYiRnz36TAhoRUZEQsmsjiYrXrPzSrAu5i/Ljdg+opuYXBK43fKDyshEJQEQp6Gtbm22NMPv7EEAluQtHCk/hJOEYn17tEJm1JDetqaeePjuErcNjsGTrDZbHml92s=;aC71UiiI9UxU7bQwqKuNMQ=="
+secured: "Yo0eMyD9dyEnXMenlUax3xnEt7rPuAhs5uejAMTV/eNoTPjjXN+AOwzxvzBjbakB/D5y3jnJ0efdXocYDC3qqJerPmDZvpZgmx9Pf6S+wCA55Mw7UhCzgotbYiz4wInkxl5E28LBj4eajvPHtZWIF3o8MqHI2BFmsyQSQ6ykYUw96SkNeRMDQHFP3RIBNgLqer/qF6QUQ7is4Umx0P1fyHzsgzkDZai/YEXjnpnl4lCtOOT67YIEEzafYEvzLVjRWRxhUlwO58DJMy4M7sLi3/UxeSBtDjDObaaIOVdjoiGygUqyB3kRDPWoE9Gm7rmr2llrpnuCLgQkdBYjaRkjO33e8on1jpznltk+acZMN6hKDz0t1A0AuYc166DNQ/4N/nMfC/U1Ie4J3Pqd1qu9SH11XL/E9+x9dp7qF6NQtdA=;hWutqE9N12Sk6k8sLTg13g=="
 ---
 
