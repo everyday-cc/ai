@@ -7,7 +7,7 @@ originalUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azu
 webUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/"
 type: article
 quality: 69
-heat: 100
+heat: 102
 published: true
 
 provider:

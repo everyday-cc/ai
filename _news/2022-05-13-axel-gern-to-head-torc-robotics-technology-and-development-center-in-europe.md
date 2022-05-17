@@ -7,7 +7,7 @@ originalUrl: "https://www.kron4.com/business/press-releases/cision/20220512NE553
 webUrl: "https://www.kron4.com/business/press-releases/cision/20220512NE55343/axel-gern-to-head-torc-robotics-technology-and-development-center-in-europe/"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Axel Gern to head Torc Robotics Technology and Development Center in Europe"
-    excerpt: "Torc Robotics has tapped Axel Gern, a long-time leader in truck automation, to head its recently opened Torc Europe GmbH engineering facility in Stuttgart, Germany. Gern has been named senior vice president of engineering and managing director for Torc Europe at the technology and software development center."
-    publishedDateTime: 2022-05-12T14:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-germany-robotics-stuttgart-1379d550151bb0bf179fe934141a93f8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Inside a self-driving truck with Torc Robotics"
     excerpt: "It’s the home of Torc Robotics, a company founded 17 years ago, that aims to increase trucking safety by developing automated self-driving technology. Torc Robotics has reached a mile marker on its journey toward fully autonomous Level 4 driving ..."
     publishedDateTime: 2022-05-16T16:00:00Z

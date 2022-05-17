@@ -20,20 +20,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "IBM to offer software through AWS"
-    excerpt: "The US technology firm this week announced that it has signed a strategic collaboration agreement with AWS and plans to offer “a broad array” of its software catalog as Software-as-a-Service (SaaS) through the cloud company’s marketplace."
-    publishedDateTime: 2022-05-12T14:18:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ibm-to-offer-software-through-aws/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 41
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Inside_IBM_Cloud_Dallas.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 631
-        isCached: true
   - title: "IBM to Deliver IBM Software as-a-Service on AWS"
     excerpt: "IBM Signs Strategic Collaboration Agreement with Amazon Web Services to Deliver IBM Software as-a-Service on AWS"
     publishedDateTime: 2022-05-17T01:19:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Texans can no longer use certain Instagram filters due to facial recognition lawsuit"
-    excerpt: "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports."
-    publishedDateTime: 2022-05-12T14:23:00Z
-    webUrl: "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/"
-    ampWebUrl: "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 69
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Texas & Illinois Facial Recognition Laws Lead To Instagram Filter Ban"
     excerpt: "After Texas Attorney General Ken Paxton filed a lawsuit back in February against Meta alleging the company was not properly using its facial recognition technology, Meta disabled filters on"
     publishedDateTime: 2022-05-12T17:26:00Z

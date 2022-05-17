@@ -7,7 +7,7 @@ originalUrl: "https://multichannelmerchant.com/press-releases/deep-north-launche
 webUrl: "https://multichannelmerchant.com/press-releases/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Deep North Launches Checkout IQ, a Solution for Retailers to Prevent Asset Loss"
-    excerpt: "Its end-to-end software solution combines computer vision with deep learning technologies to help retailers and businesses deliver metrics such as footfall, conversion, consumer demographics ..."
-    publishedDateTime: 2022-05-12T14:25:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220512SF51726/deep-north-launches-checkout-iq-a-solution-for-retailers-to-prevent-asset-loss/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 15
 
 secured: "PVJrghmK1Ojk3ayPIL2yTZNdc05B2ZO7O1+TOh2/YqEw6/F3HJYJOKc9b9ittvBA8ySuFV5W52PsyReC+OVzkMBNKbFc368igy1kd6kONCfSWxxB8RU6guDXryi7EapHT53/BsQFfB85Thr0YFbFS5cJ8KkKgPU+PkhnRjuKeSrZSTNnrsP2mnAR/vkptrory+cQYIervQ8QO6BSDA6WFEpiFtZQnYh5WJIQMZvFvISfMQdIIdmGik0oc/4bcIBy9Qygggnc8ARc709L73+M6HTqHvzl7QAPtbYX+hY1L1Rlga3+JQQIaIjmVrv/HJqHHgYfMpVeTS1MtM3wckp638AvbxFLZ1sJum2SZ6PXTbU=;s342+ab6MiBqKAUpiJ6jFw=="
 ---

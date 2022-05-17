@@ -9,8 +9,8 @@ ampWebUrl: "https://bossip.com/2132998/meta-filter-ban/amp/"
 cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2132998/meta-filter-ban/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Bossip
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Texans can no longer use certain Instagram filters due to facial recognition lawsuit"
-    excerpt: "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports."
-    publishedDateTime: 2022-05-12T14:23:00Z
-    webUrl: "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/"
-    ampWebUrl: "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 69
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Instagram filters disabled in Texas during facial-recognition lawsuit"
     excerpt: "Instagram disabled its filters for users in Texas, thanks to a lawsuit filed by Attorney General Ken Paxton that alleged their facial-recognition technology residents’ privacy rights."
     publishedDateTime: 2022-05-14T00:48:00Z

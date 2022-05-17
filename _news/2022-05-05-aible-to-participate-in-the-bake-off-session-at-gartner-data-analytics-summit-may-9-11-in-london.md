@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Aible to Participate in the 'Bake-Off' Session at Gartner Data & Analytics Summit, May 9-11 in London"
-excerpt: "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All"
-publishedDateTime: 2022-05-05T13:26:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8535548/aible-to-participate-in-the-bake-off-session-at-gartner-data-analytics-summit-may-9-11-in-london"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8535548/aible-to-participate-in-the-bake-off-session-at-gartner-data-analytics-summit-may-9-11-in-london"
+title: "Aible to Participate in the ‘Bake-Off’ Session at Gartner Data & Analytics Summit, May 9-11 in London"
+excerpt: "Aible, the only enterprise AI solution that guarantees impact in one month, is proud to announce that it will participate in the “Bake-Off” at the Gartner Data & Analytics Summit, held on May 9-11 in London."
+publishedDateTime: 2022-05-05T13:03:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-science-business-europe-london-91b69bab833ac3e4e644f998780349b8"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-business-europe-london-91b69bab833ac3e4e644f998780349b8"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "QL27kXvEpQE8DyGCH7hyL4kJMOOtdzs0DC1RIP/NQ7xE31PCT2mxXe5ktPKYo8PGqySOEG1MmH6HL5QsnOIgDO7ja4tlz4v6GSWGKNtlkC7sVl/kNZw4z0vtnRrrcqEB46dcnFmehs86f4KTjSxwyX7Wf/iZsgiZUZqRxT+nFYaMbfhieN7H5bZN8vFrRYYBxQ0gn/JbrlxJY5CIueMkmqwdO3XwFnq2ZDiIcCxDcDjOuqa2hJJd3da1F9zCV+XUSzvAZOntOWmaN4CHLFvwJwWrDUG7me1tHsOAokBI2V/6HfE036tENTGwkmVaIAZSRbOMfUvf84jU62EeW4A9KUfcDueavVYESzbFlS5avh0=;/SV6S89kShsj/RPdQvm9Tg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "6UO96LO8lRRFt/pu51yGFDtIWK0U2Xw3bW1Tw9mkNhxD4KCATtLRdpetX0iBqo5eziKw4469K7UNlF1p5Hi8GHs4b/9nt1DJfV8yGE8QRowMbZaOLdS57QSeX55m2zkBbnkLsCR+yxgZUWH5CigTeAsmpdb/uctFClUdiP4RZDupKNZJwlomkjQ+CF/vpfEmCZMj5ovWuanNM4VeZ9sbiDpD/J+2guzF1JmQQhDSOcJc0DIdYJdTBNzJCvTAjp3+1lh0Tgxn5s9J7qsi7FVQgqNS7LE9MSf1EclSM4Y3XHdxKgw7i/s8N0opjFVOqv4ud62iOqJ7g+JxYvLOFjOMe/FUAXBogKDwKBGM4tL/L98=;8wLf4UVUw+r/mK7AqjtjPg=="
 ---
 

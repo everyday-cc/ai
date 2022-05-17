@@ -42,6 +42,20 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 48
+  - title: "Flex Logix Partners With Roboflow to Enable Specialized AI Models For Computer Vision Applications"
+    excerpt: "May 17, 2022-- Flex Logix® Technologies, Inc., supplier of the most-efficient AI edge inference accelerator and the leading supplier of eFPGA IP, today announced that it has partnered with Roboflow, an end-to-end computer vision solution for developers ..."
+    publishedDateTime: 2022-05-17T06:27:00Z
+    webUrl: "https://www.design-reuse.com/news/51954/flex-logix-roboflow-partnership-ai-models-computer-vision.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 40
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage51954/flexlogix.jpg"
+        width: 768
+        height: 513
+        isCached: true
 
 secured: "iqo1IoqRVPgH3g7mwkTOOQ+eVJQafiY3nGZte+PIklUqpVAOT2CJQywx+DGUB2xMc0AIUb//76Y/xuPIxB7xalheH1DOSp6+zDxm5ww+syd1R821fIgpdQq6AQaWsYdsHJBdfZBXURhLib255Mo73MuZCxgyAQbMCc93dj35Fcn2V9H1PlocoQulCrqEiO8ByJvzGO2BDurYZBubh4Xa2/JqFTX8K/aRoy2rX3vUD8rsJxTq2tZN897mF3B9td04msvv7QkFQqeU3HSgO+kpjHrm2LvRfle/DfHrW3jPEDr6oe7p+Q96qU4cBhYUP8aUSjYnO6UvVXqcjtLWj0nOy36t25ciFYDPgGaWAFYwnuc=;lio8MtNY0sLndB1Vn0Ry4A=="
 ---

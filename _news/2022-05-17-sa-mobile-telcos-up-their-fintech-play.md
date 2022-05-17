@@ -7,7 +7,7 @@ originalUrl: "https://www.iol.co.za/business-report/companies/sa-mobile-telcos-u
 webUrl: "https://www.iol.co.za/business-report/companies/sa-mobile-telcos-up-their-fintech-play-c6ef9b35-5285-4732-bf72-6ca9d18a37d5"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,79 @@ images:
     height: 366
     isCached: true
 
-secured: "GFI+TJGzcXMxMRtpumSjpGmPE4/PVbaG/TDcpLhN/ifURtxmouj3CfIFuS/fXds0mNHj+gHfgGfUmpRSSA6zIV5GHZMV1vv0aChok7oh4i3l+9HIhDLz59Ba0pk1mKyBdUXtxxDyASOcGl78es2br+9iXnNq9oZsqi2/RO/MPkNJ5s+q46XOeT8gxibQJ+haKMHDJn4xrxnlN25rInenvvoOQlSHslzWN46HjCkyyJ3W06G+Jga8aMbWC5kkzqA16p6E/g/Ciz/vFgZP+7OBjSbPht8bNbtQ0u0+y9Ef/kaejfEQmaXpmrllIs5tGDQHadce02VEuXvpuQoxsKHIXeGIRq0Wcvuwa7xPnNqNEJA=;bBkwOjBH0hjWyzJMRWzS0w=="
+related:
+  - title: "Multiple Disruptive Technologies Meet in Fintech Space"
+    excerpt: "That’s a longer-ranging positive because the applications for other disruptive technologies in the fintech world are immense, including the boosting of efficiencies. “Automation is not a new concept to AI, but combining AI and blockchain can allow for ..."
+    publishedDateTime: 2022-05-13T14:16:00Z
+    webUrl: "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space"
+    ampWebUrl: "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Bakkt To Participate in Rosenblatt Securities Annual FinTech Summit"
+    excerpt: "Bakkt Holdings, Inc. (NYSE: BKKT), a trusted digital asset platform that enables consumers to buy, sell, send and spend a range of digital assets, announced today it will participate in the Rosenblatt Securities Annual FinTech Summit."
+    publishedDateTime: 2022-05-13T15:15:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=663699"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Four Things You Should Know About Fintech"
+    excerpt: "Fintech is taking the banking world by storm thanks to its innovative and cutting-edge technologies. But with new tech comes new responsibilities and risks, so it's important to know what you're getti"
+    publishedDateTime: 2022-05-14T14:30:00Z
+    webUrl: "https://www.finsmes.com/2022/05/four-things-you-should-know-about-fintech.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech21.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
+    excerpt: "Emphasizing the uniqueness of the platform, the Chief Digital Officer, Mr. Utpal Chakraborty, a known name in the AI & FinTech industry, mentioned â€“ \"The FinoAllied platform stands out in ..."
+    publishedDateTime: 2022-05-15T22:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1253827&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/1816599/FinoAllied_Conversational_Banking_Platform_Award.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
+    excerpt: "Government of India recently announced the rapid digitalization of the banking sector as part of the Digital India initiative that will stimulate financial inclusion. RBI further appended and promotes its policy of Secure and Informed Digital Banking."
+    publishedDateTime: 2022-05-12T21:24:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220512/3940898.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+  - title: "Infinity Ventures Launches Inaugural $158 Million Fund Dedicated to Global Fintech Investing"
+    excerpt: "Former PayPal leaders Jeremy Jonker, Jay Ganatra, and Mario Ruiz form fund to back the builders of fintech infrastructure and commerce enablementSAN FRANCISCO & NEW YORK--(BUSINESS WIRE)--Infinity Ventures,"
+    publishedDateTime: 2022-05-15T23:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=664305"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+
+secured: "L+QlGS/CzB35NVMdff7bZl/u33rG0SqKUnJLW/0v+vQxrAj0exahsUiO2h6DeTK4LdovLKy9md7xVQtClvo3AEpapZrO2NWPlXdtBkajP4XCRgARpG6ZlvBOKZTjf/Fz8yGxkzwepcxiUbVtwByGiQSrte2Mlf5rkqB8igupaaJNPLz3+88Q6Xcqv6DZpTJT/Y5XJW3PyYD6lNisxNexvXwYNbMv3exPJsFFcAbltWvXxdjWUXy39S7ZjKFGwbqwZhoaMu5yTe0Ah4gfjeaGVaJbseJ6OlOieRP5EL7CQ8X31EM6Ak4HnRRIas7rIy4YdeSZucIPrnli8dG1AoK31Xagh/UTjawJa5sR6svqN/ud90mXK7WDGXgGDoUz8H9P6B1TEnPcHExx7sjdwg4u0ktAB3EtKNpJuaP/gfuCXvgWnXXs4cGE9G8kRyeDTR2ktDkUFQZ2+ut0wZG4gQU0YtIYs2VpeDmQZwP2bU0Nr9yElUHmVj378SeuwHqKlJ0uqwFMPfAdoASyan2gkbgwzw==;A+PyynB3mWmTHLD0nStmTQ=="
 ---
 

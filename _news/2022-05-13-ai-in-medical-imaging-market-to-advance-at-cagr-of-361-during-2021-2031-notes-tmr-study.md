@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Global Fintech Market is expanding at a CAGR of 22.17% during the 2018-2023 period"
+    excerpt: "Technology segment insights The major technologies involved in the fintech sector are artificial intelligence (AI), Blockchain, cryptography, biometrics and identity management, cyber-security, and robotic process automation (RPA). Major growth will be ..."
+    publishedDateTime: 2022-05-17T06:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-fintech-market-is-expanding-at-a-cagr-of-22-17-during-the-2018-2023-period"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Machine Learning as a Service Market Reflect Impressive Growth Rate to During 2021-2031"
     excerpt: "An uptick in the adoption of IoT (Internet of Things)-based applications is generating huge demand for machine learning (ML) to ensure the accuracy of business operations using IoT platforms. Thus, integration of the IoT technology within different ..."
     publishedDateTime: 2022-05-13T13:00:00Z

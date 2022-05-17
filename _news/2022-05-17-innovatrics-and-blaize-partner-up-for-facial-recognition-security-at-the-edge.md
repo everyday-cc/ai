@@ -34,6 +34,20 @@ related:
         width: 375
         height: 208
         isCached: true
+  - title: "Flex Logix Partners With Roboflow to Enable Specialized AI Models For Computer Vision Applications"
+    excerpt: "May 17, 2022-- Flex Logix® Technologies, Inc., supplier of the most-efficient AI edge inference accelerator and the leading supplier of eFPGA IP, today announced that it has partnered with Roboflow, an end-to-end computer vision solution for developers ..."
+    publishedDateTime: 2022-05-17T06:27:00Z
+    webUrl: "https://www.design-reuse.com/news/51954/flex-logix-roboflow-partnership-ai-models-computer-vision.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 40
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage51954/flexlogix.jpg"
+        width: 768
+        height: 513
+        isCached: true
   - title: "Blaize and Innovatrics Provide Edge Ready, Low Power, Low Latency Facial Recognition Technology!"
     excerpt: "Innovatrics, a global leader in biometric technology, and Blaize®, the AI computing innovator revolutionizing edge computing, today announced a technology partnership to deliver ready-to-use facial recognition solutions designed for access control and public security applications leveraging SmartFace Embedded and Blaize edge computing devices."
     publishedDateTime: 2022-05-16T12:43:00Z

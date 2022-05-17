@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Europe Machine Learning Market 2022 : Projections & Future Opportunities Recorded for the Period 2030"
+    excerpt: "Quadintel published a new report on the Europe Machine Learning Market. The research report consists of thorough information about demand, growth,"
+    publishedDateTime: 2022-05-17T06:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/europe-machine-learning-market-2022-projections-future-opportunities-recorded-for-the-period-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Fintech Market [RISING TODAY] 2022 : Size, Share, Projections & Future Opportunities Recorded for the Period 2030"
     excerpt: "Quadintel published a new report on the Fintech Market. The research report consists of thorough information about demand, growth, opportunities,"
     publishedDateTime: 2022-05-13T13:44:00Z

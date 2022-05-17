@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/wysa-
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: Healio
       domain: healio.com
     quality: 27
-  - title: "Wysa Receives FDA Breakthrough Device Designation for AI-led Mental Health Conversational Agent"
-    excerpt: "Wysa, a leading artificial intelligence (AI) based digital companion for behavioral health, has announced that the U.S. Food and Drug Administration (FDA) has granted Breakthrough Device Designation for its AI-based digital mental health conversational agent for patients 18 years and older with a diagnosis of chronic musculoskeletal pain (defined as pain lasting longer than three months) and depression and anxiety."
-    publishedDateTime: 2022-05-12T13:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-wysa-receives-fda-breakthrough-device-designation-ai-led-/2022/05/12/9600762.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "UNMdR9ZiaR8KhNsv2j+kgrBxZlOlZlpfeocz1uRwHsJ+sx+27U2lW9/2ixEDNQYk787TZovb0G5jmuTV+f6jYcYR/QzkKfUAvDWEEy6VM2tJ/t7FckmLbcHtICpidMKhRnSUodN4TpJysa7MDE1SSyX471GmqbUCGKcMM3QwsBzxy1ATqDn2OJIRVQBXtgBVoqcjuoam+lS3ZuSqlKBrKAknwFUX9EQhvBRSZ+jVRili2JsmKWebf5ziCQIvBt6JZrEqBKLkvegdyT+F0Y4vUv/f48uLoWbG7fbfiwkzf9Uh8uAV2IdIyIBWMpGGk4UOWtF7pT/RLXseE6v6c4lFi9JfmOgz5RxmJa1IRXqb4WM=;rfDB/owNGntxrCb0lV5Prw=="
 ---

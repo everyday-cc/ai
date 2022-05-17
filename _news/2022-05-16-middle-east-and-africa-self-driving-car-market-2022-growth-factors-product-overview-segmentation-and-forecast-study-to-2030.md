@@ -47,29 +47,20 @@ related:
         width: 335
         height: 250
         isCached: true
-  - title: "Computer Vision AI (Artificial Intelligence) Camera Market Analysis by Size, Share, Trends, Growth, Future Scope, Revenue and Forecast to 2027"
-    excerpt: "Careful work of skilled forecasters, well-versed analysts and knowledgeable researchers gives outcome of such premium Computer Vision AI (Artificial Intelligence) Camera Market research report."
-    publishedDateTime: 2022-05-12T14:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-ai-artificial-intelligence-camera-market-analysis-by-size-share-trends-growth-future-scope-revenue-and-forecast-to-2027"
+  - title: "Computer Vision Market Size, Demand, Dynamics, Business Growth And 2031 Forecasts"
+    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on the Computer Vision Market that emphasizes the latest trends, key opportunities, drivers, and ..."
+    publishedDateTime: 2022-05-17T06:38:00Z
+    webUrl: "https://menafn.com/1104225349/Computer-Vision-Market-Size-Demand-Dynamics-Business-Growth-And-2031-Forecasts"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6f1e17aee11727a0b88b5e8f92ca7a250a88c3bd-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?175965"
+        width: 379
+        height: 249
         isCached: true
-  - title: "AI In Computer Aided Synthesis Planning Market Growth Drivers, Opportunities, And Forecast Analysis To 2030"
-    excerpt: "The global AI in computer aided synthesis planning market is estimated to occupy a large amount of revenue by growing at a notable CAGR during the forecast period, i.e., 2022 –"
-    publishedDateTime: 2022-05-12T14:25:00Z
-    webUrl: "https://xaralite.com/3988/news/ai-in-computer-aided-synthesis-planning-market-growth-drivers-opportunities-and-forecast-analysis-to-2030/"
-    type: article
-    provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 1
   - title: "Image Recognition Market Industry Analysis, Applications, Overview, Size, Growth, Top Players and Growth Opportunity 2028"
     excerpt: "Google, Microsoft, Facebook, Pinterest, and Apple are investing in resources and research into image recognition and related applications. Improper data storage, security breaches, and misuse of facial recognition data are some of the primary concerns ..."
     publishedDateTime: 2022-05-13T13:32:00Z

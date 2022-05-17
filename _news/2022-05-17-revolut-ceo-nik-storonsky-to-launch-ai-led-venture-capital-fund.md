@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-17T05:00:00Z
 originalUrl: "https://www.forbes.com/sites/iainmartin/2022/05/17/revolut-ceo-nik-storonsky-to-launch-ai-led-venture-capital-fund/"
 webUrl: "https://www.forbes.com/sites/iainmartin/2022/05/17/revolut-ceo-nik-storonsky-to-launch-ai-led-venture-capital-fund/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//6282be79a62cd62d05e6f1dc/0x0.jpg?format=jpg&width=1200"
@@ -27,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "vdUXwh2yvLHGHGc3BUKxJVryZqsUmh8TvhSqZDUOEgNP62HVhN7RKlwJNAXnBWAWO/zKT1A/qidDYwQNjs7/xBYvJ6eY9fBWHso97JLGd8gkDwt7sNPG8oVS4/YnMVI+efQewELOW1S4hIfMClvaYPq3sYBJvhnzeY1L06Yn4s+s7f+1iPnhoIobfbWhFSrsv+U6GDew+4jiXsu2uzQIAo1DWdOGTDnDxrUVQa4gMgFQFfBUXYNJ9ooxiZdfyiFZ2jEDmL0gwDOGEETIEpe290OzaOvY3K8DNZ3RSNwZwTQFHH94KMoBTaVG8m2RVzn9gf8Hpa0+T05YNd88hqMjQsNGsfpTuHPCKUTtpEIWK0A=;Z0uKmDurkcQEQNXxauAlLA=="
+secured: "NHyu6sSZs5gNOe17hZL5l8CBScU0tSwO8kHHRVmhzPqbfzdTYwAGR97HK2YBWkuKWdPlj4/VW5f2hDQ5oKWo4uSC8l0HJoSqs2NpPhKRZ3HB6k6JVoWkPtUbrps7MtyYbtIrPRFRJ3KS1eZodDPVE4W+e5gEcahkP/ZJ8URL8FD0AZr7YiVxRNxp0f9KzZq/F8FUnmYRG/jnKVQMBYRF9nNok3ckTO3foHIAqYio9recvYnGBP10QSwcW+5z5sUImp8kxjMMGitlsP9fkaWsWEVCFaQkArWJAlveKTvSfNZq8QDmVwJJU32KOIoBAwKFq3zir9VarAxa++vjRToHUcKBA+n2ab3bC/i+1u/55VZohO+tI8JtV2x2kxK1IXDNjQk1OvO587OiZd2ip/m6Df7bfC29PvHf+GXjaBPy7CGkSgDdnRw27Osv+unSEXJxEEKM3WTQ9zs1hEITHKMP+XuGS0FS0VHx6G6VfeoXJOfb4aPagirQpNREW4bSvkeZkI3YJXGigtauQl+i++eFaQ==;U0r14Elo4O/65AW40ylDkg=="
 ---
 

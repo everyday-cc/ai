@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/24887-ibm-to-deli
 webUrl: "https://www.thefastmode.com/technology-solutions/24887-ibm-to-deliver-ibm-software-as-a-service-on-aws"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM to offer software through AWS"
-    excerpt: "The US technology firm this week announced that it has signed a strategic collaboration agreement with AWS and plans to offer “a broad array” of its software catalog as Software-as-a-Service (SaaS) through the cloud company’s marketplace."
-    publishedDateTime: 2022-05-12T14:18:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ibm-to-offer-software-through-aws/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 41
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Inside_IBM_Cloud_Dallas.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 631
-        isCached: true
   - title: "IBM to Deliver Software as-a-Service on AWS"
     excerpt: "IBM (NYSE: IBM) today announced it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc. (AWS), with plans to offer a broad array of its software catalog as Software-as-a-Service (SaaS) on AWS."
     publishedDateTime: 2022-05-12T17:48:00Z

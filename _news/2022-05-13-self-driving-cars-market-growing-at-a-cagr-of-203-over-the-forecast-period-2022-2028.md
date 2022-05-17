@@ -84,6 +84,20 @@ related:
         width: 537
         height: 302
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market Size Is Expected To Grow At A CAGR Of 22.3% During Assessment Period 2022-2028 | 122 Report Pages"
+    excerpt: "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
+    publishedDateTime: 2022-05-17T07:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-size-is-expected-to-grow-at-a-cagr-of-22-3-during-assessment-period-2022-2028-122-report-pages"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "+T2nr8K1N0RylLBb/NEOxDR9M6WFNFi7qT8YDNyrkdU1YNd2a5L53aIezSmtwQijsgxDRn25/0DNqM6c/cn3ylmVnVtny3IYq9ScyKObbGghAkIJY0jI1jVEzB0nIE/BmUDtPMCKh1PDdfVlDYbrMduN95kc1GhOuPRTWcqtFzV3nOwScMwNY3cWr11FH0tXZYUpc8gnR+gKchJ7ZRU+A6852o0lC3k+25pXJojZ+8CDjLnqRstVxwhvL+Q9ubB+G51FD+vuc2nB+07PxwlAGUGA75fWfyGAtCRUJobMR1o6HjK6rkuWjm6R+aWs4L2MUecFTheP+NdBgl4ZKUa0Dh6svi9RsCFlZjy3owPbDQk=;bO3dwARA/oDtRw9SBl7quw=="
 ---
