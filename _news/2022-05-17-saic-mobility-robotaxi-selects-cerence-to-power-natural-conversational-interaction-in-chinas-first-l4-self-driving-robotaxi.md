@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T12:03:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-china-cerence-inc-faa6831fed86ae08f9314061e66f1854"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-china-cerence-inc-faa6831fed86ae08f9314061e66f1854"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

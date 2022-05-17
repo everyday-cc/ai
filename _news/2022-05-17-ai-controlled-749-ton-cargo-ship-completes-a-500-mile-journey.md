@@ -28,7 +28,7 @@ related:
     provider:
       name: Interesting Engineering
       domain: interestingengineering.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/nZwXeVZrOv/sizes/orca-ai_resize_md.jpg"
         width: 744

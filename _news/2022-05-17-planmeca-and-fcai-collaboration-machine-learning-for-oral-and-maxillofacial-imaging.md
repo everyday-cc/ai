@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T12:40:00Z
 originalUrl: "https://www.aalto.fi/en/news/planmeca-and-fcai-collaboration-machine-learning-for-oral-and-maxillofacial-imaging"
 webUrl: "https://www.aalto.fi/en/news/planmeca-and-fcai-collaboration-machine-learning-for-oral-and-maxillofacial-imaging"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Aalto

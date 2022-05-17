@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:30:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2022/05/17/apple-previews-innovative-accessibility-features-combining-the-power-of-hardware"
 webUrl: "https://stockhouse.com/news/press-releases/2022/05/17/apple-previews-innovative-accessibility-features-combining-the-power-of-hardware"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Stockhouse

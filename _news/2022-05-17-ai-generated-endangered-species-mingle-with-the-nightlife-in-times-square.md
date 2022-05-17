@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-17T09:39:00Z
 originalUrl: "https://it-online.co.za/2022/05/17/ai-generated-endangered-species-mingle-with-the-nightlife-in-times-square/"
 webUrl: "https://it-online.co.za/2022/05/17/ai-generated-endangered-species-mingle-with-the-nightlife-in-times-square/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:

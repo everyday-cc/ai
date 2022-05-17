@@ -24,93 +24,66 @@ images:
     isCached: true
 
 related:
-  - title: "AI Hiring Tools Can Violate Disability Protections, Government Warns"
-    excerpt: "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble."
-    publishedDateTime: 2022-05-12T20:18:00Z
-    webUrl: "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318"
+  - title: "U.S. Civil Rights Enforcers Warn Employers About Using Biased AI"
+    excerpt: "The use of AI is compounding the longstanding discrimination that jobseekers with disabilities face,” Assistant Attorney General Kristen Clarke told reporters Thursday."
+    publishedDateTime: 2022-05-13T01:46:00Z
+    webUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2?d_id=3524666&ncid_tag=tweetlnkushpmg00000016"
+    ampWebUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
     images:
-      - url: "https://images.wsj.net/im-543409/social"
-        width: 1280
-        height: 640
+      - url: "https://img.huffingtonpost.com/asset/627d7ea51e00005cd41b490c.jpeg?ops=1778_1000"
+        width: 1778
+        height: 999
         isCached: true
-  - title: "EEOC, DOJ Warn Artificial Intelligence in Employment Decisions Might Violate ADA"
-    excerpt: "The U.S. Equal Employment Opportunity Commission (EEOC) and the U.S. Department of Justice (DOJ), on May 12, 2022, issued guidance advising employers that the use of artificial intelligence (AI) and a"
-    publishedDateTime: 2022-05-13T21:56:00Z
-    webUrl: "https://www.natlawreview.com/article/eeoc-doj-warn-artificial-intelligence-employment-decisions-might-violate-ada"
-    ampWebUrl: "https://www.natlawreview.com/article/eeoc-doj-warn-artificial-intelligence-employment-decisions-might-violate-ada?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/eeoc-doj-warn-artificial-intelligence-employment-decisions-might-violate-ada?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 54
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
+  - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-    publishedDateTime: 2022-05-12T21:12:00Z
-    webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-    ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-    cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+    publishedDateTime: 2022-05-17T00:50:00Z
+    webUrl: "https://www.thehour.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+    ampWebUrl: "https://www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
     type: article
     provider:
-      name: New Hampshire Public Radio
-      domain: nhpr.org
-    quality: 53
+      name: The Hour
+      domain: thehour.com
+    quality: 57
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/d2f3ad3/2147483647/strip/true/crop/960x540+0+310/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F17%2F93dd31594177b44ecfdaa3d39951%2Fmy-disability-roadmap-6.JPG"
-        width: 430
-        height: 242
-        isCached: true
-  - title: "Bosses using AI to hire candidates risk discriminating against disabled applicants"
-    excerpt: "The Biden administration and Department of Justice have warned employers using AI software for recruitment purposes to take extra steps to support disabled job applicants or they risk violating the Americans with Disabilities Act (ADA)."
-    publishedDateTime: 2022-05-14T15:00:00Z
-    webUrl: "https://www.theregister.com/2022/05/14/recruitment_ai_disabled_discrimination/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 51
-    images:
-      - url: "https://regmedia.co.uk/2022/05/13/shutterstock_robot_recruiter.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "AI Hiring Tools Discriminate Against People With Disabilities, Warns US"
-    excerpt: "As employers increasingly use artificial intelligence (AI) tools to hire workers, the Department of Justice and the"
-    publishedDateTime: 2022-05-15T22:50:00Z
-    webUrl: "https://menafn.com/1104214082/AI-Hiring-Tools-Discriminate-Against-People-With-Disabilities-Warns-US"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?204550"
+      - url: "https://s.hdnux.com/photos/01/25/55/37/22468592/3/ratio3x2_400.jpg"
         width: 400
-        height: 250
+        height: 267
         isCached: true
-  - title: "Using artificial intelligence software for employment decisions could be discriminatory: feds"
-    excerpt: "Employers using artificial intelligence tools in the hiring process could be guilty of disability discrimination, according to the federal government."
-    publishedDateTime: 2022-05-16T04:49:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/using-artificial-intelligence-software-for-employment-decisions-could-be-discriminatory-feds/"
+  - title: "U.S. civil rights enforcers warn employers against biased artificial intelligence"
+    excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities."
+    publishedDateTime: 2022-05-13T15:13:00Z
+    webUrl: "https://www.ibj.com/articles/u-s-civil-rights-enforcers-warn-employers-against-biased-artificial-intelligence"
     type: article
     provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 8
+      name: Ibj.com
+      domain: ibj.com
+    quality: 47
+    images:
+      - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
+    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
+    publishedDateTime: 2022-05-16T23:02:00Z
+    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "DhM6bW9KNx4qKL/hsrAHYATWsU1JaZ4dbi/I3K2IpSbxVpISWbrOiVGaVPdUSFvgx1FPLRmMSwCVGpOac+tIVwHKzjHTNxnXlGZxLeeQc1SKEKmwT2Yq+F1cC/vjJrqRnlBLUDHXzQQvO2L96AHw7C3Y1/nGqaZ8T4Hj5jT7+yU+/aUB8lyyFGJZAeTT0XRE2rp6SVtZvTISLX1XcJLL4IR4iNYlywl/LMptV6JmzehhJ06voEUzTAfRa/iEG3oNE9e6iBKhPfqcnp/kZgISfZAJEJgywqKWhRKG4G5GPX9CkqdAy8Y/OiZc5S9IjKxzMHbkrB2A150RylZYFp6q079sLOVpK5jsBGsB1vjBb2PxZpZK7MBlrzfmV8wCLTON6lONA27TTB0WuANyl/EvwNTazjq9iIiNTMAH+XrEJv09/J/ZqnpLcXnx5GQWtXkI8SN8tAs9U1xCSYCp0nhSwZX6HdCrvc3ko930FbVHLbJBFxYPpOmjSCHTZbLrkk2unnMC3/VmmgAHJSeBtXJDVA==;HsFBesEik6R8MQpLfb2wwg=="
 ---

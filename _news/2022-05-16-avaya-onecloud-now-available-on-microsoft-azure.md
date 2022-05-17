@@ -7,7 +7,7 @@ originalUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azu
 webUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/"
 type: article
 quality: 69
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-05/jay.png?itok=5WUB_pkk"
         width: 960
         height: 540
+        isCached: true
+  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
+    excerpt: "Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a204%"
+    publishedDateTime: 2022-05-17T14:44:00Z
+    webUrl: "https://menafn.com/1104228806/SAS-Viya-on-Microsoft-Azure-can-deliver-204-return-on-investment-according-to-independent-study"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?537199"
+        width: 375
+        height: 250
         isCached: true
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment, study finds"
     excerpt: "Quantified benefits included faster time to market for analytics insights, improved operational efficiency in model building and testing, and cost savings from retiring on-premises analytics infrastructure."

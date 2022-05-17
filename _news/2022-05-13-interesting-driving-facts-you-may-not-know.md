@@ -30,6 +30,15 @@ related:
       name: KTNV Las Vegas
       domain: ktnv.com
     quality: 24
+  - title: "When should older adults stop driving? It depends"
+    excerpt: "Many older drivers retain their skills later into life, carmakers are equipping cars to make them safer, and roadways are being designed for increased safety. Still, forces are at work on older bodies that put aging drivers — and those around them — at risk."
+    publishedDateTime: 2022-05-17T12:40:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/health/story/2022-05-17/when-should-older-adults-stop-driving-it-depends"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 4
 
 secured: "+JGM49T1kNnyWAGYTW5ryTggjL/mCkSqS4L2xNQ4shhbfgyM+cmyNlJ7Sp2xGEwEerQr1OSIcQS52NCONasXTzW4W/Uq2eWwoK958hsjnQSPVCdv5nhy3PvUydLeUM6sAKhm/ho++niZLUXVOVjnPWyBP2tWVxzl0IJTNnL6rywcVBsO0xGT9+i24zxeFFyEy9DpCmP2axM/hHbdPD+voknto+lQGB+kM1KlM+sWs2rj7omfOYN2QCa7BYR1SVXze6vR9vt7FTmTQiFian7udhHDRMjegE9aSEpwso0xc2Gg3mNKtjL3+z3y6+gBOAhabi8gn0qWoSqyWtcaVJsEgZi4pYVdC3EKbxnV/Q367a+QDFGKdH0T5W8t7yK/wAnSmNZHrDNgQzaMNqtB/q7pWyNL8n/U6Tk69ObBGkrZWFCXYWH0JlHbbElXc48bn7dOJKAT1F7+UPdKnujAPB/K5iGyuB8ll9nVzztdKzujGGzKxHv+L3Qlrmf3Uw5pY6YdhnH9fLPIKbRRzw7mduz+hg==;Ttgt9EITFSjc5x+dxx3r7g=="
 ---

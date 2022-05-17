@@ -2,6 +2,257 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-17-customize-pronunciation-using-lexicons-in-amazon-polly.md",
+      "title": "Customize pronunciation using lexicons in Amazon Polly",
+      "excerpt": "Amazon Polly is a text-to-speech service that uses advanced deep learning technologies to synthesize natural-sounding human speech. It is used in a variety of use cases, such as contact center systems, delivering conversational user experiences with human-like voices for automated real-time status check,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/17/customize-pronunciation-polly.jpg",
+          "width": 1000,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T08:36:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-argo-ai-begins-driverless-testing-in-austin-and-miami.md",
+      "title": "Argo AI Begins Driverless Testing In Austin And Miami",
+      "excerpt": "Argo AI, the Pittsburgh, Pennsylvania-based automated driving company majority owned by Ford and Volkswagen has just begun its first driverless testing on public roads in Miami and Austin. This milestone comes about five and a half years after the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
+      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62839ea0171c859a3a9cfd95/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
+      "publishedDateTime": "2022-05-17T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-aiml-startups.md",
+      "title": "Flying Fish raises $70M fund and will cast net beyond Seattle to back more AI/ML startups",
+      "excerpt": "Seattle-based venture capital firm Flying Fish landed $70 million for its second fund to invest in more machine learning and artificial intelligence startups across a bevy of verticals… Read More",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/",
+      "originalUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/amp/",
+      "publishedDateTime": "2022-05-17T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform.md",
+      "title": "Forma AI poised to grow AI-supported sales compensation management platform",
+      "excerpt": "Forma's automated workflows unite the process, enabling sales compensation resources to focus on incentive design — not formula building.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/",
+      "originalUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-sales_performance.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 1659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/",
+      "publishedDateTime": "2022-05-17T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online.md",
+      "title": "Cybercrime Is Evolving: Artificial Intelligence Can Help Improve Consumer Safety Online",
+      "excerpt": "This is where artificial intelligence comes in. By harnessing the power of artificial intelligence, we can make the fight against cybercrime more effective and help protect consumers from the ever-growing threat of online crime. I had the pleasure of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62829735da902be673e6f1dc/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/amp/",
+      "publishedDateTime": "2022-05-17T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-how-ai-adoption-can-impact-the-insurance-industry.md",
       "title": "How AI Adoption Can Impact The Insurance Industry",
       "excerpt": "But today, he is a strong proponent of artificial intelligence (AI). At a TED talk in 2017, Kasparov said, “Machines have instructions; we have a purpose. We will need intelligent machines to help us turn our grandest dreams into reality.” AI is all ...",
@@ -10,7 +261,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -247,10 +498,10 @@
     {
       "path": "_news/2022-05-17-anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data.md",
       "title": "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data",
-      "excerpt": "The idea of synthetic data in enterprises has been around for decades, but it’s picking up steam as companies begin making more use of artificial intelligence and have greater need for faster access to better data sets.",
+      "excerpt": "Anthem Inc.’s chief information officer says he is working with Alphabet Inc.’s Google Cloud to create a synthetic data platform that will let the health insurance company better detect fraud and offer personalized care to its members. Anil Bhatt said ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4",
-      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4",
+      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=lead_feature_below_a_pos1",
+      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=lead_feature_below_a_pos1",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -356,7 +607,7 @@
       "originalUrl": "https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -650,7 +901,7 @@
       "originalUrl": "https://www.railway-technology.com/dashboards/patents/railway-industry-companies-are-increasingly-innovating-in-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -693,7 +944,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -849,7 +1100,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -986,237 +1237,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases.md",
-      "title": "Dental AI Startup Wins Second FDA Clearance To Detect Top Oral Diseases",
-      "excerpt": "The FDA has awarded dental AI startup Overjet with landmark clearance to use its software to detect and outline cavities in patients’ X-rays. It’s the second FDA clearance for the company, co-founded in 2018 by CEO Wardah Inam almost a decade after she ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexandralevine/2022/05/16/dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases/",
-      "originalUrl": "https://www.forbes.com/sites/alexandralevine/2022/05/16/dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//627ecad7e838339a220938f1/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-ai-can-now-predict-a-persons-race-from-medical-x-rays.md",
-      "title": "AI Can Now Predict a Person's Race From Medical X-Rays",
-      "excerpt": "A key advantage of artificial intelligence (AI) machine learning is its ability to find patterns that are not apparent to the human eye. An astonishing new study published in The Lancet Digital Health shows that AI can predict a person’s race based on X ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays",
-      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic22355.jpg?itok=ba1uJVh8",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp",
-      "publishedDateTime": "2022-05-16T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-cncf-launches-ethics-in-open-source-training-course.md",
-      "title": "CNCF launches ethics in open source training course",
-      "excerpt": "The Cloud Native Computing Foundation has developed a new certification for developers looking to better incorporate ethical-first thinking into their open source software design.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
-      "originalUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/05/cio-ethics-imageby-rapideye-gettyimages-162922472-100842471-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
-      "publishedDateTime": "2022-05-16T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-software.md",
-      "title": "Cyber security startup IEM Labs launches plagiarism checker, AI-powered software",
-      "excerpt": "New Delhi: Kolkata-based cyber security Startup IEM Labs has launched a plagiarism checker and an AI-powered content generation software. The plagiarism checker, called IEMSecure, can scan through 10 billion sources in just a few seconds, while the AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/articleshow/91596909.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/articleshow/91596909.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-91597161/ai_artificial-intelligence_tech_startups_funding5.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/amp_articleshow/91596909.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/amp_articleshow/91596909.cms",
-      "publishedDateTime": "2022-05-16T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-avaya-onecloud-now-available-on-microsoft-azure.md",
-      "title": "Avaya OneCloud – now available on Microsoft Azure",
-      "excerpt": "Avaya and Microsoft have expanded their global partnership by combining the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations have more options to increase productivity and customer engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/",
-      "originalUrl": "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/05/Avaya-Microsoft-Azure-Announce-CPaaS-Integration-1280x720-1.jpg?resize=1000%2C600&#038;ssl=1",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

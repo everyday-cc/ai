@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-04-15-ai-chatbot-provides-emotional-bond-for-mental-health-app-users.md",
-      "title": "AI chatbot provides emotional bond for mental health app users",
-      "excerpt": "Results from a new peer-reviewed study show people develop emotional bonds with artificial intelligence (AI) therapy chatbots in a similar way to in-person therapists. The study evaluated 1,205 people using a mental health app developed by Wysa Ltd.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bioworld.com/articles/517958-ai-chatbot-provides-emotional-bond-for-mental-health-app-users?v=preview",
-      "originalUrl": "https://www.bioworld.com/articles/517958-ai-chatbot-provides-emotional-bond-for-mental-health-app-users?v=preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bioworld.com/ext/resources/BMT-source/2022/04-14-Wysa-AI-chatbot.png?height=635&t=1649968293&width=1200",
-          "width": 847,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioWorld",
-        "domain": "bioworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-14-artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother.md",
       "title": "Artificial intelligence may take your job. Some lessons from my grandmother",
       "excerpt": "Up to 40% of all jobs now are tipped to be taken over by AI and robots in the next few decades. My grandmother, born on a farm almost a century ago, has some advice on how to cope.",
@@ -1311,6 +1268,59 @@
         "AI Ethics",
         "AI in Finance",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031.md",
+      "title": "Cognitive Computing in Healthcare Industry Market Growth, Trends, Price, Scope, Competitor Analysis and Forecast 2022 to 2031",
+      "excerpt": "In recent years, the use of big data analytics and cloud services has seen positive growth and has created a platform for cognitive computing ... Google, Microsoft, Palantir, and PTC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031-2022-03-29?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031-2022-03-29?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-28T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

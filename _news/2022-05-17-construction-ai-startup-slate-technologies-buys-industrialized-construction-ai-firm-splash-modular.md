@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:24:00Z
 originalUrl: "https://www.forconstructionpros.com/construction-technology/apps/article/22210373/construction-ai-startup-slate-technologies-buys-industrialized-construction-ai-firm-splash-modular"
 webUrl: "https://www.forconstructionpros.com/construction-technology/apps/article/22210373/construction-ai-startup-slate-technologies-buys-industrialized-construction-ai-firm-splash-modular"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: For Construction Pros

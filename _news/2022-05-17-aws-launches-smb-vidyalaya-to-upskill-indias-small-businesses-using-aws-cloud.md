@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:19:00Z
 originalUrl: "https://www.financialexpress.com/education-2/aws-launches-smb-vidyalaya-to-upskill-indias-small-businesses-using-aws-cloud/2528432/"
 webUrl: "https://www.financialexpress.com/education-2/aws-launches-smb-vidyalaya-to-upskill-indias-small-businesses-using-aws-cloud/2528432/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: The Financial Express

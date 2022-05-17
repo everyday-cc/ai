@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-26-how-banks-can-embrace-open-banking-with-regulatory-compliance.md",
+      "title": "How Banks Can Embrace Open Banking With Regulatory Compliance",
+      "excerpt": "Over the last several years, organizations, including banks, have learned plenty of lessons from their experiences of migrating existing applications, data and other enterprise systems to the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6266a4046d73c134e2109d5b/0x0.jpg?format=jpg&crop=5728,3223,x1969,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
+      "publishedDateTime": "2022-04-26T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-8-current-and-future-trends-in-financial-services.md",
       "title": "8 Current And Future Trends In Financial Services",
       "excerpt": "Trends in financial services are shifting more towards digital systems because of convenience and lower costs. Like most sectors, banking and finances are",
@@ -1240,49 +1292,6 @@
       "provider": {
         "name": "WDIO",
         "domain": "wdio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera.md",
-      "title": "Fluence Announces Agreement to Acquire AI-Enabled Software-as-a-Service Company Nispera",
-      "excerpt": "In increasingly sophisticated energy markets, forecast of granular asset availability, production profile, and management becomes imperative for value capture Enhances Fluence’s digital leadership position with a combined digital portfolio of 15 GW contracted or under management Accelerates development and roll-out of new applications on Fluence IQ Digital Platform Strengthens foundation for recurring revenue and expected to be EBITDA accretive by 2024 ARLINGTON,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/",
-      "originalUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/CabreraAP22113633967552.jpg?w=2000&#038;ssl=1",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRN",
-        "domain": "wkrn.com",
         "images": null,
         "publishers": null,
         "authors": null

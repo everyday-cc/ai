@@ -39,15 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "VSBLTY NAMED INTEL® CHANNEL PARTNER OF THE YEAR AT INTEL VISION 2022"
-    excerpt: "VSBLTY technology provides enhanced customer engagement and audience measurement using machine learning and computer vision. Its industry leading VisionCaptor™ and DataCaptor™ software combine motion graphics and interactive brand messaging with ..."
-    publishedDateTime: 2022-05-12T19:56:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/05/12/vsblty-named-intel-xae-channel-partner-of-the-year-at-intel-vision-2022"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 4
   - title: "Europe Self-driving Car Market 2022 : Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2030"
     excerpt: "Quadintel published a new report on the Europe Self-driving Car Market. The research report consists of thorough information about demand, growth,"
     publishedDateTime: 2022-05-16T14:19:00Z

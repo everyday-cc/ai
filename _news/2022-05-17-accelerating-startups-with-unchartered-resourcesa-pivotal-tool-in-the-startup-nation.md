@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T12:00:00Z
 originalUrl: "https://www.geektime.com/acceleration-programs-israel-intel-ignite/"
 webUrl: "https://www.geektime.com/acceleration-programs-israel-intel-ignite/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Geektime

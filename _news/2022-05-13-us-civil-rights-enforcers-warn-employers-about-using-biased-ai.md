@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artific
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Civil rights enforcers warn employers against biased AI"
-    excerpt: "Federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, se"
-    publishedDateTime: 2022-05-12T22:13:00Z
-    webUrl: "https://www.columbiamissourian.com/news/nation_world/civil-rights-enforcers-warn-employers-against-biased-ai/article_1073a76c-e9d7-5aa2-8ec2-a3b47dde0c65.html"
-    ampWebUrl: "https://www.columbiamissourian.com/news/nation_world/civil-rights-enforcers-warn-employers-against-biased-ai/article_1073a76c-e9d7-5aa2-8ec2-a3b47dde0c65.amp.html"
-    cdnAmpWebUrl: "https://www-columbiamissourian-com.cdn.ampproject.org/c/s/www.columbiamissourian.com/news/nation_world/civil-rights-enforcers-warn-employers-against-biased-ai/article_1073a76c-e9d7-5aa2-8ec2-a3b47dde0c65.amp.html"
-    type: article
-    provider:
-      name: Columbia Missourian
-      domain: columbiamissourian.com
-    quality: 57
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/assets/v3/editorial/d/95/d950e724-ed71-58ff-aa1b-e6cb09c7fd5b/627d867cd5bae.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
     publishedDateTime: 2022-05-17T00:50:00Z
@@ -76,19 +60,19 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "U.S. civil rights enforcers warn employers against biased AI"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used hiring tools could violate civil rights laws."
-    publishedDateTime: 2022-05-12T21:24:00Z
-    webUrl: "https://apnews.com/article/technology-discrimination-artificial-intelligence-e1bcf4a2e7f1b671cbf3a44bc99b3656"
+  - title: "Federal officials caution employers on using AI in hiring"
+    excerpt: "The Justice Department and the Equal Employment Opportunity Commission are sounding the alarm about the potential for AI human resources tools to discriminate against individuals with disabilities."
+    publishedDateTime: 2022-05-12T23:53:00Z
+    webUrl: "https://fcw.com/digital-government/2022/05/federal-officials-caution-employers-using-ai-hiring/366899/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Federal Computer Week
+      domain: fcw.com
     quality: 37
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/44b8c1f14b7c4f699caf934933d88e6b/3000.jpeg"
-        width: 3000
-        height: 2000
+      - url: "https://cdn.fcw.com/media/img/cd/2022/05/12/051222_getty_fcw_ai_brain/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
     excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."

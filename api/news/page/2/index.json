@@ -2,6 +2,237 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-16-ai-can-now-predict-a-persons-race-from-medical-x-rays.md",
+      "title": "AI Can Now Predict a Person's Race From Medical X-Rays",
+      "excerpt": "An astonishing new study published in The Lancet Digital Health shows that AI can predict a person’s race based on X-ray images with a high degree of accuracy, but scientists do not know exactly how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic22355.jpg?itok=ba1uJVh8",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp",
+      "publishedDateTime": "2022-05-16T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases.md",
+      "title": "Dental AI Startup Wins Second FDA Clearance To Detect Top Oral Diseases",
+      "excerpt": "The FDA has awarded dental AI startup Overjet with landmark clearance to use its software to detect and outline cavities in patients’ X-rays. It’s the second FDA clearance for the company, co-founded in 2018 by CEO Wardah Inam almost a decade after she ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexandralevine/2022/05/16/dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases/",
+      "originalUrl": "https://www.forbes.com/sites/alexandralevine/2022/05/16/dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//627ecad7e838339a220938f1/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-cncf-launches-ethics-in-open-source-training-course.md",
+      "title": "CNCF launches ethics in open source training course",
+      "excerpt": "The Cloud Native Computing Foundation has developed a new certification for developers looking to better incorporate ethical-first thinking into their open source software design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
+      "originalUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/05/cio-ethics-imageby-rapideye-gettyimages-162922472-100842471-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
+      "publishedDateTime": "2022-05-16T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-software.md",
+      "title": "Cyber security startup IEM Labs launches plagiarism checker, AI-powered software",
+      "excerpt": "New Delhi: Kolkata-based cyber security Startup IEM Labs has launched a plagiarism checker and an AI-powered content generation software. The plagiarism checker, called IEMSecure, can scan through 10 billion sources in just a few seconds, while the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/articleshow/91596909.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/articleshow/91596909.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-91597161/ai_artificial-intelligence_tech_startups_funding5.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/amp_articleshow/91596909.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/amp_articleshow/91596909.cms",
+      "publishedDateTime": "2022-05-16T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-avaya-onecloud-now-available-on-microsoft-azure.md",
+      "title": "Avaya OneCloud – now available on Microsoft Azure",
+      "excerpt": "Avaya and Microsoft have expanded their global partnership by combining the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations have more options to increase productivity and customer engagement.",
+      "sourceUrl": null,
+      "webUrl": "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/",
+      "originalUrl": "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/05/Avaya-Microsoft-Azure-Announce-CPaaS-Integration-1280x720-1.jpg?resize=1000%2C600&#038;ssl=1",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadget.co.za",
+        "domain": "gadget.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-skt-introduces-new-ai-service-a.md",
       "title": "SKT Introduces New AI Service ‘A.’",
       "excerpt": "SK Telecom (NYSE:SKM, hereinafter referred to as “SKT”) today announced that it launched an AI service named ‘A. (A dot)’ as an open beta version for Android on One Store and Google Play. ‘A.’ embodies SKT’s vision to become a leading AI ...",
@@ -40,49 +271,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-wysa-receives-usfda-approval-for-ai-led-device-for-mental-health.md",
-      "title": "Wysa receives USFDA approval for AI led device for mental health",
-      "excerpt": "The device delivers cognitive behavioural therapy (CBT) via a smartphone-based conversational agent to reduce the symptoms of depression and anxiety, ..",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91592319,imgsize-18776,width-1200,height-628,overlay-ethealthworld/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "publishedDateTime": "2022-05-16T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -130,51 +318,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-16-is-nlp-innovating-faster-than-other-domains-of-ai.md",
-      "title": "Is NLP innovating faster than other domains of AI",
-      "excerpt": "Why is there such intense competition in this field, or in other words, are other AI domains lagging behind NLP in terms of innovation?",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-domains-of-ai/",
-      "originalUrl": "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-domains-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/NLP_AIM-1300x731.gif",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-15T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-05-16-brainchip-and-edge-impulse-partner-to-accelerate-aiml-deployments.md",
       "title": "BrainChip and Edge Impulse Partner to Accelerate AI/ML Deployments",
       "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 15, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, and Edge Impulse,",
@@ -219,57 +362,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-16-curious-things-voice-ai-communication-platform-asks-the-right-questions.md",
-      "title": "Curious Thing’s voice AI communication platform asks the right questions",
-      "excerpt": "Sydney-based Curious Thing is an aptly-named startup. The voice AI communication platform can call people and ask them questions like “How are you feeling today?” and then follow up with ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/",
-      "originalUrl": "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/FounderShoot-2.jpg",
-          "width": 5529,
-          "height": 3691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/",
-      "publishedDateTime": "2022-05-15T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-15-artificial-intelligence-benefits-psoriatic-arthritis-patients.md",
       "title": "Artificial Intelligence Benefits Psoriatic Arthritis Patients",
       "excerpt": "PredictAI, a new machine-learning tool developed by researchers, speeds up the diagnosis of psoriatic arthritis (PsA) by up to 4 years.",
@@ -310,6 +402,48 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-14-bosses-using-ai-to-hire-candidates-risk-discriminating-against-disabled-applicants.md",
+      "title": "Bosses using AI to hire candidates risk discriminating against disabled applicants",
+      "excerpt": "The Biden administration and Department of Justice have warned employers using AI software for recruitment purposes to take extra steps to support disabled job applicants or they risk violating the Americans with Disabilities Act (ADA).",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/05/14/recruitment_ai_disabled_discrimination/",
+      "originalUrl": "https://www.theregister.com/2022/05/14/recruitment_ai_disabled_discrimination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/05/13/shutterstock_robot_recruiter.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/",
+      "publishedDateTime": "2022-05-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -641,7 +775,7 @@
       "originalUrl": "https://www.cnet.com/home/security/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -693,7 +827,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -900,7 +1034,7 @@
       "originalUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1045,143 +1179,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice.md",
-      "title": "How AI Solutions And Strong Leadership Could Have Avoided The UK’s Worst-Ever Miscarriage Of Justice",
-      "excerpt": "Very critical of the Post Office Horizon scandal, HEC Paris Professor of Accounting and Management Control and chairholder at HI! Paris Center Aluna Wang explains how the anomaly detection system she developped and more attention to how the data is used could help avoid such issues in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
-      "originalUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627e65898626d96b9c8f32a1/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
-      "publishedDateTime": "2022-05-13T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-multiple-disruptive-technologies-meet-in-fintech-space.md",
-      "title": "Multiple Disruptive Technologies Meet in Fintech Space",
-      "excerpt": "That’s a longer-ranging positive because the applications for other disruptive technologies in the fintech world are immense, including the boosting of efficiencies. “Automation is not a new concept to AI, but combining AI and blockchain can allow for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space",
-      "originalUrl": "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp",
-      "publishedDateTime": "2022-05-13T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-formidable-human-ai-relations-can-accelerate-sustainability-efforts.md",
-      "title": "Formidable Human-AI Relations Can Accelerate Sustainability Efforts",
-      "excerpt": "When working in harmony with humans, AI and other automation systems have the potential to make huge impacts on economic growth across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f8ef32c53de1add7201f44a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
-      "publishedDateTime": "2022-05-13T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

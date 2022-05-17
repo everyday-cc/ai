@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T11:53:00Z
 originalUrl: "https://newatlas.com/robotics/willow-x-outdoor-robot-eeve/"
 webUrl: "https://newatlas.com/robotics/willow-x-outdoor-robot-eeve/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: New Atlas

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T12:11:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/singularity-systems-named-a-star-performer-in-everest-group-s-intelligent-document-processing-idp-peak-matrix-assessment-2022-1031468136"
 webUrl: "https://markets.businessinsider.com/news/stocks/singularity-systems-named-a-star-performer-in-everest-group-s-intelligent-document-processing-idp-peak-matrix-assessment-2022-1031468136"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Business Insider

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:02:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/l3harris-selected-for-key-department-of-defense-artificial-intelligence-program/article_5049ff65-08f3-5219-a621-9c1aaa21518b.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/l3harris-selected-for-key-department-of-defense-artificial-intelligence-program/article_5049ff65-08f3-5219-a621-9c1aaa21518b.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Joplin Globe

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-17-customize-pronunciation-using-lexicons-in-amazon-polly.md",
+      "title": "Customize pronunciation using lexicons in Amazon Polly",
+      "excerpt": "Amazon Polly is a text-to-speech service that uses advanced deep learning technologies to synthesize natural-sounding human speech. It is used in a variety of use cases, such as contact center systems, delivering conversational user experiences with human-like voices for automated real-time status check,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/17/customize-pronunciation-polly.jpg",
+          "width": 1000,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T08:36:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-why-are-we-failing-at-the-ethics-of-ai-a-critical-review.md",
       "title": "Why are we failing at the ethics of AI? A critical review",
       "excerpt": "Sometimes the AI ethics conversation appears to be a morass of well-meaning platitudes, without forward direction. A notable article via the Carnegie Council for Ethics in International Affairs brings these issues to a head.",
@@ -97,51 +150,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-is-nlp-innovating-faster-than-other-domains-of-ai.md",
-      "title": "Is NLP innovating faster than other domains of AI",
-      "excerpt": "Why is there such intense competition in this field, or in other words, are other AI domains lagging behind NLP in terms of innovation?",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-domains-of-ai/",
-      "originalUrl": "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-domains-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/NLP_AIM-1300x731.gif",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-15T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics"
       ]
     },
     {
@@ -536,6 +544,49 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-voice-control-for-your-camera-i-was-sceptical-but-theres-big-potential.md",
+      "title": "Voice control for your camera? I was sceptical, but there's big potential",
+      "excerpt": "Sony has applied for a patent on the technology for controlling a camera's interface and controls using voice commands. You could be forgiven for jumping to the conclusion that this is a silly idea - I mean,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitalcameraworld.com/news/voice-control-for-your-camera-i-was-sceptical-but-theres-big-potential",
+      "originalUrl": "https://www.digitalcameraworld.com/news/voice-control-for-your-camera-i-was-sceptical-but-theres-big-potential",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4B5PNNZ7nTNGiA3mHJA9rW-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitalcameraworld",
+        "domain": "digitalcameraworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1390,58 +1441,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short.md",
-      "title": "How To Adopt AI-Based Business Intelligence Solutions When Traditional Dashboards Fall Short",
-      "excerpt": "Business leaders must consider leveraging AI to monitor and learn the behavior of data in real ... The right product manager will be able to align with data scientists and translate expectations and results to management, bridging the gap between the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60ca10c91854bb852614d23b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/amp/",
-      "publishedDateTime": "2022-05-03T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

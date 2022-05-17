@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:00:00Z
 originalUrl: "https://www.digitaljournal.com/pr/chargeflow-launches-ai-powered-platform-on-shopify-to-help-e-commerce-businesses-fight-false-chargebacks"
 webUrl: "https://www.digitaljournal.com/pr/chargeflow-launches-ai-powered-platform-on-shopify-to-help-e-commerce-businesses-fight-false-chargebacks"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

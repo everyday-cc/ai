@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "How Do Patients Feel About AI in Health Care? It Depends"
-    excerpt: "A new survey looks at what patients think about AI playing a role in their health care diagnosis and management."
-    publishedDateTime: 2022-05-12T19:08:00Z
-    webUrl: "https://www.webmd.com/a-to-z-guides/news/20220512/how-do-patients-feel-about-ai-in-health-care-it-depends"
+  - title: "AI in Healthcare Market foresee Business Opportunities, Current Trends and Industry scrutiny by 2025"
+    excerpt: "Global Artificial Intelligence in Healthcare Market valued approximately USD 650 million in 2016 is anticipated"
+    publishedDateTime: 2022-05-17T14:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17"
     type: article
     provider:
-      name: WebMD
-      domain: webmd.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
     excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028.This press"
     publishedDateTime: 2022-05-13T10:06:00Z

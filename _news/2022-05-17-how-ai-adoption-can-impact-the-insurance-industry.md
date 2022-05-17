@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI-driven robots and drones bring cognitive intelligence to Industry 4.0"
+    excerpt: "The robots, drones and cameras that inspect machines to perform predictive maintenance and relay analog information to operations staff can now function autonomously. Even better – the longer they’re at their jobs,"
+    publishedDateTime: 2022-05-17T15:05:00Z
+    webUrl: "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/"
+    ampWebUrl: "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/AI_robots.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI-based Visual Inspection set to play key role in Industry 4.0"
     excerpt: "Quality, speed and flexibility have been the defining pillars of Industry 4.0. These are the crucial drivers of business in the manufacturing space. Tech-savvy and younger companies now have a chance to give the market leaders serious competition by taking the \"Factory of the Future\" approach."
     publishedDateTime: 2022-05-15T01:45:00Z

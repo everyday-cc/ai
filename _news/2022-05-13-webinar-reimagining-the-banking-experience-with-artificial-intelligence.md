@@ -50,11 +50,27 @@ related:
     provider:
       name: CIO
       domain: cio.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Using AI to predict heart attacks"
+    excerpt: "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?"
+    publishedDateTime: 2022-05-17T14:50:00Z
+    webUrl: "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg"
+        width: 1000
+        height: 554
         isCached: true
   - title: "How is AI improving aircraft inspections after hard landings?"
     excerpt: "A hard landing on the runway puts stress on a plane. ATR is using artificial AI to help identify any damage and get planes flying again."
@@ -86,6 +102,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Finding the Fairness in AI"
+    excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
+    publishedDateTime: 2022-05-17T15:09:00Z
+    webUrl: "https://cacm.acm.org/news/261047-finding-the-fairness-in-ai/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "3ars2omspXOBRdUWOxNeCzme9Q7/v/MkBipuEVmB2KhdBolodV0kfKlddWXhpgo3wIGk9WmBLsRhOlfJPxgciR/BKM4nXfpGnAlH9m5qUGXXC/6X6j1jbisSIve4+YnjlqPITCqxca8Xrj2/FV4DVavzjVu7B4ij7HSO6VfX8O/QLQ6g01TTABmxadVAmoo7rDFoCI+uNP9xiOIjNmk8cdBMLOwPep00bZ1DZcrLc4PKtAEAXHafhDwFL/UY3+RPMgZ2RpskI0bPzM7Ni66RJ7ofynzcxm1107wDi1VbEgytorknulNKs+8BODpiCpknSeTH78Q7kt2wKOdw88hDdwWVah0zmmEjC+SegZW10L0=;3g/ohofWjlO07j3A5wHegQ=="
 ---

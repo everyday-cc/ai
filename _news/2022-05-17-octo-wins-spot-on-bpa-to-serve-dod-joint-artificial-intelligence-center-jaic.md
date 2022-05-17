@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T12:56:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-octo-wins-spot-bpa-serve-dod-joint-artificial-/2022/05/17/9603450.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-octo-wins-spot-bpa-serve-dod-joint-artificial-/2022/05/17/9603450.htm"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: TMCnet

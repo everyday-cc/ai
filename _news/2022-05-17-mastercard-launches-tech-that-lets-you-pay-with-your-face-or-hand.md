@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:16:00Z
 originalUrl: "https://www.cnbc.com/2022/05/17/mastercard-launches-tech-that-lets-you-pay-with-your-face-or-hand.html"
 webUrl: "https://www.cnbc.com/2022/05/17/mastercard-launches-tech-that-lets-you-pay-with-your-face-or-hand.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: CNBC

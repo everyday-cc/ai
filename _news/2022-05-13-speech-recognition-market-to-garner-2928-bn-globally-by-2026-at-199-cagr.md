@@ -53,6 +53,29 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Machine learning as a Service Market to Reach $302.66 Bn, Globally, by 2030 at 36.2% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \"Machine learning as a Service Market by By Application (Marketing and Advertising,"
+    publishedDateTime: 2022-05-17T13:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at-36-2-cagr-allied-market-research-895645004.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market: Machine Learning Technology to Rake at 45.4% CAGR During 2020-2028"
+    excerpt: "According to a recent report published by Allied Market Research, titled, “Automotive Artificial Intelligence Market by Component, Technology, and"
+    publishedDateTime: 2022-05-17T13:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-machine-learning-technology-to-rake-at-45-4-cagr-during-2020-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
 
 secured: "oCDbfYVy4NTwKajOxODl8fz76jXAsUwHTOvD/1fHkAFxaAwAPwLn9Vwe5KaRHSUHRB2e0SthbfAE+WPpPt9VCqnIY3TZ52kC3807shXFjnyybywjKLi/b0sbtCfTnPWGIpVZqv5KnqYtiGnAuy4oB4bMMKZQnC1bVTxyGd+QYb1Qx9/l7/VWoD3jgD2aWCbVH5NRS7EY1PEpwb3cKPf0KfRoCi0PLY2xB4j8HJ24iv+tgOpZm6xf9XeFcpBEPQtYzWF3cUZjwYPWZ9fEl5irrnAtmCIUe1yS7fbGnwZGZ+LvachzOFnORTgBDFxD4F0OvkJBO2I6mjIYWtsdLxkOKCKo4brfLKM5+w1yN38+eyY=;itWM9CVFg3KAav8l4FgVOg=="
 ---

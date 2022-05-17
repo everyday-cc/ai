@@ -36,6 +36,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "AI in Fintech Market Size, Business Segment and Geography – Forecast and Analysis 2022-2028"
+    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
+    publishedDateTime: 2022-05-17T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-segment-and-geography-forecast-and-analysis-2022-2028-2022-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Bakkt To Participate in Rosenblatt Securities Annual FinTech Summit"
     excerpt: "Bakkt Holdings, Inc. (NYSE: BKKT), a trusted digital asset platform that enables consumers to buy, sell, send and spend a range of digital assets, announced today it will participate in the Rosenblatt Securities Annual FinTech Summit."
     publishedDateTime: 2022-05-13T15:15:00Z
@@ -78,15 +87,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
-    excerpt: "Government of India recently announced the rapid digitalization of the banking sector as part of the Digital India initiative that will stimulate financial inclusion. RBI further appended and promotes its policy of Secure and Informed Digital Banking."
-    publishedDateTime: 2022-05-12T21:24:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220512/3940898.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
   - title: "Infinity Ventures Launches Inaugural $158 Million Fund Dedicated to Global Fintech Investing"
     excerpt: "Former PayPal leaders Jeremy Jonker, Jay Ganatra, and Mario Ruiz form fund to back the builders of fintech infrastructure and commerce enablementSAN FRANCISCO & NEW YORK--(BUSINESS WIRE)--Infinity Ventures,"
     publishedDateTime: 2022-05-15T23:01:00Z

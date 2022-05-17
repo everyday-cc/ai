@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T12:45:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/signup-software-and-velosio-ink-north-america-partnership-to-deliver-integrated-ai-driven-ap-automation/article_b5071b9b-0689-59c8-9f64-964847b93743.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/signup-software-and-velosio-ink-north-america-partnership-to-deliver-integrated-ai-driven-ap-automation/article_b5071b9b-0689-59c8-9f64-964847b93743.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WFMZ-TV

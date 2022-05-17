@@ -10,7 +10,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -44,49 +44,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-wysa-receives-usfda-approval-for-ai-led-device-for-mental-health.md",
-      "title": "Wysa receives USFDA approval for AI led device for mental health",
-      "excerpt": "The device delivers cognitive behavioural therapy (CBT) via a smartphone-based conversational agent to reduce the symptoms of depression and anxiety, ..",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91592319,imgsize-18776,width-1200,height-628,overlay-ethealthworld/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "publishedDateTime": "2022-05-16T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -1358,6 +1315,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-30-artificial-intelligence-and-the-human-context-of-war.md",
+      "title": "Artificial Intelligence And the Human Context of War",
+      "excerpt": "Yet fancy tactics are no substitute for bad strategy. Wars are caused by miscalculation and confusion, and artificial intelligence cannot offset natural stupidity.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-human",
+      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/globalhawk_1.jpg",
+          "width": 1222,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-30T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

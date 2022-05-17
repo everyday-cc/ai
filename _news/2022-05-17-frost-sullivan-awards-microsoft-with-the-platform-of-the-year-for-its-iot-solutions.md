@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T12:47:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56075541-frost-sullivan-awards-microsoft-with-the-platform-of-the-year-for-its-iot-solutions-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56075541-frost-sullivan-awards-microsoft-with-the-platform-of-the-year-for-its-iot-solutions-008.htm"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Finanznachrichten

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:08:00Z
 originalUrl: "https://eandt.theiet.org/content/articles/2022/05/google-faces-lawsuit-for-misusing-millions-of-people-s-medical-data/"
 webUrl: "https://eandt.theiet.org/content/articles/2022/05/google-faces-lawsuit-for-misusing-millions-of-people-s-medical-data/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: IET

@@ -75,6 +75,29 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Far-field Speech Recognition Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
+    excerpt: "Far-field Speech Recognition Market (US, Europe, Asia-Pacific) 2022 Global Industry Market research report gives"
+    publishedDateTime: 2022-05-17T06:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2022-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+  - title: "Self-Cleaning Filters Market foresee Professional Survey by Manufacturers, Share, Growth, Trends, Types and Applications, predict to 2026"
+    excerpt: "Self-cleaning filters are used for to remove contamination and oversize materials from your products. These filters are adopted for efficient filtration of liquids with high or moderate viscosity. These."
+    publishedDateTime: 2022-05-17T14:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-cleaning-filters-market-foresee-professional-survey-by-manufacturers-share-growth-trends-types-and-applications-predict-to-2026-2022-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Middle East and Africa Self-driving Car Market 2022 : Growth Factors, Product Overview, Segmentation and Forecast Study to 2030"
     excerpt: "Quadintel published a new report on the Middle East and Africa Self-driving Car Market. The research report consists of thorough information about demand,"
     publishedDateTime: 2022-05-16T14:19:00Z

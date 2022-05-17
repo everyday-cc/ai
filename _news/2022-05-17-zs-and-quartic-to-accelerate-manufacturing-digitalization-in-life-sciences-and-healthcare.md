@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T12:02:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-science-health-artificial-intelligence-1160a190d96a4dc3bbe138a2a4f47a2e"
 webUrl: "https://apnews.com/press-release/business-wire/technology-science-health-artificial-intelligence-1160a190d96a4dc3bbe138a2a4f47a2e"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Associated Press

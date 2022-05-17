@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:14:00Z
 originalUrl: "https://www.theregister.com/2022/05/17/percona_platform/?td=keepreading-btm"
 webUrl: "https://www.theregister.com/2022/05/17/percona_platform/?td=keepreading-btm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: theregister

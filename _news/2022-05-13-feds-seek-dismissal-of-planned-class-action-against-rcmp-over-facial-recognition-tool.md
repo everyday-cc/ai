@@ -126,6 +126,20 @@ related:
       name: Orange County Register
       domain: ocregister.com
     quality: 19
+  - title: "Facial Recognition Market And Its Amazing Applications Across Industries Trend | NEC Corporation, Cognitec Systems, Aware Inc"
+    excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
+    publishedDateTime: 2022-05-13T10:56:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-and-its-amazing-applications-across-industries-trend-nec-corporation-cognitec-systems-aware-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 12
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "pQYDnHfbWJF6clgT5LsmQ9itAPGpyv/Hgv+kuhjkkJ2KEnj6LRZXOnF7uCMHP1whYq3hbTK09CbWB8nLBp0FX9QrJN4vjJjyVvUdHEtTt8gmSd3QYVNsfADaDvly++OrnisPMDK2A1SWgqciYhv9FmojMbGz2coV1zKg6SIUJ2GGE5BtyjUmUT+Q2p77OcSIp7hVxXvmy7LJwdk3Rfj4kVXzS5jFEWDr4Brs6uFI11yJWFLa813Wx+Kgj3e5VKgokcrM4BTmenMzXtWnraHvxMu1oGF7uUHw+O6DoqINZh1C4o99ei6d8QpLoQFHPEQ3malEUyLdDeRyvMmYo4J/gul2L+MEMikld8j+r9VwQBs=;38qV2oJ3Ni7BaVBWlnX1MA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2022/05/justice-eeoc-release
 webUrl: "https://www.nextgov.com/emerging-tech/2022/05/justice-eeoc-release-guide-prevent-ai-discrimination/366887/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "AI compounds discrimination against disabled"
-    excerpt: "Organizations are responsible for ensuring their hiring and performance management tools do not discriminate against individuals with disabilities, federal civil rights officials say."
-    publishedDateTime: 2022-05-13T15:41:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/05/ai-compounds-discrimination-against-disabled/366901/"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://cdn.gcn.com/media/img/cd/2022/05/13/051222_getty_fcw_ai_brain/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "rla1ey4oaEAruGVg5n22A3cCi/5tscaiiqCQ67t4Nhj2ydvSSPOdHBVlQ++CllbxkxTzyicRI1iYzITNA18RsjneYA393GM9neClfnRn+jRCqcHbHVWYmOwMTIfRMik2mIaA/zAu+zWIrzAbD1EftwMVkEJyrL7jaX6lVmpSjDkdaf4Hl75pwBM+M5GQwB+OWjpfhLE0QDSZ+v6wjf+AhTD4J9JDAlSMp6gjowMBTXI6+nRpSvpeqeVcVoSE0Foj5ueSG/b+MCmxqEeoBcdgN65FuLgAyQy3jQSar69CWH01oR6r4+HL8VzljyqYmLwRvtpofxuMCiBshrB/DlsNmjwz1zv+qlRUf3cyFjjOc0FbXmbiihAeBItddO5olo62GXU6vF67A9a5VyojZZUm7TafeitgNKQ5oUVw8gGz2VGcw+JQ6v0kKr4FZqWe2E3+BOmV2VJZ+g8+VjfRq8gA0E53rLj2ciEMBLEnZVJ1MbVhcChCfK+I+BVmflNmsdPe3aoSZ1le+FcLJOrYMLBw8Q==;H8U8pCyY80b0wlBbZirOhA=="
 ---

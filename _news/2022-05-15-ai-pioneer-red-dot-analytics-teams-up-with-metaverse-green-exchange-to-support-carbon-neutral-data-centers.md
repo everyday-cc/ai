@@ -49,6 +49,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "EdTech startup STEMuli raises $3.25M to transform traditional classroom learning with the Educational Metaverse"
+    excerpt: "STEMuli, a minority- and woman-owned Web3 education startup, has announced $3.25 million in seed funding co-led by Slauson & Co and Valor Ventures, with"
+    publishedDateTime: 2022-05-17T13:02:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/edtech-startup-stemuli-raises-3-25m-to-transform-traditional-classroom-learning-with-the-educational-metaverse/article_0047ca4d-686e-580c-8547-4863122b90fa.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "J0kSVV+cRUka4Y1EB0vLyZdpIzWFYfUmPC2SZDh7jgTPVj3FfuZRQBV1hpARavvXDKl49NuQfYY7Ybb3TEJhKT31FoS3BzivXMQItiFmGjLVfneWFlqqN13mxs4qEGXovNHJ7Eje2VidI/Aim7wOwyRLlUO9y89do3T1w7jdHfWeX2sl3uy7DuTRhisSa8GlyLHEgGghR/DWZZL3CtwrH0cgAOb4OfgqMrbOU1qmPQrCoEPdgBz1lj6JFymrbneVo44plH611CRcmj+A+63subLgyOZVFJhV0KtHEMipMbYVvbJ2HfAFuMyUDN8SyAkhhW4YM8HZSQl5Eai2R3NAjJsWAYWH/9BP3ZIvKPqOtq6YRahX2aOv50sZACbb12GR4F0P1I2aeJC0tgo9ay5C3ILcgzS7nIiH6M9exNDtbrfiThISx8BEQJgA/siGrv0KORehjMoOcX53FhMK5yJBhkbYvOdLcmJ1J94+dekEYuRwAavSS5L+RFkT3R9WIU1ycoNno8Vse0xZwGuXG8qb2Q==;pLuszPE4je4GQF+H0L1xhQ=="
 ---

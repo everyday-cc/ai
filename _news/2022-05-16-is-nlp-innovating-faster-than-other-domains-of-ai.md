@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-
 webUrl: "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-domains-of-ai/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The power of artificial intelligence"
-    excerpt: "MILWAUKEE (CBS 58) -- For many organizations around the world, digital transformation has accelerated over the last two years, prompting new investments in advanced technologies like artificial intelligence -- or \"AI.\" Today, AI is changing the way ..."
-    publishedDateTime: 2022-05-16T13:54:00Z
-    webUrl: "https://www.cbs58.com/news/the-power-of-artificial-intelligence"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 37
-    images:
-      - url: "https://newscdn2.weigelbroadcasting.com/MuzbZ-1652709561-226479-blog-artificial%20intelligence.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Riiid Expands its NLP Capabilities, Presenting Innovative AI Models at the World’s Leading NLP Conferences"
     excerpt: "Two studies to be presented at ACL and NAACL–held on May and July 2022 respectively SAN RAMON, Calif., May 16, 2022 /PRNewswire/ -- Riiid, a leading AI Education solutions company and a member of Born2global Centre,"
     publishedDateTime: 2022-05-16T13:06:00Z

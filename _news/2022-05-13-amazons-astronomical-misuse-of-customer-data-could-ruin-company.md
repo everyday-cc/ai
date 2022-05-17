@@ -41,17 +41,6 @@ related:
         width: 2879
         height: 1919
         isCached: true
-  - title: "Shareholder: Amazon’s ‘astronomical’ misuse of customer data could ruin company"
-    excerpt: "Amazon shareholder Stephen Nelson is suing Jeff Bezos, Andy Jassy and 17 other Amazon leaders, claiming they allowed the company to misuse customer data."
-    publishedDateTime: 2022-05-12T22:21:00Z
-    webUrl: "https://www.seattletimes.com/business/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company/"
-    ampWebUrl: "https://www.seattletimes.com/business/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 20
   - title: "Shareholder: Amazon's 'astronomical' misuse of customer data could ruin company"
     excerpt: "Amazon has already come under fire for how its uses biometric data, things like fingerprints and facial images."
     publishedDateTime: 2022-05-15T01:00:00Z

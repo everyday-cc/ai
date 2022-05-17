@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "FDA grants breakthrough device designation for Wysa digital therapy"
-    excerpt: "Wysa Ltd.’s artificial intelligence-based digital therapy received FDA breakthrough device designation for adults with chronic musculoskeletal pain, depression and anxiety. The device delivers cognitive behavioral therapy (CBT) via a digital companion or ..."
-    publishedDateTime: 2022-05-12T22:28:00Z
-    webUrl: "https://www.bioworld.com/articles/518747-fda-grants-breakthrough-device-designation-for-wysa-digital-therapy"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 39
-    images:
-      - url: "https://www.bioworld.com/ext/resources/BMT-source/2022/05-12-Wysa-featured.png?height=635&t=1652390572&width=1200"
-        width: 847
-        height: 635
-        isCached: true
 
 secured: "XFAakz4syx1U4/35CyI/uEwByo90c1Dt5w6ZxoHYF8cRRNey27TVbohMBHqfurOjwLaGDlO+k9meUyX6rsVaEfhaTHyzadadbYFvxFSUe8mG2All6d1k+ZOnPs28Jm55J5qfFN3ULV4SVdUOHiLUjgp+UgDvB2+yyWMmcPPJSCmnnS0Rt2ebvhJkbkH1RoXf77lOdtID5o+SAlJXX3R68UF579qTXT/fAouuSXLD+OYcNoctuT6bFv4XW/eOjqIo3sM6HloHgXtSO9us8QTQVn49noUWOqNEzZ+0T1Xnayi/ntbe+/7TbUvecxZnfDFhoCXTlNxinbCDLpTVzZtOAnOi/Ml2h6wgoRYhlpPraiXsa4up1IrG4aC/DzvoECPEjPAoQ1efWk3BkNCoIuVgdzhcqSwkkHkYAhvM2JCD+mBmuxLIrHn5u93aZ11C8QZ4VP7Z3XZVtMkjH5zws47/l7lV84DCCUr7mielBUSBiz3s01uvB1yqFo/bInCdMS3MyuwluZOTJWRix1K87uHTZQ==;j0fGRLWUaYtzAWQzij0xcA=="
 ---

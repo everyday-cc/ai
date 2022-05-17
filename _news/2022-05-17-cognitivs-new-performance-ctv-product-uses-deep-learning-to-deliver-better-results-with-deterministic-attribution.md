@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T12:52:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cognitivs-new-performance-ctv-product-uses-deep-learning-to-deliver-better-results-with-deterministic-attribution/article_4517be0c-cc3d-5adb-b4a2-12cbfac8885e.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cognitivs-new-performance-ctv-product-uses-deep-learning-to-deliver-better-results-with-deterministic-attribution/article_4517be0c-cc3d-5adb-b4a2-12cbfac8885e.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

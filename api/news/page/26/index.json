@@ -2,6 +2,340 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-04-22-taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing.md",
+      "title": "Taiwan Unicorn Appier Bets On AI-Driven Software For Digital Marketing",
+      "excerpt": "Academics-turned-entrepreneurs Yu Chih-han and Winnie Lee led Appier to become Taiwan’s first listed unicorn. Now they're betting on global demand for the marketing firm’s AI insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62610776ca5e4f77243c3a02/0x0.jpg?format=jpg&crop=2359,1328,x0,y141,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies.md",
+      "title": "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies",
+      "excerpt": "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26754709",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26754709",
+      "publishedDateTime": "2022-04-21T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-dahua-launches-xvr-i3-series-to-broaden-ai-applications.md",
+      "title": "Dahua launches XVR-I3 Series to broaden AI applications",
+      "excerpt": "Dahua Technology, a video-centric smart IoT solution and service provider, recently unveiled an addition to its AI-enabled XVR series by releasing the XVR-I3 models. These new product",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/dahua-launches-xvr-i3-series-broaden-co-4261-ga-npr.1650600586.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/dahua-launches-xvr-i3-series-broaden-co-4261-ga-npr.1650600586.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-new-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.md",
+      "title": "New deep learning method aids in the accurate diagnosis of parkinsonian diseases",
+      "excerpt": "A new deep learning method has been created to aid in the diagnosis of parkinsonian diseases, according to research published ahead of print by The Journal of Nuclear Medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/7/image_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx",
+      "publishedDateTime": "2022-04-21T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-ai-fuels-industry-momentum-in-brain-computer-interfaces.md",
+      "title": "AI Fuels Industry Momentum in Brain-Computer Interfaces",
+      "excerpt": "Brain-computer interfaces enable two-way communications between the human brain and a machine. In the field of health care and life sciences, the hope is that brain-computer inter",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/pic77264.jpg?itok=m8Deopti",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp",
+      "publishedDateTime": "2022-04-21T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum.md",
+      "title": "ETHICAL AI GOVERNANCE GROUP (EAIGG) ANNOUNCES FORMAL LAUNCH; UNVEILS ETHICS MATURITY CONTINUUM",
+      "excerpt": "The Ethical AI Governance Group (EAIGG) announced its formal launch yesterday with a mission to promote AI governance, data privacy, and climate technologies. A special event was held in partnership with founding member BGV to celebrate the formation of EAIGG and to formally unveil the Ethics Maturity Continuum,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum-1031373253",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum-1031373253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1802125/EAIGG_Logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-aws-announces-general-availability-of-amazon-aurora-serverless-v2.md",
+      "title": "AWS Announces General Availability of Amazon Aurora Serverless v2",
+      "excerpt": "New version of Amazon Aurora Serverless scales to hundreds of thousands of transactions in a fraction of a second, delivering up to 90% cost savings compared to provisioning for p",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-21-aws-announces-general-availability-of-amazon-aurora-serverless-v2",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-21-aws-announces-general-availability-of-amazon-aurora-serverless-v2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-aws-announces-general-availability-of-aws-amplify-studio.md",
+      "title": "AWS Announces General Availability of AWS Amplify Studio",
+      "excerpt": "New visual development environment for creating rich user interfaces extends AWS Amplify to make it easier for developers to create fully customizable web applications with minima",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-21-aws-announces-general-availability-of-aws-amplify-studio",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-21-aws-announces-general-availability-of-aws-amplify-studio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-aws-announces-general-availability-of-aws-iot-twinmaker.md",
       "title": "AWS Announces General Availability of AWS IoT TwinMaker",
       "excerpt": "AWS IoT TwinMaker makes it easy for developers ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ...",
@@ -777,402 +1111,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026.md",
-      "title": "United States Artificial Intelligence Market Share, Size, Trends, Growth and Forecast 2021-2026",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 21, 2022 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"United ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-how-to-improve-contact-center-training-with-ai-simulation.md",
-      "title": "How To Improve Contact Center Training With AI Simulation",
-      "excerpt": "Salesforce \"State of Service\" report shows that almost 80% of contact center agents say their company views them as customer advocates or brand ambassadors, and 77% of ag",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625eebe47a9fb17059edc980/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/",
-      "publishedDateTime": "2022-04-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-the-metaverse-needs-conversational-aibut-its-no-easy-ride.md",
-      "title": "The Metaverse Needs Conversational AI—But It's No Easy Ride",
-      "excerpt": "There are a few reasons why consumers and brands have been slow to warm to metaverse technology, one of which is the inadequate quality of voice and chat assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/the-metaverse-needs-conversational-ai-but-its-no-easy-ride/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/the-metaverse-needs-conversational-ai-but-its-no-easy-ride/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62600e8acc116ce425fc46ac/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/the-metaverse-needs-conversational-ai-but-its-no-easy-ride/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/21/the-metaverse-needs-conversational-ai-but-its-no-easy-ride/amp/",
-      "publishedDateTime": "2022-04-21T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022.md",
-      "title": "Artificial Intelligence (AI) Chips Market 2022 Global Industry Analysis by Trends, Size, Share and Revenue status by 2022",
-      "excerpt": "Apr 21, 2022 (The Expresswire) -- “artificial intelligence (AI) chips market and it is poised to grow by USD 73.49 billion during 2021-2025, progressing at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027.md",
-      "title": "Global AI in Computer Vision Market Future Demand, Top Leading Players, Competitive Situation, Emerging Trends, And Forecast To 2027",
-      "excerpt": "Apr 21, 2022 (Heraldkeepers) -- Global AI in Computer Vision Market: is expected to reach US$ 77.78 Bn by 2027 from US$ 15.6 Bn in 2020 at a CAGR of 25.8% during the forecast period of 2021-2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022.md",
-      "title": "Machine learning hiring levels in the air force industry rose in March 2022",
-      "excerpt": "The proportion of air force equipment and technologies companies hiring for machine learning related positions rose in March 2022 compared with the equivalent month last year, with 48.5% of the companies included in our analysis recruiting for at least one such position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
-      "originalUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/04/IS9OI-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Airforce Technology",
-        "domain": "airforce-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-natural-language-processing-market-business-with-cagr-of-20-is-constantly-witnessing-demand-for-forecast-year-2022-2028.md",
-      "title": "Natural Language Processing Market Business with CAGR of 20% is constantly witnessing demand For Forecast year 2022-2028",
-      "excerpt": "Apr 21, 2022 (Market Insight Reports) -- Growth of Natural Language Processing Market are scheduled to accelerate at a high CAGR of 20% to reach USD 49 billion by 2028 during Forecast Period from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-business-with-cagr-of-20-is-constantly-witnessing-demand-for-forecast-year-2022-2028-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-business-with-cagr-of-20-is-constantly-witnessing-demand-for-forecast-year-2022-2028-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-biotech-firm-graphcore-ipus-faster-for-ai-based-drug-discovery-than-gpus.md",
-      "title": "Biotech firm: Graphcore IPUs faster for AI-based drug discovery than GPUs",
-      "excerpt": "In the race to provide the best machine-learning accelerators, one of Nvidia's top challengers has claimed a victory in the biotech space, London firm LabGenius, which said Graphcore's intelligence processing units (IPUs) provide significantly faster performance for AI-based drug discovery than some unidentified traditional GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/21/biotech_fgraphcore_ipus/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/21/biotech_fgraphcore_ipus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/03/03/handout_graphcore_3d_chip.jpg",
-          "width": 1030,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/21/biotech_fgraphcore_ipus/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/biotech_fgraphcore_ipus/",
-      "publishedDateTime": "2022-04-21T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

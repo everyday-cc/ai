@@ -106,51 +106,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-16-is-nlp-innovating-faster-than-other-domains-of-ai.md",
-      "title": "Is NLP innovating faster than other domains of AI",
-      "excerpt": "Why is there such intense competition in this field, or in other words, are other AI domains lagging behind NLP in terms of innovation?",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-domains-of-ai/",
-      "originalUrl": "https://analyticsindiamag.com/is-nlp-innovating-faster-than-other-domains-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/NLP_AIM-1300x731.gif",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-15T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-05-13-inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions.md",
       "title": "Inflection AI, led by LinkedIn and DeepMind co-founders, raises $225M to transform computer-human interactions",
       "excerpt": "Inflection AI, the startup co-founded by LinkedIn co-founder Reid Hoffman and founding DeepMind member Mustafa Suleyman, has raised $225 million in funding.",
@@ -1476,6 +1431,58 @@
       "ampWebUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
       "publishedDateTime": "2022-04-11T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-how-ai-and-imagery-build-a-self-updating-map.md",
+      "title": "How AI and imagery build a self-updating map",
+      "excerpt": "Building a map is complex, and keeping it up-to-date is even more challenging. Think about how often your city, town or neighborhood changes on a day-to-day basis. Businesses and shops open and close, stretches of highway are added, and roadways change. In today’s Maps 101 installment, we’ll dive into",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/",
+      "originalUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pexels-suzy-hazelwood-2679323.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/",
+      "publishedDateTime": "2022-04-07T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

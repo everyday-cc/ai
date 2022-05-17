@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:03:00Z
 originalUrl: "https://techxplore.com/news/2022-05-artificial-intelligence-autonomous-vehicles-idling.html"
 webUrl: "https://techxplore.com/news/2022-05-artificial-intelligence-autonomous-vehicles-idling.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: techxplore

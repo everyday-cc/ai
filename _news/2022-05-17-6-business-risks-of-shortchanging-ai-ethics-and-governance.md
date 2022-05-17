@@ -8,7 +8,7 @@ webUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging
 ampWebUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -43,6 +43,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1219474321.jpg?w=1200&strip=all"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Using AI to predict heart attacks"
+    excerpt: "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?"
+    publishedDateTime: 2022-05-17T14:50:00Z
+    webUrl: "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg"
+        width: 1000
+        height: 554
         isCached: true
   - title: "How is AI improving aircraft inspections after hard landings?"
     excerpt: "A hard landing on the runway puts stress on a plane. ATR is using artificial AI to help identify any damage and get planes flying again."
@@ -88,6 +104,15 @@ related:
         width: 1118
         height: 617
         isCached: true
+  - title: "Finding the Fairness in AI"
+    excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
+    publishedDateTime: 2022-05-17T15:09:00Z
+    webUrl: "https://cacm.acm.org/news/261047-finding-the-fairness-in-ai/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "k0g/+ToJVXMvSeY7Iwm3Sd2BhYkurrKDsWercs5tOKULbymSVztvp+F+OwuqDKK8lPkuSElcdyPizA4A+vF9VvmgK+/tgUuMyrAQi9issA1gUfSxmYRkVyGfBC4X0b6vLqkY2exBis6dsbtO6EjArwgrnLWcSBiNDxsTvVHpfBfPdohgY04NRpptZQ5e0dh6+MA3rFQfYEA7x0l4lvLXtRrksAZsSJvPtY/oUcYpGl7qIxtnOb5VzW1ZxMFrJEmQaWHI5ncnipymv53TgnGTW3DQRknBeQOL+cTtyAGvphVFvuGsRPLZJD9OExrXz83JPFX7qv+yHYuqq6kOYOS/lnVd9V02L8Vogscy0Zxxn/UdHMmd+K7InVpgX9CO9ZWX6vz3nvhzBZfUrOz8fXaYH02QAolB1+JH2158/KroYui4lGfo3HNOfoURaGk+AP4nyzMhR4L6G1Fj+HeNh1LvFKITEFPDWnu+P1kFfz6g9OXbSEL0D4zaf8EigoqQpizgZiyN9h60X1vDfOLD1mpJLw==;hxCQN76CSzkKnAP0oe8wOA=="
 ---

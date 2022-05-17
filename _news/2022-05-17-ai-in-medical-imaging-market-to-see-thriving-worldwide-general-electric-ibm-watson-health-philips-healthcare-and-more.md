@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T12:00:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-in-medical-imaging-market-to-see-thriving-worldwide-general-electric-ibm-watson-health-philips-healthcare-and-more"
 webUrl: "https://www.digitaljournal.com/pr/ai-in-medical-imaging-market-to-see-thriving-worldwide-general-electric-ibm-watson-health-philips-healthcare-and-more"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Digital Journal

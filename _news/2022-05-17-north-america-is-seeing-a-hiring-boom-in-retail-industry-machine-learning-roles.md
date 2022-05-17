@@ -53,6 +53,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Europe is seeing a hiring boom in railway industry machine learning roles"
+    excerpt: "Europe was the fastest growing region for machine learning hiring among railway industry companies in the three months ending March. The number of roles in Europe made up 23.1% of total machine learning jobs – up from 7."
+    publishedDateTime: 2022-05-17T08:00:00Z
+    webUrl: "https://www.railway-technology.com/analysis/europe-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles-2/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 33
   - title: "Machine learning innovation among retail industry companies has dropped off in the last year"
     excerpt: "Research and innovation in machine learning in the retail sector has declined in the last year. The most recent figures show that the number of related patent applications in the industry stood at 32 in the three months ending March – down from 100 over the same period in 2021."
     publishedDateTime: 2022-05-16T18:00:00Z

@@ -409,6 +409,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-03-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
+      "title": "Facebook-owner Meta Opens Access To AI Large Language Model",
+      "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718",
+      "originalUrl": "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-01-social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper.md",
       "title": "Social media AIs are a convenient scapegoat for the decline of democracy. But we should look deeper",
       "excerpt": "When Facebook is faulted for election ... and supplant our system of government. But his research suggests that dictators who depend on AI tools for surveillance and suppression are sowing the ...",
@@ -1354,41 +1397,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-how-artificial-intelligence-revolutionizes-multi-level-marketing.md",
-      "title": "How Artificial Intelligence revolutionizes multi-level marketing",
-      "excerpt": "They call it Jenny; a robotic solution with Artificial Intelligence ... sitting on the company’s social media handles- WhatsApp, Facebook, Instagram, Twitter and even on its website.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2022/04/how-artificial-intelligence-revolutionizes-multi-level-marketing/",
-      "originalUrl": "https://www.vanguardngr.com/2022/04/how-artificial-intelligence-revolutionizes-multi-level-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:30:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-5-17-uys-scuti-trading-robots-provide-investors-with-comprehensive-experience-with-crypto-trading"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-5-17-uys-scuti-trading-robots-provide-investors-with-comprehensive-experience-with-crypto-trading"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Daily Herald

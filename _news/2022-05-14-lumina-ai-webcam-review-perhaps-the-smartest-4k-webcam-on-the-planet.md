@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-13T17:01:00Z
 originalUrl: "https://www.windowscentral.com/lumina-ai-webcam-review"
 webUrl: "https://www.windowscentral.com/lumina-ai-webcam-review"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 

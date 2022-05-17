@@ -30,6 +30,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "AI in Fintech Market Size, Business Segment and Geography – Forecast and Analysis 2022-2028"
+    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
+    publishedDateTime: 2022-05-17T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-segment-and-geography-forecast-and-analysis-2022-2028-2022-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Bakkt To Participate in Rosenblatt Securities Annual FinTech Summit"
     excerpt: "Bakkt Holdings, Inc. (NYSE: BKKT), a trusted digital asset platform that enables consumers to buy, sell, send and spend a range of digital assets, announced today it will participate in the Rosenblatt Securities Annual FinTech Summit."
     publishedDateTime: 2022-05-13T15:15:00Z
@@ -86,15 +95,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
-    excerpt: "Government of India recently announced the rapid digitalization of the banking sector as part of the Digital India initiative that will stimulate financial inclusion. RBI further appended and promotes its policy of Secure and Informed Digital Banking."
-    publishedDateTime: 2022-05-12T21:24:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220512/3940898.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "Gm3wTqNXSl26kyRLWaYyC23JmOnou+ekBt8dBOjm+/hQjhn7cy19LwMe+TydNsJD93YttQ1WNbG8BvLTkpBjA3g1QHvrbNYC4nEF/FGRP87Dylo1MwdKbX0bDyUMOYWFkuKamyBleiA+KjL0VmyBb3ocpzlF+2416TEzZfvtZcpsSCLXL9F8j/RKQGwhJXhv1E/SUOM7XL7Hy39szkQb/bbrbfPsJj65KNDFYFUjTiFnDe3/VsCyEF3qZ3F/21maKmX/CO7vKvCxlDikqpTSX83GFeNeqH4iCBnYRco3bE0C+fX7hzxjRiuWuaCSq5f4nHL3Gd/K9OAIwouFNkB9xVwHR6FyW997I52K0jebtMA=;GJBg6A1KPJd//FZz/Prhzw=="
 ---

@@ -61,6 +61,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Europe is seeing a hiring boom in railway industry machine learning roles"
+    excerpt: "Europe was the fastest growing region for machine learning hiring among railway industry companies in the three months ending March. The number of roles in Europe made up 23.1% of total machine learning jobs – up from 7."
+    publishedDateTime: 2022-05-17T08:00:00Z
+    webUrl: "https://www.railway-technology.com/analysis/europe-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles-2/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 33
   - title: "J&J is top machine learning innovator in clinical trial operations in Q1 2022"
     excerpt: "Johnson & Johnson was the top innovator in the clinical trial operations sector in the latest quarter. The company filed 31 related patents in the three months ending March. That was up from 11 over the same period in 2021. It was followed by Roche with 15 ..."
     publishedDateTime: 2022-05-16T18:04:00Z

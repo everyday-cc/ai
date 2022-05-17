@@ -39,20 +39,6 @@ related:
         width: 1300
         height: 731
         isCached: true
-  - title: "The power of artificial intelligence"
-    excerpt: "MILWAUKEE (CBS 58) -- For many organizations around the world, digital transformation has accelerated over the last two years, prompting new investments in advanced technologies like artificial intelligence -- or \"AI.\" Today, AI is changing the way ..."
-    publishedDateTime: 2022-05-16T13:54:00Z
-    webUrl: "https://www.cbs58.com/news/the-power-of-artificial-intelligence"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 37
-    images:
-      - url: "https://newscdn2.weigelbroadcasting.com/MuzbZ-1652709561-226479-blog-artificial%20intelligence.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Bj6MZ1TV0q3T6PlUeezHJ6tROP0dgnvQhgjjsfXQLyGkLPbs1Sm0+sTcoqjAv4Ri5VyHuxcTnC7/6BaGe8Z0zNbT6sOqNyenb417rsTlVXUfLVBUFamrqp1WKo2F2DWn0IoMy0lc40GrmPnDtGEYh6Zbx8aHuWJ2tzFJBuoWoZ2QXU1A8hB2aiUHDAu/BBsPbrQbCGZhmts3kDVR2EyYsr58HaY1dsIEllZLuiNGDfDZmEgTOeFNlfbc9O4cxjBGHmX7IXul/y9ucBuVP1PCRA7Mp9ba/+XjiWbZ3ILQXP0qHlHYxEQROkPjCl1sx2h9pKdcKS3BhV94KeFfHjjG7XAeiP5JJbCYjf63wHlZK/8=;PLkmM714/b1So1mo9mNevw=="
 ---

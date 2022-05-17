@@ -39,7 +39,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/05/lumina-camera-2022-hero.jpg"
         width: 800

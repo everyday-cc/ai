@@ -49,6 +49,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
+    excerpt: "Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a204%"
+    publishedDateTime: 2022-05-17T14:44:00Z
+    webUrl: "https://menafn.com/1104228806/SAS-Viya-on-Microsoft-Azure-can-deliver-204-return-on-investment-according-to-independent-study"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?537199"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Microsoft launches Open Data for Society"
     excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
     publishedDateTime: 2022-05-16T12:42:00Z

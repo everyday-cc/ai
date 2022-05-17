@@ -8,8 +8,8 @@ webUrl: "https://interestingengineering.com/worlds-first-autonomous-cargo-ship"
 ampWebUrl: "https://amp.interestingengineering.com/worlds-first-autonomous-cargo-ship"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/worlds-first-autonomous-cargo-ship"
 type: article
-quality: 52
-heat: 62
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://inteng-storage.s3.amazonaws.com/img/iea/nZwXeVZrOv/sizes/orca-ai_resize_md.jpg"

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:16:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/17/logs-not-locks-how-intelligence-led-loss-prevention-stops-crime-while-building-loyalty/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/17/logs-not-locks-how-intelligence-led-loss-prevention-stops-crime-while-building-loyalty/"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Forbes

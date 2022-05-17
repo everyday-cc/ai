@@ -39,6 +39,15 @@ related:
         width: 680
         height: 356
         isCached: true
+  - title: "IMG Arena acquires computer vision firm Signality"
+    excerpt: "Agency giant’s betting data firm IMG Arena to adopt Swedish company’s AI-powered software through acquisition."
+    publishedDateTime: 2022-05-17T12:53:00Z
+    webUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 19
 
 secured: "Tgl/KV1SHHJJOTlzAqiL9lf4SaH0eGQY9M4QGJECTypt3mXCGRbRjBF0Gz247NOWpw6DDf7pQJpGB+1elzpo5svogT1J/bz++KIcFkyogAuvBJo/vHNGw7SE7UJQfyFrtNOIElGDrAYqBQfM91rJJwbMNWhqsTvYmQ43XQpAPH7y9G9XETzKkuAD4DbgZtAHMhm/7zfnaN1rFE47F6sKhG+EJlaebsIBh1/tl8F3duSfmkDspI+Cyij91OaIgETI+WBxqzrMdiCId4068Uwfv2nvapPpIDb2pQAmtp3EuzG6F1xVhBrEjKIVSwhsCGWXSAimVlxpDNOru5yF1jBTt7Dkfwyj091hKtiPUPYP33k=;JjyH/CMbGZZYxqpvApr6Fg=="
 ---

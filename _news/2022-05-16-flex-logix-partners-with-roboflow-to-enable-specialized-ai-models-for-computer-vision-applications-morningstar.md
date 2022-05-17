@@ -21,16 +21,14 @@ topics:
 
 related:
   - title: "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge"
-    excerpt: "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision appli"
-    publishedDateTime: 2022-05-16T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27227280/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27227280"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27227280"
+    excerpt: "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base."
+    publishedDateTime: 2022-05-16T16:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
   - title: "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge"
     excerpt: "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base."
     publishedDateTime: 2022-05-16T17:00:00Z

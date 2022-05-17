@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T12:24:00Z
 originalUrl: "https://apnews.com/press-release/newswire/technology-religion-government-and-politics-artificial-intelligence-5da8847cf31a7e8bf16ff8039f237ede"
 webUrl: "https://apnews.com/press-release/newswire/technology-religion-government-and-politics-artificial-intelligence-5da8847cf31a7e8bf16ff8039f237ede"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Associated Press
