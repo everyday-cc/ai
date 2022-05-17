@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "IBM to Deliver IBM Software as-a-Service on AWS"
+    excerpt: "IBM Signs Strategic Collaboration Agreement with Amazon Web Services to Deliver IBM Software as-a-Service on AWS"
+    publishedDateTime: 2022-05-17T01:19:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24887-ibm-to-deliver-ibm-software-as-a-service-on-aws"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 41
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/ee9884d5bb630a2e6b7953448d62ec78.jpg?t=20220517_005121"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "7g42aWysg+nxzmSsrU6l27JJp6UldnjoJYr3tuOjdR2sv/dlENAN5Ep5BCb4zLLZe7OU/S5IoZy8V7in6zT28cRD5O6iKpbPOeE+iYi9E/dNhPqfwaHe+O4JIG4S1rRHAdrDJ4rj8OtaoCKeDzTA5xvMZmajKyfexJwbAOAJ8opKnwPja20JZPk1ojMkpPkiYuSEmgoDt6HgtXlWi5fX5CyNOVrNvBmqOeQUUpHU5h/Ur4qZtiCjUHbOJrBR6Xv++S8LDr+4oAV693366PDic6johKW252frLaC582nCy0kFiL9Wn3qM+E9qYYfMCOWjS2bcYis8Cq9izl04oq4pYtpwou9mfHSy5go88DmHGBk=;2Mg5+Zwlwy3SqeavAdN2jg=="
 ---

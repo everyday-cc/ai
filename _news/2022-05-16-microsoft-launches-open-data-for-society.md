@@ -19,95 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft session highlights from SAP Sapphire 2022"
-    excerpt: "Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft"
-    publishedDateTime: 2022-05-12T08:00:33Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/"
+  - title: "Microsoft is enabling Kubernetes for Windows edge-computing devices via 'Project Haven'"
+    excerpt: "Wondering what Microsoft has up its sleeve for Build 2022? Here are a few tidbits gleaned from the hundreds of sessions listed on its web site, including a new Kubernetes-at-the-edge effort."
+    publishedDateTime: 2022-05-12T15:29:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Avaya OneCloud – now available on Microsoft Azure"
-    excerpt: "Avaya and Microsoft have expanded their global partnership by combining the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations have more options to increase productivity and customer engagement."
-    publishedDateTime: 2022-05-16T11:25:00Z
-    webUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 69
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/05/Avaya-Microsoft-Azure-Announce-CPaaS-Integration-1280x720-1.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-    excerpt: "Prior to implementing SAS Viya on Azure, interviewees noted that barriers to data access and disparate data sources made it difficult and time-consuming to build, deploy and manage AI models. Other issues they faced included the inefficiencies and high ..."
-    publishedDateTime: 2022-05-13T07:20:00Z
-    webUrl: "https://www.albawaba.com/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 61
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-05/jay.png?itok=5WUB_pkk"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Machine Learning Operations (MLOps) Market to Observe Exponential Growth By 2022 to 2028 | Microsoft, Amazon, Google, IBM"
-    excerpt: "New Jersey, United States-Global Machine Learning Operations (MLOps) Market 2021 by Company, Regions, Type, and Application, Forecast to 2028 The Machine Learning Operations (MLOps) market report gives a definite examination of worldwide market size ..."
-    publishedDateTime: 2022-05-13T10:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-operations-mlops-market-to-observe-exponential-growth-by-2022-to-2028-microsoft-amazon-google-ibm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 46
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Study shows SAS Viya on Microsoft Azure can deliver 204% ROI"
-    excerpt: "Organisations deploying SAS Viya, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment (ROI) over three years, according to a new commissioned Total Economic Impact study ..."
-    publishedDateTime: 2022-05-12T09:30:00Z
-    webUrl: "https://it-online.co.za/2022/05/12/study-shows-sas-viya-on-microsoft-azure-can-deliver-204-roi/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment, study finds"
-    excerpt: "Quantified benefits included faster time to market for analytics insights, improved operational efficiency in model building and testing, and cost savings from retiring on-premises analytics infrastructure."
-    publishedDateTime: 2022-05-13T06:34:00Z
-    webUrl: "https://www.itp.net/infrastructure/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-study-finds"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 30
-  - title: "Announcing Microsoft AI for Accessibility Hackathon APAC winners: Thailand, Singapore, and Philippines accelerate inclusive innovation"
-    excerpt: "Asia Pacific, 13 May 2022 – Teams from Thailand, Singapore and Philippines are winners of the Microsoft AI for Accessibility (AI4A ... experts to co-build their solutions on Microsoft Azure and continued mentoring support to build out their solution ..."
-    publishedDateTime: 2022-05-13T08:14:00Z
-    webUrl: "https://news.microsoft.com/apac/2022/05/13/announcing-microsoft-ai-for-accessibility-hackathon-apac-winners-thailand-singapore-and-philippines-accelerate-inclusive-innovation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/05/microsoft-AI-for-accesibility-team-thailand_1920x1127-1600x939.png"
-        width: 1600
-        height: 939
+      - url: "https://www.zdnet.com/a/img/resize/a52ae7d89b8c9f6c7d7ce376c59cc30a6a73fb9c/2022/05/12/5944f6ae-7d42-4eb9-97cb-248e7b042c8f/build2022.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 569
         isCached: true
 
 secured: "HUq25CzhL9vKr+ReQhxvUNeFSQ/IPhTbJX7JS1gQBZr5Yzb5fhlWFrwN1pXNy4RqhiuzWd0HRpxTWzQk/mSUQGksLmTDYUdEZ75pBikPASGMLEsh9dB3CH72bCy/7hGfbFaD86b52TRFXxMhyKZx7Uu7mmmtU9gNgGzAw8mNXhP7Ko0MdWryFMSpWvCZoXiELsB9m55E2ebY1n9v5+0paAxyjnuk6dyCVgCIPFVU0H9+8Q850287++q7/zH56ZVZZmIJj+jSJWXR9CpUskSsKxs67sokJvaUwm+eE9USWWbpo0uGrhUlsX5S/gLljihFPLnkRctTPF0oc2DIoKk1RYkI06vxjLT7/qfl0ZiE+7d1lRRki3NARAqrihcgLTL7cfvISRgV+N5jMOSUm05V4YBxfrMcc+CLP3kZa6S6o55qBFry7cvtktrf8EUrCDC6RLRW+zFySBOqCHd2kPhWnsvXi8/IoqMtiNcKVaknCHmJcBjBYCjRUmLrZwEE6GNwHBRs15slAN95LUGx4pqGSA==;mk+VZaOA2nIUZ7PvzdF5nQ=="

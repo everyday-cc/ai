@@ -60,22 +60,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Apeejay Education and AWS announce New Accelerator Program aligned to NEP 2020"
-    excerpt: "using technologies such as artificial intelligence (AI) and machine learning (ML). AWS will drive these workshops based on the Amazon Working Backwards innovation methodology, which uses design thinking to identify and define a customer-focused problem or ..."
-    publishedDateTime: 2022-05-12T08:07:00Z
-    webUrl: "https://www.financialexpress.com/education-2/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-nep-2020/2521850/"
-    ampWebUrl: "https://www.financialexpress.com/education-2/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-nep-2020/2521850/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-nep-2020/2521850/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 72
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/05/Edtech-1200-1-4.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Apeejay Education and AWS launch NEP accelerator programme for tech-driven learning"
     excerpt: "using technologies such as artificial intelligence (AI) and machine learning (ML),\" said a joint statement by Apeejay Education and Amazon.com. However, the initial investments in the NEPAP programme were not disclosed. The NEPAP will have a collaborative ..."
     publishedDateTime: 2022-05-13T07:19:00Z

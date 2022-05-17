@@ -18,17 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Improving PPA With AI"
-    excerpt: "AI does not start learning from ground zero. In most cases, the AI agent (processor) will be pre-trained or fed a large amount of data, such as 15,000 samples of floor planning. At this point, the AI machines have already gained some intelligence."
-    publishedDateTime: 2022-05-12T07:08:00Z
-    webUrl: "https://semiengineering.com/improving-ppa-with-ai/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 17
-
 secured: "TxSwmkm+vmREIMIFaDsBImTtuxqubxSQxF7VcX6jHh2F/+svnIR/Tz5TdKmNHtk1Gns74OCK9AoYu/ggt6R6oVYQSwZ6ipPZvm2HvaT7LmE7s8QQNSJf2bAMh6fyGSi99zS2BtDWxsykOUaUhxgCtdE54I0/2p0TSeG4z77UdeVIlkkFENaYb+W0mkeQNNmCMgsylm64fs7L+XCjFNb7kfgCaDP2y7JzA/ff00Yv2k3IAJ1J7kN0S1E1VGjnXSQN6DK+ZzkOfdokk+esEIBdh52Yv6gYNv51i/SptLaTNpDNoyL0LVHtsxZOOMkYzvW1jJG0ulXGO2tCy1gNIvtR485rbQ6KHnun2BieT2/qu9glU3Fl3Zxwp3EZ5rhc4Fr4YpV1ubAVUgxdTmxmJvpiqn+l1YbN6P1eFilbDh8sZ5W4SBcrrRu19erCUnJH5D4762yNELnCxCIZ8bdyQJhPLRK2otBRHWODImuK1Nay0fobYw1ult+88N5D75plhL/DAvrSNrGv2TCOkncgFAPvWQ==;OdHy28niv07f6M+kER6uSA=="
 ---
 

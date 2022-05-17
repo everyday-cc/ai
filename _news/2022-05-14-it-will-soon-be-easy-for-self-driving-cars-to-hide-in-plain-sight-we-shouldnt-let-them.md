@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 727
         isCached: true
+  - title: "This Incredible Vehicle Owns The World Speed Record For Self-Driving Cars"
+    excerpt: "When it comes to self-driving cars, most people think of Waymo and Tesla models. The fastest autonomous car looks quite a bit different, however."
+    publishedDateTime: 2022-05-17T00:37:00Z
+    webUrl: "https://www.slashgear.com/865192/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 53
+    images:
+      - url: "https://www.slashgear.com/img/gallery/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/l-intro-1652743968.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Why Is Solving For Trust In AI So Challenging?"
     excerpt: "we are called to consider AI through the lenses of effective governance, ethics and trust. Like any technology, enterprises should be able to trust that the AI tools they use deliver the outcomes they expect. While there is no silver bullet, there are ..."
     publishedDateTime: 2022-05-16T12:48:00Z

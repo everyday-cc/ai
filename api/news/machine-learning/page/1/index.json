@@ -53,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -140,49 +140,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.md",
-      "title": "Deep learning technology boosts the speed of localization photoacoustic imaging",
-      "excerpt": "After a lightning strike, thunder can be heard for a short period of time afterward. This is due to the fact that the surrounding material that was struck by lightning absorbs the light, and as a result of the conversion of this light into heat,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/detail_of_microscope_lenses_observing_a_slide_with_sample_wells_in_the_laboratory-angellodeco_e84c7a54b30247a0a1ad679809f0b548-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx",
-      "publishedDateTime": "2022-05-12T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -782,10 +739,10 @@
     {
       "path": "_news/2022-05-10-d2iq-streamlines-smart-cloud-native-application-deployments-with-kaptain-aiml-20.md",
       "title": "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0",
-      "excerpt": "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes SAN FRANCISCO, May 10, 2022 /PRNewswire/ -- D2iQ, the leading enterprise Kubernetes provider for smart ...",
+      "excerpt": "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes. SAN FRANCISCO, May 10, 202",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -818,7 +775,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AWS AI",
         "AI",
         "Machine Learning"
       ]
@@ -1443,6 +1400,40 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-aible-to-participate-in-the-bake-off-session-at-gartner-data-and-analytics-summit-may-9-11-in-london.md",
+      "title": "Aible to Participate in the 'Bake-Off' Session at Gartner Data and Analytics Summit, May 9-11 in London",
+      "excerpt": "Aible recently scored highest for the AutoML Use Case in 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services. Aible is a Silver Sponsor of the Gartner Summit and is one of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-05/55964903-aible-to-participate-in-the-bake-off-session-at-gartner-data-and-analytics-summit-may-9-11-in-london-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-05/55964903-aible-to-participate-in-the-bake-off-session-at-gartner-data-and-analytics-summit-may-9-11-in-london-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.irishnews.com/business/2022/05/13/news/union-hails-his
 webUrl: "https://www.irishnews.com/business/2022/05/13/news/union-hails-historic-recognition-deal-with-food-delivery-giant-deliveroo-2709273/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 900
     height: 472
     isCached: true
-
-related:
-  - title: "Union hails ‘historic’ recognition deal with food delivery giant Deliveroo"
-    excerpt: "Food delivery giant Deliveroo has signed a recognition deal with a leading trade union covering the company’s 90,000 self-employed riders. The GMB said it was a “historic” agreement giving it rights to collective bargaining on pay,"
-    publishedDateTime: 2022-05-12T08:17:00Z
-    webUrl: "https://www.aol.com/union-hails-historic-recognition-deal-080037366.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/udQxrZ_nCNMBlwTBH1zfJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/VQomS9jsvQMcfI199fHhHA--~B/aD0xMzUwO3c9MjQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_press_association_news_966/6a368a23e05b94f36d49979d70c5fdd8"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "NWeiDT4VL9wMz9/eKtxlX2ejkI4jtqUgAosNgOUJzjFl//3SEQQ3zB6e7sSR9l36ooUQErSsCq3uN2JZH3GIlmb8sC6zxNPnUrZygjEYMxC1sF3esrEAcEsiuMkM0aqMH48xQSpRJL6WauBmqy3WpMX2h+pQJN2Acm76tQaa/AYhhiSGXaITT9UwlEbzoDynMohwpdRodAF/YcfFAMZW569GEGMs4SEXye7dUBtIMLClk5k6kcIoat0dg/wPiBnK/SjTEkDdRXHxoHEilu04hyyvtV9+262ZniKRJM+OexGiP6bo+/UiTjCAdUUbEZuVE8UlvN3mvpaVpeTqV29P38YgxRexproCnrNR4DIp2G4=;lf5VWe1y0+nhJAFfVENoEg=="
 ---

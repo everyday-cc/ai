@@ -2,19 +2,19 @@
 category: news
 title: "U.S. civil rights enforcers warn employers against biased AI"
 excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-16T20:28:00Z
-originalUrl: "https://www.ctpost.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
-webUrl: "https://www.ctpost.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
-ampWebUrl: "https://www.ctpost.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
-cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+publishedDateTime: 2022-05-17T00:50:00Z
+originalUrl: "https://www.thehour.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+webUrl: "https://www.thehour.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+ampWebUrl: "https://www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: The Hour
+  domain: thehour.com
 
 topics:
   - AI
@@ -119,6 +119,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "+v5aCZBKfqUXEpZaaoZ03ycHFKq9WcQCAcq7npkpRzJ7wy1jJCIZedNxittDex5kRXndUMJolp+JVrMwb7RMnfByRHNxd+BV4zYK1oUQnhGA43xwz6iWFCXrbzpeZbsshOjz7YKze+t7SCQweFvUtRlbyFDh3fPdldLz3tD/RGPrL/t0HNT6NKoHGuLzSzzQCGWKNenJvNC9kxq2z2FCRPqaPaMHaFCJElQEXgvcOZXRQEIZTmc3EiUm76U/oJWqGfyFzSvjpBpu31SlEjjHzXhN4cTkJf4Gtzo2zzSb/0Tfl31BeTrzvpKuZnX7vfk82Ci6i/EiWiDKdeX4ka09pf1O2H3xXoqwy0uH0Bg+wXoT24oRripgDivJQIY7K6aIn6JGtskhNYe6jKM5Cf8mhhuwiYn+eqTqaSz5GX02vSPCkgTLmAeSWHL3bujCCJ57AQ11Ozu47eyTt0Lc22dcU8tZuvuLDDkXxcEKB4niAVuYepVBU/0NrVDGFfPs064elS/GX2S4F1U+fL6lUTb+uw==;Qdu+zB5Mi28LEkNWy+pheQ=="
+secured: "g3sLOUaL7ssud3qb9JstdiQrYScQYn8OE87dKc8fsp8jyWTWQbOHWpbu649KPijacPKV7OqoHXWEYAajeaDzyy9HaalnZ8lr2A9qbr4LdSmldrlvHjVr20OsCXJXC5cTO2sZIHxDq2IyqNT9Nk6Kqv0Z/re0YfsuHd/rKZZ0jdt8iX1bQT/CVEntxkCqJVjbpOjhJQPqpRTJ5qMueDOdUyxB7C9wtlKvLg3FXtJ8tzxUSNqzYM2fNYoPKBy5lZI20ph9Ldr2w7zUEEbHBNN4BLtcj5mxX/omhFZFv/lq9BcjfHYDXOgvZs5//LDz4LE112QnXXvLIax1HNr84b9W9KpM4I+WRqu4IjM1g1nHKtw=;upEtqa4Kc2stusAo29oDvg=="
 ---
 

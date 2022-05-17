@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-16T20:37:00Z
 originalUrl: "https://siliconangle.com/2022/05/16/nvidia-launchpad-lowers-ais-barrier-to-entry-through-a-hands-on-approach-rhsummit/"
 webUrl: "https://siliconangle.com/2022/05/16/nvidia-launchpad-lowers-ais-barrier-to-entry-through-a-hands-on-approach-rhsummit/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Tushar-Katarki-and-Justin-Boitano-Red-Hat-Summit-2022.jpg"

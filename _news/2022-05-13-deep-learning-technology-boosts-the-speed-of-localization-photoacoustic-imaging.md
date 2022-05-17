@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220512/Deep-learning-technol
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: News Medical
@@ -42,20 +42,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-33.jpg"
         width: 1444
         height: 1142
-        isCached: true
-  - title: "Artificial intelligence technology accelerates super-resolution localization photoacoustic imaging of blood vessels"
-    excerpt: "Localization photoacoustic imaging (PAI) is a novel biomedical imaging technology that produces super resolution images in biological tissues, although the imaging speed is very slow. a joint research team from Korea and USA have succeeded in dramatically accelerating the speed of localization PAI by applying artificial intelligence technology."
-    publishedDateTime: 2022-05-12T07:21:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/952194"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5b65674e-d69e-46cf-af3f-c404151533fe/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 237
         isCached: true
 
 secured: "9wVSDc2UHei0AJD+g178+pDyxWptViqSgLUwyNXuelYIbe4cUnPAofmKQlM0JG2HX9rCNnhSMpA+PPirPtocCzokFvGfOj3t+wphcB+FaK5bV5aZ+0R2HtRBL23rldtn2geoehytXqUr02XLG5s17MRKPq9pGryYOFMr/GhRPBIGTztbHim5Ppu06U5Ox5ORgf3rraGKsEpCuhsa4DBabCMqn26n5S+0Yq9C8BuZT9fCRSAUGlyai+glf/zcLTWu2xXkWH2A7et2xTAhVmGtK8dlvholSZEBFfvyLFcz+v2qSxw+MJj4WLB7aEutL4vs8oY9U/ezBPlV8IC5K7AdXU+XeheauA4TD/01YHRWaBg=;GEXPB7zDcKQtE9DegR4RCA=="

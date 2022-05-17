@@ -76,14 +76,14 @@ related:
         isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-    publishedDateTime: 2022-05-16T20:28:00Z
-    webUrl: "https://www.ctpost.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
-    ampWebUrl: "https://www.ctpost.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+    publishedDateTime: 2022-05-17T00:50:00Z
+    webUrl: "https://www.thehour.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+    ampWebUrl: "https://www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: The Hour
+      domain: thehour.com
     quality: 57
     images:
       - url: "https://s.hdnux.com/photos/01/25/55/37/22468592/3/ratio3x2_400.jpg"

@@ -39,6 +39,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "VSBLTY NAMED INTEL® CHANNEL PARTNER OF THE YEAR AT INTEL VISION 2022"
+    excerpt: "VSBLTY technology provides enhanced customer engagement and audience measurement using machine learning and computer vision. Its industry leading VisionCaptor™ and DataCaptor™ software combine motion graphics and interactive brand messaging with ..."
+    publishedDateTime: 2022-05-12T19:56:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/05/12/vsblty-named-intel-xae-channel-partner-of-the-year-at-intel-vision-2022"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 4
 
 secured: "rgXXuEaxUBr786vaEIsiJXmPQg7CkXP/17FOtv2H8fN/aJ3T7pa1xDmi9V2uTXzMr/95KheGJMpolg2mP5Qn7oS4BtGTsntPKxfdMuTmSfHFgldvAiuVtnlMb9G4kWtRf2+ZhzrgSEr1Ben/UGDJUmiQ/RnkCZMnbl/6VGCf+ton9CuS1ffk1cRMGPS+YI09JY32jTOP5ggNvyQkUzR7kwtselc116Osk1BfrsjTTG6aLBzPrFtnAM8ka1Ss8o+faoGW5LTWaBjrHiOqUPwXt56WQhbbVr/KFq6nCBKxREQC3+Tmt6VDOKa/ySIlNbxijfJ84AFL2x1pBKtE/DrxYxUTqUAmkjkt0NKI/0COTU2Tp4xMY1sfbkFffkZ9BNGKeaveHx/JQbPKEZaAngiArsp1cmDbcZZWFFEi8yvnMjvGaks+h9VSxyfO1HNXUNCut9W4WuKfkOTySjp1YlF924+txWfR/rLyh24tdAdr/BLp2jHcvwlMejVhjE6XpwpqPFzqHYCCYCWtsUmm8tvKjA==;0MwqdikupeoXmtZveO/IDQ=="
 ---

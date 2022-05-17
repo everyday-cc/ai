@@ -19,21 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Intel teases Arctic Sound M GPU for data centre at its Vision 2022 Event"
-    excerpt: "Arctic Sound M GPUs can manage 30+ 1080p streams, 40+ gaming streams, 62 Virtualized Functions, and 150 AI TOPs."
-    publishedDateTime: 2022-05-12T07:10:00Z
-    webUrl: "https://technosports.co.in/2022/05/12/arctic-sound-m/"
-    ampWebUrl: "https://technosports.co.in/2022/05/12/arctic-sound-m/?amp"
-    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/05/12/arctic-sound-m/?amp"
+  - title: "AI in Computer Vision Market to Witness Massive Growth by 2029 | Qualcomm Technologies, Inc., Intel Corporation"
+    excerpt: "New Jersey, N.J., May 16, 2022 A2Z Market Research published new research on Global AI in Computer Vision Market covering the micro level of analysis by"
+    publishedDateTime: 2022-05-16T08:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-to-witness-massive-growth-by-2029-qualcomm-technologies-inc-intel-corporation"
     type: article
     provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 58
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
     images:
-      - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/05/Intel-Arctic-Sound-M-DG2.jpg"
-        width: 1600
-        height: 891
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Europe Self-driving Car Market 2022 : Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2030"
+    excerpt: "Quadintel published a new report on the Europe Self-driving Car Market. The research report consists of thorough information about demand, growth,"
+    publishedDateTime: 2022-05-16T14:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/europe-self-driving-car-market-2022-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "KBMXlkmtcG5zDyFRi0Wd+hIAXBD49Rr/n0tMumVjsHOGljQeTd3H6xj+WsM0FK9XZFTWn4JFjvHDnAY/c7GbtExack+ZPULLn4hhZhOyeo6Iu425MuI1WiEzAQ+BFQR/ui1ZREBqQw2Tu/EMmMeOUDdQbJXl2uFKfKSObsFSzFw3tXdAAlw4vR/DaXOb4OSLDFWroHYT9SzVPqMeGHM2G+JbUDfBEtpzfMoSF5AqyOuC/qtoD5H64NydXYhmggzOFIEdCXxUGRWKloop2AHGQx5BRhUCbJVkQACvZPJkogZ6fAObRTFF2970eOUQ+kk5MsQw682FR2HMtiCiIqhG38Sf0gPwXr3eRf83C96CZyo=;WBMQvvt6uxq4AsQ0pogdXw=="

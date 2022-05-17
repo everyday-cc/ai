@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai
 webUrl: "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over"
 type: article
 quality: 77
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -53,6 +53,6 @@ related:
       domain: thenextweb.com
     quality: 60
 
-secured: "RcX8fgeiOQXgW5Rf6FsD4Bo5OlhTMyMXPbQo1vNARR4st2fPV0EJ1QBLFJwLDGgaWSAr6XgDAMSUZ1W0xkOTRO8hVo3dQT/4x2CLLMjkX4maqxHc+ScyyjYOmV6VUH8hmtRYicVKQ03f6FsdZcZgJzekPm+Olql1j20yoIkPkYGEmMOk7oVdIQzAPX7KKe3SzXVAGl9BN6ppdcXf3XShHCk87UbgyilBfqi3o3tVFLiqfeBGSbdinqkYEMYPujNoL8mjTYslMJ0DCZWUhQnQ5MzYr+pE0psYsNu7FnX/vA4zKy1raUBFRhJjBWmB4GmUUh1YImsPbePygebeFjFM84k5oP1m3SKb9pGzQJReF7M=;fYUSRC75EOY6ajXDGewEaA=="
+secured: "uDSTc45wV7Ya+WZZ9MkerQ50CZM2k/dQDoZcLziu1Ck1LxPIL11bpSi92mVUOwMOB0Ryh4sGsEKyxIyXAr3bVPr6He5rupBRnjrpt37m8Ymx9A0gwhF/YODS2tf/vUGdFbdd6rk1+TH14EK1NrlTGPLyiV+s3NWirtXgSrydulhHGbV0c3mmnZBy427aJ60kE7HCHn3ft5qD8yqRdh4MobyAt11oWodk+A9MPevf6ggr/yE0xIhzCEQ3Mc593kz6yrtGcoMvOFDm3fZ8Ti+FeN3Tj3U3x36fySSPv/J+qHuvow0NKFMLWoTFeJ32c4vkOheqY6yUToIq+NVj5K0SxGq+rq3lPNAJ9011b227rikGZlPeTMPd8CrTaVjCxOOJtZqRQzk8YeP9g62cJ9pSm76HOt5NiIcdQ02PrO+BT4q3IG9aex8hrMn+1kHUYQZJRXR38Dki0taXHh210BTEeAU5iPyyVKR6OnEVGcjb7YHYyR1O9lxydmeNu5LWkFAXlSzBMEBJ4V+D7y1dtJNGqg==;2vpFJrOkNkagguXtTivQng=="
 ---
 

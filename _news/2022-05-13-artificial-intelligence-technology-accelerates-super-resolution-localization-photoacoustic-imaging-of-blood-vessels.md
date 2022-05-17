@@ -42,20 +42,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial intelligence technology accelerates super-resolution localization photoacoustic imaging of blood vessels"
-    excerpt: "Localization photoacoustic imaging (PAI) is a novel biomedical imaging technology that produces super resolution images in biological tissues, although the imaging speed is very slow. a joint research team from Korea and USA have succeeded in dramatically accelerating the speed of localization PAI by applying artificial intelligence technology."
-    publishedDateTime: 2022-05-12T07:21:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/952194"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5b65674e-d69e-46cf-af3f-c404151533fe/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 237
-        isCached: true
 
 secured: "P56twgYrTt1vcANZaQmrj/jAOkd9uSkdYEe43mWEBNdGHhZ20E0m4FvP+NyqaxwP0yWoONr7xZmu6LVcRPTGcds+qT3K0JNkCpF90MEYlHDQR//6mAmpZqaSI6hU3lP1pYAJgqWr0ozhUC8Id3iM8bvyJ/PD5v139TpbWZi9iD6Tw48uuig4BrSOqicxPQ+Zu0H/wD5TbR7xEkR0bTFRXwhg2TSKBJEOhh7flsa4alQId53VJsWlkZlXpvwTg5adWFyy/jQRUSp4SRLAabU0sto9kOnXlruhX9+GmqEAcorHHaaxGbHvIBtB5Lfultqnb97ua7lVD8QDhXMubhnKitS6DHP/aIVi12wn5YVL1e7AZBiRJNC4RFZLyCBAqUT+PzwHYeWMwa+ikItnLixqdu1cXG+LSZs5ex2DRSQFLcpa2WkVKC0MpYqbFWztq/SIAOP4ZH1q9AjHni8WW6S5No+agZBU4dFJHc0h/Xx+DFFQdRDOvfnZqIJV4lbvlT32uBCxHAoBQht6VYq7InqZNQ==;o6w70AU8W61ZVTSiWP0KIQ=="
 ---

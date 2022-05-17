@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
 type: article
 quality: 93
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6265c81c35d2f416ec30ff04/0x0.jpg?format=jpg&crop=2849,1725,x865,y0,safe&width=1200"
         width: 1200
         height: 727
+        isCached: true
+  - title: "This Incredible Vehicle Owns The World Speed Record For Self-Driving Cars"
+    excerpt: "When it comes to self-driving cars, most people think of Waymo and Tesla models. The fastest autonomous car looks quite a bit different, however."
+    publishedDateTime: 2022-05-17T00:37:00Z
+    webUrl: "https://www.slashgear.com/865192/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 53
+    images:
+      - url: "https://www.slashgear.com/img/gallery/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/l-intro-1652743968.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "It will soon be easy for self-driving cars to hide in plain sight. We shouldn’t let them."
     excerpt: "It will soon become easy for self-driving cars to hide in plain sight. The rooftop lidar sensors that currently mark many of them out are likely to become smaller. Mercedes vehicles with the new, partially automated Drive Pilot system,"

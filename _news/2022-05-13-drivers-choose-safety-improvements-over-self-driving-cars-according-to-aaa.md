@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 727
         isCached: true
+  - title: "This Incredible Vehicle Owns The World Speed Record For Self-Driving Cars"
+    excerpt: "When it comes to self-driving cars, most people think of Waymo and Tesla models. The fastest autonomous car looks quite a bit different, however."
+    publishedDateTime: 2022-05-17T00:37:00Z
+    webUrl: "https://www.slashgear.com/865192/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 53
+    images:
+      - url: "https://www.slashgear.com/img/gallery/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/l-intro-1652743968.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "It will soon be easy for self-driving cars to hide in plain sight. We shouldn’t let them."
     excerpt: "It will soon become easy for self-driving cars to hide in plain sight. The rooftop lidar sensors that currently mark many of them out are likely to become smaller. Mercedes vehicles with the new, partially automated Drive Pilot system,"
     publishedDateTime: 2022-05-14T09:00:00Z

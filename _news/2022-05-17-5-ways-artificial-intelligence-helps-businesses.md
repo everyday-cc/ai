@@ -51,18 +51,18 @@ related:
       domain: businessinsider.com
     quality: 47
   - title: "Successful Adoption of Off-the-Shelf AI Depends on Tight Business Alignment, Says Info-Tech Research Group"
-    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has published a new research-driven, step-by-step blueprint for implementing artificial intelligence (AI) solutions. As comp"
-    publishedDateTime: 2022-05-16T21:04:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/successful-adoption-of-off-the-shelf-ai-depends-on-tight-business-alignment-says-info-tech/article_0d508a75-94f4-58f0-b9ac-7abb370d6e98.html"
+    excerpt: "As companies invest more into data and AI solutions, this timely guide, Drive Business Value With Off-the-Shelf AI, details a holistic approach to ensuring implementation success. According to ..."
+    publishedDateTime: 2022-05-17T00:05:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220516TO59406/successful-adoption-of-off-the-shelf-ai-depends-on-tight-business-alignment-says-info-tech-research-group/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
+      name: KTLA
+      domain: ktla.com
+    quality: 19
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/69/06981237-bd11-590a-b51a-d79106304369/6282bc9ca187c.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1819056/Info_Tech_Research_Group_Successful_Adoption_of_Off_the_Shelf_AI.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "VqW1/Aatk3BxznuYK5V55Z8UuGszTwz1o1K/Q7bI8DaMm3mVtGwPsczxnlG3nTHcAh914HqTyqTHRq4/QKLKkNsQCa3a4rq93X+xcflJNziEbvS6duQpTbpvayjEyPCF7tqHClmowSYnMcFk7jxEmrHnuE/aGvTKpJy1kDWWmuZe2FXVdy7H8RH4NdRSfKNqHojMa1DMyB0m0eEwEOO1NFyhQf6EL0ZvNtNYxmL5JakLCVBOkMMuCEpEynTzl+qwQTmtuVuozNDvKo7nqI1MifdsEYrms5SeCV6J38paLn0/gc8yGRvneVLIMeJqjsRezUvhKUpCO4+KWg9JVPHrjfgizLLfwqs5fJZqNOaDZXyCfdOa6/v2TKo9ByA4nRawfXNdm4VAx67zkNYJ90ktA0pm5JnuWe3Y2GmwT54QvS44jLOi2aNWmcyvHYl31wHQnNsnOnjiuUmCKpSJB+agq0G/F1Zrm6jcrqjs4MdSz4b+ReasbkvlnKWWNdlY20RDmPFxMHHYhGTtpQBIIRDV8g==;4foyuQe61lnhcL2rLkc5kA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/education/employment-news/apeejay-edu
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html"
 type: article
 quality: 76
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/11/full/1639185609-6742.jpg"
         width: 620
         height: 464
-        isCached: true
-  - title: "Apeejay Education and AWS announce New Accelerator Program aligned to NEP 2020"
-    excerpt: "using technologies such as artificial intelligence (AI) and machine learning (ML). AWS will drive these workshops based on the Amazon Working Backwards innovation methodology, which uses design thinking to identify and define a customer-focused problem or ..."
-    publishedDateTime: 2022-05-12T08:07:00Z
-    webUrl: "https://www.financialexpress.com/education-2/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-nep-2020/2521850/"
-    ampWebUrl: "https://www.financialexpress.com/education-2/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-nep-2020/2521850/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-nep-2020/2521850/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 72
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/05/Edtech-1200-1-4.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Apeejay Education and AWS Announce New Accelerator Program Aligned to India’s…"
     excerpt: "New Delhi – Apeejay Education, an academic institution in India established for more than 50 years, and Amazon Web Services (AWS), an Amazon.com company, today announced the launch of the National Education Policy Accelerator Program (NEPAP),"

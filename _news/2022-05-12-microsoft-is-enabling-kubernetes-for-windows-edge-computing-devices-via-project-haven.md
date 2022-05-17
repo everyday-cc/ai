@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-enabling-kuber
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 569
     isCached: true
+
+related:
+  - title: "Microsoft launches Open Data for Society"
+    excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
+    publishedDateTime: 2022-05-16T12:42:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-launches-open-data-for-society/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "acP8Lgk/2uzo+oIiMr22VdtrSSbOEWNEysuS4UB5B5hrygjXfUtYiZZSQtBn151PHiKcccms7ogW9ZlkHw07s4CJM9S2xCOAwW0SLgMbgv3/mzrcRs2L6Csl6YYo/1WI+rsPlkmLOZKWFe5C4DRKO23cHMrrL/H0V2CZlc8lw7qH3IYe9iBfzgi9bWl0KAPWLkQNfhHcgbX8p/2tCcultLSVDaT4/3IGNNBQIeVjd10gX7d9umImGBrwKJ0sQS0fpdZG32I5rBhY0AIp1KlanM/+M4tVN+w/jjiIsmnlAAFZXLBwK8OLPHabibffkhtcvdU4uFpVJXAe7ZkiJftmMwPXaIb9q3X6QpQeBSDomSqm9QP3oZdGWz6YzRQcoSmkKTl5sShec03LZvQexxBieiqq5Rsy59bZPIOwUnTQTHEzD6FsmKqbBLGv8cbgWxGkCXyauiWATQdKHfD7ZgFG9WGTLNfzXDXo+eXEPVMCavRv3VK+lNapcQjoFkOy92rIVlTewiLkcQanktRMGUKUYg==;5a8oejAVoNS07bmi/TMdCQ=="
 ---
