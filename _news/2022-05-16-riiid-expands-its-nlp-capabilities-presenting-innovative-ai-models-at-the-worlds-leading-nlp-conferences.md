@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Riiid Expands its NLP Capabilities, Presenting Innovative AI Models at the World's Leading NLP Conferences"
-excerpt: "Riiid, a leading AI Education solutions company and a member of Born2global Centre, today announced two of its new AI research studies that will be presented at the upcoming Association for Computational Linguistics (ACL) and the North American Chapter of the Association for Computational Linguistics (NAACL),"
-publishedDateTime: 2022-05-16T16:00:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220516CN58172/riiid-expands-its-nlp-capabilities-presenting-innovative-ai-models-at-the-worlds-leading-nlp-conferences/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220516CN58172/riiid-expands-its-nlp-capabilities-presenting-innovative-ai-models-at-the-worlds-leading-nlp-conferences/"
+title: "Riiid Expands its NLP Capabilities, Presenting Innovative AI Models at the World’s Leading NLP Conferences"
+excerpt: "Two studies to be presented at ACL and NAACL–held on May and July 2022 respectively SAN RAMON, Calif., May 16, 2022 /PRNewswire/ -- Riiid, a leading AI Education solutions company and a member of Born2global Centre,"
+publishedDateTime: 2022-05-16T13:06:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-science-education-7af4c1637321370b688329614b4df9d5"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-education-7af4c1637321370b688329614b4df9d5"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://mma.prnewswire.com/media/1818310/1.jpg"
-    width: 283
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 720
         isCached: true
 
-secured: "gYSby2C+my0X7uK+ITVwyBrqt2Ex5prI1kCJA44kugbOkUaDRyaUmvGPQyPmP/mrdiSErlqDxLLxAAwQfmsDxaK9W/ucrQabKteHvUlCWAYK8j6U9XKyzxpAAvO71yFiPIQBsGrEnp8Q2LQGhwwWf5v70qjpO6K8vKcBHqFgQU9eFU9ObZLQ/YMocuOl6an0QvnPNZAVm89DMFohj5o4Q5J7seBQqR7D83TJ6BEzsD+XYvwXUjlx8eEB4JoObb6qDESPJ5LopfNgslB9j4Kl4HwkaA6vEebG13OgNuaC/jxhAnIJuQuXrVAMdYVLgDQXoJPtJj9FV5oS2o8SDBa0MURFJ1/fPx65tdIS7dhvpYo=;oTzu5YlOzOuPhOeVtRlGZw=="
+secured: "Bj6MZ1TV0q3T6PlUeezHJ6tROP0dgnvQhgjjsfXQLyGkLPbs1Sm0+sTcoqjAv4Ri5VyHuxcTnC7/6BaGe8Z0zNbT6sOqNyenb417rsTlVXUfLVBUFamrqp1WKo2F2DWn0IoMy0lc40GrmPnDtGEYh6Zbx8aHuWJ2tzFJBuoWoZ2QXU1A8hB2aiUHDAu/BBsPbrQbCGZhmts3kDVR2EyYsr58HaY1dsIEllZLuiNGDfDZmEgTOeFNlfbc9O4cxjBGHmX7IXul/y9ucBuVP1PCRA7Mp9ba/+XjiWbZ3ILQXP0qHlHYxEQROkPjCl1sx2h9pKdcKS3BhV94KeFfHjjG7XAeiP5JJbCYjf63wHlZK/8=;PLkmM714/b1So1mo9mNevw=="
 ---
 

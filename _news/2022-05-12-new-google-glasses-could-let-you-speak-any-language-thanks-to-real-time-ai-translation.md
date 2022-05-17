@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailystar.co.uk/tech/news/new-google-glasses-could-you-2
 cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/new-google-glasses-could-you-26945266.amp"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 615
     height: 409
     isCached: true
+
+related:
+  - title: "Translation glasses and watchful AI: Google’s announcements at I/O"
+    excerpt: "Glancing at a smart device so you can talk to it. Putting on glasses so you can understand a foreign language. Pointing your phone at something to see where it came from. These are Google's latest AI innovations,"
+    publishedDateTime: 2022-05-14T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/14/translation-glasses-and-watchful-aigoogles-announcements-at-io"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/13/1584573.jpg"
+        width: 1240
+        height: 827
+        isCached: true
 
 secured: "pyuw03hJ32bQ6XDcNhTaawZ/yh+P9GW2VaETg4QjStEvjEAB/xBdVi939xt7ExJyyByCBfBf7kFsNBp8AtGhcbOrtzRsGS52xv1S/RfDoDa7AT0Z3hP+JChZTb8OGFExrzov5cVqkvxgslLCBCTjV8wVI8203huMZiMFdgAtW3tbeyQwovguLDGZw4QN7m+obEIxRVtmcWeXB0oHW9iDXiqJZrhmYWz6tvXFqjVUDOY6p+X81Sv6e3AFC1uZDJNbu8OKjz0DJdfETV/5jVfEvCrNCbttlgfPVOs6GIL7KGu6c5E6yeBJqFFkj8GKOGPo7LBSCfyRXhoFdpn7U3SZrf/N9DRTMhtjMsAAJwTJiZz8YpoTIPonGkTQ1ESEEHXtSZYi86zXePtF7uLeN9ZBpFprXPFjinwUuDbRz3jUQ/2YXpt/91yqhY2LqMrDY4J0wHPofeFhSpwIrrXPBez244ujt1cpyfBUrNEDr9aAKrZMw1kNexr+DNnuRbqZ1Pp2LznJJ7IIrwHkfjKzyTVsGQ==;9TIc/T6E9mRaBff/3MuAXA=="
 ---

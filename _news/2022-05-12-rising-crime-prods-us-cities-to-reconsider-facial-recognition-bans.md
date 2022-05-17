@@ -117,15 +117,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "FOCUS-U.S. cities are backing off banning facial recognition as crime rises"
-    excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers."
-    publishedDateTime: 2022-05-12T11:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-u.s.-cities-are-backing-off-banning-facial-recognition-as-crime-rises"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
   - title: "Facial recognition technology is a valuable tool"
     excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."
     publishedDateTime: 2022-05-15T18:32:00Z

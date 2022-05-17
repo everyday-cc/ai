@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "2 Fintech Stocks You Can Buy Today"
-    excerpt: "The market sell-off in 2022 has created excellent buying opportunities for investors in these two financial specialists."
-    publishedDateTime: 2022-05-12T11:00:00Z
-    webUrl: "https://www.fool.com/investing/2022/05/12/2-fintech-stocks-you-can-buy-today/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/679012/couple-looking-at-bills-together-getty-2022.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Multiple Disruptive Technologies Meet in Fintech Space"
     excerpt: "That’s a longer-ranging positive because the applications for other disruptive technologies in the fintech world are immense, including the boosting of efficiencies. “Automation is not a new concept to AI, but combining AI and blockchain can allow for ..."
     publishedDateTime: 2022-05-13T14:16:00Z

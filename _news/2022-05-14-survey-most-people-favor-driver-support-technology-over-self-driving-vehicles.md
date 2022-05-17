@@ -55,6 +55,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Self-driving cars not yet ready"
+    excerpt: "Smart cruise control systems in new cars are still flawed and don’t guarantee safety for drivers or cyclists, new research from the American Automobile Association (AAA) has found. The AAA tested three cars equipped with active driver assist to answer questions about how well these systems adapt to possible collisions with other road users."
+    publishedDateTime: 2022-05-17T02:24:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/self-driving-cars-not-yet-ready.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 24
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/smart%20cruise%20control.jpg"
+        width: 672
+        height: 378
+        isCached: true
 
 secured: "QDXQYVPw20/vXEoDsWbSQKEkKtjjhTSE6r1TVOKyuDE8y6syvMOnLc9IfOCIbttxu6vP6sIJ9nvZn0Gm7VZxhllDPBRdHCdM0uzr+Fq8q0BGoH+V9U/DnMkdC0jNr7XLzlQbmOzHrGmsfkrg5AAx8gJAsyE43Xdj6feow+ZcXYEq/W3GpL6TM/SUKeAuHpQRg2YFtBUG4zKFRPYqRtv86nG2TeJJ7YuC9EjB5Pi7QoqQ1MrCju+MNUQH0PrrH59X9sN6qISWFobXzEn2ej+YsHRc0q03n+rFt5n7kq7rbU68nMqXnF+LtZ4J7VS2FZNFp7206nkIEqNnmU1qKq2hYftVWZrbeIpTR+sU+UPKMZNNONEE2PgliDIqr2j4TIMByxmWFB+wzbE48oWzh11//bEI/jTvxClfxEY7j182UoUqsh9GZrVL7/90bHmHc8RiNnigEeaOGVt576eS3CafpqLYQyO1AEGc8T50SJGDVEB8y+bQEPMCpCYzctkLLFes8zVgJA+BjTR+15/M3Y6DUQ==;3Jcn6s4woPD6k1Fp8ydQhA=="
 ---

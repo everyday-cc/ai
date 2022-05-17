@@ -53,20 +53,6 @@ related:
         width: 1146
         height: 1280
         isCached: true
-  - title: "2 Fintech Stocks You Can Buy Today"
-    excerpt: "The market sell-off in 2022 has created excellent buying opportunities for investors in these two financial specialists."
-    publishedDateTime: 2022-05-12T11:00:00Z
-    webUrl: "https://www.fool.com/investing/2022/05/12/2-fintech-stocks-you-can-buy-today/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/679012/couple-looking-at-bills-together-getty-2022.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
 
 secured: "kWS/ntahiDaAJU0wlpw44wyYkiw6J3ppVYrnfuhd3SuRKfZ9E4L14dohtC+Tk70dlE3WIji1LrWjHiZaB3Y1PpslPNiMCDaCqF3hayOcb7yoDCzoSm2HDYRZjaxMmtb7BjbXCBIc/7NOwLqgqrdgBPIAgmMo2p2mMQXrCCHurr/106P2h5DCgdi51wb1aWxCxahnVf07XeURzhfSNH4NE8O4hsPSBIC/FtyclGN060lJ7Xge9Wn9Qr68RgJZG1E3lqcxJHZerIBE6AjBm+cwDDu9zUvEKIIasGjFLFeEGfA4Sr5JNAoivpRhcCY2abrMBDAWNu2sHtza3ZKDjy29R4Frx2WKB3f8G032ty7SUvZvR0uSXLVY30vdJ86kh1vOvdkD64/k86qVwOp2/FVcLKOC1pmFZHQLEEc8Evn4cdCrxwXqJHY4J0MYP4ykxfQ1YHDJOboNREmWPQcmBrs0A8ubH2rskcmIonDRm5Fk9/HAYcxWexiLHrQijsRjCjqxCsQ0wwEtfNVT3oUndKmqDA==;ONUFfx0KOki650AUvEcRjw=="
 ---

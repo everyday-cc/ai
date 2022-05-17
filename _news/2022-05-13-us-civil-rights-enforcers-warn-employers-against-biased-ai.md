@@ -118,6 +118,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
+    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
+    publishedDateTime: 2022-05-16T23:02:00Z
+    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "SKU1c16ohumfE+t0IWjsWpR03KCMUOqmObQKqk0C4jRCVvcr5KRuxVxHvSgZnMx3Rj+tQqmqPONl+9TimTz4cdhGc5nhkAstZmy+fmkKzZ3L3aijOWsntSI77xNchtoXKe5+qCCf5BczjoJRzV5Q7uGBPLHm6vBvecVvV7Ul+ebPqxzBWvSWIuShMt/bH04uWcjCVVRT1USH+9Gvpvm3FEb+fYkbL80DgDQEdlZCZNjUTWCXkqp8BeENw5RZQYc04zH2siz2ICm4b3om8v0wTh9Fvr5NL2DDrCGcawDPlzo72g67uXSwH7VJ7RaGyfcY0fABI8cKFVgqBzdYWb3Hbph6Funw8z3Yp8pvHZAixgE=;IIi3lhOPZ/tdyJ0HWMNlqg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artific
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -121,6 +121,20 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/44b8c1f14b7c4f699caf934933d88e6b/3000.jpeg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
+    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
+    publishedDateTime: 2022-05-16T23:02:00Z
+    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "5WYA4JW28XFUmn4E3j7B5JTYwJ9igLkpDSfwcEj8Zo7oWjQ8qgtwmJGcJeg2PManspRVjAWCHZxG4+0eofZgsNYEbZ8xalIZaS8dXaZtuS5/PBrtmXdThclAy+C5M+ghC/0r7t9qtgrId6C3ubpkZ+ldeHW4I4NXcAWUq/0lBsSmHEGgQqOLctA3oqcd2B0XEakPtHcWophkgMdJixGLY8RkjxWkOE0ZuaOqvqCLEm1gJ1nZFG79e9LadsaACALUDELCe9RUMpmBeqq7CJ42JYyUe0XGB+a/8W6Tbd4HKrE2QeiONQo1r/JtaocCuif0frdhp679w0bLQ0bObZUT2N1HV/w4klFM/XuRAxm7YfayId9o2FuBTfRjPlcBgWydUaMgh98B77t3MDb1jSMEnx0MDnRDYT4pfQb/IS+mRCojOzneR7qZWfbyR1Rb0Qi+WZtPZZu0neFCPdtKXUEIGgJ74youi4t6CljShPVv4sP3exv41PdbgbgOjNOj822RzI9S8QruYO6MezCjYws2Jg==;lbeOse5StzxYxWZEy3lfOQ=="

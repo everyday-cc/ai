@@ -41,19 +41,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Riiid Expands its NLP Capabilities, Presenting Innovative AI Models at the World's Leading NLP Conferences"
-    excerpt: "Riiid, a leading AI Education solutions company and a member of Born2global Centre, today announced two of its new AI research studies that will be presented at the upcoming Association for Computational Linguistics (ACL) and the North American Chapter of the Association for Computational Linguistics (NAACL),"
-    publishedDateTime: 2022-05-16T16:00:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220516CN58172/riiid-expands-its-nlp-capabilities-presenting-innovative-ai-models-at-the-worlds-leading-nlp-conferences/"
+  - title: "Riiid Expands its NLP Capabilities, Presenting Innovative AI Models at the World’s Leading NLP Conferences"
+    excerpt: "Two studies to be presented at ACL and NAACL–held on May and July 2022 respectively SAN RAMON, Calif., May 16, 2022 /PRNewswire/ -- Riiid, a leading AI Education solutions company and a member of Born2global Centre,"
+    publishedDateTime: 2022-05-16T13:06:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-education-7af4c1637321370b688329614b4df9d5"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
+      name: Associated Press
+      domain: apnews.com
     quality: 36
     images:
-      - url: "https://mma.prnewswire.com/media/1818310/1.jpg"
-        width: 283
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "N2rbnOhVyoLjkrZQi+OBN/GucmeIn0+qq+x/KOCKZMvF+3WA0vhyHaAijAxKo2wOy/ZfNU5N5ET0KVY9AjP7wRBQl4LdQXcHsmTA9WVoPS2nawPxV+WBMTJlid0gUXowwdA0hvyyXP/Iiizwqh580uII4wUbXZQDwBPTWHFN0GIzeCGPjCiLea9iWWsdJWBM7D1+7AWO8HmwCKOcK6nhnBnmhvMAP4lD7frFhvJ72ZdZF6oIX9VjYaIe+cdk1D1V8grYhOy0rQofyvfOLDlvfJS1ivE7OzRh69Drto1iA5KuUB983Uy965vQib9wYlRGEoMn3o5DoWdlPfHKS21GORfA1A3LfCOrPehwCehy1eM58xSxAHbeHn8sYyB5aMkkL45scptFoKmf3o0JRllkkyMBEIBcsvy9kvsFvZp+XsWIyjpKO/bgluFXy92PrgoLmudownH1x1Hd+i00dS0Pc+FeVVA/zz55MiuTkVQjvunYFw9+/9jEh7R/dQ7Z+wVZ1pr3AMxsuMJY7p51jNDFfQ==;b91wZaQ+sB2a5Wz13GQD9w=="

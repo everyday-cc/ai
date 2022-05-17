@@ -49,15 +49,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Study shows SAS Viya on Microsoft Azure can deliver 204% ROI"
-    excerpt: "Organisations deploying SAS Viya, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment (ROI) over three years, according to a new commissioned Total Economic Impact study ..."
-    publishedDateTime: 2022-05-12T09:30:00Z
-    webUrl: "https://it-online.co.za/2022/05/12/study-shows-sas-viya-on-microsoft-azure-can-deliver-204-roi/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment, study finds"
     excerpt: "Quantified benefits included faster time to market for analytics insights, improved operational efficiency in model building and testing, and cost savings from retiring on-premises analytics infrastructure."
     publishedDateTime: 2022-05-13T06:34:00Z

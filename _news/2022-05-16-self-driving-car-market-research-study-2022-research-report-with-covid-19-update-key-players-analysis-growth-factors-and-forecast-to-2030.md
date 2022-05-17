@@ -90,29 +90,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence-based Security Market: Current Growth and Tomorrow’s Potentials | Market registering a CAGR of 30.25% by 2025"
-    excerpt: "Description New Research Study “”Artificial Intelligence-based Security Market 2022 analysis by Market Trends (Drivers, Constraints,"
-    publishedDateTime: 2022-05-12T10:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-based-security-market-current-growth-and-tomorrows-potentials-market-registering-a-cagr-of-30-25-by-2025"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 3
-  - title: "Intelligent Speech and Voice Recognition Market Size Is Expected To Grow At A CAGR Of 23.8% During Assessment Period 2022-2028 | 111 Report Pages"
-    excerpt: "Intelligent Speech and Voice Recognition Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in ..."
-    publishedDateTime: 2022-05-12T10:51:00Z
-    webUrl: "https://www.digitaljournal.com/pr/intelligent-speech-and-voice-recognition-market-size-is-expected-to-grow-at-a-cagr-of-23-8-during-assessment-period-2022-2028-111-report-pages"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cdcd0ec658a34c4be5c9d681145e2c02244618d3-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "O9l5zsPfDjKyxmg/Lf7LxMkeaVHjsRw7HaF2ZJnmAlsVsdAGrNWieFU6xXOwyO0W/IuOtLe/DbL6Sv1SRY/2HHY/HXamDfweeRXZBvldzBK+gL8hAltzjCeUWPvr8YMEqjYjLvQd0qGKSnrKN0TFRgkR8be/DI0AwcHOefw5uBeRei1KdgLTaYMqx6DT551rY8/yirug9MaWIgf0VqW+hsUUBVeJpakX4V7wv3dOio/KqNrZb09HO/RFJQhp1TeA5f3NzJIvqesfv6xRlAhKqfBdyV3IAtFHJKR/iDHsamSfDMzeLF25x3QeXBxyRLmmtAQCGFIB/chenXC513Ny++4SbNxe9fDlvHuvYwfki2jHgaKioxdOVZRWdbUnFThceupzu0rdxP/nwD/VycQcBQSBivP4i9mHcGXx3tuHR1dM2GCyXTlNbutremRRrz8nuMWtqRvah/VySMBB5sy6b4tMhMoz62ZZkVC/4Zb9zVkj4osBUwcx/VRJ4x+5ppFUU62hO0dTa7tg1Kw45w7ShA==;LqCruqAH44O43ajtzPI/0Q=="
 ---

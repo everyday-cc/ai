@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202205/innovatrics-and-blaize-part
 webUrl: "https://www.biometricupdate.com/202205/innovatrics-and-blaize-partner-up-for-facial-recognition-security-at-the-edge"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI in Security
 
 related:
+  - title: "Innovatrics, Blaize partner on AI ready-to-deploy facial recognition technology"
+    excerpt: "Global EU-based provider of biometric technology solutions Innovatrics and Blaize, the AI computing innovator of edge computing, have announced a technology partnership to deliver ready-to-use facial recognition solutions designed for access control and public security applications leveraging"
+    publishedDateTime: 2022-05-17T01:25:00Z
+    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatrics,-blaize-partner-on-ai-ready-to-deploy-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 50
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/3ed17bc21849e3d3f6a2da496277ab6e_M.jpg"
+        width: 375
+        height: 208
+        isCached: true
   - title: "Blaize and Innovatrics Provide Edge Ready, Low Power, Low Latency Facial Recognition Technology!"
     excerpt: "Innovatrics, a global leader in biometric technology, and Blaize®, the AI computing innovator revolutionizing edge computing, today announced a technology partnership to deliver ready-to-use facial recognition solutions designed for access control and public security applications leveraging SmartFace Embedded and Blaize edge computing devices."
     publishedDateTime: 2022-05-16T12:43:00Z

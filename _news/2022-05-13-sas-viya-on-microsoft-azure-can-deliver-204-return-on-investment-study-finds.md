@@ -49,15 +49,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Study shows SAS Viya on Microsoft Azure can deliver 204% ROI"
-    excerpt: "Organisations deploying SAS Viya, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment (ROI) over three years, according to a new commissioned Total Economic Impact study ..."
-    publishedDateTime: 2022-05-12T09:30:00Z
-    webUrl: "https://it-online.co.za/2022/05/12/study-shows-sas-viya-on-microsoft-azure-can-deliver-204-roi/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
   - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud™ Solutions on Microsoft Azure"
     excerpt: "In addition to the reliability and scale of Microsoft Azure, Avaya CCaaS customers gain access to the power of Nuance's Contact Center AI technology integrated with OneCloud. \"The combined capabilities of Microsoft and Nuance give Avaya customers ..."
     publishedDateTime: 2022-05-13T12:16:00Z

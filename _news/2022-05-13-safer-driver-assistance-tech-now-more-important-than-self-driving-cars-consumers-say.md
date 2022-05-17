@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://images.axios.com/m4u-MAElTIBPb-hJwhc8fpNj0dw=/0x0:1365x768/1366x768/2022/05/12/1652381213625.png"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Self-driving cars not yet ready"
+    excerpt: "Smart cruise control systems in new cars are still flawed and don’t guarantee safety for drivers or cyclists, new research from the American Automobile Association (AAA) has found. The AAA tested three cars equipped with active driver assist to answer questions about how well these systems adapt to possible collisions with other road users."
+    publishedDateTime: 2022-05-17T02:24:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/self-driving-cars-not-yet-ready.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 24
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/smart%20cruise%20control.jpg"
+        width: 672
+        height: 378
         isCached: true
   - title: "Survey: Most people favor driver-support technology over self-driving vehicles"
     excerpt: "May 13 (UPI) --Nearly eight in 10 people would prefer that the automobile industry put more effort into improving existing driver-support features than developing self-driving vehicles, according to a survey. AAA said that its survey on American attitudes ..."

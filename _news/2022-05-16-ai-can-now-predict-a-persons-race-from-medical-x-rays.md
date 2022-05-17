@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI Can Now Predict a Person's Race From Medical X-Rays"
-excerpt: "An astonishing new study published in The Lancet Digital Health shows that AI can predict a person’s race based on X-ray images with a high degree of accuracy, but scientists do not know exactly how."
-publishedDateTime: 2022-05-16T13:26:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp"
+excerpt: "A key advantage of artificial intelligence (AI) machine learning is its ability to find patterns that are not apparent to the human eye. An astonishing new study published in The Lancet Digital Health shows that AI can predict a person’s race based on X ..."
+publishedDateTime: 2022-05-16T12:40:00Z
+originalUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays"
+webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays"
+ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp"
 type: article
 quality: 57
 heat: 67
@@ -41,6 +41,6 @@ related:
         height: 343
         isCached: true
 
-secured: "8GpOth8rwDk4aiqBvZ0kZBD7NVmQDgSv5T8Rgnu1Zw/u4Wyg/nbHpC5Ch4jhe87PAVTgHD4kkAIPaVjLuOxm+TnxDXMMLi3Y7KUH4N1AH+w/A47Ookf8q7euU4YsKPd50Wargg2To2fqgLVnj6vqvoCIT3pZC3WDJQvt2YORQL+3rHCJwYtnAs2iMz1g7Ug+ChzL1+W+th45o6sak6nat/0n/+Srzs0Fx/nWWzQb1mhq6JYxKU0sBNLu6INewZ664VmZ2oPVx2KeKllFBn7rTkBtT7paP1vLAtYY6KXkxj2PLe50F3MzLcd/tUh08uDv/a5MTAr8Te+dvA4Z+eRKFQo3Ky7w1rmF9JQdSGN5gDEkA84It6R+O6uhK9wRIWigz44pEL0KLrhs81TYt5PBEhDzh0WBsaJeFIeLJlo0m2Zmsx53kJsiCAyAyajQVtGpYqGJTzH0mxAEV16g4omRc/atDBhXMVQjsl4S1MaUyKez1kdyCBAFZb6wQrbx7CLXC8qcJmidMyyEKIlXKOInag==;tggrfAR3dAMg2K3WsJYuSA=="
+secured: "yGftx2pBtKUqiSPGUp4NR0sVTg2EoYW5/kOEc1PcinHSc3fFgJ6oQpoQSJTsl18PRyta7RvCFngl3jX+Rx4VERtVAXpv7HkQeEr0x4f5RfZB1dnJSbfaS/IrcEbfOnMjQQHhDTxX4n1tPnjFcpg4PKHxBFv2PSoLOjQEGgZNAFkLQepZFQnmTULAtLBFRXBmPVeD6ozOVyFCEEVzvH3rZnq0zS5GpgQKV2mvbHkefY93UGLB8uRoQk+Zo2N5XmLnJTTUPgCKm0q5pSulDkMhyvVL0j5MLgh8zNaTRehjnryIvrYxZo2CMt703z27iYZe3yJgWzsByio5+ntNn9Tg/N8mdRAtMdgcOPm29IlclWA=;uvmR4kP8O2+ytH0jVH5qGA=="
 ---
 

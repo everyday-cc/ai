@@ -1,32 +1,28 @@
 ---
 category: news
 title: "DeepBrain AI's Human Video Synthesis Platform \"AI STUDIOS\" reaches 30K Users."
-excerpt: "SAN MATEO, Calif., May 16, 2022 /PRNewswire/ -- DeepBrain AI, an innovator of the commercialized AI-generated Virtual Humans, announces that the AI STUDIOS video synthesis platform has over 30,000 ..."
-publishedDateTime: 2022-05-16T22:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-s-human-video-synthesis-platform-ai-studios-reaches-30k-users-1031466252"
-webUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-s-human-video-synthesis-platform-ai-studios-reaches-30k-users-1031466252"
+excerpt: "DeepBrain AI, an innovator of the commercialized AI-generated Virtual Humans, announces that the AI STUDIOS video synthesis platform has over 30,000 subscribers. AI STUDIOS is the premier video synthesis platform that allows users to create AI Human featured videos by simply typing a script."
+publishedDateTime: 2022-05-16T22:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-deepbra-ais-human-video-synthesis-platform-ai-studios-/2022/05/16/9602951.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-deepbra-ais-human-video-synthesis-platform-ai-studios-/2022/05/16/9602951.htm"
 type: article
-quality: 64
-heat: 64
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1805778/1.jpg"
+  - url: "https://mma.prnewswire.com/media/1818442/1.jpg"
     width: 400
     height: 269
     isCached: true
 
-secured: "0tjnpoJGr6KrEzGiAsZQLmkIsD7ifOQs4iFQtqikSSspotblCSUGwaUEc4EUTqCuGm49aWlXOa2Qy//dTCXvVln57hidsHDXsVVa+wXqwKL5z3xu2pjrIZEj4uAH7RNeSZ1xqMztkmDfSjR3Pz4JpjvDayYYXrs5S3Ab+Y2+qOHZxj4tnFYrAHQbH/dyWAfw9yYNHpNQdvn+8u3BCjZCLEEB3gSjaQnmJAZqgS/ttHOl3FeDLILn+Hylb1VvoF1MGcFeDFGHKENIuo893FJ5RGDBCxQ1qND3F9NvvMldxweCrhF6sbv0soWEV/LH5rS/a/f6eudRbKM5zRtV0F04JbfBrIZCZylSYWh9UO2Jtv5Tk8lDBZqA/COmk3Tny4uTBLqF2bv+En9ZM0j82WW6fAUIZIEZQCzYuQD49jzhiiYVhUQviusGWExUhZrnPCFq5e65pdGuzALcz3JRpLOhbBiPgnYlpPoZ8Kc2Lp29QDqDr6dAyySR8uT96OZY9Guf7fN2dp7N88pxDDosGbCXfw==;Ah9oReOzzgJkunSveEhBAQ=="
+secured: "vG/PQIkMZQXEXsyTUXXcneDB7iMV4R/VUHKisecMMOqlMgKhD1Ca6seGLeHpxtFcJh6Qpqb4VoqH47ZCkZGdlXwNdOuWzzyliLxh6S9PrBolwWopXIVgwRYuxZ60PMorwwPGzKnDF+7oRUC2uAQDLn965TtJRiqVC8LT5d6TmS5UqooElYtRTQsaEhVHmk7oTrkJeXWHcBxdsq8NYhObSnUzQbiEkzGXGmiCulm3JUE0RyKuQyy41v09ptx+/lkarlPl1JL3yFtbd8AmWk9oVR2evqcmefxdaS/5l2a9+kcX4XU13EQ9WfVekHrf9yFTCeY5QDy2AT+6krsQveOSMtTRfi9z/yrJsg8+Iv2OKok=;pD4L3q3hd1erepI7yMR7Cg=="
 ---
 

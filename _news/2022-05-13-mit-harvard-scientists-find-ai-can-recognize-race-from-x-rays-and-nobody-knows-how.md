@@ -26,11 +26,11 @@ images:
 
 related:
   - title: "AI Can Now Predict a Person's Race From Medical X-Rays"
-    excerpt: "An astonishing new study published in The Lancet Digital Health shows that AI can predict a person’s race based on X-ray images with a high degree of accuracy, but scientists do not know exactly how."
-    publishedDateTime: 2022-05-16T13:26:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp"
+    excerpt: "A key advantage of artificial intelligence (AI) machine learning is its ability to find patterns that are not apparent to the human eye. An astonishing new study published in The Lancet Digital Health shows that AI can predict a person’s race based on X ..."
+    publishedDateTime: 2022-05-16T12:40:00Z
+    webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays"
+    ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp"
     type: article
     provider:
       name: Psychology Today
