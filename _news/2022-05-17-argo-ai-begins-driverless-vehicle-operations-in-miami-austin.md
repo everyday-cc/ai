@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Argo AI Begins Driverless Vehicle Operations in Miami & Austin"
-excerpt: "Industry-leading autonomous vehicle technology company Argo AI commenced driverless operations in Miami and Austin, two of the eight global cities in which it is currently developing its technology. \"Argo is first to go driverless in two major American cities,"
-publishedDateTime: 2022-05-17T15:56:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/argo-ai-begins-driverless-vehicle-operations-in-miami-austin-1031469339"
-webUrl: "https://markets.businessinsider.com/news/stocks/argo-ai-begins-driverless-vehicle-operations-in-miami-austin-1031469339"
+excerpt: "Industry-leading autonomous vehicle technology company Argo AI commenced driverless operations in Miami and Austin, two of the eight global cities in which it is"
+publishedDateTime: 2022-05-17T15:47:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27257400/argo-ai-begins-driverless-vehicle-operations-in-miami-austin"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/n27257400/argo-ai-begins-driverless-vehicle-operations-in-miami-austin"
+ampWebUrl: "https://www.benzinga.com/amp/content/27257400"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27257400"
 type: article
-quality: 84
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1819923/Argo_Driverless.jpg"
@@ -45,6 +43,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Argo AI launches driverless autonomous vehicle testing in Miami, Austin"
+    excerpt: "Argo AI, the autonomous vehicle technology company backed by Ford and Volkswagen, is launching driverless operations in Miami and Austin, a significant milestone for the startup that illustrates its progress towards commercialization."
+    publishedDateTime: 2022-05-17T16:55:00Z
+    webUrl: "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/"
+    ampWebUrl: "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Argo AI introduces non-commercial driverless vehicles"
+    excerpt: "AUSTIN - Self-driving startup Argo AI on Tuesday said it had launched driverless vehicles in Miami, Florida and Austin, Texas, but added the vehicles initially were used for in-house testing, with commercial applications following at an unspecified time."
+    publishedDateTime: 2022-05-17T15:44:00Z
+    webUrl: "https://www.autonews.com/mobility-report/argo-ai-introduces-non-commercial-driverless-vehicles"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-01_i_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New collaboration and AIP tender make driverless Metro smarter and more reliable"
     excerpt: "By combining this with artificial intelligence, the Copenhagen Metro will be able ... and from Nørreport to Lergravsparken (M2). Today, the driverless Metro consists of 39 stations located along 38 km of tracks. The company owns 81 trains."
     publishedDateTime: 2022-05-16T17:49:00Z
@@ -60,6 +88,6 @@ related:
         height: 628
         isCached: true
 
-secured: "ye8Qv1j17Xnm67jGck+evdisUrtkWfuHRzjamvLD93LMPSB5mhlSmEakLYCe7ZX4a4xoGOSpmVEGzP+8+WzyarpMNNE0lKZHXu9rbhvjiacRN6KEbsiYfdtsY9agcztoVGe9AldD7uAqlK1R9hBJ+rPrypAZV7+YmNuSpnhv27cuMOsJ+KNveEdPN67ka3wsOtVDjvhXdaJiYU/+25dnn9gS4L28jgZC6UuEh3lHpZbNWYWSos7naMq176v09Fs5p1aJTo1LcGejBY3d9iQ25dz79tMAfQWrTjj9g2OrTv4K4I6YJtnHkq5mzwDW3Ve4HFiUMMO7nLUcKx2fOTaSnXD7xb6bwRhz822Qdo78ErU=;fLioIAA1zqF7pkCwPXrnMA=="
+secured: "+pTPoIq6T6TJxcaTLCxFG0nSrERh2POSC+2Wb3Kpk08eJhMU79RJpCz2M9u+Zby79Ej54FcJ/5LP6iMuCN72c4oDC73js4uvulyUv6B8FRoS5J6SCUWNZIuqGeYwQ+HBP9kCnL8+RJHekceXjB4UCASKtZ3CNjUYzOQO3VhDi2vbLCwfVOHnjcRouQOH7sKNPxjmw4RxXBDnrsl5Fjhff4M9bXKwwTUL1IDmh7sJcYrzZpuyuyj7eMS3zwsUtL7uQrORBJASld+x39qqnzWzJiJ9p/5MKBXkVg5ilPwu/S1nLkbtlP8ZkI95TfrLr/YjnU4Uj4SZCvp/Z26FagxwrTXwMpZ7yjW4bf56PNJ+g8o=;VRrGh5LZHcB8YzRJSwrFiA=="
 ---
 

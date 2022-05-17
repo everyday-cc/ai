@@ -70,20 +70,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Federal officials caution employers on using AI in hiring"
-    excerpt: "The Justice Department and the Equal Employment Opportunity Commission are sounding the alarm about the potential for AI human resources tools to discriminate against individuals with disabilities."
-    publishedDateTime: 2022-05-12T23:53:00Z
-    webUrl: "https://fcw.com/digital-government/2022/05/federal-officials-caution-employers-using-ai-hiring/366899/"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 37
-    images:
-      - url: "https://cdn.fcw.com/media/img/cd/2022/05/12/051222_getty_fcw_ai_brain/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "yJJOYB+SOaRDhgAMvQbnERhy7zpo+0cjFHdEwKoyfIuJxeC5gHZ4UxNxOx2GqILQ9wwHfsUVNCxP355Xpq9OwXqQSgku5nmEnS64ppqYWsDvjg6teWiGNOt5el66f7RqctzJ7Re2gayToH/NxbvoQA5DK7bW3xhDeTHiEcAULvShN1nsJNN/NvUdJoIz7pjdEEzhVyfWzdNQK8s3zwffygZRWW4O4uq4DpulZUo5TWu7L2w0Bp0dupfTjNqBA8HujhPVYFDHefEIZS7xPw38ypDDNmyg5iWrKb0NpXPaUAV+XCBVQMe4YW717dgkPW7eRfd6p9tzeR5wk05/iirwIgW7aZn9vDXCn08Mn4lNkcvo1rTwT/RB2Z04gvItmhI3b/2EaJJ6FpK7iEJ04t2mJxdhX2vrZe+Qqi0PuWLYIPa6zP7vw+tcNDL65YnITKLZf4Biw316ns0uQedHYlBWTb6jUVftfpz3p9fbblXTJzvUq8/geabWGMJ1qQlmUkrnBMTII+811ukf7KoPi5sZhA==;NKNOQL3+B91we7QlDqwqHQ=="
 ---

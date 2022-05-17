@@ -41,19 +41,51 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Argo AI Begins Driverless Vehicle Operations in Miami & Austin"
-    excerpt: "Industry-leading autonomous vehicle technology company Argo AI commenced driverless operations in Miami and Austin, two of the eight global cities in which it is currently developing its technology. \"Argo is first to go driverless in two major American cities,"
-    publishedDateTime: 2022-05-17T15:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/argo-ai-begins-driverless-vehicle-operations-in-miami-austin-1031469339"
+  - title: "Argo AI launches driverless autonomous vehicle testing in Miami, Austin"
+    excerpt: "Argo AI, the autonomous vehicle technology company backed by Ford and Volkswagen, is launching driverless operations in Miami and Austin, a significant milestone for the startup that illustrates its progress towards commercialization."
+    publishedDateTime: 2022-05-17T16:55:00Z
+    webUrl: "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/"
+    ampWebUrl: "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Argo AI Begins Driverless Vehicle Operations in Miami & Austin"
+    excerpt: "Industry-leading autonomous vehicle technology company Argo AI commenced driverless operations in Miami and Austin, two of the eight global cities in which it is"
+    publishedDateTime: 2022-05-17T15:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27257400/argo-ai-begins-driverless-vehicle-operations-in-miami-austin"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27257400"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27257400"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
     images:
       - url: "https://mma.prnewswire.com/media/1819923/Argo_Driverless.jpg"
         width: 400
         height: 254
+        isCached: true
+  - title: "Argo AI introduces non-commercial driverless vehicles"
+    excerpt: "AUSTIN - Self-driving startup Argo AI on Tuesday said it had launched driverless vehicles in Miami, Florida and Austin, Texas, but added the vehicles initially were used for in-house testing, with commercial applications following at an unspecified time."
+    publishedDateTime: 2022-05-17T15:44:00Z
+    webUrl: "https://www.autonews.com/mobility-report/argo-ai-introduces-non-commercial-driverless-vehicles"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-01_i_0.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "dzeyTpfNqrSTqZQjwQaP69BSfW5Lxq++Xsiuf64PVjCH+dZXV1A43zFxGf36tKwZ/PHcOd6iRqqgoA0lpx6KyaVUQGbwE3eJQ1sKEQe0lhxRrgWGu/bb2at6ODYCJseDuCLjzEYdFWJwxa7xmalM3KLmZ37PKezzglqQ0bzaGUNGX40o41bHGMvmye2T+YO0AQ509GYnpxpmaSoWNJEwNQfdjx2rGi03N4wSbFVMFvY154Sge5fNdLtPfIXEtlgwH0gPypQkc2w4/zU6AGznXE1lPDIBQLyflQGTaF54V0F9APvGU/9M6mQOhdlI3jYDW/TMJJrAPwO1Juv5CouyyCP/v0VAY2Ndx/VSU1YrZznyy6QZdiXR2KpcN+cVkJ/GNEVWP5yyJvZbUz+BTIAntvYegPa5MJBaZAo4lmgT6hL6LFsMFEkoRMuYtYjqXy8MLneCSNpESxqC6H8zbLfJVlgMU1XlBZN+fjm69ayPH+2kfhBbfSgbWwuwAHXl7FBefX2EWan/kSb9ilc2c3+NEw==;txG7ZEWtE0IsvbRMfGzRZg=="

@@ -21,13 +21,18 @@ topics:
 related:
   - title: "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge"
     excerpt: "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base."
-    publishedDateTime: 2022-05-16T16:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm"
+    publishedDateTime: 2022-05-16T16:00:00Z
+    webUrl: "https://fox8.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 45
+    images:
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+        width: 800
+        height: 340
+        isCached: true
   - title: "FLEX LOGIX PARTNERS WITH ROBOFLOW TO ENABLE SPECIALIZED AI MODELS FOR COMPUTER VISION APPLICATIONS | Morningstar"
     excerpt: "May 16, 2022 /PRNewswire/ -- Flex Logix® Technologies, Inc., supplier of the most-efficient AI edge inference accelerator and the leading supplier of eFPGA IP, today announced that it has partnered with Roboflow, an end-to-end computer vision solution ..."
     publishedDateTime: 2022-05-16T12:30:00Z

@@ -38,34 +38,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Social Robots Market Research Report 2022 | Trends, Growth, Size, Share and Forecast 2027"
-    excerpt: "\"Social Robots Market\"The global social robots market reached a value of US$ 2.6 Billion in 2021. Looking forward, IMARC Group expects the market to reach"
-    publishedDateTime: 2022-05-13T00:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/social-robots-market-research-report-2022-trends-growth-size-share-and-forecast-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.abnewswire.com/uploads/1652360552.jpeg"
-        width: 1920
-        height: 1479
-        isCached: true
-  - title: "Educational Robot Market: Global Forecast, Size, Share, Growth Analysis and Report 2021-2026"
-    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-05-16T09:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/educational-robot-market-global-forecast-size-share-growth-analysis-and-report-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI in Drug Discovery Market Global Demand, Opportunities, Growth, Segment Analysis and Forecast to 2027"
     excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a robust CAGR of 40.8% throughout the forecast period. The global AI in the drug discovery market has been ..."
     publishedDateTime: 2022-05-16T12:14:00Z

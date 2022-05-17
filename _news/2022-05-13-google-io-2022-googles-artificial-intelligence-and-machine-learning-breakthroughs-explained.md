@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/google-io-conference-art
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Made Some Pretty Big Errors In Its I/O 2022 Translate Slides"
-    excerpt: "The main keynote of Google I/O 2022 went off without a hitch for the most part, but there were some fairly significant translation errors ... themselves centered on new AI learning techniques helping to bring 24 new languages to the service."
-    publishedDateTime: 2022-05-12T23:20:00Z
-    webUrl: "https://www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/04/google-translate-new-languages-io-22.png"
-        width: 1500
-        height: 771
-        isCached: true
   - title: "Google sprinkles AI on everything at I/O"
     excerpt: "It will start out in Los Angeles, London ... Google has also aimed its massive AI brains at Google Docs, which now using various natural language processing magic can create automated summaries of great big long documents you can’t be bothered to ..."
     publishedDateTime: 2022-05-13T12:09:00Z

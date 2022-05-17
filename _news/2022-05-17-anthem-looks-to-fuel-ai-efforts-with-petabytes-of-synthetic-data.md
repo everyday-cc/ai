@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data"
-excerpt: "Anthem Inc.’s chief information officer says he is working with Alphabet Inc.’s Google Cloud to create a synthetic data platform that will let the health insurance company better detect fraud and offer personalized care to its members. Anil Bhatt said ..."
+excerpt: "The idea of synthetic data in enterprises has been around for decades, but it’s picking up steam as companies begin making more use of artificial intelligence and have greater need for faster access to better data sets."
 publishedDateTime: 2022-05-17T09:00:00Z
-originalUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=lead_feature_below_a_pos1"
-webUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=lead_feature_below_a_pos1"
+originalUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_minor_pos4"
+webUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_minor_pos4"
 ampWebUrl: "https://www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "2+cDpLDKBhOVj2ivRKzKg/HAma3G2K4P8IuAAooiyNnjB50o1IoQrQbooZcKq0ujY4ozBmeKz0ArWAdxJbBnxsZhOEyWPNsXNFaPdy8o0wF9EymE/NmJy1KUjkNaG+zGsFSXS+hAorH1HOyxB4FQCMYECFTRx0WbVHzOZO7sdwoP5cOmpf5nWQbL8+PCRarj055YeEeAdieeT1hfZjuCzEocIv5djUA4IE0BGw1b6F/+m1KKZcsntqMEq8Bu+w/6t+JDldQ45id2Bkjp5cn80WvRtH5wkJS6MY9rVZZIGwxR7nfRpWdaypfEhivorJsQHN2aoIxg52qXwXNQ/tN2OYVlSmUxOmlNHMskvEPzmT4=;5qH81IAPK4+cfa73SeVFVw=="
+secured: "SfQKgti+UpG/QfCKZkQFpPm4fZfgDg+zsLZ7Ag/URBqQ1ednFZ4/hqGvTQj4k0eG/aI+RpcMks/ubJzUEcZ+tS3hh7cWDSgKYX0YOBch3vUQ3ejLGNjtqQD/a1pLoL+dG43IS9BYtdBYYy99Foo3L4D8T1WLhJLrH5MSBADI5iKG/wR8EfJBD3/9Nu+DWfBuYp2Qrqw22CsW6vOsdV+LHYk16XHi9dkwF8Z8mfQpkxmx9AJFMxhNxyXl1B0uhcEJ4JQTSTYh6kMNHcVCJQrliNHcXdzVm9zNQQDR7K9XAexRZxRBN4c2yh4JYlGlStfduiV7QYSA+dMiFkMTot32e/wUW6sPjgiitwgbUoqEuBI=;JEXvHJRya/5oWMXyRVzMbw=="
 ---
 

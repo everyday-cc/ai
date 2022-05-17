@@ -30,6 +30,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "T3 Conference Review from a FinTech CEO’s Perspective"
+    excerpt: "The return of the Technology Tools for Today (T3), a financial technology conference in Denton, TX, was an important event bringing together and creating a financial industry ecosystem of FinTech leaders,"
+    publishedDateTime: 2022-05-17T15:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/t3-conference-review-from-a-fintech-ceos-perspective"
+    ampWebUrl: "https://www.nasdaq.com/articles/t3-conference-review-from-a-fintech-ceos-perspective?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/t3-conference-review-from-a-fintech-ceos-perspective?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "AI in Fintech Market Size, Business Segment and Geography – Forecast and Analysis 2022-2028"
     excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
     publishedDateTime: 2022-05-17T05:53:00Z

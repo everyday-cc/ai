@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Google Made Some Pretty Big Errors In Its I/O 2022 Translate Slides"
-    excerpt: "The main keynote of Google I/O 2022 went off without a hitch for the most part, but there were some fairly significant translation errors ... themselves centered on new AI learning techniques helping to bring 24 new languages to the service."
-    publishedDateTime: 2022-05-12T23:20:00Z
-    webUrl: "https://www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-errors-io-2022-translate-slides.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/04/google-translate-new-languages-io-22.png"
-        width: 1500
-        height: 771
-        isCached: true
 
 secured: "wWSs7pXTlbLqbNNq+BlbLVxTrfAoEnNvcfH2M8xxEQFR25V3xM6ZgL8ntdhtQ+xWSVhEF5cMBBlJ7lRqFPU9ZXrE2LDQDaK+YrFetY5chMDPgCtdUFwmSiOBV9fJLQVDv4AgfUlZx7nryUK2VKjFXd4AMwOAHmU/lV0FUHZLoRPzoZMH8OzhomZJPJlOGrathMRp6cSso/q7R450pTbjDYYYn+AtqEN3wrGF9lwAivYOr8LBZ/PEa3QzV15Nlqbx2usFZeV6l0s1nWpSkW1wHI0DKfFLSIwLdFMg8rGK+kDJ4M05nVgkUT+mkEQ9HUa1Fgbj2VtIaV1eRAiTkITUQf5VS42BoTtA6moUkr+L5UPEve5xU6qHV7t160TTtO1pz0q1VAxLKVwfYj38q+y8YtndPF68NOeZFvpChU0z67TK3FrVSCjmWTtg3VSiw12bs9ReZNf/t+RPhAt2x5olr2Hs/faxWdgw6+1msMTpaFdhctm8/WWD+6Vg5LhqzVJ/0izn1ZMmMG1HtzSSLbUfQA==;H9daeQ/UteE/AAG1Y80SOA=="
 ---

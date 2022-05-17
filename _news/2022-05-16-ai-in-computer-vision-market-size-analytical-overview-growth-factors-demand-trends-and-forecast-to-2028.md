@@ -39,20 +39,6 @@ related:
         width: 335
         height: 250
         isCached: true
-  - title: "Computer Vision Market Size, Demand, Dynamics, Business Growth And 2031 Forecasts"
-    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on the Computer Vision Market that emphasizes the latest trends, key opportunities, drivers, and ..."
-    publishedDateTime: 2022-05-17T06:38:00Z
-    webUrl: "https://menafn.com/1104225349/Computer-Vision-Market-Size-Demand-Dynamics-Business-Growth-And-2031-Forecasts"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?175965"
-        width: 379
-        height: 249
-        isCached: true
   - title: "Increased Demand for Sturdy Surveillance Systems Fuels AI in Video Analytics Market, Says TMR"
     excerpt: "Artificial intelligence (AI) technology has paved its way through the market due to its advantages. Further, it is transforming the work environment using"
     publishedDateTime: 2022-05-17T11:24:00Z
@@ -76,29 +62,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 25
-  - title: "Self-Cleaning Filters Market foresee Professional Survey by Manufacturers, Share, Growth, Trends, Types and Applications, predict to 2026"
-    excerpt: "Self-cleaning filters are used for to remove contamination and oversize materials from your products. These filters are adopted for efficient filtration of liquids with high or moderate viscosity. These."
-    publishedDateTime: 2022-05-17T14:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-cleaning-filters-market-foresee-professional-survey-by-manufacturers-share-growth-trends-types-and-applications-predict-to-2026-2022-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Industry Analysis, Applications, Overview, Size, Growth, Top Players and Growth Opportunity 2028"
-    excerpt: "Google, Microsoft, Facebook, Pinterest, and Apple are investing in resources and research into image recognition and related applications. Improper data storage, security breaches, and misuse of facial recognition data are some of the primary concerns ..."
-    publishedDateTime: 2022-05-13T13:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-industry-analysis-applications-overview-size-growth-top-players-and-growth-opportunity-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
   - title: "Middle East and Africa Self-driving Car Market 2022 : Growth Factors, Product Overview, Segmentation and Forecast Study to 2030"
     excerpt: "Quadintel published a new report on the Middle East and Africa Self-driving Car Market. The research report consists of thorough information about demand,"
     publishedDateTime: 2022-05-16T14:19:00Z

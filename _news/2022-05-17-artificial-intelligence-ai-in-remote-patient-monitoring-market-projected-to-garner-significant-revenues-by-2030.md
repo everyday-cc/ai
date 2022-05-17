@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence In Law Market Size Is Projected To Garner Significant Revenues By 2030"
-    excerpt: "With transformation of business models happening on account of emergence of AI, IoT and Robotics, the global Artificial Intelligence in Law market is estimated to observe significant growth over ..."
-    publishedDateTime: 2022-05-17T09:37:00Z
-    webUrl: "https://menafn.com/1104226001/Artificial-Intelligence-In-Law-Market-Size-Is-Projected-To-Garner-Significant-Revenues-By-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?283193"
-        width: 269
-        height: 250
-        isCached: true
 
 secured: "CdeY3r3bP65capSFuvoXIiudinMxswuhD8dk8OP679l13rQSLZGqFihIMrKV/RoJW4CLlUoW6sNiWEhwjYJAfhRFZ4/y8AucV4QOPcvBzydU4znzVX4bYw1rED8ErBWslw5uLe3LiMvfpbbv0+MxaFuv4/pEDpLR0CiQtJ/40ebA8990IlBdOMbx4jSqWs+/zWYoJkGLHJ2gIk/zlMbkeGGgoRptqXcyAqpnH9yz5A6+fcS6OvXu9f6RYD6aRzle21jjgphHqU6u3RV9ZhTC162v6IgEk0aV4jnv3KW7Jwae0OAPwaBd9KDgV/PN9vbEOh3RUHKxY72BXezaNtL0l6mOBwXDIBwdcK0UNWMUpGg=;G9kmQEAMWIWDWqjZl3ulWQ=="
 ---

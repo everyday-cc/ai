@@ -34,6 +34,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "T3 Conference Review from a FinTech CEO’s Perspective"
+    excerpt: "The return of the Technology Tools for Today (T3), a financial technology conference in Denton, TX, was an important event bringing together and creating a financial industry ecosystem of FinTech leaders,"
+    publishedDateTime: 2022-05-17T15:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/t3-conference-review-from-a-fintech-ceos-perspective"
+    ampWebUrl: "https://www.nasdaq.com/articles/t3-conference-review-from-a-fintech-ceos-perspective?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/t3-conference-review-from-a-fintech-ceos-perspective?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Bakkt To Participate in Rosenblatt Securities Annual FinTech Summit"
     excerpt: "Bakkt Holdings, Inc. (NYSE: BKKT), a trusted digital asset platform that enables consumers to buy, sell, send and spend a range of digital assets, announced today it will participate in the Rosenblatt Securities Annual FinTech Summit."
     publishedDateTime: 2022-05-13T15:15:00Z

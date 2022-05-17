@@ -32,34 +32,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Social Robots Market Research Report 2022 | Trends, Growth, Size, Share and Forecast 2027"
-    excerpt: "\"Social Robots Market\"The global social robots market reached a value of US$ 2.6 Billion in 2021. Looking forward, IMARC Group expects the market to reach"
-    publishedDateTime: 2022-05-13T00:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/social-robots-market-research-report-2022-trends-growth-size-share-and-forecast-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.abnewswire.com/uploads/1652360552.jpeg"
-        width: 1920
-        height: 1479
-        isCached: true
-  - title: "Educational Robot Market: Global Forecast, Size, Share, Growth Analysis and Report 2021-2026"
-    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-05-16T09:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/educational-robot-market-global-forecast-size-share-growth-analysis-and-report-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence (Ai) In Pharmaceutical Market Research on Demand and Production, Top Players with Trends and Forecast till 2030"
     excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Pharmaceutical Market Size Is Expected To Reach USD 7,147.2 Million By 2029., at a CAGR of 31.2% during the forecast period.” The ..."
     publishedDateTime: 2022-05-16T13:15:00Z

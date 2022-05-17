@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-oil-a
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-oil-and-gas-market-comprehensive-study-with-key-trends-major-drivers-and-challenges-2017-2029"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "AI in Agriculture Market Research 2019 – Growth Opportunities and Revenue Statistics by 2026"
-    excerpt: "AI in Agriculture Market Scope. A new report titled “Global AI in Agriculture Market Professional Report 2020-2026” has been added by Straits Research to its repository of res"
-    publishedDateTime: 2022-05-17T06:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-agriculture-market-research-2019-growth-opportunities-and-revenue-statistics-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "BJeBw/s6K2rlYcD2zM6GXDthh6Eq9RrRfRrHrGgOA3EEvFLgVOQaICnjbBamue2nghmUYuzPbmmOo3TrqIt9vM83P4kTmQSZ4I8JE+JuO/TCnnGddY+krobzpmlQQTDEnt+AD7ygoKnMFGeDczVEoT4J/UYwVGg/Dl+9P/FHqywvvlXCxsB/Dxp7jB+wlaXvX7CGmxVLw1zztlx76WPAvfvU9drDZSpTozLJkawB1/uKf6OxlTYUhpNnSlo19PsePott58ed1h9ErY3REEXjnBfFK1X7p38j23q8zx5/iI4qe5/PJcJJvH/R1kmboSMMGmHtvNFqnPt9fC8hfJJodRYR74W1n+4ekfmj3exL1Q8=;VnRfOzR20Psi+CQTRABdkA=="
 ---

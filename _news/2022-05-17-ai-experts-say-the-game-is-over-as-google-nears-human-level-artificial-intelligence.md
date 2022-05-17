@@ -8,8 +8,8 @@ webUrl: "https://www.dailystar.co.uk/tech/news/ai-experts-say-the-game-26989011"
 ampWebUrl: "https://www.dailystar.co.uk/tech/news/ai-experts-say-the-game-26989011.amp"
 cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/ai-experts-say-the-game-26989011.amp"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i2-prod.dailystar.co.uk/incoming/article26989679.ece/ALTERNATES/s615/0_AI-experts-say-the-game-is-over-as-Google-nearing-human-level-artificial-intelligence.jpg"
@@ -26,6 +27,6 @@ images:
     height: 409
     isCached: true
 
-secured: "jeWpx/NxvfDk+BdoswXeh9ya4qLnPC4VmfeCu3XXrfNC8EdEGuhpXf/qU0TbWaEJINKFbdxWRQ5U6DCE7jbt/iNIrWRSuLewsHEOjLEYBKfquWzmlxyvIpRAucYITY2QWc0ims2k6uAGx8t7w+6rAsaZoBDNxt6TueyaJss7bJCQ0/5Y9OY/8vk99iNrLWvEcT8sDu9YQyobkYymX8F52IcvQK5FGxtsd++Evmv2nTHxMMCkJDW7d70LWXnPMBesJ/P7yl0fG1ZBoarKo58W+xs4XBaSkHhqpMkabG6WgrU72nTRAQLTc+OBW8Ourk5KRqPe1Vu3QrAXqrynwktbGrj3R3WXA6HX5vJbqImTHk8=;y7+8ZRn5WykkEpZUgwFtlQ=="
+secured: "/82DPuE1rn7WFKBuVUPiA04i6nY6iH8OIEVz9jbC0Sai0f9cYTS/Gl61iS5ZX570TUZZBYDGXWChbNTfY4BLJUDPAmC4p4xQbDNQY99Y9S/kPWXo2eitx9s6E5TH3v3o/VcKRQnK7szvV7wmX3WXueQtby1M+nf+wd9jQXz5VxgqryAXEJto26J8IZAW1H4PZtQ3a4uvUMtvvp5laj0ip+t3KOAyz9c9NWItG1tfPC9ihPXwa8tdupXRntBCPf/FE7rpSZXTsNQfcB6+UMLPwmsoX50IZPziUjTMAn9of4nXO/aZUMIDI/zB5sADadFsM2JuosCSBIHwgwojG0d2eEu/8B4XdblC25iV8zcfVH14QeMUwbjRRED7tzwWZdlsPFikrhHp69ABn6Op0vwHdSTyinnGjWp82SFlO8Hovav+ALr2Xi2vjm7RBfo9kT0LndTOU8bvTOQrt+sveKuZ38J+27UmZWmXTEr2pFazyf0HvbP5hKrN8frn/xFRZFUJpHLTjqRZHuG4PNdVAQ/5fA==;0Uo5omx7moIoP7jff0IjyQ=="
 ---
 

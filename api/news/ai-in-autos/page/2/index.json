@@ -741,24 +741,33 @@
     {
       "path": "_news/2022-04-28-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
       "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
-      "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ...",
+      "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... has in recent years invested heavily in autonomous driving and artificial intelligence technology, including automated personal assistants and AI chips. The company said in a ...",
       "sourceUrl": null,
-      "webUrl": "https://thetandd.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_5cc547ea-26f2-5f82-9740-6d1bc8449c31.html",
-      "originalUrl": "https://thetandd.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_5cc547ea-26f2-5f82-9740-6d1bc8449c31.html",
+      "webUrl": "https://www.tribstar.com/region/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_281fc57d-754b-59d4-8afc-9f52b700113e.html",
+      "originalUrl": "https://www.tribstar.com/region/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_281fc57d-754b-59d4-8afc-9f52b700113e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/custom/image/604bc538-2923-11ea-8d06-df03a003c410.jpg?resize=600%2C472",
+          "width": 600,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T23:59:00-07:00",
+      "publishedDateTime": "2022-04-27T22:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Times and Democrat",
-        "domain": "thetandd.com",
+        "name": "Tribune Star",
+        "domain": "tribstar.com",
         "images": null,
         "publishers": null,
         "authors": null

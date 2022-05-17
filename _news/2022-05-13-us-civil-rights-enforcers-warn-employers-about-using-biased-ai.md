@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artific
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Federal officials caution employers on using AI in hiring"
-    excerpt: "The Justice Department and the Equal Employment Opportunity Commission are sounding the alarm about the potential for AI human resources tools to discriminate against individuals with disabilities."
-    publishedDateTime: 2022-05-12T23:53:00Z
-    webUrl: "https://fcw.com/digital-government/2022/05/federal-officials-caution-employers-using-ai-hiring/366899/"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 37
-    images:
-      - url: "https://cdn.fcw.com/media/img/cd/2022/05/12/051222_getty_fcw_ai_brain/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
     excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
