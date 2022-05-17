@@ -1,28 +1,19 @@
 ---
 category: news
 title: "Query.AI Appoints Jeremy Fisher as Chief Technology Officer"
-excerpt: "Respected senior technology executive tapped to lead technical strategy and execution as the disruptive startup accelerates product development and innovation efforts. BROOKINGS,"
-publishedDateTime: 2022-05-17T13:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-queryai-appoints-jeremy-fisher-as-chief-technology-officer-/2022/05/17/9603646.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-queryai-appoints-jeremy-fisher-as-chief-technology-officer-/2022/05/17/9603646.htm"
+excerpt: "Fisher joins Query.AI with extensive technology and cybersecurity ... for DST Systems (now SS&C Technologies), where he created a startup incubator focused on big data and deep analytics, and ..."
+publishedDateTime: 2022-05-17T16:05:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220517NE59078/query-ai-appoints-jeremy-fisher-as-chief-technology-officer/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220517NE59078/query-ai-appoints-jeremy-fisher-as-chief-technology-officer/"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1701661/Query_AI_Logo.jpg"
-    width: 400
-    height: 209
-    isCached: true
-
-secured: "gbUz/9WUpCJWnLqqTdi8OpAin45QZesWSlauDYNistMPm3RYODIle1uYPXtup1oAi6Sb31TpAVtAID8rKxbpaHB7eu1WwQX+ObBSnwX9qyMSbKds2vof5d8yn5soXh2klhqMWUdy2H5KOJXMFLC2YTs0IRe8q6I2OWhmNvTg1Q3nHMeUXAQQeY0hjV8NWtL+QZkV3NY0HYZYsSSvWVWzcApWfyvZxrZHKcjMvP6bgTjOazh/RqwOvKPR6APfmYRB+ly8bu7mhWU/Nw6k2FSwxBn2m2tBvlK40gdtxkqLyAsI0hRaJfKeZeSwM/XmMjVZc5IkYwd0y2W+EgzR+vxmlW5VTSs57Vm4T6Nl0iNN9Tk=;03rKDFGdHxof4Ak8YFnFyw=="
+secured: "BI3T4U7sWSEEYtZbCmrTOzxhGIjNn4h2lcjHZae88l0Oum4ILqvUPC1JdBxQr68MmKPI5c0oEOvhYy/i5/UkvYiMchuY9S8l993OjlXncMPN8lrLxrvRtfj7LDkPiW+BB3AfqBCYBxWQoomPwJ047oIXZLooRS0d8zFZiduQ5N4SG+q/6WwGUjLm9AIrQgfq7EAxmvbnSSlterTlPDKu+vdkYYt1NoYK77/PdpyFv12h3rBbgVya42Iw9366FIMzp5eoHBxehak8MJq1lgSy8GfX2xUhszkpakZmTqaGLvpimdj2i3Lo8Kklykfv+Qow2kVlIxw0VjqqEVnOtG9UHGMsmojP2Euzk0xPrXi+K5g=;vynrY5xWmKit8XeisMKsFw=="
 ---
 

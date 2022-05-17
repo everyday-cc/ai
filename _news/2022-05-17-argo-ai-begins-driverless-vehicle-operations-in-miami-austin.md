@@ -1,93 +1,24 @@
 ---
 category: news
 title: "Argo AI Begins Driverless Vehicle Operations in Miami & Austin"
-excerpt: "Industry-leading autonomous vehicle technology company Argo AI commenced driverless operations in Miami and Austin, two of the eight global cities in which it is"
-publishedDateTime: 2022-05-17T15:47:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27257400/argo-ai-begins-driverless-vehicle-operations-in-miami-austin"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/n27257400/argo-ai-begins-driverless-vehicle-operations-in-miami-austin"
-ampWebUrl: "https://www.benzinga.com/amp/content/27257400"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27257400"
+excerpt: "Industry-leading autonomous vehicle technology company Argo AI commenced driverless operations in Miami and Austin, two of the eight global cities in which it is currently developing its technology. \"Argo is first to go driverless in two major American cities,"
+publishedDateTime: 2022-05-17T15:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/argo-ai-begins-driverless-vehicle-operations-in-miami-austin-1031469339"
+webUrl: "https://markets.businessinsider.com/news/stocks/argo-ai-begins-driverless-vehicle-operations-in-miami-austin-1031469339"
 type: article
-quality: 74
-heat: -1
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
   - AI
+  - AI in Autos
 
-images:
-  - url: "https://mma.prnewswire.com/media/1819923/Argo_Driverless.jpg"
-    width: 400
-    height: 254
-    isCached: true
-
-related:
-  - title: "Argo AI Begins Driverless Testing In Austin And Miami"
-    excerpt: "Argo AI, the Pittsburgh, Pennsylvania-based automated driving company majority owned by Ford and Volkswagen has just begun its first driverless testing on public roads in Miami and Austin. This milestone comes about five and a half years after the company ..."
-    publishedDateTime: 2022-05-17T15:01:00Z
-    webUrl: "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/"
-    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62839ea0171c859a3a9cfd95/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Argo AI launches driverless autonomous vehicle testing in Miami, Austin"
-    excerpt: "Argo AI, the autonomous vehicle technology company backed by Ford and Volkswagen, is launching driverless operations in Miami and Austin, a significant milestone for the startup that illustrates its progress towards commercialization."
-    publishedDateTime: 2022-05-17T16:55:00Z
-    webUrl: "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/"
-    ampWebUrl: "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Argo AI introduces non-commercial driverless vehicles"
-    excerpt: "AUSTIN - Self-driving startup Argo AI on Tuesday said it had launched driverless vehicles in Miami, Florida and Austin, Texas, but added the vehicles initially were used for in-house testing, with commercial applications following at an unspecified time."
-    publishedDateTime: 2022-05-17T15:44:00Z
-    webUrl: "https://www.autonews.com/mobility-report/argo-ai-introduces-non-commercial-driverless-vehicles"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-01_i_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New collaboration and AIP tender make driverless Metro smarter and more reliable"
-    excerpt: "By combining this with artificial intelligence, the Copenhagen Metro will be able ... and from Nørreport to Lergravsparken (M2). Today, the driverless Metro consists of 39 stations located along 38 km of tracks. The company owns 81 trains."
-    publishedDateTime: 2022-05-16T17:49:00Z
-    webUrl: "https://www.mynewsdesk.com/uk/hitachi-rail-global/pressreleases/new-collaboration-and-aip-tender-make-driverless-metro-smarter-and-more-reliable-3182537"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 49
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/b_auto,c_pad,h_628,q_auto:good,w_1200/zw5lzkwistxsb3vme1ep.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-
-secured: "+pTPoIq6T6TJxcaTLCxFG0nSrERh2POSC+2Wb3Kpk08eJhMU79RJpCz2M9u+Zby79Ej54FcJ/5LP6iMuCN72c4oDC73js4uvulyUv6B8FRoS5J6SCUWNZIuqGeYwQ+HBP9kCnL8+RJHekceXjB4UCASKtZ3CNjUYzOQO3VhDi2vbLCwfVOHnjcRouQOH7sKNPxjmw4RxXBDnrsl5Fjhff4M9bXKwwTUL1IDmh7sJcYrzZpuyuyj7eMS3zwsUtL7uQrORBJASld+x39qqnzWzJiJ9p/5MKBXkVg5ilPwu/S1nLkbtlP8ZkI95TfrLr/YjnU4Uj4SZCvp/Z26FagxwrTXwMpZ7yjW4bf56PNJ+g8o=;VRrGh5LZHcB8YzRJSwrFiA=="
+secured: "ojzbdIu1vWHUXPxWuFFtJfZdZIpiNXRd+HXZ1XOS/SOYbBQlU0f8T0aOz2qH/DTZONmdWIXdGNniAmrNYC2LX+AEhG9KjSwBT3Z/bEew5qIx9mqyzC2eZDzfQOEEcLiNUBp3gWfbv2U6AlBDcOGhVPBFZM4JbX8g2ofDNTdIa7wlH2Ul/U1Bv6XdWZ2RimoMFXtRhgY9tbK4n41o5uPPpSdvs2uHQnTePfv1yVIn7RVrl/yCTc+ggY8sGHhiA8bnmLq+OQfqcZS0w4m9lkJ8gSiZzNwyzbBF73nhgNYQMpuyehyQIGJU1sTSAmrpZEWEIOdfSPMMcY2x+FPLQJphyhfFtBhJCr9Zu1CMc0Sd+NILAY64PRMzpWoBK3R3PlBMKQtUg36yVFxQIWHDfyZKrs1mvpeGCPPXlQZNoUgz4tjXDf/QbzonivkyJoQo6ZBKPxG6FyA7qYJCnmM0knYx2sooA+1PvH3dmDXdvyhcu1iFcuJidwDxV7ir3ibXXxn1E6alFsm2uPRLCIMPp7VkKA==;d51GviskewBMosOkd7pKvA=="
 ---
 
