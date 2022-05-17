@@ -2,6 +2,51 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-05-02-how-an-engineer-at-googles-deepmind-ai-lab-pulled-off-a-career-pivot-from-marketing-into-machine-learning-without-a-phd.md",
+      "title": "How an engineer at Google's DeepMind AI lab pulled off a career pivot from marketing into machine learning without a Ph.D.",
+      "excerpt": "Ivan Lobov used to work in advertising but spent vacations and weekends taking part in programming challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4",
+      "originalUrl": "https://www.businessinsider.com/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-healthcare-ethics-in-ai-can-software-make-ethical-decisions.md",
       "title": "Healthcare Ethics In AI: Can Software Make Ethical Decisions?",
       "excerpt": "they must abide by basic principles of medical ethics. Can machines behave ethically, either with or without human oversight? It's a question without an easy answer. To facilitate discussion, let's explore a few topics related to AI-based clinical tools ...",
@@ -1058,59 +1103,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-perceptron-ai-mixes-concrete-designs-molecules-and-thinks-with-space-lasers.md",
-      "title": "Perceptron: AI mixes concrete, designs molecules, and thinks with space lasers",
-      "excerpt": "This column aims to collect some of the most interesting recent discoveries and papers in the field of artificial intelligence ... the team created a neural network that could predict material ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
-      "originalUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Step-6_AI-Sustainable-Concrete-Project-Image.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
-      "publishedDateTime": "2022-04-30T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

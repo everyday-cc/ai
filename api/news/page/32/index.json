@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-04-16-palestinians-clash-with-israeli-police-at-jerusalem-holy-site.md",
+      "title": "Palestinians clash with Israeli police at Jerusalem holy site",
+      "excerpt": "Israeli police confronted hundreds of Palestinians injuring many during the altercation outside one of the city’s holiest sites. The clashes erupting during the convergence of Ramadan, Easter and Passover are sparking fears the country will spiral into more violence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/palestinians-clash-with-israeli-police-at-jerusalem-holy-site-137843781578",
+      "originalUrl": "https://www.nbcnews.com/now/video/palestinians-clash-with-israeli-police-at-jerusalem-holy-site-137843781578",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_04/1650076264289_now_topstory_ath_palestinian_clash_220415_1920x1080-s9zxot.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo137843781578",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo137843781578",
+      "publishedDateTime": "2022-04-15T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-16-a-robot-to-top-up-your-tesla.md",
       "title": "A Robot To Top Up Your Tesla",
       "excerpt": "Everything is controlled ... While robot won’t be winning any interior design contests, it does the job well, and adds a bit of convenience and peace of mind.",
@@ -1097,40 +1140,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-more-complaints-against-microsoft-azure-in-europe.md",
-      "title": "More complaints against Microsoft Azure in Europe",
-      "excerpt": "Filed last year, two of the three cloud providers who have come forward against Microsoft Azure are France's OVH and Italian Aruba.",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2022/04/more-complaints-against-microsoft-azure-in-europe/",
-      "originalUrl": "https://techhq.com/2022/04/more-complaints-against-microsoft-azure-in-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

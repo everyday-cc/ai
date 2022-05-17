@@ -1,29 +1,29 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
-publishedDateTime: 2022-05-12T21:04:00Z
-originalUrl: "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-hawaiipublicradio-org.cdn.ampproject.org/c/s/www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
+publishedDateTime: 2022-05-12T21:13:00Z
+originalUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Hawaii Public Radio
-  domain: hawaiipublicradio.org
+  name: Iowa Public Radio
+  domain: iowapublicradio.org
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/4ca644a/2147483647/strip/true/crop/3936x2215+0+203/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F16%2Fap22136505808953_custom-a51309a281905ed9e54b595118751e2ec48e4a14.jpg"
-    width: 430
-    height: 242
+  - url: "https://npr.brightspotcdn.com/dims4/default/4e01d5f/2147483647/strip/true/crop/3663x2256+0+91/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F12%2Fap22132601475019_custom-1c604c1df8593952f036bc818c749f46e7ec2adc.jpg"
+    width: 880
+    height: 542
     isCached: true
 
 related:
@@ -113,6 +113,6 @@ related:
       domain: mcknightsseniorliving.com
     quality: 8
 
-secured: "zGzgUiWnzOqILbn+a3LKpKP3AWdN9DpXumeui5nR/e7rm926bu0q2dumsRTXUZyzlsu75roqQkHaJhsL9j9ozFKqQtq6GYnEWZVjF4FLyGxU+sQ7i6tRQtoV+0WcgR9Ql5zE3vrI6DIaFC3RzWTHYMoaY9QeGKqh7wNW0QWJAGQw5SwAiVilB8ek0jVZSKxIGGKuM0dk6puZD251E5MGBYtz88mSF+DKjoqRo/I+Buq0IG9PNydUiXz1+JvWUvmzT7M0P7/BY85/yYikFleVd+Ov/Ug9i2EoiIfBi3h30pFKIk48gCEi2cTm5xe31L9bhO7UWcpp1SyeoX8jY4ofuHCBXrqrtBAzYrq0dXLJ4OY=;BO1Ql/Kpe7C6g90dlnhRqQ=="
+secured: "gDwtfiZuDbX4oNcPy8PJ8ucX9DzbzcCSoP+rwwj/MQZE140mH7KhOMfOdWVeAqmhKFGgvP3OG9XFbCO3n/Mu5mM+UVzydyDH1OhG7ZmkB6UOWV1yvRETxTGEwQ1OGtqDSejlOp99FZFBBlZoLVwHcecl9IjdEtCopIaMmHgyCsuCoYsrsiruJDobgl4h9r0zTyKi3jLiUb8/RuzYg68tJ8Zh2GUO4SHNTkx3XFGqe5yO2fZiikONomUSwUonmZ8UUH7eUycHCRyR5v5ylvtquFMcaFUGez6QfBgsNuzz6/20Q8+tjrDio+5cgbg2S9DNRrah04WIPpRKy2B4dST6+fUvWEA8BBW/Oc8+10QGGxE=;vAGZ3daGCH/dRodcbRb3aA=="
 ---
 

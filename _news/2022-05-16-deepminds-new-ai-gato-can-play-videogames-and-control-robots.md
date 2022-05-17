@@ -7,8 +7,8 @@ originalUrl: "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can
 webUrl: "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can-play-videogames-and-control-robots"
 type: article
 quality: 71
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: SiliconRepublic
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’"
+    excerpt: "A DeepMind lead researcher made the bold claim that the company's newest AI was a 'game over' product for AGI research."
+    publishedDateTime: 2022-05-16T22:30:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 77
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FscalingAI.jpg&signature=9bc3b164454b20146d307326beb8c1b3"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "DeepMind’s astounding new ‘Gato’ AI makes me fear humans will never achieve AGI"
     excerpt: "DeepMind just unveiled a new AI system called Gato that makes OpenAI's GPT-3 look like a child's toy. But are we any closer to AGI?"
     publishedDateTime: 2022-05-13T19:00:00Z
@@ -35,24 +49,6 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 60
-  - title: "DeepMind's 'Gato' is mediocre, so why did they build it?"
-    excerpt: "The latest achievement of the DeepMind division of Google, however, might be summarized as, \"One AI program that does a so-so job at a lot of things.\" Gato, as DeepMind's program is called, was unveiled this week as a so-called multimodal program ..."
-    publishedDateTime: 2022-05-14T13:41:00Z
-    webUrl: "https://www.zdnet.com/article/deepminds-gato-is-mediocre-so-why-did-they-build-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 51
-  - title: "DeepMind’s multi-tasking, generalist model Gato that can do it all"
-    excerpt: "With the growing number of large-language models and a multi-modal approach to training, DeepMind has released a multi-modal, multi-tasking, multi-embodiment generalist policy called Gato. The sole generalist agent was trained using data from a variety of tasks and modalities in a way that the same network with the same weights can do everything from playing Atari,"
-    publishedDateTime: 2022-05-13T13:50:00Z
-    webUrl: "https://analyticsindiamag.com/deepminds-multi-tasking-generalist-model-gato-that-can-do-it-all%EF%BF%BC%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "w4CZQg0WwFXcx6ahFelb8Ha/NM/x9fnfrYQDXUbyIQGl66cv4rShRuzjGAacD+s+J1VRGucnmcxkc+em+hrGED54FX+FednkdFuj+h4uMt+U7y1Lj5xxqP7MRxqgYaWUTnMQZkw/PCE1UpuKzRFoqlAtLEv+JWlDjQ0UGqgypMUSNeR5h9haJnTaNEDg/5Gqqk/e5ENkBJ2TcJXXSTZmFr4u8fwPCNXjLAA1F5BiflM7+fAjikbHlIIiMWe0oiu4Qu3eWpYvaSaZnR1pjCMLJbfYFgHoL0MhTcgTloEaB++eo5KsLIUGOse+M9KYzt7WlUVF1Cgfb7r9wM4wKGFLh44NmWMIs1KWp3cYn1J8+f4gMG0cfEbOyD/0oVlnwsqaET0OaqRfuRR5dPv7bRsdNWkSQGk+1o6vzoEX9gvVvTBqihXKoZ4RbaB5tHAel/TXCXFs/HIVCB4YCqd1v7ba9nZ/dUw/GKeZVWfCh2RfOtbjGl8ET4jNOG6TSFI61MrXvmvGzjVNnc5zGG4FIop1BQ==;Dhy4632zXMUHeM+QFZ4SNw=="
 ---

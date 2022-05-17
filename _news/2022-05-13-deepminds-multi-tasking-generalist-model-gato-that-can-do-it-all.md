@@ -19,29 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind’s new AI, Gato, can play videogames and control robots"
-    excerpt: "While we’re not quite there yet, a new AI system developed by Alphabet’s DeepMind might have brought us one step closer. Gato is DeepMind’s latest AI that can perform more than 600 different tasks, such as playing videogames,"
-    publishedDateTime: 2022-05-16T12:03:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can-play-videogames-and-control-robots"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 71
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/a-14.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "DeepMind’s astounding new ‘Gato’ AI makes me fear humans will never achieve AGI"
-    excerpt: "DeepMind just unveiled a new AI system called Gato that makes OpenAI's GPT-3 look like a child's toy. But are we any closer to AGI?"
-    publishedDateTime: 2022-05-13T19:00:00Z
-    webUrl: "https://thenextweb.com/news/deepminds-astounding-new-gato-ai-makes-fear-humans-will-never-achieve-agi"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 60
   - title: "DeepMind's 'Gato' is mediocre, so why did they build it?"
     excerpt: "The latest achievement of the DeepMind division of Google, however, might be summarized as, \"One AI program that does a so-so job at a lot of things.\" Gato, as DeepMind's program is called, was unveiled this week as a so-called multimodal program ..."
     publishedDateTime: 2022-05-14T13:41:00Z

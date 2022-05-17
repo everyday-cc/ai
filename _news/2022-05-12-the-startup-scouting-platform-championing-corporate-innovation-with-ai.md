@@ -1,54 +1,25 @@
 ---
 category: news
 title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
-excerpt: "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi"
-publishedDateTime: 2022-05-11T18:15:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+excerpt: "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The"
+publishedDateTime: 2022-05-12T02:15:00Z
+originalUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+webUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
 type: article
-quality: 17
-heat: -1
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
-related:
-  - title: "Curious Thing’s voice AI communication platform asks the right questions"
-    excerpt: "Sydney-based Curious Thing is an aptly-named startup. The voice AI communication platform can call people and ask them questions like “How are you feeling today?” and then follow up with ..."
-    publishedDateTime: 2022-05-15T20:00:00Z
-    webUrl: "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/"
-    ampWebUrl: "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/FounderShoot-2.jpg"
-        width: 5529
-        height: 3691
-        isCached: true
-  - title: "Controlling AI edge applications"
-    excerpt: "AI, Boxer-8253AI, and Boxer-8254AI IPCs. The company’s recent Gene-EHL5 subcompact board with CAN and 5G connectivity is made to meet edge applications. The Boxer-8240AI features the Nvidia Jetson AGX Xavier module (Source: Aaeon) For example,"
-    publishedDateTime: 2022-05-12T11:22:00Z
-    webUrl: "https://can-newsletter.org/hardware/controllers/220512_controlling-ai-edge-applications_boxer-8233ai_boxer-8240ai_boxer-8253ai_boxer-8254ai_gene-ehl5_aaeon"
-    type: article
-    provider:
-      name: can-newsletter
-      domain: can-newsletter.org
-    quality: 39
-    images:
-      - url: "https://can-newsletter.org/uploads/media/raw/478cc66ae63932aa1c10a9dbd39c2991.jpg"
-        width: 700
-        height: 237
-        isCached: true
+images:
+  - url: "https://lh3.googleusercontent.com/__Jn4g-5HH4_ZMyjmWpuer2Zb_RLKiPRLMDswfTePpLBtBbnq31QHR6DQvAS9_82whxKfpi7RUOoCnEkEbn1mdgwAnexrzC9RskHWubQ_Cdu-kSf9_UDd6l7OdAAKKiZVqK6ANqCwWP4RyI2oA"
+    width: 1012
+    height: 445
+    isCached: true
 
-secured: "KD2/zs+7EXhqbU/By8ZTTeZRW9EYi8lcjb+g46TNr/kTrxFm5UPHY5Lbyha2MVG/1MfytddfuPmooYFJnq/DfdLipzaPWQa6GaX86NJXHmLeVYUXa/bnCSvxnNINvRfEYvLnfKpFY014H5CtN/P3ysSITq3NQGX05eAuNaF+HLs0M8a2aDE45+mx6SP4gXCtv+w8SylkQV9npslVBtaw/hs/PXsYgFoG12R5jRvQjrbQ6zIWynTv55dKQ52Q0D/nffAvqt3FYwFTVChGsD0cEWONYncQDnEu9ALygr4c9WMuRqTppUxLozfSE+FNG9LnbwTqlsPlzyreFuBjysOimFIg2Y986u1PLV4TNPZnuw7cIoIqA6tNchU97JdlGbznxpBZVvkckFvVWa/6Zyn+/QpSK64m01CZ6gCZ2oF1u8vIZKbg3TuZmZGSXBQTsO8c4eoZvruR75QPsxDUdq0m4uaqVAivyGVr+wPlC4Z2hG9PEJpNlmItBCcCWuqm43MUwbLWtevzQNd0P4oZfosWLQ==;TPZlDHR0rPwpZW9keN4+aA=="
+secured: "WNv3ITHC8BlRR0AQ1E8df4xpLkNz/fB0zjkj03khB/9NKFTjIXY+lz2rD5c91EkEqDFIkTDnIxplMf3IZpz41yF7D8y2OZZXsPvBCYvRt7l2sjvdxmzNPAm+c/zBw7L9PIoiFSqBiLoqNsSRStUc9KRaLb6QvJxoU+lx5gmXQKaWW9zzEE4gGtlfkDUGpLX+c8hUerUU0CLFDYoFzV9FNwUy96s1LZjkDYHFyz0xM+44aRbvNaZcfqTt9ytsjseJLocR9lHJZKZew3qfaKMikPmPiamNhYDeCSOxOqPx/eYbFvY+8p/uVODbxwa6x/tuQMtZ8tNsBiWl5JbwS119HaqVVTYxmiQqAtWc94374SY=;YkDnebUJpZGvBJJpv2RQ3A=="
 ---
 

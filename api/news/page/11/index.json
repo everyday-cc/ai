@@ -2,6 +2,60 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-05-04-robots-are-the-key-to-advancing-artificial-intelligence.md",
+      "title": "Robots Are The Key To Advancing Artificial Intelligence",
+      "excerpt": "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-04T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-what-the-high-interest-rates-mean-for-startup-founders.md",
       "title": "What The High Interest Rates Mean For Startup Founders",
       "excerpt": "Sure, some AI companies will not be able to deliver the value they've ... Nevertheless, there are good reasons for any startup founder who is depending on raising capital in the coming years to be focused on these three elements. 1. Know your numbers.",
@@ -1114,41 +1168,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-bigbearai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-industry-events.md",
-      "title": "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events",
-      "excerpt": "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

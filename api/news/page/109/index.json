@@ -2,6 +2,40 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2022-02-10-idc-survey-illustrates-the-growing-importance-of-purpose-built-ai-infrastructure-in-the-modern-enterprise.md",
+      "title": "IDC Survey Illustrates the Growing Importance of Purpose-built AI Infrastructure in the Modern Enterprise",
+      "excerpt": "Security/compliance and cost also play a role. GPU-accelerated compute, host processors with AI-boosting software, and high-density clusters are top requirements for on-premises/edge and cloud-based compute infrastructure for AI training and inferencing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_6d2af9ef-b44b-5341-8896-ad7a81f8a2d8.html?block_id=531919",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_6d2af9ef-b44b-5341-8896-ad7a81f8a2d8.html?block_id=531919",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-robots-and-being-spied-on-by-smart-technology-are-among-nations-new-fears.md",
       "title": "Robots and being spied on by smart technology are among nation's new fears",
       "excerpt": "To mark the launch of new psychological thriller TV The Fear Index; streaming service NOW reveals the nation’s biggest fears and how they control us. The digital age has replaced clowns ...",
@@ -1078,49 +1112,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-mphasis-goes-all-in-on-cloud-technology.md",
-      "title": "Mphasis goes all in on cloud technology",
-      "excerpt": "Mumbai, Mphasis (BSE: 526299; NSE: MPHASIS), an information technology (IT) solutions provider specializing in cloud and cognitive ... and Microsoft Azure • Advisor & Stock Plan Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/91383/mphasis-goes-all-in-on-cloud-technology",
-      "originalUrl": "https://www.finextra.com/pressarticle/91383/mphasis-goes-all-in-on-cloud-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -51,19 +51,14 @@ related:
       domain: webmd.com
     quality: 19
   - title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
-    excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028.This press"
-    publishedDateTime: 2022-05-13T10:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
+    excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028. Londan, United kingdom -- -- 05/12"
+    publishedDateTime: 2022-05-12T19:07:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-12-artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "7rdbANdqwusIXgNZt3dNcZJmH0D7iKIJOBp4DThYDdKzZSn2wvDmHmXOn1C3eDktzHAsIpGXv3gTjAcwnAJp7jKD888UX1AKc5A1PmeLhwyauJdd+g1axI+cyyEHEB9RAXIpNFSYhfBMEdyYt3jdG08JSu2IZb5xDv+Ev/Dye1TCQ+9W1cMHW4/qAeJn7StpXFOgphCr9mAzP/EDB7S79bLtzrhRFlDvR/53DqOGfYV7LMjDapI9c3ZlUKk17h7cilDYVJR+HIoRNBJEnZgWLLYOis8VncDFDNPBa2ds15k2wTgbWZs7pzodtsyuZ1nzF3MyiGK32EELdOMyHj+UMTvou9B/sx/eeJcmeyg6SPg=;0dFSNfF3TcUNpmaUBubU0A=="
 ---

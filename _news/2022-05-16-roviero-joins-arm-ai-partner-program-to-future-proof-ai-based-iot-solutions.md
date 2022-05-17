@@ -47,7 +47,7 @@ related:
     provider:
       name: KnowTechie
       domain: knowtechie.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://knowtechie.com/wp-content/uploads/2017/04/business-software-1000x600.jpg"
         width: 1000

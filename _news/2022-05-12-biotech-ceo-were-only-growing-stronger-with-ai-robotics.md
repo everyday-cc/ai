@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-gr
 webUrl: "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/"
 type: article
 quality: 99
-heat: 101
+heat: 99
 published: true
 
 provider:

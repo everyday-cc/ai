@@ -58,13 +58,13 @@ related:
     provider:
       name: KnowTechie
       domain: knowtechie.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://knowtechie.com/wp-content/uploads/2017/04/business-software-1000x600.jpg"
         width: 1000
         height: 600
         isCached: true
 
-secured: "kK81DZNO+l11gc22twt1/48QO6YF0tC0tmghvBI4OWEh1etnGoQEWNlv9paq8xYk60iGigf0ApqmNLqjCbIjc0DNWWAXH6wRxR27ER523BQuuGw0TPAY0u+NnpHWQasCoNlCmV0z4IkG4E72O+yRrR3Tk9wQIW90xhU1GQYRrctf+lykPPPNhb/8ROS041/sIPxO6IqGMqdCciUbingMS+ziDay9xocDUYPZdDc/wHIZR9qYIqoqUhPry55Mkm1GUgMlTe18iBoKCTsyBOAmTfbLilVgcwYdGlhmIyunEMo5gCIDnDg7PINwHS3xRSgibApUMRAPy0sh7hLD1l/1p4ly5Yc5zUs8T+pZJ+dJ5k8=;wXKC4HOCSlSqzsmcsLADNQ=="
+secured: "Wn2zN4GmY6mxgVzCFRhJOIzk7ouZaE/ohGUqfGOjjNGS5/U74fgkxnZt1usVDWWuQL/KUU0DCytFkcXFvzQty+6TPHdq7eYLX3EV27v95BfMGAz+2ajxjFmJ4WssXCcO16WuVB0dg9qdtRNUPzigGWMsMowTtr3KMj+l9TvcvYi/tNBcpXpO0dhc+6055x0xvl2Hq6TvzuHVinz06xX+6wyakVu4Bp10rH0LRv20dAnY+FH8oNK1Kkz+pblOT0tgQ+RSij2flT6uEfa2rLDCqEu3vnnFZPayCV5a1O0NK3MDe3HDYMXjGroLp5fQLXX19FQOcj6avs0Iwq0iMqT9EQl5ZvR4Q3F0si1K79CgyB+W1unLWh7dUj5TKejGApDeeqAOE3TNCGnyQJXFa4F8FcrsOgXzgG7OTac7aMxRnc7/S19tL61crlLFrDW0YBzAvy1PlYxd0pzPmuYYxLBn8j+SObZTprGrlmkirbXOQcoNjUalgtl77qMluwR4xQJd34SdMhN8odsSRm6/BNb+3Q==;W/aW37oeJqLlCh52v9VayQ=="
 ---
 

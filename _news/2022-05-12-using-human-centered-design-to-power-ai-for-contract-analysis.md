@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "AI In Computer Aided Synthesis Planning Market Growth Drivers, Opportunities, And Forecast Analysis To 2030"
+    excerpt: "The global AI in computer aided synthesis planning market is estimated to occupy a large amount of revenue by growing at a notable CAGR during the forecast period, i.e., 2022 –"
+    publishedDateTime: 2022-05-12T14:25:00Z
+    webUrl: "https://xaralite.com/3988/news/ai-in-computer-aided-synthesis-planning-market-growth-drivers-opportunities-and-forecast-analysis-to-2030/"
+    type: article
+    provider:
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 1
 
 secured: "XSh+YX47ScyPQmi12Am13JPnyE4iuGb5Eavbmcb5pavYSbuXfDsXHKs8W7SIQb6brOiHFZz60OxSXIQZQAMaCUbZgIo4g3mIpI0maIArbky/f1VJtQNy0xnDV/dYmZlPgsUS2bi0ndi8QqHgTTU8wRw+NUNnJ2WLPlBI2o9TgD0epz5U0Y4wlEN2Z3j5/dVyF/ZFP8LWQZKG7vn0o1DlFnTXKTJm0lz+zyHIduWYdU77E7cXwdHBc3PmTHdRWshSMp84d0iaTl3HRivofp0fbj/+7FD6ZMd2dS3C0bOaBIBX02dQeQlCld7wVR5iJSIPOfprHw6tpQ5KznLtwimW8XNuIUS47aHWPoa9W5Yr7aKdpLu5j/qK3xZoD+pzay/kT1tAjQPIZFFPKYhwiMNeZpNMJrEb2yTRfpx0LsV9W1akAa3RVoml0hRf0yZTuf0d3a+6w1k6PAacgBiohNaQMDKytEahzqeks62D0pzqJ5nV5EcTEMfJLyzXFQh5F8cpY/eGWWD9j73mDsh1fVdmiQ==;LFYPEafhS12dkp8UsjoI6w=="
 ---

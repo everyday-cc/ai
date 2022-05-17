@@ -2,6 +2,58 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-02-21-a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.md",
+      "title": "A Look at What’s Next in AI, Virtual Collaboration, and Beyond",
+      "excerpt": "Choose from 900+ sessions across robotics, speech AI, data science, and more The conference is packed with talks from the brightest minds in the business. With over 900 sessions to choose from, you’ll find the insights needed to accelerate your life’s work: whether you’re fascinated by robotics research;",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
+      "originalUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/02/2158900-gtc22-spring-digital-advertorial-bnr-1200x675-engb-100919670-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
+      "publishedDateTime": "2022-02-21T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-irs-adds-option-that-lets-taxpayers-skip-facial-recognition.md",
       "title": "IRS Adds Option That Lets Taxpayers Skip Facial Recognition",
       "excerpt": "The Internal Revenue Service on Monday said it has enabled a new option that allows taxpayers to sign up for online accounts with the agency without the use of any biometric data, including facial recognition.",
@@ -1091,40 +1143,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-20-the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues.md",
-      "title": "The fundamental goal of AI is to allow people to focus on the most pressing issues",
-      "excerpt": "Anxiety over artificial intelligence breakthroughs was stoked this week when DeepMind announced the AlphaCode deep learning system, which generates source code. According to my AlphaCode deep dive, DeepMind researchers have done an excellent job of ...",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues/",
-      "originalUrl": "https://bestgamingpro.com/the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-19T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

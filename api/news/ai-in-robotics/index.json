@@ -47,50 +47,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-16-deepminds-new-ai-gato-can-play-videogames-and-control-robots.md",
-      "title": "DeepMind’s new AI, Gato, can play videogames and control robots",
-      "excerpt": "While we’re not quite there yet, a new AI system developed by Alphabet’s DeepMind might have brought us one step closer. Gato is DeepMind’s latest AI that can perform more than 600 different tasks, such as playing videogames,",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can-play-videogames-and-control-robots",
-      "originalUrl": "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can-play-videogames-and-control-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2022/05/a-14.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-05-16-is-nlp-innovating-faster-than-other-domains-of-ai.md",
       "title": "Is NLP innovating faster than other domains of AI",
       "excerpt": "Why is there such intense competition in this field, or in other words, are other AI domains lagging behind NLP in terms of innovation?",
@@ -187,7 +143,7 @@
       "originalUrl": "https://www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -273,7 +229,7 @@
       "originalUrl": "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1406,6 +1362,49 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-space-discoveries-that-will-blow-your-mind.md",
+      "title": "Space discoveries that will blow your mind",
+      "excerpt": "Space discoveries that will blow your mind Since NASA’s inception in 1958, astronauts have landed on the moon, parked a robot-controlled rover on Mars, and discovered thousands of exoplanets—planets that orbit stars outside of this solar system.",
+      "sourceUrl": null,
+      "webUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "originalUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/whatsupnewp.com/wp-content/uploads/2022/04/Screen20Shot202020-10-2620at201.01.4220PM_1.png?fit=1013%2C720&ssl=1",
+          "width": 1013,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "cdnAmpWebUrl": "https://whatsupnewp-com.cdn.ampproject.org/c/s/whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "publishedDateTime": "2022-05-04T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "What'sUpNewp",
+        "domain": "whatsupnewp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

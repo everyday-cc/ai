@@ -2,6 +2,49 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2022-02-23-why-is-fintech-all-the-rage-in-the-mortgage-lending-industry.md",
+      "title": "Why Is Fintech All The Rage In The Mortgage Lending Industry?",
+      "excerpt": "It’s no secret that the mortgage lending industry is amidst a massive transformation. According to Reliance Mortgage, a Dallas mortgage company, “With the advent of fintech, borrowers now have more options than ever when it comes to securing a mortgage.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/why-is-fintech-all-the-rage-in-the-mortgage-lending-industry/",
+      "originalUrl": "https://techbullion.com/why-is-fintech-all-the-rage-in-the-mortgage-lending-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/02/why-is-fintech-all-the-rage-in-the-mortgage-lending-industry.jpg",
+          "width": 660,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/why-is-fintech-all-the-rage-in-the-mortgage-lending-industry/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-is-fintech-all-the-rage-in-the-mortgage-lending-industry/amp/",
+      "publishedDateTime": "2022-02-23T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud.md",
       "title": "Microsoft Defender now offers protection across Azure, AWS and Google Cloud",
       "excerpt": "In addition to existing support for AWS and Microsoft Azure, Microsoft Defender for Cloud will now offer ... He's interested in receiving pitches around cybersecurity, data privacy, cloud, AI, blockchain, internet infrastructure, 5G, data storage, business ...",
@@ -1123,49 +1166,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-irs-offers-alternative-to-facial-recognition.md",
-      "title": "IRS offers alternative to facial recognition",
-      "excerpt": "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html",
-      "originalUrl": "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg",
-          "width": 255,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tax Adviser",
-        "domain": "thetaxadviser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

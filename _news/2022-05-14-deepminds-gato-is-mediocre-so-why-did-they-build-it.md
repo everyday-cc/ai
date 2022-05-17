@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/deepminds-gato-is-mediocre-so-why-di
 webUrl: "https://www.zdnet.com/article/deepminds-gato-is-mediocre-so-why-did-they-build-it/"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -24,29 +24,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "DeepMind’s new AI, Gato, can play videogames and control robots"
-    excerpt: "While we’re not quite there yet, a new AI system developed by Alphabet’s DeepMind might have brought us one step closer. Gato is DeepMind’s latest AI that can perform more than 600 different tasks, such as playing videogames,"
-    publishedDateTime: 2022-05-16T12:03:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can-play-videogames-and-control-robots"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 71
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/a-14.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "DeepMind’s astounding new ‘Gato’ AI makes me fear humans will never achieve AGI"
-    excerpt: "DeepMind just unveiled a new AI system called Gato that makes OpenAI's GPT-3 look like a child's toy. But are we any closer to AGI?"
-    publishedDateTime: 2022-05-13T19:00:00Z
-    webUrl: "https://thenextweb.com/news/deepminds-astounding-new-gato-ai-makes-fear-humans-will-never-achieve-agi"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 60
   - title: "DeepMind’s multi-tasking, generalist model Gato that can do it all"
     excerpt: "With the growing number of large-language models and a multi-modal approach to training, DeepMind has released a multi-modal, multi-tasking, multi-embodiment generalist policy called Gato. The sole generalist agent was trained using data from a variety of tasks and modalities in a way that the same network with the same weights can do everything from playing Atari,"
     publishedDateTime: 2022-05-13T13:50:00Z

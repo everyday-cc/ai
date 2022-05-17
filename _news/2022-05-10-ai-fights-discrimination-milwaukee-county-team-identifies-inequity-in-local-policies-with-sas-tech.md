@@ -1,26 +1,30 @@
 ---
 category: news
 title: "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech"
-excerpt: "The combination of AI in the cloud gives Hackathon teams – and businesses ... Per Reggie Townsend, Director of the SAS Data Ethics Practice and recent appointee to the National Intelligence Artificial Advisory Committee, “As part of our responsible ..."
-publishedDateTime: 2022-05-10T16:25:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-wisconsin-discrimination-race-and-ethnicity-racial-injustice-f3dd369fa744596c740c0b0ddcd255ef"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-wisconsin-discrimination-race-and-ethnicity-racial-injustice-f3dd369fa744596c740c0b0ddcd255ef"
+excerpt: "SAS Hackathon an incubator for innovation and social justiceCARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data"
+publishedDateTime: 2022-05-10T16:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech-1031442768"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech-1031442768"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1812710/SAS_Milwaukee_County_Courthouse.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "N3Rge8uP/ZrcimN6k3NeGGeivFa7OcP+81fKmcA53msO+KxD/70XoeZPgiOcWFwtRpQGoYfi8dyGdykuI33T7Jd6NWsFB3Akb8EJQdJQNRSx9v3ge1/i3QJKHWgx6CU6xFsle009ZSTqfp2q2YCyKlSJLLRz2uFMPx3TU1GFCc3Rck7joEOfRh8xoDPhz3xrUXmZ5kdKUzlYWgfV52vqsAB8qwufb2+mxYbPy4qZh/UrEYDPROt5avzNJCK3I4dTRpHYIkoq1HDR0vTW3kp5oaBoKQqudYskqgJxGHb/CbbT1J3CkAmJGqy4gcgGRg2EzZekdri8UlDRwHMbjmAuzbnk7Z7xEz1qKqnC1Y47pjs=;YMi2htOe7boctzASyT/tHw=="
+secured: "9OGx+ZxVtOzy0qyo4pmpv9cXTI/V8z/s2veKeXWTPTsbfQVGVB/e0AyAtNAyxTJymKy54qXK98/Iu7gjDuEg6l/zIASq/FaCPUXMRq9aj8nm1c3m5Kyd+V4AvyaZTxxdEdlIY/0RFS8fFaJVIs3iTWurYY1cqKcRRvtj4RGn+h2K4tCL/XqK8OU0HoEniD9HAuxMTNWIKDoXandmSerLr02U0opCamr0LQRiqkG54zl+SBqnvtdq78qc6oMf+b90RHAMMetTW25L5h37CIgzSV6hhKamDF3PEjHSR79ReAbd+tFVEQCA/4Z4CJRPmWNZoaJ2vLe9YT2aPSfeqlyFNROQ/SJrJCOE2Yq41KxrGM0=;506HV7NmqGemQrORxDpE+w=="
 ---
 

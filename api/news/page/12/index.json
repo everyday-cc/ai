@@ -2,6 +2,41 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-05-04-bigbearai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-industry-events.md",
+      "title": "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events",
+      "excerpt": "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-amd-first-quarter-earnings-live-blog.md",
       "title": "AMD First-Quarter Earnings Live Blog",
       "excerpt": "Last year's data center GPU growth was driven by HPC. But we're now very engaged on the AI front for GPUs. Xilinx chief Victor Peng: Demand for Xilinx's compute engines and networking products are ...",
@@ -1113,48 +1148,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-decision-intelligence-will-change-how-you-think-about-ai.md",
-      "title": "Decision Intelligence will change how you think about AI",
-      "excerpt": "For many businesses, Artificial Intelligence (AI) holds the answer. It has the potential to automate insights and use historic data to provide a predictive view. Yet, the majority of businesses investing in AI are struggling to deploy the technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2022/05/bi-business-intelligence-ai-artificial-machine-learning-commercial-platform-review/",
-      "originalUrl": "https://techhq.com/2022/05/bi-business-intelligence-ai-artificial-machine-learning-commercial-platform-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.techhq.com/wp-content/uploads/2022/05/AB109057-1-375x210.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techhq.com/amp/2022/05/bi-business-intelligence-ai-artificial-machine-learning-commercial-platform-review/",
-      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/05/bi-business-intelligence-ai-artificial-machine-learning-commercial-platform-review/",
-      "publishedDateTime": "2022-05-03T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

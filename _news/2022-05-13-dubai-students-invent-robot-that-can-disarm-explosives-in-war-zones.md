@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/tech/dubai-students-invent-robot-that-c
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones?amp=1"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

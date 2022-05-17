@@ -87,6 +87,20 @@ related:
         width: 1656
         height: 893
         isCached: true
+  - title: "Google Debuts LaMDA 2 Conversational AI System and AI Test Kitchen"
+    excerpt: "At its annual developer conference last week, Google announced the second release of its conversational AI system, LaMDA, which stands for Language Models for Dialogue Applications. Google says LaMDa 2 is a more finely tuned version of their original ..."
+    publishedDateTime: 2022-05-16T22:42:00Z
+    webUrl: "https://www.datanami.com/2022/05/16/google-debuts-lamda-2-conversational-ai-system-and-ai-test-kitchen/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/shutterstock_nlp.jpg"
+        width: 1000
+        height: 533
+        isCached: true
   - title: "Meta ‘Open-Sources’ Its Latest Large Language Model"
     excerpt: "The Meta AI research team has announced that it would make ... Slator is the leading source of news and research for the global translation, localization, and language technology industry. Our Advisory practice is a trusted partner to clients looking ..."
     publishedDateTime: 2022-05-12T09:45:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=12538
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1253827&cat=PR News Wire"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
-    excerpt: "Allied Digital Services Ltd, a publicly-traded global IT solutions, services and Master Systems integration company, officially announced the launch of its new FinTech product ' F"
-    publishedDateTime: 2022-05-12T10:39:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254034&cat=PR News Wire"
+    excerpt: "Allied Digital Services Ltd, a publicly-traded global IT solutions, services and Master Systems integration company, officially announced the launch of its new FinTech product 'FinoAllied' which is an AI-Powered Conversational Banking platform ..."
+    publishedDateTime: 2022-05-12T12:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/12/9600536.htm"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/1816599/FinoAllied_Conversational_Banking_Platform_Award.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
     excerpt: "Government of India recently announced the rapid digitalization of the banking sector as part of the Digital India initiative that will stimulate financial inclusion. RBI further appended and promotes its policy of Secure and Informed Digital Banking."
     publishedDateTime: 2022-05-12T21:24:00Z

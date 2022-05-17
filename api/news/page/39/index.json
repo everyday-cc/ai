@@ -2,6 +2,48 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-04-11-israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope.md",
+      "title": "Israeli startup Sanolla receives FDA clearance for the world's first AI-ready infrasound stethoscope",
+      "excerpt": "Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the clinical use of the AI-ready VoqX TM, the first stethoscope in the world that can listen to infrasound - acoustic waves that cannot be heard by humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbtw.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
+      "originalUrl": "https://www.wbtw.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.wbtw.com/wp-content/uploads/sites/22/2022/04/police-lights-generic_30929150_ver1.0-7-1-1.jpg?w=2000&#038;ssl=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBTW",
+        "domain": "wbtw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks.md",
       "title": "Artificial intelligence and cybersecurity among top priorities for Brazilian banks",
       "excerpt": "Artificial intelligence (AI) and cybersecurity are among the top priorities when it comes to the technology strategy of banking institutions in Brazil, a new study has found. The annual research published by the Brazilian Banking Federation (Febraban ...",
@@ -1105,49 +1147,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-pakistani-startup-empowers-the-hearing-impaired-with-tech.md",
-      "title": "Pakistani startup empowers the hearing impaired with tech",
-      "excerpt": "DeafTawk aims to become translator for millions with hearing ... resources but will “make DeafTawk one of the leading AI-based sign language interpretation services.” The company has big ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/world/asia/pakistan/pakistani-startup-empowers-the-hearing-impaired-with-tech-1.87082858",
-      "originalUrl": "https://gulfnews.com/world/asia/pakistan/pakistani-startup-empowers-the-hearing-impaired-with-tech-1.87082858",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/04/09/DeafTawk3-1649518379790_1800ef50327_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/world/asia/pakistan/pakistani-startup-empowers-the-hearing-impaired-with-tech-1.87082858",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/asia/pakistan/pakistani-startup-empowers-the-hearing-impaired-with-tech-1.87082858",
-      "publishedDateTime": "2022-04-09T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
-excerpt: "Allied Digital Services Ltd, a publicly-traded global IT solutions, services and Master Systems integration company, officially announced the launch of its new FinTech product ' F"
-publishedDateTime: 2022-05-12T10:39:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254034&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254034&cat=PR News Wire"
+excerpt: "Allied Digital Services Ltd, a publicly-traded global IT solutions, services and Master Systems integration company, officially announced the launch of its new FinTech product 'FinoAllied' which is an AI-Powered Conversational Banking platform ..."
+publishedDateTime: 2022-05-12T12:28:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/12/9600536.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/12/9600536.htm"
 type: article
-quality: 0
-heat: -1
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1816599/FinoAllied_Conversational_Banking_Platform_Award.jpg"
+    width: 400
+    height: 267
+    isCached: true
 
 related:
   - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
@@ -43,6 +49,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "WoBr98KGHGSjAswgT8ItUrJRy8ia5VjYmEl6bNXJNSHZP3sAeT9gkkrw1y1jthGhpJce79THL27j9F0pPTKUD+ibTcqFMeBQehHueQmRLOPkHV9hXwhuDuyRfj9z4quOG7ElrPL97TlZ7nX99RAqZqEBL7yQqcqLNFcRKQYIaRlclTE6GitydbW+vfTZZnePLU2rOjgzB4j5pgWVke1FUnlu5FfV3msgmlL0UNlVV5uFH7tDLOLkp6XZRgB4Ytlu4kt7MTTGud6r45mnuCEn4tKct9L3NZ2GWsfjb6KpZJ9vIlMIRX6ln+OIZlm2vxyQdYk7C9owhKWHxi8tymhAghBb/PDgmWBsUjA0WoGPY4g=;pW7zl5dyjHO+itrkc+mMPw=="
+secured: "m6GzcM2I6MKKRNu11dYZOnFEzm75LtseN4z9DgqYAHc51v0jXSYm9ZoyU4vHUoK1HWJf8SgrhrnYQP9nXCnP16hjR1Lr8/0/fOfo2bZFZ+x706mFhP7H7nylW5Ua1eNW2zoq/FoUWJEVFAZng41S8HzOiQAYeliDmBKCRrprjqwNqIs1P6CiYXftNAHzui7Q/g+ImWRxohZPU+HqxBEJPZcPuoWA0Qd3mGlGB+ROdrgezxJlHTnw2Ak/TfC/5RI4k97NK8WJJuoV//uiNOVy0yaLBaJg6TtIBwLN7Bqk9z51jmAhRueAtG/umAsDsQuptRZi7KKGPO3pF90W03K5pUjdcTd5sn2Ssk8sGX11wuo=;jKgFAyvYU70YQ8Mv8DemKA=="
 ---
 

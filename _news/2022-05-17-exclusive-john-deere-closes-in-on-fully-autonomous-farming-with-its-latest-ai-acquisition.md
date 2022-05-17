@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-16T19:14:00Z
 originalUrl: "https://thenextweb.com/news/exclusive-john-deere-closes-in-fully-autonomous-farming-latest-acquisition"
 webUrl: "https://thenextweb.com/news/exclusive-john-deere-closes-in-fully-autonomous-farming-latest-acquisition"
 type: article
-quality: 37
-heat: 37
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "exE0xMaSJFLb5xnIMrJuxWBPlZxb+YwYjcH/xH6kvB3wwg7G6W2z/xalcdDUw25Q7+AUGL7ofuXOx9WpRcGX7uENhf4rIszjWswHJSxkaa2fE2zJSecSaOJ8xBr+cxxG+6bNBsz7Ol0/0KdNli1qfn5S6hEmPq51cIdlTD643tAVO7CC0ctNGanb3lFtl2dxN+yYvsJ9lDOwhgUMncHih7aeV3zd+59DY95Z2dZN3kkoyaJeZWzh4atYQu6HBJ+/y+qPvQyKCU3Z6qbNuxoSHFBrnCyweXOJwc7zaEWSbVzXtAcMwtPrfe9zkToN2oeiFcSRIVQ/Mp8Vu9O+G4HD0eTnBqM27kqqQ74g9Ysv8Ypf/IfM/n3nxC53gb3ExanVOcToOtXBmflOmqUJ4aCgH0Mmiz1BAdaRs4T2qiz2fHa0sgcc6utaik8MmqMkyTbIQ0En+bVLNzhtAuZ/rsSq0S2gArUWyeMmNGIc4Q5pcEzUwxwwDcc84ZL9dBY4B2l7b+zNp7Oveku6+8bdK2JNvQ==;RiJULVRCGxq2QMyBIxQhDg=="
+images:
+  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fdeere8r.jpg&signature=9259e61643a99a30470f2aee75f1a5c4"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "R3JZhbABM505TsB5ugcsjeyCHDM5g0EL8qp99U433zjxhKE644LZjJ/8T2CAzFxyAn57eOrcs0d/b3jXLJsg7mFTSKjH8hjK5Ifzz9LqDhLfFySPwvPJJtZzxz3/F7wERK80yxGd53rnAJvea24gr5A/+NEN9Se6G2yahCfMBolhqqcp4Go38ZUHuD1swJWtQUfJyAdBNFRM2OE/6RweWBH1hQ4qzNmlBjHMPuwu5eeZX9D+jb0QJ71Yn9da5DWf/Yn3cd1IW2yNxlf0QFr8D1cr33Iui2YY5PXHK/x4oAV95TxLNTaXtkDmn0qTovfTTGNy1CUmoIWw2G7bv0rqb8DsVOwqSqTcrXhhFDCdyP0=;yt0Z577uO7+/SdAHNt2RWQ=="
 ---
 
