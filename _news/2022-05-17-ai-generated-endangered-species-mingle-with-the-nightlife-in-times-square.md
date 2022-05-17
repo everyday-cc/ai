@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://it-online.co.za/wp-content/uploads/2022/05/nvidia-main.jpg"
@@ -23,6 +24,6 @@ images:
     height: 442
     isCached: true
 
-secured: "DMkChfgTcdcY44nVxg53u71dUUU3yrB0HV+tqlKWfbk66d06leMoOPCK3iO0y1wLoYhkjTG81whWtCnP0uu3etfzj9ArYiD3up/pD1nA3QvP7pRBPTnU9P+L1tfdYKsr9VoukGu7dggIY7rCskJKo4+YxiT+Q8a2zKpJf0yx5DmirKTDl8QSFsonBb6mZwTSbMSAB5rpJsBuqWLY6lHEx4I+2LBUGYJnFcItqDunufREcYfAnSXwLW/1tC7RlXNwBsyFTwEwzTCyeKbVLtpX4758gmvMTG5kQjWeufNHDpowhSbFU82peLm6dfQCKVt+Bqg2F3sYLdM/udfy0or7edJQ+Ekz6KI3ViphfcYAz4Y=;1lUAF2MAZerpG9P2jWVHng=="
+secured: "vnCvpKZ4KlwEnlM53RwNG+e1+ZBELo5NxfvVn/U3yZJxOCkR9CfVScUIl/gSV3Hd9glBovQ4M1kHVSiPVIDHFTKclq3oNX+40VdgquLid8tp09w05We2KQKtsjizVjlSTmamgZ0TmnuyQclW4Qk1gDUcJA4vp9qU9E9nPqfCglbBd2h90dEeqN92Dnx9dgK2i9r0xunaGDDmA47hehug1Dv2NEBzVf8ouYthzQz9aNzhBRf3qjlQJDjvweOGfeya+LhJhuPG4pDou/ma80BzxnJh0/i+ZYFMBWAM5OY9crBVQIUN4ll6Foyc6tYABJmo393ajViFNLS7Pock7Xx7Xig3qOMBNWuB5zpsRwsiZI0KaKdzOG5R5S/STyB23hbryAqtp3jlZ7M2F+O8FfgqnXkZwR0TiUXvpPuODhzMQvNItH0ducbLrZ2CzdKesmaFDWKyvViHXXuO5E/mrGQtFRmn6k3FsmM1DBfItWWDBbq6k+FuLSFmyMmsWHIVYovVcTT6GjW4RnCZLsQG7e/8xA==;coh3UXyRE67lwbSa42JwhA=="
 ---
 

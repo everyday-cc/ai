@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://newscdn2.weigelbroadcasting.com/MuzbZ-1652709561-226479-blog-artificial%20intelligence.jpg"

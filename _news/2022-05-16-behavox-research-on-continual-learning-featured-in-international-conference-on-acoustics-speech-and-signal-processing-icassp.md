@@ -2,41 +2,19 @@
 category: news
 title: "Behavox Research on Continual Learning Featured in International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 excerpt: "Behavox, which provides a suite of security products that help compliance, HR, and security teams protect their company and colleagues from bad actors, today announced that its academic research paper on artificial intelligence “Continual learning using lattice-free MMI for speech recognition” has been accepted by the International Conference on Acoustics,"
-publishedDateTime: 2022-05-16T13:07:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
+publishedDateTime: 2022-05-16T13:03:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
   name: Associated Press
   domain: apnews.com
 
 topics:
-  - Machine Learning
+  - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Deep learning solves nuisance alarms and tailgating in access control"
-    excerpt: "Access control systems are plagued by problems, such as false alarms and tailgating. Hakimo is a new company that applies concepts of deep learning to reduce false alarms and tailgating, and to make access control more accurate. False or nuisance alarms ..."
-    publishedDateTime: 2022-05-16T09:48:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 54
-
-secured: "YWNcovZkj3Vh5gCwiiJMIpyc8zgSXnGpRjD2z39k0yHSTk2OR8AYrjsBAVQzEQXYay7WiauFipD7993RIZDdHbiotISLuOLp+Z5qbeh3NDXTN/AiUyEgLxVA16g5Pdt08v+10zRhksa3BR6+miiZlwc41KNE0PYyPB0t2/XM9r8AMJcSucW2Sh7jcPesIDMmeEK9h/61MGRmGd2/Txnzw466va5p1GYLRrF4Op20MAtAEP5/TcwIHjou3qdKQEjALizgI2Ae/ExZVbBBSF+4sbGAdDrWp073Q9E0sC9YOztMFuKv+1CRC/DxoKLpPpAoXiYkibbFQF+Jp91/chzBOee9nDc5oUc4TWGFytnbgYw=;1cauFIYg8volCbDs47BmkA=="
+secured: "NPjIjL+X+fI/ZUP0N07fdZ//FlEGF66Y0GbhAaW0SURK2/b7ma9Ne6qUw5mSLe5ODhDMD6TjlaCpITIrtGBqHt824MhncFLnP5cqsfR4IQOH1WQ68oaIx5PI0xeAUmFF/nw6UwpzSXtwTAc2u8ab5MnNbtatH/W1j5vDD1sQEZjOdRoePXjEWm98ip2AXW/yR0RJkiJxmuJ/IPvLWOGyhpAXcIeIKImfv/aCg6kmZNGjgbRs61dRIdLaWX5pmcLww1IasyWCBbLC6T8FSDffRzvXj7PDo+jC8ZEb+TkSbknzNJszSEzcwdbFqi6BuvVTNainhiPTqI3cpAjCBK9JZDVzd+zhq104yTVyPyEY2mA=;1SM8J3d3HMe5RwKuqtjbDg=="
 ---
 

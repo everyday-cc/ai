@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 related:
   - title: "OpenAI's DALL·E 2 generates AI images that are sometimes biased or NSFW"

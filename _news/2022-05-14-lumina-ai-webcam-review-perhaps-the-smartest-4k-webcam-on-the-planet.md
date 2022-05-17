@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/05/lumina-camera-2022-hero.jpg"

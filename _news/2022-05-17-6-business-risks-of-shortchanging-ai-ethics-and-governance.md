@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024"
@@ -88,6 +89,6 @@ related:
         height: 617
         isCached: true
 
-secured: "nbNMugGZHP3myomgrXugeXwUqOZvHKbxjmdRxhPOODBfPV7ODVKVhArKdoVgMBHuYPtu8lvECWhP55ot/J/1vhVfICXVDRAUhJYc0TRes4PpIyAZxx0GZZ9QKkBM4RyRUoezKunFzbQFBZcsFYpLsi5tM1vTEJVx+HTXZCAq4fcaXxOLNO1b6TNWUUjTr0Qpf6qPfFOQAwPmiyQPb2qz0i8VsNje2FltSroDCOU8CF8aiz3uthfXa3Et83FnbV/cjNCaAJ1FXclOqHuf4UplDJmdj9Wq4wuLPup8mJ6vmj03b66VAfqyAYRYFIfys19R10s5W2OjUneEk6pfWN+sIKKKJnJ2rHxVc8hROuZRXew=;kJ5Emu0kq37G3l0Mtt6ygA=="
+secured: "k0g/+ToJVXMvSeY7Iwm3Sd2BhYkurrKDsWercs5tOKULbymSVztvp+F+OwuqDKK8lPkuSElcdyPizA4A+vF9VvmgK+/tgUuMyrAQi9issA1gUfSxmYRkVyGfBC4X0b6vLqkY2exBis6dsbtO6EjArwgrnLWcSBiNDxsTvVHpfBfPdohgY04NRpptZQ5e0dh6+MA3rFQfYEA7x0l4lvLXtRrksAZsSJvPtY/oUcYpGl7qIxtnOb5VzW1ZxMFrJEmQaWHI5ncnipymv53TgnGTW3DQRknBeQOL+cTtyAGvphVFvuGsRPLZJD9OExrXz83JPFX7qv+yHYuqq6kOYOS/lnVd9V02L8Vogscy0Zxxn/UdHMmd+K7InVpgX9CO9ZWX6vz3nvhzBZfUrOz8fXaYH02QAolB1+JH2158/KroYui4lGfo3HNOfoURaGk+AP4nyzMhR4L6G1Fj+HeNh1LvFKITEFPDWnu+P1kFfz6g9OXbSEL0D4zaf8EigoqQpizgZiyN9h60X1vDfOLD1mpJLw==;hxCQN76CSzkKnAP0oe8wOA=="
 ---
 
