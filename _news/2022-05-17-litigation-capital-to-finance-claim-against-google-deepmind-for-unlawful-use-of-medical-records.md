@@ -68,6 +68,38 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Google faces lawsuit for using NHS data of 1.6 million people in UK"
+    excerpt: "London: Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its artificial intelligence (AI) division called DeepMind."
+    publishedDateTime: 2022-05-17T05:21:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/articleshow/91610435.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/amp_articleshow/91610435.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/amp_articleshow/91610435.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35126,msid-91610567/google.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Google faces class-action lawsuit for using NHS data of 1.6 mn people in UK"
+    excerpt: "Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 mn individuals for its AI division called DeepMind."
+    publishedDateTime: 2022-05-17T05:22:00Z
+    webUrl: "https://www.business-standard.com/article/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 42
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/02/full/1643789775-3091.jpg"
+        width: 620
+        height: 464
+        isCached: true
 
 secured: "JvsutZt8d09D50DnP/AHBvo0VAfS0/oekjdr6wrzAZ60rPMCWZ2meOnxVAIE29JKrika5rCpmzTHKiuEtrPDTed5+T/N+UlksAtrfV2KkbUSCBSGPWKDM3r6/gSjvN1f1f+UWxTUgG04Y9OHW9KtWBF/SqOe97qHgU/haq5MCQQSide+defkj7I798VkkpktLX6ONt9ILGuu4WFWOXbiPwRde3Pm1ij0s0pV6M20oEEB5/72w1jemyARpdUZUCIrzB//yNl3AakV38IgY70Ag14K72o5rsunMahs0HSqCzoi5uHgmzJACsg6wo0l36SLo40mdRuwd2dHVkonpATZo83OSR//+XadbzttOeZVIB5wwS7v63rJxQFILi+q5VmSGMe+hCjDS5qW2fQaUtcP+U++dQ92tEp9+BBKjk1hRp1BkXQ2fq3WLHwv/W/a6+3KzCwEMDL77tiGmMOZStPBrEL9RdLVeiYFuot3TeZc3CFlL6VjFDO5Lj++V4Thy4Rc5rCp6EWU6/nQqPUUOaD7aQ==;zUSIahy560mYpTxY2OI2pw=="
 ---

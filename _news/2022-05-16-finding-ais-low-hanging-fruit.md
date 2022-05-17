@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Controlling AI edge applications"
-    excerpt: "AI, Boxer-8253AI, and Boxer-8254AI IPCs. The company’s recent Gene-EHL5 subcompact board with CAN and 5G connectivity is made to meet edge applications. The Boxer-8240AI features the Nvidia Jetson AGX Xavier module (Source: Aaeon) For example,"
-    publishedDateTime: 2022-05-12T11:22:00Z
-    webUrl: "https://can-newsletter.org/hardware/controllers/220512_controlling-ai-edge-applications_boxer-8233ai_boxer-8240ai_boxer-8253ai_boxer-8254ai_gene-ehl5_aaeon"
-    type: article
-    provider:
-      name: can-newsletter
-      domain: can-newsletter.org
-    quality: 39
-    images:
-      - url: "https://can-newsletter.org/uploads/media/raw/478cc66ae63932aa1c10a9dbd39c2991.jpg"
-        width: 700
-        height: 237
-        isCached: true
   - title: "Webinar | Reimagining the Banking Experience with Artificial Intelligence"
     excerpt: "The rapid evolution of technology across all industries is revolutionising customers’ expectations around digital transactions. According to industry estimates, 6 out of 10 customers say that their experience with one industry is likely to influence their expectations for other verticals too."
     publishedDateTime: 2022-05-13T05:30:00Z
@@ -88,15 +74,6 @@ related:
         width: 1118
         height: 617
         isCached: true
-  - title: "How AI is used in filmmaking"
-    excerpt: "However, compared to today’s sophisticated tech, Lucas’ AI system was pretty basic. Marvel villain Thanos’ origin story is a good case in point. The tech team put tracking dots on Josh Brolin’s face to capture his expressions."
-    publishedDateTime: 2022-05-12T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-is-used-in-filmmaking/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "5fF4sL6aPvH2fB9jE+dv1rBxKUg8gBwq7G1kfWdoVuQtNLHq20lyEtSUo00tJWCDTyEjU+c9LnEQcBifMkZYm4XcQAgtRyBLofWr19NPyAUHKtolf7suQowFHXNbrlg7KAQ4zNkDDw7LC5Cs8nxVxtCexrLFIhmYqSanqzW6wJcK0+kSrxF2gr8Oqz1owpYgdYN8d4Q/VNKasyKyJEQKiYi65gJ04miRG3J3kh/UCcYzYfi9uJO9vPjRG1J0coJ/VVSlQKoznUNYmKFqPm5gGF1tFUemTMBGQW5kAqksRHzxXSLNbf/5vS7CY6+klHTvosY+CmlESp6v6HHeugCGB8Myn1ebLfbPc91fpqRnj7NiV+tC3Sqx9Rmn8HDS8LlGP9hXlL9EyKWzsyqXWOGifLue6lphjR1u2W1TCRZEtCIy4Zhn/eplGygXE0ZYzLVrvlAwUAI9cA7Z3d5FejQjiQFEcAgTBu6+X/hhkksVvS9K3knyiIKFXFvxf65XSYS1TcvwGyD90PDCFlpSJrPkEw==;hwBUlpBl6abm/YNYVAw2Zw=="
 ---

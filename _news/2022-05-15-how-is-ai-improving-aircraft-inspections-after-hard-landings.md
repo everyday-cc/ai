@@ -56,20 +56,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Controlling AI edge applications"
-    excerpt: "AI, Boxer-8253AI, and Boxer-8254AI IPCs. The company’s recent Gene-EHL5 subcompact board with CAN and 5G connectivity is made to meet edge applications. The Boxer-8240AI features the Nvidia Jetson AGX Xavier module (Source: Aaeon) For example,"
-    publishedDateTime: 2022-05-12T11:22:00Z
-    webUrl: "https://can-newsletter.org/hardware/controllers/220512_controlling-ai-edge-applications_boxer-8233ai_boxer-8240ai_boxer-8253ai_boxer-8254ai_gene-ehl5_aaeon"
-    type: article
-    provider:
-      name: can-newsletter
-      domain: can-newsletter.org
-    quality: 39
-    images:
-      - url: "https://can-newsletter.org/uploads/media/raw/478cc66ae63932aa1c10a9dbd39c2991.jpg"
-        width: 700
-        height: 237
-        isCached: true
   - title: "Webinar | Reimagining the Banking Experience with Artificial Intelligence"
     excerpt: "The rapid evolution of technology across all industries is revolutionising customers’ expectations around digital transactions. According to industry estimates, 6 out of 10 customers say that their experience with one industry is likely to influence their expectations for other verticals too."
     publishedDateTime: 2022-05-13T05:30:00Z
@@ -84,15 +70,6 @@ related:
         width: 1118
         height: 617
         isCached: true
-  - title: "How AI is used in filmmaking"
-    excerpt: "However, compared to today’s sophisticated tech, Lucas’ AI system was pretty basic. Marvel villain Thanos’ origin story is a good case in point. The tech team put tracking dots on Josh Brolin’s face to capture his expressions."
-    publishedDateTime: 2022-05-12T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-is-used-in-filmmaking/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "QU8tnFUP2UWdZ64R3+vJ1/j+Vka8EUwDWBKAcU3sm0d4bq3zBufzS6YmtXleYuVeaMrBIqMKQClsk+sQ2Xb6sNdyd6eoiFBPFOKEw1kGutxnlAUtYbovFVNNeylEzkVlsl/d20sz1n+p8BycCdrx39UnMI5+mTvwSQXoq8l3BStNFNXYyjexqHVSBdqqj4bzoJtuoj5BQ880sT4MZ0ycBIOmYdSUYphVEYNDMDBLk3ZE6uQ5zMbEIY0dRGt509D9RoT3nWxI29ZzWtRU7oYV+x9rAuIO177Mq4vC5u7QPxdnQxL8vf4YYiSifL1RAO+idPA5AYLWj2pwyKRvsPP3c9jFJUeomuDKzbaFZpfXTFY=;+JlGoP8b5EgDBiNwG/p0Aw=="
 ---

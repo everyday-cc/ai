@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "Nauto®, a leading provider of AI-based vehicle safety technology for commercial fleets and the automotive sector, is honored to announce its selection to the 2022 Forbes AI 50 for North America. The list recognizes standout privately-held companies making the most advanced and impactful uses of artificial technology."
-    publishedDateTime: 2022-05-12T12:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220512la56108/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 27
   - title: "Forbes Names Whisper to AI 50 List"
     excerpt: "For the second year in a row, Whisper is being recognized for its revolutionary AI-powered hearing aid, the Whisper Hearing System Forbes' 12-judge panel of experts in artificial intelligence from the fields of academia, technology, and venture capital ..."
     publishedDateTime: 2022-05-12T20:50:00Z

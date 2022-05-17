@@ -7,7 +7,7 @@ originalUrl: "https://azdailysun.com/news/local/education/flagstaff-education-as
 webUrl: "https://azdailysun.com/news/local/education/flagstaff-education-association-requests-recognition-vote-from-fusd/article_4bce8a5a-d173-11ec-b95f-6745183181b6.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Education
-
-related:
-  - title: "Cross Country Healthcare Wins National Recognition for Innovation and Leadership"
-    excerpt: "Cross Country Healthcare, Inc. (CCH), a market-leading workforce solutions, tech-enabled talent platform, and staffing and advisory services firm, announced today that it has earned the 2022 Top Workplaces Culture Excellence award for Leadership and Innovation."
-    publishedDateTime: 2022-05-16T13:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-sports-health-35b7f841011d4cf0a1a8246f87fe9174"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "FdzGw2gS2LMPI+M+km4zAL7SxBOHEXa97jaiHUZnBQ+V26rf03bnUTToRY/n7FTDj9wTdu0ixmZAmCYUbJ7sNqdQK261pbaB6fVSa8UAe9HvUfTKqUdfaf1wi7P9WSMzYIm0DsVD8ukKiHOAtIuzH/SdbP0omX51ku9rlZwKl8C5e6Jwqc7ol2x7xkSyeRpPNfnQ1/SmJyxTs3OoUTgCLYYQxVMgyoG9VfdUGC7Z5EscMRwYXMuulB/YaBFtzU4nN2azy/sqkP3gZzkkrslGK73kRkL412WHX36jP7wz1g0vqrK4TKeyisBsnRyvpdEY+HnUKKdP3HDq5H1B/49FsZU0c5xEOnbJBvAI1kmrfi+lcT1X6KoWuq/OQ4CYsDE9qtU0FwCiDKNr/SO56khxbvl4XpHRNZmD3fOzV9cU+Zt1pzvKURrZP+ywxnS1/c4qdniAfoAdxzdQ7odR3pLLWsh9rhmYsPUiHEwd/31LOF6E5u1/ByVcDBv0hsXqoxY3jnB7AppnDGYJYHgGjCzfMA==;4MtG6Y1Rvpgw9s9bB6AjmA=="
 ---

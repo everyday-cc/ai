@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
         width: 720
         height: 393
+        isCached: true
+  - title: "Move to regulate facial recognition technology"
+    excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."
+    publishedDateTime: 2022-05-17T04:30:00Z
+    webUrl: "https://www.worldradio.ch/news/bitesize-news/move-to-regulate-facial-recognition-technology/"
+    type: article
+    provider:
+      name: World Radio Switzerland
+      domain: worldradio.ch
+    quality: 39
+    images:
+      - url: "https://mmo.aiircdn.com/29/6052d11808e86.jpg"
+        width: 1320
+        height: 760
         isCached: true
   - title: "Facial recognition technology is a valuable tool"
     excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-p
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Startup BalkanID launches AI-powered Identity Governance and Administration solution"
-    excerpt: "BalkanID will start out focused on the mid-market but plans to expand that, as they further develop their solution from automated IGA to fully automated telemetry."
-    publishedDateTime: 2022-05-12T12:00:00Z
-    webUrl: "https://channelbuzz.ca/2022/05/startup-balkanid-launches-ai-powered-identity-governance-and-administration-solution-39089/"
-    type: article
-    provider:
-      name: Channel Buzz
-      domain: channelbuzz.ca
-    quality: 10
 
 secured: "+tHOJ79Rq7oVGdFRvscDaTyP/5bCbCgfGPJpXKLFiivjW2A6eXSQDD7eIjR0/IuBuMAEELa1YGIVszju89gm912A0u0Jffb5vtOMVwzDcjrffErrvCyBoYWQkRVZP9Z90+SdkB2KvBFozg+hGjS0Q55gd9qAiTKf91GudWxwV6+o/3rR8pHoMghxKwgjpKAVdmAajiUCkw+l0kDwOt47pI0ZVbo8touEu/whFBqttMxNq/kjLlXtoKMeuoc3sYQwjzjVjWLjgc2EqkpvbBAqht1nY1OKxOczrIwrH/6iQtgY/wTrRqzi+bw1wzuPpRX9uXXUdi1dRahR72VBR5YXSKwnmPl1APGOIF/Ln/eW4akBtcEn4UlCcU6j0O+yb1M37ApQ5csgnBmtSe/3+LQ5R1LeSM3pC/EdHuxbFlP+q5Tgh6no94eejD4MsNXnC3HBdN+YavuIf2UGKE1btzQm8bnYy+r3jgPF7VrzS/wmMgKQOyV47+S6B/fyhvt77kA9/G4x4pQzN7AcfVRrjdkUaw==;TkKLSMq3CfeErhuMi5KMbg=="
 ---

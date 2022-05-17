@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can improve services revenue and customer success"
-    excerpt: "Having real-time data that can be modeled using AI and machine learning can help to solve customer success challenges today."
-    publishedDateTime: 2022-05-12T12:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/"
-    ampWebUrl: "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/"
+  - title: "SKT Introduces New AI Service ‘A.’"
+    excerpt: "SK Telecom (NYSE:SKM, hereinafter referred to as “SKT”) today announced that it launched an AI service named ‘A. (A dot)’ as an open beta version for Android on One Store and Google Play. ‘A.’ embodies SKT’s vision to become a leading AI ..."
+    publishedDateTime: 2022-05-16T09:31:00Z
+    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/skt-introduces-new-ai-service-a-44461/"
+    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/skt-introduces-new-ai-service-a-44461/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/skt-introduces-new-ai-service-a-44461/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-customer_succes_ai.jpg?w=1200&strip=all"
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
-        height: 725
+        height: 675
         isCached: true
   - title: "VIDA Introduces New AI-Enabled Biomarker Services"
     excerpt: "New VIDA analysis packages & novel biomarkers empower trial sponsors to unlock breakthrough insights. SAN FRANCISCO, May 15, 2022 /PRNewswire/ -- (ATS International Conference)  V"
@@ -54,29 +54,20 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Edge Browser Will AI Improve All Web Images"
-    excerpt: "Turing Image Super-Resolution will automatically turn website images into high resolution graphics for users of Edge browser"
-    publishedDateTime: 2022-05-16T09:22:00Z
-    webUrl: "https://www.searchenginejournal.com/edge-browser-will-ai-improve-all-web-images/450350/"
+  - title: "SK Telecom Launches New AI Service ‘A.’"
+    excerpt: "SK Telecom on Monday announced that it launched an AI service named ‘A. (A dot)’ as an open beta version for Android on One"
+    publishedDateTime: 2022-05-17T01:22:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24902-sk-telecom-launches-new-ai-service-a"
     type: article
     provider:
-      name: Search Engine Journal
-      domain: searchenginejournal.com
+      name: Deep
+      domain: thefastmode.com
     quality: 37
     images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/05/turing-image-super-resolution-6282145c5dc44-sej.jpg"
-        width: 1600
-        height: 840
+      - url: "https://www.thefastmode.com/media/k2/items/src/11425db1c873228188f655dbb86aca2e.jpg?t=20220517_004240"
+        width: 752
+        height: 408
         isCached: true
-  - title: "Zoom agrees to acquire AI customer service platform Solvvy"
-    excerpt: "Financial terms of the deal were not disclosed. Solvvy is a California-based startup that delivers customer self-service experience powered by machine learning and artificial intelligence."
-    publishedDateTime: 2022-05-12T13:17:00Z
-    webUrl: "https://seekingalpha.com/news/3837801-zoom-agrees-to-acquire-ai-customer-service-platform-solvvy"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "fmAwSE778lmtm1J7FNqhmOF6C6MWiJDNqcNzG6B209GtodQuBooYYNRo75rl0s2UbdpEgx4uLS9Oi/PyMJa/PFnODRhsl4u/xePu5t5d/tkcNm4Z7/O/wn1uNTrr7ws5hC/4g+D3X9IfKe98VpqfM+3OU441lXBCZk8zl24bFeZ38ae6ZZiy+wD8d2BgyyJg4/GNPWJylyyMxVf+B1sJHU1orWGsi4jtog/401vji+5Zru0oxsuFEZdV14KVKyqpfLbPFMYfgFk8uc3r1diPdkn99s4/dbAWUCSFu99JnDuN/oMM8MQjFp1lDSTyHH1j6dT4N5MZIsLgeQj1Wvxkxv7RdWy1Qem+GGEVzD2I/1A=;YUWb4hheXbormuhf4pwEZQ=="
 ---

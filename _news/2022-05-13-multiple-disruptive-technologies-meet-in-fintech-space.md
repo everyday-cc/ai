@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Data-driven fintech TIFIN valued at $842M in new $109M Series D round"
-    excerpt: "TIFIN brought in $109 million in fresh funding to bring its tech to the wealth and asset management industries"
-    publishedDateTime: 2022-05-12T12:28:00Z
-    webUrl: "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/"
-    ampWebUrl: "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1153689483.jpg?w=1024"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "AI Fintech TIFIN Raises $109 Million Series D"
     excerpt: "TIFIN has raised $109 million in Series D funding at a valuation of $842 million. TIFIN shared that Franklin Resources (NYSE: BEN) and Motive Partners, have"
     publishedDateTime: 2022-05-12T14:07:00Z
@@ -53,6 +37,29 @@ related:
         width: 1146
         height: 1280
         isCached: true
+  - title: "Four Things You Should Know About Fintech"
+    excerpt: "Fintech is taking the banking world by storm thanks to its innovative and cutting-edge technologies. But with new tech comes new responsibilities and risks, so it's important to know what you're getti"
+    publishedDateTime: 2022-05-14T14:30:00Z
+    webUrl: "https://www.finsmes.com/2022/05/four-things-you-should-know-about-fintech.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech21.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Infinity Ventures Launches Inaugural $158 Million Fund Dedicated to Global Fintech Investing"
+    excerpt: "Former PayPal leaders Jeremy Jonker, Jay Ganatra, and Mario Ruiz form fund to back the builders of fintech infrastructure and commerce enablementSAN FRANCISCO & NEW YORK--(BUSINESS WIRE)--Infinity Ventures,"
+    publishedDateTime: 2022-05-15T23:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=664305"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
 
 secured: "kWS/ntahiDaAJU0wlpw44wyYkiw6J3ppVYrnfuhd3SuRKfZ9E4L14dohtC+Tk70dlE3WIji1LrWjHiZaB3Y1PpslPNiMCDaCqF3hayOcb7yoDCzoSm2HDYRZjaxMmtb7BjbXCBIc/7NOwLqgqrdgBPIAgmMo2p2mMQXrCCHurr/106P2h5DCgdi51wb1aWxCxahnVf07XeURzhfSNH4NE8O4hsPSBIC/FtyclGN060lJ7Xge9Wn9Qr68RgJZG1E3lqcxJHZerIBE6AjBm+cwDDu9zUvEKIIasGjFLFeEGfA4Sr5JNAoivpRhcCY2abrMBDAWNu2sHtza3ZKDjy29R4Frx2WKB3f8G032ty7SUvZvR0uSXLVY30vdJ86kh1vOvdkD64/k86qVwOp2/FVcLKOC1pmFZHQLEEc8Evn4cdCrxwXqJHY4J0MYP4ykxfQ1YHDJOboNREmWPQcmBrs0A8ubH2rskcmIonDRm5Fk9/HAYcxWexiLHrQijsRjCjqxCsQ0wwEtfNVT3oUndKmqDA==;ONUFfx0KOki650AUvEcRjw=="
 ---

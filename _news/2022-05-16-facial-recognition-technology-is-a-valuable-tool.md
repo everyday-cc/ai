@@ -125,6 +125,20 @@ related:
         width: 720
         height: 393
         isCached: true
+  - title: "Move to regulate facial recognition technology"
+    excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."
+    publishedDateTime: 2022-05-17T04:30:00Z
+    webUrl: "https://www.worldradio.ch/news/bitesize-news/move-to-regulate-facial-recognition-technology/"
+    type: article
+    provider:
+      name: World Radio Switzerland
+      domain: worldradio.ch
+    quality: 39
+    images:
+      - url: "https://mmo.aiircdn.com/29/6052d11808e86.jpg"
+        width: 1320
+        height: 760
+        isCached: true
   - title: "Facial Recognition Market And Its Amazing Applications Across Industries Trend | NEC Corporation, Cognitec Systems, Aware Inc"
     excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
     publishedDateTime: 2022-05-13T10:56:00Z

@@ -22,17 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Earthquake and tsunami prediction enhanced by deep-learning model"
-    excerpt: "A deep-learning model developed at Los Alamos National Laboratory could help estimate earthquake magnitude in real time and provide earlier warnings of tsunamis."
-    publishedDateTime: 2022-05-12T12:59:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/tsunami-prediction-might-be-possible-with-deep-learning-model/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
-
 secured: "IEprMdXPpFcaowBfofjCEokxbK0zccIU7duhfqKGC+NPyshPFS6hIDo4atyUBapPz3MhJjT00FJEwiYW3RozLNyeCWcvrRmiBT1xTafOd08FMhQ0WSVmw1prNQq7JopnRxMSCUSY7VXAOzZ7xjLtoFWMgEEBtWz5kE/BewCmV5r/9cvFK/dUSrF0ml6OokgtnDJJyQ0IycAKB2/XO1cpy7KbzsXt6PU6VLbHmfIXJf/66YZWhO+DRZnsdrc1237oIjYwobMCj0tS2QPQy9qoYzRZ4wJRPZZoi64fkMMPGvKNFh31ZXBCEBuAswReOb7rf8F7C7YUiiU+MvcqFIkeLOeqM5ndiEdEjE7NjXJ4d04=;9mztvw5BL0mpobkFyKQp7w=="
 ---
 

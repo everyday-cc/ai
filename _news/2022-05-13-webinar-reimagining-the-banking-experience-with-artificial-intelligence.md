@@ -70,29 +70,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Controlling AI edge applications"
-    excerpt: "AI, Boxer-8253AI, and Boxer-8254AI IPCs. The company’s recent Gene-EHL5 subcompact board with CAN and 5G connectivity is made to meet edge applications. The Boxer-8240AI features the Nvidia Jetson AGX Xavier module (Source: Aaeon) For example,"
-    publishedDateTime: 2022-05-12T11:22:00Z
-    webUrl: "https://can-newsletter.org/hardware/controllers/220512_controlling-ai-edge-applications_boxer-8233ai_boxer-8240ai_boxer-8253ai_boxer-8254ai_gene-ehl5_aaeon"
-    type: article
-    provider:
-      name: can-newsletter
-      domain: can-newsletter.org
-    quality: 39
-    images:
-      - url: "https://can-newsletter.org/uploads/media/raw/478cc66ae63932aa1c10a9dbd39c2991.jpg"
-        width: 700
-        height: 237
-        isCached: true
-  - title: "How AI is used in filmmaking"
-    excerpt: "However, compared to today’s sophisticated tech, Lucas’ AI system was pretty basic. Marvel villain Thanos’ origin story is a good case in point. The tech team put tracking dots on Josh Brolin’s face to capture his expressions."
-    publishedDateTime: 2022-05-12T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-is-used-in-filmmaking/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "3ars2omspXOBRdUWOxNeCzme9Q7/v/MkBipuEVmB2KhdBolodV0kfKlddWXhpgo3wIGk9WmBLsRhOlfJPxgciR/BKM4nXfpGnAlH9m5qUGXXC/6X6j1jbisSIve4+YnjlqPITCqxca8Xrj2/FV4DVavzjVu7B4ij7HSO6VfX8O/QLQ6g01TTABmxadVAmoo7rDFoCI+uNP9xiOIjNmk8cdBMLOwPep00bZ1DZcrLc4PKtAEAXHafhDwFL/UY3+RPMgZ2RpskI0bPzM7Ni66RJ7ofynzcxm1107wDi1VbEgytorknulNKs+8BODpiCpknSeTH78Q7kt2wKOdw88hDdwWVah0zmmEjC+SegZW10L0=;3g/ohofWjlO07j3A5wHegQ=="
 ---

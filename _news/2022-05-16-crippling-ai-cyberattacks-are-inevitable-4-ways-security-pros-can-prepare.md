@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-com
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1057918132.jpg?w=1200&strip=all"
         width: 1200
         height: 730
+        isCached: true
+  - title: "Artificial Intelligence in Cyber Security Market | Growth and Changes Influencing the Industry 2022-2029"
+    excerpt: "Rise in number of cybercrimes drives the artificial intelligence (AI) in cyber security market. Global increase in IoT adoption and number of connected"
+    publishedDateTime: 2022-05-17T02:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-cyber-security-market-growth-and-changes-influencing-the-industry-2022-2029"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "dNlho4SE51apSxqI1VMN0e2tXh4g8HvGt/s0PR9III8E4lIQqGgViMdQr1JWZUGrQej6YUWdisgtgTg20TmyoVXRD/xj7uAYDx04+d7ncR2xnBkj60l/mz+wck/yOsAZ4xDuvJPUhqW9U+NsJRnwqz0OXb7QrzK8aVZmvNNSo3q5A332/4bdBMLi4QL7845Rnx47uqAhs9QZT3WEsyhEhJW2LTOjrEp8pszb1WTpYStkITJ/eIfI+9hJIOb6YUsgJl+miGTBC7QPQGexsreqHZT9du3ayheIFZLwMEGnR+SfobhTBb+kDft6gwSstecUDj08juy/zeZl9Jr12KmIL2Cr34k708v1QErVwRG2RarfIZyUtzCHqZ57xOGwChoQCzxfC/+NVklrI+XHEc07Rsv19eAVN0Tu/Mk7pVYIdkeT8svCKdq4xhydaVh/RePFr4Z2eiAanDhO1iHzAPiki8zLE9ZjtmOTx9rWF5StQFQmpB4mOnZhItYTdjYuIvcZHnl5/Rt/8hW3aRu1y9UEvA==;mo68ju49xxL2mTl9/DODbA=="

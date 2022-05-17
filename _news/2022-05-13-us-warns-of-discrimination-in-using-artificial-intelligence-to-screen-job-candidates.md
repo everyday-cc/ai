@@ -2,26 +2,26 @@
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
 excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:13:00Z
-originalUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+publishedDateTime: 2022-05-12T21:12:00Z
+originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Iowa Public Radio
-  domain: iowapublicradio.org
+  name: New Hampshire Public Radio
+  domain: nhpr.org
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/477f0ee/2147483647/strip/true/crop/2900x1632+0+164/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F16%2Fgettyimages-1364495693_custom-7b775ccca1f35cd9b1ce6e6a09052e7676d88cf3.jpg"
+  - url: "https://npr.brightspotcdn.com/dims4/default/2d49fcc/2147483647/strip/true/crop/3963x2230+0+167/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fnhpr%2Ffiles%2F202002%2Fvoting.jpg"
     width: 430
     height: 242
     isCached: true
@@ -113,6 +113,6 @@ related:
       domain: mcknightsseniorliving.com
     quality: 8
 
-secured: "49CzJ6ZBIeMSIvov1eKMAyGwy3nCBdmOB/y/3UPEjRxvlVrUhEfMtjyQwiaLfHpO5Mt+s8ilxgry/2eCnLcsTjv6OCftysyti8XYZ9QnokMOpaUTi8a4i7LQPMdcBXcdWdjVBGKhhjiJbGwc55kmIIbF88HZNQoVK+lGU/I85PRwmdFUw3saOWo82BdDY0dJCbgXeHrsM4v7Bsd2O0S1JLFBFsIBnuGWeVDXqIFQLj1iEkuZC7PeTpW5NbAm1ZEq9y+i3kJgFJq5CTyAIBgBwbTdn0Jg2u4S9S3EGvw7XXjAWNdq7UQaLOLFTPwu057qCTVGC5C2JwhGtav96r2n/i3DqE+SABg/0BYkToR1zQk=;1uQ79mlFa3P/Rwd6/alykw=="
+secured: "KNgljasVvUydhrX1uEksI9hOhGQMUroBgFSeGubUSuP36vjpORCyA8QmkXGkpp38HsWVoRkfqWqJ3pp8QYXTUMILOl3irivRjPKYW4qq8bjzOKZJGVPyh3zH5zEMOfEjx77BBANx/8iy7AWeFEHb8xXYThtfiewZVQWW0+xLDuCiGDjVfkqC/LaDy/2NJP0Cp7iZk2gvma1+slYyzHsPZzRb7anFUuVcTqEVYjop+N1QtQ/3iV/W+5o9e0TlNSyIrwUzOXYuEZzH4u5hlpjsqV1nWGnITrv6UyPb1sn/LQuGDdMWRBBKztR98b7HZQo0K3tlV8GWDO8TmW6gc1Av+aSeb6m+0i2nuUXLDZJJA4Q=;RfatGVXhOG9CY5C/e3HHmg=="
 ---
 

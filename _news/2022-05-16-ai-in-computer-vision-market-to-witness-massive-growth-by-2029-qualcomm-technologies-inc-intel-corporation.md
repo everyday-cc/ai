@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Window Cleaning Robot Market May Set A New Growth Story To Generate Booming Opportunities In The Industry By 2030"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
+    publishedDateTime: 2022-05-17T05:37:00Z
+    webUrl: "https://menafn.com/1104225364/Window-Cleaning-Robot-Market-May-Set-A-New-Growth-Story-To-Generate-Booming-Opportunities-In-The-Industry-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?807256"
+        width: 375
+        height: 250
+        isCached: true
   - title: "VSBLTY NAMED INTEL® CHANNEL PARTNER OF THE YEAR AT INTEL VISION 2022"
     excerpt: "VSBLTY technology provides enhanced customer engagement and audience measurement using machine learning and computer vision. Its industry leading VisionCaptor™ and DataCaptor™ software combine motion graphics and interactive brand messaging with ..."
     publishedDateTime: 2022-05-12T19:56:00Z

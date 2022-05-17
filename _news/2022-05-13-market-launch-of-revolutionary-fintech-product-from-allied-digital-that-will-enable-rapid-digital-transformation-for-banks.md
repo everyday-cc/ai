@@ -20,20 +20,6 @@ topics:
 
 related:
   - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
-    excerpt: "Allied Digital Services Ltd, a publicly-traded global IT solutions, services and Master Systems integration company, officially announced the launch of its new FinTech product 'FinoAllied' which is an AI-Powered Conversational Banking platform ..."
-    publishedDateTime: 2022-05-12T12:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/12/9600536.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1816599/FinoAllied_Conversational_Banking_Platform_Award.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
     excerpt: "Emphasizing the uniqueness of the platform, the Chief Digital Officer, Mr. Utpal Chakraborty, a known name in the AI & FinTech industry, mentioned â€“ \"The FinoAllied platform stands out in ..."
     publishedDateTime: 2022-05-15T22:39:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1253827&cat=PR News Wire"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/skt-introd
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/skt-introduces-new-ai-service-a-44461/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: TelecomTV
@@ -26,6 +26,34 @@ images:
     isCached: true
 
 related:
+  - title: "VIDA Introduces New AI-Enabled Biomarker Services"
+    excerpt: "New VIDA analysis packages & novel biomarkers empower trial sponsors to unlock breakthrough insights. SAN FRANCISCO, May 15, 2022 /PRNewswire/ -- (ATS International Conference)  V"
+    publishedDateTime: 2022-05-15T16:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/covid-technology-health-clinical-trials-f7be8cc3b1fe6fbfe0a9feea805e8836"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "VIDA Introduces New AI-Enabled Biomarker Services'"
+    excerpt: "Announced at the 2022 American Thoracic Society (ATS) International Conference, this suite of services empowers sponsors to leverage VIDA's unique AI-enabled biomarker generation services and ..."
+    publishedDateTime: 2022-05-15T23:03:00Z
+    webUrl: "https://menafn.com/1104215642/VIDA-Introduces-New-AI-Enabled-Biomarker-Services"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?204550"
+        width: 400
+        height: 250
+        isCached: true
   - title: "SK Telecom Launches New AI Service ‘A.’"
     excerpt: "SK Telecom on Monday announced that it launched an AI service named ‘A. (A dot)’ as an open beta version for Android on One"
     publishedDateTime: 2022-05-17T01:22:00Z
