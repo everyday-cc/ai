@@ -24,52 +24,123 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Civil Rights Enforcers Warn Employers About Using Biased AI"
-    excerpt: "The use of AI is compounding the longstanding discrimination that jobseekers with disabilities face,” Assistant Attorney General Kristen Clarke told reporters Thursday."
-    publishedDateTime: 2022-05-13T01:46:00Z
-    webUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2?d_id=3524666&ncid_tag=tweetlnkushpmg00000016"
-    ampWebUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
-    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
+  - title: "Finding AI’s low-hanging fruit"
+    excerpt: "In some circles, the idea of going smaller with AI is catching on. Instead of a complete forklift upgrade across the entire business process, it’s better to do the easy stuff first."
+    publishedDateTime: 2022-05-16T16:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/"
+    ampWebUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
     type: article
     provider:
-      name: HuffPost
-      domain: huffpost.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://img.huffingtonpost.com/asset/627d7ea51e00005cd41b490c.jpeg?ops=1778_1000"
-        width: 1778
-        height: 999
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1219474321.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "U.S. civil rights enforcers warn employers against biased AI"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-    publishedDateTime: 2022-05-17T00:50:00Z
-    webUrl: "https://www.thehour.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"
-    ampWebUrl: "https://www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
-    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
+  - title: "6 business risks of shortchanging AI ethics and governance"
+    excerpt: "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors inherent to the technology — for example, how a particular AI ..."
+    publishedDateTime: 2022-05-17T10:00:00Z
+    webUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html"
+    ampWebUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
     type: article
     provider:
-      name: The Hour
-      domain: thehour.com
+      name: CIO
+      domain: cio.com
+    quality: 76
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Using AI to predict heart attacks"
+    excerpt: "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?"
+    publishedDateTime: 2022-05-17T14:50:00Z
+    webUrl: "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg"
+        width: 1000
+        height: 554
+        isCached: true
+  - title: "How is AI improving aircraft inspections after hard landings?"
+    excerpt: "A hard landing on the runway puts stress on a plane. ATR is using artificial AI to help identify any damage and get planes flying again."
+    publishedDateTime: 2022-05-15T11:36:00Z
+    webUrl: "https://www.freightwaves.com/news/how-is-ai-improving-aircraft-inspections-after-hard-landings"
+    ampWebUrl: "https://www.freightwaves.com/news/how-is-ai-improving-aircraft-inspections-after-hard-landings/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/how-is-ai-improving-aircraft-inspections-after-hard-landings/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
     quality: 57
     images:
-      - url: "https://s.hdnux.com/photos/01/25/55/37/22468592/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/05/ATR-Smart-Lander_1.jpg"
+        width: 1771
+        height: 996
         isCached: true
-  - title: "U.S. civil rights enforcers warn employers against biased artificial intelligence"
-    excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities."
-    publishedDateTime: 2022-05-13T15:13:00Z
-    webUrl: "https://www.ibj.com/articles/u-s-civil-rights-enforcers-warn-employers-against-biased-artificial-intelligence"
+  - title: "Using AI To Cure Blinding Eye Diseases"
+    excerpt: "NIH discovery sheds light on tissue targeted by age-related macular degeneration and other diseases Researchers have identified distinct differences among the cells comprising a tissue in the retina that is vital to human visual perception."
+    publishedDateTime: 2022-05-17T20:19:00Z
+    webUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/"
+    ampWebUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
     type: article
     provider:
-      name: Ibj.com
-      domain: ibj.com
-    quality: 47
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
     images:
-      - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://scitechdaily.com/images/RPE-Subpopulations-AI-777x442.jpg"
+        width: 777
+        height: 442
         isCached: true
+  - title: "Building AI for healthcare made easier with programming tools"
+    excerpt: "Chronic disease prediction and management is one of five projects under Singapore’s national AI strategy launched in 2019. . Read more at straitstimes.com."
+    publishedDateTime: 2022-05-16T04:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/building-ai-for-healthcare-made-easier-with-programming-tools"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/05/16/ac_profOng_160522.jpg?VersionId=fwE7bWPg9d3hX43zFvxORfd_zS3OejWb"
+        width: 860
+        height: 573
+        isCached: true
+  - title: "Webinar | Reimagining the Banking Experience with Artificial Intelligence"
+    excerpt: "The rapid evolution of technology across all industries is revolutionising customers’ expectations around digital transactions. According to industry estimates, 6 out of 10 customers say that their experience with one industry is likely to influence their expectations for other verticals too."
+    publishedDateTime: 2022-05-13T05:30:00Z
+    webUrl: "https://ibsintelligence.com/webinars/webinar-reimagining-the-banking-experience-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 36
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/Webinar-Hexaware_May2022.jpg"
+        width: 1118
+        height: 617
+        isCached: true
+  - title: "Finding the Fairness in AI"
+    excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
+    publishedDateTime: 2022-05-17T15:09:00Z
+    webUrl: "https://cacm.acm.org/news/261047-finding-the-fairness-in-ai/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "yJJOYB+SOaRDhgAMvQbnERhy7zpo+0cjFHdEwKoyfIuJxeC5gHZ4UxNxOx2GqILQ9wwHfsUVNCxP355Xpq9OwXqQSgku5nmEnS64ppqYWsDvjg6teWiGNOt5el66f7RqctzJ7Re2gayToH/NxbvoQA5DK7bW3xhDeTHiEcAULvShN1nsJNN/NvUdJoIz7pjdEEzhVyfWzdNQK8s3zwffygZRWW4O4uq4DpulZUo5TWu7L2w0Bp0dupfTjNqBA8HujhPVYFDHefEIZS7xPw38ypDDNmyg5iWrKb0NpXPaUAV+XCBVQMe4YW717dgkPW7eRfd6p9tzeR5wk05/iirwIgW7aZn9vDXCn08Mn4lNkcvo1rTwT/RB2Z04gvItmhI3b/2EaJJ6FpK7iEJ04t2mJxdhX2vrZe+Qqi0PuWLYIPa6zP7vw+tcNDL65YnITKLZf4Biw316ns0uQedHYlBWTb6jUVftfpz3p9fbblXTJzvUq8/geabWGMJ1qQlmUkrnBMTII+811ukf7KoPi5sZhA==;NKNOQL3+B91we7QlDqwqHQ=="
 ---

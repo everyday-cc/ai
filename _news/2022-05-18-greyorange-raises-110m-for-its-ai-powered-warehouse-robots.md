@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T17:40:00Z
 originalUrl: "https://siliconangle.com/2022/05/17/greyorange-raises-110m-ai-powered-warehouse-robots/"
 webUrl: "https://siliconangle.com/2022/05/17/greyorange-raises-110m-ai-powered-warehouse-robots/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: SiliconANGLE

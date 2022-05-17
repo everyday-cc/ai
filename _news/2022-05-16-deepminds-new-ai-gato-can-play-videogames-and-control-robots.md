@@ -49,6 +49,15 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 60
+  - title: "DeepMind’s new AI can perform over 600 tasks, from playing games to controlling robots"
+    excerpt: "Alphabet-backed research lab DeepMind created an AI system, Gato, that can perform hundreds of tasks ranging from controlling a robot to analyzing text."
+    publishedDateTime: 2022-05-13T12:15:00Z
+    webUrl: "https://techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 56
 
 secured: "w4CZQg0WwFXcx6ahFelb8Ha/NM/x9fnfrYQDXUbyIQGl66cv4rShRuzjGAacD+s+J1VRGucnmcxkc+em+hrGED54FX+FednkdFuj+h4uMt+U7y1Lj5xxqP7MRxqgYaWUTnMQZkw/PCE1UpuKzRFoqlAtLEv+JWlDjQ0UGqgypMUSNeR5h9haJnTaNEDg/5Gqqk/e5ENkBJ2TcJXXSTZmFr4u8fwPCNXjLAA1F5BiflM7+fAjikbHlIIiMWe0oiu4Qu3eWpYvaSaZnR1pjCMLJbfYFgHoL0MhTcgTloEaB++eo5KsLIUGOse+M9KYzt7WlUVF1Cgfb7r9wM4wKGFLh44NmWMIs1KWp3cYn1J8+f4gMG0cfEbOyD/0oVlnwsqaET0OaqRfuRR5dPv7bRsdNWkSQGk+1o6vzoEX9gvVvTBqihXKoZ4RbaB5tHAel/TXCXFs/HIVCB4YCqd1v7ba9nZ/dUw/GKeZVWfCh2RfOtbjGl8ET4jNOG6TSFI61MrXvmvGzjVNnc5zGG4FIop1BQ==;Dhy4632zXMUHeM+QFZ4SNw=="
 ---

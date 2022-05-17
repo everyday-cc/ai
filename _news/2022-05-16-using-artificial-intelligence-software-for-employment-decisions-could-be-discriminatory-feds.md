@@ -49,20 +49,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AI Hiring Tools Discriminate Against People With Disabilities, Warns US"
-    excerpt: "As employers increasingly use artificial intelligence (AI) tools to hire workers, the Department of Justice and the"
-    publishedDateTime: 2022-05-15T22:50:00Z
-    webUrl: "https://menafn.com/1104214082/AI-Hiring-Tools-Discriminate-Against-People-With-Disabilities-Warns-US"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?204550"
-        width: 400
-        height: 250
-        isCached: true
 
 secured: "yJyYS5GobZYSoMmnZ+NGeSh5uLeqOUVzjZOWFwlPY0Ly9sFbaR0Cco9gcAxP6JqFMbj+IscOEQXlH0hzKsa21Ws4Qtzy/wwDjzbocEKklwpL+5/npmRxSN1T2KgAqDcK69k/+bHSYz9cAT9m07PHOWX1ROtFmWgN7k5qLeQgU5N3a0siu1a6/mUDqhE8oPfsmd97T1mc/DniU6UIYbRhy86x9jyid4OTTqX7EIKM2wfQJMkBgkwhC1fmWJe1ouBggyVDw6o1u2m9XyUHtxEpAO7tXhu8tmkvlMoTL8E/7H4eKO9ogHou/B9gTbKBbz+yViUJEq/Hj8IawMNvibWA7BX/kyrPDlrcIJg0K47PfEI=;Sgy+4I7Pu26h8ygxOuGB2w=="
 ---

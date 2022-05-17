@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T16:05:00Z
 originalUrl: "https://ktla.com/business/press-releases/cision/20220517NE59078/query-ai-appoints-jeremy-fisher-as-chief-technology-officer/"
 webUrl: "https://ktla.com/business/press-releases/cision/20220517NE59078/query-ai-appoints-jeremy-fisher-as-chief-technology-officer/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: KTLA

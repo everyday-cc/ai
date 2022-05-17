@@ -58,20 +58,36 @@ related:
         height: 270
         isCached: true
   - title: "Argo AI Begins Driverless Vehicle Operations in Miami & Austin"
-    excerpt: "Industry-leading autonomous vehicle technology company Argo AI commenced driverless operations in Miami and Austin, two of the eight global cities in which it is"
-    publishedDateTime: 2022-05-17T15:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27257400/argo-ai-begins-driverless-vehicle-operations-in-miami-austin"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27257400"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27257400"
+    excerpt: "Industry-leading autonomous vehicle technology company Argo AI commenced driverless operations in Miami and Austin, two of the eight global cities in which it is currently developing its technology. \"Argo is first to go driverless in two major American cities,"
+    publishedDateTime: 2022-05-17T15:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/argo-ai-begins-driverless-vehicle-operations-in-miami-austin-1031469339"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Ford's Argo AI begins driverless vehicle operations in Austin and Miami"
+    excerpt: "Ford’s self-driving Argo AI unit has hit a major milestone. On Tuesday, it began driverless operations in Austin and Miami. The company’s cars aren’t carrying paying customers just yet, but they’re now allowed to ferry Argo AI employees without a safety driver at the wheel."
+    publishedDateTime: 2022-05-17T18:09:00Z
+    webUrl: "https://www.engadget.com/argo-ai-driverless-operations-austin-miami-175417884.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 64
+  - title: "Ford-backed Argo AI launches driverless car testing"
+    excerpt: "The removal of human safety drivers in Miami and Austin is a milestone for the Pittsburgh-based autonomous vehicle technology."
+    publishedDateTime: 2022-05-17T21:02:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/05/17/ford-backed-argo-ai-launches-driverless-car-testing/9810370002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1819923/Argo_Driverless.jpg"
-        width: 400
-        height: 254
+      - url: "https://www.gannett-cdn.com/presto/2021/03/15/PDTN/a8bbea08-359b-43c6-a9db-a9da024a5250-2021-0315-dm-bu_av_remote0538.jpg?auto=webp&crop=8255,4643,x0,y547&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "New collaboration and AIP tender make driverless Metro smarter and more reliable"
     excerpt: "By combining this with artificial intelligence, the Copenhagen Metro will be able ... and from Nørreport to Lergravsparken (M2). Today, the driverless Metro consists of 39 stations located along 38 km of tracks. The company owns 81 trains."
@@ -87,6 +103,33 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Argo AI Launches Driverless Testing in Austin and Miami"
+    excerpt: "Argo AI has officially begun operating its driverless test vehicles, with no human safety drivers, in both Miami and Austin."
+    publishedDateTime: 2022-05-17T19:05:00Z
+    webUrl: "https://www.financialbuzz.com/argo-ai-launches-driverless-testing-in-austin-and-miami/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 34
+  - title: "Argo AI launches driverless testing in Miami"
+    excerpt: "On Tuesday, autonomous vehicle technology company Argo AI announced the start of driverless testing in Miami and Austin. Argo is the first AV company to go driverless in two major American cities. “"
+    publishedDateTime: 2022-05-17T18:54:00Z
+    webUrl: "https://wsvn.com/news/argo-ai-launches-driverless-operations-in-miami/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 34
+  - title: "No driver, no problem: Argo AI puts fully autonomous cars on streets of Austin, Miami"
+    excerpt: "Pittsburgh-based autonomous vehicle startup Argo AI announced it is now operating vehicles without human drivers on public streets in Austin and Miami. It marks a major milestone for the company as it readies to scale its AV operations for commercial use ..."
+    publishedDateTime: 2022-05-17T19:51:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/05/17/argo-ford-lyft-driverless-cars-austin-miami.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 10
 
 secured: "BLW+3jB+3YgA2DYFuK5qdRJhLli4wmUrxRWWEkS/WqoG6coJz04hyMSW6KCA1U8pzduroXEWKUjWnbIDgucx7VrAXJUopwJtjtJte1jxCSKUOOMj2zv45d/WIw2ZUzJRscT85hwrF3ihqTGvmxxBjQ/xIFUzby0Vc6Kx+eeuu6Ab+ILaLMMQP+b0B1VLQqa/g8NAuufvNqC9qFsKmRNGtn05db6iG4PIuBrIia/IG0W5ZizsFsnbiUMNTSPRH+EcTJ0OBSjKcfMMsez7mgcnSCFobao0SRG/tkRlM34jLmPosYLjvllVpqgN0h8eNp1ifh9Wq2wfVdzvqYXafr2Cmb68Lf/EK3qezR9wv4Zl8dcosU8HYK2weuiATMI8g+0dpKdUfy28KVxQZEBGFAyCoquD/lMAzF14JWhlJXniZBHfjkqYPy0Fb8S1lTH251UVRB2qg+Mv0dSaIbNtieM8/pL6dkSrg/J29op/FJE0mv6VIyFrbGsBbJb55vjoJ6gQrZxPwKBJWZGe0wvVIzXEtg==;BytcTVJ4Xug0xQ2JlpoRBA=="
 ---

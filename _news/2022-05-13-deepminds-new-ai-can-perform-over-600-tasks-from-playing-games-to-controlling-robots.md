@@ -23,54 +23,43 @@ topics:
   - Google AI
 
 related:
-  - title: "Inflection AI, led by LinkedIn and DeepMind co-founders, raises $225M to transform computer-human interactions"
-    excerpt: "Inflection AI, the startup co-founded by LinkedIn co-founder Reid Hoffman and founding DeepMind member Mustafa Suleyman, has raised $225 million in funding."
-    publishedDateTime: 2022-05-13T16:23:00Z
-    webUrl: "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/"
-    ampWebUrl: "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/"
+  - title: "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’"
+    excerpt: "A DeepMind lead researcher made the bold claim that the company's newest AI was a 'game over' product for AGI research."
+    publishedDateTime: 2022-05-16T22:30:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 77
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?w=1024"
-        width: 1024
-        height: 632
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FscalingAI.jpg&signature=9bc3b164454b20146d307326beb8c1b3"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Newly launched AI startup Inflection AI raises $225M in funding"
-    excerpt: "Artificial intelligence startup Inflection AI Inc. has raised $225 million in funding. Inflection AI detailed the funding in a filing with the U.S. Securities and Exchange Commission. The Palo Alto, California-based startup specified that the financing was provided in the form of an equity investment but didn’t disclose the investors who provided the capital."
-    publishedDateTime: 2022-05-13T19:54:00Z
-    webUrl: "https://siliconangle.com/2022/05/13/newly-launched-ai-startup-inflection-ai-raises-225m-funding/"
+  - title: "DeepMind’s new AI, Gato, can play videogames and control robots"
+    excerpt: "While we’re not quite there yet, a new AI system developed by Alphabet’s DeepMind might have brought us one step closer. Gato is DeepMind’s latest AI that can perform more than 600 different tasks, such as playing videogames,"
+    publishedDateTime: 2022-05-16T12:03:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can-play-videogames-and-control-robots"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 71
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Image-5.png"
-        width: 1034
-        height: 580
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/a-14.jpeg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "An AI startup from the founders of LinkedIn and DeepMind scored $225M in funding"
-    excerpt: "A startup created by the co-founders of LinkedIn Corp. and DeepMind Technologies Ltd. has $225 million in funding lined up to help improve how humans to communicate with computers. Palo Alto-based Inflection AI Inc. disclosed the funding in a regulatory ..."
-    publishedDateTime: 2022-05-13T19:27:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/05/13/inflection-ai-scores-225m-in-funding.html"
+  - title: "DeepMind’s astounding new ‘Gato’ AI makes me fear humans will never achieve AGI"
+    excerpt: "DeepMind just unveiled a new AI system called Gato that makes OpenAI's GPT-3 look like a child's toy. But are we any closer to AGI?"
+    publishedDateTime: 2022-05-13T19:00:00Z
+    webUrl: "https://thenextweb.com/news/deepminds-astounding-new-gato-ai-makes-fear-humans-will-never-achieve-agi"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 29
-  - title: "Inflection AI raises $225 million to transform computer-human interactions"
-    excerpt: "Mustafa Suleyman (DeepMind’s ML research unit’s cofounder) and Reid Hoffman (LinkedIn cofounder) launched Inflection AI. Some of the AI experts in Inflection AI worked at DeepMind, Google LLC, and Meta (previously Facebook). The start-up develops AI ..."
-    publishedDateTime: 2022-05-16T12:53:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/79056/inflection-ai-raises-225-million-to-transform-computer-human-interactions/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 19
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 60
 
 secured: "2qf+Fts4sdWHSavq73eehUuo9nDxhzi8cp2nrysbmNYBbhbvvAV5xKKBf1PJrpRhK0axcL3uBx9ASTsoduN7cxBDoZ0q8vM0ujMgVN9S+asaC2m6zEtTtSAooaHXxqNlSeDUiuC+2GNfosvAcF6PivMNdTMWbLi4TX++2T3zDq6QXyvK6eOZ0TUnVCu94OM0TWZ3fNJgoUDLpJ194BNyQpcovHCws5nmVFSgtw69eTm9Ijj3buhe9YjpQKld+8x3/leh2uGIuVMXCRmHN7DHVTNm2ZygTU9UboqScWEJGhIc+NzlHyOMBLcTpzf/hZbsai2NkFhQc74GTRwkX8esIn6zhgM4piDw8ZdoGFdce1sAS+/AIc15gYcRFjYPQpZZRxSdhHNL6QCXfrFH/HnnsdeUEDXmHc9kfEuIkBUn9+bVSJE5ej3U8pecQjVk+tWbljoGSTTXeCDONnj8aUAxDQ1lHhF0yuyse5ET0oopDzym9I9jqJxFvygG7/FxxVr3skBAXRQS8SpDyM18/HMhvA==;YAYanr5EsgF8lG59MHMPDw=="
 ---

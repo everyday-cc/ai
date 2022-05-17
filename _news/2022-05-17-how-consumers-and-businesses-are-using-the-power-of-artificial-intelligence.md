@@ -8,8 +8,8 @@ webUrl: "https://www.kgun9.com/the-morning-blend/how-consumers-and-businesses-ar
 ampWebUrl: "https://www.kgun9.com/the-morning-blend/how-consumers-and-businesses-are-using-the-power-of-artificial-intelligence?_amp=true"
 cdnAmpWebUrl: "https://www-kgun9-com.cdn.ampproject.org/c/s/www.kgun9.com/the-morning-blend/how-consumers-and-businesses-are-using-the-power-of-artificial-intelligence?_amp=true"
 type: article
-quality: 55
-heat: 85
+quality: 57
+heat: 87
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://x-default-stgec.uplynk.com/ausw/slices/a47/f0fe4276ab8344079f404f1ac9c377b7/a47fa92d61d747a8b0981b97a78da90d/poster_43cdfb0816ea479e86355519988b9378.jpg"

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai
 webUrl: "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over"
 type: article
 quality: 77
-heat: 98
+heat: 107
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 60
+  - title: "DeepMind’s new AI can perform over 600 tasks, from playing games to controlling robots"
+    excerpt: "Alphabet-backed research lab DeepMind created an AI system, Gato, that can perform hundreds of tasks ranging from controlling a robot to analyzing text."
+    publishedDateTime: 2022-05-13T12:15:00Z
+    webUrl: "https://techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 56
 
 secured: "uDSTc45wV7Ya+WZZ9MkerQ50CZM2k/dQDoZcLziu1Ck1LxPIL11bpSi92mVUOwMOB0Ryh4sGsEKyxIyXAr3bVPr6He5rupBRnjrpt37m8Ymx9A0gwhF/YODS2tf/vUGdFbdd6rk1+TH14EK1NrlTGPLyiV+s3NWirtXgSrydulhHGbV0c3mmnZBy427aJ60kE7HCHn3ft5qD8yqRdh4MobyAt11oWodk+A9MPevf6ggr/yE0xIhzCEQ3Mc593kz6yrtGcoMvOFDm3fZ8Ti+FeN3Tj3U3x36fySSPv/J+qHuvow0NKFMLWoTFeJ32c4vkOheqY6yUToIq+NVj5K0SxGq+rq3lPNAJ9011b227rikGZlPeTMPd8CrTaVjCxOOJtZqRQzk8YeP9g62cJ9pSm76HOt5NiIcdQ02PrO+BT4q3IG9aex8hrMn+1kHUYQZJRXR38Dki0taXHh210BTEeAU5iPyyVKR6OnEVGcjb7YHYyR1O9lxydmeNu5LWkFAXlSzBMEBJ4V+D7y1dtJNGqg==;2vpFJrOkNkagguXtTivQng=="
 ---

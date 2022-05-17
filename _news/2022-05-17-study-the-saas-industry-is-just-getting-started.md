@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T16:27:00Z
 originalUrl: "https://www.nasdaq.com/articles/study%3A-the-saas-industry-is-just-getting-started"
 webUrl: "https://www.nasdaq.com/articles/study%3A-the-saas-industry-is-just-getting-started"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T13:10:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-l3harris-selected-key-department-defense-artificial-intelligence-program-/2022/05/17/9603656.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-l3harris-selected-key-department-defense-artificial-intelligence-program-/2022/05/17/9603656.htm"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: TMCnet

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T19:53:00Z
 originalUrl: "https://www.koin.com/business/press-releases/cision/20220517CG60608/seah-changwon-integrated-special-steel-and-everguard-ai-partner-to-enhance-worker-safety-with-worker-centric-ai/"
 webUrl: "https://www.koin.com/business/press-releases/cision/20220517CG60608/seah-changwon-integrated-special-steel-and-everguard-ai-partner-to-enhance-worker-safety-with-worker-centric-ai/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KOIN 6

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T09:00:00Z
 originalUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=business_minor_pos9"
 webUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=business_minor_pos9"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wall Street Journal

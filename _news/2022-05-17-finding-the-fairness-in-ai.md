@@ -82,6 +82,22 @@ related:
         width: 1771
         height: 996
         isCached: true
+  - title: "Using AI To Cure Blinding Eye Diseases"
+    excerpt: "NIH discovery sheds light on tissue targeted by age-related macular degeneration and other diseases Researchers have identified distinct differences among the cells comprising a tissue in the retina that is vital to human visual perception."
+    publishedDateTime: 2022-05-17T20:19:00Z
+    webUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/"
+    ampWebUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
+    images:
+      - url: "https://scitechdaily.com/images/RPE-Subpopulations-AI-777x442.jpg"
+        width: 777
+        height: 442
+        isCached: true
   - title: "Building AI for healthcare made easier with programming tools"
     excerpt: "Chronic disease prediction and management is one of five projects under Singapore’s national AI strategy launched in 2019. . Read more at straitstimes.com."
     publishedDateTime: 2022-05-16T04:00:00Z
@@ -109,6 +125,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/Webinar-Hexaware_May2022.jpg"
         width: 1118
         height: 617
+        isCached: true
+  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
+    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
+    publishedDateTime: 2022-05-16T23:02:00Z
+    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "L+7IbWIgjd/PAKpPVx9NkvwihA48WpHtHKVJ1Kz5woDvoxMJinzI5PFUEITVqRUlY4aaq/lo2nUC+mhDJ4ncJHnXji/WGnmfTAM4iugFyqhiaq+3zSOeXeKBqNhanTJa9rOQutqzbU7w2yp2PkXVIQyAF1VYCj1swwg+i9dqpYjnO1hXz6kqZwLsDayp+12Yj/HbIrMsgDnJaeXfIbBArlubHfpZY12Z74kA+jIq6I0wkr4hEJAYYLZetDxyBymifDINL8DEIRkinfl8UrdGfXtWbW3dYDfALpRpXftf+jNEw+jPgATx5Km5XBIGfwefvJ08IhEl+Weh9WqBZ6EhJgZBQgiC4HOACv5VNo3n+YZY+uP1uel0kaACFImkge0AH6iz2nOKDmzTnxjQjmgQAD0vKPi6WXXn9DeEDnAXCult+lI25mbHK+ZWevEDCV8DYlDu181ZJuSxbnr6Bktz8uiPnqERVqYZaFs0LqQyNHXF/8esIO2iCHBRQb2h8xAAdW7YsDh/SpZ/TQApCp1U/w==;RhRhlljphjFJD8TXs0Tc4g=="

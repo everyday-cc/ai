@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-p
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 600
     height: 600
     isCached: true
-
-related:
-  - title: "ForgeRock Intros New AI-powered Fraud Prevention Tool"
-    excerpt: "ForgeRock introduced ForgeRock Autonomous Access, a new solution that uses artificial intelligence (AI) to prevent identity-based cyber attacks"
-    publishedDateTime: 2022-05-13T01:14:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/24826-forgerock-intros-new-ai-powered-fraud-prevention-tool"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/c967e52171fd1f3b645b47588992fd9f.jpg?t=20220513_011127"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "+tHOJ79Rq7oVGdFRvscDaTyP/5bCbCgfGPJpXKLFiivjW2A6eXSQDD7eIjR0/IuBuMAEELa1YGIVszju89gm912A0u0Jffb5vtOMVwzDcjrffErrvCyBoYWQkRVZP9Z90+SdkB2KvBFozg+hGjS0Q55gd9qAiTKf91GudWxwV6+o/3rR8pHoMghxKwgjpKAVdmAajiUCkw+l0kDwOt47pI0ZVbo8touEu/whFBqttMxNq/kjLlXtoKMeuoc3sYQwjzjVjWLjgc2EqkpvbBAqht1nY1OKxOczrIwrH/6iQtgY/wTrRqzi+bw1wzuPpRX9uXXUdi1dRahR72VBR5YXSKwnmPl1APGOIF/Ln/eW4akBtcEn4UlCcU6j0O+yb1M37ApQ5csgnBmtSe/3+LQ5R1LeSM3pC/EdHuxbFlP+q5Tgh6no94eejD4MsNXnC3HBdN+YavuIf2UGKE1btzQm8bnYy+r3jgPF7VrzS/wmMgKQOyV47+S6B/fyhvt77kA9/G4x4pQzN7AcfVRrjdkUaw==;TkKLSMq3CfeErhuMi5KMbg=="
 ---

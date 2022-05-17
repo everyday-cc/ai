@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The co-founders of DeepMind and LinkedIn have raised $225 million for their A.I. lab"
+    excerpt: "The funding has been raised at an undisclosed valuation and it's not clear who the investors are at this stage Inflection AI, the new artificial intelligence start-up from DeepMind co-founder ..."
+    publishedDateTime: 2022-05-16T10:52:00Z
+    webUrl: "https://www.cnbc.com/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 97
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107026781-1646731964364-2022613_Mustafa-Suleyman_027_retouched.jpg?v=1646732040"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Inflection AI, led by LinkedIn and DeepMind co-founders, raises $225M to transform computer-human interactions"
     excerpt: "Inflection AI, the startup co-founded by LinkedIn co-founder Reid Hoffman and founding DeepMind member Mustafa Suleyman, has raised $225 million in funding."
     publishedDateTime: 2022-05-13T16:23:00Z
@@ -41,15 +57,6 @@ related:
         width: 1024
         height: 632
         isCached: true
-  - title: "DeepMind’s new AI can perform over 600 tasks, from playing games to controlling robots"
-    excerpt: "Alphabet-backed research lab DeepMind created an AI system, Gato, that can perform hundreds of tasks ranging from controlling a robot to analyzing text."
-    publishedDateTime: 2022-05-13T12:15:00Z
-    webUrl: "https://techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 56
   - title: "An AI startup from the founders of LinkedIn and DeepMind scored $225M in funding"
     excerpt: "A startup created by the co-founders of LinkedIn Corp. and DeepMind Technologies Ltd. has $225 million in funding lined up to help improve how humans to communicate with computers. Palo Alto-based Inflection AI Inc. disclosed the funding in a regulatory ..."
     publishedDateTime: 2022-05-13T19:27:00Z

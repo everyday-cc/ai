@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T18:54:00Z
 originalUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2022/05/17/incubator-atlanta-healthcare-kms-technology.html"
 webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2022/05/17/incubator-atlanta-healthcare-kms-technology.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Business Journals

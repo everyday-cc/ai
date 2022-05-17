@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "AI Hiring Tools Discriminate Against People With Disabilities, Warns US"
-    excerpt: "As employers increasingly use artificial intelligence (AI) tools to hire workers, the Department of Justice and the"
-    publishedDateTime: 2022-05-15T22:50:00Z
-    webUrl: "https://menafn.com/1104214082/AI-Hiring-Tools-Discriminate-Against-People-With-Disabilities-Warns-US"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?204550"
-        width: 400
-        height: 250
-        isCached: true
   - title: "Using artificial intelligence software for employment decisions could be discriminatory: feds"
     excerpt: "Employers using artificial intelligence tools in the hiring process could be guilty of disability discrimination, according to the federal government."
     publishedDateTime: 2022-05-16T04:49:00Z

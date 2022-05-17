@@ -89,6 +89,22 @@ related:
         width: 1771
         height: 996
         isCached: true
+  - title: "Using AI To Cure Blinding Eye Diseases"
+    excerpt: "NIH discovery sheds light on tissue targeted by age-related macular degeneration and other diseases Researchers have identified distinct differences among the cells comprising a tissue in the retina that is vital to human visual perception."
+    publishedDateTime: 2022-05-17T20:19:00Z
+    webUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/"
+    ampWebUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
+    images:
+      - url: "https://scitechdaily.com/images/RPE-Subpopulations-AI-777x442.jpg"
+        width: 777
+        height: 442
+        isCached: true
   - title: "Webinar | Reimagining the Banking Experience with Artificial Intelligence"
     excerpt: "The rapid evolution of technology across all industries is revolutionising customers’ expectations around digital transactions. According to industry estimates, 6 out of 10 customers say that their experience with one industry is likely to influence their expectations for other verticals too."
     publishedDateTime: 2022-05-13T05:30:00Z
@@ -102,6 +118,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/Webinar-Hexaware_May2022.jpg"
         width: 1118
         height: 617
+        isCached: true
+  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
+    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
+    publishedDateTime: 2022-05-16T23:02:00Z
+    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Finding the Fairness in AI"
     excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."

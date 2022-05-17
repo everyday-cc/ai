@@ -18,6 +18,17 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "Frost & Sullivan Awards Microsoft With The Platform Of The Year For Its Iot Solutions"
+    excerpt: "Frost & Sullivan Awards Microsoft with the Platform of the Year for its IoT Solutions The Azure IoT Platform enables enterprises to expand featur"
+    publishedDateTime: 2022-05-17T19:06:00Z
+    webUrl: "https://menafn.com/1104230171/Frost-Sullivan-Awards-Microsoft-With-The-Platform-Of-The-Year-For-Its-Iot-Solutions"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+
 secured: "FunwWiCf9BPC8W2z4OaAJh2pFljdbGUPQjy0V8ts0+s06CRWjlrcWmKjse8mynZMpU5EDgHduJChZMTwZP1ibsjWcx804eEZoR6Nw8jewr+kpUi552aILMsgGTpPgPOy7AhFOnD2RGnfR2Ia6ittFMpdUkyf7FYc00KW4CCb5dk5JiL51ZZTf+2u+pwKR03BHgon6XwskTq0w/SsRvu8Ip+eooKJ1hIWku7AZG8f7pGBlfsnbLG+A9Anq+cw6pPmthX4WtiQyVdNumSizCHG6VfpKZ51tCWUOq1xig5EfBnyGdxIXqEMMnU86BYqmlxsgDCt9euhsXHNd6JiUcjlHxwWr9yhXM58kkb88MAMC8LvJ1r5XzOsaoeV+ruGKg+1rvy51gfxWFuaRTrityfXyCVb0/EQ0lhPIpK8rZnZpq1CdTOr8EDNSQ4Ig2FLQZ+jbJY4z9RWJkNdWtDKd3mn64XK25BVrN3L9+hSPyDJzO7J8kB8n18L7OOo+63A3Xgy8HLVJEZLc+3SQcz8bH+7iA==;n2Q1DxpUemJYSriyw6UC8Q=="
 ---
 

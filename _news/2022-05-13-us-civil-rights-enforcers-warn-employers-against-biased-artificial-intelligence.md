@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Civil Rights Enforcers Warn Employers About Using Biased AI"
-    excerpt: "The use of AI is compounding the longstanding discrimination that jobseekers with disabilities face,” Assistant Attorney General Kristen Clarke told reporters Thursday."
-    publishedDateTime: 2022-05-13T01:46:00Z
-    webUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2?d_id=3524666&ncid_tag=tweetlnkushpmg00000016"
-    ampWebUrl: "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
-    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 87
-    images:
-      - url: "https://img.huffingtonpost.com/asset/627d7ea51e00005cd41b490c.jpeg?ops=1778_1000"
-        width: 1778
-        height: 999
-        isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
     publishedDateTime: 2022-05-17T00:50:00Z
@@ -56,19 +40,19 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
-    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
-    publishedDateTime: 2022-05-16T23:02:00Z
-    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
+  - title: "AI Hiring Tools Discriminate Against People With Disabilities, Warns US"
+    excerpt: "As employers increasingly use artificial intelligence (AI) tools to hire workers, the Department of Justice and the"
+    publishedDateTime: 2022-05-15T22:50:00Z
+    webUrl: "https://menafn.com/1104214082/AI-Hiring-Tools-Discriminate-Against-People-With-Disabilities-Warns-US"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 23
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?204550"
+        width: 400
+        height: 250
         isCached: true
 
 secured: "lu2+Xmm6wOcNZKLbdhFjURClbZlOOXlwdZhojg/0JINLAId5NdQ8b+c1M6kayO33mN3U18BX2gDVjguHhd7NRYIED5dgMCLbsNAvLxQxXV90ftVPMfPc6/Y+FgfbQUrqv0Okg2hpVbhmkggo2no05DITCXOjyJqXGD/eEDpqc87VKXYifKGPYHQGlsqEyGFhkss6o+aDv7rMX74mtxfo1kab5o8NbznK2mcZMtIn8+4mRXkjhc3P9U+8j4ySXKFzuqMgHuQ2o2rOouAVEtCSFk1vwPkRCJYAqdG2jyGmn4t1buCaAyb4b+9tkiybyEOEJVejrQ8fggOA3FWg8ug0sjO8Ssvwqt89qJvBw/wRlhA=;wwjabNZpnPOmz4wDn+CfQQ=="

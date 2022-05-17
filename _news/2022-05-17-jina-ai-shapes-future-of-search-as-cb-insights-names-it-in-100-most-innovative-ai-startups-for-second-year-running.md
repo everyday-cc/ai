@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
-excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
+excerpt: "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". The word \"Markets Insider\". Two crossed lines that form an 'X'."
 publishedDateTime: 2022-05-17T16:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running-1031469372"
 webUrl: "https://markets.businessinsider.com/news/stocks/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running-1031469372"
 type: article
-quality: 47
-heat: 47
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -57,6 +56,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Factory optimization software maker Fero Labs is recognized for achievements in industrial automation for modern manufacturers NEW YORK, May 17, 2022 /PRNewswire/ -- CB Insights today named Fero Labs to its annual AI 100 ranking,"
+    publishedDateTime: 2022-05-17T20:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cresta Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "SAN FRANCISCO, May 17, 2022 /PRNewswire/ -- CB Insights today named Cresta to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
     publishedDateTime: 2022-05-17T13:07:00Z
@@ -84,7 +97,16 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
+  - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
+    excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
+    publishedDateTime: 2022-05-17T18:00:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220517CN59970/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 0
 
-secured: "xEdGbIJkkYqZbdn2juTQ5PKYrDfgvLcKkXltro2UeiyK3ItNUiV8BXD0qIxKsCWyzNpVxIhLbOseXrAGOVigHHYd1ThzIjPkQfH50oMAl8O2hBneoiB/uVrGM57lTFasCLs3eyaP8/LysTfZmc2lW0pZ7dNtwdCUFIKjdTKNAyLF4npSE7/4pldiNa4HM4v9a+pRcOAt+PfUxNwTi06RJiENBbuv5FABbhbY30lH16y7rDiznjAdHq96OrAlVZtgUHPpGrYbIAEwuzgP15lICZ4IpRsqfwVaK8jL/qcGySB8P3AKaptYsD1y15881V+rkC+ePRJGsKtjvHti1WNgc/ApCGShDt/56WfwSrzS3VSF2qjeJLSg8HBAUNWrMmZoosEYs0jgEP3Byjbe0FFKxxkxuIIo6P5aOaBzbVJuhCBTkmOtDuT+zzByz6iCC2Xery9KhHAp6O/V1HXg3Q+Jl5djcyCZpfy6H/OZ3MW93CbgQprf+04CX1HLcp7/PEiO05arsPS7cVyIaBCUtJck4g==;J9OMIfkseB7uLRPVLNLVtA=="
+secured: "IBw+IZzIU74ErzAm/GuScqcVEaZX3n/1YfltyXMLw6szct3NJwPOlUEx4EugD8pKK2ygzEH+c/Sy71vBUBMOpaeh1OFhZwOw+auel0y7M/Sk2i49KIC2EYOL7nnkOCwbws27O8xoSokCfyisxnuFaL6vL44szyJbtT7pCdiCwdJbdipvHfUk+PYPfSfC7P1rZVoHf2mqm9HhwKaKpg+pNSvaK0wjN8OWIrf9maFHv6VC1uNOof2pReJgCz9059LMxz12cKjyfPLGIG3xTlhUuEfA5TEd0/aksXuhaFhvpPUbz3budcKdeOI4mvK286NMU2Edq3Jo3xre/DmvX5sx7RNb5nNuJ5CPnpZjTX7Mmsc=;4tVFI017Q7c8BJo4tcX0cA=="
 ---
 

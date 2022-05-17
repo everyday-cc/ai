@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_d
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://cdn.gcn.com/media/img/cd/2022/05/13/051222_getty_fcw_ai_brain/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "AI Hiring Tools Discriminate Against People With Disabilities, Warns US"
-    excerpt: "As employers increasingly use artificial intelligence (AI) tools to hire workers, the Department of Justice and the"
-    publishedDateTime: 2022-05-15T22:50:00Z
-    webUrl: "https://menafn.com/1104214082/AI-Hiring-Tools-Discriminate-Against-People-With-Disabilities-Warns-US"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?204550"
-        width: 400
-        height: 250
         isCached: true
   - title: "Using artificial intelligence software for employment decisions could be discriminatory: feds"
     excerpt: "Employers using artificial intelligence tools in the hiring process could be guilty of disability discrimination, according to the federal government."

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T19:06:00Z
 originalUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-to-witness-revolutionary-growth-by-2027-gemalto-nec-panasonic"
 webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-to-witness-revolutionary-growth-by-2027-gemalto-nec-panasonic"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Digital Journal

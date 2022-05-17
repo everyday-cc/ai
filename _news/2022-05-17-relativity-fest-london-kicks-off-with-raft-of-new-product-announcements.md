@@ -7,7 +7,7 @@ originalUrl: "https://legaltechnology.com/2022/05/17/relativity-fest-london-kick
 webUrl: "https://legaltechnology.com/2022/05/17/relativity-fest-london-kicks-off-with-raft-of-new-product-announcements/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "Relativity Explores Ethical AI and Unveils New Product Capabilities to Enhance Productivity at Relativity Fest London"
-    excerpt: "Leveraging AI for Automatic Translation Relativity will incorporate ... to translate large batches of documents in more than 100 languages and 12,000 language combinations. Relativity is ..."
-    publishedDateTime: 2022-05-17T09:59:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/"
+    excerpt: "... Translation Relativity will incorporate AI machine translation directly in RelativityOne. Out-of-the-box, users will be able to translate large batches of documents in more than 100 languages and 12,000 language combinations. Relativity is ..."
+    publishedDateTime: 2022-05-17T10:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-relativity-explores-ethical-ai-unveils-new-product-capabilities-/2022/05/17/9603093.htm"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 33
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "HIw4eRAay32DKhzjescRlBuYhlHhR8Otyefz4P51WVNky+XWvcv2ByJmzjQt1YPbQK7iXmucP1jKIRRYCy9HDk1jNXIYd5CnYw1PvsXURQ4QMB3Q7AoCNB07F8RiRCMzzs95vRTIxTn5LrkffF67ecgxHrsle34pmOn47my1PD+jjsI4GzU+An+Gh8KqREQ9GYktPE2BmqoJgWPwl4mQNY50KvzIE8qXxDNbaBaGzv6WnMwfahrwnnho4FRJT54bCq09XERbOwn+5yxY1fb2C4DqpGYlXYBni1PWNvjpk2nYFS2zRdinCRnPf7CnYASSqxRtsQgM47s2+yM1qjuRFVWro6sy5EUjmYIetMHKLRI=;PFiCqPMF2IIwi32YCl8QDg=="
 ---

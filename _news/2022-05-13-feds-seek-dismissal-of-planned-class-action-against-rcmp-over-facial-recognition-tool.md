@@ -59,20 +59,6 @@ related:
         width: 1000
         height: 575
         isCached: true
-  - title: "Facial recognition bans become less palatable amid surging crime rates in US cities"
-    excerpt: "Virginia will end a prohibition on the use of the technology by local police in July and California and the city of New Orleans could be next."
-    publishedDateTime: 2022-05-13T04:00:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3177578/facial-recognition-bans-become-less-palatable-amid-surging-crime-rates"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 63
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/13/3ada3e9d-8235-4c33-a041-ebd7ad06f274_dbb172de.jpg?itok=y3K4eX-o&v=1652410925"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition is making a comeback in US cities. Here's what we know"
     excerpt: "Policymaker consensus around facial recognition technology is changing, with some US cities electing to reverse bans on the AI tech, but debate is ongoing."
     publishedDateTime: 2022-05-14T00:00:00Z

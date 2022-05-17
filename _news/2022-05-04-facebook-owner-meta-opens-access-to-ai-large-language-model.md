@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Facebook-owner Meta opens access to AI large language model"
-excerpt: "Meta said its model was the first 175-billion-parameter language model to be made available to the broader AI research community. \"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable ..."
-publishedDateTime: 2022-05-03T21:22:00Z
-originalUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
-webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
+title: "Facebook-owner Meta Opens Access To AI Large Language Model"
+excerpt: "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first 175-billion-parameter language model to be made available to ..."
+publishedDateTime: 2022-05-03T22:30:00Z
+originalUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
+webUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
-  - AI
   - Facebook AI
+  - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg"
     width: 1200
-    height: 628
+    height: 803
     isCached: true
 
-secured: "1VBa9JObAltenHS0YcHbsDygqcjPP7W11ZIzj2EV5eE7CuNJQrJkfldXcqVMQASGhjQIv/cXtJveW61WQgtQxjZyMITfTl2nPuMHDHtrjaHykYnPZ2gTC8tKs9tWcwxOdKiZAKmbM02RuSdoMnsrdbbwLj8M6Dpe3WmwUexrW/csrMIFNcwwcOH8ZA007n4OKnssjL7gTSaENdEpQhpl7RxtlGwAemGtj1abTNMLLVmVTK3EO5ktrqpK/TWP6gobvE2ZQyfWEcZLWpRV3n1KlT5oG68FWT5df0jQrOGe2tub/2LW1t/WC18es7fWQfMz8WL7g01F3qGtJF8YtMbCFOqDMVNd6PnQYh7L3LqPhe21bWe4/qsEzIvreOXmcjo7eUPcZpS+G+GA8R5+gT1J/SnUHs0lobhhHyj2L+hrZxa1Xjj5tzS/+DItjhTCxNrHlJeo1UipH7aCNWIU/dZI3Ck+DbIg8CDxnIHlH+bRRBtIpCg1oHrAx0WKOy5Aj1GsIwYZZsbxyK1yZ3RPghbHtg==;aslGSl6U4QkBU7+YsH/+tw=="
+secured: "wIQUoeGeAxhmyJKLQei3Nm2PtdsmEcKIKR6ZTrTgYpg5aM1BJDUJSMrlHfFbtYJumcxHIpTPTa7Prg9QZB8MQ3clBkbSJuQOd2kC8Bt+U098FCmzdW+LXIpukBqqi6usFsbu8d3/SGs2/ZW1iCEZCMRamxkYoXQUNX4S41F2BUTmfFl5BQ6B9jYEowsVERv9tQCFHck6TSUtmExB6IP9aM1rm6ex0uG45Du0Dngj6JzPT3X1CcGfLVWUTb7NDqqTNOF3lGwbxA5ft7Ep3aYsYyXNhkNgGT+4N/dtuktvOuISW1ljfVNMLj13GaqMg3zQ3rs9uK+jKWa2pP8f8Vsc7wQ+QpgtjpjKQZ9TmyEHtD8=;ndt0UILKoDKcJN08AOpY7g=="
 ---
 

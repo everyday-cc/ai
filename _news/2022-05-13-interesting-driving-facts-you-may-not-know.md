@@ -7,7 +7,7 @@ originalUrl: "https://www.evanshalshaw.com/blog/interesting-driving-facts-you-ma
 webUrl: "https://www.evanshalshaw.com/blog/interesting-driving-facts-you-may-not-know/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,28 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Shocking statistics show drunk driving is up"
-    excerpt: "Ruth, who asked not to use her last name, says she was recently in a drunk driving crash. She says the driver rear ended ... out there aimed at curbing the issue, Sgt Buratczuk says self-policing is still the best way to fix this growing problem."
-    publishedDateTime: 2022-05-13T03:00:00Z
-    webUrl: "https://www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up"
-    ampWebUrl: "https://www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up?_amp=true"
-    cdnAmpWebUrl: "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/shocking-statistics-show-drunk-driving-is-up?_amp=true"
-    type: article
-    provider:
-      name: KTNV Las Vegas
-      domain: ktnv.com
-    quality: 24
-  - title: "When should older adults stop driving? It depends"
-    excerpt: "Many older drivers retain their skills later into life, carmakers are equipping cars to make them safer, and roadways are being designed for increased safety. Still, forces are at work on older bodies that put aging drivers — and those around them — at risk."
-    publishedDateTime: 2022-05-17T12:40:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/health/story/2022-05-17/when-should-older-adults-stop-driving-it-depends"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 4
 
 secured: "+JGM49T1kNnyWAGYTW5ryTggjL/mCkSqS4L2xNQ4shhbfgyM+cmyNlJ7Sp2xGEwEerQr1OSIcQS52NCONasXTzW4W/Uq2eWwoK958hsjnQSPVCdv5nhy3PvUydLeUM6sAKhm/ho++niZLUXVOVjnPWyBP2tWVxzl0IJTNnL6rywcVBsO0xGT9+i24zxeFFyEy9DpCmP2axM/hHbdPD+voknto+lQGB+kM1KlM+sWs2rj7omfOYN2QCa7BYR1SVXze6vR9vt7FTmTQiFian7udhHDRMjegE9aSEpwso0xc2Gg3mNKtjL3+z3y6+gBOAhabi8gn0qWoSqyWtcaVJsEgZi4pYVdC3EKbxnV/Q367a+QDFGKdH0T5W8t7yK/wAnSmNZHrDNgQzaMNqtB/q7pWyNL8n/U6Tk69ObBGkrZWFCXYWH0JlHbbElXc48bn7dOJKAT1F7+UPdKnujAPB/K5iGyuB8ll9nVzztdKzujGGzKxHv+L3Qlrmf3Uw5pY6YdhnH9fLPIKbRRzw7mduz+hg==;Ttgt9EITFSjc5x+dxx3r7g=="
 ---

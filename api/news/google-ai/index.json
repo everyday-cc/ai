@@ -10,7 +10,7 @@
       "originalUrl": "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -106,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-13-inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions.md",
-      "title": "Inflection AI, led by LinkedIn and DeepMind co-founders, raises $225M to transform computer-human interactions",
-      "excerpt": "Inflection AI, the startup co-founded by LinkedIn co-founder Reid Hoffman and founding DeepMind member Mustafa Suleyman, has raised $225 million in funding.",
+      "path": "_news/2022-05-16-the-co-founders-of-deepmind-and-linkedin-have-raised-225-million-for-their-ai-lab.md",
+      "title": "The co-founders of DeepMind and LinkedIn have raised $225 million for their A.I. lab",
+      "excerpt": "The funding has been raised at an undisclosed valuation and it's not clear who the investors are at this stage Inflection AI, the new artificial intelligence start-up from DeepMind co-founder ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/",
-      "originalUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/",
+      "webUrl": "https://www.cnbc.com/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html",
+      "originalUrl": "https://www.cnbc.com/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 137,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?w=1024",
-          "width": 1024,
-          "height": 632,
+          "url": "https://image.cnbcfm.com/api/v1/image/107026781-1646731964364-2022613_Mustafa-Suleyman_027_retouched.jpg?v=1646732040",
+          "width": 5472,
+          "height": 3648,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,16 +128,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/",
-      "publishedDateTime": "2022-05-13T09:23:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html",
+      "publishedDateTime": "2022-05-16T03:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

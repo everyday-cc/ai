@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
-    excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
+    excerpt: "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". The word \"Markets Insider\". Two crossed lines that form an 'X'."
     publishedDateTime: 2022-05-17T16:06:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running-1031469372"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 45
     images:
       - url: "https://mma.prnewswire.com/media/1819489/Jina_AI_CBInsights_2022_V02__1.jpg"
         width: 400
@@ -52,6 +52,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
+        isCached: true
+  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Factory optimization software maker Fero Labs is recognized for achievements in industrial automation for modern manufacturers NEW YORK, May 17, 2022 /PRNewswire/ -- CB Insights today named Fero Labs to its annual AI 100 ranking,"
+    publishedDateTime: 2022-05-17T20:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Cresta Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "SAN FRANCISCO, May 17, 2022 /PRNewswire/ -- CB Insights today named Cresta to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
@@ -80,6 +94,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
+  - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
+    excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
+    publishedDateTime: 2022-05-17T18:00:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220517CN59970/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 0
 
 secured: "KvPWTnvhZeMHAtgVPSM6/xIHfBMvACFUfMUWG3Ml2N/p6Hdu+Js+SvV3sHQiA1dUYrl7p4eHLz8BgH0b5Lf8sijP60XT8I5iZzRKyl6Sx8ADQ1y5Ni/ShMPRwVdfUGFbYiswwtO8bzgNoS2IRROZoezaL5kBoDapO3iDCpBZWc44I5bWIQFfQDqZsbCDBgudzheDHSiXyd5643HarXtqrTZ27NSeeuWm9AkKJj/QsikEBi+4y/MNWcSpioBExoWTr/OaAz/T/9oNkb4HONRLSWiXU+rHbkPXcz9PSb4nMNWN0HFn5V2mdtv41FyMlx1OcZOuH+nBtqYfpCcyRYVVbsBaBHM5yEBgvjDovd8PHqo=;GeTrDlghgSD37NUlKJ7yyA=="
 ---

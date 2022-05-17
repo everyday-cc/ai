@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T16:23:00Z
 originalUrl: "https://securityboulevard.com/2022/05/the-way-it-should-be-everywhere-catasauqua-ride-share-anti-racism/"
 webUrl: "https://securityboulevard.com/2022/05/the-way-it-should-be-everywhere-catasauqua-ride-share-anti-racism/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Security Boulevard

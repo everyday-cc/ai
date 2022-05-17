@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-17T19:25:00Z
 originalUrl: "https://www.biometricupdate.com/202205/facial-recognition-in-europe-whats-happening-and-how-can-people-be-protected"
 webUrl: "https://www.biometricupdate.com/202205/facial-recognition-in-europe-whats-happening-and-how-can-people-be-protected"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Biometric Companies
