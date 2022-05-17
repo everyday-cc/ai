@@ -38,15 +38,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 31
-  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Short Interest Update"
-    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) saw a large decrease in short interest in the month of April. As of April 30th, there was short interest totalling 1,300 shares, a decrease of 67.5% from the ..."
-    publishedDateTime: 2022-05-12T15:26:00Z
-    webUrl: "https://www.defenseworld.net/2022/05/12/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-short-interest-update.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 15
   - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Sees Significant Growth in Short Interest"
     excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ – Get Rating) saw a large growth in short interest in the month of April. As of April 30th, there was short interest totalling 26,500 shares,"
     publishedDateTime: 2022-05-14T05:22:00Z

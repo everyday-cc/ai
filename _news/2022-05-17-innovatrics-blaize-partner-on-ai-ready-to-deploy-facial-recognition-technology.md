@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatri
 webUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatrics,-blaize-partner-on-ai-ready-to-deploy-facial-recognition-technology.html"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Blaize and Innovatrics provide edge ready-to-deploy Facial Recognition Technology"
+    excerpt: "Innovatrics, a specialist in biometric technology, and Blaize, a company that’s using AI to develop advanced edge computing solutions, have announced a technology partnership. The partnership aims to deliver ready-to-use facial recognition solutions ..."
+    publishedDateTime: 2022-05-17T08:04:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/blaize-and-innovatrics-provide-edge-ready-to-deploy-facial-recognition-technology"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 49
+    images:
+      - url: "https://www.newelectronics.co.uk/media/kkbkzsm5/face-biometrics-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Innovatrics and Blaize partner up for facial recognition security at the edge"
     excerpt: "The technology partnership will feature SmartFace Embedded by Innovatrics and the Blaize Pathfinder P1600 Embedded System on Module."
     publishedDateTime: 2022-05-16T19:22:00Z

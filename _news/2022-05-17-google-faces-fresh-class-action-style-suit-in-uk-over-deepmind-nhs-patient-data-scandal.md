@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-priv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/"
 type: article
 quality: 81
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     images:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35126,msid-91610567/google.jpg"
         width: 600
+        height: 450
+        isCached: true
+  - title: "Google faces lawsuit for using NHS data of 1.6 mn people in UK"
+    excerpt: "London: Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its"
+    publishedDateTime: 2022-05-17T06:20:00Z
+    webUrl: "https://telanganatoday.com/google-faces-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk"
+    ampWebUrl: "https://telanganatoday.com/google-faces-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-faces-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk/amp"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 44
+    images:
+      - url: "https://telanganatoday.com/wp-content/uploads/2022/05/google-1-1.jpg"
+        width: 709
         height: 450
         isCached: true
   - title: "Google faces class-action lawsuit for using NHS data of 1.6 mn people in UK"

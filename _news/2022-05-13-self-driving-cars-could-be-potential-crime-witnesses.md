@@ -41,6 +41,20 @@ related:
         width: 826
         height: 430
         isCached: true
+  - title: "Emergence of Self-Driving Cars Drives the Growth in Machine Learning Market"
+    excerpt: "Besides, extensive investment in artificial intelligence worldwide is expected to boost the growth of the market. The report analyzes the global machine learning market and provides estimates in terms of revenue (US$ Bn) from 2018 to 2030. Exponential ..."
+    publishedDateTime: 2022-05-17T09:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market%EF%BF%BC"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Self-driving cars not yet ready"
     excerpt: "Smart cruise control systems in new cars are still flawed and don’t guarantee safety for drivers or cyclists, new research from the American Automobile Association (AAA) has found. The AAA tested three cars equipped with active driver assist to answer questions about how well these systems adapt to possible collisions with other road users."
     publishedDateTime: 2022-05-17T02:24:00Z

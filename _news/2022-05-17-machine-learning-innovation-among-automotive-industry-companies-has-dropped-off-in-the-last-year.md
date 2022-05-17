@@ -33,6 +33,34 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "North America is seeing a hiring boom in retail industry machine learning roles"
+    excerpt: "North America extended its dominance for machine learning hiring among retail industry companies in the three months ending March. The number of roles in North America made up 77.1% of total machine learning jobs – up from 75% in the same quarter last year."
+    publishedDateTime: 2022-05-17T09:00:00Z
+    webUrl: "https://www.retail-insight-network.com/analysis/north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 50
+    images:
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/05/WdKIv-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+  - title: "Europe is seeing a hiring boom in pharmaceutical industry machine learning roles"
+    excerpt: "Europe was the fastest growing region for machine learning hiring among pharmaceutical industry companies in the three months ending March. The number of roles in Europe made up 22.1% of total machine learning jobs – up from 17."
+    publishedDateTime: 2022-05-17T09:00:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/features/europe-is-seeing-a-hiring-boom-in-pharmaceutical-industry-machine-learning-roles/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 34
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2022/05/YsfY6-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Machine learning innovation among retail industry companies has dropped off in the last year"
     excerpt: "Research and innovation in machine learning in the retail sector has declined in the last year. The most recent figures show that the number of related patent applications in the industry stood at 32 in the three months ending March – down from 100 over the same period in 2021."
     publishedDateTime: 2022-05-16T18:00:00Z

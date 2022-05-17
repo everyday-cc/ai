@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "How to Make Sure Your Résumé Passes Muster With an AI Reader"
-    excerpt: "Including just the right keywords is crucial to getting to the next step in a job search"
+    excerpt: "Before a job recruiter gets a peek at a résumé these days, an AI tool may likely judge it first. And its main criteria are keywords. If there is a job for a CFO, for instance, the AI would be told to look for the phrase “chief financial officer ..."
     publishedDateTime: 2022-05-16T16:00:00Z
-    webUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_listc_pos3"
+    webUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=tech_featst_pos1"
     ampWebUrl: "https://www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
     type: article

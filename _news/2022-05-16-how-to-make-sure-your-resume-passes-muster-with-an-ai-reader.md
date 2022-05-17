@@ -1,10 +1,10 @@
 ---
 category: news
 title: "How to Make Sure Your Résumé Passes Muster With an AI Reader"
-excerpt: "Including just the right keywords is crucial to getting to the next step in a job search"
+excerpt: "Before a job recruiter gets a peek at a résumé these days, an AI tool may likely judge it first. And its main criteria are keywords. If there is a job for a CFO, for instance, the AI would be told to look for the phrase “chief financial officer ..."
 publishedDateTime: 2022-05-16T16:00:00Z
-originalUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_listc_pos3"
-webUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_listc_pos3"
+originalUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=tech_featst_pos1"
+webUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=tech_featst_pos1"
 ampWebUrl: "https://www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 799
         isCached: true
 
-secured: "1OeqhlbOPcQqwPUYbNfQi7dCuAMSJPP83RHUCm7Vpzf5TLVtQde2DwqBgQoNefUU3gc9l7IeuMcH62adfV6pbJCihs/XX16Jp19W1XLhdre/wlDmgZ8GAXxiSQv7pPZ7qAJ5cEhj/Ekxf3Gbsn0KvQLQlUYg06kjPd4vlWYMSySulY+mRLuQCU3cX1QDYM/8Y1JQqm/fggC65nHDmZG0EZ0pqXuS7Yqqn7auS7tO2NX5enDyAqa9V5SFN2OBrM9h83ymOSoRP1TBo8LTWUbBnuw8COArd0d9z00M1tPUhKeRKTE3/FCGwVOHZNwURrsPaTw9ZxFlkz2MdeZogve3mqaPTSz0cuOTOY2ghvApX6h3PztAiXHCI5kjcRbulxiH+f0U361aGOXdJVKzsUSi1fRV+prHmR+yZcbjUcr26wbFY4dgohbEeLXPjB/T/ucw+lEPB2WXcPew8KamQoacS7kLQk4RNOLwaLQi+vJZ4BmZv1mI8Ftd588ZLKD6EP7nSmBgo6XsCEUT9W5d9n23dA==;muDudjG3BVteuFkKu6gzWg=="
+secured: "xGSTrHFZt/QKdpOGDfYS7ZU1IdV0W/RxCyJ1HcN9M7MZIXJMXVXIXJhoWDQXzkyUjMVyNaBCwlUgB+mgACyP+HxBcF1LycktqVJjcUFLgMKGWRoseiHErm3jW9onAxhGqGFg5yuHRmYngTLV7vNFFaDagv7KqUMMguuk7RO6qzcdagbTm62Kx4gQaJvfOlZnNMObFLK7xqWu+mBgm2z61kSuMnnOHP38DF2avDPu+zc3Im8mlv/bobK+86DXWH1UPVip8xpkDPnDVaQoyqPr5xkAX7DhJ5dE2mRsKXmQ1Y1L/bKIFbGDAZy0+bGRyewLAQLC1dpkH6Q8H8Zlw+K2N1hCTncH9W32ZQCKL6JzPh4=;ee2podvQ92203YsZLy2smg=="
 ---
 

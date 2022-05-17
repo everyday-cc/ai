@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Emergence of Self-Driving Cars Drives the Growth in Machine Learning Market"
+    excerpt: "Besides, extensive investment in artificial intelligence worldwide is expected to boost the growth of the market. The report analyzes the global machine learning market and provides estimates in terms of revenue (US$ Bn) from 2018 to 2030. Exponential ..."
+    publishedDateTime: 2022-05-17T09:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market%EF%BF%BC"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Self-driving cars could be potential crime witnesses"
     excerpt: "The police in San Francisco see camera-laden autonomous vehicles as potential witnesses in their criminal investigations, setting off alarm bells for privacy advocates, VICE reports. Why it matters: As Axios has reported,"
     publishedDateTime: 2022-05-13T10:00:00Z

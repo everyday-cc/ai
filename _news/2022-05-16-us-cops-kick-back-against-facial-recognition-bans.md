@@ -43,20 +43,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "U.S. cities are backing off banning facial recognition as crime rises"
-    excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers."
-    publishedDateTime: 2022-05-12T15:09:00Z
-    webUrl: "https://www.reuters.com/world/us/us-cities-are-backing-off-banning-facial-recognition-crime-rises-2022-05-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/15gLJghNP6gOmMBv7i4aHTVe5rQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KMEMGIH2CJIC5CELHPUKA5RQX4.jpg"
-        width: 728
-        height: 381
-        isCached: true
   - title: "Feds seek dismissal of planned class action against RCMP over facial recognition tool"
     excerpt: "The federal government is asking a judge to dismiss a Quebec photographer's bid for certification of a class-action lawsuit, possibly involving millions of people, over the RCMP's use of a controversial facial-recognition tool."
     publishedDateTime: 2022-05-13T09:45:00Z
@@ -102,20 +88,6 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3ROaeo7NOv/sizes/facial-recognition-comeback-clearview_resize_md.jpg"
         width: 744
         height: 419
-        isCached: true
-  - title: "Rising Crime Prods U.S. Cities to Reconsider Facial Recognition Bans"
-    excerpt: "Facial recognition is making a comeback in the United States as bans to thwart the technology and curb racial bias in policing come under threat amid a surge in crime and increased lobbying from developers,"
-    publishedDateTime: 2022-05-12T15:12:00Z
-    webUrl: "https://thecrimereport.org/2022/05/12/rising-crime-prods-u-s-cities-to-reconsider-facial-recognition-bans/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
-        width: 720
-        height: 393
         isCached: true
   - title: "Move to regulate facial recognition technology"
     excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."

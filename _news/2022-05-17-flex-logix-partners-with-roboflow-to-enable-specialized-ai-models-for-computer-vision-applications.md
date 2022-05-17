@@ -39,6 +39,20 @@ related:
         width: 375
         height: 208
         isCached: true
+  - title: "Blaize and Innovatrics provide edge ready-to-deploy Facial Recognition Technology"
+    excerpt: "Innovatrics, a specialist in biometric technology, and Blaize, a company that’s using AI to develop advanced edge computing solutions, have announced a technology partnership. The partnership aims to deliver ready-to-use facial recognition solutions ..."
+    publishedDateTime: 2022-05-17T08:04:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/blaize-and-innovatrics-provide-edge-ready-to-deploy-facial-recognition-technology"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 49
+    images:
+      - url: "https://www.newelectronics.co.uk/media/kkbkzsm5/face-biometrics-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Innovatrics and Blaize partner up for facial recognition security at the edge"
     excerpt: "The technology partnership will feature SmartFace Embedded by Innovatrics and the Blaize Pathfinder P1600 Embedded System on Module."
     publishedDateTime: 2022-05-16T19:22:00Z
@@ -58,6 +72,6 @@ related:
       domain: dailyherald.com
     quality: 21
 
-secured: "jeIq0XG/t8tDEuHjqcRDELnYoyUsmNvzR9w/4X+hS+vTWEO+BapQ3aou2ysdG0gAFsrie257NWc3NtBGgpHr0CWuXsvRy/YN93gCJ5xwgew2YIxoa12bxQl4/RLa6UAq59MBDReu/zdalSSwJf1M3uuVbu/8L7zY3XKPelNJZMx+Ae7UatSdZXBxpslXxiRqtIR/psuhbFJQ/OCnxUnbTGDhcqMmebLKemOsR59hmiOvts7eg9ZxSVBCLA8kVIhVi0Uj8/n1ZgeC9jJARm3oJN9nKeI3ZgWdj1k04in0R7KUjkl6Zx12IFBafavcaQRgaM93yqlz0nF7K+8q2N3BcjXUJ2yq2tj6bgQ5Po4Txm4=;5lB0I6/8J0zLinozFxiuzw=="
+secured: "JLDzeIEzmRuPSmiQPOcrTtWNNd2x9dr0Be57C6RhADxrG2+L+ltlAaUjbZnIhzBnoW5AvHXI+K9GooPt905LVIwetxt+yXZIpa10n2Jk0pSrZC0T87jG/OmpCOJvnqC74pEHFh1shijIv2qbTQ9JR8FICTrdg5ASqG9VuzOmk0s00fUktbOoUGQ9zb1SO0rKVjDMTbzY3Brxtn6qERjOuBDDG9SoAgqgyHi7WG1mBfqv7WL6sezJBsA9yJDAvwLFhyAPc2bgatt6CEeX1KT78y8coMttcHxZUGpfPWd1LD6oVUTg8yXvgMiAl8dlnK1LEo+2ztPPvSUPjFS5GAfXn98EtZt5A7E2bqIju36st45Ci8fwoibncL3nSwKR2gnlC+Z7UF17i9ciMIkPOFQ9nR6OG73EbQXYPx8i7uW0Y4UAMBsDjYLlsRflHFhHIHs57DrjeBoVYyMr07cxbkXkWyfLzTvYjLCtGl9n4k5cyMSTUbyJzoahIUITd301tRO0FA8nGN0AvqLxIoewBdMfWw==;2vsnj0UeHjo/0PcsMAwI+A=="
 ---
 

@@ -19,22 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft is enabling Kubernetes for Windows edge-computing devices via 'Project Haven'"
-    excerpt: "Wondering what Microsoft has up its sleeve for Build 2022? Here are a few tidbits gleaned from the hundreds of sessions listed on its web site, including a new Kubernetes-at-the-edge effort."
-    publishedDateTime: 2022-05-12T15:29:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/"
+  - title: "Avaya OneCloud – now available on Microsoft Azure"
+    excerpt: "Avaya and Microsoft have expanded their global partnership by combining the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations have more options to increase productivity and customer engagement."
+    publishedDateTime: 2022-05-16T11:25:00Z
+    webUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 69
     images:
-      - url: "https://www.zdnet.com/a/img/resize/a52ae7d89b8c9f6c7d7ce376c59cc30a6a73fb9c/2022/05/12/5944f6ae-7d42-4eb9-97cb-248e7b042c8f/build2022.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 569
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/05/Avaya-Microsoft-Azure-Announce-CPaaS-Integration-1280x720-1.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
         isCached: true
+  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
+    excerpt: "Prior to implementing SAS Viya on Azure, interviewees noted that barriers to data access and disparate data sources made it difficult and time-consuming to build, deploy and manage AI models. Other issues they faced included the inefficiencies and high ..."
+    publishedDateTime: 2022-05-13T07:20:00Z
+    webUrl: "https://www.albawaba.com/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 61
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-05/jay.png?itok=5WUB_pkk"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment, study finds"
+    excerpt: "Quantified benefits included faster time to market for analytics insights, improved operational efficiency in model building and testing, and cost savings from retiring on-premises analytics infrastructure."
+    publishedDateTime: 2022-05-13T06:34:00Z
+    webUrl: "https://www.itp.net/infrastructure/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-study-finds"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 30
+  - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud™ Solutions on Microsoft Azure"
+    excerpt: "In addition to the reliability and scale of Microsoft Azure, Avaya CCaaS customers gain access to the power of Nuance's Contact Center AI technology integrated with OneCloud. \"The combined capabilities of Microsoft and Nuance give Avaya customers ..."
+    publishedDateTime: 2022-05-13T12:16:00Z
+    webUrl: "https://sip-trunking.tmcnet.com/news/2022/05/13/9601679.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "HUq25CzhL9vKr+ReQhxvUNeFSQ/IPhTbJX7JS1gQBZr5Yzb5fhlWFrwN1pXNy4RqhiuzWd0HRpxTWzQk/mSUQGksLmTDYUdEZ75pBikPASGMLEsh9dB3CH72bCy/7hGfbFaD86b52TRFXxMhyKZx7Uu7mmmtU9gNgGzAw8mNXhP7Ko0MdWryFMSpWvCZoXiELsB9m55E2ebY1n9v5+0paAxyjnuk6dyCVgCIPFVU0H9+8Q850287++q7/zH56ZVZZmIJj+jSJWXR9CpUskSsKxs67sokJvaUwm+eE9USWWbpo0uGrhUlsX5S/gLljihFPLnkRctTPF0oc2DIoKk1RYkI06vxjLT7/qfl0ZiE+7d1lRRki3NARAqrihcgLTL7cfvISRgV+N5jMOSUm05V4YBxfrMcc+CLP3kZa6S6o55qBFry7cvtktrf8EUrCDC6RLRW+zFySBOqCHd2kPhWnsvXi8/IoqMtiNcKVaknCHmJcBjBYCjRUmLrZwEE6GNwHBRs15slAN95LUGx4pqGSA==;mk+VZaOA2nIUZ7PvzdF5nQ=="
 ---

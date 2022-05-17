@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/forbe
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/forbes-names-whisper-to-ai-50-list/article_825571a3-632f-5b44-843d-118a50a1a22b.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Nauto Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-    excerpt: "View original content to download multimedia: https://www.prnewswire.com/news-releases/nauto-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2022-301546342.html SOURCE Nauto"
-    publishedDateTime: 2022-05-12T17:03:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-1ad255b7993555f463307840c6905db2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 47
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "dfOiQ5hgCGvxZLAedPEob0hAQoHcbVfoCOuYuIuhXlOxcfqJpPnyjwyeWNBqWYvCPhxF4ETyXgWIeVd31z08HhITF+7jt387UV73NoankIVCJPeG6xqbQM6W4j09IrrOnjKBBXeJ8CHSBbmITnh/wNcrmlb8fZ9Ru/X+ZiZSyR6BREsZV1r853M6j9DtAACfalJ7eGt3pGJ5So0S24GXEAJENUk9w/XhxxvrdkEGIkSPTrYCE72TXKlz4GCw/cctlupJI7bgd/YNixlJoTMXQGriUs1OhKlSF6gkuoSKf9dqzBcBek8hrnAs5jZ096m1tBTJGgpLLkVE/7T7xQ3nNrOMIOXnudlj0dcqEmfFkzQ29edJrN3G21L55R5GJ0MknFuYqdAx2cj8+o+f/JpnrjJ+JWYWZnVblsfucC15A951k2QDy6oowNlzJlEX280HacBA4C5/rDqmAP6oRMrlCqXOLGN1JM5KSzSVBcWssslxpTWV9EMkeTMdFhGrb72NQb+wI8VbmSz5aQ3x6H9aNg==;CIBNbGej8vq83rMp+X6cdQ=="
 ---

@@ -43,22 +43,6 @@ related:
         height: 999
         isCached: true
   - title: "U.S. civil rights enforcers warn employers against biased AI"
-    excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities,"
-    publishedDateTime: 2022-05-12T16:46:00Z
-    webUrl: "https://thehill.com/news/ap/ap-technology/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/"
-    ampWebUrl: "https://thehill.com/news/ap/ap-technology/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/news/ap/ap-technology/u-s-civil-rights-enforcers-warn-employers-against-biased-ai/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 57
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/f5ad71513aff4975a6d89f61f8f02e63.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "U.S. civil rights enforcers warn employers against biased AI"
     excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
     publishedDateTime: 2022-05-17T00:50:00Z
     webUrl: "https://www.thehour.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php"

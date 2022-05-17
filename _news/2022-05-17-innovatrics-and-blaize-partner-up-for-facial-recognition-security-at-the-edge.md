@@ -34,6 +34,20 @@ related:
         width: 375
         height: 208
         isCached: true
+  - title: "Blaize and Innovatrics provide edge ready-to-deploy Facial Recognition Technology"
+    excerpt: "Innovatrics, a specialist in biometric technology, and Blaize, a company that’s using AI to develop advanced edge computing solutions, have announced a technology partnership. The partnership aims to deliver ready-to-use facial recognition solutions ..."
+    publishedDateTime: 2022-05-17T08:04:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/blaize-and-innovatrics-provide-edge-ready-to-deploy-facial-recognition-technology"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 49
+    images:
+      - url: "https://www.newelectronics.co.uk/media/kkbkzsm5/face-biometrics-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Flex Logix Partners With Roboflow to Enable Specialized AI Models For Computer Vision Applications"
     excerpt: "May 17, 2022-- Flex Logix® Technologies, Inc., supplier of the most-efficient AI edge inference accelerator and the leading supplier of eFPGA IP, today announced that it has partnered with Roboflow, an end-to-end computer vision solution for developers ..."
     publishedDateTime: 2022-05-17T06:27:00Z

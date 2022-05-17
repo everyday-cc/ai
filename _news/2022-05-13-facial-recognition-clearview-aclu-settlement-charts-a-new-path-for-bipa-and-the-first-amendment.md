@@ -73,34 +73,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Instagram filters affected by Clearview AI facial recognition database lawsuit"
-    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
-    publishedDateTime: 2022-05-12T15:51:00Z
-    webUrl: "https://www.wandtv.com/news/instagram-filters-affected-by-clearview-ai-facial-recognition-database-lawsuit/article_ba80693c-d213-11ec-8dd0-0f11fd3a1f73.html"
-    type: article
-    provider:
-      name: WAND
-      domain: wandtv.com
-    quality: 52
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/64/064af774-4ead-11eb-88d7-13a705cb4fae/5ff34794c18c7.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Instagram filters not affected by Clearview AI facial recognition database lawsuit"
-    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without"
-    publishedDateTime: 2022-05-12T15:51:00Z
-    webUrl: "https://www.wandtv.com/news/instagram-filters-not-affected-by-clearview-ai-facial-recognition-database-lawsuit/article_ba80693c-d213-11ec-8dd0-0f11fd3a1f73.html"
-    type: article
-    provider:
-      name: WAND
-      domain: wandtv.com
-    quality: 50
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/0/34/0340d145-6bb6-5e48-806e-6f38a42ebeed/627db846a1431.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "f3LoRawqK+hc42zalpcB/Oi1GJnxNl6gh0cdU2R720FvpU5qir0O7zjt8RoSpyAvMY0L6bpbr4up3NuCOZhoWNIYaKTiEjxQ99V/2PPVC8ky+d5IiMcwnRkOPc3bqjjlrBSZNwz/azRzYVRb9CW+5blw2L4jQdTFV90q7HkHZRWID3IfVuSqJay1Xk+WE69OnJRlKPADXDHq6S9rhwKPng2WgEL7AyjnYxGErxEwtjdkJ9sMkEmjmrH+5gIVYJ17PGDyvaPJyUQEpQnAHdAENaBSDUyy4TbpqZOGSmXuecXDBtqh+B6AotoIbhIsCVzB5p9TjYM2ZcYTGGPX6JfOSV/w4xM8yEnabSIvr3BHb6Y=;lAK2cs+1FK76vEPkD3+vEA=="
 ---
