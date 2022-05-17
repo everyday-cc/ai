@@ -97,6 +97,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "The issues with the EU’s draft regulation on facial recognition AI"
+    excerpt: "Dr Kris Shrishak of the ICCL spoke to SiliconRepublic.com about where the EU’s planned AI regulation could improve ways to address facial recognition companies in the US. It is no surprise that the global discussion on facial recognition technology has ..."
+    publishedDateTime: 2022-05-17T10:16:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/the-issues-with-the-eus-draft-regulation-on-facial-recognition-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_286930709.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Move to regulate facial recognition technology"
     excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."
     publishedDateTime: 2022-05-17T04:30:00Z
@@ -110,20 +124,6 @@ related:
       - url: "https://mmo.aiircdn.com/29/6052d11808e86.jpg"
         width: 1320
         height: 760
-        isCached: true
-  - title: "Facial Recognition Market And Its Amazing Applications Across Industries Trend | NEC Corporation, Cognitec Systems, Aware Inc"
-    excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
-    publishedDateTime: 2022-05-13T10:56:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-and-its-amazing-applications-across-industries-trend-nec-corporation-cognitec-systems-aware-inc"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 12
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "6JgQrwfFI9LNA7W/uCWEODuuYiFjmXBnL4yzrfldikdC7AQXMCDTDzuui+fDARS6BGCgsvLskrxaWbSxfmnk0MydHQ57XASMsO0Mf+/tjJ121TsbP3ig2aNb8taIOA5Ifhtu+svudjeb4bMuNS9bM6tDOMNbFUOLsgv7Cijb3roeip0gWc/Jn8QV4GWKvo8znTLik75a6SQjejMNPFACnC+ckgqc2AMv4s/E5+GAHKgN6Atpxy+GJqkG/jYBkmf+PsZMpZYDD08NpQKRNIY9gR3NkYGA6amvYwn2lUMOUJqbyk8SA2GuvLrsD0i64u2lf4T9CXrLWLTNxBylJS8fZxrdPKktZpnBNcsjbn1CyDzo4MvaeGnlC/SL7Gi66fTA/3zKkE7j31GoUNV94EvOV8CMIEVc/qjGjLlaDsLk1hfRHJKm2VUt1CuQL1sxjdG+1IbH5qPapTDvcLeN6JhbxxFQN5iRtpD2XqBuZzN5j15K2g3PB1sI1wFOL7FE5jNSAxgk6cFnSYnmhFJwwM1VIA==;y0CoCO10MtEUfS3qoXD8Sw=="

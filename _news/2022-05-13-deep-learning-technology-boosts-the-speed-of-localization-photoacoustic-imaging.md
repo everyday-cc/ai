@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220512/Deep-learning-technol
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220512/Deep-learning-technology-boosts-the-speed-of-localization-photoacoustic-imaging.aspx"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Artificial intelligence technology accelerates super-resolution localization photoacoustic imaging of blood vessels"
-    excerpt: "After a lightning strike, thunder can be heard for a short period of time. This is due to the fact that the surrounding material that was struck by lightning absorbs the light, and as a result of the conversion of this light into heat,"
-    publishedDateTime: 2022-05-12T17:37:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-technology-super-resolution-localization.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-technology-super-resolution-localization.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-artificial-intelligence-technology-super-resolution-localization.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 35
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-33.jpg"
-        width: 1444
-        height: 1142
-        isCached: true
 
 secured: "9wVSDc2UHei0AJD+g178+pDyxWptViqSgLUwyNXuelYIbe4cUnPAofmKQlM0JG2HX9rCNnhSMpA+PPirPtocCzokFvGfOj3t+wphcB+FaK5bV5aZ+0R2HtRBL23rldtn2geoehytXqUr02XLG5s17MRKPq9pGryYOFMr/GhRPBIGTztbHim5Ppu06U5Ox5ORgf3rraGKsEpCuhsa4DBabCMqn26n5S+0Yq9C8BuZT9fCRSAUGlyai+glf/zcLTWu2xXkWH2A7et2xTAhVmGtK8dlvholSZEBFfvyLFcz+v2qSxw+MJj4WLB7aEutL4vs8oY9U/ezBPlV8IC5K7AdXU+XeheauA4TD/01YHRWaBg=;GEXPB7zDcKQtE9DegR4RCA=="
 ---

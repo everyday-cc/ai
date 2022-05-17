@@ -3,13 +3,13 @@ category: news
 title: "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech"
 excerpt: "SAS Hackathon an incubator for innovation and social justice. CARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data scientists and technology enthusia"
 publishedDateTime: 2022-05-10T14:35:00Z
-originalUrl: "https://pix11.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
-webUrl: "https://pix11.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
+originalUrl: "https://fox59.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
 type: article
 
 provider:
-  name: WPIX
-  domain: pix11.com
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - Microsoft AI
@@ -21,6 +21,6 @@ images:
     height: 267
     isCached: true
 
-secured: "nlAydVP0YFyWkyvt3FQTdqymnz9fYWCd2VPtFiHDvwujQVxT3KX8YzChQt1ss/B21TNNTJZxWp6wCQyUpMe/lii3oFwcjw7XdSLQxQRkGVz7s0pnvXiBsVntIOu0MXj+rSIo18cf0UGM6IGlD59J/qofTlea5D0ciqsW0KHYekWWSBPOVfg6eLtmpMPD3ke0lI6tNXXgoXyHD7HCkp8HTLL2hCBkLJelitfJwQ0J1lFDTOiyaTGuUJcvA8JYUjXK10TixVQwYtVH5bEsK1gdf6heaYdKtd7dkQ0GtTtFwp8cK8HvXLVsPy23Tu9EqwoYxJYTYcnHTn1/6gzGnVWpkdQmx6jALbnNpV9AmdmefGo=;OQRMm6OfLvt0lvDYxMklwA=="
+secured: "0DWaDaswcl+eIO4aiEnNc2q+swAobJOOsNYBLIlKniOCsXMugIGWmb77AFYFc1b3h+UhNrL4P73eVTb8BvEPbv4QBJQvK5IlqnzwGl5i/cHHrBC519IMh6qoHs9aW4Fcz+QEgh/qnOiSKGZLCJNZLH6m9j9hi0/czChn7mSLcS8Ey9IxYRPHngdLLPPpA3EvRsDLSGwpSYCKRpyKIkBJwuq6nvLyoiakFHrIfsmIVkXwMxH0E2hg+dwPdhYPh48774Z2aFV+g3+7at0+l7baK1jUtsBKSk88yfcsrzKAMutot3wRZgCHJcAGJA3StfwES3/GmVtIopiYWq3/mH5k8Fd/71aE98EtwO/njvKxhlE=;XNmftB74eOJY/rnm2L5CZQ=="
 ---
 

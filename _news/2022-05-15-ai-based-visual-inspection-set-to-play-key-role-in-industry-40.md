@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/business/ai-based-visual-inspection
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/ai-based-visual-inspection-set-to-play-key-role-in-industry-40-742775"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "How visual-based AI is evolving across industries"
-    excerpt: "Artificial Intelligence is transforming the business world as a whole with all its applications and potential, with visual-based AI being capable of digital images and videos. Visual-based AI, which refers to computer vision,"
-    publishedDateTime: 2022-05-15T13:46:00Z
-    webUrl: "https://www.freepressjournal.in/technology/how-visual-based-ai-is-evolving-across-industries"
+  - title: "How AI Adoption Can Impact The Insurance Industry"
+    excerpt: "But today, he is a strong proponent of artificial intelligence (AI). At a TED talk in 2017, Kasparov said, “Machines have instructions; we have a purpose. We will need intelligent machines to help us turn our grandest dreams into reality.” AI is all ..."
+    publishedDateTime: 2022-05-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//614e19843adfdba049044453/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Artificial Intelligence in the Cancer Market"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in the Cancer Market\" -  AI applications in healthcare are gaining traction as a way to enhance illness diagnosis, management,"
+    publishedDateTime: 2022-05-13T12:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27187389/artificial-intelligence-in-the-cancer-market"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27187389"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27187389"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "t1jKAnrZ7r0cfyid40yUWkJ+ki/GWKxDq3htTC3Y0fMmeWSVFM+yUv4h60H3U16GcwtKFsrP1PlMLZPZVk5C5Rl7VqISFTFoHdCGIHrQ19vx54UUXY6txbAsx5EKPrvYx4BdXIxI0HltBKq2pksRGqkFqvXRmo0B639fVjnRuIZmhPUk5pn3LbjdwQ3ZLXPZSr/R2GYDVSBDNm0XsfOcwJKLH3mDveNZVgLuSNvA3JprT4c7zqNhvZxRdchXvN6eYjQaDsz9XA/Wkm0OvW0uDPMbjNmIiJVqkFRGqlBY2vJrCRSr8tyjtDtw/lwv+aP/RhMBOPIfLWhyK7cHAKXrsRVGj1LYhS33RZF2A8pDHH4=;BkhvkZLjifQUCVYXl5cO/g=="
 ---

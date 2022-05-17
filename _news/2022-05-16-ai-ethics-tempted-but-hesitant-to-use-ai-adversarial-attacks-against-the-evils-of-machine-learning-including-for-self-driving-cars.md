@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
 type: article
 quality: 93
-heat: 173
+heat: 153
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel Leverages Habana’s AI Chips to Train Self-Driving Cars"
-    excerpt: "... 8,000 Gaudi2 server chips in its data centers to inform of further advances of the upcoming Gaudi3 chip. Intel rolled out a new generation of AI server chips that offer a massive jump in computing, memory, and networking capabilities, setting it ..."
-    publishedDateTime: 2022-05-12T18:30:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21241539/electronic-design-intel-leverages-habanas-ai-chips-to-train-selfdriving-cars"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 36
   - title: "Self-driving cars hit a third of cyclists, all oncoming cars in testing"
     excerpt: "Autonomous cars may be further away than believed. Testing of three leading systems found that they hit a third of cyclists, and failed to avoid any oncoming cars. The tests [PDF] performed by the American Automobile Association (AAA) looked at three vehicles: a 2021 Hyundai Santa Fe with Highway Driving Assist,"
     publishedDateTime: 2022-05-16T16:30:00Z
@@ -122,15 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
-    excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
-    publishedDateTime: 2022-05-12T17:53:00Z
-    webUrl: "https://www.ktvb.com/article/news/local/drivers-choose-safety-improvements-over-self-driving-cars-according-to-aaa-idaho/277-97815cbe-50c1-4404-8b1a-4e7a389c0a0d"
-    type: article
-    provider:
-      name: KTVB
-      domain: ktvb.com
-    quality: 2
 
 secured: "F7X3+uZaK7piEla0ftM6IZ1bXmBHuIOMGcR6+NHflKJTcBcZxlA3pwLMXiMyPZIFd5dVkOLwkBdKeE3Hc/4/+k0gpETIXt65XXS8uRMipvp2al5b13ntVbdiXwMjfpH8uMrt5X5jh6Td+KX+pdhBn+hR9q0SE2KQkGeRysaWsXgUdjvJQE0HHE7+r3zTriq0QH71SPCmKR6xuHWB34m5ObRbSEtrGOK4Ug8w/weiULeTfHeMmfGs2bAUONjN/NZXZYLDFjY0aJP1jGbB5xApzLdTtL55nCjT1PtaTOntrcaimE7tDYt5NG0AbPKvV3AsXCNdl3Q7f/neKOPhuUZ+9kxtHm0dI77zIFpVM2srw/vu7jS6WKBtS0PqEP1lcJnsf9GX/SIELsYj7feYWd4loVxJUHszPsAUT5Pkm1WUhQbwEuITDStqonKe/oRO1N7D1sCBW85kwIXaq1HJl32OuD07YxY5kJIElYofahrDeo1NYrxB8EDjDJ+qIvQwps1nLbOg7bgwn7sT2hZ2af7bWw==;VYMs2Vqv0RKxjiq/B/+ZeQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/why-are-we-failing-ethics-ai-critical-review"
 ampWebUrl: "https://diginomica.com/why-are-we-failing-ethics-ai-critical-review?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-are-we-failing-ethics-ai-critical-review?amp"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI Ethics
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2015-07/man-in-box.jpg"
@@ -27,6 +28,6 @@ images:
     height: 1125
     isCached: true
 
-secured: "HRpPRDC78FT9LeFaUlNCaTOpjPxrauJj8LfZ4SfhZ9ypMKf66jfsMdZBU4SYvfp4TTCD+dRleS+XEpDT3Igx0ZYp7zJZL9k0/uauXa8qCxPMVLFflM3eIF1oMwwRceqRO7YJGBRCBCdtbddn3oUB98bB9S3JIsQ3WtNRkvO/ljn0H1vC6s4S/BWKesuj33DVYwJhJTzW7f0tDrd4QYbGCXlKsZKgF+OmybjX1/HY2Ia9t6wfmIzqpPrPkGKvRDftn9YtETlivD6cn12RA0wsBhg98EAKNi2ku2P1il+8brHYgUtxyePu6UhBlhJlalPEHcfGN02e1eMlEqMr21W7vuLEFTS5ShkVLcxiGPzuCbk=;PAbBcgwsuAcEQXOyszWEyg=="
+secured: "WLzmWL6NtvhuM7bLPHCEb36JvBEl7EzrCcoETBJbcZPyRnjTZZg+KC4aNKqasFxk7zYEBuz1mn5YR78UpGX8/4sNdudlqecUVII4uCoSNHrqTiq+4cZsHSrIitbkGNu98rn++B6/DyP4Pz80/OIc0/MdXLUBDz9vG5oPRYgHfM6WQwE53NnI3asPOvULTJxd6ppRvJnt4p46RW7drJunEUq08dZUhh9QCpac+l7ffrmDKOHxNJ319/xXTe73zNl4Y5hB32aHcRB9ppEiKq4MTURbi10QE8RuC2jytO/Ao2Jw+lzCVT/BuQdWFwgVP3lIIv4aWmuGvNPzoyNa4t1hNycRBrDuUKw4UpCCItHioN6ZBaZVcTgFVu6lN2fXNODKJo+2M5qHDjcP8GxFqWL8U4LaKsMdlnMzW/0P9I6Ov6PgVU36wg7V/JdBvLSB8Mo7JcR0UcJ6M7WcBr+2LJCOdBWtSfHFjqAw3jN0M5oxfFeVX/1uik3FEMWoMGuWZCc0Qavm3Dxp5nGSA2BFcsXQpg==;3J0BVcq79MZ3gOgVqxDaVQ=="
 ---
 

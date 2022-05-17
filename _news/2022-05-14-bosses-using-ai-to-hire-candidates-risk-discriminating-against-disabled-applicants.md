@@ -68,7 +68,7 @@ related:
     provider:
       name: New Hampshire Public Radio
       domain: nhpr.org
-    quality: 51
+    quality: 53
     images:
       - url: "https://npr.brightspotcdn.com/dims4/default/d2f3ad3/2147483647/strip/true/crop/960x540+0+310/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F17%2F93dd31594177b44ecfdaa3d39951%2Fmy-disability-roadmap-6.JPG"
         width: 430

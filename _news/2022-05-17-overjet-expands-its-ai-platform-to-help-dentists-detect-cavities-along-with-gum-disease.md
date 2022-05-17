@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2022/05/overjet-expands-its-ai-platform-to
 webUrl: "https://medcitynews.com/2022/05/overjet-expands-its-ai-platform-to-help-dentists-detect-cavities-along-with-gum-disease/"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Dental AI Startup Wins Second FDA Clearance To Detect Top Oral Diseases"
+    excerpt: "The FDA has awarded dental AI startup Overjet with landmark clearance to use its software to detect and outline cavities in patients’ X-rays. It’s the second FDA clearance for the company, co-founded in 2018 by CEO Wardah Inam almost a decade after she ..."
+    publishedDateTime: 2022-05-16T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/alexandralevine/2022/05/16/dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//627ecad7e838339a220938f1/0x0.png?format=png&width=1200"
+        width: 1200
+        height: 1333
+        isCached: true
   - title: "Overjet Receives Second FDA Clearance, Adding Overjet Caries Assist to the Industry's #1 Dental AI Platform"
     excerpt: "The first and only chairside dental AI technology cleared by the FDA that can both quantify bone levels with periodontal disease, and detect and outline tooth decay for accurate patient care and communication."
     publishedDateTime: 2022-05-16T13:56:00Z

@@ -92,15 +92,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel Leverages Habana’s AI Chips to Train Self-Driving Cars"
-    excerpt: "... 8,000 Gaudi2 server chips in its data centers to inform of further advances of the upcoming Gaudi3 chip. Intel rolled out a new generation of AI server chips that offer a massive jump in computing, memory, and networking capabilities, setting it ..."
-    publishedDateTime: 2022-05-12T18:30:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21241539/electronic-design-intel-leverages-habanas-ai-chips-to-train-selfdriving-cars"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 36
   - title: "What happens when things don't go according to plan for a self-driving truck"
     excerpt: "Kodiak Robotics showcased its self-driving trucks' ability to pull over on the shoulder when something goes wrong, a critical milestone on the path toward commercial deployment."
     publishedDateTime: 2022-05-16T08:00:00Z
@@ -115,15 +106,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
-    excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
-    publishedDateTime: 2022-05-12T17:53:00Z
-    webUrl: "https://www.ktvb.com/article/news/local/drivers-choose-safety-improvements-over-self-driving-cars-according-to-aaa-idaho/277-97815cbe-50c1-4404-8b1a-4e7a389c0a0d"
-    type: article
-    provider:
-      name: KTVB
-      domain: ktvb.com
-    quality: 2
 
 secured: "mPBl8/DDTCGz5bMvYNTXlv/CP/9mptKvkVWzkWOhy6X/faKFwYWP1Vff1LLZnmTE9WYq0Sg6kqJTz5Q4C0OJ0nk/xxULfgcyysCL+0vd/ujMsOxZs7xh+ITKWdrWbQRLwgr6j7KCURQEUTk6bmuGNPkYcaJQdOZJvrSAApopOlpLS9t3X0R6UEA3GNSlohoEW7m4BBL+dz4DQgawTMm14T13o66L6fMNlmbZY4Et32ja2XCsrJGXOvlvWn9bLFSXk5xN16ry8U8z4r9z5zTmSOvzownaxXIAaBE9MnpJEkqMZ5Su+ehd/F2lMLH51hi6ajDpe0rVkU52o1Iz29HICa+Wo9Lxk2W18Mml7jPg8vulqohEng/OG1vthkg+7ZQXyQmAo6IVVKMU5eCLtqlwFp66BGZ8VqBzxELF8X4EegaQlwbyufLH+LrEpapvMIFUhfrm8T0CCnkeXwB4R5zTTdIg8Dw1nab3rtyVF7KMLejSoDWSIHBzXmkV6wTmwZHxqVgi7wcU36iN8jVzES8fTA==;gbUHcb4Aelal7jzIeZQ0Mw=="
 ---

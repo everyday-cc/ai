@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-fo
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-food-beverages-market-strategic-assessment-research-share-and-global-expansion-by-2030"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (Ai) In Food & Beverages Market is projected to register a CAGR of 45.4%, in terms of value, between 2022 and 2029"
-    excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai ... client base present over the enterprises of medicinal services, healthcare, innovation, next-gen technologies, semi-conductors, chemicals ..."
-    publishedDateTime: 2022-05-16T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-food-beverages-market-is-projected-to-register-a-cagr-of-45-4-in-terms-of-value-between-2022-and-2029"
+  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Projected to Garner Significant Revenues by 2030"
+    excerpt: "Artificial Intelligence (AI) in Remote Patient Monitoring Market: Contours The shift from volume-based to value-based care in healthcare sector has opened"
+    publishedDateTime: 2022-05-17T11:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-remote-patient-monitoring-market-projected-to-garner-significant-revenues-by-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 0
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence In Law Market Size Is Projected To Garner Significant Revenues By 2030"
+    excerpt: "With transformation of business models happening on account of emergence of AI, IoT and Robotics, the global Artificial Intelligence in Law market is estimated to observe significant growth over ..."
+    publishedDateTime: 2022-05-17T09:37:00Z
+    webUrl: "https://menafn.com/1104226001/Artificial-Intelligence-In-Law-Market-Size-Is-Projected-To-Garner-Significant-Revenues-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?283193"
+        width: 269
+        height: 250
+        isCached: true
 
 secured: "a9Zk/tL3S/zTjR1cxuLqNFfbCYj1tF3TszMjCwlHq3Sg9+02UhPRev5UWkcz9rjNnmkG/s03tI9Tot1Nj8CzUYDdVbTg/33iWrD3+mDKJAg+aZgTgR/uI9NKa9MZEZnv5lAYW2cXIgQhiJu/l+GbtUoET4ot2hJe5sBhsoUc134o9EQKu3EoddN+yNa5+SZwHI0RHc9Z9mae/+zret8wPWv7XrPFweulzu9WOe4H0Rvfz6Ukm4LZxppid5ciIPioO0AUWQ5CMbjpax2sSLr8GcIuz41LE7/N5YBgDccDkXVmOhDzwHQlO+lhxZNKBMKzlTxQPqlPCUZqruwxxcU4AGv49a349WNilfAbGxFWl9I=;whgvMJ9g6HZJvnVTcD+sdw=="
 ---

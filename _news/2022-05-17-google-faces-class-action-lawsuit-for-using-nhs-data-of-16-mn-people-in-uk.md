@@ -91,22 +91,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Google faces lawsuit for using NHS data of 1.6 mn people in UK"
-    excerpt: "London: Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its"
-    publishedDateTime: 2022-05-17T06:20:00Z
-    webUrl: "https://telanganatoday.com/google-faces-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk"
-    ampWebUrl: "https://telanganatoday.com/google-faces-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk/amp"
-    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-faces-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk/amp"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 44
-    images:
-      - url: "https://telanganatoday.com/wp-content/uploads/2022/05/google-1-1.jpg"
-        width: 709
-        height: 450
-        isCached: true
   - title: "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records"
     excerpt: "The claim provides access to justice and a means of compensation which would not have been viable on an individual basis due to the cost"
     publishedDateTime: 2022-05-16T18:58:00Z
@@ -116,6 +100,20 @@ related:
       name: Proactiveinvestors UK
       domain: proactiveinvestors.com.au
     quality: 38
+  - title: "Google Faces Lawsuit For Using NHS Data Of 1.6 Mn People In UK"
+    excerpt: "Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its artificial intelligence (AI) division called DeepMind. DeepMind allegedly passed data on patients for a smartphone app called 'Streams' that it received from the Royal Free NHS Trust in London,"
+    publishedDateTime: 2022-05-17T10:18:00Z
+    webUrl: "https://menafn.com/1104226356/Google-Faces-Lawsuit-For-Using-NHS-Data-Of-16-Mn-People-In-UK"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/17/I_12427image_story.jpg"
+        width: 300
+        height: 400
+        isCached: true
 
 secured: "kalQsSFhsoYxIMVgeeD2Roo+BSLDp4tD4G+kgc6qhhq3gDFwrDrs5g0O3l1R+t011flsttlBAXYHffNLCDXE84sL2Obs81QRbfvyJA/OubciO2CPymOdKqZjsyKomyrofdNuagSrRDcEFjjJAva2RTVlEapx4GgoJocp8Z88uLqPuLzsglIkPk6sQi41W63ZTBuQhxz+sjJ10+CAgQIJu8I8to3H/yBqp//An6FrVmQgebYtYdxONaxBbPGSi4khFRZqbTVJTyNiWxYeBXjblE8Lnv6odMrzo97lpfj4cktjIUjNPE0oaH7I6zHj/0TF+L7UxDsOT6iZJNDimLFn25miHWxBXXOoxl/I3WN2wSD+mstOtCRQFNkQuwutXyiDp99nuvNgURkZnw1Y7Nw9q5baWPJ1Jb1IdFEmDustABwVaBf9UspuKomX3fLui03jskdBy9UUF/fTPdqpO6sQBNMJDkT1SOSyKGYaF/d5ioYecbEsb6wPMD8bloAtdGboRCsPuPV1GIKFbC9GUt7Rjw==;A8KgDUsSVVATJUkapjsxzg=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Behavox Research on Continual Learning Featured in International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 excerpt: "Behavox, which provides a suite of security products that help compliance, HR, and security teams protect their company and colleagues from bad actors, today announced that its academic research paper on artificial intelligence “Continual learning using lattice-free MMI for speech recognition” has been accepted by the International Conference on Acoustics,"
-publishedDateTime: 2022-05-16T13:03:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
-webUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
+publishedDateTime: 2022-05-16T13:07:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
 type: article
 quality: 0
 heat: -1
@@ -17,7 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -38,6 +37,6 @@ related:
       domain: sourcesecurity.com
     quality: 54
 
-secured: "dZiIUcEkir2a/0oMG2qkDRfxNMBx3c27bdk9k50kv0dAnixWbenOQHfCgSI9IIKQtHP5K/JgYm0W1HTIINMk+IwMiar6gvmpTJHAtSktiR2vcIZHV3EVrngRMixAhNIyWoBlKglqB1eTDmGWgHtBNyORnOjO3sB5Szo0rvbHORHkdgNli5sVoivgTdgRKIEpac0QoK0mbcinH1l7A6fxkrli1EQD5HWTmNqFXk0vdgfgz1J46IB2Ksq9tlkYyEkOcV558Pcp9/OIWX2ijrx5i9M0LoXKwS5ULkMWi+AvzIRC39wjxhhXIS1JNS93CUasAohjeFQ0wP+wY7DSe2mJ/ta6F/X1omVJKQN7Mshs3pE=;BQHN16HtqmO7p6cEwMJNFA=="
+secured: "YWNcovZkj3Vh5gCwiiJMIpyc8zgSXnGpRjD2z39k0yHSTk2OR8AYrjsBAVQzEQXYay7WiauFipD7993RIZDdHbiotISLuOLp+Z5qbeh3NDXTN/AiUyEgLxVA16g5Pdt08v+10zRhksa3BR6+miiZlwc41KNE0PYyPB0t2/XM9r8AMJcSucW2Sh7jcPesIDMmeEK9h/61MGRmGd2/Txnzw466va5p1GYLRrF4Op20MAtAEP5/TcwIHjou3qdKQEjALizgI2Ae/ExZVbBBSF+4sbGAdDrWp073Q9E0sC9YOztMFuKv+1CRC/DxoKLpPpAoXiYkibbFQF+Jp91/chzBOee9nDc5oUc4TWGFytnbgYw=;1cauFIYg8volCbDs47BmkA=="
 ---
 

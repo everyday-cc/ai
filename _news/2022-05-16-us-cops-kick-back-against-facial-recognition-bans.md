@@ -89,6 +89,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "The issues with the EU’s draft regulation on facial recognition AI"
+    excerpt: "Dr Kris Shrishak of the ICCL spoke to SiliconRepublic.com about where the EU’s planned AI regulation could improve ways to address facial recognition companies in the US. It is no surprise that the global discussion on facial recognition technology has ..."
+    publishedDateTime: 2022-05-17T10:16:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/the-issues-with-the-eus-draft-regulation-on-facial-recognition-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_286930709.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Move to regulate facial recognition technology"
     excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."
     publishedDateTime: 2022-05-17T04:30:00Z
@@ -112,20 +126,6 @@ related:
       name: Orange County Register
       domain: ocregister.com
     quality: 19
-  - title: "Facial Recognition Market And Its Amazing Applications Across Industries Trend | NEC Corporation, Cognitec Systems, Aware Inc"
-    excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
-    publishedDateTime: 2022-05-13T10:56:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-and-its-amazing-applications-across-industries-trend-nec-corporation-cognitec-systems-aware-inc"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 12
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "xr7ZB0/4MHeFFvQJmjxC0onMaEtLFykxP0EQdvNg5oB6ecCH3VNw0KaKayYLR0w3BGbQ8ACZTwPfuqkO4nu52m7162QYqR8zXluhbT4njSzJKWJPAN9/FuQheyGmYzsNKbKeAHZfjNjO7EOVC9cOdOrFwMtzPF1ySvrHc6+7Wu7IiimijuFRduBN3HKorAGkoX6m6i6MuO/QOfkJe7U+AVKjVOeT9Ap/1URLOFR5MHEWKeWxNlyUZXVSJbmlbQm7DdSbXmYpFKorwTngWnDi3Zttgw4xyXL+6TVdpciI/RanPiqzxc53XUVzLr3j1ynDze7SFSTA8dqKcjj7hbojPeUup7KSTd0+73Oa7knTs0E=;uHDiq27zQuStO10+R5toOw=="
 ---

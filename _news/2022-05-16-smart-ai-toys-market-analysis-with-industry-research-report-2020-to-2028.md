@@ -52,6 +52,20 @@ related:
         width: 379
         height: 249
         isCached: true
+  - title: "Increased Demand for Sturdy Surveillance Systems Fuels AI in Video Analytics Market, Says TMR"
+    excerpt: "Artificial intelligence (AI) technology has paved its way through the market due to its advantages. Further, it is transforming the work environment using"
+    publishedDateTime: 2022-05-17T11:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/increased-demand-for-sturdy-surveillance-systems-fuels-ai-in-video-analytics-market-says-tmr"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Image Recognition Market Industry Analysis, Applications, Overview, Size, Growth, Top Players and Growth Opportunity 2028"
     excerpt: "Google, Microsoft, Facebook, Pinterest, and Apple are investing in resources and research into image recognition and related applications. Improper data storage, security breaches, and misuse of facial recognition data are some of the primary concerns ..."
     publishedDateTime: 2022-05-13T13:32:00Z

@@ -25,107 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition May Not Be Banned After All"
-    excerpt: "Following efforts to ban the use of facial recognition technology by authorities, it seems that some cities are having second thoughts amidst an increase in their crime rate. Some U.S. states and ..."
-    publishedDateTime: 2022-05-13T15:42:00Z
-    webUrl: "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074"
-    ampWebUrl: "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp"
+  - title: "Image classification and object detection using Amazon Rekognition Custom Labels and Amazon SageMaker JumpStart"
+    excerpt: "In the last decade, computer vision use cases have been a growing trend, especially in industries like insurance, automotive, ecommerce, energy, retail, manufacturing, and others. Customers are building computer vision machine learning (ML) models to bring operational efficiencies and automation to their"
+    publishedDateTime: 2022-05-12T22:07:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/12/Featured-images-for-ML-9522.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Run automatic model tuning with Amazon SageMaker JumpStart"
+    excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). In March 2022, we also announced the support for APIs in JumpStart. JumpStart provides one-click fine-tuning"
+    publishedDateTime: 2022-05-13T00:09:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-automatic-model-tuning-with-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
     quality: 89
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bc3f198cf7b38c71dd7b8b87c579e986.jpg"
-        width: 800
-        height: 533
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/13/run-automatic-model-tuning.jpg"
+        width: 1040
+        height: 518
         isCached: true
-  - title: "US cops kick back against facial recognition bans"
-    excerpt: "In brief Facial recognition bans passed by US cities are being overturned as law enforcement and lobbyist groups pressure local governments to tackle rising crime rates. In July, the state of Virginia will scrap its ban on the controversial technology after less than a year."
-    publishedDateTime: 2022-05-16T13:30:00Z
-    webUrl: "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/"
+  - title: "Cyber Security in Robotics Market 2022 Development Status, Competition Analysis, Type and Application 2029"
+    excerpt: "Furthermore, the world is witnessing rapid increase in information security, human safety, data protection which, in turn, is creating potential growth opportunities for the cyber security in robotics market players. Leveraging Artificial Intelligence and ..."
+    publishedDateTime: 2022-05-13T03:44:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/13/cyber-security-in-robotics-market-2022-development-status-competition-analysis-type-and-application-2029/"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 74
-    images:
-      - url: "https://regmedia.co.uk/2021/03/05/facial.jpg"
-        width: 1000
-        height: 575
-        isCached: true
-  - title: "Feds seek dismissal of planned class action against RCMP over facial recognition tool"
-    excerpt: "The federal government is asking a judge to dismiss a Quebec photographer's bid for certification of a class-action lawsuit, possibly involving millions of people, over the RCMP's use of a controversial facial-recognition tool."
-    publishedDateTime: 2022-05-13T09:45:00Z
-    webUrl: "https://www.cp24.com/news/feds-seek-dismissal-of-planned-class-action-against-rcmp-over-facial-recognition-tool-1.5901451"
-    ampWebUrl: "https://beta.cp24.com/news/2022/5/13/1_5901451.html"
-    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/5/13/1_5901451.html"
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 33
+  - title: "Flagstaff Education Association requests recognition vote from FUSD"
+    excerpt: "The Flagstaff Education Association (FEA) presented its request for formal recognition to the FUSD board at a work session before its May 10 meeting."
+    publishedDateTime: 2022-05-13T13:30:00Z
+    webUrl: "https://azdailysun.com/news/local/education/flagstaff-education-association-requests-recognition-vote-from-fusd/article_4bce8a5a-d173-11ec-b95f-6745183181b6.html"
     type: article
     provider:
-      name: CP24
-      domain: cp24.com
-    quality: 67
-    images:
-      - url: "https://beta.ctvnews.ca/cp24/en/news/2022/5/13/1_5901451/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-        isCached: true
-  - title: "Facial recognition bans become less palatable amid surging crime rates in US cities"
-    excerpt: "Virginia will end a prohibition on the use of the technology by local police in July and California and the city of New Orleans could be next."
-    publishedDateTime: 2022-05-13T04:00:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3177578/facial-recognition-bans-become-less-palatable-amid-surging-crime-rates"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 63
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/13/3ada3e9d-8235-4c33-a041-ebd7ad06f274_dbb172de.jpg?itok=y3K4eX-o&v=1652410925"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial recognition is making a comeback in US cities. Here's what we know"
-    excerpt: "Policymaker consensus around facial recognition technology is changing, with some US cities electing to reverse bans on the AI tech, but debate is ongoing."
-    publishedDateTime: 2022-05-14T00:00:00Z
-    webUrl: "https://interestingengineering.com/facial-recognition-comeback-clearview"
-    ampWebUrl: "https://amp.interestingengineering.com/facial-recognition-comeback-clearview"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facial-recognition-comeback-clearview"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 58
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3ROaeo7NOv/sizes/facial-recognition-comeback-clearview_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
-  - title: "Move to regulate facial recognition technology"
-    excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."
-    publishedDateTime: 2022-05-17T04:30:00Z
-    webUrl: "https://www.worldradio.ch/news/bitesize-news/move-to-regulate-facial-recognition-technology/"
-    type: article
-    provider:
-      name: World Radio Switzerland
-      domain: worldradio.ch
-    quality: 39
-    images:
-      - url: "https://mmo.aiircdn.com/29/6052d11808e86.jpg"
-        width: 1320
-        height: 760
-        isCached: true
-  - title: "Facial recognition technology is a valuable tool"
-    excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."
-    publishedDateTime: 2022-05-15T18:32:00Z
-    webUrl: "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 19
+      name: Arizona Daily Sun
+      domain: azdailysun.com
+    quality: 21
 
 secured: "klJjKvWM8bsErrRvu9dsiikMsKx69DCVVeSYoepu0akIH0ThkX0B6hEjXrY0J0aGN+s6Cs0JhsHLF42AblIeFlxwjOsKENr0H0QT3X9D7lDKta8wAq867SiqGtIIy1NeR3u35MRmZgMoRk2tJTe+ibaIvHUVgimQPfJNWgdQ8GtUYGByOltjJ6R1xt3ZaX9j6EkhviVYZXWD+M11twGqfhVzsLEJua7kYrn+8WZ2ZvKe85GvRxsyEIlO0Ru7ERrD/OZfxWY8cUPNbUEp/xvsAzU/IfEerhdIPoqhtP0VeqZ3Edehc4KbP3HWSqGUSewEDWpuKy9f/Es+Fh+6OaeefqQrZeX83M9XRrORx8nLWgM=;pDTdh95y+rEG23E94fVCPw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://knowtechie.com/5-ways-artificial-intelligence-helps-busine
 webUrl: "https://knowtechie.com/5-ways-artificial-intelligence-helps-businesses/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,45 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI even the right solution to your business problem"
-    excerpt: "Find the latest information & technology news, views and updates from all top sources for the Indian IT industry."
-    publishedDateTime: 2022-05-16T03:31:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/is-ai-even-the-right-solution-to-your-business-problem/91586271"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/is-ai-even-the-right-solution-to-your-business-problem/91586271"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/is-ai-even-the-right-solution-to-your-business-problem/91586271"
+  - title: "AI vs. AI: Forecasting the Ethical Dilemma Circling Law, Business and Technology"
+    excerpt: "This article provides a discussion of the legal and ethical questions involved when private companies defend themselves and then retaliate as a result of a cyberattack—a so-called counterpunch known as the “hack-back."
+    publishedDateTime: 2022-05-13T14:00:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2022/05/13/ai-vs-ai-forecasting-the-ethical-dilemma-circling-law-business-and-technology/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91586271,imgsize-24970,width-1200,height-628,overlay-etcio/is-ai-even-the-right-solution-to-your-business-problem.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Roviero joins Arm AI Partner Program to future-proof AI-based IoT solutions"
-    excerpt: "Roviero, Inc. an AI graph processor leader joins Arm AI Partner ... IP for edge System On Chip (SoC) solutions. CortiCore™ provides best in class power, area and programmability while scaling ..."
-    publishedDateTime: 2022-05-16T11:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/roviero-joins-arm-ai-partner-program-to-future-proof-ai-based-iot-solutions-1031464173"
+      name: Law
+      domain: law.com
+    quality: 29
+  - title: "Amii helps brewery harness AI to make and market beer"
+    excerpt: "The Alberta Machine Intelligence Institute (Amii) and Blindman Brewing have combined their skills to launch a new beer, just in time for AI Week. The May Long Double IPA, which the Lacombe-based craft brewery releases yearly,"
+    publishedDateTime: 2022-05-13T12:00:00Z
+    webUrl: "https://edmonton.taproot.news/news/2022/05/13/amii-helps-brewery-harness-ai-to-make-and-market-beer"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Successful Adoption of Off-the-Shelf AI Depends on Tight Business Alignment, Says Info-Tech Research Group"
-    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has published a new research-driven, step-by-step blueprint for implementing artificial intelligence (AI) solutions. As comp"
-    publishedDateTime: 2022-05-16T21:04:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/successful-adoption-of-off-the-shelf-ai-depends-on-tight-business-alignment-says-info-tech/article_0d508a75-94f4-58f0-b9ac-7abb370d6e98.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/69/06981237-bd11-590a-b51a-d79106304369/6282bc9ca187c.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: edmonton.taproot
+      domain: taproot.news
+    quality: 19
 
 secured: "VqW1/Aatk3BxznuYK5V55Z8UuGszTwz1o1K/Q7bI8DaMm3mVtGwPsczxnlG3nTHcAh914HqTyqTHRq4/QKLKkNsQCa3a4rq93X+xcflJNziEbvS6duQpTbpvayjEyPCF7tqHClmowSYnMcFk7jxEmrHnuE/aGvTKpJy1kDWWmuZe2FXVdy7H8RH4NdRSfKNqHojMa1DMyB0m0eEwEOO1NFyhQf6EL0ZvNtNYxmL5JakLCVBOkMMuCEpEynTzl+qwQTmtuVuozNDvKo7nqI1MifdsEYrms5SeCV6J38paLn0/gc8yGRvneVLIMeJqjsRezUvhKUpCO4+KWg9JVPHrjfgizLLfwqs5fJZqNOaDZXyCfdOa6/v2TKo9ByA4nRawfXNdm4VAx67zkNYJ90ktA0pm5JnuWe3Y2GmwT54QvS44jLOi2aNWmcyvHYl31wHQnNsnOnjiuUmCKpSJB+agq0G/F1Zrm6jcrqjs4MdSz4b+ReasbkvlnKWWNdlY20RDmPFxMHHYhGTtpQBIIRDV8g==;4foyuQe61lnhcL2rLkc5kA=="
 ---

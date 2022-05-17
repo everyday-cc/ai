@@ -8,7 +8,7 @@ webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-ar
 ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://npr.brightspotcdn.com/dims4/default/d2f3ad3/2147483647/strip/true/crop/960x540+0+310/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F17%2F93dd31594177b44ecfdaa3d39951%2Fmy-disability-roadmap-6.JPG"
@@ -113,6 +114,6 @@ related:
       domain: mcknightsseniorliving.com
     quality: 8
 
-secured: "BaZO1vk7cdS/pW2WlC3XHOUWhXm/t+SqFet0vIB+tpfw0bVMJ2Np67QtD7Qu3rvoTAtTFPqLwaiU4Zv5gv/ACo4irH/d1w+Gpi657DP1K+ir5agLLM4YIbpuLTkMu/+lC57dZwnb+9f42wEp1FiGrZTy6WcDnN6yLDZKPOBmoFpqjDdmL9qJ/62e3FjDA6rApt/Ob/mxWY8byfJUO08tRmTHtcBWLoKTM1pXsIhccA+Zb2T/ikVSH5fP8msOm15V7UrN3ZR+//Y31+RXSU109rzCy5GG2sfxG8TVMFazZY9CYh/VBuZkWHIBNzNDDdP/vvyOjx5d/SX+cJ6BxM8oiGqiO61zABpFKN253+F+MS4=;8plffCYgAxyg/lOgZQIp5g=="
+secured: "Eph5HHyBCSnuSy49ZdZnBCgQYz6LpwnaXsoAEKqC/mMNImrxzTKDf6zFJdUOMNvpmiYgMPhYpbFZ0gAKlBK2mMT+tTOc422y+RIxxlEEO8FHxhKz3QieCnlaZuZz9/ijmBvJjG4eA1xQu2uIxQOqPErxgLXOAJ9/l115k9WaxAXv4KP7TIoaaXJ3Kf+vcGJp7yzK2sp9YzC0zjrtMoCaubRm/HALFh/dLoe/0G42O/EUIk+mzLyiEvgAxiik4uFCgyNutshbiIPIURxprs3xKNTm0A4QLB1NjbesPrVIBnUUp1TXgjGTMRAvytzNGdL/wnsvznUgk3I7pmFD0gpsaqSXt464PX1uuiP5+78PRFGjFlpJ8ngbAHu2EJy0wgSLHEoGwGlqN117CC6LOWQ3YEqqC6wNaAjG9vM6Tj5DAgIAAHbX3JiZ4L8pFYr1xy0CthZcWjmHD4tZmplteW9Z4FB1G4mvkdbD1TeaRdEjlcDvIcRiS3GWMW0tOeCQbZPC/+0vgxpe4dbn9b7Vm3slHQ==;OeJMg5cxThZ6msovwhIRtQ=="
 ---
 

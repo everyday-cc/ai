@@ -82,15 +82,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel Leverages Habana’s AI Chips to Train Self-Driving Cars"
-    excerpt: "... 8,000 Gaudi2 server chips in its data centers to inform of further advances of the upcoming Gaudi3 chip. Intel rolled out a new generation of AI server chips that offer a massive jump in computing, memory, and networking capabilities, setting it ..."
-    publishedDateTime: 2022-05-12T18:30:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21241539/electronic-design-intel-leverages-habanas-ai-chips-to-train-selfdriving-cars"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 36
   - title: "Self-driving cars hit a third of cyclists, all oncoming cars in testing"
     excerpt: "Autonomous cars may be further away than believed. Testing of three leading systems found that they hit a third of cyclists, and failed to avoid any oncoming cars. The tests [PDF] performed by the American Automobile Association (AAA) looked at three vehicles: a 2021 Hyundai Santa Fe with Highway Driving Assist,"
     publishedDateTime: 2022-05-16T16:30:00Z
@@ -116,15 +107,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Drivers choose safety improvements over self-driving cars, according to AAA"
-    excerpt: "\"Drivers clearly favor an incremental approach to rolling out advanced driver assistance features, starting with improving the ones we already have,\" AAA said."
-    publishedDateTime: 2022-05-12T17:53:00Z
-    webUrl: "https://www.ktvb.com/article/news/local/drivers-choose-safety-improvements-over-self-driving-cars-according-to-aaa-idaho/277-97815cbe-50c1-4404-8b1a-4e7a389c0a0d"
-    type: article
-    provider:
-      name: KTVB
-      domain: ktvb.com
-    quality: 2
 
 secured: "mnnRT+/p2Y2jtAy4MPV4LVzEwzuYg51RqKL07l72Xem4wvWgUq1Br4CBWQmm81sSTwWpgbMcAaHHXZEmRw+5++Lt8UNgTEYOg7Qukhzj/eD4gfndVFCpVhjcKOUHTj2h3yqUlGtdp2IO6vARGSaD8GQN3yWK0ya8XDdpIFX+zGFRe8NyVD0em00Qa5eJP/pbZkMD8yNZxehMb4ZU9HXdu+3sxadu0WO+R2Rb+NTmfNZB9pB3Rr+IjlYn0G4TV4XRH6xXVP+jRAhxpv7PN0JkGdFDm8PizAZFLJ2eSuaDj6D+p2TO/SJaDFMFasIweQ7OBHIRXkeuf/jQSZioJg7zQwrQi+tsvUzCq5cy0Y9beLs6jaeJ7piLJBg0M0p8OlJPXy5fYNaa7j7QAYaAWUDL1TJGmRGwTsbDAGuFqwyGMU98pg1n1q/QkBQ9QbkJ3eS9iVpnp++hlP1SZY+au+ujmiUlvyYK9DQ7K+K1VaJ5ehNaM+z010UjzaczwOCGcqZQ/gIHTNWRhzQEUUJtCpJvpg==;5BejxLi3K8nAlNtxQlXfnA=="
 ---

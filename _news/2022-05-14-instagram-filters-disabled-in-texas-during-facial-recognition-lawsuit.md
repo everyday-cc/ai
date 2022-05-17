@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/05/13/instagram-filters-disabled-in-texas-du
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/05/13/instagram-filters-disabled-in-texas-during-facial-recognition-lawsuit/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Texas & Illinois Facial Recognition Laws Lead To Instagram Filter Ban"
-    excerpt: "After Texas Attorney General Ken Paxton filed a lawsuit back in February against Meta alleging the company was not properly using its facial recognition technology, Meta disabled filters on"
-    publishedDateTime: 2022-05-12T17:26:00Z
-    webUrl: "https://bossip.com/2132998/meta-filter-ban/"
-    ampWebUrl: "https://bossip.com/2132998/meta-filter-ban/amp/"
-    cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2132998/meta-filter-ban/amp/"
-    type: article
-    provider:
-      name: Bossip
-      domain: bossip.com
-    quality: 59
-    images:
-      - url: "https://bossip.com/wp-content/uploads/sites/28/2022/05/1652371215888.jpg?w=560&h=320&crop=1&strip=all&quality=80"
-        width: 560
-        height: 320
-        isCached: true
   - title: "A Ken Paxton lawsuit is why Texans can’t access some face filters on Facebook and Instagram right now"
     excerpt: "The features were suspended two months after the attorney general sued the social media platforms’ parent company, saying that some of its practices violated Texans’ privacy."
     publishedDateTime: 2022-05-12T23:21:00Z
