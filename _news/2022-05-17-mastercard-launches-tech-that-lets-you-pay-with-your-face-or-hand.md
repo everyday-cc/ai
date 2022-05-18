@@ -37,20 +37,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Pindrop presents three research papers on voice biometrics, speech recognition at ICASSP"
-    excerpt: "Three research papers from Pindrop indicate the direction of its attempts to further innovate with voice biometrics and speech recognition technologies."
-    publishedDateTime: 2022-05-13T15:48:00Z
-    webUrl: "https://www.biometricupdate.com/202205/pindrop-presents-three-research-papers-on-voice-biometrics-speech-recognition-at-icassp"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/23162352/voice-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "TD/vacHxQdXDigTCcm9HGdKbxfRV/tAhpLFFCgZOLFda+x+q7JmvajW9U+y6HcctCP+wmnwqhXunTeypcboLQ1oDh54MmNv82TfnaPd7k3TP1Y4dSIqLuMbXeHCOIHpMlHm6yIoJZydC53H0XTWm55qBUz6GjIjEl9nQcpCQm1vgGMDOZffAh/pJKfFnUgVt2EfmU7GmbYQ51nujhgIj4l22JA++QxfN36eyp1IB6z3K4lZkriyL9cwG//7pVBspNJXTxEGWlNnuHl5Iet7y2V9lAo6GQiw3diYte/S46wOjpGFjHgDgNY1NH42oEc1BwZWlx/2rs4BB/deXd0tT3TFxXg8Hw1IoO/p2VBvEiJVJKEP3L09lVJ772RZBQvez0IAf2LABvuo4DYDQlmSAX3ZARwvYEsfU3+jSyaIIUqHsYAmv847BOPrSRFPtqGGu+w6vTcIzQWvmk79lvqo9o3uzobnYIFWhhzziFDTUOk6kyrfu+iZrdBoGI9aLt7g3PrpL0KZeWu553UlhNqFlKw==;j8LzPgLs3R7a9RvAkeNZYA=="
 ---

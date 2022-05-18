@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_d
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: theregister
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI compounds discrimination against disabled"
-    excerpt: "Organizations are responsible for ensuring their hiring and performance management tools do not discriminate against individuals with disabilities, federal civil rights officials say."
-    publishedDateTime: 2022-05-13T15:41:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/05/ai-compounds-discrimination-against-disabled/366901/"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://cdn.gcn.com/media/img/cd/2022/05/13/051222_getty_fcw_ai_brain/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Using artificial intelligence software for employment decisions could be discriminatory: feds"
     excerpt: "Employers using artificial intelligence tools in the hiring process could be guilty of disability discrimination, according to the federal government."
     publishedDateTime: 2022-05-16T04:49:00Z

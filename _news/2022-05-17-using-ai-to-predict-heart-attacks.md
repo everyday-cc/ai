@@ -105,6 +105,34 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Disrupting conventional baggage scanning with AI"
+    excerpt: "Vehant Technologies Technology has reinforced all the aspects of our lives in terms of how we work, learn, travel or shop. It’s inescapable that the technological devices and services have begun to reflect the public ambitions and desires to connect with others and contribute to the world."
+    publishedDateTime: 2022-05-18T07:40:00Z
+    webUrl: "https://www.crn.in/columns/disrupting-conventional-baggage-scanning-with-ai/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 39
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2020/05/12140219/Artificial-intelligence-HR.jpg"
+        width: 750
+        height: 430
+        isCached: true
+  - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
+    excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
+    publishedDateTime: 2022-05-18T08:33:00Z
+    webUrl: "https://www.finextra.com/blogposting/22305/five-ways-artificial-intelligence-in-fintech-is-changing-the-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
     excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
     publishedDateTime: 2022-05-16T23:02:00Z

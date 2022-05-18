@@ -2,6 +2,83 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-25-office-envy-inside-argodesigns-new-hq-robotics-startup-raises-millions.md",
+      "title": "Office Envy: Inside Argodesign's new HQ | Robotics startup raises millions",
+      "excerpt": "Brent: Just before SXSW kicked off a couple weeks back, I had a chance to visit Argodesign's new headquarters, which is just a stone's",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/austin/inno/newsletter/27156396?limit=20&skip=0",
+      "originalUrl": "https://www.bizjournals.com/austin/inno/newsletter/27156396?limit=20&skip=0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-bear-robotics-raises-81m-in-series-b-funding.md",
+      "title": "Bear Robotics Raises $81M in Series B Funding",
+      "excerpt": "Bear Robotics, a Redwood City, CA-based provider of hospitality robotics and artificial intelligence solutions, raised $81M in Series B funding",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2022/03/bear-robotics-raises-81m-in-series-b-funding.html",
+      "originalUrl": "https://www.finsmes.com/2022/03/bear-robotics-raises-81m-in-series-b-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2022/03/bear-robotics-2.jpeg",
+          "width": 1250,
+          "height": 1875,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-top-ai-execs-including-richard-socher-launch-aix-ventures.md",
       "title": "Top AI execs, including Richard Socher, launch AIX Ventures",
       "excerpt": "Richard Socher, former Salesforce chief scientist, is among the founding partners of AIX Ventures, a new $50 million AI venture fund.",
@@ -1201,104 +1278,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-your-chipotle-chips-may-soon-be-made-by-a-robot-named-chippy.md",
-      "title": "Your Chipotle Chips May Soon Be Made By A Robot Named 'Chippy'",
-      "excerpt": "Chipotle announced on Wednesday that it is testing out an alternative way to make its tortilla chips using an AI-powered robot named “Chippy.” The creation of the robot is intended to help businesses run more efficiently and to help employees not have to do mundane tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498",
-      "originalUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/11/27/chipotle-delivery.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498?amp=1",
-      "publishedDateTime": "2022-03-17T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars.md",
-      "title": "AI Ethics Keeps Relentlessly Asking Or Imploring How To Adequately Control AI, Including The Matter Of AI That Drives Self-Driving Cars",
-      "excerpt": "The AI Control Problem is what keeps AI ethics up at night, for which paths to solving the pressing issue are discussed, along with examples from AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/622a4da448f19c30f3859096/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-17T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
       ]
     }
   ],

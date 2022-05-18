@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-27-paralyzed-patients-move-vicariously-through-mind-controlled-robot.md",
+      "title": "Paralyzed Patients Move Vicariously Through Mind-Controlled Robot",
+      "excerpt": "These scientists successfully demonstrated the capabilities of a robot controlled by the mind of a partially quadriplegic patient in a hospital 62 miles away. Mind-controlled robotic systems aren ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2012/04/paralyzed-patients-move-vicariously-through-mind-controlled-robot.html",
+      "originalUrl": "https://www.medgadget.com/2012/04/paralyzed-patients-move-vicariously-through-mind-controlled-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-rovio-robot-controlled-via-skype-with-emotiv-brain-reading-headset.md",
+      "title": "Rovio robot controlled via Skype with Emotiv brain-reading headset",
+      "excerpt": "The Emotive EPOC \"mind-control\" headset may not be quite as advanced ... for some basic tasks -- like controlling a WowWee Rovio robot via Skype. That impressive feat was accomplished by the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2010-04-27-rovio-robot-controlled-via-skype-with-emotiv-brain-reading-heads.html",
+      "originalUrl": "https://www.engadget.com/2010-04-27-rovio-robot-controlled-via-skype-with-emotiv-brain-reading-heads.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/5FznVsS1iYDouET5v05ZDA--~B/aD0zMzE7dz01MTU7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2010/04/rovio-emotiv-04-26-2010.jpg",
+          "width": 515,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-space-discoveries-that-will-blow-your-mind.md",
       "title": "Space discoveries that will blow your mind",
       "excerpt": "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn’t stop them from",
@@ -1274,83 +1360,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-softbank-robotics-invests-in-hong-kong-startup-avalon-steritech.md",
-      "title": "SoftBank robotics invests in Hong Kong startup Avalon SteriTech",
-      "excerpt": "SoftBank Group's robotics arm has agreed to buy a minority stake in cleaning technology startup Avalon SteriTech, marking the company's first investment in Hong Kong. Read more at The Business Times.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstimes.com.sg/garage/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech",
-      "originalUrl": "https://www.businesstimes.com.sg/garage/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Times",
-        "domain": "businesstimes.com.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-futuretech-ii-acquisition-looks-for-ai-or-robotics-target.md",
-      "title": "FutureTech II Acquisition Looks For AI Or Robotics Target",
-      "excerpt": "FutureTech II intends to pursue a merger with a co. in the sectors of disruptive technologies. Check out why I'm on HOLD for FTII.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "originalUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1295900106/image_1295900106.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "publishedDateTime": "2022-04-19T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

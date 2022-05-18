@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-18-indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round.md",
+      "title": "Indian Robotics Firm GreyOrange Raises $110 Mn In A Funding Round",
+      "excerpt": "Tiger Global-backed Indian robotics firm GreyOrange has raised $110 Mn in the latest funding round, as per reports.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
+      "originalUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/05/Feature-fashion-300x225.png",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
+      "publishedDateTime": "2022-05-18T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing.md",
+      "title": "Robot hives in Israel kibbutz hope to keep bees buzzing",
+      "excerpt": "They function as normal hives, but apiaries built at a kibbutz in Israel's Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/robot-equipped-beehive.jpg",
+          "width": 1024,
+          "height": 741,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp",
+      "publishedDateTime": "2022-05-18T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-artificial-intelligence-chipsets-market-size-is-set-to-record-401-cagr-during-forecast-2022-2027.md",
       "title": "Artificial Intelligence (Chipsets) Market Size is set to record 40.1% CAGR during forecast 2022-2027",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. May 17, 2022 (Market Insight Reports) -- Selbyville, Delaware Artificial Intelligence (Chipsets) Market research is an intelligence report with meticulous efforts undertaken ...",
@@ -129,57 +215,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-18-anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data.md",
-      "title": "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data",
-      "excerpt": "Anthem Inc.’s chief information officer says he is working with Alphabet Inc.’s Google Cloud to create a synthetic data platform that will let the health insurance company better detect fraud and offer personalized care to its members. Anil Bhatt said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_lead_pos13",
-      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_lead_pos13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-545425/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
-      "publishedDateTime": "2022-05-17T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-18-zmoai-secures-8m-led-by-hillhouse-to-create-ai-generated-fashion-models.md",
       "title": "ZMO.ai secures $8M led by Hillhouse to create AI generated fashion models",
       "excerpt": "With breakthroughs in machine learning, it’s no longer uncommon to see algorithmically generated bodies that can move and talk authentically like real humans. The question is now down to whether startups offering such products can achieve a sustainable business model.",
@@ -227,6 +262,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-tesla-to-host-second-artificial-intelligence-day-in-august.md",
+      "title": "Tesla to Host Second Artificial Intelligence Day in August",
+      "excerpt": "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day on Aug. 19, with the company likely to expand on plans to fine-tune its self-driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august?context=amp",
+      "publishedDateTime": "2022-05-17T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -493,7 +571,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -831,6 +909,57 @@
       ]
     },
     {
+      "path": "_news/2022-05-17-anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data.md",
+      "title": "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data",
+      "excerpt": "The idea of synthetic data in enterprises has been around for decades, but it’s picking up steam as companies begin making more use of artificial intelligence and have greater need for faster access to better data sets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_featst_pos1",
+      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_featst_pos1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-545425/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
+      "publishedDateTime": "2022-05-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Size Forecast to Reach USD 64 billion by 2027, expanding at a compound annual growth rate of 43%",
       "excerpt": "Artificial Intelligence Healthcare Market size is predicted to touch USD 64 billion by 2027, registering a CAGR of 43% over the forecast period (2020-2027), owing to the increasing application of AI in medical imaging,",
@@ -891,7 +1020,7 @@
       "originalUrl": "https://www.zdnet.com/article/human-centered-ai-book-review/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1037,7 +1166,7 @@
       "originalUrl": "https://itwire.com/business-it-news/enterprise-solutions/innovatrics,-blaize-partner-on-ai-ready-to-deploy-facial-recognition-technology.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1068,142 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-us-civil-rights-enforcers-warn-employers-against-biased-ai.md",
-      "title": "U.S. civil rights enforcers warn employers against biased AI",
-      "excerpt": "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehour.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php",
-      "originalUrl": "https://www.thehour.com/business/article/U-S-civil-rights-enforcers-warn-employers-17168273.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/25/55/37/22468592/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php",
-      "cdnAmpWebUrl": "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php",
-      "publishedDateTime": "2022-05-16T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hour",
-        "domain": "thehour.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-the-game-is-over.md",
-      "title": "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’",
-      "excerpt": "A DeepMind lead researcher made the bold claim that the company's newest AI was a 'game over' product for AGI research.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over",
-      "originalUrl": "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FscalingAI.jpg&signature=9bc3b164454b20146d307326beb8c1b3",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-ai-models-identify-covid-19-patients-at-the-greatest-risk-of-death-injury.md",
-      "title": "AI models identify COVID-19 patients at the greatest risk of death, injury",
-      "excerpt": "New artificial intelligence (AI) models can help doctors prioritize care by predicting which COVID-19 patients are most at risk of dying or developing kidney injuries during hospitalization.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-patient.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp",
-      "publishedDateTime": "2022-05-16T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

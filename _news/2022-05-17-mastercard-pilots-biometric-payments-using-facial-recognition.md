@@ -34,20 +34,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 34
-  - title: "Pindrop presents three research papers on voice biometrics, speech recognition at ICASSP"
-    excerpt: "Three research papers from Pindrop indicate the direction of its attempts to further innovate with voice biometrics and speech recognition technologies."
-    publishedDateTime: 2022-05-13T15:48:00Z
-    webUrl: "https://www.biometricupdate.com/202205/pindrop-presents-three-research-papers-on-voice-biometrics-speech-recognition-at-icassp"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/23162352/voice-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "aobCf9u1+XLiTjg4Kbpe5allre3QVwAskK6GxV7uJ+gLzBA22z8+AWIcPIIFn2Ly9nJ2w35jORWGDsQeDmUeQ2dLcl/9UTdK7eaA3GclGGaemgB7qaKNaYMjc7TcU3BA9A8hdUgcNQ3UkIOgGiTHN+MXlRy9bAKtocNQnU0Og7mrisny2C20CWGnoV1mmiOO5ADFFnIovfSUtV2aG6kckePa+D3njXet4fLNkHg4AA0VGYgi/3Y2amiUukSIevvdSVf+9as4qQ2JGkc5bIMF2ZHSgASUz+h7bx5vqciVn07ccc8EMfBLmSEk1fJpchD/sCpUSQ/nqZQJ6kYodOYezKxMoL+tuGaeLGxoe+DSA8c=;S7iwKGKE91d+yUpHAcXtVQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-21-leveraging-computer-vision-for-effective-crowd-management-in-smart-cities.md",
+      "title": "Leveraging Computer Vision For Effective Crowd Management In Smart Cities",
+      "excerpt": "Government organizations can implement computer vision in smart cities to maintain social distancing and avoid stampedes and other disasters in crowded areas. As the global population continues to grow at an alarming rate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-effective-crowd-management-naveen-joshi",
+      "originalUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-effective-crowd-management-naveen-joshi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE20RsUcujCmg/article-cover_image-shrink_600_2000/0/1643833710753?e=1653523200&v=beta&t=eRvNdillJADcwCRaRpGpIRZQJrC_4s1Tj8L-ky5VJiw",
+          "width": 1000,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-20T21:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-20-mask-and-you-shall-receive-new-facial-recognition-technology-can-recognise-faces-even-whilst-wearing-a-mask.md",
       "title": "Mask and you shall receive: New facial recognition technology can recognise faces even whilst wearing a mask",
       "excerpt": "The problem is that many facial recognition softwares fail liveness checks when a mask is present, due to the inability to see a whole face - or worse they will validate a fraudulent scan due to a low number of data points being scanned and poor liveness ...",
@@ -1291,58 +1343,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-samsungs-object-eraser-mode-takes-on-googles-magic-eraser.md",
-      "title": "Samsung’s Object Eraser mode takes on Google’s Magic Eraser",
-      "excerpt": "Samsung has a hidden challenger to Google's Magic Eraser mode on the Galaxy S22 UItra. It's called Object Eraser, and this is how you use it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/galaxy-s22-ultra-object-eraser.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/?amp",
-      "publishedDateTime": "2022-03-10T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

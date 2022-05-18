@@ -25,77 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition May Not Be Banned After All"
-    excerpt: "Following efforts to ban the use of facial recognition technology by authorities, it seems that some cities are having second thoughts amidst an increase in their crime rate. Some U.S. states and ..."
-    publishedDateTime: 2022-05-13T15:42:00Z
-    webUrl: "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074"
-    ampWebUrl: "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp"
+  - title: "Wyze Rolls Out Facial Recognition, Professional Monitoring with New Service"
+    excerpt: "Wyze made its $4 monthly Cam Plus Pro subscription service widely available this week. The service introduces facial recognition and 24/7 professional monitoring to existing Wyze cameras, including the Wyze Cam v2, v3 and Pan v1. Cam Plus Pro's ..."
+    publishedDateTime: 2022-05-13T20:49:00Z
+    webUrl: "https://www.cnet.com/home/security/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bc3f198cf7b38c71dd7b8b87c579e986.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.cnet.com/a/img/resize/103f379b0431e0aba805ddb6894575d74c7b4e29/2019/10/23/047b0584-2536-49da-aaa2-62299e73c70b/cnet-security-005-wyze-cam-pan.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "US cops kick back against facial recognition bans"
-    excerpt: "In brief Facial recognition bans passed by US cities are being overturned as law enforcement and lobbyist groups pressure local governments to tackle rising crime rates. In July, the state of Virginia will scrap its ban on the controversial technology after less than a year."
-    publishedDateTime: 2022-05-16T13:30:00Z
-    webUrl: "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/"
+  - title: "Mastercard Begins Facial-Recognition Rollout With Retailers"
+    excerpt: "Mastercard Inc. has begun to trial a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their ..."
+    publishedDateTime: 2022-05-17T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-05-17/mastercard-begins-facial-recognition-rollout-with-retailers"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 74
-    images:
-      - url: "https://regmedia.co.uk/2021/03/05/facial.jpg"
-        width: 1000
-        height: 575
-        isCached: true
-  - title: "Facial recognition is making a comeback in US cities. Here's what we know"
-    excerpt: "Policymaker consensus around facial recognition technology is changing, with some US cities electing to reverse bans on the AI tech, but debate is ongoing."
-    publishedDateTime: 2022-05-14T00:00:00Z
-    webUrl: "https://interestingengineering.com/facial-recognition-comeback-clearview"
-    ampWebUrl: "https://amp.interestingengineering.com/facial-recognition-comeback-clearview"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facial-recognition-comeback-clearview"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 58
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3ROaeo7NOv/sizes/facial-recognition-comeback-clearview_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
-  - title: "Move to regulate facial recognition technology"
-    excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."
-    publishedDateTime: 2022-05-17T04:30:00Z
-    webUrl: "https://www.worldradio.ch/news/bitesize-news/move-to-regulate-facial-recognition-technology/"
-    type: article
-    provider:
-      name: World Radio Switzerland
-      domain: worldradio.ch
-    quality: 39
-    images:
-      - url: "https://mmo.aiircdn.com/29/6052d11808e86.jpg"
-        width: 1320
-        height: 760
-        isCached: true
-  - title: "Facial recognition technology is a valuable tool"
-    excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."
-    publishedDateTime: 2022-05-15T18:32:00Z
-    webUrl: "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 19
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 49
 
 secured: "a8X6aMn3+2fQjMez5xnw4QiGiqN/cV0nYzY0HsKZ+qnRorQBNFGbMDFRqvOFuc9p1SR79j+dFIiq0yt9T/kJdLgWfIwa4wfE+65iOyf++uQQ5XyFveVIGYtIk/uYBvbyQpU4fpw5FPTw4CiO42Jj4m0aCPgIQG06rybqhTSA3ULqdDqznfUl3HkcISf6tK+NwJthvFz+rQk5jN68zKnxwhYd4kTOI+A9wlUYYiWvCtEt1sYjrbriukOOP9yRfxCJ6uIkqgcfu+Mc4g3llV089SS0P1+0aXtlQfIwciS6HzSbcWDR64jFSwxQVDElyTBN/AVJSK9s0+3WtImZUgioHia8eSAllhCwZAvmxiJLmhQ=;RaMMwMRJWbrbGWuy/ZAxig=="
 ---

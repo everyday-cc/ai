@@ -74,20 +74,6 @@ related:
         width: 455
         height: 250
         isCached: true
-  - title: "The Delivery Robots Market size is expected to reach USD 957 million by 2026 from USD 212 million in 2021"
-    excerpt: "\"Delivery Robots Market\"Delivery robots market size is projected to grow from USD 212 million in 2021 to USD 957 million by 2026, at a CAGR of 35.1% from"
-    publishedDateTime: 2022-05-13T15:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million-in-2021"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/df545f41fed2420d2a28c1c8a30f83aff362c268-1-e1652495322767-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence (Ai) In Pharmaceutical Market Research on Demand and Production, Top Players with Trends and Forecast till 2030"
     excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Pharmaceutical Market Size Is Expected To Reach USD 7,147.2 Million By 2029., at a CAGR of 31.2% during the forecast period.” The ..."
     publishedDateTime: 2022-05-16T13:15:00Z
@@ -113,6 +99,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 9
+  - title: "Voice Cloning Market to reach at an estimated value of USD 4446.08 million and grow at a CAGR of 25.74% by 2028"
+    excerpt: "Voice Cloning Market business report is a great resource which provides present as well as upcoming technical and financial details of the industry to"
+    publishedDateTime: 2022-05-18T08:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/voice-cloning-market-to-reach-at-an-estimated-value-of-usd-4446-08-million-and-grow-at-a-cagr-of-25-74-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 4
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "ILWB/fTu0LgoHEsLXPWki+wH2cZRrXlGDjT132JheQGxwS0KFBu0DQuqJNv0VL1nI3tpZa3eSfXCfSvgLuNzCfMZmjlEez4dfzZp7SXXccYY12tNHolazjK6C8aJaDAFlgMYGvXtOvurF4xsf9b6OX4fg9AdI9TKm77elRvcQMY7kJoGd3B4OZL+4GcuF0SJhAssDNmfvAzoOYumfwFBlSwGYeNvmXNJILZiG7/vi28WguTgl8BYx+53vPQ5PHwxr8+Wn8Jz0o3c8CUapEN35XUdCHBLhNNVz1D2LPI1z/67fPZYHa1V2mjuuLj/yGJYzufgRGB090azdw1QAjVXuR8gUTuIIRbV/Nzp1sBIS9GWBfZkERdBE8SAi/dChJ6x7wHVsawtuZewU6KRb4kjpBt0GIQ4EINsjSKNgdZI8gl+roV1JQxEPHx1gX+8u4qr3N+1hortUS9hcVrZ/yGuOPQdMj6NQYwn97eQjU2NFb0yaaOmV+JyFnjF0uWlIUSiREGu0tPZzyYTQSlvKRuESA==;LCyYmJGRYG8F4Jy6Acis5A=="
 ---

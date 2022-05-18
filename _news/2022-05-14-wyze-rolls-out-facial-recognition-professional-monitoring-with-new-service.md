@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/wyze-rolls-out-facial-recogniti
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The issues with the EU’s draft regulation on facial recognition AI"
+    excerpt: "Dr Kris Shrishak of the ICCL spoke to SiliconRepublic.com about where the EU’s planned AI regulation could improve ways to address facial recognition companies in the US. It is no surprise that the global discussion on facial recognition technology has ..."
+    publishedDateTime: 2022-05-17T10:16:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/the-issues-with-the-eus-draft-regulation-on-facial-recognition-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_286930709.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Mastercard Begins Facial-Recognition Rollout With Retailers"
     excerpt: "Mastercard Inc. has begun to trial a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their ..."
     publishedDateTime: 2022-05-17T13:00:00Z

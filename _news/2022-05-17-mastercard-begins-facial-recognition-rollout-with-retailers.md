@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The issues with the EU’s draft regulation on facial recognition AI"
+    excerpt: "Dr Kris Shrishak of the ICCL spoke to SiliconRepublic.com about where the EU’s planned AI regulation could improve ways to address facial recognition companies in the US. It is no surprise that the global discussion on facial recognition technology has ..."
+    publishedDateTime: 2022-05-17T10:16:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/the-issues-with-the-eus-draft-regulation-on-facial-recognition-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_286930709.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "r7iItEjrMM6iynOeytc0IpklNFmcEkoPgMiv4peTNOzouG8Z5VIw2l/ahph8JQ1UvLA/IWB0LU5Ph4JviRxkqSJOokCrK5w/bwxhcgmwWfmFLO8SrnzBxS1uPOQzPEUl4WE8xhpQDl+nBX+ug6UJY/B+g8T22HYihukBN09oYhnGk+XO3A+zZUKJT9ULJATbha4BjV2IATp1GjXnvFAnNO/pYgOsWCO3DvYJyVH8/VnLEOOvW3Qtp/OakUFYL7hstprVrj+sE6pp9MquIElx40hVM1LRHRcI0lczGXI84ZMevEIR/uo9iUeAMtoyob9l8E46/6t7ubgjTHGEoYPC3gGtaYUg8PlxtMurHQoya5F5QZ5tmYHdi4jt4YfhG95aDxquBo6nC49LpVURQNHnlUnd7pHd1i+xySRRcINsiO9ObLu5tNmNe9Vp2XmvD2/Sjrnk7blLcAEsVNPWfqQPNlLEL2ikN1TVJqD+5PtQcU7cd43tHDxcpuLRHHjaVXtlbEjrfIlLUQrFyiOUPmNaOw==;J6KUpv8NQmckugVo+Pdubw=="
 ---

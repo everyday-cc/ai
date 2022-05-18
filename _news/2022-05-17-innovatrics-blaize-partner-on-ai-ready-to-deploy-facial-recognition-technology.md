@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatri
 webUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatrics,-blaize-partner-on-ai-ready-to-deploy-facial-recognition-technology.html"
 type: article
 quality: 50
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 21
+  - title: "Facial recognition technology is a valuable tool"
+    excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."
+    publishedDateTime: 2022-05-15T18:32:00Z
+    webUrl: "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 19
 
 secured: "R5v92S7CpWmVIy26zSUPbJlEXEtvJh0hD+kHLbfuj/n4tkgC1oVL9Qji6a3nJkZ+Ax0SjpLLQZbo19t99vdCew+00FLfcRInugFBXGAZmM62yjrP0oN1NUgJ3pDDwxm9E/W5JX+6SthKkxgq2hyTeSB77piDBTipHJyraGDeQjBt37YAia0Bwkrh0phNCdy6ik6PKjpqCisR4JWcsEfku67o/ZMaHfE7YUtN5Xilfuoq/rbeZWsWuMNbC3Bn1Oj/e/QQR9AgkAbTWZaAMQTMmDENHThbc2j3F1BIy+8vahflGYE2SQNx2uDF+w1mogDjklKqAEpUir5m57i63os5THUCGePM07szIF3Q0let2mM=;9UzYtKCEWWRusdEMHsoPGg=="
 ---

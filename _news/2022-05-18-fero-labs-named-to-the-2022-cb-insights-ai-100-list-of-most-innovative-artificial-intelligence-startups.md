@@ -1,30 +1,43 @@
 ---
 category: news
 title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-publishedDateTime: 2022-05-17T22:45:00Z
-originalUrl: "https://www.abc4.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
-webUrl: "https://www.abc4.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+excerpt: "Factory optimization software maker Fero Labs is recognized for achievements in industrial automation for modern manufacturers NEW YORK, May 17, 2022 /PRNewswire/ -- CB Insights today named Fero Labs to its annual AI 100 ranking,"
+publishedDateTime: 2022-05-17T20:46:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
 type: article
-quality: 38
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: abc4.com
-  domain: abc4.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
+  - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
+    excerpt: "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". The word \"Markets Insider\". Two crossed lines that form an 'X'."
+    publishedDateTime: 2022-05-17T16:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running-1031469372"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://mma.prnewswire.com/media/1819489/Jina_AI_CBInsights_2022_V02__1.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Encord Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Encord, the platform for data-centric computer vision, on its annual AI 100 ranking, a list showcasing the 100 most promising private artificial intelligence companies in the world."
     publishedDateTime: 2022-05-17T16:02:00Z
@@ -67,20 +80,6 @@ related:
         width: 1250
         height: 653
         isCached: true
-  - title: "SparkCognition Named to 2022 CB Insights AI 100 List of Most Promising AI Companies in the World"
-    excerpt: "Unicorn valued AI software company recognized for fifth time on prestigious list AUSTIN, Texas, May 17, 2022 /PRNewswire/ -- SparkCognition, a global leader in artificial intelligence (AI) software solutions for industry,"
-    publishedDateTime: 2022-05-17T14:14:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-f2186772fd3949dc6233de1ca9d14181"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Cresta Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "SAN FRANCISCO, May 17, 2022 /PRNewswire/ -- CB Insights today named Cresta to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
     publishedDateTime: 2022-05-17T13:07:00Z
@@ -90,20 +89,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
-    excerpt: "Leading cloud-native and AI-based open-source neural search provider Jina AI has this week been recognized in CB Insights 2022 AI 100 as one of the most innovative AI startups. This marks the second consecutive year Jina AI has appeared on the list,"
-    publishedDateTime: 2022-05-17T16:52:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-c2f213f112ef866227537f9fc48f3de8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Observe.AI Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "Observe.AI (  an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named to CB Insights’ annual AI 100 Ranking, which showcases the 100 most promising private artificial intelligence companies in the world."
     publishedDateTime: 2022-05-17T13:10:00Z
@@ -132,6 +117,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "SUq9T7R8v5WffP5452FPuDJxpxAv/U49hPL0bOJH8q3MtXUpyo/sW23ijn5j03gQr+QLhguqwfBUadsR5Ed0vefA3F0ArUy/95gj/4Q4QrMQVAE/xMworfBfeamf3taMxyLbuhJ4bpXHUf+bxcF3RxN2Zz6KPSX4H5y+/FSzKWttY2lVF2DApDZ6ssEh+1rf//ArCidk7NV972Z1psTq4JpaYMnjbzsNsPE9qCeOF8n+/QTXErxMdS3R8OsYs9OfZlsem9CKcyZYvREWHFFgrToLsyS2+RKEiFRwBWow1VcxJlqgDklIVCPZzwO/KCPuaVRqz29RqHaRzQgyMel1ifihX54ee08Plh9DU6OLw3g=;K78BxG7kjD5OUnYkSsphqA=="
+secured: "uGzLnbSss2EibzeLiW4rTsfK5+wVWxc38Bfz4J/8Nd+YejRQzGGhuB6XN2x+LmWq3Sln34/Lir6MMYzlcFfUTGS4iOaC/qXCxMHQe3EMw1URh2lGZzl0xAJzUk1QqqkMzupQiB/2I9zYj714qU7TdTWeFKjMs69UIfJcXsg5wthTZzwA/nlno72ur7p0A/p/sXdeHLUk4GQ8iMtdo1E4bZtH6E+JXgf0hBd2EVQ0AY/VVlFf6tg6/nI58StdDJm1HkpcLiD28sIb4VvKGEKaJm2XueO5JdTI8NGZtnNhONb/lk6cn2bl09TnETwIzE829K4FV6v3xWlXqV28vGech4VB7EAUNE8wu2KfWihw7fQ=;ICC+gnygVQ7su28lJtDtkw=="
 ---
 

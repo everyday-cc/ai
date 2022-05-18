@@ -71,6 +71,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 21
+  - title: "Facial recognition technology is a valuable tool"
+    excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."
+    publishedDateTime: 2022-05-15T18:32:00Z
+    webUrl: "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 19
 
 secured: "JLDzeIEzmRuPSmiQPOcrTtWNNd2x9dr0Be57C6RhADxrG2+L+ltlAaUjbZnIhzBnoW5AvHXI+K9GooPt905LVIwetxt+yXZIpa10n2Jk0pSrZC0T87jG/OmpCOJvnqC74pEHFh1shijIv2qbTQ9JR8FICTrdg5ASqG9VuzOmk0s00fUktbOoUGQ9zb1SO0rKVjDMTbzY3Brxtn6qERjOuBDDG9SoAgqgyHi7WG1mBfqv7WL6sezJBsA9yJDAvwLFhyAPc2bgatt6CEeX1KT78y8coMttcHxZUGpfPWd1LD6oVUTg8yXvgMiAl8dlnK1LEo+2ztPPvSUPjFS5GAfXn98EtZt5A7E2bqIju36st45Ci8fwoibncL3nSwKR2gnlC+Z7UF17i9ciMIkPOFQ9nR6OG73EbQXYPx8i7uW0Y4UAMBsDjYLlsRflHFhHIHs57DrjeBoVYyMr07cxbkXkWyfLzTvYjLCtGl9n4k5cyMSTUbyJzoahIUITd301tRO0FA8nGN0AvqLxIoewBdMfWw==;2vsnj0UeHjo/0PcsMAwI+A=="
 ---

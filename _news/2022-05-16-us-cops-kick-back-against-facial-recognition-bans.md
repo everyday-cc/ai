@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: theregister
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition May Not Be Banned After All"
-    excerpt: "Following efforts to ban the use of facial recognition technology by authorities, it seems that some cities are having second thoughts amidst an increase in their crime rate. Some U.S. states and ..."
-    publishedDateTime: 2022-05-13T15:42:00Z
-    webUrl: "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074"
-    ampWebUrl: "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp"
+  - title: "Facial recognition surveillance is a threat to civil liberties"
+    excerpt: "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ..."
+    publishedDateTime: 2022-05-15T15:59:00Z
+    webUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
+    ampWebUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 61
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bc3f198cf7b38c71dd7b8b87c579e986.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.dailynews.com/wp-content/uploads/2022/05/IDB-L-CHINOPD-0212-16x9-2.jpg?w=1024&h=578"
+        width: 1024
+        height: 578
         isCached: true
   - title: "Facial recognition is making a comeback in US cities. Here's what we know"
     excerpt: "Policymaker consensus around facial recognition technology is changing, with some US cities electing to reverse bans on the AI tech, but debate is ongoing."
@@ -59,20 +59,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "The issues with the EU’s draft regulation on facial recognition AI"
-    excerpt: "Dr Kris Shrishak of the ICCL spoke to SiliconRepublic.com about where the EU’s planned AI regulation could improve ways to address facial recognition companies in the US. It is no surprise that the global discussion on facial recognition technology has ..."
-    publishedDateTime: 2022-05-17T10:16:00Z
-    webUrl: "https://www.siliconrepublic.com/enterprise/the-issues-with-the-eus-draft-regulation-on-facial-recognition-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_286930709.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Move to regulate facial recognition technology"
     excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."
     publishedDateTime: 2022-05-17T04:30:00Z
@@ -87,15 +73,6 @@ related:
         width: 1320
         height: 760
         isCached: true
-  - title: "Facial recognition technology is a valuable tool"
-    excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."
-    publishedDateTime: 2022-05-15T18:32:00Z
-    webUrl: "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 19
 
 secured: "xr7ZB0/4MHeFFvQJmjxC0onMaEtLFykxP0EQdvNg5oB6ecCH3VNw0KaKayYLR0w3BGbQ8ACZTwPfuqkO4nu52m7162QYqR8zXluhbT4njSzJKWJPAN9/FuQheyGmYzsNKbKeAHZfjNjO7EOVC9cOdOrFwMtzPF1ySvrHc6+7Wu7IiimijuFRduBN3HKorAGkoX6m6i6MuO/QOfkJe7U+AVKjVOeT9Ap/1URLOFR5MHEWKeWxNlyUZXVSJbmlbQm7DdSbXmYpFKorwTngWnDi3Zttgw4xyXL+6TVdpciI/RanPiqzxc53XUVzLr3j1ynDze7SFSTA8dqKcjj7hbojPeUup7KSTd0+73Oa7knTs0E=;uHDiq27zQuStO10+R5toOw=="
 ---

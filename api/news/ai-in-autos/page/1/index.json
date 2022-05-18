@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-18-tesla-to-host-second-artificial-intelligence-day-in-august.md",
+      "title": "Tesla to Host Second Artificial Intelligence Day in August",
+      "excerpt": "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day on Aug. 19, with the company likely to expand on plans to fine-tune its self-driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august?context=amp",
+      "publishedDateTime": "2022-05-17T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-elon-musk-announces-tesla-ai-day-2-with-many-cool-updates.md",
       "title": "Elon Musk announces ‘Tesla AI Day #2’ with ‘many cool updates’",
       "excerpt": "Elon Musk announced today that Tesla is going to hold a new ‘AI Day’ during which it will release “many cool updates”. It will be held on August 19. Over the last few years, Tesla has started to hold somewhat regular annual events with specific subjects at the center of the presentation – not unlike",
@@ -680,36 +723,36 @@
       ]
     },
     {
-      "path": "_news/2022-05-10-artificial-intelligence-helps-prevent-suicide-in-ohio.md",
-      "title": "Artificial Intelligence Helps Prevent Suicide in Ohio",
-      "excerpt": "CareSource, a nationally recognized nonprofit health plan, announced today a collaboration with Clarigent Health to bring Artificial Intelligence (AI) to behavioral health providers in Ohio. Clairity,",
+      "path": "_news/2022-05-10-self-driving-microscopes-discover-shortcuts-to-new-materials.md",
+      "title": "'Self-driving' microscopes discover shortcuts to new materials",
+      "excerpt": "Researchers are teaching microscopes to drive discoveries with an intuitive algorithm that could guide breakthroughs in new materials for energy technologies, sensing and computing.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f",
+      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220509150750.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220509150750.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T08:42:00-07:00",
+      "publishedDateTime": "2022-05-09T13:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1359,49 +1402,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-can-artificial-intelligence-help-fight-western-wildfires.md",
-      "title": "Can Artificial Intelligence Help Fight Western Wildfires?",
-      "excerpt": "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
-      "originalUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/bd7f643/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F29%2F8eabf0f5fb605508abbc28c7f04c%2Fshutterstock-2189586432.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
-      "publishedDateTime": "2022-05-03T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

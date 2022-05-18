@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/why-cios-should-p
 webUrl: "https://www.beckershospitalreview.com/innovation/why-cios-should-pay-attention-to-ai-ethics-governance.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 460
     height: 460
     isCached: true
-
-related:
-  - title: "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations"
-    excerpt: "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ..."
-    publishedDateTime: 2022-05-13T16:22:00Z
-    webUrl: "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 88
-    images:
-      - url: "https://images.wsj.net/im-543938/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "k6JAH9a8v5a51b2Jr10LYARIFPc/J+S1OiHaHmGksmwvDr1yAyc6wXS0o1Q3Y+iXihhuGyFAtDJAyRNTc7Uc4Bge7xtddUmUNCps5vuZwkYcMx/naRdVoObsAsXO+kHIj7D7/wQ9g2tv4i6qXe77R0aXAmVYDBSC8xW2AWYWss/b996l6rPqF/3dxdLaCvsp73kluVzyOh15E0x+B7bsTNUOhgjZn2f6DvpMBdKAjhrM6QnXZV6hpMnooJ3FRT/Cy2n4hT7BBmOjFSWqLPinfMbY45rcJ2pWgKBL31C4bYUGU5exI/dFLs4D0MxRtMJHwCr0IC14LXavL6Sgh22FrF0osyF2FloJSDk7VxK8qes=;6rNftwzs0K016qExsm1a4g=="
 ---

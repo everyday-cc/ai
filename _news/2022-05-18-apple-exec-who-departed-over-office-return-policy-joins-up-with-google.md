@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple machine learning boss defects to Google over return-to-office policy"
+    excerpt: "Former Apple machine learning director Ian Goodfellow has defected to Google over Apple's strict post-lockdown policy."
+    publishedDateTime: 2022-05-18T09:13:00Z
+    webUrl: "https://www.trustedreviews.com/news/apple-machine-learning-boss-defects-to-google-over-return-to-office-policy-4234208"
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 37
+    images:
+      - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2017/09/apple_park_photo_2_theater.0.jpeg"
+        width: 1820
+        height: 1213
+        isCached: true
   - title: "Apple Machine Learning Director Who Left Over Office Return Policy Joins Google"
     excerpt: "Earlier this month, former Apple director of machine learning Ian Goodfellow made headlines when he resigned from his position due to Apple's refusal to allow employees to continue to work remotely full time. Goodfellow has now found another company to ..."
     publishedDateTime: 2022-05-18T00:04:00Z

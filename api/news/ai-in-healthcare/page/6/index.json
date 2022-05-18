@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-02-pepper-the-robot-offers-friendly-face-tackling-crimes-against-children.md",
+      "title": "Pepper the robot offers friendly face tackling crimes against children",
+      "excerpt": "The semi-humanoid robot Pepper is being used by police in the United Arab Emirates to uncover crimes against children such as abuse and exploitation, a sensitive area where a friendly android face could prove more approachable and less traumatic for those involved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/",
+      "originalUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.laprensalatina.com/wp-content/uploads/2022/03/4418555f46dfa57ee74e09e597cb156b06f0c15bw-1024x768.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/amp/",
+      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/amp/",
+      "publishedDateTime": "2022-03-02T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Prensa Latina",
+        "domain": "laprensalatina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-gleamer-receives-fda-clearance-for-its-artificial-intelligence-software-to-help-detect-and-localize-fractures.md",
       "title": "GLEAMER Receives FDA Clearance for Its Artificial Intelligence Software to Help Detect and Localize Fractures",
       "excerpt": "GLEAMER, a French medtech company pioneering the use of artificial intelligence technology in the practice of radiology, announced today that the United States Food",
@@ -1253,49 +1297,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-artificial-intelligence-uses-facial-features-to-better-diagnose-rare-genetic-diseases.md",
-      "title": "Artificial intelligence uses facial features to better diagnose rare genetic diseases",
-      "excerpt": "\"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible,\" says ... However, this varies from disease to disease. Artificial intelligence (AI) uses these facial characteristics, calculates the similarities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220210/Artificial-intelligence-uses-facial-features-to-better-diagnose-rare-genetic-diseases.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220210/Artificial-intelligence-uses-facial-features-to-better-diagnose-rare-genetic-diseases.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220210/Artificial-intelligence-uses-facial-features-to-better-diagnose-rare-genetic-diseases.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220210/Artificial-intelligence-uses-facial-features-to-better-diagnose-rare-genetic-diseases.aspx",
-      "publishedDateTime": "2022-02-10T18:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

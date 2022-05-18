@@ -36,22 +36,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Inflection AI, led by LinkedIn and DeepMind co-founders, raises $225M to transform computer-human interactions"
-    excerpt: "Inflection AI, the startup co-founded by LinkedIn co-founder Reid Hoffman and founding DeepMind member Mustafa Suleyman, has raised $225 million in funding."
-    publishedDateTime: 2022-05-13T16:23:00Z
-    webUrl: "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/"
-    ampWebUrl: "https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?w=1024"
-        width: 1024
-        height: 632
-        isCached: true
   - title: "Newly launched AI startup Inflection AI raises $225M in funding"
     excerpt: "Artificial intelligence startup Inflection AI Inc. has raised $225 million in funding. Inflection AI detailed the funding in a filing with the U.S. Securities and Exchange Commission. The Palo Alto, California-based startup specified that the financing was provided in the form of an equity investment but didn’t disclose the investors who provided the capital."
     publishedDateTime: 2022-05-13T19:54:00Z

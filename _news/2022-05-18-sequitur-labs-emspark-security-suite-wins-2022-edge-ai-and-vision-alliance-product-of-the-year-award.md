@@ -1,30 +1,25 @@
 ---
 category: news
 title: "Sequitur Labs EmSPARK Security Suite Wins 2022 Edge AI and Vision Alliance Product of the Year Award"
-excerpt: "Sequitur Labs today announced that the company’s flagship IoT security platform, the EmSPARK Security Suite, has been named Best Edge AI Software Product of the Year in the annual Edge AI and Vision Alliance awards."
+excerpt: "Company Takes First Place for Best Edge AI Software Sequitur Labs today announced that the company's flagship IoT security platform, the EmSPARK Security Suite, has been named Best Edge AI Software Pr"
 publishedDateTime: 2022-05-18T03:56:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-db7c2e9e7e4d43cf8590798e860ad599"
-webUrl: "https://apnews.com/press-release/business-wire/technology-db7c2e9e7e4d43cf8590798e860ad599"
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/b27269103/sequitur-labs-emspark-security-suite-wins-2022-edge-ai-and-vision-alliance-product-of-the-year-awa"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/b27269103/sequitur-labs-emspark-security-suite-wins-2022-edge-ai-and-vision-alliance-product-of-the-year-awa"
+ampWebUrl: "https://www.benzinga.com/amp/content/27269103"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27269103"
 type: article
-quality: 43
-heat: 43
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
   - AI in Security
-  - AI Hardware
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Edge AI and Vision Alliance awards Blaize®, Inc., Best Edge AI Processor in annual Product of the Year ceremony"
@@ -42,6 +37,6 @@ related:
         height: 450
         isCached: true
 
-secured: "wP3ocSBIJjiEWIfite7ZQ24pj3BBcQCqgPMA1DjrWvJLgYaprnF+9x6iLdD3MCbG13HEmv71PYoU821EevajI6uOH1HM2gMCJkGy6eiu0j8nuZPEbbZJ5wEZzvU80heYtR+BsGUUk9PHdNZYG4tE+iSf7c94z0kzom81mXUaiL5k0lmehmSt90OrUR/xNp8BrVTU4rocHcGeSYnom3x2/Iync5x4of+N0ArBpAzKanGKctWwN3ZzgHoC02eG7d715WHrSaRhmjkyUMi+PL2Di1tKFNSAo8wnPL+ftfvf3AExJ5M8zNCAzYhS0cDc5LEjEPmCgXZ9oN02qkWi/aMD9Yfm4lBblGlNKuEkzlg2FCs=;dKISqJfUYv7CyOMzIA5teQ=="
+secured: "rdjQMexkwrgKpJ9U6VZl0psVZa14CeWRSaKAi6anovk8TYxKWNm8aS54XBR3f70PScEppMQfD3VQdvMPCRhJ+aGTFEs8wl4qKFW8p5rhInWtTX6ZBsY7lqvOQJINqzxncDSY+OPeP1qN03WXKYGVlhf2YKphUMoltne8pYzswF14yo42DjZafwfNNmVUekUyu5tVG+uFbrEzYyd0WHEkqVFHn6hwlMb367S0qmYJpSMY7XBQsuO/Wzn68Y9y2gz+ys6vRlgu0ZoDGV6waUIDGnAfLDNI8AWoow8X6RZ5tlcg7afiCF4X7K9Pe1ikCE7ulqObjM6xiIxgPWKH5isD3tMVq4e+NUqQ2wIY5DuLtM8=;+Y/Dqujvl3VA7DzFhhOvag=="
 ---
 

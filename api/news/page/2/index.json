@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-17-deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-the-game-is-over.md",
+      "title": "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’",
+      "excerpt": "A DeepMind lead researcher made the bold claim that the company's newest AI was a 'game over' product for AGI research.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over",
+      "originalUrl": "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FscalingAI.jpg&signature=9bc3b164454b20146d307326beb8c1b3",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-ai-models-identify-covid-19-patients-at-the-greatest-risk-of-death-injury.md",
+      "title": "AI models identify COVID-19 patients at the greatest risk of death, injury",
+      "excerpt": "New artificial intelligence (AI) models can help doctors prioritize care by predicting which COVID-19 patients are most at risk of dying or developing kidney injuries during hospitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-patient.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp",
+      "publishedDateTime": "2022-05-16T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-personalize-your-machine-translation-results-by-using-fuzzy-matching-with-amazon-translate.md",
       "title": "Personalize your machine translation results by using fuzzy matching with Amazon Translate",
       "excerpt": "A person’s vernacular is part of the characteristics that make them unique. There are often countless different ways to express one specific idea. When a firm communicates with their customers, it’s critical that the message is delivered in a way that best represents the information they’re trying to",
@@ -158,7 +252,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -409,6 +503,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-16-us-cops-kick-back-against-facial-recognition-bans.md",
+      "title": "US cops kick back against facial recognition bans",
+      "excerpt": "In brief Facial recognition bans passed by US cities are being overturned as law enforcement and lobbyist groups pressure local governments to tackle rising crime rates. In July, the state of Virginia will scrap its ban on the controversial technology after less than a year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
+      "originalUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/03/05/facial.jpg",
+          "width": 1000,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/",
+      "publishedDateTime": "2022-05-16T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases.md",
       "title": "Dental AI Startup Wins Second FDA Clearance To Detect Top Oral Diseases",
       "excerpt": "The FDA has awarded dental AI startup Overjet with landmark clearance to use its software to detect and outline cavities in patients’ X-rays. It’s the second FDA clearance for the company, co-founded in 2018 by CEO Wardah Inam almost a decade after she ...",
@@ -606,7 +743,7 @@
       "originalUrl": "https://www.cnbc.com/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -865,48 +1002,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-14-bosses-using-ai-to-hire-candidates-risk-discriminating-against-disabled-applicants.md",
-      "title": "Bosses using AI to hire candidates risk discriminating against disabled applicants",
-      "excerpt": "The Biden administration and Department of Justice have warned employers using AI software for recruitment purposes to take extra steps to support disabled job applicants or they risk violating the Americans with Disabilities Act (ADA).",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/14/recruitment_ai_disabled_discrimination/",
-      "originalUrl": "https://www.theregister.com/2022/05/14/recruitment_ai_disabled_discrimination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/05/13/shutterstock_robot_recruiter.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/",
-      "publishedDateTime": "2022-05-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-14-public-buses-in-tamil-nadu-to-get-ai-enabled-panic-button.md",
       "title": "Public buses in Tamil Nadu to get AI-enabled panic button",
       "excerpt": "Tamil Nadu Chief Minister M K Stalin on Saturday launched Artificial Intelligence (AI)-enabled panic button-cum-CCTV surveillance project in 500 Chennai buses as part of an initiative to improve the safety of women and children.",
@@ -1084,94 +1179,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-ai-trends-to-watch-out-for-in-digital-healthcare.md",
-      "title": "AI trends to watch out for in digital healthcare",
-      "excerpt": "The advent of new age technologies has influenced and affected several sectors and healthcare has also received its share of transformation. Today, the healthcare sector looks much different than it did just a decade",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
-      "publishedDateTime": "2022-05-14T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap.md",
-      "title": "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP",
-      "excerpt": "The global Call Center AI Market size is to grow from USD 1.6 billion in 2022 to USD 4.1 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.3% during the forecast period. The advent of AI in the call center offers enhanced customer support services and better experience coupled with rising development in customer engagement through social media platforms to boost the growth of the call center AI in the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

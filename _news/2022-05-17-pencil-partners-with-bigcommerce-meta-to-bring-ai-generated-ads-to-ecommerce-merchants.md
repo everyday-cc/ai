@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pencil Partners With Bigcommerce & Meta To Bring AI-Generated Ads To Ecommerce Merchants"
-    excerpt: "Creative AI company Pencil has partnered with new-era ecommerce platform BigCommerce to provide their merchants with the latest innovation in online advertising for ecommerce, AI-generated ads. Rather than spending hours in video editing software or engaging expensive professional agencies,"
-    publishedDateTime: 2022-05-18T07:42:00Z
-    webUrl: "https://menafn.com/1104232927/Pencil-Partners-With-Bigcommerce-Meta-To-Bring-AI-Generated-Ads-To-Ecommerce-Merchants"
+  - title: "Pencil partners with BigCommerce & Meta to bring AI-generated ads to ecommerce merchants"
+    excerpt: "The OpenAI API provides access to GPT-3, one of the world’s most powerful language models. Its use requires strict criteria in AI safety and ethics. About Pencil Pencil is a Creative AI company on a mission to generate unexpected ideas that get results."
+    publishedDateTime: 2022-05-18T06:36:00Z
+    webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-facebook-09248720f791f50714a2828b85ea937d"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Associated Press
+      domain: apnews.com
     quality: 30
     images:
-      - url: "https://menafn.com/updates/pr/2022-05/18/ND_51286image_story.png"
-        width: 1169
-        height: 779
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "BA7tbxvCGGiAi1W62otTLHyEkCEg7DgdVJsDYIEcK1lS5kBcKie3xJOiyUj+OB63NLLhBYuTLgaL1L2WjztGoPE74asa67RCedJ8ZokLKdVdeOrMm0L8OlKQke9BpBukEjXiHpsqYxQyyeR3bCGVE/o20HqMMy5A+HSv6FQaEk3uFkSGA5h2/A4F1qow/gqKZVLZtb+Yu0Qdk2yFOLFRHvSVkJ4J9RMIJUHGVzd1frqtnLvSE352A9LQY9ZTUqypZcjG0enaa26RwF5mD9uhLfASD5eR4Z1wpPRzqg+fBhEHi7a7P34cbZ05C3UNaUGarxaylOIP6H9Lr3X3257pxV9XzQHF9plBwBlxvpH5rQ8=;e9lsy4jYxht5+eZQfWyATA=="

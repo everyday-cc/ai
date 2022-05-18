@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 1659
         isCached: true
+  - title: "AI-powered construction management platform Buildots lands $60M"
+    excerpt: "who co-founded construction tech startup Buildots in 2018 with Aviv Leibovici and Yakir Sudry. Graduates of the Israel Defense Forces (IDF), the founders created a platform that leverages AI and ..."
+    publishedDateTime: 2022-05-17T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/05/17/ai-powered-construction-management-platform-buildots-lands-60m/"
+    ampWebUrl: "https://techcrunch.com/2022/05/17/ai-powered-construction-management-platform-buildots-lands-60m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/ai-powered-construction-management-platform-buildots-lands-60m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/buildots.jpg?w=680"
+        width: 680
+        height: 382
+        isCached: true
   - title: "Curious Thing’s voice AI communication platform asks the right questions"
     excerpt: "Sydney-based Curious Thing is an aptly-named startup. The voice AI communication platform can call people and ask them questions like “How are you feeling today?” and then follow up with ..."
     publishedDateTime: 2022-05-15T20:00:00Z

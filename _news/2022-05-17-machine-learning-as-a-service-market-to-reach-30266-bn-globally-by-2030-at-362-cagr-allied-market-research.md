@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Machine learning as a Service Market to Reach $302.66 Bn, Globally, by 2030 at 36.2% CAGR: Allied Market Research"
-excerpt: "Allied Market Research published a report, titled, \"Machine learning as a Service Market by By Application (Marketing and Advertising,"
+excerpt: "Rise in demand for cloud computing and surge in adoption of analytical solutions drive the growth of the global machine learning as a service market"
 publishedDateTime: 2022-05-17T13:30:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at-36-2-cagr-allied-market-research-895645004.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at-36-2-cagr-allied-market-research-895645004.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at/article_5fee64a7-ba3b-5bae-8dc5-3b958db0c951.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at/article_5fee64a7-ba3b-5bae-8dc5-3b958db0c951.html"
 type: article
-quality: 20
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/61ea06e968cf9.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -41,6 +40,6 @@ related:
         height: 337
         isCached: true
 
-secured: "hbMgcDK4aD9J9+kQL7RRypOpUlJTYZjFRLvPoWYWijqp0/z+qoNkBPaiCRuIgA/kbmQi4xDlgIjf4DHbHNMfWoM4iMS9RPu706u1a4kH5LhqUE96vnqD5QUw9A15D5tYD4NZauqJs5RXYMFRYUCFvdmLMBZV9kNMKGRrskanNclpL6AvNRcjUy5x3oM/NzCzV9oqM6wIpEXRmOgmBwJquxvzo9Zs8uTBK+BVUG0d+C6WtOwUXzizqmOLasgHKmPIqftcbPmCY8NGl1e48f4faIBbPU+Dw8L8uTdvXjI/SixTBm0CmfP6LIAJYk1nnEa8sXJdToPiV1GIKhFjNNyHffr3hEn2vmVrmoQgOfUQZwQ=;GrQIoX3BkiWEsOo4oCpmgA=="
+secured: "brlXnhsNq+5uL+3ap3klcB/p0CmU0cDN0GMf8khFJHGFUvuu6Ww+o6WDCnxh6m6eG6WGmGsNuvt/57eY19qxUAhg9ATiFPIm78A5iOYOQVf0rSPhPnCRftNE71EgvgqmD3+lyQFrIUAppRnJ89OhU7sTBQ39ZECWGnwqzRV9PkSBrqQnOsbJDKNhG7vLq89VcaGHGcEXL8byDip86jyXnmxFKKW6OYiT1kRO9XsckY4S52t7oFJt9AJKFoTLYNoJHMompiVuvlGtD/yizlJWfizNt1kOpu5q9ccl29Iaj3b3wL8wirVp4+H7el/0HNAvwY6iGk6Qhbh2aDbrWW5r8v8iApk/EWeyuKRD6ib6Fwo=;Ms3QugshlChcjpRM4l8Dhg=="
 ---
 

@@ -70,6 +70,15 @@ related:
         width: 768
         height: 513
         isCached: true
+  - title: "Facial recognition technology is a valuable tool"
+    excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."
+    publishedDateTime: 2022-05-15T18:32:00Z
+    webUrl: "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 19
 
 secured: "iqo1IoqRVPgH3g7mwkTOOQ+eVJQafiY3nGZte+PIklUqpVAOT2CJQywx+DGUB2xMc0AIUb//76Y/xuPIxB7xalheH1DOSp6+zDxm5ww+syd1R821fIgpdQq6AQaWsYdsHJBdfZBXURhLib255Mo73MuZCxgyAQbMCc93dj35Fcn2V9H1PlocoQulCrqEiO8ByJvzGO2BDurYZBubh4Xa2/JqFTX8K/aRoy2rX3vUD8rsJxTq2tZN897mF3B9td04msvv7QkFQqeU3HSgO+kpjHrm2LvRfle/DfHrW3jPEDr6oe7p+Q96qU4cBhYUP8aUSjYnO6UvVXqcjtLWj0nOy36t25ciFYDPgGaWAFYwnuc=;lio8MtNY0sLndB1Vn0Ry4A=="
 ---

@@ -80,20 +80,6 @@ related:
         width: 455
         height: 250
         isCached: true
-  - title: "The Delivery Robots Market size is expected to reach USD 957 million by 2026 from USD 212 million in 2021"
-    excerpt: "\"Delivery Robots Market\"Delivery robots market size is projected to grow from USD 212 million in 2021 to USD 957 million by 2026, at a CAGR of 35.1% from"
-    publishedDateTime: 2022-05-13T15:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million-in-2021"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/df545f41fed2420d2a28c1c8a30f83aff362c268-1-e1652495322767-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Nanotechnology Market is Globally Expected to Drive Growth of USD 5.96 billion by 2027 : Fior Markets"
     excerpt: "Asia-Pacific is the region which is expected to grow with the highest CAGR. The reason behind this is the emerging artificial intelligence firms and the increased usage of nanotechnology in the field of medicine. Get Free Sample Copy: https ..."
     publishedDateTime: 2022-05-18T07:00:00Z
@@ -105,6 +91,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 9
+  - title: "Voice Cloning Market to reach at an estimated value of USD 4446.08 million and grow at a CAGR of 25.74% by 2028"
+    excerpt: "Voice Cloning Market business report is a great resource which provides present as well as upcoming technical and financial details of the industry to"
+    publishedDateTime: 2022-05-18T08:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/voice-cloning-market-to-reach-at-an-estimated-value-of-usd-4446-08-million-and-grow-at-a-cagr-of-25-74-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 4
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI in Drug Discovery Market Global Demand, Opportunities, Growth, Segment Analysis and Forecast to 2027"
     excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a robust CAGR of 40.8% throughout the forecast period. The global AI in the drug discovery market has been ..."
     publishedDateTime: 2022-05-16T12:14:00Z

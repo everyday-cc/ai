@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Pencil Partners With Bigcommerce & Meta To Bring AI-Generated Ads To Ecommerce Merchants"
-excerpt: "Creative AI company Pencil has partnered with new-era ecommerce platform BigCommerce to provide their merchants with the latest innovation in online advertising for ecommerce, AI-generated ads. Rather than spending hours in video editing software or engaging expensive professional agencies,"
-publishedDateTime: 2022-05-18T07:42:00Z
-originalUrl: "https://menafn.com/1104232927/Pencil-Partners-With-Bigcommerce-Meta-To-Bring-AI-Generated-Ads-To-Ecommerce-Merchants"
-webUrl: "https://menafn.com/1104232927/Pencil-Partners-With-Bigcommerce-Meta-To-Bring-AI-Generated-Ads-To-Ecommerce-Merchants"
+title: "Pencil partners with BigCommerce & Meta to bring AI-generated ads to ecommerce merchants"
+excerpt: "The OpenAI API provides access to GPT-3, one of the world’s most powerful language models. Its use requires strict criteria in AI safety and ethics. About Pencil Pencil is a Creative AI company on a mission to generate unexpected ideas that get results."
+publishedDateTime: 2022-05-18T06:36:00Z
+originalUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-facebook-09248720f791f50714a2828b85ea937d"
+webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-facebook-09248720f791f50714a2828b85ea937d"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-05/18/ND_51286image_story.png"
-    width: 1169
-    height: 779
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "WiIZPEhh7jSHCojJX2sJJsT5bCbbhskSYLl7mBlpNOsti0Sa9NclFpErxG0SuIhY5mhaDDGVgIBnc5EUjB/vybslFD8tTMry1I7FD9OI+orfptkTcz6VfKLzRijB/lh9AR/uq2mF1MnN2anK5lkfXq2a+Po+dUXSvTv7I6xgOLZlyERqAlMW1Ff4BVbFYjlkwE3CumRr80v5sW8TlpQFEgImoTNwk6KjjmJdnMZnG3Sxt19kDrIsuP5ezpD71S0OwyGNfvit/itRgGm+CObukOG9g2a+XTVS8Xvyn6WG1nQitWOv8vvp0u/qnLTGot0jZr7+LtrV3pUz1u3aS02MHR7/hbKvZhUBHg3V+5rZRJM=;ffY4cPFdCN3KxmGBEoNM+A=="
+secured: "64kVYNF06ogQ0lhRnIF1bhXcdZ2icmACN+9FPbpxSop5mw0h3UwkqUfFpafnqGLHMKbotkKkDu5+pAGXb0PP3+bh2IVvbs0d3+86De9WcqG1ur5ZkMG+VJ4d5U9NORTci3ERRvQ0OzCEXF/6mT+cflayI/DMx5GJb8R2DdpOTdjU0lmNaGUHaEzgjfnW3SxC+gn2OhmS5BdHulEKLNkS6l2ntRgqWLDIOmcPMBNxRlLH5MOH0VQcAYzpzsRpfIyBedF926koKOj5ruUQeOuEFXHvtC6xaHgZvHj2UQmMXJBPI8+MyPImvjQqYjMrdAJYx35IBghTpZoqtWa9ZAoTBMN9sW8ouT7QSmNKzAYMB4k=;CyKVcxB+jLzJ59mEsnsAGg=="
 ---
 

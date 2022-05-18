@@ -7,7 +7,7 @@ originalUrl: "https://www.indiablooms.com/finance-details/16111/green-finance-ai
 webUrl: "https://www.indiablooms.com/finance-details/16111/green-finance-ai-space-health-are-potential-areas-of-collaboration-with-india-luxembourg-ambassador-to-india.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 800
     height: 500
     isCached: true
-
-related:
-  - title: "Start-ups helping India bridge the healthcare divide"
-    excerpt: "Technology is fast becoming an integral part of all aspects. Technologies like artificial intelligence (AI), Big data, machine learning (ML), Blockchain, cloud computing, etc., have transformed businesses and industries."
-    publishedDateTime: 2022-05-13T15:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/start-ups-helping-india-bridge-the-healthcare-divide/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/start-ups-helping-india-bridge-the-healthcare-divide/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/start-ups-helping-india-bridge-the-healthcare-divide/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/Ramya.png"
-        width: 335
-        height: 371
-        isCached: true
 
 secured: "IJrZtwnSWd4przWpyzZADlfJZP5VhSEB6+v3B0thpd6gKlU4piS1Vz/oWtAKTmbtKxVfenVNRq43XAYeYNTvT1VJ8876ZRhuJ9YuDuLBJaIv2pjB5L7n0YQWzJVK8ebzdCTscrnBLr7FUTpuRTVahiZ73PIrmIAwJwK+Maj4OQTGLoVqMAFR8WCH4Hfex2jqQNeGbZlRcfX4vgbQovrtC4DSotmPv/lf3ClAoTCZ1pfLJqOU1lOABp3EsbJs/SjDwZ025/hpYcoBn6/Hdx2KV6mqTe7pFrF2mk+fpuX9Mmq69whvD7d0Lyi4WVlW7VTgpE3eHyzNgOx0shrQMKaQ321kJO1xwYpJNGe6VMwWh8c=;WBQi8B/3AknJdg/ftTccSw=="
 ---

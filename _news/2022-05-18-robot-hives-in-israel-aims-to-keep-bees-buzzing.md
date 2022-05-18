@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Robot hives in Israel kibbutz hope to keep bees buzzing"
+    excerpt: "They function as normal hives, but apiaries built at a kibbutz in Israel's Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators."
+    publishedDateTime: 2022-05-18T08:19:00Z
+    webUrl: "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/robot-equipped-beehive.jpg"
+        width: 1024
+        height: 741
+        isCached: true
   - title: "Robot hives hope to keep bees buzzing"
     excerpt: "They function as normal hives, but apiaries built at a kibbutz in Israel’s Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators."
     publishedDateTime: 2022-05-18T06:20:00Z

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-05-logistics-giants-hedge-their-bets-in-uncertain-us-self-driving-truck-race.md",
+      "title": "Logistics giants hedge their bets in uncertain U.S. self-driving truck race",
+      "excerpt": "TUCSON, Ariz., April 4 (Reuters) - U.S. self-driving truck companies have a golden opportunity in the form of a nationwide driver shortage, but their robot drivers still are not ready and neither ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/logistics-giants-hedge-their-bets-uncertain-us-self-driving-truck-race-2022-04-04/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/logistics-giants-hedge-their-bets-uncertain-us-self-driving-truck-race-2022-04-04/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T21:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations.md",
       "title": "Here's How AI Optimizes Executive-Level Decision-Making In Mega-Corporations",
       "excerpt": "Artificial intelligence's application is altering business and at the same time, it is evolving as significant gains in computing capability allow for more complicated programs than ever before. Enterprise AI,",
@@ -1323,49 +1366,6 @@
         "AI in Autos",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-toyota-starts-testing-self-driving-ride-hailing-fleet.md",
-      "title": "Toyota starts testing self-driving ride-hailing fleet",
-      "excerpt": "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410",
-      "originalUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp",
-      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp",
-      "publishedDateTime": "2022-03-27T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philkotse",
-        "domain": "philkotse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

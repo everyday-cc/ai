@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-artifici
 webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-17T22:45:00Z
-    webUrl: "https://www.abc4.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+  - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
+    excerpt: "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". The word \"Markets Insider\". Two crossed lines that form an 'X'."
+    publishedDateTime: 2022-05-17T16:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running-1031469372"
     type: article
     provider:
-      name: abc4.com
-      domain: abc4.com
-    quality: 38
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
     images:
-      - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
+      - url: "https://mma.prnewswire.com/media/1819489/Jina_AI_CBInsights_2022_V02__1.jpg"
         width: 400
-        height: 400
+        height: 225
         isCached: true
   - title: "TrojAI Inc. Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named TrojAI Inc. to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"Protecting AI has become recognized as the most significant cybersecurity challenge of the next decade,"
@@ -53,6 +53,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Factory optimization software maker Fero Labs is recognized for achievements in industrial automation for modern manufacturers NEW YORK, May 17, 2022 /PRNewswire/ -- CB Insights today named Fero Labs to its annual AI 100 ranking,"
+    publishedDateTime: 2022-05-17T20:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Wellsaid Labs Named To The 2022 CB Insights AI 100 List Of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking , showcasing the 100 most promising private artificial intelligence companies in the world. 'This is the sixth year that CB ..."
     publishedDateTime: 2022-05-18T07:49:00Z
@@ -67,20 +81,6 @@ related:
         width: 1250
         height: 653
         isCached: true
-  - title: "SparkCognition Named to 2022 CB Insights AI 100 List of Most Promising AI Companies in the World"
-    excerpt: "Unicorn valued AI software company recognized for fifth time on prestigious list AUSTIN, Texas, May 17, 2022 /PRNewswire/ -- SparkCognition, a global leader in artificial intelligence (AI) software solutions for industry,"
-    publishedDateTime: 2022-05-17T14:14:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-f2186772fd3949dc6233de1ca9d14181"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Cresta Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "SAN FRANCISCO, May 17, 2022 /PRNewswire/ -- CB Insights today named Cresta to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
     publishedDateTime: 2022-05-17T13:07:00Z
@@ -90,20 +90,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
-    excerpt: "Leading cloud-native and AI-based open-source neural search provider Jina AI has this week been recognized in CB Insights 2022 AI 100 as one of the most innovative AI startups. This marks the second consecutive year Jina AI has appeared on the list,"
-    publishedDateTime: 2022-05-17T16:52:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-c2f213f112ef866227537f9fc48f3de8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Observe.AI Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "Observe.AI (  an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named to CB Insights’ annual AI 100 Ranking, which showcases the 100 most promising private artificial intelligence companies in the world."
     publishedDateTime: 2022-05-17T13:10:00Z

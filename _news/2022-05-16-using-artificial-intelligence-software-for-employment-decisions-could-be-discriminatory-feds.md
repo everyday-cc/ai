@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "AI compounds discrimination against disabled"
-    excerpt: "Organizations are responsible for ensuring their hiring and performance management tools do not discriminate against individuals with disabilities, federal civil rights officials say."
-    publishedDateTime: 2022-05-13T15:41:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/05/ai-compounds-discrimination-against-disabled/366901/"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://cdn.gcn.com/media/img/cd/2022/05/13/051222_getty_fcw_ai_brain/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "yJyYS5GobZYSoMmnZ+NGeSh5uLeqOUVzjZOWFwlPY0Ly9sFbaR0Cco9gcAxP6JqFMbj+IscOEQXlH0hzKsa21Ws4Qtzy/wwDjzbocEKklwpL+5/npmRxSN1T2KgAqDcK69k/+bHSYz9cAT9m07PHOWX1ROtFmWgN7k5qLeQgU5N3a0siu1a6/mUDqhE8oPfsmd97T1mc/DniU6UIYbRhy86x9jyid4OTTqX7EIKM2wfQJMkBgkwhC1fmWJe1ouBggyVDw6o1u2m9XyUHtxEpAO7tXhu8tmkvlMoTL8E/7H4eKO9ogHou/B9gTbKBbz+yViUJEq/Hj8IawMNvibWA7BX/kyrPDlrcIJg0K47PfEI=;Sgy+4I7Pu26h8ygxOuGB2w=="
 ---

@@ -2,25 +2,19 @@
 category: news
 title: "Artificial Intelligence Helps Prevent Suicide in Ohio"
 excerpt: "CareSource, a nationally recognized nonprofit health plan, announced today a collaboration with Clarigent Health to bring Artificial Intelligence (AI) to behavioral health providers in Ohio. Clairity,"
-publishedDateTime: 2022-05-10T15:42:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-business-artificial-intelligence-ohio-62293cc00e090ea09932a72f2994ad1f"
+publishedDateTime: 2022-05-10T16:39:00Z
+originalUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
+webUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Kxnet
+  domain: kxnet.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "ZsTX7aULD5CODGNZZ8qmKoA2l2M+udS6gykFXxtjp4HN3htcAjtr18Ex0zo6VBZuGjCRdwdWila+E1Gptkcr1/QJEztMmmlhEfkT0EgrkIJ1dsydwUsA1P9l/A6O1pnHTrGMbVyRCr4dRU7uZQ4PBTgQf9QYeZueHKyqHIeEUMinx46va/LaDFLV/WnWcTPUstbN0o6wZtCP178+JbVoO5ebgXKNlYoktkz1cGfQb6QamrTNT4AbfvVd4zMzIFUm2Yfbhl0DzvVDJ0M9gbuBRgZ9YFxdd3ZU9iU9aFW5tDAf0gma3hFnWnhWyXql5qhSCr9HPAnRNeHNgBeQdjMTAts1uH99A1TayGQWOxqWaRU=;1C7SCQSRmy9eHFFq3xCxHg=="
+secured: "2BbhpYLJMQ6WsOgzVkhfPgn7LgtopilCwANwbv4FumY62QQ6ps7mizDfdVwh6Pnvr0p/MiI+6x0ZGp/4Cgca/9bOAcwLM63tB+4R9kw+yatKh/JjTtm/dqmr6gl8+4DscFlvE3L5VOxDjPp2BUAT7aJVvSgQFMO6Q2k6sZHwxn18MApFYMIZy4qimjSDXh3a/ZuD9rHa2qgN6ejrjF9iYxDEAJB0JL84Y3mbWKP0beld+YQ4bQbgvycj7jzQL5PGLbNLLmTWSyKmwDfNGUzwUlbKI58WASY5qzePpcfCfE9fGKXwW0mt2QHaSM/bc85ldrh1Ups9GaMoicd7laTEYyV0Z/rnhuYHfzm7MLoh2+8=;Sc9rWATAZDHB8EZyduq5DA=="
 ---
 

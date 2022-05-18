@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn
 cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/business/amp/U-S-civil-rights-enforcers-warn-employers-17168273.php"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Hour
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. civil rights enforcers warn employers against biased artificial intelligence"
-    excerpt: "The federal government said Thursday that artificial intelligence technology used to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities."
-    publishedDateTime: 2022-05-13T15:13:00Z
-    webUrl: "https://www.ibj.com/articles/u-s-civil-rights-enforcers-warn-employers-against-biased-artificial-intelligence"
-    type: article
-    provider:
-      name: Ibj.com
-      domain: ibj.com
-    quality: 47
-    images:
-      - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AI Hiring Tools Discriminate Against People With Disabilities, Warns US"
     excerpt: "As employers increasingly use artificial intelligence (AI) tools to hire workers, the Department of Justice and the"
     publishedDateTime: 2022-05-15T22:50:00Z

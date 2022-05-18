@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/05/17/greyorange-raises-110m-ai-powe
 webUrl: "https://siliconangle.com/2022/05/17/greyorange-raises-110m-ai-powered-warehouse-robots/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Indian Robotics Firm GreyOrange Raises $110 Mn In A Funding Round"
+    excerpt: "Tiger Global-backed Indian robotics firm GreyOrange has raised $110 Mn in the latest funding round, as per reports."
+    publishedDateTime: 2022-05-18T09:14:00Z
+    webUrl: "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/"
+    ampWebUrl: "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 89
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/05/Feature-fashion-300x225.png"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "cECM7MX06edo836Q0zUscW5jR56VIYyVkRDU2e+Szu1NPLD07CW3/5gM1ICCYk+KOSvug0AKiyUREF+dYv1pGa4RJDD5pt9fmdc1ozMbdeb6AQEloA3xSxkKjLaVsopgOMkEcK/4tpDnNH5bAqx2IsD+vVt2yj7fNMTfrfXWUGYTtK08Tm1jcSOglyI3WdYkxVCbjDWyYEl2AVZD8so9kBXm2zUXVf7ygt8OWy31NPjXURHORjnQPjrfIEU5zb+VeTrGidpTHlkKBTP/MFhik3fJbO1e2U8urWbuCULZncyvu724ibFVkI3A35e9d4WWAR7roRTsZ2uPe+lql3KVkRCrQUwRY7kU8jPxDQbCJXcYN5BMHmPikp7HgXlabi2wfQknDqbMCoQ8DdLZ4wwebjtmeW3S2vZxUsZtVjtnA0Y0OCwih+kKmBdOaYtnBv+JvaxNjqX9/5cTAsGMw4w1TTUdH+mk1JIYeFFSR8O23brhCsXVrmuyJR/20p4FpF9mLGO9APKSOqpfzR1kfP9/MQ==;XoYSJA0ccPiZp/QmL7rRWg=="
 ---

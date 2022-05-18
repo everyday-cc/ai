@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/18/robot-hives-h
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/18/robot-hives-hope-to-keep-bees-buzzing"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robot hives in Israel kibbutz hope to keep bees buzzing"
+    excerpt: "They function as normal hives, but apiaries built at a kibbutz in Israel's Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators."
+    publishedDateTime: 2022-05-18T08:19:00Z
+    webUrl: "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/robot-equipped-beehive.jpg"
+        width: 1024
+        height: 741
+        isCached: true
   - title: "Robot hives in Israel aims to keep bees buzzing"
     excerpt: "Startup Beewise came up with the idea to reduce mortality rates in a species that has seen sharp rates of decline due to environmental threats."
     publishedDateTime: 2022-05-18T05:36:00Z
@@ -35,6 +51,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 34
 
-secured: "3ZVepmL5QQ8BPpf3Tm3KfacEs2LXkaby7sl7cvc32+Py9WPYtLJT/shRqkkmdv7w9ipnh8T+Ffat7kOiwxvXQd2DTA5Ff4m3inVIsvJJ69VFlEPAUfwibip7iTmOegbhtHKdf/5o1NuvKp1CMMXeuclmDb9E9t6h9l6K0CkWgaqP5SEgvXxU3k29soLWv9HtFNTLwfPJDTjttbcjZsDHz8gC1Y1jPkGegXUN3SEyTM92+bzsJXwJXLiRRbSamsbMmt6llaoamBfJQ64JKBrU8M+ZxQcYzAoOj7XMpPs16aLcBpv1lXVL/pW31bVCh9odIIAL6ShAV8FOjROHMy+zqw9lGWleSEsg4s2uGwpiWow=;JZzHm+LYZFTOpeqH/qUCwA=="
+secured: "9B7NJ/f/WjB9ibifsomRvdZ4itYwiuXkw6FV6FodNuHwA2kbh4/jXUWtknBABB0x8k4nfMFm/7k2aoifDqV+fqFZ7MyGHheA73yeg05T3hbzZst06Sc35S4+Jg6oNwBJhpU+kicptRELl1QsEhoPZdwq3f/BLyH7wQGMOCgS+5mbM5W6lgAlgye+3csLVqB0dXeZUVPSXzjaatFUU9TKUAEeDtW2FyDa2TRWITr2NVHDBcpYMQmymqu/+NvfjxloTvWt8ZVBwDUF5axGFPCqQp3tLttIKMhJY7IHKTI3A9WQD5qQ4YlFm+R2vfgQA1XNbUcENSvlu26ozmKDsNj4eAJTKo8nCljGDhwB752LhsjA3LMcEeqIwRNY5OMRso2hRZTGc0w92kIx0pu8SNXQ2rDwgh3LxZz/eh4UE8I/yj8/Ql9PSzHjPAMNhqOGv9DcJDqaimdnVDSvP2UVl27X8BuT0+imsJbKQ3SWzUHqs4pmaNMFrnSY4y7S9FtkxR2EaUeX1lTskCbQpteh66xz9w==;JrIw5iHdjEM20GduMURnjA=="
 ---
 
