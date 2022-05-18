@@ -53,15 +53,6 @@ related:
       name: xaralite.com
       domain: xaralite.com
     quality: 2
-  - title: "Image Recognition Market Industry Analysis, Applications, Overview, Size, Growth, Top Players and Growth Opportunity 2028"
-    excerpt: "Google, Microsoft, Facebook, Pinterest, and Apple are investing in resources and research into image recognition and related applications. Improper data storage, security breaches, and misuse of facial recognition data are some of the primary concerns ..."
-    publishedDateTime: 2022-05-13T13:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-industry-analysis-applications-overview-size-growth-top-players-and-growth-opportunity-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "TYf0mOmCoLGskT3EZ5hNhm7/NHu56fAptDiay1vaoDc/z4KcZg7FJ9sQpf4ONiYj105EPUYs62HntM02qbAvXpXTaSZr9xSe7wUXyDmG4jexaLTPnV+pOON4b4VjSp95Brbz7WzAERZ5s29PKiOVxdwzHCfACtjw3Mg8xY9OJ42P6kLzV6wHpRv94D3xksm//ojyFshzHAiu+KmU2j8ys0EkmXocabZRVGnINUFfBD70EkK6oqoFEQa2Bo3rqdIr3WkBn5+E2MECCzV3lHku9r3c7q4ILAGbeFDQpv4YclP5wI6UQkC6TOeJoY1llrqV9AZiIxI1rMfNYrESa3fZQvZIzKjQzqr3Uwfn5wEmnIE=;bzpGfd+agWXy95Cy0obRsw=="
 ---

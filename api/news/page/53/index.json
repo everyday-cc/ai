@@ -2,57 +2,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2022-03-31-betting-on-ai-vcs-back-startups-as-the-tech-world-booms.md",
-      "title": "Betting on AI, VCs back startups as the tech world booms",
-      "excerpt": "Businesses seeking new information systems have typically had two choices — they could purchase one from an external vendor or build a new system using in-house developers. Today, there is a third alternative — low-code/no-code applications powered by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/30/betting-on-ai-vcs-back-startups-as-the-tech-world-booms/",
-      "originalUrl": "https://venturebeat.com/2022/03/30/betting-on-ai-vcs-back-startups-as-the-tech-world-booms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-505117919.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/30/betting-on-ai-vcs-back-startups-as-the-tech-world-booms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/betting-on-ai-vcs-back-startups-as-the-tech-world-booms/amp/",
-      "publishedDateTime": "2022-03-30T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-31-waymo-expands-self-driving-car-trials-to-san-francisco.md",
       "title": "Waymo Expands Self-Driving Car Trials to San Francisco",
       "excerpt": "Way-mo, way-mo, off to work they go. Waymo employees in San Francisco will be able to catch a ride to work from its fleet of self-driving, all-electric Jaguar I-PACE cars.",
@@ -1173,6 +1122,58 @@
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
+      "publishedDateTime": "2022-03-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain.md",
+      "title": "How The Digital Ecosystem Improves Engagement Across The Manufacturing Value Chain",
+      "excerpt": "Digital transformation is disrupting all industries globally and has accelerated over the last two years during the pandemic. The Industry 4.0 market, currently estimated at $116 billion, is expected to grow at a CAGR of 16.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6242fa6e9eceb44afd4ab6ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/amp/",
       "publishedDateTime": "2022-03-30T05:30:00-07:00",
       "updatedDateTime": null,
       "provider": {

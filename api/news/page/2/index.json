@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-16-personalize-your-machine-translation-results-by-using-fuzzy-matching-with-amazon-translate.md",
+      "title": "Personalize your machine translation results by using fuzzy matching with Amazon Translate",
+      "excerpt": "A person’s vernacular is part of the characteristics that make them unique. There are often countless different ways to express one specific idea. When a firm communicates with their customers, it’s critical that the message is delivered in a way that best represents the information they’re trying to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/personalize-your-machine-translation-results-by-using-fuzzy-matching-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/personalize-your-machine-translation-results-by-using-fuzzy-matching-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/06/ML-7026-Solution-Architecture-2.jpg",
+          "width": 780,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T10:48:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-google-faces-fresh-class-action-style-suit-in-uk-over-deepmind-nhs-patient-data-scandal.md",
       "title": "Google faces fresh class action-style suit in UK over DeepMind NHS patient data scandal",
       "excerpt": "Google is facing a new class-action style lawsuit in the UK in relation to a health data scandal that broke back in 2016, when it emerged that its AI division, DeepMind, had been passed data on more than a million patients as part of an app development project by the Royal Free NHS Trust in",
@@ -10,7 +63,7 @@
       "originalUrl": "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -156,7 +209,7 @@
       "originalUrl": "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=tech_featst_pos1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -250,51 +303,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-artificial-intelligence-chip-market-to-reach-1949-bn-globally-by-2030-at-374-cagr.md",
-      "title": "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR",
-      "excerpt": "Allied Market Research recently published a report, titled, “Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     },
     {
@@ -398,48 +406,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-ai-can-now-predict-a-persons-race-from-medical-x-rays.md",
-      "title": "AI Can Now Predict a Person's Race From Medical X-Rays",
-      "excerpt": "An astonishing new study published in The Lancet Digital Health shows that AI can predict a person’s race based on X-ray images with a high degree of accuracy, but scientists do not know exactly how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic22355.jpg?itok=ba1uJVh8",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp",
-      "publishedDateTime": "2022-05-16T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1161,6 +1127,51 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-14-call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap.md",
+      "title": "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP",
+      "excerpt": "The global Call Center AI Market size is to grow from USD 1.6 billion in 2022 to USD 4.1 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.3% during the forecast period. The advent of AI in the call center offers enhanced customer support services and better experience coupled with rising development in customer engagement through social media platforms to boost the growth of the call center AI in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
       ]
     }
   ],

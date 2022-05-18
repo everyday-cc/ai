@@ -27,19 +27,14 @@ images:
 
 related:
   - title: "Edge AI and Vision Alliance Announces 2022 Edge AI and Vision Product of the Year Award Winners"
-    excerpt: "The Edge AI and Vision Alliance today announced the 2022 winners of the Edge AI and Vision Product of the Year Awards. The Awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies."
-    publishedDateTime: 2022-05-18T04:30:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
+    excerpt: "SANTA CLARA, Calif., May 17, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the 2022 winners of the Edge AI and Vision Product of the Year Awards. The Awards celebrate the ..."
+    publishedDateTime: 2022-05-18T06:18:00Z
+    webUrl: "https://myfox8.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 25
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
+      name: WGHP
+      domain: myfox8.com
+    quality: 5
 
 secured: "DyT6rAe057c/W5lJZDPzrXaKoQx1zHLwcIRnRtmiw0n5mTnDfli8rki6QcgNgSPQ/TJSTv29p3/Ge/39U7Ou3OOY7Wb7Tcc0zA+R64hp94ym3gHgoapTrGXaxX3WmzaiOW2RSb5wHIKUohU6dZUNkDZSPm0M0p7JFItHmM+PcdvY/y4gUhpJICFyKivv4FDJ5sLffL5u1qi8BFU8ld7qJEIInGIyjQx4gYCwQaUu5rD5LIz8WXYZu56mjn0QA+KNIwR2H7mSkjfmO/Biw5QHGbTPEis5DK/5bHn1xf3zIYt2IZ1pPYZyZuw36jfepS3ZGj+LmesezDrD8jpJpEfa59OAiy9hRuAKxjKVKfknqqk=;zWvq+ZLDdKgpJbNACwSVIA=="
 ---

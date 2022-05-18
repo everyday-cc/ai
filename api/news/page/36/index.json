@@ -2,49 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2022-04-14-why-big-tech-is-driving-the-fintech-digital-ecosystem.md",
-      "title": "Why Big Tech is Driving the Fintech Digital Ecosystem",
-      "excerpt": "The expert view on how Digital ecosystems and how Big Tech is redefining the financial services space by expanding the digital ecosystem",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/financial-services-finserv/why-big-tech-is-driving-the-fintech-digital-ecosystem",
-      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/why-big-tech-is-driving-the-fintech-digital-ecosystem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/320/2a23807f82863b142512444f217db57a:c7a033226d6eec8650caeaa4d27857da/gettyimages-1202705835.jpg",
-          "width": 319,
-          "height": 241,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-14-ai-robots-deployed-to-fill-void-in-senior-care-but-can-they.md",
       "title": "AI robots deployed to fill void in senior care. But can they?",
       "excerpt": "To fill this void in senior care, authorities and institutions have deployed companion robots. These care machines with artificial intelligence have been billed as an example of the pandemic ...",
@@ -1140,6 +1097,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-dell-nvidia-amd-to-power-new-ohio-ai-compute-cluster.md",
+      "title": "Dell, Nvidia, AMD to power new Ohio AI compute cluster",
+      "excerpt": "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/04/13/shutterstock_ohio_uni.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
+      "publishedDateTime": "2022-04-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

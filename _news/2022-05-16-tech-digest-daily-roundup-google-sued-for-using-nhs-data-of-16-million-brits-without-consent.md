@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google is facing legal action over using 1.6 million people's healthcare data 'without their knowledge or consent'"
+    excerpt: "The internet giant is being sued after unlawfully using data given to the corporation’s artificial intelligence arm Deep Mind in 2015 from the Royal Free NHS Trust to use in testing a smartphone app,"
+    publishedDateTime: 2022-05-18T07:50:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/google-is-facing-legal-action-over-using-16-million-peoples-healthcare-data-without-their-knowledge-or-consent-46fea968-951d-59e5-a096-eb07bbc056e7"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 17
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/6a9feddc-de4c-58d2-8d6f-2239f4788c7b&operation=CROP&offset=0x21&resize=400x225"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Google sued for using the NHS data of 1.6 million Brits 'without their knowledge or consent'"
     excerpt: "The Royal Free NHS Trust in London, which gave Google the patient data, was previously told the move was illegal following an investigation by the Information Commissioner's Office."
     publishedDateTime: 2022-05-16T12:24:00Z

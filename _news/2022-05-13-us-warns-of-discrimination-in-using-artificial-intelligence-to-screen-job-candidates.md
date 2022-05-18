@@ -1,29 +1,28 @@
 ---
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
-excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:12:00Z
-originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+excerpt: "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities."
+publishedDateTime: 2022-05-12T21:04:00Z
+originalUrl: "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-hawaiipublicradio-org.cdn.ampproject.org/c/s/www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
 
 provider:
-  name: New Hampshire Public Radio
-  domain: nhpr.org
+  name: Hawaii Public Radio
+  domain: hawaiipublicradio.org
 
 topics:
   - AI in Healthcare
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/ef92c7e/2147483647/strip/true/crop/4000x2251+0+374/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fnhpr%2Ffiles%2F201803%2FStateHouse092217.JPG"
+  - url: "https://npr.brightspotcdn.com/dims4/default/a7afaa7/2147483647/strip/true/crop/5568x3134+0+287/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F17%2Fap22099695753972_custom-2e548c58ea9645ff218b0fccdd3b6fec319bddd9.jpg"
     width: 430
     height: 242
     isCached: true
 
-secured: "Z69NMjY3GrVRPyHLqyJkCwV5ALDWE0KEy9blrNcpe7PCDHROkfEcs5p0dVgToX1tOeEKGZ6lN4UxThLccuqo6cFMjsD83SJhBpzvFTqSLxpxx5frbXBuOhuUbWUUe9Mo8wT3NOtJ1HsrDL6Z7kHyrPaBkIRlViSy9NlmPajNMXcMHM6EtyNW4702GDBDF9d01yLGYsNpAFS04a5HulBHGA+qMT8+SqAQbTgAS7+UTrNfssc1nCBWG2uxvCHjO9HuF5WfEgmGJPcExwhUp30te5clb1MrfYw+bvshth+Rxvh9TRM1ddPyoD82SjcsnK7cSO4686RHs3bPbJETZGchJGyLsp/QR3IioPKtLi0UGGlC/S3YPqf0UtokrTL4DsK8MFEDZceDhLWX7BakQXIqBPTTZlG+mDrA31b/khY7zoqHpVYyHe04uYbjJtntD/35MhVnjwWFxG72TGKqJaTD7UmiA/0voAn6b821XQafIXPF9a8zuIJWdal4mMlFehpPJVN0xTQHwPtcHBD9tp7pYA==;rd5tUmhGFHoaB8hTDkYVvQ=="
+secured: "4xcLVJHvULjM9F4TZ+Fy2B2ofGGBjqQG05nwnBp3c1nbbY4OXcocuOJnWbcWfjM4SdTVn3xYn8vy6PyCHyXJP8pAVfWhJdq02VnswOsyOZEj3brEUBvygPfFR+Swj6n3CEpEoXC3T4tUWHsEkrW2RoF/Ou02FLo+5YFQklWMI1Te/rcfJXRPaFRwKwrqmUusL/Da++OBr0i4eKxsi9FJSZulAQb6zu38UUU9D9ZVwD2rsmm2/nXLp/My36AjrKOzJastNi2Sdi/uPF9rJxqeZXP36qNiFS4OYheH3qNFsw3+I8u1n5lOWwg6QP0cbkG/syaFxiuP/DWsbMeOiTWXae99VbJNn7wXD7j0gDqrEWM=;TxqaONi+1Lagu5SWDka/mQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Psychology Today
@@ -41,20 +41,6 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic22355.jpg?itok=ba1uJVh8"
         width: 1528
         height: 800
-        isCached: true
-  - title: "MIT, Harvard scientists find AI can recognize race from X-rays — and nobody knows how"
-    excerpt: "As artificial intelligence is increasingly used to help make diagnostic decisions, the research raises the unsettling prospect that AI-based health systems could generate racially biased results."
-    publishedDateTime: 2022-05-13T14:23:00Z
-    webUrl: "https://www.bostonglobe.com/2022/05/13/business/mit-harvard-scientists-find-ai-can-recognize-race-x-rays-nobody-knows-how/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 32
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/tVpRIWAQIWlwtR-O-emFaEYZvNA=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/WQ6DHHWSARBQK5OX7NDCNDA3NM.jpg"
-        width: 506
-        height: 343
         isCached: true
 
 secured: "wMC2zo1P8SpOzXg6HWIEmFFTj3nKzpAL/SxcLDG6AdU+Y6xz8W3r1B+3AKtzvfSFjwGfqLpP95qEeJrnw/N1c2sGvFAhj6OVsctDmgoviHtu8jTOZ0mv5lUr+4GytTHuhw74beU2oaD0LgcHTKHMteY2/lTI2PHFr5TcyjBxnJlFlFQwyv+tZ3NnAm2oTbYMZTvNzuVwcGq2RfLlXR8WfG9mkstfCHc9UjU7rnGPNP2/K2BfkV2q/91gUZOR9UuYWxr2V4wO+p05KSEx/sHfRVYjr5mp4EOhKShIMZTRJTcot1AROS9Jfy/WGqFv38HqypBf/ey+VOhCILLGVH+VERL5ItnzBzN9U+2EdDp9xqNdFvU3L85i7y/GeYR+oz/dWzdC7YC9AO33yRWXyREl1RM2dEnYUKMuvnR/n8raf52E6je0wYRiSdupAMF1g6dBEHuTdXlVl6Y0AtdpZaTCeNG8D7xAoqrlR4OkHFM93TwL79PVhBgEDnC3EUkbXLRoPyuRAH5K8M4HR3Zlg5f6eQ==;FUpjN6URDFMywBoL0t2dHg=="

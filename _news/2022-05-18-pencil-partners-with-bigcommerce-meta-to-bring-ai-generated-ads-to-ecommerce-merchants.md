@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Pencil partners with BigCommerce & Meta to bring AI-generated ads to ecommerce merchants"
+title: "Pencil Partners With Bigcommerce & Meta To Bring AI-Generated Ads To Ecommerce Merchants"
 excerpt: "Creative AI company Pencil has partnered with new-era ecommerce platform BigCommerce to provide their merchants with the latest innovation in online advertising for ecommerce, AI-generated ads. Rather than spending hours in video editing software or engaging expensive professional agencies,"
-publishedDateTime: 2022-05-18T04:14:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=665770"
-webUrl: "https://us.acrofan.com/detail.php?number=665770"
+publishedDateTime: 2022-05-18T07:42:00Z
+originalUrl: "https://menafn.com/1104232927/Pencil-Partners-With-Bigcommerce-Meta-To-Bring-AI-Generated-Ads-To-Ecommerce-Merchants"
+webUrl: "https://menafn.com/1104232927/Pencil-Partners-With-Bigcommerce-Meta-To-Bring-AI-Generated-Ads-To-Ecommerce-Merchants"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
+  - url: "https://menafn.com/updates/pr/2022-05/18/ND_51286image_story.png"
+    width: 1169
+    height: 779
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "RTwY7iF75WPpsyB7RYR7Smnpxizfah9qs5HCJTDsEcHbKnhm+ZhgYJaF1nD0hMXMQgGFBnZ/gCMmU40Uqx33a8sX18BAneuYV7sh6ia/h5MUdpI4qKukn25JLl06O5La0edQBsd4gix/m2nXvzoe0fralMMSQ3o+Il3WKZGrMj+1b7D2vuniVC6dukn+HuVG3k7wvcg3grLSqa2sRpi8FC0JsfySrrZjdF0M36r5Johzwle8T9SVMSOpJ4+HvNHhshYu9yVpaSM/+djprYcu+UHZHQPYoVBl3bL9tV6bMMAm2np1VtedEh5KG7+rTkBySvH/Lkf5Fvl8AleF/TZC3i1w+7AHPDpphmJWDdUviNo=;PHWU/8SZdcCX391r5ERWAA=="
+secured: "WiIZPEhh7jSHCojJX2sJJsT5bCbbhskSYLl7mBlpNOsti0Sa9NclFpErxG0SuIhY5mhaDDGVgIBnc5EUjB/vybslFD8tTMry1I7FD9OI+orfptkTcz6VfKLzRijB/lh9AR/uq2mF1MnN2anK5lkfXq2a+Po+dUXSvTv7I6xgOLZlyERqAlMW1Ff4BVbFYjlkwE3CumRr80v5sW8TlpQFEgImoTNwk6KjjmJdnMZnG3Sxt19kDrIsuP5ezpD71S0OwyGNfvit/itRgGm+CObukOG9g2a+XTVS8Xvyn6WG1nQitWOv8vvp0u/qnLTGot0jZr7+LtrV3pUz1u3aS02MHR7/hbKvZhUBHg3V+5rZRJM=;ffY4cPFdCN3KxmGBEoNM+A=="
 ---
 

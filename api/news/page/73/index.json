@@ -2,40 +2,6 @@
   "page": 73,
   "value": [
     {
-      "path": "_news/2022-03-16-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale.md",
-      "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale",
-      "excerpt": "Intuition Robotics today announced the official commercial launch of its digital care companion, ElliQ which is now available for purchase via elliq.com. ElliQ, the sidekick for healthier, happier aging,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.at/nachrichten/aktien/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "originalUrl": "https://www.finanzen.at/nachrichten/aktien/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.finanzen.at/nachrichten/amp/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "cdnAmpWebUrl": "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "publishedDateTime": "2022-03-16T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finanzen",
-        "domain": "finanzen.at",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-16-easing-financial-nerves-with-artificial-intelligence.md",
       "title": "Easing Financial Nerves With Artificial Intelligence",
       "excerpt": "In 2022, global anxiety feels unavoidable. From climate change to the continued impact of Covid-19, we are experiencing challenges affecting everyone across the globe. Business leaders are not exempt from this fear.",
@@ -1075,6 +1041,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-arista-anet-appears-a-smart-investment-bet-now-heres-why.md",
+      "title": "Arista (ANET) Appears a Smart Investment Bet Now: Here's Why",
+      "excerpt": "The company expanded its cognitive campus ... troubleshooting and location services. This supports video conferencing applications like Google Hangouts, Microsoft Teams and Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
+      "originalUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
+      "publishedDateTime": "2022-03-15T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

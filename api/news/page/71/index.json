@@ -2,49 +2,6 @@
   "page": 71,
   "value": [
     {
-      "path": "_news/2022-03-17-deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.md",
-      "title": "Deploying artificial intelligence to prevent delayed and missed care",
-      "excerpt": "Medical imaging is one of the most widely used diagnostic tools in health care with providers ordering dozens of imaging studies for their patients every day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "publishedDateTime": "2022-03-16T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-17-artificial-intelligence-human-creativity-and-a-killing-machine.md",
       "title": "Artificial Intelligence, Human Creativity, and a Killing Machine",
       "excerpt": "I just finished analyzing a spreadsheet that lays out which people the world considers most expendable. There is nothing quite like a global ethics survey of two million people to give us a compelling snapshot of WTAF.",
@@ -1072,6 +1029,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-neural-networks-market-is-expected-to-reach-15261-billion-by-2030-says-amr.md",
+      "title": "Neural Networks Market Is Expected to Reach $152.61 Billion by 2030: Says AMR",
+      "excerpt": "According to the report published by Allied Market Research, the global neural network market was estimated at $14.35 billion in 2020, and is projected to reach $152.61 billion by 2030, registering a CAGR of 26.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103857434/Neural-Networks-Market-Is-Expected-to-Reach-15261-Billion-by-2030-Says-AMR",
+      "originalUrl": "https://menafn.com/1103857434/Neural-Networks-Market-Is-Expected-to-Reach-15261-Billion-by-2030-Says-AMR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?105039",
+          "width": 421,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

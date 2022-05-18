@@ -42,20 +42,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "MIT, Harvard scientists find AI can recognize race from X-rays — and nobody knows how"
-    excerpt: "As artificial intelligence is increasingly used to help make diagnostic decisions, the research raises the unsettling prospect that AI-based health systems could generate racially biased results."
-    publishedDateTime: 2022-05-13T14:23:00Z
-    webUrl: "https://www.bostonglobe.com/2022/05/13/business/mit-harvard-scientists-find-ai-can-recognize-race-x-rays-nobody-knows-how/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 32
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/tVpRIWAQIWlwtR-O-emFaEYZvNA=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/WQ6DHHWSARBQK5OX7NDCNDA3NM.jpg"
-        width: 506
-        height: 343
-        isCached: true
 
 secured: "SmD608jcYWorBBc47XRjylkSrE8lTxukdqCk8qeu07U2maune66KxEULTfT3nOlCX1Bzg5NjIHkbfeC6P3+P7oFZPxAsezIi00+X+KSPaPBPhGcq/01cJgH5NrXoWjNhLk1dROsh24DY7uZpKs5FWFXKBOg88jUG32FY/MhsEZ1kvq1AGXeZWMsE7smEwtJVDSfq0dp2a5TSLvFiiq028HWHoZGm3XjojUn+CH3krTCxQsyxp3odMo1QnrknWEVDJhnE1PC++q7FK5yfOPjaORuJ6rtjbaqMZH+cHt3aau5y52zLBNWbMS0lPdFoumH5NJjZPwvpqLgh8whYo+q790mhNIjTnjHCWFx1r5XunV8Pak6r4MYbJd60ALyMFcv78fPYu8GY9OxQw0MyMVGleDjkjktkQK8x20R/nQfgSkxEHSr8TyYAm7yXE7QZmPRVKzJHaBTSGdih/NMR6Nxm6ntUdxaChgYfTQb9xD23upwra0d07b4B0XQObqlKu0FCfWmeU7x42dMG2+hjLfhyAg==;4A00GbaaqwY6jCAJzfb2kA=="
 ---

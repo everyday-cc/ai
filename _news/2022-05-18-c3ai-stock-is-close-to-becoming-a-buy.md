@@ -30,7 +30,7 @@ related:
     provider:
       name: KGUN 9
       domain: kgun9.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/a47/f0fe4276ab8344079f404f1ac9c377b7/a47fa92d61d747a8b0981b97a78da90d/poster_43cdfb0816ea479e86355519988b9378.jpg"
         width: 1280

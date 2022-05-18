@@ -41,20 +41,6 @@ related:
         width: 2879
         height: 1919
         isCached: true
-  - title: "Amazon’s ‘astronomical’ misuse of customer data could ruin company"
-    excerpt: "A shareholder is suing Jeff Bezos, Andy Jassy, and 17 other Amazon executives for intentionally allowing the business to violate state laws"
-    publishedDateTime: 2022-05-13T14:47:00Z
-    webUrl: "https://techstory.in/amazons-astronomical-misuse-of-customer-data-could-ruin-company/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/05/christian-wiediger-rymh7EZPqRs-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "wf8Grgei8F4VWgI/JB6LnyrH46ABNZ4dQtjSBN4tBiYEag0bE7cNFjZRScHqAzk+jv3FMBv/plQDKIUtiG3Jw63N8OtBYcGVT1eeaFkcEO+F7PfeudMknn9rgnFnIBNn5Rc52BZJyXmEry+5rtV1hlqiGAXHmsDVmFVw17LDkhrYPTNL3YRI8kpNhDMNfcy1ykaYizN54/6qwEcldvzvYdo2sv19dXQJxkFxRJkY/dh2kzc1j5Nf2aYoEU61+uHa89SprQ3sn7Lqtjce/4SYDbRK67FIh+aGEbrP5xwKKVyOjx+z0x/lv6xbnq/etKZfZTcsuV7dyMMmnkaedx/3CSSa2h+wZjvhYfhgvW0qQIA=;888wNBlMtIoyali9LIbgKw=="
 ---

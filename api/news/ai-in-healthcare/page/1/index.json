@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-16-artificial-intelligence-chip-market-to-reach-1949-bn-globally-by-2030-at-374-cagr.md",
-      "title": "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR",
-      "excerpt": "Allied Market Research recently published a report, titled, “Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and",
+      "path": "_news/2022-05-17-artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Size Forecast to Reach USD 64 billion by 2027, expanding at a compound annual growth rate of 43%",
+      "excerpt": "Artificial Intelligence Healthcare Market size is predicted to touch USD 64 billion by 2027, registering a CAGR of 43% over the forecast period (2020-2027), owing to the increasing application of AI in medical imaging,",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of-43-2022-05-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of-43-2022-05-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T08:30:00-07:00",
+      "publishedDateTime": "2022-05-17T00:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,9 +50,7 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -230,17 +237,17 @@
     {
       "path": "_news/2022-05-13-us-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates.md",
       "title": "U.S. warns of discrimination in using artificial intelligence to screen job candidates",
-      "excerpt": "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ...",
+      "excerpt": "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities.",
       "sourceUrl": null,
-      "webUrl": "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
-      "originalUrl": "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
+      "webUrl": "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
+      "originalUrl": "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://npr.brightspotcdn.com/dims4/default/ef92c7e/2147483647/strip/true/crop/4000x2251+0+374/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fnhpr%2Ffiles%2F201803%2FStateHouse092217.JPG",
+          "url": "https://npr.brightspotcdn.com/dims4/default/a7afaa7/2147483647/strip/true/crop/5568x3134+0+287/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F17%2Fap22099695753972_custom-2e548c58ea9645ff218b0fccdd3b6fec319bddd9.jpg",
           "width": 430,
           "height": 242,
           "title": null,
@@ -250,13 +257,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
-      "cdnAmpWebUrl": "https://www-nhpr-org.cdn.ampproject.org/c/s/www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
-      "publishedDateTime": "2022-05-12T14:12:00-07:00",
+      "ampWebUrl": "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
+      "cdnAmpWebUrl": "https://www-hawaiipublicradio-org.cdn.ampproject.org/c/s/www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
+      "publishedDateTime": "2022-05-12T14:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Hampshire Public Radio",
-        "domain": "nhpr.org",
+        "name": "Hawaii Public Radio",
+        "domain": "hawaiipublicradio.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -267,8 +274,7 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {

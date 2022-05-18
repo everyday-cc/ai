@@ -2,50 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2022-04-30-visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field.md",
-      "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
-      "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250117&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250117&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg",
-          "width": 400,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-04-30-visionnav-robotics-closes-80m-for-agvs.md",
       "title": "VisionNav Robotics closes $80M for AGVs",
       "excerpt": "... based company that develops logistics robots, raised more than $80 million in Series C+ funding. VisionNav is committed to providing automated material handling systems with visual artificial intelligence navigation technology. VisionNav’s automated ...",
@@ -1150,6 +1106,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
+      "title": "People in Beijing can now book a taxi with no one at the wheel",
+      "excerpt": "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://auburnpub.com/news/national/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/article_8b3dda8f-68b4-56b4-9ab4-c39f0d14a919.html",
+      "originalUrl": "https://auburnpub.com/news/national/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/article_8b3dda8f-68b4-56b4-9ab4-c39f0d14a919.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/f/55/f55b6e25-7254-576e-b366-2a83bc630158/626b10245cf15.image.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auburn Citizen",
+        "domain": "auburnpub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

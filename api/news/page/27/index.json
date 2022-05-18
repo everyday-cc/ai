@@ -2,40 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2022-04-22-eleutherai-introduces-gpt-neox-20b-the-worlds-largest-and-most-performant-publicly-available-dense-language-model.md",
-      "title": "Eleuther.AI Introduces GPT-NeoX-20B: The World’s Largest and Most Performant Publicly Available Dense Language Model",
-      "excerpt": "natural language processing tasks, mathematical tasks, and advanced knowledge-based tasks. In the experiments, GPT-NeoX-20B bettered FairSeq13B on 22 of 32 natural language evaluation tasks; significantly outperformed GPT-3 and FairSeq models on ...",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/04/21/eleuther-ai-introduces-gpt-neox-20b-the-worlds-largest-and-most-performant-publicly-available-dense-language-model/",
-      "originalUrl": "https://syncedreview.com/2022/04/21/eleuther-ai-introduces-gpt-neox-20b-the-worlds-largest-and-most-performant-publicly-available-dense-language-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-21-deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028.md",
       "title": "Deep Learning in Manufacturing Market 2022, Overview, Size, Share, Demand, Segment, Applications, sales Market, Forecast 2028",
       "excerpt": "Apr 21, 2022 (The Expresswire) -- Global“Deep Learning in Manufacturing”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various ...",
@@ -1141,6 +1107,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479.md",
+      "title": "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%",
+      "excerpt": "Industrial robots generate a huge amount of data ... The key players operating in the artificial intelligence in manufacturing market NVIDIA (US), IBM (US), Intel (US), Siemens (Germany), General Electric (US), Google (US), Microsoft Corporation (US ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg",
+          "width": 635,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

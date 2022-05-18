@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "AI vs. AI: Forecasting the Ethical Dilemma Circling Law, Business and Technology"
-    excerpt: "This article provides a discussion of the legal and ethical questions involved when private companies defend themselves and then retaliate as a result of a cyberattack—a so-called counterpunch known as the “hack-back."
-    publishedDateTime: 2022-05-13T14:00:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2022/05/13/ai-vs-ai-forecasting-the-ethical-dilemma-circling-law-business-and-technology/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 29
-
 secured: "VqW1/Aatk3BxznuYK5V55Z8UuGszTwz1o1K/Q7bI8DaMm3mVtGwPsczxnlG3nTHcAh914HqTyqTHRq4/QKLKkNsQCa3a4rq93X+xcflJNziEbvS6duQpTbpvayjEyPCF7tqHClmowSYnMcFk7jxEmrHnuE/aGvTKpJy1kDWWmuZe2FXVdy7H8RH4NdRSfKNqHojMa1DMyB0m0eEwEOO1NFyhQf6EL0ZvNtNYxmL5JakLCVBOkMMuCEpEynTzl+qwQTmtuVuozNDvKo7nqI1MifdsEYrms5SeCV6J38paLn0/gc8yGRvneVLIMeJqjsRezUvhKUpCO4+KWg9JVPHrjfgizLLfwqs5fJZqNOaDZXyCfdOa6/v2TKo9ByA4nRawfXNdm4VAx67zkNYJ90ktA0pm5JnuWe3Y2GmwT54QvS44jLOi2aNWmcyvHYl31wHQnNsnOnjiuUmCKpSJB+agq0G/F1Zrm6jcrqjs4MdSz4b+ReasbkvlnKWWNdlY20RDmPFxMHHYhGTtpQBIIRDV8g==;4foyuQe61lnhcL2rLkc5kA=="
 ---
 

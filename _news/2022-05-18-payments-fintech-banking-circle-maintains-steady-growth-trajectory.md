@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Multiple Disruptive Technologies Meet in Fintech Space"
-    excerpt: "That’s a longer-ranging positive because the applications for other disruptive technologies in the fintech world are immense, including the boosting of efficiencies. “Automation is not a new concept to AI, but combining AI and blockchain can allow for ..."
-    publishedDateTime: 2022-05-13T14:16:00Z
-    webUrl: "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space"
-    ampWebUrl: "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "T3 Conference Review from a FinTech CEO’s Perspective"
     excerpt: "The return of the Technology Tools for Today (T3), a financial technology conference in Denton, TX, was an important event bringing together and creating a financial industry ecosystem of FinTech leaders,"
     publishedDateTime: 2022-05-17T15:38:00Z
@@ -91,7 +80,21 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "10 Upcoming Fintech Webinars to Watch Live if You’re in Asia"
+    excerpt: "For fintech entrepreneurs, professionals and investors located in Asia, we’ve compiled a list of the top upcoming webinars to watch live. These virtual events are meant to help viewers learn about some of the hottest fintech trends and biggest opportunities out there."
+    publishedDateTime: 2022-05-18T06:04:00Z
+    webUrl: "https://fintechnews.sg/61208/events/10-upcoming-fintech-webinars-to-watch-live-if-youre-in-asia/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/10-Upcoming-Fintech-Webinars-to-Watch-Live-if-Youre-in-Asia.png?x82653"
+        width: 1025
+        height: 567
+        isCached: true
 
-secured: "PvIm9mlCa4Cjde6POEHkplf0n1P0hiQtC/gOmjbScr5ytrGpAjuT7rQrRUDPS/h0hXAeatw/a62o+EB3UsUMoYTrBb6iBxTzD977pRP2EhtQLoFmGQ+MAcnPYqkn8Mpd3ByuG0N61junrGd9XszylfnoTBnXwSFJ71709xAs2cw6GMRI9V6bhUAqkJe1XYr81sIJdeWOlTUT3KKMmSUv30M/176YcEkk82ROahOVdDEmnJ99L/55kwCw9FLUojnnjJQ27dJOFhS2tfQ5tzwneDlpD/SHIP37YJ/Qc06BRBo+faA/+yuTXqyGdneymQK/72sKEe5sh8AVyhPq0FR4GVePdryv20z0Ei1rp4ABGHk=;Q2ZnuSfBrtmqAF5fKEUxjA=="
+secured: "t9LnitVZaCD+Er7K/TOpfBBCEnkxWQmIr+LpAgA47ictgmwTbH5mvGY+Xwo3fXeGXdSvQmp4tuiPjmIdvQQWisZBMYjc2Lv+0oseJZItbGqceTCJxnVdTGKw5szb0a8xPP+O5DlqjqaHqNDnZlE2nwMAj6Cmb94Rl7N4F3gvZxGADqo3sWz6jSAqQijzCa39ZN9vLfbKwF+Qvh+saFFw5d3gqWJ9i1vkjoEut5FqdAsMw3/f29J7nbkWimy9iE/owXfDlsy9y67DrjBtx0iPHNzbpT7l13QUZiDX67mtAldIAjtLX1jXHLH/oMHsbJIzZTzHAunkPZGsyWl+BxRzX61Ozspu+6H7NSeb5n3T1wGHHlsw73Gjsb1sxoN7OSKHSZ3XSD3QvG6m+5kZV7YHXKB647MvdlGXZhlwY7xxHtHX0EKy9e7m7mNrDlL/bNQqRCSsOsREnVIn2dXpTQffTdRNNteUBnnPHj3fk6cN0FcUov9NWPROp1QWsxYZgD9DbRzLz6k8DqkqRDxQT4O0eQ==;1fEiLVvezPZY63HWvOodig=="
 ---
 

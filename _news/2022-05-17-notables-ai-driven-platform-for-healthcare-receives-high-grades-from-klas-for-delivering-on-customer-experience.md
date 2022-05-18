@@ -7,7 +7,7 @@ originalUrl: "https://www.wate.com/business/press-releases/cision/20220517SF5907
 webUrl: "https://www.wate.com/business/press-releases/cision/20220517SF59073/notables-ai-driven-platform-for-healthcare-receives-high-grades-from-klas-for-delivering-on-customer-experience/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-related:
-  - title: "Do Your Customers Trust You on AI, Data Collection and Customer Experience?"
-    excerpt: "Do they trust you to fulfill promises in sales pitches, advertisements and general brand messaging? Do they trust you to effectively and ethically implement artificial intelligence into their customer data collection efforts?"
-    publishedDateTime: 2022-05-13T13:36:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/do-your-customers-trust-you-on-ai-data-collection-and-customer-experience/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 15
 
 secured: "k9k1yu22Txj7NCzQkZlXdseCuln+RfbNvFBiynAjUrjh6p3ZOQBxUOH5E0LdMu7kdLlS6u2JD45RhT+3vTWS0if8LdDRzBmDPBDjvBIWqBysQWwXeTGbuAI6ax9t+WmbXY6/vX/99Y1ldXA3tWFJi7ZDtKAQ2QCvHE+wy+ArkLYQ90+Pvrs8vN75VLCeE5jen29Y05Xo7Spcrhsem/4FDyPttz5uA8VoVXNtpIGkV9qv7OaH7tMg5GSsRdnk4CizvP6Z5b9fJHajJi972NwqJO4uwMG6cjW4ESwf7B/mWB7BFg/I5tNdpycbJUgKQxYU7iVOxXhl19s/wk8fmvXV/UzabYekLEKHQX3fvfQHmgc=;ymBOLY2N7mpkLUTeU1MoEg=="
 ---

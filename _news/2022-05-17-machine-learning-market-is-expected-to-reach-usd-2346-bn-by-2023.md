@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Delivery Robots Market size is expected to reach USD 957 million by 2026 from USD 212 million in 2021"
-    excerpt: "\"Delivery Robots Market\"Delivery robots market size is projected to grow from USD 212 million in 2021 to USD 957 million by 2026, at a CAGR of 35.1% from"
-    publishedDateTime: 2022-05-13T15:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-delivery-robots-market-size-is-expected-to-reach-usd-957-million-by-2026-from-usd-212-million-in-2021"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/df545f41fed2420d2a28c1c8a30f83aff362c268-1-e1652495322767-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Machine Condition Monitoring Market To Surpass Valuation Of US$ 5 Bn By 2031"
     excerpt: "Industry 4.0 with new technologies like machine learning, artificial intelligence and IoT. Want to know the obstructions to your company’s growth in future? Request a brochure @ https://www.transparencymarketresearch.com/sample/sample.php?flag=B&rep_id ..."
     publishedDateTime: 2022-05-16T11:48:00Z

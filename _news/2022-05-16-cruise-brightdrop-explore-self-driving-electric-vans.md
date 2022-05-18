@@ -7,7 +7,7 @@ originalUrl: "https://www.ttnews.com/articles/cruise-brightdrop-explore-self-dri
 webUrl: "https://www.ttnews.com/articles/cruise-brightdrop-explore-self-driving-electric-vans"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM’s Cruise and BrightDrop Explore Self-Driving Electric Vans"
-    excerpt: "Cruise LLC, the self-driving startup controlled by General Motors Co., is working with the automaker’s BrightDrop electric van business on a plan to develop autonomous delivery vehicles, people familiar with the matter said. Cruise and BrightDrop have ..."
-    publishedDateTime: 2022-05-13T15:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-05-13/gm-s-cruise-and-brightdrop-explore-self-driving-electric-vans"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD_3SJL94SGQ/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "GM’s Cruise And BrightDrop Explore Self-Driving Delivery Vans"
     excerpt: "GM engineers are currently working to install autonomous vehicle technology developed by the automaker’s Cruise subsidiary in its new BrightDrop electric delivery vans. Sources familiar with GM’s plans told Bloomberg the automaker is currently working on the self-driving delivery vans with the eventual goal of launching a fully driverless package delivery service."
     publishedDateTime: 2022-05-16T17:41:00Z

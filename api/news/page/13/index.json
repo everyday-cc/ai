@@ -2,49 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2022-05-04-eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses.md",
-      "title": "EKA partners with NuPort Robotics to introduce smart Electric Buses",
-      "excerpt": "NuPort Robotics, a Canadian company announced its plans earlier ... are not only environmentally friendly but also futuristic through incorporation of Artificial Intelligence thereby making our buses efficient and safer to operate on Indian roads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.uniindia.com/story/EKA-partners-with-NuPort-Robotics-to-introduce-smart-Electric-Buses",
-      "originalUrl": "https://www.uniindia.com/story/EKA-partners-with-NuPort-Robotics-to-introduce-smart-Electric-Buses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uniindia.com/public/default-image/default-730x400.png",
-          "width": 730,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United News of India",
-        "domain": "uniindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-04-facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers.md",
       "title": "Facebook-owner Meta makes AI large language model accessible for more researchers",
       "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first ...",
@@ -1131,6 +1088,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-soundcloud-acquires-musiio-an-ai-music-curator-to-improve-discovery.md",
+      "title": "SoundCloud acquires Musiio, an AI music curator, to improve discovery",
+      "excerpt": "An online audio sharing platform and streamer, SoundCloud has acquired Musiio, an AI music curation company. With Musiio’s team and technology, SoundCloud plans to strengthen its music discovery ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
+      "originalUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/soundcloud.jpg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
+      "publishedDateTime": "2022-05-03T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

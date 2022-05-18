@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (Ai) In Pharmaceutical Market Research on Demand and Production, Top Players with Trends and Forecast till 2030"
-    excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Pharmaceutical Market Size Is Expected To Reach USD 7,147.2 Million By 2029., at a CAGR of 31.2% during the forecast period.” The ..."
-    publishedDateTime: 2022-05-16T13:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-pharmaceutical-market-research-on-demand-and-production-top-players-with-trends-and-forecast-till-2030"
+  - title: "The Artificial Intelligence Market Size 2022, Projected Revenue Figures, Growth Rate Throughout The Forecast Period 2031"
+    excerpt: "A report on  The Artificial Intelligence market  was added by Kenneth Research which covers the market size and growth over the f"
+    publishedDateTime: 2022-05-18T06:15:00Z
+    webUrl: "https://menafn.com/1104232335/The-Artificial-Intelligence-Market-Size-2022-Projected-Revenue-Figures-Growth-Rate-Throughout-The-Forecast-Period-2031"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 14
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?200884"
+        width: 457
+        height: 250
         isCached: true
 
 secured: "Y5Zfc+ss6QH3zeDgTiQ3eqg3rujlJX9d41ZXW9ySl3+JBDwdmgkxWd+R7WsePyEOoPKDwdOUxpZNDDrIfDQViYZ0JIdWa6NBhOICTG1nCxbueV501JNnKm2jUs0+KyXpxMwWQIHNFGz9K7k4MWxFl3sbaiXHmxQO1yagKTxcMo0IMjCa5eSUi8whmTMLl2ZwqVcrWIdey5m5+vYt7A7z6WYhqwWqgMJD2Gtbb1ElIn2uAnEKGSIRBqDeHPGJYk3nqMBbZPn5lq0tZwc4Kxuymfy7K4LyBHvWGX5teiwm2jLcBg3EaFH3pzyDDjO5NQxQsJMmg2z8nBB0ju5jzxZGSpFs0iYkDoL4MWbCpucHvVs=;3PesN3M9rH4b9u19NHivVQ=="

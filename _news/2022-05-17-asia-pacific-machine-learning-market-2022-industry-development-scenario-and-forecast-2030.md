@@ -49,15 +49,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 25
-  - title: "Fintech Market [RISING TODAY] 2022 : Size, Share, Projections & Future Opportunities Recorded for the Period 2030"
-    excerpt: "Quadintel published a new report on the Fintech Market. The research report consists of thorough information about demand, growth, opportunities,"
-    publishedDateTime: 2022-05-13T13:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/fintech-market-rising-today-2022-size-share-projections-future-opportunities-recorded-for-the-period-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
   - title: "Middle East and Africa Self-driving Car Market 2022 : Growth Factors, Product Overview, Segmentation and Forecast Study to 2030"
     excerpt: "Quadintel published a new report on the Middle East and Africa Self-driving Car Market. The research report consists of thorough information about demand,"
     publishedDateTime: 2022-05-16T14:19:00Z

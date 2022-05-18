@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-priv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/"
 type: article
 quality: 81
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC8yMDIyLTA1LTE2LTA3LTMwLTM3LTcyYzk2NDY2M2VhYmJiNTE3YWIzNTg2NzgwYWZlNDkwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 740
+        isCached: true
+  - title: "‘The Game is Over’: Google’s DeepMind says it is on verge of achieving human-level AI"
+    excerpt: "To keep your finger on the pulse with major breaking news developing around the world sign up to our free email alerts Human-level artificial intelligence is close to finally being achieved, according to a lead researcher at Google’s DeepMind AI division."
+    publishedDateTime: 2022-05-18T06:09:00Z
+    webUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2080740.html?amp"
+    ampWebUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2080740.html?amp"
+    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2080740.html?amp"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 67
+    images:
+      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Google and DeepMind face class action lawsuit over patient data deal with London hospital"
     excerpt: "London law firm Mishcon de Reya is bringing forward a major class action lawsuit against artificial intelligence (AI) firm DeepMind and its sister company Google over claims the two firms misused ..."

@@ -2,48 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2022-05-02-ai-the-somnium-files-nirvana-initiative-new-characters-shared.md",
-      "title": "AI: The Somnium Files – nirvanA Initiative New Characters Shared",
-      "excerpt": "This marked the start of the “Half-Body Serial Killings ... She is a returning character from AI: The Somnium Files. She belongs to the talent agency Lemniscate and has a love of the occult and urban legends. Like Kizuna, she is a senior at Sekiba ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/",
-      "originalUrl": "https://www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3fd5j8wprxn3h.cloudfront.net/wp-content/uploads/2022/05/AI-The-Somnium-Files-nirvanA-Initiative-New-Characters.png",
-          "width": 710,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/amp/",
-      "cdnAmpWebUrl": "https://www-siliconera-com.cdn.ampproject.org/c/s/www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/amp/",
-      "publishedDateTime": "2022-05-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Siliconera",
-        "domain": "siliconera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-02-p2e-game-drunk-robots-announce-its-ido.md",
       "title": "P2E Game Drunk Robots Announce Its IDO",
       "excerpt": "Start playing with $0 investment Drunk Robots is a brutally fun adventure inspired by post ... As users take part in battles against the AI (PvE mode) and against other users (PvP mode), they earn $METAL tokens and accessories to level up and customize ...",
@@ -1120,6 +1078,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-30-visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field.md",
+      "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
+      "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250117&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250117&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg",
+          "width": 400,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-29T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

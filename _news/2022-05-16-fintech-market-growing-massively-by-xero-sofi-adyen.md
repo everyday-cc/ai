@@ -41,17 +41,6 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "Multiple Disruptive Technologies Meet in Fintech Space"
-    excerpt: "That’s a longer-ranging positive because the applications for other disruptive technologies in the fintech world are immense, including the boosting of efficiencies. “Automation is not a new concept to AI, but combining AI and blockchain can allow for ..."
-    publishedDateTime: 2022-05-13T14:16:00Z
-    webUrl: "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space"
-    ampWebUrl: "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "T3 Conference Review from a FinTech CEO’s Perspective"
     excerpt: "The return of the Technology Tools for Today (T3), a financial technology conference in Denton, TX, was an important event bringing together and creating a financial industry ecosystem of FinTech leaders,"
     publishedDateTime: 2022-05-17T15:38:00Z
@@ -90,6 +79,20 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/MTN-has-now-surpassed-Kenya-s-Mpesa-in-mobile-money-users-under-its-MoMo-offering-Bhekikhaya-Mabaso-ANA?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7f35a3d6-d121-5ed6-a3d6-4226e3c2f1c0&operation=CROP&offset=0x152&resize=2343x1318"
         width: 650
         height: 366
+        isCached: true
+  - title: "10 Upcoming Fintech Webinars to Watch Live if You’re in Asia"
+    excerpt: "For fintech entrepreneurs, professionals and investors located in Asia, we’ve compiled a list of the top upcoming webinars to watch live. These virtual events are meant to help viewers learn about some of the hottest fintech trends and biggest opportunities out there."
+    publishedDateTime: 2022-05-18T06:04:00Z
+    webUrl: "https://fintechnews.sg/61208/events/10-upcoming-fintech-webinars-to-watch-live-if-youre-in-asia/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/10-Upcoming-Fintech-Webinars-to-Watch-Live-if-Youre-in-Asia.png?x82653"
+        width: 1025
+        height: 567
         isCached: true
 
 secured: "1Vc6tj1rH7iQM12qzMXxfa5AZpfI+CtT1p951p9tqN7KyNyKuzfRLfr4gioqqKsIdIypzp0cqH43+uOZZ6eMftvyK277ZBAgpG8b/cMZZ0RldA0Ky9czag+wPk19I9+3CIX5GaypV2t/RgxdqhZ2y44p5BicFQxfMwUTLz0i05wFQUGebiZFH8np8kFJWoG9d1PvDOeZhhlDtuimKTMqFQ0vnI97OU1Xv7P2K9h79D3x/eecFqM2f6OWKc2eHUhtOUHG6HtSgy1VAgp5MysvhhwiKrQbxJjhTBFhJyrtrAH7cvyWO2n50dE1ny/pCmtRCenG9ueKT8DOnDCuYFQwMuq1A8pUdKhKj6V15ouD1hdlaxM80E4p1beVtieoAyqLnWXIFyDTiTGj0zhwepHmCIwZTtUEP1P9uBzEGK9kKeE4CIjq4x7tqGJBQH911Hk6DUXjJ5UkoyKf1nhE/D2g5eqTemB4zQ3L/HcwKxpYVGxekPhGKXFD2gX+ph0QuHb0LLTKHIuaAZqzaTdTKvRDzw==;hH5i0U9/x1JaNnTgUBHviw=="

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon’s ‘astronomical’ misuse of customer data could ruin company"
-    excerpt: "A shareholder is suing Jeff Bezos, Andy Jassy, and 17 other Amazon executives for intentionally allowing the business to violate state laws"
-    publishedDateTime: 2022-05-13T14:47:00Z
-    webUrl: "https://techstory.in/amazons-astronomical-misuse-of-customer-data-could-ruin-company/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/05/christian-wiediger-rymh7EZPqRs-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Shareholder: Amazon’s ‘astronomical’ misuse of customer data could ruin company"
     excerpt: "Amazon launched its facial recognition service, Rekognition, in 2016 for customers to build “powerful visual search and discovery” into applications, according to a blog post on its website."
     publishedDateTime: 2022-05-14T18:30:00Z

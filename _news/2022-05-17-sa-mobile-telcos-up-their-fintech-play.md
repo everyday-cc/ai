@@ -41,17 +41,6 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "Multiple Disruptive Technologies Meet in Fintech Space"
-    excerpt: "That’s a longer-ranging positive because the applications for other disruptive technologies in the fintech world are immense, including the boosting of efficiencies. “Automation is not a new concept to AI, but combining AI and blockchain can allow for ..."
-    publishedDateTime: 2022-05-13T14:16:00Z
-    webUrl: "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space"
-    ampWebUrl: "https://www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/multiple-disruptive-technologies-meet-in-fintech-space?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "T3 Conference Review from a FinTech CEO’s Perspective"
     excerpt: "The return of the Technology Tools for Today (T3), a financial technology conference in Denton, TX, was an important event bringing together and creating a financial industry ecosystem of FinTech leaders,"
     publishedDateTime: 2022-05-17T15:38:00Z
@@ -90,6 +79,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "10 Upcoming Fintech Webinars to Watch Live if You’re in Asia"
+    excerpt: "For fintech entrepreneurs, professionals and investors located in Asia, we’ve compiled a list of the top upcoming webinars to watch live. These virtual events are meant to help viewers learn about some of the hottest fintech trends and biggest opportunities out there."
+    publishedDateTime: 2022-05-18T06:04:00Z
+    webUrl: "https://fintechnews.sg/61208/events/10-upcoming-fintech-webinars-to-watch-live-if-youre-in-asia/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/10-Upcoming-Fintech-Webinars-to-Watch-Live-if-Youre-in-Asia.png?x82653"
+        width: 1025
+        height: 567
         isCached: true
 
 secured: "L+QlGS/CzB35NVMdff7bZl/u33rG0SqKUnJLW/0v+vQxrAj0exahsUiO2h6DeTK4LdovLKy9md7xVQtClvo3AEpapZrO2NWPlXdtBkajP4XCRgARpG6ZlvBOKZTjf/Fz8yGxkzwepcxiUbVtwByGiQSrte2Mlf5rkqB8igupaaJNPLz3+88Q6Xcqv6DZpTJT/Y5XJW3PyYD6lNisxNexvXwYNbMv3exPJsFFcAbltWvXxdjWUXy39S7ZjKFGwbqwZhoaMu5yTe0Ah4gfjeaGVaJbseJ6OlOieRP5EL7CQ8X31EM6Ak4HnRRIas7rIy4YdeSZucIPrnli8dG1AoK31Xagh/UTjawJa5sR6svqN/ud90mXK7WDGXgGDoUz8H9P6B1TEnPcHExx7sjdwg4u0ktAB3EtKNpJuaP/gfuCXvgWnXXs4cGE9G8kRyeDTR2ktDkUFQZ2+ut0wZG4gQU0YtIYs2VpeDmQZwP2bU0Nr9yElUHmVj378SeuwHqKlJ0uqwFMPfAdoASyan2gkbgwzw==;A+PyynB3mWmTHLD0nStmTQ=="

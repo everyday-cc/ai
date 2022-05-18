@@ -2,48 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2022-04-27-tech-mahindra-launches-ai-solution-for-business-automation.md",
-      "title": "Tech Mahindra launches AI solution for business automation",
-      "excerpt": "Tech Mahindra on Wednesday announced the launch of TechM amplifAI 0->∞  - a suite of Artificial Intelligence (AI) offerings and solutions to democratize and scale the deployment of AI in a responsible manner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/incoming/ksef8a/article65359726.ece/alternates/LANDSCAPE_615/4763_27-8-2020_15-33-55_1_TECHMAHINDRALOGO_27.JPG",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece/amp/",
-      "publishedDateTime": "2022-04-27T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-27-kristalai-acquires-globalise-looks-to-enhance-retail-offerings.md",
       "title": "Kristal.AI acquires Globalise, looks to enhance retail offerings",
       "excerpt": "As per Kristal.AI, the strategic acquisition of Globalise will enable retail investors to invest in global products via fractional investments",
@@ -1092,6 +1050,58 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-man-recreates-childhood-friend-with-ai-then-it-tries-to-murder-him.md",
+      "title": "Man Recreates Childhood Friend With AI, Then It Tries to 'Murder' Him",
+      "excerpt": "YouTuber Lucas Rizzotto said he modified a microwave with a text-based AI in an effort to build a friend that ended up being un-friendly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128",
+      "originalUrl": "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2026354/person-typing-keyboard.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128?amp=1",
+      "publishedDateTime": "2022-04-26T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

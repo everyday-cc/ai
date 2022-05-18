@@ -2,40 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-05-06-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research.md",
-      "title": "AbbVie Chooses Cerebras Systems to Accelerate AI Biopharmaceutical Research",
-      "excerpt": "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, and AbbVie,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-06-using-ai-to-predict-bone-fractures-in-cancer-patients.md",
       "title": "Using AI to predict bone fractures in cancer patients",
       "excerpt": "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column.",
@@ -1083,6 +1049,48 @@
       "provider": {
         "name": "Daily Herald",
         "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-soundcloud-snaps-up-music-ai-tech-firm-to-bolster-music-discovery.md",
+      "title": "SoundCloud snaps up music AI tech firm to bolster music discovery",
+      "excerpt": "SoundCloud believes that the next big thing on its platform relies on AI and machine learning, as the company announced it has acquired Musiio, which will help SoundCloud’s existing music ...",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-firm/",
+      "originalUrl": "https://9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-firm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-9to5mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-firm/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-firm/amp/",
+      "publishedDateTime": "2022-05-04T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
         "images": null,
         "publishers": null,
         "authors": null

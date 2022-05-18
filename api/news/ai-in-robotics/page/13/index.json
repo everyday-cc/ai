@@ -2,59 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2022-01-27-elon-musk-tesla-is-prioritizing-product-development-of-optimus-humanoid-robot-in-2022.md",
-      "title": "Elon Musk: Tesla is prioritizing product development of Optimus humanoid robot in 2022",
-      "excerpt": "Elon Musk announced that Tesla is going to be shifting its product development to make Tesla Bot, a humanoid robot also known as Optimus, a priority in 2022. This is quite a surprising change of strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/",
-      "originalUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/",
-      "publishedDateTime": "2022-01-27T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-01-27-artificial-intelligence-why-you-cant-afford-to-ignore-it-any-longer.md",
       "title": "Artificial Intelligence: Why you can’t afford to ignore it any longer",
       "excerpt": "By Jonathan Bowdler, Head of Regulatory, ICA Once, public understanding of artificial intelligence (AI) derived only from science-fiction novels and cinema – various Terminators, I, Robot, Blade Runne",
@@ -1393,6 +1340,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029.md",
+      "title": "Artificial Intelligence Robotics Market 2022 Growth Insights, Understand Industry Size, Share, Revenue, Challenges and Global Forecast 2029",
+      "excerpt": "The newly published report is titled, “Global Artificial Intelligence Robotics Market Research Report 2022” that",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029-2022-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029-2022-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

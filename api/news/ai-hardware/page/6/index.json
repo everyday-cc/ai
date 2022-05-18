@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-02-25-intel-targets-edgy-5g-and-ai-with-new-chips-software.md",
-      "title": "Intel targets edgy 5G and AI with new chips, software",
-      "excerpt": "Intel has lifted the lid on new technologies for the edge and AI ahead of the Mobile World Congress conference including new Xeon D chips with integrated acceleration features and an updated OpenVINO toolkit for AI inferencing.",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/02/24/handout_intel_xeon_d_2700.jpg",
-          "width": 1920,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/",
-      "publishedDateTime": "2022-02-25T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-25-how-ai-technology-can-tackle-future-pandemics.md",
       "title": "How AI Technology Can Tackle Future Pandemics",
       "excerpt": "Artificial intelligence (AI) has come to bear on many of our responses to SARS-CoV-2 (COVID-19), and will continue to help us tackle future pandemics",
@@ -1402,6 +1359,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-gbt-seeks-to-develop-an-ai-empowered-technology-for-automatic-compaction-of-integrated-circuit-layout-data-ips.md",
+      "title": "GBT Seeks to Develop an AI Empowered Technology for Automatic Compaction of Integrated Circuit Layout Data IPs",
+      "excerpt": "GBT is now designing an AI empowered technology to read existing and new microchip ... “Today’s microchips include billions of transistors which make a significant impact on the overall chip’s die size. As larger silicon ‘real-estate’ is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/gbt-seeks-to-develop-an-ai-empowered-technology-for-automatic-compaction-of",
+      "originalUrl": "https://www.nasdaq.com/press-release/gbt-seeks-to-develop-an-ai-empowered-technology-for-automatic-compaction-of",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

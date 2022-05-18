@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Edge AI and Vision Alliance Announces 2022 Edge AI and Vision Product of the Year Award Winners"
-excerpt: "The Edge AI and Vision Alliance today announced the 2022 winners of the Edge AI and Vision Product of the Year Awards. The Awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies."
-publishedDateTime: 2022-05-18T04:30:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
+excerpt: "SANTA CLARA, Calif., May 17, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the 2022 winners of the Edge AI and Vision Product of the Year Awards. The Awards celebrate the ..."
+publishedDateTime: 2022-05-18T06:18:00Z
+originalUrl: "https://myfox8.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
+webUrl: "https://myfox8.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
 type: article
-quality: 25
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WGHP
+  domain: myfox8.com
 
 topics:
   - AI
-
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
 
 related:
   - title: "AI is the way forward for Home appliances and other gadgets"
@@ -41,6 +35,6 @@ related:
         height: 202
         isCached: true
 
-secured: "cUaKlpsxSkgL9to3Q4CPYG/K8rVgObrc+GV1nuFQJwVlB4gwoYWBGTv5cIzWd6/h629308h67bPycDmRUslwBrbtoIlOBqO+yvVMnSjj4hBqEoKX77FKrhly9ngm2BLV0TOjE8ANFUtX5x/ir8YU3viazR6cgZP2NC1yDZN5A2lFFcSoqM193hofmLlOYJPlG5uyZmGQysVuEu3jUhJiluyGBJu9PsbnATqp+Tx28Ruz6+VKalgFHcIErtTVrrk5fGu2uW42cK/3/0xz6QyhDy/8ZGRwny5sLpfh5f5aS4EbgimBIO6FaFT91EbJc0LQHsXdHUELNG+iNF18dManrsPbdqLEiVwVDgtxOnAaMQk=;q0v9HWGaebbgd5hkwtGqUg=="
+secured: "ISZHtDnstcCNzhMrO3E7GN2Nf9kWjjibIoax57KjQJwjQDbAEklXP9z353RPoeSOGd3/Haqr5WSNZfH852LiD0ZxhwDNCu0nKbWocRtD9kmdEbhcHYt/Mhwo+jl+4oAFYA70asgcd4kvBnuiealJ2c1V0aGOPSuoXQSshI2tRBzjsgcxkEYClNKcZnu9d2z1b34wFovy/dGhhw8v3C/qoVPqLKnc7pE0HGXAliBmAElTyfFwIfZXnN59uVSl544jqU/L64Lx1Fb0VfRseXjXAYvcBME1u5qSZTaqkQWLyzOtrcFCxYZYgovehIksDSK0K9MJOWkAb+v1nO8Qj/3U5o8DKM+3mcKWgmSAA6Rdm0k=;4leUtM8PrQCqINV8nkz05A=="
 ---
 
