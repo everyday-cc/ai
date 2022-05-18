@@ -1,29 +1,19 @@
 ---
 category: news
-title: "Metanomic Acquires Intoolab, Developers of the First Bayesian Network Artificial Intelligence Engine"
-excerpt: "Today, Metanomic ( https://www.metanomic.net/) announces it has acquired Intoolab A.I ( https://www.intoolab.com/) , a Bayesian Network Artificial Intelligence ... has already been successfully proven in Healthcare and the technology is now being applied ..."
-publishedDateTime: 2022-05-18T07:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-games-video-artificial-intelligence-5400fb17e5d642d683fd93651c656d7f"
-webUrl: "https://apnews.com/press-release/business-wire/technology-games-video-artificial-intelligence-5400fb17e5d642d683fd93651c656d7f"
+title: "Metanomic Acquires Intoolab, Developers Of The First Bayesian Network Artificial Intelligence Engine"
+excerpt: "The acquisition will help developers create better video game economies and Web3 experiences through deep player insight and data analytics"
+publishedDateTime: 2022-05-18T15:08:00Z
+originalUrl: "https://menafn.com/1104235672/Metanomic-Acquires-Intoolab-Developers-Of-The-First-Bayesian-Network-Artificial-Intelligence-Engine"
+webUrl: "https://menafn.com/1104235672/Metanomic-Acquires-Intoolab-Developers-Of-The-First-Bayesian-Network-Artificial-Intelligence-Engine"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "watvMwb8proeQuWq1hW6qzzdaLnkmQawoHKKHdHfRCL1IpUYDersApbjpAUMm4EZV207f63aXr9VmZHLsdaR5MtHxCrdVyRvrNfuILtqZ9VM6NpyFaI1r4OB1PDKIn/7lHk3ADzGGDT/H1yG7NOqR6vPI2h2CReM21v0nMpEeNBW2QwaZKkQZUeB3iUfCQZsUN03iSfJV3Pjiscxw7G2dIDe9BijwrsD0FLKEwNMCwJAwZ4R1dFS79QHwaR9ohiPrTfuiplo2Z/HInLzpeRTzE+Iit3xaCcBNzvr73nbKwSg24ySDmnnbQ/ULBb/7SDCBUnYxKtI4G1+Smo+U1Bx9fvhuUUP7wvhuOGj3Ig/cOI=;+QwlsSnnfBVuyzt/NDVEKQ=="
+secured: "F1Axmp/tE/fKW33ALzynHdyecOeNDPZk8KbbVsIhX9ebCayatXIqNf6UJqCcFOC6JxLlqxRHZOqdq9F8f9RcHNSKbQPF05sdKhNSOr7X2Q/bT+V5VdPn44xZ/ZlZJAfXOitJzPaA4tbchpmMbW6Wh+FRiwzAH+Hb47uTkHpjXr5jY2pT4tJ57HmBe4DyVfNrig+AZHLM2dCKnx9vMd68Bqls+W8FWnYXMmxuofqyN82RyybutOrpkruchOoWy4zRCoR/Td/cy1R10lGJA9ZQqa9DOB6X+sv/bwEOJb0qgwKmXsTlXffUQTVfKeGjE+EjwD8M+pk7mQ/ZD+w3PkoxawEnkHq877Espc3AN57EttY=;HZ7k8x0e78a3u8168/VImg=="
 ---
 

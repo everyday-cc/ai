@@ -2,28 +2,19 @@
 category: news
 title: "Disprz Partners with Purple Quarter to Appoint Alagu Sundaram M as the VP of Engineering"
 excerpt: "Bespoke CTO Search firm, Purple Quarter facilitated Disprz, an AI-powered E-learning and cognitive science-based learning platform, in finding the right tech leader by closing on Alagu Sundaram M as the VP of Engineering."
-publishedDateTime: 2022-05-10T05:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-disprz-partners-with-purple-quarter-appoint-alagu-sundaram-/2022/05/10/9598622.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-disprz-partners-with-purple-quarter-appoint-alagu-sundaram-/2022/05/10/9598622.htm"
+publishedDateTime: 2022-05-10T05:48:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254416&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254416&cat=PR News Wire"
 type: article
-quality: 15
-heat: 15
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1599524/Purple_Quarter_Logo.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-secured: "63O9feXk9qLlCK+yaSfkmIl8R8G6FECHwI0e/5E+szJNLRyBmND/VAsdVAzpHRrS0Mhszc0dhLrqjIM2MVEomihdhdXjRohcYSJ9cyI/Q56Xo86iMRPJ6dXG2S8ZaLmanHeQc7pm+90tmNsbcik16yFDDA83EJX7QjUvoD9hs2GeC4MIZHMXF/Q9ikSqzHr6BoAlmW5dBsX7McRGZPmUkIF9Ici5VVPxdZsqYWORcveZAIV+hsJ3QIoKeCk28zTzyJZezNzIc2KfwXy4o9NjPUpCEEwwaH90Tk4r50OHyAymufVTTyyydnbqUx+M70hQSkjozYa3pX501eLdFNjGTO+90IM0Vq6OLOP96d8MlFI=;7H9xPl/ANjnYpbRw9ucVfg=="
+secured: "WIldC8XdJyeUijMOg6kxitDfb7h5yvuQ32/vs1XpIbDKoAR5lnAGKcsEX76euyk1gHInaIEdGuDLqbDIgWOPaIWyQ6R5enUca4pU6YTotCOyQh8l3THgkb1JFe0euSU1CfLzoIW0mNCQFEu0FrwQkSEsoQPc1Mf47MMlPHKRPADDNz0G1j4/c6rVPnhuuR4CgNj5bFgmL10SvP7QQgzGWjdq/oqItR/wltzA+fVluX0IRuyntdpxK5WOCqY37kfNX91BXW+dDM3QwWNSbt4wXdYvJNQhhNuwWkvZQNH+Zt+/48kQ1a3g4HRBaFu9fqAAO2nCIbLP85XqcFcPU2aD9B5dAlpgV7i20N32inECkrI=;rUIS+CY9FmoWHJBshPtSOA=="
 ---
 

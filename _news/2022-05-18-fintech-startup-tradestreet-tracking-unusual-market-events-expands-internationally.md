@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://orders.newsfilecorp.com/files/8520/124111_3fe72a28a40f2b09_001.jpg"
@@ -117,6 +118,6 @@ related:
       domain: www.bna.bh
     quality: 19
 
-secured: "JWzQZ8V6XD9qUTgDBPBGivtQaKs5VXdBHqxuwWJWq23ceo10ZiTcpmjqyvzi8sFciH+iuSeyw36ueTvBEnWfjreWR/I0/Nkvgq6M4mNBu5Bkw4X5vwxa9lyj3HVJHjLIFU2BDfY+WuhQBuoWOIVtYSv6i37CAHMl4ULPG5qO/RuxcCsjaTMpK2nki78vc5fImDpEE65gkdg1h8XtYqIDODaFoTElT4j5VIHyoELzX4Uy4CBkG80GCozvpCl6cU5xubwVRxZ7eFBARH/rImr3JdNl0kMvtys0f6CDppaARg2H37BQkj+LH/5Z/dE8ftUBmAZwA0+5QwJPvBfbmLnft2HlTwlHvFSoWdVnl19Gg0k=;vdoITMFHwn905tfgTEMEvQ=="
+secured: "tWE0SpuId7E/QbQ6Uk8FhZKANWyoyhuoeivLXM8ayII0Y23MVUIuDwagsugPsFW22hjCKSi+ee3A0PJ4A84h+oLQ7hGyzIZAYp9xhikIsmAgivGlnt88tfP7rgPVmfacPFmeEL5PFazS/dbF1ksXmmJmLGBExnk1r/RAMF7EvB9XuVmnlrgW3ASKZcAH62Xr9XjXUJxDEeDWujsPUpHhExv+FPQ7FYEOVE/rXFu90MgPZedDNTrOdUPSd/nthom49aNoeqZJnxKybPJQfqoK6LRqpv9eOWjPiwZjCe1N6eAoT+6trBBAdcBVowQFUSNHeQWIezvFP1FGHrz0cfnpMiDXhis9MIABWaM1Rm6SKDUU6Au+Xibt21MUvOFmQDs1jgciPGsHbYRp5cRKbdVZTXtoIM+Y75JSbn8l3sVqM2b5nAGNE7rCYHbe4nfN4ORxDQzimGlA2zJHs6NiF+Ig5ELUqB8OJhSWz5renAX37jiTG53wdkvltWoQtg/4xANmC64tmjNjXKJnjkl8FURchA==;gAYgMfFMCAbNoxQL30racA=="
 ---
 

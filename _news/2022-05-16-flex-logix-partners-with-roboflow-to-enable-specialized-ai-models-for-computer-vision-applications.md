@@ -6,9 +6,6 @@ publishedDateTime: 2022-05-16T12:00:00Z
 originalUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220516SF57748/flex-logix-partners-with-roboflow-to-enable-specialized-ai-models-for-computer-vision-applications/"
 webUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220516SF57748/flex-logix-partners-with-roboflow-to-enable-specialized-ai-models-for-computer-vision-applications/"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
   name: MyTwinTiers.com
@@ -19,6 +16,6 @@ topics:
   - AI
   - Computer Vision
 
-secured: "ruHeiaMplCu62cQrYNdIR7UN1tFRgvVbAKAOgz6zWBleAL5gB0M+Bn/X+KaBb341YSjc6wHI/WVbpTGAVQGVaO5CFOqkJ/aFXa8xCfCZ257F+ziIliN0ycvTa41HAO9KxNXNYQ7YTnvPt0XEbrt07TNMhJU/vToiwe46rqlEoFUS69C40VghFpp4fIvvpFhRDwd2/2P0KeC5kKxTFPML4JcexSLJaZywlA07coqZl62BINn+EjKUPj6MTR9Gm0e8Lxr28YdKexbZrMl54XxWpFeUvf/wbkiTRld+F8mTABUHr7HnPn8DYVqvZWp6NbUCoSdBacCthECwEL+M4cgQ0ml3F51rhExZ+ihLRZ9gzA8=;dcB1TvEu1FgTCg3HhY8E6Q=="
+secured: "/Q3o5nDt3cRrAzX9ljhTBkZ9Wyuxt3P14hdQL7SGkjOgZbn9sVFq7fdcFm2MdeIxbBaE7rKQKyhrKStdriaCX56TYkaYEqitLtpjRb0Qpm4W5BzGI/w79kJ8mtddb9LwGZL5hkQ71sQYuMQkfispGmWnfXwrr4CS5HOhWrt0zvvKginrbON90MYEPgxzM7HjQxAEb+gIEx8iMP25luQFbEiKiFwEl2YWvKsnY8hQ9I+nP7nqImaNxIF2jNA7ERGbv4fS+vataQ6v09RuoEAY95LyhjT8GjHLt+QAKvaSTh7x5pN2TiJrZ9VNLi8XeOPgU1FPX150koy0BNcfFH98Cm0bRUIHLHKheVw5LtfVIiw=;cnNKlMgCL+uDHMOEMkI77A=="
 ---
 

@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "pzfnGvWj/8/QJitGvzWt4E2kEevhkP/MQo2I5FJNAulsIEPoXPHaWg4Yt09odoe4KKZBDfOTQ/QpR+4IReLxUcr4N7ldTv14vPd6SlhND14aurMu6WkWF9Ne2+FKzF1V2dCNiNEpEZ65/7asMbM9vrmFAa2cXa/SS3RXJaGw5f/HrbOPEgpRiFO1VeTwOPNfMhayAoyVHpiy7Z9IsMV3VkmcNpvONXedLFk6yh15Utti8PKSMspkKgUZ9UpljhZYPRvWnwRiLi3/1msVPRb8bDWfR5FOgViV0OUhvZCExOuXNfmqDXOQ+vK5oCrhV9yhOaCInwYVI0uEudqn8oloAX5C7Zpy6wc1hDGGwEu+wko=;UU3zRVfr9ThrN3A1qR0hdA=="
+secured: "g6lPRqLvIerinlIPYByYP5RMlwTuge84oOK3LxN7Po9nTs25xnZHIWtFbYRqriuSw1V5rAB8aFiCfZi5jyxnCC5tZEbWZT0POjO4BbkQhJQuTf6B4CLEn0aMXwbrhciUnQMmRzbp+kHhbp/x0x0V8YwfyctiI8S2ihOyqtpro14f8/OXedscKDQQr+q1cJgmMn6u5ZPlUIuXWgcsNGkkaWaXcFDSF3xI140Z6k5QC98jwnOoYODb2II4JbpS9GGLT/4i7NVbUaURRVez/FOlXCSNI3jt7mgj4CPigRdqoNQYOzuZIVzSZE+ToWQOiSJ5smZWFDgJ2h0IqGyRwQgrwEcJo0qVteV1hLiyKZyADgQ=;Dj3VBblOKNLJpWjN6iAT8A=="
 ---
 
