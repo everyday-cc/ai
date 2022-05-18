@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Successful Adoption of Off-the-Shelf AI Depends on Tight Business Alignment, Says Info-Tech Research Group"
-excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has published a new research-driven, step-by-step blueprint for implementing artificial intelligence (AI) solutions. As companies invest more into data and AI solutions,"
-publishedDateTime: 2022-05-16T23:04:00Z
-originalUrl: "https://kdvr.com/business/press-releases/cision/20220516TO59406/successful-adoption-of-off-the-shelf-ai-depends-on-tight-business-alignment-says-info-tech-research-group/"
-webUrl: "https://kdvr.com/business/press-releases/cision/20220516TO59406/successful-adoption-of-off-the-shelf-ai-depends-on-tight-business-alignment-says-info-tech-research-group/"
+excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has published a new research-driven, step-by-step blueprint for implementing artificial intelligence (AI) solutions. As comp"
+publishedDateTime: 2022-05-16T21:04:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/successful-adoption-of-off-the-shelf-ai-depends-on-tight-business-alignment-says-info-tech/article_0d508a75-94f4-58f0-b9ac-7abb370d6e98.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/successful-adoption-of-off-the-shelf-ai-depends-on-tight-business-alignment-says-info-tech/article_0d508a75-94f4-58f0-b9ac-7abb370d6e98.html"
 type: article
-quality: 21
-heat: 21
-published: false
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1819056/Info_Tech_Research_Group_Successful_Adoption_of_Off_the_Shelf_AI.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
-secured: "1SBIHOJnd8+9V0sIsTZmxU1N+JqlUZuKEyvGnI6t1Ksni+XOFAcjZF56TzamsmCAwU4XhkF2b02kZFc49hT8KgzS9+JZCZ1nrcX61pP0cunZMSU0u36f0gV5cJxDsWCOUi+qj9vnVAYo1Z60h/bOV5tzuQkWZr5EG5KTeG3IWIHqUXKnT0xhA+pJvMF0aagsO1YeL8UVy8IR17/hTFA2lKlBDnC/n7NiiWkw3t1k3TIm8S1469CCuyNPZa4kDiJaPb/dIxfowlAcVOxgXpH2x0G0/y2rKmQfjuVUGN+R9MUCizTaimriun0ddH1k1VWVso1gpPKlglOi7g4HRV+8ECAn8OQiIEgdYmRR860AxrM=;8OHaSIddrVVGxiLetPVKaQ=="
+secured: "TJov5syU7VHpp0RfVyI8vRe64cvHOxM6Lllx01+kiYK0otRr9t5wg3CC79XgR+U27SAGieJqlaqODcybt6h5l1GVrK1guPtDPb89OxmDsRWH1y9ghCFO/jG7Vtp761AYDCl2PBbljmZq/gzdAwxaXpQzr7QcqkWKGfZBOO9J/HPllDh7qsOf1vveYc6dRCt4ZhM3mY2Wqo/uq3D7EUDV10UnKs7R7UTbFqieWST5JwljNqa99U5umig7PEe7cKYzM9ioB6qdtuyNOjOFGj5GtAgzGIUzqT9rhDw3QwBfuT3wcEhihlSlvRwrlWATtzmxnpWXPa2OW6VgCIa5CDNj/pocaMUTvwhGB0zoFNHm2HJ/xogOzToyIRmMJzCqESqR7fMYx9+dU7TEte1sYJTUYZtMb1AKDpT+PO2P2f6uffnCAjT6z1ZZFNSfXkvjrYlX2QfrttIkl6hROPTFaFXuNL5rBQN+AaM+mRGcYZVZEr/wQheB0pKe5sB94y/YACBO1Eo1C2pSaXsswQCvca+FoA==;eClN4V+75Jb0jdCU4N64Yg=="
 ---
 

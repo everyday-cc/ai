@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Performing artists push for copyright protection from AI deepfakes"
-excerpt: "Deepfakes are increasingly being used to bring dead celebrities 'back to life' using artificial intelligence (AI) technology"
-publishedDateTime: 2022-05-18T11:49:00Z
-originalUrl: "https://www.breakingnews.ie/world/feature-performing-artists-push-for-copyright-protection-from-ai-deepfakes-1306875.html"
-webUrl: "https://www.breakingnews.ie/world/feature-performing-artists-push-for-copyright-protection-from-ai-deepfakes-1306875.html"
+excerpt: "With the rise of AI, creators want laws to protect the use of their image or voice in algorithm-generated works"
+publishedDateTime: 2022-05-18T09:15:00Z
+originalUrl: "https://news.trust.org/item/20220518131326-g7qya"
+webUrl: "https://news.trust.org/item/20220518131326-g7qya"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: BreakingNews.ie
-  domain: breakingnews.ie
+  name: Thomson Reuters Foundation
+  domain: trust.org
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjBcXFwvMTJcXFwvMjkyMDU1MzRcXFwvMi41NzI1MzUwNy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImJkNTcwOTY0YTMyODc1YzAzZTdjZjg3MjA0NmJhNmZhZDNkZmVlZjUifQ==/performing-artists-push-for-copyright-protection-from-ai-deepfakes.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "ngBbseS4ixSafNbmgd+4uXnWmcxlRRwq15LwZvzoZOUK+/u9J6uBorwQvLnWTjzNcaSP91RBjKOk9ybNz4rIqJEfHWWjMDJtCliu1Cvv8jJz0Vqak80aKJlhnrYVxxFcx+ETDm2ut5EzdLRtnclmKQo103UvaZ2ZOsVtKEv9SAXUwvWU+sIIhWv9s2Nll9Z2h5YHIYaKDgzq+tMZUzxYg4eOAnS5yZ355MVVf+MeqfN5s8OcKRa7RPvO/M8YtCuBwP9cQzHcwnLH8cOnA1HOws04dCuimYndNv7HHuHpWYNQRLPlYiKh5IgERUrpM3g05NyQtRNb5a2TPPrU6iBHiUq5FQNnvt7VXdk8Wta7JgA=;KP4zc+hEnD6J6mmBwcdDnQ=="
+secured: "0gwVpBNv7hJxjTeIpxGvmqHoaIrCrHvpk6rq8ecn82iGo1D3kUeT21rpKoFMoEK8Jmf3ewOKt7L9yBvbL7yUo8K/W4eoeX2Y+9jGzgaWRvUbPJ90Weh4CRH0cSn2xvdV3wrMnmKk90sLahG/Uuxz+G9rM5DvrudD6e2289CnMwVayfHng+TvX5q9za754Tt8dUNt4hgVqJmyd+2cW8HyizOMfI+cykYiWBu4lxPyGihFPijIRkxGsL4oBQGKUR658P9blKiP6pmEOmjZfMVlN6gZC5zsfxw7Gh7W7MSdULYxdWpYIDqBJ+8Ko34+oDEJ7T1zi1UYvH4q7vFuzOsHLfq5GesiqWxdrn3mjX+gAC59UakX+B2G6I4ZKAakqoLX9dD6owMnUpn5tjvZc9cQGjcwozENU1Zj/1CssmFTSYoUu7dqcHgf1/iYujfi0FRHiOZCTqCYKgdaq7aPkvdXTqVkwZ09poIK1dl155jRf0JGbe0c2UWmGcxF1b7LAKH/xlDOQBqzWp7bqgaZFXg/cA==;UEtzUXuZpdNC7nz8Vv8XaA=="
 ---
 

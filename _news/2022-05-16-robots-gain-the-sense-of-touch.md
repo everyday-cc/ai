@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Robots gain the sense of touch"
-excerpt: "Smart fabric sensor technology company, BeBop Sensors has introduced the BeBop Sensors RoboSkin line of skin-like coverings for tactile awareness for humanoid robots and prosthetics. A nervous system for robots at less than 1mm thick, RoboSkin is said to ..."
+excerpt: "Smart fabric sensor technology company, BeBop Sensors has introduced the BeBop Sensors RoboSkin line of skin-like coverings for tactile awareness for humanoid robots and prosthetics."
 publishedDateTime: 2022-05-16T13:36:00Z
-originalUrl: "https://www.controlengeurope.com/article/190805/features.aspx"
-webUrl: "https://www.controlengeurope.com/article/190805/features.aspx"
+originalUrl: "https://www.controlengeurope.com/article/190805/contact.aspx"
+webUrl: "https://www.controlengeurope.com/article/190805/contact.aspx"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: IML Group
@@ -18,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.controlengeurope.com/global/showimage/Article/202581/"
-    width: 600
-    height: 390
-    isCached: true
-
-secured: "A1Z9Wl4/xDgROIlmMC/aVUwcjCSBl1MkRa+b/uFTkLVUx+8qEbSPUwo4x+pcxmXR//GHUpuXY3gCp5VpM/y9iDByYLGpaMZIrnmkEdUWKWC2WKM+miCjmO/SHySEyJJ+OV7oIjZ7bskRNR0trS3ORQ2WlGlpzRKgoYSWQQYGKfuUo/sYZLB8zZSaIVRjauphTmGp0ThFIDxCyy9XRqicdCRrK+MuFDP981XuElCl2VYMO9HQ7GhTux9bBA269l0xg/ja2VgoKcf1FhydG6tX0512XFg0Ld5G9uB8gxkvVgOth++mdrJwbiMrVO9MZhMBu7q5C8sbl03oQizFHaCePo6EjiVm30ihSDu249eCJt5sVzE5uMmfPQklDStltI2o5QYE3Dnfcwr+NBnsJ5yB6hWq2hN3nch9wKq8aHCFrCbFbq3Nje9SjEwLettel4o/QHcb0XlaTyE7RyrxhB0j/J6WjEUPq11v1ZXda3pt5ApqtqH0VNVNY8e0NRwBAre7ZLHTRSLzgiMI0aPX3TyQww==;5R+Xp1M6Z5dTzoHIxHKYfw=="
+secured: "AaWB4GZDnmkcyS1NUKx/K0tRYcERCquZiHi+WP1w9XOtM9939oPb7OHXtBXDOXGEfJJ/qr3s6qYPnfyLhoZALkTl6osFItKJvQOku+FqMG3wxseZ4R/57z/p4TUystFH42x8sDb1qQmnDuBwnN4LawiDsDzvx+7GgMk+BDA7UQWsWDIWe4UyaQPzAIiXQszhWH0Dh2AgZSICQsGg5Fqv9RX4U7znSKLmNSZ34zL+FJ3Ybz1vk+rUw5YzEyzImQD1iObxh+sohw12F07beYoQLzzf1yzcVxJ6rK9WMRPpJdPMdozL0lYdKHD6NNwzF3dGLKfXQ+ooeeDPGv+qVtG39uoC3nUV7zyve5sf7oTdOPYPuP1ZItw45D33zg2O0a8y4ZczcxzAujIar0+q0biLRJIjcNN0IOZix8JoPEllTN5Jb31tomvaWFxXflPEwpu7uFmVUaKK11WTOPVp3ErWZaz6mP9mhllhQ8vYeOQZcMW/ozr4iRIoa06ecFzQl5WZp/xskpLnJQXV+j73O2AC9Q==;DbBA1IyOlk15fCCtA94WHw=="
 ---
 
