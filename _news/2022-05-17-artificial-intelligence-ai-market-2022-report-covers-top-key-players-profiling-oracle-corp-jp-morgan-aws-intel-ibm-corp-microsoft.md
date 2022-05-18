@@ -35,34 +35,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 73
-  - title: "Artificial Intelligence In Fashion Retail Market Emerging Trends and Will Generate New Growth Opportunities Status 2028| Microsoft,IBM,Google ,AWS"
-    excerpt: "A report was released recently that sheds lots of light on the Artificial Intelligence In Fashion Retail Market. The report covers an overview of the"
-    publishedDateTime: 2022-05-13T11:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-fashion-retail-market-emerging-trends-and-will-generate-new-growth-opportunities-status-2028-microsoftibmgoogle-aws"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 48
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence Chip Market Size To Reach US$ 66.4 Billion by 2022-2027 | CAGR of 35.20% during Forecast Period – IMARC Group"
-    excerpt: "According to the latest report by IMARC Group, titled \"Global Artificial Intelligence Chip Market Size, Share, Industry Trends, Growth, Opportunity"
-    publishedDateTime: 2022-05-13T11:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-size-to-reach-us-66-4-billion-by-2022-2027-cagr-of-35-20-during-forecast-period-imarc-group"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheoYdwUNRdfvwqZfSMR9atdbKdoGnB7E3zzPe5zRK9X1ZX8WhILT8JPLgrGnqK3Dpe8X6IMXGmkO6pAL9uZolJCEM0jTbW1jtKkob8x__TRKTsRPWgpsUcv3WJCXMENMmw9Gh3_j73sRh84W7JSEA3qiCshXgOV-NEDggL21CqLNYa34fyhl1Y0g4/w637-h302/artificial-intelligence-chip-market-imarcgroup.jpg"
-        width: 537
-        height: 302
-        isCached: true
   - title: "Healthcare Artificial Intelligence Market Size Is Expected To Grow At A CAGR Of 22.3% During Assessment Period 2022-2028 | 122 Report Pages"
     excerpt: "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
     publishedDateTime: 2022-05-17T07:20:00Z
@@ -77,15 +49,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Self-Driving Cars Market Growing at a CAGR of 20.3% over the Forecast Period 2022-2028"
-    excerpt: "Self-driving Cars Market is valued approximately USD 1.74 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 20.3% over"
-    publishedDateTime: 2022-05-13T12:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-cars-market-growing-at-a-cagr-of-20-3-over-the-forecast-period-2022-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "NIAtrViRaMvJAJDBUtmorwd32ogKGWPMLV4ltUBeLLgM29pymARb3/hvGDE8ZKqOTpy9JxBZ8MyJCtBCITN02gTrJYES4EpD0Co2o9N11La/X/XHp1q2GzqW3G4zmjE/JA8WP8+lAp9FqoZ2arsSKUrpRnnGzCpesrNDd3UB0BGeiekhIVWvCkcsxaWIBtSMC5z4KDTv4arMzp8/FgS6kfcGdPV+HXjFaqO5Ij5hT0/G8buKeEVIUxes9zHMO22g0l4QS+gMLwXp5ICcDegZVZYpcNLOAdIrX7VxOU32l0xLLscXcUiPPQ3QNf4JMiUjxqYR4KCaDxBp3RbXH1MpSqZQ/3u43R2vfSXbyl8hyRUMoPSdUgNd3gXWpwbz21ofsOXbODRrGThl4qiG9pTu2wQkktO+qV3n8CVWGTLbFLf5gdxCseVzpm1AlLqsMi5k9w61IlK+GEEOYdptkPJVBMzJZr2XscFDoqlRifPjnywwuiZxzCL4ohvK/gzsdLzyWmF65U96PMou05Lb2rS+hQ==;fnvoo2qxrnVzncqXGmnhbg=="
 ---

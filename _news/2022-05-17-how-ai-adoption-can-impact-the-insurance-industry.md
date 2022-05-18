@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -62,17 +62,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Artificial Intelligence in the Cancer Market"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in the Cancer Market\" -  AI applications in healthcare are gaining traction as a way to enhance illness diagnosis, management,"
-    publishedDateTime: 2022-05-13T12:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27187389/artificial-intelligence-in-the-cancer-market"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27187389"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27187389"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "QkpkFesBnUmvL+H2ZywCGv3OFWkFj8Pz8gkC/d+VQmAo0VkkDuGD4GiKvAfIvkwacCQPd9HFT4mVf5lOudxrXa67+B4inwnPaSPY9bANyLricHWq7Jr06PUwbuzi0oa+pMCcY6QigIRbp/Ss1IX7TuZtNZwNYB9fd7s6uxdpkwC9PhmfZTRSAkzcFFl0y+lFo7gRpmRstfQ4KnRyO+WyrLE/nISiZgr1M21AHq85WOD2r8k2gr2lVxIF6dGgbTrJCbAhKu0AKySQ3Sx1r5531S/Y/vmTAD9Oa0u6/jzd+o1oulcPRCZACtATblmW3TkFesYM6VxIyuy6+wF5534yfjk21/zqCNUrLVPOH/XycI52PSJi7UzBJKym+97uRN1TeAI5UoEplENscQ/cH3kQytidMJKLr/gZCIcnUJphaJvYVmJD6cvTSw4x3Qld5MfkmQgP9H1JVECnZSjMWDP8t0/oHr2uWqANUEyb3GIhZz41sUGF2P/t8tXZvbMTbJ7wuwkWUWlpfgi0bLuwZO4Osw==;8/sjQN3gphDbIY1eeyl9QA=="
 ---

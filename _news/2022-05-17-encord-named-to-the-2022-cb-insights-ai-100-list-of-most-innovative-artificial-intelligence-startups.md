@@ -1,21 +1,28 @@
 ---
 category: news
 title: "Encord Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "Encord recognized for achievements in Computer Vision. CB Insights today named Encord, the platform for data-centric computer vision, on its annual AI 100 ranking, a list showcasi"
-publishedDateTime: 2022-05-17T16:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-17-encord-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-17-encord-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
+excerpt: "CB Insights today named Encord, the platform for data-centric computer vision, on its annual AI 100 ranking, a list showcasing the 100 most promising private artificial intelligence companies in the world."
+publishedDateTime: 2022-05-17T16:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
@@ -97,6 +104,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "TuI4ihxH3HbTBS1z3+OindgzH17StsL0MhISaMunz7ZSCwY6T1iUp8kPyxPcTbXyQHh0/48uMOBSv9IPnIxRcz6obMLu1wI/+O1n4Spl2VBxlvflAZlUSpEuykVTr54X/OI64nFxG61yO1qTy0XEGs4fMNs2+VCjo6WKCyECccz3MHd3Vwb80bH7nVwSym55Lq4x6ZoXulCIWHkS2ZhtSIRlbtPHfwr8JF1h64VnVw/WqEsfd+M93wMRrYZJRBWBwKjZO3TTvYdrlJueVMjHqYeWwGegKRAlynegyMHR0xxgQHibpD4e88YLW1AeqlM7YNbQSBRRCjxj2cgSJeLN84uK+1Vh/D/W2j/vJ5ZGuEk=;J+KvIWlD1cb6uDX11LjL8g=="
+secured: "K1O68qs4pyoy0e5uwi5QjuZnlyM9ybOy5D/jyRvUq/iQdgAl8HM3P36vzs7xggZ6eZ0SqZ3E1FZYKvJ7lOM3x3Rmb5FchdfV/Zh9xqJtLOOJrTEaII2ESJM95JaP2N4JI+hvReQfNJpzQgVF/c5L/aCO7W0We0aU6TtWRExJJvNGqiee/Z1k+I5/FSd4N1iAU57umNT8g4r+Vl6TdruC1PAtb6yMvr0rA2isIbZcKHkRzUFTwjkHkrfg1nQBiBD/ZiegzR7IskXDND7AqVSLtoMHJDJQOzw4uElNPeWvFuPEcmJVRnILufq9NUgEkOE2xVN2jVs88By/vyoOgv/NCBOxweLixO9E3Ip50gjGPzs=;IGZ1iLslRj5s2bd4i56HsQ=="
 ---
 

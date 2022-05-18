@@ -7,7 +7,7 @@ originalUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azu
 webUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/"
 type: article
 quality: 69
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 19
-  - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud™ Solutions on Microsoft Azure"
-    excerpt: "In addition to the reliability and scale of Microsoft Azure, Avaya CCaaS customers gain access to the power of Nuance's Contact Center AI technology integrated with OneCloud. \"The combined capabilities of Microsoft and Nuance give Avaya customers ..."
-    publishedDateTime: 2022-05-13T12:16:00Z
-    webUrl: "https://sip-trunking.tmcnet.com/news/2022/05/13/9601679.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "AKkCNie3C6My1VBKWCipLUhOaGxwc8ikI3jP6PYnDS3p2ubY4rNyMI4whpWFAqBtv+zxATyQ9UNtOelfFcvVmAqdN3bQqrb3/uOg400MKCwOPbcX+9gg3UITzCuCN2Uu86UyGhHsgYV1yrt/hn+Q9eTeWS+7wLurSRBgygwmeN1QGUo02kThcWmyr+e0uZu10GFGDrw4wklHXRAz+NiB5tU2808t7ycwrnx9pEoql8RawUwAenwBPgwytPd8q0rXEaDPcIcHzPdaVtHk1tIvteMC8TJswAmK00HOHbnY8yOPR4lUCJpimafIh2HmAFCMI3fieGQlz4ozYVgeJgrDmVoh/u+Xl6Y0M+uDIJ6i9pk=;HtV9Su/aEr7iJ3FkF6Sysg=="
 ---

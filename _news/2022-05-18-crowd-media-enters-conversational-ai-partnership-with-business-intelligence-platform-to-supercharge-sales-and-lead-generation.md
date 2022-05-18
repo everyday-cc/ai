@@ -59,22 +59,6 @@ related:
         width: 5529
         height: 3691
         isCached: true
-  - title: "New OneForma App Provides Generation of AI Data Sets More Easier Than Ever"
-    excerpt: "Pactera EDGE announced today that its popular AI training-needs platform, OneForma, is now available as a downloadable app."
-    publishedDateTime: 2022-05-13T12:12:00Z
-    webUrl: "https://enterprisetalk.com/news/new-oneforma-app-provides-generation-of-ai-data-sets-more-easier-than-ever/"
-    ampWebUrl: "https://enterprisetalk.com/news/new-oneforma-app-provides-generation-of-ai-data-sets-more-easier-than-ever/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/new-oneforma-app-provides-generation-of-ai-data-sets-more-easier-than-ever/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 55
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/New-OneForma-App-Provides-Generation-of-AI-Data-Sets-More-Easier-Than-Ever-01.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "The power of artificial intelligence"
     excerpt: "MILWAUKEE (CBS 58) -- For many organizations around the world, digital transformation has accelerated over the last two years, prompting new investments in advanced technologies like artificial intelligence -- or \"AI.\" Today, AI is changing the way ..."
     publishedDateTime: 2022-05-16T13:54:00Z

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Payments Fintech Banking Circle Maintains Steady Growth Trajectory"
+    excerpt: "We have also sustained investment in the use of AI to enhance the effectiveness of the AML processes ... online lending, and other forms of Fintech. Announcing the Launch of the ConvoyFiCrowdfunding Website ConvoyFi is theFirst Decentralized ..."
+    publishedDateTime: 2022-05-18T05:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 74
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Graph-Growth-Increase-768x1024.jpg"
+        width: 768
+        height: 1024
+        isCached: true
   - title: "Multiple Disruptive Technologies Meet in Fintech Space"
     excerpt: "That’s a longer-ranging positive because the applications for other disruptive technologies in the fintech world are immense, including the boosting of efficiencies. “Automation is not a new concept to AI, but combining AI and blockchain can allow for ..."
     publishedDateTime: 2022-05-13T14:16:00Z
@@ -47,29 +63,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "AI in Fintech Market Size, Business Segment and Geography – Forecast and Analysis 2022-2028"
-    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
-    publishedDateTime: 2022-05-17T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-segment-and-geography-forecast-and-analysis-2022-2028-2022-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Bakkt To Participate in Rosenblatt Securities Annual FinTech Summit"
-    excerpt: "Bakkt Holdings, Inc. (NYSE: BKKT), a trusted digital asset platform that enables consumers to buy, sell, send and spend a range of digital assets, announced today it will participate in the Rosenblatt Securities Annual FinTech Summit."
-    publishedDateTime: 2022-05-13T15:15:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=663699"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Four Things You Should Know About Fintech"
     excerpt: "Fintech is taking the banking world by storm thanks to its innovative and cutting-edge technologies. But with new tech comes new responsibilities and risks, so it's important to know what you're getti"
     publishedDateTime: 2022-05-14T14:30:00Z
@@ -84,29 +77,20 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
-    excerpt: "Emphasizing the uniqueness of the platform, the Chief Digital Officer, Mr. Utpal Chakraborty, a known name in the AI & FinTech industry, mentioned â€“ \"The FinoAllied platform stands out in ..."
-    publishedDateTime: 2022-05-15T22:39:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1253827&cat=PR News Wire"
+  - title: "FinTech Market Growing Massively by Xero, Sofi, Adyen"
+    excerpt: "Fintech is allowing companies to reduce their costs, automate their processes and reduce the chances of error. AI Chatbots are used by companies as customer assistants for various purposes such as sales, customer support executives (by phone), and online ..."
+    publishedDateTime: 2022-05-16T09:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/fintech-market-growing-massively-by-xero-sofi-adyen"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/1816599/FinoAllied_Conversational_Banking_Platform_Award.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Infinity Ventures Launches Inaugural $158 Million Fund Dedicated to Global Fintech Investing"
-    excerpt: "Former PayPal leaders Jeremy Jonker, Jay Ganatra, and Mario Ruiz form fund to back the builders of fintech infrastructure and commerce enablementSAN FRANCISCO & NEW YORK--(BUSINESS WIRE)--Infinity Ventures,"
-    publishedDateTime: 2022-05-15T23:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=664305"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
 
 secured: "L+QlGS/CzB35NVMdff7bZl/u33rG0SqKUnJLW/0v+vQxrAj0exahsUiO2h6DeTK4LdovLKy9md7xVQtClvo3AEpapZrO2NWPlXdtBkajP4XCRgARpG6ZlvBOKZTjf/Fz8yGxkzwepcxiUbVtwByGiQSrte2Mlf5rkqB8igupaaJNPLz3+88Q6Xcqv6DZpTJT/Y5XJW3PyYD6lNisxNexvXwYNbMv3exPJsFFcAbltWvXxdjWUXy39S7ZjKFGwbqwZhoaMu5yTe0Ah4gfjeaGVaJbseJ6OlOieRP5EL7CQ8X31EM6Ak4HnRRIas7rIy4YdeSZucIPrnli8dG1AoK31Xagh/UTjawJa5sR6svqN/ud90mXK7WDGXgGDoUz8H9P6B1TEnPcHExx7sjdwg4u0ktAB3EtKNpJuaP/gfuCXvgWnXXs4cGE9G8kRyeDTR2ktDkUFQZ2+ut0wZG4gQU0YtIYs2VpeDmQZwP2bU0Nr9yElUHmVj378SeuwHqKlJ0uqwFMPfAdoASyan2gkbgwzw==;A+PyynB3mWmTHLD0nStmTQ=="
 ---

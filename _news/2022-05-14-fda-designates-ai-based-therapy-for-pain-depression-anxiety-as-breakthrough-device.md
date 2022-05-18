@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Wysa Receives FDA Breakthrough Device Designation for AI-led Mental Health Conversational Agent"
+    excerpt: "Wysa, a leading artificial intelligence (AI) based digital companion for behavioral health, has announced that the U.S. Food and Drug Administration (FDA) has granted Breakthrough Device Designation for its AI-based digital mental health conversational agent for patients 18 years and older with a diagnosis of chronic musculoskeletal pain (defined as pain lasting longer than three months) and depre."
+    publishedDateTime: 2022-05-18T03:57:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=665762"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 27
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "XFAakz4syx1U4/35CyI/uEwByo90c1Dt5w6ZxoHYF8cRRNey27TVbohMBHqfurOjwLaGDlO+k9meUyX6rsVaEfhaTHyzadadbYFvxFSUe8mG2All6d1k+ZOnPs28Jm55J5qfFN3ULV4SVdUOHiLUjgp+UgDvB2+yyWMmcPPJSCmnnS0Rt2ebvhJkbkH1RoXf77lOdtID5o+SAlJXX3R68UF579qTXT/fAouuSXLD+OYcNoctuT6bFv4XW/eOjqIo3sM6HloHgXtSO9us8QTQVn49noUWOqNEzZ+0T1Xnayi/ntbe+/7TbUvecxZnfDFhoCXTlNxinbCDLpTVzZtOAnOi/Ml2h6wgoRYhlpPraiXsa4up1IrG4aC/DzvoECPEjPAoQ1efWk3BkNCoIuVgdzhcqSwkkHkYAhvM2JCD+mBmuxLIrHn5u93aZ11C8QZ4VP7Z3XZVtMkjH5zws47/l7lV84DCCUr7mielBUSBiz3s01uvB1yqFo/bInCdMS3MyuwluZOTJWRix1K87uHTZQ==;j0fGRLWUaYtzAWQzij0xcA=="
 ---

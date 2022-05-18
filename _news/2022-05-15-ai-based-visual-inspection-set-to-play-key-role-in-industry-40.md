@@ -58,17 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence in the Cancer Market"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in the Cancer Market\" -  AI applications in healthcare are gaining traction as a way to enhance illness diagnosis, management,"
-    publishedDateTime: 2022-05-13T12:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27187389/artificial-intelligence-in-the-cancer-market"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27187389"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27187389"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "t1jKAnrZ7r0cfyid40yUWkJ+ki/GWKxDq3htTC3Y0fMmeWSVFM+yUv4h60H3U16GcwtKFsrP1PlMLZPZVk5C5Rl7VqISFTFoHdCGIHrQ19vx54UUXY6txbAsx5EKPrvYx4BdXIxI0HltBKq2pksRGqkFqvXRmo0B639fVjnRuIZmhPUk5pn3LbjdwQ3ZLXPZSr/R2GYDVSBDNm0XsfOcwJKLH3mDveNZVgLuSNvA3JprT4c7zqNhvZxRdchXvN6eYjQaDsz9XA/Wkm0OvW0uDPMbjNmIiJVqkFRGqlBY2vJrCRSr8tyjtDtw/lwv+aP/RhMBOPIfLWhyK7cHAKXrsRVGj1LYhS33RZF2A8pDHH4=;BkhvkZLjifQUCVYXl5cO/g=="
 ---

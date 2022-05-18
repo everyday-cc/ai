@@ -56,49 +56,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-17-how-consumers-and-businesses-are-using-the-power-of-artificial-intelligence.md",
-      "title": "How consumers and businesses are using the power of artificial intelligence",
-      "excerpt": "For many organizations around the world, digital transformation has accelerated over the last two years, prompting new investments in advanced technologies like Artificial Intelligence (AI). Today, AI is already changing the way businesses operate in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kgun9.com/the-morning-blend/how-consumers-and-businesses-are-using-the-power-of-artificial-intelligence",
-      "originalUrl": "https://www.kgun9.com/the-morning-blend/how-consumers-and-businesses-are-using-the-power-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/a47/f0fe4276ab8344079f404f1ac9c377b7/a47fa92d61d747a8b0981b97a78da90d/poster_43cdfb0816ea479e86355519988b9378.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kgun9.com/the-morning-blend/how-consumers-and-businesses-are-using-the-power-of-artificial-intelligence?_amp=true",
-      "cdnAmpWebUrl": "https://www-kgun9-com.cdn.ampproject.org/c/s/www.kgun9.com/the-morning-blend/how-consumers-and-businesses-are-using-the-power-of-artificial-intelligence?_amp=true",
-      "publishedDateTime": "2022-05-17T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KGUN 9",
-        "domain": "kgun9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-05-17-argo-ai-begins-driverless-testing-in-austin-and-miami.md",
       "title": "Argo AI Begins Driverless Testing In Austin And Miami",
       "excerpt": "Argo AI, the Pittsburgh, Pennsylvania-based automated driving company majority owned by Ford and Volkswagen has just begun its first driverless testing on public roads in Miami and Austin. This milestone comes about five and a half years after the company ...",
@@ -433,6 +390,40 @@
       "provider": {
         "name": "bdnews24",
         "domain": "bdnews24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence.md",
+      "title": "Look behind the curtain: Don’t be dazzled by claims of ‘artificial intelligence’",
+      "excerpt": "We are presently living in an age of “artificial intelligence” — but not how the companies selling “AI” would have you believe. According to Silicon Valley, machines are rapidly surpassing human performance on a variety of tasks from mundane ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/",
+      "originalUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/?amp=1",
+      "publishedDateTime": "2022-05-11T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Shareholder: Amazon's 'astronomical' misuse of customer data could ruin company"
-excerpt: "Amazon has already come under fire for how its uses biometric data, things like fingerprints and facial images."
-publishedDateTime: 2022-05-15T01:00:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/15/shareholder-amazon039s-039astronomical039-misuse-of-customer-data-could-ruin-company"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/15/shareholder-amazon039s-039astronomical039-misuse-of-customer-data-could-ruin-company"
+title: "Shareholder: Amazon’s ‘astronomical’ misuse of customer data could ruin company"
+excerpt: "Amazon launched its facial recognition service, Rekognition, in 2016 for customers to build “powerful visual search and discovery” into applications, according to a blog post on its website."
+publishedDateTime: 2022-05-14T18:30:00Z
+originalUrl: "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company"
+webUrl: "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: The Lima News
+  domain: limaohio.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/05/13/1584269.jpg"
-    width: 1240
-    height: 826
+  - url: "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2022/05/web1_BIZ-CPT-AMAZON-DATA-LAWSUIT-GET-1-.jpg"
+    width: 1068
+    height: 673
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "tpQ9FIiI3jRFBwStobCqr5R21uUZq3RVYSomh674ssL+sovGOlHaQUfz9GUxDPY3u6cEXgSCx+vq9qq4u9P5VXAvjbd5yshoFggKGbs1GMi4FH1v8GwUVzwCHRG4fwtbkoqU1VDWHR+XtE47rws2llHjlzxTtFdxDIGIUQnPvipS86hgOCX325G4A7NwSv1tvsfmon3qg3KBmnZ2MQBvgYW4S2KDvLukerfMDTU+sbQnk4VbGt0KXKQa9cKycTpMbHN84pbTkxJ9NAUOEPbHXubHs1DjEXjClY9C9ZGxU9CF8lRycSevl9CyXBoNdJW54QTrRovO1okJWUSmzpRcMNTeXxHufmxoyEhSOKerjgvA7/uxC802ZzPjWQA4G5G/4Rb/FOvCbpqR84pzLtwvvvlIPXEGEAw6J8AroKajtUNhyN0aucZHJ40JtM8ziokgc4gTwJ9tRpvMol60yz3hZlFgClXvrIKmeG7LgC4rzf6xJsJK9OQHbb7QDfqVGM2SyqNR64DAOsgU8rW/zKfO4Q==;lm9y0NsQYbI/tzAHTmmyVQ=="
+secured: "wf8Grgei8F4VWgI/JB6LnyrH46ABNZ4dQtjSBN4tBiYEag0bE7cNFjZRScHqAzk+jv3FMBv/plQDKIUtiG3Jw63N8OtBYcGVT1eeaFkcEO+F7PfeudMknn9rgnFnIBNn5Rc52BZJyXmEry+5rtV1hlqiGAXHmsDVmFVw17LDkhrYPTNL3YRI8kpNhDMNfcy1ykaYizN54/6qwEcldvzvYdo2sv19dXQJxkFxRJkY/dh2kzc1j5Nf2aYoEU61+uHa89SprQ3sn7Lqtjce/4SYDbRK67FIh+aGEbrP5xwKKVyOjx+z0x/lv6xbnq/etKZfZTcsuV7dyMMmnkaedx/3CSSa2h+wZjvhYfhgvW0qQIA=;888wNBlMtIoyali9LIbgKw=="
 ---
 

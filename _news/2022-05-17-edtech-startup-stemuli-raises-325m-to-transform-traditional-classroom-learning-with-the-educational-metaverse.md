@@ -18,31 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Kore.ai CEO says conversational AI is the foundation of the metaverse"
-    excerpt: "Kore.ai, a Florida-based company focused on providing enterprises with AI-first virtual assistants, wants to take conversational intelligence into the metaverse."
-    publishedDateTime: 2022-05-13T12:00:00Z
-    webUrl: "https://venturebeat.com/2022/05/13/kore-ai-ceo-says-conversational-ai-is-the-foundation-of-the-metaverse/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "AI Pioneer Red Dot Analytics Teams Up with MetaVerse Green Exchange to Support Carbon Neutral Data Centers"
-    excerpt: "MetaVerse Green Exchange (MVGX), a digital green exchange licensed and regulated by the Monetary Authority of Singapore (MAS) and industrial AI pioneer Red Dot Analytics (RDA), a deep tech spin-off from Nanyang Technological University (NTU), Singapore ..."
-    publishedDateTime: 2022-05-15T08:17:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Pollution-Industry-Smokestack-thijs-stoop-unsplash.jpg"
-        width: 1200
-        height: 1500
-        isCached: true
   - title: "Dallas Startup Lands Funding to Expand its ‘Educational Metaverse’ Nationally"
     excerpt: "Dallas-based STEMuli was founded by CEO Taylor Shead to create a gamified 'metaverse' where kids can earn tokens and have fun while they learn. Piloted since last summer at Dallas Hybrid Prep, it's given both remote and in-class learning an avatar-packed boost."
     publishedDateTime: 2022-05-17T20:01:00Z

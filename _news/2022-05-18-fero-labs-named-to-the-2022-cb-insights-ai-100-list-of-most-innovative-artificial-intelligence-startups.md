@@ -38,6 +38,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Encord Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Encord, the platform for data-centric computer vision, on its annual AI 100 ranking, a list showcasing the 100 most promising private artificial intelligence companies in the world."
+    publishedDateTime: 2022-05-17T16:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "TrojAI Inc. Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named TrojAI Inc. to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"Protecting AI has become recognized as the most significant cybersecurity challenge of the next decade,"
     publishedDateTime: 2022-05-17T13:00:00Z
@@ -60,15 +74,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 17
-  - title: "Encord Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Encord recognized for achievements in Computer Vision. CB Insights today named Encord, the platform for data-centric computer vision, on its annual AI 100 ranking, a list showcasi"
-    publishedDateTime: 2022-05-17T16:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-17-encord-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
     quality: 17
   - title: "Observe.AI Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "Observe.AI (  an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named to CB Insights’ annual AI 100 Ranking, which showcases the 100 most promising private artificial intelligence companies in the world."
@@ -98,6 +103,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "quV/UBa8RdjX8FtLmFnNoWtacGngv/XdWIlCRWnYAwEqOhv+woiTRXAe0WHmw8EukCFKCFCxmlBjyblB3m+f6uvSD7/avD+Y+aUKv4GecnhkIefLu9F16Tm0cnfgwivyuvTYH3Usva9ACmR5dbXNJVtg4zECtv3HVCXfjuKWIyuw5rpybDqdtHWcxVz4yjc3gLL6fPHpdplbmJwIQIASvf7ZHf5qFmGYxgCNeKRnOv9gH1l6Kkr0E7gspwUjBUKlhvcsu62hcTB91aZM19VbXHuWBDBRTkxGx7ANWMW31nt0oFG4PQUDg4jnAEPvee9IX56iqtVth0umvh6d0Qf9eGhaIvyGe/Iw+EuNaJYVQn0=;GU+xKBo6nT8wqU+JcaJyog=="
+secured: "4a41wnXdnuyZnhXbOXbsUFU3sY/W1XSHAcyda7UQjugMwQ+5XbLEVjrcR9jJWKq3GSCxLTR2UH0dSrehPssRm+jFV+vXx4lEyqpMQBg98saV8XjiEr6uMaphbanDBbxgXiGLS4y5ILscsR1qCpK1iPh4NLxlRWGgd6SwRtv/L0N6kSMfx/EvV5bHReBUlrYmSszV5dsoQu9Oa+Ua5da+YaPpfKvmBqZobeTn2yudMQrmb0AuxGqjtXWSXo3yvH2HO5/fcojG6vxF5IB7gVGQJZb6/5KHPGGXtaFIfqwuNdzwxpAUbHZjbKoBzjj2+Iww0+1N5Q7h8T18gyIvbUt6PDoSjbG7guOUAytpnsDvBAJngaMb+ZKe/IqzIOvARaZwrkvTLONxbIAnbdPoLT3Gsnd/P1dII5B+PP+dF1nLJyeUGXgeaQ/oaPyA6ARI94hNXvNNGJ4yvsCiV4caP/+s7hX34OhB1pWjgjDOwl12NzQEh0L7oPR+2MK5GNizlVhmOsQflmGUeY+ToKjtANosbQ==;lhVo0mcf1WaFgh4CqdR6Ig=="
 ---
 

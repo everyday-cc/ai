@@ -48,15 +48,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 19
-  - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud™ Solutions on Microsoft Azure"
-    excerpt: "In addition to the reliability and scale of Microsoft Azure, Avaya CCaaS customers gain access to the power of Nuance's Contact Center AI technology integrated with OneCloud. \"The combined capabilities of Microsoft and Nuance give Avaya customers ..."
-    publishedDateTime: 2022-05-13T12:16:00Z
-    webUrl: "https://sip-trunking.tmcnet.com/news/2022/05/13/9601679.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "hQu0S/PRn2OSHqsSY3IcTNHTOictfMDaX+FPc5Gtvpsfrveuv5/totRbzmxsyp6/qWxdeKY7ehvjXQJwzhwK1wrq3tOY8w/uvJmPnVM4u+bH6M+OrXstPker9EDIZUgSnc9TkZM5aHEb2KBb14HYxDCssBKblG4400bXJbWyj75NzGqNyffZRsIzbyaiW2sUQjVM/dpxUmgLRDBq9wEixSuQyVrxGVonWymOxSUxnTULezCjP9V6EyYj+L+fAQPXZ2RAsv1gKiHFTQArhNV+VVBBcwhrVa4rBrwM0dLsNDiVnhscbKHM5M7qSlEuA+MX6ZVIdj7uGD5Cm13ur0of9kn6ed8pahFdcejDFNKEh4I=;oectOEkpxG2naGmpeoFDGw=="
 ---

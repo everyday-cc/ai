@@ -34,20 +34,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 73
-  - title: "Artificial Intelligence In Fashion Retail Market Emerging Trends and Will Generate New Growth Opportunities Status 2028| Microsoft,IBM,Google ,AWS"
-    excerpt: "A report was released recently that sheds lots of light on the Artificial Intelligence In Fashion Retail Market. The report covers an overview of the"
-    publishedDateTime: 2022-05-13T11:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-fashion-retail-market-emerging-trends-and-will-generate-new-growth-opportunities-status-2028-microsoftibmgoogle-aws"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 48
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence (AI) Market 2022 Report Covers Top Key Players Profiling – Oracle Corp., JP Morgan, AWS, Intel, IBM Corp., Microsoft Corp."
     excerpt: "Market in BFSI Sector Market” offered by Credible Markets, comprises of a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
     publishedDateTime: 2022-05-17T01:16:00Z
@@ -62,29 +48,6 @@ related:
         width: 1024
         height: 618
         isCached: true
-  - title: "Artificial Intelligence Chip Market Size To Reach US$ 66.4 Billion by 2022-2027 | CAGR of 35.20% during Forecast Period – IMARC Group"
-    excerpt: "According to the latest report by IMARC Group, titled \"Global Artificial Intelligence Chip Market Size, Share, Industry Trends, Growth, Opportunity"
-    publishedDateTime: 2022-05-13T11:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-size-to-reach-us-66-4-billion-by-2022-2027-cagr-of-35-20-during-forecast-period-imarc-group"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheoYdwUNRdfvwqZfSMR9atdbKdoGnB7E3zzPe5zRK9X1ZX8WhILT8JPLgrGnqK3Dpe8X6IMXGmkO6pAL9uZolJCEM0jTbW1jtKkob8x__TRKTsRPWgpsUcv3WJCXMENMmw9Gh3_j73sRh84W7JSEA3qiCshXgOV-NEDggL21CqLNYa34fyhl1Y0g4/w637-h302/artificial-intelligence-chip-market-imarcgroup.jpg"
-        width: 537
-        height: 302
-        isCached: true
-  - title: "Self-Driving Cars Market Growing at a CAGR of 20.3% over the Forecast Period 2022-2028"
-    excerpt: "Self-driving Cars Market is valued approximately USD 1.74 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 20.3% over"
-    publishedDateTime: 2022-05-13T12:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-cars-market-growing-at-a-cagr-of-20-3-over-the-forecast-period-2022-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "01xw1EWf0RYVxPhK04yJ8+k1P4fA3yipdppkWIYVXmz/8fPm3AwypUvfalLQ8OUcihAVUOdWzs3v6yRhdZLKAiLYssEvMxqBecT7d2CTtuu3YDlxs/yLdcE7KneXhTFzMtrf0BmFrkr4b2Yi+nsjaWjs6+5PnsFygmmlLbNAandC1kkJRtjF4G5IyoAjPC7TtVH6Tah2CYXpkRING1oKuF8bW+SmIZCwdNRhjv9Aa7kwW+waMnEnIKqevHvSB6jEA05Zs/f0Z2dgfatKmhkacC55Wmc+pJ9mb2rK1vwKijt/SrEksnVWjxJckYbN0nZD+YZtIG2fwR/rXiExDOs8EXai8YVf7vzAXlllaFVRLcI=;u2zcCBXZCzrV8LWCEQaWvw=="
 ---

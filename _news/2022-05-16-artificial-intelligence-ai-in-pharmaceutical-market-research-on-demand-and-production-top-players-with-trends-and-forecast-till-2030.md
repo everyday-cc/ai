@@ -38,15 +38,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI in Drug Discovery Market Global Demand, Opportunities, Growth, Segment Analysis and Forecast to 2027"
-    excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a robust CAGR of 40.8% throughout the forecast period. The global AI in the drug discovery market has been ..."
-    publishedDateTime: 2022-05-16T12:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-global-demand-opportunities-growth-segment-analysis-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
 
 secured: "ul/f6d575i3KLsq9PBc/oX4VZpLs1HE9UwSC0QGn1kLaYX3MjcMf8WYc0ehOw+9/IwvZByHgHwFRxoNDlvMmePcR+VV0uJiF7vqcTGFJNFwFAcKGnUJiSxdsQf0rbJOWOrY53iGqOE04hLpWJ+A5fD9Mw8B142gXnCrtxk4FqFt6q1KH2kDDegXCsSe+e/hGTb9iR0r+K4kkBj9pWd/pFmCwuOfCEEpPrIsg7moXHhfANZ4tOnL4uHZNBGFWDEe4Z7OIGCU4NFN0UuwRnegIeV0Np4/mpKd79AFmb2rMz+AnNCEtka+9YOPYYsbPhX6SemdTzaKPh66eACnpV9xIL0CpaoorPisFoLX8wJbpDCc=;R8Ji/f+7ZZqZXP9yf0rULQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://dallasinnovates.com/dallas-startup-lands-funding-to-expand
 webUrl: "https://dallasinnovates.com/dallas-startup-lands-funding-to-expand-its-educational-metaverse-nationally/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -24,31 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kore.ai CEO says conversational AI is the foundation of the metaverse"
-    excerpt: "Kore.ai, a Florida-based company focused on providing enterprises with AI-first virtual assistants, wants to take conversational intelligence into the metaverse."
-    publishedDateTime: 2022-05-13T12:00:00Z
-    webUrl: "https://venturebeat.com/2022/05/13/kore-ai-ceo-says-conversational-ai-is-the-foundation-of-the-metaverse/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "AI Pioneer Red Dot Analytics Teams Up with MetaVerse Green Exchange to Support Carbon Neutral Data Centers"
-    excerpt: "MetaVerse Green Exchange (MVGX), a digital green exchange licensed and regulated by the Monetary Authority of Singapore (MAS) and industrial AI pioneer Red Dot Analytics (RDA), a deep tech spin-off from Nanyang Technological University (NTU), Singapore ..."
-    publishedDateTime: 2022-05-15T08:17:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Pollution-Industry-Smokestack-thijs-stoop-unsplash.jpg"
-        width: 1200
-        height: 1500
-        isCached: true
   - title: "EdTech startup STEMuli raises $3.25M to transform traditional classroom learning with the Educational Metaverse"
     excerpt: "STEMuli, a minority- and woman-owned Web3 education startup, has announced $3.25 million in seed funding co-led by Slauson & Co and Valor Ventures, with"
     publishedDateTime: 2022-05-17T13:02:00Z

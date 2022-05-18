@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-suppor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/"
 type: article
 quality: 102
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/05/FounderShoot-2.jpg"
         width: 5529
         height: 3691
-        isCached: true
-  - title: "New OneForma App Provides Generation of AI Data Sets More Easier Than Ever"
-    excerpt: "Pactera EDGE announced today that its popular AI training-needs platform, OneForma, is now available as a downloadable app."
-    publishedDateTime: 2022-05-13T12:12:00Z
-    webUrl: "https://enterprisetalk.com/news/new-oneforma-app-provides-generation-of-ai-data-sets-more-easier-than-ever/"
-    ampWebUrl: "https://enterprisetalk.com/news/new-oneforma-app-provides-generation-of-ai-data-sets-more-easier-than-ever/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/new-oneforma-app-provides-generation-of-ai-data-sets-more-easier-than-ever/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 55
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/New-OneForma-App-Provides-Generation-of-AI-Data-Sets-More-Easier-Than-Ever-01.jpg"
-        width: 700
-        height: 400
         isCached: true
   - title: "Crowd Media enters conversational AI partnership with business intelligence platform to supercharge sales and lead generation"
     excerpt: "The deal is a natural fit for Crowd Media which will now go and whip up a Proof of Concept (POC) which will focus on leveraging CM8’s Talking Head platform to apply “conversational AI” to the Media Search sector. That POC will be with SourceFlare in ..."

@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "AI Pioneer Red Dot Analytics Teams Up with MetaVerse Green Exchange to Support Carbon Neutral Data Centers"
+    excerpt: "MetaVerse Green Exchange (MVGX), a digital green exchange licensed and regulated by the Monetary Authority of Singapore (MAS) and industrial AI pioneer Red Dot Analytics (RDA), a deep tech spin-off from Nanyang Technological University (NTU), Singapore ..."
+    publishedDateTime: 2022-05-15T08:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Pollution-Industry-Smokestack-thijs-stoop-unsplash.jpg"
+        width: 1200
+        height: 1500
+        isCached: true
   - title: "Kantar Selects Canvs AI to Power Text Analytics in Retail Research Practice"
     excerpt: "Canvs AI, the leading text analytics platform for consumer insights, announced today that Kantar has successfully incorporated Canvs MRX into their Shopper Marketing methodologies for in-store and online communications testing."
     publishedDateTime: 2022-05-17T13:03:00Z

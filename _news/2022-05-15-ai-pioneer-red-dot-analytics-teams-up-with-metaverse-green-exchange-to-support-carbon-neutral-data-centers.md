@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-a
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191043-ai-pioneer-red-dot-analytics-teams-up-with-metaverse-green-exchange-to-support-carbon-neutral-data-centers/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,37 +26,23 @@ images:
     isCached: true
 
 related:
-  - title: "Kore.ai CEO says conversational AI is the foundation of the metaverse"
-    excerpt: "Kore.ai, a Florida-based company focused on providing enterprises with AI-first virtual assistants, wants to take conversational intelligence into the metaverse."
-    publishedDateTime: 2022-05-13T12:00:00Z
-    webUrl: "https://venturebeat.com/2022/05/13/kore-ai-ceo-says-conversational-ai-is-the-foundation-of-the-metaverse/"
+  - title: "Kantar Selects Canvs AI to Power Text Analytics in Retail Research Practice"
+    excerpt: "Canvs AI, the leading text analytics platform for consumer insights, announced today that Kantar has successfully incorporated Canvs MRX into their Shopper Marketing methodologies for in-store and online communications testing."
+    publishedDateTime: 2022-05-17T13:03:00Z
+    webUrl: "https://www.marketingdive.com/press-release/20220516-kantar-selects-canvs-ai-to-power-text-analytics-in-retail-research-practice/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Dallas Startup Lands Funding to Expand its ‘Educational Metaverse’ Nationally"
-    excerpt: "Dallas-based STEMuli was founded by CEO Taylor Shead to create a gamified 'metaverse' where kids can earn tokens and have fun while they learn. Piloted since last summer at Dallas Hybrid Prep, it's given both remote and in-class learning an avatar-packed boost."
-    publishedDateTime: 2022-05-17T20:01:00Z
-    webUrl: "https://dallasinnovates.com/dallas-startup-lands-funding-to-expand-its-educational-metaverse-nationally/"
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 15
+  - title: "AI-Powered Retail Analytics Platform, Intelligence Node, Appoints Senior Executives & Advisory Board Members to Drive US Expansion"
+    excerpt: "Global Retail Intelligence leader Intelligence Node announces several strategic hires to accelerate its growth in the US market. It has also appointed four prominent retail leaders on its advisory board to guide the company as its North American customer base expands."
+    publishedDateTime: 2022-05-16T09:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-powered-retail-analytics-platform-intelligence-node-appoints-/2022/05/16/9602164.htm"
     type: article
     provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 19
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2022/05/STEMuli_CEO_Taylor_Shead-970.jpg"
-        width: 970
-        height: 674
-        isCached: true
-  - title: "EdTech startup STEMuli raises $3.25M to transform traditional classroom learning with the Educational Metaverse"
-    excerpt: "STEMuli, a minority- and woman-owned Web3 education startup, has announced $3.25 million in seed funding co-led by Slauson & Co and Valor Ventures, with"
-    publishedDateTime: 2022-05-17T13:02:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/edtech-startup-stemuli-raises-3-25m-to-transform-traditional-classroom-learning-with-the-educational-metaverse/article_0047ca4d-686e-580c-8547-4863122b90fa.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "J0kSVV+cRUka4Y1EB0vLyZdpIzWFYfUmPC2SZDh7jgTPVj3FfuZRQBV1hpARavvXDKl49NuQfYY7Ybb3TEJhKT31FoS3BzivXMQItiFmGjLVfneWFlqqN13mxs4qEGXovNHJ7Eje2VidI/Aim7wOwyRLlUO9y89do3T1w7jdHfWeX2sl3uy7DuTRhisSa8GlyLHEgGghR/DWZZL3CtwrH0cgAOb4OfgqMrbOU1qmPQrCoEPdgBz1lj6JFymrbneVo44plH611CRcmj+A+63subLgyOZVFJhV0KtHEMipMbYVvbJ2HfAFuMyUDN8SyAkhhW4YM8HZSQl5Eai2R3NAjJsWAYWH/9BP3ZIvKPqOtq6YRahX2aOv50sZACbb12GR4F0P1I2aeJC0tgo9ay5C3ILcgzS7nIiH6M9exNDtbrfiThISx8BEQJgA/siGrv0KORehjMoOcX53FhMK5yJBhkbYvOdLcmJ1J94+dekEYuRwAavSS5L+RFkT3R9WIU1ycoNno8Vse0xZwGuXG8qb2Q==;pLuszPE4je4GQF+H0L1xhQ=="
