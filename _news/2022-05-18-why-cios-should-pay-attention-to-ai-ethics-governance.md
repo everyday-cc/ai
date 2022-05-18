@@ -27,8 +27,8 @@ images:
 related:
   - title: "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations"
     excerpt: "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ..."
-    publishedDateTime: 2022-05-13T16:52:00Z
-    webUrl: "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
+    publishedDateTime: 2022-05-13T16:22:00Z
+    webUrl: "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11"
     ampWebUrl: "https://www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
     type: article

@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-04-26-bitcoin-up-reviews-fake-or-safe-trading-robot.md",
+      "title": "Bitcoin Up Reviews: Fake or Safe Trading Robot?",
+      "excerpt": "Nowadays, crypto trading is gaining popularity. This also implies that the market is saturated with trading platforms. It is critical to choose a platform that is safe, accurate and provides a secure method of profiting from trading in an unpredictable market.",
+      "sourceUrl": null,
+      "webUrl": "https://nl.mashable.com/tech-2/7222/bitcoin-up-reviews-fake-or-safe-trading-robot",
+      "originalUrl": "https://nl.mashable.com/tech-2/7222/bitcoin-up-reviews-fake-or-safe-trading-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_nl/photo/default/bitcoin-up-reviews-fake-or-safe-trading-robot-mashable_pxrx.620.jpg",
+          "width": 619,
+          "height": 345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nl.mashable.com/tech-2/7222/bitcoin-up-reviews-fake-or-safe-trading-robot?amp=1",
+      "cdnAmpWebUrl": "https://nl-mashable-com.cdn.ampproject.org/c/s/nl.mashable.com/tech-2/7222/bitcoin-up-reviews-fake-or-safe-trading-robot?amp=1",
+      "publishedDateTime": "2022-04-26T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-what-happens-when-ai-and-ml-turn-rogue-data-poisoning.md",
       "title": "What happens when AI and ML turn rogue? Data poisoning",
       "excerpt": "Data poisoning is an attack method where hackers launch the attack through AI and ML. The rise of AI and ML is leading directly to the increasing threat",
@@ -1043,48 +1086,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely.md",
-      "title": "Artificial Intelligence (AI) Helps Detect Cancer from Patient Data Securely",
-      "excerpt": "Researchers developed a novel way of using artificial intelligence (AI) to predict cancer from patient data without putting personal information at risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
-      "publishedDateTime": "2022-04-25T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

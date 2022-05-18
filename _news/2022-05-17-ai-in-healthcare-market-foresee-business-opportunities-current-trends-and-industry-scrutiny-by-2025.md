@@ -59,20 +59,6 @@ related:
         width: 770
         height: 440
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Sector Market Trends , Technological Advancement, Upcoming Demands and Growth Opportunity from 2022-2028"
-    excerpt: "The Artificial Intelligence In Healthcare Sector Market is expected to grow at a CAGR of 50.4% from 2022 to 2028 to reach $59.9 billion by 2028.This press"
-    publishedDateTime: 2022-05-13T10:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-sector-market-trends-technological-advancement-upcoming-demands-and-growth-opportunity-from-2022-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "it/Rw5LE/aZFkX1II12L1M91rPwXJU2kLIEfM++F7AGIdWSqBpSqgqbc9ilGNPk1in7ojP6ihxaOKE2DUgb+7YLN7gcaWSWKeyX0qZEZ5KnHIp7Q6y0S8u/6vbM3SKtcPzWYujCKWweJ2cMr64QghbhUg3oekdTL7vrXI0P+aFFhtF1VEXRoKJihEK7KzF4/8xyyOvtA2jTtujIhjRS7qkV4bSlgkk2DkOjpEWe50tgHhxqFKkOFAwXU7Kd0ju0exluE4du+mQwMakG8xqFusz0Cf2snCiFHKnlocBg2z2uhYHUheNJUvQDl+/r/pTIfdCqjHPYF/Z3rZY4I7m0xuyADQkftZtSUZ714L0fCoVU=;iEyaJdGF9nOMf/1NfNkuIw=="
 ---

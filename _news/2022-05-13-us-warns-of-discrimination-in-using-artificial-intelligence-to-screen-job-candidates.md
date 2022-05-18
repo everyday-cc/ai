@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://npr.brightspotcdn.com/dims4/default/ef92c7e/2147483647/strip/true/crop/4000x2251+0+374/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fnhpr%2Ffiles%2F201803%2FStateHouse092217.JPG"
@@ -23,6 +24,6 @@ images:
     height: 242
     isCached: true
 
-secured: "KY4uKkeE2H83LpjMbYqE8tmZ6kBMr8bYpbJf50Wu42J6Axgw8gmUBIrmAjtzEA5nT2mOUvfnzLCmwd7Yh3aS8fD+mjHhFZTE4Z7cjslqe70WTpiU26gr4cnfAnctpMaMw3Sl6BMWsJ7y0zG4bg4xnCslqY6rPLiBCA/FRkGm38q1lZZtNxcyahYdL385NHpy55xl/rfEwnZ6ipRwFRoXcz1nYWVygiP4PgTtrsvsVActDP/XkB7pkRfxcELKl2Gmg6Jx2WzLzrafCR7+pXw6zHex0S0g7s8HWJpnISSN//+cD/N2DUV5jqD85F+n49RmLQ66MtF9EurLNObcOdiGHzK9kkEep8P3+WQCPvLj5qQ=;HvNH3KZpnVYSaPUe7HLehA=="
+secured: "Z69NMjY3GrVRPyHLqyJkCwV5ALDWE0KEy9blrNcpe7PCDHROkfEcs5p0dVgToX1tOeEKGZ6lN4UxThLccuqo6cFMjsD83SJhBpzvFTqSLxpxx5frbXBuOhuUbWUUe9Mo8wT3NOtJ1HsrDL6Z7kHyrPaBkIRlViSy9NlmPajNMXcMHM6EtyNW4702GDBDF9d01yLGYsNpAFS04a5HulBHGA+qMT8+SqAQbTgAS7+UTrNfssc1nCBWG2uxvCHjO9HuF5WfEgmGJPcExwhUp30te5clb1MrfYw+bvshth+Rxvh9TRM1ddPyoD82SjcsnK7cSO4686RHs3bPbJETZGchJGyLsp/QR3IioPKtLi0UGGlC/S3YPqf0UtokrTL4DsK8MFEDZceDhLWX7BakQXIqBPTTZlG+mDrA31b/khY7zoqHpVYyHe04uYbjJtntD/35MhVnjwWFxG72TGKqJaTD7UmiA/0voAn6b821XQafIXPF9a8zuIJWdal4mMlFehpPJVN0xTQHwPtcHBD9tp7pYA==;rd5tUmhGFHoaB8hTDkYVvQ=="
 ---
 

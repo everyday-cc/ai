@@ -59,22 +59,6 @@ related:
         width: 1000
         height: 575
         isCached: true
-  - title: "Feds seek dismissal of planned class action against RCMP over facial recognition tool"
-    excerpt: "The federal government is asking a judge to dismiss a Quebec photographer's bid for certification of a class-action lawsuit, possibly involving millions of people, over the RCMP's use of a controversial facial-recognition tool."
-    publishedDateTime: 2022-05-13T09:45:00Z
-    webUrl: "https://www.cp24.com/news/feds-seek-dismissal-of-planned-class-action-against-rcmp-over-facial-recognition-tool-1.5901451"
-    ampWebUrl: "https://beta.cp24.com/news/2022/5/13/1_5901451.html"
-    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/5/13/1_5901451.html"
-    type: article
-    provider:
-      name: CP24
-      domain: cp24.com
-    quality: 67
-    images:
-      - url: "https://beta.ctvnews.ca/cp24/en/news/2022/5/13/1_5901451/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "The issues with the EU’s draft regulation on facial recognition AI"
     excerpt: "Dr Kris Shrishak of the ICCL spoke to SiliconRepublic.com about where the EU’s planned AI regulation could improve ways to address facial recognition companies in the US. It is no surprise that the global discussion on facial recognition technology has ..."
     publishedDateTime: 2022-05-17T10:16:00Z
@@ -112,20 +96,6 @@ related:
       name: Orange County Register
       domain: ocregister.com
     quality: 19
-  - title: "Facial Recognition Market And Its Amazing Applications Across Industries Trend | NEC Corporation, Cognitec Systems, Aware Inc"
-    excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
-    publishedDateTime: 2022-05-13T10:56:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-and-its-amazing-applications-across-industries-trend-nec-corporation-cognitec-systems-aware-inc"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 12
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "uatvjOHtddNkS5uRre2GaZDLLXlZa2LS1A6cqHyzrDFx/Pti7gY2HjeHpChbiU84FeXUtBwE9gOIbLjdRoxpRPpw5oE+NkWs1pm7u0f44Ca2dqrdmO/aMinJKo9JViSKIyG/iO8NEkSxkVIG8ZcGuZkMn68iBf8AHjTBr4FG5Pdpa4vAKt2PyzRGYQHPwSo2qXv+PuhaXdzpv5J7suIDw4eUs31mLRvJlt7Yo1NsaYcXrBPEZ2cFSCFqKmeABAd5iQsJvwiCvRoF4rwytQOAiEPI1tiuRvaecz6NRu5x1dh2GDZmC9gnU9xzCy6gPdB+1dGjK88wyiZyffnQU09DzFX9X5NIg7HVpHFu1qtbo3WkmNC2xpleHAAvj4tjy+R+L9mA4WWTV22miXJknqY1XDMg/v3zmauLfhK0/Hlv0frTduTehk9lkh/InDTEERNY7ZoB8J2CqWjxgx6LLrNhTs+XwWB1nHOxcHC5+ru+zZKo3L8q691BKOP0Z/WxYdzzaVltyMh8hjP6ykY/KrDRVw==;d3rOilqDCBqQYiQFB3Nq9A=="
 ---

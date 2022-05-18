@@ -70,22 +70,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Self-Driving Car Crashes Into Dummy Cyclist During AAA Testing"
-    excerpt: "Tesla and other car makers are aggressively rooting for self-driving vehicles. A recent research by AAA sheds light on the safety concerns."
-    publishedDateTime: 2022-05-13T10:24:00Z
-    webUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/"
-    ampWebUrl: "https://fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/self-driving-cars-failed-aaa-tests/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 44
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/05/AAA-tests.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-driving cars hit a third of cyclists, all oncoming cars in testing"
     excerpt: "Autonomous cars may be further away than believed. Testing of three leading systems found that they hit a third of cyclists, and failed to avoid any oncoming cars. The tests [PDF] performed by the American Automobile Association (AAA) looked at three vehicles: a 2021 Hyundai Santa Fe with Highway Driving Assist,"
     publishedDateTime: 2022-05-16T16:30:00Z

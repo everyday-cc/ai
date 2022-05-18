@@ -2,9 +2,9 @@
 category: news
 title: "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations"
 excerpt: "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ..."
-publishedDateTime: 2022-05-13T16:52:00Z
-originalUrl: "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
-webUrl: "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
+publishedDateTime: 2022-05-13T16:22:00Z
+originalUrl: "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11"
+webUrl: "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 460
         isCached: true
 
-secured: "idErahk0k7nKUb8SnxyKR8nPVFbOsKE2ISlG3xtc78DW52m7QzHmAwBYfrdY7lnhRJ2uJfvioQcl/6MTvEv1JMqH2ZUamL59AXHQCq0FiKv+u8a/VKgy4AO/1gON8oooIxuHtsv6WL/nlvvjJ0kyqvcNwnKnZZFurMcu8B1iKJpta0tHDx3AkSzGgFO6sNqZG6xl5zvVdDGdyvhFkW3l++1PKd96AqQjN+81wVS2DRXg8zxTyMZ1IQOlWAIZbbK7n6IhxyFsB0ZLeYrhN+ZRKHTOws5PNxz+nhaQyxgArAysuM8WhsKKioTbboCu9EAg0dvC+1ao7iIt/szua8Kyb8kt0z+/3duvxlMZPPJWrWPOxFPWswhrUERBOg5dCNVE1M7n6ZHPBbRsO4wEYzUDUQp88GD57jGpv2b5dW+QgJ8oWURclLuPzzSzSjHEu3IbcttNdlUSOAs1JnAP49pvc5NBx+riWH/wPJLeDASNKDDBo0q8GE6DRYWS2QC6wMEZXp6K/BXrbp6d7p45SKtkGg==;ODn6Hxf4DniMyb/0VAkmDA=="
+secured: "Nszoe6rtbEa6oZiH0un8Rd4yNS7aTv0BcZ+LnQSC4tS7xGfYGHEd9KW+RgZVEs9tsayRD3e37r5vt9OCEWp0d+vLHaLZzM09xBEe5YivOT0lhwXcwksqRylgb+3/8wGrMLRIr1isgn9VXwfHFJq9mT5tW4M8vx4ElC1RxZT+i5r3W9bqVLUz8hB5z/bFmjXwW3ICw6xI5m5y/YPsw5bF9PzCTyhmAJskFeF5K5oINGlcoQ79FBf5H3X+6uBPwQDnj5lSNFvOsnG3zvFoSZJOpQRA8muOm/c/m0L0qYac+Uf14x5mXgm7LNTRShTVNcJ6LglHKGT9NqyU27/6T5ped30nAThjhgBb1m5YCdnQ+1E=;c9Pgj8ieE6fGuyYvLt/Lxg=="
 ---
 

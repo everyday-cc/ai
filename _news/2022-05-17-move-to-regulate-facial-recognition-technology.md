@@ -57,22 +57,6 @@ related:
         width: 1000
         height: 575
         isCached: true
-  - title: "Feds seek dismissal of planned class action against RCMP over facial recognition tool"
-    excerpt: "The federal government is asking a judge to dismiss a Quebec photographer's bid for certification of a class-action lawsuit, possibly involving millions of people, over the RCMP's use of a controversial facial-recognition tool."
-    publishedDateTime: 2022-05-13T09:45:00Z
-    webUrl: "https://www.cp24.com/news/feds-seek-dismissal-of-planned-class-action-against-rcmp-over-facial-recognition-tool-1.5901451"
-    ampWebUrl: "https://beta.cp24.com/news/2022/5/13/1_5901451.html"
-    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/5/13/1_5901451.html"
-    type: article
-    provider:
-      name: CP24
-      domain: cp24.com
-    quality: 67
-    images:
-      - url: "https://beta.ctvnews.ca/cp24/en/news/2022/5/13/1_5901451/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "Facial recognition is making a comeback in US cities. Here's what we know"
     excerpt: "Policymaker consensus around facial recognition technology is changing, with some US cities electing to reverse bans on the AI tech, but debate is ongoing."
     publishedDateTime: 2022-05-14T00:00:00Z
@@ -112,20 +96,6 @@ related:
       name: Orange County Register
       domain: ocregister.com
     quality: 19
-  - title: "Facial Recognition Market And Its Amazing Applications Across Industries Trend | NEC Corporation, Cognitec Systems, Aware Inc"
-    excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
-    publishedDateTime: 2022-05-13T10:56:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-and-its-amazing-applications-across-industries-trend-nec-corporation-cognitec-systems-aware-inc"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 12
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "nGFKM1iWs1L7qVRZo3E6Xpv9eUbuGYR/149R+uZooLQDa6DmiEOD0FagC65zcs7eTZV2cEBdvAh9BovEMn8sZMaAPubFoeUasMfnq7GVfvpwijaSeQ4W6ZH2OBInM3WuLz7TnyJcKEWQrvmnYGYAwEBdhE5vco0JX35Cf/tm0PgQLZSlaMcDm1qtH7tS0NXK+Xi0cpEBN6BLYBdUkqOSBY5B085tchLT2dKR3kbv6JufnZVlvwpzPojwYpI92FZqL9RaCmVtehMtZKjb4bRMPpzXROHiUHbhq+4vnLjVAaYtnGYvoLB2iVqGF1yEDv8Ag3S9Awl2wH2hpDrq5lEmtWX7PFsR/0AF8xHHSh1t1ufFf/C1ZuBlL0/NOwfuq4q/PtOW+g519lPN9MX97zkdjjtE8kUYzWpl7jMjjvVNpxyI4KdtT+L3ewmd66x9oDJ/M5p+h8F8lt0wWAlqKxYbZtqtqDQ6rRKTi7iUG62Kf0bKlzj2/vwnoZEvIw1roi+GUUje0L7SH7M8ZdUS+XeLmw==;F9m641QoLkXXWRPtEt5X+g=="
 ---

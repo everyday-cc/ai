@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Edge AI and Vision Alliance Announces 2022 Edge AI and Vision Product of the Year Award Winners"
-excerpt: "The Edge AI and Vision Alliance today announced the 2022 winners of the Edge AI and Vision Product of the Year Awards. The Awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies."
-publishedDateTime: 2022-05-18T01:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year/article_2ac09711-8cc8-5374-bd39-4e3a27d44fa6.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year/article_2ac09711-8cc8-5374-bd39-4e3a27d44fa6.html"
+excerpt: "SANTA CLARA, Calif., May 17, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the 2022 winners of the Edge AI and Vision Product of the Year Awards. The Awards celebrate the ..."
+publishedDateTime: 2022-05-18T03:30:00Z
+originalUrl: "https://kdvr.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
+webUrl: "https://kdvr.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
   - AI
@@ -35,6 +35,6 @@ related:
         height: 202
         isCached: true
 
-secured: "ltV4jNu9wPcHepDNBAZzpxeIHdmIlHbQiI/4GB0hV49NchIVlMF/NOWCLLDjdiLte4V0gfP/1lYt0syrRM67cvr1xM+//qNoDtKqgx5XCI+Yigdjp49yg1TS7+JO0gDhmINENwUuOujjL3X55tTZqjEhV9NiKwYmBq9+GiDSHY1xpeDPm3AdblhlzcmVsg6Aaot7w8sJSnl7m5aa9Bp6MKwzEu1mkTKDempveXjpEQ6psTa7mItl5hgqiIdi6d+qKqz09FNGr26bt6lRn6bgk5ZJlkkZImYrfDgvK4eMGcVaVG0BPXUV7wCx9QtrbLvNlsz2vXzGlB3G45udTKsfXWGLCDi8T1ng/uvt/Ggfaf5CDfq7xzs+S5gW3RD2lxh87oU4mbC1m1Jdn+d2bXLz7xfFoBDrAOZdKVce2U6pzEcLXxN+RHhau3sl9ZOgs3pSGZ4KuXrNhqUHEy9hRJQHiKNTrhI3lppo0+5k9so34F4uC25qTa/+gEE3IBxZJ2JX7i9jnaqQrZM9Ct92BYJgCQ==;ucQj95weqQhDtVC5qZIT2g=="
+secured: "kiwxz94etgtWY4X6ZlOJXimRU7IcZ+MMHL9A2NEvhbImHE8MBD2TmQ+e/ZijmnHrjhni8//9KYtDTA0GPmUaWhU3F8lGpXmiedSASWeia+S/2wf4Rfenq1OWUl5oXznrxfn61a6w5rHv68e0TtB6ulwuZ31EX5VKDinRpPd1ipQd2e/QqysKGMk8uaA0YD5qa0EC2apWzNN0FzxsrlrWX1/uBrzJilDQzqUAFwXzTJ3/grzpiUyq6a95ZDHODHYUjOcnEcUD7GUhXgmgJzgTK58yFq1I6HzZjrGZIu8IOZg269EMuQTujLBwN68l4wg7l04Z1Ywj8x7160dLOYR+LVKHPUwF0HaBC0nXL+BKrqg=;ehIiMW/FJOAZNwghozUymw=="
 ---
 

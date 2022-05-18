@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/call-center-ai-market-gr
 webUrl: "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13"
 type: article
 quality: 73
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "http://redskins101.com/wp-content/uploads/2022/05/116-1024x618.jpg"
         width: 1024
         height: 618
-        isCached: true
-  - title: "Machine Learning Operations (MLOps) Market to Observe Exponential Growth By 2022 to 2028 | Microsoft, Amazon, Google, IBM"
-    excerpt: "New Jersey, United States-Global Machine Learning Operations (MLOps) Market 2021 by Company, Regions, Type, and Application, Forecast to 2028 The Machine Learning Operations (MLOps) market report gives a definite examination of worldwide market size ..."
-    publishedDateTime: 2022-05-13T10:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-operations-mlops-market-to-observe-exponential-growth-by-2022-to-2028-microsoft-amazon-google-ibm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 46
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Artificial Intelligence Chip Market Size To Reach US$ 66.4 Billion by 2022-2027 | CAGR of 35.20% during Forecast Period – IMARC Group"
     excerpt: "According to the latest report by IMARC Group, titled \"Global Artificial Intelligence Chip Market Size, Share, Industry Trends, Growth, Opportunity"
