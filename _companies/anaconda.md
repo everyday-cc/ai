@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anacondainc"
   url: "https://twitter.com/anacondainc"
-  followers: 75546
+  followers: 75547
 
 size: 51-200 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "tsraXTgoxLxntlIn0Q2OCMd1d74CFbGFB+d3r+Q3fHQrFSGb9k722ByP0MQeZhjc2wKwOe+Dair96Ez7b8PeU+K0dM2ze/1G5VJuqgOFu2/yYAJjLho1Q01qWDcjzL3FO9u/jqOzO3W1dtvPEzdrnMDG/Tk+d2fSXvrK5YpTydFnMmr83qsIz06gdXw63XkLbLHwptqftXdKC8PXcL1NbNPWrLJlHOTexQcPzFxPsw5S3OJk3Sxb3fVFWqtb3PsItVfWjCnYy4nwu4qLEvfVAwKqLmHG7oosBvw7LlEjbLAUZ43wPJQZWHnsSVpJpytFjZCZE5UlmSMbtvZWXsAvoumNfTQksVXGPRJ0esFKfdT0i4QCQLBI0yYSJJBGPHbQWIjpPOxYFwg/qyudlhC+sF2AqfPt6t6TyXBeiuxwIIg=;ZOEcAggKQoEByBX+lrVwvw=="
+secured: "PeIPnz6wsS3qzSo8ZruiUGyGffyzAWr86ZmBPgtLi1C8IEN+IP6V5L2emUDKZDC4rH7VLnu2nAsE51aBbsxdYemhRGEL4VqQcpcJWXuW27oHJDrNFs4GLhbWGreLedE2pSCGgnSELkqKqO5uMCHa/95uveCeI0JYd8Af5DqAoP6GxrDYmG2oMsteY830mXH5sDW5BJWH4rQwghzJHpayR1514qB2+XJVKmepMfN8iD5atlMDXv9Vm4lJdf+SVMqebt15Xd1gwaLiwyZc0rj0LdfwNmOwjuYCrOwwO3BduRiv4V+0zeWgGfNiFUbZ9RoBRf2OSD/KNj9PnUQg9iwXDCXFqUv1CzSwRtMCNCn/3pqtLGCKIKyni4qvS67Zjv/56YUaJn5pD07tGQHZKqYGWC7N6Glgco97cOejUhYxQ6o=;/r9gQac1bCn7s1JAoAZUCg=="
 ---
 

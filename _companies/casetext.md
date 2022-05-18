@@ -2,7 +2,7 @@
 name: "Casetext"
 overview: "Casetext, the most widely used A.I. legal research technology, has been adopted across the legal market from the largest Am Law100 law firms to solo practices. Its award-winning technology offers both conventional search functionality and its CARA A.I. powered contextual search, focuses on the context of your research to help you find on-point authorities faster. Founded by a team of former litigators from top law firms, as well as Ph.D. data scientists and leading A.I. engineers, Casetext helps legal researchers find the best cases, faster, including many that they would otherwise miss. For more information, visit www.casetext.com or contact our team at contact@casetext.com."
 type: "profile"
-heat: 58
+heat: 57
 
 website: https://www.casetext.com
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Dq84AFRUNfYmfOyuothDcQKiZOj3iATjtKDF5Lm9KWdsIZEuJmT1ECAtuRY4GXlzbOQsumhrqxv8W6Mulv4f5QeFph9SDECrOTnGGpmpEPtXo5regDp3mXaiZN4TOzZuZBrMfngk538yMOpQGZc97gp6ilo8AQH9wzzOMJE1HM0npXUL+u+9DVlRapcstTcbEKIsZuI6Hn3JmLmn/H2kSCUrewHH/fV58RutvfhFbZr72lfSFHirn+s6dK7NoUQBQCO4FB0AgUgz6UEPNaEoJCGuHcx0M7nNzAhdDqYTfCvlDo5OMgaRyIk9SYSrZBNohl3EuI3qTFTS+mPj5ApI0I/pAQqdkN6g27lOj2N47TQDeB8enoDGet9XH1XpkeGse4pIXMXAcdtXaVkiRrvYCLoXvD3jdaLD1sAG5nwNZSU=;NJqwPfxD3VXpGn746V8HXQ=="
+secured: "iW04DsQLTj+N8SnczF/h7XHPSXl7WOsC4yxTd3ADtNdEB9gGMSTMJQlFwj37ZpF6kMETJYrTg6vbVrjQSStPG7k+2MAED/Lzg8JyIuqYUp3sNqy2lyAGMjobwHRtlhSpkWGd+MzCqVHpDRawB/iTIAG/XWRry4r/bCoAzguyiRBLA6daXuDxrNmSmVEKTFnURStQEnrga6gEmJA/QQSQJWX4C9GqEs992+tddtUvuRyUgaxY4rk0QFTXuiZOm6WkmkIqrIHxTMNPGjOF3vrxY9NoKkPU6BGiEHO7riMtnU8JSWne8nhdWalZJPQ5mY1MixeeKePfU+KFoJJnoQpZWa8lmqSaZTy9fUd0N0SxBoEKESDZ90n7+k8aWmQToQlhEn0TSk4cBA4YvlWuWeNAi8sTd67oh1X9DoAz9KYouTE=;KQaA1cTPxe9l84IakiOA2A=="
 ---
 

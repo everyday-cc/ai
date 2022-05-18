@@ -5,7 +5,7 @@ otherNames:
   - "Api.ai"
 overview: "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot."
 type: "profile"
-heat: 198
+heat: 0
 
 website: https://dialogflow.com/
 
@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "Dialogflow"
   url: "https://twitter.com/Dialogflow"
-  followers: 12204
+  followers: 12197
 
 size: 11-50 employees
 yearFounded: 2010
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ADD-rvsS5z4"
 
-secured: "KhQKiV0bWq4t+stdSCTGSntMBhdf5Kxz7jImK9hAYPW9m37jHbgoJwoaDc1RvE1DG7od2W562zV9mtW8MTGDriJIHLHLotngz0DypiDF4WXpTBykcv9IfisF01pSd1tL2fP9W62w90mat/FcjTcdGPUydDxOKqP5MPI3xtKGZ+DiN4kmSa2jZ9FShFgamGwcBp1C37Me0chf6inOGbc2m2MeqNMYAkTl3YyzoK0QLjkoJYdDbEINNtsjW9YxZHIfMXUDZ06mz0VCdM0HyGDie3tm33HoFrFJGi6ZfsCbgb+fpifJckAbnAMAuUW7Ym6QCeeZ/SM/pAjmNp6WzYI0Ob/pO/mE8NeGmNg58auuxTkSH4e/oJNM/dX/TIKNUexxuGhWBV28G8JHsA1VBbTVaN1IKd3PGFo12UEdcuCyk+o=;uyzGcU8rTf7YU05m47HEwg=="
+secured: "JKyPtRuEYllREQwLXqXWnAHzdNQ0QjvEYJH0cXyGY6j+v/Gi0ubM2RyTIde1u5X1151ddVsfTQaIBM9QiOIOxe8E47J9LU+w8Jk4b5c3VMuUD0riwDmnbYbOcRhtQuP4ufoZFq89oIPD9FAKxuMM/R7PhUZdNDV6UOdhQWVqyHP4UGVXF/BR3x1pU4E/CVlzDfwkiImd99J1xir2cDshI53egR3sjCwvBaPtEuZ2t+6GVYWSd7F6GX6sDuiH9JOqlvzTiAoS8aNcOA9ysaMgFK3x3oKIdkwZRq/ZlYXISyycF9vTT8owSfmrE6/LAk7t8C3MkFTW1nj9v7g1nxrKJ6KV8I0CRy267KA9wemmViAe6bx3TlcTW2mDqVzhvI0UhzC8OneefClkHJ9JFEpo+xQvFCPJdxyfltvFAmGnBX8=;mfNdcdswBck4IYV/AvXDpQ=="
 ---
 
