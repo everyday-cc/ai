@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-08-spell-graphcore-partner-to-build-next-gen-ai-infrastructure.md",
+      "title": "Spell, Graphcore partner to build next-gen AI infrastructure",
+      "excerpt": "“We had the opportunity to highlight Spell.ml’s capabilities in a recent Cool Vendor research note, “Cool Vendors in Enterprise AI Operationalization and Engineering,” Dekate said.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
+      "originalUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
+      "publishedDateTime": "2022-02-08T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-a-simple-guide-to-artificial-intelligence-and-machine-learning.md",
       "title": "A SIMPLE GUIDE TO ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
       "excerpt": "Artificial Intelligence and Machine Learning have recently become popular topics in the technology industry. But, perhaps more than in our daily lives, Artificial Intelligence (AI) impacts the business world.",
@@ -1404,59 +1459,6 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-16-responsible-ai-will-give-you-a-competitive-advantage.md",
-      "title": "Responsible AI will give you a competitive advantage",
-      "excerpt": "Responsible AI practices are becoming prerequisites to even bidding on certain contracts, especially when governments are involved",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/",
-      "originalUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1287119472.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/",
-      "publishedDateTime": "2022-01-15T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
         "Facebook AI"
       ]
     }

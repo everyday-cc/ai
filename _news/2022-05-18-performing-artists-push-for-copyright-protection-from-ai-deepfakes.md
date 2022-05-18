@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Performing artists push for copyright protection from AI deepfakes"
-excerpt: "With the rise of AI, creators want laws to protect the use of their image or voice in algorithm-generated works"
-publishedDateTime: 2022-05-18T09:15:00Z
-originalUrl: "https://news.trust.org/item/20220518131326-g7qya"
-webUrl: "https://news.trust.org/item/20220518131326-g7qya"
+excerpt: "When a friend messaged voice actor Bev Standing to ask whether she was the voice of TikTok's text-to-speech feature, the Canadian performer's surprise soon turned to irritation."
+publishedDateTime: 2022-05-18T15:29:00Z
+originalUrl: "https://www.reuters.com/legal/litigation/performing-artists-push-copyright-protection-ai-deepfakes-2022-05-18/"
+webUrl: "https://www.reuters.com/legal/litigation/performing-artists-push-copyright-protection-ai-deepfakes-2022-05-18/"
 type: article
-quality: 19
-heat: 19
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Thomson Reuters Foundation
-  domain: trust.org
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
-secured: "0gwVpBNv7hJxjTeIpxGvmqHoaIrCrHvpk6rq8ecn82iGo1D3kUeT21rpKoFMoEK8Jmf3ewOKt7L9yBvbL7yUo8K/W4eoeX2Y+9jGzgaWRvUbPJ90Weh4CRH0cSn2xvdV3wrMnmKk90sLahG/Uuxz+G9rM5DvrudD6e2289CnMwVayfHng+TvX5q9za754Tt8dUNt4hgVqJmyd+2cW8HyizOMfI+cykYiWBu4lxPyGihFPijIRkxGsL4oBQGKUR658P9blKiP6pmEOmjZfMVlN6gZC5zsfxw7Gh7W7MSdULYxdWpYIDqBJ+8Ko34+oDEJ7T1zi1UYvH4q7vFuzOsHLfq5GesiqWxdrn3mjX+gAC59UakX+B2G6I4ZKAakqoLX9dD6owMnUpn5tjvZc9cQGjcwozENU1Zj/1CssmFTSYoUu7dqcHgf1/iYujfi0FRHiOZCTqCYKgdaq7aPkvdXTqVkwZ09poIK1dl155jRf0JGbe0c2UWmGcxF1b7LAKH/xlDOQBqzWp7bqgaZFXg/cA==;UEtzUXuZpdNC7nz8Vv8XaA=="
+images:
+  - url: "https://www.reuters.com/resizer/6BbOlIsUD1m77qP5CQnD4_lBcnQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HRDUY677TBNVXNJCYV2UKSYZBY.jpg"
+    width: 728
+    height: 381
+    isCached: true
+
+secured: "aHkrS6lMwYRYlQJsLrJAjemkb11zO2aZSRTjIwdyXtRfXhqW910XzAErCzkgBXkICK+OzhkPP2mRcJwV8BTjwcpmCixD09fOErhJPdUxiZkab856fSEIy3mge5oPkLYuTOndKcTYM9tgjDBRi8Uh3B7sjxItkn3NhFSOpYB2jYb0fUw99lGVnE7eD/NxFUQEBCR2GS+4bpmd/xLUPWVnmSDIVnZhTCbEwXi8yw5bQ+6Q2Ee6cRmKO9ELMU6hv8sDEKCJqaB1pF8e+/wUfvQAk0PqJ7sAJWgxzfVIW0RdYhvlXO4qvo7HG70ZnawoDVjbIyewnQgoAwjz7YFD8Y6sbA521JKfGkHigsTtaR1P54A=;QFEdpysPkP7eh1wf1pYlWg=="
 ---
 

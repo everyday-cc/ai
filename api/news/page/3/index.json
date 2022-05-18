@@ -2,6 +2,204 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-16-crippling-ai-cyberattacks-are-inevitable-4-ways-security-pros-can-prepare.md",
+      "title": "Crippling AI cyberattacks are inevitable: 4 ways security pros can prepare",
+      "excerpt": "As enterprise companies battle a growing number of major security breaches, they need to prepare for increasingly sophisticated AI-driven cybercrimes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
+      "originalUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1057918132.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
+      "publishedDateTime": "2022-05-16T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-us-cops-kick-back-against-facial-recognition-bans.md",
+      "title": "US cops kick back against facial recognition bans",
+      "excerpt": "In brief Facial recognition bans passed by US cities are being overturned as law enforcement and lobbyist groups pressure local governments to tackle rising crime rates. In July, the state of Virginia will scrap its ban on the controversial technology after less than a year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
+      "originalUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/03/05/facial.jpg",
+          "width": 1000,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/",
+      "publishedDateTime": "2022-05-16T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases.md",
+      "title": "Dental AI Startup Wins Second FDA Clearance To Detect Top Oral Diseases",
+      "excerpt": "The FDA has awarded dental AI startup Overjet with landmark clearance to use its software to detect and outline cavities in patients’ X-rays. It’s the second FDA clearance for the company, co-founded in 2018 by CEO Wardah Inam almost a decade after she ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexandralevine/2022/05/16/dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases/",
+      "originalUrl": "https://www.forbes.com/sites/alexandralevine/2022/05/16/dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//627ecad7e838339a220938f1/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-cncf-launches-ethics-in-open-source-training-course.md",
+      "title": "CNCF launches ethics in open source training course",
+      "excerpt": "The Cloud Native Computing Foundation has developed a new certification for developers looking to better incorporate ethical-first thinking into their open source software design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
+      "originalUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/05/cio-ethics-imageby-rapideye-gettyimages-162922472-100842471-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
+      "publishedDateTime": "2022-05-16T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-software.md",
       "title": "Cyber security startup IEM Labs launches plagiarism checker, AI-powered software",
       "excerpt": "New Delhi: Kolkata-based cyber security Startup IEM Labs has launched a plagiarism checker and an AI-powered content generation software. The plagiarism checker, called IEMSecure, can scan through 10 billion sources in just a few seconds, while the AI ...",
@@ -53,7 +251,7 @@
       "originalUrl": "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -974,214 +1172,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-gms-cruise-and-brightdrop-explore-self-driving-electric-vans.md",
-      "title": "GM’s Cruise and BrightDrop Explore Self-Driving Electric Vans",
-      "excerpt": "Cruise LLC, the self-driving startup controlled by General Motors Co., is working with the automaker’s BrightDrop electric van business on a plan to develop autonomous delivery vehicles, people familiar with the matter said. Cruise and BrightDrop have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-05-13/gm-s-cruise-and-brightdrop-explore-self-driving-electric-vans",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-05-13/gm-s-cruise-and-brightdrop-explore-self-driving-electric-vans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD_3SJL94SGQ/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice.md",
-      "title": "How AI Solutions And Strong Leadership Could Have Avoided The UK’s Worst-Ever Miscarriage Of Justice",
-      "excerpt": "Very critical of the Post Office Horizon scandal, HEC Paris Professor of Accounting and Management Control and chairholder at HI! Paris Center Aluna Wang explains how the anomaly detection system she developped and more attention to how the data is used could help avoid such issues in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
-      "originalUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627e65898626d96b9c8f32a1/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
-      "publishedDateTime": "2022-05-13T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-formidable-human-ai-relations-can-accelerate-sustainability-efforts.md",
-      "title": "Formidable Human-AI Relations Can Accelerate Sustainability Efforts",
-      "excerpt": "When working in harmony with humans, AI and other automation systems have the potential to make huge impacts on economic growth across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f8ef32c53de1add7201f44a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
-      "publishedDateTime": "2022-05-13T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-15-key-tips-to-leverage-visual-search-for-marketing-in-2022.md",
-      "title": "15 Key Tips To Leverage Visual Search For Marketing In 2022",
-      "excerpt": "Agency 11. Remember, A Picture Is Worth A Thousand AI Interpretations In this connected era, it is crucial to understand how artificial intelligence, machine learning, object recognition and algorithms can be affected by color, objects, composition and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627d90028555d69d19210491/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/amp/",
-      "publishedDateTime": "2022-05-13T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

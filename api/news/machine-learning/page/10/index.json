@@ -2,6 +2,111 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-04-how-ai-protects-machine-identities-in-a-zero-trust-world.md",
+      "title": "How AI protects machine identities in a zero-trust world",
+      "excerpt": "By scanning enterprise networks, bad actors often find unprotected machine identities to exploit, making them a favored attack surface.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/",
+      "originalUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/5-How-AI-Is-Protecting-Machine-Identities-In-A-Zero-Trust-World.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/",
+      "publishedDateTime": "2022-03-03T13:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code.md",
+      "title": "An Artificial Intelligence Rant: Neural Networks Are Not Magic, They’re Code",
+      "excerpt": "Artificial Intelligence.. I was reading yet another document about artificial intelligence (AI). The introduction was covering the basics and the",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&fit=crop",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/amp/",
+      "publishedDateTime": "2022-03-03T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-a-baby-cry-translator-a-company-uses-machine-learning-to-translate-your-infant.md",
       "title": "A baby cry translator? A company uses machine learning to translate your infant",
       "excerpt": "Switzerland-based startup Zoundream is working on a proprietary device that translates what they call the \"universal language\" of babies, with help of A.I.",
@@ -1310,102 +1415,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-ai-lifecycle-management-startup-cnvrgio-launches-ready-made-ml-pipelines.md",
-      "title": "AI lifecycle management startup Cnvrg.io launches ready-made ML pipelines",
-      "excerpt": "Register here. Cnvrg.io, the Intel-owned startup that offers a full-stack platform to help enterprises manage AI models and build auto-adaptive machine learning pipelines, has announced an open ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/",
-      "originalUrl": "https://venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/amp/",
-      "publishedDateTime": "2022-02-22T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-paving-the-way-for-ai-and-machine-learning-success.md",
-      "title": "Paving the way for AI and Machine Learning success",
-      "excerpt": "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
-      "originalUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "intelligentcio.com",
-        "domain": "intelligentcio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

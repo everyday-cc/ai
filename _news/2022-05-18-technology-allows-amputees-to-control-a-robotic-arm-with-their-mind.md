@@ -35,6 +35,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Amputees able to move robotic arm with their mind"
+    excerpt: "When combined with an artificial intelligence computer and a robotic arm, the device can read and interpret brain signals, allowing upper limb amputees to control the arm using only their thoughts. “It’s a lot more intuitive than any commercial system ..."
+    publishedDateTime: 2022-05-18T15:51:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/amputees-able-to-move-robotic-arm-with-their-mind/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/18382/dreamstime_l_139572277.png?crop=0,0.24791666666666667,0,0.25989583333333327&cropmode=percentage&width=1200&height=450&rnd=132973636420000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "University of Minnesota technology allows amputees to control a robotic arm with their mind"
     excerpt: "When combined with an artificial intelligence computer and a robotic arm, the device can read and interpret brain signals, allowing upper limb amputees to control the arm using only their thoughts. The researchers’ most recent paper is published in the ..."
     publishedDateTime: 2022-05-17T00:00:00Z

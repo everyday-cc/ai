@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2022/05/IDB-L-CHINOPD-0212-16x9-2.jpg?w=1024&h=578"
         width: 1024
         height: 578
-        isCached: true
-  - title: "Facial recognition is making a comeback in US cities. Here's what we know"
-    excerpt: "Policymaker consensus around facial recognition technology is changing, with some US cities electing to reverse bans on the AI tech, but debate is ongoing."
-    publishedDateTime: 2022-05-14T00:00:00Z
-    webUrl: "https://interestingengineering.com/facial-recognition-comeback-clearview"
-    ampWebUrl: "https://amp.interestingengineering.com/facial-recognition-comeback-clearview"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facial-recognition-comeback-clearview"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 58
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3ROaeo7NOv/sizes/facial-recognition-comeback-clearview_resize_md.jpg"
-        width: 744
-        height: 419
         isCached: true
   - title: "Move to regulate facial recognition technology"
     excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."

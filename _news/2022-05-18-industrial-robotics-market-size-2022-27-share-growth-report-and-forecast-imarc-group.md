@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Industrial Robotics Market Size 2022-27 Share, Growth, Report and Forecast | IMARC Group"
-excerpt: "\"Industrial Robotics Market Research Report\"The global industrial robotics market reached a value of US$ XX Billion in 2021. Looking forward, IMARC Group"
-publishedDateTime: 2022-05-18T15:58:00Z
-originalUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-size-2022-27-share-growth-report-and-forecast-imarc-group"
-webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-size-2022-27-share-growth-report-and-forecast-imarc-group"
+excerpt: "According to the latest industrial robotics market report by IMARC Group, titled \"Global Industrial Robotics Market Size, Share, Industry Trends, Growth, Opportunity and Forecast"
+publishedDateTime: 2022-05-18T15:36:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-industrial-robotics-market-size-2022-27-share-growth-report-and-forecast-imarc-group"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-industrial-robotics-market-size-2022-27-share-growth-report-and-forecast-imarc-group"
 type: article
-quality: 45
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.abnewswire.com/uploads/1652852192.jpeg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "3D Facial Recognition Market Growth, Competitive Methods and Forecast 2026"
@@ -244,6 +238,6 @@ related:
         height: 337
         isCached: true
 
-secured: "xqr+WefussoPkAL4FiaXWrT9kR/Q+X0WY96cGi3lFsw6Z/t4grQoNtxiGG00NqMSS0LhGPvHfsB61R1YoTb4oFEiDvEKUEVQ0kZFsdrHv0DMU4PwdVpTQh5PFAPM64WTThWtLTs59F6QeRlZdmZaEhzV3eKT1VH6tS2gQJrt3SotGBB+fT1loVd/hKXIYIgsKd2cfac2p2QOVrWGcHi7skMWv8G0a9kvsqg1/woQXvrIn3pFt62Nghvzyf1kphDmJDoPcZTGfRJ8v/immNt0frs8rP/oNdDy0dhBZ28XA96fKTCbX7o1TY/otTKNwogdmdvrT77FAlPUQbqw3tSp0Hf5FaPeMKpBHCpNZdxOLyM=;gstvPgqcNhJDnXIgAgQB6A=="
+secured: "6LY/ydd/BAMayYa/w4yjM3GUnXs1FPosDPQoZerd8gfa9uZfW0CQRGgkxIkhSLBz3wmmj6VShcBzNk1yY7vPARwRurw7oKuuGFfnB1QbgDlRMiPV1IQ8Sbmhyzi+FuUClZyN3mDvDwLO4cWh5tEdZcym+ezLqFLOQ65sfcmxaHR8zw0KP9zarAGj9Tco0yIA5qtQ7NAwwGysCC5+kbY2GDT2YMGTOLTLN/NOmW8zA04n7p3RJdP3umt/dcvZzKrZhAMOzrV70VJBO7qxUw4eUr7iZR04ohmuRcrvumsd1a7GmrSq86jPBGTXqEtzEvq8RQVxI1PiOL1tGhjTcNhWEJoJJ29lQHh3Q+RS5DTk0dETCWxGklPgHC4f1fSDAt8ye39yYDJubQeTUbH7LS/6tah7IkWYHsm/kw72BnK4uhU2cLwywS1BKuEtQAWimT/GAqX79FZqOulnRIcF0B408oMvtoFNuvGe7QNzAWOGOiRMSo18LmujFmWbs+KTReLJpjxjAoP3xRCMGpzL1c94Hw==;zVmjGQNDFAWXgVt1jUOk5Q=="
 ---
 

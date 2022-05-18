@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Apple exec who departed over office return policy joins up with Google"
-    excerpt: "After his split, Apple's former director of machine learning has already moved on and has found employment with Google's DeepMind."
-    publishedDateTime: 2022-05-18T00:36:00Z
-    webUrl: "https://appleinsider.com/articles/22/05/18/apple-exec-who-departed-over-office-return-policy-joins-up-with-google"
-    ampWebUrl: "https://appleinsider.com/articles/22/05/18/apple-exec-who-departed-over-office-return-policy-joins-up-with-google/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/05/18/apple-exec-who-departed-over-office-return-policy-joins-up-with-google/amp/"
+  - title: "Too Little Too Late: Apple Reverses Remote Work Policy After Machine Learning Head Decamps to Alphabet"
+    excerpt: "That job switch marks a major blow for Apple, a company that’s struggled to appease workers at odds with its return to work strategy. Goodfellow, who’s the most senior member known to have jumped ship over remote work so far,"
+    publishedDateTime: 2022-05-18T16:15:00Z
+    webUrl: "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742"
+    ampWebUrl: "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 73
     images:
-      - url: "https://photos5.appleinsider.com/gallery/30930-51101-coreml-og-xl.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1df6fad1a744c6167d22b8a2880b1d68.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Apple Machine Learning Director Who Left Over Office Return Policy Joins Google"
     excerpt: "Earlier this month, former Apple director of machine learning Ian Goodfellow made headlines when he resigned from his position due to Apple's refusal to allow employees to continue to work remotely full time. Goodfellow has now found another company to ..."

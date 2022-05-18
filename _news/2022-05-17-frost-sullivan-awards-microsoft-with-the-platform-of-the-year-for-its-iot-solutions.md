@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56075541-fros
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56075541-frost-sullivan-awards-microsoft-with-the-platform-of-the-year-for-its-iot-solutions-008.htm"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Build Back Better: Business Solutions with Azure and Microsoft 365"
-    excerpt: "How to build innovative solutions that solve real business problems using Azure and Microsoft 365. No code, low code and pro code."
-    publishedDateTime: 2022-05-18T08:11:00Z
-    webUrl: "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/"
-    type: article
-    provider:
-      name: SharePoint
-      domain: sharepointeurope.com
-    quality: 54
-    images:
-      - url: "https://www.sharepointeurope.com/wp-content/uploads/speakers/2016/03/Bill-Ayers-2.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Frost & Sullivan Awards Microsoft With The Platform Of The Year For Its Iot Solutions"
     excerpt: "Frost & Sullivan Awards Microsoft with the Platform of the Year for its IoT Solutions The Azure IoT Platform enables enterprises to expand featur"
     publishedDateTime: 2022-05-17T19:06:00Z

@@ -44,22 +44,6 @@ related:
         width: 1000
         height: 575
         isCached: true
-  - title: "Facial recognition is making a comeback in US cities. Here's what we know"
-    excerpt: "Policymaker consensus around facial recognition technology is changing, with some US cities electing to reverse bans on the AI tech, but debate is ongoing."
-    publishedDateTime: 2022-05-14T00:00:00Z
-    webUrl: "https://interestingengineering.com/facial-recognition-comeback-clearview"
-    ampWebUrl: "https://amp.interestingengineering.com/facial-recognition-comeback-clearview"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facial-recognition-comeback-clearview"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 58
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3ROaeo7NOv/sizes/facial-recognition-comeback-clearview_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "Move to regulate facial recognition technology"
     excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."
     publishedDateTime: 2022-05-17T04:30:00Z

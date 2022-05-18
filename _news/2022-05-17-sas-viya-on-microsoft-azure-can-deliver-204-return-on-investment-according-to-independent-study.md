@@ -39,29 +39,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "American Airlines teams up with Microsoft to use Azure"
-    excerpt: "Through this partnership, American Airlines will now use Microsoft Azure as the main cloud platform where it will ... where it leveraged the Microsoft Cloud and its AI capabilities to update its technology infrastructure. The partnership places American ..."
-    publishedDateTime: 2022-05-18T14:30:00Z
-    webUrl: "https://www.onmsft.com/news/american-airlines-patners-with-microsoft"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 69
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/05/Untitled-design-2022-05-18T172556.648.jpg"
-        width: 1024
-        height: 765
-        isCached: true
-  - title: "Microsoft launches Open Data for Society"
-    excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
-    publishedDateTime: 2022-05-16T12:42:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-launches-open-data-for-society/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "hQu0S/PRn2OSHqsSY3IcTNHTOictfMDaX+FPc5Gtvpsfrveuv5/totRbzmxsyp6/qWxdeKY7ehvjXQJwzhwK1wrq3tOY8w/uvJmPnVM4u+bH6M+OrXstPker9EDIZUgSnc9TkZM5aHEb2KBb14HYxDCssBKblG4400bXJbWyj75NzGqNyffZRsIzbyaiW2sUQjVM/dpxUmgLRDBq9wEixSuQyVrxGVonWymOxSUxnTULezCjP9V6EyYj+L+fAQPXZ2RAsv1gKiHFTQArhNV+VVBBcwhrVa4rBrwM0dLsNDiVnhscbKHM5M7qSlEuA+MX6ZVIdj7uGD5Cm13ur0of9kn6ed8pahFdcejDFNKEh4I=;oectOEkpxG2naGmpeoFDGw=="
 ---

@@ -103,6 +103,20 @@ related:
       name: bna.bh
       domain: www.bna.bh
     quality: 19
+  - title: "Fintech Startup TradeStreet Tracking Unusual Market Events Expands Internationally"
+    excerpt: "The Swiss and Czech-based startup TradeStreet using a proprietary algorithm to track unusual stock market events is expanding its coverage from"
+    publishedDateTime: 2022-05-18T14:05:00Z
+    webUrl: "https://www.digitaljournal.com/pr/fintech-startup-tradestreet-tracking-unusual-market-events-expands-internationally"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://orders.newsfilecorp.com/files/8520/124111_3fe72a28a40f2b09_001.jpg"
+        width: 550
+        height: 309
+        isCached: true
 
 secured: "2yiAk3fUqNvyrAe5XDUJwxrCyJxgxP7mmT7wm190SPcxmXj6Kfo3ZKwJJRNTtE/O5BDQeqkFiDLv+HugyvyD9RBRh5sXjrie79Jka6+sB3l/ZvizDQE0ry4aiHUrl1CaYvI0CMTtID65q4LgsibSciHlIm2pAI2Biib8de4JbtwEd6YfxLcy9Xxg8OHk1WUaXEIhLPA7qihtDskTfGVnQkgTElYxCVBtLxX7lgrOStbIV9UfqxHKeTl5mrnSGA3OTf04OXuvaPw4nRVvt6sFb+90hwC7wNK+yS8J2yBrhST5LpyUWv6bLseIwAehyA2IlSK2m+EaaeRLQJOk1loSwgzCQhG1RyiNCrcwskbcsqE=;3NLMGKjFv2RYQbhBPKPe1A=="
 ---

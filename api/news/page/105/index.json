@@ -2,6 +2,195 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-02-16-oh-captain-my-captain-no-captain-emerging-risks-from-advanced-automation-in-the-maritime-sector.md",
+      "title": "Oh Captain, My Captain . . . No Captain? Emerging Risks from Advanced Automation in the Maritime Sector",
+      "excerpt": "The marine industry is facing increased scrutiny as a result of goods being delayed at ports due to congestion and is looking for options for improved efficiencies, including advanced autonomy and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbar.org/groups/tort_trial_insurance_practice/publications/tortsource/2022/winter/oh-captain-my-captain-no-captain-emerging-risks-advanced-automation-the-maritime-sector/",
+      "originalUrl": "https://www.americanbar.org/groups/tort_trial_insurance_practice/publications/tortsource/2022/winter/oh-captain-my-captain-no-captain-emerging-risks-advanced-automation-the-maritime-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanbar.org/content/dam/aba/images/tort_trial_insurance_practice/ts-24-2-automation-2560x1440.png",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Bar Association",
+        "domain": "americanbar.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-huawei-defines-6g-as-a-distributed-neural-network-with-communication-links.md",
+      "title": "Huawei defines 6G as a distributed neural network with communication links",
+      "excerpt": "According to Peiying Zhu , Senior Vice President of Wireless Research at Huawei, 6G looks more like a 'distributed neural network with communication ... robotics and smart healthcare, and artificial intelligence as a service,” Zhu explained.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links?profile=3134",
+      "originalUrl": "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links?profile=3134",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20220215/ARTICLE/220219698/AR/0/AR-220219698.jpg",
+          "width": 498,
+          "height": 332,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links",
+      "cdnAmpWebUrl": "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/s/amp.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links",
+      "publishedDateTime": "2022-02-15T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-us-senators-urge-ditching-idme-face-recognition-for-unemployment-seekers.md",
+      "title": "U.S. senators urge ditching ID.me, face recognition for unemployment seekers",
+      "excerpt": "But about half of U.S. states still use ID.me, which employs a mix of facial recognition technology and video-chat interviews to confirm the identity of unemployment applicants. Activists have argued that facial recognition remains too faulty for use in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/us-senators-urge-ditching-idme-face-recognition-unemployment-seekers-2022-02-15/",
+      "originalUrl": "https://www.reuters.com/world/us/us-senators-urge-ditching-idme-face-recognition-unemployment-seekers-2022-02-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/nqvndH2CybKuE2pdSk8JW5SRvKU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3J3TVDV7HZMYZEUT7SJKJQRTNY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-how-a-semantic-layer-bridges-bi-and-ai.md",
+      "title": "How a semantic layer bridges BI and AI",
+      "excerpt": "Augmented intelligence (also called augmented analytics or decision intelligence) brings AI-generated insights into traditional business intelligence workflows to improve data-driven decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-and-ai/",
+      "originalUrl": "https://venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1227621680.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-and-ai/amp/",
+      "publishedDateTime": "2022-02-15T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-mendix-and-amazon-web-services-expand-their-seven-year-strategic-relationship-with-intelligent-automation-solutions.md",
       "title": "Mendix and Amazon Web Services Expand Their Seven-Year Strategic Relationship with Intelligent Automation Solutions",
       "excerpt": "and Amazon Rekognition to identify objects, people, text and activities in images and videos. Customers can also embed these AWS Services into their own custom applications. \"Mendix's enterprise ...",
@@ -956,196 +1145,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-redmagic-7-confirmed-to-feature-independent-gaming-chip-called-red-core-1.md",
-      "title": "REDMAGIC 7 confirmed to feature independent gaming chip called Red Core 1",
-      "excerpt": "REDMAGIC says that the chip was developed jointly with Awinic and JD Esports. Awinic is a Shanghai-based company that specialized in high-quality, high-performance analog, digital-analog mixed-signal, RF, and IC for mobile phones, AI, IoT, and the like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/",
-      "originalUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/redmagic-7-red-core-1-chip-featured.jpg",
-          "width": 749,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/?amp=1",
-      "publishedDateTime": "2022-02-15T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-four-ways-artificial-intelligence-is-transforming-e-commerce.md",
-      "title": "Four Ways Artificial Intelligence Is Transforming E-Commerce",
-      "excerpt": "There isn’t an industry in the world that is immune to the influence of artificial intelligence (AI). From virtual reality (VR) gaming systems to AI robots in industrial manufacturing, the development of AI technology is revolutionizing the way we ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd9017bfb580cfe3fe8ef74/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/amp/",
-      "publishedDateTime": "2022-02-15T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-computer-vision-system-allows-analysis-of-microscopy-videos.md",
-      "title": "Computer Vision System Allows Analysis of Microscopy Videos",
-      "excerpt": "Researchers have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in order to characterise and describe the behaviour of the cells that appear in the images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/computer-vision-system-allows-analysis-of-microscopy-videos-358579",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/computer-vision-system-allows-analysis-of-microscopy-videos-358579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/358579/computer-vision-system-allows-analysis-of-microscopy-videos-358579-640x360.jpg?cb=20220215",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-second-natures-ai-based-sales-coaching-integrated-with-corporate-visions.md",
-      "title": "Second Nature’s AI-based Sales Coaching Integrated with Corporate Visions",
-      "excerpt": "Second Nature today announced an agreement to integrate its AI-powered sales conversation simulations into Corporate Visions’ sales messaging certification and fluency coaching programs. The first ever AI implementation at scale by a prominent sales ...",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/",
-      "originalUrl": "https://enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Second-Natures-AI-based-Sales-Coaching-Integrated-with-Corporate-Visions-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/second-natures-ai-based-sales-coaching-integrated-with-corporate-visions/amp/",
-      "publishedDateTime": "2022-02-15T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

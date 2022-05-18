@@ -39,6 +39,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Mastercard launches facial-recognition system with Brazil pilot"
+    excerpt: "Mastercard has begun to test a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their face using a retailer’s smartphone app and assign their likeness to a bank card stored on file."
+    publishedDateTime: 2022-05-18T16:43:00Z
+    webUrl: "https://www.businesslive.co.za/bloomberg/news/2022-05-18-mastercard-launches-facial-recognition-system-with-brazil-pilot/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2022-05-18-mastercard-launches-facial-recognition-system-with-brazil-pilot/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-05-18-mastercard-launches-facial-recognition-system-with-brazil-pilot/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/PSDso2yuUoiNSsATUQkixcCZ89bmLrlWxPaPJmuAXSlvKfpPMLQx9tXRgM8iUKLCOGR4BiES_A0PdHz2OZ37mrPz5GZbGLxxLN_WXMWmz_ZutIM=s512"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Mastercard pilots biometric payments, using facial recognition"
     excerpt: "Mastercard has begun to trial a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their face using a retailer’s smartphone app and assign their likeness to a bank card stored on file."
     publishedDateTime: 2022-05-17T16:46:00Z

@@ -1,30 +1,26 @@
 ---
 category: news
-title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\""
-excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented ..."
-publishedDateTime: 2022-05-04T14:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi-1031420590"
-webUrl: "https://markets.businessinsider.com/news/stocks/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi-1031420590"
+title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION “META-aivi”"
+excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and enhance ..."
+publishedDateTime: 2022-05-04T14:32:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a"
+webUrl: "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1799549/META_aivi_empowers_frontline_workers_wearable_AI_solutions.jpg"
-    width: 400
-    height: 225
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "gNmJAXD1mr2f0L4y+n2X/QzOZEw+FwY9vvXoIDYFPejXqS2T8R2wkdpjhu/PeZKLLgq/5siaDpYSmkgwh/CE9nIZ6LjOuqi5IZm6p4FqmsT0+FvIwjwknnvMNYfYkg2+Hw6RyMB00CtuvHQcBRpLD47QxBzCPNwRzYC8Io55SSp3ttxZPFEREVDy10i7XewmZiP1c5i6XWRIkdx2CGICMMkSokdR4OBZp7/x7HbjCaVYRbm646N9YaGhr3SVYBeIyADf00Pq50wqJH78WAwyF1LrSN8Q3wdm/zII8k+dT6X3Q6ta8IntXPtUChrcKAmu0mqM8/waCax6VZtFCXjBUjClANZ5mbuipay1vffPwxo=;SRyfqqMYHItd2bHSGXDEMQ=="
+secured: "pzfnGvWj/8/QJitGvzWt4E2kEevhkP/MQo2I5FJNAulsIEPoXPHaWg4Yt09odoe4KKZBDfOTQ/QpR+4IReLxUcr4N7ldTv14vPd6SlhND14aurMu6WkWF9Ne2+FKzF1V2dCNiNEpEZ65/7asMbM9vrmFAa2cXa/SS3RXJaGw5f/HrbOPEgpRiFO1VeTwOPNfMhayAoyVHpiy7Z9IsMV3VkmcNpvONXedLFk6yh15Utti8PKSMspkKgUZ9UpljhZYPRvWnwRiLi3/1msVPRb8bDWfR5FOgViV0OUhvZCExOuXNfmqDXOQ+vK5oCrhV9yhOaCInwYVI0uEudqn8oloAX5C7Zpy6wc1hDGGwEu+wko=;UU3zRVfr9ThrN3A1qR0hdA=="
 ---
 

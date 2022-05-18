@@ -2,6 +2,213 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-17-forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform.md",
+      "title": "Forma AI poised to grow AI-supported sales compensation management platform",
+      "excerpt": "Forma's automated workflows unite the process, enabling sales compensation resources to focus on incentive design — not formula building.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/",
+      "originalUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-sales_performance.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 1659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/",
+      "publishedDateTime": "2022-05-17T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online.md",
+      "title": "Cybercrime Is Evolving: Artificial Intelligence Can Help Improve Consumer Safety Online",
+      "excerpt": "This is where artificial intelligence comes in. By harnessing the power of artificial intelligence, we can make the fight against cybercrime more effective and help protect consumers from the ever-growing threat of online crime. I had the pleasure of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62829735da902be673e6f1dc/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/amp/",
+      "publishedDateTime": "2022-05-17T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-how-ai-adoption-can-impact-the-insurance-industry.md",
+      "title": "How AI Adoption Can Impact The Insurance Industry",
+      "excerpt": "But today, he is a strong proponent of artificial intelligence (AI). At a TED talk in 2017, Kasparov said, “Machines have instructions; we have a purpose. We will need intelligent machines to help us turn our grandest dreams into reality.” AI is all ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//614e19843adfdba049044453/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/",
+      "publishedDateTime": "2022-05-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-widely-available-ai-could-have-deadly-consequences.md",
+      "title": "Widely Available AI Could Have Deadly Consequences",
+      "excerpt": "In September 2021, scientists Sean Ekins and Fabio Urbina were working on an experiment they had named the “Dr. Evil project.” The Swiss government’s Spiez laboratory had asked them to find out what would happen if their AI drug discovery platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/",
+      "originalUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6282dd0483768a9d8a5c8f82/master/pass/AI-Drug-Discovery-Molecules-Business-455668503.jpg",
+          "width": 2400,
+          "height": 1769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-dr-evil-drug-discovery/amp",
+      "publishedDateTime": "2022-05-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026.md",
       "title": "3D Facial Recognition Market Growth, Competitive Methods and Forecast 2026",
       "excerpt": "May 17, 2022 (Market Insight Reports) -- This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report ...",
@@ -197,8 +404,8 @@
       "title": "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data",
       "excerpt": "The idea of synthetic data in enterprises has been around for decades, but it’s picking up steam as companies begin making more use of artificial intelligence and have greater need for faster access to better data sets.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_featst_pos3",
-      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_featst_pos3",
+      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4",
+      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
@@ -1018,204 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-crippling-ai-cyberattacks-are-inevitable-4-ways-security-pros-can-prepare.md",
-      "title": "Crippling AI cyberattacks are inevitable: 4 ways security pros can prepare",
-      "excerpt": "As enterprise companies battle a growing number of major security breaches, they need to prepare for increasingly sophisticated AI-driven cybercrimes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
-      "originalUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1057918132.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
-      "publishedDateTime": "2022-05-16T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-us-cops-kick-back-against-facial-recognition-bans.md",
-      "title": "US cops kick back against facial recognition bans",
-      "excerpt": "In brief Facial recognition bans passed by US cities are being overturned as law enforcement and lobbyist groups pressure local governments to tackle rising crime rates. In July, the state of Virginia will scrap its ban on the controversial technology after less than a year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/03/05/facial.jpg",
-          "width": 1000,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/",
-      "publishedDateTime": "2022-05-16T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases.md",
-      "title": "Dental AI Startup Wins Second FDA Clearance To Detect Top Oral Diseases",
-      "excerpt": "The FDA has awarded dental AI startup Overjet with landmark clearance to use its software to detect and outline cavities in patients’ X-rays. It’s the second FDA clearance for the company, co-founded in 2018 by CEO Wardah Inam almost a decade after she ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexandralevine/2022/05/16/dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases/",
-      "originalUrl": "https://www.forbes.com/sites/alexandralevine/2022/05/16/dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//627ecad7e838339a220938f1/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-cncf-launches-ethics-in-open-source-training-course.md",
-      "title": "CNCF launches ethics in open source training course",
-      "excerpt": "The Cloud Native Computing Foundation has developed a new certification for developers looking to better incorporate ethical-first thinking into their open source software design.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
-      "originalUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/05/cio-ethics-imageby-rapideye-gettyimages-162922472-100842471-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
-      "publishedDateTime": "2022-05-16T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

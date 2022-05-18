@@ -1,24 +1,29 @@
 ---
 category: news
 title: "Metanomic Acquires Intoolab, Developers of the First Bayesian Network Artificial Intelligence Engine"
-excerpt: "Metanomic ( announces it has acquired Intoolab A.I ( , a Bayesian Network Artificial Intelligence company, to expand and to improve data analysis and A.I across video games and Web3."
-publishedDateTime: 2022-05-18T14:04:00Z
-originalUrl: "https://www.itweb.co.za/content/rxP3jqBE1eYMA2ye"
-webUrl: "https://www.itweb.co.za/content/rxP3jqBE1eYMA2ye"
-ampWebUrl: "https://www.itweb.co.za/amp/content/rxP3jqBE1eYMA2ye"
-cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/rxP3jqBE1eYMA2ye"
+excerpt: "Today, Metanomic ( https://www.metanomic.net/) announces it has acquired Intoolab A.I ( https://www.intoolab.com/) , a Bayesian Network Artificial Intelligence ... has already been successfully proven in Healthcare and the technology is now being applied ..."
+publishedDateTime: 2022-05-18T07:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-games-video-artificial-intelligence-5400fb17e5d642d683fd93651c656d7f"
+webUrl: "https://apnews.com/press-release/business-wire/technology-games-video-artificial-intelligence-5400fb17e5d642d683fd93651c656d7f"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: ITWeb
-  domain: itweb.co.za
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "kTnIUrAYoTe+lPDM292g2NqesOet34RRH/ci6fYfDE+ldvuzc4S+t4RQELvnojt/QdqsCgfMMFxhQnMlk2i7+jj5Q9+SlT+rds1DB5fXbx89h4Vg+R7uTZQgqEze26pB44VFCN5kM7Xqg6Pa7Blqa2vUlRW3ELIi0oUGy3BiU9at4MEjaTWcJdwnfbwpTv98lBXPSPCOvZM64Mq6pIgC1KFGvqqPfyeotgL4fspleZqMZJ5cSCWNQNX8BCh5lmvX7KP3bmhJZ054Zpe81Nd/ThKn1WT+yMEtXcYlw3H5u+c1PplhDUBMlRDo3ZhQnt+tCXkB5EfeMmHlicwj7VEfLDi9kgSt6HnjjMclvn4SiPo=;v/N9Lq9++iSJODQMuL14IQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "watvMwb8proeQuWq1hW6qzzdaLnkmQawoHKKHdHfRCL1IpUYDersApbjpAUMm4EZV207f63aXr9VmZHLsdaR5MtHxCrdVyRvrNfuILtqZ9VM6NpyFaI1r4OB1PDKIn/7lHk3ADzGGDT/H1yG7NOqR6vPI2h2CReM21v0nMpEeNBW2QwaZKkQZUeB3iUfCQZsUN03iSfJV3Pjiscxw7G2dIDe9BijwrsD0FLKEwNMCwJAwZ4R1dFS79QHwaR9ohiPrTfuiplo2Z/HInLzpeRTzE+Iit3xaCcBNzvr73nbKwSg24ySDmnnbQ/ULBb/7SDCBUnYxKtI4G1+Smo+U1Bx9fvhuUUP7wvhuOGj3Ig/cOI=;+QwlsSnnfBVuyzt/NDVEKQ=="
 ---
 

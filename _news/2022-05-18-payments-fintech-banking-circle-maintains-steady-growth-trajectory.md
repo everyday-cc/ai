@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-ban
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       name: bna.bh
       domain: www.bna.bh
     quality: 19
+  - title: "Fintech Startup TradeStreet Tracking Unusual Market Events Expands Internationally"
+    excerpt: "The Swiss and Czech-based startup TradeStreet using a proprietary algorithm to track unusual stock market events is expanding its coverage from"
+    publishedDateTime: 2022-05-18T14:05:00Z
+    webUrl: "https://www.digitaljournal.com/pr/fintech-startup-tradestreet-tracking-unusual-market-events-expands-internationally"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://orders.newsfilecorp.com/files/8520/124111_3fe72a28a40f2b09_001.jpg"
+        width: 550
+        height: 309
+        isCached: true
 
 secured: "t9LnitVZaCD+Er7K/TOpfBBCEnkxWQmIr+LpAgA47ictgmwTbH5mvGY+Xwo3fXeGXdSvQmp4tuiPjmIdvQQWisZBMYjc2Lv+0oseJZItbGqceTCJxnVdTGKw5szb0a8xPP+O5DlqjqaHqNDnZlE2nwMAj6Cmb94Rl7N4F3gvZxGADqo3sWz6jSAqQijzCa39ZN9vLfbKwF+Qvh+saFFw5d3gqWJ9i1vkjoEut5FqdAsMw3/f29J7nbkWimy9iE/owXfDlsy9y67DrjBtx0iPHNzbpT7l13QUZiDX67mtAldIAjtLX1jXHLH/oMHsbJIzZTzHAunkPZGsyWl+BxRzX61Ozspu+6H7NSeb5n3T1wGHHlsw73Gjsb1sxoN7OSKHSZ3XSD3QvG6m+5kZV7YHXKB647MvdlGXZhlwY7xxHtHX0EKy9e7m7mNrDlL/bNQqRCSsOsREnVIn2dXpTQffTdRNNteUBnnPHj3fk6cN0FcUov9NWPROp1QWsxYZgD9DbRzLz6k8DqkqRDxQT4O0eQ==;1fEiLVvezPZY63HWvOodig=="
 ---

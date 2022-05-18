@@ -19,20 +19,73 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft AI for Accessibility Hackathon in APAC accelerates inclusive innovation"
-    excerpt: "Teams from Thailand, Singapore and Philippines are winners of the Microsoft AI for Accessibility (AI4A) Hackathon in APAC. In its third year, the AI4A Hackathon features teams who are deeply"
-    publishedDateTime: 2022-05-17T05:00:00Z
-    webUrl: "https://news.microsoft.com/en-my/2022/05/17/microsoft-ai-for-accessibility-hackathon-in-apac-accelerates-inclusive-innovation/"
+  - title: "Wayve and Microsoft partner to scale autonomous vehicles"
+    excerpt: "Machine learning at scale is 90% an engineering challenge ... The company has been working with Microsoft and its Azure cloud since 2020. Since then, the team has seen an absolute acceleration ..."
+    publishedDateTime: 2022-05-18T16:58:00Z
+    webUrl: "https://venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/"
+    ampWebUrl: "https://venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 51
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/430/2022/05/Picture1.jpg"
-        width: 1320
-        height: 775
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1212935826.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 533
         isCached: true
+  - title: "American Airlines teams up with Microsoft to use Azure"
+    excerpt: "Through this partnership, American Airlines will now use Microsoft Azure as the main cloud platform where it will ... where it leveraged the Microsoft Cloud and its AI capabilities to update its technology infrastructure. The partnership places American ..."
+    publishedDateTime: 2022-05-18T14:30:00Z
+    webUrl: "https://www.onmsft.com/news/american-airlines-patners-with-microsoft"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 69
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2022/05/Untitled-design-2022-05-18T172556.648.jpg"
+        width: 1024
+        height: 765
+        isCached: true
+  - title: "Build Back Better: Business Solutions with Azure and Microsoft 365"
+    excerpt: "How to build innovative solutions that solve real business problems using Azure and Microsoft 365. No code, low code and pro code."
+    publishedDateTime: 2022-05-18T08:11:00Z
+    webUrl: "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/"
+    type: article
+    provider:
+      name: SharePoint
+      domain: sharepointeurope.com
+    quality: 54
+    images:
+      - url: "https://www.sharepointeurope.com/wp-content/uploads/speakers/2016/03/Bill-Ayers-2.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "New Relic announces integration and multi-year partnership with Microsoft Azure"
+    excerpt: "New Relic <> partners with Microsoft to help enterprises accelerate cloud migration and multi-cloud initiatives"
+    publishedDateTime: 2022-05-18T16:08:00Z
+    webUrl: "https://seekingalpha.com/news/3840520-new-relic-announces-integration-and-multi-year-partnership-with-microsoft-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 50
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Microsoft launches Open Data for Society"
+    excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
+    publishedDateTime: 2022-05-16T12:42:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-launches-open-data-for-society/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "3M+lxxVwmDKMkpwl4qUZF2YfNQaA3zyk+Ick56O4hI6drhmQSyGFOO1wNCfHMy1KnPhUjzy6IgGyXcCKhiRH3xSpQc4/eC8DTsUP8BcupjoHuRhRjN6JwC0x1dKiBe/uXjJqcxEol3eOMLDGDvnyqB8rtRdU88gu6kEQ0Qi+KVmPv5p6EqMMTj5g2bPwmWUn4Hfxl27gL9EfrQsa7XdSKFw6GCqwVi12XKveCC9TjgkM/+LHJmFqzo8efKXmMOpLTe5GXqHkZbf6yYARYhILiBY3GbgoZo23mwgdkNf/pPjx0vsvhVi6DneWBOrX2bEzBg8bylSLNLPBI87lXGObkX7M7a8DuR/AU3NM+RwVQKqebILzSmcn1tnO/9+wXWJn6Eh6UrSEDEs78qCBY2aJ/FKiP8/6iNbNVTeyiaZUSN59GYvr2kXj6TWzAhmYL64b+zrHTsQA2468mhBIqoL4EgvlhFa+TrVI0facmkhf21R/GD7/saZKdNE5AVmPknFASei6YvQRqVdtzC43D4m03g==;nHLqRG8WGjwx5NHr9FaABw=="
 ---

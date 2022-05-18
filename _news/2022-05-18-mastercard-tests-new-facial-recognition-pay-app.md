@@ -9,7 +9,7 @@ ampWebUrl: "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-fa
 cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -36,6 +36,22 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 49
+  - title: "Mastercard launches facial-recognition system with Brazil pilot"
+    excerpt: "Mastercard has begun to test a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their face using a retailer’s smartphone app and assign their likeness to a bank card stored on file."
+    publishedDateTime: 2022-05-18T16:43:00Z
+    webUrl: "https://www.businesslive.co.za/bloomberg/news/2022-05-18-mastercard-launches-facial-recognition-system-with-brazil-pilot/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2022-05-18-mastercard-launches-facial-recognition-system-with-brazil-pilot/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-05-18-mastercard-launches-facial-recognition-system-with-brazil-pilot/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/PSDso2yuUoiNSsATUQkixcCZ89bmLrlWxPaPJmuAXSlvKfpPMLQx9tXRgM8iUKLCOGR4BiES_A0PdHz2OZ37mrPz5GZbGLxxLN_WXMWmz_ZutIM=s512"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Mastercard pilots biometric payments, using facial recognition"
     excerpt: "Mastercard has begun to trial a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their face using a retailer’s smartphone app and assign their likeness to a bank card stored on file."
     publishedDateTime: 2022-05-17T16:46:00Z
@@ -60,6 +76,6 @@ related:
       domain: cnbc.com
     quality: 34
 
-secured: "GpScFX2NLILzgG5enAn1Scwur8Qw4sh7PzoE0etJB9JWthLz3NLaGb5L9NIJSlj8H1Lh7yVdeJVfNbC0elj+/N8GPwy4Ix6qQMjX3Ara2mcO29GPi6hZt55GWTtFUAlAqpZBS2pSyjEg7kExBk3gXIPsm0s9guGPNb1izOhLDyFHzI+Obphx3UNBbMxwBwJu3fJ0y/nL+uosIwfiRTtT1iGGQ5ZBiMBx5aOQwL6F9G7o2rFbgLqNjpoNgvBR/ICnXT/ChydhLsW8d2U+VNDwrT4X7evJCdbYLUIu+m/kAnLsFbyZp+pnpNNfOjojB9BNnZKq0yJI+JSOGZNxo9j1/MiIkvHXKdymukDkhtLPTNs=;SenMO7pCE26IAYk11VRWVQ=="
+secured: "Pv0n/TLCxGZ0McxWWKlCZQDtZscKnM1XMu3Tgur2ExQ1q7ej0cLbou3KOnHVQor6zcRDi2dRk5h4HlCqvw3o29t73bSzgKBey7WrHl2+bAVruK9caqyIRggc/snPwwtxzEgneyaJ6TE4aBlD1+QzdwUGN6G3igzzMG7DXwllkAnOFzHsEmf6aFUuTnoc3H3UkGYkIRo+4kDA7xUFfKJZA9BcxwuEeQNxErs+4A5QawMtT9TMRLoDLp/vs+xnODCLfGE8r+ql110FcZlhSVpSZJq+0vbFoT3wLtjvLGGyy/0WJ1sWXwG0DqPlBh2bcIjluMCkSr/EVQv0IaB0LhBlUMO/pA1kOUeTcEUsEDtmCma4y5Gqn5mcHhue0mQsudKi8UV26VPt7Ey6Jj288ll7s2TBgUyA/BFeaVGhkarL/mw2YNwPvllL7Aijt4Aark+pucMPjWWEFtpT7/6u4Oo3+WsuzizZrgF3igusubKqYPMcxiPzyB6XMBKbpSlDk5iIFvf4++RyMauq05ocIFaRyA==;DrhXR3LKPCi01+z1ft86hA=="
 ---
 

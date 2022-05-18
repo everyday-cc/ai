@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Industrial Robotics Market Size 2022-27 Share, Growth, Report and Forecast | IMARC Group"
-    excerpt: "\"Industrial Robotics Market Research Report\"The global industrial robotics market reached a value of US$ XX Billion in 2021. Looking forward, IMARC Group"
-    publishedDateTime: 2022-05-18T15:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-size-2022-27-share-growth-report-and-forecast-imarc-group"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 45
-    images:
-      - url: "https://www.abnewswire.com/uploads/1652852192.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Computer Vision Market Size, Demand, Dynamics, Business Growth And 2031 Forecasts"
     excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on the Computer Vision Market that emphasizes the latest trends, key opportunities, drivers, and ..."
     publishedDateTime: 2022-05-17T06:38:00Z
@@ -160,6 +146,15 @@ related:
         width: 455
         height: 250
         isCached: true
+  - title: "Industrial Robotics Market Size 2022-27 Share, Growth, Report and Forecast | IMARC Group"
+    excerpt: "According to the latest industrial robotics market report by IMARC Group, titled \"Global Industrial Robotics Market Size, Share, Industry Trends, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-05-18T15:36:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-industrial-robotics-market-size-2022-27-share-growth-report-and-forecast-imarc-group"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 25
   - title: "Yogurt Market 2022 Key Methods, Historical Analysis, Application, Technology, Trends And Opportunities 2032"
     excerpt: "From 2022 to 2032, the global yoghurt market is expected to rise at a CAGR of 4.8%, from USD 89.9 Mn in the year 2022 to USD 143.7 Mn in the year 2032."
     publishedDateTime: 2022-05-17T03:58:00Z

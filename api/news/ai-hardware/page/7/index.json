@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-16-growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth.md",
+      "title": "Growing R&D of AI & VR Platforms facilitate Global Graphic Processing Units (GPU) Market Growth",
+      "excerpt": "At the same time, there is a huge need for VR and AI platforms for efficient gaming purposes. This has led to companies launching GPU innovations in the market. For instance, NVidia introduced its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25653255",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25653255",
+      "publishedDateTime": "2022-02-15T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-breaking-ai-stock-news-gbt-otcpk-gtch-seeks-to-develop-an-ai-empowered-technology-for-automatic-compaction-of-integrated-circuit-layout.md",
       "title": "Breaking AI Stock News: GBT (OTCPK: $GTCH) Seeks to Develop an AI Empowered Technology for Automatic Compaction of Integrated Circuit Layout Data IPs",
       "excerpt": "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\"), is developing an AI empowered technology for automatic compaction of integrated circuit (IC) layout blocks. As modern ICs are ever growing in complexity and size there is a high demand for design automation to reduce silicon area and increase its yield.",
@@ -1326,50 +1369,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-most-read-articles-eus-chips-act-honeybee-robotics-5g.md",
-      "title": "Most Read articles – EU’s Chips Act, Honeybee Robotics, 5G",
-      "excerpt": "Blue Origin buying Honeybee Robotics and the EU’s Chips Act… 5. NEC buys Blue Danube NEC has bought Blue Danube Systems, a U.S.-based provider of CBRS/4G/5G RAN products and AI/ML-based software solutions that help mobile operators address 5G network ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-articles-eus-chips-act-honeybee-robotics-5g-2022-02/",
-      "originalUrl": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-articles-eus-chips-act-honeybee-robotics-5g-2022-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/sites/5/2013/04/7-micro-gan-6-in-wafer-with-high-voltage-power-transitors.jpg",
-          "width": 534,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-04T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

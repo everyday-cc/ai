@@ -2,6 +2,204 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2022-02-08-your-pocket-sized-ai-career-coach-is-here-as-preston-based-rocky-robots-brings-in-300000-for-motivation-lessons.md",
+      "title": "Your pocket-sized AI career coach is here as Preston-based Rocky Robots brings in £300,000 for motivation lessons",
+      "excerpt": "Digital coaching startup designed to guide and motivate young professionals Rocky Robots has raised £300,000 pre-seed investment from Jenson Funding Partners alongside other investors. The company is the developer of Rocky.AI, an app with an interactive ...",
+      "sourceUrl": null,
+      "webUrl": "https://tech.eu/2022/02/08/your-pocket-sized-ai-career-coach-is-here-as-rocky-robots-raises-ps300000",
+      "originalUrl": "https://tech.eu/2022/02/08/your-pocket-sized-ai-career-coach-is-here-as-rocky-robots-raises-ps300000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.tech.eu/uploads/2022/02/untitled-design-98-497.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T01:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech.eu",
+        "domain": "tech.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-data-monetization-market-global-industry-analysis-size-share-growth-trends-and-forecast.md",
+      "title": "Data Monetization Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast",
+      "excerpt": "For this, GE Healthcare's partnership with Amazon Web Services (AWS), which provides the ability to deploy machine learning solutions at scale through the Amazon SageMaker machine learning platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-monetization-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-monetization-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-apple-buys-startup-that-makes-music-with-artificial-intelligence.md",
+      "title": "Apple Buys Startup That Makes Music With Artificial Intelligence",
+      "excerpt": "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be used across its slate of audio offerings. The purchase of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-02-07/apple-buys-startup-that-makes-music-with-artificial-intelligence",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-02-07/apple-buys-startup-that-makes-music-with-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5lliAQo0yVI/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T23:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-gpu-as-a-service-market-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2027.md",
+      "title": "GPU as a Service Market Growth, Recent Trends, Industry Analysis, Outlook Insights, Share and Forecasts Report 2027",
+      "excerpt": "Industrial Internet of Things (IIoT), and AI, as these operations require high-performance GPUs to speed up the process. The GPU as a Service market is expected to showcase significant expansion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2027-2022-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2027-2022-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T20:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-google-subsidiary-deepmind-goes-retro-to-push-ai-forward.md",
       "title": "Google Subsidiary DeepMind Goes RETRO to Push AI Forward",
       "excerpt": "have boosted the branch of artificial intelligence called natural language processing (NLP). But while the applications for NLP algorithms are myriad, they operate on text data, which makes them complex and expensive and often limits their usefulness.",
@@ -945,186 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-alphaic-starts-sampling-gluon-chip-for-edge-ai.md",
-      "title": "AlphaIC starts sampling Gluon chip for edge AI",
-      "excerpt": "Register here. Start-up AlphaIC yesterday announced that it has begun sampling its Gluon coprocessor for edge AI inference to customers. AlphaIC claims the chip delivers competitive performance ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
-      "originalUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
-      "publishedDateTime": "2022-02-07T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-alphaics-sampling-gluon-chip-for-edge-ai.md",
-      "title": "AlphaICs sampling Gluon chip for edge AI",
-      "excerpt": "Register here. Start-up AlphaICs yesterday announced that it has begun sampling its Gluon coprocessor for edge AI inference to customers. AlphaICs claims the chip delivers competitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
-      "originalUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
-      "publishedDateTime": "2022-02-07T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-survey-of-ai-teams-points-to-promise-and-peril-ahead.md",
-      "title": "Survey Of AI Teams Points To Promise And Peril Ahead",
-      "excerpt": "The AI revolution is here. Machine learning (ML) and artificial intelligence are used in virtually every industry today to revolutionize everything from reducing food waste to achieving better health outcomes. In all, IDC forecasts that global enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/07/survey-of-ai-teams-points-to-promise-and-peril-ahead/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/07/survey-of-ai-teams-points-to-promise-and-peril-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62014e76e65392281db672f0/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/07/survey-of-ai-teams-points-to-promise-and-peril-ahead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/02/07/survey-of-ai-teams-points-to-promise-and-peril-ahead/amp/",
-      "publishedDateTime": "2022-02-07T09:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-why-hyper-growth-in-ai-will-lift-upstart.md",
-      "title": "Why Hyper-Growth in AI Will Lift Upstart",
-      "excerpt": "Upstart (NASDAQ:UPST) describes itself as an artificial intelligence lending platform that partners with financial institutions. When readers take away the AI and fintech buzz words, it has a business that is easy to understand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-hyper-growth-in-ai-will-lift-upstart",
-      "originalUrl": "https://www.nasdaq.com/articles/why-hyper-growth-in-ai-will-lift-upstart",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/why-hyper-growth-in-ai-will-lift-upstart?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-hyper-growth-in-ai-will-lift-upstart?amp",
-      "publishedDateTime": "2022-02-07T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

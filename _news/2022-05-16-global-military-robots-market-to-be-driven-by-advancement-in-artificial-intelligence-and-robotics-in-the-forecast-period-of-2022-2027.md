@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global Military Robots Market to be Driven by the Advancement in Artificial Intelligence and Robotics in the Forecast Period of 2022-2027"
+    excerpt: "The new report by Expert Market Research titled, ‘Global Military Robots Market Size, Share, Price, Trends, Growth, Report and Forecast 2022-2027’, gives an in-depth analysis of the global military robots market,"
+    publishedDateTime: 2022-05-18T17:07:00Z
+    webUrl: "https://xaralite.com/95222/business/global-military-robots-market-to-be-driven-by-the-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027/"
+    type: article
+    provider:
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 18
   - title: "The Artificial Intelligence Market Size 2022, Projected Revenue Figures, Growth Rate Throughout The Forecast Period 2031"
     excerpt: "A report on  The Artificial Intelligence market  was added by Kenneth Research which covers the market size and growth over the f"
     publishedDateTime: 2022-05-18T06:15:00Z

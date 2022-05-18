@@ -7,7 +7,7 @@ originalUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azu
 webUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/"
 type: article
 quality: 69
-heat: 102
+heat: 82
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "American Airlines teams up with Microsoft to use Azure"
-    excerpt: "Through this partnership, American Airlines will now use Microsoft Azure as the main cloud platform where it will ... where it leveraged the Microsoft Cloud and its AI capabilities to update its technology infrastructure. The partnership places American ..."
-    publishedDateTime: 2022-05-18T14:30:00Z
-    webUrl: "https://www.onmsft.com/news/american-airlines-patners-with-microsoft"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 69
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/05/Untitled-design-2022-05-18T172556.648.jpg"
-        width: 1024
-        height: 765
-        isCached: true
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
     excerpt: "Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a204%"
     publishedDateTime: 2022-05-17T14:44:00Z
@@ -53,15 +39,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Microsoft launches Open Data for Society"
-    excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
-    publishedDateTime: 2022-05-16T12:42:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-launches-open-data-for-society/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "AKkCNie3C6My1VBKWCipLUhOaGxwc8ikI3jP6PYnDS3p2ubY4rNyMI4whpWFAqBtv+zxATyQ9UNtOelfFcvVmAqdN3bQqrb3/uOg400MKCwOPbcX+9gg3UITzCuCN2Uu86UyGhHsgYV1yrt/hn+Q9eTeWS+7wLurSRBgygwmeN1QGUo02kThcWmyr+e0uZu10GFGDrw4wklHXRAz+NiB5tU2808t7ycwrnx9pEoql8RawUwAenwBPgwytPd8q0rXEaDPcIcHzPdaVtHk1tIvteMC8TJswAmK00HOHbnY8yOPR4lUCJpimafIh2HmAFCMI3fieGQlz4ozYVgeJgrDmVoh/u+Xl6Y0M+uDIJ6i9pk=;HtV9Su/aEr7iJ3FkF6Sysg=="
 ---

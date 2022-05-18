@@ -3,8 +3,8 @@ category: news
 title: "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data"
 excerpt: "The idea of synthetic data in enterprises has been around for decades, but it’s picking up steam as companies begin making more use of artificial intelligence and have greater need for faster access to better data sets."
 publishedDateTime: 2022-05-17T09:00:00Z
-originalUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_featst_pos3"
-webUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_featst_pos3"
+originalUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4"
+webUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4"
 ampWebUrl: "https://www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 640
         isCached: true
 
-secured: "bxvpLwsXZ2Zk5JtW4TtQx89yLI3Nx+EQkHdIwmiwQdgNaZjRy18ahcNNsHnnkk3JkvowWw0C7zoLPv7gEBNJgJOU8lfUtPge68UzYyaX3PYM93PA9X6r9daKWrHiLvBc6MgZ7w5xwpkMe3GqnwGuG9e9HRCyC1QcswsgyWpZtBX0bX0gHrSRMBMxXHrNi+tRqQuo53Zx71R7glg7ppDTLmOGH6AZeQufDIucVCl9lIgr8FqyFNRcY3NKAOWdIQBRwki1U1hLBHNXl/CMZgtG8mGDMw5z9cJXFwfu5DrLYERGa6hDpghtOP23DKf88QmPyJHd0GSBsBGDySXnJb80tByNd5Plp6VeFcNWwZCAB+vv8fevsYUM3dPLo5kab3F+Ybsj0tE5F+jKxh2BCXfVXDeHJZTD6OGEIGQE4OCBAwU/ycwT9gcIz/lX+mXF8rEQCWglTsbZNBsFpp9SrFjdLWp6mtodaYEVOTaGnbePzr/eb540P8sExTPwOx1un1hkpl0n0HA83eeC9J4egoia3A==;yMUZW2sLkp97xolvZt1DLA=="
+secured: "oa9EmGe4Ho0esvn8Pe8AmhGqrAA/8qgIL0iZ3cLV25KhG3MjBUA7Qi07+QJLxW5qUuCxSy/GCfMYCrUmYCDkELRq+APMzjEHG7BhGyhsh/tsshpC1dcP1/lV3M0k8rXL0pBq+7Z9dYS6zz8MXFxgYNkpP2vq23Z0YYZd/Yx1YLSSdUShdK+FiODGtacyHKTiXkHlXsSiI89dSu9zIX/rzcfI+ImDQp+F3bc/pOq7STUxRHQar/W4aeC5havpo7nV0+ySMFkjpnlIpIyfdaknhvj+MZJIywb+e+BJEd/P/nFq3StTfC747Gm8yfW2ajnJcIUedEbFmYzMAtJpnnaSkKn1MbP9t746SGcuIaMnB9I=;c5h6dKcdPy4AVJ6BkuAR6Q=="
 ---
 

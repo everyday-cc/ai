@@ -2,6 +2,206 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-19-machine-learning-framework-pytorch-enabling-gpu-accelerated-training-on-apple-silicon-macs.md",
+      "title": "Machine Learning Framework PyTorch Enabling GPU-Accelerated Training on Apple Silicon Macs",
+      "excerpt": "In collaboration with the Metal engineering team at Apple, PyTorch today announced that its open source machine learning framework will soon support GPU-accelerated model training on Apple silicon Macs powered by M1, M1 Pro, or M1 Max chips. Until now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
+      "originalUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/j1xq0VbOUNTowCRcKQkyv9DRnM0=/2000x/article-new/2022/05/pytorch.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-how-does-ai-affect-small-business-accounting.md",
+      "title": "How Does AI Affect Small Business Accounting?",
+      "excerpt": "Accounting software companies have invested millions into AI to make small business accounting easier. Here are five tasks AI accounting software can handle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/the-ascent/small-business/accounting/articles/ai-accounting/",
+      "originalUrl": "https://www.fool.com/the-ascent/small-business/accounting/articles/ai-accounting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/affiliates/images/research-artsalary-surprise_v621.2e16d0ba.fill-1080x1080.jpg",
+          "width": 1068,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-wayve-and-microsoft-partner-to-scale-autonomous-vehicles.md",
+      "title": "Wayve and Microsoft partner to scale autonomous vehicles",
+      "excerpt": "Machine learning at scale is 90% an engineering challenge ... The company has been working with Microsoft and its Azure cloud since 2020. Since then, the team has seen an absolute acceleration ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/",
+      "originalUrl": "https://venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1212935826.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/amp/",
+      "publishedDateTime": "2022-05-18T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet.md",
+      "title": "Too Little Too Late: Apple Reverses Remote Work Policy After Machine Learning Head Decamps to Alphabet",
+      "excerpt": "That job switch marks a major blow for Apple, a company that’s struggled to appease workers at odds with its return to work strategy. Goodfellow, who’s the most senior member known to have jumped ship over remote work so far,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742",
+      "originalUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1df6fad1a744c6167d22b8a2880b1d68.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp",
+      "publishedDateTime": "2022-05-18T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-aws-and-temenos-team-up-for-speedier-banking.md",
       "title": "AWS and Temenos team up for speedier banking",
       "excerpt": "Amazon Web Services (AWS) has joined with cloud banking software provider ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and ...",
@@ -62,7 +262,7 @@
       "originalUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -105,7 +305,7 @@
       "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12964",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -482,49 +682,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-18-build-back-better-business-solutions-with-azure-and-microsoft-365.md",
-      "title": "Build Back Better: Business Solutions with Azure and Microsoft 365",
-      "excerpt": "How to build innovative solutions that solve real business problems using Azure and Microsoft 365. No code, low code and pro code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/",
-      "originalUrl": "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sharepointeurope.com/wp-content/uploads/speakers/2016/03/Bill-Ayers-2.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SharePoint",
-        "domain": "sharepointeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-18-payments-fintech-banking-circle-maintains-steady-growth-trajectory.md",
       "title": "Payments Fintech Banking Circle Maintains Steady Growth Trajectory",
       "excerpt": "We have also sustained investment in the use of AI to enhance the effectiveness of the AML processes ... online lending, and other forms of Fintech. Announcing the Launch of the ConvoyFiCrowdfunding Website ConvoyFi is theFirst Decentralized ...",
@@ -533,7 +690,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -746,6 +903,57 @@
         "AI",
         "AI in Autos",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups.md",
+      "title": "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups",
+      "excerpt": "\"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100. This year's cohort spans 13 industries, working on everything ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1031469975",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1031469975",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -990,213 +1198,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform.md",
-      "title": "Forma AI poised to grow AI-supported sales compensation management platform",
-      "excerpt": "Forma's automated workflows unite the process, enabling sales compensation resources to focus on incentive design — not formula building.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/",
-      "originalUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-sales_performance.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 1659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/",
-      "publishedDateTime": "2022-05-17T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online.md",
-      "title": "Cybercrime Is Evolving: Artificial Intelligence Can Help Improve Consumer Safety Online",
-      "excerpt": "This is where artificial intelligence comes in. By harnessing the power of artificial intelligence, we can make the fight against cybercrime more effective and help protect consumers from the ever-growing threat of online crime. I had the pleasure of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62829735da902be673e6f1dc/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/amp/",
-      "publishedDateTime": "2022-05-17T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-how-ai-adoption-can-impact-the-insurance-industry.md",
-      "title": "How AI Adoption Can Impact The Insurance Industry",
-      "excerpt": "But today, he is a strong proponent of artificial intelligence (AI). At a TED talk in 2017, Kasparov said, “Machines have instructions; we have a purpose. We will need intelligent machines to help us turn our grandest dreams into reality.” AI is all ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//614e19843adfdba049044453/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/",
-      "publishedDateTime": "2022-05-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-widely-available-ai-could-have-deadly-consequences.md",
-      "title": "Widely Available AI Could Have Deadly Consequences",
-      "excerpt": "In September 2021, scientists Sean Ekins and Fabio Urbina were working on an experiment they had named the “Dr. Evil project.” The Swiss government’s Spiez laboratory had asked them to find out what would happen if their AI drug discovery platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/",
-      "originalUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6282dd0483768a9d8a5c8f82/master/pass/AI-Drug-Discovery-Molecules-Business-455668503.jpg",
-          "width": 2400,
-          "height": 1769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-dr-evil-drug-discovery/amp",
-      "publishedDateTime": "2022-05-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
       ]
     }
   ],

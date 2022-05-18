@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2022-05-04-when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi.md",
-      "title": "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\"",
-      "excerpt": "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented ...",
+      "title": "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION “META-aivi”",
+      "excerpt": "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and enhance ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi-1031420590",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi-1031420590",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1799549/META_aivi_empowers_frontline_workers_wearable_AI_solutions.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,21 +26,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T07:20:00-07:00",
+      "publishedDateTime": "2022-05-04T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

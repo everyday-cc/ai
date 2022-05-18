@@ -15,8 +15,8 @@ provider:
   domain: digitaljournal.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://www.abnewswire.com/uploads/1652849737.png"
@@ -63,6 +63,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "4xGvIKjMOP1XWCpUvb2BWfDNDeqyjLWW/697MGTY5Hwg1+TwvMrGE7H70bnhD1BcfovY/shOElnmYT8DNCwNeUDsK/D5qAFXOnPEPJuniQQmDZIjuGCbdxhowCZ62aEGbUwAJr/eKo+JhW+pQXA0FoaJwzl1gR9nHTsNcope9agYpY/aoX6gkTOWe4NYFlRBx6HiOh85OQ9g0Z+lMlSAOl+xUy1D0c4JiPw5lR2VfEGB3/TNB0ZNxEGp5OD5AgyLak7YsyKjk7O/CZooa1W7gQ6vJhkOPclCtzgikUX8LVZsZ/KgdyoOfou5aMi5v6iijnKysfgRUFe7kyz9kNz5iWXdq2GMz03W/d08gw2oepI=;DFWlEIbqjLj44dvzc48f4Q=="
+secured: "IV7GI7I5lGlIYuoiTulpN3w/DTcZqnuXZAL6J+eTx//isEntNM+gOx94org5n0YTlN/S3CZCJIrckSHSFQZcoDuZZ4jmIeDP0TPgFxzpTVEw+IhaEKGjMPrgbTUhaByx1InLf/Px9FAOeE9LLF5gjMjzgSEBAcEQMR4EeVpjBtK6OjHCTr9m7YtVaMVrst8dozkl7Nwv2q33kI/+qCvplm80cRNI5csHzbFLLNC8XIeyRfxEfjFBLOKQLzRmDh6oMgmMas/YEDoZKxjo0UICLOaDxQSGbQY9uZ9an4qLPUG/IiltJl3S+kRtisPBXHmPNXnQbPbV++UabY/GtnQOGWK9NJDWtG9eWtgauBvPFGU=;VaqQarnjRDEEMeKnpbT43A=="
 ---
 
