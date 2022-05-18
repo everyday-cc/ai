@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T18:20:00Z
 originalUrl: "https://www.outsourcing-pharma.com/Article/2022/05/18/artificial-intelligence-stands-to-transform-precision-medicine"
 webUrl: "https://www.outsourcing-pharma.com/Article/2022/05/18/artificial-intelligence-stands-to-transform-precision-medicine"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: Outsourcing-pharma
@@ -14,7 +17,14 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
-secured: "BwUpkP21iOEh8No1TZbNu+XIxDGGrEPAx1CgWl4G1rUIiVv/h3o7UDrUAwbQxN/dHgU5QEZ20PFfn7zaScdz/KpxJ/XeaKiV54n5JNvdZNbho425+bKTDyKwV4uYCYKFAY8bvbJmt27F4bwd89K5ZBZYsGd7Z2YVqNZLRb5hiLe7pKO65366MzRu2HIWCrVM45u4s+UqGoOGw7u0kkieLluPJU/F5WbRwR6X+FFEZhkdmK4LQvp50O6RhkBmxOSlH2JdGPNklNXmqwp+NRlY/xRMnlA+RJteEaUdQtj2YLQKiT28QFREtrSBySR/yCbQyX5gTv1Mnx5thl9+9Zzsel7WH3okxV76WRmcdIzQEyKoFeptWI12VvYPQ1YyZNbXAvvcnvWjGEUFoqXBnG4BscODDE1eL9qWNXUZvRAm7YeIhf25U7HpHQ2G9b+oWDme1YldZ+cO7Hdg8ICkDH88AmizZKIwxQ31vB8v7ebqR0ssHikryQ8IfX9RLI/eEBzCmE/67TMEkWEmDcS8zMq3bg==;eWgiPm6bMJYroRpmTY9aRA=="
+images:
+  - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/hot-topics/patient-centricity/artificial-intelligence-stands-to-transform-precision-medicine/15428326-1-eng-GB/Artificial-intelligence-stands-to-transform-precision-medicine.jpg"
+    width: 749
+    height: 435
+    isCached: true
+
+secured: "wPu/jN6/d0RybsxSlI2bB4AjdciLnhnzwYYusOIhZSS44ZEgbSbGrN5pp2y4JjcJ5puZ/petxIaHl0H5rOnBXTfzJDZ3CNtH8TjtKwu8RZtOMAXFk2hmqmmimainZQ44Mu7K+w0/UR6wqQknwImtmUztKwororvy0iVNgiyZiOXYrc4xbDq2hTSVOPoWny5NEfnz2qmDx0Ldut9ilCRt9aoZfFMy5T1rkWT9KkmKhVBlF+R3zgVIKsDKVu5SdvFvRHtbYu/b0qBekJg/Oak7++WZhi6Fg28M6+LRjJjHgQr49V7TX29LM2G4g0eJ1MSdZWLTyCq+zag0w8SXOjcB81+7qaZL0jYXI5UMbtxIwCc=;zNrqm8hVK0enj9g2f/viWw=="
 ---
 

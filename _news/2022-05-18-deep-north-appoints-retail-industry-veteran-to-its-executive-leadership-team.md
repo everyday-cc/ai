@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T13:49:00Z
 originalUrl: "https://fox4kc.com/business/press-releases/cision/20220518SF59474/deep-north-appoints-retail-industry-veteran-to-its-executive-leadership-team/"
 webUrl: "https://fox4kc.com/business/press-releases/cision/20220518SF59474/deep-north-appoints-retail-industry-veteran-to-its-executive-leadership-team/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: FOX4 Kansas City

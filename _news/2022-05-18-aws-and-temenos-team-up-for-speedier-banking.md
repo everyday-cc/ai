@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AWS and Temenos team up for speedier banking"
-excerpt: "Amazon Web Services (AWS) has joined with cloud banking software provider ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and ..."
-publishedDateTime: 2022-05-18T15:42:00Z
-originalUrl: "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking"
-webUrl: "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking"
+excerpt: "Temenos also claimed its solutions help banks reduce their carbon footprint and support them in achieving their ESG goals compared to on-premises deployments. Cloud computing is s"
+publishedDateTime: 2022-05-18T14:42:00Z
+originalUrl: "https://www.techradar.com/au/news/aws-and-temenos-team-up-for-speedier-banking"
+webUrl: "https://www.techradar.com/au/news/aws-and-temenos-team-up-for-speedier-banking"
 type: article
 quality: 69
 heat: 89
@@ -53,6 +53,6 @@ related:
       domain: ibsintelligence.com
     quality: 19
 
-secured: "BHTPJcDzOOzuisylWvblvrW512GWRwozuXYBK9vsozI0crD2zZ9++P3EUWqaw/FO2S3KXo6YMNMGuV2pLHVM1WOQOyM7Sgctbw+CNVKJB2oA6m8S5oTGF4srqqR6WXGbHGKFL5KPSlEVHn+uISj79K+kBINTCXvEFNnGRuytBdr3Znm/4Ct1qrnMAZvRBjN3thdpgt6utV+wJI6NX1eMUASn7+nvo7DEubtYrCIBpMsX0nsUgMQHDlZ1B/4Xnzayj+RPfvUSA+7YWU4i/Hx1s3v0j1+uNOBk260qUB2BHcsOH6JCPUEmrhKF1x5/IXNTEdTbZdsur54s5+ye4uP/lflcNlIPQ1QauXyqYqJoOpO0Gvr6Rs0otWKZL2Q4fTQN3YxWBr+oKWn6IfsXVpGgC8Pdkp92DEt+oIhITSiQuOa+udOBpghEh8LvcrPrdAFBZz2PtTjkXWhNxVgv0fnHkxOiwzKjxoD8o8+l4mhJMjurrkjwjLpvIof0wi6X+xNqCIeFs/m6zONtyp+/BVzwOg==;6ms+zcWxk4LiAVDjT2qXWA=="
+secured: "dojLIREwehEtQNPgt8rtVr+SOHr+B8161wWIMos8ApW3ts37fz43PARwfgtUqQwAg276D2cqSrwxFcjlvb+xlTJPr9T91QQNG2WmGPHSQmDCWW/j7VLWHb3LYUw9KEIrRtsaAFKjg6zIAF/Pac3WpkA9VSfB1Gh+Jkj+QcTyanx/NIlHr0zALbj6acodX1H5c/1nPIvFHnhK22m60CSk6jEqQevGfd8F4dxXdoh2fnPN0oOSuXsd3FLEqpKwdReieLYxBHThy5qG3MAnfbJtlZ7d9VGYfDVa/3fa6MsTpMdy0BzuqrcLLhH7+FHqgtn5jB+s8Md2uiXmalPxiOwZWservQet0exikdEtoae+TVY=;16Xe6gRLJi5F5/8QJSBcOQ=="
 ---
 

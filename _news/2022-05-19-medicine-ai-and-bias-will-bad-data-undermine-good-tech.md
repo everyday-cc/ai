@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T19:34:00Z
 originalUrl: "https://www.webmd.com/a-to-z-guides/news/20220518/medicine-ai-and-bias-will-bad-data-undermine-good-tech"
 webUrl: "https://www.webmd.com/a-to-z-guides/news/20220518/medicine-ai-and-bias-will-bad-data-undermine-good-tech"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: WebMD

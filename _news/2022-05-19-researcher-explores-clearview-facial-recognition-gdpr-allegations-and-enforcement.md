@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T19:30:00Z
 originalUrl: "https://www.biometricupdate.com/202205/researcher-explores-clearview-facial-recognition-gdpr-allegations-and-enforcement"
 webUrl: "https://www.biometricupdate.com/202205/researcher-explores-clearview-facial-recognition-gdpr-allegations-and-enforcement"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Biometric Companies

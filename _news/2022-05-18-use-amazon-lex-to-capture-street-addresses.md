@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T18:18:43Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-lex-to-capture-street-addresses/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-lex-to-capture-street-addresses/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: AWS

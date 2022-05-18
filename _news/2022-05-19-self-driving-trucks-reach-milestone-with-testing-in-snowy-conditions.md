@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T19:18:00Z
 originalUrl: "https://landline.media/self-driving-trucks-reach-milestone-with-testing-in-snowy-conditions/"
 webUrl: "https://landline.media/self-driving-trucks-reach-milestone-with-testing-in-snowy-conditions/"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: Land Line
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Inside a self-driving truck with Torc Robotics"
+    excerpt: "It’s the home of Torc Robotics, a company founded 17 years ago, that aims to increase trucking safety by developing automated self-driving technology. Torc Robotics has reached a mile marker on its journey toward fully autonomous Level 4 driving ..."
+    publishedDateTime: 2022-05-16T16:00:00Z
+    webUrl: "https://www.fleetequipmentmag.com/self-driving-truck-torc/"
+    type: article
+    provider:
+      name: Fleet Equipment Magazine
+      domain: fleetequipmentmag.com
+    quality: 36
 
 secured: "RAeVxg9e53NZVjZyiFiiZwolM2vgKo0ZoT7fe4+0IKmJZrpM2Z14/Afv9ZMRUT0Hgq5t4mxyBL5OyTRtorXzoqc6Ir1MyMQArqwKVe+ygLgFP2JcBCbSQNQtIM7PKEFowarVZ3JncKYnB7KLTDhPqaDZ7uFGRfvy8ePI4ZmnN48cDU/F1atZ1bk7HhXoTlc8uSz7cIKWpXRZw007lmICOzi3ugHdarbuBrUu90h88ToIegRjOeV08Qx4QstaytW+wLc8tHUkplV5NJOQIxasJ9CYyo4NNEDvIrzsYE+NBxxfqcMxqXlFHwvXqfQjD1Fo4o5g7GEt7LGsCNj0PZmD5822tzztTwi2ShvY+zuYsKFbtnYojlgf7+cXMhxVXmoIlMEcbBLjWUf2flLKTg3Uaof+kfI/Qx7EmhPzibVpt48yUBd8XidSwyonXOS+q0834hbaavnRX83yL+EmdGB0Sld9OwyKSRKER6s6z1SRfFsgAEXE/89Q3mTdYensY+Fk+5jpnP1uGJuuyNcoSJjPow==;wwyHLVdHXt24cpvpqwMSAg=="
 ---

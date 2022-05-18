@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://resources.mynewsdesk.com/image/upload/b_auto,c_pad,h_628,q_auto:good,w_1200/zw5lzkwistxsb3vme1ep.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Argo AI Expands to Austin and Miami in Search of More Challenges"
+    excerpt: "The self-driving car company has added two more cities to test its vehicles in environments that contain situations like jaywalkers to build its AI's intelligence."
+    publishedDateTime: 2022-05-18T21:22:00Z
+    webUrl: "https://www.designnews.com/automotive-engineering/argo-ai-expands-austin-and-miami-search-more-challenges"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 37
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/21A0280-3-1-scaled.jpg"
+        width: 1540
+        height: 800
         isCached: true
   - title: "Argo AI Launches Driverless Testing in Austin and Miami"
     excerpt: "Argo AI has officially begun operating its driverless test vehicles, with no human safety drivers, in both Miami and Austin."

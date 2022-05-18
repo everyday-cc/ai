@@ -2,22 +2,28 @@
 category: news
 title: "iTradeNetwork Introduces Machine Learning File Monitoring—A Fresh Take on a Foodservice Data Problem"
 excerpt: "TradeNetwork (ITN), the industry’s largest perishables network, proudly announces its new Machine Learning File Monitoring system for Spend Insights— a unique, automated way to provide foodservice operators with the most complete distributor data in the industry."
-publishedDateTime: 2022-05-18T16:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newsdirect-2022-5-18-itradenetwork-introduces-machine-learning-file-monitoringa-fresh-take-on-a-foodservice-data-problem"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newsdirect-2022-5-18-itradenetwork-introduces-machine-learning-file-monitoringa-fresh-take-on-a-foodservice-data-problem"
+publishedDateTime: 2022-05-18T16:05:00Z
+originalUrl: "https://apnews.com/press-release/NewsDirectCorporation/656072f513fa10e3aecf6c2984307b9f"
+webUrl: "https://apnews.com/press-release/NewsDirectCorporation/656072f513fa10e3aecf6c2984307b9f"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "LLgdmto0pI85qdrAMzUzPm1wK9ExwU65tLZo1TFCo9U/YmUZcCJRbp2C//dVaZAVGD36PgXVOZbKNQ4Sfo2AWEV4fGMA2/cKjCowogLTMGDJbZ8eFwoPO5IRb7/9083k4L8NOd8ds42na+lz52KZP3Awjdr0PvShYfo+4gLvS4O/NgNfZhzZQmodlEgyyNSHPOfgsXCdWmeneAjYuC+nFAE58b4Mb0eg8pUsmQuyA3cRETUfgVcnqDBptPuYK9ZqAfG1fqrQpOhfV8J2Lz+E0mfT+L47uUcdrvKMun6JoEegjPQN/GQFOxrnsZD8wAY0fzivCWWi+8Q1sxSLxiP2/lXIE4TkK2HDlx6v5dMwGWk=;/BF/bvLNVAP6djxoQkTQDQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "gjL18tBHK/g4vyfHqD1b+EvowccGol5yl5CG4HAvG9hre7Cnx44LNcCmafLlbnS/f5EM3vfvW0UvZQ4GJzk6hEM8M8fh0KIniO/O5kJhiPF5m5V47WKEtlPNMqZ0yaPKuV1H0SAOGZf1yLAV4w7tYk5tIFFm9V1BUQtUQhjAsSbyfwubXjh5WL5cMdhVxmQc9uP2SJmhuTfxeoau4+WLm0UMQe90/yTN7GJDHrMknDZEahzKX6WUZAFNzOloYBU37Dj2jJhZKuLwexxRI37sndZahxYOf6UUs38s16t8gXloR0GOTO+wIxzbleBpFmxZY0rOOqF6Ui9D1DMT2jS5zbCRq4ADlwgYvW02+6I8sH4=;HRqDGRqIihuCUh60Bv/qSw=="
 ---
 

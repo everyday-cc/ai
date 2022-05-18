@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T19:50:00Z
 originalUrl: "https://www.biometricupdate.com/202205/ai-industry-government-will-have-to-dig-deep-to-end-racial-bias-in-algorithms-brookings"
 webUrl: "https://www.biometricupdate.com/202205/ai-industry-government-will-have-to-dig-deep-to-end-racial-bias-in-algorithms-brookings"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Biometric Companies

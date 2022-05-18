@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T18:05:00Z
 originalUrl: "https://www.ksat.com/news/local/2022/05/18/kids-wanna-know-how-do-you-create-a-robot-how-does-artificial-intelligence-work/"
 webUrl: "https://www.ksat.com/news/local/2022/05/18/kids-wanna-know-how-do-you-create-a-robot-how-does-artificial-intelligence-work/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: KSAT

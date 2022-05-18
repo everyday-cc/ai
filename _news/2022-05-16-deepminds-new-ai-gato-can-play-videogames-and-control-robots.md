@@ -49,6 +49,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 36
+  - title: "Google's DeepMind says it is close to achieving 'human-level' artificial intelligence"
+    excerpt: "DeepMind, a British company owned by Google, may be on the verge of achieving human-level artificial intelligence (AI). Nando de Freitas, a research scientist at DeepMind and machine learning professor at Oxford University, has said 'the game is over' in ..."
+    publishedDateTime: 2022-05-18T18:54:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html?curator=upstract.com"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 29
 
 secured: "w4CZQg0WwFXcx6ahFelb8Ha/NM/x9fnfrYQDXUbyIQGl66cv4rShRuzjGAacD+s+J1VRGucnmcxkc+em+hrGED54FX+FednkdFuj+h4uMt+U7y1Lj5xxqP7MRxqgYaWUTnMQZkw/PCE1UpuKzRFoqlAtLEv+JWlDjQ0UGqgypMUSNeR5h9haJnTaNEDg/5Gqqk/e5ENkBJ2TcJXXSTZmFr4u8fwPCNXjLAA1F5BiflM7+fAjikbHlIIiMWe0oiu4Qu3eWpYvaSaZnR1pjCMLJbfYFgHoL0MhTcgTloEaB++eo5KsLIUGOse+M9KYzt7WlUVF1Cgfb7r9wM4wKGFLh44NmWMIs1KWp3cYn1J8+f4gMG0cfEbOyD/0oVlnwsqaET0OaqRfuRR5dPv7bRsdNWkSQGk+1o6vzoEX9gvVvTBqihXKoZ4RbaB5tHAel/TXCXFs/HIVCB4YCqd1v7ba9nZ/dUw/GKeZVWfCh2RfOtbjGl8ET4jNOG6TSFI61MrXvmvGzjVNnc5zGG4FIop1BQ==;Dhy4632zXMUHeM+QFZ4SNw=="
 ---

@@ -1,19 +1,28 @@
 ---
 category: news
 title: "First UK Clinical Trial of Argus Artificial Intelligence (AI) Gastrointestinal Software Begins"
-excerpt: "Schenectady, NY May 18, 2022 --(PR.com)-- EndoSoft, an innovative healthcare information technology and software development company, today announced the launch of the first pilot of Argus® gastrointestinal (GI) artificial intelligence (AI) software in ..."
-publishedDateTime: 2022-05-18T14:26:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/r27277837/first-uk-clinical-trial-of-argus-artificial-intelligence-ai-gastrointestinal-software-begins"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/r27277837/first-uk-clinical-trial-of-argus-artificial-intelligence-ai-gastrointestinal-software-begins"
+excerpt: "EndoSoft, an innovative healthcare information technology and software development company, today announced the launch of the first pilot of Argus® gastrointestinal (GI) artificial intelligence (AI) software in the United Kingdom."
+publishedDateTime: 2022-05-18T14:31:00Z
+originalUrl: "https://apnews.com/press-release/prcom/technology-health-clinical-trials-artificial-intelligence-b49d13cded62ad33fb6fbe69707976b8"
+webUrl: "https://apnews.com/press-release/prcom/technology-health-clinical-trials-artificial-intelligence-b49d13cded62ad33fb6fbe69707976b8"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "ltlOQlZx2OL5Kqhtsv+8vNuCNtk7MqihioUYuheHvpupiQrQksCq880kurBbW6MQ4DTAckCFpL0o5HkNY7tNnZrWUpUmgLqmum6XYuPI1zqWWixxuMWk2q8ZHw490sCBqqIHgFSPvUkZm1+sAApBlSZ/F7npAj15db8Qwg5gDZxFEy6zg1bUb1Y/IueqI20AivQwC2BxVIUFj7mPDPPuHbrVK/p15SOV65QQIwv74ieMtRU/27eiJiCMzCN4ZujeRnBpjpfC4MyUk/MDFqUy19MOrVTNKLEQ6J9OoEqacxbXsp4v7BtlsR1FMPeyr1pkgm7yh7oHSZ2jic2Zmo5apLFv7JC4kjrXVQ9qgQKsIUE=;ogErFaa4NQCpCDIqnX5EYQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "3GIiGvVnqwCaiidf9IMJppsYB5Vyy3JTku2pFbzfzHctMXSJ5k8xZftHgJvi4PfOoIjJ30FUxIM5UohNH37Z2TCKgQovFlephc0wFImWKuhn5j/8zwJ5CCJ3ZYn5BA65kRRC81m7QDR9Q6toNdiI286Ms56R61r3hi3iA/POc+vYbvY/eawbHFWC+iiCg3GkaK1SzuhhtpzUVN76svS5DHqderq8HeOgOzUzb13tZmTlQdXuGyi8MLX426Uiav7MgN7AE72CZRlyZXrGGVcfmLEaK1LFZscuYcVwsRXyXXvTHNDbhNvkXvBqKkKK7Fd2C/f/WFM1VCkZV0jFWR4f3KK3EgGJ+hGCpqG2JYZ9v4E=;jSik7nd13yekh7xkZl1wvg=="
 ---
 

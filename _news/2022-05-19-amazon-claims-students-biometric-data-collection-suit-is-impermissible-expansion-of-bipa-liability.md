@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T17:43:00Z
 originalUrl: "https://lawstreetmedia.com/news/tech/tech-giants/amazon-claims-students-biometric-data-collection-suit-is-impermissible-expansion-of-bipa-liability/"
 webUrl: "https://lawstreetmedia.com/news/tech/tech-giants/amazon-claims-students-biometric-data-collection-suit-is-impermissible-expansion-of-bipa-liability/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Law Street Media

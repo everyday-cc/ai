@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T19:10:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-neuro42-licenses-robot-from-johns-hopkins-university-/2022/05/18/9605055.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-neuro42-licenses-robot-from-johns-hopkins-university-/2022/05/18/9605055.htm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TMCnet

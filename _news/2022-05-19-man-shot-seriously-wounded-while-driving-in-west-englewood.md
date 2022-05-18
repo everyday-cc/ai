@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T17:27:00Z
 originalUrl: "https://www.cbsnews.com/chicago/news/man-shot-seriously-wounded-west-englewood/"
 webUrl: "https://www.cbsnews.com/chicago/news/man-shot-seriously-wounded-west-englewood/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CBS News

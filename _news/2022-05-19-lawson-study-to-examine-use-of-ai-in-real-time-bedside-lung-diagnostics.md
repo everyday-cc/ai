@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T19:30:00Z
 originalUrl: "https://globalnews.ca/news/8845258/lawson-ai-study-real-time-bedside-lung-diagnostics/"
 webUrl: "https://globalnews.ca/news/8845258/lawson-ai-study-real-time-bedside-lung-diagnostics/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Global News

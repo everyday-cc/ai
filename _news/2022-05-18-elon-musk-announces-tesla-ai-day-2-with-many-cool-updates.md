@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/05/17/tesla-ai-day-2-elon-musk-robot/amp/"
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/17/tesla-ai-day-2-elon-musk-robot/amp/"
 type: article
 quality: 108
-heat: 128
+heat: 129
 published: true
 
 provider:

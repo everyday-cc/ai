@@ -5,6 +5,8 @@ excerpt: "There was a time when Google offered a wondrous vision of the future, 
 publishedDateTime: 2022-05-12T06:12:00Z
 originalUrl: "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future"
 webUrl: "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future"
+ampWebUrl: "https://m.bdnews24.com/amp/en/detail/technology/2059713"
+cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2059713"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "30ZZ00VEtaxw74o/IgWOwsIFQR34PyYiBotUGhLZjCiwvilWoU34QEG0yCIpt/dHqO9crJBnMlKc0R54pwlZFTh3E9b5vdHW4AwWTGLv/b2NIC34jLszih3VKYJoYzsKyzN2imW+Sn8LorZrVbZcCxQLE3Zu1jk2WPnQ8LsqbxQydBOyCS59n52KS4Oi3j5BEgKAV4Je9Gr+LtGiafxbeqguIm7A8pYXwAkYI31jCAkLdzcJzNIVTTgMmIXUWluCyK7Vn72EKGw8Ss6GXRdZz56XDWJYUp1WSRq3NBiitlCXdx14sr6Do26d2guI527l14o5uE6qVwYAm3s4tbl01XVuIJm6vUkAZmXy/S4Mrqc=;aVn+Zj+NVdVWOgcPIuJX0w=="
+images:
+  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/05/12/google-presentation-120522-01.jpg/BINARY/google-presentation-120522-01.jpg"
+    width: 1024
+    height: 640
+    isCached: true
+
+secured: "g8+PiW5cJ+yxV+RV/dZ4Wj6IVbDDYZfu9J81VEO7DrevOpDosEjlxwz1fOvyrajoo+1q5ogn/XoxfVVd9BYmlDkGj7MOpNTYnsg1T91nn6933JbL0zGtEXBKGvs162HGM7RklyK9/DE1N4DC1QBrMhyG+MvKJsUJsAYrLnTRxrxRphH3R8kgJLt9kjBe2cDhPc9cno40Oz1hkivNS+OolxNkQWz45XjU0BYBUNp801X9SDni/bHKuMwhTq2vCfqJaXcKQ8YqA8ip8zZbEsysQnSWw1Qaf2P7uNWKl6BflZN4s8WsjRUBEGNIiKUyI+AyPYdTXQvZr8+usaoM7WH5DKS8HO3skvcaeeQFpF4Mc3Y=;Jlp78qdcGXlNCtcapGjRxg=="
 ---
 

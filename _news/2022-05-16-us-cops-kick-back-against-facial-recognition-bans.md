@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1320
         height: 760
         isCached: true
+  - title: "Regulate facial recognition, don’t ban it"
+    excerpt: "This article has been published in Restoring America to highlight how over-the-top government intervention can stifle technological advancement.]"
+    publishedDateTime: 2022-05-18T18:05:00Z
+    webUrl: "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/regulate-facial-recognition-dont-ban-it"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 19
 
 secured: "xr7ZB0/4MHeFFvQJmjxC0onMaEtLFykxP0EQdvNg5oB6ecCH3VNw0KaKayYLR0w3BGbQ8ACZTwPfuqkO4nu52m7162QYqR8zXluhbT4njSzJKWJPAN9/FuQheyGmYzsNKbKeAHZfjNjO7EOVC9cOdOrFwMtzPF1ySvrHc6+7Wu7IiimijuFRduBN3HKorAGkoX6m6i6MuO/QOfkJe7U+AVKjVOeT9Ap/1URLOFR5MHEWKeWxNlyUZXVSJbmlbQm7DdSbXmYpFKorwTngWnDi3Zttgw4xyXL+6TVdpciI/RanPiqzxc53XUVzLr3j1ynDze7SFSTA8dqKcjj7hbojPeUup7KSTd0+73Oa7knTs0E=;uHDiq27zQuStO10+R5toOw=="
 ---

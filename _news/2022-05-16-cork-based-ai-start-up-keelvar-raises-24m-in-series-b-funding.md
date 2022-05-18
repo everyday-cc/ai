@@ -47,6 +47,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Space tech start-up Ubotica Technologies raises €4m in seed funding"
+    excerpt: "Dublin-headquartered space technology start-up Ubotica Technologies has raised €4 million in seed funding to grow its team and fund the next generation of the CogniSat platform. The round was led by Atlantic Bridge and includes co-investment from US based Dolby Family Ventures and Seraphim Space."
+    publishedDateTime: 2022-05-18T19:40:00Z
+    webUrl: "https://www.irishtimes.com/business/technology/space-tech-start-up-ubotica-technologies-raises-4m-in-seed-funding-1.4881891"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 17
 
 secured: "LydibqUwCUEt4NaH7apC4g1u2EVq7fyiP+x14jcnd1fMyBWyyxIX0PdD4wXLy4hCfUl/TOet5blP3OU5Ffm5ScPO4C8yZyEgXH1xAInUbxUycoxaozVlEi5hp0FM5opQqnIKnr9jfnevNQS3c03aGbk4FSzv1X+K0N60tciw8GgYPDUwvYK8OJuORB5epUGdebSwVNkrdc+QWsp3HhAWmNugMdU1Vzo3N+VTGJmMtiCrAdwg/Pbwd+zRi5Of/7+7+rHijQA8UsN9KkQPtcNuIeetRphK6ls6pJlLn4Yzsefpp0HjmrIC5hFUIQ5dnRt0aGyiNCzNVyJ56iDwYrWPtyfESOq3a8nNGrPZudbF9cXo3AbF38fc7S2Jr2NG5jR6tzTZ7VXGylUnhIJHtrcDP/kxlwprXoAG8/oSdNYkz3kw1lxbs70fr7waWDjktn5A522LuZ+mDxiKKV4slDwaWLf9p77Tcen10QAVHWrTN+n5SGO7ve3euX8bd1EQ7qgYXXVc1GosZHXGae9P4XXzew==;9gCc3Vz5mCS+qQL5Dm2Erw=="
 ---

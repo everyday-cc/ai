@@ -9,7 +9,7 @@ ampWebUrl: "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-fa
 cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 34
+  - title: "Mastercard wants your face and hand imprint for payments"
+    excerpt: "Mastercard announced a new way to make payments called the Biometric Checkout Program. Instead of looking for your phone or wallet at checkout, the new system aims to speed up the process by only using your face or your hand to make a purchase at"
+    publishedDateTime: 2022-05-18T18:14:00Z
+    webUrl: "https://pocketnow.com/mastercard-biometric-checkout-program"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 4
 
 secured: "Pv0n/TLCxGZ0McxWWKlCZQDtZscKnM1XMu3Tgur2ExQ1q7ej0cLbou3KOnHVQor6zcRDi2dRk5h4HlCqvw3o29t73bSzgKBey7WrHl2+bAVruK9caqyIRggc/snPwwtxzEgneyaJ6TE4aBlD1+QzdwUGN6G3igzzMG7DXwllkAnOFzHsEmf6aFUuTnoc3H3UkGYkIRo+4kDA7xUFfKJZA9BcxwuEeQNxErs+4A5QawMtT9TMRLoDLp/vs+xnODCLfGE8r+ql110FcZlhSVpSZJq+0vbFoT3wLtjvLGGyy/0WJ1sWXwG0DqPlBh2bcIjluMCkSr/EVQv0IaB0LhBlUMO/pA1kOUeTcEUsEDtmCma4y5Gqn5mcHhue0mQsudKi8UV26VPt7Ey6Jj288ll7s2TBgUyA/BFeaVGhkarL/mw2YNwPvllL7Aijt4Aark+pucMPjWWEFtpT7/6u4Oo3+WsuzizZrgF3igusubKqYPMcxiPzyB6XMBKbpSlDk5iIFvf4++RyMauq05ocIFaRyA==;DrhXR3LKPCi01+z1ft86hA=="
 ---

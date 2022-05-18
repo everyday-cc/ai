@@ -1,19 +1,29 @@
 ---
 category: news
-title: "Metanomic Acquires Intoolab, Developers Of The First Bayesian Network Artificial Intelligence Engine"
-excerpt: "The acquisition will help developers create better video game economies and Web3 experiences through deep player insight and data analytics"
-publishedDateTime: 2022-05-18T15:08:00Z
-originalUrl: "https://menafn.com/1104235672/Metanomic-Acquires-Intoolab-Developers-Of-The-First-Bayesian-Network-Artificial-Intelligence-Engine"
-webUrl: "https://menafn.com/1104235672/Metanomic-Acquires-Intoolab-Developers-Of-The-First-Bayesian-Network-Artificial-Intelligence-Engine"
+title: "Metanomic Acquires Intoolab, Developers of the First Bayesian Network Artificial Intelligence Engine"
+excerpt: "Today, Metanomic ( https://www.metanomic.net/) announces it has acquired Intoolab A.I ( https://www.intoolab.com/) , a Bayesian Network Artificial Intelligence ... has already been successfully proven in Healthcare and the technology is now being applied ..."
+publishedDateTime: 2022-05-18T07:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-games-video-artificial-intelligence-5400fb17e5d642d683fd93651c656d7f"
+webUrl: "https://apnews.com/press-release/business-wire/technology-games-video-artificial-intelligence-5400fb17e5d642d683fd93651c656d7f"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "F1Axmp/tE/fKW33ALzynHdyecOeNDPZk8KbbVsIhX9ebCayatXIqNf6UJqCcFOC6JxLlqxRHZOqdq9F8f9RcHNSKbQPF05sdKhNSOr7X2Q/bT+V5VdPn44xZ/ZlZJAfXOitJzPaA4tbchpmMbW6Wh+FRiwzAH+Hb47uTkHpjXr5jY2pT4tJ57HmBe4DyVfNrig+AZHLM2dCKnx9vMd68Bqls+W8FWnYXMmxuofqyN82RyybutOrpkruchOoWy4zRCoR/Td/cy1R10lGJA9ZQqa9DOB6X+sv/bwEOJb0qgwKmXsTlXffUQTVfKeGjE+EjwD8M+pk7mQ/ZD+w3PkoxawEnkHq877Espc3AN57EttY=;HZ7k8x0e78a3u8168/VImg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "k6qC0A56I1mVw8kgjLmTodJpgfim2v6bk9EvGtS3MdPzf15h0724GxKdBphO6174Tq3FF6+7IwVQIHCOxzeT3g3XPpHeEWFN8TT/Pfhzm0tuAkCZD7HvgBjfVDusSWrcrKhG7B4UYoZHdMs47n7fB9Z836E8oQsFZWDSX8E/UzJ/5b1rho0kTdCP93eVSQkIlVCcLN/AIleJmVdbLnJc5CF8ebMmZP+KzJzeviUH+239K+y4793JIUJDxo7Q1QkteH/9LxR6iwGydbemzzMRin6l8fpc1iVE2fwsNqBZrT+yJO+6wd4rICoADrORoVV2hPaRJ9k3C0wz4W/axQYWYONe2F80v+sNbufQsSuFpe4=;PP7PxyI9gwJpaKxXTOOhdA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -23,6 +23,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Energy-efficient AI hardware technology via a brain-inspired stashing system"
+    excerpt: "Researchers have proposed a novel AI system inspired by the neuromodulation of the brain, referred to as a \"stashing system,\" that requires less energy consumption. The research group led by Professor Kyung Min Kim from the Department of Materials Science and Engineering has developed a technology that can efficiently handle mathematical operations for artificial intelligence by imitating the continuous changes in the topology of the neural network according to the situation."
+    publishedDateTime: 2022-05-18T18:06:00Z
+    webUrl: "https://techxplore.com/news/2022-05-energy-efficient-ai-hardware-technology-brain-inspired.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 18
 
 secured: "JSedjKM9JHUFPYlLqWVMwzA1fK/1L7Xezi8b+BkqK+DiHIUw55NhMUexHQkKWeQ2Q3Knpao0A5PYeUuIhvhcSSWluLSNXRhoUddDUxFDxihzVr5xf44CUBXeNT317jkBybjtwSlrDaezX0R6p3Yc85zxDeG21X5L//wBPJLuN5IMXdk/921wP7Q5ZiSe5QknjKoEANbwxQJajgyhy/8qbr+lRS3wSYOVEvl5ikdikJ4D0nOt9nt+us3Wf5n7K1rybPKldWox5glWubZW1ldFueIBVmw9LjS/wVj8Or8tk2V6F0PGvoXXigNngiwqCNlgF9TubsFCl5RixTm4jMLAIzyhIULvKwTovZB/hv83Pbb6xWT6tncIH76GM7e2lHdHpJpQnQATPUlbyRtwaIpKjo9zd9+mJUNrQmAi6xuitbewIaNA7tOWah25S+upHIYDYVDAAjwCkbAJ2NryLRiv1L2iTlmA0DAbFo9JyUnkkO+Kb2jq5U5LD7Q9XJ3valmHVU4JAAqVbUsLASbC7zDJoA==;mrYMdavanxD7lTOnKQZLqA=="
 ---

@@ -110,7 +110,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 16
+    quality: 18
     images:
       - url: "https://orders.newsfilecorp.com/files/8520/124111_3fe72a28a40f2b09_001.jpg"
         width: 550

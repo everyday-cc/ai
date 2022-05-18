@@ -75,6 +75,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 34
+  - title: "Mastercard wants your face and hand imprint for payments"
+    excerpt: "Mastercard announced a new way to make payments called the Biometric Checkout Program. Instead of looking for your phone or wallet at checkout, the new system aims to speed up the process by only using your face or your hand to make a purchase at"
+    publishedDateTime: 2022-05-18T18:14:00Z
+    webUrl: "https://pocketnow.com/mastercard-biometric-checkout-program"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 4
 
 secured: "aobCf9u1+XLiTjg4Kbpe5allre3QVwAskK6GxV7uJ+gLzBA22z8+AWIcPIIFn2Ly9nJ2w35jORWGDsQeDmUeQ2dLcl/9UTdK7eaA3GclGGaemgB7qaKNaYMjc7TcU3BA9A8hdUgcNQ3UkIOgGiTHN+MXlRy9bAKtocNQnU0Og7mrisny2C20CWGnoV1mmiOO5ADFFnIovfSUtV2aG6kckePa+D3njXet4fLNkHg4AA0VGYgi/3Y2amiUukSIevvdSVf+9as4qQ2JGkc5bIMF2ZHSgASUz+h7bx5vqciVn07ccc8EMfBLmSEk1fJpchD/sCpUSQ/nqZQJ6kYodOYezKxMoL+tuGaeLGxoe+DSA8c=;S7iwKGKE91d+yUpHAcXtVQ=="
 ---

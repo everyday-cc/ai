@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T19:19:00Z
 originalUrl: "https://techxplore.com/news/2022-05-physics-ai-insights-material-properties.html"
 webUrl: "https://techxplore.com/news/2022-05-physics-ai-insights-material-properties.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: techxplore

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T13:07:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/heartex-raises-25-million-series-a-to-help-every-company-become-a-data-centric-ai-company-1031472335"
 webUrl: "https://markets.businessinsider.com/news/stocks/heartex-raises-25-million-series-a-to-help-every-company-become-a-data-centric-ai-company-1031472335"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Business Insider

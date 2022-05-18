@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-18T14:05:00Z
 originalUrl: "https://www.digitaljournal.com/pr/fintech-startup-tradestreet-tracking-unusual-market-events-expands-internationally"
 webUrl: "https://www.digitaljournal.com/pr/fintech-startup-tradestreet-tracking-unusual-market-events-expands-internationally"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
