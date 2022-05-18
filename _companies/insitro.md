@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "insitro"
   url: "https://twitter.com/insitro"
-  followers: 3960
+  followers: 3961
 
 size: 11-50 employees
 yearFounded: 2018
