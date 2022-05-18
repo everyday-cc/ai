@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AMD CEO: CPUs Equipped With Xilinx AI Engines Due by 2023"
-    excerpt: "AI on the Edge. AMD said it plans to integrate Xilinx’s differentiated IP in future generations of its central processing units (CPUs), in a bid to better compete with Intel and NVIDIA in data centers and even the embedded market."
-    publishedDateTime: 2022-05-13T18:48:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21241149/electronic-design-amd-ceo-cpus-equipped-with-xilinx-ai-engines-due-by-2023"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 19
-
 secured: "yA7B8WEfzlqB/6tTMYRoCeKKDiyo/Pf/wNEgwwbYUoLo6om+eSqg8Icpj7BfzkQ+O4QOtMRkGHcuZGTm9OgXA9kzdLRq885/vfX9mhtw0q8UUz30Nv4C1Xv1JkSAecbxt6l4OnkrClNd3ds0MFDnlAbD0IBUNyJ1NFKu0fC7EN7jckJC9ezrd7t4L8FzzYWFAO/8J1HLKv1Cx10tLFQSbEvGJ7ea3/OY5QgDqvJYsMzNnbOYv0RQ5RZaLHeoLwrR+VLFoRr2wtX/9vGjk8t/N0c1cOcPesEwbZsAwt7C/DS4OK9a2iFrlmfNpBroojsuO7RWeb13VuuHuBtBpJl5pGbnSU83G6He7WXUcPvM5GK/4lrX7kc5PRqsS0AcXdfi65nr918hSbjSBL5hD2eS2oA1ahAAU6N0DUfKKK3iDddjRJGy8ks5U3nXm5YiClnfXAzvgiYv9/JMl2ROdd7q6+VjmuznZOmqketM/MEg8oeq5Gl+EW1JaUGBq2tBe7hyHJTf3DTSXgLaV6WrLi4x0g==;qub9EVlrJa4H9mVtsiumgg=="
 ---
 

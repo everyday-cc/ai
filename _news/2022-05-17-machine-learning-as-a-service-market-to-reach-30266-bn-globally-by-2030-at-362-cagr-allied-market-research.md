@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Machine learning as a Service Market to Reach $302.66 Bn, Globally, by 2030 at 36.2% CAGR: Allied Market Research"
-excerpt: "Rise in demand for cloud computing and surge in adoption of analytical solutions drive the growth of the global machine learning as a service market"
+excerpt: "Allied Market Research published a report, titled, \"Machine learning as a Service Market by By Application (Marketing and Advertising,"
 publishedDateTime: 2022-05-17T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at/article_5fee64a7-ba3b-5bae-8dc5-3b958db0c951.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at/article_5fee64a7-ba3b-5bae-8dc5-3b958db0c951.html"
+originalUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at-36-2-cagr-allied-market-research-895645004.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at-36-2-cagr-allied-market-research-895645004.html"
 type: article
-quality: 18
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/61ea06e968cf9.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+    width: 2000
+    height: 1046
     isCached: true
 
 related:
@@ -39,7 +40,16 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Automotive Artificial Intelligence Market: Machine Learning Technology to Rake at 45.4% CAGR During 2020-2028"
+    excerpt: "According to a recent report published by Allied Market Research, titled, “Automotive Artificial Intelligence Market by Component, Technology, and"
+    publishedDateTime: 2022-05-17T13:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-machine-learning-technology-to-rake-at-45-4-cagr-during-2020-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
 
-secured: "brlXnhsNq+5uL+3ap3klcB/p0CmU0cDN0GMf8khFJHGFUvuu6Ww+o6WDCnxh6m6eG6WGmGsNuvt/57eY19qxUAhg9ATiFPIm78A5iOYOQVf0rSPhPnCRftNE71EgvgqmD3+lyQFrIUAppRnJ89OhU7sTBQ39ZECWGnwqzRV9PkSBrqQnOsbJDKNhG7vLq89VcaGHGcEXL8byDip86jyXnmxFKKW6OYiT1kRO9XsckY4S52t7oFJt9AJKFoTLYNoJHMompiVuvlGtD/yizlJWfizNt1kOpu5q9ccl29Iaj3b3wL8wirVp4+H7el/0HNAvwY6iGk6Qhbh2aDbrWW5r8v8iApk/EWeyuKRD6ib6Fwo=;Ms3QugshlChcjpRM4l8Dhg=="
+secured: "+c2ieVHKE8UiDjzTORuaZ0oEqmpsVH3s447ost7JdUOn1uycz818fic0yqkCx58XkzBVZ9UKC83/4PMJQ3sUZHuUtr41LsBUxkRrspLCZQSuThcIXku7tTG8aR4LQ9ip/h34V8ahEWchu/10QiDquWeKkVjkXzQ+KgLfCyMlatN7XDBN9yGOTqaTKDexvHs7azi7xvmZqqqz8ySY5kququc1LbvLN48K2I9GurGF6kir5uWUxIAZx55AvETmgBaktCvUBB6vF0OcNlB41kyGMoH8pyw4kgcF1tlwdn2rNaII8/8X1FL6+DkO5YgTpzf+KhcWfzVOMqGxbMmpsk4d5yUl5ULuCL96Z4usIFXHr8c=;JgBmChpzXAfSTKNZpMr0ZA=="
 ---
 

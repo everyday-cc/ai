@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Apple exec who quit over return-to-office mandate joins Google’s DeepMind"
+    excerpt: "Former Apple director of machine learning Ian Goodfellow made headlines when he resigned from his position due to Apple's refusal to allow employees to continue to work remotely full time has now found another company to work for: DeepMind,"
+    publishedDateTime: 2022-05-18T10:13:00Z
+    webUrl: "https://wraltechwire.com/2022/05/18/apple-exec-who-quit-over-return-to-office-mandate-joins-googles-deepmind/"
+    ampWebUrl: "https://wraltechwire.com/2022/05/18/apple-exec-who-quit-over-return-to-office-mandate-joins-googles-deepmind/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/18/apple-exec-who-quit-over-return-to-office-mandate-joins-googles-deepmind/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 58
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/12/eye-gb14112db1_1280-e1638967223881.jpg"
+        width: 966
+        height: 544
+        isCached: true
   - title: "Illinois Facebook users receiving payouts for class-action lawsuit over facial recognition"
     excerpt: "ILLINOIS, USA — Payments are rolling out in the settlement of a 2020 lawsuit against Facebook, now Meta, over its use of facial recognition technology that violated an Illinois privacy law. In an update posted to an official website for the lawsuit ..."
     publishedDateTime: 2022-05-16T16:51:00Z

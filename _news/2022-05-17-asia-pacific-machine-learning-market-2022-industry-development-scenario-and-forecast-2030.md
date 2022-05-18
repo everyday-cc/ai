@@ -40,38 +40,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Far-field Speech Recognition Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
-    excerpt: "Far-field Speech Recognition Market (US, Europe, Asia-Pacific) 2022 Global Industry Market research report gives"
-    publishedDateTime: 2022-05-17T06:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2022-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-  - title: "Middle East and Africa Self-driving Car Market 2022 : Growth Factors, Product Overview, Segmentation and Forecast Study to 2030"
-    excerpt: "Quadintel published a new report on the Middle East and Africa Self-driving Car Market. The research report consists of thorough information about demand,"
-    publishedDateTime: 2022-05-16T14:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/middle-east-and-africa-self-driving-car-market-2022-growth-factors-product-overview-segmentation-and-forecast-study-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-  - title: "Self-driving Car Market [RESEARCH STUDY] 2022 : Research Report With COVID 19 Update Key Players Analysis, Growth Factors and Forecast to 2030"
-    excerpt: "Quadintel published a new report on the Self-driving Car Market. The research report consists of thorough information about demand, growth, opportunities,"
-    publishedDateTime: 2022-05-16T14:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-research-study-2022-research-report-with-covid-19-update-key-players-analysis-growth-factors-and-forecast-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "JM/2Umpy0nllS1jLaacxE0oq6h8XwOFhy+DBgrhCxPfJSvrfwi4nP/bvjX130dEZml/aVQsJnfBn+AhNZ+ZMKt7PXGDsnANCmHxkDvIzonmEQkOCAwAcvANIXwf7arIXp2VYVMzlx4udUFqDOTX60axU6iWcXK1Egh/lkSUDO2TwgueZIOBEG95L8T2xG7xZwC/MvVlidO88pNSFynSEU6kxTJ3zfG2ThkWwC44SN2X4TIQVuvxpGxfmpNusjOwjal+oP4OIf2ItRHqvt3EHhA7Id5xjxUkusZn3OmEUis7cQq3tp1RjEAIWONGvehDQ7TEHptXHad49OHstpMQRx2AQTmCJYJHpIsfQDcds3kg=;ZM9J2iJaaxuW80Si1UFhMA=="
 ---

@@ -59,6 +59,20 @@ related:
         width: 770
         height: 440
         isCached: true
+  - title: "Top Artificial Intelligence trends for digital transformation in 2022: The future is here"
+    excerpt: "Artificial intelligence (AI) is one of the most rapidly growing and widely used data-driven technologies in the world. From governments and major enterprises to small online firms, artificial intelligence is being used by numerous groups across the world."
+    publishedDateTime: 2022-05-18T10:09:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/technocrats/top-artificial-intelligence-trends-for-digital-transformation-in-2022-the-future-is-here-43007/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 28
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "it/Rw5LE/aZFkX1II12L1M91rPwXJU2kLIEfM++F7AGIdWSqBpSqgqbc9ilGNPk1in7ojP6ihxaOKE2DUgb+7YLN7gcaWSWKeyX0qZEZ5KnHIp7Q6y0S8u/6vbM3SKtcPzWYujCKWweJ2cMr64QghbhUg3oekdTL7vrXI0P+aFFhtF1VEXRoKJihEK7KzF4/8xyyOvtA2jTtujIhjRS7qkV4bSlgkk2DkOjpEWe50tgHhxqFKkOFAwXU7Kd0ju0exluE4du+mQwMakG8xqFusz0Cf2snCiFHKnlocBg2z2uhYHUheNJUvQDl+/r/pTIfdCqjHPYF/Z3rZY4I7m0xuyADQkftZtSUZ714L0fCoVU=;iEyaJdGF9nOMf/1NfNkuIw=="
 ---

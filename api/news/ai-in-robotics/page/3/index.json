@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-27-amazon-invests-in-israeli-robotics-firm-bionichive.md",
+      "title": "Amazon invests in Israeli robotics firm BionicHIVE",
+      "excerpt": "E-commerce giant backs Israeli startup developing an autonomous warehouse robot that can work on shelving racks to retrieve and return boxes and packages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.israel21c.org/amazon-invests-in-israeli-robotics-firm-bionichive/",
+      "originalUrl": "https://www.israel21c.org/amazon-invests-in-israeli-robotics-firm-bionichive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.israel21c.org/wp-content/uploads/2022/04/BionicHIVE2.jpeg",
+          "width": 1600,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Israel21c",
+        "domain": "israel21c.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-paralyzed-patients-move-vicariously-through-mind-controlled-robot.md",
       "title": "Paralyzed Patients Move Vicariously Through Mind-Controlled Robot",
       "excerpt": "These scientists successfully demonstrated the capabilities of a robot controlled by the mind of a partially quadriplegic patient in a hospital 62 miles away. Mind-controlled robotic systems aren ...",
@@ -1317,49 +1360,6 @@
       "provider": {
         "name": "KRQE",
         "domain": "krqe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-artificial-intelligence.md",
-      "title": "Wm Pawn's newly released \"Sielink Five\" is a fascinating fantasy tale that explores the world of artificial intelligence",
-      "excerpt": "Wm Pawn shares, \"There's one common threat to both humans and artificial intelligence. \"That is a virus ... \"Lilly has stepped out of the computer into a robot and finds the world to be all she hoped and more. With her natural wonder, wit, and love ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26705094/wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-arti",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26705094/wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-arti",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26705094",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26705094",
-      "publishedDateTime": "2022-04-19T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

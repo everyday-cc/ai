@@ -37,20 +37,6 @@ related:
         width: 335
         height: 250
         isCached: true
-  - title: "Educational Robot Market: Global Forecast, Size, Share, Growth Analysis and Report 2021-2026"
-    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-05-16T09:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/educational-robot-market-global-forecast-size-share-growth-analysis-and-report-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Global Fintech Market is expanding at a CAGR of 22.17% during the 2018-2023 period"
     excerpt: "Technology segment insights The major technologies involved in the fintech sector are artificial intelligence (AI), Blockchain, cryptography, biometrics and identity management, cyber-security, and robotic process automation (RPA). Major growth will be ..."
     publishedDateTime: 2022-05-17T06:39:00Z

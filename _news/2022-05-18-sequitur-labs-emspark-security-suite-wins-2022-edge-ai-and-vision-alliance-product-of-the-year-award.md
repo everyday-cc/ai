@@ -1,42 +1,47 @@
 ---
 category: news
 title: "Sequitur Labs EmSPARK Security Suite Wins 2022 Edge AI and Vision Alliance Product of the Year Award"
-excerpt: "Company Takes First Place for Best Edge AI Software Sequitur Labs today announced that the company's flagship IoT security platform, the EmSPARK Security Suite, has been named Best Edge AI Software Pr"
+excerpt: "Sequitur Labs today announced that the company’s flagship IoT security platform, the EmSPARK Security Suite, has been named Best Edge AI Software Product of the Year in the annual Edge AI and Vision Alliance awards."
 publishedDateTime: 2022-05-18T03:56:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/b27269103/sequitur-labs-emspark-security-suite-wins-2022-edge-ai-and-vision-alliance-product-of-the-year-awa"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/b27269103/sequitur-labs-emspark-security-suite-wins-2022-edge-ai-and-vision-alliance-product-of-the-year-awa"
-ampWebUrl: "https://www.benzinga.com/amp/content/27269103"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27269103"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-db7c2e9e7e4d43cf8590798e860ad599"
+webUrl: "https://apnews.com/press-release/business-wire/technology-db7c2e9e7e4d43cf8590798e860ad599"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
   - AI in Security
+  - AI Hardware
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Edge AI and Vision Alliance awards Blaize®, Inc., Best Edge AI Processor in annual Product of the Year ceremony"
-    excerpt: "The Edge AI and Vision Alliance announced Blaize as winner of the 2022 Edge AI and Vision Product of the Year - Best Edge AI Processor - for the Blaize® Pathfinder P1600 Embedded System on Module (SoM)."
-    publishedDateTime: 2022-05-18T02:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-55190f76e28841508889eee3df7cc022"
+    excerpt: "... judges selected our Pathfinder P1600 Embedded SoM as the Best Edge AI Processor in the 2022 Edge AI and Vision Product of the Year Awards. Our chip is a software-defined AI inference accelerator based on the Blaize Graph Streaming Processor ..."
+    publishedDateTime: 2022-05-18T05:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=665741"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 19
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
-secured: "rdjQMexkwrgKpJ9U6VZl0psVZa14CeWRSaKAi6anovk8TYxKWNm8aS54XBR3f70PScEppMQfD3VQdvMPCRhJ+aGTFEs8wl4qKFW8p5rhInWtTX6ZBsY7lqvOQJINqzxncDSY+OPeP1qN03WXKYGVlhf2YKphUMoltne8pYzswF14yo42DjZafwfNNmVUekUyu5tVG+uFbrEzYyd0WHEkqVFHn6hwlMb367S0qmYJpSMY7XBQsuO/Wzn68Y9y2gz+ys6vRlgu0ZoDGV6waUIDGnAfLDNI8AWoow8X6RZ5tlcg7afiCF4X7K9Pe1ikCE7ulqObjM6xiIxgPWKH5isD3tMVq4e+NUqQ2wIY5DuLtM8=;+Y/Dqujvl3VA7DzFhhOvag=="
+secured: "5kKjPsrm30yLE163wcSjj67wA7jkgCwy6TKjUekI0sGjv0X7D0Tv5GCoILhEE3bV26eRoW/qe3xzNW/qoiAVrkzk5NR1MNaic8D9N/c47tg8ax1XYl7JlknysLEo7mtJXavnz4t1baGo8mivvNIVwyLp3spbFZT7anmpMEv8pe0/caTN8DNKiI67rc/6VEUCKbCAQDe+rlm4Rwbpd1s3UmEwNl4lV7jL+tbJE6Yg6G4lkWO8P3h8ftM+jxT0z9gEfQcturvIe6GpcAH9pK5N3XoTVvDXDhL6vr6aspwh7sI+3QdgBBUqgSbwLAYuVafS+SpxGaxKNi9rX+U1GWSGXoV3ga2kkTpkEGGqDp+SpJw=;brvYs6v+yd/UFSdv2FKxgw=="
 ---
 

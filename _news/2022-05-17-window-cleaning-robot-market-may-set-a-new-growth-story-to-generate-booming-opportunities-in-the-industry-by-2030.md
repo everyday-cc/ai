@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Europe Self-driving Car Market 2022 : Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2030"
-    excerpt: "Quadintel published a new report on the Europe Self-driving Car Market. The research report consists of thorough information about demand, growth,"
-    publishedDateTime: 2022-05-16T14:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/europe-self-driving-car-market-2022-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "wlyafGwxec/Fs3Yf4o4heazwY5G430mTORym/SkzA9JA8p7Osr0o1hRJHktFchqQX9dwOSpoyL/5in1f2BHjBs325XVAvZ+eVlu7uQriLJnPrXerITJzreLjZQBimPileeIGQw6ub1G6T5Ymdu7dieTw3SxxzxYQdmyjjUBW/pUmopDWsDuWBB1wESsJTJ2pMtpkOCHogOuiCMMKqRwxs9/Als2cyJiaZmRZdnRnNyzTfVic8dSbvK7NZ5QND6UhHMiTvfKQ5ylJ0UKWtGSvcsirW0KhVXxtJZDaeI5BDgkyo/l2PO6o2V6BQaTrguDBWQ+R0KxCiP7nJc1FtUu/Q9iRm5fVt9Xy5tuSatIBEcQ=;0ZR/FYrCwAxI22xbFn3vJQ=="
 ---

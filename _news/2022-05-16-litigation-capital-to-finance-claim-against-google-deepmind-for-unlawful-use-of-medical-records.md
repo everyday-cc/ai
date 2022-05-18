@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Apple exec who quit over return-to-office mandate joins Google’s DeepMind"
+    excerpt: "Former Apple director of machine learning Ian Goodfellow made headlines when he resigned from his position due to Apple's refusal to allow employees to continue to work remotely full time has now found another company to work for: DeepMind,"
+    publishedDateTime: 2022-05-18T10:13:00Z
+    webUrl: "https://wraltechwire.com/2022/05/18/apple-exec-who-quit-over-return-to-office-mandate-joins-googles-deepmind/"
+    ampWebUrl: "https://wraltechwire.com/2022/05/18/apple-exec-who-quit-over-return-to-office-mandate-joins-googles-deepmind/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/18/apple-exec-who-quit-over-return-to-office-mandate-joins-googles-deepmind/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 58
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/12/eye-gb14112db1_1280-e1638967223881.jpg"
+        width: 966
+        height: 544
+        isCached: true
   - title: "Google and DeepMind face class action lawsuit over patient data deal with London hospital"
     excerpt: "London law firm Mishcon de Reya is bringing forward a major class action lawsuit against artificial intelligence (AI) firm DeepMind and its sister company Google over claims the two firms misused ..."
     publishedDateTime: 2022-05-16T16:29:00Z

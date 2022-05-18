@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.abnewswire.com/uploads/1652771728.jpeg"
         width: 770
         height: 440
+        isCached: true
+  - title: "Top Artificial Intelligence trends for digital transformation in 2022: The future is here"
+    excerpt: "Artificial intelligence (AI) is one of the most rapidly growing and widely used data-driven technologies in the world. From governments and major enterprises to small online firms, artificial intelligence is being used by numerous groups across the world."
+    publishedDateTime: 2022-05-18T10:09:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/technocrats/top-artificial-intelligence-trends-for-digital-transformation-in-2022-the-future-is-here-43007/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 28
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "7rdbANdqwusIXgNZt3dNcZJmH0D7iKIJOBp4DThYDdKzZSn2wvDmHmXOn1C3eDktzHAsIpGXv3gTjAcwnAJp7jKD888UX1AKc5A1PmeLhwyauJdd+g1axI+cyyEHEB9RAXIpNFSYhfBMEdyYt3jdG08JSu2IZb5xDv+Ev/Dye1TCQ+9W1cMHW4/qAeJn7StpXFOgphCr9mAzP/EDB7S79bLtzrhRFlDvR/53DqOGfYV7LMjDapI9c3ZlUKk17h7cilDYVJR+HIoRNBJEnZgWLLYOis8VncDFDNPBa2ds15k2wTgbWZs7pzodtsyuZ1nzF3MyiGK32EELdOMyHj+UMTvou9B/sx/eeJcmeyg6SPg=;0dFSNfF3TcUNpmaUBubU0A=="

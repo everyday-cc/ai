@@ -94,6 +94,15 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "CBB launches Bahrain Supernova FinTech Challenges 2022"
+    excerpt: "The Central Bank of Bahrain (CBB) has launched its second annual series of nationwide FinTech innovation challenges, Bahrain Open Banking Supernova 2022, which will be hosted on FinHub 973, the CBB’s Digital Lab,"
+    publishedDateTime: 2022-05-18T10:54:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDtXm9hx6uxSIMngb0867aIw%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 19
 
 secured: "2yiAk3fUqNvyrAe5XDUJwxrCyJxgxP7mmT7wm190SPcxmXj6Kfo3ZKwJJRNTtE/O5BDQeqkFiDLv+HugyvyD9RBRh5sXjrie79Jka6+sB3l/ZvizDQE0ry4aiHUrl1CaYvI0CMTtID65q4LgsibSciHlIm2pAI2Biib8de4JbtwEd6YfxLcy9Xxg8OHk1WUaXEIhLPA7qihtDskTfGVnQkgTElYxCVBtLxX7lgrOStbIV9UfqxHKeTl5mrnSGA3OTf04OXuvaPw4nRVvt6sFb+90hwC7wNK+yS8J2yBrhST5LpyUWv6bLseIwAehyA2IlSK2m+EaaeRLQJOk1loSwgzCQhG1RyiNCrcwskbcsqE=;3NLMGKjFv2RYQbhBPKPe1A=="
 ---

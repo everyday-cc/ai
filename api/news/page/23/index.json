@@ -2,6 +2,340 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-04-26-a-model-to-improve-robots-ability-to-hand-over-objects-to-humans.md",
+      "title": "A model to improve robots' ability to hand over objects to humans",
+      "excerpt": "For decades, researchers worldwide have been trying to develop robots that can efficiently assist humans and work alongside them as they tackle a variety of everyday tasks. To do this effectively, however,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.html",
+      "originalUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-model-to-improve-rob.jpg",
+          "width": 2040,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-robots-ability-humans.amp",
+      "publishedDateTime": "2022-04-26T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data.md",
+      "title": "How To Improve Demand Forecasting With Machine Learning And Real-Time Data",
+      "excerpt": "Demand forecasting systems have been ill-equipped to address disruptions to our daily lives on a global scale. Consumer packaged goods (CPG) companies and retailers were caught flat-footed as unforeseen panic-buying took hold throughout 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5efcc8f4cdc22100069576cc/0x0.jpg?format=jpg&crop=6996,4663,x4,y379,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/amp/",
+      "publishedDateTime": "2022-04-26T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-pentagon-names-chief-digital-and-artificial-intelligence-officer.md",
+      "title": "Pentagon names chief digital and artificial intelligence officer",
+      "excerpt": "Dr. Craig Martell will serve as the Defense Department’s new chief digital and artificial intelligence officer. Martell, who most recently served as the head of machine learning at Lyft after AI and machine learning-related positions with LinkedIn and ...",
+      "sourceUrl": null,
+      "webUrl": "https://defensesystems.com/ai-analytics/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366102/",
+      "originalUrl": "https://defensesystems.com/ai-analytics/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366102/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense Systems",
+        "domain": "defensesystems.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence.md",
+      "title": "PIPA and Mars, Incorporated accelerate science discovery in food and health using Artificial Intelligence",
+      "excerpt": "PIPA LLC announced today that it has entered into a multi-year agreement with Mars, Incorporated to accelerate the discovery of new, plant-based ingredients. PIPA's Artificial Intelligence (AI) platform,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence-1031385335",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence-1031385335",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1804015/PIPA_MARS_agreement_LEAP.jpg",
+          "width": 400,
+          "height": 243,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-wells-fargo-investment-institute-report-transformative-technologies.md",
+      "title": "Wells Fargo Investment Institute Report: Transformative Technologies",
+      "excerpt": "Wells Fargo Investment Institute (WFII) today released a new report titled Transformative Technologies: Investment Opportunities in Artificial Intelligence and Genomics ... Discusses the evolution of gene therapy to gene editing through the discovery ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailytimes.com/business/wells-fargo-investment-institute-report-transformative-technologies/article_35d8c154-6cae-5686-b123-2c097603048b.html",
+      "originalUrl": "https://www.thedailytimes.com/business/wells-fargo-investment-institute-report-transformative-technologies/article_35d8c154-6cae-5686-b123-2c097603048b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/7/92/792d9e12-c163-5917-86f6-244f8f40fcc3/6267f48079c97.image.jpg?crop=810%2C425%2C0%2C14&resize=810%2C425&order=crop%2Cresize",
+          "width": 810,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thedailytimes",
+        "domain": "thedailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-intelligent-document-processing-market-to-reach-usd-415-billion-by-2026-at-a-cagr-of-37-valuates-reports.md",
+      "title": "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports",
+      "excerpt": "The region's businesses are the most forward-thinking in terms of AI, machine learning, natural language processing, and computer vision, boosting the document analysis market's growth. The presence of major players in North America is also a significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-intelligent-document-processing-market-reach-usd-415-billion-/2022/04/26/9589651.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-intelligent-document-processing-market-reach-usd-415-billion-/2022/04/26/9589651.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel.md",
+      "title": "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel",
+      "excerpt": "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has appointed Carolyn Blankenship as General Counsel. In this role, Blankenship will develop and lead corporate legal strategy supporting BigBear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-us-bank-launches-nations-first-spanish-language-voice-assistant-for-banking.md",
+      "title": "U.S. Bank Launches Nation’s First Spanish-Language Voice Assistant for Banking",
+      "excerpt": "U.S. Bank is the first financial institution in the United States to offer an experience Spanish-speaking customers have never had before: the ability to bank via mobile app in their preferred language – just by speaking it.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-how-we-can-use-ai-to-help-achieve-sustainability-goals.md",
       "title": "How We Can Use AI To Help Achieve Sustainability Goals",
       "excerpt": "Coincidentally, in between these fascinating trips, I was asked to participate in an AI and sustainability panel at our Imagine Cup Junior 2022 girls' edition. I received the panel questions only 48 hours beforehand.",
@@ -779,360 +1113,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-this-ai-based-language-solution-startup-is-helping-businesses-boost-customer-engagement-create-unique-ux.md",
-      "title": "This AI-based language solution startup is helping businesses boost customer engagement, create unique UX",
-      "excerpt": "Currently providing transcription and translation services ... recording or uploading audio files in your native language. Our powerful AI tool ensures that every character’s voice is consistent ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/04/wavel-ai-language-solution-startup-businesses-boost-customer-engagement/amp",
-      "originalUrl": "https://yourstory.com/2022/04/wavel-ai-language-solution-startup-businesses-boost-customer-engagement/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/CopyofImageTaggingNewBrandingEditorialTeamMaster10-1650883381053.jpg ",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/04/wavel-ai-language-solution-startup-businesses-boost-customer-engagement/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/04/wavel-ai-language-solution-startup-businesses-boost-customer-engagement/amp",
-      "publishedDateTime": "2022-04-25T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-novartis-and-snowflake-driving-healthcare-data-innovation.md",
-      "title": "Novartis and Snowflake: Driving healthcare data innovation",
-      "excerpt": "Novartis recently joined Snowflake’s newly-launched Healthcare Data Cloud, which aims to create an integrated and cross-cloud data platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/",
-      "originalUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1216142687.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/amp/",
-      "publishedDateTime": "2022-04-25T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-ponyai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou.md",
-      "title": "Pony.ai scores taxi license for autonomous vehicles in Guangzhou",
-      "excerpt": "Autonomous vehicle startup Pony.ai has been awarded a permit in Guangzhou to operate 100 robotaxis as traditional taxis. The license, which allows Pony to charge for rides in its autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/",
-      "originalUrl": "https://techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/ponyai.jpeg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/amp/",
-      "publishedDateTime": "2022-04-25T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance.md",
-      "title": "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance",
-      "excerpt": "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-cognitive-effort-based-decision-making-in-major-depressive-disorder.md",
-      "title": "Cognitive effort-based decision-making in major depressive disorder",
-      "excerpt": "The CEMT was programmed using PsychToolBox on MATLAB (MathWorks) and administered on a Microsoft Surface Laptop. This task manipulated cognitive effort by systematically varying the number of items kept in working memory and comprised of three main phases ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272",
-      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-googles-data-cloud-summit-serves-up-incremental-new-capabilities.md",
-      "title": "Google's Data Cloud Summit Serves Up Incremental New Capabilities",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead describes some the most important announcements from the multi-week Google Data Cloud Summit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cloud-summit-serves-up-incremental-new-capabilities/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cloud-summit-serves-up-incremental-new-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62671d2df0d06c9e7a5ca2c5/0x0.jpg?format=jpg&width=1200",
-          "width": 604,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cloud-summit-serves-up-incremental-new-capabilities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cloud-summit-serves-up-incremental-new-capabilities/amp/",
-      "publishedDateTime": "2022-04-25T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage.md",
-      "title": "Hospitals turn to artificial intelligence to help patients while addressing worker shortage",
-      "excerpt": "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc15.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
-      "originalUrl": "https://www.abc15.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC15 Arizona",
-        "domain": "abc15.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-computer-system-scrutinizes-video-footage-to-analyze-animal-behavior.md",
-      "title": "Computer system scrutinizes video footage to analyze animal behavior",
-      "excerpt": "Ordinarily, when studying the behavior of animals, scientists have to watch many hours of video footage of the creatures going about their daily lives. That may soon no longer be necessary, however, thanks to a new critter-watching computer system.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/",
-      "originalUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/255cb2c/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff8%2F09%2F6583f3c14d67a0279df513621626%2Fdepositphotos-1169283-l.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/animal-behavior-machine-learning-computer-system/?amp=true",
-      "publishedDateTime": "2022-04-25T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

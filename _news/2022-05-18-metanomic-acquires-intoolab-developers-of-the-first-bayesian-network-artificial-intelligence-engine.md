@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Metanomic Acquires Intoolab, Developers of the First Bayesian Network Artificial Intelligence Engine"
-excerpt: "This acquisition augments Metanomic’s current game economy infrastructure that allows developers to build, simulate and run balanced game economies and core gameplay loops in a live, real-time environment."
+excerpt: "Today, Metanomic ( https://www.metanomic.net/) announces it has acquired Intoolab A.I ( https://www.intoolab.com/) , a Bayesian Network Artificial Intelligence ... has already been successfully proven in Healthcare and the technology is now being applied ..."
 publishedDateTime: 2022-05-18T07:32:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-games-video-artificial-intelligence-5400fb17e5d642d683fd93651c656d7f"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-games-video-artificial-intelligence-5400fb17e5d642d683fd93651c656d7f"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-games-video-artificial-intelligence-5400fb17e5d642d683fd93651c656d7f"
+webUrl: "https://apnews.com/press-release/business-wire/technology-games-video-artificial-intelligence-5400fb17e5d642d683fd93651c656d7f"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "bsQQc4YGTnVRVvhP0IBlXx8YEbkm88TWddM0mB8GcFa2dQD7U4D/vVzY5FEtmZPcEhhW4OMXkwbvCKpCSkHbVDO0yNHLnTkZDW4AqwzzkLppZ+PXXhnpYtQjvqa+NdPgBb7VEBCLwU7vKsWdRMGzm45/nttFpTxAmwvojdFZdCnFcUiatF7sBF3eGsxkdxe5jHpos7tG4aPdheWqLJK4lqfF7t3uEJiEz2OMkPlU5Og3VYDKVHLmRngA59sFxNxBqhcJZHWjlLKEHX4tH7g3iAQO2R3NwxW7u99owN7/ErDzdlPJnZm6DEODR2hOby/K21Gil7vwud7FyzWL1J8Sa+oVxCsYRoyoTDdldbmOaL4=;GLkShHcSUTpS/ppiXntOeQ=="
+secured: "Ipi8I97H+mD9wNkGLrA47PMVu/Mh2eju4LzbQGsRd6b4DRDX3RqRhioppc+oa0TSkfmcyaYeRrCTEcJHWo/DHCEwFai7KDJa6OEb7HYwEtfkOV9yTU5A83eOlBTn6Qujud4d51J6oYIcEAOf0p8a9eswDCKQfVww9LlDTsM2fKzPgMPUCv35XGWnwnrfG0uMr6WkPy+05jCDaJt4asqF8Qt+ysM5MT2MA4lPL4mdL2CLp7ZSZGtIU6wmRH0if3RvT5dWUc6MTXCyTe1bizOl+G7PGnH9fNdYpYPUYjGaCX1GiSLj7vt6ArSn0t7byUB7pY47OHrMXyzqNy2wgr+bMLt6HCqUCK+dwFjPyXB5J0s=;3OOZmlC5v8uIASHL/tZpRg=="
 ---
 

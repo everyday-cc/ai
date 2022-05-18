@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/ibm-poor-ai-skills-undermining-uk-leadership-amb
 ampWebUrl: "https://diginomica.com/ibm-poor-ai-skills-undermining-uk-leadership-ambitions?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ibm-poor-ai-skills-undermining-uk-leadership-ambitions?amp"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Robotics
+  - Facebook AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2022-05/839615C7-95B3-40CF-B937-BEADE195DE63.jpeg"
@@ -27,6 +28,6 @@ images:
     height: 350
     isCached: true
 
-secured: "FJRWJV3ciTZcJkAhecve3QRVN8b0hgc5mUbtNunTt1wHQzDhHZLOGntycQEe/58Eko0UrC3rxby3kFQxRE+ByWH1a2TVLZLs7sR3xjRBvvVZwBwqYmlC35nexh9n03DeRhv2FIqWD2nrQOTes6XQECrJDZV4p1LWi88is+nQSinc3CFWpWa1bvfjEQ3NOwBF2+77AYiYAYIngX3D/Yebsh8kFeKw3pqOx7E+K9OytyG+SP4DgDHlh7o79JUPvWoOubrrm7AkE8eD1FypFCfnCeTc0Wsjp5sn11lQHliyQ03J6+HLLEX3mEf0eKBIgWTOCqGM5zV0lCpjHOTgag9pE0gv1yuQ5N3QGG0/eUoQ3f4=;IZfFWvRlG8kJtp4VPwsCaw=="
+secured: "fsZhDWFFnOjoWSiu0kujgcGMYvsFdh1sOrzD/bD+k7Bj5mrWCyc27/aZLoCwl2u6k80myst8fh2zS5WBqoBFemmAhRoTYC+7uHYVlAG8zpAx6iai3WiG1hK02hMVj0CFmqTsFtBCqYuvlDVilUwLEd2SNoIyPwLIzrYoYt6mu8HD41Otqsd8eLRj4imMkkcDCGwbJ/nPTH+wJ66CBQ2kBHzoVm3N6HrbDKgYQQqKK6I4U1Lzb4XqvzIUwBuv4rcQ0Uu6p/iPDkWRJxIfYVtt3m8LaZOOnHlcSABHmSIereo//cR6CZAxAqV3o5jQKz603e9RbLi5Z9R8YH6C8NYCkEhfaHC05j5e65xErvcVl/yfUgVLrfOjYIO1W//iVjZrbXRWpkRfGVdgP9ZXtzHJs7QFpJnrSU3hbiasSm5mEOmOE3RZVOGgxVt7lNR09kHTH98381rRzFNoCuQVvAtcc7aCx2sSWtAS4MtbwPLG7NX5rrzKX5CrxA9jcBRn9WciWzi3HJCezIzCPl4XNEt7Aw==;/w+Kco/wL5OO0GWDnHMIeQ=="
 ---
 

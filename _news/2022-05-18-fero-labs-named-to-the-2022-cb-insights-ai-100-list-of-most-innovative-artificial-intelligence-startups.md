@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "Factory optimization software maker Fero Labs is recognized for achievements in industrial automation for modern manufacturers NEW YORK, May 17, 2022 /PRNewswire/ -- CB Insights today named Fero Labs to its annual AI 100 ranking,"
-publishedDateTime: 2022-05-17T20:46:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
+excerpt: "\"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100. This year's cohort spans 13 industries, working on everything ..."
+publishedDateTime: 2022-05-17T20:50:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1031469975"
+webUrl: "https://markets.businessinsider.com/news/stocks/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1031469975"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 66
+heat: 166
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -80,6 +84,20 @@ related:
         width: 1250
         height: 653
         isCached: true
+  - title: "SparkCognition Named to 2022 CB Insights AI 100 List of Most Promising AI Companies in the World"
+    excerpt: "Unicorn valued AI software company recognized for fifth time on prestigious list AUSTIN, Texas, May 17, 2022 /PRNewswire/ -- SparkCognition, a global leader in artificial intelligence (AI) software solutions for industry,"
+    publishedDateTime: 2022-05-17T14:14:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-f2186772fd3949dc6233de1ca9d14181"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cresta Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "SAN FRANCISCO, May 17, 2022 /PRNewswire/ -- CB Insights today named Cresta to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
     publishedDateTime: 2022-05-17T13:07:00Z
@@ -107,6 +125,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
+  - title: "Accelerating startups with unchartered resources–a pivotal tool in the Startup Nation"
+    excerpt: "In this cohort, Intel Ignite received 200 applications, and selected 10 startups, in various industries including AI, digital health, robotics, sensors, hardware, developer tools, and cyber security. With Intel Ignite, each startup is working together with ..."
+    publishedDateTime: 2022-05-17T12:00:00Z
+    webUrl: "https://www.geektime.com/acceleration-programs-israel-intel-ignite/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 0
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
     excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
     publishedDateTime: 2022-05-17T18:00:00Z
@@ -117,6 +144,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "uGzLnbSss2EibzeLiW4rTsfK5+wVWxc38Bfz4J/8Nd+YejRQzGGhuB6XN2x+LmWq3Sln34/Lir6MMYzlcFfUTGS4iOaC/qXCxMHQe3EMw1URh2lGZzl0xAJzUk1QqqkMzupQiB/2I9zYj714qU7TdTWeFKjMs69UIfJcXsg5wthTZzwA/nlno72ur7p0A/p/sXdeHLUk4GQ8iMtdo1E4bZtH6E+JXgf0hBd2EVQ0AY/VVlFf6tg6/nI58StdDJm1HkpcLiD28sIb4VvKGEKaJm2XueO5JdTI8NGZtnNhONb/lk6cn2bl09TnETwIzE829K4FV6v3xWlXqV28vGech4VB7EAUNE8wu2KfWihw7fQ=;ICC+gnygVQ7su28lJtDtkw=="
+secured: "lucMebbCKV/HJ9mWCDsbAYxeEllbg7VpVT+PUV1X0EcgO76Q28pURiuNNktkSlSQDOk4vd5bVwYG5HIt3PehlzUEWfX641HymfcuSypsEHeFqeejBlZcXaZoXnDPT8QwJTpp3RKygnFJJEiYQ9iwCyngLitPdy7M3TFhaC69B4sXXUo7DJG/OICPeeq+6Ozt0YkLqfbu9Yob0BMFehOxQMwxDbZV21MawSVNP5XoBsz/gsT3G2F2myXLv7ZBKxKHh49sQFO/hcnaziUm2y9Q3A90buiq8jpkVWcX9MIwi8pgmnxSa6jIJz4FhvrqeGLYTnPTN+8MwiifdHgeKZdDeuZWq8wIx+IfVDi8Uxb8yuk=;6aqtQjQ7VHUrLb4Yvvcqgw=="
 ---
 

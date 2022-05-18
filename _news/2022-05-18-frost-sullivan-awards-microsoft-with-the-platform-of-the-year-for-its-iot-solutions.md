@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Build Back Better: Business Solutions with Azure and Microsoft 365"
+    excerpt: "How to build innovative solutions that solve real business problems using Azure and Microsoft 365. No code, low code and pro code."
+    publishedDateTime: 2022-05-18T08:11:00Z
+    webUrl: "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/"
+    type: article
+    provider:
+      name: SharePoint
+      domain: sharepointeurope.com
+    quality: 54
+    images:
+      - url: "https://www.sharepointeurope.com/wp-content/uploads/speakers/2016/03/Bill-Ayers-2.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Frost & Sullivan awards Microsoft with the Platform of the year for its IoT Solutions"
     excerpt: "The Azure IoT Platform enables enterprises to expand features ... industry with its innovation and best-in-class technologies, such as its IoT platform, machine learning, artificial intelligence, digital twins, analytics, edge computing, and much more."
     publishedDateTime: 2022-05-17T12:47:00Z

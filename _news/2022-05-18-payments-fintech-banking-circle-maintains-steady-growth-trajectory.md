@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-ban
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
         width: 1025
         height: 567
         isCached: true
+  - title: "CBB launches Bahrain Supernova FinTech Challenges 2022"
+    excerpt: "The Central Bank of Bahrain (CBB) has launched its second annual series of nationwide FinTech innovation challenges, Bahrain Open Banking Supernova 2022, which will be hosted on FinHub 973, the CBB’s Digital Lab,"
+    publishedDateTime: 2022-05-18T10:54:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDtXm9hx6uxSIMngb0867aIw%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 19
 
 secured: "t9LnitVZaCD+Er7K/TOpfBBCEnkxWQmIr+LpAgA47ictgmwTbH5mvGY+Xwo3fXeGXdSvQmp4tuiPjmIdvQQWisZBMYjc2Lv+0oseJZItbGqceTCJxnVdTGKw5szb0a8xPP+O5DlqjqaHqNDnZlE2nwMAj6Cmb94Rl7N4F3gvZxGADqo3sWz6jSAqQijzCa39ZN9vLfbKwF+Qvh+saFFw5d3gqWJ9i1vkjoEut5FqdAsMw3/f29J7nbkWimy9iE/owXfDlsy9y67DrjBtx0iPHNzbpT7l13QUZiDX67mtAldIAjtLX1jXHLH/oMHsbJIzZTzHAunkPZGsyWl+BxRzX61Ozspu+6H7NSeb5n3T1wGHHlsw73Gjsb1sxoN7OSKHSZ3XSD3QvG6m+5kZV7YHXKB647MvdlGXZhlwY7xxHtHX0EKy9e7m7mNrDlL/bNQqRCSsOsREnVIn2dXpTQffTdRNNteUBnnPHj3fk6cN0FcUov9NWPROp1QWsxYZgD9DbRzLz6k8DqkqRDxQT4O0eQ==;1fEiLVvezPZY63HWvOodig=="
 ---

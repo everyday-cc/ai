@@ -48,20 +48,6 @@ related:
         width: 335
         height: 250
         isCached: true
-  - title: "Educational Robot Market: Global Forecast, Size, Share, Growth Analysis and Report 2021-2026"
-    excerpt: "According to the latest report by IMARC Group, titled “Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-05-16T09:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/educational-robot-market-global-forecast-size-share-growth-analysis-and-report-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "mZEP3lLdnB+HBQQnDcYPcovFSfk1jCFDx/Wtk/FfxcSi05m4C4v43w5DHxLqiYY4foWsNU7aN8R+DF8eITCmtxPtGwb4KmM6iB2RMbS5dJlsJjxBH6VGUzWV8j2ZxS9D6VeZBy7wUXcJdurQPxkFv2QAhwnh6IL8xSxWlIKDpP5YQSlb4gmIY5Cg3m7K7j1SeDwq7gLps2NkUKXodJIXDCDp0xEdlR29QQ+LPVBvhyYyd2tdyCiG/+km5CvwrlvcfJZJuVwAs3nFZG4P/8o0hXxtkTgjRUBC9rQvW5tt2+6nEUbwE6xa+kCrb5+v9IbT/zfI69jVWkN/jVXDFHluMhDCNkBxEPanrNSvjAQtKqY=;8BLwZGfMzCH28h8NkKlJHQ=="
 ---
