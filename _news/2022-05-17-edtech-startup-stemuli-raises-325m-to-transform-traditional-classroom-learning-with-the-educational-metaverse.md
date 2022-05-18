@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 1500
         isCached: true
-  - title: "Uniphore: Building deep-tech conversational AI for the world"
-    excerpt: "Uniphore has the vision of becoming the horizontal AI layer running across every organisation and every single conversation, including—not in the too distant future—in-person conversations"
-    publishedDateTime: 2022-05-13T08:57:00Z
-    webUrl: "https://www.forbesindia.com/article/saas-rising/uniphore-building-deeptech-conver-sational-ai-for-the-world/76279/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 37
-    images:
-      - url: "https://www.forbesindia.com/media/images/2022/May/img_184841_uniphore_sm_sm.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Dallas Startup Lands Funding to Expand its ‘Educational Metaverse’ Nationally"
     excerpt: "Dallas-based STEMuli was founded by CEO Taylor Shead to create a gamified 'metaverse' where kids can earn tokens and have fun while they learn. Piloted since last summer at Dallas Hybrid Prep, it's given both remote and in-class learning an avatar-packed boost."
     publishedDateTime: 2022-05-17T20:01:00Z

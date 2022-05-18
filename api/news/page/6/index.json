@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-11-never-scoop-poop-again-with-the-sleek-brilliantly-designed-litter-robot-4.md",
+      "title": "Never scoop poop again with the sleek, brilliantly designed Litter-Robot 4",
+      "excerpt": "Designed with community feedback in mind, the latest Litter-Robot is all about improving on all the pain points from previous models – notably it’s less noisy, bulky and smelly. Ahead, everything to know about the Litter-Robot 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/litter-robot-4-review-lead.jpg?q=h_899,w_1601,x_0,y_0",
+          "width": 1601,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
+      "publishedDateTime": "2022-05-11T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws.md",
       "title": "IBM signs collaboration agreement with Amazon, SaaS offerings soon available on AWS",
       "excerpt": "Inc. (AWS). According to a statement from IBM, this latest partnership will provide IBM clients access to automation, security, artificial intelligence, and data capabilities through IBM Cloud ...",
@@ -136,6 +188,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
+      "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
+      "excerpt": "Scientists find public appetite for self-driving vehicle trails far behind that of the technology companies and steps need to be taken to make them a success",
+      "sourceUrl": null,
+      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "i",
+        "domain": "inews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1058,92 +1153,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-sec-enforcement-actions-support-critical-skills-based-ethics-training.md",
-      "title": "SEC Enforcement Actions Support Critical Skills-based Ethics Training",
-      "excerpt": "The question of how to teach ethics has plagued academics for generations, with some even wondering whether it can be taught at all. Steven Mintz, an",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpajournal.com/2022/05/10/sec-enforcement-actions-support-critical-skills-based-ethics-training/",
-      "originalUrl": "https://www.cpajournal.com/2022/05/10/sec-enforcement-actions-support-critical-skills-based-ethics-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpajournal.com/wp-content/uploads/2022/05/CPA.2022.92.3.036_uf0011-730x330.jpg",
-          "width": 730,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cpajournal",
-        "domain": "cpajournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-machine-learning-improves-hawaii-rainfall-mapping.md",
-      "title": "Machine learning improves Hawai'i rainfall mapping",
-      "excerpt": "University of Hawaiʻi and East-West Center researchers have developed more accurate monthly rainfall maps by using machine learning. They used a machine learning technique to detect erroneous ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
-      "originalUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-impro-1.jpg",
-          "width": 676,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-machine-hawaii-rainfall.amp",
-      "publishedDateTime": "2022-05-10T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

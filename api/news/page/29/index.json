@@ -2,6 +2,161 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-04-20-ibm-to-make-watson-orchestrate-generally-available.md",
+      "title": "IBM to make Watson Orchestrate generally available",
+      "excerpt": "Watson Orchestrate also supports integration with Salesforce, SAP, Workday, and other enterprise applications to help businesses automate emails, schedule meetings, request approv",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815037/itpro/watson.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-tesla-has-now-over-100000-people-in-its-full-self-driving-beta-program-is-an-accelerated-rate-of-improvement-coming.md",
+      "title": "Tesla has now over 100,000 people in its Full Self-Driving Beta program – is an accelerated rate of improvement coming?",
+      "excerpt": "Tesla CEO Elon Musk revealed that the automaker has now over 100,000 people in its Full Self-Driving (FSD) Beta program. Does it mean that we are going to start seeing an accelerated rate of ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/",
+      "originalUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/",
+      "publishedDateTime": "2022-04-20T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-prezentai-secures-20m-to-gamify-deck-presentations.md",
+      "title": "Prezent.ai secures $20M to gamify deck presentations",
+      "excerpt": "Prezent.ai, which is developing a suite of tools to help employees present ostensibly better decks, has raised $20 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/",
+      "originalUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1139933142.jpg?w=724",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/",
+      "publishedDateTime": "2022-04-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-ucl-and-deepmind-improving-representation-in-artificial-intelligence-education.md",
       "title": "UCL and DeepMind: improving representation in artificial intelligence education",
       "excerpt": "Global artificial intelligence (AI) company DeepMind is working with UCL to open up scholarships to underrepresented students.",
@@ -953,127 +1108,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated.md",
-      "title": "Even Financial's Embedded Finance Marketplaces Surpass $5 Billion in Credit Facilitated",
-      "excerpt": "Leveraging machine learning and advanced data science, Even solves a significant pain point in financial services customer acquisition by seamlessly bridging financial service providers and channel partners via its industry-leading API and embedded finance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated/article_dab178ba-e2bf-5aca-8da1-ec3c829808fd.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated/article_dab178ba-e2bf-5aca-8da1-ec3c829808fd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/0a/40a77029-ab72-5293-9a7a-85d19c7f6454/6076f5942ed8c.image.jpg?crop=1486%2C780%2C507%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-enova-announces-date-of-first-quarter-2022-financial-results-conference-call.md",
-      "title": "Enova Announces Date of First Quarter 2022 Financial Results Conference Call",
-      "excerpt": "CHICAGO, April 19, 2022 /PRNewswire/ -- Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning and artificial intelligence, today announced the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/enova-announces-date-of-first-quarter-2022-financial-results-conference-call/article_9a167209-c1b9-5388-9def-dccdcece7697.html",
-      "originalUrl": "https://www.news-journal.com/enova-announces-date-of-first-quarter-2022-financial-results-conference-call/article_9a167209-c1b9-5388-9def-dccdcece7697.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-manufactural-artificial-intelligence-market-in-depth-analysis-with-leading-key-players-ibm-microsoft-oracle.md",
-      "title": "Manufactural Artificial Intelligence Market in-Depth Analysis with Leading Key players IBM, Microsoft, Oracle",
-      "excerpt": "New Jersey, N.J., April 19, 2022 – Manufactural Artificial Intelligence Market research is an intelligence report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/manufactural-artificial-intelligence-market-in-depth-analysis-with-leading-key-players-ibm-microsoft-oracle-2022-04-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/manufactural-artificial-intelligence-market-in-depth-analysis-with-leading-key-players-ibm-microsoft-oracle-2022-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

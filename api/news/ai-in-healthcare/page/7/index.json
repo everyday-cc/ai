@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-11-facial-analysis-improves-diagnosis.md",
+      "title": "Facial analysis improves diagnosis",
+      "excerpt": "\"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible ... this varies from disease to disease. Artificial intelligence (AI) uses these ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/facial-analysis-improv.jpg",
+          "width": 1051,
+          "height": 1388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-facial-analysis-diagnosis.amp",
+      "publishedDateTime": "2022-02-10T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-who-its-time-to-eliminate-ageism-in-artificial-intelligence.md",
       "title": "WHO: It’s Time to Eliminate Ageism in Artificial Intelligence",
       "excerpt": "February 10, 2022 - As caregivers examine how artificial intelligence (AI) can improve healthcare for ... The risks associated with AI-driven healthcare revolve mainly around ageism, which is discrimination based on one’s age that can affect how useful ...",
@@ -1302,50 +1345,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences.md",
-      "title": "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences",
-      "excerpt": "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
-      "originalUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dev.rodpub.com/images/248/280_main.jpg",
-          "width": 1542,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Contract Pharma",
-        "domain": "contractpharma.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

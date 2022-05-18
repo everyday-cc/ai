@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-28-low-energy-device-lights-up-artificial-neuronal-networks.md",
+      "title": "Low-Energy Device Lights Up Artificial Neuronal Networks",
+      "excerpt": "To date, research on hardware for artificial intelligence and machine learning applications has concentrated mainly on developing electronic or photonic synapses and neurons, and combining these to carry out basic forms of neural-type processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/low-energy-device-lights-up-artificial-neuronal-networks-361053",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/low-energy-device-lights-up-artificial-neuronal-networks-361053",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/361053/low-energy-device-lights-up-artificial-neuronal-networks-361053-640x360.jpg?cb=20220428",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-the-power-of-deep-learning.md",
       "title": "The power of deep learning",
       "excerpt": "Machine learning isn’t the only term getting all the buzz. Deep learning, or a class of machine learning algorithms, is showing great promise, primarily because it’s getting results.",
@@ -1383,59 +1426,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-ai-literacy-for-finance-professionals-three-things-you-need-to-know.md",
-      "title": "AI Literacy For Finance Professionals - Three Things You Need To Know",
-      "excerpt": "An overview of AI Literacy for Finance Professionals. Key things you need to know to apply AI effectively in finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626034b223d534de5d19bee8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/amp/",
-      "publishedDateTime": "2022-04-20T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

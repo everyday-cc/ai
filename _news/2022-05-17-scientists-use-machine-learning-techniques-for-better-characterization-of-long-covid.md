@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220516/Scientists-use-machin
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220516/Scientists-use-machine-learning-techniques-for-better-characterization-of-long-COVID.aspx"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Scientists use machine learning models to help discern characteristics of people with long-COVID"
+    excerpt: "Clinical scientists used machine learning (ML) models to explore de-identified electronic health record (EHR) data in the National COVID Cohort Collaborative (N3C), a National Institutes of Health-funded national clinical database,"
+    publishedDateTime: 2022-05-18T01:14:00Z
+    webUrl: "https://www.news-medical.net/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 46
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Electronic_Health_Record-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "DNqowhXOhd+ziFBSMImTMYUr0DCFAs94NII63YTqpCbnrJh70EGWBDgP3pHs5H7vHozlYOCEOkRBp5pfnW3iP1Nar5YKD3qQqnfAManLZPz9t4UYeZi8FtbPvADbszX0B101xK+PuxHBbIFZmEsb1gw59nZ7nCU2eAXxfE+qr9bOM3i7TvKQxtX7D5eGO9LSIO3qm9GRHXupzCnroGQkZxzr4Vfd7EIztkoX6Gjv1jAh8Oebe2yZyxsegoebmHPdtFi3yukPyB2MSsiT+fjvpQK/8cS868qrWY5dAUXr22nNMT8FcunB4raaeapK59vlyp56I+Fi6zUs6U4Otkyww8wqgx6rXZ8SaPhdqmnKkriQ2RrKvXVEg8Qo4eV/OtOeeApVyK0/PqGYV/FsTcc8wYuIEgpdi03oXlxUFaYSIIlNvDingLsVTjRynfVG1nnMkFX3Pq0en7AJw23z/gZd3Y0PBOZRR6BS4iGoLsEgcNsDDmm52i7OxH8V2vPZpqzP0oa3EIxX6JvjxCqaUWTsgg==;VETS3OpWLcFTfJ5GYoP/ag=="
 ---

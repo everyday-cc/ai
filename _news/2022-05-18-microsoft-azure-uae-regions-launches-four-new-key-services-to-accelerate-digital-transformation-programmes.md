@@ -28,17 +28,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "Times Professional Learning launches Post Graduate Programme in e-Commerce & Supply Chain Management"
-    excerpt: "The three-month training programme aims to provide learners with requisite skills to boost employability and help them become industry-ready NEW DELHI, May 13, 2022 /PRNewswire/ -- Times Professional Learning (TPL),"
-    publishedDateTime: 2022-05-13T07:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-times-professional-learning-launches-post-graduate-programme-e-/2022/05/13/9601630.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-
 secured: "vwhlYVkr04Nc4nE1/oBqvyvRb99pmA+WYM8UAM+geBp264Q8ICKwvl0GsqJRXTOAH2YBrma3Jh4NdP6CK7JfBHCgdflocjuqv3sDbzDEOGGwCDI6ey2j+sbUtfijhXhk4IGB0MiMfBZ+iIybRnW/B/s3pLKV5UZ27wBdmScIolIMEFFpBr1yoRZZVXuJy4v0/KgAskLnifDB87JROvZEUTX50oCSE5FXwTUlS836V8sxERjHd7gFEeFE/ZSxvCw2Caz+yORDYDQxSBetysM5oMiz1JFbc4U0xtegPL3ajiGzZWsjwjTi9inDcCmr6SsqELLWjIAs/7EcSWqXNVDXYrev4DEp5cnd4iw00ZKF3I4=;ek4QfaZYe92U7mWfaGPk7A=="
 ---
 

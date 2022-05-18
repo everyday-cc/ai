@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 1500
         isCached: true
-  - title: "Uniphore: Building deep-tech conversational AI for the world"
-    excerpt: "Uniphore has the vision of becoming the horizontal AI layer running across every organisation and every single conversation, including—not in the too distant future—in-person conversations"
-    publishedDateTime: 2022-05-13T08:57:00Z
-    webUrl: "https://www.forbesindia.com/article/saas-rising/uniphore-building-deeptech-conver-sational-ai-for-the-world/76279/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 37
-    images:
-      - url: "https://www.forbesindia.com/media/images/2022/May/img_184841_uniphore_sm_sm.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "EdTech startup STEMuli raises $3.25M to transform traditional classroom learning with the Educational Metaverse"
     excerpt: "STEMuli, a minority- and woman-owned Web3 education startup, has announced $3.25 million in seed funding co-led by Slauson & Co and Valor Ventures, with"
     publishedDateTime: 2022-05-17T13:02:00Z

@@ -352,49 +352,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-13-us-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates.md",
-      "title": "U.S. warns of discrimination in using artificial intelligence to screen job candidates",
-      "excerpt": "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
-      "originalUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/6fc959d/2147483647/strip/true/crop/4957x2790+0+258/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F17%2Fnpr_petra_mayer_001_slide-fc73c3a6286d8f2dc63d490a06a43d00bec32b1c.jpg",
-          "width": 430,
-          "height": 242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
-      "cdnAmpWebUrl": "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
-      "publishedDateTime": "2022-05-12T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Iowa Public Radio",
-        "domain": "iowapublicradio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-13-watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups.md",
       "title": "Watch the latest TechCrunch Live here: Raising monster rounds for self-driving mobility startups",
       "excerpt": "TechCrunch Live records, well, live every Wednesday at noon Pacific, and it’s a great time. The events are free, and is available to watch on Facebook, YouTube, and Twitter. However, if you want ...",
@@ -529,6 +486,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
+      "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
+      "excerpt": "Scientists find public appetite for self-driving vehicle trails far behind that of the technology companies and steps need to be taken to make them a success",
+      "sourceUrl": null,
+      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "i",
+        "domain": "inews.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

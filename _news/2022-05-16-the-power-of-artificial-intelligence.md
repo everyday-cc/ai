@@ -73,6 +73,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Crowd Media enters conversational AI partnership with business intelligence platform to supercharge sales and lead generation"
+    excerpt: "The deal is a natural fit for Crowd Media which will now go and whip up a Proof of Concept (POC) which will focus on leveraging CM8’s Talking Head platform to apply “conversational AI” to the Media Search sector. That POC will be with SourceFlare in ..."
+    publishedDateTime: 2022-05-18T00:53:00Z
+    webUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/"
+    ampWebUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 47
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2022/05/Unknown.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Forma.ai closes USD$45 million Series B financing to accelerate revolutionary AI-supported sales performance management platform"
     excerpt: "Company leads market in data-driven models with higher-impact incentives to drive optimal performance TORONTO, May 17, 2022 /PRNewswire/ - Forma.ai, the Sales Performance Management solution (SPM ..."
     publishedDateTime: 2022-05-17T13:19:00Z

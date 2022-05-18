@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/Business/20220513/39411
 webUrl: "https://news.webindia123.com/news/Articles/Business/20220513/3941140.html"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "iHub-Data at IIIT Hyderabad launches Foundations of Modern Machine Learning Course"
-    excerpt: "Hub-Data at IIIT Hyderabad invites applications from second-year undergraduate engineering students for its 50-week online course on Foundations of Modern Mach"
-    publishedDateTime: 2022-05-13T08:58:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272550045/ihub-data-at-iiit-hyderabad-launches-foundations-of-modern-machine-learning-course"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 33
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1652431845.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "iHub-Data AT IIIT HYDERABAD LAUNCHES FOUNDATIONS OF MODERN MACHINE LEARNING COURSE"
     excerpt: "Mentors with considerable exposure to machine learning will help participants to realise objectives of tutorial projects. Industry experts will also contribute to the learning outcome through ..."
     publishedDateTime: 2022-05-16T18:37:00Z

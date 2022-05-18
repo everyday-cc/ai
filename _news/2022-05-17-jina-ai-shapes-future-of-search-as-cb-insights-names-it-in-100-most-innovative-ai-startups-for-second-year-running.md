@@ -1,29 +1,47 @@
 ---
 category: news
 title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
-excerpt: "Leading cloud-native and AI-based open-source neural search provider Jina AI has this week been recognized in CB Insights 2022 AI 100 as one of the most innovative AI startups. This marks the second consecutive year Jina AI has appeared on the list,"
-publishedDateTime: 2022-05-17T16:52:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-c2f213f112ef866227537f9fc48f3de8"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-c2f213f112ef866227537f9fc48f3de8"
+excerpt: "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". The word \"Markets Insider\". Two crossed lines that form an 'X'."
+publishedDateTime: 2022-05-17T16:06:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running-1031469372"
+webUrl: "https://markets.businessinsider.com/news/stocks/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running-1031469372"
 type: article
-quality: 15
-heat: -1
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1819489/Jina_AI_CBInsights_2022_V02__1.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
+  - title: "Encord Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Encord, the platform for data-centric computer vision, on its annual AI 100 ranking, a list showcasing the 100 most promising private artificial intelligence companies in the world."
+    publishedDateTime: 2022-05-17T16:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "TrojAI Inc. Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named TrojAI Inc. to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"Protecting AI has become recognized as the most significant cybersecurity challenge of the next decade,"
     publishedDateTime: 2022-05-17T13:00:00Z
@@ -61,15 +79,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Encord Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Encord recognized for achievements in Computer Vision. CB Insights today named Encord, the platform for data-centric computer vision, on its annual AI 100 ranking, a list showcasi"
-    publishedDateTime: 2022-05-17T16:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-17-encord-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 17
   - title: "Observe.AI Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "Observe.AI (  an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named to CB Insights’ annual AI 100 Ranking, which showcases the 100 most promising private artificial intelligence companies in the world."
     publishedDateTime: 2022-05-17T13:10:00Z
@@ -88,15 +97,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
-  - title: "SparkCognition Named to 2022 CB Insights AI 100 List of Most Promising AI Companies in the World"
-    excerpt: "SparkCognition, a global leader in artificial intelligence (AI) software solutions for industry, is pleased to announce it has been named to the 2022 CB Insights AI 100 List. The list showcases the 100 most promising AI companies in the world,"
-    publishedDateTime: 2022-05-17T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-named-2022-cb-insights-ai-100-list-/2022/05/17/9603597.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
     excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
     publishedDateTime: 2022-05-17T18:00:00Z
@@ -107,6 +107,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "+Fbj+IGSFnDmlt+qoZshfJGd4Ho6w5++bK9h6DsqCyNXZTYFsRUsAL8wYzNZxu167LPj9kugZPJ7dBb+U6BpumeCAk3VzlqOpu7zk+FSNdJJw4p0o2vxv30OKnuVJRxwo+qHXdbjKZ5Sce4F09nHzEqulepD8WYY4EYfXh5wZTTKPbgYhP654jyFUFAWtqBGotVc61oASxxFoVcknXPVbblAangH4NsWKEOuHAC5GyuxIWO9kUK52nO1gG7SWuw7K7zU9Dc4f9yugIV3yMhDYTExoE8grfImV1fyYr1gQ07pKOnxXJ4kGU5OrdXF5l5bSd1l2rsjPfD2Fp4GBmbKi6jKgYi71DWdVw9dof2ci0o=;14vlDDYVq3rr/zBX6hTUMw=="
+secured: "CkxZkCbbXghKRl1oJDKyECDT4GP4XSkADnpBoCM6+Npm0Rv6v+KKv35/pmJZ83czUCC6TP3CQHh1CRG1GG1KMgufUpHe0MoeUYyTf2JDg7cJ8j/AxAS7+cJy35t2EdCTyeWuZZ3cyHKND6XTUZh+SwYvzh/+NJdCecO1r8NqykbOqnqKz6bXwUK1qnNfYkKGv5nJO4g+Ml9FvV5YcbHUUhCRbMEAIoWnxchu6PsZW4a8fwp4dOHKgBAS/bxh+/w04iOV1rc6l9ll2vYjIQ0sbeZv9u9OyRSyaQlhBROnFmPkJuJedx3fuQv1rQDdClD9gKsxmv+d3w3gBVSnzEq5xbAWNCih7zoqrW8kY1tz0+k=;C594xd9foJe6QBDvi6ejxQ=="
 ---
 

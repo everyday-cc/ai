@@ -20,20 +20,6 @@ topics:
 
 related:
   - title: "iHub-Data at IIIT Hyderabad launches Foundations of Modern Machine Learning Course"
-    excerpt: "Hub-Data at IIIT Hyderabad invites applications from second-year undergraduate engineering students for its 50-week online course on Foundations of Modern Mach"
-    publishedDateTime: 2022-05-13T08:58:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272550045/ihub-data-at-iiit-hyderabad-launches-foundations-of-modern-machine-learning-course"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 33
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1652431845.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "iHub-Data at IIIT Hyderabad launches Foundations of Modern Machine Learning Course"
     excerpt: "India], May 13 (ANI/PRNewswire): iHub-Data at IIIT Hyderabad invites applications from second-year undergraduate engineering students for its 50-week online course on Foundations of Modern Machine Learning commencing from August 2022."
     publishedDateTime: 2022-05-13T20:25:00Z
     webUrl: "https://news.webindia123.com/news/Articles/Business/20220513/3941140.html"

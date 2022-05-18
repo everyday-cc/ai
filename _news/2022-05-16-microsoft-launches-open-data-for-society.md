@@ -34,22 +34,6 @@ related:
         height: 600
         isCached: true
   - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-    excerpt: "Prior to implementing SAS Viya on Azure, interviewees noted that barriers to data access and disparate data sources made it difficult and time-consuming to build, deploy and manage AI models. Other issues they faced included the inefficiencies and high ..."
-    publishedDateTime: 2022-05-13T07:20:00Z
-    webUrl: "https://www.albawaba.com/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 61
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-05/jay.png?itok=5WUB_pkk"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
     excerpt: "Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a204%"
     publishedDateTime: 2022-05-17T14:44:00Z
     webUrl: "https://menafn.com/1104228806/SAS-Viya-on-Microsoft-Azure-can-deliver-204-return-on-investment-according-to-independent-study"

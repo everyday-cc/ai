@@ -2,6 +2,103 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-05-04-tailored-cognitive-therapy-helps-black-women-fight-insomnia.md",
+      "title": "Tailored Cognitive Therapy Helps Black Women Fight Insomnia",
+      "excerpt": "WEDNESDAY, May 4, 2022 (HealthDay News) -- A cognitive behavioral therapy (CBT) intervention for insomnia tailored for Black women improves sleep outcomes and intervention engagement, according to ...",
+      "sourceUrl": null,
+      "webUrl": "https://poststar.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_9a54d6bd-24d0-5d71-9127-13f98db4f3ce.html",
+      "originalUrl": "https://poststar.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_9a54d6bd-24d0-5d71-9127-13f98db4f3ce.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/6/91/69132851-3a91-5547-bd84-df33e1a20612/6272ac7f92f82.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Post-Star",
+        "domain": "poststar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics.md",
+      "title": "Experiencing NVIDIA Jetson AGX Orin: The Fascinating Future Of AI-Empowered Robotics",
+      "excerpt": "As you can see, NVIDIA’s Riva AI speech recognition engine has no problem keeping ... Various configurations of Jetson AGX Orin production modules above will start shipping in July, with lower cost Jetson Orin NX modules shipping in September.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62715c96e2864518f941d642/0x0.jpg?format=jpg&width=1200",
+          "width": 1130,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/",
+      "publishedDateTime": "2022-05-04T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-global-speech-to-text-api-market-to-2027-size-share-industry-trends-analysis-report-researchandmarketscom.md",
       "title": "Global Speech-to-text API Market to 2027 - Size, Share & Industry Trends Analysis Report - ResearchAndMarkets.com",
       "excerpt": "is a programming interface that enables the utilization of speech synthesis and recognition in a variety of devices and applications. Speech-to-text API is a multidisciplinary subject of computational linguistics that explores methods that allow computers ...",
@@ -1071,92 +1168,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
-      "title": "DeepMind Is Working on a Solution to Bias in AI",
-      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
-          "width": 1178,
-          "height": 1070,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
-      "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
-      "excerpt": "DETROIT (Reuters) - Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483827.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
