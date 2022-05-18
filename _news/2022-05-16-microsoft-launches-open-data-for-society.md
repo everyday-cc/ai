@@ -63,15 +63,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment, study finds"
-    excerpt: "Quantified benefits included faster time to market for analytics insights, improved operational efficiency in model building and testing, and cost savings from retiring on-premises analytics infrastructure."
-    publishedDateTime: 2022-05-13T06:34:00Z
-    webUrl: "https://www.itp.net/infrastructure/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-study-finds"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 30
   - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud™ Solutions on Microsoft Azure"
     excerpt: "In addition to the reliability and scale of Microsoft Azure, Avaya CCaaS customers gain access to the power of Nuance's Contact Center AI technology integrated with OneCloud. \"The combined capabilities of Microsoft and Nuance give Avaya customers ..."
     publishedDateTime: 2022-05-13T12:16:00Z

@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market 2022, Trends, Size, Industry Share, Analysis and Forecast to 2028"
+    excerpt: "The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 billion by 2028 from US$ 148 billion in 2020. The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 ..."
+    publishedDateTime: 2022-05-17T22:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.abnewswire.com/uploads/1652771728.jpeg"
+        width: 770
+        height: 440
+        isCached: true
 
 secured: "sFwo9J+Ufr5ahcSHXQaIjjghaK7K4gMQhq3f46WtrR/VaNV4yK/Y9zJDSlg6Uarmbsq13dXW8IIVs86/LkE8sSH0fGU0WH0ZYLLetJNps8iolbAO2w341Y77kruzpEDZeHxYV4gRwWzsco9Q5jOc/gjESrkaPQuh4l7USpCy4KVWvsucjlmn5bL3QybsSZ6S77KOx0geG25aW0SVcxF8JR+BKlwmpoabdFFOEjps3xMp1mZxYJViDFu7UGVbDvZEpYGBqIrBqmn6hQWo6vB69y3GyIuoRWGKf9iejPPVCF3RQs4eLuwMh+ySqivPO9qXVUy1qaceyB531w9AmH7vkkctIVBF8zYwisGlg2S9uezoC4wa7KbhihPufRfwfxITnZePogvyZ1As5qmtfH5/apRs6lfWSffFQP/rnjDLVQuRJwodLdYMdVFmLJxYBZ+r2fiPXsww1kocq8TnHMYZcGr433Ok3hMj742L/z2r9cVhbOMD9hTvenJCs8gyM/gXv/rysqHrd152K2YO5bxK0A==;03xND9aWREJmePVMVD7Q3w=="
 ---

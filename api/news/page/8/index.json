@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-10-avaya-enters-strategic-partnership-with-microsoft-to-deliver-ccaas-on-azure-cloud.md",
+      "title": "Avaya enters strategic partnership with Microsoft to deliver CCaaS on Azure cloud",
+      "excerpt": "In addition to the Microsoft Azure, Avaya CCaaS customers will gain access to the power of Nuance’s Contact Centre AI technology integrated with OneCloud. The combined capabilities is said to give Avaya customers flexibility to create and deliver ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
+      "originalUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/teamwork-puzzle-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
+      "publishedDateTime": "2022-05-10T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-explaining-the-art-behind-the-forbes-ai-50-design.md",
       "title": "Explaining The Art Behind The Forbes AI 50 Design",
       "excerpt": "When tasked with creating the art for the fourth annual Forbes AI 50 list, it immediately struck me that we should use Artificial Intelligence to generate our deliverable. AI is making considerable strides not only in commercial applications, but in visual ...",
@@ -1160,57 +1203,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-strengthening-company-culture-with-artificial-intelligence.md",
-      "title": "Strengthening Company Culture With Artificial Intelligence",
-      "excerpt": "To achieve ultimate value from technology, it’s important to consider how it could benefit various parts of the business: organizational efficiency, team collaboration, productivity, R&D opportunities and team empowerment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6272e3b2ed8a29c5f841d642/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-05-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -55,6 +55,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Pittsburgh-based Argo AI touts driverless operations in Miami and Austin"
+    excerpt: "Its commercial partnerships with Walmart and Lyft still have backup drivers in both cities. General Motors and its autonomous vehicle subsidiary Cruise is running in San Francisco and Alphabet's Waymo has also gone driverless there."
+    publishedDateTime: 2022-05-17T22:24:00Z
+    webUrl: "https://www.turnto23.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin"
+    ampWebUrl: "https://www.turnto23.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true"
+    cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true"
+    type: article
+    provider:
+      name: KERO-TV
+      domain: turnto23.com
+    quality: 73
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/0a92cfb/2147483647/strip/true/crop/3924x2207+0+256/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7f%2F01%2F5a5ea67e44c1bc2325802ac4ad61%2Fap10040103787.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Argo AI Begins Driverless Vehicle Operations in Miami & Austin"
     excerpt: "Industry-leading autonomous vehicle technology company Argo AI commenced driverless operations in Miami and Austin, two of the eight global cities in which it is currently developing its technology. \"Argo is first to go driverless in two major American cities,"
     publishedDateTime: 2022-05-17T15:56:00Z

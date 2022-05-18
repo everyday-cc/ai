@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Relativity Explores Ethical AI and Unveils New Product Capabilities to Enhance Productivity at Relativity Fest London"
-excerpt: "... Translation Relativity will incorporate AI machine translation directly in RelativityOne. Out-of-the-box, users will be able to translate large batches of documents in more than 100 languages and 12,000 language combinations. Relativity is ..."
+excerpt: "Leveraging AI for Automatic Translation Relativity will incorporate ... to translate large batches of documents in more than 100 languages and 12,000 language combinations. Relativity is ..."
 publishedDateTime: 2022-05-17T10:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-relativity-explores-ethical-ai-unveils-new-product-capabilities-/2022/05/17/9603093.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-relativity-explores-ethical-ai-unveils-new-product-capabilities-/2022/05/17/9603093.htm"
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Natural Language Processing
@@ -35,6 +35,6 @@ related:
         height: 250
         isCached: true
 
-secured: "7EYDbrWF5Unbf8q6q79UrZmIHHMy+2VGIc7DErzSpmUKkD32ONB71MXv1od51Ggl5e6LNMEeYcGiudVDKYD/ygxKdy9mukp+iidLSjd38TkMSnF/SVlKZk1rg62ZHhY6hY/d26sAOb9Ep/JZxHLXtpGYKq2JezxCqjG2l09FRwfCfbyQmmtLO5DtjBhMFRZoGVW3m6WGsfuSGdddvE6HbytjHANT0EgLpsWdrZ9+EvVZUuVbsyVNjGvmjzhHYBoZW1Gdqr2GIqo+hRAUEnFG/XfNu+ZO60xtxsBVLnF4SoqeZrzctHWYxdza5a5JWNmx/TdOcJcHRPVo5w/cHQtr1vOGchZAUPayaPR1eO5Utfs=;dahrOOqToK16XNj1gY7FvA=="
+secured: "S+x9edV4LDNmGVRO7BIamGPmN/L8Q+6t4fCka5rWzZafP1OffwDPRekUZc2UmSIYCpbfWq2D0gDDSYtxMgf1nGbFfB4nQnny1jaFpxj7C4CYGZOvN4hvdlP9Psn6L/QBa5Lt6ln/uK6+fu/MMIjqe4m1IYvUGqBYyjFcIoWTzAipn0diFon/8TeOZ9la5FHS1ojKOqH7RQznFhlg8f5gAzxmzS5Xtq/TWkBEOtj7Dgrn02N5SCCN2jfWfD0pAAenn4VfFoarbeMTa9kxiYrkxpEnmKpXdxPKrjokTVciDlPo0hXDP+hEWjBddJsH83Z3VsBpXK8yd6qLa0I9CPk5SvK1vBjrF5S4dImU9tCxDhM=;4rkvor9p/mU4S7rUoObAeQ=="
 ---
 

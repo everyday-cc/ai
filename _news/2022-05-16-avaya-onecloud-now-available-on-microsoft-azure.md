@@ -7,7 +7,7 @@ originalUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azu
 webUrl: "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/"
 type: article
 quality: 69
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment, study finds"
-    excerpt: "Quantified benefits included faster time to market for analytics insights, improved operational efficiency in model building and testing, and cost savings from retiring on-premises analytics infrastructure."
-    publishedDateTime: 2022-05-13T06:34:00Z
-    webUrl: "https://www.itp.net/infrastructure/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-study-finds"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 30
   - title: "Microsoft launches Open Data for Society"
     excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
     publishedDateTime: 2022-05-16T12:42:00Z

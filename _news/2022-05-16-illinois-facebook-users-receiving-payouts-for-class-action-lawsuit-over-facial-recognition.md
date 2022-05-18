@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Google and DeepMind face class action lawsuit over patient data deal with London hospital"
+    excerpt: "London law firm Mishcon de Reya is bringing forward a major class action lawsuit against artificial intelligence (AI) firm DeepMind and its sister company Google over claims the two firms misused ..."
+    publishedDateTime: 2022-05-16T16:29:00Z
+    webUrl: "https://www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/"
+    ampWebUrl: "https://www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 50
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2022/03/Royal-Free-Hospital.png"
+        width: 1147
+        height: 759
+        isCached: true
   - title: "Google faces lawsuit for using NHS data of 1.6 million people in UK"
     excerpt: "London: Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its artificial intelligence (AI) division called DeepMind."
     publishedDateTime: 2022-05-17T05:21:00Z

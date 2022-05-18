@@ -72,20 +72,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Shanghai Supply Chain Crisis Makes a Case for AI"
-    excerpt: "The closure of supply chain operations in China is yet another blow to an already fragile global supply chain. More will follow."
-    publishedDateTime: 2022-05-13T05:17:00Z
-    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/34974-why-the-shanghai-supply-chain-meltdown-is-an-opportunity-for-ai"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 37
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2022/0426_ShanghaiPort.png?height=635&t=1650953754&width=1200"
-        width: 847
-        height: 635
-        isCached: true
   - title: "Forma.ai closes USD$45 million Series B financing to accelerate revolutionary AI-supported sales performance management platform"
     excerpt: "Company leads market in data-driven models with higher-impact incentives to drive optimal performance TORONTO, May 17, 2022 /PRNewswire/ - Forma.ai, the Sales Performance Management solution (SPM ..."
     publishedDateTime: 2022-05-17T13:19:00Z

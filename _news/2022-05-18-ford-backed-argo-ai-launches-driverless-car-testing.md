@@ -57,6 +57,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Pittsburgh-based Argo AI touts driverless operations in Miami and Austin"
+    excerpt: "Its commercial partnerships with Walmart and Lyft still have backup drivers in both cities. General Motors and its autonomous vehicle subsidiary Cruise is running in San Francisco and Alphabet's Waymo has also gone driverless there."
+    publishedDateTime: 2022-05-17T22:24:00Z
+    webUrl: "https://www.turnto23.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin"
+    ampWebUrl: "https://www.turnto23.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true"
+    cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true"
+    type: article
+    provider:
+      name: KERO-TV
+      domain: turnto23.com
+    quality: 73
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/0a92cfb/2147483647/strip/true/crop/3924x2207+0+256/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7f%2F01%2F5a5ea67e44c1bc2325802ac4ad61%2Fap10040103787.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Argo AI Begins Driverless Vehicle Operations in Miami & Austin"
     excerpt: "Industry-leading autonomous vehicle technology company Argo AI commenced driverless operations in Miami and Austin, two of the eight global cities in which it is currently developing its technology. \"Argo is first to go driverless in two major American cities,"
     publishedDateTime: 2022-05-17T15:56:00Z
@@ -131,6 +147,6 @@ related:
       domain: bizjournals.com
     quality: 10
 
-secured: "uVaA42v9RkZJMjycqQcT7jAYY6WxA/L6vHSX400T2u/IH/mfw0jP7xnqPv8rmNHmjUrKe7cOJvycnne4L8LfUPB6VlTXbiEHPrbMr/cL4AS9bBYC12yPjN5xOr/uiYxyrsJKJNcucXvcM0yi98Jacw2QWaAG2FNEGs18UJ+dB7r8iIrfaHWiq1wFdi9SbLuI1/WuCODh/+IcvFBcD6H9YggdDWfVqCeeyApo9yT/Md/7Onaac/QprdEDdtF23v2fMl8gw65Vkr2PE+Rf/oWBVCkyhf/iFEWD5713XUmb1DNmddcp0L7W1nRxliNCNypBy488sXXMIUJaD73cLv84tgbMkyUbu5n9tZf3UmacpgI=;aLvyKk2NF4QGY6k+GP68jg=="
+secured: "YTpO6Ixx+dSl27zxHjfqzhvfXb4nWnRJfSZmZPbVA8e+9i1azIbSUuALzqeMBhQPU88a14xP+q9o+ZkqUYEEj7XU1xG6vV/EjehlqaA78uxbkYg0YCR9FFBZxJDXjvnnXPY6VeyEae45/JHNC1tNQyCWV2KSO/watzJZouo45gDpseLokLuFb62aJKmzBrtDdUN5aEUPF0apKPYRSg35lnjwtPd89bHSjN10AOFIDTcpdLWrQGCkUAyz2uGrDzaUHZhWkOnzbizH5kHrJdfYdu/iwmgjhCQPVKhSG2MXaox5wkr0Ljg8s39ReICkxRZdwqxnO1ooxgvj0imMyhBOSU5CEuI65DO9aGoJ6Lc2O4E/wcs1Ka6zoLvE+Q2IH82Q85dGUf++3qZDv5cvxGQu3eFVJcfg/xeBlomhGsiGqzr+iQu6NqFLvl9C4ky2dm1pVCXSzjSdz90QrbXRVBcKr9KZKidk+5Oh0J57Uj7GZQW/Xmw8ZDacHW1p+oTlQRaXY4+4kDqb1ZX8AZzxNzekLw==;IYuMPpOGV4bBfZW9JaW6OQ=="
 ---
 

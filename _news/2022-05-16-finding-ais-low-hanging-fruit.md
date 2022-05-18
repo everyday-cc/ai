@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/05/16/ac_profOng_160522.jpg?VersionId=fwE7bWPg9d3hX43zFvxORfd_zS3OejWb"
         width: 860
         height: 573
-        isCached: true
-  - title: "Webinar | Reimagining the Banking Experience with Artificial Intelligence"
-    excerpt: "The rapid evolution of technology across all industries is revolutionising customers’ expectations around digital transactions. According to industry estimates, 6 out of 10 customers say that their experience with one industry is likely to influence their expectations for other verticals too."
-    publishedDateTime: 2022-05-13T05:30:00Z
-    webUrl: "https://ibsintelligence.com/webinars/webinar-reimagining-the-banking-experience-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 36
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/Webinar-Hexaware_May2022.jpg"
-        width: 1118
-        height: 617
         isCached: true
   - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
     excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."

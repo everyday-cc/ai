@@ -2,6 +2,109 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-04-22-cool-or-creepy-video-shows-ai-robot-taught-how-to-open-doors.md",
+      "title": "Cool or Creepy? Video Shows AI Robot Taught How to Open Doors",
+      "excerpt": "Opening doors is a complex task for robots. Using a deep learning approach, researchers taught one to open a door with a 96.8% success rate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050",
+      "originalUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2024457/robot-opening-door.png",
+          "width": 1696,
+          "height": 1036,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050?amp=1",
+      "publishedDateTime": "2022-04-22T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-palantirs-poaching-of-former-nhsx-ai-chief-branded-scandalous.md",
+      "title": "Palantir's poaching of former NHSX AI chief branded “scandalous”",
+      "excerpt": "The controversial tech company is currently competing for a £240 million NHS federated data platform (FDP) contract",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/367470/palantirs-poaching-of-former-nhsx-ai-chief-branded-scandalous",
+      "originalUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/367470/palantirs-poaching-of-former-nhsx-ai-chief-branded-scandalous",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1650622800/itpro/GettyImages-1085828582-palantir.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-ai-ethics-how-do-we-put-theory-into-practice-when-international-approaches-vary.md",
       "title": "AI ethics - how do we put theory into practice when international approaches vary?",
       "excerpt": "Many of the issues around AI and ethics are understood, but what practical steps should we take to protect citizens? Many governments around the world have rightly put ethical development and deployment at the heart of their AI thinking. Core to this ...",
@@ -1008,108 +1111,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-how-to-use-ai-to-create-more-human-service-not-less.md",
-      "title": "How To Use AI To Create More Human Service, Not Less",
-      "excerpt": "Instead of focusing on replacing humans with machines, we need to think about how AI makes humans better at their jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62050c6421a4b6bcff9ea195/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/amp/",
-      "publishedDateTime": "2022-04-21T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-northwestern-mutual-ceo-advises-business-leaders-embrace-the-ai-change.md",
-      "title": "Northwestern Mutual CEO Advises Business Leaders: \"Embrace the AI Change\"",
-      "excerpt": "CEO John Schlifske says AI drives growth: \"It's faster, more effective and leads to better outcomes.\"",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/Northwestern-Mutual-CEO-Advises-Business-Leaders-Embrace-the-AI-Change/f2ce9909-9cd6-4920-9fac-df41701e4d8a",
-      "originalUrl": "https://fortune.com/videos/watch/Northwestern-Mutual-CEO-Advises-Business-Leaders-Embrace-the-AI-Change/f2ce9909-9cd6-4920-9fac-df41701e4d8a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/f2ce9909-9cd6-4920-9fac-df41701e4d8a/Images/posterImage-ver2-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/northwestern-mutual-ceo-advises-business-leaders%3A-%22embrace-the-ai-change%22/f2ce9909-9cd6-4920-9fac-df41701e4d8a/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/northwestern-mutual-ceo-advises-business-leaders%3A-%22embrace-the-ai-change%22/f2ce9909-9cd6-4920-9fac-df41701e4d8a/amp",
-      "publishedDateTime": "2022-04-21T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

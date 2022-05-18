@@ -85,20 +85,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Shanghai Supply Chain Crisis Makes a Case for AI"
-    excerpt: "The closure of supply chain operations in China is yet another blow to an already fragile global supply chain. More will follow."
-    publishedDateTime: 2022-05-13T05:17:00Z
-    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/34974-why-the-shanghai-supply-chain-meltdown-is-an-opportunity-for-ai"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 37
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2022/0426_ShanghaiPort.png?height=635&t=1650953754&width=1200"
-        width: 847
-        height: 635
-        isCached: true
 
 secured: "WHxDWEZu0hLKUkazNFPanWgF5sf5kkWAJ75qwn4cAT1vgUqObzh4TAqioQaDl8kCf1bnVrSmqkH4+1kx/LfnOFSUgNy/CR/9W/7JRe4fEaamGm7gb4mHYNYfdyGjtvGmzznZk1hVnmsvmY6V0+9lU7Kdb0BIIsN2guV7wjvlQItmsl2AG3Uidz5sEBceSZquvdZ1JbE8dD1AjtPAMW7hHlhxo0mzZeR5O3bSLhfzB14M1sfeELZOWpUeAQlteoqK3P8y74Bve1Dfp2B0gH1NqiyM8Ar01lfC5eW6t8jHrVuUeIY3LiDtGBqucfNipsoRZdLpfz8cNaky77EEaQVmSgXCqmhdNeeATvJXqRNq7Do=;RNTAuyVaZPemeEcFwbnNJQ=="
 ---

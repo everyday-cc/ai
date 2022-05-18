@@ -2,6 +2,90 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-03-29-d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart.md",
+      "title": "D-Link M15 Eagle Pro AI AX1500 review: How going a bit dumb can be very smart",
+      "excerpt": "With so many things in computing these days, it's all about smart features. And these are great when they work, but what happens when they don't? In that case, you're stuck hoping the machine will fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "originalUrl": "https://www.zdnet.com/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6f390f0dfa2307cb4c70803124d3eaa95a5bdd68/2022/03/28/4920a21e-8eff-4fb5-98d0-ad164c578e1d/d-link-m15-eagle-pro-ai-ax1500-3-pack.png?width=370&height=208&fit=crop&format=pjpg&auto=webp",
+          "width": 370,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "publishedDateTime": "2022-03-28T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing.md",
+      "title": "Envista Obtains 510(k) FDA Clearance For AI Mandibular Nerve Tracing",
+      "excerpt": "Envista Holdings Corp. (NVST) said that it has received the 510(k) Food and Drug Administration clearance for its Assisted Intelligence (AI) mandibular nerve tracing feature in its image acquisition and diagnostic software platform DTX Studio Clinic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing",
+      "originalUrl": "https://www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing?amp",
+      "publishedDateTime": "2022-03-28T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031.md",
       "title": "Cognitive Computing in Healthcare Industry Market Growth, Trends, Price, Scope, Competitor Analysis and Forecast 2022 to 2031",
       "excerpt": "In recent years, the use of big data analytics and cloud services has seen positive growth and has created a platform for cognitive computing ... Google, Microsoft, Palantir, and PTC.",
@@ -1067,101 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-indico-data-applies-ai-to-add-value-to-unstructured-data.md",
-      "title": "Indico Data applies AI to add value to unstructured data",
-      "excerpt": "Unstructured data is one of the most untapped sources of valuable information. Indico Data hopes to help businesses tap it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/unstructured_data.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/amp/",
-      "publishedDateTime": "2022-03-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-complex-questions-as-face-recognition-tech-joins-ukraine-invasion.md",
-      "title": "Complex questions as face recognition tech joins Ukraine invasion",
-      "excerpt": "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "originalUrl": "https://www.iol.co.za/technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/650x366/FILE-Ukraine-is-employing-face-recognition-technology-to-identify-invading-Russian-troops-killed-on-its-soil-a-complex-and-unprecedented-avenue-for-software-already-seen-as-problematic-experts-said?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/0d4097e4-fe51-5f08-bb03-70af3e4ce0cc&operation=CROP&offset=0x29&resize=1920x1080",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "publishedDateTime": "2022-03-28T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

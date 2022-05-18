@@ -29,15 +29,6 @@ related:
       name: ETF Daily News
       domain: etfdailynews.com
     quality: 39
-  - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Up 101.1% in April"
-    excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) saw a significant growth in short interest in April. As of April 30th, there was short interest totalling 789,700 shares, a growth of 101."
-    publishedDateTime: 2022-05-13T06:44:00Z
-    webUrl: "https://www.defenseworld.net/2022/05/13/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-101-1-in-april.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 37
   - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Up 54.5% in April"
     excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a significant growth in short interest in April. As of April 30th, there was short interest totalling 13,600 shares,"
     publishedDateTime: 2022-05-15T07:52:00Z

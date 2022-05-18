@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-priv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/"
 type: article
 quality: 81
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC8yMDIyLTA1LTE2LTA3LTMwLTM3LTcyYzk2NDY2M2VhYmJiNTE3YWIzNTg2NzgwYWZlNDkwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 740
+        isCached: true
+  - title: "Google and DeepMind face class action lawsuit over patient data deal with London hospital"
+    excerpt: "London law firm Mishcon de Reya is bringing forward a major class action lawsuit against artificial intelligence (AI) firm DeepMind and its sister company Google over claims the two firms misused ..."
+    publishedDateTime: 2022-05-16T16:29:00Z
+    webUrl: "https://www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/"
+    ampWebUrl: "https://www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 50
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2022/03/Royal-Free-Hospital.png"
+        width: 1147
+        height: 759
         isCached: true
   - title: "Illinois Facebook users receiving payouts for class-action lawsuit over facial recognition"
     excerpt: "ILLINOIS, USA — Payments are rolling out in the settlement of a 2020 lawsuit against Facebook, now Meta, over its use of facial recognition technology that violated an Illinois privacy law. In an update posted to an official website for the lawsuit ..."

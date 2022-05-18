@@ -118,20 +118,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Webinar | Reimagining the Banking Experience with Artificial Intelligence"
-    excerpt: "The rapid evolution of technology across all industries is revolutionising customers’ expectations around digital transactions. According to industry estimates, 6 out of 10 customers say that their experience with one industry is likely to influence their expectations for other verticals too."
-    publishedDateTime: 2022-05-13T05:30:00Z
-    webUrl: "https://ibsintelligence.com/webinars/webinar-reimagining-the-banking-experience-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 36
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/Webinar-Hexaware_May2022.jpg"
-        width: 1118
-        height: 617
-        isCached: true
   - title: "Finding the Fairness in AI"
     excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
     publishedDateTime: 2022-05-17T15:09:00Z

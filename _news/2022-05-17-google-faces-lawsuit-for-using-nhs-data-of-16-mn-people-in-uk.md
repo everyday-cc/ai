@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Google and DeepMind face class action lawsuit over patient data deal with London hospital"
+    excerpt: "London law firm Mishcon de Reya is bringing forward a major class action lawsuit against artificial intelligence (AI) firm DeepMind and its sister company Google over claims the two firms misused ..."
+    publishedDateTime: 2022-05-16T16:29:00Z
+    webUrl: "https://www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/"
+    ampWebUrl: "https://www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 50
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2022/03/Royal-Free-Hospital.png"
+        width: 1147
+        height: 759
+        isCached: true
   - title: "Illinois Facebook users receiving payouts for class-action lawsuit over facial recognition"
     excerpt: "ILLINOIS, USA — Payments are rolling out in the settlement of a 2020 lawsuit against Facebook, now Meta, over its use of facial recognition technology that violated an Illinois privacy law. In an update posted to an official website for the lawsuit ..."
     publishedDateTime: 2022-05-16T16:51:00Z

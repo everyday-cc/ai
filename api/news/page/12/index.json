@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-05-04-global-speech-to-text-api-market-to-2027-size-share-industry-trends-analysis-report-researchandmarketscom.md",
+      "title": "Global Speech-to-text API Market to 2027 - Size, Share & Industry Trends Analysis Report - ResearchAndMarkets.com",
+      "excerpt": "is a programming interface that enables the utilization of speech synthesis and recognition in a variety of devices and applications. Speech-to-text API is a multidisciplinary subject of computational linguistics that explores methods that allow computers ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-c748c1d1eaf14dad9eb210d487230346",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-c748c1d1eaf14dad9eb210d487230346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-dha-streamlines-its-request-for-tenancy-approval-rfta-process-with-artificial-intelligence-based-platform-bobai.md",
+      "title": "DHA Streamlines Its Request for Tenancy Approval (RFTA) Process With Artificial Intelligence-Based Platform Bob.Ai",
+      "excerpt": "Housing Choice Voucher Clients and Landlords Are Able To Complete RFTA Submissions and Inspections Online DALLAS--(BUSINESS WIRE)--DHA, Housing Solutions for North Texas (DHA) has launched a new artificial-intelligence-based module for Housing Choice ...",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=657965",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=657965",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2019/01/18/mark/20190118347441.jpg",
+          "width": 580,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-soundcloud-buys-ai-that-claims-to-predict-hit-songs.md",
       "title": "SoundCloud buys AI that claims to predict hit songs",
       "excerpt": "Though a far cry from the smoky clubs and A&R legends of old, AI is becoming an increasingly critical part of finding up-and-coming artists. Music distribution platform Tunecore announced in February that it is partnering with LA-based music startup Fwaygo ...",
@@ -1071,93 +1157,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-baidu-gets-a-permit-that-tesla-will-envy.md",
-      "title": "Baidu Gets a Permit That Tesla Will Envy",
-      "excerpt": "\"Their self-driving fleet has driven 40 times the distance between San Francisco and New York City.\" Wei Dong, vice president and chief safety operations officer at Baidu Intelligent Driving Business Group, said in a statement that China's regulatory ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "originalUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUzMDgzODMwNjU4OTY3/amd-shares-higher-for-ninth-straight-day-chipmaker-unveils-new-cpu-deals.png",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "publishedDateTime": "2022-05-03T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-meta-wants-to-improve-its-ai-by-studying-human-brains.md",
-      "title": "Meta wants to improve its AI by studying human brains",
-      "excerpt": "“Within the past decade, there has been tremendous progress in AI on a wide variety of tasks from object recognition to automatic translation. But when it comes to tasks which are perhaps not super well defined or need to integrate a lot of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/meta-ai-language-models/",
-      "originalUrl": "https://www.popsci.com/technology/meta-ai-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/05/03/patrick-tomasso-Oaqk7qqNh_c-unsplash-scaled.jpg?auto=webp",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/meta-ai-language-models/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp",
-      "publishedDateTime": "2022-05-03T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

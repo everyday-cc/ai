@@ -2,9 +2,9 @@
 category: news
 title: "Deep learning solves nuisance alarms and tailgating in access control"
 excerpt: "Access control systems are plagued by problems, such as false alarms and tailgating. Hakimo is a new company that applies concepts of deep learning to reduce false alarms and tailgating, and to make access control more accurate. False or nuisance alarms ..."
-publishedDateTime: 2022-05-16T09:48:00Z
-originalUrl: "https://www.sourcesecurity.com/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
-webUrl: "https://www.sourcesecurity.com/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
+publishedDateTime: 2022-05-16T10:21:00Z
+originalUrl: "https://www.sourcesecurity.com/tags/mobile-access/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
+webUrl: "https://www.sourcesecurity.com/tags/mobile-access/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
 type: article
@@ -31,6 +31,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "BO5cyNS8NBQ9ePKRIf3vVX+gdvzJriJs8vp53O6SOQDGdTs6idatGWZHSvWcskjbfb3Pg0iv+Oow+jCAUnlCxIq0LO+Y7x0nc68BAhErpYZ1y65WpBNKpspqAp94zwxm0irhMGYb7zErblBLkfT1c92SI9EcRPHBcB1yU9LxMLL6tnKlzAThf5DySMyJ9Iu65/mf63bK2GIEe4kSvVTymIefJfUGnRvd28vbEFHqiCfPSPTy927H5YLoY8oNdB4mbh4995xTSQjXwg2Xf3gEqFqKlUKzfcYzmFv5jZCsK7xtlbuL1j85oK4Gwkj8HLUEI9EUW+yCrBss/HSXdLBmFGgWlMy6f+GsYWJzYkMrrEA=;aVquWC/3YMdszy1riedsuA=="
+secured: "yfhqoLWIHUW4OOcZYaSyrXUs5xZ4ND3oEaiu/6jJEV4Lr6wi97eqRgBi4Y5fW7WbugAUhhEStRBB46gKzLpFC2WCbSGpv6Y4kkjIgKx7c/CoaXXfWDxyw325FIPPTqphCW1i7A4BXCVSGkspG4dHnZH+uck15PAyqwFrtOEHv+jQnfSYXXmaZ/mQ9H+Wvip6S+bMpMF3wKCijrg6UicNYTN2SMkTpzrkurZAsVKrdaKFnrzhmu1CNp241ls3wanAMUXmfZeq8iFGgIGHAnH6ulmtBCX1RgJ3kOekC/TP5AMBdomDlsnf0ApCF03bBdFcL0FViFCgee+gkRT/KQa/Wq0VQYgmkaYZOco0hicEv8M=;lXqFJB40vTcbsNBCDU8HzA=="
 ---
 

@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Deep learning solves nuisance alarms and tailgating in access control"
     excerpt: "Access control systems are plagued by problems, such as false alarms and tailgating. Hakimo is a new company that applies concepts of deep learning to reduce false alarms and tailgating, and to make access control more accurate. False or nuisance alarms ..."
-    publishedDateTime: 2022-05-16T09:48:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
+    publishedDateTime: 2022-05-16T10:21:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
     ampWebUrl: "https://www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
     cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
     type: article

@@ -106,20 +106,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Webinar | Reimagining the Banking Experience with Artificial Intelligence"
-    excerpt: "The rapid evolution of technology across all industries is revolutionising customers’ expectations around digital transactions. According to industry estimates, 6 out of 10 customers say that their experience with one industry is likely to influence their expectations for other verticals too."
-    publishedDateTime: 2022-05-13T05:30:00Z
-    webUrl: "https://ibsintelligence.com/webinars/webinar-reimagining-the-banking-experience-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 36
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/Webinar-Hexaware_May2022.jpg"
-        width: 1118
-        height: 617
-        isCached: true
   - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
     excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
     publishedDateTime: 2022-05-16T23:02:00Z

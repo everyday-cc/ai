@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai
 webUrl: "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over"
 type: article
 quality: 77
-heat: 107
+heat: 108
 published: true
 
 provider:

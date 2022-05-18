@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance
 cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
 type: article
 quality: 61
-heat: 62
+heat: 61
 published: false
 
 provider:

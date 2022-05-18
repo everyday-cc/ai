@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 1500
         isCached: true
+  - title: "Dallas Startup Lands Funding to Expand its ‘Educational Metaverse’ Nationally"
+    excerpt: "Dallas-based STEMuli was founded by CEO Taylor Shead to create a gamified 'metaverse' where kids can earn tokens and have fun while they learn. Piloted since last summer at Dallas Hybrid Prep, it's given both remote and in-class learning an avatar-packed boost."
+    publishedDateTime: 2022-05-17T20:01:00Z
+    webUrl: "https://dallasinnovates.com/dallas-startup-lands-funding-to-expand-its-educational-metaverse-nationally/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 19
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2022/05/STEMuli_CEO_Taylor_Shead-970.jpg"
+        width: 970
+        height: 674
+        isCached: true
   - title: "EdTech startup STEMuli raises $3.25M to transform traditional classroom learning with the Educational Metaverse"
     excerpt: "STEMuli, a minority- and woman-owned Web3 education startup, has announced $3.25 million in seed funding co-led by Slauson & Co and Valor Ventures, with"
     publishedDateTime: 2022-05-17T13:02:00Z

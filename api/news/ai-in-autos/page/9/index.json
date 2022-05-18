@@ -2,6 +2,103 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-24-zf-to-develop-chassis-for-baidus-smart-ev-brand-jidu.md",
+      "title": "ZF to develop chassis for Baidu's smart EV brand Jidu",
+      "excerpt": "German supplier ZF Friedrichshafen will assist Jidu, a smart electric-vehicle brand of Chinese self-driving technology developer Baidu, to develop chassis and other components. Under an agreement ...",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/automakers/zf-develop-chassis-baidus-smart-ev-brand-jidu",
+      "originalUrl": "https://europe.autonews.com/automakers/zf-develop-chassis-baidus-smart-ev-brand-jidu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/JIDU%20Robocar%20Concept%20Car.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T01:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems.md",
+      "title": "UC Berkeley robot navigation could chart a new-course for self-driving systems",
+      "excerpt": "An approach that uses hours of video and elements of reinforcement learning can guide a robot vehicle almost two miles without a full map of the surroundings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "originalUrl": "https://www.zdnet.com/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/94fe2957ac206bbd2cf1bb49da44fb770d24fc61/2022/02/23/1f831631-725b-4e2f-b0cf-82318abd4921/levine-clearpath-uvg-navigates-to-destination.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
+      "publishedDateTime": "2022-02-23T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-artificial-intelligence-boosts-new-era-of-postmarket-intelligence.md",
       "title": "Artificial Intelligence Boosts New Era of Postmarket Intelligence",
       "excerpt": "Embracing compliance is a continuous process, and investing in agile technologies that streamline workflows—especially in meeting EU MDR and IVDR requirements—is essential, says Lana Feng, Ph.D., CEO-founder of Huma.",
@@ -1277,102 +1374,6 @@
       "provider": {
         "name": "International Business Times",
         "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-jaguar-will-use-nvidia-ai-for-self-driving-in-future-vehicles-starting-2025.md",
-      "title": "Jaguar will use NVIDIA AI for self-driving in future vehicles starting 2025",
-      "excerpt": "NVIDIA says their Orin chip is capable of level 5 autonomous driving ... positioning themselves as one of the major players in AI and autonomous driving. As cars get more and more defined by ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/02/16/jaguar-will-use-nvidia-ai-for-self-driving-in-future-vehicles-starting-2025/",
-      "originalUrl": "https://electrek.co/2022/02/16/jaguar-will-use-nvidia-ai-for-self-driving-in-future-vehicles-starting-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/02/Jaguar-and-Land-Rover-Fleet-e1644961308490.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/02/16/jaguar-will-use-nvidia-ai-for-self-driving-in-future-vehicles-starting-2025/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/16/jaguar-will-use-nvidia-ai-for-self-driving-in-future-vehicles-starting-2025/amp/",
-      "publishedDateTime": "2022-02-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-oh-captain-my-captain-no-captain-emerging-risks-from-advanced-automation-in-the-maritime-sector.md",
-      "title": "Oh Captain, My Captain . . . No Captain? Emerging Risks from Advanced Automation in the Maritime Sector",
-      "excerpt": "The marine industry is facing increased scrutiny as a result of goods being delayed at ports due to congestion and is looking for options for improved efficiencies, including advanced autonomy and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbar.org/groups/tort_trial_insurance_practice/publications/tortsource/2022/winter/oh-captain-my-captain-no-captain-emerging-risks-advanced-automation-the-maritime-sector/",
-      "originalUrl": "https://www.americanbar.org/groups/tort_trial_insurance_practice/publications/tortsource/2022/winter/oh-captain-my-captain-no-captain-emerging-risks-advanced-automation-the-maritime-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.americanbar.org/content/dam/aba/images/tort_trial_insurance_practice/ts-24-2-automation-2560x1440.png",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Bar Association",
-        "domain": "americanbar.org",
         "images": null,
         "publishers": null,
         "authors": null

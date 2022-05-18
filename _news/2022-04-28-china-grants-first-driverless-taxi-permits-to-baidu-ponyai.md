@@ -1,26 +1,28 @@
 ---
 category: news
 title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ..."
-publishedDateTime: 2022-04-28T06:59:00Z
-originalUrl: "https://thetandd.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_5cc547ea-26f2-5f82-9740-6d1bc8449c31.html"
-webUrl: "https://thetandd.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_5cc547ea-26f2-5f82-9740-6d1bc8449c31.html"
+excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ..."
+publishedDateTime: 2022-04-28T09:56:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
 type: article
 
 provider:
-  name: The Times and Democrat
-  domain: thetandd.com
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/thetandd.com/content/tncms/assets/v3/editorial/e/ec/eecaf778-9c8f-5ae9-8e15-2b91efcf14ba/626a3f2154457.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "ZgfhvNxke4HLiztM6B8eRzJ2WGUAjFW2yhDDw6DidpgPg7PBlvY+U3AwJCwHc9rCYPgLkkD30oYltG9G1wUUSoxmM7kC0mlQez9dYzdkgV3K3n02TXPgvTHztqsgSp96WndjhGpwkpbdB7XOI8cfHnZRG3Us1qvOg6lxXP42uL0ZrFxURM09pn/FyqXNBdNvRULyHERBIkFhuWianxzLfc9IFEkGgGOxHRFnJAuam2hiZPyx+UIHJxwDgWQftYaQHWcw0Tfcaj0SHYwqb+abAPUMwohx6WztsOf29CId+raCgvFXspHZGgO3ACbsP2Oie0rfe/7VZnBCpykCcWemPgSIonjG+ffXEswueNL8qj0=;jD/iqk7qwD6z+BPI/3K16Q=="
+secured: "QLurh51mE9tqGlfk/qykBrtYDNpy3efoNP7cJP17O2Gs/sQxp8ly60WOZQLKTZI10jRn3Xx1xMkGIKkDmVcr/Y/1MVA1EdVhcvo14LuCt2FYTlkXUFX4JWC5EjyhNDaDYV2+Dk+RTD+v3+J9n5vzeP82ushhh4s88OSvGWMMwI0ZF9Q+nPAIo1HA5/I1gFICpZGGb5VhxqsuaOJCsLX+DQY/x50jalQQ6vRdpoTrgiAV1hatrpGBy45DwW1j1lvrsoI9I0l1a+OSG7YhM12rUqBx/J8XBAwuebg1QCR+0yDbzPxuyz3LNOEs7u5h60gJcdUGo0dclTTOzGJ8Mbr1pl968/dWDIHhvlNIwDTIqf4=;bkVaW3xEjnirerBGNfxzJw=="
 ---
 
