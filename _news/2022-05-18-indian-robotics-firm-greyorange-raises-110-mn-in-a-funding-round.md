@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

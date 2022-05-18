@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-suppor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/"
 type: article
 quality: 102
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Heartex raises $25M for its AI-focused, open source data labeling platform"
+    excerpt: "Heartex, a data labeling firm, has raised $25 million in a venture funding round, bringing its total raised to $30 million."
+    publishedDateTime: 2022-05-18T13:03:00Z
+    webUrl: "https://techcrunch.com/2022/05/18/2314708/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 45
   - title: "The power of artificial intelligence"
     excerpt: "MILWAUKEE (CBS 58) -- For many organizations around the world, digital transformation has accelerated over the last two years, prompting new investments in advanced technologies like artificial intelligence -- or \"AI.\" Today, AI is changing the way ..."
     publishedDateTime: 2022-05-16T13:54:00Z

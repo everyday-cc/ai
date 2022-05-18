@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/"
 webUrl: "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

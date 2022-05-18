@@ -7,7 +7,7 @@ originalUrl: "https://xaralite.com/50613/uncategorized/artificial-intelligence-a
 webUrl: "https://xaralite.com/50613/uncategorized/artificial-intelligence-ai-market-2022-report-covers-top-key-players-profiling-oracle-corp-jp-morgan-aws-intel-ibm-corp-microsoft-corp/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -26,26 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP"
-    excerpt: "The global Call Center AI Market size is to grow from USD 1.6 billion in 2022 to USD 4.1 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.3% during the forecast period. The advent of AI in the call center offers enhanced customer support services and better experience coupled with rising development in customer engagement through social media platforms to boost the growth of the call center AI in the market."
-    publishedDateTime: 2022-05-13T22:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-  - title: "Healthcare Artificial Intelligence Market Size Is Expected To Grow At A CAGR Of 22.3% During Assessment Period 2022-2028 | 122 Report Pages"
-    excerpt: "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
-    publishedDateTime: 2022-05-17T07:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-size-is-expected-to-grow-at-a-cagr-of-22-3-during-assessment-period-2022-2028-122-report-pages"
+  - title: "AI in Computer Vision Market to Witness Massive Growth by 2029 | Qualcomm Technologies, Inc., Intel Corporation"
+    excerpt: "New Jersey, N.J., May 16, 2022 A2Z Market Research published new research on Global AI in Computer Vision Market covering the micro level of analysis by"
+    publishedDateTime: 2022-05-16T08:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-to-witness-massive-growth-by-2029-qualcomm-technologies-inc-intel-corporation"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 20
+    quality: 34
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
         width: 600
         height: 337
         isCached: true

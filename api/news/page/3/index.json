@@ -2,6 +2,186 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-16-cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-software.md",
+      "title": "Cyber security startup IEM Labs launches plagiarism checker, AI-powered software",
+      "excerpt": "New Delhi: Kolkata-based cyber security Startup IEM Labs has launched a plagiarism checker and an AI-powered content generation software. The plagiarism checker, called IEMSecure, can scan through 10 billion sources in just a few seconds, while the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/articleshow/91596909.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/articleshow/91596909.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-91597161/ai_artificial-intelligence_tech_startups_funding5.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/amp_articleshow/91596909.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/amp_articleshow/91596909.cms",
+      "publishedDateTime": "2022-05-16T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-avaya-onecloud-now-available-on-microsoft-azure.md",
+      "title": "Avaya OneCloud – now available on Microsoft Azure",
+      "excerpt": "Avaya and Microsoft have expanded their global partnership by combining the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations have more options to increase productivity and customer engagement.",
+      "sourceUrl": null,
+      "webUrl": "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/",
+      "originalUrl": "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/05/Avaya-Microsoft-Azure-Announce-CPaaS-Integration-1280x720-1.jpg?resize=1000%2C600&#038;ssl=1",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadget.co.za",
+        "domain": "gadget.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-the-co-founders-of-deepmind-and-linkedin-have-raised-225-million-for-their-ai-lab.md",
+      "title": "The co-founders of DeepMind and LinkedIn have raised $225 million for their A.I. lab",
+      "excerpt": "The funding has been raised at an undisclosed valuation and it's not clear who the investors are at this stage Inflection AI, the new artificial intelligence start-up from DeepMind co-founder ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html",
+      "originalUrl": "https://www.cnbc.com/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107026781-1646731964364-2022613_Mustafa-Suleyman_027_retouched.jpg?v=1646732040",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html",
+      "publishedDateTime": "2022-05-16T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-skt-introduces-new-ai-service-a.md",
+      "title": "SKT Introduces New AI Service ‘A.’",
+      "excerpt": "SK Telecom (NYSE:SKM, hereinafter referred to as “SKT”) today announced that it launched an AI service named ‘A. (A dot)’ as an open beta version for Android on One Store and Google Play. ‘A.’ embodies SKT’s vision to become a leading AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/ai-analytics-automation/skt-introduces-new-ai-service-a-44461/",
+      "originalUrl": "https://www.telecomtv.com/content/ai-analytics-automation/skt-introduces-new-ai-service-a-44461/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/ai-analytics-automation/skt-introduces-new-ai-service-a-44461/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/skt-introduces-new-ai-service-a-44461/amp/",
+      "publishedDateTime": "2022-05-16T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai.md",
       "title": "TU Delft: TU Delft has launched the Digital Ethics Centre for fair and safe AI",
       "excerpt": "What does human-centred and responsible AI look like? Digital technology can be found pretty much in every corner of our society. But companies and institutions don’t always know how to deal with technological innovations. The TU Delft Digital Ethics ...",
@@ -607,6 +787,40 @@
       ]
     },
     {
+      "path": "_news/2022-05-14-lawyer-says-georgia-man-set-for-execution-should-be-spared.md",
+      "title": "Lawyer says Georgia man set for execution should be spared",
+      "excerpt": "ATLANTA (AP) — The life of a Georgia man set to be executed Tuesday for killing an 8-year-old girl should be spared, his lawyer argues, explaining that her client has significant cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations.md",
       "title": "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations",
       "excerpt": "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ...",
@@ -968,239 +1182,6 @@
         "Computer Vision",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias.md",
-      "title": "Apeejay Education and AWS Announce New Accelerator Program Aligned to India’s…",
-      "excerpt": "New Delhi – Apeejay Education, an academic institution in India established for more than 50 years, and Amazon Web Services (AWS), an Amazon.com company, today announced the launch of the National Education Policy Accelerator Program (NEPAP),",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias-national-education-policy-to-help-academic-institutions-accelerate-their-digital-readiness/",
-      "originalUrl": "https://indiaeducationdiary.in/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias-national-education-policy-to-help-academic-institutions-accelerate-their-digital-readiness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias-national-education-policy-to-help-academic-institutions-accelerate-their-digital-readiness/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias-national-education-policy-to-help-academic-institutions-accelerate-their-digital-readiness/",
-      "publishedDateTime": "2022-05-13T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-no-joke-googles-ai-is-smart-enough-to-understand-your-humor.md",
-      "title": "No Joke: Google's AI is Smart Enough To Understand Your Humor",
-      "excerpt": "Amid a flurry of new hardware including the Pixel 7, the Pixel Buds Pro and a new Pixel Tablet, Google dropped one development at its I/O developer conference that went largely unnoticed: its AI can now understand jokes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/036dd9834bc973e9ba35e4b99168d39526eb8267/2022/05/12/e325e935-0564-4a8a-a853-97a41a827de4/screen-shot-2022-05-12-at-4-10-19-pm.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "publishedDateTime": "2022-05-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-leave-it-to-the-robots-what-the-jetsons-got-right-about-ai.md",
-      "title": "Leave It To The Robots: What The Jetsons Got Right About AI",
-      "excerpt": "While the show exaggerated futuristic technology, it can help us think about the real role AI can and should play in the workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee90f75a2b06400077bbb41/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
-      "publishedDateTime": "2022-05-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones.md",
-      "title": "Dubai students invent robot that can disarm explosives in war zones",
-      "excerpt": "A group of university students in the UAE have developed an autonomous robotic device that can disarm explosives. Students from Canadian University Dubai (CUD) have developed a high-tech, safe, and cost-effective solution to neutralize hazardous environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones",
-      "originalUrl": "https://www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=3d0c1d0e-a429-5cb9-a5df-eba5be79e73f&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84326&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones?amp=1",
-      "publishedDateTime": "2022-05-13T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-now-ai-bots-can-speak-for-you-after-your-death-but-is-that-ethical.md",
-      "title": "Now AI Bots Can Speak For You After Your Death. But Is That Ethical?",
-      "excerpt": "This case exemplifies why the ethics of machine learning matters. It also illustrates why it is essential to open a public debate that can better inform citizens and help us develop policy measures to make AI systems more open, socially fair and compliant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/science/now-ai-bots-can-speak-for-you-after-your-death-but-is-that-ethical-2971786",
-      "originalUrl": "https://www.ndtv.com/science/now-ai-bots-can-speak-for-you-after-your-death-but-is-that-ethical-2971786",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-05/qdl50bi4_igrave-computer-grave-deadbots-chatbots-after-death-istock_625x300_13_May_22.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/science/now-ai-bots-can-speak-for-you-after-your-death-but-is-that-ethical-2971786/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/now-ai-bots-can-speak-for-you-after-your-death-but-is-that-ethical-2971786/amp/1",
-      "publishedDateTime": "2022-05-12T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

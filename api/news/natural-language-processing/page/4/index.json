@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-05-fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce.md",
+      "title": "fabric Recognized as a Strong Performer in 2022 Gartner Peer Insights™ ‘Voice of the Customer’ Report for Digital Commerce",
+      "excerpt": "Headless commerce platform received highest overall rating by customers across the Gartner Peer Insights™ Digital Commerce report. SEATTLE , April 5, 2022 /PRNewswire/ -- fabric",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-eleutherai-open-sources-20-billion-parameter-ai-language-model-gpt-neox-20b.md",
       "title": "EleutherAI Open-Sources 20 Billion Parameter AI Language Model GPT-NeoX-20B",
       "excerpt": "Researchers from EleutherAI have open-sourced GPT-NeoX-20B, a 20-billion parameter natural language processing (NLP) AI model similar to GPT-3. The model was trained on 825GB of publicly available text data and has performance comparable to similarly-sized ...",
@@ -1313,58 +1347,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/six-ai-trends-to-watch-in-2022/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/25/six-ai-trends-to-watch-in-2022/amp/",
       "publishedDateTime": "2022-03-25T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai.md",
-      "title": "Crossing National And Cultural Boundaries: The Next Phase Of Media Content Creation Using AI",
-      "excerpt": "After aligning on goals and targeting, brands can take their content and start messaging to new audiences locally and globally starting with synthetic voice technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623c69a0d637bace3de8cac3/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/amp/",
-      "publishedDateTime": "2022-03-25T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

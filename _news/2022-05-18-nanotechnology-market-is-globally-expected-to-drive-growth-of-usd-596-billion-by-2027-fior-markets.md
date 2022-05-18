@@ -49,6 +49,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market Size Is Expected To Grow At A CAGR Of 22.3% During Assessment Period 2022-2028 | 122 Report Pages"
+    excerpt: "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
+    publishedDateTime: 2022-05-17T07:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-size-is-expected-to-grow-at-a-cagr-of-22-3-during-assessment-period-2022-2028-122-report-pages"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Voice Cloning Market to reach at an estimated value of USD 4446.08 million and grow at a CAGR of 25.74% by 2028"
     excerpt: "Voice Cloning Market business report is a great resource which provides present as well as upcoming technical and financial details of the industry to"
     publishedDateTime: 2022-05-18T08:46:00Z
@@ -63,6 +77,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Healthcare Automation Market to Top US$ 88.9 Bn by 2032 Amid Growing Demand for Hospital Pharmacy Digitization"
+    excerpt: "The global healthcare automation market size is expected to reach US$ 88.9 Bn, with demand increasing at a healthy CAGR of 8.4% over the forecast period. It was valued at US$ 36.9"
+    publishedDateTime: 2022-05-18T12:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-5-18-healthcare-automation-market-to-top-us-889-bn-by-2032-amid-growing-demand-for-hospital-pharmacy-digitization"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "fGwdXh3sh08c3XQ8J3kvlaLEHnTkBmvMdUcwcLVCR+4htgKXzJdoM4Ay+Hrt/x3+2MamUzOtXZ3QGRY5+YQPphdUAXeWEYEZezPvF1hUczjk8dz3+cPJF2MEc7BTrLa9K1WTl2XgSuK0PsltNz5lGZCAQD43IiZtYKM0UtkIb4cNNCDtjJn9C5L7VbPEgRPpWOt1ELOjVPkRFvFLcJZtIXY0FFb+A0RY2D9GUuQUoIt/B1vFK6ZHKkKjzGTifACaQO8c6wHyNHWJ8frwzylm0ZKLyt8bNx20UaoVg4WUDVFrG4POQ579oeKrKbjt08j22BznkL0Wxwvv3EAS6C0GCJUj2NhVw2+TEtYTPSboDR0=;OXAWcvQD/QHYQ4edza72Fg=="
 ---

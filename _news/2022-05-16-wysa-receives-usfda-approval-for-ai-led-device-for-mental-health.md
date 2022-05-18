@@ -9,8 +9,8 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/wysa-
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Times
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "FDA designates AI-based therapy for pain, depression, anxiety as breakthrough device"
-    excerpt: "Wysa announced it has received breakthrough device designation from the FDA for its artificial intelligence-based digital mental health conversational agent for adults with chronic musculoskeletal pain,"
-    publishedDateTime: 2022-05-13T19:24:00Z
-    webUrl: "https://www.healio.com/news/psychiatry/20220513/fda-designates-aibased-therapy-for-pain-depression-anxiety-as-breakthrough-device"
-    type: article
-    provider:
-      name: Healio
-      domain: healio.com
-    quality: 27
   - title: "Wysa Receives FDA Breakthrough Device Designation for AI-led Mental Health Conversational Agent"
     excerpt: "Wysa, a leading artificial intelligence (AI) based digital companion for behavioral health, has announced that the U.S. Food and Drug Administration (FDA) has granted Breakthrough Device Designation for its AI-based digital mental health conversational agent for patients 18 years and older with a diagnosis of chronic musculoskeletal pain (defined as pain lasting longer than three months) and depre."
     publishedDateTime: 2022-05-18T03:57:00Z

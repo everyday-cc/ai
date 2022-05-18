@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "The power industry found it harder to fill artificial intelligence vacancies in Q1 2022"
+    excerpt: "Artificial intelligence-related jobs that were closed during Q1 2022 had been online for an average of 35 days when they were taken offline. This was an increase compared to the equivalent figure a year earlier,"
+    publishedDateTime: 2022-05-18T13:03:00Z
+    webUrl: "https://www.power-technology.com/analysis/the-power-industry-found-it-harder-to-fill-artificial-intelligence-vacancies-in-q1-2022/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 9
 
 secured: "QkpkFesBnUmvL+H2ZywCGv3OFWkFj8Pz8gkC/d+VQmAo0VkkDuGD4GiKvAfIvkwacCQPd9HFT4mVf5lOudxrXa67+B4inwnPaSPY9bANyLricHWq7Jr06PUwbuzi0oa+pMCcY6QigIRbp/Ss1IX7TuZtNZwNYB9fd7s6uxdpkwC9PhmfZTRSAkzcFFl0y+lFo7gRpmRstfQ4KnRyO+WyrLE/nISiZgr1M21AHq85WOD2r8k2gr2lVxIF6dGgbTrJCbAhKu0AKySQ3Sx1r5531S/Y/vmTAD9Oa0u6/jzd+o1oulcPRCZACtATblmW3TkFesYM6VxIyuy6+wF5534yfjk21/zqCNUrLVPOH/XycI52PSJi7UzBJKym+97uRN1TeAI5UoEplENscQ/cH3kQytidMJKLr/gZCIcnUJphaJvYVmJD6cvTSw4x3Qld5MfkmQgP9H1JVECnZSjMWDP8t0/oHr2uWqANUEyb3GIhZz41sUGF2P/t8tXZvbMTbJ7wuwkWUWlpfgi0bLuwZO4Osw==;8/sjQN3gphDbIY1eeyl9QA=="
 ---

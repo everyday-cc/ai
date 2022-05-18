@@ -144,6 +144,15 @@ related:
       name: 7News Miami
       domain: wsvn.com
     quality: 34
+  - title: "Ford and VW-backed Argo AI launches fully driverless car service in Miami and Austin"
+    excerpt: "Argo AI is giving some of its autonomous car backup drivers a break. The Ford and VW-backed self-driving car technology company has launched fully driverless ride-hailing services in Austin and Miami. Argo AI has been testing the service with human safety ..."
+    publishedDateTime: 2022-05-18T12:02:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/ford-vw-argo-ai-driverless-car-service-miami-austin"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 27
 
 secured: "kMwAt+oeZgz6kvAVOh7THKBTIARmyIoI3i0vpbNb+33PbNepqZbMiYcfAQy3eWVVw+/6PNUrV1RZLEn5ghYlox9Ce51tozlfUYWVnkHROXiImsK+BrvcJVGLQSh/D/uAwETsah4K44lDkCmbWD5SqCPoD+g64T993nA8IcMM2CGHnlLNbmj9LUvcGEJk764evOE110OtdCQJLu8ePCRuw4Li7CtCt6gzMKWYe1Zt3FHsDOGGFibpTkEMmiIpFGr7DFXSTV21S2eGyrA8a8ZCCRBOcgcozyxemSqaLJTeyPDLyjXC41/B1aLOReK+FMASjWmWT/r9SYtvOiatk1nWltxkZlx5GJ6b3LDcGqdTj9Wsg5mbhF2OOmf+z5Mlmyp3kHkGqi1hOe4fR9styMg2o1wXm917y4p4Hj8eBqenEWfzByqmMhtQLuJ970oJGwAg9cTUaP55L0CNOi4+tNteAipD7e7xAOAHbu6OLnAsZtUX2clp6ihi+xMRrV7GICf97a1Yw2E1lKwdPgZwJ+mrvw==;smTYlOkk/aglFFmVT6370w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -141,6 +141,15 @@ related:
       name: 7News Miami
       domain: wsvn.com
     quality: 34
+  - title: "Ford and VW-backed Argo AI launches fully driverless car service in Miami and Austin"
+    excerpt: "Argo AI is giving some of its autonomous car backup drivers a break. The Ford and VW-backed self-driving car technology company has launched fully driverless ride-hailing services in Austin and Miami. Argo AI has been testing the service with human safety ..."
+    publishedDateTime: 2022-05-18T12:02:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/ford-vw-argo-ai-driverless-car-service-miami-austin"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 27
   - title: "No driver, no problem: Argo AI puts fully autonomous cars on streets of Austin, Miami"
     excerpt: "Pittsburgh-based autonomous vehicle startup Argo AI announced it is now operating vehicles without human drivers on public streets in Austin and Miami. It marks a major milestone for the company as it readies to scale its AV operations for commercial use ..."
     publishedDateTime: 2022-05-17T19:51:00Z

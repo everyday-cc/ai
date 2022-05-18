@@ -10,7 +10,7 @@
       "originalUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -357,6 +357,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-04-facebooks-parent-developed-a-new-ai-language-model-now-its-giving-it-away-for-research.md",
+      "title": "Facebook's Parent Developed A New AI Language Model — Now It's Giving It Away For Research",
+      "excerpt": "Facebook parent Meta Platforms Inc (NASDAQ ... Recently, Meta CEO Mark Zuckerberg said that the company is working on AI research to allow people to have more natural conversations with voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/22/05/26982582/facebooks-parent-developed-new-artificial-intelligence-language-now-its-giving-it-away",
+      "originalUrl": "https://www.benzinga.com/news/22/05/26982582/facebooks-parent-developed-new-artificial-intelligence-language-now-its-giving-it-away",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/05/04/markus-spiske-8oykwqgbskq-unsplash.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26982582",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26982582",
+      "publishedDateTime": "2022-05-04T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers.md",
       "title": "Facebook-owner Meta makes AI large language model accessible for more researchers",
       "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first ...",
@@ -401,34 +444,25 @@
     },
     {
       "path": "_news/2022-05-04-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
-      "title": "Facebook-owner Meta Opens Access To AI Large Language Model",
-      "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first 175-billion-parameter language model to be made available to ...",
+      "title": "Facebook-owner Meta opens access to AI large language model",
+      "excerpt": "iBeat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Facebook-owner Meta Platforms Inc is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718",
-      "originalUrl": "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718",
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/facebook-owner-meta-opens-access-to-ai-large-language-model/91298575",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/facebook-owner-meta-opens-access-to-ai-large-language-model/91298575",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T15:30:00-07:00",
+      "publishedDateTime": "2022-05-03T20:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1319,58 +1353,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-the-census-is-broken-can-ai-fix-it.md",
-      "title": "The Census Is Broken. Can AI Fix It?",
-      "excerpt": "Machine learning can help count people to deliver government funding and decide political representation, but the technology still makes mistakes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/",
-      "originalUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/624f885dd8687dcbd6e67c3e/master/pass/Ping-Pong-Balls-Census-Broken-AI-Fix-Business-1192111792.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-census-undercount-ai-satellites/amp",
-      "publishedDateTime": "2022-04-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

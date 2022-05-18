@@ -23,6 +23,31 @@ topics:
   - AI
 
 related:
+  - title: "Mastercard Tests New Facial Recognition Pay App"
+    excerpt: "The Payface App will allow consumers to pay for goods using the same facial recognition technology that unlocks smartphones."
+    publishedDateTime: 2022-05-18T14:46:00Z
+    webUrl: "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/"
+    ampWebUrl: "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 59
+    images:
+      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/15E/02C/15E02C3C687F437AD3EA9F9598C262B9.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=cxjQk4hNs4y9rOEBkus3oRXCbIM"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Mastercard Begins Facial-Recognition Rollout With Retailers"
+    excerpt: "Mastercard Inc. has begun to trial a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their ..."
+    publishedDateTime: 2022-05-17T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-05-17/mastercard-begins-facial-recognition-rollout-with-retailers"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 49
   - title: "Mastercard pilots biometric payments, using facial recognition"
     excerpt: "Mastercard has begun to trial a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their face using a retailer’s smartphone app and assign their likeness to a bank card stored on file."
     publishedDateTime: 2022-05-17T16:46:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/naveenjoshi/2022/05/18/ways-in-which-big-data-and-ai-automate-recruitment-bias-audits/"
 webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/05/18/ways-in-which-big-data-and-ai-automate-recruitment-bias-audits/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

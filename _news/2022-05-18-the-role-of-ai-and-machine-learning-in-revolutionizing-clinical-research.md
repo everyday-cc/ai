@@ -7,8 +7,8 @@ originalUrl: "https://medcitynews.com/2022/05/the-role-of-ai-and-machine-learnin
 webUrl: "https://medcitynews.com/2022/05/the-role-of-ai-and-machine-learning-in-revolutionizing-clinical-research/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MedCity News
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Attend ‘AI and Machine Learning in Biomedical Research’ on May 24"
+    excerpt: "Biomedical researchers with expertise in data science will discuss impact of artificial intelligence and machine learning on biomedical research, how it is being used for new and paradigm-shifting discoveries and its ethics."
+    publishedDateTime: 2022-05-18T13:35:00Z
+    webUrl: "https://news.vanderbilt.edu/2022/05/18/attend-ai-and-machine-learning-in-biomedical-research-on-may-24/"
+    type: article
+    provider:
+      name: Vanderbilt University News
+      domain: vanderbilt.edu
+    quality: 36
   - title: "How the use of artificial intelligence is driving medical revolution and reducing surgical errors"
     excerpt: "The use of Artificial Intelligence (AI) in surgery is driving a medical revolution where surgical errors are being reduced and patient outcomes improved by its ability to analyse recorded video data from thousands of past operations around the world."
     publishedDateTime: 2022-05-17T10:45:00Z

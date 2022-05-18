@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2022/05/17/tesla-ai-day-2-elon-musk-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -333,6 +333,49 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-intel-launches-new-ai-chips-challenging-nvidias-market.md",
+      "title": "Intel launches new AI chips, challenging Nvidia's market",
+      "excerpt": "as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp (NVDA.O). Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
+      "originalUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -940,10 +983,10 @@
     {
       "path": "_news/2022-05-06-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research.md",
       "title": "AbbVie Chooses Cerebras Systems to Accelerate AI Biopharmaceutical Research",
-      "excerpt": "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, and AbbVie,",
+      "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, and AbbVie, a global biopharmaceutical company, today announced a landmark achievement in AbbVie’s AI work. Using a Cerebras CS-2 on biomedical natural language processing (NLP) models,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-27e46b5a749e46d793c9f335dd46ca8a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-27e46b5a749e46d793c9f335dd46ca8a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -953,11 +996,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T10:40:00-07:00",
+      "publishedDateTime": "2022-05-05T10:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1330,58 +1373,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
-      "title": "Google faces internal battle over research on AI to speed chip design",
-      "excerpt": "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
-      "originalUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

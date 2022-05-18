@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-18-advanced-ai-based-technology-enables-amputees-to-move-a-robotic-arm-with-their-brain.md",
+      "title": "Advanced AI-Based Technology Enables Amputees to Move a Robotic Arm with Their Brain",
+      "excerpt": "Scientists from the University of Minnesota Twin Cities have engineered a more precise, less invasive technology that enables amputees to control a robotic arm using signals from their brain rather than their muscles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12964",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12964",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12964_16528753942126690.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12964",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12964",
+      "publishedDateTime": "2022-05-18T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round.md",
       "title": "Indian Robotics Firm GreyOrange Raises $110 Mn In A Funding Round",
       "excerpt": "Tiger Global-backed Indian robotics firm GreyOrange has raised $110 Mn in the latest funding round, as per reports.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -46,20 +89,20 @@
     },
     {
       "path": "_news/2022-05-18-robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing.md",
-      "title": "Robot Hives In Israel Kibbutz Hope To Keep Bees Buzzing",
+      "title": "Robot hives in Israel kibbutz hope to keep bees buzzing",
       "excerpt": "They function as normal hives, but apiaries built at a kibbutz in Israel's Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
-      "originalUrl": "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
+      "webUrl": "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP9013742092031961124543124772733399242360---1.jpg",
-          "width": 768,
-          "height": 556,
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/robot-equipped-beehive.jpg",
+          "width": 1024,
+          "height": 741,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,13 +110,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
-      "publishedDateTime": "2022-05-18T00:12:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp",
+      "publishedDateTime": "2022-05-18T01:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -96,7 +139,7 @@
       "originalUrl": "https://electrek.co/2022/05/17/tesla-ai-day-2-elon-musk-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1341,58 +1384,6 @@
         "AI in Robotics",
         "IBM AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-invest-in-the-robotics-startup-tripling-restaurant-profits.md",
-      "title": "Invest in the Robotics startup tripling restaurant profits",
-      "excerpt": "So instead of chasing an armada of employees, franchises have already started deploying Flippy. This synthesis of AI-driven robotics, machine learning and data analytics can grill, fry and, as its name suggests, flip an entire restaurant’s worth of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/miso-robotics-145539918.html",
-      "originalUrl": "https://www.engadget.com/miso-robotics-145539918.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/c6c6c570-cbb4-11ec-bfdf-cfbdb5e2b591",
-          "width": 1600,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

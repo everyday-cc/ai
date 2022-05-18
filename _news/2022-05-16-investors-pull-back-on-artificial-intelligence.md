@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-16T13:08:00Z
 originalUrl: "https://www.axios.com/pro/health-tech-deals/2022/05/16/investors-pull-back-on-artificial-intelligence"
 webUrl: "https://www.axios.com/pro/health-tech-deals/2022/05/16/investors-pull-back-on-artificial-intelligence"
 type: article
-quality: 17
-heat: 17
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "yknIZ1cYgT/RwaUjoBgvAASKmtH1Qhi1VUsMSuuR7387DY+kFRP5GxsENJEUIMpaywNVdKho/4EHcd7h1VkutqQlS4zjDvRTjFZtBi2AbfOG29aXPiZY9jchHkG9c4ot5bT90jRr9eH1Pb69EuPXkmAqeDwKtVxTcGyOwN/E5MDRO3VJ/3gIKFXLep4C1ZKbPMiKTqYKYBQoLiSZnKSNMagLFpV/zDUHqQESXh5LpQUc+KY1ppoDjUTNDDgHwLtmSnLHB7+ZYjed6uHoGqkqWNXVaDdaA1CfW4fXPquHoiZnCH/zABiT2nqGbGmOilJFbXrKqRHeSaIjcMYKITFxGW5NloovrezAsDMJlRVOGjIQMJxUNtoIBrHUwaK5buIDE7QO7cVru39rYHFWZvgdiKb1ek15BHp4LOM1qPe1Eb+YO2mkSBy+3pcQ3gneDRISmH9H2C6ITIM7iooPool97fGKW7/LSJPvdaZtlcLPVjDRRnkTWKR9apEa3vrI7N3V4A4DW8+lHv4TsUUoVZI6mQ==;r7YmXclwkF6tfqYJdYZFNw=="
+images:
+  - url: "https://images.axios.com/-8pntDE2bocuBEZkbAim0ztQ5QU=/0x0:1280x720/1366x768/2022/05/16/1652706486392.png"
+    width: 1366
+    height: 768
+    isCached: true
+
+secured: "pUHrtZ8hCHhDjTP9UHpUJJY3J+n2SnF9IAoHrYY79McDssbwacvojqYJGM6n12ypM2Y1wpFOIxV6c2R6/jiichbIgZSxxbVZ+Ayovn6CuG3D4wa06cLUK5bBaRsrlimVoMTOSUSi+O4pHZLweasNU6CcIJrEW77Jz/Cl7r6edYcViZHJldtwCHapHK6RG6wQtk2g3G7yC65QGjr/u39Vs/13tMytS0FIdk7Eum2vJbaR08mW/a019ad5ZOVVMGvXlLaZ4lhSR7hq3xvKevwgYEn/i+7PY0aCzMyBuAKmZu5TRcFwpIET7WmJBvDVBLQ4+wxdgtlYHX7KeV0HkeGNKsa445jQaD6E/MEBc8Fhp98=;OfyQFnfp+XWArwP4YJKwcQ=="
 ---
 

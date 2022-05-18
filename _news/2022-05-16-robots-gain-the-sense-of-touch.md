@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T13:36:00Z
 originalUrl: "https://www.controlengeurope.com/article/190805/contact.aspx"
 webUrl: "https://www.controlengeurope.com/article/190805/contact.aspx"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: IML Group

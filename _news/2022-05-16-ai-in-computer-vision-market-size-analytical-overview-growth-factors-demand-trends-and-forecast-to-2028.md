@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Industrial Robotics Market Size 2022-27 Share, Growth, Report and Forecast | IMARC Group"
+    excerpt: "\"Industrial Robotics Market Research Report\"The global industrial robotics market reached a value of US$ XX Billion in 2021. Looking forward, IMARC Group"
+    publishedDateTime: 2022-05-18T15:58:00Z
+    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-size-2022-27-share-growth-report-and-forecast-imarc-group"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 45
+    images:
+      - url: "https://www.abnewswire.com/uploads/1652852192.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Computer Vision Market Size, Demand, Dynamics, Business Growth And 2031 Forecasts"
     excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on the Computer Vision Market that emphasizes the latest trends, key opportunities, drivers, and ..."
     publishedDateTime: 2022-05-17T06:38:00Z

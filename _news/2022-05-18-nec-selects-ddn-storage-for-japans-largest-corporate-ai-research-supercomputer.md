@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T14:00:00Z
 originalUrl: "https://fox2now.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
 webUrl: "https://fox2now.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Fox2Now St. Louis

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/googles-ai-powered-interview-warmup-helps
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep?amp=true"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

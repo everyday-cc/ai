@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T13:30:00Z
 originalUrl: "https://venturebeat.com/2022/05/18/how-to-use-responsible-ai-to-manage-risk/"
 webUrl: "https://venturebeat.com/2022/05/18/how-to-use-responsible-ai-to-manage-risk/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

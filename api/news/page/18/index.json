@@ -2,6 +2,377 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-04-29-the-best-robot-mops-in-2022.md",
+      "title": "The best robot mops in 2022",
+      "excerpt": "The Deebot’s mix of detection systems, mapping software and effective automation and remote control ... robot mop — say you have more hard floors than carpets and don’t mind attaching ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/best-robot-mop",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/best-robot-mop",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-29T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-aws-bags-victory-over-microsoft-in-fight-for-10bn-nsa-contract.md",
+      "title": "AWS bags victory over Microsoft in fight for $10bn NSA contract",
+      "excerpt": "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
+      "originalUrl": "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8oGbNhHrdUVzT8e8dns8dE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-29T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai.md",
+      "title": "Breaking Down Silos To Create A 360-Degree Total Experience Strategy Through Conversational AI",
+      "excerpt": "Raghu Ravinutala is CEO of leading CX automation platform Yellow.ai, writing about customer experience (CX), AI, conversational AI and more. Over the past two years, we have seen customer experience management become a primary barometer of business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626a938f149fc7a7c9b6f347/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/amp/",
+      "publishedDateTime": "2022-04-29T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-enterprise-use-cases-for-computer-vision.md",
+      "title": "Enterprise Use Cases For Computer Vision",
+      "excerpt": "Manish Garg is the Co-founder and Chief Product Officer at Skan.ai, a computer-vision-based process intelligence platform. Computer vision conjures up thoughts of autonomous vehicles and facial recognition for many of us. Indeed, billions of dollars have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,3375,x0,y240,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "publishedDateTime": "2022-04-29T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-baidu-ponyai-get-chinas-first-commercial-driverless-robotaxi-permits.md",
+      "title": "Baidu & Pony.AI get China’s first commercial driverless robotaxi permits",
+      "excerpt": "Baidu and Pony.ai are two Chinese companies that have been ... Previous permits relate to testing the self-driving vehicles without a safety driver in the vehicle. China has seen a raft of self-driving services in several cities across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/",
+      "originalUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/01/Baidu-Apollo.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1",
+      "publishedDateTime": "2022-04-29T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled-telepresence-robots-from-ohmnilabs.md",
+      "title": "Josh Williams Hospital Tour Revs Up Virtual Visits to Nascar Xfinity Racetracks Using Kid-Controlled Telepresence Robots from OhmniLabs",
+      "excerpt": "Ohmni Robots are easy for kids to control themselves using a tablet ... For many organizations, COVID-19 is still very much top of mind and keeping the patients and staff safe from the spread ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox5sandiego.com/business/press-releases/cision/20220429NY41024/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled-telepresence-robots-from-ohmnilabs/",
+      "originalUrl": "https://fox5sandiego.com/business/press-releases/cision/20220429NY41024/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled-telepresence-robots-from-ohmnilabs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 5 San Diego",
+        "domain": "fox5sandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-microsoft-ceo-talks-up-new-growth-engines.md",
+      "title": "Microsoft CEO talks up ‘new growth engines’",
+      "excerpt": "Microsoft reported a better-than-expected third fiscal quarter this week, with CEO Satya Nadella calling several products “new growth engines” for the company and predicting that IT budgets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-up-new-growth-engines-579337",
+      "originalUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-up-new-growth-engines-579337",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/20220429095350_Satya_smiling-print-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-29T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-voi-technology-to-deploy-ai-computer-vision-on-e-scooters-in-oslo-norway.md",
+      "title": "Voi Technology to deploy AI computer vision on e-scooters in Oslo, Norway",
+      "excerpt": "As part of a new partnership, Voi will use AI technology to deploy computer vision on its e-scooters throughout Oslo in order to tackle pavement riding and fix e-scooter parking, ultimately delivering a safer riding experience. Credit: Voi Technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.intelligenttransport.com/transport-news/135330/voi-ai-computer-vision-e-scooters-oslo/",
+      "originalUrl": "https://www.intelligenttransport.com/transport-news/135330/voi-ai-computer-vision-e-scooters-oslo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.intelligenttransport.com/wp-content/uploads/My-project-12-4.jpg",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-29T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "intelligenttransport",
+        "domain": "intelligenttransport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-recent-updates-are-reminder-of-chinas-big-role-in-av-world.md",
       "title": "Recent updates are reminder of China's big role in AV world",
       "excerpt": "Starting Thursday, Baidu was authorized to operate driverless ... robotaxi company WeRide launched its Robosweeper this week, a self-driving street-sweeping product developed as \"we observed ...",
@@ -795,405 +1166,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-the-field-of-ai.md",
-      "title": "Cerebras Systems’ dinner plate-sized chips are revolutionizing the field of AI",
-      "excerpt": "When big isn't big enough, you go bigger. And when that isn't big enough, you go Cerebras Systems big. But how much does size matter?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai",
-      "originalUrl": "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fcerebras-chip.jpg&signature=33b94c65c924c926aa93ff8a248753b1",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-this-ai-designed-enzyme-can-devour-plastic-trash-in-hours-video.md",
-      "title": "This AI-Designed Enzyme Can Devour Plastic Trash In Hours: Video",
-      "excerpt": "A new enzyme developed by researchers in Texas has raised hopes of a viable method to break down and recycle some of the millions of tons of waste plastic polluting the Earth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/",
-      "originalUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626917e9bf251683c124e08a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/amp/",
-      "publishedDateTime": "2022-04-28T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-inworld-shows-off-impressive-ai-powered-character-generation-and-interaction.md",
-      "title": "Inworld shows off impressive AI-powered character generation and interaction",
-      "excerpt": "Characters in games and other digital experiences tend to be rather static, working from a set of lines and responses written long ago. But the future of games could be more responsive, generative, and of course AI-powered — something Inworld AI is attempting to enable with a newly available beta",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/inworld.jpg?w=1024",
-          "width": 1024,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/",
-      "publishedDateTime": "2022-04-28T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-snap-is-fueling-our-selfie-obsessions-with-a-flying-camera.md",
-      "title": "Snap Is Fueling Our Selfie Obsessions With a Flying Camera",
-      "excerpt": "Snap is mostly known for its sticky social network consisting of fleeting messages and legitimately impressive augmented reality filters. But every so often Snap, which calls itself a “camera company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/snap-pixy-drone-camera/",
-      "originalUrl": "https://www.wired.com/story/snap-pixy-drone-camera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/snap-pixy-drone-camera/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snap-pixy-drone-camera/amp",
-      "publishedDateTime": "2022-04-28T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-self-driving-tesla-crashes-into-15-million-private-jet-while-being-summoned.md",
-      "title": "Self-driving Tesla crashes into £1.5 million private jet while being ‘summoned’",
-      "excerpt": "One of the self-driving features on a Tesla car is known as ‘smart summon’ and allows the owner to call the car remotely from around 200 feet. Unfortuantely, there’s sometimes an expensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
-      "originalUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/04/SEC_101095692.jpg?quality=90&strip=all&zoom=1&resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
-      "publishedDateTime": "2022-04-28T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few.md",
-      "title": "Federal banking agencies trying to ensure AI, ML benefit most rather than the few",
-      "excerpt": "Measuring risks and setting benchmarks for emerging fintech is top of mind for NIST and the Commerce Department.",
-      "sourceUrl": null,
-      "webUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
-      "originalUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://federalnewsnetwork.com/wp-content/uploads/2022/04/stanfordpanel.jpg",
-          "width": 1555,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "federalnewsnetwork.com",
-        "domain": "federalnewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware.md",
-      "title": "Exafunction aims to reduce AI dev costs by abstracting away hardware",
-      "excerpt": "The most sophisticated AI systems today are capable of impressive feats, from directing cars through city streets to writing human-like prose. But they share a common bottleneck: hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/",
-      "publishedDateTime": "2022-04-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters.md",
-      "title": "Richard Bartle and Richard Garriott: How humans should treat advanced AI characters",
-      "excerpt": "Richard Bartle and Richard Garriott talked at GamesBeat Summit 2022 about being new citizens of the metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
-      "originalUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/garriott-bartle.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
-      "publishedDateTime": "2022-04-28T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

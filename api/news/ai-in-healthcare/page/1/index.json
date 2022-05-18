@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of-43-2022-05-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -96,49 +96,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-wysa-receives-usfda-approval-for-ai-led-device-for-mental-health.md",
-      "title": "Wysa receives USFDA approval for AI led device for mental health",
-      "excerpt": "The device delivers cognitive behavioural therapy (CBT) via a smartphone-based conversational agent to reduce the symptoms of depression and anxiety, ..",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91592319,imgsize-18776,width-1200,height-628,overlay-ethealthworld/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319",
-      "publishedDateTime": "2022-05-16T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -1365,6 +1322,50 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount.md",
+      "title": "AI-powered voice solutions provider for healthcare Suki to double India headcount",
+      "excerpt": "“We have to be very, very highly efficient and accurate for healthcare. We ended up actually building a medically tuned speech recognition system, a medically tuned command, understander or intent recognizer. Our goal is to make healthcare ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/companies/9gvchh/article65375375.ece/alternates/LANDSCAPE_615/Punit%20Soni.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece/amp/",
+      "publishedDateTime": "2022-05-02T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI",
         "AI in Healthcare"
       ]

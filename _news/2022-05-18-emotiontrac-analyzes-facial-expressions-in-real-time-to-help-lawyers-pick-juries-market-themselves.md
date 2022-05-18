@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T13:37:00Z
 originalUrl: "https://www.abajournal.com/legalrebels/article/rebels-podcast-episode-076/"
 webUrl: "https://www.abajournal.com/legalrebels/article/rebels-podcast-episode-076/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: ABA Journal

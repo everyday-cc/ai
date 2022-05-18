@@ -43,6 +43,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Long Covid Risks Could Be Spotted By Machine Learning"
+    excerpt: "A new study, supported by the National Institutes of Health, found that machine learning models were able to spot patterns in patient data that pointed to higher risks of developing long covid."
+    publishedDateTime: 2022-05-18T12:52:00Z
+    webUrl: "https://khn.org/morning-breakout/long-covid-risks-could-be-spotted-by-machine-learning/"
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 19
 
 secured: "TETXpW6cRImuagBLhElKi+KqJ3rkVmYwa8dcQpsaMDKxRw5uaIhOTrf3wahsdKMbeJXI0k1OKraf3c0P4CudGam3Q72laC4nk7pUHd4PnqtykyqRUZE8wkHPYGIlMHDi62Ag9RTbwO6YaIavaRns8QvkeURMV45+HyrOfcWoA4Em40WYPHbp76St4YDfpgXJPfhb4zt/d+HVGNDaFnDt5q/i0aE2Y+6oqXwWB5oqkEHThQH7YY0CjEecTml5kDFk0BfguADMFHHv0wzoy+5rIlJnuND6DaRqXENLQhKS7N9hchuUEFSaUsAqZ2e8n8zH4QT2RbmI7JjoQywL/l+2O+DEYLJ5gHhXHJIFPrJF60aMogoO+CTuyCRq7lrxjf6H00Pon5wOWXZKLq0P34miZMlRgwIjmyDDdb5kO4cWYhG6c1c65Rtv3zUvGqEs0luYlO+Db40FbAopnGEhe13l/Kxqnh8dp1Cb1UYRivdEEPRqg1J3Q8TuOGFTCrDTyvgsjoN9tUcdPCRfdvzv56Dj3A==;zskm9/yXeDXo1lD1q8ejbA=="
 ---

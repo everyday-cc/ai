@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-18T10:39:00Z
 originalUrl: "https://www.linkedin.com/pulse/can-artificial-intelligence-bot-make-1-daily-profit-arnas-sinkevicius"
 webUrl: "https://www.linkedin.com/pulse/can-artificial-intelligence-bot-make-1-daily-profit-arnas-sinkevicius"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:

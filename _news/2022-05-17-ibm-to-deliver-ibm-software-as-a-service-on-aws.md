@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) As a Service Market Will Hit Big Revenues In Future | Google, Amazon web services, IBM and more"
+    excerpt: "Major Highlights of the Artificial Intelligence (AI) As a Service Market report released by DLF Market Breakdown by Product: Software, Services. Market Breakdown by End User: Banking, Financial Services, and Insurance, Healthcare and Life Sciences ..."
+    publishedDateTime: 2022-05-18T12:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-as-a-service-market-will-hit-big-revenues-in-future-google-amazon-web-services-ibm-and-more"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
   - title: "IBM in strategic collaboration with AWS"
     excerpt: "IBM has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS), with plans to offer a broad array of its software catalogue as Software-as-a-Service (SaaS) on AWS. Building on IBM Software being available as-a-Service (aaS) on IBM Cloud,"
     publishedDateTime: 2022-05-17T09:13:00Z

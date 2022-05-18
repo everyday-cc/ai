@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Robot Hives In Israel Kibbutz Hope To Keep Bees Buzzing"
+title: "Robot hives in Israel kibbutz hope to keep bees buzzing"
 excerpt: "They function as normal hives, but apiaries built at a kibbutz in Israel's Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators."
-publishedDateTime: 2022-05-18T07:12:00Z
-originalUrl: "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
-webUrl: "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
-ampWebUrl: "https://www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
+publishedDateTime: 2022-05-18T08:19:00Z
+originalUrl: "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.html"
+webUrl: "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.html"
+ampWebUrl: "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP9013742092031961124543124772733399242360---1.jpg"
-    width: 768
-    height: 556
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/robot-equipped-beehive.jpg"
+    width: 1024
+    height: 741
     isCached: true
 
 related:
@@ -51,6 +51,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 34
 
-secured: "buC7RGxbHonPStt8xyriCUfL/l7qXQtEkYkJQGG+qGv6MtsJR2XbeGL13/LzWPHt70yNJC0hlV6OoUwMpQnTVityh61yY8bbimAyIGZcBFfX1SSrAtwPrfnwRW0zQwULT+4G9ZDRx5cXhRYWaq/ETmMwpnqlHb8FtUfvFnzS8VgkL/0xK0mMxAXHWCeDuGr50oXEdg4XHFEfk5wAkkucnwmh17OvhWVqCZ8H6ZYyyBzfy0d4S/f+OtVSK466ePxk+SXQmv2OkWiWTqjPUK+FECAK8tw0F1piCmn6/nPEQyPfH1UIM6axQdPoRKIZlyZFacDeE36Rr3Yx5ZQM90c2fl3MAkgemJY855Bnufj0LomvVppopLdicGkETm4cXF0+lF07skR8uaKhYFGyMPNksFA5SXjrUSpYGWD9u53RMQCrEBOlhZWEb0dWd5U4l+CBwKk0Uj1bnUY4NYYqUIub7/KqRcgHLxCgik3g+AUnSGXjDHfybIZOLEngVUAwBXep8smW76WzM0r5bZ3faQQnZw==;Bh2ntYtdeIq08yqn6XTXpw=="
+secured: "bSu8Za9q7ih7mkA57+XgJbCclWdctHeZPDAuXaF504OSlSlCMyiu4b3O/vAP+NEkEAo1YXrG1mUljGk594iSwjTmGieNhx6SADDcNcOEEThJxJxaQFfuIHFv/9p8TClMZSqfDdd4NK4npZCguyPBWH1hSdGIPy2MxDud1YLUSCSPIznNfj3tpJzK3/x15jH0OzqDqjj9qPxtUZTH3dlAXWYflkE72BryD9CHfPGH9Y0/riN3bIfdIAWjIpaZnk0/3+Gi+1v0UhXg7bc8AobVbOwskm/CfJGCR0Ei1bxlsSIRG2ZWyuml7DxWpjrn5gsnxb6R3Pdzn5ry8J9PQNm2x28fL3Wntq3vws3hyCGnkSM=;yVJTOZjLHWk39w4ts8yQjA=="
 ---
 

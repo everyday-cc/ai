@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T09:15:00Z
 originalUrl: "https://news.trust.org/item/20220518131326-g7qya"
 webUrl: "https://news.trust.org/item/20220518131326-g7qya"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Thomson Reuters Foundation

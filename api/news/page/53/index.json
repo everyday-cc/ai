@@ -2,6 +2,361 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-03-31-you-can-now-translate-to-from-isizulu-across-the-entire-microsoft-ecosystem.md",
+      "title": "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem",
+      "excerpt": "Image sourced from NS Energy. Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
+      "originalUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft--696x452.jpg",
+          "width": 696,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
+      "publishedDateTime": "2022-03-31T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-natural-language-processing-a-big-leap-in-conversing-with-the-human-mind.md",
+      "title": "Natural Language Processing: A Big Leap in Conversing with the Human Mind",
+      "excerpt": "Behind all these, there is a major Artificial Intelligence (AI) application called Natural Language Processing or NLP. We, humans, have always been fascinated by others who can talk like us ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-90556508,imgsize-33542,width-1200,height-628,overlay-etcio/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
+      "publishedDateTime": "2022-03-31T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-are-we-ready-to-transform-lives-with-ai.md",
+      "title": "Are We Ready To Transform Lives With AI?",
+      "excerpt": "AI has paved the way for dynamic changes at the workplace and in personal life, by automating a host of processes and activities",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/423551",
+      "originalUrl": "https://www.entrepreneur.com/article/423551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1648708439-Myproject141.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-siri-cant-speak-irish-tackling-the-digital-gaps-for-the-irish-language.md",
+      "title": "Siri can't speak Irish: Tackling the digital gaps for the Irish language",
+      "excerpt": "“This type of language AI doesn’t exist for Irish,” she continues ... For example, machine translation systems need to have first seen huge amounts of previously translated text that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/",
+      "originalUrl": "https://www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.thejournal.ie/article/5725794/listing/?width=600&version=5725876",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/?amp=1",
+      "cdnAmpWebUrl": "https://www-thejournal-ie.cdn.ampproject.org/c/s/www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/?amp=1",
+      "publishedDateTime": "2022-03-30T22:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheJournal.ie",
+        "domain": "thejournal.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises.md",
+      "title": "Google Using AI To Improve Search Results For Those Experiencing Personal Crises",
+      "excerpt": "Google is rolling out improvements to its search engine that will provide more reliable, trustworthy and actionable information for users experiencing personal crises, such as suicidal thoughts, sexual assault,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624519d473a84b78766f0b1b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/",
+      "publishedDateTime": "2022-03-30T20:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-estee-lauder.md",
+      "title": "AI Visionary, Leader And 21st Century Maverick Sol Rashidi Of Estée Lauder",
+      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Sol Rashidi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6244fcbb6b9172a70d31a3b8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
+      "publishedDateTime": "2022-03-30T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-waymo-expanding-self-driving-car-operations-to-downtown-phoenix.md",
+      "title": "Waymo expanding self-driving car operations to Downtown Phoenix",
+      "excerpt": "On March 30, officials with Waymo announce they are expanding their self-driving car operations in Phoenix, years after they began self-driving car operations in a part of the East Valley. FOX 10's Linda Williams reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox10phoenix.com/video/1052039",
+      "originalUrl": "https://www.fox10phoenix.com/video/1052039",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox10phoenix.com/video/1052039.amp",
+      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/1052039.amp",
+      "publishedDateTime": "2022-03-30T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 10 Phoenix",
+        "domain": "fox10phoenix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-chinas-baidu-exploring-options-after-us-delisting-risk.md",
+      "title": "China's Baidu exploring options after U.S. delisting risk",
+      "excerpt": "Chinese search engine giant Baidu Inc said on Thursday it is exploring options, after the company was added to a U.S. securities regulator’s list of companies that face the risk of being delisted.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
+      "originalUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
+      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
+      "publishedDateTime": "2022-03-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Post",
+        "domain": "nationalpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework.md",
       "title": "NSW government AI projects face ethics assessment under new assurance framework",
       "excerpt": "The mandated AI Assurance Framework will help agencies establish clear governance and accountability measures when using AI.",
@@ -798,421 +1153,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure.md",
-      "title": "Chip Design Moves To The Cloud With Synopsys And Microsoft Azure",
-      "excerpt": "The two companies have collaborated to enable engineers to design chips using cloud resources and dynamic licensing. Digital chips are the new lifeblood for nearly every human endeavor and currency for innovation. But design a chip is a very expensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623e3bcc2e4fd6128c007e8d/0x0.jpg?format=jpg&crop=2201,1238,x119,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/",
-      "publishedDateTime": "2022-03-30T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-former-deepmind-employee-acuses-company-of-mishandling-sexual-abuse-complaint.md",
-      "title": "Former DeepMind employee acuses company of mishandling sexual abuse complaint",
-      "excerpt": "A former DeepMind employee has accused the company of mishandling a series of serious sexual harassment allegations..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "originalUrl": "https://www.engadget.com/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/ad7e15c0-b04b-11ec-bff4-5322771aed2e",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "publishedDateTime": "2022-03-30T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-intel-teases-first-arc-a-series-desktop-gpu-ahead-of-summer-launch.md",
-      "title": "Intel teases first Arc A-series desktop GPU ahead of summer launch",
-      "excerpt": "Intel says it will release its first Arc A-series desktop GPU this summer, and has offered a brief peek at the card itself..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html",
-      "originalUrl": "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/739df840-b044-11ec-bfba-0b813432a84a",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html",
-      "publishedDateTime": "2022-03-30T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-selected-ai-startups-from-ycs-winter-22-batch.md",
-      "title": "Selected AI startups from YC’s Winter ’22 batch",
-      "excerpt": "Dozens of startups in Y Combinator’s Winter 2022 cohort do something that could be described as artificial intelligence. Though the term has lost much of its meaning, it’s still an important part of the tech landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/30/selected-ai-startups-from-ycs-winter-22-batch/",
-      "originalUrl": "https://techcrunch.com/2022/03/30/selected-ai-startups-from-ycs-winter-22-batch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/aisupervision.png",
-          "width": 741,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/30/selected-ai-startups-from-ycs-winter-22-batch/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/30/selected-ai-startups-from-ycs-winter-22-batch/amp/",
-      "publishedDateTime": "2022-03-30T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-deepmind-accused-of-mishandling-sexual-misconduct-allegations.md",
-      "title": "DeepMind accused of mishandling sexual misconduct allegations",
-      "excerpt": "A former DeepMind employee has accused the artificial intelligence group’s leadership of mishandling multiple allegations of sexual misconduct and harassment, raising concerns over how ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2022/03/deepmind-accused-of-mishandling-sexual-misconduct-allegations/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2022/03/deepmind-accused-of-mishandling-sexual-misconduct-allegations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/deepmind-760x380.jpeg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-intel-launches-arc-graphics-chips-for-gaming-laptops.md",
-      "title": "Intel launches Arc graphics chips for gaming laptops",
-      "excerpt": "It feels like ages ago when Intel first started working on its discrete graphics chips, which will ship soon under the Intel Arc brand name.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/30/intel-launches-arc-graphics-chips-for-gaming-laptops/",
-      "originalUrl": "https://venturebeat.com/2022/03/30/intel-launches-arc-graphics-chips-for-gaming-laptops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/intel-arc-6.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/30/intel-launches-arc-graphics-chips-for-gaming-laptops/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/intel-launches-arc-graphics-chips-for-gaming-laptops/amp/",
-      "publishedDateTime": "2022-03-30T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features.md",
-      "title": "Intel ARC Invades The Dedicated GPU Market With Truly Exciting Features",
-      "excerpt": "Everything you need to know about Intel Arc A-Series graphics. Plus: How Team Blue is doing things differently than AMD and Nvidia, while still catering to both gamers and content creators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/",
-      "originalUrl": "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62443dfb55a2f5a5444ab6ab/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/",
-      "publishedDateTime": "2022-03-30T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence.md",
-      "title": "Reputation launches AI platform to provide enterprises with competitive intelligence",
-      "excerpt": "California-based Reputation has launched Competitive Intelligence, a new product aimed at helping enterprises better track their rivals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/",
-      "originalUrl": "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/Customize-Brands-to-Compare-e1648650585265.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/amp/",
-      "publishedDateTime": "2022-03-30T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

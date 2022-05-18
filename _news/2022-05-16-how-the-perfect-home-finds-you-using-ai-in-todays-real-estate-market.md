@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "How To Unlock The Power Of AI In Your Business"
+    excerpt: "The need to effectively generate insights from your business data is undeniable. As per Gartner’s study on business composability, 51% of the more than 2,000 CIOs surveyed will increase investments in analytics in 2022."
+    publishedDateTime: 2022-05-18T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/18/how-to-unlock-the-power-of-ai-in-your-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+
 secured: "wXkZgysJ5s93HuRjnHN60cMtVVPe9nmGoRh9JsJFdVNxsqAHS2XTK7QnbDcxUk+WlSupie47ywIGK2jtCeoBob2HvgP51MkZH+4d3TxawyKvlbhIdIdiWwAq/s4keRS4BUtzdmzDsQ452l3Sg/EbuzLZ0xKwdvV2K3SuYXkaKT7njKOdR3OMKI4cMDWrr5xHA8YCQ5kPz3EMc7bZG5xtxIkhL7OJHkMuVKuii4lY5+uw3tjFUCzqcRNFcU3+CBeoXt+mJY1Mvto+DvegcxX91s4fyx6t5AD5KG8FIi9FqdC9bNWVHG1vYwhEKvRjBJbA7D0rKhkOkyGZzggVJaGWEzr2ivIIZOTioo4ThQts5AA=;r4B4BxL+WB2hRrGM4ddHtg=="
 ---
 

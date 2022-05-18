@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220516/Scientists-use-machin
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220516/Scientists-use-machine-learning-techniques-for-better-characterization-of-long-COVID.aspx"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: News Medical
@@ -43,6 +43,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Long Covid Risks Could Be Spotted By Machine Learning"
+    excerpt: "A new study, supported by the National Institutes of Health, found that machine learning models were able to spot patterns in patient data that pointed to higher risks of developing long covid."
+    publishedDateTime: 2022-05-18T12:52:00Z
+    webUrl: "https://khn.org/morning-breakout/long-covid-risks-could-be-spotted-by-machine-learning/"
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 19
 
 secured: "DNqowhXOhd+ziFBSMImTMYUr0DCFAs94NII63YTqpCbnrJh70EGWBDgP3pHs5H7vHozlYOCEOkRBp5pfnW3iP1Nar5YKD3qQqnfAManLZPz9t4UYeZi8FtbPvADbszX0B101xK+PuxHBbIFZmEsb1gw59nZ7nCU2eAXxfE+qr9bOM3i7TvKQxtX7D5eGO9LSIO3qm9GRHXupzCnroGQkZxzr4Vfd7EIztkoX6Gjv1jAh8Oebe2yZyxsegoebmHPdtFi3yukPyB2MSsiT+fjvpQK/8cS868qrWY5dAUXr22nNMT8FcunB4raaeapK59vlyp56I+Fi6zUs6U4Otkyww8wqgx6rXZ8SaPhdqmnKkriQ2RrKvXVEg8Qo4eV/OtOeeApVyK0/PqGYV/FsTcc8wYuIEgpdi03oXlxUFaYSIIlNvDingLsVTjRynfVG1nnMkFX3Pq0en7AJw23z/gZd3Y0PBOZRR6BS4iGoLsEgcNsDDmm52i7OxH8V2vPZpqzP0oa3EIxX6JvjxCqaUWTsgg==;VETS3OpWLcFTfJ5GYoP/ag=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T12:07:00Z
 originalUrl: "https://www.globest.com/2022/05/18/facial-recognition-software-simplifies-resident-tenant-access/"
 webUrl: "https://www.globest.com/2022/05/18/facial-recognition-software-simplifies-resident-tenant-access/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: GlobeSt.com

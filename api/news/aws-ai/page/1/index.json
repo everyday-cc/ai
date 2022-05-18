@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-18-aws-and-temenos-team-up-for-speedier-banking.md",
+      "title": "AWS and Temenos team up for speedier banking",
+      "excerpt": "Amazon Web Services (AWS) has joined with cloud banking software provider ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
+      "originalUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7RB6x6ga3Yjd83zESPEq2L-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-customize-pronunciation-using-lexicons-in-amazon-polly.md",
       "title": "Customize pronunciation using lexicons in Amazon Polly",
       "excerpt": "Amazon Polly is a text-to-speech service that uses advanced deep learning technologies to synthesize natural-sounding human speech. It is used in a variety of use cases, such as contact center systems, delivering conversational user experiences with human-like voices for automated real-time status check,",
@@ -1402,49 +1454,6 @@
         "AI",
         "AI in Security",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-bell-announces-the-first-aws-wavelength-zone-in-canada.md",
-      "title": "Bell announces the first AWS Wavelength Zone in Canada",
-      "excerpt": "with AWS Wavelength embeds AWS compute and storage services at the edge of the Bell 5G network. The service targets 5G applications including visual data processing, AR/VR, artificial intelligence, and robotics, in industries such as manufacturing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/bell-announces-the-first-aws-wavelength-zone-in-canada/121584",
-      "originalUrl": "https://www.itbusiness.ca/news/bell-announces-the-first-aws-wavelength-zone-in-canada/121584",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/05/GettyImages-875496596.jpeg",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/bell-announces-the-first-aws-wavelength-zone-in-canada/121584?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/bell-announces-the-first-aws-wavelength-zone-in-canada/121584?amp=1",
-      "publishedDateTime": "2022-05-02T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

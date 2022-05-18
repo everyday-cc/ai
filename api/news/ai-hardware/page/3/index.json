@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-13-backplane-systems-technology-presents-sintrones-abox-5210g6-powerful-edge-ai-fanless-computer-system.md",
+      "title": "Backplane Systems Technology Presents Sintrones’ ABOX-5210G6 Powerful Edge AI Fanless Computer System",
+      "excerpt": "Powerful Edge AI Fanless Computer System. Powered by Intel® Gen 10th 10 Cores Xeon®, i9 CPU with 10 x GbE, and NVIDIA® Quadro® RTX 3000 GPU for AI GPU Computing. Furthermore, the ABOX-5210G6 features 1920 CUDA Cores, a superior GPU specification in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-sintrones-abox-5210g6-powerful-edge-ai-fanless-computer-system/",
+      "originalUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-sintrones-abox-5210g6-powerful-edge-ai-fanless-computer-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ferret.com.au/wp-content/uploads/2022/04/PR-Image-ABOX-5210G6.jpg",
+          "width": 1500,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ferret Australia's Manufacturing Industrial and Mining Directory",
+        "domain": "ferret.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-neuromorphic-computing-industry-next-generation-of-ai-and-machine-learning.md",
+      "title": "Neuromorphic Computing Industry - Next Generation of AI and Machine Learning",
+      "excerpt": "Emergen Research Logo The growth of the market is attributed to the requirement of better performing ICs and increase in demand for AI an",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next-Generation-of-AI-and-Machine-Learning",
+      "originalUrl": "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next-Generation-of-AI-and-Machine-Learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187",
+          "width": 445,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm.md",
       "title": "AI Weekly: Google sets the bar for AI language models with PaLM",
       "excerpt": "PaLM (Pathways Language Model) is the first outcome of Pathways, Google’s new AI architecture, which aims to handle many tasks at once, learn new tasks quickly and reflect a better understanding of the world.",
@@ -1304,111 +1391,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-opinion-intel-spices-up-pc-market-with-arc-gpu-launch.md",
-      "title": "Opinion: Intel spices up PC market with Arc GPU launch",
-      "excerpt": "Intel officially announced today the Arc A series, which is targeted at laptops. A version of Arc for desktops has been promised for the second quarter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
-      "originalUrl": "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/03/2022-03-30-image-43.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
-      "publishedDateTime": "2022-03-30T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure.md",
-      "title": "Chip Design Moves To The Cloud With Synopsys And Microsoft Azure",
-      "excerpt": "The two companies have collaborated to enable engineers to design chips using cloud resources and dynamic licensing. Digital chips are the new lifeblood for nearly every human endeavor and currency for innovation. But design a chip is a very expensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623e3bcc2e4fd6128c007e8d/0x0.jpg?format=jpg&crop=2201,1238,x119,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/",
-      "publishedDateTime": "2022-03-30T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

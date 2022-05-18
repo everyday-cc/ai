@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Heartex raises $25M for its AI-focused, open source data labeling platform"
+    excerpt: "Heartex, a data labeling firm, has raised $25 million in a venture funding round, bringing its total raised to $30 million."
+    publishedDateTime: 2022-05-18T13:03:00Z
+    webUrl: "https://techcrunch.com/2022/05/18/2314708/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 45
   - title: "Forma.ai closes USD$45 million Series B financing to accelerate revolutionary AI-supported sales performance management platform"
     excerpt: "Company leads market in data-driven models with higher-impact incentives to drive optimal performance TORONTO, May 17, 2022 /PRNewswire/ - Forma.ai, the Sales Performance Management solution (SPM ..."
     publishedDateTime: 2022-05-17T13:19:00Z

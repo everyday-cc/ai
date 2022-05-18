@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-20-how-medtech-companies-can-help-make-ai-assisted-surgery-possible.md",
+      "title": "How Medtech Companies Can Help Make AI-assisted Surgery Possible",
+      "excerpt": "Future AI solutions could expand to help surgeons make better operative decisions, reduce risk and improve patient safety, and enhance performance. There are, however, significant technical and other challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.meddeviceonline.com/doc/how-medtech-companies-can-help-make-ai-assisted-surgery-possible-0001",
+      "originalUrl": "https://www.meddeviceonline.com/doc/how-medtech-companies-can-help-make-ai-assisted-surgery-possible-0001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vertassets.blob.core.windows.net/image/fcb60b3d/fcb60b3d-6c64-4535-b5cd-c6989d50db2b/artificial_intelligence_gettyimages_1319573751.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Med Device Online",
+        "domain": "meddeviceonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-the-power-of-natural-language-processing.md",
       "title": "The Power of Natural Language Processing",
       "excerpt": "Until recently, the conventional wisdom was that while AI was better than humans at data-driven decision making tasks, it was still inferior to humans for cognitive and creative ones. But in the ...",
@@ -1320,40 +1363,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce.md",
-      "title": "fabric Recognized as a Strong Performer in 2022 Gartner Peer Insights™ ‘Voice of the Customer’ Report for Digital Commerce",
-      "excerpt": "Headless commerce platform received highest overall rating by customers across the Gartner Peer Insights™ Digital Commerce report. SEATTLE , April 5, 2022 /PRNewswire/ -- fabric",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-16T21:04:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/successful-adoption-of-off-the-shelf-ai-depends-on-tight-business-alignment-says-info-tech/article_0d508a75-94f4-58f0-b9ac-7abb370d6e98.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/successful-adoption-of-off-the-shelf-ai-depends-on-tight-business-alignment-says-info-tech/article_0d508a75-94f4-58f0-b9ac-7abb370d6e98.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: WFMZ-TV

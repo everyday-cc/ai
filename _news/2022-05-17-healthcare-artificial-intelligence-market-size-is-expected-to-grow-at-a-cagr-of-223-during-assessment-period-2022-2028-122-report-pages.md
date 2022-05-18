@@ -25,29 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP"
-    excerpt: "The global Call Center AI Market size is to grow from USD 1.6 billion in 2022 to USD 4.1 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.3% during the forecast period. The advent of AI in the call center offers enhanced customer support services and better experience coupled with rising development in customer engagement through social media platforms to boost the growth of the call center AI in the market."
-    publishedDateTime: 2022-05-13T22:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13"
+  - title: "Artificial Intelligence (AI) in Healthcare Market Size Forecast to Reach USD 64 billion by 2027, expanding at a compound annual growth rate of 43%"
+    excerpt: "Artificial Intelligence Healthcare Market size is predicted to touch USD 64 billion by 2027, registering a CAGR of 43% over the forecast period (2020-2027), owing to the increasing application of AI in medical imaging,"
+    publishedDateTime: 2022-05-17T07:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of-43-2022-05-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 73
-  - title: "Artificial Intelligence (AI) Market 2022 Report Covers Top Key Players Profiling – Oracle Corp., JP Morgan, AWS, Intel, IBM Corp., Microsoft Corp."
-    excerpt: "Market in BFSI Sector Market” offered by Credible Markets, comprises of a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
-    publishedDateTime: 2022-05-17T01:16:00Z
-    webUrl: "https://xaralite.com/50613/uncategorized/artificial-intelligence-ai-market-2022-report-covers-top-key-players-profiling-oracle-corp-jp-morgan-aws-intel-ibm-corp-microsoft-corp/"
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (Ai) In Pharmaceutical Market Research on Demand and Production, Top Players with Trends and Forecast till 2030"
+    excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Pharmaceutical Market Size Is Expected To Reach USD 7,147.2 Million By 2029., at a CAGR of 31.2% during the forecast period.” The ..."
+    publishedDateTime: 2022-05-16T13:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-pharmaceutical-market-research-on-demand-and-production-top-players-with-trends-and-forecast-till-2030"
     type: article
     provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 48
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
     images:
-      - url: "http://redskins101.com/wp-content/uploads/2022/05/116-1024x618.jpg"
-        width: 1024
-        height: 618
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
+  - title: "Nanotechnology Market is Globally Expected to Drive Growth of USD 5.96 billion by 2027 : Fior Markets"
+    excerpt: "Asia-Pacific is the region which is expected to grow with the highest CAGR. The reason behind this is the emerging artificial intelligence firms and the increased usage of nanotechnology in the field of medicine. Get Free Sample Copy: https ..."
+    publishedDateTime: 2022-05-18T07:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27269726/nanotechnology-market-is-globally-expected-to-drive-growth-of-usd-5-96-billion-by-2027-fior-market"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27269726"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27269726"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 9
+  - title: "Voice Cloning Market to reach at an estimated value of USD 4446.08 million and grow at a CAGR of 25.74% by 2028"
+    excerpt: "Voice Cloning Market business report is a great resource which provides present as well as upcoming technical and financial details of the industry to"
+    publishedDateTime: 2022-05-18T08:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/voice-cloning-market-to-reach-at-an-estimated-value-of-usd-4446-08-million-and-grow-at-a-cagr-of-25-74-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 4
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Healthcare Automation Market to Top US$ 88.9 Bn by 2032 Amid Growing Demand for Hospital Pharmacy Digitization"
+    excerpt: "The global healthcare automation market size is expected to reach US$ 88.9 Bn, with demand increasing at a healthy CAGR of 8.4% over the forecast period. It was valued at US$ 36.9"
+    publishedDateTime: 2022-05-18T12:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-5-18-healthcare-automation-market-to-top-us-889-bn-by-2032-amid-growing-demand-for-hospital-pharmacy-digitization"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "01xw1EWf0RYVxPhK04yJ8+k1P4fA3yipdppkWIYVXmz/8fPm3AwypUvfalLQ8OUcihAVUOdWzs3v6yRhdZLKAiLYssEvMxqBecT7d2CTtuu3YDlxs/yLdcE7KneXhTFzMtrf0BmFrkr4b2Yi+nsjaWjs6+5PnsFygmmlLbNAandC1kkJRtjF4G5IyoAjPC7TtVH6Tah2CYXpkRING1oKuF8bW+SmIZCwdNRhjv9Aa7kwW+waMnEnIKqevHvSB6jEA05Zs/f0Z2dgfatKmhkacC55Wmc+pJ9mb2rK1vwKijt/SrEksnVWjxJckYbN0nZD+YZtIG2fwR/rXiExDOs8EXai8YVf7vzAXlllaFVRLcI=;u2zcCBXZCzrV8LWCEQaWvw=="
 ---

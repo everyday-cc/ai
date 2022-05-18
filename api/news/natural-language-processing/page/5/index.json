@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-25-crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai.md",
+      "title": "Crossing National And Cultural Boundaries: The Next Phase Of Media Content Creation Using AI",
+      "excerpt": "After aligning on goals and targeting, brands can take their content and start messaging to new audiences locally and globally starting with synthetic voice technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623c69a0d637bace3de8cac3/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/25/crossing-national-and-cultural-boundaries-the-next-phase-of-media-content-creation-using-ai/amp/",
+      "publishedDateTime": "2022-03-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-supercomputer-to-train-176-billion-parameter-open-source-ai-language-model.md",
       "title": "Supercomputer to train 176-billion-parameter open-source AI language model",
       "excerpt": "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP).",
@@ -1342,49 +1394,6 @@
       "provider": {
         "name": "China Daily",
         "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-timekettle-m2-language-translator-special-limited-time-deal.md",
-      "title": "Timekettle M2 Language Translator – Special Limited Time Deal",
-      "excerpt": "Timekettle has announced an exclusive offer for the M2 Language Translator with support for 40 languages and 93 accents. The Timekettle M2 translates",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/timekettle-m2-language-translator-special-limited-time-deal",
-      "originalUrl": "https://www.digitaljournal.com/pr/timekettle-m2-language-translator-special-limited-time-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

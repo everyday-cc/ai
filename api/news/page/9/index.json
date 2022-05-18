@@ -2,6 +2,302 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-05-10-softbank-ventures-asia-leads-58-million-investment-in-korean-autonomous-shipping-startup.md",
+      "title": "SoftBank Ventures Asia Leads $5.8 Million Investment In Korean Autonomous Shipping Startup",
+      "excerpt": "led a $5.8 million round in South Korean autonomous navigation startup Seadronix, bringing its total funding to date to $8.3 million. Founded in 2015, Seadronix develops AI software to help cargo ships navigate with minimal involvement from sailors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/catherinewang/2022/05/10/softbank-ventures-asia-leads-58-million-investment-in-korean-autonomous-shipping-startup/",
+      "originalUrl": "https://www.forbes.com/sites/catherinewang/2022/05/10/softbank-ventures-asia-leads-58-million-investment-in-korean-autonomous-shipping-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6279e1d181085da88039ae6d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/catherinewang/2022/05/10/softbank-ventures-asia-leads-58-million-investment-in-korean-autonomous-shipping-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/catherinewang/2022/05/10/softbank-ventures-asia-leads-58-million-investment-in-korean-autonomous-shipping-startup/amp/",
+      "publishedDateTime": "2022-05-09T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology.md",
+      "title": "Clearwater AI agrees to restrict sales of facial recognition technology",
+      "excerpt": "In a landmark settlement, facial recognition company Clearwater AI, known for downloading billions of user photos from social media and other websites to build a face-search database for use by law enforcement, has agreed to cease sales to private ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
+      "originalUrl": "https://www.zdnet.com/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 323,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
+      "publishedDateTime": "2022-05-09T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-seadronix-aims-to-reduce-marine-accidents-at-port-and-sea-with-ai.md",
+      "title": "Seadronix aims to reduce marine accidents at port and sea with AI",
+      "excerpt": "The company just secured a $5.8 million Series A extension to scale its AI-based ship berthing monitoring and navigation systems to help cargo ships navigate safely and assist port operators anchoring their vehicles at harbor.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/09/seadronix-aims-to-reduce-marine-accidents-at-port-and-sea-with-ai/",
+      "originalUrl": "https://techcrunch.com/2022/05/09/seadronix-aims-to-reduce-marine-accidents-at-port-and-sea-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/service-image_Seadronix.png?w=1024",
+          "width": 1023,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/09/seadronix-aims-to-reduce-marine-accidents-at-port-and-sea-with-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/09/seadronix-aims-to-reduce-marine-accidents-at-port-and-sea-with-ai/amp/",
+      "publishedDateTime": "2022-05-09T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-clearview-ai-agrees-to-restrict-us-sales-of-facial-recognition-mostly-to-law-enforcement.md",
+      "title": "Clearview AI agrees to restrict US sales of facial recognition mostly to law enforcement",
+      "excerpt": "Clearview AI, a controversial facial-recognition software company, agreed on Monday that it will not sell its software to most companies in the United States — a decision that will largely restrict its use to law-enforcement agencies in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
+      "originalUrl": "https://www.cnn.com/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 504,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220509145253-02-clearview-ai-file-022222-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
+      "publishedDateTime": "2022-05-09T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach.md",
+      "title": "Fresh off $2B valuation, machine learning platform Hugging Face highlights ‘open and collaborative approach’",
+      "excerpt": "Earlier today, community-driven machine learning platform Hugging Face announced $100 Million in new funding – raised in just one week – to continue building what many, including CEO Clement Delangue,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/",
+      "originalUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/collaboration.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/amp/",
+      "publishedDateTime": "2022-05-09T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-self-driving-microscopes-discover-shortcuts-to-new-materials.md",
+      "title": "'Self-driving' microscopes discover shortcuts to new materials",
+      "excerpt": "Researchers are teaching microscopes to drive discoveries with an intuitive algorithm that could guide breakthroughs in new materials for energy technologies, sensing and computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220509150750.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220509150750.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-a-smarter-way-to-develop-new-drugs-using-artificial-intelligence.md",
       "title": "A Smarter Way To Develop New Drugs Using Artificial Intelligence",
       "excerpt": "A new artificial intelligence technique has been developed that only proposes candidate molecules that can actually be produced in a lab. Pharmaceutical companies are using artificial intelligence to streamline the process of discovering new medicines.",
@@ -906,302 +1202,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-report-intels-looking-to-sell-computer-vision-software.md",
-      "title": "Report: Intel's Looking to Sell Computer Vision Software",
-      "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
-      "originalUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/004kalOwExUYRCKwszss8R3-1.fit_lim.size_1200x630.v1651974043.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
-      "publishedDateTime": "2022-05-08T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign.md",
-      "title": "Australians urged to back Indigenous voice to parliament in History is Calling campaign",
-      "excerpt": "First Nations leaders call for referendum to ‘do what 1967 didn’t do, which is empower our people’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "originalUrl": "https://www.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/54a124c6ee6fb27ba5b4c87e40effc7fc66bd3ed/0_0_5472_3648/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=37022ba83f8197df5fe0ab92dac90c17",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "publishedDateTime": "2022-05-08T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-report-intels-looking-to-sell-computer-vision-software.md",
-      "title": "Report: Intel's Looking to Sell Computer Vision Software",
-      "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
-      "originalUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-5-ways-ai-can-help-solve-the-privacy-dilemma.md",
-      "title": "5 ways AI can help solve the privacy dilemma",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/",
-      "originalUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/amp/",
-      "publishedDateTime": "2022-05-08T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence industry is expected to grow to $554 billion in total revenue by 2024, according to market research firm IDC.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
-      "originalUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics",
-        "IBM AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases.md",
-      "title": "Artificial Intelligence (AI) Discovers Precise Treatments for Blinding Diseases",
-      "excerpt": "New study discovers subpopulations of retinal cells using artificial intelligence, that may help modify the treatment preciseness of blinding eye diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/eye6.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "publishedDateTime": "2022-05-07T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-21-machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022.md",
+      "title": "Machine learning hiring levels in the air force industry rose in March 2022",
+      "excerpt": "The proportion of air force equipment and technologies companies hiring for machine learning related positions rose in March 2022 compared with the equivalent month last year, with 48.5% of the companies included in our analysis recruiting for at least one such position.",
+      "sourceUrl": null,
+      "webUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
+      "originalUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/04/IS9OI-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Airforce Technology",
+        "domain": "airforce-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-ai-literacy-for-finance-professionals-three-things-you-need-to-know.md",
+      "title": "AI Literacy For Finance Professionals - Three Things You Need To Know",
+      "excerpt": "An overview of AI Literacy for Finance Professionals. Key things you need to know to apply AI effectively in finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626034b223d534de5d19bee8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/amp/",
+      "publishedDateTime": "2022-04-20T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-aalto-university-artificial-intelligence-to-assist-the-brain.md",
       "title": "Aalto University: Artificial intelligence to assist the brain",
       "excerpt": "The human brain consists of some 86 billion neurons, nerve cells that process and convey information through electrical nerve impulses. That’s why measuring neural electrical activity is often the best way to study the brain,",
@@ -1328,83 +1424,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-lambda-teams-up-with-razer-to-launch-the-worlds-most-powerful-laptop-for-deep-learning.md",
-      "title": "Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning",
-      "excerpt": "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world’s most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-780635102efe4ed898292ce9d3aeb3f7",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-780635102efe4ed898292ce9d3aeb3f7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-when-it-comes-to-ai-can-we-ditch-the-datasets-using-synthetic-data-for-training-machine-learning-models.md",
-      "title": "When It Comes to AI, Can We Ditch the Datasets? Using Synthetic Data for Training Machine-Learning Models",
-      "excerpt": "A machine-learning model for image classification that’s trained using synthetic data can rival one trained on the real thing, a study shows. Huge amounts of data are needed to train machine-learning models to perform image classification tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/when-it-comes-to-ai-can-we-ditch-the-datasets-using-synthetic-data-for-training-machine-learning-models/",
-      "originalUrl": "https://scitechdaily.com/when-it-comes-to-ai-can-we-ditch-the-datasets-using-synthetic-data-for-training-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

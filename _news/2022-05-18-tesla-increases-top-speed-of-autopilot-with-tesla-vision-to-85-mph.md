@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk declares Tesla Artificial Intelligence Day 2.0 on August 19"
+    excerpt: "Tesla has started to conduct regular annual events with very prominent subjects, in between the presentation in the recent past years to engage more with the world to show the progress made by the company."
+    publishedDateTime: 2022-05-18T13:32:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/elon-musk-declares-tesla-artificial-intelligence-day-2-0-on-august-19-2022-05-18-777558"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 36
 
 secured: "xGyxeepuHzlqNfjW0zqielW8lz4jn/79xdee9xFf/+QqKXACg3uScwCg7lMoAKKRT6zWRO67YHFb3fScnbNJDpipFbzKLtbIDM/kqbyJ38LNBWY2SEVQS0YgYJc4DbMXUP9iESOpqcI13FnXOW6L8T5qxrWYG64sJ4uybW4h/MDmUYd9XLgj102UEAFPcTBwY2k6Lihb+9yzRdI0QwsfuK3ay4AL+MsxL2GZ0CYJosIR7Ccg7pkTx31JXhLeHCsIqkF60YH9dPcY0LIreFYhe39ZrKizxA6i1B/Wsyl2WPsyO1NZj5qpq8GneuG75efluXQbYCDq3NzTM09KSy3IBRITYjZ2qYOQVPcCvb/1ttQf20vhCSP2Vzv7pBjGXkKU5tNv8gzkN1e3S63djWHrEFY2wd278RkM6TkDWEJ3MESJ7onmdsjC94gwdrPSth6CBz4JSzIW1ONTAjDj57YnT8RGrw7WlqZvzpJSfKFDXd18EhrOZIcmeKYsDweYe84dMytY6oj6yVxFMmwyifuSJQ==;O/CmgsG73ErDQpQSuvbIQQ=="
 ---

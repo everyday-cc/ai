@@ -39,6 +39,29 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Artificial Intelligence Market\"Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by"
+    publishedDateTime: 2022-05-18T14:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.abnewswire.com/uploads/1652849737.png"
+        width: 474
+        height: 300
+        isCached: true
+  - title: "The Worldwide Face Mask Detection Industry is Expected to Reach $4.2 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Global Face Mask Detection Market By Component, By Application, By Technology, By Regional Outlook, Industry Analysis Report and Forecast, 2021-2027” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2022-05-18T12:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-da0ee8b3bcf842c1b059837edd5ba12f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "0H5vzCccdTcrcJdz5Xd/92ktpG21axPtTCk+NKI+fG1ifILtgEOC9iAQKpHLI1k8iAXFamHEvVjaS7ukLGDaEU/TxEd0MsXl9Iizu4PCJcMVDNWEAbGEIM8qEskR5BrArBMDZI8YIW9cvnnUrkswG/0Sy9pe5GN2TzxS+GwKFWGVwhWriqwj6Yh1EzEnrMCM2XtNwTo/6FofxjUIm5iwmR3GMmhL9ztBfBuX1SR7BDocten9tIvYFuJRH2Nh/VcKdiTaWqOL0V4MG/jr5SB7clURnmT7QOKnoC2TDo/B8sCmIp8qUpYabdsDhCeLWdN2IbQZhqPgBJpd/Kosqx2JYW0G0ZaRGS/6eyKKtuZ1HZ0=;qmaE3sAa1R/Lx/j5xVi8aQ=="
 ---

@@ -25,31 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Wyze Rolls Out Facial Recognition, Professional Monitoring with New Service"
-    excerpt: "Wyze made its $4 monthly Cam Plus Pro subscription service widely available this week. The service introduces facial recognition and 24/7 professional monitoring to existing Wyze cameras, including the Wyze Cam v2, v3 and Pan v1. Cam Plus Pro's ..."
-    publishedDateTime: 2022-05-13T20:49:00Z
-    webUrl: "https://www.cnet.com/home/security/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/"
+  - title: "Inscribes battles fraud with AI-powered detection and automation tools"
+    excerpt: "Today every $1 in fraud loss costs U.S. financial services firms $4, according to LexisNexis Risk Solutions. Synthetic identity fraud, when fraudsters create identities not associated with real people,"
+    publishedDateTime: 2022-05-16T15:30:00Z
+    webUrl: "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/"
+    ampWebUrl: "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://www.cnet.com/a/img/resize/103f379b0431e0aba805ddb6894575d74c7b4e29/2019/10/23/047b0584-2536-49da-aaa2-62299e73c70b/cnet-security-005-wyze-cam-pan.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/fraud-detection.jpg?fit=600%2C600&strip=all"
+        width: 600
+        height: 600
         isCached: true
-  - title: "Mastercard Begins Facial-Recognition Rollout With Retailers"
-    excerpt: "Mastercard Inc. has begun to trial a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their ..."
-    publishedDateTime: 2022-05-17T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-05-17/mastercard-begins-facial-recognition-rollout-with-retailers"
+  - title: "National Grid to test assessment data automation with drones and AI"
+    excerpt: "NGET is launching a system trial that seeks to fully automate the capture and processing of corrosion-related condition assessment data."
+    publishedDateTime: 2022-05-18T14:36:00Z
+    webUrl: "https://www.power-grid.com/td/national-grid-to-test-assessment-data-automation-with-drones-and-ai/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 49
+      name: power-grid
+      domain: power-grid.com
+    quality: 17
 
 secured: "a8X6aMn3+2fQjMez5xnw4QiGiqN/cV0nYzY0HsKZ+qnRorQBNFGbMDFRqvOFuc9p1SR79j+dFIiq0yt9T/kJdLgWfIwa4wfE+65iOyf++uQQ5XyFveVIGYtIk/uYBvbyQpU4fpw5FPTw4CiO42Jj4m0aCPgIQG06rybqhTSA3ULqdDqznfUl3HkcISf6tK+NwJthvFz+rQk5jN68zKnxwhYd4kTOI+A9wlUYYiWvCtEt1sYjrbriukOOP9yRfxCJ6uIkqgcfu+Mc4g3llV089SS0P1+0aXtlQfIwciS6HzSbcWDR64jFSwxQVDElyTBN/AVJSK9s0+3WtImZUgioHia8eSAllhCwZAvmxiJLmhQ=;RaMMwMRJWbrbGWuy/ZAxig=="
 ---

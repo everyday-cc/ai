@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T12:43:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-da0ee8b3bcf842c1b059837edd5ba12f"
 webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-da0ee8b3bcf842c1b059837edd5ba12f"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -14,6 +17,50 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Machine learning Market is expected to reach USD 23.46 Bn by 2023"
+    excerpt: "Quadintel published a new report on the Machine learning Market. The research report consists of thorough information about demand, growth, opportunities, challenges, and restraints. In addition, it delivers an in-depth analysis of the structure and ..."
+    publishedDateTime: 2022-05-17T06:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-is-expected-to-reach-usd-23-46-bn-by-2023"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 41
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Machine Condition Monitoring Market To Surpass Valuation Of US$ 5 Bn By 2031"
+    excerpt: "Industry 4.0 with new technologies like machine learning, artificial intelligence and IoT. Want to know the obstructions to your company’s growth in future? Request a brochure @ https://www.transparencymarketresearch.com/sample/sample.php?flag=B&rep_id ..."
+    publishedDateTime: 2022-05-16T11:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-condition-monitoring-market-to-surpass-valuation-of-us-5-bn-by-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Artificial Intelligence Market\"Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by"
+    publishedDateTime: 2022-05-18T14:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.abnewswire.com/uploads/1652849737.png"
+        width: 474
+        height: 300
+        isCached: true
 
 secured: "Nzvd7j8cmnbhE9RIBqCtjpy6kuipVYrs7/80Ah95RYA3ly1i0CnovGn7VA6yLwcosNZtPtxpRqlPyFpqhSxhyvefiQyH5OmSNxVDWsBXiXjTPqgATuErTzPPEyMF5uIQkQBH/deH3lgzpEWA5egCF8WJrBhweUcM79H8EWarCbfQUZI66SO6ZfZXbE+pGBPLXBAHmWOfXmKe81RQBPKQYb4mlMNHVgPJkwkRQwISQszvbwiVV+cqNKQ5b6HcD8UQHlybFKQEswl4K3tVW4Gi8AZUaE6u6HWernY/Y5qH9yv3uJmeLNrzKnPSGhfaiaMBUxZsQlxqv/V2za1/UZAQpUZrC2Oxhp73aghsysf9aXE=;N9JcZIvFsnKAAk8Bqsmulg=="
 ---

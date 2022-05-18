@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-18-mastercard-tests-new-facial-recognition-pay-app.md",
+      "title": "Mastercard Tests New Facial Recognition Pay App",
+      "excerpt": "The Payface App will allow consumers to pay for goods using the same facial recognition technology that unlocks smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/",
+      "originalUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/15E/02C/15E02C3C687F437AD3EA9F9598C262B9.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=cxjQk4hNs4y9rOEBkus3oRXCbIM",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp",
+      "cdnAmpWebUrl": "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp",
+      "publishedDateTime": "2022-05-18T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-apple-may-have-just-spilled-a-ton-of-details-on-ios-16.md",
       "title": "Apple may have just spilled a ton of details on iOS 16",
       "excerpt": "That alone would be a game-changing feature. Apple’s been quietly improving its object recognition for some time now. For example, you can search for all sorts of things in the Photos app and get images containing them, and iOS 15 added a neat visual ...",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026-2022-05-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -1371,49 +1414,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-04T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi.md",
-      "title": "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION “META-aivi”",
-      "excerpt": "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and enhance ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",

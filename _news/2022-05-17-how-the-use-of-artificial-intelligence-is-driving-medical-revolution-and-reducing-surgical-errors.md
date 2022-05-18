@@ -38,6 +38,15 @@ related:
         width: 600
         height: 340
         isCached: true
+  - title: "Attend ‘AI and Machine Learning in Biomedical Research’ on May 24"
+    excerpt: "Biomedical researchers with expertise in data science will discuss impact of artificial intelligence and machine learning on biomedical research, how it is being used for new and paradigm-shifting discoveries and its ethics."
+    publishedDateTime: 2022-05-18T13:35:00Z
+    webUrl: "https://news.vanderbilt.edu/2022/05/18/attend-ai-and-machine-learning-in-biomedical-research-on-may-24/"
+    type: article
+    provider:
+      name: Vanderbilt University News
+      domain: vanderbilt.edu
+    quality: 36
 
 secured: "A8f983T+jsUqazfheRd9eU4wRbPEdu/ISSIJE6V0o+2tN5GPVAZkvBeMDGZ0QG0sv5mpX++vAdUiq9MsBXiTVDcWguvJF6v0KZwasbKgNx1PB2SOnm3Qe7cMkdienszGCgQ/WJx5ko4hhWU/izAqIetQLvs+GmllAlSTTK6CFk5YozSMGwIEjMh89L1XoOwS81XM8T0ah5JdtciZiaq+MvELfnJR+bGqa6DCAqjUJLyizElFeIl0nTYCqe9lmqLsGscomWN1Vv5WPxJTpkMKdCIylS1L/z0MKreznKq/YiiOTCP4A8xRsBt4OlJjAZwmPLgEcSDuBD+P0CgJaGPSSY7mIuPHLjNjQF/d2IknlbY=;x9eMG3QRYdr9G0elyPZc0A=="
 ---

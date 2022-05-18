@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T12:22:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-robotics-artificial-intelligence-0cc4ed2584d893ad4ac8df5e74a05f36"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-robotics-artificial-intelligence-0cc4ed2584d893ad4ac8df5e74a05f36"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Associated Press

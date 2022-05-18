@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T13:09:00Z
 originalUrl: "https://www.bnnbloomberg.ca/senators-seek-ftc-probe-of-irs-provider-id-me-selfie-technology-1.1767606"
 webUrl: "https://www.bnnbloomberg.ca/senators-seek-ftc-probe-of-irs-provider-id-me-selfie-technology-1.1767606"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: bnnbloomberg

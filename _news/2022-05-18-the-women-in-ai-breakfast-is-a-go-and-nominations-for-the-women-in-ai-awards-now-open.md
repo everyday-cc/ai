@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T13:50:00Z
 originalUrl: "https://venturebeat.com/2022/05/18/the-women-in-ai-breakfast-is-a-go-and-nominations-for-the-women-in-ai-awards-now-open/"
 webUrl: "https://venturebeat.com/2022/05/18/the-women-in-ai-breakfast-is-a-go-and-nominations-for-the-women-in-ai-awards-now-open/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: VentureBeat

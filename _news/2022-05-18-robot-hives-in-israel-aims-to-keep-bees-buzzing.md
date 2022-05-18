@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Robot Hives In Israel Kibbutz Hope To Keep Bees Buzzing"
+  - title: "Robot hives in Israel kibbutz hope to keep bees buzzing"
     excerpt: "They function as normal hives, but apiaries built at a kibbutz in Israel's Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators."
-    publishedDateTime: 2022-05-18T07:12:00Z
-    webUrl: "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
-    ampWebUrl: "https://www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
+    publishedDateTime: 2022-05-18T08:19:00Z
+    webUrl: "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: techxplore
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9013742092031961124543124772733399242360---1.jpg"
-        width: 768
-        height: 556
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/robot-equipped-beehive.jpg"
+        width: 1024
+        height: 741
         isCached: true
   - title: "Robot hives hope to keep bees buzzing"
     excerpt: "They function as normal hives, but apiaries built at a kibbutz in Israel’s Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators."

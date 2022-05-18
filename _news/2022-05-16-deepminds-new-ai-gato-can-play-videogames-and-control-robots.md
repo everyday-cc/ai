@@ -40,6 +40,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DeepMind’s Gato is the Swiss Army Knife of AI models"
+    excerpt: "However, we don’t have AI models that do both. DeepMind has leveraged the advances in large-scale language modelling to build a single generalist agent beyond the scope of text outputs. Gato is a multi-modal,"
+    publishedDateTime: 2022-05-18T12:34:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-gato-is-the-swiss-army-knife-of-ai-models/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
 
 secured: "w4CZQg0WwFXcx6ahFelb8Ha/NM/x9fnfrYQDXUbyIQGl66cv4rShRuzjGAacD+s+J1VRGucnmcxkc+em+hrGED54FX+FednkdFuj+h4uMt+U7y1Lj5xxqP7MRxqgYaWUTnMQZkw/PCE1UpuKzRFoqlAtLEv+JWlDjQ0UGqgypMUSNeR5h9haJnTaNEDg/5Gqqk/e5ENkBJ2TcJXXSTZmFr4u8fwPCNXjLAA1F5BiflM7+fAjikbHlIIiMWe0oiu4Qu3eWpYvaSaZnR1pjCMLJbfYFgHoL0MhTcgTloEaB++eo5KsLIUGOse+M9KYzt7WlUVF1Cgfb7r9wM4wKGFLh44NmWMIs1KWp3cYn1J8+f4gMG0cfEbOyD/0oVlnwsqaET0OaqRfuRR5dPv7bRsdNWkSQGk+1o6vzoEX9gvVvTBqihXKoZ4RbaB5tHAel/TXCXFs/HIVCB4YCqd1v7ba9nZ/dUw/GKeZVWfCh2RfOtbjGl8ET4jNOG6TSFI61MrXvmvGzjVNnc5zGG4FIop1BQ==;Dhy4632zXMUHeM+QFZ4SNw=="
 ---

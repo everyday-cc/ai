@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market Size Is Expected To Grow At A CAGR Of 22.3% During Assessment Period 2022-2028 | 122 Report Pages"
+    excerpt: "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
+    publishedDateTime: 2022-05-17T07:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-size-is-expected-to-grow-at-a-cagr-of-22-3-during-assessment-period-2022-2028-122-report-pages"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Nanotechnology Market is Globally Expected to Drive Growth of USD 5.96 billion by 2027 : Fior Markets"
     excerpt: "Asia-Pacific is the region which is expected to grow with the highest CAGR. The reason behind this is the emerging artificial intelligence firms and the increased usage of nanotechnology in the field of medicine. Get Free Sample Copy: https ..."
     publishedDateTime: 2022-05-18T07:00:00Z
@@ -63,6 +77,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Healthcare Automation Market to Top US$ 88.9 Bn by 2032 Amid Growing Demand for Hospital Pharmacy Digitization"
+    excerpt: "The global healthcare automation market size is expected to reach US$ 88.9 Bn, with demand increasing at a healthy CAGR of 8.4% over the forecast period. It was valued at US$ 36.9"
+    publishedDateTime: 2022-05-18T12:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-5-18-healthcare-automation-market-to-top-us-889-bn-by-2032-amid-growing-demand-for-hospital-pharmacy-digitization"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "ul/f6d575i3KLsq9PBc/oX4VZpLs1HE9UwSC0QGn1kLaYX3MjcMf8WYc0ehOw+9/IwvZByHgHwFRxoNDlvMmePcR+VV0uJiF7vqcTGFJNFwFAcKGnUJiSxdsQf0rbJOWOrY53iGqOE04hLpWJ+A5fD9Mw8B142gXnCrtxk4FqFt6q1KH2kDDegXCsSe+e/hGTb9iR0r+K4kkBj9pWd/pFmCwuOfCEEpPrIsg7moXHhfANZ4tOnL4uHZNBGFWDEe4Z7OIGCU4NFN0UuwRnegIeV0Np4/mpKd79AFmb2rMz+AnNCEtka+9YOPYYsbPhX6SemdTzaKPh66eACnpV9xIL0CpaoorPisFoLX8wJbpDCc=;R8Ji/f+7ZZqZXP9yf0rULQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T13:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-18-napier-expands-north-america-presence-to-meet-demand-for-ai-enhanced-fincrime-solutions"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-18-napier-expands-north-america-presence-to-meet-demand-for-ai-enhanced-fincrime-solutions"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Daily Herald

@@ -3,8 +3,8 @@ category: news
 title: "How to Make Sure Your Résumé Passes Muster With an AI Reader"
 excerpt: "Including just the right keywords is crucial to getting to the next step in a job search."
 publishedDateTime: 2022-05-16T16:00:00Z
-originalUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_jr_pos3"
-webUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_jr_pos3"
+originalUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=tech_lista_pos3"
+webUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=tech_lista_pos3"
 ampWebUrl: "https://www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "QGa4RBXfir6qy7l7/96D11Nv7714bfeGoisIACTzGhBuT9/JcRJWK0/+CLAboV1JfZyBm6g2BMtB3TtULVahKwHpPsgtCFDcC8Sn/BN3unuf8sMGCE05QyIlP2nvnVWEHsOC7e7d7WmayC+1aOxiBU6folP7WUOefGr1euNTxgaEH4m4cpMt301CJH3Fsy3Fa0MF92i4i20lhnXnSzFHfR17vfQrH+rHz4g+YMLwXiI79BD2HG2Cqcl1WdIfASXxjKbuSLWoxWxylqtgekkORD11/IzLlKIUZotwt3w6WuRSlZ5zLAdf0GCdlRZDG5BrfbiIDTWHF/DcupRX9SSyiXjudeWDZDkJMsAqbalg9WFoclNo80d4Sl0zFFnbYggi4KIUUPBmFBfIWBrngPY+KOXT2XR8MrWqGKILv5NtfZeprrZSpDpb9Zhghg2RAlLJ3MPTxGS09EBrbKpsJqflXpTttte/zKHEyANzlGFyz7UJ6pfxN7XkUH35pLfKSAKsXxXrH9vbJXOC1ULj8QNLSw==;1g0P2zcTirk4O3dV7EH0/w=="
+secured: "l1sZpHk0Z9ZQ1ZCseTXk94EHKaUEZ7vDN9w0rsLLgTVZSPUXnU8AbdwOCYbxe0Is3Em4Ek0eCrFnPp/ESPiqOSQfD/f+LmmApnFjE96m5lI5xh1RWRoTq4cX68kuOZkYpShC6LxQ/L9Y4/X4LT2j2X+T2IoKFDpBBOEz4Q9fLFfe2m2hhqlJBWD8I/hHOoGfGe64CxVIC1/94rkvukY4o3lzrtvuHk9z0q2tmZv1PgH/CMZRW/eIW5opaVZmdzK+n6izl3W+yFXbidxiqAncV7wtfclBysl7ZcaZLHKulXh9c3acSubAXaiZ5SdrKikkEt82X8Sz5BdieAxj+F8tkJ0XrWmltts9erDaeZ5gLas=;YVUaMQj1s0Uoge0hTzXWdQ=="
 ---
 

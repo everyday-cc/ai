@@ -34,6 +34,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Artificial Intelligence (AI) As a Service Market Will Hit Big Revenues In Future | Google, Amazon web services, IBM and more"
+    excerpt: "Major Highlights of the Artificial Intelligence (AI) As a Service Market report released by DLF Market Breakdown by Product: Software, Services. Market Breakdown by End User: Banking, Financial Services, and Insurance, Healthcare and Life Sciences ..."
+    publishedDateTime: 2022-05-18T12:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-as-a-service-market-will-hit-big-revenues-in-future-google-amazon-web-services-ibm-and-more"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
 
 secured: "67dxufU2gGnMdMWGtcxxi7hoX5j7CXk17uvOI6xSVB5AX6ZlgrjfM47H5yTtZXEbRwBsl7qMUyc5JU9jZ+wkh7VDcmqAUKNZy+WFsoNNwH/8jpgW2IdKKSX7iL282KYX/d8aeXUQbYPKUvzTtE8scJAkqs0vAk2balP95JcX3M+gKP9/zuV1kExLmwwKBCoduGj0VinFOXaznEjNSv2mHEOxSi6/RDmqE3hIzAEoLQ5p62wl9SSX9c4xo+1NmHPsXtHM/liecO0oBpWpG+ctYq0cFRWTE+G14cD1AOQwtQr0HTc3bT+E/cW43dIRou6PX0m3/j+G32UWRKgrP5en36TY+c+ldrja+XD03wt8mWM=;hbrLKizKr5HPSI23SX7Mow=="
 ---

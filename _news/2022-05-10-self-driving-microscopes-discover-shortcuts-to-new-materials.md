@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Self-driving microscopes discover shortcuts to new materials"
-excerpt: "Researchers at the Department of Energy's Oak Ridge National Laboratory are teaching microscopes to drive discoveries with an intuitive algorithm, developed at the lab's Center for Nanophase Materials Sciences,"
-publishedDateTime: 2022-05-09T19:31:00Z
-originalUrl: "https://techxplore.com/news/2022-05-self-driving-microscopes-shortcuts-materials.html"
-webUrl: "https://techxplore.com/news/2022-05-self-driving-microscopes-shortcuts-materials.html"
+title: "'Self-driving' microscopes discover shortcuts to new materials"
+excerpt: "Researchers are teaching microscopes to drive discoveries with an intuitive algorithm that could guide breakthroughs in new materials for energy technologies, sensing and computing."
+publishedDateTime: 2022-05-09T20:39:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/05/220509150750.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/05/220509150750.htm"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "Nqa2fi52zG8OACTWrdpZ4jYRjx27AX73U2gQtKUnUSW80gRHsnuKV/364y91pnJfr0l6OjaFjnWMkkPW5cXfOpxIomBRssETnluOu1wy9w2/qZq1IgsW4w1W+la+iLjCBvppifmXUvTXA6cuC+A3On+BEb5osORbkgb09TSnyGtlsqK47dl3rT7SkprT+b3ZJTveVC5zY8qlN2UkLdPSKuOxxHMQ99ocp5IjlgJX7w4I3KqL0zvupSpc/tCyvYuMd3jytWStioV1BtHJKBt/9cJSCdiXgOwZ314gsrVPNTXIzcok027wiikBKWOvdHME2PDphFOtwwEjyYujDm1aOTkiwt4ynh4G9KAN7FX7aBat5UK+1aZwIP5uxyKAd5GgHS9lTOlstlcYWAzrRLoagoiyI1A8TBL8R3Rkr2xaHOCg+Gb1WttpuK9i+D2BnGcK1TrF9lFZrXrobLup7QOrx30sJ061ZnsvZLEZ/6VvXv5epcghQm2Gc1fDCdV8/tga6F31ngUeaiOXQzl8tkhL3g==;DW48fFEmzW/hppMdwmPiVQ=="
+secured: "OlmFZYDrqdd6P1FQHFEHXJZ92TO+h29MMDPlz5P7PQUHseJ+Ljd/UkEOr2ZuvHTYjCu8BP0e67/kTK4rGWp6NMeRqWMUR+s4SoKgQxOf2RWgIU4Otmoe5TdGPGDvEjZCzRae4XpQt9tSSzZLxy+HpL6hQWYDA5wVgrc26BD94Qa4LBA5Ryb1YkH+eBbfs2eZmB6RDzcq+SffGWyBuvKrj8NI8M2zC5YKYDHjEDOkpn7OLaAG7hdvBY58Fvnr6LBkdU33QDSkzvf2abbBb4YUdC94Iot90ZhBQy2DDd21IpdhdllG44og9oyGeJmjRI6EEJ5/Hw2j2wCmTYe253UtGXwHm1RIK3BMSjUHsk5WMLA=;P0mQs+i2UqlD3kLPOMnpmQ=="
 ---
 

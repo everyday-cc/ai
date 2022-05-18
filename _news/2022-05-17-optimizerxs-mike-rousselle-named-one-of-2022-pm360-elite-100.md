@@ -3,8 +3,8 @@ category: news
 title: "OptimizeRx’s Mike Rousselle Named One of 2022 PM360 ELITE 100"
 excerpt: "OptimizeRx Corp. (the “Company”) (Nasdaq: OPRX), a leading provider of point-of-care technology solutions helping patients start and stay on therapy today announced that Mike Rousselle, vice president of data product,"
 publishedDateTime: 2022-05-17T14:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-science-government-and-politics-artificial-intelligence-0ff049333864e65292ee03034e82b6dd"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-government-and-politics-artificial-intelligence-0ff049333864e65292ee03034e82b6dd"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-government-and-politics-artificial-intelligence-0ff049333864e65292ee03034e82b6dd"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-government-and-politics-artificial-intelligence-0ff049333864e65292ee03034e82b6dd"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "IfVM+jwEqKzB79SG1/3yS8zo6jx/UpkDXQMJlMkglBFhbOxohhy5iPtrQkRH1DcBKMwTec+tNEZo44wDHg6/eOcyeT4EeDtHbEpjwsMq4LwukwDAt3QN8JxSDzphvmR1bwQMchZZBFffRquFIWNob+2kHr1OK7YzeHsyBpKIRbaxsbJR3B5zHZfmyR6jmGmcWD9c0bzgz1zqQKg+m0PhL7SMJFCmlzZ5ssgEjGkk7kipCLHU7SDEnffN1dk2z9T+tsZgAK6UiMwrbpRiN+vXLgDJZpSxHj7yKDi3wPV3HcaOln5GsdPhVnJpdsD21kJyWJ83AxvGMqSeNlfir3R/PFVsRpuaQuyborBzbozGz1w=;ZpETekKOIBDGQSykECGbnw=="
+secured: "P7Amw82NmgLbcswASD9CT+58ic68BGe0N7KYo95wa2lPkjOsvnw7NEgYWc5brGhT5AlBqfg9oWWmQF1tjwLSI30GVmb+BfoU266d3G/aeAkp0YFFvH+uHlLAC2c26t9Dod7qh7TS74JiW30sQA/3Oi46PXj3CxB6PNiHkWbOJ/S1nfiu1Cghm4uNK6IXrJg4qR7/vjpePA1Y6RWG6g6VZz5FlEDzfQmz3zS4OL2D0+a57nFbLpBLf3xa5C5gR2FyvgA1CFAqisRIoMVGnquvuL8Xa/ylN9QyLn9RTbq1ESd/NJc3fxhApgzM0kr3BSCf/tT5Cl70WGLo7pMi6XUYEGXhQjfkqzksydyw7/Kq5G8=;Uc+cH9H+0ix2wJyftmFFQw=="
 ---
 

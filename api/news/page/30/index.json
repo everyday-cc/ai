@@ -2,6 +2,342 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-04-20-ucl-and-deepmind-improving-representation-in-artificial-intelligence-education.md",
+      "title": "UCL and DeepMind: improving representation in artificial intelligence education",
+      "excerpt": "Global artificial intelligence (AI) company DeepMind is working with UCL to open up scholarships to underrepresented students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
+      "originalUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucl.ac.uk/engineering/sites/engineering/files/case-study/40468779200_8e95b2b30d_c.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UCL",
+        "domain": "ucl.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-people-will-be-able-to-watch-tv-and-check-emails-in-self-driving-cars-in-highway-code-law.md",
+      "title": "People will be able to watch TV and check emails in self-driving cars in Highway Code law",
+      "excerpt": "MOTORISTS will be allowed to watch television or check their emails on built-in screens under proposed updates to the Highway Code when in self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
+      "originalUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 290,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft-1598298.jpg?r=1650441690594",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
+      "publishedDateTime": "2022-04-20T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-how-medtech-companies-can-help-make-ai-assisted-surgery-possible.md",
+      "title": "How Medtech Companies Can Help Make AI-assisted Surgery Possible",
+      "excerpt": "Future AI solutions could expand to help surgeons make better operative decisions, reduce risk and improve patient safety, and enhance performance. There are, however, significant technical and other challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.meddeviceonline.com/doc/how-medtech-companies-can-help-make-ai-assisted-surgery-possible-0001",
+      "originalUrl": "https://www.meddeviceonline.com/doc/how-medtech-companies-can-help-make-ai-assisted-surgery-possible-0001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vertassets.blob.core.windows.net/image/fcb60b3d/fcb60b3d-6c64-4535-b5cd-c6989d50db2b/artificial_intelligence_gettyimages_1319573751.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Med Device Online",
+        "domain": "meddeviceonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-artificial-intelligence.md",
+      "title": "Wm Pawn's newly released \"Sielink Five\" is a fascinating fantasy tale that explores the world of artificial intelligence",
+      "excerpt": "Wm Pawn shares, \"There's one common threat to both humans and artificial intelligence. \"That is a virus ... \"Lilly has stepped out of the computer into a robot and finds the world to be all she hoped and more. With her natural wonder, wit, and love ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26705094/wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-arti",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26705094/wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-arti",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26705094",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26705094",
+      "publishedDateTime": "2022-04-19T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-softbank-robotics-invests-in-hong-kong-startup-avalon-steritech.md",
+      "title": "SoftBank robotics invests in Hong Kong startup Avalon SteriTech",
+      "excerpt": "SoftBank Group's robotics arm has agreed to buy a minority stake in cleaning technology startup Avalon SteriTech, marking the company's first investment in Hong Kong. Read more at The Business Times.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstimes.com.sg/garage/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech",
+      "originalUrl": "https://www.businesstimes.com.sg/garage/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Times",
+        "domain": "businesstimes.com.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-aalto-university-artificial-intelligence-to-assist-the-brain.md",
+      "title": "Aalto University: Artificial intelligence to assist the brain",
+      "excerpt": "The human brain consists of some 86 billion neurons, nerve cells that process and convey information through electrical nerve impulses. That’s why measuring neural electrical activity is often the best way to study the brain,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
+      "originalUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/Aalto-University-1024x853.png",
+          "width": 1024,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
+      "publishedDateTime": "2022-04-19T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-futuretech-ii-acquisition-looks-for-ai-or-robotics-target.md",
+      "title": "FutureTech II Acquisition Looks For AI Or Robotics Target",
+      "excerpt": "FutureTech II intends to pursue a merger with a co. in the sectors of disruptive technologies. Check out why I'm on HOLD for FTII.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "originalUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1295900106/image_1295900106.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "publishedDateTime": "2022-04-19T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-opinion-artificial-intelligence-should-be-embraced.md",
+      "title": "Opinion: Artificial intelligence should be embraced",
+      "excerpt": "John McCarthy, who coined the term artificial intelligence (AI) in 1955, defined AI as “the science and engineering of making intelligent machines.” As these intelligent machines develop, people should embrace their emergence.",
+      "sourceUrl": null,
+      "webUrl": "https://scotscoop.com/opinion-artificial-intelligence-should-be-embraced/",
+      "originalUrl": "https://scotscoop.com/opinion-artificial-intelligence-should-be-embraced/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scotscoop.com/wp-content/uploads/2022/04/Artificial_Intelligence__AI__Machine_Learning_-_30212411048.jpg",
+          "width": 750,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carlmont High Scot Scoop",
+        "domain": "scotscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics.md",
       "title": "2022 ACM Awardee Prof Abbeel For Top Work In AI And Robotics",
       "excerpt": "ACM announced in April 2022, Pieter Abbeel awarded the 2021 ACM Prize in Computing for pioneering work in robot learning.",
@@ -738,368 +1074,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-the-power-of-natural-language-processing.md",
-      "title": "The Power of Natural Language Processing",
-      "excerpt": "Until recently, the conventional wisdom was that while AI was better than humans at data-driven decision making tasks, it was still inferior to humans for cognitive and creative ones. But in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
-      "originalUrl": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2022/04/Apr22_19_722235443.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-recycling-robotics-firm-glacier-emerges-from-stealth-with-45m.md",
-      "title": "Recycling robotics firm Glacier emerges from stealth with $4.5M",
-      "excerpt": "Glacier Robotics emerges from stealth with $4.5M; funding will go toward increasing headcount and accelerating the system’s commercial deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/19/recycling-robotics-firm-glacier-emerges-from-stealth-with-4-5m/",
-      "originalUrl": "https://techcrunch.com/2022/04/19/recycling-robotics-firm-glacier-emerges-from-stealth-with-4-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston.md",
-      "title": "Dean Kamen is coming to TC Sessions: Robotics July 22 in Boston",
-      "excerpt": "We’re still building out the event agenda, but you can bet the day’s programming will cover a wide range of crucial issues focused on robotics and the AI that ... Buy your Startup Demo Package ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/",
-      "originalUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Dean_Kamen_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/",
-      "publishedDateTime": "2022-04-19T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-the-helm.md",
-      "title": "Amazon to conduct racial-equity audit with Loretta Lynch at the helm",
-      "excerpt": "“Amazon has taken some measures to address ... study of the company’s proprietary facial recognition software, Rekognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/amazon-conduct-racial-equity-audit-144037929.html",
-      "originalUrl": "https://www.aol.com/amazon-conduct-racial-equity-audit-144037929.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/icEIL32iF3pKHOpPPD9L8g--~B/aD0zOTY7dz03MDQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_thegrio_365/196b9b69ede489455094e40744345011",
-          "width": 704,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-ai-may-help-spot-relapse-risk-in-alcoholics.md",
-      "title": "AI may help spot relapse risk in alcoholics",
-      "excerpt": "Artificial intelligence (AI) may be able to identify alcoholics at risk of relapsing after treatment, researchers say.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/ai-may-help-spot-relap.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-relapse-alcoholics.amp",
-      "publishedDateTime": "2022-04-19T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-soundfuls-ai-powered-platform-empowers-new-future-for-music-creation.md",
-      "title": "Soundful's AI-Powered Platform Empowers New Future For Music Creation",
-      "excerpt": "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1799706/Soundful_black__2_Logo.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-kemtai-partners-with-recoveryone-to-offer-sensor-free-virtual-physical-therapy-solution.md",
-      "title": "Kemtai Partners with RecoveryOne to Offer Sensor-Free Virtual Physical Therapy Solution",
-      "excerpt": "Powered by Kemtai’s proprietary computer vision technology, RecoveryOne’s new Motion Trainer feature provides physical therapy patients with real-time feedback and guidance during at-home sessions without sensors or other hardware NEW YORK,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-encores-backend-development-engine-for-the-cloud-transforms-developer-experience-attracts-3m-in-seed-round.md",
-      "title": "Encore’s Backend Development Engine for the Cloud Transforms Developer Experience, Attracts $3m in Seed Round",
-      "excerpt": "Encore comes out of Beta as it announces seed round, enabling more developers than ever to build and deploy new cloud backends in minutes while keeping control of their data. STOC",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/de7520f96eddc63566978cb566223c89",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/de7520f96eddc63566978cb566223c89",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

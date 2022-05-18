@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-01-28-study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates.md",
+      "title": "Study uses artificial intelligence to understand lung and bronchus cancer mortality rates",
+      "excerpt": "Research explores how impact of known risk factors for lung and bronchus cancer mortality varies spatially across US. By the University at Buffalo. Many people think of robots whe",
+      "sourceUrl": null,
+      "webUrl": "https://www.wnypapers.com/news/article/category/2022/01/27/149558/study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates",
+      "originalUrl": "https://www.wnypapers.com/news/article/category/2022/01/27/149558/study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wnypapers.com/templates/custom/niagara-publications-2020/images/share-nfp.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Niagara Frontier Publications",
+        "domain": "wnypapers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-humanoid-robot-is-teslas-most-important-product-this-year-musk-says.md",
       "title": "Humanoid robot is Tesla's 'most important product' this year, Musk says",
       "excerpt": "Tesla CEO Elon Musk has his eyes set on more than just building electric cars. In the company's fourth-quarter earnings call on Wednesday, Musk said Tesla's \"most important product\" it would be developing this year did not have wheels,",
@@ -1334,58 +1377,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-confused-replika-ai-users-are-standing-up-for-bots-and-trying-to-bang-the-algorithm.md",
-      "title": "Confused Replika AI users are standing up for bots and trying to bang the algorithm",
-      "excerpt": "It should go without saying, but you can't have sex with an algorithm. That doesn't stop some people from trying.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
-      "originalUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Freplikaskull.jpg&signature=926f0f4500827c7456dd328ad9e35e92",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
