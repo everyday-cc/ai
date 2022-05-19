@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 71
+heat: 58
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "YihfEXpY3YyTiVV2+NheFR/JFQfz67+EsTeEyxxGkJK7x6hCP/YKJx6KBfo5tkvi2L91F6WkuYr8UlAeM3AzYYZhMNu9vzUnFDpJzhsE3zS4vDO/692xlspsL0iKctThFJ7GTheCg9qRZclfPMjC8YbRd0Byi30wvMbwwQVk7q+ThuBEQgfYDmIpD3ZyKVuK43Vr0p7JWDRq1n8uQmOVyEYo7k0JAh3DsR4zQs/FPmZEG6s9NDdzqoRSJwYwMPC/Hlm19eGtl8thYMfrD7B/5blu0/cfGWuJ7iKXoKNfXoMJMXbzwAG8P0lcXMRmz2rYeovnR4TqMbFU+uNxMHt8WayFRCbldErNASGGF7c+e7JphtnWbxXYXI/lllvlTxiv/+122MJ3sk9vFOFibCSzQ624XmlZtqSzSYwnE2/v2sA=;GNj4yuwqEhZu5vSIV29V5Q=="
+secured: "+rPiZRBChgdMiIUC5omUSoCcKagVlnuySVPInHiraq54UG7cg6IXaaNabdloGawQ3hx5AJLxOe81op8QfW5GkmZnIn6OOKmy+J94yd5m52WJl2I5GHptGh/Baldz7Poussw1jdrNUTKe9AyyXSStCjLLJ0IpYX+GN5jRrlbAMCKWf78PeZWg6/EmjTpo/eQG3y9BcuOwhM+HEucyXGhfOnG7Oz0llOItICCyqPfHXqdR/qG5u/JzW5N2KXxCEsMor1NuHtNjZCK9G5m/KxtF2TDeRqw9CTnzD9qRXjFUIdCGdpetY61g7Eov8RHk0H3G54+HDQOWT4NRONeMvpQ9WJPUse+YpyovjI1YT2mdGNI9mV0MukdzT6O4JhHOTM7mgjpKcppRYm2cwi060ejxl/yFvRBuBoERzMowDFypa5k=;s2A3S0o69fsmMH0uqDUKUg=="
 ---
 

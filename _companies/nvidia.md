@@ -2,7 +2,7 @@
 name: "NVIDIA"
 overview: "NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, NVIDIA is increasingly known as “the AI computing company.”"
 type: "profile"
-heat: 286
+heat: 263
 
 website: https://www.nvidia.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NvidiaAI"
   url: "https://twitter.com/NvidiaAI"
-  followers: 92253
+  followers: 92260
 
 size: 10,001+ employees
 yearFounded: 1993
@@ -48,6 +48,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "SAmRwFfRCoylY4ykRmyHvSfNTTAVymTMF/IlfxZZzZG6p6zHqMi5AULH+pRgn5bQIwVTy7NHKQEb4My4ANhgufYhNYJagen4FpPh7Q4z057/vR+bgijuxN+WiWA8sUddhWp23Q/0URISsrPFDLi7XiZXMe7UsGI/1zY22P74+lN/UXA4ksxvi5NVeLKAYDkwjDF8eXzdp0nYRLKCeq+TcBVsYB1IqqUiMvbxljSaBReDtACVv/G6kz0fmJue5CZZp7MmQudPdQ6r9d7s9RQn6iT16+/ydVi28HjVwgB0DfgDA0ieXDxGwPwVp9sNlF2XyqOmmSEuSt4qTvCKgnxTxKu9/AaLTKmaXTH3fpHMH18SLUR/WG4hH4gVBh7LeB879SfTlPEB2ov5U8O3ku1FJUdMLIkCBqPkW6RgqJHh+NY=;hZCCg/4QmkExyahvpTOumQ=="
+secured: "m/CHL2IxWF8+Hc5iy4dEE0nlVQNwKc1ZtPG1OJR/1H0DxkpPoNAUQ1r6VamUmdCJfzNQosWw5jzPA/p8A9bnPPyIilC5BwgL5bDQPLoX6Y9JWTe4TgbpmWKYNvOpiy3mFsxoV6CfcQxUQHcKgegGZOmtbBVXBtlHYiVSa6p8ij3LxSLGt1fJmjKIqyc9po+nOX+MFouURHmGPzkOtvDEq6hgTWL01Re0DSaiZi594/jrCxy+g9y02fxDB5sG/D0T+DS81oNi8oAU/suqcsM7Y7xjpSUdCWa8B6JlwzYMBPtCXhayyDD3DAgyfvsxLDHh7ozlcb4ciRfMjPyKJz7WS9goFi8e6kJaoPtFTVhB2nh9U7FSqf07ATLZ13x8lV0yUFwf1648tnMCwGHlhYwzvoKEpNFsmLeCtRAu+uTO5po=;Idg5ytL/XwnJ/Kq0A++eTw=="
 ---
 
