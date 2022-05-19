@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//628543e5e9890719668a0ba8/0x0.jpg?format=jpg&width=1200"
@@ -95,6 +96,6 @@ related:
         height: 630
         isCached: true
 
-secured: "T3CBDYfW2W6t3gmKfzrYf0Rli/dKTcrK6nWV/+xK6Kd3HPxJC5gQ/Ft7lx77cz0Mlaq+054bLmwArFahWANtsDSC0ZofaNEmzuAV4j9mgNt4PEVKG7mVAlJIrm2aLvCrEaaNOI3Rx9v2uijqWZpT43DIW7zq/oUCQa6bsst0XHscrlJm7SC0Umgb11mCS7Fvlbv37sV9jG2chlGBw3ijEXR/ZaXQhL7pZ1YW7rNoaGMZRKWPN1hFwR/L52E/yYyoZGOfuc1IZA0aHVwCYYczX1O/+Tw+roRhT22E+MsX9Aq2zwJlGVbZr8xLPwwigbpz54gAD3jz8wS3hZXDziLD45NdRRFF8r8GDS/wPDDw8v8=;P4GqZbHtswKNaq39UV0BMw=="
+secured: "O7crYmnwe4BYeXwt9fE2Xv0Di9ckr6xa40q88BfWjSs0Qeh8qnDJSvK+Qfh4aqDniOg+RZ3xDatkBpSVEhf8gHifum3PDM/GnKUVvX7pf9xsshR9AB6kNCEdvStb4KnKqiFEwxW9Iuc2eM9qVmXomZAztb4V/WEK/8/TLg+NwGghA83FMxNUxje9oyM8MZC0mYMgBvKbywDJgBeza9Ev8W6J7hfeSsLP/njwFR6VC6famUYyHcltjYi6YutO1gRw9Y2KHiC7x5/YuyUJfyaGLCk8vdVzxvZ2gbG4Qz3wzJJdryPkoL/XVNC6eXoKFSiPgzkuuoSEfg13+3NMAioLEKtDX+4KTO2IfeRHDGG5sf3h5mQE3cREZMWncIy75wlxw9pSUEs/WtyvaVgzx95uyOlR1cToT7K3NDJ8ToMHR2yQOzDmR2vvCpWLmTmG7PpQbZ7e6olWOpdVIyeikpU35H9joCxHuPfA0PzaGmFVEF/QxIqvex5azZ2OvxVCnQz3M0McEhMEmEDAFPc+aFceuA==;HTqrVSRECfmtaptrxg64Kw=="
 ---
 
