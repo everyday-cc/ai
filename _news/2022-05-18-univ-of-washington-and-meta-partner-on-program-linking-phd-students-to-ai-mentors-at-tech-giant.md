@@ -8,8 +8,8 @@ webUrl: "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-pr
 ampWebUrl: "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/"
 type: article
-quality: 56
-heat: 76
+quality: 58
+heat: 78
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 related:
   - title: "Imagination and Visidon partner for deep-learning-based super resolution technology"

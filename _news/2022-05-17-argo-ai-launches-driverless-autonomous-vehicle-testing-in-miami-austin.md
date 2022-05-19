@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ford-backed Argo AI startup launches driverless-car testing"
+    excerpt: "Argo AI, a robotaxi startup that has the backing of Ford Motor Co. and Volkswagen AG, said Tuesday it's launching driverless test rides in Miami and Austin, Texas."
+    publishedDateTime: 2022-05-18T20:51:00Z
+    webUrl: "https://herald-review.com/ap/lifestyles/ford-backed-argo-ai-startup-launches-driverless-car-testing/article_b3a7381c-c52a-55ca-9f1c-e89bb1dad89a.html"
+    type: article
+    provider:
+      name: Herald & Review
+      domain: herald-review.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/custom/image/afe84bdc-33fa-11e7-8231-771276f6981b.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "New collaboration and AIP tender make driverless Metro smarter and more reliable"
     excerpt: "By combining this with artificial intelligence, the Copenhagen Metro will be able ... and from Nørreport to Lergravsparken (M2). Today, the driverless Metro consists of 39 stations located along 38 km of tracks. The company owns 81 trains."
     publishedDateTime: 2022-05-16T17:49:00Z

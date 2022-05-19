@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104223932/The-Private-Office-Of-Sheikh-Saeed-B
 webUrl: "https://menafn.com/1104223932/The-Private-Office-Of-Sheikh-Saeed-Bin-Ahmed-Al-Maktoum-Joins-World-AI-Show-Awards-Dubai"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Gfk Joins World AI Show & Awards As A Gold Sponsor"
+    excerpt: "World AI Show & Awards, is taking place on 25 - 26 May 2022 at the Jumeirah Emirates Towers in Dubai. Daniel S"
+    publishedDateTime: 2022-05-19T03:46:00Z
+    webUrl: "https://menafn.com/1104237387/Gfk-Joins-World-AI-Show-Awards-As-A-Gold-Sponsor"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?803639"
+        width: 255
+        height: 250
+        isCached: true
   - title: "The Private Office of Sheikh Saeed Bin Ahmed Al Maktoum joins World AI Show & Awards – Dubai"
     excerpt: "To be held under the patronage of the Private Office of HH Sheikh Saeed Bin Ahmed Al Maktoum, a member of the royal family of Dubai, the 35 th global edition of World AI Show & Awards will bring together the most powerful voices in the global AI and RPA space."
     publishedDateTime: 2022-05-16T16:15:00Z

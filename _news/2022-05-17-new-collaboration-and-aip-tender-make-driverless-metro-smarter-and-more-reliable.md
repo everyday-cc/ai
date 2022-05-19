@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ford-backed Argo AI startup launches driverless-car testing"
+    excerpt: "Argo AI, a robotaxi startup that has the backing of Ford Motor Co. and Volkswagen AG, said Tuesday it's launching driverless test rides in Miami and Austin, Texas."
+    publishedDateTime: 2022-05-18T20:51:00Z
+    webUrl: "https://herald-review.com/ap/lifestyles/ford-backed-argo-ai-startup-launches-driverless-car-testing/article_b3a7381c-c52a-55ca-9f1c-e89bb1dad89a.html"
+    type: article
+    provider:
+      name: Herald & Review
+      domain: herald-review.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/custom/image/afe84bdc-33fa-11e7-8231-771276f6981b.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Argo AI Expands to Austin and Miami in Search of More Challenges"
     excerpt: "The self-driving car company has added two more cities to test its vehicles in environments that contain situations like jaywalkers to build its AI's intelligence."
     publishedDateTime: 2022-05-18T21:22:00Z

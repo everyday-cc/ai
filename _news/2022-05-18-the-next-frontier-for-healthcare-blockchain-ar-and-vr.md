@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "The Next Frontier For Healthcare: Blockchain, AR and VR"
-    excerpt: "The healthcare industry is primed for a revolution as the convergence of blockchain, cryptocurrency, virtual reality and artificial intelligence begin to take hold. U.S. healthcare spending is estimated to reach $8."
-    publishedDateTime: 2022-05-17T14:39:00Z
-    webUrl: "https://www.timesunion.com/business/article/The-Next-Frontier-For-Healthcare-Blockchain-AR-17178569.php?IPID=Times-Union-jobs-entrepreneurship-river"
+    excerpt: "The medical industry has traditionally been slow to adopt new technologies, but blockchain, augmented reality and virtual reality technologies are changing that thought process."
+    publishedDateTime: 2022-05-17T14:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/425443"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 54
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
     images:
-      - url: "https://s.hdnux.com/photos/01/25/61/74/22486785/3/rawImage.jpg"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1652285926-GettyImages-954960690.jpg"
         width: 2000
         height: 1333
         isCached: true

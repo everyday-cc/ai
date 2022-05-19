@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/15/PDTN/a8bbea08-359b-43c6-a9db-a9da024a5250-2021-0315-dm-bu_av_remote0538.jpg?auto=webp&crop=8255,4643,x0,y547&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ford-backed Argo AI startup launches driverless-car testing"
+    excerpt: "Argo AI, a robotaxi startup that has the backing of Ford Motor Co. and Volkswagen AG, said Tuesday it's launching driverless test rides in Miami and Austin, Texas."
+    publishedDateTime: 2022-05-18T20:51:00Z
+    webUrl: "https://herald-review.com/ap/lifestyles/ford-backed-argo-ai-startup-launches-driverless-car-testing/article_b3a7381c-c52a-55ca-9f1c-e89bb1dad89a.html"
+    type: article
+    provider:
+      name: Herald & Review
+      domain: herald-review.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/custom/image/afe84bdc-33fa-11e7-8231-771276f6981b.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "New collaboration and AIP tender make driverless Metro smarter and more reliable"
     excerpt: "By combining this with artificial intelligence, the Copenhagen Metro will be able ... and from Nørreport to Lergravsparken (M2). Today, the driverless Metro consists of 39 stations located along 38 km of tracks. The company owns 81 trains."

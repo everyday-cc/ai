@@ -35,7 +35,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 56
+    quality: 58
   - title: "Energy-efficient AI hardware technology via a brain-inspired stashing system"
     excerpt: "Researchers have proposed a novel AI system inspired by the neuromodulation of the brain, referred to as a \"stashing system,\" that requires less energy consumption. The research group led by Professor Kyung Min Kim from the Department of Materials Science and Engineering has developed a technology that can efficiently handle mathematical operations for artificial intelligence by imitating the continuous changes in the topology of the neural network according to the situation."
     publishedDateTime: 2022-05-18T18:06:00Z

@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "AWS and Temenos team up for speedier banking"
-    excerpt: "Temenos also claimed its solutions help banks reduce their carbon footprint and support them in achieving their ESG goals compared to on-premises deployments. Cloud computing is s"
-    publishedDateTime: 2022-05-18T14:42:00Z
-    webUrl: "https://www.techradar.com/au/news/aws-and-temenos-team-up-for-speedier-banking"
+    excerpt: "Amazon Web Services (AWS) has joined with cloud banking software provider ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and ..."
+    publishedDateTime: 2022-05-18T15:42:00Z
+    webUrl: "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking"
     type: article
     provider:
       name: TechRadar

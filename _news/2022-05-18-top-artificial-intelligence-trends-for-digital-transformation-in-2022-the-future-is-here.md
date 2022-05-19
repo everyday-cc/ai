@@ -24,49 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI trends to watch out for in digital healthcare"
-    excerpt: "The advent of new age technologies has influenced and affected several sectors and healthcare has also received its share of transformation. Today, the healthcare sector looks much different than it did just a decade"
-    publishedDateTime: 2022-05-14T10:24:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
+  - title: "How AI is transforming remote cardiac care for patients"
+    excerpt: "The average heart beats about 1.5 million times over two weeks, and physicians might have to identify a six-second time period, which can determine a clinical outcome. Finding what’s clinically meaningful can be a needle in the haystack type of problem,"
+    publishedDateTime: 2022-05-18T23:19:00Z
+    webUrl: "https://medcitynews.com/2022/05/how-ai-is-transforming-remote-cardiac-care-for-patients/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
-  - title: "AI in Healthcare Market foresee Business Opportunities, Current Trends and Industry scrutiny by 2025"
-    excerpt: "Global Artificial Intelligence in Healthcare Market valued approximately USD 650 million in 2016 is anticipated"
-    publishedDateTime: 2022-05-17T14:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market 2022, Trends, Size, Industry Share, Analysis and Forecast to 2028"
-    excerpt: "The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 billion by 2028 from US$ 148 billion in 2020. The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 ..."
-    publishedDateTime: 2022-05-17T22:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.abnewswire.com/uploads/1652771728.jpeg"
-        width: 770
-        height: 440
+      - url: "https://medcitynews.com/uploads/2022/04/image0011-300x268.png"
+        width: 300
+        height: 268
         isCached: true
 
 secured: "ScXdhUMI8+KSAilaX7Pj8JAAXeb4TQgjvajlC/x5Bb/yGIQYJGbAKUN/5vNblr+W5hhClhSF4pMY63ySCsACK4iYyNFuAff1cqYGgPssAbjVBm6kZdgzxAJ60n9r7nPSiQYWmichXQc3MnxLxPINRgMTc4Zi7MhhW12rEc9sZHiWlU+VuWRx3Kgnbli8SqBlnPkjTV3QKn0XDy1+i4IQ2nVCEDwlotNbZXuIOI+6PoDBm/eLWBx6gTr+eH/pPQMJhoqn9ziRoZeErIBzGGmmNCb8LMC6GdaSUP86BqPBD4drbSzee6jhlwC3Rm99ovf1xfQIo2ES7hqkYtVWuMBeq3fYZXV9DGUWMU4q+8W2/U8=;mpL/VxAj9xBo9IVBhjkM9w=="

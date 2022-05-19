@@ -30,7 +30,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 56
+    quality: 58
   - title: "Imagination and Visidon partner for deep-learning-based super resolution technology"
     excerpt: "Imagination Technologies and Visidon are partnering to support the transition to deep-learning-based super resolution for embedded applications across mobile, DTV and automotive markets. This AI-based technology allows users to upscale low-resolution ..."
     publishedDateTime: 2022-05-18T08:14:00Z

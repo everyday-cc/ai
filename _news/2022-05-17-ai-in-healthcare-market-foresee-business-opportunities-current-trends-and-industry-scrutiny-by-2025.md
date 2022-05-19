@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: MarketWatch
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI trends to watch out for in digital healthcare"
-    excerpt: "The advent of new age technologies has influenced and affected several sectors and healthcare has also received its share of transformation. Today, the healthcare sector looks much different than it did just a decade"
-    publishedDateTime: 2022-05-14T10:24:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/"
+  - title: "Machine Learning Market foresee Size, Share, Statistics, Demand and Revenue, predict 2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 17, 2022 (Market Insight Reports) -- Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy growth rate of ..."
+    publishedDateTime: 2022-05-17T14:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-foresee-size-share-statistics-demand-and-revenue-predict-2025-2022-05-17"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Healthcare Artificial Intelligence Market 2022, Trends, Size, Industry Share, Analysis and Forecast to 2028"
     excerpt: "The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 billion by 2028 from US$ 148 billion in 2020. The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 ..."
@@ -59,20 +57,66 @@ related:
         width: 770
         height: 440
         isCached: true
-  - title: "Top Artificial Intelligence trends for digital transformation in 2022: The future is here"
-    excerpt: "Artificial intelligence (AI) is one of the most rapidly growing and widely used data-driven technologies in the world. From governments and major enterprises to small online firms, artificial intelligence is being used by numerous groups across the world."
-    publishedDateTime: 2022-05-18T10:09:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/technocrats/top-artificial-intelligence-trends-for-digital-transformation-in-2022-the-future-is-here-43007/"
+  - title: "Artificial Intelligence (AI) In Food And Beverages Market Trends, Share, Growth, Opportunity And Forecast 2027"
+    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027),"
+    publishedDateTime: 2022-05-19T00:33:00Z
+    webUrl: "https://menafn.com/1104234110/Artificial-Intelligence-AI-In-Food-And-Beverages-Market-Trends-Share-Growth-Opportunity-And-Forecast-2027"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 28
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?182762"
+        width: 356
+        height: 250
         isCached: true
+  - title: "AI in Agriculture Market Research 2019 – Growth Opportunities and Revenue Statistics by 2026"
+    excerpt: "AI in Agriculture Market Scope. A new report titled “Global AI in Agriculture Market Professional Report 2020-2026” has been added by Straits Research to its repository of res"
+    publishedDateTime: 2022-05-17T06:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-agriculture-market-research-2019-growth-opportunities-and-revenue-statistics-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Window Cleaning Robot Market May Set A New Growth Story To Generate Booming Opportunities In The Industry By 2030"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
+    publishedDateTime: 2022-05-17T05:37:00Z
+    webUrl: "https://menafn.com/1104225364/Window-Cleaning-Robot-Market-May-Set-A-New-Growth-Story-To-Generate-Booming-Opportunities-In-The-Industry-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?807256"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "AI in Drug Discovery Market Global Demand, Opportunities, Growth, Segment Analysis and Forecast to 2027"
+    excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a robust CAGR of 40.8% throughout the forecast period. The global AI in the drug discovery market has been ..."
+    publishedDateTime: 2022-05-16T12:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-global-demand-opportunities-growth-segment-analysis-and-forecast-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+  - title: "Artificial Intelligence in Retail 2021 Industry Analysis, Key Players Data, Growth Factors, Share, Opportunities and Forecast to 2030"
+    excerpt: "Artificial Intelligence in Retail Market to surpass USD 20.5 Billion by 2030 from USD 1.35 Billion in 2019 in terms of value growing at a CAGR of 37.5% throughout the forecast period, i.e., 2020-30."
+    publishedDateTime: 2022-05-18T14:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-retail-2021-industry-analysis-key-players-data-growth-factors-share-opportunities-and-forecast-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
 
 secured: "it/Rw5LE/aZFkX1II12L1M91rPwXJU2kLIEfM++F7AGIdWSqBpSqgqbc9ilGNPk1in7ojP6ihxaOKE2DUgb+7YLN7gcaWSWKeyX0qZEZ5KnHIp7Q6y0S8u/6vbM3SKtcPzWYujCKWweJ2cMr64QghbhUg3oekdTL7vrXI0P+aFFhtF1VEXRoKJihEK7KzF4/8xyyOvtA2jTtujIhjRS7qkV4bSlgkk2DkOjpEWe50tgHhxqFKkOFAwXU7Kd0ju0exluE4du+mQwMakG8xqFusz0Cf2snCiFHKnlocBg2z2uhYHUheNJUvQDl+/r/pTIfdCqjHPYF/Z3rZY4I7m0xuyADQkftZtSUZ714L0fCoVU=;iEyaJdGF9nOMf/1NfNkuIw=="
 ---

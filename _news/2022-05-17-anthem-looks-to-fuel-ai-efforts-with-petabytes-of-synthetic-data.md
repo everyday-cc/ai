@@ -3,8 +3,8 @@ category: news
 title: "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data"
 excerpt: "The idea of synthetic data in enterprises has been around for decades, but it’s picking up steam as companies begin making more use of artificial intelligence and have greater need for faster access to better data sets."
 publishedDateTime: 2022-05-17T09:00:00Z
-originalUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602"
-webUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602"
+originalUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4"
+webUrl: "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4"
 ampWebUrl: "https://www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 640
         isCached: true
 
-secured: "5GH9fEPBxjt+CB5mZ5mJPoXKVwtNMLlech87xNqYwk8YFSzvx4+mlq7Mjml1nripPSD9hQN5M8ngfEYl2VREaMFIv1ApMQV27VKmEIy4IWviB9yUPDTLH+Tf7IW990wqhfDN6n7ySKigOeqk9u+BXALszuLwschI5l+4x5v9J7N9PqaKHs9oJdAnIxbveExBJO77SFCN8HSeoJ9QoPpCoYJYdmvCRnkjxbzXKY6NJocaO+eZDkxSgs728Y7s6M2/3g9PNRjxNuRnom47i9VzwL7hmoBWCHWe9In5d4VXoO5/R3o9yqJ4ldptLD6kwDpy67Np4KgEfkZVSpuBd/q19wpBakre2gEDHV72c9fdYig=;wgvE+EPiFTyTzs1aD4EXtA=="
+secured: "7J6+xVY2lhFGc7D+GP/ET37KDAKQWFQjtFD6g4rOvGou68agCbU5UU03iy+Y6M4NpA2KsHvXG5py8ksNktbQmaFxo6w8+/gpXFxPMdbHh6rUdo/+MNAup8JyDVv6Svxrx30d0i7PSe5HIlR2TT9+pJOT44nj5UJevjGKYMdIF/1FOMgtMonklDdTFfZKh4tilZ2WcR8BdPWb7+eFmWABjdKX+y3unm427lMc3/OD99zoNMycxIe61KGbsEW6khpGXp9BfWq0NVg1mpTmMcxyJt8HTzJNrQqbpgP7u/OsIdK/Qtc9AraaZJroLQREza9XoZZ4K6YYBwW/ooPo2RL+HIo0ezElj++DwMymHxT8TCc=;6I+5XZV0g+CMz6QoOX0WCA=="
 ---
 
