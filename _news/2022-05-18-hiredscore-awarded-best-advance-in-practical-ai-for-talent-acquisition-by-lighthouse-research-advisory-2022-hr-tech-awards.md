@@ -1,26 +1,28 @@
 ---
 category: news
 title: "HiredScore Awarded Best Advance in Practical AI for Talent Acquisition by Lighthouse Research & Advisory 2022 HR Tech Awards"
-excerpt: "In its third year, the HR Tech Awards program highlights HR technology companies that serve employers and employees across the globe.NEW YORK,"
-publishedDateTime: 2022-05-18T16:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/hiredscore-awarded-best-advance-in-practical-ai-for-talent-acquisition-by-lighthouse-research-advisory-2022-hr-tech-awards-1031473054"
-webUrl: "https://markets.businessinsider.com/news/stocks/hiredscore-awarded-best-advance-in-practical-ai-for-talent-acquisition-by-lighthouse-research-advisory-2022-hr-tech-awards-1031473054"
+excerpt: "In its third year, the HR Tech Awards program highlights HR technology companies that serve employers and employees across the globe."
+publishedDateTime: 2022-05-18T16:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hiredscore-awarded-best-advance-in-practical-ai-for-talent-acquisition-by-lighthouse-research-advisory-2022/article_d2e86ac3-cc2f-51ca-a129-4ff3a5a79fee.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hiredscore-awarded-best-advance-in-practical-ai-for-talent-acquisition-by-lighthouse-research-advisory-2022/article_d2e86ac3-cc2f-51ca-a129-4ff3a5a79fee.html"
 type: article
-quality: 22
-heat: 22
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "HiredScore Awarded Best Advance in Practical AI for Talent Acquisition by Lighthouse Research & Advisory 2022 HR Tech Awards"
@@ -33,6 +35,6 @@ related:
       domain: kget.com
     quality: 0
 
-secured: "3oYv6X3+UUTt1JhAgtyTIX24z2955xa86D42Dxa9/GyH413ZPnYksebwpM6qQO1dQOnVqEzGMCQoz2POEUnDEQDC00h9QrzkcKYB3AsMXqZKr5lFzxBTM6ixYA2J+S+3Ih6anTpSPj213oBfhkMp4XpjwUXafoUQxpo4701HnZTiBRpuaGehT7TX+yBbhz7oySR8CKPPZD0RIbv5QCO7gL9HL/ayh/oppCLNSkSS0CLCwVqJP6sMC9EYh3mahCED+mHMELF2NTpwTKe20VE8fuySQh/bLky3Pb4GNluJsWJCsFlveNzMZyCN9G+M2vYoTnmonCjF/EONCiTMAm5kaBAGyDWEO9rSkKLfFeR7cIg=;RsOyCwIVFEPK04IkKLpkLA=="
+secured: "cP82P/gBZPw9Tfxioppd/kJLaHz5a+kFHumjwHF0bnkOvuMFINT2eJyB1mliX2zZHEKENdA59BkbXhvtGvH39nAeYv0TJcD2KF3KcR6AfMQbthe/hQNoacADjCuaKYWi2cuuB2P3lnbk1kyZtdKcENQIk3biNEDoAhoWKRKCKkuTljThKyC0WjBH2O6xED0BKw7tGtmjsH0uP+rRszNsU+JY/184VhLgnrpGLz4EWwJl2s1DPJ1CemjYP7U6V3+iPdVY+IGmIpyOYJgcBqCgOG2JsP6vGr8B2l7CbVfbMRaaHc+NfAdGooS3Wk1kpo3FQNyIbw2EIiCPwLQD2BirGzawj+lIcfi5XveQTNpWmoQ=;oCpRS6dTkSDH1hcN4PpXHg=="
 ---
 

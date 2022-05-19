@@ -94,6 +94,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Mastercard rolling out facial recognition"
+    excerpt: "Watch \"Mastercard rolling out facial recognition\", a video on CBSNews.com. View more videos and watch CBS News, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2022-05-19T02:31:00Z
+    webUrl: "https://www.cbsnews.com/dfw/live/video/20220519023103-mastercard-rolling-out-facial-recognition/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 39
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2017/05/25/57520771-4971-41e5-bc89-b2a226a7847e/thumbnail/1200x630/46b242d84085b042f1d7ae433e1f2154/cbsn-pause-1920x1080.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Mastercard wants your face and hand imprint for payments"
     excerpt: "Mastercard announced a new way to make payments called the Biometric Checkout Program. Instead of looking for your phone or wallet at checkout, the new system aims to speed up the process by only using your face or your hand to make a purchase at"
     publishedDateTime: 2022-05-18T18:14:00Z

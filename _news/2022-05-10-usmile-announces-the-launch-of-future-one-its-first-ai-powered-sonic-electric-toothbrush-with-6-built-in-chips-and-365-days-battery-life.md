@@ -1,23 +1,26 @@
 ---
 category: news
 title: "usmile Announces the Launch of Future One - Its First AI-Powered Sonic Electric Toothbrush with 6 Built-In Chips and 365 Days Battery Life"
-excerpt: "HONG KONG - May 10, 2022 - (Newswire.com) usmile (a sub-brand of the Stars Pulse Corporation), an Asia-based, all-round oral care brand driven by the mission to enable healthier o"
-publishedDateTime: 2022-05-10T14:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-10-usmile-announces-the-launch-of-future-one-its-first-ai-powered-sonic-electric-toothbrush-with-6-built-in-chips-and-365-days-battery-life"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-10-usmile-announces-the-launch-of-future-one-its-first-ai-powered-sonic-electric-toothbrush-with-6-built-in-chips-and-365-days-battery-life"
+excerpt: "today announced the launch of Future One (F1), its first AI-powered sonic electric toothbrush with six built-in chips and 365 days of battery life for better oral hygiene and personalize brushing. Created as a joint effort of the usmile R&D team ..."
+publishedDateTime: 2022-05-10T14:03:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/business-health-oral-hygiene-6426f11c68b0aead8eeb999fb9db64c6"
+webUrl: "https://apnews.com/press-release/globe-newswire/business-health-oral-hygiene-6426f11c68b0aead8eeb999fb9db64c6"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "okAleokZ022lvmKgI9giCiFlxCsI7xD01L931XBDOAgx7lVkY7361eyyOCeKcADqct5vQJGQ9dUkZ5M9oPkV6s3ap8E+cBtHgKqgtpTftKVKuXaLauiHeaTvnD/EWmTOmoDhNbBraR9oMvGdXUMZt/7s8nPacfM597uUD41ojHM4Ifx43wJdZH3QtTnfJIIiHM+azUtME2IYlLtlADBX/ISDpWLhd10nDr1gc06I6AiFQNRLG420uRRwPg96yCVobHREStToCUfsSC7vcfE5M6jQ4o0kJnTL1O2qSwnWetrCqIs/ISwBc5yJzGedO2wUpHeMwIQaLSsKNCGPSS1+Coa183meBRwykd6xM8IUupoQaac/kJBapv7BF5zNhjQce9sh5RjUrKV8Dun6hLTJN9vlCLO5lLGSdBh7SRhj/vNvAUODdityhwhk+eXjDbIJKd8pbjxxTTQ8JROKQ3hPuxRJG6021cquG5BHxKTKKn4593cx64fxydgBpzdP3koTiFtsq9+nJDCJC0b+ppN5Cw==;g9r8taQy+44numHLUggHUg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "am1l68r9v1GsQkHzpZj2nazD9vmY1pRE3HZKl8dqdLAt/IqKRs9iIfxfZCYrFnnlja+Cq3joeRIY8+kXgthQmfl9VCZKginZysvGsB7CZ6U1zqIfUibtl/HCGChsaonRqnK7B8L5PJNpytXaDQy4JlBCxr5xTNg9LxIpBi4+Dz2r57hnRbHBGqcgyo4fINHDGoL1ySNxAMkixYhlcGogQmBXIvSvODWZlnMhHUt0S5ZIyEQU6vtv2MylnJrIVS1Jf4pE7NY8j2R+N/3mzzz/Ri3HO9MFr8HG3sln8lLvzDcj8Cv/lfznJdO0ciOBkWghqbyiijsVC4BCBFqhoSWxGyFQi1B989iTYphh7XuwFzw=;ubPnCVv7KrhFZFWttrqDNA=="
 ---
 

@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Computer Vision Market Research Report, Growth Trends and Competitive Analysis During 2017-2025"
+    excerpt: "Snapshot The global artificial intelligence (AI) in computer vision market is anticipated to rely on certain factors"
+    publishedDateTime: 2022-05-19T05:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-research-report-growth-trends-and-competitive-analysis-during-2017-2025"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/ai-in-computer-vision-market.jpg?w=410"
+        width: 410
+        height: 1025
+        isCached: true
   - title: "Artificial Intelligence (AI) In Food And Beverages Market Trends, Share, Growth, Opportunity And Forecast 2027"
     excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027),"
     publishedDateTime: 2022-05-19T00:33:00Z

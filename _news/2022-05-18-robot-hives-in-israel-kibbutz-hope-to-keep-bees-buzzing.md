@@ -51,6 +51,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 34
 
-secured: "7NLon3Nzds2FxXXCdFjM/DogL/dcziq/bl8X6AER6GbQaGq2Ue68dPX588uv5rprmxL3Drh5wuuOCo7wNjJVT/dYXATNqHUdgsGo7Drlf1XF3CYtaagGGVirdGfPwom6fZGgsWQN4ApfoK/GL9AN9hK3xM8Wrhx2SULdj5EtmeKat+Fij2J1Jkjv22Suo9sxuCosJjaFwMR1CCjx8k/Dkqkpj+nDo/4o9PeNbbtyjPdwRTLOxQR/VV0rYf46quGEKiMz30oCQySmLWcPLqHqXt0UFlapxwr49B1INCSUnOVAEmA+gK/EyiA7XDapo8lARJpgG/C4xHpNVUwCGFy+SJ4XNw2eS8g9zyrXmhwqDzI=;QZ37KqK2HumiPQLZcnt/xw=="
+secured: "JYQC/63B+Uqav34UPHIgDDbGLzgQfu07TfaQRUEJJtGZX1WSd9iByKEdAJ8KqwpQxjfriC4++CUR/PxRcAyADgfeZG4OnGHrBsua98GzqEEL121VxX/Nhe+3GSin41tZcSVknKGqbXZttrRFSOl/XRImzXCU6BoW+NWKZz4NVzL4dm6TKGP5tfbcPNl03lWeBCsj1rET+EUS4gQ0zBEJJYcpbR3Y7eOpTFOEq/iZLGFq6Uu3FLh6xKqwsimviWot/FynvoT5DsJWYX7tRaiM3Osbi8jMLCSLGrPIn32X9gyPhoy/bVR28zBWmX7cyY8eCGuuO0OX0bM0AurYRUvZ1aWOTzR6cHg6kyxH8CY7g/E=;2AqejRDDkG/l9MTpekJTZQ=="
 ---
 

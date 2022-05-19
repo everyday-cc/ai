@@ -539,6 +539,50 @@
       ]
     },
     {
+      "path": "_news/2022-05-16-cisce-to-introduce-robotics-ai-ml-and-data-science-curriculum-teams-up-with-iit-delhi.md",
+      "title": "CISCE to introduce robotics, AI, ML and data science curriculum, teams up with IIT-Delhi",
+      "excerpt": "Last year, the Central Board of Secondary Education collaborated with Intel to launch an artificial intelligence learning community and platform called AI Students Community.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/cisce-to-introduce-robotics-ai-ml-and-data-science-curriculum-teams-up-with-iit-delhi/",
+      "originalUrl": "https://analyticsindiamag.com/cisce-to-introduce-robotics-ai-ml-and-data-science-curriculum-teams-up-with-iit-delhi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/IIT-delhi.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-skt-introduces-new-ai-service-a.md",
       "title": "SKT Introduces New AI Service ‘A.’",
       "excerpt": "SK Telecom (NYSE:SKM, hereinafter referred to as “SKT”) today announced that it launched an AI service named ‘A. (A dot)’ as an open beta version for Android on One Store and Google Play. ‘A.’ embodies SKT’s vision to become a leading AI ...",
@@ -708,48 +752,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-public-buses-in-tamil-nadu-to-get-ai-enabled-panic-button.md",
-      "title": "Public buses in Tamil Nadu to get AI-enabled panic button",
-      "excerpt": "Tamil Nadu Chief Minister M K Stalin on Saturday launched Artificial Intelligence (AI)-enabled panic button-cum-CCTV surveillance project in 500 Chennai buses as part of an initiative to improve the safety of women and children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/express-mobility/public-buses-in-tamil-nadu-to-get-ai-enabled-panic-button/2524890/",
-      "originalUrl": "https://www.financialexpress.com/express-mobility/public-buses-in-tamil-nadu-to-get-ai-enabled-panic-button/2524890/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/electric-bus-e1652539506644.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/express-mobility/public-buses-in-tamil-nadu-to-get-ai-enabled-panic-button/2524890/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/public-buses-in-tamil-nadu-to-get-ai-enabled-panic-button/2524890/lite/",
-      "publishedDateTime": "2022-05-14T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

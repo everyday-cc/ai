@@ -929,17 +929,17 @@
     {
       "path": "_news/2022-05-13-us-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates.md",
       "title": "U.S. warns of discrimination in using artificial intelligence to screen job candidates",
-      "excerpt": "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ...",
+      "excerpt": "The federal government tells employers that the commonly used hiring tools could violate civil rights laws by discriminating against people with disabilities.",
       "sourceUrl": null,
-      "webUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
-      "originalUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
+      "webUrl": "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
+      "originalUrl": "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://npr.brightspotcdn.com/dims4/default/708d5a7/2147483647/strip/true/crop/5328x2999+0+499/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F18%2Fgettyimages-1397584720-ab12b991bbaf6e5f783dfd4e94d770e036e0650f.jpg",
+          "url": "https://npr.brightspotcdn.com/dims4/default/3c0bc49/2147483647/strip/true/crop/4029x2267+0+377/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F18%2Fimage-from-ios-2--8eab73493a8ad028fb21b41c3fee1696994a6fbd.jpg",
           "width": 430,
           "height": 242,
           "title": null,
@@ -949,13 +949,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
-      "cdnAmpWebUrl": "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
-      "publishedDateTime": "2022-05-12T14:13:00-07:00",
+      "ampWebUrl": "https://www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
+      "cdnAmpWebUrl": "https://www-hawaiipublicradio-org.cdn.ampproject.org/c/s/www.hawaiipublicradio.org/npr-news/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
+      "publishedDateTime": "2022-05-12T14:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Iowa Public Radio",
-        "domain": "iowapublicradio.org",
+        "name": "Hawaii Public Radio",
+        "domain": "hawaiipublicradio.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -965,7 +965,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Healthcare",
         "AI"
       ]
     },

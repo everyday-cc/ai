@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-13-best-robot-lawn-mower-2022-robotic-mowers-to-cut-the-grass-as-you-chill.md",
+      "title": "Best robot lawn mower 2022: robotic mowers to cut the grass as you chill",
+      "excerpt": "It can also be controlled via the Bosch Smart ... Out of sight, out of mind. Another thing worth noting is that robotic mowers tend to travel in a haphazard fashion that may make you wonder ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.t3.com/features/best-robot-lawn-mower",
+      "originalUrl": "https://www.t3.com/features/best-robot-lawn-mower",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "T3",
+        "domain": "t3.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing.md",
       "title": "Soft Robotics Names Paul Kling as Vice President of Global Sales and Marketing",
       "excerpt": "... Inc.: Soft Robotics Inc. is an industry-leading and award-winning technology company that designs and builds automated picking solutions using proprietary soft robotic grippers, 3D machine perception, and artificial intelligence. The company's ...",
@@ -1338,51 +1372,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-why-its-time-to-address-the-ethical-dilemmas-of-artificial-intelligence.md",
-      "title": "Why it's time to address the ethical dilemmas of artificial intelligence",
-      "excerpt": "AI's perceived risk isn't only from autonomous weapon systems that countries like the US, China, Israel and Turkey produce that can track and target humans and assets without human intervention. It's equally about the deployment of AI and such technologies for mass surveillance,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/articleshow/90599546.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/articleshow/90599546.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/thumb/height-450,width-600,imgsize-110988,msid-90599600/.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/amp_articleshow/90599546.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/amp_articleshow/90599546.cms",
-      "publishedDateTime": "2022-04-01T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
       ]
     }
   ],

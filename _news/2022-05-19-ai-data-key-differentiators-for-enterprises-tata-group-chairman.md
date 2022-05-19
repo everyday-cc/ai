@@ -1,30 +1,30 @@
 ---
 category: news
 title: "AI, data key differentiators for enterprises: Tata Group Chairman"
-excerpt: "In TCS annual report, Chandrasekaran said that TCS has shown remarkable resilience and adaptability, coming out stronger than ever, after catastrophic events like global financial crisis or Covid"
-publishedDateTime: 2022-05-18T17:18:00Z
-originalUrl: "https://www.business-standard.com/article/companies/ai-data-key-differentiators-for-enterprises-tata-group-chairman-122051801639_1.html"
-webUrl: "https://www.business-standard.com/article/companies/ai-data-key-differentiators-for-enterprises-tata-group-chairman-122051801639_1.html"
-ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-data-key-differentiators-for-enterprises-tata-group-chairman-122051801639_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-data-key-differentiators-for-enterprises-tata-group-chairman-122051801639_1.html"
+excerpt: "Artificial intelligence and data are key differentiators for enterprises at present and the change in technology consumption reflects the prevailing trends in the economy, Tata Group chairman N Chandrasekaran said in the TCS annual report released on Wednesday."
+publishedDateTime: 2022-05-19T05:44:00Z
+originalUrl: "https://www.theweek.in/news/biz-tech/2022/05/19/ai--data-key-differentiators-for-enterprises--tata-group-chairma.html"
+webUrl: "https://www.theweek.in/news/biz-tech/2022/05/19/ai--data-key-differentiators-for-enterprises--tata-group-chairma.html"
+ampWebUrl: "https://www.theweek.in/news/biz-tech/2022/05/19/ai--data-key-differentiators-for-enterprises--tata-group-chairma.amp.html"
+cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2022/05/19/ai--data-key-differentiators-for-enterprises--tata-group-chairma.amp.html"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: The Week
+  domain: theweek.in
 
 topics:
   - AI
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/22/full/1624353658-73.jpg"
-    width: 620
-    height: 464
+  - url: "https://www.theweek.in/content/dam/week/news/2020/images/2022/2/10/Chairman-of-Tata-Sons-Natarajan-Chandrasekaran-reu.jpg"
+    width: 760
+    height: 443
     isCached: true
 
-secured: "Jd8zG8fnkxGYFYZYv9YlQL+m7xWAG/RBMAy+dPnu/XC/NjWcidDhI8flhLW91I13Pu3AevPZNDlyc1c+ZzYq9zG1vAak0JY8CBlos5oqXVLhKq3WbOUjTZPAUTqguhw4pv2a1zWbhZlUg4CcXrUHr2B6MxX+xTra7a33q2d9KEWybKJ6Z6RXew1XP4o04oTfdtd879eR2Uu02e6WnoqeeD0nBltcJL6iGOkQpTmxeExpciW75Uz4L/xAFcPFOXWqxEZlRkxv9RaVKHNpaP0GzLp+uy56+4c7YHqN0x/RvzlsxggHtuNLnJ7oFL/kZ0zJH1O8e6Jw9rGlZ1BHK26eUEITtnzxWYa9boH7zkI0qas=;DMJtIhdLNEenfZ3WfaK2OQ=="
+secured: "QvqfQRRv+HcFhfhAh4aVubo3xrTy24ifo3wJ5CprjRV3+cedpIT+sHf/Bo/QFm4/QbRv9vCkubw2iIxj3eIJybUzIq0MUdon2mIo9Aj0qliVcN3I/SmE+mDQHAQGFVKQYnCGWqdF7vTO91FnCTKclo9ppD6izGiyTz4S9E6ZWS6BgY+cv4Y6I0ZhvuTxajU4Nb1Kcw7I8n2yVvJtUnAgOFhAfDpjWo69u93MPKMShpeZIX1sK6798jvQRvcU7J+QUXGTDkCxCPPVxj5eJxLWpf9Z9BUKRYhUk3d5qiN/TdARmMnhsKvtt+SX88gJcM5vdbve8fg6n6PLcuPlyijqRw9Xo4ztmYtYrFrXWZcRSb8=;YkVOKl6GQg3gRDXjnKrJzQ=="
 ---
 

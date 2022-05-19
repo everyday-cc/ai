@@ -39,6 +39,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Blockchain AI Market 2022 | Scope of Current and Future Industry 2032"
+    excerpt: "The global blockchain AI market is expected to secure US$ 2.8 Billion while exhibiting a 22.9% growth rate during the forecast period. The market is"
+    publishedDateTime: 2022-05-19T04:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-2022-scope-of-current-and-future-industry-2032"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/d181e036e94ce0417b390ce7bc1e6c035f16169d-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "aKIRpYHC7+D82XdVEcSfY462GvFLB1b/3IKK8mdj8ZQeyO5Ps6tsZAO9bZpSyCz37FW8UDehHB/7t7h11+NuipcHysfxYAyEEf44XBN4lxdl76vTLvKjBYLHWEgSJ69i/wtZKH0zYzR942d5g8K3drnbOc8kQpSWH5u4RjUAJ7rA49uvIU/Y2jFUUTwbG2m+a6E3VfS/RUpXfoa2jwV6cIKPWTW9eVtYYyqPPP8qWajfnvvowl/aFT4ULln3U7uzkZnCPgX9jWZf0JLDYifeoQMbrXSvdWgELZI3PwfEz9p0ylCmcjqTEYW+jfImGSuEGzY5rw/1j9gdFzXLPwIiTz4+xdxJBWVshbWuPZ9/c5w=;izyB8cb9butwUQYXVOHHAQ=="
 ---

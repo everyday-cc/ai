@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-18T15:22:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
 webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
 type: article
-quality: 33
+quality: 31
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI in Autos
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -151,6 +150,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "EL4Njt/Q+hRLw3byzxYQ2nClprb25SEgj6BR5kMA+nZj+/dJ5dKBjOyLdcel+zvG6Tyta36rP0GO6fOb6aI9IKJrWPA6RomaUXxFXQSEczSFP4m7mi34sn0tFmtaAJy1x/hocWgoKK+ksfea0MOT6jYVrTQHw4YbUCH51LjU21Mm4dwIDligfvDz5DJZ1PBB9g4966yZxki1R6deY4lki08XHS8ukSKmG+HIkd43JwLm9+1vQz6/gBiGqmwhftq2macrl/SxccZQik8e8n6cW1NgAstil+79tu7l84Oo3uMwfb7LDTp3mjt03wXqMUAwqgO2zpNwT2+ijUMveXrF7T12XWPVem7eklRbMLI4uCI=;Od/l4C05T8J/iobld5unKA=="
+secured: "bY+BgOnUkY7ftrO5+BCA9TGYxvO3cEQpwKy6F5SaHXafwnSgE+p70703HHMNpu3IhzM7gSPYvuhe/plDKO7QgscDg/SzY0dw/CwxIUiy/1rcfM72fuOEKSmWDxdidQMb2jZiwOjrN8u32nidnqBgTmD/Y59fPoCeX7FGhMGtmofTpx49eXT5e2/6nJyvQIy2wRempCjf6yrDIp+7T/AzYX9/6yqTnJVPUEbKtTRC5tDLJ6/xGOX7pB+YMK1n5m6uobRxgC/iqzkvpxjaxr0zM6RoPlG5NL2K3CtrgMDpPD9cjRj2X8MwTwpwauvmmddXnI7YRviOJsykuOIjByXzBeFQWKynHo/A0u/QxkXI6Dk=;5LOkqHKLhmML7KFNzNYWdg=="
 ---
 

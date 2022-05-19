@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI in Computer Vision Market Research Report, Growth Trends and Competitive Analysis During 2017-2025"
+    excerpt: "Snapshot The global artificial intelligence (AI) in computer vision market is anticipated to rely on certain factors"
+    publishedDateTime: 2022-05-19T05:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-research-report-growth-trends-and-competitive-analysis-during-2017-2025"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/ai-in-computer-vision-market.jpg?w=410"
+        width: 410
+        height: 1025
         isCached: true
   - title: "Healthcare Artificial Intelligence Market 2022, Trends, Size, Industry Share, Analysis and Forecast to 2028"
     excerpt: "The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 billion by 2028 from US$ 148 billion in 2020. The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 ..."
