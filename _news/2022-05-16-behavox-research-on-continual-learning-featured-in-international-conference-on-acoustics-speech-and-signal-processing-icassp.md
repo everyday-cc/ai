@@ -2,9 +2,9 @@
 category: news
 title: "Behavox Research on Continual Learning Featured in International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 excerpt: "Behavox, which provides a suite of security products that help compliance, HR, and security teams protect their company and colleagues from bad actors, today announced that its academic research paper on artificial intelligence “Continual learning using lattice-free MMI for speech recognition” has been accepted by the International Conference on Acoustics,"
-publishedDateTime: 2022-05-16T13:03:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
-webUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
+publishedDateTime: 2022-05-16T13:07:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
 type: article
 quality: 0
 heat: -1
@@ -17,6 +17,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Deep learning solves nuisance alarms and tailgating in access control"
@@ -31,6 +37,6 @@ related:
       domain: sourcesecurity.com
     quality: 54
 
-secured: "NPjIjL+X+fI/ZUP0N07fdZ//FlEGF66Y0GbhAaW0SURK2/b7ma9Ne6qUw5mSLe5ODhDMD6TjlaCpITIrtGBqHt824MhncFLnP5cqsfR4IQOH1WQ68oaIx5PI0xeAUmFF/nw6UwpzSXtwTAc2u8ab5MnNbtatH/W1j5vDD1sQEZjOdRoePXjEWm98ip2AXW/yR0RJkiJxmuJ/IPvLWOGyhpAXcIeIKImfv/aCg6kmZNGjgbRs61dRIdLaWX5pmcLww1IasyWCBbLC6T8FSDffRzvXj7PDo+jC8ZEb+TkSbknzNJszSEzcwdbFqi6BuvVTNainhiPTqI3cpAjCBK9JZDVzd+zhq104yTVyPyEY2mA=;1SM8J3d3HMe5RwKuqtjbDg=="
+secured: "U7d9Sbf1rqTpFoPuFiwTjpduzcepn+EvufNc91JWwKd8kHRCaWB4H2mCMDNOyKjrmMNRHYEJHBVihCiuKdU4DniUdwx64MFn7Hxie7CWORsIZ25KcCxMXSOUT5old1B6p8rk0JusVH7/m2sxrYNEQL2BiwqOKpXHC1KyeA4s2pHJOlamawkE2ivuNuCIwoHO15x2vrmUBpdj18S4kryRdX2YFrfGBKzojZIrTZMbD0iAaFidyc9BP5L8MyKDMxxXMAmEA04hsezgXRjpoNV3b+NGIJU9vqYeiTbLPvEKAL0gbKNqRbgbZ6usgn5+SFKBPrJLw75OZc3fgpQAEUtqA16ZofhFudj5nmDHvY6i6mM=;8bbdEXEUulIK3SOODwR5PQ=="
 ---
 

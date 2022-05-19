@@ -2,6 +2,83 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-04-27-norads-vanherck-says-artificial-intelligence-capabilities-lacking.md",
+      "title": "NORAD’s VanHerck says artificial intelligence capabilities lacking",
+      "excerpt": "(Jose Luis Magana/AP) WASHINGTON — U.S. Northern Command and North American Aerospace Defense Command lack the artificial intelligence capabilities needed to do their jobs to the fullest and maintain an edge over rival nations, according to the leader of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.airforcetimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "originalUrl": "https://www.airforcetimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Air Force Times",
+        "domain": "airforcetimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta.md",
+      "title": "Options AI: 5 Things To Know Into Earnings, Microsoft, Apple, Amazon, Alphabet, Meta",
+      "excerpt": "WikiMedia Commons This post contains sponsored advertising content. This content is for informational purposes only and not intended to be investing advice.   This article originally appeared on Learn",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/22/04/26821535/options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta",
+      "originalUrl": "https://www.benzinga.com/news/earnings/22/04/26821535/options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/04/26/untitled_design_74.png?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26821535",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26821535",
+      "publishedDateTime": "2022-04-26T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-man-recreates-childhood-friend-with-ai-then-it-tries-to-murder-him.md",
       "title": "Man Recreates Childhood Friend With AI, Then It Tries to 'Murder' Him",
       "excerpt": "YouTuber Lucas Rizzotto said he modified a microwave with a text-based AI in an effort to build a friend that ended up being un-friendly.",
@@ -1067,109 +1144,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-how-we-can-use-ai-to-help-achieve-sustainability-goals.md",
-      "title": "How We Can Use AI To Help Achieve Sustainability Goals",
-      "excerpt": "Coincidentally, in between these fascinating trips, I was asked to participate in an AI and sustainability panel at our Imagine Cup Junior 2022 girls' edition. I received the panel questions only 48 hours beforehand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6255864cad3a5bbbc0404a9c/0x0.jpg?format=jpg&crop=3003,2002,x0,y97,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/amp/",
-      "publishedDateTime": "2022-04-26T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-how-banks-can-embrace-open-banking-with-regulatory-compliance.md",
-      "title": "How Banks Can Embrace Open Banking With Regulatory Compliance",
-      "excerpt": "Over the last several years, organizations, including banks, have learned plenty of lessons from their experiences of migrating existing applications, data and other enterprise systems to the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6266a4046d73c134e2109d5b/0x0.jpg?format=jpg&crop=5728,3223,x1969,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
-      "publishedDateTime": "2022-04-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

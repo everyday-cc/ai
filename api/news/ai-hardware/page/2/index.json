@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-04-google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise.md",
+      "title": "Google Fires Another AI Researcher for Questioning Findings, Company Says Otherwise",
+      "excerpt": "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
+      "originalUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/6f9f38ebe51de141ba324517208291b9c98e6e51/2022/05/02/b1c01638-c17e-462e-80eb-3428354a9ae9/gettyimages-1233383030.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
+      "publishedDateTime": "2022-05-03T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-amd-first-quarter-earnings-live-blog.md",
+      "title": "AMD First-Quarter Earnings Live Blog",
+      "excerpt": "Last year's data center GPU growth was driven by HPC. But we're now very engaged on the AI front for GPUs. Xilinx chief Victor Peng: Demand for Xilinx's compute engines and networking products are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/amd-first-quarter-earnings-live-blog",
+      "originalUrl": "https://www.thestreet.com/investing/amd-first-quarter-earnings-live-blog",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwOTU2Mzg1MTM4MjU0OTM2/us-industry-group-applauds-nyse-move-to-delist-three-chinese-telecoms-companies.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/amd-first-quarter-earnings-live-blog",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/amd-first-quarter-earnings-live-blog",
+      "publishedDateTime": "2022-05-03T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
       "title": "Google Faces Internal Battle Over Research on AI to Speed Chip Design",
       "excerpt": "The new episode emerged after the scientific journal Nature in June published \"A graph placement methodology for fast chip design,\" led by Google scientists Azalia Mirhoseini and",
@@ -1327,111 +1422,6 @@
         "Google AI",
         "Facebook AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis.md",
-      "title": "Razer-designed Linux laptop targets AI developers with deep learning emphasis",
-      "excerpt": "Made in collaboration with Lambda, the Linux-based clamshell focuses on deep learning development. Lambda, which has been around since 2012, is a deep learning infrastructure provider used by the US Department of Defense and \"97 percent of the top research universities in the US,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/razer-book-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc.md",
-      "title": "After A 24-Year Absence, Intel Re-Enters The Discrete GPU Market With Arc",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead covers Intel's launch of its Arc 3,5 and 7 notebook processors for notebook PC gamers and addresses why three vendors is better than one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625700c3f17cd051e0b0c62f/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
-      "publishedDateTime": "2022-04-13T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

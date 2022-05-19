@@ -242,6 +242,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-12-intel-dishes-new-details-on-its-arctic-sound-m-gpus-and-theres-plenty-to-like.md",
+      "title": "Intel dishes new details on its Arctic Sound-M GPUs - and there's plenty to like",
+      "excerpt": "to virtual desktop infrastructure and AI inference. During the day one keynote, the lineup was characterized by Raja Koduri, the brain behind Intel’s GPU efforts, as “a media supercomputer on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/intel-dishes-new-details-on-its-arctic-sound-m-gpus-and-theres-plenty-to-like",
+      "originalUrl": "https://www.techradar.com/sg/news/intel-dishes-new-details-on-its-arctic-sound-m-gpus-and-theres-plenty-to-like",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rXP4bgaDnxxZz5TbNu3Z5n-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-intel-upgrades-for-ai-wars-with-habana-designed-server-chip.md",
       "title": "Intel Upgrades for AI Wars with Habana-Designed Server Chip",
       "excerpt": "The 7-nm Habana-designed Gaudi2 is twice as fast as its first-generation predecessor, according to the company.",
@@ -800,6 +852,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-10-3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case.md",
+      "title": "3D-printed Fan Mount Keeps Server GPU Cool In Desktop Case",
+      "excerpt": "or are simply experimenting with machine-learning AI, you should be prepared to shell out quite a bit more money for a proper GPU than in the good old days. Bargains are still to be had in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2021/11/06/3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case/",
+      "originalUrl": "https://hackaday.com/2021/11/06/3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/11/Nvidia-Tesla-K80-cooler-rear.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-nvidia-unveils-new-chip-to-help-ai-understand-users.md",
       "title": "Nvidia Unveils New Chip to Help AI Understand Users",
       "excerpt": "Nvidia is unveiling the H100 \"Hopper,\" a new technology that has the ability to speed up Artificial Intelligence applications. It will be an",
@@ -1287,101 +1382,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise.md",
-      "title": "Google Fires Another AI Researcher for Questioning Findings, Company Says Otherwise",
-      "excerpt": "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
-      "originalUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/6f9f38ebe51de141ba324517208291b9c98e6e51/2022/05/02/b1c01638-c17e-462e-80eb-3428354a9ae9/gettyimages-1233383030.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
-      "publishedDateTime": "2022-05-03T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-amd-first-quarter-earnings-live-blog.md",
-      "title": "AMD First-Quarter Earnings Live Blog",
-      "excerpt": "Last year's data center GPU growth was driven by HPC. But we're now very engaged on the AI front for GPUs. Xilinx chief Victor Peng: Demand for Xilinx's compute engines and networking products are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/amd-first-quarter-earnings-live-blog",
-      "originalUrl": "https://www.thestreet.com/investing/amd-first-quarter-earnings-live-blog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwOTU2Mzg1MTM4MjU0OTM2/us-industry-group-applauds-nyse-move-to-delist-three-chinese-telecoms-companies.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/amd-first-quarter-earnings-live-blog",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/amd-first-quarter-earnings-live-blog",
-      "publishedDateTime": "2022-05-03T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

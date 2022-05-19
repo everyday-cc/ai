@@ -169,6 +169,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 25
+  - title: "Mobile Phone Facial Recognition Technology Market 2022: Global Industry Size and Growth Opportunities to 2028"
+    excerpt: "A report was released recently that sheds lots of light on the  Mobile Phone Facial Recognition Technology Market. The report covers an overview of the industry along with a detailed explanation that provides a lot of insight."
+    publishedDateTime: 2022-05-18T11:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mobile-phone-facial-recognition-technology-market-2022-global-industry-size-and-growth-opportunities-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/d181e036e94ce0417b390ce7bc1e6c035f16169d-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence In Military Market Latest Revenue Data, Growth Drivers 2022 – SAIC, Raytheon, BAE Systems, SparkCognition, etc"
     excerpt: "Making business decisions in today’s evolving global Artificial Intelligence In Military market is challenging. It needs insights on when, how, and where to act. Artificial Intelligence In Military report has conducted in-depth market research providing reliable information about the market to you."
     publishedDateTime: 2022-05-16T04:47:00Z

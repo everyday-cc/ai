@@ -20,19 +20,14 @@ topics:
 
 related:
   - title: "HiredScore Awarded Best Advance in Practical AI for Talent Acquisition by Lighthouse Research & Advisory 2022 HR Tech Awards"
-    excerpt: "In its third year, the HR Tech Awards program highlights HR technology companies that serve employers and employees across the globe. NEW YORK, May 18, 2022 /PRNewswire/ -- HiredScore, an AI company powering +35% of the Fortune 100,"
-    publishedDateTime: 2022-05-18T16:04:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-5b895343a5ddf20fe4e7f43848bfb0dc"
+    excerpt: "In its third year, the HR Tech Awards program highlights HR technology companies that serve employers and employees across the globe.NEW YORK,"
+    publishedDateTime: 2022-05-18T16:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hiredscore-awarded-best-advance-in-practical-ai-for-talent-acquisition-by-lighthouse-research-advisory-2022-hr-tech-awards-1031473054"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "gJa8dlZHYSjJqdTR6HshWB9Sopdv5kLO6uQ8122QybbbLDts6KrxZLtM1UwYQODsrAWKB2vncDOt7UKBVSCOlyIsl4AnRqBfRDcdF2dcTVuosTyzYp9DksuwSZ7R5hU8F6vGD0aRAlruEF9ppjed98hh/2Y/uHu6TvCKTEyC56zdwYDcrOv/tEzeSvMKZoCjTRTzWKGG1f1GQlsVDK+c5Lz/e56NyHo+mS1EI9uddIxt5u32HsLAeV+PGUtQJ3UrUI5W+dh0ew7u2SecuONgM+d/O+ScIVGt4gwFeCzTAfyQ5GrzXGL8/EFSqhcP9c6g0zDu0nVa5dMhXwnJHOaC1U1OUMKDAlYokBPB74s+B7E=;UbEuNRUrIKRT+JTQsA4v9w=="
 ---

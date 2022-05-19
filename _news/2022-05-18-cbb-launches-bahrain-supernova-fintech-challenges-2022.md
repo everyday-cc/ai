@@ -103,19 +103,14 @@ related:
         height: 567
         isCached: true
   - title: "Fintech Startup TradeStreet Tracking Unusual Market Events Expands Internationally"
-    excerpt: "The Swiss and Czech-based startup TradeStreet using a proprietary algorithm to track unusual stock market events is expanding its coverage from"
-    publishedDateTime: 2022-05-18T14:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/fintech-startup-tradestreet-tracking-unusual-market-events-expands-internationally"
+    excerpt: "The Swiss and Czech-based startup TradeStreet using a proprietary algorithm to track unusual stock market events is expanding its coverage from Switzerland and Czechia to the rest of Europe and the United States."
+    publishedDateTime: 2022-05-18T14:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-5-18-fintech-startup-tradestreet-tracking-unusual-market-events-expands-internationally"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://orders.newsfilecorp.com/files/8520/124111_3fe72a28a40f2b09_001.jpg"
-        width: 550
-        height: 309
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "mEtRPM/00LQz1vfWwGjiLxJ1yX5DoV3tdurUEVq2xTtmuqhp8yOTFcrHHTy6aAZ8EqdBS7vreRw6chbjGgjGw28aiRmsQ6pm/DtMUL/h8XRlWaH6PhvVFrTDLee0VjY5cxDyPsUdAs+jUX93oLxkx9fEj+J2y1cTO/Rt7zvJZ6mnlkvWFQNS3ita2mIJiwKdGUWo1Q7+XQCkBlHdMy3lEJ2uR7DWPjlf9pZuEf8EeBnifBLyyRq23vxQx9TjOGzT66KZRAIdu8KAnLR7neHb6GjY6MUvDOjcP8WXdIKs3AH5yCKpQFtvhkt+FRre1bqqemywPj13ttX2cc+447/fXHANcyl3YyQTZBc61bP0Q7H9i2NFn4K8BPQLwCmbvFvngmd6dnx+kczBYwSDp7/qY9nYTztxCcKSMq4fvZ3BLp37pJAaOMiUXZYE1s4nqU9mkXxoolmoA6rqoMJiWab7G31Ma+DQw0+EFfngh4+wpq44n7ECdePqfxHWBWuoXlrtmcvuu2cfM3bn7oOF4VMf/w==;y70YprrNtbgZTAkVaaajZQ=="
 ---

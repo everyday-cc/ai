@@ -3,11 +3,13 @@ category: news
 title: "The Most Obvious Hyperscaler To Do Custom Chips Was Always Facebook"
 excerpt: "Et tu, Meta? Of all of the world’s hyperscalers and large cloud builders, only Meta Platforms, dominated by its Facebook and related social network"
 publishedDateTime: 2022-05-18T19:58:00Z
-originalUrl: "https://www.nextplatform.com/2022/05/18/the-most-obvious-hyperscaler-to-do-custom-chips-was-always-facebook/"
-webUrl: "https://www.nextplatform.com/2022/05/18/the-most-obvious-hyperscaler-to-do-custom-chips-was-always-facebook/"
+originalUrl: "https://www.nextplatform.com/2022/05/18/the-most-obvious-hyperscaler-to-do-custom-chips-was-always-facebook-2/"
+webUrl: "https://www.nextplatform.com/2022/05/18/the-most-obvious-hyperscaler-to-do-custom-chips-was-always-facebook-2/"
+ampWebUrl: "https://www.nextplatform.com/2022/05/18/the-most-obvious-hyperscaler-to-do-custom-chips-was-always-facebook-2/amp/"
+cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/18/the-most-obvious-hyperscaler-to-do-custom-chips-was-always-facebook-2/amp/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +20,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "6bYkqB0cynasM43jIMzJpBoGjR1ZfkT+B+ZIyO50AYHkrNLDeRs9EqTAtiSU+fBuvngjNCUWetk+TYGlg023bt4tAyFUjlD0j9rYn/BJQ4ZMamO2d8NwSXT0gOWaJFdcWA/ktzX+16hNBcrGyAeFe7Wbb0R3sM/WKEvgva33/ji714NvmeR7uoSXyD2aXB7Pe8IJny+KOlWPoULQd9GklY8QNy9mqo3ZZz4vX60eWWT74NohHGfEXNP71j9DkYzCZm15wgF6zyHtlaKDJd20P1eOx2a/KSplPulyGRxltPb313K9zh+GYDv69ccqxeLhYW2AdZGpPDiSKRqNzrZ8ly97hKfheF5dvvqX8g/1SdYYU0YomVFiRwGTYrKePaE0c5PXVACCF6Nr2yKL0LWWY+SaQqwz+GbJoQQ3oHcUTrUgftUW477Wf/Xg2dh79rtro3Is4C6/FlAn451eYQO1jxmWyL4x5rUlrbtVn/4IgpKyETVarTJ8hidNuJSrT9OiuHOeIg8MWyozHAXfEOILqQ==;1LtUPwQFKNMGVS3LgEjgZg=="
+secured: "+nmklZ70ucth7Xl+fDjjR5U2EW2DKwvGpSl22fgskBzy1C4E37iDaQHIe3sgcv7PaoIsNz3xlIz8E+1ADfPNOwUMP1jByUcn+PXCl57KkdM0MStpyR1bZDF7CernWxcPxNmn5232u7+oVfIT0PLTg8tBPaNgrhLkchTp9nXd3Bs2BFOWr3KGxXC6KcY1Q8WO/HR3Lo3GT4gx3sIOQwHFeRNZwTtgOxf7yocEcNTflfHbJBYLRwym8J7WIM7vEoBSy13Lixjp4e9y9DzOS+JZ/OGLTNlMP+vdF990sZCXw6MOCJBL9IllOz2Lfeb0cdcAU6X4SBs9ZeYd5MTPuzpaMgImUql266ydnkwqFrce0vLuKC8CstgCdgp1wB2/hYrAE7AlM2UGD1MWfSpjU6Bf1QXBmFpHvXWN59o1yL6j1QpYniIsDFiBC+J9/pSfUrIy4PhiolvPd2pU4rQj1P0x0Is6O8l3aSMLlqqlXZf+TWLUKF1tbEpj5RlRNhEdokXgvVy/j8L/BrD/H9vgov3R8Q==;+AmsoBfLXS6+t6iEYSdclg=="
 ---
 

@@ -159,7 +159,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -339,49 +339,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-us-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates.md",
-      "title": "U.S. warns of discrimination in using artificial intelligence to screen job candidates",
-      "excerpt": "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
-      "originalUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/1882da1/2147483647/strip/true/crop/5314x2991+0+498/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F16%2Fap22136511377718-1f5bd72c189b829721cdbbc776f2cb97244be707.jpg",
-          "width": 430,
-          "height": 242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
-      "cdnAmpWebUrl": "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
-      "publishedDateTime": "2022-05-12T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Iowa Public Radio",
-        "domain": "iowapublicradio.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1402,6 +1359,49 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
+      "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
+      "excerpt": "DETROIT (Reuters) - Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483827.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

@@ -2,59 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-03-09-ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes.md",
-      "title": "Ceva Logistics Teams With Kodiak Robotics On Self-Driving Routes",
-      "excerpt": "CEVA and Kodiak launched its Dallas-Fort Worth to Austion service in November 2021. They expanded last month with a new route between Dallas-Fort Worth and Oklahoma City on the I-35 corridor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
-      "originalUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6228e548fe480cb68f2edc8a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
-      "publishedDateTime": "2022-03-09T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-03-09-2-monster-growth-stocks-shaping-the-future-of-technology.md",
       "title": "2 Monster Growth Stocks Shaping the Future of Technology",
       "excerpt": "To that end, GPUs are used to accelerate compute-intensive workloads like artificial intelligence ... By comparison, rivals like Alphabet's Waymo and GM's Cruise measure their miles in the ...",
@@ -1385,6 +1332,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-zf-to-develop-chassis-for-baidus-smart-ev-brand-jidu.md",
+      "title": "ZF to develop chassis for Baidu's smart EV brand Jidu",
+      "excerpt": "German supplier ZF Friedrichshafen AG will assist Jidu, a smart electric-vehicle brand of Chinese self-driving technology developer Baidu, to develop chassis and other components.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/china/zf-develop-chassis-baidus-smart-ev-brand-jidu",
+      "originalUrl": "https://www.autonews.com/china/zf-develop-chassis-baidus-smart-ev-brand-jidu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/JIDU%20Robocar%20Concept%20Car.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

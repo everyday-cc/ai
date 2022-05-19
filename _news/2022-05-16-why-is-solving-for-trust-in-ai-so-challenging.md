@@ -53,22 +53,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "It will soon be easy for self-driving cars to hide in plain sight. We shouldn’t let them."
-    excerpt: "It will soon become easy for self-driving cars to hide in plain sight. The rooftop lidar sensors that currently mark many of them out are likely to become smaller. Mercedes vehicles with the new, partially automated Drive Pilot system,"
-    publishedDateTime: 2022-05-14T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/"
-    ampWebUrl: "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 50
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/AP_20342772404491.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Self-driving cars hit a third of cyclists, all oncoming cars in testing"
     excerpt: "Autonomous cars may be further away than believed. Testing of three leading systems found that they hit a third of cyclists, and failed to avoid any oncoming cars. The tests [PDF] performed by the American Automobile Association (AAA) looked at three vehicles: a 2021 Hyundai Santa Fe with Highway Driving Assist,"
     publishedDateTime: 2022-05-16T16:30:00Z

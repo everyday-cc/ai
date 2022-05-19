@@ -55,22 +55,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "It will soon be easy for self-driving cars to hide in plain sight. We shouldn’t let them."
-    excerpt: "It will soon become easy for self-driving cars to hide in plain sight. The rooftop lidar sensors that currently mark many of them out are likely to become smaller. Mercedes vehicles with the new, partially automated Drive Pilot system,"
-    publishedDateTime: 2022-05-14T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/"
-    ampWebUrl: "https://www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/14/1052250/labeling-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 50
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/AP_20342772404491.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Why Is Solving For Trust In AI So Challenging?"
     excerpt: "we are called to consider AI through the lenses of effective governance, ethics and trust. Like any technology, enterprises should be able to trust that the AI tools they use deliver the outcomes they expect. While there is no silver bullet, there are ..."
     publishedDateTime: 2022-05-16T12:48:00Z

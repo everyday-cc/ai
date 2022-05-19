@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) In Food And Beverages Market Trends, Share, Growth, Opportunity And Forecast 2027"
+    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027),"
+    publishedDateTime: 2022-05-19T00:33:00Z
+    webUrl: "https://menafn.com/1104234110/Artificial-Intelligence-AI-In-Food-And-Beverages-Market-Trends-Share-Growth-Opportunity-And-Forecast-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?182762"
+        width: 356
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence (Ai) In Pharmaceutical Market Research on Demand and Production, Top Players with Trends and Forecast till 2030"
     excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Pharmaceutical Market Size Is Expected To Reach USD 7,147.2 Million By 2029., at a CAGR of 31.2% during the forecast period.” The ..."
     publishedDateTime: 2022-05-16T13:15:00Z

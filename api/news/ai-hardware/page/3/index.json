@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-14-razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis.md",
+      "title": "Razer-designed Linux laptop targets AI developers with deep learning emphasis",
+      "excerpt": "Made in collaboration with Lambda, the Linux-based clamshell focuses on deep learning development. Lambda, which has been around since 2012, is a deep learning infrastructure provider used by the US Department of Defense and \"97 percent of the top research universities in the US,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/razer-book-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc.md",
+      "title": "After A 24-Year Absence, Intel Re-Enters The Discrete GPU Market With Arc",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead covers Intel's launch of its Arc 3,5 and 7 notebook processors for notebook PC gamers and addresses why three vendors is better than one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625700c3f17cd051e0b0c62f/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
+      "publishedDateTime": "2022-04-13T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-dell-nvidia-amd-to-power-new-ohio-ai-compute-cluster.md",
       "title": "Dell, Nvidia, AMD to power new Ohio AI compute cluster",
       "excerpt": "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator",
@@ -1277,101 +1382,6 @@
         "name": "ProPakistani",
         "domain": "propakistani.pk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-intel-arc-a-gpu-offers-full-av1-hardware-acceleration.md",
-      "title": "Intel Arc-A GPU offers full AV1 hardware acceleration",
-      "excerpt": "Introduced as Intel’s solution for both gamers and content creators, the new Arc-A graphic products are, the company says, “more than another piece of hardware in your PC” they are “your portal to play and create” on PC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
-      "originalUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.provideocoalition.com/wp-content/uploads/intelarca000.jpg",
-          "width": 1420,
-          "height": 946,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
-      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
-      "publishedDateTime": "2022-03-31T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "provideocoalition.com",
-        "domain": "provideocoalition.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold.md",
-      "title": "Intel confirms acquisition of Granulate, reportedly for up to $650M, bringing AI-based workload optimization into its fold",
-      "excerpt": "Last year, when we wrote about new investment for Israeli startup Granulate — which applies AI to high-priority computing workloads to optimize how they travel across a customers’ cloud and on-premises networks — we noted that the network management space was going through some",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/",
-      "originalUrl": "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1095112402.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/amp/",
-      "publishedDateTime": "2022-03-31T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

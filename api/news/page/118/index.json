@@ -2,6 +2,100 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-02-06-a-former-spacex-engineer-says-his-self-driving-freight-train-cars-could-help-ease-the-trucker-shortage.md",
+      "title": "A former SpaceX engineer says his self-driving freight train cars could help ease the trucker shortage",
+      "excerpt": "Ex-SpaceX engineer Matt Soule believes his autonomous rail cars could help ease the trucker shortage. Parallel Systems' rail freight cars could take over long-haul cargo routes from truckers, he said. Truckers would deliver over the \"first and last mile ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/spacex-engineer-autonomous-rail-cars-parallel-systems-trucker-shortage-freight-2022-1",
+      "originalUrl": "https://www.businessinsider.com/spacex-engineer-autonomous-rail-cars-parallel-systems-trucker-shortage-freight-2022-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61fa95be4faa730018ff6a39?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/spacex-engineer-autonomous-rail-cars-parallel-systems-trucker-shortage-freight-2022-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/spacex-engineer-autonomous-rail-cars-parallel-systems-trucker-shortage-freight-2022-1?amp",
+      "publishedDateTime": "2022-02-05T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-06-retail-industry-2021-year-in-review-the-eeoc-artificial-intelligence-a-brief-primer-for-retailers.md",
+      "title": "Retail Industry 2021 Year in Review: The EEOC & Artificial Intelligence: A Brief Primer for Retailers",
+      "excerpt": "In October 2021, the Equal Employment Opportunity Commission (EEOC) announced an initiative to ensure that artificial intelligence (AI) used in the workplace does not lead to violations of the nation’s antidiscrimination laws. The EEOC, through an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/retail-industry-2021-year-review-eeoc-artificial-intelligence-brief-primer-retailers",
+      "originalUrl": "https://www.natlawreview.com/article/retail-industry-2021-year-review-eeoc-artificial-intelligence-brief-primer-retailers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/retail-industry-2021-year-review-eeoc-artificial-intelligence-brief-primer-retailers?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/retail-industry-2021-year-review-eeoc-artificial-intelligence-brief-primer-retailers?amp",
+      "publishedDateTime": "2022-02-05T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-we-need-to-decouple-ai-from-human-brains-and-biases.md",
       "title": "We need to decouple AI from human brains and biases",
       "excerpt": "Hardly a decade later, these same scientists contributed to dramatic breakthroughs in robotics, natural language processing, and computer vision. Although a lot of time has passed since then ...",
@@ -1073,100 +1167,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-training-the-robot-scientist-to-synthesize-nanocrystals.md",
-      "title": "Training the Robot Scientist to Synthesize Nanocrystals",
-      "excerpt": "Image Credit: Georgy Shafeev/Shutterstock.com The Robotic Scientist framework is taught to fabricate gold nanocrystals by using multidisciplinary domains such as artificial intelligence, automated robotics, and big data. Data-guided development of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azonano.com/news.aspx?newsID=38638",
-      "originalUrl": "https://www.azonano.com/news.aspx?newsID=38638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_38638_16439817545231997.jpg",
-          "width": 1000,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azonano.com/amp/news.aspx?newsID=38638",
-      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=38638",
-      "publishedDateTime": "2022-02-04T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZoNano",
-        "domain": "azonano.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-startup-that-models-materials-at-atomic-level-raises-seed-capital.md",
-      "title": "Startup That Models Materials at Atomic Level Raises Seed Capital",
-      "excerpt": "San Francisco-based startup Mat3ra raised $3 million in seed funding led by Draper Associates for an AI-based platform that helps companies model new materials at the atomic level. Mat3ra, formerly known as Exabyte.io, will use the funding to accelerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
-      "originalUrl": "https://www.wsj.com/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-479731/social",
-          "width": 1280,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
-      "publishedDateTime": "2022-02-04T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

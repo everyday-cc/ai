@@ -260,7 +260,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026-2022-05-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -445,10 +445,10 @@
     {
       "path": "_news/2022-05-17-anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data.md",
       "title": "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data",
-      "excerpt": "Anthem Inc.’s chief information officer says he is working with Alphabet Inc.’s Google Cloud to create a synthetic data platform that will let the health insurance company better detect fraud and offer personalized care to its members. Anil Bhatt said ...",
+      "excerpt": "The idea of synthetic data in enterprises has been around for decades, but it’s picking up steam as companies begin making more use of artificial intelligence and have greater need for faster access to better data sets.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_lead_pos4",
-      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_lead_pos4",
+      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
+      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
@@ -502,7 +502,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of-43-2022-05-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1130,7 +1130,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {

@@ -2,6 +2,108 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-05-03-building-the-future-of-ai-powered-retail-starts-with-trust.md",
+      "title": "Building The Future Of AI-Powered Retail Starts With Trust",
+      "excerpt": "This must give you a unique vantage point on data-centric AI, per your recent blog ... At the outset, I always start with the question: do we need machine learning at all to solve this problem, or is there an easier way to fix it that we should implement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62704c8d931d4d3a63b1ef88/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
+      "publishedDateTime": "2022-05-03T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-soundcloud-acquires-musiio-an-ai-music-curator-to-improve-discovery.md",
+      "title": "SoundCloud acquires Musiio, an AI music curator, to improve discovery",
+      "excerpt": "An online audio sharing platform and streamer, SoundCloud has acquired Musiio, an AI music curation company. With Musiio’s team and technology, SoundCloud plans to strengthen its music discovery ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
+      "originalUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/soundcloud.jpg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
+      "publishedDateTime": "2022-05-03T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
       "title": "Facebook-Owner Meta Opens Access to AI Large Language Model",
       "excerpt": "(Reuters) - Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was ...",
@@ -1037,109 +1139,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-delivers-real-time-data-for-smarter-farming.md",
-      "title": "AI delivers real-time data for smarter farming",
-      "excerpt": "Its operation management software, powered by an AI platform called Alice AI, allows customers to optimally schedule and plan their farming operations and to make real-time decisions and adjustments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/",
-      "originalUrl": "https://venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1318237749.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/amp/",
-      "publishedDateTime": "2022-05-02T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-traceable-ai-nabs-60m-to-secure-app-apis-using-machine-learning.md",
-      "title": "Traceable AI nabs $60M to secure app APIs using machine learning",
-      "excerpt": "Businesses need machine learning here. To have zero trust you need API clarity. You can no longer easily buy or hire security people, so you need to solve these vulnerabilities via technology.”",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/02/2307940/",
-      "originalUrl": "https://techcrunch.com/2022/05/02/2307940/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/traceable_all_threats_of_threat_actor.png",
-          "width": 3838,
-          "height": 2026,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/02/2307940/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/02/2307940/amp/",
-      "publishedDateTime": "2022-05-02T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
