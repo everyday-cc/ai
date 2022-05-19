@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds"
-excerpt: "Scientists find public appetite for self-driving vehicle trails far behind that of the technology companies and steps need to be taken to make them a success"
-publishedDateTime: 2022-05-11T13:55:00Z
-originalUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author"
-webUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author"
+excerpt: "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ..."
+publishedDateTime: 2022-05-11T11:19:00Z
+originalUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories"
+webUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "kRKMCOhhk30E/gwqwgsi9X6ZoQBasU19tQmboKToTvOUE1Nw/5OudqtMoj/UiXTd9dkScs3z0LFDKE/wDqkROoCPiCbt7jyScchPdNB/eCtWpoEcOmycYlTZ9bzUiPo5zxYqSQIj6tLHQg3esA7rvLrC11m+QZzG4RVMHWJ725+15cMkBPQCBUzp/u1szBCHowsEJzlBUKGzyYotAygm+EhM5r9FC0AO1a223f/r+qBq/QHBbG4H+CMkHkdx1objtJVVNbGVVA88dBKHnJ0KvPiN0sHAmHA5sasfn7zKr4y27Y18HK6Orx/l46YWutgICWWIXSnDTYdpGWYBF1KENrz7gf5EQ3hF/91zsEQuJQJOof8tj/Rr+iSw65ezbu188D2YI9VGfetAE/FY585t5fVklXH+6/sk1rfaA/KncdMwxrOB93Vok327oPh3KKQsRrmtPvLHthWva1tgNaEFbwVsxagWVO7s3BL9MGRMRwHt3dEcaPl2sLSxWziq5C7iK/fUrDNcRBOcK4fZW/mJDQ==;Zb9LKf7cwZkXAlRvIOw6eg=="
+secured: "C19SN6WrSJD1w+duY7dSZ3fGuONhwF3/3nGnOyO48dNhPy3qkgXs/uhDCgA+A02ifVoxzoQUSN3o79EacTXgMoGmcvlO6La2f4RzT36r2IDH0x8WbhnsvOAQMU2REzUeid5ma96CO3JwsRvBa0dPiyu4MmC2VwzN3ktX1cNgL/RpS7zC5fLHrMmdEH+Bn9hz64xAnLcWZ1sw6O4B/Qs1TUz+EBnSXQkSPeiphazclAl8aHeWOyipQVoRVEQPIX/nFdFqpd1HIv2Xtq6NntHvgK4YIsDIIE8/NUpoxaWZzufmwpeT9rIdaZ9fb8UAyRKHarM0Rb0puQRe1P9saQKeySDJ0AwU/kmljYp37/n3eHpKVdejgoBaqzeWuz7W7NbmOlB2FZHY48/jBpT449OvncQ4Z/1zleiXV2vIaPVp3aqo9gf8KKV0AZLoAJTaYHXcDriPiPi6x59RNRbOp/46sLHcqxO50FQO8Du6+LSmZA9y6kcP1Un+O8XQImFUH0V+dxiWi/cyxMqLc4qHDv52qQ==;HhwRoRFpARMRhI0VPUa1mw=="
 ---
 
