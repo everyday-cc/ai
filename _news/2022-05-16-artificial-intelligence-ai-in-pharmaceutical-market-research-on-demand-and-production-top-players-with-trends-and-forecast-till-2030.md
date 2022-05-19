@@ -52,6 +52,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Video Streaming Market is to Reach USD 932,000.12 Million | Blockchain Technologies and Artificial Intelligence (AI) to Increase Video Quality"
+    excerpt: "Artificial Intelligence (AI) is becoming increasingly important in editing, cinematography, voice-overs, scriptwriting, and other elements of video production and distribution. These advancements are expected to have a favourable impact on market growth."
+    publishedDateTime: 2022-05-19T10:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-video-streaming-market-is-to-reach-usd-932000-12-million-blockchain-technologies-and-artificial-intelligence-ai-to-increase-video-quality"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Nanotechnology Market is Globally Expected to Drive Growth of USD 5.96 billion by 2027 : Fior Markets"
     excerpt: "Asia-Pacific is the region which is expected to grow with the highest CAGR. The reason behind this is the emerging artificial intelligence firms and the increased usage of nanotechnology in the field of medicine. Get Free Sample Copy: https ..."
     publishedDateTime: 2022-05-18T07:00:00Z
@@ -63,6 +77,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 9
+  - title: "The Intelligent Process Automation Market is expected to reach a value of 20.7 billion USD by the end of 2027"
+    excerpt: "As per our research analysis, In 2021, the Intelligent Process Automation Market size was forecast to be worth 8.1 billion dollars, and by the end of"
+    publishedDateTime: 2022-05-19T11:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-intelligent-process-automation-market-is-expected-to-reach-a-value-of-20-7-billion-usd-by-the-end-of-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 5
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Voice Cloning Market to reach at an estimated value of USD 4446.08 million and grow at a CAGR of 25.74% by 2028"
     excerpt: "Voice Cloning Market business report is a great resource which provides present as well as upcoming technical and financial details of the industry to"
     publishedDateTime: 2022-05-18T08:46:00Z

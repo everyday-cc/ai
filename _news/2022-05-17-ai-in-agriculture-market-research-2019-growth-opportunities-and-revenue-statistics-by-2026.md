@@ -60,7 +60,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/ai-in-computer-vision-market.jpg?w=410"
         width: 410

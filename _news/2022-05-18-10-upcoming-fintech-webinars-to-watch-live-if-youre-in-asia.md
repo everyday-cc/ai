@@ -80,6 +80,20 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Top 10 Upcoming In-Person Fintech Events to Be Held in Singapore in 2022"
+    excerpt: "Striving to become a global node for business tourism in Asia, Singapore has taken big steps to regain a sense of normalcy for meetings, incentives, conferences and exhibitions, by relaxing protocols."
+    publishedDateTime: 2022-05-19T10:14:00Z
+    webUrl: "https://fintechnews.sg/61268/events/top-upcoming-in-person-fintech-events-to-be-held-in-singapore-2022/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 23
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/Top-10-Upcoming-In-Person-Fintech-Events-to-Be-Held-in-Singapore-in-2022.png?x82653"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "CBB launches Bahrain Supernova FinTech Challenges 2022"
     excerpt: "The Central Bank of Bahrain (CBB) has launched its second annual series of nationwide FinTech innovation challenges, Bahrain Open Banking Supernova 2022, which will be hosted on FinHub 973, the CBB’s Digital Lab,"
     publishedDateTime: 2022-05-18T10:54:00Z

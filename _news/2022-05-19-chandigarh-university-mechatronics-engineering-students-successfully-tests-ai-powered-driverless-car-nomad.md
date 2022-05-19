@@ -1,23 +1,30 @@
 ---
 category: news
-title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
-excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
-publishedDateTime: 2022-05-19T07:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-/2022/05/19/9605232.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-/2022/05/19/9605232.htm"
+title: "Chandigarh University Mechatronics Engineering Students Successfully Tests AI-Powered Driverless Car NOMAD"
+excerpt: "Despite having only 1 percent of the total vehicles in the world, India accounts for over 11% of global road accident deaths, equating to nearly 5 lakh road accidents claiming 1.50 lakhs lives annually."
+publishedDateTime: 2022-05-19T11:20:00Z
+originalUrl: "https://www.republicworld.com/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html"
+webUrl: "https://www.republicworld.com/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html"
+ampWebUrl: "https://www.republicworld.com/amp/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html"
+cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html"
 type: article
-quality: 18
-heat: 18
+quality: 56
+heat: 66
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: RepublicWorld
+  domain: republicworld.com
 
 topics:
   - AI in Autos
   - AI
-  - Machine Learning
+
+images:
+  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/epa4mudklfbwcwmz_1652959199.jpeg"
+    width: 768
+    height: 437
+    isCached: true
 
 related:
   - title: "L&T Technology Services and IIT Gandhinagar to work together in the areas of AI and Mechatronics"
@@ -30,6 +37,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 4
 
-secured: "iM89TmZLo88Rjgog38IX5QNiDY0T07mnJRs9Ews/3OHEtJuCnTx873Js8jFDHnJofzi3pSDudjnQoNoCweWuVWXLtfc0xS+P7fyyxcvPL9dXfC4C1eEHwmqy8XaJ433sObz/ELLXtio7CQQ5x9VyOthId6V5dC0IHIBZa87DZZY7u6te2favcU3qxhY+6Zed0uBcBKziomrfkjmVQQ4qZJvNg84pGvqwpmqpKY/zGOSq+HtarXzf9zJijo+KgM7ukT2AwJP60JQThAPcTJvu1dCXGaYslRlBhOz13yQwzKShPPVQR91y5SFaphQa5FWnbLeldbMti3lZXtdjxPe2ZxkT7UIjxTq/W9dhYDw9qbJaZhj5BdtkdEA77jNunaaFvVGoVilFYIdMUkPNPEwBwZPqi4r00JHg1iAIrR+DHFmpHb0UI7wct+Hrv45fRvnoj2xqPC5E//LZClkkPYhPjokyvpPYmzLLaA8mJjb3RFt19UKiz7WGlQgB2tWZsrkFfBgJu29F1PHRIUxts4F9yw==;2wO5V+2vNbCmnQuubB644g=="
+secured: "0Q0Of3z0noi2kM2X61fkN/5Uvd1bVy44C9XJUSQYC2TuBumSSJwk0bzd9S+E1EjUyuagHoG34bkbsjL0mBLtHBpKcU3ZiKFO0P4G1QFKuhB1MJ7q9/Z+TxKIM8yhjqA+hCBKN+lGUxqZwSe3yh0J6r8iF/nZ+/K52IyLVH+P2CJpfCH9o2GbFJ9yd+mdvKpY/8sXDWPHKZ8g3d/l9xoD9tSPKbnlm1JKiSxvL6aJYb69OjMjjgk0i8w3GFPIgXnOdXb4oH7QkpUhucEtYI6k/EGc5wKZ/5zw4faWGlFjjdIyYO3nnYRkjzRaAKUFgCzDfPEPaQ8+59RIFrbq/2mSMHhzHMe9VZUlyfURe57vPsY=;oEA7kX7fSwWk4/IJ6RixLw=="
 ---
 

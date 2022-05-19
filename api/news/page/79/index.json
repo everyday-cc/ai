@@ -2,6 +2,101 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-03-12-federated-learning-for-text-generation.md",
+      "title": "Federated Learning for Text Generation",
+      "excerpt": "This tutorial builds on the concepts in the Federated Learning for Image Classification tutorial, and demonstrates several other useful approaches for federated learning. In particular, we load a previously trained Keras model, and refine it using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_for_text_generation?hl=hr-ba",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_for_text_generation?hl=hr-ba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=hr-ba",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T17:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-12-researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.md",
+      "title": "Researchers develop a system of synthetic biosensors to assess the response of cancer therapy",
+      "excerpt": "Immune checkpoint blockade (ICB) inhibitors have transformed the treatment of cancer and have become the frontline therapy for a broad range of malignancies. It's because they work better than the previous standard of care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
+      "publishedDateTime": "2022-03-11T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-12-ai-our-world-what-is-artificial-intelligence.md",
       "title": "AI & Our World: What is Artificial Intelligence?",
       "excerpt": "Let’s talk about a question a lot of people ask themselves… What is AI? The thing about artificial intelligence is that most people don’t really know what it is. A lot of what most individuals think t",
@@ -1017,92 +1112,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-2022-will-be-the-year-of-applied-ai.md",
-      "title": "2022 Will Be The Year Of Applied AI",
-      "excerpt": "For decades, since the 1950s when the term “artificial intelligence” (AI) was allegedly first coined, the concept of a machine ... to financial forecasting to chatbots and customer service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/amp/",
-      "publishedDateTime": "2022-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments.md",
-      "title": "Artificial Intelligence (AI) in Medical Market Will Likely See Excellent Gains in Key Business Segments",
-      "excerpt": "Global Artificial Intelligence (AI) in Medical Market by Player, Region, Type, Application and Sales Channel is latest research study released by HTF MI evaluating the market, hig",
-      "sourceUrl": null,
-      "webUrl": "https://eclecticnortheast.in/2022/03/11/artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments/",
-      "originalUrl": "https://eclecticnortheast.in/2022/03/11/artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eclectic Northeast",
-        "domain": "eclecticnortheast.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

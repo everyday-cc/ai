@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Hardware Market Size, In-depth Analysis Report and Global Forecast to 2027"
+    excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
+    publishedDateTime: 2022-05-18T14:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027-2022-05-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Dynamic Face Recognition Systems Market 2022 - Latest Innovation, Sales Channels, Business Advancements, and Top-Vendor Landscape to 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 16, 2022 (CDN Newswire via Comtex) -- The Global Dynamic Face Recognition Systems Market from 2022 to 2028 report by MarketandResearch.biz at the maximum recent survey ..."
     publishedDateTime: 2022-05-17T00:05:00Z
@@ -144,6 +158,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 25
+  - title: "Deep Learning Market 2022 Global Size, Share, Key Players, Production, Growth and Future Insights 2030"
+    excerpt: "Quadintel published a new report on the Deep Learning Market. The research report consists of thorough information about demand, growth, opportunities,"
+    publishedDateTime: 2022-05-19T10:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-2022-global-size-share-key-players-production-growth-and-future-insights-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Mobile Phone Facial Recognition Technology Market 2022: Global Industry Size and Growth Opportunities to 2028"
     excerpt: "A report was released recently that sheds lots of light on the  Mobile Phone Facial Recognition Technology Market. The report covers an overview of the industry along with a detailed explanation that provides a lot of insight."
     publishedDateTime: 2022-05-18T11:04:00Z

@@ -117,20 +117,6 @@ related:
         width: 1250
         height: 653
         isCached: true
-  - title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-18T15:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "SparkCognition Named to 2022 CB Insights AI 100 List of Most Promising AI Companies in the World"
     excerpt: "Unicorn valued AI software company recognized for fifth time on prestigious list AUSTIN, Texas, May 17, 2022 /PRNewswire/ -- SparkCognition, a global leader in artificial intelligence (AI) software solutions for industry,"
     publishedDateTime: 2022-05-17T14:14:00Z
@@ -163,6 +149,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 15
+  - title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial ..."
+    publishedDateTime: 2022-05-18T15:36:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220518005739/luminous-computing-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 11
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
     excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
     publishedDateTime: 2022-05-17T18:00:00Z

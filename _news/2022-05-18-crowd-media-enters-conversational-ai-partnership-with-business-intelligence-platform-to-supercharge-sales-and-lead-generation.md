@@ -75,6 +75,22 @@ related:
         width: 5529
         height: 3691
         isCached: true
+  - title: "No-code bot platform E42 launches marketplace for businesses to hire AI employee"
+    excerpt: "The marketplace will be a store for E42’s own clients to put up their own AI bots, which can then be licensed or hired by other businesses to deploy on their own services"
+    publishedDateTime: 2022-05-19T11:04:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/nocode-bot-platform-e42-launches-marketplace-for-businesses-to-hire-ai-employee-11652957618284.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/nocode-bot-platform-e42-launches-marketplace-for-businesses-to-hire-ai-employee/amp-11652957618284.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nocode-bot-platform-e42-launches-marketplace-for-businesses-to-hire-ai-employee/amp-11652957618284.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://images.livemint.com/img/2022/05/19/600x338/oped1-kC7G--621x414@LiveMint_1652958069638.jpg"
+        width: 599
+        height: 338
+        isCached: true
   - title: "Heartex raises $25M for its AI-focused, open source data labeling platform"
     excerpt: "Heartex, a data labeling firm, has raised $25 million in a venture funding round, bringing its total raised to $30 million."
     publishedDateTime: 2022-05-18T13:03:00Z

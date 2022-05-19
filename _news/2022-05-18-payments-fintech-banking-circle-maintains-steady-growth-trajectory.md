@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-ban
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
     images:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/10-Upcoming-Fintech-Webinars-to-Watch-Live-if-Youre-in-Asia.png?x82653"
         width: 1025
+        height: 567
+        isCached: true
+  - title: "Top 10 Upcoming In-Person Fintech Events to Be Held in Singapore in 2022"
+    excerpt: "Striving to become a global node for business tourism in Asia, Singapore has taken big steps to regain a sense of normalcy for meetings, incentives, conferences and exhibitions, by relaxing protocols."
+    publishedDateTime: 2022-05-19T10:14:00Z
+    webUrl: "https://fintechnews.sg/61268/events/top-upcoming-in-person-fintech-events-to-be-held-in-singapore-2022/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 23
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/Top-10-Upcoming-In-Person-Fintech-Events-to-Be-Held-in-Singapore-in-2022.png?x82653"
+        width: 1024
         height: 567
         isCached: true
   - title: "CBB launches Bahrain Supernova FinTech Challenges 2022"

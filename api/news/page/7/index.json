@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-11-achieve-in-vehicle-comfort-using-personalized-machine-learning-and-amazon-sagemaker.md",
+      "title": "Achieve in-vehicle comfort using personalized machine learning and Amazon SageMaker",
+      "excerpt": "This blog post is co-written by Rudra Hota and Esaias Pech from Continental AG. Many drivers have had the experience of trying to adjust temperature settings in their vehicle while attempting to keep their eyes on the road. Whether the previous driver preferred a warmer cabin temperature, or you’re now",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-in-vehicle-comfort-using-personalized-machine-learning-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-in-vehicle-comfort-using-personalized-machine-learning-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/ML-9354-image003-300.jpg",
+          "width": 300,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T09:24:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-how-voxels-ai-technology-could-put-a-stop-to-accidents-at-work.md",
+      "title": "How Voxel’s AI Technology Could Put A Stop To Accidents At Work",
+      "excerpt": "San Francisco-based Voxel will today announce a $15 million Series A round, with investors flocking to a company promising that new technology can dramatically reduce workplace accidents. The business applies artificial intelligence tools to live video feeds from its customers in order to prevent accidents before they happen and to identify behaviours that might lead to future health and safety difficulties.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/how-voxels-ai-technology-could-put-a-stop-to-accidents-at-work/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/how-voxels-ai-technology-could-put-a-stop-to-accidents-at-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627a68068765b407f2674b04/0x0.jpg?format=jpg&crop=2793,1309,x0,y340,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/how-voxels-ai-technology-could-put-a-stop-to-accidents-at-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/05/11/how-voxels-ai-technology-could-put-a-stop-to-accidents-at-work/amp/",
+      "publishedDateTime": "2022-05-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-understanding-the-world-through-language.md",
       "title": "Understanding the world through language",
       "excerpt": "Language is at the heart of how people communicate with each other. It’s also proving to be powerful in advancing AI and building helpful experiences for people worldwide.From the beginning, we set out to connect words in your search to words on a page so we could make the web’s information more accessible",
@@ -1104,92 +1208,6 @@
         "IBM AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-launches-new-ai-chips-challenging-nvidias-market.md",
-      "title": "Intel launches new AI chips, challenging Nvidia's market",
-      "excerpt": "as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp (NVDA.O). Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
-      "originalUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-unveils-new-ai-5g-technologies-at-texas-conference.md",
-      "title": "Intel unveils new AI, 5G technologies at Texas conference",
-      "excerpt": "Many of the artificial intelligence semiconductor technologies aim to boost productivity, cybersecurity and public health outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "originalUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kgw.com/assets/KGW/images/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "cdnAmpWebUrl": "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "publishedDateTime": "2022-05-10T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KGW8",
-        "domain": "kgw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

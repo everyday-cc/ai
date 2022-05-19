@@ -5,8 +5,10 @@ excerpt: "DeepMind, a British company owned by Google, may be on the verge of ac
 publishedDateTime: 2022-05-18T18:54:00Z
 originalUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html?curator=upstract.com"
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html?curator=upstract.com"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
 type: article
-quality: 29
+quality: 71
 heat: -1
 published: false
 
@@ -18,6 +20,13 @@ topics:
   - Google AI
   - AI
   - AI in Healthcare
+  - Machine Learning
+
+images:
+  - url: "https://i.dailymail.co.uk/1s/2022/05/18/12/57967583-0-image-a-9_1652873486461.jpg"
+    width: 636
+    height: 382
+    isCached: true
 
 related:
   - title: "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’"
@@ -58,6 +67,6 @@ related:
       domain: analyticsindiamag.com
     quality: 36
 
-secured: "cL1rZfmyL+wj2KveKWQbQgDK+MnzIioXix2tH1DKtTJhyaER1Mryq9SsRnAO5eLPswvjmzICg1lf6fGHeGNW5PC6JYE+prJfkseNl6wJiJMp3mdpGxj4/AkutmvVVmCkqE9nlIns9xkNs/gZoo9sgQ8GHLki34QZpiVma3gAPk1jdpIkg4ENLZ6e/X9MlW74Gn1n9kGVGMIpXXlLPDWX6cJZU/SwwM32nb4DsRSxHxgNuax7DqS2ggPIdK4SOqtGG0wfoyzZcLPB0k95EXcBKNEkdM/+T8vM7OzpJrppcSd1O/npE9M2ztFSS26lcEGkgkCGTs/tt0RZqr4bS7mkKHaTpYIsIDK7f2owDrnWhVj+JN8ENguavZtQry8yy/RlaFbscmGw9R62M9g+djzOPWccD8adamiqTR25orTeZkHzK7A58FDSZbjG6DiwFQF6A3FFFhgZaiNiu+XrXFyLVCR6AO663tSIfADlJHN+qBdb8FV3T1vCb9Wu70aIduDYKr8VrOrh+m4mcZ4PdzD3kg==;YRDM7yfuff0S7DR8kip8Yg=="
+secured: "Dx1iEu26KihQUwuaSqNYJoMIOUFReqslaL9jBIgMa2qR0fFxkEwx6M0lFolpH8/aqZAkdBgFKMxIINC516tLKpM/g0HhLOUOEuJJL/aFhsoXuhyh8wkdFkdl1GGjDZPjeZcOfcYI+QrESSqzBnf3Ej/7oPpMxaLDxJIsIt/QSW49BFFdJj8axwFGMMmKOTBCCDSxhPZwobnazMPo8IqnflHJdMqsVarBv3/7fqHE9KN8NAh35tCHLVSaYfJ7xRR9P+WkwyUATB3/l2CBYXIQOIquMQYQPzyWFhNC63i0Lei9Xfc5vafbkA2N0fKiLDG5i1MVS/VhjdHlSz5BDIPoXkMfVCEBQkoWtUVstn/cxdQ=;BWlpfunntdxKejxlNnMPHw=="
 ---
 

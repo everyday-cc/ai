@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Hardware Market Size, In-depth Analysis Report and Global Forecast to 2027"
+    excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
+    publishedDateTime: 2022-05-18T14:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027-2022-05-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (Chipsets) Market Size is set to record 40.1% CAGR during forecast 2022-2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 17, 2022 (Market Insight Reports) -- Selbyville, Delaware Artificial Intelligence (Chipsets) Market research is an intelligence report with meticulous efforts undertaken ..."
     publishedDateTime: 2022-05-18T06:43:00Z
@@ -155,6 +169,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 25
+  - title: "Deep Learning Market 2022 Global Size, Share, Key Players, Production, Growth and Future Insights 2030"
+    excerpt: "Quadintel published a new report on the Deep Learning Market. The research report consists of thorough information about demand, growth, opportunities,"
+    publishedDateTime: 2022-05-19T10:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-2022-global-size-share-key-players-production-growth-and-future-insights-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Yogurt Market 2022 Key Methods, Historical Analysis, Application, Technology, Trends And Opportunities 2032"
     excerpt: "From 2022 to 2032, the global yoghurt market is expected to rise at a CAGR of 4.8%, from USD 89.9 Mn in the year 2022 to USD 143.7 Mn in the year 2032."
     publishedDateTime: 2022-05-17T03:58:00Z

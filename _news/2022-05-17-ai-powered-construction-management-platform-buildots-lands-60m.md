@@ -62,6 +62,22 @@ related:
         width: 5529
         height: 3691
         isCached: true
+  - title: "No-code bot platform E42 launches marketplace for businesses to hire AI employee"
+    excerpt: "The marketplace will be a store for E42’s own clients to put up their own AI bots, which can then be licensed or hired by other businesses to deploy on their own services"
+    publishedDateTime: 2022-05-19T11:04:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/nocode-bot-platform-e42-launches-marketplace-for-businesses-to-hire-ai-employee-11652957618284.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/nocode-bot-platform-e42-launches-marketplace-for-businesses-to-hire-ai-employee/amp-11652957618284.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nocode-bot-platform-e42-launches-marketplace-for-businesses-to-hire-ai-employee/amp-11652957618284.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://images.livemint.com/img/2022/05/19/600x338/oped1-kC7G--621x414@LiveMint_1652958069638.jpg"
+        width: 599
+        height: 338
+        isCached: true
   - title: "Crowd Media enters conversational AI partnership with business intelligence platform to supercharge sales and lead generation"
     excerpt: "The deal is a natural fit for Crowd Media which will now go and whip up a Proof of Concept (POC) which will focus on leveraging CM8’s Talking Head platform to apply “conversational AI” to the Media Search sector. That POC will be with SourceFlare in ..."
     publishedDateTime: 2022-05-18T00:53:00Z

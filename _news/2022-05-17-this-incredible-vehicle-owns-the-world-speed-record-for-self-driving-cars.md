@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence Is Opening Up A New World Of Possibilities In Hearing"
+    excerpt: "For me, there’s nothing more fulfilling than seeing technology enhance the way people live. We’re just starting to scratch the surface when it comes to AI. When people talk about this technology, its impact is not 10 years from now."
+    publishedDateTime: 2022-05-19T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628543e5e9890719668a0ba8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Why Is Solving For Trust In AI So Challenging?"
     excerpt: "we are called to consider AI through the lenses of effective governance, ethics and trust. Like any technology, enterprises should be able to trust that the AI tools they use deliver the outcomes they expect. While there is no silver bullet, there are ..."
     publishedDateTime: 2022-05-16T12:48:00Z

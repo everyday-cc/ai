@@ -88,6 +88,20 @@ related:
         width: 1025
         height: 567
         isCached: true
+  - title: "Top 10 Upcoming In-Person Fintech Events to Be Held in Singapore in 2022"
+    excerpt: "Striving to become a global node for business tourism in Asia, Singapore has taken big steps to regain a sense of normalcy for meetings, incentives, conferences and exhibitions, by relaxing protocols."
+    publishedDateTime: 2022-05-19T10:14:00Z
+    webUrl: "https://fintechnews.sg/61268/events/top-upcoming-in-person-fintech-events-to-be-held-in-singapore-2022/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 23
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/Top-10-Upcoming-In-Person-Fintech-Events-to-Be-Held-in-Singapore-in-2022.png?x82653"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Fintech Startup TradeStreet Tracking Unusual Market Events Expands Internationally"
     excerpt: "The Swiss and Czech-based startup TradeStreet using a proprietary algorithm to track unusual stock market events is expanding its coverage from Switzerland and Czechia to the rest of Europe and the United States."
     publishedDateTime: 2022-05-18T14:00:00Z

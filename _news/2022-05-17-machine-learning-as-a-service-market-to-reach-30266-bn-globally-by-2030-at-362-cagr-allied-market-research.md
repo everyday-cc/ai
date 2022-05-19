@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Machine learning as a Service Market to Reach $302.66 Bn, Globally, by 2030 at 36.2% CAGR: Allied Market Research"
-excerpt: "Rise in demand for cloud computing and surge in adoption of analytical solutions drive the growth of the global machine learning as a service market"
+excerpt: "Allied Market Research published a report, titled, \"Machine learning as a Service Market by By Application (Marketing and Advertising,"
 publishedDateTime: 2022-05-17T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at/article_5fee64a7-ba3b-5bae-8dc5-3b958db0c951.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at/article_5fee64a7-ba3b-5bae-8dc5-3b958db0c951.html"
+originalUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at-36-2-cagr-allied-market-research-895645004.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at-36-2-cagr-allied-market-research-895645004.html"
 type: article
-quality: 18
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/61ea06e968cf9.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+    width: 2000
+    height: 1046
     isCached: true
 
 related:
@@ -48,7 +49,16 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 17
+  - title: "Medical Robots Market Size Worth $25.44Bn, Globally, by 2028 at 18.5% CAGR - Exclusive Report by The Insight Partners"
+    excerpt: "The Insight Partners published latest research study on \"Medical Robots Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Product (Surgical Robots, Hospital & Pharmacy Robots, Rehabilitation Robots,"
+    publishedDateTime: 2022-05-19T11:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-medical-robots-market-size-worth-2544bn-globally-2028-/2022/05/19/9605359.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "q8WlPdWarpZsf/McLxtE5JfKjEgUMUP2bT5GzlHjmJhmaMuPqD19GJ7ML/lvp3SiVONbljcwjc1FUD/E3d+/keFi0oJsbJVSROtXkT3lRq5USwXL+3KBOLygHf9A1CnrxW+6dYt8rOa/b5yOZ6J3NnAZ44fPpHmyXjq1TZKDxaZdqU9Z+1tVqriTkjlv5kQewjbw1T9kS6K47TDQi4vfECrzsZHt2u6GE/l7e7zfBMqOam8on8b23WOUO6N28gXuPYiRN8Eccms5RZpos7qxS2Utqgfnlqc1zUu5M17VGG4VqG6SGsMWD5hGVWPyJHSCFE2WjujtAP7OKLunelGvI0xVZNZhkyGjeuDa2bKMBKM=;LG1gUa8W8+WR1GU7f+PRqg=="
+secured: "FcAJEkQvoYPw/fUom5wAa9EdLz6xjwESkT4l6MJXwyaMIr6q3HP26aX3y8v4sMbgGuf/5WZHMcGc3s+u8WqlR4XUFa5yDHdRvqaB93/8joWGRVH6vXf22nwHNN431uVbTsc/FxH38y/SDAS8sSWX/UrcZDrhb641/ZZ/9n3Kji6hZmVQrc6gAeeCQgIOttd7q6Khs3MtBsX1Rw+hl1H2uzZywau7yMIY0epgKBpS899ALr9KK3s65MG18uJXXFxbr9zuLoAwcQXynBmxsQugK+368fb0H7VaPwLLsgi3S18mF+coo2A4ywIfFqCmX5PWY5bpO/Cn3U2TLAvXAQl4AXBnZz86qXYGkAhDIzp0oUM=;Juaol+l4OgP75/XKcPT57w=="
 ---
 

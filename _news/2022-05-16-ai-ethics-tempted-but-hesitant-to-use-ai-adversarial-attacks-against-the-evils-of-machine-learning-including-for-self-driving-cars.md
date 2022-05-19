@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
 type: article
 quality: 93
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Is Opening Up A New World Of Possibilities In Hearing"
+    excerpt: "For me, there’s nothing more fulfilling than seeing technology enhance the way people live. We’re just starting to scratch the surface when it comes to AI. When people talk about this technology, its impact is not 10 years from now."
+    publishedDateTime: 2022-05-19T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628543e5e9890719668a0ba8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "This Incredible Vehicle Owns The World Speed Record For Self-Driving Cars"
     excerpt: "When it comes to self-driving cars, most people think of Waymo and Tesla models. The fastest autonomous car looks quite a bit different, however."
     publishedDateTime: 2022-05-17T00:37:00Z

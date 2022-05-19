@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-19T05:49:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-research-report-growth-trends-and-competitive-analysis-during-2017-2025"
 webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-research-report-growth-trends-and-competitive-analysis-during-2017-2025"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - Machine Learning
 
 images:
   - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/ai-in-computer-vision-market.jpg?w=410"

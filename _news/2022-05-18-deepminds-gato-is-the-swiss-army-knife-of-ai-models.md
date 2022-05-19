@@ -52,11 +52,18 @@ related:
     excerpt: "DeepMind, a British company owned by Google, may be on the verge of achieving human-level artificial intelligence (AI). Nando de Freitas, a research scientist at DeepMind and machine learning professor at Oxford University, has said 'the game is over' in ..."
     publishedDateTime: 2022-05-18T18:54:00Z
     webUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html?curator=upstract.com"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
     type: article
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 29
+    quality: 71
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/05/18/12/57967583-0-image-a-9_1652873486461.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "iQcJML92aq6sgi5sydd7WuSoyrOCJ6BixdxIRWS+JeOozdnNv8SQkdNr6Q0WUwd78mUUyfWLLV6YlE7gyj2g+SyDg4+4chML6KBsyRKiK/Gmn15ao1F0sN5FuFLuOYVdVvM0B3fF9W9Ao3coRK6K5IaFjKusx4esjGzfyWxRJ7fvPZvI6zRqSYlik2LZeUIgngZqnmItOAUWxxgmacbynosNRRizib8954NE21xA2M04DCjbC1cXdCqinnUvx/n61AQbym7lBv+dggk/O5FsVs8LYW4/1PeZzsWHXUEpw6MY+Zfnu3qaw0iH569/Lbkk3hIRWniDj6NjgHpMaTanIkAuqlt/vxSCZz5nyijsMcf8eQmEn6EkBantK29kszW7amYpM1IhoeLhetEBwkyzoBwDt2Zlf0jmGcB7ZFQ04T+q46lW5sCRcjv+rlH+CL6wah5/tUg7axlAJw+SXXj0FFajM84/1VC7uMAK/eZG9vrz1gZC1njQZmeX+C1qExFr7f/pINBonD2p/1pS7ZyXoA==;yR/g5x1naqbTar2gALacIQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

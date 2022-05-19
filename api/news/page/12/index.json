@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-05-06-11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images.md",
+      "title": "11,400 ‘Citizen Scientists’ Help Discover 1,031 New Asteroids After Search Of Old Hubble Images",
+      "excerpt": "Artificial intelligence: an automated deep learning algorithm built with Google Cloud AutoML Vision. The search also unearthed new galaxies and nebulae. Some asteroids from within our Solar System have photobombed deep images of the Universe taken by",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/",
+      "originalUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62750318e66defb8b43ddefe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/amp/",
+      "publishedDateTime": "2022-05-06T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-driverless-robotaxi-gets-clearance-to-use-public-roads-in-china.md",
+      "title": "Driverless robotaxi gets clearance to use public roads in China",
+      "excerpt": "Baidu and Pony.ai got the clearance to use public roads in China for the robotaxis which are capable of servicing passengers without a driver.",
+      "sourceUrl": null,
+      "webUrl": "https://philkotse.com/market-news/driverless-robotaxi-in-china-12660",
+      "originalUrl": "https://philkotse.com/market-news/driverless-robotaxi-in-china-12660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.philkotse.com/2022/05/06/KjJYY7r3/pony-ai-1-d10f_wm.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://philkotse.com/market-news/driverless-robotaxi-in-china-12660/amp",
+      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/driverless-robotaxi-in-china-12660/amp",
+      "publishedDateTime": "2022-05-06T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philkotse",
+        "domain": "philkotse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-global-ai-in-fashion-market-size-2022-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-to-2027-research-report.md",
       "title": "Global AI in Fashion Market Size 2022, Market Movements by Trend Analysis, Growth Status and Revenue Expectation to 2027 Research Report",
       "excerpt": "AI in Fashion Market Share 2022-2027 Global Industry research report presents you analysis of market ... Oracle (US), AWS (US), IBM (US), Adobe (US), Google (US), Lily AI (US), Facebook (US), SAP (Germany), Vue.ai (US), Wide Eyes (Spain), Huawei (China ...",
@@ -1051,84 +1146,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022.md",
-      "title": "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022",
-      "excerpt": "Breakout sessions will cover digital transformation, data and analytics, fraud and financial inclusion, customer onboarding and management, and more. FICO, a leading applied intelligence company, to host 1000+ financial services industry executives at the upcoming FICO ® World conference in Orlando,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-robots-help-reaching-un-goals-of-sustainable-development-ifr-reports.md",
-      "title": "Robots Help Reaching UN Goals Of Sustainable Development – IFR Reports",
-      "excerpt": "The use of robots plays an important role in reaching the sustainable development goals set out by the United Nations (17 SDGs). The International Federation of Robotics identified 13 SDGs, where robots help to create a better planet.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-europe-germany-united-nations-robotics-f09b81bc9e0c44c09c9d5230224f6ad5",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-europe-germany-united-nations-robotics-f09b81bc9e0c44c09c9d5230224f6ad5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
