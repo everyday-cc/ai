@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T13:23:00Z
 originalUrl: "https://fortune.com/videos/watch/Oxy-CEO-If-youre-not-using-AI-youre-missing-an-opportunity/d1f76e96-0750-4ad6-86c8-92a5788c53ae"
 webUrl: "https://fortune.com/videos/watch/Oxy-CEO-If-youre-not-using-AI-youre-missing-an-opportunity/d1f76e96-0750-4ad6-86c8-92a5788c53ae"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Fortune

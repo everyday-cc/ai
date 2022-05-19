@@ -18,29 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Military Robots Market To Be Driven By Advancement In Artificial Intelligence And Robotics In The Forecast Period Of 2022-2027"
-    excerpt: "Military robots are utilised in transportation, search, and rescue, mine clearing, and combat support activities. The expanding popularity of artificial intelligence and robots, as well as global worry about terrorism, are projected to boost the market ..."
-    publishedDateTime: 2022-05-16T11:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-military-robots-market-to-be-driven-by-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Military Robots Market to be Driven by the Advancement in Artificial Intelligence and Robotics in the Forecast Period of 2022-2027"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Military Robots Market Size, Share, Price, Trends, Growth, Report and Forecast 2022-2027’, gives an in-depth analysis of the global military robots market,"
-    publishedDateTime: 2022-05-18T17:07:00Z
-    webUrl: "https://xaralite.com/95222/business/global-military-robots-market-to-be-driven-by-the-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027/"
-    type: article
-    provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 18
   - title: "MOV.AI Partners with Ouster to Equip Autonomous Mobile Robots with High-Resolution Digital Lidar for Challenging Warehouse Environments"
     excerpt: "TEL AVIV, Israel , May 18, 2022 /PRNewswire/ -- MOV.AI announced today its partnership with Ouster, a leading provider of high-resolution digital lidar sensors, to provide autonomous mobile robots (AMRs) with uninterrupted autonomy in today's challenging ..."
     publishedDateTime: 2022-05-18T09:48:00Z
@@ -55,6 +32,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Seven Group & Presults Partner to Give Financial Advisors Integrated Access to AI-Based Compliance Engine"
+    excerpt: "Seven Group, a New York City-based marketing platform for financial advisors, announced that they've partnered up with Presults, a leading provider of financial advisory archiving and compliance solutions."
+    publishedDateTime: 2022-05-17T12:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-17-seven-group-and-presults-partner-to-give-financial-advisors-integrated-access-to-ai-based-compliance-engine"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 2
 
 secured: "58lhyFFZag2qrDEgTup41Ep9qxGuQmqONQbw+jDe7nw30MkxOKDbbsLeJ+E6jaVEp9OQ5PKZgIfPkOjtQmyIAZ2S9r67mQJ0SHmQvExSJ/fI47uLJ7yytGya5HvWgbZ3ggN+muMnVvKLMwZnw7W9QPLxHPrJ2CdO+YmVJsjEF8Er2Ek5XBvzBI6zoKX5YA+KzKllCrntlTQMvxAGH4Meo/rdKDbNbytBjSSPjE7izWWRfCaA9wSwp7YbGrTKUxrDAXrAOTybju6NERtMqioDxkWsi/s9Q+XnqjxpJ2WtcgQH4dwM6pCsO/hYPVZYnN6M6+Z2L14grDKRyITKGkq7BvoX8L4cIg0rBlrNITXwDe+9Lwd8izTXd1ZEZarLDquvHBoy18PT2swcHhFH1OmLEMfClXKgiTC7ag1RkeddgjnZr20bL2+zrtMEKWY5kScFkwBXAOyz38QM3F5e8am8yX59KTwjM6G66wEKHBC51HPV/3n08/WZ1IEs9GzdVIkyydnF9oRtzYEUMk3L30WkFw==;TihDaSQF4bV4tM1aq6+pyg=="
 ---

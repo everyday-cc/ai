@@ -63,6 +63,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "SAS Viya on Microsoft Azure can deliver a 204% ROI"
+    excerpt: "ORGANIZATIONS deploying SAS Viya, SAS' cloud-native AI, analytic and data management platform, on Microsoft Azure, can see benefits including a 204 percent return"
+    publishedDateTime: 2022-05-19T11:46:00Z
+    webUrl: "https://www.manilatimes.net/2022/05/20/public-square/sas-viya-on-microsoft-azure-can-deliver-a-204-roi/1844257"
+    ampWebUrl: "https://www.manilatimes.net/2022/05/20/public-square/sas-viya-on-microsoft-azure-can-deliver-a-204-roi/1844257/amp"
+    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/05/20/public-square/sas-viya-on-microsoft-azure-can-deliver-a-204-roi/1844257/amp"
+    type: article
+    provider:
+      name: The Manila Times
+      domain: manilatimes.net
+    quality: 54
   - title: "New Relic announces integration and multi-year partnership with Microsoft Azure"
     excerpt: "New Relic <> partners with Microsoft to help enterprises accelerate cloud migration and multi-cloud initiatives"
     publishedDateTime: 2022-05-18T16:08:00Z

@@ -33,29 +33,15 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 47
-  - title: "Global Military Robots Market To Be Driven By Advancement In Artificial Intelligence And Robotics In The Forecast Period Of 2022-2027"
-    excerpt: "Military robots are utilised in transportation, search, and rescue, mine clearing, and combat support activities. The expanding popularity of artificial intelligence and robots, as well as global worry about terrorism, are projected to boost the market ..."
-    publishedDateTime: 2022-05-16T11:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-military-robots-market-to-be-driven-by-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027"
+  - title: "Seven Group & Presults Partner to Give Financial Advisors Integrated Access to AI-Based Compliance Engine"
+    excerpt: "Seven Group, a New York City-based marketing platform for financial advisors, announced that they've partnered up with Presults, a leading provider of financial advisory archiving and compliance solutions."
+    publishedDateTime: 2022-05-17T12:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-17-seven-group-and-presults-partner-to-give-financial-advisors-integrated-access-to-ai-based-compliance-engine"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Military Robots Market to be Driven by the Advancement in Artificial Intelligence and Robotics in the Forecast Period of 2022-2027"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Military Robots Market Size, Share, Price, Trends, Growth, Report and Forecast 2022-2027’, gives an in-depth analysis of the global military robots market,"
-    publishedDateTime: 2022-05-18T17:07:00Z
-    webUrl: "https://xaralite.com/95222/business/global-military-robots-market-to-be-driven-by-the-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027/"
-    type: article
-    provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 18
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 2
 
 secured: "CB0a+NtZVT6GvjkjmHjV602uAz1EnDe2vOq+wCFeF51SlPXuof+lBrq8GybZLH5TVz2/Lsio3cDnySnr1fdz67vSLjp98emXYFe7lcV3/LKhjifVn6Bud2aBAp6yLBxPBpB8ef6r/R9SPbsX23IpImXSUxGp0QbbuPo+OPi7gpwZlWCLlgEdZ4x4KcgucD05nijWi5kbvnrBRayxHI1gitS2FysolZRbQnv2Yr/zN5N3TTnDEm6zypVicNIntbDGyeasnAJ2YRvtHlB3uUJneaZObSYKKmDOAV9+qE7RMkOUse0jaabVA9K5zM2WFIHFWhzaJgZtWmcmJNFkV8bOZG1k0zaE06jdvOg5JRSeIRQ=;mzk6pmdCEQcdv4ot+K23aA=="
 ---

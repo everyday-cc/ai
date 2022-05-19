@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T13:49:00Z
 originalUrl: "https://www.sourcesecurity.com/news/dahua-highlights-features-development-wizsense-ai-co-4261-ga.1652961482.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/dahua-highlights-features-development-wizsense-ai-co-4261-ga.1652961482.html?ref=nav"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: SourceSecurity

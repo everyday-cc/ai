@@ -20,38 +20,33 @@ topics:
   - Google AI
 
 related:
-  - title: "The co-founders of DeepMind and LinkedIn have raised $225 million for their A.I. lab"
-    excerpt: "The funding has been raised at an undisclosed valuation and it's not clear who the investors are at this stage Inflection AI, the new artificial intelligence start-up from DeepMind co-founder ..."
-    publishedDateTime: 2022-05-16T10:52:00Z
-    webUrl: "https://www.cnbc.com/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
+  - title: "How AI Delivers Better CX in Contact Center Interactions"
+    excerpt: "Recent research found that 97% of contact center organizations had remote workforces — a 45% increase over 2019. Further, 90% of the industry plans to continue operating with a hybrid model. No matter what the future holds,"
+    publishedDateTime: 2022-05-18T10:20:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/how-ai-delivers-better-cx-in-contact-center-interactions/"
+    ampWebUrl: "https://www.cmswire.com/customer-experience/how-ai-delivers-better-cx-in-contact-center-interactions/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/how-ai-delivers-better-cx-in-contact-center-interactions/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 97
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107026781-1646731964364-2022613_Mustafa-Suleyman_027_retouched.jpg?v=1646732040"
-        width: 5472
-        height: 3648
+      - url: "https://www.cmswire.com/-/media/bf3edd31680f4b3d9329e1705cc64a18.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Google's DeepMind on the verge of achieving human AI"
-    excerpt: "Human-level artificial intelligence will soon be achievable, according to the lead researcher at Google’s DeepMind AI division. Dr Nando de Freitas said that it was \"game over\" in the long ..."
-    publishedDateTime: 2022-05-19T08:30:00Z
-    webUrl: "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai"
-    ampWebUrl: "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1"
+  - title: "LiveVox Study Reveals Contact Centers Have Increased Adoption of AI, But Struggle to Capture ROI"
+    excerpt: "The research study finds that despite increased interest in AI technology, only 44% of organizations experience benefits from implementing AI tools in their contact center LiveVox Holdings, Inc. (\"Liv"
+    publishedDateTime: 2022-05-16T12:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/b27218798/livevox-study-reveals-contact-centers-have-increased-adoption-of-ai-but-struggle-to-capture-roi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27218798"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27218798"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 74
-    images:
-      - url: " https://i.tribune.com.pk/media/images/623082907ce4897c3820b24c_DeepMin1652873089-0/623082907ce4897c3820b24c_DeepMin1652873089-0.jpg  "
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "rwvspkiDY8F5SXuKUq4qLAAbTeKN1xKLbGtXGBLfItlPGGQhtecvizuJOzf1BJMpS3O2xyTz1FIZoVNmHbhkoWVQbXlLcSyFp+wGSU2jkXa8rHwrdprTQhZp7DCs2OlMFriQA7KXNmRFf6wXIlRA1ALChxCPoHmz5rDzuaFRwudzRuvY+ZNi3R8himygyhp6mBk/ixqhq0I8cPc+kFm37vowxI3GjscCdEmne5w/b2xpUsQ7ABqgMDuDFUYRCRrC0YodegevOfNccQSeJYF+X/jh0w/2iW/PBCyMwW/b6Pse6F57F9XeIO77vfwwpBB7fTECbmHzXYYiBGuirPRnorNoYjLTUxNFXDXhsZRroM3hqui8VSa8ZNnHSO/GzukBzYnJyCYFSYwMfXm2dSF8RAaw9gcy6/W4rfoTgIrhAnaqvX15gkUYA1qcD1v9mW1OZ62YxKdJAo5k2aJ38eNdMHNMoL4FMZDe45pMwey3ZOnuZs3olIg6UKECJr4ccwpyiWwi6qAhcJA9BMUesaJ+wg==;aSKZVISYp6Poub6iEfZymA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T12:00:00Z
 originalUrl: "https://arstechnica.com/gadgets/2022/05/hp-introduces-intel-arc-gpu-quieter-fans-to-its-spectre-2-in-1-laptops/"
 webUrl: "https://arstechnica.com/gadgets/2022/05/hp-introduces-intel-arc-gpu-quieter-fans-to-its-spectre-2-in-1-laptops/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Ars Technica

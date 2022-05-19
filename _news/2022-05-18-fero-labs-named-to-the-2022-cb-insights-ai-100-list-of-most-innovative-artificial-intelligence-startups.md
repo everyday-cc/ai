@@ -112,6 +112,20 @@ related:
         width: 1250
         height: 653
         isCached: true
+  - title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    publishedDateTime: 2022-05-18T15:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "SparkCognition Named to 2022 CB Insights AI 100 List of Most Promising AI Companies in the World"
     excerpt: "Unicorn valued AI software company recognized for fifth time on prestigious list AUSTIN, Texas, May 17, 2022 /PRNewswire/ -- SparkCognition, a global leader in artificial intelligence (AI) software solutions for industry,"
     publishedDateTime: 2022-05-17T14:14:00Z
@@ -144,15 +158,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 15
-  - title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial ..."
-    publishedDateTime: 2022-05-18T15:36:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220518005739/luminous-computing-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 11
   - title: "Accelerating startups with unchartered resources–a pivotal tool in the Startup Nation"
     excerpt: "In this cohort, Intel Ignite received 200 applications, and selected 10 startups, in various industries including AI, digital health, robotics, sensors, hardware, developer tools, and cyber security. With Intel Ignite, each startup is working together with ..."
     publishedDateTime: 2022-05-17T12:00:00Z
@@ -172,6 +177,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "QyjK9eLy8KpG+gyFSqXS0sTD6W3A7aSSQSOGiPBHhtFK5yBNtP60FS/c8wW/9P7nmpGxrqEMyVspaiKM5JTQ6OvuutzXM1EjBdzAAZ4pSi8vA5VxARNHWd5lBSerLsXWyCBYAPG26C+aLLGh98llRHEF7KTQtvsOoOE9bjjVpFMARfjTBdfvpHpwaLcpysuRZYP+0bNV/y5FuhUAlBxLv3W9kAblXoa1nLJd04JORW2wKo+wwjSN7WnNtx46CDSI95trbKOh33vfg/CwHe2XcR0Z10XjOWPnxr5e9Nwh1GTOvyzq9mYTd9/U9hHYt2G6eWv1ofQmXpUPhBFYDdriHAyfm8SLvtOUB+tHB81kHvo=;qNugcpq+LE9C1gCNtBK1DA=="
+secured: "71ozDFZVD9AMmh9OAa5j+ddPehwvAHyvIp1zJWLpsfaMnuc8NQyIFbs+80nfh4HchDPV445PKufj30ui+EWaYgDy+gnnOJf/Ku2ykScOCBUiQCmUlXlwSbSuePx/05nQXaMfy8/y0vjchDHOkbm/c8pzI/xo9TmuDwGqkZ9mdsdByW2v3mXHWDgbpwmtj716/QQe7YkUxV+3iXg/fLb6+ZxzB4wPBmjMckY7knk4E6hFGsMkL0vgku8zIDDvyRX1c9Pu24/y5L/0LCPPkeADg/7kl4Q/eMtHX6uxxn6H+S60Bb3Ku/ye4IMWtk+hsmi+cP8y6cquVM0mIvOxrZHAti4s0HfHmISFVDu/ofmsNlKqIU8GxJtTa2cBkcya5kM0Gxd3q2v+eP0fO0gJ+29slfXhh11y+iNrIevhMsGlLsRBslsfyCDX17v6ISuzFx4ACqX5eEcuWExhwv1NLFs6sVlMaNQ8AqbH8mGEBf43LyWPqfnD/C48TcbsZx3N2V9yr3Jo71rrBJAryewnwPqbfg==;gqR1Oppoad7ozYs6KjnjNw=="
 ---
 

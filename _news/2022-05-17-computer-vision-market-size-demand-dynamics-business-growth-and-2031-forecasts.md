@@ -257,6 +257,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Emotion Detection and Recognition Market Size, Competitive Strategies and Forecasts 2027"
+    excerpt: "In the research report, Market Research Future (MRFR), highlights that the global Emotion Detection and Recognition market 2020 is slated to grow"
+    publishedDateTime: 2022-05-19T13:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-competitive-strategies-and-forecasts-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "r1HMtt/sCW9GkbJYvgUhddaVmh+k2U8BABRH47M/UNWK83W2I8sOYhOSn8OsX++nr5ArwFj2nx9eVh6aKeAtZHuP3hAKglw0JpY8RlOujom788hPcr27FjMtgqCZd9np+i+NZyiabovD1JQKFcAcDmbqgbiv9BItIjwbJsxBPR4IwEjQyB/1XUGaVx3oztB5xkiLDdMRJsl9yC5fl796l9oaO9QlWMVukAm7gSRBeDj1WbUo/IdbfBA203a4eydoktRFciVh9rWC4SxSjTMhuhNJsYGt1hh3SOpmcqTlDD4gjkN30wfebPlLTi5f520vmIybq/P1frSmneIUeZS3/pDOyworw/hdc6A10YnUS2g=;ZmqG+vMsBK4vo6uMZgBfMg=="
 ---

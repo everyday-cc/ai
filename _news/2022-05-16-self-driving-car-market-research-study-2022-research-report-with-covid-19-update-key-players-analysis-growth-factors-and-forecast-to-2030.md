@@ -257,6 +257,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 0
+  - title: "Emotion Detection and Recognition Market Size, Competitive Strategies and Forecasts 2027"
+    excerpt: "In the research report, Market Research Future (MRFR), highlights that the global Emotion Detection and Recognition market 2020 is slated to grow"
+    publishedDateTime: 2022-05-19T13:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-competitive-strategies-and-forecasts-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "O9l5zsPfDjKyxmg/Lf7LxMkeaVHjsRw7HaF2ZJnmAlsVsdAGrNWieFU6xXOwyO0W/IuOtLe/DbL6Sv1SRY/2HHY/HXamDfweeRXZBvldzBK+gL8hAltzjCeUWPvr8YMEqjYjLvQd0qGKSnrKN0TFRgkR8be/DI0AwcHOefw5uBeRei1KdgLTaYMqx6DT551rY8/yirug9MaWIgf0VqW+hsUUBVeJpakX4V7wv3dOio/KqNrZb09HO/RFJQhp1TeA5f3NzJIvqesfv6xRlAhKqfBdyV3IAtFHJKR/iDHsamSfDMzeLF25x3QeXBxyRLmmtAQCGFIB/chenXC513Ny++4SbNxe9fDlvHuvYwfki2jHgaKioxdOVZRWdbUnFThceupzu0rdxP/nwD/VycQcBQSBivP4i9mHcGXx3tuHR1dM2GCyXTlNbutremRRrz8nuMWtqRvah/VySMBB5sy6b4tMhMoz62ZZkVC/4Zb9zVkj4osBUwcx/VRJ4x+5ppFUU62hO0dTa7tg1Kw45w7ShA==;LqCruqAH44O43ajtzPI/0Q=="
 ---

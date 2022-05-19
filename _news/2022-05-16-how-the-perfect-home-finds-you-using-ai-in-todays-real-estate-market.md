@@ -31,6 +31,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Using AI To Help the Deaf Communicate"
+    excerpt: "An Intel venture is developing a SaaS application that would translate sign language to English to help the deaf and hard-of-hearing communicate more easily."
+    publishedDateTime: 2022-05-19T15:35:00Z
+    webUrl: "https://www.designnews.com/artificial-intelligence/using-ai-help-deaf-communicate"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/deafpeople.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "wXkZgysJ5s93HuRjnHN60cMtVVPe9nmGoRh9JsJFdVNxsqAHS2XTK7QnbDcxUk+WlSupie47ywIGK2jtCeoBob2HvgP51MkZH+4d3TxawyKvlbhIdIdiWwAq/s4keRS4BUtzdmzDsQ452l3Sg/EbuzLZ0xKwdvV2K3SuYXkaKT7njKOdR3OMKI4cMDWrr5xHA8YCQ5kPz3EMc7bZG5xtxIkhL7OJHkMuVKuii4lY5+uw3tjFUCzqcRNFcU3+CBeoXt+mJY1Mvto+DvegcxX91s4fyx6t5AD5KG8FIi9FqdC9bNWVHG1vYwhEKvRjBJbA7D0rKhkOkyGZzggVJaGWEzr2ivIIZOTioo4ThQts5AA=;r4B4BxL+WB2hRrGM4ddHtg=="
 ---

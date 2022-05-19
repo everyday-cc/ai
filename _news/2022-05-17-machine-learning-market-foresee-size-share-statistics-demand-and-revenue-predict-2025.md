@@ -113,6 +113,24 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Deep Learning Chip Market Demand, Growth, Trend, Business Opportunities, Manufacturers and Research Methodology by 2028"
+    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to"
+    publishedDateTime: 2022-05-19T13:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-demand-growth-trend-business-opportunities-manufacturers-and-research-methodology-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 12
+  - title: "SaaS Software Currently Dominating The Cloud Computing Market, Especially In The Healthcare Industry"
+    excerpt: "By 2022, healthcare professionals and facilities can expect to see some new SaaS trends in the industry. An article on LinchpinSEO said that some of the trends are: Use of Multiple Clouds, Increased Attention to Security and Artificial Intelligence. \""
+    publishedDateTime: 2022-05-19T13:51:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/saas-software-currently-dominating-the-cloud-computing-market-especially-in-the-healthcare-industry/article_7dacea6a-c196-5082-888e-22aaaa2abfa0.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 4
   - title: "AI in Drug Discovery Market Global Demand, Opportunities, Growth, Segment Analysis and Forecast to 2027"
     excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a robust CAGR of 40.8% throughout the forecast period. The global AI in the drug discovery market has been ..."
     publishedDateTime: 2022-05-16T12:14:00Z

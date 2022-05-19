@@ -43,54 +43,6 @@ related:
         width: 1024
         height: 767
         isCached: true
-  - title: "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records"
-    excerpt: "The claim provides access to justice and a means of compensation which would not have been viable on an individual basis due to the cost"
-    publishedDateTime: 2022-05-16T06:57:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/982280/litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records-982280.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/982280"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/982280"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 78
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC8yMDIyLTA1LTE2LTA3LTMwLTM3LTcyYzk2NDY2M2VhYmJiNTE3YWIzNTg2NzgwYWZlNDkwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 740
-        isCached: true
-  - title: "Apple exec who quit over return-to-office mandate joins Google’s DeepMind"
-    excerpt: "Former Apple director of machine learning Ian Goodfellow made headlines when he resigned from his position due to Apple's refusal to allow employees to continue to work remotely full time has now found another company to work for: DeepMind,"
-    publishedDateTime: 2022-05-18T10:13:00Z
-    webUrl: "https://wraltechwire.com/2022/05/18/apple-exec-who-quit-over-return-to-office-mandate-joins-googles-deepmind/"
-    ampWebUrl: "https://wraltechwire.com/2022/05/18/apple-exec-who-quit-over-return-to-office-mandate-joins-googles-deepmind/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/18/apple-exec-who-quit-over-return-to-office-mandate-joins-googles-deepmind/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 58
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2021/12/eye-gb14112db1_1280-e1638967223881.jpg"
-        width: 966
-        height: 544
-        isCached: true
-  - title: "Google and DeepMind face class action lawsuit over patient data deal with London hospital"
-    excerpt: "London law firm Mishcon de Reya is bringing forward a major class action lawsuit against artificial intelligence (AI) firm DeepMind and its sister company Google over claims the two firms misused ..."
-    publishedDateTime: 2022-05-16T16:29:00Z
-    webUrl: "https://www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/"
-    ampWebUrl: "https://www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 50
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2022/03/Royal-Free-Hospital.png"
-        width: 1147
-        height: 759
-        isCached: true
   - title: "Illinois Facebook users receiving payouts for class-action lawsuit over facial recognition"
     excerpt: "ILLINOIS, USA — Payments are rolling out in the settlement of a 2020 lawsuit against Facebook, now Meta, over its use of facial recognition technology that violated an Illinois privacy law. In an update posted to an official website for the lawsuit ..."
     publishedDateTime: 2022-05-16T16:51:00Z
@@ -139,15 +91,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records"
-    excerpt: "The claim provides access to justice and a means of compensation which would not have been viable on an individual basis due to the cost"
-    publishedDateTime: 2022-05-16T18:58:00Z
-    webUrl: "https://www.proactiveinvestors.com.au/companies/news/982280/litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records-982280.html"
-    type: article
-    provider:
-      name: Proactiveinvestors UK
-      domain: proactiveinvestors.com.au
-    quality: 38
   - title: "Google Faces Lawsuit For Using NHS Data Of 1.6 Mn People In UK"
     excerpt: "Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its artificial intelligence (AI) division called DeepMind. DeepMind allegedly passed data on patients for a smartphone app called 'Streams' that it received from the Royal Free NHS Trust in London,"
     publishedDateTime: 2022-05-17T10:18:00Z

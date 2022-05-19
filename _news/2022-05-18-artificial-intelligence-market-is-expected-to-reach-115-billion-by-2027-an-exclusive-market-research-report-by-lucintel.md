@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel"
-excerpt: "\"Trends and Forecast for the Global Artificial Intelligence Market\"Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by"
-publishedDateTime: 2022-05-18T14:59:00Z
-originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
-webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
+publishedDateTime: 2022-05-18T14:48:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
 type: article
-quality: 13
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.abnewswire.com/uploads/1652849737.png"
-    width: 474
-    height: 300
-    isCached: true
 
 related:
   - title: "Machine learning Market is expected to reach USD 23.46 Bn by 2023"
@@ -77,6 +71,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "Ex4aK4M0/j+eunlOO5MLt6q8Yj4JOMJvgp8IPCQF+sh1zWuqDYfrFNiiPfIMdgiq9vRUxjrIiPO/7fFi3ZBSszU9FTZFZBS9sD3pbpszK3PtoTe9jxOUQ2VAlPehZvPbO22iTlzE44VD9llM/QSuqdrxwjshRm887HpbAKkEMSgrS8SG6/LVfUmsLKgBmvokcrxd5YxIed3wTV/iCfP5jWp47KLvwjwD1UdHa2EhIpH91XXlAs5TzE02Dj/LhCUq/EUp+aiMgdTsIPcrbO38BbE6P2CfGkA7porsV/pvkPZijLYRuNVhlEC8PMpsBFQhE84P8fn6PjgfEAAWdZKMEuebrOfp8ihpeWmjCRZB0GsK66E4G2Ije3Lt/YCNf1e+ylstGjE1USzaAdSrQB7A3ielXWHnmqBtkZkBCW/9oWopepDAe8/p8MzOaE7ZENTDmTpVpWGuFVo54/3YMDCVV9ZacvSwOb2T/lI34sJv4O2Cg3K4o1zD9YpOrOfWzLxzJSycucAnlEyuByDdOwTv1Q==;y2e/dZuzv2EWj/Rs6a/jAQ=="
+secured: "4GgDB/cS0wqJAlqOEd2hhHsKmoWamL+JY5vxp+2Ah1EplJlWZpDAdwflRpwcIr82XXIB5lA+dEI5flXQj+/FbQTj16fQQ/gW+p/i27qFTWRTpbBYBdHTN/jPcjNaOBNb9ptETHarYwcLb9xymkVlpuKkmf2Vby4e/llv6Ngk3q9eVL6J2hDYIOsX+XvlHyhM5fCNA52UQdF1pjJq/WIaGHO/gk33v4QpcZFv860QzGqH/mnLqta8/S8JergcchHAW3SAZRzvG7LdGaq+NYKXlx6OT+9HcQv8RbAQ+8z21VyA/ILH5FveDaoEm61NcP7U6uAE83T7qVUVnsQlUv8z2JmZSeD7JkikY/5DO53a/yKu5xWkOOtH1C+s4Z2ICKXxMJs9PHyn6xvdzavOddoRVD0FO6oFgbfqajPvXoBtje/nSKVxUW4okKUgGgjHp7LF0/EaQFOdeNId0PeNhd5ySqKgpuD71LyOMsbo1ezRMhOplRQ3bSsc5/3YgMQrwd0H/1CJ6VzC8bYDZnToZXNFMA==;C0xC0IFRw1TEPNGnLezSzA=="
 ---
 

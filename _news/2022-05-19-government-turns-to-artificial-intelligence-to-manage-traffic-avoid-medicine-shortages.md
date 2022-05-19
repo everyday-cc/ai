@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T12:59:00Z
 originalUrl: "https://www.independent.com.mt/articles/2022-05-19/local-news/Government-turns-to-Artificial-Intelligence-to-manage-traffic-avoid-medicine-shortages-6736243067"
 webUrl: "https://www.independent.com.mt/articles/2022-05-19/local-news/Government-turns-to-Artificial-Intelligence-to-manage-traffic-avoid-medicine-shortages-6736243067"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The Malta Independent

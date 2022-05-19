@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Temenos and AWS partner for digital banking services"
+    excerpt: "Temenos makes its digital onboarding and origination services available on Amazon Web Services cloud platform."
+    publishedDateTime: 2022-05-19T14:25:00Z
+    webUrl: "https://www.bobsguide.com/articles/temenos-and-aws-partner-for-digital-banking-services/"
+    type: article
+    provider:
+      name: Bobs Guide
+      domain: bobsguide.com
+    quality: 56
+    images:
+      - url: "https://www.bobsguide.com/wp-content/uploads/2022/03/shutterstock_1748437547.png"
+        width: 1300
+        height: 1000
+        isCached: true
   - title: "Temenos puts digital banking on AWS"
     excerpt: "Temenos (SIX: TEMN) and Amazon Web Services (AWS), have extended their global relationship to run Temenos onboarding and origination solutions on AWS. The technology collaboration aims to allow all retail and commercial banks - incumbents and challengers - to provide digital onboarding and origination solutions with higher performance,"
     publishedDateTime: 2022-05-18T15:03:00Z

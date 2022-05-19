@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Warehouse robotics firm GreyOrange raises $110 million from Mithril Capital, others"
+    excerpt: "GreyOrange said it will deploy the capital to accelerate global expansion and step up the adoption of its fulfillment platform in warehouses, distribution centers and retail stores"
+    publishedDateTime: 2022-05-19T12:11:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/warehouse-robotics-firm-greyorange-raises-110-million-from-mithril-capital-others-8540611.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 43
   - title: "GreyOrange raises $110M for its AI-powered warehouse robots"
     excerpt: "The startup’s robots are powered by an artificial intelligence platform dubbed GreyMatter that helps coordinate supply chain activities. The platform finds opportunities to speed up merchandise ..."
     publishedDateTime: 2022-05-17T17:40:00Z

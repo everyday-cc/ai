@@ -23,6 +23,17 @@ images:
     height: 1073
     isCached: true
 
+related:
+  - title: "ThoughtRiver announce risk management revolution with the first AI contract review tool developed specifically for the construction industry"
+    excerpt: "ThoughtRiver has announced the development of a tool tailored to reviewing construction and engineering appointments."
+    publishedDateTime: 2022-05-19T12:08:00Z
+    webUrl: "https://enterprisetalk.com/news/thoughtriver-announce-risk-management-revolution-with-the-first-ai-contract-review-tool-developed-specifically-for-the-construction-industry/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 0
+
 secured: "FZt9zIY5b3fuAr+UKACsG4XIAA9LJVRvO1uYeuLB+cjCHv7sIHOVK23+HX27E2bwqXLcsOM+xaHAWveYGHLCjpaqJvukxUTWEWz+VyyUVvFdy410qO13BD37551cMYk7U8OgWJXUcC/J8GsRVnxNZ/NjSKCYHDwn3YEeoSYAtr9uAgQw1TlNJSP3PgvZ7Cz8D/gGgOpclWrMSeZQAkJAasjU306oW6b7bDNS+7qD9uC0VuKrmjBIZYDZ7h26In5z/YVv9L9YNwH5jZs2R/AVmARvT+6k76gClfeRDEqKVnWTCvv3f8QvMBuoNpdBhz7+6t/JPcBfULrkhgSdbf9BtWKoJuMxaD63QbbFrvhZ8nk=;D9Y4FDjEnxBmp6GZNgZLsQ=="
 ---
 

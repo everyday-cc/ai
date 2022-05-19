@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-ban
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
       name: bna.bh
       domain: www.bna.bh
     quality: 19
+  - title: "Railz Appoints Fintech Veteran as Chief Operating Officer to Help Accelerate Company Growth and Expansion"
+    excerpt: "Railz, a financial technology company that helps banks and fintech quickly harness and analyze small-medium business (SMB) data, announced that payments industry leader Amitaabh"
+    publishedDateTime: 2022-05-19T12:37:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/railz-appoints-fintech-veteran-as-chief-operating-officer-to-help-accelerate-company-growth-and-expansion/article_05569e69-3e0b-5f8a-957d-4cd6239b87e7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 2
   - title: "Fintech Startup TradeStreet Tracking Unusual Market Events Expands Internationally"
     excerpt: "The Swiss and Czech-based startup TradeStreet using a proprietary algorithm to track unusual stock market events is expanding its coverage from Switzerland and Czechia to the rest of Europe and the United States."
     publishedDateTime: 2022-05-18T14:00:00Z

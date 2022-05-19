@@ -20,21 +20,35 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Google faces fresh class action-style suit in UK over DeepMind NHS patient data scandal"
-    excerpt: "Google is facing a new class-action style lawsuit in the UK in relation to a health data scandal that broke back in 2016, when it emerged that its AI division, DeepMind, had been passed data on more than a million patients as part of an app development project by the Royal Free NHS Trust in"
-    publishedDateTime: 2022-05-16T17:24:00Z
-    webUrl: "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/"
-    ampWebUrl: "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/"
+  - title: "From LEGO competitions to DeepMind's robotics lab"
+    excerpt: "If you want to be at DeepMind, go for it. Apply, interview, and just try. You might not get it the first time but that doesn’t mean you can’t try again. I never thought DeepMind would accept me, and when they did, I thought it was a mistake. Everyone doubts themselves – I’ve never felt like the smartest"
+    publishedDateTime: 2022-05-19T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
+      name: DeepMind
+      domain: deepmind.com
+    quality: 121
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/p1040482.jpg?w=1024"
-        width: 1024
-        height: 767
+      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/62863b2de650d13aae1b5176_Akhil_Raju__Blog__16x9.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The co-founders of DeepMind and LinkedIn have raised $225 million for their A.I. lab"
+    excerpt: "The funding has been raised at an undisclosed valuation and it's not clear who the investors are at this stage Inflection AI, the new artificial intelligence start-up from DeepMind co-founder ..."
+    publishedDateTime: 2022-05-16T10:52:00Z
+    webUrl: "https://www.cnbc.com/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 97
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107026781-1646731964364-2022613_Mustafa-Suleyman_027_retouched.jpg?v=1646732040"
+        width: 5472
+        height: 3648
         isCached: true
   - title: "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records"
     excerpt: "The claim provides access to justice and a means of compensation which would not have been viable on an individual basis due to the cost"
@@ -52,21 +66,51 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "‘The Game is Over’: Google’s DeepMind says it is on verge of achieving human-level AI"
-    excerpt: "To keep your finger on the pulse with major breaking news developing around the world sign up to our free email alerts Human-level artificial intelligence is close to finally being achieved, according to a lead researcher at Google’s DeepMind AI division."
-    publishedDateTime: 2022-05-18T06:09:00Z
-    webUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2080740.html?amp"
-    ampWebUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2080740.html?amp"
-    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2080740.html?amp"
+  - title: "Google's DeepMind on the verge of achieving human AI"
+    excerpt: "Human-level artificial intelligence will soon be achievable, according to the lead researcher at Google’s DeepMind AI division. Dr Nando de Freitas said that it was \"game over\" in the long ..."
+    publishedDateTime: 2022-05-19T08:30:00Z
+    webUrl: "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai"
+    ampWebUrl: "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1"
     type: article
     provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 67
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
     images:
-      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
+      - url: " https://i.tribune.com.pk/media/images/623082907ce4897c3820b24c_DeepMin1652873089-0/623082907ce4897c3820b24c_DeepMin1652873089-0.jpg  "
         width: 1200
-        height: 900
+        height: 630
+        isCached: true
+  - title: "DeepMind’s new AI, Gato, can play videogames and control robots"
+    excerpt: "While we’re not quite there yet, a new AI system developed by Alphabet’s DeepMind might have brought us one step closer. Gato is DeepMind’s latest AI that can perform more than 600 different tasks, such as playing videogames,"
+    publishedDateTime: 2022-05-16T12:03:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can-play-videogames-and-control-robots"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/a-14.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Google's DeepMind says it is close to achieving 'human-level' artificial intelligence"
+    excerpt: "DeepMind, a British company owned by Google, may be on the verge of achieving human-level artificial intelligence (AI). Nando de Freitas, a research scientist at DeepMind and machine learning professor at Oxford University, has said 'the game is over' in ..."
+    publishedDateTime: 2022-05-18T18:54:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html?curator=upstract.com"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 71
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/05/18/12/57967583-0-image-a-9_1652873486461.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Apple exec who quit over return-to-office mandate joins Google’s DeepMind"
     excerpt: "Former Apple director of machine learning Ian Goodfellow made headlines when he resigned from his position due to Apple's refusal to allow employees to continue to work remotely full time has now found another company to work for: DeepMind,"
@@ -100,68 +144,15 @@ related:
         width: 1147
         height: 759
         isCached: true
-  - title: "Illinois Facebook users receiving payouts for class-action lawsuit over facial recognition"
-    excerpt: "ILLINOIS, USA — Payments are rolling out in the settlement of a 2020 lawsuit against Facebook, now Meta, over its use of facial recognition technology that violated an Illinois privacy law. In an update posted to an official website for the lawsuit ..."
-    publishedDateTime: 2022-05-16T16:51:00Z
-    webUrl: "https://www.wqad.com/article/money/illinois-facebook-facial-recognition-class-action-lawsuit-payments/526-cba51e2c-aa04-4648-b779-1a01203c06ac"
-    ampWebUrl: "https://www.wqad.com/amp/article/money/illinois-facebook-facial-recognition-class-action-lawsuit-payments/526-cba51e2c-aa04-4648-b779-1a01203c06ac"
-    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/money/illinois-facebook-facial-recognition-class-action-lawsuit-payments/526-cba51e2c-aa04-4648-b779-1a01203c06ac"
+  - title: "DeepMind’s Gato is the Swiss Army Knife of AI models"
+    excerpt: "However, we don’t have AI models that do both. DeepMind has leveraged the advances in large-scale language modelling to build a single generalist agent beyond the scope of text outputs. Gato is a multi-modal,"
+    publishedDateTime: 2022-05-18T12:34:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-gato-is-the-swiss-army-knife-of-ai-models/"
     type: article
     provider:
-      name: WQAD
-      domain: wqad.com
-    quality: 49
-    images:
-      - url: "https://media.tegna-media.com/assets/WQAD/images/62bf4458-abe7-43c3-8f57-9d1cfbe02ec4/62bf4458-abe7-43c3-8f57-9d1cfbe02ec4_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Google faces lawsuit for using NHS data of 1.6 million people in UK"
-    excerpt: "London: Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its artificial intelligence (AI) division called DeepMind."
-    publishedDateTime: 2022-05-17T05:21:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/articleshow/91610435.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/amp_articleshow/91610435.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/amp_articleshow/91610435.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35126,msid-91610567/google.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Google faces class-action lawsuit for using NHS data of 1.6 mn people in UK"
-    excerpt: "Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 mn individuals for its AI division called DeepMind."
-    publishedDateTime: 2022-05-17T05:22:00Z
-    webUrl: "https://www.business-standard.com/article/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/02/full/1643789775-3091.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Google Faces Lawsuit For Using NHS Data Of 1.6 Mn People In UK"
-    excerpt: "Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its artificial intelligence (AI) division called DeepMind. DeepMind allegedly passed data on patients for a smartphone app called 'Streams' that it received from the Royal Free NHS Trust in London,"
-    publishedDateTime: 2022-05-17T10:18:00Z
-    webUrl: "https://menafn.com/1104226356/Google-Faces-Lawsuit-For-Using-NHS-Data-Of-16-Mn-People-In-UK"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/17/I_12427image_story.jpg"
-        width: 300
-        height: 400
-        isCached: true
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
 
 secured: "JvsutZt8d09D50DnP/AHBvo0VAfS0/oekjdr6wrzAZ60rPMCWZ2meOnxVAIE29JKrika5rCpmzTHKiuEtrPDTed5+T/N+UlksAtrfV2KkbUSCBSGPWKDM3r6/gSjvN1f1f+UWxTUgG04Y9OHW9KtWBF/SqOe97qHgU/haq5MCQQSide+defkj7I798VkkpktLX6ONt9ILGuu4WFWOXbiPwRde3Pm1ij0s0pV6M20oEEB5/72w1jemyARpdUZUCIrzB//yNl3AakV38IgY70Ag14K72o5rsunMahs0HSqCzoi5uHgmzJACsg6wo0l36SLo40mdRuwd2dHVkonpATZo83OSR//+XadbzttOeZVIB5wwS7v63rJxQFILi+q5VmSGMe+hCjDS5qW2fQaUtcP+U++dQ92tEp9+BBKjk1hRp1BkXQ2fq3WLHwv/W/a6+3KzCwEMDL77tiGmMOZStPBrEL9RdLVeiYFuot3TeZc3CFlL6VjFDO5Lj++V4Thy4Rc5rCp6EWU6/nQqPUUOaD7aQ==;zUSIahy560mYpTxY2OI2pw=="
 ---

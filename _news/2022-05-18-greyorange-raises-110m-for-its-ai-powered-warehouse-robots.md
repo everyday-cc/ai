@@ -35,6 +35,15 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Warehouse robotics firm GreyOrange raises $110 million from Mithril Capital, others"
+    excerpt: "GreyOrange said it will deploy the capital to accelerate global expansion and step up the adoption of its fulfillment platform in warehouses, distribution centers and retail stores"
+    publishedDateTime: 2022-05-19T12:11:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/warehouse-robotics-firm-greyorange-raises-110-million-from-mithril-capital-others-8540611.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 43
 
 secured: "cECM7MX06edo836Q0zUscW5jR56VIYyVkRDU2e+Szu1NPLD07CW3/5gM1ICCYk+KOSvug0AKiyUREF+dYv1pGa4RJDD5pt9fmdc1ozMbdeb6AQEloA3xSxkKjLaVsopgOMkEcK/4tpDnNH5bAqx2IsD+vVt2yj7fNMTfrfXWUGYTtK08Tm1jcSOglyI3WdYkxVCbjDWyYEl2AVZD8so9kBXm2zUXVf7ygt8OWy31NPjXURHORjnQPjrfIEU5zb+VeTrGidpTHlkKBTP/MFhik3fJbO1e2U8urWbuCULZncyvu724ibFVkI3A35e9d4WWAR7roRTsZ2uPe+lql3KVkRCrQUwRY7kU8jPxDQbCJXcYN5BMHmPikp7HgXlabi2wfQknDqbMCoQ8DdLZ4wwebjtmeW3S2vZxUsZtVjtnA0Y0OCwih+kKmBdOaYtnBv+JvaxNjqX9/5cTAsGMw4w1TTUdH+mk1JIYeFFSR8O23brhCsXVrmuyJR/20p4FpF9mLGO9APKSOqpfzR1kfP9/MQ==;XoYSJA0ccPiZp/QmL7rRWg=="
 ---

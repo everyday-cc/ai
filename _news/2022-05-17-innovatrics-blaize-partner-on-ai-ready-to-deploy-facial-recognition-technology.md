@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatri
 webUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatrics,-blaize-partner-on-ai-ready-to-deploy-facial-recognition-technology.html"
 type: article
 quality: 50
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
       name: Orange County Register
       domain: ocregister.com
     quality: 19
+  - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
+    excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
+    publishedDateTime: 2022-05-19T13:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/19/9605577.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "R5v92S7CpWmVIy26zSUPbJlEXEtvJh0hD+kHLbfuj/n4tkgC1oVL9Qji6a3nJkZ+Ax0SjpLLQZbo19t99vdCew+00FLfcRInugFBXGAZmM62yjrP0oN1NUgJ3pDDwxm9E/W5JX+6SthKkxgq2hyTeSB77piDBTipHJyraGDeQjBt37YAia0Bwkrh0phNCdy6ik6PKjpqCisR4JWcsEfku67o/ZMaHfE7YUtN5Xilfuoq/rbeZWsWuMNbC3Bn1Oj/e/QQR9AgkAbTWZaAMQTMmDENHThbc2j3F1BIy+8vahflGYE2SQNx2uDF+w1mogDjklKqAEpUir5m57i63os5THUCGePM07szIF3Q0let2mM=;9UzYtKCEWWRusdEMHsoPGg=="
 ---

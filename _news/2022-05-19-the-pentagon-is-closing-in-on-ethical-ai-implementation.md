@@ -39,6 +39,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Ethical AI in hiring makes good business sense"
+    excerpt: "By quickly and efficiently analyzing large volumes of data, AI significantly reduces the time spent recruiting great potential candidates."
+    publishedDateTime: 2022-05-19T13:18:00Z
+    webUrl: "https://www.benefitspro.com/2022/05/19/ethical-ai-in-hiring-makes-good-business-sense/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 34
 
 secured: "31N376OT5Zt1LshbATyGrPK+19E/WH6CDFSarXc1Ow1sSOoGHszSymHO39YHoS+F5cAK8MzBzod1Z8a7suvKHdIeDD4feIYwIXvMASDVbFuVYKM5MktB2z5iXSccCQdLoF47Ezut9mNDGUD+7PGfMM6dvK8zgsO02lLF7UK4gz7IcTHcUi3AV8GYPyFFhkcWOMfeXgjz8hrxSxm4jkQGqx0jRFpx1P7t5BM4kCTUTPThjjdL5psyNorMlGk+BJ7fw1JvkfLnGvqadVP5ne+OhUX1yNVH6mkGFrToV9dtfRONH6GWaVe/pf5H0ej0kJ1MclMgalEcO8BZFF2Zi4Jot8SGHY5Qs2Sw+hXUoik2Bok=;8wqrZXJmV2PzL0KN+jPfRA=="
 ---

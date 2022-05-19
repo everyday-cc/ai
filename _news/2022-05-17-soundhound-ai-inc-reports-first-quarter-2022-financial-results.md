@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "SoundHound AI, Square launch tool to automate phone ordering"
+    excerpt: "SoundHound for Restaurants' voice assistant leverages conversational artificial intelligence technology to answer phone calls, take orders, accept modifications and send confirmations to complete payments."
+    publishedDateTime: 2022-05-19T15:04:00Z
+    webUrl: "https://www.restaurantdive.com/news/soundhound-launches-ai-voice-ordering-integration-with-square-to-automate-phone-calls/624032/"
+    type: article
+    provider:
+      name: restaurantdive
+      domain: restaurantdive.com
+    quality: 37
+    images:
+      - url: "https://www.restaurantdive.com/imgproxy/KvUnPJOTw3RxvAszM1b503udIevRdrMIG472JQHx5WY/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlLzAxX19Db3VudGVyLmpwZw.jpg"
+        width: 770
+        height: 364
+        isCached: true
+
 secured: "+92w7ZwZBL4SQGY9xdCKbY2Yn+aAyGQsxQ5DOOpCdL5WCZ0hxq9npwPvOgDKsr9VWJhvmSjYfbJ+q+y0eMt/Wcej0KLM5VK9eijnRO9MXvMvURVVcxq9AK/A9AefvmX49ORSod4iHxSg/Q3ZfAJrOmfkmhs+B4UnSZZVr6Fogap0EbswOVv35VczxSQRTxWJr4NNmkgDq83fFw6VcZLnvNeek6+LbjlZ9acUBtHyYDhiq3aXyIzlIdJmY9Ivp/dh/3dbxv+htaJlGJoGTFPUWPsIzNd6xbB8HVao71NI1Ve5ZIyxWMliFpEjvyE8S9I0oN9hnzmMobvJmv4SIuqQnnFRRDBaULhL9a9RAsJLWQM=;zT8t2Q+rbvRC9FmohexzaA=="
 ---
 

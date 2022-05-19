@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Emergence of Self-Driving Cars Drives the Growth in Machine Learning Market"
-    excerpt: "Besides, extensive investment in artificial intelligence worldwide is expected to boost the growth of the market. The report analyzes the global machine learning market and provides estimates in terms of revenue (US$ Bn) from 2018 to 2030. Exponential ..."
-    publishedDateTime: 2022-05-17T09:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market%EF%BF%BC"
+  - title: "Apple Dislikes Windows So Much Its Self Driving Car Might Not Have Any"
+    excerpt: "Did you even have a childhood if you did not press your face against a car window during a long road trip? Such an experience may soon be a thing of the past. Apple has filed a patent to add VR systems in its autonomous vehicles that would replace windows."
+    publishedDateTime: 2022-05-19T14:41:00Z
+    webUrl: "https://hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction"
+    ampWebUrl: "https://amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
+      name: HotHardware
+      domain: hothardware.com
+    quality: 59
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://images.hothardware.com/contentimages/newsitem/58592/content/apple-car-concept-design.jpg"
+        width: 708
+        height: 394
         isCached: true
 
 secured: "4R6ofdTrXBhDYsql4ZYRi+HXS0o8oGmmRwlrLTAVxdTXTbjSup9oEJzKQ08s+smIgauG6Fivl0TcRm04pR9vzpPGJyDbEjtNtgat3/sAyc64znETJifHRQpUDIXf7o9x0S5FqYZuk9vr9IsUOalJCL6QgXXcOtdV9aEwHIMVxStv7khLVos/j2/8lZV83PIx8ZNmVfhMXEVCVjPmO9ZLZEgjFm9WaNmhe7zVABN9u2jV42X6kljbB2J6LGgClDkyrYedMGvysUlm8/W2CWq/rgtPR7lhpS/dH8oEnB0Yj8EeAdhz/iSPSudAfPRaRRqDksu5znYqvGx+AlJHUZCU4pNH/UouvhvO/bfEvKu/QBs=;qjHEWMpTgNxwFGZaroZ0BA=="

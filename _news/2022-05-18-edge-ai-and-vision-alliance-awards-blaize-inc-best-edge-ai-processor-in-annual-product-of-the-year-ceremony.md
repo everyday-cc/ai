@@ -34,14 +34,19 @@ related:
         height: 450
         isCached: true
   - title: "Edge AI and Vision Alliance Announces 2022 Vision Tank Winners"
-    excerpt: "Oculi Oculi—Oculi is putting the \"human eye\" in AI. After decades of limited evolution, Oculi has charted the path to optimal machine vision starting with the OCULI SPU, the only Software-Defined Vision Sensor on a single chip that delivers actionable ..."
-    publishedDateTime: 2022-05-19T04:51:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/article_ede9a09d-746d-5aec-aab5-9013754e4e13.html"
+    excerpt: "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit."
+    publishedDateTime: 2022-05-19T06:57:00Z
+    webUrl: "https://fox40.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
+      name: FOX40
+      domain: fox40.com
+    quality: 39
+    images:
+      - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
+        width: 800
+        height: 328
+        isCached: true
 
 secured: "Jdinu73qAwFXwCIbaHW7WMqXy/jwes+izZQiIqsuPd3/GVD0RF0huELhABbVsCB5lUM7+Ydp7P2hFvxuVXw1nh0civj2Y0c4bwVWLk7QvGgzhAwBCLrQDgrEimMgMpShIu0mUdvu+BSg7a49oGV+GQBTwevPv1UIz8M38nYKbVnRfvoYBbDOw/zDYIa3ie9ZQy1D+moCLIYRpd7BtH98q9w00K7WOJTjKrdVoSHt9t/RAQQgA7w1Z7Tqw4IMTjFwLvNvOojiesxyKATmISZ3nc4WZwJ1ChO/y1v9oqsNwk0jxv/+W5GCMc2mf7YgHYExWbtbp4VDQ6/5+4zLB9s1J8oepoL332Cz/cuAmNEUW1Y=;PTfE+/xqg693YO/g5eet2Q=="
 ---

@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars not yet ready"
-    excerpt: "Smart cruise control systems in new cars are still flawed and don’t guarantee safety for drivers or cyclists, new research from the American Automobile Association (AAA) has found. The AAA tested three cars equipped with active driver assist to answer questions about how well these systems adapt to possible collisions with other road users."
-    publishedDateTime: 2022-05-17T02:24:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/self-driving-cars-not-yet-ready.html"
+  - title: "Artificial Intelligence (AI) in Mining Market: Top Driving Factors That Could Escalate Market Growth Worldwide, Report"
+    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources to reduce waste drives the growth of the market. In addition, autonomous mining equipment equipped ..."
+    publishedDateTime: 2022-05-19T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-top-driving-factors-that-could-escalate-market-growth-worldwide-report"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 24
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/smart%20cruise%20control.jpg"
-        width: 672
-        height: 378
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "vUxs5O5gB2U4w2hPHZDKtmc2s+2C/a7Lo20ox5a/MKUCaG7HENFABKLVQk6bbJ6rwqcYCQNl3SCeT+WDKCXCaQARqExts8mfOzxKz7l3J+JSU1O1TEI0cvRNEPNgoqWqTOC+mHfmI4dGOl2iGQBmTtTdfSeJbT3WijHsERP1ncruThGT4bsikOen0fuhY8/eDr4BN0yIHt+D35Hu3XFHaPLK3DyF37DUudM/7U1vpB5OcH3cFx+F68Kh1LiVXdLm1dKWd/9Xt+vnngXVIlVMXaezFdWBTJybZhxkXnxZui4YGGB0MdLtabNzcc6yHtPLkODKWMH3iz4RQvILkPmbgCGdJSMD2dmgUaPDL1ki/BE=;TMvVWE1yAyZEBuK6v4M5MQ=="

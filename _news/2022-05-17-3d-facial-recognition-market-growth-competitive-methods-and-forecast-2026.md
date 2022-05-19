@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-ma
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026-2022-05-17"
 type: article
 quality: 67
-heat: 247
+heat: 257
 published: true
 
 provider:
@@ -261,6 +261,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Emotion Detection and Recognition Market Size, Competitive Strategies and Forecasts 2027"
+    excerpt: "In the research report, Market Research Future (MRFR), highlights that the global Emotion Detection and Recognition market 2020 is slated to grow"
+    publishedDateTime: 2022-05-19T13:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-competitive-strategies-and-forecasts-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "9PBI8cm7YKHmu8+uZHVLeCx8F7wivmu4B55xtc0Bd3LyIXFPbq2yiZZwTjRqI5w3JD6mdRxtyhyFBxkj0O2pmq9dN2w9JClf43Z19IRimpZah6WbMgVfWi2h8gbZ0iTWCsxMgA2T4w/34zjNmUga2MtWUoSjKdajPUVradKzyAa98vynWiSu5H2DjNrk2fA5jjFpPke4ZlSpZ48tOcU5yLEkZyItikA+O3uzKQMh8i1JB0qFjAkO+f72FYOADZPmOyD/pabBev3ohLBPzx7SydS2h/tUKIlw7mP4ihSIfLt2+1uwJlXCF09JJxq2P7MaOVSKWZyqd0Fl+dskxn9D2D+ae4+VVVvo1aLfbgVxKRM=;ihLzfrQKPk4zuX/mUTUxdQ=="
 ---

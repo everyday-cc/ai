@@ -31,6 +31,20 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 47
+  - title: "Using AI To Help the Deaf Communicate"
+    excerpt: "An Intel venture is developing a SaaS application that would translate sign language to English to help the deaf and hard-of-hearing communicate more easily."
+    publishedDateTime: 2022-05-19T15:35:00Z
+    webUrl: "https://www.designnews.com/artificial-intelligence/using-ai-help-deaf-communicate"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/deafpeople.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "3f5ImoObE4Yzy5zS0shgUjiAADbUhzvxkbIj4ukHKkquXLO41PjscK9yuJLXfKDgpXyXXAz7kGjeoX4CuGws+ryfdvM2JzISh1tmyE9AwZAbsBTrujObWY7uu8/Qm0ymdfuGmhgYcMDgiGZxjyeIk9bIMgSWS5XAfMsOXmOl/2THXuTWGT12uU1UCavPPfp4BnwgJjZPsuYSPZ5VM7aLojWznDylHV9fEe7pJzqAu9aWlyiiCzFLw92WwkuUsQ6j+Q42yukXapjIgAcPGhLn43CzSRfrNbv8MlcbcIFLr38Jn8/C0kgDLM85enQSy9a39VckJhFkxx3JFa2I+wbK7Id5p1xv43Fa72hV5LKQumU=;fKyywpDv7tiNfin88iQkng=="
 ---

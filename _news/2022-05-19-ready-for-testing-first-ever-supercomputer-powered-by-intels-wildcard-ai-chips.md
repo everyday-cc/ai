@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T11:28:00Z
 originalUrl: "https://www.theregister.com/2022/05/19/habana_supercomputer_nsf/"
 webUrl: "https://www.theregister.com/2022/05/19/habana_supercomputer_nsf/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: theregister

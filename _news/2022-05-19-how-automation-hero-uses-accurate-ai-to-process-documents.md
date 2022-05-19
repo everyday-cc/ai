@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T13:00:00Z
 originalUrl: "https://venturebeat.com/2022/05/19/how-automation-hero-uses-accurate-ai-to-process-documents/"
 webUrl: "https://venturebeat.com/2022/05/19/how-automation-hero-uses-accurate-ai-to-process-documents/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

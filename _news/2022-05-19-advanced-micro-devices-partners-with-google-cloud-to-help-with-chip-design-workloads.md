@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T13:28:00Z
 originalUrl: "https://seekingalpha.com/news/3840941-advanced-micro-devices-partners-with-google-cloud-to-help-with-chip-design-workloads"
 webUrl: "https://seekingalpha.com/news/3840941-advanced-micro-devices-partners-with-google-cloud-to-help-with-chip-design-workloads"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Seeking Alpha

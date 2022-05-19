@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T13:00:00Z
 originalUrl: "https://blog.google/outreach-initiatives/accessibility/building-with-the-disability-community-2022/"
 webUrl: "https://blog.google/outreach-initiatives/accessibility/building-with-the-disability-community-2022/"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Google

@@ -126,6 +126,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
+  - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
+    excerpt: "Predis.ai brings a revolutionary AI-based social media assistant to individuals and businesses to get content inspiration and create unique personalized content for different soci"
+    publishedDateTime: 2022-05-19T13:00:00Z
+    webUrl: "https://wgno.com/business/press-releases/cision/20220519IO63101/create-personalized-ai-powered-social-media-content-with-predis-ai/"
+    type: article
+    provider:
+      name: WGNO
+      domain: wgno.com
+    quality: 17
 
 secured: "S5SvcBxt5YCPkUnp5APmyZ/XR+HzyEm9UfjCffQlxTT07yZwj6WMGY0dqtweexysrtJeM41eK9JR9bJJcDhchoAz0eDbDlb26Ib9Yd6cOTbCRR8LNPUDiY7KBmnS/Cr9OsvVSoVH+rh2jAsXMEKQ6KoXBgMDM0b/EtsaT6DoERtLB2uSjnoO9K4Q5OOWZ3rwvbRCzu2zC+DpHHfkQ0K+5/WI9+TKl+j4RRWUnfJ2zT6Gz+uBKddopxGj+7D03Nd6vJioFZmPdxwwaBr14g6kZyXoK/pK6TfH4QlSJFocKb9X31VHbKRyVMKXAhXMbXqC7vfhLsSeAsO5zmLieTBW3XG/FVN+yH+gPFTxG4UREeU=;/DCMck8NWXJJMTwHi+HVLg=="
 ---

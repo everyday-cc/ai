@@ -80,6 +80,15 @@ related:
       name: Orange County Register
       domain: ocregister.com
     quality: 19
+  - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
+    excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
+    publishedDateTime: 2022-05-19T13:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/19/9605577.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Zs98I5rNvj2vXxA1oTQ4hUEWMm6OBmx8Hfxz0Ra3C36Hi352k9m32JRoipsXucxBtFPQGshPtyK/EZe2mx5ujAWoyon27ZXfz5w6400heI9jqVShv9vBQy/QaNxJZbqxf6si52vM0iJgyiW7o0KE6VwcH5wIfxyQoloQQx+rZJlwZ4Z3Eky4Yj/+jdrp7znUJIV7WVe/gznjTapvYRm1OG9U4Ug9YVVNk5jn1UbMHFNhe8OGZwzGuuSvMa5rNu/7YEJFXr4wNy0b+xu+D1+6n1Mk/RdTMCM7HcmeSJhT+PZxHQ/B5oL53csPtEVFZEem0HhQutNeqX9jO2mfkojdp5yNgX1U/nhIt5MENTRzplo=;58yg1Bq/HkqVSj9kB/INRw=="
 ---

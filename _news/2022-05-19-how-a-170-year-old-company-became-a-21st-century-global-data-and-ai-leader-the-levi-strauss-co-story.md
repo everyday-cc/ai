@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T12:22:00Z
 originalUrl: "https://www.forbes.com/sites/randybean/2022/05/19/how-a-170-year-old-company-became-a-21st-century-global-data-and-ai-leader-the-levi-strauss--co-story/"
 webUrl: "https://www.forbes.com/sites/randybean/2022/05/19/how-a-170-year-old-company-became-a-21st-century-global-data-and-ai-leader-the-levi-strauss--co-story/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Forbes

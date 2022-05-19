@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-suppor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/"
 type: article
 quality: 102
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -127,6 +127,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
+  - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
+    excerpt: "Predis.ai brings a revolutionary AI-based social media assistant to individuals and businesses to get content inspiration and create unique personalized content for different soci"
+    publishedDateTime: 2022-05-19T13:00:00Z
+    webUrl: "https://wgno.com/business/press-releases/cision/20220519IO63101/create-personalized-ai-powered-social-media-content-with-predis-ai/"
+    type: article
+    provider:
+      name: WGNO
+      domain: wgno.com
+    quality: 17
 
 secured: "qJe5GkV6nCpkThq9yvCMHhi48brkPw2Uy86zI0OvG/A8pI4gA/UTFlpSlOzq2gDaKWAyuNX5xoziJ/4kKm8lfXXra/Zv5qNW1CeUA4UTitVXU/vgf9Y+gjDMae62Yy2ao6uCKOG/RJbWspt1P2VaH+hckbJNOd/bLxuOp0oSx7pzTNu2rZV/0VEv6Ko4ZJglY5WvEJC+P6DlVLQS0nTfZWdPspX0phb97q12gJstwWx40/gueWopcsXrcdX/Z0iL28zgM22tj7ltmkziLnp8DMyso9zuRiu9h+JYoc/3+bMAuMBBEIsyqmB4JrWfIyd38UyDRuFHOQFeoHWRd2uBVzC5OKZ4PdSmSqo93zKdaXXysluOmfKeYZHCOuPeMUcY3Wb8duvMpmjMihJEygAKcbb3zxWvbtOUVQA/BQhV3JgM+MOk4l1SYloCYEV+8n3nhBmYCADyRsLoeWJc/gmCqhWSjguks674erhK899Dz4N5NfO32ZzRzU1PctylGNexOtuJHBmLeP6iSV+2kubRpA==;iEiHah6tkbFuVsk+E8Q+cg=="
 ---

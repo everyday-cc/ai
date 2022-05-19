@@ -7,8 +7,8 @@ originalUrl: "https://fcw.com/defense/2022/05/pentagon-closing-ethical-ai-implem
 webUrl: "https://fcw.com/defense/2022/05/pentagon-closing-ethical-ai-implementation/367059/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Federal Computer Week
@@ -39,6 +39,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Ethical AI in hiring makes good business sense"
+    excerpt: "By quickly and efficiently analyzing large volumes of data, AI significantly reduces the time spent recruiting great potential candidates."
+    publishedDateTime: 2022-05-19T13:18:00Z
+    webUrl: "https://www.benefitspro.com/2022/05/19/ethical-ai-in-hiring-makes-good-business-sense/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 34
 
 secured: "rfeIsZS5gYiMTVZGoZmXMrvFgyLqjTwLo8s2aMHxHa7Z2uec11dkmQku8cEGhX7D8uuobfyCa+1RRF8IitvOujK94tNGM4zxPIjD3RW0by0MYlu1w8l3pqd/y1lzVzcuzns/3a/al8UcdUr8gG23W3aQ9G07V7Qh5y6XhnH3mKh4dB3QzMgaRdb75boDpFn1f3cG1tzN/Sq0syTRyKPSlL0M5u3tWmNO103YGaGnNVB1Ly3QeL/qduxqpgXNNQFppQewjEuOGjo9U2sUaZ9fLfbtRoQXIuivBRQcOtDtvpwb0q5NdAC5zgmQ5SPeJJi+jDuEyX2HPiLwlzuDzPRopJXy1fbhTue616UKLfGt1Sf6OPrBIj+jdobRdjtzvWel0ZgQtaZYC1EP7Fw2adfJZC+t5/jUgGAJEJ6VXnFjlbZKAWOWz+OjlfWeOQ8/fK7Azgjhs5UWcuzHgM4tXl55FqC40af1nMhJgDu8MTwT9onHXuzTAF1Vm311AvTfdtg3nVl4K75tnpX3WpyM9yUDew==;LaFg4UTYDI4Q83lc9/ZUFw=="
 ---

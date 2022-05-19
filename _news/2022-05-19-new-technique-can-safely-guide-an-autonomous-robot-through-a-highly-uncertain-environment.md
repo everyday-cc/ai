@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T13:09:00Z
 originalUrl: "https://techxplore.com/news/2022-05-technique-safely-autonomous-robot-highly.html"
 webUrl: "https://techxplore.com/news/2022-05-technique-safely-autonomous-robot-highly.html"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: techxplore

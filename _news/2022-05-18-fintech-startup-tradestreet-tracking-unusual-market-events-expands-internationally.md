@@ -111,6 +111,15 @@ related:
       name: bna.bh
       domain: www.bna.bh
     quality: 19
+  - title: "Railz Appoints Fintech Veteran as Chief Operating Officer to Help Accelerate Company Growth and Expansion"
+    excerpt: "Railz, a financial technology company that helps banks and fintech quickly harness and analyze small-medium business (SMB) data, announced that payments industry leader Amitaabh"
+    publishedDateTime: 2022-05-19T12:37:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/railz-appoints-fintech-veteran-as-chief-operating-officer-to-help-accelerate-company-growth-and-expansion/article_05569e69-3e0b-5f8a-957d-4cd6239b87e7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 2
 
 secured: "8q4qaTyIdAnP6uO0qxPIplkCYohi3jas3O7J5A3HLj3I77vTdGhCgi+vhnjVptLOXxCM7LNi+mlx6iKYzAk3t4AITPYXW5Q7yqJ0YdmO0h1bdci/t35FNbn5GhKxrGgL5phi2pIzFKSKGM2Nl6rwBHrYneYMnWzijcWJVRG5n7O2hQ32kV9IH7bH407svXDiAGxtVNyMiIhYsFpnk5LdaD5MII/jzMrJxJMfX3PxNaCzJeaDcQ4bV5dccobW/q9Qu/XUNiwK81M3MSFhW+YYJSAEKzuXjXeiugFlG0SeN1A0PuY7hDJD/wgfqzHU0nGadJr8sp/ZKvZRqvIKoFCIDBM5CWZh4ns+mkZgTzCCoDVb7sEI8lXkkfiF2I9ch3gxrzUyMExX2YCaTdOGT+ly9GXL9t4vGiFteilp0L04VpwWB1l3HWpiLfRpstvnoGixD5uxznIGC5niK0mfoRQ5OEgWeCAo3I1ycVxIiZLYvfpU8WIGEPBIku8XhtOElunQ5M9sPUHkL7QZ2+vF5Yfk2A==;QJBIxCqv+OZW9xjpuJFngQ=="
 ---

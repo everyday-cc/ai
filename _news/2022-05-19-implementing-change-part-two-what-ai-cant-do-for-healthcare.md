@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/19/implementing-change-part-two-what-ai-cant-do-for-healthcare/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/19/implementing-change-part-two-what-ai-cant-do-for-healthcare/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Forbes

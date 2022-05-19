@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T12:46:00Z
 originalUrl: "https://www.zdnet.com/article/get-an-ai-resume-writer-website-job-board-and-much-more-for-only-40/"
 webUrl: "https://www.zdnet.com/article/get-an-ai-resume-writer-website-job-board-and-much-more-for-only-40/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: ZDNet

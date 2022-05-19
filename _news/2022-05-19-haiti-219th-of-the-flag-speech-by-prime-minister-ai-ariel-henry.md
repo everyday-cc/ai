@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T13:15:00Z
 originalUrl: "https://www.haitilibre.com/en/news-36697-haiti-219th-of-the-flag-speech-by-prime-minister-ai-ariel-henry.html"
 webUrl: "https://www.haitilibre.com/en/news-36697-haiti-219th-of-the-flag-speech-by-prime-minister-ai-ariel-henry.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: HaitiLibre
