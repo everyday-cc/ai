@@ -52,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Four Things You Should Know About Fintech"
-    excerpt: "Fintech is taking the banking world by storm thanks to its innovative and cutting-edge technologies. But with new tech comes new responsibilities and risks, so it's important to know what you're getti"
-    publishedDateTime: 2022-05-14T14:30:00Z
-    webUrl: "https://www.finsmes.com/2022/05/four-things-you-should-know-about-fintech.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech21.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "SA mobile telcos up their fintech play"
     excerpt: "SOUTH African telcos Vodacom and MTN are upping their play in the fintech sector, boosting their mobile money offerings through value-added services such as micro-lending and micro-insurance, among other digital finance innovations."
     publishedDateTime: 2022-05-17T05:00:00Z

@@ -52,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Four Things You Should Know About Fintech"
-    excerpt: "Fintech is taking the banking world by storm thanks to its innovative and cutting-edge technologies. But with new tech comes new responsibilities and risks, so it's important to know what you're getti"
-    publishedDateTime: 2022-05-14T14:30:00Z
-    webUrl: "https://www.finsmes.com/2022/05/four-things-you-should-know-about-fintech.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech21.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "FinTech Market Growing Massively by Xero, Sofi, Adyen"
     excerpt: "Fintech is allowing companies to reduce their costs, automate their processes and reduce the chances of error. AI Chatbots are used by companies as customer assistants for various purposes such as sales, customer support executives (by phone), and online ..."
     publishedDateTime: 2022-05-16T09:02:00Z

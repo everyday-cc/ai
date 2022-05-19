@@ -2,6 +2,58 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-03-08-technical-leaders-agree-ai-is-now-a-necessity-to-compete.md",
+      "title": "Technical leaders agree: AI is now a necessity to compete",
+      "excerpt": "AI is enabling new experiences everywhere. When people watch a captioned video on their phone, search for information online, or receive customer assistance from a virtual agent, AI is at the heart of those experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/",
+      "originalUrl": "https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fb25dda4-b8d3-4d62-8dbc-25a2ed930d44.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T01:00:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-gender-bias-in-recruitment-how-ai-hiring-tools-are-hindering-womens-careers.md",
       "title": "Gender bias in recruitment: How AI hiring tools are hindering women’s careers",
       "excerpt": "The odds are still stacked against women's success in the workplace, and artificial intelligence (AI ... and LinkedIn and on social media like Facebook and Twitter. The algorithms on these ...",
@@ -1101,57 +1153,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization.md",
-      "title": "Do You Need To Build Or Buy AI-Based Solutions For Your Organization?",
-      "excerpt": "Business leaders face a common dilemma in deciding between building and buying enterprise AI solutions while they plan to adopt AI for their organizations. They need to consider several factors about AI technology to make an informed decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d5c7c54cb1e138c0952e/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 921,
-          "height": 915,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/amp/",
-      "publishedDateTime": "2022-03-07T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

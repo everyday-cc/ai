@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-04-26-as-supply-chains-tighten-logistics-must-optimize-with-ai.md",
+      "title": "As supply chains tighten, logistics must optimize with AI",
+      "excerpt": "Artificial intelligence (AI) is quickly making its way into every supply chain logistics link – from demand forecast to robot delivery and route optimization in the last mile – to meet today ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1341282481.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/amp/",
+      "publishedDateTime": "2022-04-25T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-speech-and-voice-recognition-market-worth-usd-283-billion-by-2026-fortune-business-insights-research.md",
       "title": "Speech and Voice Recognition Market Worth USD 28.3 Billion by 2026 | Fortune Business Insights Research",
       "excerpt": "Apr 26, 2022 (The Expresswire) -- Speech and Voice Recognition Market Size, Share and Industry Analysis, By Component (Solution, Services), By Technology (Voice Recognition, Speech Recognition ...",
@@ -1046,57 +1098,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive.md",
-      "title": "Web3 startup Internxt, valued at $40M aims to compete with Google Drive",
-      "excerpt": "Valencia, Spain-based startup, Internxt, is building distributed internet services for Web3, designed to compete with those currently provided by Google, Microsoft and Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/",
-      "originalUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/web3.jpg?fit=800%2C431&strip=all",
-          "width": 800,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/amp/",
-      "publishedDateTime": "2022-04-25T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

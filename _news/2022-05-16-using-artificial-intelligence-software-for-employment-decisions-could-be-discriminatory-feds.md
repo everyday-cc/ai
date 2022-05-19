@@ -7,7 +7,7 @@ originalUrl: "https://www.mcknightsseniorliving.com/home/news/using-artificial-i
 webUrl: "https://www.mcknightsseniorliving.com/home/news/using-artificial-intelligence-software-for-employment-decisions-could-be-discriminatory-feds/"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-related:
-  - title: "Bosses using AI to hire candidates risk discriminating against disabled applicants"
-    excerpt: "The Biden administration and Department of Justice have warned employers using AI software for recruitment purposes to take extra steps to support disabled job applicants or they risk violating the Americans with Disabilities Act (ADA)."
-    publishedDateTime: 2022-05-14T15:00:00Z
-    webUrl: "https://www.theregister.com/2022/05/14/recruitment_ai_disabled_discrimination/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/14/recruitment_ai_disabled_discrimination/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 51
-    images:
-      - url: "https://regmedia.co.uk/2022/05/13/shutterstock_robot_recruiter.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "yJyYS5GobZYSoMmnZ+NGeSh5uLeqOUVzjZOWFwlPY0Ly9sFbaR0Cco9gcAxP6JqFMbj+IscOEQXlH0hzKsa21Ws4Qtzy/wwDjzbocEKklwpL+5/npmRxSN1T2KgAqDcK69k/+bHSYz9cAT9m07PHOWX1ROtFmWgN7k5qLeQgU5N3a0siu1a6/mUDqhE8oPfsmd97T1mc/DniU6UIYbRhy86x9jyid4OTTqX7EIKM2wfQJMkBgkwhC1fmWJe1ouBggyVDw6o1u2m9XyUHtxEpAO7tXhu8tmkvlMoTL8E/7H4eKO9ogHou/B9gTbKBbz+yViUJEq/Hj8IawMNvibWA7BX/kyrPDlrcIJg0K47PfEI=;Sgy+4I7Pu26h8ygxOuGB2w=="
 ---

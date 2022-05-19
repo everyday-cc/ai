@@ -2,6 +2,57 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-04-28-how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud.md",
+      "title": "How AI-driven company Oculeus helps telecom service providers better combat fraud",
+      "excerpt": "Oculeus claims its solutions use AI to help its customers better manage and protect their business and network operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
+      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1364721861-e1651091651812.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
+      "publishedDateTime": "2022-04-27T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-uae-vows-responsible-artificial-intelligence-rollout.md",
       "title": "UAE Vows 'Responsible' Artificial Intelligence Rollout",
       "excerpt": "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university ...",
@@ -1113,49 +1164,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses.md",
-      "title": "Bell and Amazon Web Services launch AWS Wavelength Zones to advance 5G for businesses",
-      "excerpt": "This enables software developers and businesses to take full advantage of 5G networks and the cloud with AWS to build solutions that leverage real-time visual data processing, augmented/virtual reality (AR/VR), artificial intelligence and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.canadianmanufacturing.com/manufacturing/bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses-281082/",
-      "originalUrl": "https://www.canadianmanufacturing.com/manufacturing/bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses-281082/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.canadianmanufacturing.com/wp-content/uploads/2021/10/PLT_INDUSYRY4.0_WSUPERBIXBOX_SEPT21_JLR.jpg",
-          "width": 300,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Canadian Manufacturing",
-        "domain": "canadianmanufacturing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

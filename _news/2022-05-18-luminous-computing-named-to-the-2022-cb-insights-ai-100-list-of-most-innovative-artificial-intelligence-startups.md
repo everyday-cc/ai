@@ -1,29 +1,43 @@
 ---
 category: news
 title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
 publishedDateTime: 2022-05-18T15:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
+originalUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial/article_0e6af082-dfa6-50d3-ba1a-b6b6c08147b5.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial/article_0e6af082-dfa6-50d3-ba1a-b6b6c08147b5.html"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
     isCached: true
 
 related:
+  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "\"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100. This year's cohort spans 13 industries, working on everything ..."
+    publishedDateTime: 2022-05-17T20:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1031469975"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
     excerpt: "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". The word \"Markets Insider\". Two crossed lines that form an 'X'."
     publishedDateTime: 2022-05-17T16:06:00Z
@@ -80,20 +94,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Factory optimization software maker Fero Labs is recognized for achievements in industrial automation for modern manufacturers NEW YORK, May 17, 2022 /PRNewswire/ -- CB Insights today named Fero Labs to its annual AI 100 ranking,"
-    publishedDateTime: 2022-05-17T20:46:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "WellSaid Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial ..."
     publishedDateTime: 2022-05-17T13:05:00Z
@@ -122,6 +122,20 @@ related:
         width: 1250
         height: 653
         isCached: true
+  - title: "SparkCognition Named to 2022 CB Insights AI 100 List of Most Promising AI Companies in the World"
+    excerpt: "Unicorn valued AI software company recognized for fifth time on prestigious list AUSTIN, Texas, May 17, 2022 /PRNewswire/ -- SparkCognition, a global leader in artificial intelligence (AI) software solutions for industry,"
+    publishedDateTime: 2022-05-17T14:14:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-f2186772fd3949dc6233de1ca9d14181"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cresta Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "SAN FRANCISCO, May 17, 2022 /PRNewswire/ -- CB Insights today named Cresta to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
     publishedDateTime: 2022-05-17T13:07:00Z
@@ -140,6 +154,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 15
+  - title: "Accelerating startups with unchartered resources–a pivotal tool in the Startup Nation"
+    excerpt: "In this cohort, Intel Ignite received 200 applications, and selected 10 startups, in various industries including AI, digital health, robotics, sensors, hardware, developer tools, and cyber security. With Intel Ignite, each startup is working together with ..."
+    publishedDateTime: 2022-05-17T12:00:00Z
+    webUrl: "https://www.geektime.com/acceleration-programs-israel-intel-ignite/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 0
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
     excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
     publishedDateTime: 2022-05-17T18:00:00Z
@@ -150,6 +173,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "bY+BgOnUkY7ftrO5+BCA9TGYxvO3cEQpwKy6F5SaHXafwnSgE+p70703HHMNpu3IhzM7gSPYvuhe/plDKO7QgscDg/SzY0dw/CwxIUiy/1rcfM72fuOEKSmWDxdidQMb2jZiwOjrN8u32nidnqBgTmD/Y59fPoCeX7FGhMGtmofTpx49eXT5e2/6nJyvQIy2wRempCjf6yrDIp+7T/AzYX9/6yqTnJVPUEbKtTRC5tDLJ6/xGOX7pB+YMK1n5m6uobRxgC/iqzkvpxjaxr0zM6RoPlG5NL2K3CtrgMDpPD9cjRj2X8MwTwpwauvmmddXnI7YRviOJsykuOIjByXzBeFQWKynHo/A0u/QxkXI6Dk=;5LOkqHKLhmML7KFNzNYWdg=="
+secured: "movQg+b5nTplgREUnR7mAtODoULkdhzHRWAgT6dTO7+60mIw9zATuYB2dIA+9h3Mmy7eoBmMaYtnUAGZSTFYb73vataxouj2bXPL7cIomDko8UlRaNz0rJa5Fm4QqF207yURMroToitAs5PVKyqz5vvuzp5eFuvexMKMys+zSQNieHn17eMW4Phwn4TnqyXmR+S2q+8fyxeG2CneX4GK/Aj33f0I7ERAUUE1VnKVzWOooyPsHnQq3O3Ams63F5sS1mJZMb0SWioP8BoeW+dFiyzqCSo8Zo6fK2eFRyrMr5AVLeGqERKEQSR4voNe48tdMHee1Zf3tAIf7k7/XcWelHC5JVJc08IkiZ2urvybtYk=;2sloGzZwanKqyvRd6LV+yQ=="
 ---
 

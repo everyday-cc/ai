@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchron
 webUrl: "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,19 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Synchrony Financial Stock Lost 10% In One Week, What To Expect Next?"
+    excerpt: "Synchrony Financial stock (NYSE: SYF) has lost 10% in the last week, underperforming the S&P 500 (up 0.5%). Further, the same trend was observed over the last ten days (-11% vs -3"
+    publishedDateTime: 2022-05-19T05:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next"
+    ampWebUrl: "https://www.nasdaq.com/articles/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "LW7sq6fWG9t811QfWyC13MheQd3QloMezKWchBLJsT+UiB1qCwRZcpHEy7+xUhtGnEr8nJn4hLDX8RWSWAjFFCjrt7l+Hj+4g4JUk2pd1ZPB2hiMxlL9Ta2XEFU3qvp+Qn19Q6jVxS2KeiJpmZHVfN+5jvBlG1Xa25ZpsYOEVVQEE9SRRpO+W999UL+AxvAgSm2e7/jwpcGfWIdK99hsDHnHIUsAtyFjrzXj0MtiVqgnUOeHhJo4Ty0zhWMcWcjENLRj83LP6tKydIHtLcJJFgohvDHbMvFG2gmUT3IcWdjSKANLEafr8ovKMRZ1RFpvLmRPByUYa4vC2j3Q+ApdWXD94By93TN9rw/dRypvmaQ=;Roap1lOtsWzOHT4GZaMvyA=="
 ---

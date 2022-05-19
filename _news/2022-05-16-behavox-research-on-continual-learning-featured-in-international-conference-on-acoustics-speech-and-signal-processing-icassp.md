@@ -2,9 +2,9 @@
 category: news
 title: "Behavox Research on Continual Learning Featured in International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 excerpt: "Behavox, which provides a suite of security products that help compliance, HR, and security teams protect their company and colleagues from bad actors, today announced that its academic research paper on artificial intelligence “Continual learning using lattice-free MMI for speech recognition” has been accepted by the International Conference on Acoustics,"
-publishedDateTime: 2022-05-16T13:07:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
+publishedDateTime: 2022-05-16T13:03:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
 type: article
 quality: 0
 heat: -1
@@ -37,6 +37,6 @@ related:
       domain: sourcesecurity.com
     quality: 54
 
-secured: "U7d9Sbf1rqTpFoPuFiwTjpduzcepn+EvufNc91JWwKd8kHRCaWB4H2mCMDNOyKjrmMNRHYEJHBVihCiuKdU4DniUdwx64MFn7Hxie7CWORsIZ25KcCxMXSOUT5old1B6p8rk0JusVH7/m2sxrYNEQL2BiwqOKpXHC1KyeA4s2pHJOlamawkE2ivuNuCIwoHO15x2vrmUBpdj18S4kryRdX2YFrfGBKzojZIrTZMbD0iAaFidyc9BP5L8MyKDMxxXMAmEA04hsezgXRjpoNV3b+NGIJU9vqYeiTbLPvEKAL0gbKNqRbgbZ6usgn5+SFKBPrJLw75OZc3fgpQAEUtqA16ZofhFudj5nmDHvY6i6mM=;8bbdEXEUulIK3SOODwR5PQ=="
+secured: "a5HMPMSSkiQC0mDMlGaZWKh2VePQUxKppzRS3j7lYxCFADNfeUKXmjl/xjr/AhbVW/lRvnjG8GHAlMqGwmGGxVeGFQtC0lofS+WfWzcGQcvSHvlp8z+rq1SYpZXOO3GR8+lmHY9Gx+0LCKbzdJ1Bu4fns47dqwt4rnR3ny8WSc4bWpPbLGf7I0EXSSXYq0KzUspu6UmDUX+q2wGrsEjthFfjWZj9aJDbmLMCb39eRlUZbaYwS1NmJ+2MyK26AxmH7V2aJRgfVjFh8k2Of5+ttqChrMbb2xJkn05U5Ju/52u0t30/Dbkrqdyo/IC5eF1wodIYyKuoaobuQffMBDQW8uXlJf11Hu1WuhnvXA+RfaE=;iUqoQJd+YRsh3dVOgQzuyA=="
 ---
 

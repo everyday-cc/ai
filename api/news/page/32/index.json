@@ -2,6 +2,57 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-04-19-soundfuls-ai-powered-platform-empowers-new-future-for-music-creation.md",
+      "title": "Soundful's AI-Powered Platform Empowers New Future For Music Creation",
+      "excerpt": "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1799706/Soundful_black__2_Logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-kemtai-partners-with-recoveryone-to-offer-sensor-free-virtual-physical-therapy-solution.md",
       "title": "Kemtai Partners with RecoveryOne to Offer Sensor-Free Virtual Physical Therapy Solution",
       "excerpt": "Powered by Kemtai’s proprietary computer vision technology, RecoveryOne’s new Motion Trainer feature provides physical therapy patients with real-time feedback and guidance during at-home sessions without sensors or other hardware NEW YORK,",
@@ -1052,49 +1103,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-using-ai-to-help-san-antonio-radiologists-reduce-x-ray-reading-errors.md",
-      "title": "Using AI to help San Antonio radiologists reduce X-ray reading errors",
-      "excerpt": "Dr. Rajeev Suri, seated in front of a desktop computer, searched for signs of lung cancer on a digital X-ray emblazoned with red, orange and yellow clusters. The colors weren’t highlighting cancerous masses,",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php",
-      "originalUrl": "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/25/20/21/22348879/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

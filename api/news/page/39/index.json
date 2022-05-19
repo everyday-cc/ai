@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-04-13-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a large increase in short interest in March. As of March 31st, there was short interest totalling 16,800 shares, an increase of 217.0% from the March 15th total of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/",
+      "originalUrl": "https://www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks13.jpg",
+          "width": 1024,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/amp/",
+      "publishedDateTime": "2022-04-12T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-aventis-collaborates-with-ibm-to-automate-training-management-system.md",
       "title": "Aventis collaborates with IBM to automate Training Management System",
       "excerpt": "Aventis used IBM Watson Natural Language Understanding to ... Aventis taking the first step to embrace the growing trend of AI and cloud to gain a greater advantage in the market.\"",
@@ -1091,49 +1134,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-how-is-ai-helping-to-transform-the-finance-industry.md",
-      "title": "How is AI helping to transform the finance industry?",
-      "excerpt": "Companies in the financial sector are leveraging artificial intelligence to analyse and manage their data, here we look at how AI can transform FinTech",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/financial-services-finserv/how-is-ai-helping-to-transform-the-finance-industry",
-      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/how-is-ai-helping-to-transform-the-finance-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/1800/639523f2fe059fecbaf19b19e4229d27:52c6854f2cf421a7f0acf4e0746803dd/gettyimages-1163919598.jpg.jpg",
-          "width": 1800,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

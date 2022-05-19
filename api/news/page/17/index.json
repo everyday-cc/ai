@@ -2,6 +2,40 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-05-03-deep-learning-model-able-to-detect-emotion-related-to-covid-19.md",
+      "title": "Deep Learning Model Able to Detect Emotion Related to COVID-19",
+      "excerpt": "Researchers have developed an emotion detection AI model that could be used to help emergency responders direct people to mental health services during a pandemic, a new study finds.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/deep-learning-model-able-to-detect-emotion-related-to-covid-19",
+      "originalUrl": "https://healthitanalytics.com/news/deep-learning-model-able-to-detect-emotion-related-to-covid-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/deep-learning-model-able-to-detect-emotion-related-to-covid-19",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/deep-learning-model-able-to-detect-emotion-related-to-covid-19",
+      "publishedDateTime": "2022-05-02T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects.md",
       "title": "Square Enix Sells Deus Ex, Tomb Raider Studios to Fund Blockchain, AI Projects",
       "excerpt": "Game publisher Square Enix is selling off the studios behind the Tomb Raider and Deus Ex franchises in an effort to streamline its business and fund new AI and blockchain investments. The deal, announced today, is valued at $300 million.",
@@ -1065,49 +1099,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-01-bioimage-analysis-has-deep-learning-changed-the-game.md",
-      "title": "Bioimage analysis: has deep learning changed the game?",
-      "excerpt": "Beth Cimini explains how deep learning can be used to make image processing faster, especially as bigger data sets are being analyzed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biotechniques.com/lab-design-machinery/sartorius_ba_sptl_bioimage-analysis-has-deep-learning-changed-the-game/",
-      "originalUrl": "https://www.biotechniques.com/lab-design-machinery/sartorius_ba_sptl_bioimage-analysis-has-deep-learning-changed-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.biotechniques.com/wp-content/uploads/2022/04/Microscopy.png",
-          "width": 601,
-          "height": 258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-30T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioTechniques",
-        "domain": "biotechniques.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

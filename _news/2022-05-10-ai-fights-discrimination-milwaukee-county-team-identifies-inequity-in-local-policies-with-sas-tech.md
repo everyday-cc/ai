@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech"
-excerpt: "The team used SAS Viya ® software running on Microsoft Azure cloud platform. The combination of AI in the cloud gives Hackathon teams – and businesses, government agencies and universities ..."
-publishedDateTime: 2022-05-10T15:05:00Z
-originalUrl: "https://whnt.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
-webUrl: "https://whnt.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
+excerpt: "SAS Hackathon an incubator for innovation and social justice. CARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data scientists and technology enthusia"
+publishedDateTime: 2022-05-10T14:35:00Z
+originalUrl: "https://pix11.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
+webUrl: "https://pix11.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
 type: article
 
 provider:
-  name: WHNT
-  domain: whnt.com
+  name: WPIX
+  domain: pix11.com
 
 topics:
   - Microsoft AI
@@ -21,6 +21,6 @@ images:
     height: 267
     isCached: true
 
-secured: "765sGqqM5ojoTdypr6XNY7KpeutH+MWAv1NLAD7Zd9LFPX6xoTU2wmn6YuEHBIKrX7O7Bc8BZsglr0EUuhChBcvyUoDI2Npn5KyfEt30tY7KkZeGGS4RSMHIWxKzJHhGBPAMkCsngVbeEhMQ5JmOGGxmwLw/nz3BR3RhDNVG/tFM98sxXVUAnrVcSIkB4NVcleb3N5sFybxPSCDB7nzGYRpIrhiSOrlKbejiETbcGk2kYEbsH8fxAHlAaIt37FnPnmFdrDB7qCOKEVDbtje32vu+hZMGBqEY7jzfz2Afd53bWB/f5k7cSK8cOm0q0KNcfvXPL7RD6HcDu2ojngquHjp2yezTSdfMfKK8V5d6OPk=;b8GtxGjdZAAGHlk+EcW6Ug=="
+secured: "NSiPwLp6qQZuoIuR7TpddTl3cMt4SRFlrSnNPNkZgjgxxDUEBUG7asoBGHKZ71z8MPIDdWqdzIURBMPbLYNJmOmY7oUq3IeXbwsu04fEQrIZp0h6uo4pWM96lJ08hFz9wXYgCxuK7Cyi2daf3Xoas8nvD6LCoBqkudXJYv3qSZyEtFWThdZ2XLdL/5yr8oTNlv8ttn1InE1Mfsv7zMk46MdQMY6VARPHVvYsu2kI+p43TIsGqGBrACi5MS9tUpehwhhjmC3Y1x+KPBDP2o7ITeje69UNl4O0v4bE6OK2RSQXoPC3fvIas+3Vv7bvfzDZ3WB2tQQ5dQE2ojO74WQU85zlALcd9/t1j5zbPXpoNsg=;nzHRBfjO6LuD7/QKNTeKrQ=="
 ---
 
