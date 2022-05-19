@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-publishedDateTime: 2022-05-18T15:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
+excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial ..."
+publishedDateTime: 2022-05-18T15:36:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220518005739/luminous-computing-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
+webUrl: "https://www.morningstar.com/news/business-wire/20220518005739/luminous-computing-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
 type: article
-quality: 33
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Autos
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
@@ -123,6 +116,20 @@ related:
         width: 1250
         height: 653
         isCached: true
+  - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
+    excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    publishedDateTime: 2022-05-19T17:05:00Z
+    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 26
+    images:
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+        width: 800
+        height: 340
+        isCached: true
   - title: "SparkCognition Named to 2022 CB Insights AI 100 List of Most Promising AI Companies in the World"
     excerpt: "Unicorn valued AI software company recognized for fifth time on prestigious list AUSTIN, Texas, May 17, 2022 /PRNewswire/ -- SparkCognition, a global leader in artificial intelligence (AI) software solutions for industry,"
     publishedDateTime: 2022-05-17T14:14:00Z
@@ -155,6 +162,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 15
+  - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
+    excerpt: "\"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100. This year's cohort spans 13 industries, working on everything ..."
+    publishedDateTime: 2022-05-19T16:45:00Z
+    webUrl: "https://fox59.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
+    type: article
+    provider:
+      name: FOX59 News
+      domain: fox59.com
+    quality: 6
   - title: "Accelerating startups with unchartered resources–a pivotal tool in the Startup Nation"
     excerpt: "In this cohort, Intel Ignite received 200 applications, and selected 10 startups, in various industries including AI, digital health, robotics, sensors, hardware, developer tools, and cyber security. With Intel Ignite, each startup is working together with ..."
     publishedDateTime: 2022-05-17T12:00:00Z
@@ -174,6 +190,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "0wd559j7biZn1me5sggYQw0PbdwVKuAhNjncMh5n7RL1l2Su03tcMEDnsvnc9uxdUeY3qv257xHhTKu+MdNfPBQOYc43YjvDeaYxdr+BsQiVhKXyEhzxvZFiVB5Vx1qyzluDSV1AsDn/n1G0k3UCVs5lTmDPzsMAVes+oBleOfTRIb3CV0G9rIvgaVSTNiTPvDv1ZRjT5K+MkK9tSHNK7acfYDeTHlyXoxuUqRRdzwttUDSxXeMRlK3+See50Ezy/8OAXontmiStmV4WaTToJvBbZd3+5fJSfGs+f1khKYE48ComffSYLb0DjtLhPn+X0rcdMg/dYmQW3xCw5+9Yv3AdEZF0JnNLCMYxXu2tgb0=;0Gb52mnsC+cs7UDFKI5wqg=="
+secured: "5kgXLWb05sDWvmecJ+Zrm0Px8BgJjuv8wt3XxjnqwufsHGxLp5c9q/sXYtfu/5AwquL/qCYKKkys5vmbBEiRcC4WHu9BOVqU7M+4igbX6atqegcuf6Fy8kdkSN5hIr16XPRZK9FfXHk3tmX15jIZd/3kOYQdaEL7P67xpw1aAwi99/gENXwDhZEKCDPLbO863pjUopzX0dZp0aCkwy8z0baHxxepik+V4RKXumKU2K2Iv9p/9ezYhJW2VKvs0/QsceaCoJ1FpNsFBAfM60mCe6qYTbdnMcaaMkJJkFuQw3LAgQ281z58/H0+skVDPf1MpqQo5745wLR3LreAMY3AJgLMK1d/gRW34KSBWO8RDYE=;AOz7ywltuxQCmJjASexoQA=="
 ---
 

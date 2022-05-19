@@ -47,15 +47,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Call Center AI Market 2022 Development Status, Competition Analysis, Type and Application 2032"
-    excerpt: "The FMI study finds that the call centre AI market was worth US$ 1.3 Bn in 2021 and is expected to grow at a 13.5% CAGR during the forecast period. Growing client involvement through social media platforms,"
-    publishedDateTime: 2022-05-19T07:12:00Z
-    webUrl: "https://www.fmiblog.com/2022/05/19/call-center-ai-market-2022-development-status-competition-analysis-type-and-application-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 7
 
 secured: "P+LwMGQQHxR1+BbX0XLNVUapy9KtE+bXLqO1Kn5hJqs8KS5e3xSeSJAkeYnC3kMddU9slKOrKO+oSzm4cIYvgZPQwLkbwlL9Ap6802Ov1xuBFiVTp/eMnte6gHoxl/JckIFIEuZ1P3kmCZaxRe+iLMxuAUupOieuJ+TqDV3BYXH2g/ofpzw6h8/Kuc20MZc/w0huD7pJvOqc5QSLkRgLAS7UZIZupYihmvbZRuIQwTyMHQo3WELUfJxw6dU1jL49MaeXSmoAR8KaQwm+4oNCr324TdRBhuss20OiWKn3v0kwLz84WrSnIgffBR/z3K43HeJLzTqxkKMKLwDOHEuVCTRLlYIeYqpIi8oZhpUGfCY=;c8Qur598VKlR1fi3pqjwXQ=="
 ---

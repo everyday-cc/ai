@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
+  - title: "Robotics company GreyOrange to add 300 jobs as retailers turn to automation during supply chain delays"
+    excerpt: "The supply chain innovator anticipates 100% growth as more retailers turn to automation during nationwide labor shortages."
+    publishedDateTime: 2022-05-19T17:46:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/fundings/2022/05/19/robotics-greyorange-hiring-atlanta-supply-chain.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
 
 secured: "hxbrqZIa5GE8YiLtzbpPCupa9UL6RuhFapC+foE+zTVF9kb6l+L8YPSAP0KoOZKofUgr83YTIBQPKuU5sqybz8at82Lq9Ro3w5cp65eKDAUKb8GCTM6H5oRm6f+/XKUBP47T8frlnYJSqEh8hbN/OQYZRrg9doD8UqqkYpcPOcqtezS1H7KfPKYfNDTGzRd/MsC4sq7BSWXw4rfo42zeeB+dEUvQBKtLPI9amtcsZ7tDYW5iuiT8D9YQYP7GKI630+V3mQ8vrRHhQr2aD8OLTImg9GmAjbqnYTxtZt1GMsR+yeESzLzvVv9UyurAOCz99Q+iUVPblWxrnk24AyF9Yufrj/LMFyU8MmRcaARhGJ6zK1mM37Y8IJHsSARGHGezI203qhaqn89RQDlocz1ndAq16KRMWQDwUcaeGb5Pd29mqe0Dz/0XH2mWOD+42+9Uu4l28y3FLnqpJHanq0S++RO+yLFI82JIfbi5UXNGo4SnWG1qMY9ixS+AEtjQgN6qwN567faEda/pTN29MDbI6w==;T383fVNhoqHWv6dO5akLZw=="
 ---

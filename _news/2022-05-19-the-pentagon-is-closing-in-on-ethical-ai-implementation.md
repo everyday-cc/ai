@@ -39,6 +39,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Pentagon closing in on 'ethical' AI implementation"
+    excerpt: "The Defense Department is still finalizing an implementation plan for its artificial intelligence ethical principles, according to Jane Pinelis, the chief of AI assurance for the Defense Department's Joint Artificial Intelligence Center,"
+    publishedDateTime: 2022-05-19T16:00:00Z
+    webUrl: "https://defensesystems.com/ai-analytics/2022/05/pentagon-closing-ethical-ai-implementation/367143/"
+    type: article
+    provider:
+      name: Defense Systems
+      domain: defensesystems.com
+    quality: 54
+    images:
+      - url: "https://cdn.defensesystems.com/media/img/cd/2022/05/19/051722_getty_fcw_pinelis-3/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Ethical AI in hiring makes good business sense"
     excerpt: "By quickly and efficiently analyzing large volumes of data, AI significantly reduces the time spent recruiting great potential candidates."
     publishedDateTime: 2022-05-19T13:18:00Z

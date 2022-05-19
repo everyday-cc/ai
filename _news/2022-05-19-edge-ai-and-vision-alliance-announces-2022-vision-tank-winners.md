@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Edge AI and Vision Alliance Announces 2022 Vision Tank Winners"
-excerpt: "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit."
-publishedDateTime: 2022-05-19T06:57:00Z
-originalUrl: "https://fox40.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
-webUrl: "https://fox40.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
+excerpt: "May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit. The annual start-up competition, which showcases the best new ventures using visual AI and computer ..."
+publishedDateTime: 2022-05-19T04:51:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/article_ede9a09d-746d-5aec-aab5-9013754e4e13.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/article_ede9a09d-746d-5aec-aab5-9013754e4e13.html"
 type: article
-quality: 39
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: FOX40
-  domain: fox40.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Computer Vision
   - AI
-
-images:
-  - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
-    width: 800
-    height: 328
-    isCached: true
 
 related:
   - title: "Sequitur Labs EmSPARK Security Suite Wins 2022 Edge AI and Vision Alliance Product of the Year Award"
@@ -49,6 +42,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "zQztxp5oymxLsZkJq5/ctNASX8IpxXFGKFkSOq9kMuwjZL+9GGaQpQZxMHdm3Jf3Wq3oSXFZ+CjwABH/EotQwy+INml+i+cax8MTe0h5gOKX0mCtDwQ42IVibea1GWslKlPJOOkyCCsu9H6QSm6G2tQ4uVjiNR9mHgEhKfeEVSDDogS/co7rqDDSBQ2ZG8z5y6e8Q98ZFdXOEa6/bZ6RVMKwnyTedm2bPX9iIiDeDWe0CYOzX3CztTVZgXwKZBkRd5b8EYVPPvk2DIpw+fnjiI23mc2f0SkXCYhmcGw9a99SA5v8GMnkdUEdOv5yW9XrqrDvwH4T5aVCSyWKBaQdJO6BOAJofRc2CUdEhreNNQE=;Z/VkhIhMsj8yz/U2echj2Q=="
+secured: "Z+BDydS04zLumSpyREVsOvqQAp2sOCiCojy9ES/UD3JVnCIvnuKmU6ZU4O/JRUBHxrFoWqWRrJszctuplqUPB3xQhYkyj2Yyle+uDuy07VlMam334PFHaOg6MX4TCNJetK2UIPmoP5VfOQxS42DVU8dIA/nIQwzi8mz7gKWoQaOL+uvb/bPoAVj5A0uZ285oA+zTMgKlFfxAjpvLshE9xEyHBCyBPPu/0zzjXGA3qylc4J6wjeQW9obqpik6DnrhKDW2Sq+A5jeNx3v+7U3Ao2WQarNIBVExwvF5VWoq93i7OdWQdcutAul7Skxft3mRDFWZhkShiDttTZ/RGZ1RvLUIO1C1z1P9jNUH3SdFY94t/8HWowiAE00onQn1tVdPqvMT89Pq5PON0/ZJ3oU0/sFOfZtKGYtcsVlJt2nIW18R+86JU0YHC170ED+Gs81bD+RXZmJCoFePobwGi/oWBro6HAQHSRl1a46VQgW1frB53z6Vn6Sf4YOwB9RtAulh4HcihHOyGuvsNUVdlRVuMw==;2esnuglE0FPOTPjXtV/coQ=="
 ---
 

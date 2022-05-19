@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-mac
 webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-machine-translation-results-by-using-fuzzy-matching-with-amazon-translate/"
 type: article
 quality: 111
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Detect social media fake news using graph machine learning with Amazon Neptune ML"
+    excerpt: "In recent years, social media has become a common means for sharing and consuming news. However, the spread of misinformation and fake news on these platforms has posed a major challenge to the well-being of individuals and societies. Therefore, it is imperative that we develop robust and automated solutions"
+    publishedDateTime: 2022-05-19T16:12:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-social-media-fake-news-using-graph-machine-learning-with-amazon-neptune-ml/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/19/graph-neptune-fake-news.jpg"
+        width: 1000
+        height: 499
+        isCached: true
   - title: "Relativity Announces Microsoft Machine Translation Integration + More"
     excerpt: "At Relativity Fest in London today, the pioneering eDiscovery and investigations company has rolled out a mass of announcements, ranging from a focus on ethical AI, to NLP-driven sentiment"
     publishedDateTime: 2022-05-17T09:35:00Z

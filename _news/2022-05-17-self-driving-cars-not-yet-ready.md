@@ -41,6 +41,17 @@ related:
         width: 708
         height: 394
         isCached: true
+  - title: "Twitter Users React to Possible Windowless Self-Driving Apple Car: ‘Of Course Apple Won’t Support Windows’"
+    excerpt: "Apple's self-driving car could feature VR technology and no windows,” tweeted VRScout, accompanied by an article."
+    publishedDateTime: 2022-05-19T17:22:00Z
+    webUrl: "https://www.mediaite.com/tech/twitter-users-react-to-possible-windowless-self-driving-apple-car-of-course-apple-wont-support-windows/"
+    ampWebUrl: "https://www.mediaite.com/tech/twitter-users-react-to-possible-windowless-self-driving-apple-car-of-course-apple-wont-support-windows/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tech/twitter-users-react-to-possible-windowless-self-driving-apple-car-of-course-apple-wont-support-windows/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 6
 
 secured: "4R6ofdTrXBhDYsql4ZYRi+HXS0o8oGmmRwlrLTAVxdTXTbjSup9oEJzKQ08s+smIgauG6Fivl0TcRm04pR9vzpPGJyDbEjtNtgat3/sAyc64znETJifHRQpUDIXf7o9x0S5FqYZuk9vr9IsUOalJCL6QgXXcOtdV9aEwHIMVxStv7khLVos/j2/8lZV83PIx8ZNmVfhMXEVCVjPmO9ZLZEgjFm9WaNmhe7zVABN9u2jV42X6kljbB2J6LGgClDkyrYedMGvysUlm8/W2CWq/rgtPR7lhpS/dH8oEnB0Yj8EeAdhz/iSPSudAfPRaRRqDksu5znYqvGx+AlJHUZCU4pNH/UouvhvO/bfEvKu/QBs=;qjHEWMpTgNxwFGZaroZ0BA=="
 ---

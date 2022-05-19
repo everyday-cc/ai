@@ -40,6 +40,20 @@ related:
         width: 780
         height: 493
         isCached: true
+  - title: "Detect social media fake news using graph machine learning with Amazon Neptune ML"
+    excerpt: "In recent years, social media has become a common means for sharing and consuming news. However, the spread of misinformation and fake news on these platforms has posed a major challenge to the well-being of individuals and societies. Therefore, it is imperative that we develop robust and automated solutions"
+    publishedDateTime: 2022-05-19T16:12:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-social-media-fake-news-using-graph-machine-learning-with-amazon-neptune-ml/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/19/graph-neptune-fake-news.jpg"
+        width: 1000
+        height: 499
+        isCached: true
 
 secured: "gNYYOQdm276EsNFv1I1O0XNiPgDSpEqfzzzhw/J+q/VoORQO4wZDGRviighwVMX+4Vj3VH6AS+EpRAmjwvhinShhcHGkvx1NGEo1QzTtiNb6juEj7zxNN9zW7KSC1eq9GXRURQY8V0tvXxK1tnI7Ir8BrhlM1eRZT8vdeCxR2ys+sCs98lut4SeOa4KbWaVWzV+SW55yQsjK2LA8bJCqWtXcqcl/zyAS7A3jnJFlcapDhsEssfUMWRQo9MOGtdXH8FRYsVK9oVy4S07kkLWUtcNjwT0ItvCSpp0BnmsDWsiQFjheNgeTGM7/MJFSKHoJnjWVmfqFyk6nmKT9oBdOd6I+AGh7ZlXfK6qE54yD9BxPmZ+TLmsww0bKi+oQ01/8vfJycMYBE9yU147yEYkSeYJ4C4rQXHMexL+hzDcZmWF+m4xMuRU5uysoHgme7a2TptecS3l5INsXtRz8tUm3a6/k7cTAP2TGAj5fQcxRs0LEOAVVfUwe1I1U7UWwonFyjc0JXaMZhHUaZrd9BF2UJQ==;up0RWy3pyxqstohheSlDPA=="
 ---

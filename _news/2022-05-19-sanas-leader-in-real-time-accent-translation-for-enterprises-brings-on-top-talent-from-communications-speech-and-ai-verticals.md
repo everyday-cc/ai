@@ -1,46 +1,44 @@
 ---
 category: news
 title: "Sanas, Leader in Real-Time Accent Translation for Enterprises, Brings on Top Talent from Communications, Speech and AI Verticals"
-excerpt: "Sharath brings over 18 years of experience launching AI-focused SaaS businesses and taking their products to market. Previously co-founder and CRO of voice AI platform Observe.AI, he was instrumental in scaling the business to multi millions in revenues ..."
-publishedDateTime: 2022-05-19T15:50:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications/article_a909525d-6445-54ab-9914-9a34e18c21c5.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications/article_a909525d-6445-54ab-9914-9a34e18c21c5.html"
+excerpt: "In a period of tremendous growth, the team welcomes Sharath Keshava Narayana as co-founder and chief operating officer, and Marty (Massih) Sarim"
+publishedDateTime: 2022-05-19T15:06:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications-speech-and-ai-verticals-1031476311"
+webUrl: "https://markets.businessinsider.com/news/stocks/sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications-speech-and-ai-verticals-1031476311"
 type: article
-quality: 8
-heat: -1
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/c9/ac90cb89-2044-5f5d-b0f5-675f4e1eb239/62865c1b17623.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1821273/Sanas_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
-  - title: "KlearStack’s AI delivers 70% cost reduction in Document Processing Operations for Banks"
-    excerpt: "AI-driven document processing platform, KlearStack helped a major bank reduce their document processing costs by over 70% and improved productivity by more than 100% using machine learning and NLP. KlearStack,"
-    publishedDateTime: 2022-05-19T07:57:00Z
-    webUrl: "https://techbullion.com/klearstacks-ai-delivers-70-cost-reduction-in-document-processing-operations-for-banks/"
-    ampWebUrl: "https://techbullion.com/klearstacks-ai-delivers-70-cost-reduction-in-document-processing-operations-for-banks/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/klearstacks-ai-delivers-70-cost-reduction-in-document-processing-operations-for-banks/amp/"
+  - title: "Call Center AI Market 2022 Development Status, Competition Analysis, Type and Application 2032"
+    excerpt: "The FMI study finds that the call centre AI market was worth US$ 1.3 Bn in 2021 and is expected to grow at a 13.5% CAGR during the forecast period. Growing client involvement through social media platforms,"
+    publishedDateTime: 2022-05-19T07:12:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/19/call-center-ai-market-2022-development-status-competition-analysis-type-and-application-2032/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 51
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/05/Capture-1.jpg"
-        width: 635
-        height: 483
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 7
 
-secured: "OkYKRWzL66Xpyu8TAB08dTeR0/vZYnGZZjoCpcA+6SZZ1fscOjqp1n9qHOCRqhIbrzrRsKoxIzVrt91Zf0fGYghy+PczG2gKHPsJR8Lnb2s5CxZNdtzAEUJ1PcmV9CpS2wjC4iJlXKPMNErAoYsF5uJggcnec+jxPbK1A3Eey0Kf2F/hkOP5bQHpa/w63vlXeK88Dfrp1EylzpDca0b2+3fug5pCafF8p+mt1te149d85qvuMiQcOqvMZIe5pmaBQcWbUZ97Ei0HnGYHPEDzWR85vzmNZxaNhQ939Vv+s/2aMbQtNtE8gvTwXBtCdsmaUdmiW03opkrJ6mQSy7I45osMNbw6J3oQav2DcWOfUrg=;oVDi54+Q9HUi3Kv+pgLTvA=="
+secured: "w6cb25JTesag+9hgl829vLn1KbOYTsaUbEf58/zFtgEZiE8iQxbuf57MXwuL6GClMZ06a2KRSDZ1MbFRbO8N3x5pR0UY67mI76DJnmNlWhCFe4JTQ8/BYZuDsONOWtQaEbgp80F1fCyjgQ4ri+AlCN224vQQ7uAGjUoBhz9wuyAX7DjqzdCHvIRFQM95PUbo02V6jwb+lqON+bQXiaH8M9r1bffnafeabq8WWLLMS8TZIfzelerrCrR7iRK0J0t5GyZkLFCJ/5G39dtZJIta1/A38EVHSp+YAoQnZl6WRovs2k2zkz0HMi057LAP5Z0fafJA3bFqD9tcqnt5ZyWqQpEFVdkJWpQfGnH54Qdi8ZQ=;/tBWuYC/FcGR5CuJbBBY8g=="
 ---
 

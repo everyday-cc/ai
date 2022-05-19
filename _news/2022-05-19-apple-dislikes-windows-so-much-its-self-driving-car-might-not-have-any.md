@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: HotHardware
@@ -41,7 +41,18 @@ related:
         width: 672
         height: 378
         isCached: true
+  - title: "Twitter Users React to Possible Windowless Self-Driving Apple Car: ‘Of Course Apple Won’t Support Windows’"
+    excerpt: "Apple's self-driving car could feature VR technology and no windows,” tweeted VRScout, accompanied by an article."
+    publishedDateTime: 2022-05-19T17:22:00Z
+    webUrl: "https://www.mediaite.com/tech/twitter-users-react-to-possible-windowless-self-driving-apple-car-of-course-apple-wont-support-windows/"
+    ampWebUrl: "https://www.mediaite.com/tech/twitter-users-react-to-possible-windowless-self-driving-apple-car-of-course-apple-wont-support-windows/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tech/twitter-users-react-to-possible-windowless-self-driving-apple-car-of-course-apple-wont-support-windows/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 6
 
-secured: "wtYQA3o9rj6jnG46L5Gp19N8+PrMQ6h/7SBe6iBhRGxO4ZKSH7SQ3VUn3Wh255/0aaP1tG2Nm0jfrjME6ybIFtKmHJyMueHnWZRvO3nu3XiYS0yl0LkTT5Fv3Scu+BD6ijmuINVgRHU7dhl0bSD2esQ5ZFzgPNt0nYL73vXZ6VosshH1FbcnLpeA2la+SLGUL0BHmm6KIpONvSYB0cqBBHK39D9f95n/RAacwkxgJDrOQx0TjF1BPDCZjSOHLtcFWRt3oLVNGEraYztE7wmKkMqpN+KGWHPTyisZ8c/y5asIzNZDNjJ1FUoyA8sNVo623w/PvB2/s1KhXLflXY/32wPLJuZdrbZFbLXwgvkzi1s=;INpoNakqnPT9Z/KWFACviQ=="
+secured: "VuYUvMTSN8xMX8Zq2AYIOvV/s+SDQf+O+Q0GPF4SqtW1aB8UuNVlejnPlzaz2/CYN+sjrVsWU0ikiuwaFjQEXGFioCqdFARhYPOR0lCNnH9KfBi+3HHL+q2Bs3X9O6hvqDp3mPt+OX3lpEuYj8LCqGlDxua/c6OTTFr7g80EjKGUuY4VYKh7/ysqJvn53bHRfv3EXLsdqLvxqcWirwBz1Fof43ROe5UBudqLMqvRAuOPqFlSMuXqTg3Uc+Hu2m54dP/+/rnSIeR6ZJUSjdKmRBgN7+bxhCI26zCg2wvVTF0WGThMf3yVDsMhlPBOdX7si4uVGeLufdHfroRN+4e0gVQehpdEIS5p7vUb1la8HLINqlwMCHIiEEDv8GvXWmn3r57NrUaOYwFtttwdtHGcIhsIux41PHzOG2FGYm1bT9shr1sxqOWvB0cUZVmMKjFSMU/Rp3fIQc2lrDTrwdfDpH9r1rGga8gmZp11odihBT9nqifrJJwxJNYdM4++RP+gJlh/3RA7Ls2IwUHrz+4zEQ==;AAAVcST/UKsZfBLRfPkxJQ=="
 ---
 

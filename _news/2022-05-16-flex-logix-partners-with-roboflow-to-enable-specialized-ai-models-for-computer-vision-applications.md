@@ -1,24 +1,23 @@
 ---
 category: news
 title: "FLEX LOGIX PARTNERS WITH ROBOFLOW TO ENABLE SPECIALIZED AI MODELS FOR COMPUTER VISION APPLICATIONS"
-excerpt: "The availability of AI models optimized for the Flex Logix InferX accelerator enables edge device manufacturers to get to market quickly, reliably and affordably. MOUNTAIN VIEW, C"
-publishedDateTime: 2022-05-16T12:00:00Z
-originalUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220516SF57748/flex-logix-partners-with-roboflow-to-enable-specialized-ai-models-for-computer-vision-applications/"
-webUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220516SF57748/flex-logix-partners-with-roboflow-to-enable-specialized-ai-models-for-computer-vision-applications/"
+excerpt: "\"At Roboflow, enabling users to build high quality computer vision models and deploy to a wide range of industry leading hardware options like GPU, and now eFPGA, is essential. We are excited to add support for customers to train models and easily deploy ..."
+publishedDateTime: 2022-05-16T14:10:00Z
+originalUrl: "https://news.tmcnet.com/usubmit/2022/05/16/9602338.htm"
+webUrl: "https://news.tmcnet.com/usubmit/2022/05/16/9602338.htm"
 type: article
-quality: 22
-heat: 22
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: MyTwinTiers.com
-  domain: mytwintiers.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Hardware
-  - AI
   - Computer Vision
+  - AI
 
-secured: "Cr4CrBOWpEAkWuY9GZvDLm0M/OQCFb1KV+RxdSwVRTg9wEsMbyBlHEUFfyRAXUuTNz/JdyOXhVjvqIDXGI0O7nmGx/CBv2jwXoZ5qnGj8MNMODBOd/xAyFivO4s95ge+p5kQnUChlkMB5cJEiSEz2gLqKX//BtuPXWO/wbLYz5azGyN57TdoMS9YhBVl7XAdTmnsCy2ImAW52eSKt006vOvbvDsBjDwzwQmcsjXD62uVsWTyIz+rFScbTPxhezwHj6On9sDY8RRYOpXHpYKj3AimgHZXBhfvQ/K9aHt4pIeqcaNvwv9H9mIBNokmczian7ADINg3PZ7R9TV3naSk+4YpQlCVT5u5/yVTQ/DbLU8=;iuq+clsc07vIYpLPt6N4CQ=="
+secured: "dRpdPKQmC0fjTBNFdQLhq+LERWmNOIcB8NXQ+5iRSyMFpYbu6RSkohYfyOUg6OVDZkd/7NC2YQivs6gLRn8KFjp50gFXF0pmgx801ahlrXmPdO8q6J7a//CbShMFsG0GoqOeZoDafsOQbYQCUJcNFPAuE9pOfaIsAlJcijV1Hl4PKk+IL0jowiGqYxMG4RFdZFhCToLF5KzcJ0hwJOGlNVOZaerLZLUUfj8RVBOwXP63m0IefWW+n3coCoB2j6Vv7YnDdrgvQZczf5gAI7l9OfxCE+dmR+lWx7ayodDPdEy3e+ikLIsmu6B+co6vLBddlMISDnPtHRPj1hIuILgBc3fD2L4xqOCzrZ69X3Dfzxg=;csbbPbuERPCcLlYr8HYI8g=="
 ---
 
