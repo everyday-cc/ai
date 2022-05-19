@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Tesla to Host Second Artificial Intelligence Day in August"
+title: "Tesla to host second artificial intelligence day in August"
 excerpt: "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day on Aug. 19, with the company likely to expand on plans to fine-tune its self-driving technology."
-publishedDateTime: 2022-05-17T23:25:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august?context=amp"
+publishedDateTime: 2022-05-17T23:37:00Z
+originalUrl: "https://www.metro.us/tesla-to-host-second/"
+webUrl: "https://www.metro.us/tesla-to-host-second/"
+ampWebUrl: "https://www.metro.us/tesla-to-host-second/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/tesla-to-host-second/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 74
+heat: 74
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Metro US
+  domain: metro.us
 
 topics:
-  - AI in Autos
   - AI
+  - AI in Autos
 
-secured: "wfvCXK3c7tSXYejxD6IfevueyKFs4SZAwhkbPHOopruy+DPhxwGfvVCki2q+BGIRQVUigs06APy/ZuFwUfIE1tzwr9veE++7IOKWevog7O0lZCSFRlaCaWMje9Jla9Go3u2z14F9kRyWUiplEZ0wtykTZEA4EJtAR/wDubzznP1TWEL6Pv5MtvWy4vcIFRb/ygu5zqM8/R+52vVd5uKqaZrANi/fX+NXEaXl8ux5iXCVWWAuLRM2xHjVBSzdryaEZn8YJK2riC0FQK+bvgXgOXvPsAmFBgybhj120WTUawpUfE9ny9jqwcNrQWAT03IaPELmol+7UBqFcIm/CxTYorVhPwbjkQ4cAgLTTeTN0bUapfwuPrfohxh2NyW3VVz794LBCyoanibDxLfcICCVv1kqGjrP4CfaSnwZlKTuGzaO0fyjvG7ouc5COnX4PfdbhbklkUA4sDaM5kXJJ1bE8fitlGGxP3OyR6TWGWY+Nromq+qwaCBzVtom/22ttWpeSpM2Eeb6KUG8XvGoH/BbgA==;XVPwEKW1IrzL0a0FqXmTyg=="
+images:
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportScienceNews/tagreuters.com2022binary_LYNXNPEI4G18T-BASEIMAGE.jpg"
+    width: 800
+    height: 531
+    isCached: true
+
+secured: "P9aTUYBpKll7z4gRZaZBBDO/EC1nFFrwy/xVRd5u5fgTQuKWfBMBDDxmHW4J9EaKotJotgKw5iMB+AmAZe2/XsocgKSQyn7//zUSYAEGkdQFhSTECxMef6bD0WqhE4zaKhxDpjRpX377XyZ9joOYs46yBfScHxZ6y/RwovqRRjlM3C7Gbs9BOdh1kZeO7zoP7V5RRXLlud8AaqpJb3L6uMEw89MsX7ln+O7DkOsH37hIgqPhFQ8Ylrn/lZTKRvJ2AhaYM29FvbdH/zEEVoDDKMQQ+EZ8md1I7Bumgk9x1vBGQIic3mnGwGZ+P5ZPzWE26SYAH/hDhV486xep1Sv4lJlo8rbQrQrTDqObbAxCFp0=;J9UerfKaxAHnzlKyvWYnuQ=="
 ---
 

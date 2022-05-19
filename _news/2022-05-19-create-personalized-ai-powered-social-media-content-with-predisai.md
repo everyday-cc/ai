@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
-excerpt: "Predis.ai brings a revolutionary AI-based social media assistant to individuals and businesses to get content inspiration and create unique personalized content for different soci"
-publishedDateTime: 2022-05-19T13:00:00Z
-originalUrl: "https://wgno.com/business/press-releases/cision/20220519IO63101/create-personalized-ai-powered-social-media-content-with-predis-ai/"
-webUrl: "https://wgno.com/business/press-releases/cision/20220519IO63101/create-personalized-ai-powered-social-media-content-with-predis-ai/"
+excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly."
+publishedDateTime: 2022-05-19T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/create-personalized-ai-powered-social-media-content-with-predis-ai/article_1ed20882-76e8-54f5-9bca-afc7139e0de8.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/create-personalized-ai-powered-social-media-content-with-predis-ai/article_1ed20882-76e8-54f5-9bca-afc7139e0de8.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WGNO
-  domain: wgno.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "Forma AI poised to grow AI-supported sales compensation management platform"
@@ -121,6 +127,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Transforming Government Services with Artificial Intelligence"
+    excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
+    publishedDateTime: 2022-05-19T18:36:00Z
+    webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
+    ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 37
   - title: "Forma.ai closes USD$45 million Series B financing to accelerate revolutionary AI-supported sales performance management platform"
     excerpt: "Company leads market in data-driven models with higher-impact incentives to drive optimal performance TORONTO, May 17, 2022 /PRNewswire/ - Forma.ai, the Sales Performance Management solution (SPM ..."
     publishedDateTime: 2022-05-17T13:19:00Z
@@ -131,6 +148,6 @@ related:
       domain: businessinsider.com
     quality: 35
 
-secured: "ebnL3GlGl24SC0fbb6wzzXnektKBWdx69Gdh3MhJ17WCu1VjjBFA3n9Cc6tpBwcmkeQWrnS+clIKXavMXDNzsh9U7XLQudG0dPjbN//G2xHWD0teoHcLooHAVo1ezWxzEBoBLHhYVP3tzlIqxRbIX3yIPO09ZR1FG6GJQkII9x+m1sx512xNXdcu3HarAjbY+cZ1OTfWl27j4rfNyvYj57VdqQwWnGqhDpgRin5taUqbNuJX64iSyRT9o6emXdH6OJUsvOloMw5ftdAA3L4gNyaFBE3NadtJtg3CMGaGzdWR+kJAumdqfOGB9Z16fd2bCopT5W+qSvHW//vF6J3It9pB8kWFyhaIS8lFIzy2Vi8=;L6rR+doQAp1B7IYZO3IXVQ=="
+secured: "m7PThEy1SoGXGWVP2wqHi7eHEQvyoAWSwSdeB8qkciHxFzSGsxM8ZWt45FXA8PIj5zXc3cW6N52DosSRm3nwr7MbHk/zyhGSN9658XgGJSSXiVEmwn34zuMT/QNr7qzM1ejB6Yg+m6q5osqcqmzyMwJcxVjeJgJ5gEy0l9A828cI91eBmLBV54XG8YCwQscby2EXOdhTc0VXvyfN+liIsSrnJ25Bvso86lBmwCUqhwrgqkao4cG5GNWgWgteatQRgvYp1F9x7FD+6I9pyNYQO/Thdh2/7pThUTEP5+YS1fQSxA2LhUh+vNi1caNF7Cd9XxsutSx9C6d9dY95W4ThUXCyh2kF7FzwpmiSSpqVwZc=;6RW34lqs+l+5MrLbQ+vVlA=="
 ---
 

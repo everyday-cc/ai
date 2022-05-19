@@ -117,6 +117,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
+    excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly."
+    publishedDateTime: 2022-05-19T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/create-personalized-ai-powered-social-media-content-with-predis-ai/article_1ed20882-76e8-54f5-9bca-afc7139e0de8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Transforming Government Services with Artificial Intelligence"
+    excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
+    publishedDateTime: 2022-05-19T18:36:00Z
+    webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
+    ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 37
   - title: "Forma.ai closes USD$45 million Series B financing to accelerate revolutionary AI-supported sales performance management platform"
     excerpt: "Company leads market in data-driven models with higher-impact incentives to drive optimal performance TORONTO, May 17, 2022 /PRNewswire/ - Forma.ai, the Sales Performance Management solution (SPM ..."
     publishedDateTime: 2022-05-17T13:19:00Z
@@ -126,15 +151,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
-    excerpt: "Predis.ai brings a revolutionary AI-based social media assistant to individuals and businesses to get content inspiration and create unique personalized content for different soci"
-    publishedDateTime: 2022-05-19T13:00:00Z
-    webUrl: "https://wgno.com/business/press-releases/cision/20220519IO63101/create-personalized-ai-powered-social-media-content-with-predis-ai/"
-    type: article
-    provider:
-      name: WGNO
-      domain: wgno.com
-    quality: 17
 
 secured: "S5SvcBxt5YCPkUnp5APmyZ/XR+HzyEm9UfjCffQlxTT07yZwj6WMGY0dqtweexysrtJeM41eK9JR9bJJcDhchoAz0eDbDlb26Ib9Yd6cOTbCRR8LNPUDiY7KBmnS/Cr9OsvVSoVH+rh2jAsXMEKQ6KoXBgMDM0b/EtsaT6DoERtLB2uSjnoO9K4Q5OOWZ3rwvbRCzu2zC+DpHHfkQ0K+5/WI9+TKl+j4RRWUnfJ2zT6Gz+uBKddopxGj+7D03Nd6vJioFZmPdxwwaBr14g6kZyXoK/pK6TfH4QlSJFocKb9X31VHbKRyVMKXAhXMbXqC7vfhLsSeAsO5zmLieTBW3XG/FVN+yH+gPFTxG4UREeU=;/DCMck8NWXJJMTwHi+HVLg=="
 ---

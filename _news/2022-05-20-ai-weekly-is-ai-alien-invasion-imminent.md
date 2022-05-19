@@ -5,7 +5,12 @@ excerpt: "Is the potential for artificial general intelligence a sign of an alie
 publishedDateTime: 2022-05-19T18:00:00Z
 originalUrl: "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/"
 webUrl: "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/"
+ampWebUrl: "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/amp/"
 type: article
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "i3RWNgDoVDQkqziV55m5hVm1ZXzcLNPsXUkus9nAObXgSh4UU8hUE6NWMWm/8PPsO5GU5XeIW8NVUAba7EqiCL1HsL5kd1w4NrU1n0ueD3g1taU3lvLkdCpSLdT/3wgHkeynx2cFew7iAtMzCkyUKS12pQ/5ZTw6GJRoh/O8a+WDibz/gIgUAY8pu1KXU0Us3NonHo7uOJORvavVS0oLxLKJwdNLykEk/faxD7SmkuT3OQFZM8CGYo52ElarD0mvY5VSVMV5/2xyYCAKIViJ+TMm1xkAEUYKmk3U/3NupaZP9gOiorSdPO2+0kaRJDH3ZBRm8UJEQir5pdcH0XAvZCcQvAczBK8iiPx3gTatHqy6fcYOJIQUf7dqpBmIB4MOw3GS9j28WRLTW0RtGf7p1VxIr6CV3C473atUDKU9AzcpFQjf2dlosdvqL8S/m7SuPNjNYkSa3CyUarrkpr9fSvIjI+/f4Zaj8tqJJ53ZErCh4wPzwyvbuY2K84XSyK/hnNdXI+gPo17vMFwy99zRqA==;vVPFGXtAv0u9cA5MrUIhbQ=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-693638332.jpg?w=1200&strip=all"
+    width: 1200
+    height: 856
+    isCached: true
+
+secured: "mB4sRgPM1n8/wQ9TTr6flbGHlk3Y6hpqT/xpZf4dOryKCoOTsPBcSSlZaIFm8jlm4QoSAiCKlN184FqEeJOXWjkDBwfv3GpR2AF6hav9dZGLN/RX2YLcsrlgIO6KxgaIOiVS+aWH4cCY4uCZTLBzNUuuZrdjikCpKlpgjJt6Rx6RxR5nQI+nOn02yT0kYCagOevHVt2DFFul06/onXL+oy32J0G0pqVPpQr8FslakiksFUn3balayvse2rq8CYeQw/olevwIDL/t6D1DjWks0N/xxAjOcRejWbUnNNI+LtmaDzuuOt/QK2M5HV0XY+hMr2moqUDvHTuNrqBRYEtOejV6iknUrLp7jIoDHuqcetY=;3WI4NWWQXQAqRhubpsyR4A=="
 ---
 

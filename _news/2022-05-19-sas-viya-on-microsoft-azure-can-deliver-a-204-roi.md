@@ -79,6 +79,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "American Makes Microsoft Azure Preferred Cloud Provider for Airline Applications"
+    excerpt: "American Airlines has selected Microsoft Azure as its new \"preferred cloud platform\" for airline applications such as airport taxiing decisions."
+    publishedDateTime: 2022-05-19T19:15:00Z
+    webUrl: "https://www.aviationtoday.com/2022/05/19/american-airlines-microsoft-azure/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 44
   - title: "New Relic Announces Product Integrations and Multi-Year Commercial Partnership with Microsoft Azure"
     excerpt: "Azure customers can use New Relic as a fully-integrated, Azure-native observability platform to accelerate enterprise cloud migration and multi-cloud initiatives. FUTURESTACK—New Relic (NYSE: NEWR), the observability company,"
     publishedDateTime: 2022-05-18T16:00:00Z

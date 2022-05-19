@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-18-pentagon-closing-in-on-ethical-ai-implementation.md",
-      "title": "Pentagon closing in on 'ethical' AI implementation",
-      "excerpt": "The Defense Department is still finalizing an implementation plan for its artificial intelligence ethical principles, according to Jane Pinelis, the chief of AI assurance for the Defense Department's Joint Artificial Intelligence Center,",
+      "path": "_news/2022-05-20-ai-weekly-is-ai-alien-invasion-imminent.md",
+      "title": "AI Weekly: Is AI alien invasion imminent?",
+      "excerpt": "Is the potential for artificial general intelligence a sign of an alien invasion on the horizon? Or is there even such a thing as true AGI?",
       "sourceUrl": null,
-      "webUrl": "https://fcw.com/defense/2022/05/pentagon-closing-ethical-ai-implementation/367059/",
-      "originalUrl": "https://fcw.com/defense/2022/05/pentagon-closing-ethical-ai-implementation/367059/",
+      "webUrl": "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/",
+      "originalUrl": "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.fcw.com/media/img/cd/2022/05/17/051722_getty_fcw_pinelis/open-graph.jpg",
-          "width": 400,
-          "height": 400,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-693638332.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 856,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T14:02:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/amp/",
+      "publishedDateTime": "2022-05-19T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Federal Computer Week",
-        "domain": "fcw.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {

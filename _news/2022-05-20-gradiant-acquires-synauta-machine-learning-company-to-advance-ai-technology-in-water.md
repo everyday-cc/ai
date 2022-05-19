@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T18:00:00Z
 originalUrl: "https://www.wwdmag.com/gradiant-acquires-synauta-machine-learning-company-advance-ai-technology-water"
 webUrl: "https://www.wwdmag.com/gradiant-acquires-synauta-machine-learning-company-advance-ai-technology-water"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: CEO

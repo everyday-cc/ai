@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T18:33:00Z
 originalUrl: "https://voiceofoc.org/2022/05/voice-of-oc-publisher-norberto-santana-jr-to-receive-prestigious-robert-g-mcgruber-award-from-nations-top-news-editors-for-diversity-leadership/"
 webUrl: "https://voiceofoc.org/2022/05/voice-of-oc-publisher-norberto-santana-jr-to-receive-prestigious-robert-g-mcgruber-award-from-nations-top-news-editors-for-diversity-leadership/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Voice of OC

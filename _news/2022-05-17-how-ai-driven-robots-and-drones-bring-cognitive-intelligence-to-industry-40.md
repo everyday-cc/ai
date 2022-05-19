@@ -46,21 +46,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI-based Visual Inspection set to play key role in Industry 4.0"
-    excerpt: "Quality, speed and flexibility have been the defining pillars of Industry 4.0. These are the crucial drivers of business in the manufacturing space. Tech-savvy and younger companies now have a chance to give the market leaders serious competition by taking the \"Factory of the Future\" approach."
-    publishedDateTime: 2022-05-15T01:45:00Z
-    webUrl: "https://www.thehansindia.com/business/ai-based-visual-inspection-set-to-play-key-role-in-industry-40-742775"
-    ampWebUrl: "https://www.thehansindia.com/amp/business/ai-based-visual-inspection-set-to-play-key-role-in-industry-40-742775"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/ai-based-visual-inspection-set-to-play-key-role-in-industry-40-742775"
+  - title: "How AI is improving the web for the visually impaired"
+    excerpt: "Join AI and data leaders for insightful talks and ... But when it comes to text on a complex background like an image or a gradient, things start to get complicated and helpful tools are rare."
+    publishedDateTime: 2022-05-19T21:09:00Z
+    webUrl: "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/"
+    ampWebUrl: "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/05/14/1292254-ai-bases.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all"
         width: 1200
-        height: 720
+        height: 603
         isCached: true
   - title: "Roundtable: The Impact of Artificial Intelligence in the Region"
     excerpt: "In partnership with Google, AS/COA will host a conversation with experts from across Latin America developments in the artificial intelligence space."

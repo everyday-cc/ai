@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-02-how-an-engineer-at-googles-deepmind-ai-lab-pulled-off-a-career-pivot-from-marketing-into-machine-learning-without-a-phd.md",
+      "title": "How an engineer at Google's DeepMind AI lab pulled off a career pivot from marketing into machine learning without a Ph.D.",
+      "excerpt": "Ivan Lobov used to work in advertising but spent vacations and weekends taking part in programming challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4",
+      "originalUrl": "https://www.businessinsider.com/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-can-standards-help-a-cio-address-aiml-risks.md",
       "title": "Can standards help a CIO address AI/ML risks?",
       "excerpt": "As more and more organizations develop and implement Artificial Intelligence (AI) or Machine Learning (ML) applications, questions about the reliability of the results are increasing. Some high-profile AI/ML lapses risk giving this technology a bad name.",
@@ -1387,40 +1432,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-orbbec-announces-persee-3d-camera-with-built-in-neural-network-processing.md",
-      "title": "Orbbec Announces Persee+ 3D Camera With Built-In Neural Network Processing",
-      "excerpt": "World's First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning Leading the upgrades in the Persee+ is its Amlogic A311D processor,",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220425CG33419/orbbec-announces-persee-3d-camera-with-built-in-neural-network-processing/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220425CG33419/orbbec-announces-persee-3d-camera-with-built-in-neural-network-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

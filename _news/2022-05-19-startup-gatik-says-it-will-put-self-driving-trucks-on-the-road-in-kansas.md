@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T11:23:00Z
 originalUrl: "https://money.usnews.com/investing/news/articles/2022-05-19/startup-gatik-says-it-will-put-self-driving-trucks-on-the-road-in-kansas"
 webUrl: "https://money.usnews.com/investing/news/articles/2022-05-19/startup-gatik-says-it-will-put-self-driving-trucks-on-the-road-in-kansas"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: U.S. News & World Report

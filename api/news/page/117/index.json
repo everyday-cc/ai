@@ -2,6 +2,290 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2022-02-08-state-farm-claims-app-adds-object-recognition-for-simple-submission.md",
+      "title": "State Farm claims app adds object recognition for simple submission",
+      "excerpt": "Furthermore, with object recognition now available to State Farm app users, the amount of typing is substantially decreased, and the possibility for discretion is eliminated. In the case of an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.retaildive.com/ex/mobilecommercedaily/state-farm-claims-app-adds-object-recognition-for-simple-submission",
+      "originalUrl": "https://www.retaildive.com/ex/mobilecommercedaily/state-farm-claims-app-adds-object-recognition-for-simple-submission",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail Dive",
+        "domain": "retaildive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-irs-to-stop-using-facial-recognition-for-identity-verification.md",
+      "title": "IRS to stop using facial recognition for identity verification",
+      "excerpt": "The IRS will stop using a controversial third-party service for facial recognition to verify identity for online accounts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
+      "originalUrl": "https://www.cnbc.com/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 529,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106888859-1622060828895-gettyimages-1231812116-IRS_TAX.jpeg?v=1630653821",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
+      "publishedDateTime": "2022-02-07T15:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-apple-acquires-artificial-intelligence-startup-ai-music.md",
+      "title": "Apple acquires artificial intelligence startup AI Music",
+      "excerpt": "Founded in 2016, AI Music set out to help brands create \"royalty free adaptive music,\" according to a recent archived screenshot of their website. The intended audience seems to be for media ...",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music",
+      "originalUrl": "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 332,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/46890-91404-44099-85736-000-lead-Apple-Music-xl-xl.jpg",
+          "width": 1280,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/",
+      "publishedDateTime": "2022-02-07T15:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity.md",
+      "title": "IBM and Snyk: Developers must lead the charge on cybersecurity",
+      "excerpt": "Then when you couple that with something like IBM’s core strategy, which is a hybrid cloud approach, which means that our enterprises work with not just IBM’s software and cloud, but also work with AWS’s cloud, work with the Azure’s cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/02/20220126-DD-SnykIBM-Bill.jpg",
+          "width": 1918,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/",
+      "publishedDateTime": "2022-02-07T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-irs-drops-facial-recognition-verification-after-privacy-concerns.md",
+      "title": "IRS drops facial recognition verification after privacy concerns",
+      "excerpt": "The IRS said Monday it will not use facial recognition to verify the identities of users of its site. Instead, it will implement other means to validate taxpayers' information, and says this change will not impact the current tax season. It follows the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/personal-finance/irs-drops-facial-recognition-verification-after-privacy-concerns/",
+      "originalUrl": "https://www.cnet.com/personal-finance/irs-drops-facial-recognition-verification-after-privacy-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 589,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/fqBMSABQmuJ8J_k4DBf7z7He9lU=/0x278:4000x2525/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/irs-drops-facial-recognition-verification-after-privacy-concerns/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-drops-facial-recognition-verification-after-privacy-concerns/",
+      "publishedDateTime": "2022-02-07T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa.md",
+      "title": "The Great Resignation gives birth to digital employees powered by AI, ML, and RPA",
+      "excerpt": "Companies across numerous industries are increasingly relying on digital workers to automate and streamline various tasks — and, in turn, these virtual employees powered by AI, machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/",
+      "originalUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/amp/",
+      "publishedDateTime": "2022-02-07T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-how-penguin-computing-helped-design-metas-new-ai-supercomputer.md",
       "title": "How Penguin Computing Helped Design Meta’s New AI Supercomputer",
       "excerpt": "Any company with the same level of financial resources as Facebook parent company Meta ... Optimized’ CPUs] In the case of Meta’s new AI Research SuperCluster, the Menlo Park, Calif.-",
@@ -870,282 +1154,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-infrrd-positioned-as-the-leader-in-the-2021-spark-matrix-analysis-for-intelligent-document-processing-idp-by-quadrant-knowledge-solutions.md",
-      "title": "Infrrd Positioned as the Leader in the 2021 SPARK Matrix Analysis for Intelligent Document Processing (IDP) by Quadrant Knowledge Solutions",
-      "excerpt": "Infrrd's solutions leverage artificial intelligence (AI), natural language processing (NLP), computer vision, deep learning, and machine learning (ML) for intelligent document processing. Driven by the dynamics of the COVID-19 pandemic and its impact on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/infrrd-positioned-as-the-leader-in-the-2021-spark-matrix-analysis-for-intelligent-document-processing/article_a4f39342-c4f7-58f1-8820-a78a628e59e5.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/infrrd-positioned-as-the-leader-in-the-2021-spark-matrix-analysis-for-intelligent-document-processing/article_a4f39342-c4f7-58f1-8820-a78a628e59e5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/17/5176e5a2-6f84-5cef-9a86-bb14fc4711b2/603f8d09cf68e.image.jpg?crop=775%2C407%2C12%2C0&resize=775%2C407&order=crop%2Cresize",
-          "width": 775,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-aiml-innovations-tech2heal-selected-for-prestigious-health-tech-campus.md",
-      "title": "AI/ML Innovations’ Tech2Heal Selected for Prestigious Health Tech Campus",
-      "excerpt": "TORONTO, ON / ACCESSWIRE / February 7, 2022 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF)(FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-ml-innovations-tech2heal-selected-for-prestigious-health-tech-campus",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-ml-innovations-tech2heal-selected-for-prestigious-health-tech-campus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/129c9d3527a44bb72394eb2f37ffd03563881116-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-humaai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform.md",
-      "title": "Huma.AI Adds Post-Market Surveillance Capacity to its Unique AI-Based Healthcare Data Knowledge Platform",
-      "excerpt": "–(BUSINESS WIRE)–February 7, 2022– Huma.AI has expanded its self-service business intelligence platform to include a post-market surveillance (PMS) solution specifically designed to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/",
-      "originalUrl": "https://venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/huma-ai-adds-post-market-surveillance-capacity-to-its-unique-ai-based-healthcare-data-knowledge-platform/amp/",
-      "publishedDateTime": "2022-02-07T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact.md",
-      "title": "How An AI System Can Predict Critical Events And Help Reduce Their Impact",
-      "excerpt": "Over the last two years, we've experienced increasingly persistent and worsening critical events globally — catastrophic weather, civil unrest, the pandemic, cyberattacks. According to a Forrester study commissioned by my company, OnSolve, 99% of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60536d1bc39854a4c039187a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/07/how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact/amp/",
-      "publishedDateTime": "2022-02-07T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-bad-news-for-developers-this-ai-is-getting-very-good-at-writing-code.md",
-      "title": "Bad news for developers? This AI is getting very good at writing code",
-      "excerpt": "Researchers from Google's AI-focused unit DeepMind claim its AlphaCode system can express solutions to problems in code that achieves a median-level score in programming competitions undertaken by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0cd0c1ca8b8990cef9e8b17289258a491448ac55/2021/06/21/e487ce2e-c1f8-41e7-80ed-00f2310ac673/developers-heres-what-they-really-think-60d0614cb5c5a73d0c2020e1-1-jun-21-2021-11-35-52-poster.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "publishedDateTime": "2022-02-07T05:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-leveraging-artificial-intelligence-ai-in-egypt-collaboration-for-improved-breast-cancer-outcomes.md",
-      "title": "Leveraging Artificial Intelligence (AI) in Egypt: Collaboration for Improved Breast Cancer Outcomes",
-      "excerpt": "Most recently, this includes a collaborative program with GE Healthcare that builds on GE Healthcare's experience in women's health, artificial intelligence (AI) and contrast-enhanced spectral ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103652009/Leveraging-Artificial-Intelligence-AI-in-Egypt-Collaboration-for-Improved-Breast-Cancer-Outcomes",
-      "originalUrl": "https://menafn.com/1103652009/Leveraging-Artificial-Intelligence-AI-in-Egypt-Collaboration-for-Improved-Breast-Cancer-Outcomes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?929823",
-          "width": 333,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

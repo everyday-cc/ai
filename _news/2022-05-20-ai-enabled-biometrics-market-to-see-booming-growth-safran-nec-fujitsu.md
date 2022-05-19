@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T19:34:00Z
 originalUrl: "https://menafn.com/1104244298/AI-Enabled-Biometrics-Market-To-See-Booming-Growth-Safran-NEC-Fujitsu"
 webUrl: "https://menafn.com/1104244298/AI-Enabled-Biometrics-Market-To-See-Booming-Growth-Safran-NEC-Fujitsu"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

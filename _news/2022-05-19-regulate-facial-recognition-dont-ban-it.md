@@ -65,6 +65,15 @@ related:
         width: 1320
         height: 760
         isCached: true
+  - title: "US Senators request investigation of facial recognition company."
+    excerpt: "Texas Department of Insurance clarifies facts surrounding data incident. US Senators request investigation of facial recognition company. South African pharmacy suffers customer data breach. Highschooler blows whistle on student data leak."
+    publishedDateTime: 2022-05-19T19:30:00Z
+    webUrl: "https://thecyberwire.com/newsletters/privacy-briefing/4/97"
+    type: article
+    provider:
+      name: Cyber Wire
+      domain: thecyberwire.com
+    quality: 19
 
 secured: "zvaIvAJQIVXq+zBoNrixOY7k8dzmhefDXCj3l/HiZ1TJ9mVpuEmOxu19dOWdXblXjWgcwi2jLwnLG+ZUlnz8V6MyOW1oV6wfjLN4nk+9HtqB9muvWjWXrEMM+i6hK/xL5UsG1Yz6Y+9ofiMh4IIvkwre/sB/yFLEaJlA3KbqzyZ0vqUAO9it73vnnZGVEmkv2VfLvtcQde+GwJMMD/t/9FZ1ejEL7kgsLMAp4eiP+PdvAzNS6/09/sX6uV6wNvgUsBH8OeZhwBJ7iS7tUB83WJFSHrpUWaFhJ8gJF9+bYo4AW/TBto4cc5QWdw8AGQS1EbaZbeUs9Z4Rqts322u/v8jKNBmRbfgkOhkG7s8uF4AO/t3cAtRys0QZGBF3xnAR16l3FCIuJkve/bGlTSVkhO6fgHs1T/gMDnnfTNbmVfY6VlpVvUb2Lniv+e6lrXKc5peB6XhQtmY3ZPSd+YucsyP+4JptgKCqFkPqUifVdT2cc0J2cmFUFUZa0ed8gRd20cnXiJy0ZcahMCBrO8jxOw==;IdxcvoAG34wcY/ikUngTNQ=="
 ---

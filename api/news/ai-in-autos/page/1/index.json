@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-19-chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad.md",
+      "title": "Chandigarh University Mechatronics Engineering Students Successfully Tests AI-Powered Driverless Car NOMAD",
+      "excerpt": "Despite having only 1 percent of the total vehicles in the world, India accounts for over 11% of global road accident deaths, equating to nearly 5 lakh road accidents claiming 1.50 lakhs lives annually.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/epa4mudklfbwcwmz_1652959199.jpeg",
+          "width": 768,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html",
+      "publishedDateTime": "2022-05-19T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-tesla-releases-new-full-self-driving-beta-update-and-its-a-big-one.md",
       "title": "Tesla releases new Full Self-Driving Beta update and it’s a big one",
       "excerpt": "Beta software update with improvements based on over 250,000 training video clips from its fleet. Based on the release notes, it’s a big update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
@@ -53,7 +96,7 @@
       "originalUrl": "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -98,35 +141,35 @@
     },
     {
       "path": "_news/2022-05-18-tesla-to-host-second-artificial-intelligence-day-in-august.md",
-      "title": "Tesla to Host Second Artificial Intelligence Day in August",
+      "title": "Tesla to host second artificial intelligence day in August",
       "excerpt": "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day on Aug. 19, with the company likely to expand on plans to fine-tune its self-driving technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august",
+      "webUrl": "https://www.metro.us/tesla-to-host-second/",
+      "originalUrl": "https://www.metro.us/tesla-to-host-second/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportScienceNews/tagreuters.com2022binary_LYNXNPEI4G18T-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-17/tesla-to-host-second-artificial-intelligence-day-in-august?context=amp",
-      "publishedDateTime": "2022-05-17T16:25:00-07:00",
+      "ampWebUrl": "https://www.metro.us/tesla-to-host-second/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/tesla-to-host-second/amp/",
+      "publishedDateTime": "2022-05-17T16:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -135,8 +178,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -459,7 +502,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://npr.brightspotcdn.com/dims4/default/ac9bd20/2147483647/strip/true/crop/1102x620+1+0/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F19%2Fhover-1-safety-recall-hoverboard_wide-a3245cac99cb3c32dac91edc9c4117ea9129fcd6.jpg",
+          "url": "https://npr.brightspotcdn.com/dims4/default/2a84984/2147483647/strip/true/crop/2115x1190+0+198/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F19%2Fap22132736155189-3b91028fc0dd7f23e4c3ae8789a1f873d6db2c7f.jpg",
           "width": 430,
           "height": 242,
           "title": null,
@@ -716,29 +759,20 @@
     {
       "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
       "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
-      "excerpt": "Scientists find public appetite for self-driving vehicle trails far behind that of the technology companies and steps need to be taken to make them a success",
+      "excerpt": "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ...",
       "sourceUrl": null,
-      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
-      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories",
+      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T06:55:00-07:00",
+      "publishedDateTime": "2022-05-11T04:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "i",
@@ -1355,50 +1389,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-artificial-intelligence-computing-using-networks-of-tiny-nanomagnets.md",
-      "title": "Artificial Intelligence Computing Using Networks of Tiny Nanomagnets",
-      "excerpt": "Artificial intelligence that uses ‘neural networks’ aims to replicate the way parts of the brain work, where neurons talk to each other to process and retain information. A lot of the maths used to power neural networks was originally invented by ...",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/",
-      "originalUrl": "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Human-Brain-Artificial-Intelligence-AI-Illustration-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/amp/",
-      "publishedDateTime": "2022-05-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

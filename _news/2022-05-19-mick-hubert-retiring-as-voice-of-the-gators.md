@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Mick Hubert Retiring as Voice of the Florida Gators"
+    excerpt: "The Florida Gators have announced that legendary play-by-play announcer Mick Hubert plans to retire from his role after 33 years with the program.  Hubert, 68, will make his final call this weekend, on the mic for the UF-South Carolina baseball series at Condron Ballpark in Gainesville,"
+    publishedDateTime: 2022-05-19T19:32:00Z
+    webUrl: "https://www.si.com/college/florida/football/florida-gators-mick-hubert-retiring"
+    type: article
+    provider:
+      name: Sports Illustrated
+      domain: si.com
+    quality: 4
+
 secured: "7r95/ZCnVUCO3SAU9e8NyAAthnnpcVpa7dTATifJUsiqjn+X9ISX5y0VVQAHA6wYibUv9tC6ZRYzB4ZkIS2F+g2NCnbh5fZIxFTMnLGLYHrctiWvg7auJMIzIoQk/S2oaHOdF755l/KD3aZPOhdAMs+FL9BeB0OxnuwdadztLZH6YT4Qevd3295/BH1CMQEleLzt/ClfVukJ/QqM3Yt0Nhw+NwLDx5wWhS4o52Hm4h3Te8B6bVv6wlTwxXRAp7vD/YZZGI3RzNtzJ0UBEizBflEhPPm5nPbTNsfzVSygtjvGWTLBxcQ9t3Fk6MHpMIOyJEJAIjI79ze9U8MSs6+/C4oyfHfZ5Nw8FI5jWe83syQ=;vWZZpIV5xixY2usiBopm+A=="
 ---
 

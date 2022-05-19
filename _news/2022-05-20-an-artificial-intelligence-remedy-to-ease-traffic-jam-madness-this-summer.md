@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T18:01:00Z
 originalUrl: "https://skift.com/2022/05/19/an-artificial-intelligence-remedy-to-ease-traffic-jam-madness-this-summer/"
 webUrl: "https://skift.com/2022/05/19/an-artificial-intelligence-remedy-to-ease-traffic-jam-madness-this-summer/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Skift

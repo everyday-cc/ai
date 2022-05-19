@@ -88,6 +88,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "American Makes Microsoft Azure Preferred Cloud Provider for Airline Applications"
+    excerpt: "American Airlines has selected Microsoft Azure as its new \"preferred cloud platform\" for airline applications such as airport taxiing decisions."
+    publishedDateTime: 2022-05-19T19:15:00Z
+    webUrl: "https://www.aviationtoday.com/2022/05/19/american-airlines-microsoft-azure/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 44
   - title: "Microsoft launches Open Data for Society"
     excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
     publishedDateTime: 2022-05-16T12:42:00Z

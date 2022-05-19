@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-06-deep-learning-rising-in-importance-within-booming-ai-sector.md",
+      "title": "Deep learning rising in importance within booming AI sector",
+      "excerpt": "The application scenarios of China's artificial intelligence-powered deep-learning frameworks will be more diversified and buoyed by open-source platforms and large-scale industrial use, with the cost and application threshold to be further lowered,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T22:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-meet-dall-e-an-ai-algorithm-that-can-draw-anything-on-command.md",
       "title": "Meet DALL-E, an AI algorithm that can draw anything on command",
       "excerpt": "DALL-E is what artificial intelligence researchers call a neural network, which is a mathematical system loosely modeled on the network of neurons in the brain. That is the same technology that ...",
@@ -1343,49 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal.md",
-      "title": "Get up to speed on deep learning with this certification bundle deal",
-      "excerpt": "Deep learning drives a wide range of IT products, from consumer-facing recommendations to internal data analysis. The Ultimate Deep Learning & NLP Certification Bundle offers a detailed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/",
-      "originalUrl": "https://www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/content/hl-images/2021/11/10/artificial-intelligence-face-header.jpg",
-          "width": 1600,
-          "height": 948,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/amp/",
-      "publishedDateTime": "2022-03-31T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

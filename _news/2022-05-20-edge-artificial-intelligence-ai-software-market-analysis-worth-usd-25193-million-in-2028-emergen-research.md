@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-19T17:21:00Z
 originalUrl: "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research"
 webUrl: "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research"
 type: article
-quality: 32
+quality: 36
 heat: -1
 published: false
 

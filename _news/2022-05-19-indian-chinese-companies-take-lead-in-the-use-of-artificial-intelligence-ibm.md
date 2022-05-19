@@ -43,6 +43,15 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Indian, Chinese firms global leaders in AI use: Survey"
+    excerpt: "Nearly 60 per cent of IT professionals in India and China say their organisations actively use ArtificialIntelligence, making the Asian giant companies leaders in AI use compared to their peers in major technically-advanced nations,"
+    publishedDateTime: 2022-05-19T18:54:00Z
+    webUrl: "https://www.uniindia.com/story/Indian-Chinese-firms-global-leaders-in-AI-use-Survey"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 17
 
 secured: "pvfxSSlW4No0JYhAxReAwinLZ3PFHfbd/t1FeagkLds/zLOm4dwGgjHgHY0dKfN6r1LtqEBQHC89qCndhwHts4xiYpV12PUEft3xxbsFEO5PD+VTvWO5K24oHVG3gYp32HNsb5ZjEkolnH6ff8jQYMKwIgzYjef5tGO3mluZWTtazYVioUT7IW3z5tyVlrmdorH8fOGwO5WzlLnBnilIPRPRl4gt71IIOuhddwUlBWIxiU3e8NbW33RkMaulqXz3Yidsfus742JOsgdN3xzOXgXSGcp1QxzSed9Mq1sr9O6hVFgofjXfxHb4FOt42Pn139zFcvghcqL8FuGCgg16VrDe4/UBOTToOFq/UiwfRY7dPLjE2U2VQlhodJ9V8m2XTvfyNPUoG/U4AVtu87DDFLCImqSsep2I4vodc8grQKUDFYWtZkiDtBb8kaMLB9fgZ1xFAEr3IzEG/nY/RLXqn2Wh5HjVhZJAziDYfWvjfdmVCcRCeyiu8zwklwmXEsJNVwpPXfyNj4D4OdQ+JjVqag==;1P79d6ZocpYvXI1tUpP9Ew=="
 ---

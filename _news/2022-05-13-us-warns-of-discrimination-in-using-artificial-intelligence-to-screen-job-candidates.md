@@ -2,19 +2,27 @@
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
 excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:12:00Z
-originalUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.nhpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+publishedDateTime: 2022-05-12T21:13:00Z
+originalUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
 
 provider:
-  name: New Hampshire Public Radio
-  domain: nhpr.org
+  name: Iowa Public Radio
+  domain: iowapublicradio.org
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
-secured: "9HpZX9vZl73WdxPhpYTyFzGjpHLqq063kbI9iQ46/JsW2o/QfX9xXncNPxT2XrOHzpRUi4fSPJC8hx2ONUg+HrOu73Q8R6nSm78P0shioaDyeOlHR+SpxMrH4BLwuLZ+FSKLnyJs5CwyyLBDgnPFnx7s2IUFSpfA+RfrNrEzsYvMdo2bbXBVQuf98l59LVkgCZwizm9mFCOndbkIBTxzz9gFNTlq3+//DKItCCBUDz8tO+JYP5IWXctckU/yBdtEtL/TpvFX7Nk0IAe92Jj4UDAXmRjsMd3rQ+Ui1M+rC0xfzj2kkZZxBW9Y6m67B9N8QhT+Wdjno6WcD3eNy/uDFm92xWz8hLR9bZu4ukaLWW0qard2vJiIavEnihyEoLY4sLuHKAT7mt1AWvz5y4ZGTCTiqk6LdRHRrW3h60hzJV44IElE3lz3zJNhPJYT/2WuhLrQtvnpZCdB8lJnCi7nKUSD+zdEPz8XZB3QWKhS9UdayYx+tpG6mx75KE6sACwUqo4Ch6PnS/ukFnvbKF+Gtw==;NXYg/9t8ePdsIumASRtQcQ=="
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/2a84984/2147483647/strip/true/crop/2115x1190+0+198/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F19%2Fap22132736155189-3b91028fc0dd7f23e4c3ae8789a1f873d6db2c7f.jpg"
+    width: 430
+    height: 242
+    isCached: true
+
+secured: "YT9rAKcs2k09S3C+ewROC3cXeNF41iVPBF7+46mtqWC7nYtL5K7jNcBOYRSSVr6DScz1jQsaMEMAFYHEjCnW9zqmg6/da4/2A+8poWJfEfqkBBPBetyYD1RtnMYtPWKuiCA70Sfd+4GETacQRcYw9ki19ybyGauolCybZgRlC9y6bOm+LFCvD5m2EOhVK+qlAMMUsln0pnJ2BivpvJ4SvNwjlcFjnhYcIuhum0VsIDfWTn+nWQ/oqtUi9UpZjaa4DOE0rOq2sJp7FxH1T5VY8ixjfAA68WPMu39hnxUWV5Uc/H24OADhwa23kMf6l28aYhCoi1AOYLWWrMLdO5yq1+ofqKlAoyddwwefJRfWiJ0=;dyr7VwB9U1yuggNfn5OmQg=="
 ---
 

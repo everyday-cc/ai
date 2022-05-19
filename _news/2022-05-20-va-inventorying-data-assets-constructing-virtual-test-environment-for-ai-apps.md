@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T18:50:00Z
 originalUrl: "https://www.fedscoop.com/va-data-test-environment-ai/"
 webUrl: "https://www.fedscoop.com/va-data-test-environment-ai/"
 type: article
+quality: 35
+heat: -1
+published: false
 
 provider:
   name: FedScoop
@@ -13,7 +16,25 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
-secured: "zyCd8DmTxv+/87aJQfLvIz0UUW52GawWacwj+DdYSRyhlpWSH34ozD2bvqAUTlLpDuWxbP8woJJqy7haqY11SAPsMN3WO23UbDFANL57mWCNY5X2hltKcvndbYLQ6gDNaYOi9fTdVa+FI9jtcT3L/EpO/rMXoC6RdLsU2lyZSWyDbFD9plEFhOEMb1MVo7xsSCRFl68I/lEc1sw9TSzmng9gsKsXRb0d3hmTr2pzG0GsWzNkV1eCPSgMvunKqRplkU9CKrGsf4fO+dhLAZwBFw7c2GB4gvHNC1218M6YWGoWtTtGVPWTzhN5/arLscVBrjsQZro7aLpTlV5j8j3wHATgvLRhCZkYTcqlz3XIxXgoguyU8EZOv9CDJO5Zfv2jdTPCuCFv2fKCCnc36+9hho+0l5E3Y0JevVqj7n/grosOa9v/2lro36DVUlVK8qZev331njb+DMOIF0KgkPrU4BQ73v1R+odD2N3tTW1Lrwx3tHh3wvIPT2WyQmOqMBwlLwKuZuO/eYihZalQZfWBWg==;SzhdtfGolvkZZp6Uq03v0w=="
+images:
+  - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/05/ARS_0749-copy.jpg?w=1200&h=500&crop=1"
+    width: 1200
+    height: 500
+    isCached: true
+
+related:
+  - title: "Implementing Change Part Two: What AI Can’t Do For Healthcare"
+    excerpt: "Understanding what AI can’t do is important to prevent tech entrepreneurs and investors from pouring time and resources down rabbit holes that won’t bring about better care, improved working conditions or lower costs."
+    publishedDateTime: 2022-05-19T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/19/implementing-change-part-two-what-ai-cant-do-for-healthcare/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+
+secured: "vr36BilLvD2x7iOl3VP5fu+fzaHx9caiYqOe6L8DTfQ/D4uz2BNPqmLPsKoT0I4ZCakPIA1/1BkEAE2/8wjrITnA+cq49UPWPB80sq7X3DouzJaADf4LyaXRUCQ+39iVZIVhEIxMMS+VTUro/YZ4fuTham2EoxhN+xFPLu7hi7C46Zjei6tBgoUR6hkz1j5eJosRpuwq5Y1LYgwe4RoeAdn3n/f4Y9+cZJg+t2hX8CbQkJYyllJ92kTNt4Zm4WrXcvWGSlqjwSKNOeA6qHswNNer480WdL7KH4Lm8jv92PRtYvn0/0cZN6rYropRa9u9f7IW+AiwaCtnf9j9dnAdDcrB9VAT4+e/D1XZKf2c25A=;vlYmowdvYFvrfh5gUbU90Q=="
 ---
 

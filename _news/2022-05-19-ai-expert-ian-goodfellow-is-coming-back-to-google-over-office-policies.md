@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidheadlines.com/2022/05/ian-goodfellow-google-deepm
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/ian-goodfellow-google-deepmind-ai.html?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Android
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Losing Ian Goodfellow to DeepMind is the dumbest thing Apple’s ever done"
+    excerpt: "What were they thinking? Apple let one of the world's most talented machine learning researchers join the the DeepMind crew? Wow."
+    publishedDateTime: 2022-05-19T19:45:00Z
+    webUrl: "https://thenextweb.com/news/losing-ian-goodfellow-deepmind-dumbest-thing-apples-ever-done"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 50
   - title: "Apple exec who departed over office return policy joins up with Google"
     excerpt: "After his split, Apple's former director of machine learning has already moved on and has found employment with Google's DeepMind."
     publishedDateTime: 2022-05-18T00:36:00Z

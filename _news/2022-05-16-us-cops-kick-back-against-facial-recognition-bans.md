@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
+    quality: 19
+  - title: "US Senators request investigation of facial recognition company."
+    excerpt: "Texas Department of Insurance clarifies facts surrounding data incident. US Senators request investigation of facial recognition company. South African pharmacy suffers customer data breach. Highschooler blows whistle on student data leak."
+    publishedDateTime: 2022-05-19T19:30:00Z
+    webUrl: "https://thecyberwire.com/newsletters/privacy-briefing/4/97"
+    type: article
+    provider:
+      name: Cyber Wire
+      domain: thecyberwire.com
     quality: 19
 
 secured: "xr7ZB0/4MHeFFvQJmjxC0onMaEtLFykxP0EQdvNg5oB6ecCH3VNw0KaKayYLR0w3BGbQ8ACZTwPfuqkO4nu52m7162QYqR8zXluhbT4njSzJKWJPAN9/FuQheyGmYzsNKbKeAHZfjNjO7EOVC9cOdOrFwMtzPF1ySvrHc6+7Wu7IiimijuFRduBN3HKorAGkoX6m6i6MuO/QOfkJe7U+AVKjVOeT9Ap/1URLOFR5MHEWKeWxNlyUZXVSJbmlbQm7DdSbXmYpFKorwTngWnDi3Zttgw4xyXL+6TVdpciI/RanPiqzxc53XUVzLr3j1ynDze7SFSTA8dqKcjj7hbojPeUup7KSTd0+73Oa7knTs0E=;uHDiq27zQuStO10+R5toOw=="
