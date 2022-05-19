@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Aible to Participate in the 'Bake-Off' Session at Gartner Data and Analytics Summit, May 9-11 in London"
-excerpt: "Aible recently scored highest for the AutoML Use Case in 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services. Aible is a Silver Sponsor of the Gartner Summit and is one of ..."
-publishedDateTime: 2022-05-05T10:05:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/55964903-aible-to-participate-in-the-bake-off-session-at-gartner-data-and-analytics-summit-may-9-11-in-london-399.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/55964903-aible-to-participate-in-the-bake-off-session-at-gartner-data-and-analytics-summit-may-9-11-in-london-399.htm"
+title: "Aible to Participate in the ‘Bake-Off’ Session at Gartner Data and Analytics Summit, May 9-11 in London"
+excerpt: "Aible, the only enterprise AI solution that guarantees impact in one month, is proud to announce that it will participate in the “Bake-Off” at the Gartner Data & Analytics Summit, held on May 9-11 in London."
+publishedDateTime: 2022-05-05T08:23:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-science-business-europe-london-a7f0fa00661d7434c1d78e71aab33734"
+webUrl: "https://apnews.com/press-release/newswire/technology-science-business-europe-london-a7f0fa00661d7434c1d78e71aab33734"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "4w1IJXxDLG3AAcVGldJpF2cXfN0BC1pN2NcW/NQdeg7o6Zap2hia8pbWKVLEctibLF+AtLziceTudq1C5SUG9YKSzIjTLYm9QcZDfPcNe01IghxiCnXZJTUjx/AUAgGT2Q5l6aTFJIisZDt7moiiOeQ/MtpsRsFISi9g3fYHXSL3WVlpcGPdBJ+MrW+E6iFD0I361hpV6cZW0zgY4T1mEkfQCuCAQcqTBGo1ZzhSCjdYygPPIFAG8DZGuPI5I7kq4NpNQhepcuneiYfO5oVRoQs/s1IDEpeSJPtl/zfj3QWZEo+bWiICRHzHQGCTnDzFYltFr2ThEQVZAZoqcNj2jwy8S12Lwh7DRffiPWcYz+k=;XFi0iDpDkxHkUAxFTuocSg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "OMl0c4bvpq5sg0R0lC0UCeSzNGrrKbqMdO70eHwlu71Wms8NMM11IFiEZwm2m59zS6hKNuPj4OdEQo1YG5WV1qX9iGAa+mhGU5QU/tH52dpdZrxwMyYjGHcGG0J1Vzfq44i2tfva6ifwS38oi0DmkUX8jbYpaCYRQYZb6YaRVXTa8dSsZ4OW1P4j8UnlajBDy3wvC00zSwv+uLZSLTa1FIJeZgdW2kHpSvyDV51YXfJHW6SI5goZEavndFEDib3atGZrzXshASk04ntGTHIrzF4/Z3Fq3PC7esjebL4H+rkI3rY7CO0T43PEE4tMDrB06FTiiBnN1PStBvxnUfcsvbmP2+giDEjf5c6QwGjP5s8=;Ngb5scOqRM7KemTwwd3s3g=="
 ---
 

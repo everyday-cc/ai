@@ -36,6 +36,22 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Google's DeepMind on the verge of achieving human AI"
+    excerpt: "Human-level artificial intelligence will soon be achievable, according to the lead researcher at Google’s DeepMind AI division. Dr Nando de Freitas said that it was \"game over\" in the long ..."
+    publishedDateTime: 2022-05-19T08:30:00Z
+    webUrl: "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai"
+    ampWebUrl: "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: " https://i.tribune.com.pk/media/images/623082907ce4897c3820b24c_DeepMin1652873089-0/623082907ce4897c3820b24c_DeepMin1652873089-0.jpg  "
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rwvspkiDY8F5SXuKUq4qLAAbTeKN1xKLbGtXGBLfItlPGGQhtecvizuJOzf1BJMpS3O2xyTz1FIZoVNmHbhkoWVQbXlLcSyFp+wGSU2jkXa8rHwrdprTQhZp7DCs2OlMFriQA7KXNmRFf6wXIlRA1ALChxCPoHmz5rDzuaFRwudzRuvY+ZNi3R8himygyhp6mBk/ixqhq0I8cPc+kFm37vowxI3GjscCdEmne5w/b2xpUsQ7ABqgMDuDFUYRCRrC0YodegevOfNccQSeJYF+X/jh0w/2iW/PBCyMwW/b6Pse6F57F9XeIO77vfwwpBB7fTECbmHzXYYiBGuirPRnorNoYjLTUxNFXDXhsZRroM3hqui8VSa8ZNnHSO/GzukBzYnJyCYFSYwMfXm2dSF8RAaw9gcy6/W4rfoTgIrhAnaqvX15gkUYA1qcD1v9mW1OZ62YxKdJAo5k2aJ38eNdMHNMoL4FMZDe45pMwey3ZOnuZs3olIg6UKECJr4ccwpyiWwi6qAhcJA9BMUesaJ+wg==;aSKZVISYp6Poub6iEfZymA=="
 ---

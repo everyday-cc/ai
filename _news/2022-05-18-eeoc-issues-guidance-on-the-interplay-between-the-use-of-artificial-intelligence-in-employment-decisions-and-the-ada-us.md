@@ -8,8 +8,8 @@ webUrl: "https://www.natlawreview.com/article/eeoc-issues-guidance-interplay-bet
 ampWebUrl: "https://www.natlawreview.com/article/eeoc-issues-guidance-interplay-between-use-artificial-intelligence-employment?amp"
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/eeoc-issues-guidance-interplay-between-use-artificial-intelligence-employment?amp"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"

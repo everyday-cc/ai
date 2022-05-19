@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AWS and Temenos team up for speedier banking"
-excerpt: "Temenos also claimed its solutions help banks reduce their carbon footprint and support them in achieving their ESG goals compared to on-premises deployments. Cloud computing is s"
-publishedDateTime: 2022-05-18T14:42:00Z
-originalUrl: "https://www.techradar.com/au/news/aws-and-temenos-team-up-for-speedier-banking"
-webUrl: "https://www.techradar.com/au/news/aws-and-temenos-team-up-for-speedier-banking"
+excerpt: "Amazon Web Services (AWS) has joined with cloud banking software provider ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and ..."
+publishedDateTime: 2022-05-18T15:42:00Z
+originalUrl: "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking"
+webUrl: "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking"
 type: article
 quality: 69
 heat: 89
@@ -53,6 +53,6 @@ related:
       domain: ibsintelligence.com
     quality: 19
 
-secured: "b+mk2xfPz2x1kIeL9tbwQMCYapLxdyTCwRIMbDuRbhlTpGwWW2lgX5j/kxwkNX9Gd38QAmlKY5jFwyrAYMhc+/X/lKnSgQDcq0rrN9zmaZwlRvedC2pWK5CXwEDiDLcCP9gA5719tqBTxMptrNmzCgPnmIrZeVtU7HcWxQW3MJ8UW28LJNBAYR0ajupK3RN24oX4wCvaPMPk64tlNrwUhSeJfnE0vn/t9OJP0/ZFhbrKSzi5dKYAOSH9L97LL0V9TZJM94lJlZCFpQ6g2w7cE3YFm1M1lYKt8Hr9Ti8XhDrTATe/7fvWRkd7AXr8suN0Efx3hCUdA3AS867qxxbiNDLA5AfrScBWXdS6TQlIryKI1LQAdzw6Km/WCWQA+dCMtbz5vOzZSmwZJPORZybCh6pHL2xwFHz5g3L1u3C+xcAO28cFZzY4lfjoe1NxHjO86SCk/hcsjbHUOQIv/E0V1CWrgV0tCr5Fjvwu62J6kZvu7jOjhxWmQn4eq4mgcJB4UfK9UCJf5gUh5jyKMzOyWA==;ilZ8MrUOtRZdWhK6P45BUA=="
+secured: "o1RfEcerqBG6skciuwXdhcsqP2EhH7dycww6KlENcZaSIirr6dZN+HRSs1txADPcwOTUDDVvVR7EUE45YyBrFEiQE+N7lMRCpHbEHQWW0UZXCSSpNzkOKYVDT/fGee80ki8U9w/GP5HmNRpD0m34CvP57U1cP++D7BIw8iTmuw02k8zeQcGQNk94ciZAPhWw0zC0xds+ncwfp9DvfoTy8Mf0iNnWCVkgP4/wPBgVbeGPQBRiunpYDFfeOg/PO80AwX9IjPT8aSVUT6noVYsOSQOkEKSdpGjmRQrkTFJJcKtKWTKU95qBGVKxF1bmMYKf4qE/MzdeeR/Bz7GReLgjvEL2ZmkX1aMN+t45tq5VIXo=;kSo91XRuaqG0hOf7EIRH8A=="
 ---
 

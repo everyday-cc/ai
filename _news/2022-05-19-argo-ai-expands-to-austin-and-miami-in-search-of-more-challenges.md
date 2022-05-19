@@ -146,6 +146,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Argo AI deploys autonomous vehicle fleets in Austin and Miami"
+    excerpt: "Most of Argo AI’s vehicles on the road currently only have employees on board, but some Lyft passengers in Miami are able to get a ride in one of them."
+    publishedDateTime: 2022-05-19T09:02:00Z
+    webUrl: "https://www.cbtnews.com/argo-ai-deploys-autonomous-vehicle-fleets-in-austin-and-miami/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 37
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2022/05/Argo.jpeg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Argo AI Launches Driverless Testing in Austin and Miami"
     excerpt: "Argo AI has officially begun operating its driverless test vehicles, with no human safety drivers, in both Miami and Austin."
     publishedDateTime: 2022-05-17T19:05:00Z

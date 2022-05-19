@@ -109,18 +109,18 @@ related:
         height: 653
         isCached: true
   - title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
     publishedDateTime: 2022-05-18T15:22:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial/article_0e6af082-dfa6-50d3-ba1a-b6b6c08147b5.html"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 31
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
     images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "SparkCognition Named to 2022 CB Insights AI 100 List of Most Promising AI Companies in the World"
     excerpt: "Unicorn valued AI software company recognized for fifth time on prestigious list AUSTIN, Texas, May 17, 2022 /PRNewswire/ -- SparkCognition, a global leader in artificial intelligence (AI) software solutions for industry,"

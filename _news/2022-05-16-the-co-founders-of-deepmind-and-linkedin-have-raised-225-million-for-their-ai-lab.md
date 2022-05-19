@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepm
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google's DeepMind on the verge of achieving human AI"
+    excerpt: "Human-level artificial intelligence will soon be achievable, according to the lead researcher at Google’s DeepMind AI division. Dr Nando de Freitas said that it was \"game over\" in the long ..."
+    publishedDateTime: 2022-05-19T08:30:00Z
+    webUrl: "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai"
+    ampWebUrl: "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: " https://i.tribune.com.pk/media/images/623082907ce4897c3820b24c_DeepMin1652873089-0/623082907ce4897c3820b24c_DeepMin1652873089-0.jpg  "
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Inflection AI raises $225 million to transform computer-human interactions"
     excerpt: "Mustafa Suleyman (DeepMind’s ML research unit’s cofounder) and Reid Hoffman (LinkedIn cofounder) launched Inflection AI. Some of the AI experts in Inflection AI worked at DeepMind, Google LLC, and Meta (previously Facebook). The start-up develops AI ..."
     publishedDateTime: 2022-05-16T12:53:00Z

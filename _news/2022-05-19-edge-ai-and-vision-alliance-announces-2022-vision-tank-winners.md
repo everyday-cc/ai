@@ -1,20 +1,21 @@
 ---
 category: news
 title: "Edge AI and Vision Alliance Announces 2022 Vision Tank Winners"
-excerpt: "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the ..."
-publishedDateTime: 2022-05-19T04:51:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/article_ede9a09d-746d-5aec-aab5-9013754e4e13.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/article_ede9a09d-746d-5aec-aab5-9013754e4e13.html"
+excerpt: "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit."
+publishedDateTime: 2022-05-19T05:57:00Z
+originalUrl: "https://kdvr.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
+webUrl: "https://kdvr.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
+  - AI Hardware
   - AI
 
 related:
@@ -42,6 +43,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "whAEzAPkZRxpKRvjsEup0qL9Fl9294sAbd1eX3pjJKZ8zbVgAH6zzfuasG9K9plixqdGAcWOYL1MYYgaSilpL3+I1/DPMjp+iaZBzTWGcOEa/OWoCgR2VYzRvyQi3nxxU5VvqVEWtFrRsrhjwD6xfsOzNc/3HgZwR7LrSfjCfjfP73vdeH6C0sweCmDE29ZQX1bJj8Ji2L/4mj20higCiPFDxdNqs02xGQ/9dZcnBIH5UysYyvIOPnA0UwAVTuzT9W9AJPdHQO4o36Uk5qKvMsjhn5x+sVh9Y3d1UmtdubxnqwbsoaT3E2Rby5SvXIxnlUFOAvb1eDj1JXpnT3+HAvLOqWpBg5xP8VuqdMXV63q97Lnss2UCGeevzhblsS/mYPKlLrrJtTdzUxD/q/vq6qKVIkNa7WXV3Qk68Q7Gf87jWreCvk2do4LqBTdYgTv0GWVYuFsgWLWcqlgfpYZPKoKCHzEp/UBN8ZiB95Flg+++/Ifh3MTVpmFcytot53SjmoVOOtTFYtV9ZzWQahicVQ==;FCk8bpj8OKwRrbPZGOhFMA=="
+secured: "ZqdAQjULlA8zmnVWUo/zHUmkkX1eDld5mndmSsxtirAvcJgBBAIR1CszcCuPlsQiSeUZ5OEAs3pR7R4mj7CWD5fulg4DuBJITxxt6n26kDipzQbVUGbi6RTWn3uUqQDXqQSw90AA/AlEZTirTZkNbQw3FpFQS++E0yGFdSBMUiM/e3rHhWJ3LZWmBYj0/7CXNgEYBcdXq14Pql0UBReITSkP7qFqcAqiVx9vzOsPSsPCBl257ZoIvmy5VhcASvcsy8LoYiHLHaCaKVstVbsYnNRuB8fuqf8AhAPWblk16CCdFPz2HAjTZg4nZvSv6Pso8PdsO5YrwbqfB38bo1Ug6ebZRmSHVdBqtnMj/+AsXTQ=;px4F+lps2/Dt0eLSNK9MrQ=="
 ---
 

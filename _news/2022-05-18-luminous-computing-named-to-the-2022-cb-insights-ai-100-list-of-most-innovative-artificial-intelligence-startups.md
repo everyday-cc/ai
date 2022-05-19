@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
 publishedDateTime: 2022-05-18T15:22:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial/article_0e6af082-dfa6-50d3-ba1a-b6b6c08147b5.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial/article_0e6af082-dfa6-50d3-ba1a-b6b6c08147b5.html"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -173,6 +174,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "movQg+b5nTplgREUnR7mAtODoULkdhzHRWAgT6dTO7+60mIw9zATuYB2dIA+9h3Mmy7eoBmMaYtnUAGZSTFYb73vataxouj2bXPL7cIomDko8UlRaNz0rJa5Fm4QqF207yURMroToitAs5PVKyqz5vvuzp5eFuvexMKMys+zSQNieHn17eMW4Phwn4TnqyXmR+S2q+8fyxeG2CneX4GK/Aj33f0I7ERAUUE1VnKVzWOooyPsHnQq3O3Ams63F5sS1mJZMb0SWioP8BoeW+dFiyzqCSo8Zo6fK2eFRyrMr5AVLeGqERKEQSR4voNe48tdMHee1Zf3tAIf7k7/XcWelHC5JVJc08IkiZ2urvybtYk=;2sloGzZwanKqyvRd6LV+yQ=="
+secured: "5/mRuE/eRc+Lj34QKXCrp7Vk19WTNqDSSjLxNhCZBGMiHXweVqS87F3ieMnsUK8iSEp6jqdfCsyzXYHMkXt/T8UROaYaVbGgLs/Bcrgwbsba/oM7YzQH6X7/bBVTwOw/F+M2v7Rik9VxoBtgzqg0Ise+eKDvvujSZxTi0hrP6zSORkiHhtz6GfGaHA7EEUmurlGLJ4oLIvdq4TS/8cct7dcF845pQIYqhPTuZ8E/M2N2g0fs+cxdrmHOzdoz/Sq4a1VeuZEvyb6+VVjaOFfkxko/x6oc85UTVBQIJQ6kpzz7J62VqbU6suMXZeBj0PFJ9E0F9b/UxJIrQ1yYD6cu+L2fR8qlAI4IyQdHRxYc7Tk=;Z74EbvYaKRhHvrUOgqeqSQ=="
 ---
 

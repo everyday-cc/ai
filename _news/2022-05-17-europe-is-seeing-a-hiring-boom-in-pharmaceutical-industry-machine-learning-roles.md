@@ -53,6 +53,20 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Europe is seeing a hiring boom in military industry machine learning roles"
+    excerpt: "Europe was the fastest growing region for machine learning hiring among military industry companies in the three months ending March. The number of roles in Europe made up 17.1% of total machine learning jobs – up from 13."
+    publishedDateTime: 2022-05-19T09:00:00Z
+    webUrl: "https://www.army-technology.com/analysis/europe-is-seeing-a-hiring-boom-in-military-industry-machine-learning-roles/"
+    type: article
+    provider:
+      name: Army Technology
+      domain: army-technology.com
+    quality: 37
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/05/OUGqT-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Europe is seeing a hiring boom in railway industry machine learning roles"
     excerpt: "Europe was the fastest growing region for machine learning hiring among railway industry companies in the three months ending March. The number of roles in Europe made up 23.1% of total machine learning jobs – up from 7."
     publishedDateTime: 2022-05-17T08:00:00Z
