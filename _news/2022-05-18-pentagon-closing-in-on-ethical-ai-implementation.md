@@ -27,8 +27,8 @@ images:
 related:
   - title: "The Pentagon Is Closing in on 'Ethical' AI Implementation"
     excerpt: "The Defense Department is still finalizing an implementation plan for its artificial intelligence ethical principles, according to Jane Pinelis, the chief of AI assurance for the Defense Department's Joint Artificial Intelligence Center,"
-    publishedDateTime: 2022-05-18T21:05:00Z
-    webUrl: "https://www.govexec.com/technology/2022/05/pentagon-closing-ethical-ai-implementation/367090/"
+    publishedDateTime: 2022-05-18T21:00:00Z
+    webUrl: "https://www.govexec.com/technology/2022/05/pentagon-closing-ethical-ai-implementation/367090/?%3Foref=GovExecTCO"
     type: article
     provider:
       name: Government Executive

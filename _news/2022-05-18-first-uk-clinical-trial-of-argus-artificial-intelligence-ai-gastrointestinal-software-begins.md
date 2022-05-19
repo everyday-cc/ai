@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-18T14:31:00Z
 originalUrl: "https://apnews.com/press-release/prcom/technology-health-clinical-trials-artificial-intelligence-b49d13cded62ad33fb6fbe69707976b8"
 webUrl: "https://apnews.com/press-release/prcom/technology-health-clinical-trials-artificial-intelligence-b49d13cded62ad33fb6fbe69707976b8"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

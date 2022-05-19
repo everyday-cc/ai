@@ -74,6 +74,20 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Factory optimization software maker Fero Labs is recognized for achievements in industrial automation for modern manufacturers NEW YORK, May 17, 2022 /PRNewswire/ -- CB Insights today named Fero Labs to its annual AI 100 ranking,"
+    publishedDateTime: 2022-05-17T20:46:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "WellSaid Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial ..."
     publishedDateTime: 2022-05-17T13:05:00Z
@@ -125,15 +139,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Factory optimization software maker Fero Labs is recognized for achievements in industrial automation for modern manufacturers NEW YORK, May 17, 2022 /PRNewswire/ -- CB Insights today named Fero Labs to its annual AI 100 ranking,"
-    publishedDateTime: 2022-05-17T20:46:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
     excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
     publishedDateTime: 2022-05-17T18:00:00Z

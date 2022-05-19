@@ -3,10 +3,10 @@ category: news
 title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
 excerpt: "Factory optimization software maker Fero Labs is recognized for achievements in industrial automation for modern manufacturers NEW YORK, May 17, 2022 /PRNewswire/ -- CB Insights today named Fero Labs to its annual AI 100 ranking,"
 publishedDateTime: 2022-05-17T20:46:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-b388b59510091e2601124f0aa7d826be"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
@@ -144,6 +150,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "w0IuEdJZAJusMsgyoOv92WLfkbtZSm9HI4/EZvagySdW3qzunOm6/CnO3PPicBQZSpw27EZBxaWY3w644O4FjTTsQHIMlwmOvYKEZjkiNFyp/onBcX3ExTcYkgoaaIu2c37QL5mF4HN0xRzd3H2GhRCnKvNlpU796siNDtAgf77RZev17QwGUNYun8wzVDfVBTnR4b74bMD21zodFpIeDhMlAEkNoZJL28pRoBUkBoSRXRmkHeqgRC89WFSIQbtCtw99CqOwHojOkvRfb+bAbQsG36Y5+jRlnvYhaEFK+cKW1hcoG6gJJ4G1fS7nGkx7KaYCW2F0p8+Nqj10vBPnPn2H37BdtMHN764NJt1pGlc=;QOfDcz5vN8iFk/VBF+XKNg=="
+secured: "xS4NhlzM2JKHiRiaI87S9ygWL0wUiDMO2st67Ey328Zq/7SnJXqQvrRoc4lyWwHO/67Y7f1URTlecmichx+nyDRhdGIo9brrnwOHBNc4mmCmdT3i1QX4lU2cckaK6TdBVg7VvIyci3PcKfKtlEdJ/r6Mrs+F/ThHdySftXv7TiF77ZtAoehO9Rje18gta5SdRS2vMkS9DlgtwudUedThR0CJav5SlFzzBW+Mc48y2zId35GH4xq7bxmBWkQU9e1LHHk8tEmOigAL23gDHgUtALqWe2GBtMSilbxI0ix+AS9n0dO1mHQzCNNRKkDPN1Z3zpu9kaRe6kiDsWpcRBrUL8M7jnjCoEUwZBJQRKyhoQQ=;ss9PUlCMvJWhE5CIDK0TuA=="
 ---
 

@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "New Relic Announces Product Integrations and Multi-Year Commercial Partnership with Microsoft Azure"
+    excerpt: "Azure customers can use New Relic as a fully-integrated, Azure-native observability platform to accelerate enterprise cloud migration and multi-cloud initiatives. FUTURESTACK—New Relic (NYSE: NEWR), the observability company,"
+    publishedDateTime: 2022-05-18T16:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-18-new-relic-announces-product-integrations-and-multi-year-commercial-partnership-with-microsoft-azure"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 20
   - title: "SignUp Software and Velosio Ink North America Partnership to Deliver Integrated, AI-driven AP Automation for Microsoft Dynamics 365"
     excerpt: "These two Microsoft Dynamics powerhouses will support companies of all sizes to automate processes, increase efficiency, and improve accuracy while reducing cost and compliance risk."
     publishedDateTime: 2022-05-17T12:45:00Z

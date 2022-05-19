@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-19-ionq-and-hyundai-motor-expand-partnership-to-use-quantum-computing-for-object-detection.md",
+      "title": "IonQ and Hyundai Motor Expand Partnership to Use Quantum Computing for Object Detection",
+      "excerpt": "Running object recognition tasks on IonQ’s latest quantum computer, IonQ Aria, should enable more efficient processing with lower costs, leading to the development of safer, more intelligent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/ionq-and-hyundai-motor-expand-partnership-to-use-quantum-computing-for-object-detection/article_c1765580-cd5d-599f-897a-759f1b9250f1.html",
+      "originalUrl": "https://www.eagletribune.com/region/ionq-and-hyundai-motor-expand-partnership-to-use-quantum-computing-for-object-detection/article_c1765580-cd5d-599f-897a-759f1b9250f1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/d8/1d8cb1b3-aea2-5c1f-a1ee-29d4427d5bde/625ea5831f4ec.image.jpg?crop=1939%2C1018%2C48%2C0&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities.md",
       "title": "Hyundai chooses IonQ's quantum tech to improve its vehicles' object recognition capabilities",
       "excerpt": "The automaker hopes the quantum machine learning services of IonQ can help it improve its 3D object detection safety systems for drivers and autonomous vehicles.",
@@ -1297,49 +1340,6 @@
       "provider": {
         "name": "Daily Breeze",
         "domain": "dailybreeze.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-how-ai-is-creating-higher-quality-pet-bales.md",
-      "title": "How AI is creating higher quality PET bales",
-      "excerpt": "e-scrap and construction and demolition debris with an object recognition run rate of more than 10 billion items annually. This combination of scalable accuracy and classification creates a step-level solution for data collection and measurement that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.recyclingtoday.com/article/how-ai-is-creating-higher-quality-pet-bales/",
-      "originalUrl": "https://www.recyclingtoday.com/article/how-ai-is-creating-higher-quality-pet-bales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.recyclingtoday.com/fileuploads/publications/17/issues/104003/articles/images/PET_Bale_fmt.png?w=1200&h=627&scale=both",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Recycling Today",
-        "domain": "recyclingtoday.com",
         "images": null,
         "publishers": null,
         "authors": null

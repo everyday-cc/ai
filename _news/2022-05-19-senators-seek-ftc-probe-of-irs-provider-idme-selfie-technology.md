@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Senators Push for FTC Investigation into ID.me Technology"
+    excerpt: "The software, which has been used by government agencies, is raising questions among Democratic lawmakers around whether the company misled consumers and agencies about the scope of the verification technology."
+    publishedDateTime: 2022-05-18T23:05:00Z
+    webUrl: "https://www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology"
+    ampWebUrl: "https://www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/da27b57/2147483647/strip/true/crop/1000x521+0+3/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F63%2F9f%2F8d290f4a41b2941b9fafba5a3eeb%2Fshutterstock-1658387542.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Senators Seek FTC Probe of ID.me Selfie Technology"
     excerpt: "In a letter to the Federal Trade Commission requesting an investigation, four Democratic senators asked the regulator to examine whether identity verification company ID.me’s statements pointed to its use of illegal “deceptive and unfair business practices."
     publishedDateTime: 2022-05-18T17:11:00Z

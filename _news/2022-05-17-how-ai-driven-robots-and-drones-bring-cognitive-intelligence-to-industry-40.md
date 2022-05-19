@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Roundtable: The Impact of Artificial Intelligence in the Region"
+    excerpt: "In partnership with Google, AS/COA will host a conversation with experts from across Latin America developments in the artificial intelligence space."
+    publishedDateTime: 2022-05-18T20:31:00Z
+    webUrl: "https://www.as-coa.org/events/roundtable-impact-artificial-intelligence-region"
+    type: article
+    provider:
+      name: Americas Society
+      domain: as-coa.org
+    quality: 37
+    images:
+      - url: "https://www.as-coa.org/sites/default/files/styles/event_hero_836x576_/public/AdobeStock_DataServers_1250.jpg?h=fef4d8e8&itok=VIMWt9hv"
+        width: 836
+        height: 469
+        isCached: true
   - title: "The power industry found it harder to fill artificial intelligence vacancies in Q1 2022"
     excerpt: "Artificial intelligence-related jobs that were closed during Q1 2022 had been online for an average of 35 days when they were taken offline. This was an increase compared to the equivalent figure a year earlier,"
     publishedDateTime: 2022-05-18T13:03:00Z

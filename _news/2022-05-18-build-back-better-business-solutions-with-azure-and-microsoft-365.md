@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "New Relic Announces Product Integrations and Multi-Year Commercial Partnership with Microsoft Azure"
+    excerpt: "Azure customers can use New Relic as a fully-integrated, Azure-native observability platform to accelerate enterprise cloud migration and multi-cloud initiatives. FUTURESTACK—New Relic (NYSE: NEWR), the observability company,"
+    publishedDateTime: 2022-05-18T16:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-18-new-relic-announces-product-integrations-and-multi-year-commercial-partnership-with-microsoft-azure"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 20
   - title: "Microsoft launches Open Data for Society"
     excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
     publishedDateTime: 2022-05-16T12:42:00Z

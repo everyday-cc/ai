@@ -3,8 +3,8 @@ category: news
 title: "How to Make Sure Your Résumé Passes Muster With an AI Reader"
 excerpt: "Including just the right keywords is crucial to getting to the next step in a job search."
 publishedDateTime: 2022-05-16T16:00:00Z
-originalUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=tech_lista_pos3"
-webUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=tech_lista_pos3"
+originalUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_jr_pos2"
+webUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_jr_pos2"
 ampWebUrl: "https://www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "l1sZpHk0Z9ZQ1ZCseTXk94EHKaUEZ7vDN9w0rsLLgTVZSPUXnU8AbdwOCYbxe0Is3Em4Ek0eCrFnPp/ESPiqOSQfD/f+LmmApnFjE96m5lI5xh1RWRoTq4cX68kuOZkYpShC6LxQ/L9Y4/X4LT2j2X+T2IoKFDpBBOEz4Q9fLFfe2m2hhqlJBWD8I/hHOoGfGe64CxVIC1/94rkvukY4o3lzrtvuHk9z0q2tmZv1PgH/CMZRW/eIW5opaVZmdzK+n6izl3W+yFXbidxiqAncV7wtfclBysl7ZcaZLHKulXh9c3acSubAXaiZ5SdrKikkEt82X8Sz5BdieAxj+F8tkJ0XrWmltts9erDaeZ5gLas=;YVUaMQj1s0Uoge0hTzXWdQ=="
+secured: "xDQoQ0sxHom39Hpa26HNC+mQCSE+dGebFAnL/0NJG/iVC3ZNe654Yx2RmegfJa53R8Wx0ewZ5QCFAtjm0Ynpp3MaDIHtD9mVJA+sAnagK1CjM107sKby+1gpSfhF+RUh0PAZ+qiTsC2jaaXcuy65wwhyKmh5ZQ76dEAdlgrcHM1aJGo38FpwBOgVsxe0oFMq54zRS4Q34xD2eKqTglAwEvdY8nXNf7fEzb0TVBqAB9vInuklTH/NtjrpTB5DyFozw3gvVq+WhsqbmrIwrwk56RWIfPnSu6+sh5N1x9mNGiipumNSv4dFPQPH0rdEL1NHkVp+c47HRujHC72uajWqXaJ6ebX8kT8J0ggIWttD0Hk=;G84EQUxoxMF6y3oP84Qe9Q=="
 ---
 

@@ -148,19 +148,19 @@
     {
       "path": "_news/2022-05-16-brainchip-and-edge-impulse-partner-to-accelerate-aiml-deployments.md",
       "title": "BrainChip and Edge Impulse Partner to Accelerate AI/ML Deployments",
-      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 15, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, and Edge Impulse,",
+      "excerpt": "BrainChip’s Akida TM is a revolutionary advanced neural networking processor architecture that brings AI to the edge in a way that is not feasible for existing technologies, offering high performance, ultra-low power, and on-chip learning. Edge Impulse ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-brainchip-holdings-ltd-0e1d526615410529bbae213f394cff1a",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-brainchip-holdings-ltd-0e1d526615410529bbae213f394cff1a",
+      "webUrl": "https://www.digitaljournal.com/pr/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments",
+      "originalUrl": "https://www.digitaljournal.com/pr/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.accesswire.com/users/newswire/images/701417/image.png",
+          "width": 1374,
+          "height": 727,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -170,11 +170,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-15T14:41:00-07:00",
+      "publishedDateTime": "2022-05-15T14:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

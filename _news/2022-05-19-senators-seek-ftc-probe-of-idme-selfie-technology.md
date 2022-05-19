@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/dailybusinessreview/2022/05/18/senators-seek-f
 webUrl: "https://www.law.com/dailybusinessreview/2022/05/18/senators-seek-ftc-probe-of-id-me-selfie-technology/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senators Push for FTC Investigation into ID.me Technology"
+    excerpt: "The software, which has been used by government agencies, is raising questions among Democratic lawmakers around whether the company misled consumers and agencies about the scope of the verification technology."
+    publishedDateTime: 2022-05-18T23:05:00Z
+    webUrl: "https://www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology"
+    ampWebUrl: "https://www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/da27b57/2147483647/strip/true/crop/1000x521+0+3/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F63%2F9f%2F8d290f4a41b2941b9fafba5a3eeb%2Fshutterstock-1658387542.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Senators seek FTC probe of IRS provider ID.me selfie technology"
     excerpt: "A group of Democratic senators has asked the Federal Trade Commission to investigate whether identity verification company ID.me illegally misled consumers and government agencies over its use of controversial facial recognition software."
     publishedDateTime: 2022-05-18T17:25:00Z

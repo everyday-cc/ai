@@ -2,6 +2,83 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-04-13-dell-nvidia-amd-to-power-new-ohio-ai-compute-cluster.md",
+      "title": "Dell, Nvidia, AMD to power new Ohio AI compute cluster",
+      "excerpt": "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/04/13/shutterstock_ohio_uni.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
+      "publishedDateTime": "2022-04-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-aktify-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
+      "title": "Aktify Named Winner in 2022 Artificial Intelligence Excellence Awards",
+      "excerpt": "LEHI, Utah, April 13, 2022 /PRNewswire/ -- Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes Aktify's achievements in collective intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-backplane-systems-technology-presents-sintrones-abox-5210g6-powerful-edge-ai-fanless-computer-system.md",
       "title": "Backplane Systems Technology Presents Sintrones’ ABOX-5210G6 Powerful Edge AI Fanless Computer System",
       "excerpt": "Powerful Edge AI Fanless Computer System. Powered by Intel® Gen 10th 10 Cores Xeon®, i9 CPU with 10 x GbE, and NVIDIA® Quadro® RTX 3000 GPU for AI GPU Computing. Furthermore, the ABOX-5210G6 features 1920 CUDA Cores, a superior GPU specification in the ...",
@@ -995,99 +1072,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-observeai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m.md",
-      "title": "Observe.AI bolsters its business intelligence for contact centers with new $125M",
-      "excerpt": "Observe.AI’s solution uses AI to process customer interactions with contact center agents to generate business intelligence and develop more sophisticated insights into how to improve customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/",
-      "originalUrl": "https://venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/11/CallCenter-e1615218915414.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/amp/",
-      "publishedDateTime": "2022-04-12T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-ai-can-predict-probability-of-covid-19-vs-flu-based-on-symptoms.md",
-      "title": "AI can predict probability of COVID-19 vs. flu based on symptoms",
-      "excerpt": "The next step is to create an AI, web-based calculator that can be used in the field. This would allow clinicians to arrive at a presumed diagnosis prior to the visit,\" said Alemi. From there ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/26-covid.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.amp",
-      "publishedDateTime": "2022-04-12T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

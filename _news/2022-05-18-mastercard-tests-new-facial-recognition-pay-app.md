@@ -9,7 +9,7 @@ ampWebUrl: "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-fa
 cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -51,6 +51,22 @@ related:
       - url: "https://lh3.googleusercontent.com/PSDso2yuUoiNSsATUQkixcCZ89bmLrlWxPaPJmuAXSlvKfpPMLQx9tXRgM8iUKLCOGR4BiES_A0PdHz2OZ37mrPz5GZbGLxxLN_WXMWmz_ZutIM=s512"
         width: 512
         height: 341
+        isCached: true
+  - title: "Did ID.me hoodwink Americans with IRS facial-recognition tech, senators ask"
+    excerpt: "Democrat senators want the FTC to investigate \"evidence of deceptive statements\" made by ID.me regarding the facial-recognition technology it controversially built for Uncle Sam. ID.me made headlines this year when the IRS said US taxpayers would have to enroll in the startup's facial-recognition system to access their tax records in the future."
+    publishedDateTime: 2022-05-18T22:50:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/18/senate_ftc_idme/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/18/senate_ftc_idme/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/18/senate_ftc_idme/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 42
+    images:
+      - url: "https://regmedia.co.uk/2019/01/11/facial_recognition.jpg"
+        width: 1000
+        height: 691
         isCached: true
   - title: "Mastercard pilots biometric payments, using facial recognition"
     excerpt: "Mastercard has begun to trial a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their face using a retailer’s smartphone app and assign their likeness to a bank card stored on file."

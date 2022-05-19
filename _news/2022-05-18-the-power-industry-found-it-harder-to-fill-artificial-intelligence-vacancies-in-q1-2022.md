@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Roundtable: The Impact of Artificial Intelligence in the Region"
+    excerpt: "In partnership with Google, AS/COA will host a conversation with experts from across Latin America developments in the artificial intelligence space."
+    publishedDateTime: 2022-05-18T20:31:00Z
+    webUrl: "https://www.as-coa.org/events/roundtable-impact-artificial-intelligence-region"
+    type: article
+    provider:
+      name: Americas Society
+      domain: as-coa.org
+    quality: 37
+    images:
+      - url: "https://www.as-coa.org/sites/default/files/styles/event_hero_836x576_/public/AdobeStock_DataServers_1250.jpg?h=fef4d8e8&itok=VIMWt9hv"
+        width: 836
+        height: 469
+        isCached: true
 
 secured: "x8bF5FbEEiYAFlnJwLa9UT25LBTb24D05gZrDyxTbKknszeM8jhHt7moXQGSbvIWn3v0j+x4bC5z1mpoCZF/t1bIIVcqsdMbTbJXd+Yxuad7eXL67RHPEZ+RonG6fuzUoGiRghc5wtv03nJePMnFVQ+8WtXrc9V5ojyV15n37sEXX7LsutLxM6Xm9GYVEYXOFHuNl/kpfzZzb6KPAHbT+dlFJxA45Qfqnc8OjFO6F1HBnxpKSj+vQlPc4c7VAa3MQFAG4wVB2FDRba5l0O2BN7apTp5bD9TrKw4RAdYsLQCPanwYJTE83aKRLen0iHg6EoROsa+lJxIO4+xJmlUfp3GuDKQMxkQpYW0xwMwo/+Di7Zu9x0iUzGV68PDMWaGUQu/Xz2kf2lRKfvDMH3SyYE8MH3w+RRQm2YveapUPynrHMUg7gcUfvLP/U3IO3c4k4vngs/GRO+BeIWj45NU0dtoVmdCWwAzR81xBtTVPPKHhWUgU7ScC1hsF28GYWsFsALIRcuKxRinBSSnsnbx4NQ==;tbE9/VdQI0skdG7KsKZjSQ=="
 ---

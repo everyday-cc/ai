@@ -2,6 +2,83 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-03-16-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale.md",
+      "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale",
+      "excerpt": "Intuition Robotics today announced the official commercial launch of its digital care companion, ElliQ which is now available for purchase via elliq.com. ElliQ, the sidekick for healthier, happier aging,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.at/nachrichten/aktien/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
+      "originalUrl": "https://www.finanzen.at/nachrichten/aktien/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.finanzen.at/nachrichten/amp/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
+      "cdnAmpWebUrl": "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
+      "publishedDateTime": "2022-03-16T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finanzen",
+        "domain": "finanzen.at",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-easing-financial-nerves-with-artificial-intelligence.md",
+      "title": "Easing Financial Nerves With Artificial Intelligence",
+      "excerpt": "In 2022, global anxiety feels unavoidable. From climate change to the continued impact of Covid-19, we are experiencing challenges affecting everyone across the globe. Business leaders are not exempt from this fear.",
+      "sourceUrl": null,
+      "webUrl": "https://internationalbanker.com/technology/easing-financial-nerves-with-artificial-intelligence/",
+      "originalUrl": "https://internationalbanker.com/technology/easing-financial-nerves-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://internationalbanker.com/wp-content/uploads/2022/03/Artificial-Intelligence.png",
+          "width": 1339,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-progress-updates-sitefinity-dx.md",
       "title": "Progress updates Sitefinity DX",
       "excerpt": "The latest release of the Progress Sitefinity DX digital experience platform delivers .Net 6 support and new digital asset management, advanced search and audience analysis, segmentation and ...",
@@ -989,83 +1066,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-arista-anet-appears-a-smart-investment-bet-now-heres-why.md",
-      "title": "Arista (ANET) Appears a Smart Investment Bet Now: Here's Why",
-      "excerpt": "The company expanded its cognitive campus ... troubleshooting and location services. This supports video conferencing applications like Google Hangouts, Microsoft Teams and Zoom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
-      "originalUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
-      "publishedDateTime": "2022-03-15T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-you-can-now-unlock-your-iphone-using-face-id-even-if-youre-wearing-a-mask-heres-how-to-do-it.md",
-      "title": "You can now unlock your iPhone using Face ID even if you're wearing a mask. Here's how to do it",
-      "excerpt": "facial recognition. It's become more and more of a mainstay for security firms around the world. But in the age of the covid 19 pandemic, there are some obvious hurdles. And algorithmic based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlky.com/article/you-can-now-unlock-your-iphone-using-face-id-even-if-youre-wearing-a-mask-heres-how-to-do-it/39438966",
-      "originalUrl": "https://www.wlky.com/article/you-can-now-unlock-your-iphone-using-face-id-even-if-youre-wearing-a-mask-heres-how-to-do-it/39438966",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1235464494.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
-          "width": 1024,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wlky.com/amp/article/you-can-now-unlock-your-iphone-using-face-id-even-if-youre-wearing-a-mask-heres-how-to-do-it/39438966",
-      "cdnAmpWebUrl": "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/you-can-now-unlock-your-iphone-using-face-id-even-if-youre-wearing-a-mask-heres-how-to-do-it/39438966",
-      "publishedDateTime": "2022-03-15T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLKY",
-        "domain": "wlky.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
