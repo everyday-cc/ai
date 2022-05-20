@@ -18,6 +18,12 @@ topics:
   - AI Hardware
   - AI
 
+images:
+  - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/05/Habana_Gaudi2_Card.627aa84f05a13.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
   - title: "Intel Upgrades for AI Wars with Habana-Designed Server Chip"
     excerpt: "The 7-nm Habana-designed Gaudi2 is twice as fast as its first-generation predecessor, according to the company."
@@ -52,6 +58,6 @@ related:
       domain: itworldcanada.com
     quality: 9
 
-secured: "tlWUrgzl2hQ0KXzJelcFPSGE0evrDDe29FRov6mih5qFDEiNe2m+p7ZFnr/RHW3xjRT/ln4shSUe7d8hfWGSXwgGlSsEoIwyuHcLZTwG0AZZ97ffONS1qg6Xhj21mv/fbFkCUhq+sJ72yA4S6/Sx9yTg7xOPctoHBuoki5GysPjSw6Cy8Clpu+8gA1GcBU/GmWORcTXTsfvU+g1xQycd+U8qDoG4HdIR3WPKitYjSk7zuCaBJuElHaaq9Qk1jo7wY2nd+3mIBv2m4k8aheGmiTLhje5jFYEJb/S2X56+gzjKIzhopHL4Db2OzsKxUwAqwMo6toczKPI5ImPF1nA51bcJyqEPxiTi4mH5k+WQvj0=;6URjbw0PRSzBd/eKbkPQ9w=="
+secured: "UpgvkY/tvzK1VZxNckW2v7PT0Y1VZSNl8wDuoB7+hzEM8PeVyDi63layhqEhgiirY5O3QuYLNoBXTMnlZZK5/E9q/z8ml1aUtGi1A6prr5wKMZlNaBoo2FMwSOngAto25FrSHarr5aYbNzXRDTDThZHS5xjLL64sO+EnNs0e1TeICSAOenwpEff0DZMwWCObIu8vybiTp9q6Y+x1v5Fj/NDV5edNiCQHHjQf89d3Q5JgFLo1XdHM5U7tuTqw6HS99S+wVquP1MY5O2YRTCt9OZSARLSub4Zidy2jqqHJj56URMky2IG3xb29GGNqykfx4wZJLgH75Pw27U+IaKNN8Ks+a7JYbUHHT3gSbtG4kbU=;kZRlV1vdnNvhlULkP1QjAA=="
 ---
 

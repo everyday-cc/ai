@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft Edge taps AI to make grainy images look nice and crisp in your browser"
+    excerpt: "TopazLabs’ Gigapixel AI is a dedicated, paid tool to do the same ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
+    publishedDateTime: 2022-05-20T17:50:00Z
+    webUrl: "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html"
+    ampWebUrl: "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html/amp"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html/amp"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 101
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2022/05/Bing-Vatican-1.png?w=1024"
+        width: 1022
+        height: 477
+        isCached: true
   - title: "Wayve and Microsoft partner to scale autonomous vehicles"
     excerpt: "Machine learning at scale is 90% an engineering challenge ... The company has been working with Microsoft and its Azure cloud since 2020. Since then, the team has seen an absolute acceleration ..."
     publishedDateTime: 2022-05-18T16:58:00Z
@@ -49,31 +65,6 @@ related:
         width: 1024
         height: 765
         isCached: true
-  - title: "Build Back Better: Business Solutions with Azure and Microsoft 365"
-    excerpt: "How to build innovative solutions that solve real business problems using Azure and Microsoft 365. No code, low code and pro code."
-    publishedDateTime: 2022-05-18T08:11:00Z
-    webUrl: "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/"
-    type: article
-    provider:
-      name: SharePoint
-      domain: sharepointeurope.com
-    quality: 54
-    images:
-      - url: "https://www.sharepointeurope.com/wp-content/uploads/speakers/2016/03/Bill-Ayers-2.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver a 204% ROI"
-    excerpt: "ORGANIZATIONS deploying SAS Viya, SAS' cloud-native AI, analytic and data management platform, on Microsoft Azure, can see benefits including a 204 percent return"
-    publishedDateTime: 2022-05-19T11:46:00Z
-    webUrl: "https://www.manilatimes.net/2022/05/20/public-square/sas-viya-on-microsoft-azure-can-deliver-a-204-roi/1844257"
-    ampWebUrl: "https://www.manilatimes.net/2022/05/20/public-square/sas-viya-on-microsoft-azure-can-deliver-a-204-roi/1844257/amp"
-    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/05/20/public-square/sas-viya-on-microsoft-azure-can-deliver-a-204-roi/1844257/amp"
-    type: article
-    provider:
-      name: The Manila Times
-      domain: manilatimes.net
-    quality: 54
   - title: "New Relic announces integration and multi-year partnership with Microsoft Azure"
     excerpt: "New Relic <> partners with Microsoft to help enterprises accelerate cloud migration and multi-cloud initiatives"
     publishedDateTime: 2022-05-18T16:08:00Z
@@ -88,29 +79,34 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "New Relic announces product integrations and multi-year commercial partnership with Microsoft Azure"
-    excerpt: "New Relic announced a strategic partnership with Microsoft to help enterprises accelerate cloud migration and multi-cloud initiatives. With this partnership, Microsoft Azure customers can use New Relic as their default observability platform natively inside Azure Portal."
-    publishedDateTime: 2022-05-20T03:57:00Z
-    webUrl: "https://www.crn.in/news/new-relic-announces-product-integrations-and-multi-year-commercial-partnership-with-microsoft-azure/"
+  - title: "Edge Browser Will AI Improve All Web Images"
+    excerpt: "Turing Image Super-Resolution will automatically turn website images into high resolution graphics for users of Edge browser"
+    publishedDateTime: 2022-05-16T09:22:00Z
+    webUrl: "https://www.searchenginejournal.com/edge-browser-will-ai-improve-all-web-images/450350/"
     type: article
     provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 40
+      name: Search Engine Journal
+      domain: searchenginejournal.com
+    quality: 37
     images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2021/08/16173811/CRN_Mergers_05_696.jpg"
-        width: 696
-        height: 465
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/05/turing-image-super-resolution-6282145c5dc44-sej.jpg"
+        width: 1600
+        height: 840
         isCached: true
-  - title: "New Relic Announces Product Integrations and Multi-Year Commercial Partnership with Microsoft Azure"
-    excerpt: "Azure customers can use New Relic as a fully-integrated, Azure-native observability platform to accelerate enterprise cloud migration and multi-cloud initiatives. FUTURESTACK—New Relic (NYSE: NEWR), the observability company,"
-    publishedDateTime: 2022-05-18T16:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-18-new-relic-announces-product-integrations-and-multi-year-commercial-partnership-with-microsoft-azure"
+  - title: "Call Center AI Market Growing Massively by Artificial Solutions International AB, IBM Corporation, Microsoft Corporation"
+    excerpt: "New Jersey, United States - Research Cognizance announces the release of the Call Center AI Market research report. This study is one of the most detailed"
+    publishedDateTime: 2022-05-19T10:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/call-center-ai-market-growing-massively-by-artificial-solutions-international-ab-ibm-corporation-microsoft-corporation"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 20
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Microsoft launches Open Data for Society"
     excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
     publishedDateTime: 2022-05-16T12:42:00Z

@@ -2,17 +2,17 @@
 category: news
 title: "Keep Your Résumé Attractive and Up-to-Date with This AI-Powered Tool"
 excerpt: "A résumé is useful for that. You don't want to spend time building and perfecting your résumé when you have bigger fish to fry, so let The Complete Resoume AI Assistant Résumé Writer take care of the hard stuff for you. Resoume is a simple résumé ..."
-publishedDateTime: 2022-05-20T15:35:00Z
-originalUrl: "https://www.timesunion.com/business/article/Keep-Your-Resume-Attractive-and-Up-to-Date-with-17186891.php?IPID=Times-Union-jobs-entrepreneurship-river"
-webUrl: "https://www.timesunion.com/business/article/Keep-Your-Resume-Attractive-and-Up-to-Date-with-17186891.php?IPID=Times-Union-jobs-entrepreneurship-river"
+publishedDateTime: 2022-05-20T16:30:00Z
+originalUrl: "https://www.chron.com/business/article/Keep-Your-Resume-Attractive-and-Up-to-Date-with-17186891.php"
+webUrl: "https://www.chron.com/business/article/Keep-Your-Resume-Attractive-and-Up-to-Date-with-17186891.php"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -41,6 +41,6 @@ related:
         height: 640
         isCached: true
 
-secured: "LqNx4dwFVJx4SNlHZr45kkSOkR6Y5ngcKz9Sz0nN0p0o672bLKGYaIF2c/8B9xOK8DmmQy6vvmgHJfGWkMocdSsPf44t68yMJqoCIredkQRQ2WTx3zGlk87FPnUmXbcoF7FbbI6fiVamIG6Z3H4/pvjBMyh0YZ8wLtATU/dKIDKNdd8VKhnb8rFEbStpaguB3AmHHPKqKte13M0+t40h/IK4i6ZhQz6AclOgC768Ws3qNbV43j/ZJlJFVx7sc7Rpj++/5yrvAZOgdH+x+a0Q/UTDPYHrTdb4OSZMp8OToCHuplqy5qpnmOUYeR5HlRr0jhs8KXWZOSrVqS2FNKeR9BG1sXCJ7zuVIczH5p0Jv9c=;xAPfeFuC992MTIvzchjz8A=="
+secured: "aHD2xqC0P6FwLMgLyNbZ6Q0dUn7Uutwt15pV2gB/1BgbJq2UFcW9RU0wCc/DekvXbDBgugWHb28mXtFqPF6p7DV4efJQ3zj0VtzE+kRBGqZU0hjIVZh5VbTdsfhVXqSvFEfwQ2sap4XQ2iPPqCKpNjixiElDl8ZuuGXIaaDLeNJlXRT0kyQ8IH7zBzljmtJpliCSHb/t08WIqRzrmXNY2GkjO2rXp23qIBS5AQOgN/tazOI4wIuv+k8A71A9Sl7M1cemo0DIcxyfq5hxR+apk9ABC0QaMRuaThldZw+ST6Nr3qVrflHSCz6d+cuZMO+JUOolO0UASH5ZnRJczqmXFBCqpvS2Et4KmBczPA5WvGQ=;rJcBSxF6KDjKE6wg+3L0LA=="
 ---
 

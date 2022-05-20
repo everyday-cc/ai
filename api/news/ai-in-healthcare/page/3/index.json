@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-04-19-kemtai-partners-with-recoveryone-to-offer-sensor-free-virtual-physical-therapy-solution.md",
-      "title": "Kemtai Partners with RecoveryOne to Offer Sensor-Free Virtual Physical Therapy Solution",
-      "excerpt": "Powered by Kemtai’s proprietary computer vision technology, RecoveryOne’s new Motion Trainer feature provides physical therapy patients with real-time feedback and guidance during at-home sessions without sensors or other hardware NEW YORK,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
       "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
       "excerpt": "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research.",
@@ -1295,6 +1252,49 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-02-gastroenterology-technology-5-updates-from-last-30-days.md",
+      "title": "Gastroenterology technology: 5 updates from last 30 days",
+      "excerpt": "Artificial intelligence and other gastroenterology technology developments ... based Surgical Clinic completed the clinic's first Enterra Therapy implant, a device used to treat chronic intractable nausea and vomiting in patients with gastroparesis or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckersasc.com/gastroenterology-and-endoscopy/gastroenterology-technology-5-updates-from-last-30-days.html",
+      "originalUrl": "https://www.beckersasc.com/gastroenterology-and-endoscopy/gastroenterology-technology-5-updates-from-last-30-days.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's ASC",
+        "domain": "beckersasc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

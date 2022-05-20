@@ -2,6 +2,143 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2022-02-08-video-analytics-market-clear-understanding-of-the-competitive-landscape-and-key-product-segments-2015-2023.md",
+      "title": "Video Analytics Market Clear Understanding of The Competitive Landscape and Key Product Segments 2015 – 2023",
+      "excerpt": "The products in the video analytics market are used in object recognition, post-event analysis, people recognition, wide spectrum imagery, video indexing, and safety alerts. The others include ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/video-analytics-market-clear-understanding-of-the-competitive-landscape-and-key-product-segments-2015-2023",
+      "originalUrl": "https://www.digitaljournal.com/pr/video-analytics-market-clear-understanding-of-the-competitive-landscape-and-key-product-segments-2015-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-2-2-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home.md",
+      "title": "Cutting OPEX With Five New AI Workforce Optimizations To Place Broadband In Every Home",
+      "excerpt": "Bottom Line: For a viable telco business model, service providers need more operational efficiency. Five Ways To Empower Your Teams With AI Analytics For Better Service By empowering customer service professionals with the right AI analytics, telco staff ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62011fae3902ba8469b672f0/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/amp/",
+      "publishedDateTime": "2022-02-08T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-data-society-joins-nvidia-partner-network-deep-learning-institute.md",
+      "title": "Data Society Joins NVIDIA Partner Network, Deep Learning Institute",
+      "excerpt": "Deep learning is at the core of the fastest-growing machine learning and AI fields. As an NPN member, Data Society will deliver instructor-led DLI courses to its clients’ teams to help them develop skills in advanced computing and quickly utilize their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/data-society-joins-nvidia-partner-network-deep-learning-institute/article_1b57a57a-d1d3-5b2b-a89a-06dbccb208d3.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/data-society-joins-nvidia-partner-network-deep-learning-institute/article_1b57a57a-d1d3-5b2b-a89a-06dbccb208d3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/7/3e/73e4349b-0012-5f1f-8e5d-7715cca91bfa/62026a04c6992.image.jpg?crop=1200%2C630%2C0%2C285&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-a-simple-guide-to-artificial-intelligence-and-machine-learning.md",
       "title": "A SIMPLE GUIDE TO ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
       "excerpt": "Artificial Intelligence and Machine Learning have recently become popular topics in the technology industry. But, perhaps more than in our daily lives, Artificial Intelligence (AI) impacts the business world.",
@@ -1009,144 +1146,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities.md",
-      "title": "IRS Backs Away From Facial Recognition to Verify Taxpayers’ Identities",
-      "excerpt": "WASHINGTON—The Internal Revenue Service is backing off use of a plan with a private facial-recognition system to authenticate taxpayers’ identities for online accounts, the agency said Monday after criticism from lawmakers in both parties over privacy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "originalUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 659,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-481379/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "publishedDateTime": "2022-02-07T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-raised-by-wolves-creator-on-fears-and-hopes-for-future-of-robots-and-artificial-intelligence.md",
-      "title": "Raised By Wolves creator on fears and hopes for future of robots and artificial intelligence",
-      "excerpt": "From the Terminator to 2001 and Blade Runner to the Matrix, artificial intelligence has been a science fiction staple for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ntnews.com.au/lifestyle/smart/raised-by-wolves-creator-on-fears-and-hopes-for-future-of-robots-and-artificial-intelligence/news-story/b300afbff28711329ae1d96194ef354e",
-      "originalUrl": "https://www.ntnews.com.au/lifestyle/smart/raised-by-wolves-creator-on-fears-and-hopes-for-future-of-robots-and-artificial-intelligence/news-story/b300afbff28711329ae1d96194ef354e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Northern Territory News",
-        "domain": "ntnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-improve-high-value-research-with-hugging-face-and-amazon-sagemaker-asynchronous-inference-endpoints.md",
-      "title": "Improve high-value research with Hugging Face and Amazon SageMaker asynchronous inference endpoints",
-      "excerpt": "Many of our AWS customers provide research, analytics, and business intelligence as a service. This type of research and business intelligence enables their end customers to stay ahead of markets and competitors, identify growth opportunities, and address issues proactively. For example, some of our",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-high-value-research-with-hugging-face-and-amazon-sagemaker-asynchronous-inference-endpoints/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-high-value-research-with-hugging-face-and-amazon-sagemaker-asynchronous-inference-endpoints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/31/ML-5933-image001-new.png",
-          "width": 811,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T12:19:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

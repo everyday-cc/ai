@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-18-wayve-and-microsoft-partner-to-scale-autonomous-vehicles.md",
-      "title": "Wayve and Microsoft partner to scale autonomous vehicles",
-      "excerpt": "Machine learning at scale is 90% an engineering challenge ... The company has been working with Microsoft and its Azure cloud since 2020. Since then, the team has seen an absolute acceleration ...",
+      "path": "_news/2022-05-21-microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.md",
+      "title": "Microsoft Edge taps AI to make grainy images look nice and crisp in your browser",
+      "excerpt": "TopazLabs’ Gigapixel AI is a dedicated, paid tool to do the same ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/",
-      "originalUrl": "https://venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/",
+      "webUrl": "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html",
+      "originalUrl": "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 181,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1212935826.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
+          "url": "https://www.pcworld.com/wp-content/uploads/2022/05/Bing-Vatican-1.png?w=1024",
+          "width": 1022,
+          "height": 477,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/amp/",
-      "publishedDateTime": "2022-05-18T09:58:00-07:00",
+      "ampWebUrl": "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html/amp",
+      "publishedDateTime": "2022-05-20T10:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "PC World",
+        "domain": "pcworld.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,6 +41,50 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-build-back-better-business-solutions-with-azure-and-microsoft-365.md",
+      "title": "Build Back Better: Business Solutions with Azure and Microsoft 365",
+      "excerpt": "How to build innovative solutions that solve real business problems using Azure and Microsoft 365. No code, low code and pro code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/",
+      "originalUrl": "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sharepointeurope.com/wp-content/uploads/speakers/2016/03/Bill-Ayers-2.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SharePoint",
+        "domain": "sharepointeurope.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -62,7 +106,7 @@
       "originalUrl": "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -413,15 +457,15 @@
       "title": "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study",
       "excerpt": "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see",
       "sourceUrl": null,
-      "webUrl": "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study",
-      "originalUrl": "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study",
+      "webUrl": "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study",
+      "originalUrl": "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.businessghana.com/cms/webroot/img/news/thumb_2022-05-19-14441601.jpg",
+          "url": "https://businessghana.com/cms/webroot/img/news/thumb_2022-05-19-14375700.jpg",
           "width": 300,
           "height": 225,
           "title": null,
@@ -433,7 +477,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T09:29:00-07:00",
+      "publishedDateTime": "2022-05-11T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BusinessGhana",
@@ -449,6 +493,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-the-academy-and-nuance-a-microsoft-company-partner-to-launch-the-ai-collaborative.md",
+      "title": "The Academy and Nuance, a Microsoft Company, Partner to Launch The AI Collaborative",
+      "excerpt": "The AI Collaborative brings together Leading Health System executives in an experiential community around the efficient, responsible, and future-focused deployment of artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220511CL53566/the-academy-and-nuance-a-microsoft-company-partner-to-launch-the-ai-collaborative/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220511CL53566/the-academy-and-nuance-a-microsoft-company-partner-to-launch-the-ai-collaborative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg",
+          "width": 400,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1260,102 +1348,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-peergfs-adds-aiml-anomaly-detection-to-distributed-file-system-product.md",
-      "title": "PeerGFS adds AI/ML anomaly detection to distributed file system product",
-      "excerpt": "PeerGFS will also handle file sharing wherever an instance of Windows file system is running, including instances in the AWS, Azure and Google clouds ... including via AI/ML. It already has malicious event detection (MED), which includes use of “bait ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
-      "originalUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/File-share-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
-      "publishedDateTime": "2022-05-04T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains.md",
-      "title": "Two sisters create a startup that puts sustainability into global supply chains",
-      "excerpt": "Built on the cloud and using AI, it processes mountains of unstructured and uncleansed ... But as is the case with any startup, the journey taken by Atkins and Vowels has not been easy or straightforward. The pair have had to work doubly hard to establish ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/",
-      "originalUrl": "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/givvable_main_2000.jpg",
-          "width": 2000,
-          "height": 1332,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

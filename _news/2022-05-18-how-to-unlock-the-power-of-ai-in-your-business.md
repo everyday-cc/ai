@@ -31,6 +31,20 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 47
+  - title: "How Top-Rated Denver Marketing Agency, Anew Media Group, is Transforming Aurora, CO, Home Services Marketing Using AI Technology"
+    excerpt: "In the age of rapidly changing technology, working in a fast-paced world demands up-to-date marketing solutions, which Anew Media Group"
+    publishedDateTime: 2022-05-20T17:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/how-top-rated-denver-marketing-agency-anew-media-group-is-transforming-aurora-co-home-services-marketing-using-ai-technology"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/CCC-2-1-e1652987116472-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "3f5ImoObE4Yzy5zS0shgUjiAADbUhzvxkbIj4ukHKkquXLO41PjscK9yuJLXfKDgpXyXXAz7kGjeoX4CuGws+ryfdvM2JzISh1tmyE9AwZAbsBTrujObWY7uu8/Qm0ymdfuGmhgYcMDgiGZxjyeIk9bIMgSWS5XAfMsOXmOl/2THXuTWGT12uU1UCavPPfp4BnwgJjZPsuYSPZ5VM7aLojWznDylHV9fEe7pJzqAu9aWlyiiCzFLw92WwkuUsQ6j+Q42yukXapjIgAcPGhLn43CzSRfrNbv8MlcbcIFLr38Jn8/C0kgDLM85enQSy9a39VckJhFkxx3JFa2I+wbK7Id5p1xv43Fa72hV5LKQumU=;fKyywpDv7tiNfin88iQkng=="
 ---

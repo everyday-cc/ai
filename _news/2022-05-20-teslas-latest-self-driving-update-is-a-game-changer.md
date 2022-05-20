@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla rival Nio plans Singapore research hub for AI, self-driving"
+    excerpt: "Chinese electric vehicle maker Nio will establish a research and development center for autonomous driving and artificial intelligence in Singapore, in the Tesla rival's latest bid for digital talent."
+    publishedDateTime: 2022-05-20T16:18:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/Tesla-rival-Nio-plans-Singapore-research-hub-for-AI-self-driving"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 56
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F4%252F1%252F1%252F40461140-3-eng-GB%252FCropped-16530628192021-04-19T041433Z_1114811952_RC2SYM9EBE2T_RTRMADP_3_AUTOSHOW-SHANGHAI-NIO.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Deere leads farming revolution with its fully autonomous self driving tractor out later this year"
     excerpt: "Deere will release its first fully autonomous, self driving tractor. Deere sees autonomy as the future of farming, and it will begin with the tractor it announced"
     publishedDateTime: 2022-05-20T03:46:00Z

@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
-excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the Consumer Goods, E-Commerce, and Logistics industries."
-publishedDateTime: 2022-05-19T14:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241"
-webUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241"
+excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
+publishedDateTime: 2022-05-19T14:30:00Z
+originalUrl: "https://fox59.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
@@ -45,12 +41,12 @@ related:
         isCached: true
   - title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
     excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
-    publishedDateTime: 2022-05-19T17:30:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+    publishedDateTime: 2022-05-20T07:41:00Z
+    webUrl: "https://www.ketk.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
+      name: ketk
+      domain: ketk.com
     quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
@@ -58,6 +54,6 @@ related:
         height: 271
         isCached: true
 
-secured: "s9w5addsADVno+vuKKUiERFWa0gnvJKDRarmkSZxPSxNGqce7b7jqDSvNNOQwVkxfUiHImLMBFViJZZkQWH1BRJFUCmVbuVRTc/lustH5FRgloele73PrLTzaIO3iXI8IhgWcJXcrE6VxGL1I4rCtwdVyXV4QxN8/YvX1TNSfIzU2mkvhENBoze6C3Icu0qWW8BSDN2ddA/fNlli6VP9P2U1QhjPPpHs5YVrOXvt/adD1PzuWpLNRfr6DKMzDyYV/qwUJARL7NaOwXjN+v4Yu228lOFiW9GOEm3nq4i/rur10jrcd+OqjB8XUsgP2ylZ9u/GD+S2Rk9Nh1R3yRpdM9vH3h8HHQK4SGQSAvwEtkgzyMec+C+2FhyUp1mGfV6bKADrv/MernHL1s0CLh/XyMVpo/s3mcQvjPyD7Ll5Ijs2RnaGbO7JIBnChjbcJZrTSw8jXyNT9Dj9YD+il5YyZO/EuVDrS7Gey+qnVbFE8bfVjLz9j+FvNjCRKmfS47Oa/I1PxRv7hRy07TgiCEfUgg==;5J274D0Pdpz2ZgHbUyYMdQ=="
+secured: "MTH4mQUDNqzRn0ZJsFEEJXi2r9GKaFC1EQK2eM3NVIjCyEusE7XNuVqOrJwGyMKhxb3VuwNFO7fsgOmZRMAJ0jBhh+jXu/Ew0fe521vrtc0S/RnNHTV7nenBWsbgq/aQ+pRqqFCQEhk9uHLCr4M8Fez5dKvcXukqPnCYjD6nhYaj8N8ZoFgVEMm7YVR2AmRaN0YX2kGKX7zL7UdeFv0/eg3bDT9hxigLRpJoMY9vLgz3bfzHzNG2OC860WA8ENYfQmNzNLghSI8+ZyXcfGD79dvjwNCeqKdL7Ai+DepgerGASLjreeiWOJsR8M8y0teDmJ1IJjfMkAwOwU+2rWMzD5bXvih93Y3JG643m8Smhu8=;O84suqPX8Z9jaXeBiLV06A=="
 ---
 

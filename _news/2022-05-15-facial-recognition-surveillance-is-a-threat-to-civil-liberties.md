@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.dailynews.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682"
@@ -23,6 +24,6 @@ images:
     height: 682
     isCached: true
 
-secured: "R9aD+cZ2+j00G3nbQ9fL6La87pc1qINPPdK/ZijJCncAE1AXchhlCsgmi1P5yUiC4HZI9EzHn2eOtub09CEkG7RBEob1ybQfMyfGPudI1OiBqjWzlTZe0NUwUPTUqnIOD/B6ElMaKufd/ka7mP9OFjb3zCrgWxGzlFQuYUUyFMKuwdm5Zi83aEg8+DFAesWWrqk/B6Y0WH9xtSyzlOQDpohfXscleud6LHOE0IOxbNSCkNBXaFx5ey3Y2yi6gJY/iyXlXpJSoJ73lIl2GzepAmBDIlznPyQRwMQODVtXAslGUXbiOwjcZFKDRasQDCflq5dytHCH4FhOb9lBLvqFOiCw06DZ0MUOXgxNYklVJAw=;wyEsOhBEmpoJKqqh14SKKQ=="
+secured: "/j+3MCUMuCF0oLNSfwCB+bhKgqSxN25CQDu6jTPc8uPg6TSTS6LF+XiJBgR9RkKNZYpVmKBcqskcEgE/vpbK9eF1wvnLTzPAFI9/nYaCbedgCiFuJ3+N73Lvrv/6bDDq6NVFeGKyZ0+n42/lrAeB3edPnCIvcD6HwIxPU9boLKE8RrxPnLaueQAgXT/3+CXhglY/0OFiIK6weEOA1oDmrpnn4csZYwIOmHtUX6J/oDz4vnWNgPNp6dOyxBTZIicbdmfltSOqbWN5mOtjY09SHoAJmCUSTo2VPC6bhGytAa+McEnj9h5eFBRR+lbfe7H2EODcLuWv/6BX9RYUcAsdaw5sI+h0uurQaa0LN7WBjOcg/blzApmalZKnE1DMNYe9TfsNvT7wIJPx0pNsArCDYeY60HY44DpuW/cWe/9APLtlAoPuc3ldiWXUfvp/DvKhjj5mPim+rrCc4Cn5SAQUKaB42X50iJfAl/aKdlti5OglxImIRwiNe6DSC6fJRJDI3K+Kgx129A47bah6Hykc5A==;HIHUpYVKVlfhWPopb+Tf/g=="
 ---
 

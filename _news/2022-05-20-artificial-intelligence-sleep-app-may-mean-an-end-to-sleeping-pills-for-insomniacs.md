@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence Sleep App May Mean An End To Sleeping Pills For Insomniacs"
-excerpt: "Up to 800,000 people in England could benefit from the £45 app which can work through wearable devices like the Apple watch."
-publishedDateTime: 2022-05-20T08:46:00Z
-originalUrl: "https://digg.com/news/link/artificial-intelligence-sleep-app-may-mean-an-end-to-sleeping-pills-for-insomniacs-1N35Z0AFIb"
-webUrl: "https://digg.com/news/link/artificial-intelligence-sleep-app-may-mean-an-end-to-sleeping-pills-for-insomniacs-1N35Z0AFIb"
+title: "Artificial Intelligence sleep app may mean an end to sleeping pills for insomniacs"
+excerpt: "A new artificial intelligence sleep app has been developed that might be able to replace sleeping pills for insomnia sufferers."
+publishedDateTime: 2022-05-20T02:56:00Z
+originalUrl: "https://www.moreradio.online/news/tech-news/artificial-intelligence-sleep-app-may-mean-an-end-to-sleeping-pills-for-insomniacs/"
+webUrl: "https://www.moreradio.online/news/tech-news/artificial-intelligence-sleep-app-may-mean-an-end-to-sleeping-pills-for-insomniacs/"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Digg
-  domain: digg.com
+  name: More Radio Hastings
+  domain: moreradio.online
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://cdn.digg.com/submitted-links/1653036365-I53m3QgZ2l.jpg"
-    width: 1600
-    height: 900
+  - url: "https://e3.365dm.com/22/02/640x380/skynews-sleep-man_5665884.jpg?20220207171748"
+    width: 640
+    height: 380
     isCached: true
 
 related:
@@ -53,6 +54,6 @@ related:
         height: 880
         isCached: true
 
-secured: "hPi4Rmi0Syr2yz6LPfWmwe+lKR1MaB50pGz2hokqItXMrnnvupcO13IKftp3YMWeB45l//v2eEzOM3m++hxpgXQY2YHTfUaAhQf5lVj1bDqQrvP7PGBMgd1rbC+bCghMiuNqMOA0adP9N8tZ2LHWrw5CO3sMj7BrvDx7AM0X+zyEp6UNyvGS2TeIzDEWOI8NXvaIkaG0t0xCXSmk3wtqKFbztyrA9uffQ/t/57fNFLjFB4rvGNfWtjWrJznFvn4U+OcXAtkINdRJ1gk9tZGR1OwT/R/Mu9pbcCDBJmS3LTYh/W67/FLXKz20faBQzjQHWhrj6VZMn70J29cgyI9fZLTrNWz+eF7mF6nR4w/R+0s=;BUokH+n2eQ79YlQeBpb58w=="
+secured: "2F3lQju7ulIK7ySz1KwOK4kaeVujsUSisjcBVOJ5+zkppkdPDIr3+FD7rLGMvSX2JaYUpIr8W7dZ5x2RNtDz8NXjtrWz5aMFJEucSimkEmmHoGyYEpgXlFMJl9ZUbUWhsMZsfEa/LDp5DOMp1Rfmey+4Kw9eMe7hPfyJ4elH0mJLEBKtEQjCSoIDmGKs3WUyjYpY2SK8QtL497iV395paEtGMghJfn7J8ddHIHZgOe6vG+lBJZldbwFXpexxWhRNiRmH12MucldfWvJCGq9CYxFCp0jPP8Em2Nmr/48yZPUCF2ZqG9sqonN9yDFDOL76jl8E/y9RYCXfLNclKunhaHwp3kGqwzxy7pAjHhlAU2g=;neQDfSDaGH0TuTsF8jh2jg=="
 ---
 

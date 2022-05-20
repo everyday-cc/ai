@@ -31,6 +31,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How Top-Rated Denver Marketing Agency, Anew Media Group, is Transforming Aurora, CO, Home Services Marketing Using AI Technology"
+    excerpt: "In the age of rapidly changing technology, working in a fast-paced world demands up-to-date marketing solutions, which Anew Media Group"
+    publishedDateTime: 2022-05-20T17:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/how-top-rated-denver-marketing-agency-anew-media-group-is-transforming-aurora-co-home-services-marketing-using-ai-technology"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/CCC-2-1-e1652987116472-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "wXkZgysJ5s93HuRjnHN60cMtVVPe9nmGoRh9JsJFdVNxsqAHS2XTK7QnbDcxUk+WlSupie47ywIGK2jtCeoBob2HvgP51MkZH+4d3TxawyKvlbhIdIdiWwAq/s4keRS4BUtzdmzDsQ452l3Sg/EbuzLZ0xKwdvV2K3SuYXkaKT7njKOdR3OMKI4cMDWrr5xHA8YCQ5kPz3EMc7bZG5xtxIkhL7OJHkMuVKuii4lY5+uw3tjFUCzqcRNFcU3+CBeoXt+mJY1Mvto+DvegcxX91s4fyx6t5AD5KG8FIi9FqdC9bNWVHG1vYwhEKvRjBJbA7D0rKhkOkyGZzggVJaGWEzr2ivIIZOTioo4ThQts5AA=;r4B4BxL+WB2hRrGM4ddHtg=="
 ---

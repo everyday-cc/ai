@@ -89,6 +89,20 @@ related:
         width: 599
         height: 338
         isCached: true
+  - title: "Ethics in the AI, Technology, and Information Age"
+    excerpt: "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?"
+    publishedDateTime: 2022-05-20T17:27:00Z
+    webUrl: "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF"
+    type: article
+    provider:
+      name: Amazon Associates UK
+      domain: amazon.co.uk
+    quality: 54
+    images:
+      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
+        width: 350
+        height: 450
+        isCached: true
   - title: "Crowd Media enters conversational AI partnership with business intelligence platform to supercharge sales and lead generation"
     excerpt: "The deal is a natural fit for Crowd Media which will now go and whip up a Proof of Concept (POC) which will focus on leveraging CM8’s Talking Head platform to apply “conversational AI” to the Media Search sector. That POC will be with SourceFlare in ..."
     publishedDateTime: 2022-05-18T00:53:00Z

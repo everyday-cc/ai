@@ -32,12 +32,12 @@ images:
 related:
   - title: "Keep Your Résumé Attractive and Up-to-Date with This AI-Powered Tool"
     excerpt: "A résumé is useful for that. You don't want to spend time building and perfecting your résumé when you have bigger fish to fry, so let The Complete Resoume AI Assistant Résumé Writer take care of the hard stuff for you. Resoume is a simple résumé ..."
-    publishedDateTime: 2022-05-20T15:35:00Z
-    webUrl: "https://www.timesunion.com/business/article/Keep-Your-Resume-Attractive-and-Up-to-Date-with-17186891.php?IPID=Times-Union-jobs-entrepreneurship-river"
+    publishedDateTime: 2022-05-20T16:30:00Z
+    webUrl: "https://www.chron.com/business/article/Keep-Your-Resume-Attractive-and-Up-to-Date-with-17186891.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/25/65/23/22500545/3/rawImage.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/19/can-ai-write-an-episode-of-starga
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/can-ai-write-an-episode-of-stargate-google-ai-took-on-the-challenge/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

@@ -91,6 +91,20 @@ related:
         width: 599
         height: 338
         isCached: true
+  - title: "Ethics in the AI, Technology, and Information Age"
+    excerpt: "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?"
+    publishedDateTime: 2022-05-20T17:27:00Z
+    webUrl: "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF"
+    type: article
+    provider:
+      name: Amazon Associates UK
+      domain: amazon.co.uk
+    quality: 54
+    images:
+      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
+        width: 350
+        height: 450
+        isCached: true
   - title: "Heartex raises $25M for its AI-focused, open source data labeling platform"
     excerpt: "Heartex, a data labeling firm, has raised $25 million in a venture funding round, bringing its total raised to $30 million."
     publishedDateTime: 2022-05-18T13:03:00Z

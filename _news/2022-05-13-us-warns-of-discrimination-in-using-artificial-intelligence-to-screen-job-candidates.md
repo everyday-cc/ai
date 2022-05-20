@@ -2,27 +2,27 @@
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
 excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-13T02:04:00Z
-originalUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+publishedDateTime: 2022-05-12T21:13:00Z
+originalUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
 
 provider:
-  name: Texas Public Radio
-  domain: tpr.org
+  name: Iowa Public Radio
+  domain: iowapublicradio.org
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/881e9ee/2147483647/strip/true/crop/1023x576+0+0/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F20%2Fgettyimages-1239417481_wide-bad4037f24dab94fc6e860f828abefdcacfb41e9.jpg"
+  - url: "https://npr.brightspotcdn.com/dims4/default/338d308/2147483647/strip/true/crop/800x450+0+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F28%2Fabfa9e6648309add3627fc124bc0%2F052022-gg-cm-senate-primary-democrats.jpg"
     width: 430
     height: 242
     isCached: true
 
-secured: "YfZwcGAX72+FLw2H53jQtyZFx/SvD7MSFBBUuachSCruuiJf86N50w8tzylHulxOMBjM8bFmCXk/8IXqyn+iqGadYzSIhODXwsV3F+M74FfgB29si+J21dmDJqCGf36EoKlI95n+jSGcg3jmrBgmCgosUPNST95KYkYGAZFEb1RsrLBRd2XkeW+X6jjqL/2jmZaDZAv52k8+opEqkGISBXxQYVMzSUKWRECdWQj3LETnVdq0ecUtgf/JsEgMcgUnw12v3cUZIBZQV7uUy1DIHkkwvu+rrKwxDV3Hnvqd0isf1uv9YJkzqkXJ3oQIhskdBgD7vqV6B6vfSUbigqNSbTOCz8/ch2IJkIdoOcPi8oU=;uJF927PNnaOvjJJv8tO7eg=="
+secured: "en1krQoFq1ocDhByLnpot0fwdpcpZMfxzLWOLfpSl6K+ELy0Mp1tCROMmmlxNrEkbRyiSipr2ieL447X1xhsGVV4BPUCX2gy4VRYMpyZP5Jr9At2tuhxwHPv6Y9D1UYCjk/c36eXGCsTbNp0VfXJ7vG7oeVA/dBai5H6NAb5T+IG80I20QftuGKJPd6Lfk1Hlrp3V+Frg9lsXjIs0zC6kfS+3SkZucU2HkZOsYe3xT3gXSNLVuDFGl6JQi27qePhBbqfe9PX4CMWXT31eiSX6SByDqpgsHMbg7FVG4NNrB93Em7QY86X1wEvUdn3CyVtF7kwJMEm6XcOPOOFep4yVCKYMJ4ROPQ63ykszaPVEVQ=;RVgsBh1BBmHEfxGfLUI8lA=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.packworld.com/supplier-news/news/22236612/soft-robotic
 webUrl: "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Packaging World
@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
-    excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the Consumer Goods, E-Commerce, and Logistics industries."
-    publishedDateTime: 2022-05-19T14:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241"
+    excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
+    publishedDateTime: 2022-05-19T14:30:00Z
+    webUrl: "https://fox59.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: FOX59 News
+      domain: fox59.com
+    quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
         width: 400
@@ -41,12 +41,12 @@ related:
         isCached: true
   - title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
     excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
-    publishedDateTime: 2022-05-19T17:30:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+    publishedDateTime: 2022-05-20T07:41:00Z
+    webUrl: "https://www.ketk.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
+      name: ketk
+      domain: ketk.com
     quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
@@ -54,6 +54,6 @@ related:
         height: 271
         isCached: true
 
-secured: "29Kyalnv7GKadSpSREXa3TyhSucx3yVO/bBbTTxPdpAiulu6J+//+pauSpJjHg92PvFA+nIZ4rFMQTH/aLowFG+dllFgnjM3iWt/k8WkZnuLbfXhU+KfA20TrOTFtYbI6Lk0AFya4PK+sixzLUzgDRbtoafiKytl2rpMGQl54u5UhzcT0xvquHnAc5dVc5VJTqM2XOc/+9eyvvQ365YWeg3Mv5iC4QJP1QbvgZfQxr8HYr72OThr1yrxIPfBm3FffcPt8mp/ZCl3uj31RfYslVfP/Z0f2/b4g23XjKVc0yaCloT8mafF2YVxlZ2ZR77BVNT9zrPBTFW9HC3qQi3Vz3mLdqp8vo7eBOdUDueM2rw=;h3Xg/Ya1hp1K8tdSvy+Avg=="
+secured: "DoEGIFtGstoGfonFvSRHy7EXCbY/eEOLWXmbW71jX/5m6I42VnxWZ+OPnlD93g7uyK9QDeejoXK82H10VjCzEk9XEqEv4WGp2SEXNDUUZ8DSbgfJg5Yb2EixsvUSZ19UOxMbRHHfL1CuiPeGa3SaJpRrGrEJ7328CoohbBOCXOI65bX2m7gn5TITjtsFe7xp/m/kcazKCIeW62t+yJTfCHDwq64Npb8EkxX4RsTU3RR9s8cHoBUcIBZOq4wdFPAZ1sSI/dktS8Q8oRgHcqaW6U4C6I0GRxHAdaqPqDRD5IVMi/h+sQV4mhp4K6Lgs0Pyawy7PKe6ccNdjsJxpFijxTeweE+fSVR0ePDW4C0m8K0iGG6NgY0WGgSOF0vXut8SHg8YEFXYUAU9Yz93TYq17jIbrx1aDa0T1tS8ATwqSPbU0rN4QlUsY120i4Din6fR38cL3L8VivT21/uiPAKfcDm8L1PNX6OvglTyDSEhPwjF7mCEvM06q5h7vD+DIkfsq4UyPkDBbfsP1uu76UGBew==;IJTA7+DoDJJtMmBq/fw9+w=="
 ---
 

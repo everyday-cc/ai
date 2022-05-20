@@ -26,22 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber security startup IEM Labs launches plagiarism checker, AI-powered software"
-    excerpt: "New Delhi: Kolkata-based cyber security Startup IEM Labs has launched a plagiarism checker and an AI-powered content generation software. The plagiarism checker, called IEMSecure, can scan through 10 billion sources in just a few seconds, while the AI ..."
-    publishedDateTime: 2022-05-16T11:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/articleshow/91596909.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/amp_articleshow/91596909.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/cyber-security-startup-iem-labs-launches-plagiarism-checker-ai-powered-content-generation-software/amp_articleshow/91596909.cms"
+  - title: "Why AI and autonomous response are crucial for cybersecurity (VB On-Demand)"
+    excerpt: "Learn how two organizations use a continuous AI feedback loop to identify vulnerabilities and harden defenses."
+    publishedDateTime: 2022-05-20T16:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/"
+    ampWebUrl: "https://venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-91597161/ai_artificial-intelligence_tech_startups_funding5.jpg"
-        width: 600
-        height: 450
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1336604983.jpg?w=1200&strip=all"
+        width: 1200
+        height: 621
         isCached: true
+  - title: "A Continuing Year of Threats Towards Cybersecurity, Predicted by Experts of the US National AI and Cybersecurity ISAO"
+    excerpt: "SAN FRANCISCO, Calif. and RIGA, Latvia, May 19, 2022 /PRNewswire-PRWeb/ -- Tortora Brayda Institute, a non-profit independent organization for multi-stakeholder partnerships in Artificial Intelligence, Cybersecurity and Cloud, today to announce its Task ..."
+    publishedDateTime: 2022-05-19T12:51:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-continuing-year-of-threats-towards-cybersecurity-predicted-by-experts-of-the-us-national-ai/article_3f667453-4455-545f-821b-1ad8325e7671.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "liVSEL84OPLzzqTJ/yPzBjtPCfAGF4Hf3qsnjflHt1Y1+U9KL8fGKavpKaPTrxZqY/zL/swF/ik6uMycn630AK89x5wC6R1eUU7l2eVlMc6MExWzAZHZMZ3inI7yWU6BnSbjvdA+9zm3ERATNqAC1EYum8+vAgc6eDlTgXdfmQCqlpKVhv0RrFrhWeO/jQql54hQ438I9ykHVoRrcKf5ADE0eYw/m++CBlpQJbKcmpnpvQL7HsS0rrDzxuBKxPslGDVPn+7Pbqj9EdMbO4/Yg2YvI1Fpz53g/tLN9TJD9z24nr330tjWJABHZ/E+9v03x4/nWqDN3R5U54SfQwnUZJBJZskLH6Tcq/Bw20n0fSczwwAi2PPjMpstqaMzygV8NOAwnlfj8OawGWf2Qy6GNL7xXqhB/wJ5K+zghUfqCyR2eF7xBYeXfoifh0l5p/CzPXE7+6HsZWszVAHn4A6x9mLQcXg3d8AX6lMOTRDWXBQIW68IJjP47beITaYvchYIA39StE8YBCswQ+/SkDyCHA==;KmPBQr9CjWRyomLCWZo+zg=="
 ---
