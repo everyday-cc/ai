@@ -1,22 +1,24 @@
 ---
 category: news
-title: "Facebook-owner Meta opens access to AI large language model"
-excerpt: "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. May 3 (Reuters) - Facebook-owner ..."
-publishedDateTime: 2022-05-03T14:11:00Z
-originalUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model"
-webUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model"
-ampWebUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp"
+title: "Facebook-Owner Meta Opens Access to AI Large Language Model"
+excerpt: "(Reuters) - Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was ..."
+publishedDateTime: 2022-05-03T14:15:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
 
-secured: "a7G/K0MihYU+Zh2ZdGE2OQpEOfMp6akFbgLMeM6PkHa04nUNV6ChAMj47zWy+J/+8TQ1sFStqpJmmVaZPC+8y0ScNYw9P11xWoTG9cXl9f6wv8zja/i0JVBHmfaqmV+0gp6Us+7FJObMbzV8y0d+AiFf0alUpRHCsyHzrEqxffvAmB8aO9XtVWGhoy7Xnc3cVmWl4B8Wfm7nDgTrqCuN3FuEwawyyg8DGBeCEIqFVZn6r6vw1tVCa5VMbbwG4G7D0tvRsgWQuXkJy71obK3BqDj4lnTRyp9yhkZwJGRXoFI3lST0gzbircLO4DEFiqZh+uBwJdYRLGceRHF3uaD1JrH3soCbtxGogZz6Vp7z/Xc=;VDJZeqsS0A0kOwzxPFS7oA=="
+secured: "JAr0pynR7pz0LGzMqfJHfQpeOmOXFOLvFPOosFZ1NViwA9MW1R5orjmm0P4nmVLXyjmSe0uZeLQyMUvoepc88VAZ/6h2kbrB91J7Qku3YTg/mNmE9ELzAD/JlEBX3mYh86rnfM+X5Ahg+nZxJuc9VvxSB6MQ45YdjvBOMvP+gM+fPNVMUfRYivvgFpVCcQsYMWc4BAyOM4fPdpa7g8kv5Ptxdb4hh8d557q4YhdyrtFExxF8ax3g6QZohYXfn8erivFJgEcA1ms95Ryw829M8fnqvkPkf4N6m+716QqKVUUI7rUPNw/TvrsPq82dKXtzJj7RBnmtsuZ0lp3147E3SI+DN2QhqqvPzmw5kJgJj4g=;FrFSyuodwRc1WMxrBHvYUg=="
 ---
 
