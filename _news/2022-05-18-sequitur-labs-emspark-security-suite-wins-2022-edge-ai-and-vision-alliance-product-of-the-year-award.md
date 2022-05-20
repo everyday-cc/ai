@@ -28,12 +28,12 @@ images:
 related:
   - title: "Edge AI and Vision Alliance Announces 2022 Vision Tank Winners"
     excerpt: "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit."
-    publishedDateTime: 2022-05-19T03:57:00Z
-    webUrl: "https://fox59.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
+    publishedDateTime: 2022-05-19T05:57:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
     type: article
     provider:
-      name: FOX59 News
-      domain: fox59.com
+      name: FOX31 Denver
+      domain: kdvr.com
     quality: 17
   - title: "Edge AI and Vision Alliance awards Blaize®, Inc., Best Edge AI Processor in annual Product of the Year ceremony"
     excerpt: "The Edge AI and Vision Alliance announced Blaize as winner of the 2022 Edge AI and Vision Product of the Year - Best Edge AI Processor - for the Blaize® Pathfinder P1600 Embedded System on Module (SoM)."

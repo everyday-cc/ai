@@ -24,6 +24,22 @@ images:
     height: 463
     isCached: true
 
+related:
+  - title: "DOE Partners With Frontier Development Lab to Explore Use of AI in Energy, Climate Research"
+    excerpt: "Looking for the latest Government Contracting News? Read about DOE Partners With Frontier Development Lab to Explore Use of AI in Energy, Climate Research."
+    publishedDateTime: 2022-05-19T20:46:00Z
+    webUrl: "https://executivegov.com/2022/05/doe-partners-with-frontier-development-lab-to-explore-use-of-ai-in-research/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 27
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/05/19/06/44/3d/a3/f7/da/ae/84/00Pf3000011oNxDEAU-1.png"
+        width: 272
+        height: 270
+        isCached: true
+
 secured: "jCT0Ao6NKCGO9W9CyjHoJTD8OoyASqvk/+E4PNPmXR00FpIQgHKyiLxuorUbSSuUyjv/p+j/jg5UY7C66UjiVO221kYWEfGChwYLSMsGmqz56OUOtQGjp1HyeTsPguOEYcAFPefWdX4b22receQbhn1TQ6v5sH+6CNZN3GP0K1eDs14c3Z9CFMJNZjZuMJIivlp2WVVRlfipdJajpduqZNwbdpggRAcKuH7x9KlMaSm/9WxT4luMV/39FS97G6B1L28iiUGpvCtssw+TJDpdYUCtWe+6sJuFYXsX43bcZLS+usRVbpSTbzCZiQmKXRlUlteU4Z4gF17z0aczgHovp6E55G0qrtWvv2qfypwHHOBQk1kkE5BoU8fA2PYDfv11SFYjeyFXLsEvkzCdPoHql620h5aB6gntWSc8CpFQOIS0DrSxXy1IzxQIQ30OuuTv8Yxdbnna0o+gMEv1gKDDSxEK868DvCv0aFAZYuXlSorzS00dEB1Jne8o1xUxwiQzoBBOAX9Air33193wmrjaBg==;gmSoXHWRaDScuMIpUx5s2Q=="
 ---
 

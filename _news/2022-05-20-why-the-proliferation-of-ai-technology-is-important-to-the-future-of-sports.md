@@ -3,8 +3,8 @@ category: news
 title: "Why the proliferation of AI technology is important to the future of sports"
 excerpt: "The driving purpose of technology is problem-solving. In many cases, humans are already using tools, or have created systems, to address a problem — but there’s a need or desire to further improve performance or productivity."
 publishedDateTime: 2022-05-19T20:09:00Z
-originalUrl: "https://www.sportsbusinessjournal.com/en/SB-Blogs/COVID19-OpEds/2022/05/19-Rajan"
-webUrl: "https://www.sportsbusinessjournal.com/en/SB-Blogs/COVID19-OpEds/2022/05/19-Rajan"
+originalUrl: "https://www.sportsbusinessjournal.com/SB-Blogs/COVID19-OpEds/2022/05/19-Rajan.aspx"
+webUrl: "https://www.sportsbusinessjournal.com/SB-Blogs/COVID19-OpEds/2022/05/19-Rajan.aspx"
 type: article
 quality: 35
 heat: 35
@@ -53,6 +53,6 @@ related:
         height: 576
         isCached: true
 
-secured: "lhWxIKzpUWJnDNJb4m8OcDeq4TeRxolnuLpJPfwNHEXTLNisMPxWoccXlMGF0OLy1ZSiSdeJzF+VIzDfwF6xIt7lEhN+rIEX+uSXMiQmc/8TDzd6sWSB2BR3YXdBNYjwNlsFZ3UJjRxhdp021Yl3WjI3pZkm82OAfk46qchQSp7F5jc/N7/jUpH/yH8vh3Wci8aIOsXyvnp25q+baRxbvm67/NsyonYMJZpiKo4MvB4qSVy2mkYalab9eVvbs5IRgBjcQzNq476D0m1LvKWlgmb6JKzehjM9rXhQ5Wf5NmwsjsZ/XS0pGn7UvFR/Yv+Rb/GUpuemu3fEHsG2mBCE2NVQYfkI7Bvosx/gDwmWSNY=;3ru6GtfOJcbwZ7ViHFCKTQ=="
+secured: "/xm9v05zh1TglTpgmE1lKcqPy5x0u9QXed82mpi5ebwfyJex/HlCgJhmzGgLCB5Z4RkNYvrseQhWljSa7WNQ3wlojWfuoFRmM5JB7+eMJiZ+Dpsp+c6cFYOfBKEfliMVp3YmAxaYRU7jBjkGfuPWzVAaygABsgxG6pp0UCKEO1AakmecWbJ+yqG2KqhRrq4gGl9QUUC6lCetC0kpaCYEvvx/cFMhrxfR92xb8Q18xh9oJKQQ5MOrpsFCxf9kZHPAzt1SeMoF/ne13t8udm7tUbUTITw2t0KgPYeVinU9X8LqBNk+HcqTO0v6h47AWVPoJWbQYYPxbQpJ6McmB3EY7VdRaLFhPwd7q+bOnrWjGpo=;kCarN64pdMB3HN0raFK3eA=="
 ---
 

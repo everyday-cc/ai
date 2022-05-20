@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/ai-dr-evil-drug-discovery/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-dr-evil-drug-discovery/amp"
 type: article
 quality: 91
-heat: 94
+heat: 91
 published: true
 
 provider:

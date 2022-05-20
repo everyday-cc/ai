@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
-excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
-publishedDateTime: 2022-05-19T15:30:00Z
-originalUrl: "https://www.wkrg.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
-webUrl: "https://www.wkrg.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+excerpt: "and artificial intelligence. The company's transformational robotic automation solutions enable machine builders to solve the hardest picking problems in multiple labor-dependent industries."
+publishedDateTime: 2022-05-19T15:29:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: WKRG News 5
-  domain: wkrg.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI
@@ -40,6 +40,6 @@ related:
         height: 271
         isCached: true
 
-secured: "qpSUTu9bD3i2y9hrMPNFE8Ny6dkunri4KIiIQGD5uXLeI6lnnWKu/IHmgvyWTp6MLgWZWe6SLOAXD1X9jx5sVpqqeIRHQOpSLXJak+cuJUY4SZvhrHXJGuKiAz/RdhsxAl8ks/6MVsVWCsQowMfE4fq0gTS6pinYaiyVwYH7SBu8XmDDwzdgQYZ4t5KehAhmQo3NHWR3m5ukIGEM8EPOfTe3ud/tLKX37NDEL9taGT0ZYWZiDSEiy4lrWbCQJ+g+Ru+70Qv6DLlzNsMkz9nadb/lMuasyN+dAIx+Ltz4YYnRxLvke0+9dbJ2a3XQJXK+9zjuOd9RXtP6/lYminUsWdiGsGa1wtq0Qi3D4DBYViI=;iqktd5fYOwcSr/F67kGJfw=="
+secured: "1oKX3L9yYS4lHLqLhRRBDnzRJBfsJzkDIGEZocMhNT6fqCSICwylSU7Bj7QCBr13OWra1nbtDWyxfXSVitFARkQV67fb2RTBoNrt8wULcfTdegufan3NdiQeiZuHIgKThnAIz0eyPPRNXZ4VE8ti8QSWv36dtdwBWPxTgkypIDAPvhwb2EtpGv7Rlmbyg/s1bDx8VrSwgReURnBx7Yh6StpPVvpR2fRsoWZJwfDU6xiKJkQEuG1rmFYGjc6YlnZXF8APyCOoVEzhCspqXq1qsuIuEK0jAyaISh6GwJ4lPaqQ5ia2msd0zJMyFbww/LWQCk4kpap1xsWZU5SnO93tfDXYd2rhcj+1Z19IhQ42TN4=;8MQIpRXaSIzQ3FA35hYncA=="
 ---
 

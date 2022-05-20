@@ -3,12 +3,12 @@ category: news
 title: "Transforming Government Services with Artificial Intelligence"
 excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
 publishedDateTime: 2022-05-19T18:36:00Z
-originalUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
-webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
-ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+originalUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence"
+webUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence"
+ampWebUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
+cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: govtech.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 related:
@@ -67,6 +68,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/05/FounderShoot-2.jpg"
         width: 5529
         height: 3691
+        isCached: true
+  - title: "REPerformance Uses AI to Personalize Physical Education"
+    excerpt: "A software company in Canada is bringing its web-based application to the U.S. that uses personal fitness data to create individualized workout programs and feedback geared toward their progress rather than ability."
+    publishedDateTime: 2022-05-19T23:25:00Z
+    webUrl: "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education"
+    ampWebUrl: "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8aed749/2147483647/strip/true/crop/1000x521+0+89/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Fe1%2Fd1af45fd4441996fa546b5a6f9dd%2Fphysical-education.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "No-code bot platform E42 launches marketplace for businesses to hire AI employee"
     excerpt: "The marketplace will be a store for E42’s own clients to put up their own AI bots, which can then be licensed or hired by other businesses to deploy on their own services"
@@ -147,6 +164,6 @@ related:
       domain: businessinsider.com
     quality: 35
 
-secured: "6n0U2b1zsieVKaB1w2Uh2n/12t8iTNT75RtOrrvR+JZS6hBYVuuKndqSicPOfkjqUjRNADyM0d3cCFE6Z4zZdzbJwO3yyG0DajroZa5VxrlApvBKLnrejBDA6ISe+mVkJsr/E47zp0w+tKjsBdL6MeiUzUt/mGMl6kjFup3aK1eOiClgYwfEnMM25YMhxM+s9/32gZ9I7CKJ3POErU5iqQJanfyLZrqbBtx+JoK7H8pwoQuyp0xh7idNQV3pSQQTE+RivTrmb2rrWatDg0miqfD53ddVjDWqLYcGVGFPSBFln9N4LwF8POji++0HY2k0r4XI5wjr9UxEb1wfNySxKZEAwGSUssTzmKq9W7RcmF0=;HYkGJYzP0kPEsmZ8VkFv4A=="
+secured: "P1jwTgNs9cJZJqbPMPRz8xnxvw/VdYVoun35r3dg+fzH6ZOLN0MU3oEq36rmfV/I7pT6abVSiuYLoDkZxy4wg9VqCCcwjjR9rf7RonGzQRMGd00FUsOnT8eFuz9Y/qv7V9+aXJrKy3UqqBe+weDZcQM1/9fTRisdojw17Gq+EuO6pG0o7ko+H+PgWx83ywORqOfN5tm+A5m6oBo49cF0HdA6wjQt7AVI/1N0u5Lb+NMq3nrtWYMJiv/EX3F6yCA4ATtRESG8qBjEnB07synzAEYZnP4mSWQxkwpIrSFQXtQfHHddzJXFwEDjEoXXouvrH4S9O5xx9JL/rEKQJgtrktGh5l6b74TD2dzrnfVHMzk=;pwgBswp0/+7M50+ZytQCfA=="
 ---
 

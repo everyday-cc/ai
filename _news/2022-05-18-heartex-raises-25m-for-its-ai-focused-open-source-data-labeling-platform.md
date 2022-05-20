@@ -70,6 +70,22 @@ related:
         width: 5529
         height: 3691
         isCached: true
+  - title: "REPerformance Uses AI to Personalize Physical Education"
+    excerpt: "A software company in Canada is bringing its web-based application to the U.S. that uses personal fitness data to create individualized workout programs and feedback geared toward their progress rather than ability."
+    publishedDateTime: 2022-05-19T23:25:00Z
+    webUrl: "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education"
+    ampWebUrl: "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8aed749/2147483647/strip/true/crop/1000x521+0+89/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Fe1%2Fd1af45fd4441996fa546b5a6f9dd%2Fphysical-education.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "No-code bot platform E42 launches marketplace for businesses to hire AI employee"
     excerpt: "The marketplace will be a store for E42’s own clients to put up their own AI bots, which can then be licensed or hired by other businesses to deploy on their own services"
     publishedDateTime: 2022-05-19T11:04:00Z
@@ -116,6 +132,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Transforming Government Services with Artificial Intelligence"
+    excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
+    publishedDateTime: 2022-05-19T18:36:00Z
+    webUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence"
+    ampWebUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
   - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
     excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly."
     publishedDateTime: 2022-05-19T12:00:00Z
@@ -130,17 +157,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Transforming Government Services with Artificial Intelligence"
-    excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
-    publishedDateTime: 2022-05-19T18:36:00Z
-    webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
-    ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 37
   - title: "Forma.ai closes USD$45 million Series B financing to accelerate revolutionary AI-supported sales performance management platform"
     excerpt: "Company leads market in data-driven models with higher-impact incentives to drive optimal performance TORONTO, May 17, 2022 /PRNewswire/ - Forma.ai, the Sales Performance Management solution (SPM ..."
     publishedDateTime: 2022-05-17T13:19:00Z

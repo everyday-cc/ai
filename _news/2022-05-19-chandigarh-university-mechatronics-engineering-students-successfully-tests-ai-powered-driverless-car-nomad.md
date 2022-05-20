@@ -1,30 +1,23 @@
 ---
 category: news
-title: "Chandigarh University Mechatronics Engineering Students Successfully Tests AI-Powered Driverless Car NOMAD"
-excerpt: "Despite having only 1 percent of the total vehicles in the world, India accounts for over 11% of global road accident deaths, equating to nearly 5 lakh road accidents claiming 1.50 lakhs lives annually."
-publishedDateTime: 2022-05-19T11:20:00Z
-originalUrl: "https://www.republicworld.com/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html"
-webUrl: "https://www.republicworld.com/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html"
-ampWebUrl: "https://www.republicworld.com/amp/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html"
-cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/education/news/chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad-articleshow.html"
+title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
+excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
+publishedDateTime: 2022-05-19T07:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-/2022/05/19/9605232.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-/2022/05/19/9605232.htm"
 type: article
-quality: 56
-heat: 76
-published: true
+quality: 18
+heat: 18
+published: false
 
 provider:
-  name: RepublicWorld
-  domain: republicworld.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/epa4mudklfbwcwmz_1652959199.jpeg"
-    width: 768
-    height: 437
-    isCached: true
+  - AI in Autos
 
 related:
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
@@ -46,6 +39,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 4
 
-secured: "uKbjSV6gJkNEvyJfEvSerE4QG9npbTjkoRlbZEo5M8i0gqnq5TWMIsmkfghOmFlgZvDpUkmLpafdpDISsS2kdj+ftPvEXyj6KgW+RHezw7PyQBtOYClQP4bQq2Ql0E/kpLBcoSoJTeaaKu31tWOAECHNwHyAiFYk0g7t9wXNWWE9UJSCBS8KMzzASFwVHXvTXnJIumnnqg1Gav3jJKUopg0IMq9Fgp5WEdboW4M7H79P8MW7U/fUW7k0nfoAfI2DC9i3Y1CEdFmrsH6axEMpri3EaN0LfuhBMysf1ke7kMKmHApK+X1XNOUIVjn8WeU3EH4TD0tbFrKm0Pw56SO06X8zqodGd76a1uxaPexze+U=;0moB7WOqThBacXek2WKFOg=="
+secured: "y7+/E5LiyghMvnW9pvehGk08aGsoVybXO15/NDJCIL3+LUPTOna29qhnNkW9sJbnKxvlSPrt6Wbf0KNGgTIX6MIVtySd258sdWr+ky9pI8YZ4tFz+yL3Nagqm4DgU2Kq6LIKIJXUUsDQ2fADDg+O5amMXEunbM5h8XJRaqvsCuJry3sQPG76qYvwH713B/SezZxy0IiebbLIRqZmx7jzIe/cADblqGvaycY8orZzUQEcT0Fa6RlJmw3Okrcg+4uPyuD4qLesSRANf6YDjgWfr8UZ1NaJDzS52Cev6lmkVlD35HIEpsagVxiUHYJskNLOEgobuOP/zwPGNSPREaax6nRZhdQJsMvREhbX2gTSDVWIoScGFmxa5GNUwWWbq8ivYVwwvpf0WJWugRlV+1uAZWcdM3GVGOgd2xgq6iWKp4pTOJMSkZ2r+2o9ohTJnzR9TDVd5KW7y3Q/NPwgH5zi2aN/TqubNArsDYDHVNCIfUAr8SM4pNNyJQo2YLyLdnfMa5pDZzMLAWyxEIrzU5YzPw==;9M9Mynva3NBQnIOC9/OtcA=="
 ---
 

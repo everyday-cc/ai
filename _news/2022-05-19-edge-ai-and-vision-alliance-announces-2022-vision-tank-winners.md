@@ -2,17 +2,17 @@
 category: news
 title: "Edge AI and Vision Alliance Announces 2022 Vision Tank Winners"
 excerpt: "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit."
-publishedDateTime: 2022-05-19T03:57:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
+publishedDateTime: 2022-05-19T05:57:00Z
+originalUrl: "https://kdvr.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
+webUrl: "https://kdvr.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
   - AI
@@ -42,6 +42,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "NkqowHGUUWht+IyLiYgTN6/mwC1PGStGgFgbXakUL81CvgWgZA4H6H/CS1fsp+7EekfXuWiEFj38hdpvM3Ybs7z9UCx2bobtrW3Mvhc3L0p3Vk3E7FNTvQ+92IGbcw8G9n+nHELm3b1/lk1hcMdAw0Bj7FT6uoQ1vbwr/Ghf26ZgdMxzxlz4o9IlLvFQok9H44OfvOLU6HjGG87Rs3hUvX7ELinmZAk7GVuVoB8U+of6uYQknc5v5/a2bQotZ3KwqvborKiywgpDpH+NPxE6eiqm/WRKVnqu7NE1JLaVcFJIqn6YM1qCN6KqWNIda+MtPNaDzpJlGU3KyBAaL3GM5ekQfwicN/d8EaVaipvXBqI=;0M6EC0Xw6N/41zixcubyyw=="
+secured: "Rgw0tTURscKSHCjAD0/IOfXXYo9lJvx0IpFQHz87XCWUrpPgF4jX+0um17f7T3ub+lMnNk6/6w3ZiIJQT7XmT58pDoSupLoZllAfEZMtjzNK9RG60wFAr3uiENDejtIBoEuSaqHALRd+8gf2AF5AeZ1TdniOQJUrpFlbCfjPeIj5tx0/bhFlgSseyHsyXGTMpdBk8xLrQfB+Kxb/DwmgWaxTp/fJnrlS6sLjgHcPce/jhRnJGrDYKOv+AFGGydIPWHsmhr5TxoHOsuapT25+pH6CEvP+K/o+hjTyFnY9kypD2OpsNdomtW0nsqPp1iU+syVrSSuTEj2tiWijnrGgCXHTMwZW0T0HjEmd+v97G54=;3GC63rCd8QHwMxQeK876Qg=="
 ---
 

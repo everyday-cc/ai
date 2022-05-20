@@ -75,6 +75,20 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    publishedDateTime: 2022-05-17T22:45:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "WellSaid Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial ..."
     publishedDateTime: 2022-05-17T13:05:00Z
@@ -117,6 +131,20 @@ related:
         width: 800
         height: 340
         isCached: true
+  - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
+    excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:   “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    publishedDateTime: 2022-05-19T16:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-c79946a0a421e8cf10b36e92bbc0b6f6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cresta Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "SAN FRANCISCO, May 17, 2022 /PRNewswire/ -- CB Insights today named Cresta to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
     publishedDateTime: 2022-05-17T13:07:00Z
@@ -126,15 +154,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-17T21:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
   - title: "Observe.AI Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "Observe.AI (  an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named to CB Insights’ annual AI 100 Ranking, which showcases the 100 most promising private artificial intelligence companies in the world."
     publishedDateTime: 2022-05-17T13:10:00Z
@@ -143,6 +162,15 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
+    quality: 15
+  - title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    publishedDateTime: 2022-05-19T23:38:00Z
+    webUrl: "https://www.fox46.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+    type: article
+    provider:
+      name: fox46
+      domain: fox46.com
     quality: 15
   - title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
@@ -153,15 +181,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 13
-  - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
-    excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:   “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-19T16:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-c79946a0a421e8cf10b36e92bbc0b6f6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
 
 secured: "AKAA42hrVDgQbOQVYzf0pS/2vQeJFsx4et6cvBdaPuMcP4F6awtZAnvmjcP3qs5/4rIJaHPvxh34mhYRVF+uO1Pg2HQqnKSD3HSw5D5YdGo1b67UxFYrQxMA6Ko9XFgyyXKWgf8dsSFJK23JbIhCte0NW38Zt/4MhZJV0eBqq2at9XjLgKxugC3qeJhbXLiI0h66dq7lwA4m+urQXp8zh91Z4kltQcwP5LDQ3803vIrGBfop7Sn9gTf7Pwf/BOj3D1Tfze8McNi5CV2iHHmNp8OhRWa9658IbeDwPJjrcqYrme8O8ZvxeN1rZ9NAkOlDJ98yFnFH9Uia2WF+4loSipDhcspomp7yJj+qN/5Kqdq1StI3rqj6Oz/VQov4N2s1NLtJxvmmUkKiQhRUmRdgjMzhP8nOgnFGRwTs6bO6jJ4CUheuyxc/F7xuljMD308U5Fivg3jrMBnKsTQR6YpS3G3kLMzmWSec6ygFndYySZYt61DDkfTLKb5EstVVt4Bqu0qZfOtbvw00SkXGHM7GLg==;eBd4qxVPl6ICTW/K+CNAKg=="
 ---

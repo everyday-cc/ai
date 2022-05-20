@@ -25,16 +25,19 @@ images:
 
 related:
   - title: "Applied Manufacturing Technologies to Unveil Artificial Intelligence Depalletizing / Decanting Technology at Automate Show June 6-9, 2022 in Detroit"
-    excerpt: "Together with partner Liberty Reach, AMT will showcase smart decanting technology in booth #1210 at the Automate Conference and Exhibition hosted by Association for Advancing Automation June 6-9, 2022 at Huntington Place Convention Center in Detroit ..."
-    publishedDateTime: 2022-05-16T15:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27225053/applied-manufacturing-technologies-to-unveil-artificial-intelligence-depalletizing-decanting-techn"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27225053"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27225053"
+    excerpt: "Together with partner Liberty Reach, AMT will showcase smart decanting technology in booth #1210 at the Automate Conference and Exhibition hosted by Association for Advancing Automation June 6-9, 2022"
+    publishedDateTime: 2022-05-16T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/applied-manufacturing-technologies-to-unveil-artificial-intelligence-depalletizing-decanting-technology-at-automate-show-june-6/article_a0b0bd5d-2787-5f64-9a58-8b0bddc3478c.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "fhga1BvyiXbt4p7mSoRfRTx9Tn1308aND+SWesxKd/iJP6de+UiDQm3YLGHjlNjbGOS4pNvXBU49JC38aGauxsT7oq0nZIhYEAEFFJqf2q8QDwtdCRLK1M91E6VN0RyZ06eIPlINOCweU9tnw5UeJ1gECz2oeyWuSJ2zYr5yY5dSr5Lp6/7hmNRwgH4sF8v7lK/oKx3pXN8uvd6uqyTGe//Wlhw4ATSaj/qNr/QEZePzFjIGw5IRZe5IccaaHlKGFwUKLs0DGdLUSeLQVZiQbBYEnY+j9rwWAa9AqTK4GdkjWxE4KzVYW5f60mpH6/opg0VdeztKErvf3cGIeRGmoENDQtHdAXliUzTB0n3n+NA=;9f/8/k3mmc93EZ5l+5Qu8Q=="
 ---

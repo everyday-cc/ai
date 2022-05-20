@@ -72,6 +72,22 @@ related:
         width: 5529
         height: 3691
         isCached: true
+  - title: "REPerformance Uses AI to Personalize Physical Education"
+    excerpt: "A software company in Canada is bringing its web-based application to the U.S. that uses personal fitness data to create individualized workout programs and feedback geared toward their progress rather than ability."
+    publishedDateTime: 2022-05-19T23:25:00Z
+    webUrl: "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education"
+    ampWebUrl: "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8aed749/2147483647/strip/true/crop/1000x521+0+89/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Fe1%2Fd1af45fd4441996fa546b5a6f9dd%2Fphysical-education.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "No-code bot platform E42 launches marketplace for businesses to hire AI employee"
     excerpt: "The marketplace will be a store for E42’s own clients to put up their own AI bots, which can then be licensed or hired by other businesses to deploy on their own services"
     publishedDateTime: 2022-05-19T11:04:00Z
@@ -130,14 +146,14 @@ related:
   - title: "Transforming Government Services with Artificial Intelligence"
     excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
     publishedDateTime: 2022-05-19T18:36:00Z
-    webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
-    ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+    webUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence"
+    ampWebUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
     type: article
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 37
+    quality: 39
   - title: "Forma.ai closes USD$45 million Series B financing to accelerate revolutionary AI-supported sales performance management platform"
     excerpt: "Company leads market in data-driven models with higher-impact incentives to drive optimal performance TORONTO, May 17, 2022 /PRNewswire/ - Forma.ai, the Sales Performance Management solution (SPM ..."
     publishedDateTime: 2022-05-17T13:19:00Z
@@ -148,6 +164,6 @@ related:
       domain: businessinsider.com
     quality: 35
 
-secured: "m7PThEy1SoGXGWVP2wqHi7eHEQvyoAWSwSdeB8qkciHxFzSGsxM8ZWt45FXA8PIj5zXc3cW6N52DosSRm3nwr7MbHk/zyhGSN9658XgGJSSXiVEmwn34zuMT/QNr7qzM1ejB6Yg+m6q5osqcqmzyMwJcxVjeJgJ5gEy0l9A828cI91eBmLBV54XG8YCwQscby2EXOdhTc0VXvyfN+liIsSrnJ25Bvso86lBmwCUqhwrgqkao4cG5GNWgWgteatQRgvYp1F9x7FD+6I9pyNYQO/Thdh2/7pThUTEP5+YS1fQSxA2LhUh+vNi1caNF7Cd9XxsutSx9C6d9dY95W4ThUXCyh2kF7FzwpmiSSpqVwZc=;6RW34lqs+l+5MrLbQ+vVlA=="
+secured: "eZMKeGSWQNrAf7PV9E1rNNjGvD25WEmbVoB0/IpDS09hqsdd0AQbXNqG6FIGI29xnMf4Tx60AD4tSgMNM1hO3lPoF3hIgm9SAHlSgRW/MRPEdo3p81lVHMfJjpC2Vda0xLWdPynZhnbBaw61u0oBdA+j2e9jv2DcH6r2DXSMVGm/X4SLpg1pU+p3m5RlrY9b3ems1JAOBPIunw+1Td+8qrEDyfUE21uojksjd4MTznhpMirj2NiVqh50xs+MMM3UoLTw5IQG/PANGZPhni1cdwUNu2SKbz1rbvA8jTF80ibf7dbRwuj57k7IHRhMaaG2IZ7oednJAbo/UZJvPlVeGnWZLMn65PrcSnHUSvUtXDJXC17pC01vgNpq4nsE/ZYg15N2GfWF01McSABh/Hcs8JxBvh5HoWyWRT6mgzd2fI7V++Xg6nQvop6+PsailrgVipTRPi/OAm2uSsl3VIp/o4INWX4HsH53W+e6zW2vhzgHEw/gp6x8apvPBf0UzYWlJI9jyOvwuI/kLp0SNmLzAQ==;oUVTtLEKo1iqmP1afEY1vg=="
 ---
 

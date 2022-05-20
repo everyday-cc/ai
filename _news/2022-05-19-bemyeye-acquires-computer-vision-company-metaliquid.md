@@ -3,8 +3,8 @@ category: news
 title: "BeMyEye acquires Computer Vision company Metaliquid"
 excerpt: "London based BeMyEye, Europe's leading provider of retail execution management solutions for CPGs like J&J, Peroni, Microsoft and GSK, has announced the acquisition of"
 publishedDateTime: 2022-05-19T07:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/bemyeye-acquires-computer-vision-company-metaliquid/article_92a2b6bd-0edc-5dfd-affd-b14c23551b3d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/bemyeye-acquires-computer-vision-company-metaliquid/article_92a2b6bd-0edc-5dfd-affd-b14c23551b3d.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/bemyeye-acquires-computer-vision-company-metaliquid/article_92a2b6bd-0edc-5dfd-affd-b14c23551b3d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/bemyeye-acquires-computer-vision-company-metaliquid/article_92a2b6bd-0edc-5dfd-affd-b14c23551b3d.html"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 338
     isCached: true
 
-secured: "D5w0+lU15NfJN32KELKjG8hlr6/h1fyB9ywiDaw9lN8kSqQwEtpP3vSxrHYnciB9p33wqVDWgkOHjUiRkxK5F1qrcdJn1aql/lSuw16JNxRtusa/C77pFFgt3qXbDYl2kgTHt7A8EBzSwRvpCkSyrcF/DAjsdV3hPW4QtA0Ym74yyo69YDqQ29puSHojg8HkbARijnubV+E8Hw49QG6xN493cHui3CuEAAKdSo1n7YENL6025FLM/bbibAaXntaDvZ6PKfBwRUr0dxUyygLhZm5xFcvrl5ZjUhUogLYpjmLaWTWP1XaA1nHUp1A5KxefNDrfRzToD0VQDdYnChOqXxfoJPpVJTKAGY1yQflgUqmUFOBR2ipGcRFU9Vo7sxoPjI++kuGar7n5s7scRqVDQQoOZzwtJ/+N9h+5ZtbUqG4qYZ4qWJ3wzLgxHCcOI+EnjlwgIa4S3A0KltsRT1TUXSt7Ur3/9f9VHE0pRHzUc8bV4PbLAhTKOA1eYDoVZOP2biQ+Bq7dW32txok04bFBGw==;nAR1zxjJDFZiInlzrAT2aA=="
+secured: "X0CucjzYSLWAX9HNlGf241E8fSy0cmebHSigAjiYlL7DwQ0LxCpa6z3l+gE83QtBW7Um1gI0N11B3+i6ZgASj+4xglYyRqEYOl3xvJ2tUY0PX/e45G3hMkNa1cSIJM6Fap5kZMWrKbA7nNP8bV+tPzj/F6g44dEqLMrpgXL8b0e5kjpKasbYlKFysa29bOMwGN8lfUR8oIBHnQHkgFv1nfx1dv/pZu6GERkJ0TpZfM94SAAg+0XptfanJV6l1N70ytSFRLAKIvTVJRCyW8dh1vGYtQWNExMstUasoZF6EMYsg7CFosgRv2Aj6rXnQvmkrZr7DZgAysXkvjgM1snPST7+e3+QdiPEzc7MCF0CPJA=;JRGcMQXr+jKp0e8w6m6TVg=="
 ---
 

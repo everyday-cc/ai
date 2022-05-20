@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Applied Manufacturing Technologies to Unveil Artificial Intelligence Depalletizing / Decanting Technology at Automate Show June 6-9, 2022 in Detroit"
-excerpt: "Together with partner Liberty Reach, AMT will showcase smart decanting technology in booth #1210 at the Automate Conference and Exhibition hosted by Association for Advancing Automation June 6-9, 2022 at Huntington Place Convention Center in Detroit ..."
-publishedDateTime: 2022-05-16T15:10:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27225053/applied-manufacturing-technologies-to-unveil-artificial-intelligence-depalletizing-decanting-techn"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/n27225053/applied-manufacturing-technologies-to-unveil-artificial-intelligence-depalletizing-decanting-techn"
-ampWebUrl: "https://www.benzinga.com/amp/content/27225053"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27225053"
+excerpt: "Together with partner Liberty Reach, AMT will showcase smart decanting technology in booth #1210 at the Automate Conference and Exhibition hosted by Association for Advancing Automation June 6-9, 2022"
+publishedDateTime: 2022-05-16T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/applied-manufacturing-technologies-to-unveil-artificial-intelligence-depalletizing-decanting-technology-at-automate-show-june-6/article_a0b0bd5d-2787-5f64-9a58-8b0bddc3478c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/applied-manufacturing-technologies-to-unveil-artificial-intelligence-depalletizing-decanting-technology-at-automate-show-june-6/article_a0b0bd5d-2787-5f64-9a58-8b0bddc3478c.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "PolyU’s Pioneering Technologies in AI, Materials Science and Biotechnology Awarded at TechConnect 2022 Innovation Awards"
@@ -36,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mdCJjSbqbnHlC3cfJpnheavmx1ya6o8p7EtmZyc3XRG3IyE0LuxpfYVhu1QO6O94BdN+WTFfEEpfYxNDv+f+pVVahBp08VenbpSdsZNABEfUrHdJdgeyMPMBji8K1fbukAgpXlCCIRq7wZ99oVzYyVkgVPqfqmRMe+Jbgcet79//kHBG8jb8mZGiDoJWvHjUPI4PTwGAaekgtLgNSSiVAg4xd9nv/WEn/UKQaUiIe1utLF58Pw5ARSh44PddKxaI6F3KhABMeTQzpfSjkzti4sEi/fua9asuPFWJIipgFMr35ryX6pGEiNWoL6Vp8jkoag/o7+H+VE49F4p3qy8UMIF8NFcjthAyfys7OcP+7Yc=;Poi2C6GdVXX2VBi5nKwlBA=="
+secured: "3f0xHQn1D6DVd4Mxw6iefRVUAcQEq2YLprexcQ2soBt8eM6S1nU+dVE9isqSBHmogd/tXI+Gvc5xWAGDdQ3W52yjvT5EjxtOoEQTx8nW/moAGEpy5tWkP6km7NBjqDu08O9vOWx3bE6z7Ujl00ppIvRd/7ZcuWJaHBmMN4HpsyXtXjQgUq8mu2CRnie4Q4Gv/7QF/QBCXOFsTDLnSnsyek/yqaG/kxjg3T5eTydILm2TxcIn72o6vfFSmiUCxUQcLB72LrSxkGOzFLs2VA303ISclyqYyGDpG3QdqJj4Onst55vSEPXEmhPdiHmcRvHy5zflyFc2Y/u5eMSP/Ujsxac0y4Jzp5JC6jQ9KdTYd0A=;+tF2jnYp7ZnLTUaDX7qJwg=="
 ---
 

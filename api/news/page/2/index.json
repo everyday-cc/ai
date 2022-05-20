@@ -105,7 +105,7 @@
       "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12964",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -199,7 +199,7 @@
       "originalUrl": "https://www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -446,7 +446,7 @@
       "originalUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -482,20 +482,20 @@
     },
     {
       "path": "_news/2022-05-18-robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing.md",
-      "title": "Robot hives in Israel kibbutz hope to keep bees buzzing",
+      "title": "Robot Hives In Israel Kibbutz Hope To Keep Bees Buzzing",
       "excerpt": "They function as normal hives, but apiaries built at a kibbutz in Israel's Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.html",
+      "webUrl": "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
+      "originalUrl": "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/robot-equipped-beehive.jpg",
-          "width": 1024,
-          "height": 741,
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP9013742092031961124543124772733399242360---1.jpg",
+          "width": 768,
+          "height": 556,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -503,13 +503,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-robot-hives-israel-kibbutz-bees.amp",
-      "publishedDateTime": "2022-05-18T01:19:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
+      "publishedDateTime": "2022-05-18T00:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -702,7 +702,7 @@
       "originalUrl": "https://electrek.co/2022/05/17/tesla-ai-day-2-elon-musk-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1155,7 +1155,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 202,
       "tags": null,
       "images": [
         {
