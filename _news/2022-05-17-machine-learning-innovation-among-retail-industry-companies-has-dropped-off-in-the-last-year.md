@@ -84,6 +84,20 @@ related:
       name: Railway Technology
       domain: railway-technology.com
     quality: 33
+  - title: "Machine learning innovation among power industry companies dropped off in the last quarter"
+    excerpt: "Analysis of patent filings shows an decrease in related applications in the industry following a rise over the past year"
+    publishedDateTime: 2022-05-20T10:00:00Z
+    webUrl: "https://www.power-technology.com/analysis/machine-learning-innovation-among-power-industry-companies-dropped-off-in-the-last-quarter/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 29
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/05/XLwmp-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "J&J is top machine learning innovator in clinical trial operations in Q1 2022"
     excerpt: "Johnson & Johnson was the top innovator in the clinical trial operations sector in the latest quarter. The company filed 31 related patents in the three months ending March. That was up from 11 over the same period in 2021. It was followed by Roche with 15 ..."
     publishedDateTime: 2022-05-16T18:04:00Z

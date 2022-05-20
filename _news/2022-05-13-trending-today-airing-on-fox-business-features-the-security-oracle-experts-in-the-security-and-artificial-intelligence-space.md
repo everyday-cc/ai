@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI in Robotics
 
 related:
   - title: "Funding Data and AI That Serve the Social Sector"

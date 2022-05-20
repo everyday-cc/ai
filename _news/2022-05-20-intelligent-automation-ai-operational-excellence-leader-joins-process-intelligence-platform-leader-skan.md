@@ -26,6 +26,20 @@ images:
 
 related:
   - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
+    publishedDateTime: 2022-05-18T15:30:00Z
+    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 20
+    images:
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+        width: 800
+        height: 340
+        isCached: true
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
     excerpt: "Hanzo, a technology pioneer in preserving, collecting, reviewing, and exporting dynamic, complex collaboration and web-based data, in partnership with Nightfall AI, the first cloud-native extensible data loss prevention (DLP) platform,"
     publishedDateTime: 2022-05-18T23:04:00Z
     webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"

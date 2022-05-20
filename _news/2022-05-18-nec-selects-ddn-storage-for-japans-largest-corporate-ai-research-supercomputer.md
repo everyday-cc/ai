@@ -2,22 +2,28 @@
 category: news
 title: "NEC Selects DDN Storage for Japan's Largest Corporate AI Research Supercomputer"
 excerpt: "DDN ®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research."
-publishedDateTime: 2022-05-18T13:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm"
+publishedDateTime: 2022-05-18T16:00:00Z
+originalUrl: "https://www.kget.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
+webUrl: "https://www.kget.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: KGET.com
+  domain: kget.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "5VdXI/sdPO5cCckCMhfqeEKKTURJCWkiUUnkeDMcXNnzPunYRjaCj0YXDD6Md51CnrWN1GBCli2E6vD1SMXi5HPPDRsVM4ey3sYb/g202or9QpM6936/AjXMzoXG7Npdam9XYBrCd+KN1ogOV1ERArhtkDjsST3/SqZyRgYe+/gcXdrsJOomP/azdXqe0oZuBcfmoHwkcb/bFVsUInKgbm6+R5rDwBpyikdxeiiVbDvK8PX1zA/4JA+QiD2yLJNee4Nm6Png92HnHoYG1s4Lz8rcIdXdsauhwmAaVrBxIArsTpSFnGlsYxiudElFrjNZ/SfBgxHMbNn/6TD0Z3/k8zM2v4ws9MMxUVEPFYQney6DL4hqyAWvnTwHx6yy63eU4LJ7iDxev3Lenh7Ud+CY0PWsi2ovniQNoPFP8iMs/o9f5hTKasjm6i8oPjp22srLpWTiwjYOlGoF7IZkk/mMhEL5olbWuFiTvkRrBrKjE5YSXGYJB9S9bRFzC+3P/rXyvS0M88Mp5+zKMDxmUSZ3YQ==;aWNd21tbcKLtTrvlCQhaQA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1820615/DataDirect_Networks___DDN.jpg"
+    width: 400
+    height: 252
+    isCached: true
+
+secured: "IV7wJXXH64wAkR90KSOjqwjaAR7T8adK+d6VmgSgTUgalK1uKImLkmOmi9XoB1cSTRmLqBtklGAZqgiFPgfNYF1duDvkkLui1sgm+f2tM4VZR8jg2RePHYKmtosF8TOBz2FJfW5TKX7ha5zakzjoQnNE4O6s5bOUSJNV+PSwY1n4LrlQX0pOEuPDzdILFWnRiuZXLiQ4vqmnTvfSIXaPpuM0Kgb+35yiq4OTmevhYXdKOH/fQYZsQGfPFXLmeI9JY1b4ay9tyVmZwyB+m1JCc9BspVR2SKepvheaN2VrFlBjWraYFa4IyPgZrim24Hhbh6M8/m+VzRDa68GxK65f1wFJF8w3tzIFXmnyZdiCX6M=;1En6eiINW0f0Y7orzPV9Kw=="
 ---
 

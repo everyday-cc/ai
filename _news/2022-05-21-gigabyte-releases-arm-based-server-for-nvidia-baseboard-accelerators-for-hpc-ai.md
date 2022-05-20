@@ -18,6 +18,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Netapp Teams With NVIDIA To Accelerate HPC And AI With Turnkey Supercomputing Infrastructure"
+    excerpt: "Expanded AI portfolio now includes NVIDIA DGX SuperPOD, NetApp ONTAP AI Integrated Solution, and NVIDIA DGX Foundry Instant AI Infrastructure"
+    publishedDateTime: 2022-05-20T19:58:00Z
+    webUrl: "https://menafn.com/1104249960/Netapp-Teams-With-NVIDIA-To-Accelerate-HPC-And-AI-With-Turnkey-Supercomputing-Infrastructure"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 6
+
 secured: "c5Xfv+AE6+OWKC4zvDr9jQ3v0Lyj9gNmnfhSQnwOrHtCsMwv8OUd9UkUO+sxC9C9URouhBzTP/1cg7f5XPQihh1E3VAk2/bLnRJMwgiu3BM/zNYxMVQWBTYKYwY9T1x7UlCYZwV5tdlQdwhZOaM/TwCpY+MBr/zt6AvjMteo/wO3Y8Ovx65jMWA4qHQlc6jGaWd1GMT95ud0tL3VZkO9mMFRuMkQPbKEcHuzs7l4eNum/9P4fB24J3tnLaJiypZ37bgb5AYxG3qAy+GkHXl7Oirfnbok/UzkC5+QqKs5ImAOOF5x21D6myvPkP93qg+2p91vx1erMjP/whZwiZpa4O75nGytm9DVSmH9kqqK6Qk=;DNRrc6FiZhCxjML/c8Nu6g=="
 ---
 

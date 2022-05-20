@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-jo
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1080
     height: 608
     isCached: true
+
+related:
+  - title: "Scanning the Corpse's Face: Ukrainians Using Facial Recognition Technology to Identify Russian Soldiers"
+    excerpt: "The Ukrainian government is using facial recognition software to identify Russian soldiers captured and dead. VOA's Julie Taboh spoke with one software company CEO and an official with the Ukrainian national police about how the technology is contributing ..."
+    publishedDateTime: 2022-05-20T19:15:00Z
+    webUrl: "https://www.voazimbabwe.com/a/corpses-ukrainians-facial-recognition-technology-russia-soldiers/6582706.html"
+    type: article
+    provider:
+      name: Zimbabwe
+      domain: voazimbabwe.com
+    quality: 18
 
 secured: "DfldVZw15qfwIHnGsCJwBC6Set/qn9Y/Pf50AvDVvt8B434Fp4NEur3j8ntiufnPwuwAPFZLvfjJCbQZswTA96MKsWMTBPLAHJhAKOYmJdQfMIRhH6dITpynv7U5HfCFg2dND2HqzCoAWaSYmFTu7ESJJz2ZitjxrQDeixdyQPHZfcVEuDXNZFq5fI3aCel4SL27YTZwZUr9eTh3nwsC7Hdad+GLZng9o6S6JThf/NlHDJGYdlYSkBqLu+QdtIfDK4p71acbCBwQNk4Y8i6bSSiF785HlQ2GDltFpA+jxpo18lSl1F1pZdevDXYkEGk6dPUVzsogrPIo+5AGxWYVLL1UElP690IQrnJJ9uGaKNY=;8qFDhkWYPQypYX19eAtyVA=="
 ---

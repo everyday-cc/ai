@@ -2,18 +2,27 @@
 category: news
 title: "IIOT-OXYS, Inc. Signs NDA with EU Smart Automation Technology Start-Up"
 excerpt: "OXYS, Inc. (OTC PINK:ITOX) (the “Company”) announces the execution of a Non-Disclosure Agreement (NDA) with an EU smart automation technology start-up. This NDA is the first step of the engagement process with this strategic partner."
-publishedDateTime: 2022-05-20T18:01:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-94c8993f6abe332b4d71f9e76281a738"
-webUrl: "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-94c8993f6abe332b4d71f9e76281a738"
+publishedDateTime: 2022-05-20T18:04:00Z
+originalUrl: "https://www.digitaljournal.com/pr/iiot-oxys-inc-signs-nda-with-eu-smart-automation-technology-start-up"
+webUrl: "https://www.digitaljournal.com/pr/iiot-oxys-inc-signs-nda-with-eu-smart-automation-technology-start-up"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
-secured: "/R+u9yu64tMOrtGwAePk75bVYUqqmlwGewxbXYlYVUSeBPspx/UCvaEI7y7Vxjm0/Ubk7B9oOeSknKm67fjqwwfCdxwqm+M+Z31KDUjp0K3G5U4I9Y0/2IVjjtCmQgvmGvMepu+yfQozh3rhp8i0hnAB45LFvJbpzV8q7W8Gh475htHu23Z9ytnqXH09YuTALB65/vassSvee/Wig+oiL53NL+OwWHJTjh9Hgc4j1wYJCvkooTL+Wp+jA3vTD23usWqr8APbE4zFkPjzAe8MBmh4RKXmuAQJGehxkRfWFFrnp6xFH9HpY420Ds3xS+CrCHrq6uyY3COElM7FhGDZ/XsfgL1/dq8Kv7daROOdU3E=;HV3iihIk825aCnl7S+3VMA=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-2-600x337.png"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "nz2RECCgVN7krbIDjI+jcDR61SxzLCB0wTjYeV9HhTc1iblQt2O4GdpNLE2rG7UZNdr/wVDlb4RMjwZd6a/97KU9lyF3q3ZSlGP5cfEoTtXnkBvQck/XN+Zfej6MJKw1ZW0pyLdI9FN9L7GPJ2hF7HGpSJNcnlLnuvzbUiiKv8Ip6tTY58Fg+efSXIdRdRMaXHz+tpOVvVU4cy46PgPzTgZ7nz7yUaG9dDRmhFyy2vMhXLWLyeqjfCW8iSYrvY2TJHFs5PjpeWrhOw9jhMfq+VQy2si47WteigUgbCNbJnthQ/h+uo1HDSOQf18F3S3Dum69+PwlYEFsvdVjS/kn3n16RY8FP6YITniDAArureg=;wZdkuH/hqBMT1W9CMp8+1A=="
 ---
 

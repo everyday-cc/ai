@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/ai-powered-prosthetic-arm"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-powered-prosthetic-arm"
 type: article
 quality: 76
-heat: 106
+heat: 107
 published: true
 
 provider:

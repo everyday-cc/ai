@@ -47,20 +47,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
-    excerpt: "request a sample of this [email protected] https://www.futuremarketinsights.com/reports/sample/rep-gb-5032 In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer ..."
-    publishedDateTime: 2022-05-16T04:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-5-9-during-the-forecast-period-2022-2029"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "The Europe hyperscale data center market is expected to grow at a CAGR of 6% during the period 2022–2027."
     excerpt: "Reportlinker.com announces the release of the report \"Europe Hyperscale Data Center Market - Industry Outlook & Forecast 2022-2027\" -"
     publishedDateTime: 2022-05-18T07:30:00Z

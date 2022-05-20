@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T18:54:00Z
 originalUrl: "https://www.natlawreview.com/article/letters-america-risks-discrimination-ai-backed-recruitment-processes-uk"
 webUrl: "https://www.natlawreview.com/article/letters-america-risks-discrimination-ai-backed-recruitment-processes-uk"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The National Law Review

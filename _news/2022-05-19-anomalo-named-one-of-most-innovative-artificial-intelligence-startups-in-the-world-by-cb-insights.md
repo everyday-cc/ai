@@ -49,14 +49,14 @@ related:
       domain: businessinsider.com
     quality: 45
   - title: "Encord Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Encord, the platform for data-centric computer vision, on its annual AI 100 ranking, a list showcasing the 100 most promising private artificial intelligence companies in the world."
+    excerpt: "“We’re honoured to not only be recognized as an innovative AI Startup but also as the only company within the computer vision bracket. The whole team has worked tirelessly from its humble beginnings to get to where we are today and for this effort to ..."
     publishedDateTime: 2022-05-17T16:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

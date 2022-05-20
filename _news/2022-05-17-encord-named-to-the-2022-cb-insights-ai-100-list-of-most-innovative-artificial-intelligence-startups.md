@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Encord Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "CB Insights today named Encord, the platform for data-centric computer vision, on its annual AI 100 ranking, a list showcasing the 100 most promising private artificial intelligence companies in the world."
+excerpt: "“We’re honoured to not only be recognized as an innovative AI Startup but also as the only company within the computer vision bracket. The whole team has worked tirelessly from its humble beginnings to get to where we are today and for this effort to ..."
 publishedDateTime: 2022-05-17T16:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -178,6 +177,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "K1O68qs4pyoy0e5uwi5QjuZnlyM9ybOy5D/jyRvUq/iQdgAl8HM3P36vzs7xggZ6eZ0SqZ3E1FZYKvJ7lOM3x3Rmb5FchdfV/Zh9xqJtLOOJrTEaII2ESJM95JaP2N4JI+hvReQfNJpzQgVF/c5L/aCO7W0We0aU6TtWRExJJvNGqiee/Z1k+I5/FSd4N1iAU57umNT8g4r+Vl6TdruC1PAtb6yMvr0rA2isIbZcKHkRzUFTwjkHkrfg1nQBiBD/ZiegzR7IskXDND7AqVSLtoMHJDJQOzw4uElNPeWvFuPEcmJVRnILufq9NUgEkOE2xVN2jVs88By/vyoOgv/NCBOxweLixO9E3Ip50gjGPzs=;IGZ1iLslRj5s2bd4i56HsQ=="
+secured: "p30QYkE1IFUWTy+OQhgroWgJVn6/icEE/BYJB72hYXFLH4EmfwoAs1R5JnMsRptTo+j9SpCki4HsVxzTW1UZyDDXIcv53kSrNe1t/SFWch/I+MTnUCAflXZbDoVsiT3IGH/DZl9SsMviK46fjRTxHIJ4mzwQ6FSTAhBxcN9uxO42rnnIryERi2Sy29SSbB/7gAQyqEHLfJvxqimtXVFRyBnjAP1MrhEk6cSuaSmjE5AZAtZRoJplBoYg3Y8B25g9SbTgA4MC01WEPyBWkgGe/ptribPD7Ntu8Wqa5+lnlbH7NslTgl+m6YSRWD026KDQ4XzGOiGW2AVChd+ntrsadSQW6dnjpiuz8fnvlcV/VSw=;zZj501cMaETm8f0kglOuDg=="
 ---
 

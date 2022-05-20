@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T18:09:00Z
 originalUrl: "https://www.hindustantimes.com/cities/delhi-news/remotecontrolled-machines-to-aid-delhi-s-firefighting-efforts-101653070142003.html"
 webUrl: "https://www.hindustantimes.com/cities/delhi-news/remotecontrolled-machines-to-aid-delhi-s-firefighting-efforts-101653070142003.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Hindustan Times

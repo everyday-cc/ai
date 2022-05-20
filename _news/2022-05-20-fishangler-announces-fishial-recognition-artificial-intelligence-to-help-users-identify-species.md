@@ -2,18 +2,21 @@
 category: news
 title: "FishAngler Announces Fishial Recognition™ Artificial Intelligence to Help Users Identify Species"
 excerpt: "The world's highest-rated free fishing app introduced Fishial Recognition™ to its robust sport-fishing platform with its latest app update. Fishial Artificial Intelligence is positioned to revolutionize the fishing and conservation industries by automating the process of confirming and logging catches."
-publishedDateTime: 2022-05-20T03:27:00Z
-originalUrl: "https://www.kget.com/business/press-releases/cision/20220519FL64240/fishangler-announces-fishial-recognition-artificial-intelligence-to-help-users-identify-species/"
-webUrl: "https://www.kget.com/business/press-releases/cision/20220519FL64240/fishangler-announces-fishial-recognition-artificial-intelligence-to-help-users-identify-species/"
+publishedDateTime: 2022-05-20T01:27:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220519FL64240/fishangler-announces-fishial-recognition-artificial-intelligence-to-help-users-identify-species/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220519FL64240/fishangler-announces-fishial-recognition-artificial-intelligence-to-help-users-identify-species/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
-  name: KGET.com
-  domain: kget.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI
 
-secured: "5OFpM5v0nhHxJqw17Fp5yBvR7TEO4X9/qO7jBbM5upWZxWerhGCHeT3bk4bLDFzfPz3mOWytHxrSt8EcHyAiZcBlbMg0mMZREkHb/4vE7r4E7f3VIk4QrgcCzad62SXiLa9AckbaOBHvdxA9/iooQ5f/GzYBUgeFZLf6aMp5LPcPPtQkVQDPkpjxJ8OsVl0rSrgP9O6KRUA/nGUrUdncTbTVV6erZUA0uZ7dwnnCN9AfjBv7DYScqpxdoMqYdNfxhaKQEypJzXTzwrHzsPaqSjSUt3OwJ/3+m07q82Z+mhxXdO6Er+loozg7DNvUJPqZZ4ae462OAgNuISlQfVuTstTS+GRWXIZTbiwloEYjv1M=;Df3Ox6l0rcZktcC3abN4ig=="
+secured: "+9YFrHuR/MxE9tH+6T2wTVfcOJjyUQhQv6FkhoSlpVb1s3XRDer7urbMFg6NcXkwLTEgvHCZf7Lbyp5MbwAhOG3CblS5BXxmO+hqpF3AQzHknLDj8yDEpZHdfVsvQ9ww85seP2l7Km9ucp7lzJmKB4ekC2wwT6RiGQXqgjtsaOyHuNnCvwowa4GfObHP9QVWYQM6Jg9gDuMt4pENcE2ckdkguyttNeOL+V5ykBQhEMC1p9qdyXkvtn9bTamFnmf438VCTVdEFoj6e2/HixvWste7tC5GgK2X+KZCpTYZp8Ra4SQXWa5wOFcMw8Z9ybSZt2pOsIbtasr1CLTSYvHTAfw9aeQ4DMkBIk8FvvYpFsk=;c5naG4tKuCPfR8/6r1TAjg=="
 ---
 

@@ -38,6 +38,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Digital biomarkers are healthcare’s next frontier"
+    excerpt: "Sunny Kumar, MD, MBA is a partner at GSR Ventures, an early-stage venture capital firm focused on healthcare technology ... the sensor data is analyzed with artificial intelligence (AI) and ..."
+    publishedDateTime: 2022-05-20T20:00:00Z
+    webUrl: "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-560115497.jpg?w=600"
+        width: 600
+        height: 400
+        isCached: true
   - title: "The Next Frontier For Healthcare: Blockchain, AR and VR"
     excerpt: "The healthcare industry is primed for a revolution as the convergence of blockchain, cryptocurrency, virtual reality and artificial intelligence begin to take hold. U.S. healthcare spending is estimated to reach $8."
     publishedDateTime: 2022-05-17T18:39:00Z

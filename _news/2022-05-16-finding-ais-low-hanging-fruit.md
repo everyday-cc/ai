@@ -78,20 +78,6 @@ related:
         width: 777
         height: 442
         isCached: true
-  - title: "Building AI for healthcare made easier with programming tools"
-    excerpt: "Chronic disease prediction and management is one of five projects under Singapore’s national AI strategy launched in 2019. . Read more at straitstimes.com."
-    publishedDateTime: 2022-05-16T04:00:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/building-ai-for-healthcare-made-easier-with-programming-tools"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/05/16/ac_profOng_160522.jpg?VersionId=fwE7bWPg9d3hX43zFvxORfd_zS3OejWb"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Disrupting conventional baggage scanning with AI"
     excerpt: "Vehant Technologies Technology has reinforced all the aspects of our lives in terms of how we work, learn, travel or shop. It’s inescapable that the technological devices and services have begun to reflect the public ambitions and desires to connect with others and contribute to the world."
     publishedDateTime: 2022-05-18T07:40:00Z
@@ -157,6 +143,15 @@ related:
       name: acm.org
       domain: acm.org
     quality: 17
+  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
+    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
+    publishedDateTime: 2022-05-20T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 11
 
 secured: "5fF4sL6aPvH2fB9jE+dv1rBxKUg8gBwq7G1kfWdoVuQtNLHq20lyEtSUo00tJWCDTyEjU+c9LnEQcBifMkZYm4XcQAgtRyBLofWr19NPyAUHKtolf7suQowFHXNbrlg7KAQ4zNkDDw7LC5Cs8nxVxtCexrLFIhmYqSanqzW6wJcK0+kSrxF2gr8Oqz1owpYgdYN8d4Q/VNKasyKyJEQKiYi65gJ04miRG3J3kh/UCcYzYfi9uJO9vPjRG1J0coJ/VVSlQKoznUNYmKFqPm5gGF1tFUemTMBGQW5kAqksRHzxXSLNbf/5vS7CY6+klHTvosY+CmlESp6v6HHeugCGB8Myn1ebLfbPc91fpqRnj7NiV+tC3Sqx9Rmn8HDS8LlGP9hXlL9EyKWzsyqXWOGifLue6lphjR1u2W1TCRZEtCIy4Zhn/eplGygXE0ZYzLVrvlAwUAI9cA7Z3d5FejQjiQFEcAgTBu6+X/hhkksVvS9K3knyiIKFXFvxf65XSYS1TcvwGyD90PDCFlpSJrPkEw==;hwBUlpBl6abm/YNYVAw2Zw=="
 ---

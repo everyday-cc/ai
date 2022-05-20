@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Israeli firm hopes AI can curb drownings"
+title: "Israeli Firm Hopes AI Can Curb Drownings"
 excerpt: "An Israeli city is testing whether an artificial intelligence programme that detects drowning threats can help save lives off its beaches."
-publishedDateTime: 2022-05-20T17:18:00Z
-originalUrl: "https://phys.org/news/2022-05-israeli-firm-ai-curb.html"
-webUrl: "https://phys.org/news/2022-05-israeli-firm-ai-curb.html"
-ampWebUrl: "https://phys.org/news/2022-05-israeli-firm-ai-curb.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-israeli-firm-ai-curb.amp"
+publishedDateTime: 2022-05-20T19:19:00Z
+originalUrl: "https://www.barrons.com/news/israeli-firm-hopes-ai-can-curb-drownings-01653060008"
+webUrl: "https://www.barrons.com/news/israeli-firm-hopes-ai-can-curb-drownings-01653060008"
+ampWebUrl: "https://www.barrons.com/amp/news/israeli-firm-hopes-ai-can-curb-drownings-01653060008"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/israeli-firm-hopes-ai-can-curb-drownings-01653060008"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/lifeguards-in-the-city.jpg"
-    width: 1024
-    height: 683
-    isCached: true
 
 related:
   - title: "Israeli Firm Hopes AI Can Curb Drownings"
@@ -41,6 +35,6 @@ related:
         height: 512
         isCached: true
 
-secured: "si+RMsbBr2cvD6b3rE7blnsGLCd6RHySDARn+uM7+7UIFZ9Se8lhyH9CZpV3j1y/r5+JZMGuZBvYHHntHtFs5h+uRzDqA49xZIvJV6WsRjAjyLidxSCW65amPvqp0/NQuByfSwBFGyC+sXM04n68xrm93qkg25rtIvuoHYvy2Eq+SJOL3GVYiAN/oQJuAgo5KEJnvjjii5WO6k7qCyptd/QhwH89Ahdho924joz/wC8HwWiO8dgXarvjLcFd3pdrchj6Ek3YCM7LqMlBrAY+ugdAwjxLW0+NqCLVfHFL0pb6h9U1sUSE5bjafest51eY5ntFdaICXCfiG7Iiog8w3BnFQwYob71qJV0IxHh0C8qnwxCvtqyDxMqFYfU4+6Vd+oq2xZSTksnQ+gfoaUsYbEhCpGS/9xMOtr1P6Zz+56CyM9T/n8Z7deOlf2P8hK4eV+h1WqL96K8sHJJtLDMPaLF74EHSgkm8fvpegy2Ra3inZ1IkT4FbQwhvtHGuarfK740aW0vkn+/n5W+GVM9Zug==;2/fitRflEh55Om+67gCLlw=="
+secured: "hLGX2600ObEW0l7Js0DqEn/JG3K9DhLLQv1hjGFJIDBPwfxyvpaexv2Ob61qaixWOooL//9FrUFtj9q461tweRHcDv4FWsbC8ZE0uxEdJg2vZFpntnUcudeL5cU5l41JPH6WcQ8NNpzuz5EN89Yygt4OpeFA6dU8Vcr7ToGG03h3fDRANsphuLpttxhSbh4V32/aDVe5caXWXhpgMEHLYgEMmxX1K4R5TfZ89KZ3T3UDa8U+yysxLuXrKkb/0vzGsdoAmmoGj6RoI9t7Pk2nobTudQHc9B0baYCQf1aPNHccikpnsBjQmVdum31pY2pTxR1RcHcrjjaizAJJve9pylqMcSbAvOa1ZZ79kp09swY=;/JaHiZkVVktOxQLXN7csBw=="
 ---
 

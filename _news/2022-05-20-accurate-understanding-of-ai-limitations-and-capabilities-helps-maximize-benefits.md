@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T06:03:00Z
 originalUrl: "https://www.digitimes.com/news/a20220519PD202/ai-ict-manufacturing.html"
 webUrl: "https://www.digitimes.com/news/a20220519PD202/ai-ict-manufacturing.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Digi Times

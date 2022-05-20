@@ -75,6 +75,20 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Machine learning innovation among power industry companies dropped off in the last quarter"
+    excerpt: "Analysis of patent filings shows an decrease in related applications in the industry following a rise over the past year"
+    publishedDateTime: 2022-05-20T10:00:00Z
+    webUrl: "https://www.power-technology.com/analysis/machine-learning-innovation-among-power-industry-companies-dropped-off-in-the-last-quarter/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 29
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/05/XLwmp-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Machine learning innovation among retail industry companies has dropped off in the last year"
     excerpt: "Research and innovation in machine learning in the retail sector has declined in the last year. The most recent figures show that the number of related patent applications in the industry stood at 32 in the three months ending March – down from 100 over the same period in 2021."
     publishedDateTime: 2022-05-16T18:00:00Z

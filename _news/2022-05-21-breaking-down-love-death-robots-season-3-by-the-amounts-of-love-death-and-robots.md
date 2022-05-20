@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T19:00:00Z
 originalUrl: "https://www.polygon.com/23132611/love-death-robots-season-3-review-shorts-breakdown"
 webUrl: "https://www.polygon.com/23132611/love-death-robots-season-3-review-shorts-breakdown"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Polygon

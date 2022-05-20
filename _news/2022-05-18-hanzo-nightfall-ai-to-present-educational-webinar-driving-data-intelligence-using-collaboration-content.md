@@ -24,15 +24,43 @@ images:
     isCached: true
 
 related:
-  - title: "Algorithms of Education: How Datafication and Artificial Intelligence Shape Policy"
-    excerpt: "While the science fiction tales of artificial intelligence eclipsing humanity are still very much fantasies, in Algorithms of Education the authors tell real stories of how algorithms and machines are transforming education governance, providing a ..."
-    publishedDateTime: 2022-05-18T14:55:00Z
-    webUrl: "https://www.jstor.org/stable/10.5749/j.ctv2fzkpxp"
+  - title: "Intelligent Automation, AI & Operational Excellence Leader Joins Process Intelligence Platform Leader Skan"
+    excerpt: "Skan, a leader in the Process Intelligence solution industry that provides unprecedented insights into how organizations get work done, has appointed Vinaykumar (Vinay) Mummigatti as Executive Vice President of Strategy and Customer Transformation."
+    publishedDateTime: 2022-05-20T13:33:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c9f53279b8a31d2f6c2f109fb8f2259e"
     type: article
     provider:
-      name: JSTOR
-      domain: jstor.org
-    quality: 28
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "Hanzo, a technology pioneer in preserving, collecting, reviewing, and exporting dynamic, complex collaboration and web-based data, in partnership with Nightfall AI, the first cloud-native extensible data loss prevention (DLP) platform,"
+    publishedDateTime: 2022-05-18T23:04:00Z
+    webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
+    type: article
+    provider:
+      name: abc27
+      domain: abc27.com
+    quality: 20
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
+        width: 800
+        height: 340
+        isCached: true
+  - title: "AI-Powered Retail Analytics Platform, Intelligence Node, Appoints Senior Executives & Advisory Board Members to Drive US Expansion"
+    excerpt: "Global Retail Intelligence leader Intelligence Node announces several strategic hires to accelerate its growth in the US market. It has also appointed four prominent retail leaders on its advisory board to guide the company as its North American customer base expands."
+    publishedDateTime: 2022-05-16T09:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-powered-retail-analytics-platform-intelligence-node-appoints-/2022/05/16/9602164.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "WYThbLhGpPK8MlNVn3azzxmFknVSwg99/kwIKK+hquekxzuL9A53JHeAPsVNBZ6H5YeOSWL99srQ0Tl1PWlCCNVQSqlZWK3TGEJ2dXwyIlfYUzSxGlkVkZZB2MV6iEnDxqn0duRye+BcGHR8d3Rgb8Sbqjq6d1QzE7slHwGaH7OkV4EufTjXeFTG1LFwWm/TWod/+4sJVxEuhDoVPnxb0qnz8eXxq6xuE2FVZCP0AXDHt8P6FZCniU0P18fI2FzWsxQpaiVj8BR3DGXJ6UPMC3VkvkZciXqjLA4AzdTFVH1ghq2n2pvv5q8+0wZZRfgyrvoaggvjYkcMoLcXIcEv7oMJGl+pOiMUrQjQSMpNykE=;6ZukyYCWDBzWDsKsHRmWUw=="
 ---

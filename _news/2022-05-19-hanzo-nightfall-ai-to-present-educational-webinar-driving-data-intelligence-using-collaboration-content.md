@@ -38,6 +38,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
+    publishedDateTime: 2022-05-18T15:30:00Z
+    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 20
+    images:
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+        width: 800
+        height: 340
+        isCached: true
   - title: "AI-Powered Retail Analytics Platform, Intelligence Node, Appoints Senior Executives & Advisory Board Members to Drive US Expansion"
     excerpt: "Global Retail Intelligence leader Intelligence Node announces several strategic hires to accelerate its growth in the US market. It has also appointed four prominent retail leaders on its advisory board to guide the company as its North American customer base expands."
     publishedDateTime: 2022-05-16T09:20:00Z

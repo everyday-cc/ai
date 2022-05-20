@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-19T07:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/bemyeye-acquires-computer-vision-company-metaliquid/article_92a2b6bd-0edc-5dfd-affd-b14c23551b3d.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/bemyeye-acquires-computer-vision-company-metaliquid/article_92a2b6bd-0edc-5dfd-affd-b14c23551b3d.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: WFMZ-TV

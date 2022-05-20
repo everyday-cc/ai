@@ -1,19 +1,25 @@
 ---
 category: news
 title: "The Startup Scouting Platform Championing Corporate Innovation with AI"
-excerpt: "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi"
-publishedDateTime: 2022-05-11T18:15:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+excerpt: "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The"
+publishedDateTime: 2022-05-12T02:15:00Z
+originalUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
+webUrl: "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
-secured: "kgKhM1OuGe2G3Y+jc5oePLjj7lcpFRL3HJ9yg5MN7ddrjw7/f/OwpQw2yNbOPeHMUOFnnRkdA0SjVtPpRVvJuuAeEV9Y1+LrL5T6HGBQw4HAFSF8FpvLPhX+e7xPfqmRqerN2+QwHyoigfghy7tNj5gmoKRaycWil0YlC7yquY0FFkJL8yh+24INzzCPIKPBrcEBQndgQRdc4usEl7ztTWm92u4BWbKy/Atyh4aLxAuMQ1PUH8Dw6RRwroPgC7icB6Fv19+FkKDQRgn0nFG5PVt0b6XKFoUHGCU6TcD4yOcbInPWzr+g3jo/TbYvsv6Svw88LSFcGeilVUzYZWHirPDOtPLvmGK4gkbqMZV1DLyNPtgshRfVO6Jqg+ALI1OIKQCOj1CfcdK71gwU+mytOSHRwrRK7+3gYJzWw9w9WUOnXaOIFFgdsg8fTMhEC+u+s0cfOLM6LIIYKSFUYs+N9WwP9SRSshUuv+pahlEI2eSdOjZeLrpd5rF10bCwXmNq2RXMYmBJxD7gbgUy/brWdA==;vEKhfOsvQXz8D1zUJhMz8Q=="
+images:
+  - url: "https://lh3.googleusercontent.com/__Jn4g-5HH4_ZMyjmWpuer2Zb_RLKiPRLMDswfTePpLBtBbnq31QHR6DQvAS9_82whxKfpi7RUOoCnEkEbn1mdgwAnexrzC9RskHWubQ_Cdu-kSf9_UDd6l7OdAAKKiZVqK6ANqCwWP4RyI2oA"
+    width: 1012
+    height: 445
+    isCached: true
+
+secured: "80DVdV6vKHE6FPHoPNaCY6Qj0TUSiFaSaNV116/MxRgGJjaQkFGeFPavwgExVD1e2ygCV5KTOulq8Ox3MdgTKR2V3FMHgr7s5GP7VVVR95pFLNN0ch+xyu8TiTQACFuEIevQjNXkohmJUj0IIXTbTEZX7rk5vvicmLdl4cIDZf3yzUb9klmhv9yG0PMri2iATQGVeaJlj1aadnu9z0POgntSwDj9G2OYWDlMTZ3mx/nd3V9EIWzdCLSro+O/wKZ8UrtnBmyp+piW+wEBr5PSGHn0DnBeDipTl+DJezNm1WmrMV2MM7EqkGmXMoFyRCdRg055bHED4B0P1nUWJIvYk6/szjqqUT5w8vtmBv+TzKc=;XLtK0mNzqwzXNsomelH9zQ=="
 ---
 

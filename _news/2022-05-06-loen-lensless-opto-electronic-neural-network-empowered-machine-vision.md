@@ -5,6 +5,8 @@ excerpt: "has generated the rapid development of deep learning based on convolut
 publishedDateTime: 2022-05-06T14:41:00Z
 originalUrl: "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.html"
 webUrl: "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.html"
+ampWebUrl: "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.amp"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "S1quE6mgS1KR3bhoMVYywVnWIqHeSUeLktrRTePj+P2K5jXDP0+aPV4rZdkOpDVbf68dlTOyIi73jqdpVduRzHJmx7POS2KqE8Pu+nf8uSM90VuLj5Otnou4JBMLY7UY+SrWLah+mr+wguCheeO/OSe99ZFBNcGf4fCKZpHO2hNF0NSzGObvaxIIAhuGJh04/9lzSBP7HZqL4n1psU5o+f9P2UmYha58ZR1jZnQRM46EbL7kOrnYxnE0CDS0Zn3HhK8gg1oMIu0FlT5I38hEVn8K++rIndp3U3km11Sb443WUE3Gb1ozO/LvscyKcPgEeYckGZOhScJZ1crbgrd88R69iikXJV8WHPOyvDK7DRM=;KiZYWAygKR+BvItHffykFA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/loen-lensless-opto-ele.jpg"
+    width: 2027
+    height: 704
+    isCached: true
+
+secured: "c5znpZD6b2rae9C8+IyAv5smGeWryPrFW72irCNGKDBhqeMd24fvkxSxQh139KYTL7j/rjAlayVnQ5mAMFrVMG9NRLmFME3/yiYX+stvGAIiAMcTrV/kJadEnsSo/UljTArS3r1rY1pqxp4r+Q3+PlH/6sHepYp72dOc2cDgs3n1lB7TUcf6YYx8yGGKAW+4yR5cRjAKpRbz8jxqX54KOT3bjR4r6MbZjQJk8eDcPK1tnmfQwxS0nlLEjJDHWnVy5fFknCYdiwusxt5dnJDQwxIo4kv4TCLXva162ofnsbRLX8fB+apM+urQ4y46WZOgy3zpWGrjSRKf5q0kBCXHKE0jbqJQ/XekJ9VDXC3uIvk=;V2yxTmreb5+N2wVN1Mhe4g=="
 ---
 
