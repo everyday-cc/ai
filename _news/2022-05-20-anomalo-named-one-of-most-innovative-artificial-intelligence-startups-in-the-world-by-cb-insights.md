@@ -2,28 +2,21 @@
 category: news
 title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
 excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-publishedDateTime: 2022-05-19T17:05:00Z
-originalUrl: "https://www.koin.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
-webUrl: "https://www.koin.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
+publishedDateTime: 2022-05-19T17:00:00Z
+originalUrl: "https://kfor.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
+webUrl: "https://kfor.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
 type: article
-quality: 28
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: KOIN 6
-  domain: koin.com
+  name: Oklahoma's News
+  domain: kfor.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Autos
-
-images:
-  - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-    width: 800
-    height: 340
-    isCached: true
+  - AI
 
 related:
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
@@ -84,12 +77,12 @@ related:
         isCached: true
   - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-17T22:45:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+    publishedDateTime: 2022-05-17T21:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
     type: article
     provider:
-      name: FOX31 Denver
-      domain: kdvr.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 36
     images:
       - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
@@ -97,18 +90,18 @@ related:
         height: 400
         isCached: true
   - title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-20T01:56:00Z
-    webUrl: "https://fox40.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+    excerpt: "Elementary recognized for achievements in machine vision and industrial quality inspections NEW YORK, May 19, 2022 /PRNewswire/ -- CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
+    publishedDateTime: 2022-05-19T22:57:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-354915698884a3fcf6d298e87c2c7671"
     type: article
     provider:
-      name: FOX40
-      domain: fox40.com
+      name: Associated Press
+      domain: apnews.com
     quality: 35
     images:
-      - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
-        width: 800
-        height: 328
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "WellSaid Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial ..."
@@ -139,18 +132,18 @@ related:
         height: 653
         isCached: true
   - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
-    excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:   “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-19T16:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-c79946a0a421e8cf10b36e92bbc0b6f6"
+    excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    publishedDateTime: 2022-05-19T16:00:00Z
+    webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: abc27
+      domain: abc27.com
     quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
+        width: 800
+        height: 340
         isCached: true
   - title: "Cresta Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "SAN FRANCISCO, May 17, 2022 /PRNewswire/ -- CB Insights today named Cresta to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
@@ -189,6 +182,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "/fG5pFiFrPQ/0oVOCR4PbzWkLtYf/hEq3vlme9/UD59Is/9zE9X0AHcmol/cNDMwWzMlWdmHEv8CuJUpqwLbXxrsHtxE5CtBL2u2UJK+qZIPpvZZutP51CIZ4Royg0oa/vrSFn6ZXn9xenLoj17eJv7sA8ZHvAtdWwSn+XdKD1+TTDpbnKc8I4VNtswAivVK2OxKSI/PbKcmN+8ab5LvIjmhcbqxujjs6H+A5vf38NJqKmS68bSYmeQFQ0VNjFWrm6KCWyuu2m+dLQkEwS+9uIrrkuwUHosIE8E5WDc6fTwQtvkl4yhVpJZcznBLjB/WnXIE7KVpafvNEi3e/x94Prjkm+0jA5EuEf1CNDfX3VI=;BnJ569K6MvX9VA+vHhWpSQ=="
+secured: "HZuLPx6kB4DitsP4fJOBFV7Ybc/SRLpbOnE3NST9v9YFLMAvWPqc8d1Y9+nN9zbwvCve4SjLj6bIkN8HxaX7bEiwzCIZmnXOvoJk3hOJb6nwITc94Rjix7dnHO3NALypXOeicvzZnd/WzSKcChsX1iBPFh8urCYmSpE/meXaD8ts+78s8v5vqCNX5krZdg/KcO2ffS8caTgGida/VNAzkQEaw5/MaHBIcbKBaRgJlyEoRuq4m+z27+fwJ8bSUzy/XGrCvu6nHIdK5/OxY0p18/LAcMZWAPxe2mEMbh81/Ag0sjSooB+JZGkSxDgtb4Z2AkOiN6zJyZuas/eKkqFhLT8TiI+w/lAR+WA+GozaYfc=;Kaguumpj2PScdg4n7IUHtg=="
 ---
 

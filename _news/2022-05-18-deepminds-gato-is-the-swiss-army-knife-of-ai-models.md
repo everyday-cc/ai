@@ -167,6 +167,15 @@ related:
       name: Proactiveinvestors UK
       domain: proactiveinvestors.com.au
     quality: 38
+  - title: "Google DeepMind claims they're close to achieving human-level AI"
+    excerpt: "Google DeepMind lead researcher Dr. Nando de Freitas has claimed on Twitter that artificial general intelligence is all but here."
+    publishedDateTime: 2022-05-20T09:01:00Z
+    webUrl: "https://www.tweaktown.com/news/86316/google-deepmind-claims-theyre-close-to-achieving-human-level-ai/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
 
 secured: "iQcJML92aq6sgi5sydd7WuSoyrOCJ6BixdxIRWS+JeOozdnNv8SQkdNr6Q0WUwd78mUUyfWLLV6YlE7gyj2g+SyDg4+4chML6KBsyRKiK/Gmn15ao1F0sN5FuFLuOYVdVvM0B3fF9W9Ao3coRK6K5IaFjKusx4esjGzfyWxRJ7fvPZvI6zRqSYlik2LZeUIgngZqnmItOAUWxxgmacbynosNRRizib8954NE21xA2M04DCjbC1cXdCqinnUvx/n61AQbym7lBv+dggk/O5FsVs8LYW4/1PeZzsWHXUEpw6MY+Zfnu3qaw0iH569/Lbkk3hIRWniDj6NjgHpMaTanIkAuqlt/vxSCZz5nyijsMcf8eQmEn6EkBantK29kszW7amYpM1IhoeLhetEBwkyzoBwDt2Zlf0jmGcB7ZFQ04T+q46lW5sCRcjv+rlH+CL6wah5/tUg7axlAJw+SXXj0FFajM84/1VC7uMAK/eZG9vrz1gZC1njQZmeX+C1qExFr7f/pINBonD2p/1pS7ZyXoA==;yR/g5x1naqbTar2gALacIQ=="
 ---

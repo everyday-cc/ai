@@ -168,6 +168,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 36
+  - title: "Google DeepMind claims they're close to achieving human-level AI"
+    excerpt: "Google DeepMind lead researcher Dr. Nando de Freitas has claimed on Twitter that artificial general intelligence is all but here."
+    publishedDateTime: 2022-05-20T09:01:00Z
+    webUrl: "https://www.tweaktown.com/news/86316/google-deepmind-claims-theyre-close-to-achieving-human-level-ai/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
 
 secured: "w4CZQg0WwFXcx6ahFelb8Ha/NM/x9fnfrYQDXUbyIQGl66cv4rShRuzjGAacD+s+J1VRGucnmcxkc+em+hrGED54FX+FednkdFuj+h4uMt+U7y1Lj5xxqP7MRxqgYaWUTnMQZkw/PCE1UpuKzRFoqlAtLEv+JWlDjQ0UGqgypMUSNeR5h9haJnTaNEDg/5Gqqk/e5ENkBJ2TcJXXSTZmFr4u8fwPCNXjLAA1F5BiflM7+fAjikbHlIIiMWe0oiu4Qu3eWpYvaSaZnR1pjCMLJbfYFgHoL0MhTcgTloEaB++eo5KsLIUGOse+M9KYzt7WlUVF1Cgfb7r9wM4wKGFLh44NmWMIs1KWp3cYn1J8+f4gMG0cfEbOyD/0oVlnwsqaET0OaqRfuRR5dPv7bRsdNWkSQGk+1o6vzoEX9gvVvTBqihXKoZ4RbaB5tHAel/TXCXFs/HIVCB4YCqd1v7ba9nZ/dUw/GKeZVWfCh2RfOtbjGl8ET4jNOG6TSFI61MrXvmvGzjVNnc5zGG4FIop1BQ==;Dhy4632zXMUHeM+QFZ4SNw=="
 ---

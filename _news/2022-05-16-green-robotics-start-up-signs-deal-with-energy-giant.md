@@ -35,6 +35,17 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "University of Bristol: Green robotics start-up signs deal with energy giant"
+    excerpt: "Perceptual Robotics use autonomous drones and artificial intelligence to detect damage in wind turbines early.Now the company, founded by three Bristol alumni, has landed a deal to inspect turbines owned by Enel Green Power,"
+    publishedDateTime: 2022-05-20T04:17:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-bristol-green-robotics-start-up-signs-deal-with-energy-giant/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-bristol-green-robotics-start-up-signs-deal-with-energy-giant/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-bristol-green-robotics-start-up-signs-deal-with-energy-giant/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 52
 
 secured: "v5jOz89l7b//XWbdIt+JlQOY+Gd8nyVx2F5rq9tftM/EIdtuPfcHeHgbcGLfMKHYo7RSr7vSFUgbDaH7r4rYMitnybqyCXySnvKOZzrtrrbAtdYxZPPhcf390HfQ6/EDPZEQZ2paBFazTnYsOvDTMiAlVWpSOoaQ1z2eDIn3AKMoRWothM0YCoaYXcp0QvfUyKRp0kiA88AActuZOOhyePO/usr8HUuAB8H1SKV9Esj1Mntp/UysCBxmjIHIm7uoXACoGiC5mfipKZ2/uOGQD5IUlqm93ZvSKGrbBoQb5veRPER7HVOt1iyUVkvyI/TKldqtPIk1fbywkeD1tnX0XuGEl5/jXfh9ZmEBbbh8pnw=;LdRP/IptSIa+Ee77IMj59w=="
 ---

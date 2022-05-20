@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Advanced AI-Based Technology Enables Amputees to Move a Robotic Arm with Their Brain"
-    excerpt: "Scientists from the University of Minnesota Twin Cities have engineered a more precise, less invasive technology that enables amputees to control a robotic arm using signals from their brain rather than their muscles."
-    publishedDateTime: 2022-05-18T14:38:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12964"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12964"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12964"
+  - title: "Scientists develop real-life mind controllable robotic hand using AI"
+    excerpt: "A team of researchers at the University of Minnesota has created a robotic arm that can function according to your thoughts. In the future, such advance prosthetic body parts might allow humans to control computer-based devices with their minds."
+    publishedDateTime: 2022-05-20T09:14:00Z
+    webUrl: "https://interestingengineering.com/ai-powered-prosthetic-arm"
+    ampWebUrl: "https://amp.interestingengineering.com/ai-powered-prosthetic-arm"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-powered-prosthetic-arm"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 67
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 76
     images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12964_16528753942126690.jpg"
-        width: 900
-        height: 600
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2p754w9/sizes/neuroprostheric-hand-umn_resize_md.JPG"
+        width: 744
+        height: 419
         isCached: true
   - title: "University of Minnesota technology allows amputees to control a robotic arm with their mind"
     excerpt: "When combined with an artificial intelligence computer and a robotic arm, the device can read and interpret brain signals, allowing upper limb amputees to control the arm using only their thoughts. The researchers’ most recent paper is published in the ..."

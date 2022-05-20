@@ -133,6 +133,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tech company completes first driverless car test on Oxford roads"
+    excerpt: "Fully autonomous vehicles have been driven on Oxford roads with no on-board driver and they could soon be used to deliver food."
+    publishedDateTime: 2022-05-20T08:11:00Z
+    webUrl: "https://www.oxfordmail.co.uk/news/20153137.tech-company-completes-first-driverless-car-test-oxford-roads/"
+    type: article
+    provider:
+      name: Oxford Mail
+      domain: oxfordmail.co.uk
+    quality: 39
+    images:
+      - url: "https://www.oxfordmail.co.uk/resources/images/13799882/"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Argo AI deploys autonomous vehicle fleets in Austin and Miami"
     excerpt: "Most of Argo AI’s vehicles on the road currently only have employees on board, but some Lyft passengers in Miami are able to get a ride in one of them."
     publishedDateTime: 2022-05-19T09:02:00Z

@@ -1,24 +1,23 @@
 ---
 category: news
 title: "FLEX LOGIX PARTNERS WITH ROBOFLOW TO ENABLE SPECIALIZED AI MODELS FOR COMPUTER VISION APPLICATIONS"
-excerpt: "The availability of AI models optimized for the Flex Logix InferX accelerator enables edge device manufacturers to get to market quickly, reliably and affordably. MOUNTAIN VIEW, C"
-publishedDateTime: 2022-05-16T12:00:00Z
-originalUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220516SF57748/flex-logix-partners-with-roboflow-to-enable-specialized-ai-models-for-computer-vision-applications/"
-webUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220516SF57748/flex-logix-partners-with-roboflow-to-enable-specialized-ai-models-for-computer-vision-applications/"
+excerpt: "\"At Roboflow, enabling users to build high quality computer vision models and deploy to a wide range of industry leading hardware options like GPU, and now eFPGA, is essential. We are excited to add support for customers to train models and easily deploy ..."
+publishedDateTime: 2022-05-16T14:10:00Z
+originalUrl: "https://news.tmcnet.com/usubmit/2022/05/16/9602338.htm"
+webUrl: "https://news.tmcnet.com/usubmit/2022/05/16/9602338.htm"
 type: article
-quality: 22
-heat: 22
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: MyTwinTiers.com
-  domain: mytwintiers.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Hardware
-  - AI
   - Computer Vision
+  - AI
 
-secured: "MsvN+CgBq4ZuIY28tDgnkHIL6jrv9+2txTcgYlccePoWgFjpQ+Pe5CFd2993L/G27ZTiKKg/Vwx/wF2YxTRInydPfLoXNcB7zMiQVW5lJnFK5hZtWesnXO7tyUsVz6wfTFyx3A2qDuQvbabPMAf/PYF0c5SJ0nhyQgo2znVPZP6Ri26wmnjCIuLGjJj2hdZEnYRzkNgcW+gJhHS9QSGwkPcIzbqDi/n9WUraC49lFQYzf0Nel3+3sy+ZG4jGEH2uBQuILmNxAakHEzNljQYeYh4XT8ZGiHC9fA3eYl1k5cpAW5NZ89+VgonW82yCmNYGWyZS5Gg32jWN7uNKI9UI8y6ivrLutjQNVQyVYbap3f4=;uCaxWeGGVFjhuWhrW/KREQ=="
+secured: "l/KJ0kg/tZXIm/sb9Ql+hyfI1CSXeIa5WhNxsk+9OaebxLsKFlDt4tuPpaJIL0Mx8CkhdL7mq8l5lEvYAfEX1SjgeBpPIDCLij+PNBRk2f5YG1AccLvj3QIBYeGcj/Mry+hBJGKwWqlpseah2czCHu+K6Ean/IlX/8Hb+NwY/pQ0JRNCItpuvujkaY9/CkXpoL5hnIvXSV8sS9l9KrGTTNR/xJXy0lPXR2KhQiVVzA6T2o3d5nn/7pJtWWcL+CTXHwwN0CagXnVFLGkggtut7Or7/RQSFBgFKoMSypeZj5DYBQgvKFlO8KXlr7kHcIUgLcxc17dON67Tj/T2ofUSGM4uocq5vNTmOObT3OMXIZM=;WazqnsoZp8G5OiFpvx2c1A=="
 ---
 

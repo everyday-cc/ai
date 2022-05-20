@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
-excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:   “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-publishedDateTime: 2022-05-19T16:02:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-c79946a0a421e8cf10b36e92bbc0b6f6"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-c79946a0a421e8cf10b36e92bbc0b6f6"
+excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+publishedDateTime: 2022-05-19T16:00:00Z
+originalUrl: "https://www.abc27.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
+webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: abc27
+  domain: abc27.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
+    width: 800
+    height: 340
     isCached: true
 
 related:
@@ -82,12 +82,12 @@ related:
         isCached: true
   - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-17T22:45:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+    publishedDateTime: 2022-05-17T21:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
     type: article
     provider:
-      name: FOX31 Denver
-      domain: kdvr.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 36
     images:
       - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
@@ -95,18 +95,18 @@ related:
         height: 400
         isCached: true
   - title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-20T01:56:00Z
-    webUrl: "https://fox40.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+    excerpt: "Elementary recognized for achievements in machine vision and industrial quality inspections NEW YORK, May 19, 2022 /PRNewswire/ -- CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
+    publishedDateTime: 2022-05-19T22:57:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-354915698884a3fcf6d298e87c2c7671"
     type: article
     provider:
-      name: FOX40
-      domain: fox40.com
+      name: Associated Press
+      domain: apnews.com
     quality: 35
     images:
-      - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
-        width: 800
-        height: 328
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "WellSaid Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial ..."
@@ -136,20 +136,6 @@ related:
         width: 1250
         height: 653
         isCached: true
-  - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
-    excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-19T17:05:00Z
-    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 28
-    images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-        width: 800
-        height: 340
-        isCached: true
   - title: "Cresta Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "SAN FRANCISCO, May 17, 2022 /PRNewswire/ -- CB Insights today named Cresta to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
     publishedDateTime: 2022-05-17T13:07:00Z
@@ -177,6 +163,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 13
+  - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
+    excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    publishedDateTime: 2022-05-19T17:00:00Z
+    webUrl: "https://kfor.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
+    type: article
+    provider:
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 6
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
     excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
     publishedDateTime: 2022-05-17T18:00:00Z
@@ -187,6 +182,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "Mk48LqmqOp9ht9de8QcfDIXrqUe/B1pdfQUOQ6Vd2DIvdEnn3DGSuE4bvy/N/6VJ/SLDXfOZNtFLjxOpuq2f4RLWG4esSbDbn858ZLOUoiZ5DRmFMnpJALmlVtMzCe7Xapio9AG2EtVx1XDvMAaezz6Sy9KEvZST2I/mi1CrN3PlQMuHV04RiR5NBIGGnf4PlMqx2PoNQZAqa+I9jsi3BPVkdOA1QhQ7/nU3Rq6Q9/0lt4SNEjGaW044RJ0mCjVtNVrqMgHbCdo31ESIQpWkt4DLLK8sxWcjrXQqmtm8zHgCMRZA+WjIXJWSCikQa/UYZeBe1mRd1HN0qZH0GylldLHPBKGw9XEkwPpNZXYC4X0=;DKNubHqHoDct4fUqGRQGEQ=="
+secured: "YyoaiMHKVF32BkBuerDEF7p0s+HCxQolwsG07UdqSKh9N9eY5gJ2FPU6UIOa+q5OMUQ4xAeosqM1VE+vUa5olTz5WTAeBDqx4JIZm0jMmNoiPuD0ISCtvS59cpj5VH6JuhrFKkx3a4IwP0QNVYLPSRaLdesgcbTgykpOm6PK4YvpY5igK9mZqMEQ0Pz8fop8RH9zwRx69Kh3pyR1fFbrOG5f94koO82WBIkDYgWpEFAe7YHs6HxWiHEgyyzivpHJZX6Y0j4c6hJsF3hYZgWHW0gY3o6REN3+pcwz/2t9Wzkuv5hXFY5BAbuaNntb0lQciciInzckQjAmk+0eLudj6N0h5BnPnJVbuVl5FvJ8NHQ=;wAXxWoTc5lXioSn0De+OzA=="
 ---
 

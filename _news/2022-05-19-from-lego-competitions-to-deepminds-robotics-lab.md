@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-
 webUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab"
 type: article
 quality: 121
-heat: 221
+heat: 231
 published: true
 
 provider:
@@ -172,6 +172,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 36
+  - title: "Google DeepMind claims they're close to achieving human-level AI"
+    excerpt: "Google DeepMind lead researcher Dr. Nando de Freitas has claimed on Twitter that artificial general intelligence is all but here."
+    publishedDateTime: 2022-05-20T09:01:00Z
+    webUrl: "https://www.tweaktown.com/news/86316/google-deepmind-claims-theyre-close-to-achieving-human-level-ai/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
 
 secured: "KTySUOJVXfjHgSLBNSglmFlKXbxdD6PX7DGveLw6+Kp10ogRn48TKQ0lVWXwnjrk1JCUoJWIdysSEmV+IL7zG22vOjYCcMXBrHoSWW8AeA7cijqvFDxH9mSbSlyQ5IRMgpU7/UMbJ7/n6tmc6qRFFsjNOnmZT/zGxcdeojN6SZ+gYEAwXDURRyWu2YLyfjNTj8SWW60E/Mqs77kvi+6cmrbQMpic1rjuL5GXAYMarz6swF+pxAFTN9/XmEfHD2eJKaKjTYvqiZlCNceRa0X0ncxgLnZ7lzNGakGLG33NZXYGLb67YlTrqNimXzmyltjpZ4Nz68xfblYD9f4DMBGmBpOfg0jlpakvdM53dCeioKo=;iCx1ssXrz75fVebfzums/g=="
 ---

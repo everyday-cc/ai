@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VIDA Introduces New AI-Enabled Biomarker Services"
-    excerpt: "New VIDA analysis packages & novel biomarkers empower trial sponsors to unlock breakthrough insights. SAN FRANCISCO, May 15, 2022 /PRNewswire/ -- (ATS International Conference)  V"
-    publishedDateTime: 2022-05-15T16:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/covid-technology-health-clinical-trials-f7be8cc3b1fe6fbfe0a9feea805e8836"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "VIDA Introduces New AI-Enabled Biomarker Services'"
     excerpt: "Announced at the 2022 American Thoracic Society (ATS) International Conference, this suite of services empowers sponsors to leverage VIDA's unique AI-enabled biomarker generation services and ..."
     publishedDateTime: 2022-05-15T23:03:00Z

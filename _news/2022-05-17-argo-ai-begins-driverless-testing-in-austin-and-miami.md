@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://resources.mynewsdesk.com/image/upload/b_auto,c_pad,h_628,q_auto:good,w_1200/zw5lzkwistxsb3vme1ep.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tech company completes first driverless car test on Oxford roads"
+    excerpt: "Fully autonomous vehicles have been driven on Oxford roads with no on-board driver and they could soon be used to deliver food."
+    publishedDateTime: 2022-05-20T08:11:00Z
+    webUrl: "https://www.oxfordmail.co.uk/news/20153137.tech-company-completes-first-driverless-car-test-oxford-roads/"
+    type: article
+    provider:
+      name: Oxford Mail
+      domain: oxfordmail.co.uk
+    quality: 39
+    images:
+      - url: "https://www.oxfordmail.co.uk/resources/images/13799882/"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Argo AI deploys autonomous vehicle fleets in Austin and Miami"
     excerpt: "Most of Argo AI’s vehicles on the road currently only have employees on board, but some Lyft passengers in Miami are able to get a ride in one of them."

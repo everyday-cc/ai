@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence sleep app may mean an end to sleeping pills for insomniacs"
+  - title: "Artificial Intelligence Sleep App May Mean An End To Sleeping Pills For Insomniacs"
     excerpt: "Up to 800,000 people in England could benefit from the £45 app which can work through wearable devices like the Apple watch."
-    publishedDateTime: 2022-05-20T03:30:00Z
-    webUrl: "https://news.sky.com/story/artificial-intelligence-sleep-app-may-mean-an-end-to-sleeping-pills-for-insomniacs-12617127"
+    publishedDateTime: 2022-05-20T08:46:00Z
+    webUrl: "https://digg.com/news/link/artificial-intelligence-sleep-app-may-mean-an-end-to-sleeping-pills-for-insomniacs-1N35Z0AFIb"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 33
+      name: Digg
+      domain: digg.com
+    quality: 31
     images:
-      - url: "https://e3.365dm.com/22/02/1600x900/skynews-sleep-man_5665884.jpg?20220207171748"
+      - url: "https://cdn.digg.com/submitted-links/1653036365-I53m3QgZ2l.jpg"
         width: 1600
         height: 900
         isCached: true
 
-secured: "i/Zbv7fx4/+/zw+AWpzELjbQiK/H6wMIAdhFYFcSuI8/rOIEONcl+/s0q5nJUYELzKTPmKau6ArB/bCna8TAgy0yW4lpMz4E/+vtMrcZY/NoyPQY36Wo6sut+yzXDH6xOTw1QuoE5iERcrW51hpVLip2CwUcECifpu/Lzgj1joWwli+np7P+8J0Uu65hGGypv4/3IyzAoi8lgVVaph570ymh6EfoxdA3JqgA3ldTb95+7lpUF5MN1dtWZSCP3acrLoGwnOy4KrwIZxOXT2Zcml/2mnZLIqGklbBF9jjz/bDES69/wcPjkYsVvl89k39duz/5ubVDbhWSvecLm3RBYcwAfcxoV3o7+Nc3qhk73Z8=;x4CQcjmBc3dFYMfgEKyWgg=="
+secured: "U+zF2+eIur81OuzJG/L/G3KRgDlpiaj5+BLGMSTkgLEUH9BOqBXHAIU6QwPWthiXbXIGAI/lUHixvWne7wvnAnbbqMy+MSqCqRwWf4GyvjO++2dBAEApPX+EuhDeBBCiqPB6E2PblN6OMIo5M7FucU+Frn3+mGI2Yy+yH6atNsHtzQXUhIIYPZMzP5wjOQK8tRRa9IbKJ1EmQeQH3zWDuZueOFgRdmBud0/qVs3fnIlzw8Nr0MnQbcqyeKVtMF/HJUEXSqdisr6Jd/2Fq4Hx6cpCyjGpiflxD5OvycOvX3swN8kS6bmm6qL+Np+4+LIwm4D8HzgTtjbOjIEYn9SHddKNllbL2g5YVfcCNdBKuHFN8M/jkRquOcBScsNwHhpzTJyu/xSYRODNwywo9Ahvnup1LulwSD9AKKBjl5GpEiuTm+7kpOthu+UYkmqvSTwXha5xfP21Dwmq4FH4bjXBhO084Z9OdaNLHpEBOxo61oC1R98mxZtMVe0uHWuTyyiQfkfMtUgUJFNwLHaUgtX6qQ==;GZfHTcIftVIcOa5vaIUQlw=="
 ---
 

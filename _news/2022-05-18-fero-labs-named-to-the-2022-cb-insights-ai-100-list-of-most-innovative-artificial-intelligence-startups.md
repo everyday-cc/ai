@@ -2,17 +2,17 @@
 category: news
 title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
 excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-publishedDateTime: 2022-05-17T22:45:00Z
-originalUrl: "https://kdvr.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
-webUrl: "https://kdvr.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+publishedDateTime: 2022-05-17T21:44:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -81,18 +81,18 @@ related:
         height: 700
         isCached: true
   - title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-20T01:56:00Z
-    webUrl: "https://fox40.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+    excerpt: "Elementary recognized for achievements in machine vision and industrial quality inspections NEW YORK, May 19, 2022 /PRNewswire/ -- CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
+    publishedDateTime: 2022-05-19T22:57:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-354915698884a3fcf6d298e87c2c7671"
     type: article
     provider:
-      name: FOX40
-      domain: fox40.com
+      name: Associated Press
+      domain: apnews.com
     quality: 35
     images:
-      - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
-        width: 800
-        height: 328
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "WellSaid Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial ..."
@@ -124,31 +124,17 @@ related:
         isCached: true
   - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
     excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-19T17:05:00Z
-    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
+    publishedDateTime: 2022-05-19T16:00:00Z
+    webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
     type: article
     provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 28
-    images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-        width: 800
-        height: 340
-        isCached: true
-  - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
-    excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:   “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-19T16:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-c79946a0a421e8cf10b36e92bbc0b6f6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
+      name: abc27
+      domain: abc27.com
     quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
+        width: 800
+        height: 340
         isCached: true
   - title: "Cresta Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "SAN FRANCISCO, May 17, 2022 /PRNewswire/ -- CB Insights today named Cresta to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
@@ -177,6 +163,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 13
+  - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
+    excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    publishedDateTime: 2022-05-19T17:00:00Z
+    webUrl: "https://kfor.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
+    type: article
+    provider:
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 6
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
     excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
     publishedDateTime: 2022-05-17T18:00:00Z
@@ -187,6 +182,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "4LfCI/hKV6TzqEGrvUYIc2b8P1UahORjaq0kotJmqkiBeA/qjEaky/2ygIs6UuwO8HFC1Z6pxOwCPARuPl8TyaMY3po27XpDAeVlWuG6IO9/nKIjB9h7x300hN4mo3blyp8iPqf5+dMa5AhKspDLv4/icg1BcHrnZIPrFABTk2CoOSK7OzfiuaE8WRYwl1o6VL996HLQszHShg2Lj9Sbpdo6gfzDb8NM2okrAB5EpbsZYsgLKaPp9ltzGdSxfqSi6QeDFvfocg/kDuCVl7skRPCHRKoVkR88z5WlkxyuqjbgqPEcqUlIzAibg8tDZRWpHx7h7n8HycnmZlR0inecxMWBq5klsfxbp1gn/2ENNHM=;g0DyNSMibelYkftu/Dn8qQ=="
+secured: "mDdMx8vUuGrqiSGYUiGTiP+3k6blV6lFtC+UIZbqoeeV0IkI+Kt/L6gNTnyeGVuX4OlywaWXoYwaW7LSEv8cpv+OFHqnNH1UY4jpjR4sDLjNzmzAAO3+vaZU2kmz21vLg1x3ppgMNIstIsNklhBKqPEAM6MjLH1hP80Ar3WHSenNSZgWWHZpA1lnPZi43S9pmoPL1s4kL4qhEfVNHPLm7sXETBbCA/SIfHCBcw9oQ4/b6NAXIxEZGtsSWLiveFms0Ums3px5Hk6PM0wiog201qHpGQYwgrLgFZAbTN25Ozj2ifRPZ3i/LJhUkiPTwW9FmkIpM+h6ENF8eb2JphowGVdWg+k9frKd5NK4Bk8pVvo=;krvS8JgZPEsufjUpbZd7Gg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=667067"
 webUrl: "https://us.acrofan.com/detail.php?number=667067"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 580
     height: 339
     isCached: true
+
+related:
+  - title: "China robot unicorn Hai Robotics eyes international expansion as market for warehouse automation cranks up"
+    excerpt: "Hai Robotics makes robots for moving and sorting boxes in warehouses, a market estimated to reach US$41 billion globally by 2027."
+    publishedDateTime: 2022-05-20T09:00:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion?module=live&pgtype=homepage"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 101
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/19/5020fad2-9d36-402d-a4c2-acacef0bb0f6_a484de56.jpg?itok=BWP9j4IV&v=1652960037"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "o7w44gbT/XnLqIw/Z9kCrWyCjHjfTh3LCa/jBun2d/37DvxAXd/lZ7D/1yk3sf2UzUjgcmT1cA8ZZPMJbFL1g7l425B+yNAgDhkn4m1GXe0CYgR2ZV+x/1MSbO65/mLb9NG+esjZ2j2dUTVrxNMdQ3aU8i05tHaA8QwS9qo/FDnotlzfL5xtsJP1BAkA9JayuomDjcGsE4z99+oqQP+/shBRIJRYwlKmDG07nr4P6OT90dAe1YZl0QLfhnYIdPEDysiK6VN1zHMzaoooRu3PTtVqvKTtkKjJ8HoE5bghB1jj97fdoGH/42Xh3Kf1w8tDgYjxXexZlvMA1Q6luKzPNvuTEk0pgDew5NeUfplE8IE=;tVCMTYfIvNRRaZ7JSZrtzA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-live.co.uk/technology/bristol-robotics-start-up
 cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "University of Bristol: Green robotics start-up signs deal with energy giant"
+    excerpt: "Perceptual Robotics use autonomous drones and artificial intelligence to detect damage in wind turbines early.Now the company, founded by three Bristol alumni, has landed a deal to inspect turbines owned by Enel Green Power,"
+    publishedDateTime: 2022-05-20T04:17:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-bristol-green-robotics-start-up-signs-deal-with-energy-giant/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-bristol-green-robotics-start-up-signs-deal-with-energy-giant/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-bristol-green-robotics-start-up-signs-deal-with-energy-giant/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 52
   - title: "Green robotics start-up signs deal with energy giant"
     excerpt: "A start-up with University of Bristol roots has signed a deal with energy giant Enel to help keep its estimated 9,000 turbines spinning."
     publishedDateTime: 2022-05-16T15:36:00Z
