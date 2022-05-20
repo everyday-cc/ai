@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"

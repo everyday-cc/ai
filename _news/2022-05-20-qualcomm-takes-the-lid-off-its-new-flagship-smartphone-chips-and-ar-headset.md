@@ -1,0 +1,24 @@
+---
+category: news
+title: "Qualcomm Takes the Lid Off Its New Flagship Smartphone Chips and AR Headset"
+excerpt: "Qualcomm Qualcomm has announced the next batch of mobile chips coming to smartphones, tablets, and the AR curious. The company revealed the Snapdragon 8+ Gen 1, a bump up to the current processor used in the latest Android flagships."
+publishedDateTime: 2022-05-20T12:00:00Z
+originalUrl: "https://gizmodo.com/qualcomms-new-snapdragon-smartphone-chips-and-ar-headse-1848951360"
+webUrl: "https://gizmodo.com/qualcomms-new-snapdragon-smartphone-chips-and-ar-headse-1848951360"
+type: article
+
+provider:
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+secured: "REGOib9J+f9fabq8rXYdonxruKUoBhI4oMJJhC/tBUbfuMXwdA2wJo2p908E4SfWY0vMmn9xaoISxvJE5gSa3HxpqZdF3F4aE42x6uOzJgut7QnlpVGzztGkKJOphF1eg3wFZXVD9p0j9lOz/GF/BN9ahGgjHj5QkLfi99xMz5xr3cbI5F/fZmYpp+X5IJ9BQ5oOyUDx3mw+6Ka+/NPmKBKQAF1bakEZmeYWvXPwHXlfVr6OX8WxA0M3OXeex/Vg3gU6kSLVBw43Fu3UFjMR++RXC8LKi8Y/0nW7miarbr8gWEjqcR7/XPDvve3GvaulRumI4sM5eLHR+f24B0iBwIyZz/+tnyWze766kRzRwTFWjXNppdzq567xFlvuIM3L6btRzM5Ae75C5f/F/t4xGevNTfqOYxn3L/miS/JgYt46ZtAdIGz7IqCQAEclbZvMSGkdS/nNKRIffaao1NahODCE2wsHpnRnoJxS7dd8Nu1yiAF+SZDHpUAAc0aJgIzMhOsotVbS+RWdAnUNbk0YFw==;EpPF22n2PIM0gBkEfugk/w=="
+---
+

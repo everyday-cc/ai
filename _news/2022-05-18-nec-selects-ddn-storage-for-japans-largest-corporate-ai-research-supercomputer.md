@@ -1,28 +1,20 @@
 ---
 category: news
 title: "NEC Selects DDN Storage for Japan's Largest Corporate AI Research Supercomputer"
-excerpt: "CHATSWORTH, Calif., May 18, 2022 /PRNewswire/ -- DDN ®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to ..."
-publishedDateTime: 2022-05-18T13:27:00Z
-originalUrl: "https://www.keloland.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
-webUrl: "https://www.keloland.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
+excerpt: "DDN ®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research."
+publishedDateTime: 2022-05-18T13:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: KELOLAND News
-  domain: keloland.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1820615/DataDirect_Networks___DDN.jpg"
-    width: 400
-    height: 252
-    isCached: true
-
-secured: "H09RBeMGMaaHZpOxybe4WRjDHjnpw1UbBRUPLeT+jepEygEgTiY5d/+nHyUoy79E+T2HTMI7g6sY5E9HBq5OW7okcc5AB/rPKI70KdwU61tyVf4WmWGTiBD7WwveA9ffKyk/ZUWpW6cwDu3DTOXpvXwYTFs2/sjZCpXUep3NVJSAxuV3lKoitMALhLlS0xW4xmdNVWdvbcjqJZSbeqabU9vTXsWfzApctSFXb+Xc14DXrCf/+vyixCEoi+Dx72f68vqWv6HvTw/VNtdNs8MV5MLR7O1hFTjhs39XsyYu6oFrOFKTjWq7t4rSCbT72Ieid/I/Up+CKaDAxAoa/kynnoVDUGG+C30Oe+ASQ8Qk44Q=;H9qduI8/1FRLLjbAUZLttQ=="
+secured: "5VdXI/sdPO5cCckCMhfqeEKKTURJCWkiUUnkeDMcXNnzPunYRjaCj0YXDD6Md51CnrWN1GBCli2E6vD1SMXi5HPPDRsVM4ey3sYb/g202or9QpM6936/AjXMzoXG7Npdam9XYBrCd+KN1ogOV1ERArhtkDjsST3/SqZyRgYe+/gcXdrsJOomP/azdXqe0oZuBcfmoHwkcb/bFVsUInKgbm6+R5rDwBpyikdxeiiVbDvK8PX1zA/4JA+QiD2yLJNee4Nm6Png92HnHoYG1s4Lz8rcIdXdsauhwmAaVrBxIArsTpSFnGlsYxiudElFrjNZ/SfBgxHMbNn/6TD0Z3/k8zM2v4ws9MMxUVEPFYQney6DL4hqyAWvnTwHx6yy63eU4LJ7iDxev3Lenh7Ud+CY0PWsi2ovniQNoPFP8iMs/o9f5hTKasjm6i8oPjp22srLpWTiwjYOlGoF7IZkk/mMhEL5olbWuFiTvkRrBrKjE5YSXGYJB9S9bRFzC+3P/rXyvS0M88Mp5+zKMDxmUSZ3YQ==;aWNd21tbcKLtTrvlCQhaQA=="
 ---
 

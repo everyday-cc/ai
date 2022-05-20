@@ -1,20 +1,17 @@
 ---
 category: news
-title: "Startup Gatik Says It Will Put Self-Driving Trucks on the Road in Kansas"
-excerpt: "Autonomous delivery truck startup Gatik on Thursday said it will be putting its box trucks on the road in Kansas after state officials gave it and its partner and customer Walmart Inc the go-ahead. Kansas Governor Laura Kelly on Friday signed into law a bill permitting use of driverless vehicles in the state without a human safety driver behind the wheel."
-publishedDateTime: 2022-05-19T11:23:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-05-19/startup-gatik-says-it-will-put-self-driving-trucks-on-the-road-in-kansas"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-05-19/startup-gatik-says-it-will-put-self-driving-trucks-on-the-road-in-kansas"
+title: "Startup Gatik says it will put self-driving trucks on the road in Kansas"
+excerpt: "A driverless Gatik delivery box truck operates in Bentonville, Arkansas, U.S. in this picture taken in October 2021 and obtained by Reuters on May 18, 2022. Gatik/Handout via REUTERS"
+publishedDateTime: 2022-05-19T15:23:00Z
+originalUrl: "https://www.reuters.com/news/picture/startup-gatik-says-it-will-put-self-driv-idUSKCN2N50MQ"
+webUrl: "https://www.reuters.com/news/picture/startup-gatik-says-it-will-put-self-driv-idUSKCN2N50MQ"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "A8iau+gjDFVUPuG3LA9qrtaHuPJAtobcZToTDam80XzQ/PrQfijlkWUPo+78TqXTgPSrfPF2xQD2cDJApxrHGih/oU7My53ZIrI9MSAAXYSs51oTMi0CXTFAvdDJDyZ2XYiPWhyEqLBpkx3mr4pxcnwpt3avyhz79CmjitW3oqUiZFOIz+z4DyhvVr11HNyjnZP+E0xUZAFavfRLu/Gmy4a28I4IxulLxUBj/PQXOJmAvpNXrISmd129/q1HrK7HOx1uMcBRspW6dRg0xqvH5M9KDydx1h9z5/D9uNFIcU5QTjitw4RgaDS+qyomCD5VUDqhPDCKjT5QZa0s39y+PxuNsbSxyj+qmBTz8uzg5IFIoupMHPHBoib4NYH687zswHJks5U/dz1crGczmdUdCfEVLMom66WZEh0uAdjQ026pIF7iUiYAyMHPKqtLQVVx1K6AtAQO1kbVDkC4orIyAhgYI4LPbR/98Rj6daUrvYJE9rZVohQyeOix8HvdBVz0oLWG96r1fFZYV3FnVwHjDQ==;P5OtUf9xM0nVZVCd+hc/1Q=="
+secured: "gfDLDY/M8sd7JI2Ou1kCLWobzUb4QbyLBJyEymDYeafbS366ZsFgZ+zLawlolhJaei+G0axT7eTHgkN2MwrCenA5vcHH+jyfMmKkjtBMciLHdjswfu2g97ad87GlvGAXmMf65ZBb7ffRc/hzIeL0eCYtBOo5B73DgLqnTBJorY0lfsa1687qEHNWGr83dUfLLBy4dUsPTSt/46Z4e1wvtdhkkCnB3mcSjGJ3i5z4638ZbmNWnPTPUxwvaGMNps5K+n8IjMvnK+Baz2o4szzXNtEldnSqEqolHzaHIakaIuVB0bqT1mLHyXLD9MRN+k1IBlsdBB+yPUOdP/sjN5w0OuRVpvHdF3QJIYsvuJsZetATfEjPS/2Ima/SOt3N6zNuGFP4DLA4wVo2bhev1zYN7QtX09IOrZ6qDpL3P/fkpWBLw8ixOkWCESDM3iyRFSPUYMWsm3wVuixR1mI0Iy82adRTVk2h5O3/MsGTeLRabq+Wx2/F3aXJuuJ7ATjVJyufvRNAUEHPDOnmXSB8ki/T0A==;6BJPY9Qqrt5qK/0kr/q6+A=="
 ---
 
