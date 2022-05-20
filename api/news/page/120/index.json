@@ -2,6 +2,57 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2022-02-05-turtles-all-the-way-down-why-ais-cult-of-objectivity-is-dangerous-and-how-we-can-be-better.md",
+      "title": "Turtles all the way down: Why AI’s cult of objectivity is dangerous, and how we can be better",
+      "excerpt": "There is a belief, built out of science fiction and a healthy fear of math, that AI is some infallible judge of objective truth. We tell ourselves that AI algorithms divine truth from data ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/05/turtles-all-the-way-down-why-ais-cult-of-objectivity-is-dangerous-and-how-we-can-be-better/",
+      "originalUrl": "https://venturebeat.com/2022/02/05/turtles-all-the-way-down-why-ais-cult-of-objectivity-is-dangerous-and-how-we-can-be-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1295980136.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/05/turtles-all-the-way-down-why-ais-cult-of-objectivity-is-dangerous-and-how-we-can-be-better/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/05/turtles-all-the-way-down-why-ais-cult-of-objectivity-is-dangerous-and-how-we-can-be-better/amp/",
+      "publishedDateTime": "2022-02-05T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go.md",
       "title": "Despite recent progress, AI-powered chatbots still have a long way to go",
       "excerpt": "It took about two months to train the most capable version of the system using over 1,000 of Google’s third-generation tensor processing units (TPUs), chips designed to accelerate AI training.",
@@ -1108,49 +1159,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics.md",
-      "title": "Singapore releases software toolkit to guide financial sector on AI ethics",
-      "excerpt": "The Monetary Authority of Singapore (MAS) said the documents detailed methodologies for incorporating the FEAT principles--of Fairness, Ethics, Accountability, and Transparency--into the use of AI within the financial services sector. The whitepapers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "publishedDateTime": "2022-02-04T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

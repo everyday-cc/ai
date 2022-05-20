@@ -2,6 +2,39 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-05-03-known_ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th.md",
+      "title": "Known_Ai Film Festival First to Offer All-Artificial Intelligence-Enhanced Film Slate May 6th",
+      "excerpt": "LONDON, May 3, 2022 /PRNewswire/ -- The Metaverse – Ai Cinematics, a producer of artificial intelligence (Ai) assisted films and theatrical shorts, has created the World’s first Ai-specific film festival and awards show. Partnering with the UK-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-entertainment-lifestyle-film-festivals-artificial-intelligence-1ff54804ee8f75ca3ea1b91444ffd3dd",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-entertainment-lifestyle-film-festivals-artificial-intelligence-1ff54804ee8f75ca3ea1b91444ffd3dd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-ai-powered-proven-skincare-launches-worlds-first-personalized-eye-cream-duo.md",
       "title": "AI-Powered PROVEN Skincare Launches World’s First Personalized Eye Cream Duo",
       "excerpt": "PROVEN Skincare, the AI-powered, technology-first skincare brand, today announced the launch of the world’s first personalized Eye Cream Duo. The Duo is formulated with potent ingredients that target multiple skin concerns at once while nourishing the ...",
@@ -1151,58 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-developer-experience-doesnt-have-to-stop-at-the-front-end.md",
-      "title": "Developer experience doesn’t have to stop at the front end",
-      "excerpt": "While learning to build machine learning models, he saw data scientists spending ... Developers can then deploy to AWS, Azure, or Google Cloud. The project was founded in 2021 by ex-Spotify engineers André Eriksson, Marcus Kohlberg, and Horia Jurcu ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html",
-      "originalUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/ladder_escape-100714285-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.amp.html",
-      "publishedDateTime": "2022-05-02T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

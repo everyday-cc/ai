@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T13:38:00Z
 originalUrl: "https://eandt.theiet.org/content/articles/2022/05/maverick-v-machine-are-ai-drones-ready-to-replace-real-life-pilots/"
 webUrl: "https://eandt.theiet.org/content/articles/2022/05/maverick-v-machine-are-ai-drones-ready-to-replace-real-life-pilots/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: IET

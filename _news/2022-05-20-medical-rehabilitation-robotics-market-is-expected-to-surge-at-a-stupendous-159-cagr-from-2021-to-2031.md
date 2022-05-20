@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T11:15:00Z
 originalUrl: "https://www.fmiblog.com/2022/05/20/medical-rehabilitation-robotics-market-is-expected-to-surge-at-a-stupendous-15-9-cagr-from-2021-to-2031-2/"
 webUrl: "https://www.fmiblog.com/2022/05/20/medical-rehabilitation-robotics-market-is-expected-to-surge-at-a-stupendous-15-9-cagr-from-2021-to-2031-2/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Future Market Insights

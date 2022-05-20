@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-02-21-the-best-robot-dinosaur-toy.md",
-      "title": "The best robot dinosaur toy",
-      "excerpt": "You'll see many robot dinosaur toys sold with a remote control. This technological tool ... The image that comes to mind when most people think of dinosaurs is a mighty roar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/consumer-reviews/sns-bestreviews-games-best-robot-toy-20220221-2zzwt3h5grhkpble7ltlzt5zbq-story.html",
-      "originalUrl": "https://www.nydailynews.com/consumer-reviews/sns-bestreviews-games-best-robot-toy-20220221-2zzwt3h5grhkpble7ltlzt5zbq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/umF2aZ6ABk--EEpHZHpPRZe6s6o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SDDOV7PNZVIOUQL2FX276RU4YU.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-20T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-20-kiva-allgood-interview-how-sarcos-is-bringing-industrial-robotics-and-exoskeletons-to-life.md",
       "title": "Kiva Allgood interview — How Sarcos is bringing industrial robotics and exoskeletons to life",
       "excerpt": "We’re using software and AI to understand force ... something more like a custom robot versus the same robot for everyone? Allgood: As we start to look at rolling in autonomy, that’s going ...",
@@ -1359,6 +1316,40 @@
       "provider": {
         "name": "Khaleej Times",
         "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-robots-and-being-spied-on-by-smart-technology-are-among-nations-new-fears.md",
+      "title": "Robots and being spied on by smart technology are among nation's new fears",
+      "excerpt": "To mark the launch of new psychological thriller TV The Fear Index; streaming service NOW reveals the nation’s biggest fears and how they control us. The digital age has replaced clowns ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.coventrytelegraph.net/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146",
+      "originalUrl": "https://www.coventrytelegraph.net/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Coventry Telegraph",
+        "domain": "coventrytelegraph.net",
         "images": null,
         "publishers": null,
         "authors": null

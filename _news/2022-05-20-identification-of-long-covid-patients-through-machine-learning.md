@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T11:48:00Z
 originalUrl: "https://www.news-medical.net/news/20220520/Identification-of-long-COVID-patients-through-machine-learning.aspx"
 webUrl: "https://www.news-medical.net/news/20220520/Identification-of-long-COVID-patients-through-machine-learning.aspx"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: News Medical
@@ -14,6 +17,47 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "AI models identify COVID-19 patients at the greatest risk of death, injury"
+    excerpt: "New artificial intelligence (AI) models can help doctors prioritize care by predicting which COVID-19 patients are most at risk of dying or developing kidney injuries during hospitalization."
+    publishedDateTime: 2022-05-16T20:21:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-patient.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Scientists use machine learning models to help identify long COVID patients"
+    excerpt: "Clinical scientists used machine learning (ML) models to explore de-identified electronic health record (EHR) data in the National COVID Cohort Collaborative (N3C), a National Institutes of Health-funded national clinical database,"
+    publishedDateTime: 2022-05-17T16:36:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/953020"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e08c1c1a-08ef-4b9f-8b33-6fdc4b78d028/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Machine learning can identify, potentially help patients with 'long-COVID'"
+    excerpt: "Researchers from Chapel Hill, N.C.-based UNC School of Medicine's machine learning models helped identify long-COVID patients, patients who had the virus for more than 28 days, by analyzing patterns in electronic health record data,"
+    publishedDateTime: 2022-05-17T21:18:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/machine-learning-can-identify-potentially-help-patients-with-long-covid.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 17
 
 secured: "4RHuSkNsdfM2ovpU0SHSrqUNYEmTvyTNHh7CFzpdI8Np/3EC96Ga7O5ySxjuirx5kcXGxj9mp7YZaF+a5uluzqAgqRh/CTwXnxMVuKiEnrbq54lJQzhjFOMSIzWPZ4mdXn7ctmfz2T0tgT3S127h1VZxzzGMsAFc5JKZ9BRraBkpMbd6d41Zk0zXxRoYWYkGa8q+bRud5/LIFib5bzpR3ofSN3MkcyBjV+5cn9DHfMcZi9sbM6T+5qwYxwdba1zaTyfOpN8ESrEH/JerwJP/iMg8sMaVa7wiMulkn+65OZdCgv3dGdbu9uw7vCRast7ysprcpw8URdz+J+lOcg/zA0aSdeUpAeM01oU+r9EIZ59suZwdxamKh6BlqcWbocRojx4i4XpLBe4Bf19A40D97+9lKMmG4LkCEDdGeugY5odKDbaZ4jAwRkDJR6gySo/GNfr2n6WWE9Tr1ZIeCSwhR74NAkdiTmzKFrF14XwXhbNlXOZZnzwspUagMwzCYbBqefEjUKrtfADOHs/A0KzY2A==;fD8Q/sF4XtZ4ts9brl1ZqQ=="
 ---

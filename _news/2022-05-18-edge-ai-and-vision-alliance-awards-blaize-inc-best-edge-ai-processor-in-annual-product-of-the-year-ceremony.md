@@ -19,29 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "Sequitur Labs EmSPARK Security Suite Wins 2022 Edge AI and Vision Alliance Product of the Year Award"
-    excerpt: "Sequitur Labs today announced that the company’s flagship IoT security platform, the EmSPARK Security Suite, has been named Best Edge AI Software Product of the Year in the annual Edge AI and Vision Alliance awards."
-    publishedDateTime: 2022-05-18T03:56:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-db7c2e9e7e4d43cf8590798e860ad599"
+  - title: "embedded news: edge AI and vision latest, plus more"
+    excerpt: "Other winners were: At the same event, in the 2022 Vision Tank competition, the annual startup competition showcasing best new ventures using visual AI and computer vision in their products, Hummingbirds AI won the judge’s choice award and Oculi won the ..."
+    publishedDateTime: 2022-05-20T13:20:00Z
+    webUrl: "https://www.embedded.com/embedded-news-edge-ai-and-vision-latest-plus-more/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
+      name: Embedded
+      domain: embedded.com
+    quality: 43
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.embedded.com/wp-content/uploads/2022/05/Immervision-Halodi_Eve.jpg"
+        width: 2560
+        height: 1854
         isCached: true
   - title: "Edge AI and Vision Alliance Announces 2022 Vision Tank Winners"
     excerpt: "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit."
-    publishedDateTime: 2022-05-19T03:57:00Z
-    webUrl: "https://fox59.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
+    publishedDateTime: 2022-05-19T06:57:00Z
+    webUrl: "https://fox40.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
     type: article
     provider:
-      name: FOX59 News
-      domain: fox59.com
-    quality: 19
+      name: FOX40
+      domain: fox40.com
+    quality: 39
+    images:
+      - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
+        width: 800
+        height: 328
+        isCached: true
 
 secured: "Jdinu73qAwFXwCIbaHW7WMqXy/jwes+izZQiIqsuPd3/GVD0RF0huELhABbVsCB5lUM7+Ydp7P2hFvxuVXw1nh0civj2Y0c4bwVWLk7QvGgzhAwBCLrQDgrEimMgMpShIu0mUdvu+BSg7a49oGV+GQBTwevPv1UIz8M38nYKbVnRfvoYBbDOw/zDYIa3ie9ZQy1D+moCLIYRpd7BtH98q9w00K7WOJTjKrdVoSHt9t/RAQQgA7w1Z7Tqw4IMTjFwLvNvOojiesxyKATmISZ3nc4WZwJ1ChO/y1v9oqsNwk0jxv/+W5GCMc2mf7YgHYExWbtbp4VDQ6/5+4zLB9s1J8oepoL332Cz/cuAmNEUW1Y=;PTfE+/xqg693YO/g5eet2Q=="
 ---

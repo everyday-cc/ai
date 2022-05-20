@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/skt-introd
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/skt-introduces-new-ai-service-a-44461/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: TelecomTV
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "VIDA Introduces New AI-Enabled Biomarker Services'"
-    excerpt: "Announced at the 2022 American Thoracic Society (ATS) International Conference, this suite of services empowers sponsors to leverage VIDA's unique AI-enabled biomarker generation services and ..."
-    publishedDateTime: 2022-05-15T23:03:00Z
-    webUrl: "https://menafn.com/1104215642/VIDA-Introduces-New-AI-Enabled-Biomarker-Services"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?204550"
-        width: 400
-        height: 250
-        isCached: true
   - title: "SK Telecom Launches New AI Service ‘A.’"
     excerpt: "SK Telecom on Monday announced that it launched an AI service named ‘A. (A dot)’ as an open beta version for Android on One"
     publishedDateTime: 2022-05-17T01:22:00Z

@@ -49,6 +49,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Identification of long COVID patients through machine learning"
+    excerpt: "In a recent study posted to Preprints with The Lancet*, researchers developed a machine learning approach to identify patients with long coronavirus disease (COVID). . Image Credit: Starocean/Shutterstock The post-acute sequelae of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection are called long COVID."
+    publishedDateTime: 2022-05-20T11:48:00Z
+    webUrl: "https://www.news-medical.net/news/20220520/Identification-of-long-COVID-patients-through-machine-learning.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 19
 
 secured: "zOrK9JtVLvfFrTyJk/te5w4ZRMl8PgOcCP0S4F7rmjEox05z9Gq9u4QnA7C/LuvsifNxh/gAsooxyancTlEFoLonHfIR5N/zMjh6MnaMcOs2ZxR+5qkti1pguI0XPa9w+gRGAn2Y1f30WuZ//B+zh7dH+fm9K2sy6wtmrfj/8MvsFFOuBVlosOaU+dVs+3MWjv8+rg+AHeJamj+qRY0Rd4B/tPLIlVoXKrzoDug+wmZ4qI6nwKS6/ymBpvgyC4e80PILQ/IAr7XmFZqE3OowzIcuFbT+rj6V570htZSZ6Vl+5pz7BfbSasQ0TNsaJA5hnLdP+6J/oR9eesebMilCvcsJ6IyrsGrWr8WpuZclSaA=;GlBl890mOd3298RQ1LGshA=="
 ---

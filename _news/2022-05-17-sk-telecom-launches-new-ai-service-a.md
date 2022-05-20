@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VIDA Introduces New AI-Enabled Biomarker Services'"
-    excerpt: "Announced at the 2022 American Thoracic Society (ATS) International Conference, this suite of services empowers sponsors to leverage VIDA's unique AI-enabled biomarker generation services and ..."
-    publishedDateTime: 2022-05-15T23:03:00Z
-    webUrl: "https://menafn.com/1104215642/VIDA-Introduces-New-AI-Enabled-Biomarker-Services"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?204550"
-        width: 400
-        height: 250
-        isCached: true
 
 secured: "BokH7+F6e4C2cGGaRhtHKO3q/ysopY/q9kwTcxRwyjM8Ol3gdr7UUtOHz39v+GqbnN6JZYYk9/DMzc4F8AawEWKhVI8OOEyVGikuWHT/zlG95ciDIH6WdhjzTnri/TACpVTkY1kWWcZ3luRe2kDxOfUkAEIVkHgqraKbeX7DWdzq4/C1Xt4WTc3JFs5Z9wsMfxujbxrBNA40zI335Jxcs4/K7jQMRks9XneBARplvyuqldstG3emHOYfLM78ecPPl1nGkuXncbmH37rADKSmqrQtFJ1mlE6Ta5PE8s7eNaMlOC6JUI9SY0agPimrKS2xaDTj8KiZWYxbPPVe5LpsAjGKPt7SpIAq9SBaG4RNBwmbjyfxQjC7JQdiLjpxlOntMQrkB02br3CFs9ME13PC3FD3EDf5NU69ll6mKtMJw0TBVg6wJy8t+xfvAno8U0vIxgWXXexFqMgqq4oPGaibbv/9RHCa93QNZHl7KdtDOpR70x5iNu45qN0vcd8KNgBJu6opCAK5IYEk5zYI21+asA==;voov5/Lrbfz7LptDzZaaPA=="
 ---

@@ -38,6 +38,15 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "VSBLTY REPORTS FIRST QUARTER 2022 FINANCIAL RESULTS"
+    excerpt: "VSBLTY Groupe Technologies Corp. (OTCQB: VSBGF) (CSE: VSBY) (Frankfurt 5VS) (“VSBLTY&CloseCurlyDoubleQuote;), a leading software provider of security and retail analytics technology, today announced its revenue for the first quarter of 2022 was $1."
+    publishedDateTime: 2022-05-20T12:01:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/05/20/vsblty-reports-first-quarter-2022-financial-results"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 4
 
 secured: "+92w7ZwZBL4SQGY9xdCKbY2Yn+aAyGQsxQ5DOOpCdL5WCZ0hxq9npwPvOgDKsr9VWJhvmSjYfbJ+q+y0eMt/Wcej0KLM5VK9eijnRO9MXvMvURVVcxq9AK/A9AefvmX49ORSod4iHxSg/Q3ZfAJrOmfkmhs+B4UnSZZVr6Fogap0EbswOVv35VczxSQRTxWJr4NNmkgDq83fFw6VcZLnvNeek6+LbjlZ9acUBtHyYDhiq3aXyIzlIdJmY9Ivp/dh/3dbxv+htaJlGJoGTFPUWPsIzNd6xbB8HVao71NI1Ve5ZIyxWMliFpEjvyE8S9I0oN9hnzmMobvJmv4SIuqQnnFRRDBaULhL9a9RAsJLWQM=;zT8t2Q+rbvRC9FmohexzaA=="
 ---

@@ -5,6 +5,8 @@ excerpt: "But the idea of a fully automated driving mode, where artificial intel
 publishedDateTime: 2022-05-11T06:48:00Z
 originalUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 webUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
+ampWebUrl: "https://theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "rEVfb0+oA61wn5dKwKK8by4TxrZujXqjYcH166NzsKaGfL0Pmd3So0yAYiIBBcAb+dCm1ZPC4u4r932HStlHb3n/ET+wdA6YybmHriqm9I28jUtIGwN8nteAOo9SNMnYnLtUWF2/x67j1z6I69Gs6VN6ILgxGp2Q8/gXZ11HVzpgT+FuPZCQ0DM/6KpqdWVJSJDVdFdraVSrGlsj7JqHA3gBWLlXW3N9BlxTgl2PCVVJtHPjztv9XV2F7zXM3JVSh6UCYmwF4aswak80k6bieJlaCPnqwUjJrakNfb92TsHITsfT1XSLthCmEhNM44MVy7dK5j3qR8CSYpKYq1lLRk/od67uRG8LgiE0BUdtjno=;wlrHLuxlMezcYayFpqGoFQ=="
+images:
+  - url: "https://images.theconversation.com/files/458038/original/file-20220413-10209-m9fr41.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
+    width: 320
+    height: 240
+    isCached: true
+
+secured: "Ac2L4RlQBYECmfONoUuDy2jItWHLFkWM+azmsXXkR6By4cSEOOYfYrb+5aua3fyxIHhSq5xgSvHTURu8K5rWXJ+BEah8oLmUHbDTCdBpLYR8RagegACxRpmyCWlPnjdK+7mPfhPTbokcqiY/RuNrp1vEGYcXVTw47AXIJBTr6sEjqLBZVPsvYgdgoTZ+X4af+GRVVVLY5yy8vjHYvKDHqguF8N0caZvGwjM9QfVNU4Xx7SKNfJJ6Tc9lw8CNlK9m6FmE7RR4RtFsBJasUi9jXFwQMhHZZxqbfmYNVsiNqU8DP9U/vUe4RFa8UlIBdjnRtBjwL1xhBXc/sGN7mh+RLOEsW+nYIG4nR+D99N14hrY=;hiuE3XX/sBYlpoKaZp4XGw=="
 ---
 

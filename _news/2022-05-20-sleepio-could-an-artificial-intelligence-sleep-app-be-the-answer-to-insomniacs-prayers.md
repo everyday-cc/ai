@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tech Digest daily roundup: Could AI sleep app end insomnia?"
+    excerpt: "A new artificial intelligence sleep app has been developed that might be able to replace sleeping pills for insomnia sufferers."
+    publishedDateTime: 2022-05-20T15:53:00Z
+    webUrl: "https://www.techdigest.tv/2022/05/tech-digest-daily-roundup-could-ai-sleep-app-end-insomnia.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 39
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2021/03/sleep1.png"
+        width: 974
+        height: 650
+        isCached: true
   - title: "Artificial Intelligence Sleep App May Mean An End To Sleeping Pills For Insomniacs"
     excerpt: "Up to 800,000 people in England could benefit from the £45 app which can work through wearable devices like the Apple watch."
     publishedDateTime: 2022-05-20T08:46:00Z

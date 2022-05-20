@@ -157,7 +157,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026-2022-05-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": 297,
       "tags": null,
       "images": [
         {
@@ -273,6 +273,49 @@
       "provider": {
         "name": "theregister",
         "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-15-facial-recognition-surveillance-is-a-threat-to-civil-liberties.md",
+      "title": "Facial recognition surveillance is a threat to civil liberties",
+      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "originalUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailynews.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
+      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
+      "publishedDateTime": "2022-05-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Daily News",
+        "domain": "dailynews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1395,49 +1438,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-computer-vision-as-a-solution-to-safety-challenges-in-industrial-facilities.md",
-      "title": "Computer Vision As A Solution To Safety Challenges In Industrial Facilities",
-      "excerpt": "In this article, we will discuss how to apply computer vision technology to detect safety hazards in industrial facilities, such as factories and logistic centers, in order to prevent human ...",
-      "sourceUrl": null,
-      "webUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
-      "originalUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ohsonline.com/-/media/OHS/OHS/Images/2022/05/computer-vision.jpg",
-          "width": 620,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ohsonline.com",
-        "domain": "ohsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

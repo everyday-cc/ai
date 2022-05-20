@@ -23,6 +23,17 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market to enjoy explosive growth | Aboard Software, Analytical Flavor Systems, Deepnify, etc."
+    excerpt: "Impact Analysis on the Growth of Artificial Intelligence (AI) in Food and Beverage Market The global artificial intelligence in food & beverages"
+    publishedDateTime: 2022-05-20T10:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-food-and-beverage-market-to-enjoy-explosive-growth-aboard-software-analytical-flavor-systems-deepnify-etc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+
 secured: "1Z0tpRf9rXv+KIXk5W2b19HiHkQqEqLskZsWHn79Yr7YW4LJ3DwX2J3UBgUjr0QZzoXSk/YtyRZEJAuxiJ6G+jOy6GHJ3MlRzluChQy6eiSBNqH4p1kQBAygwUBivX9x48NYizgU8IafRL51LatYOyhlLV9Mdqoma9rden92BJo8acNOBSCZxsuQWfGKGRbzCzPR2B+LQ7JobFBHLLGc1ArJ11izx9i0iyex2vaKkf2RF1enyiZ9KE5pSQv6GgpRT8KoAAb3oRENdqCMQEyRQvBXg/edd4V1pccp+sGcsxHmfENXz4haPZoAIgKdz2hmK+IGJII70FLLfHVBIukeF4BYXT1NB/UYNHGLuB3rkRM=;uMV+8z8s4Z6p51WiZda1Zg=="
 ---
 

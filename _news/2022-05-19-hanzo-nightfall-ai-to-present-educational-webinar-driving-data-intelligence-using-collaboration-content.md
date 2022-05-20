@@ -23,6 +23,22 @@ images:
     height: 340
     isCached: true
 
+related:
+  - title: "Intelligent Automation, AI & Operational Excellence Leader Joins Process Intelligence Platform Leader Skan"
+    excerpt: "Skan, a leader in the Process Intelligence solution industry that provides unprecedented insights into how organizations get work done, has appointed Vinaykumar (Vinay) Mummigatti as Executive Vice President of Strategy and Customer Transformation."
+    publishedDateTime: 2022-05-20T15:15:00Z
+    webUrl: "https://www.fox46.com/business/press-releases/cision/20220520SF64075/intelligent-automation-ai-operational-excellence-leader-joins-process-intelligence-platform-leader-skan/"
+    type: article
+    provider:
+      name: fox46
+      domain: fox46.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1822132/Vinay.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "21eIOevGhBHu0Bov8T8Y0nz2p0uyhZ6jB3lct3mWFBGTFoCWSr2hdCLQKGdmbDVopPF3US2ntSu+wCsnCX4qp1FKZ+j8fWm7LwhhpEWOBUzMlQZcOcXqTV9B5rgJmX5aG0ni+LAaXQU59MsKRspZbP2NN35V5UhWh6n7ZJe9G9iHsOf0CvnaWToJgx0kxAGtLlTyUv677mtEbJoUn0nrKPAFqqpzAboGzPy5iPrdnrTVroNtOIR2sOJ357bmi031KP27eO5YrMbVLalYdnXpPFGDG3ZvZIXnz6p6efuZJCAGYt55eu9iODyXEE+mvTCvmaINc1ULMLpy8U3OLwt0RroBAAnrqt2ETdN7Skwy14U=;1kQsbn6QXILmC4+Ybjq+UQ=="
 ---
 

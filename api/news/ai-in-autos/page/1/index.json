@@ -500,20 +500,20 @@
     },
     {
       "path": "_news/2022-05-12-google-offers-a-more-modest-vision-of-the-future.md",
-      "title": "Google offers a more modest vision of the future",
-      "excerpt": "There was a time when Google offered a wondrous vision of the future, with driverless cars ... The company’s biggest bet in artificial intelligence does not, at least for now, mean science ...",
+      "title": "Google Offers a More Modest Vision of the Future",
+      "excerpt": "Artificial intelligence is being woven into an array ... a time when Google offered a wondrous vision of the future, with driverless cars, augmented-reality eyewear, unlimited storage of emails ...",
       "sourceUrl": null,
-      "webUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
-      "originalUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
+      "webUrl": "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2021/01/17/whatsapp-changes-170121-01.jpg/BINARY/whatsapp-changes-170121-01.jpg",
-          "width": 640,
-          "height": 400,
+          "url": "https://static01.nyt.com/images/2022/05/11/multimedia/11economy-briefing-google/11economy-briefing-google-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -521,14 +521,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/technology/2059713",
-      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2059713",
-      "publishedDateTime": "2022-05-11T23:12:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/11/technology/google-conference-ai.amp.html",
+      "publishedDateTime": "2022-05-11T15:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "bdnews24",
-        "domain": "bdnews24.com",
-        "images": null,
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1262,6 +1271,40 @@
       ]
     },
     {
+      "path": "_news/2022-05-06-automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53118-mn-by-2030-exclusive-report-by-acumen-research-and-consulting.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Revenue to Surpass US$ 53,118 Mn By 2030 – Exclusive Report By Acumen Research And Consulting",
+      "excerpt": "Artificial intelligence will have a huge impact on ... and electric vehicles in the US and the presence of many AI and self-driving car companies in the region. Then again, the Europe region ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g27039451/automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53-118-mn-by-2030-exclusive-rep",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g27039451/automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53-118-mn-by-2030-exclusive-rep",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27039451",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27039451",
+      "publishedDateTime": "2022-05-05T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars.md",
       "title": "AI Ethics Is Especially Vexed By That AI Confinement Problem, Including The Knotty Particulars For Confining Autonomous Self-Driving Cars",
       "excerpt": "The AI Confinement Problem is a vexing issue and one that AI Ethics is pushing mightily to solve. We discuss why this is such a tough challenge, along with showcasing examples via the advent of AI-based self-driving cars.",
@@ -1356,60 +1399,6 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-robots-are-the-key-to-advancing-artificial-intelligence.md",
-      "title": "Robots Are The Key To Advancing Artificial Intelligence",
-      "excerpt": "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-05-04T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

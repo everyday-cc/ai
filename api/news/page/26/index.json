@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-04-26-8-current-and-future-trends-in-financial-services.md",
+      "title": "8 Current And Future Trends In Financial Services",
+      "excerpt": "Trends in financial services are shifting more towards digital systems because of convenience and lower costs. Like most sectors, banking and finances are",
+      "sourceUrl": null,
+      "webUrl": "https://www.techshout.com/current-and-future-trends-in-financial-services/",
+      "originalUrl": "https://www.techshout.com/current-and-future-trends-in-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techshout.com/wp-content/uploads/2019/02/bitcoin.jpg",
+          "width": 720,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechShout",
+        "domain": "techshout.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-the-other-ai-augmented-intelligence.md",
       "title": "The Other AI: Augmented Intelligence",
       "excerpt": "Augmented intelligence is empowering organizations with resources that impact ease, effectiveness and emotion for customers and employees that move traditional measures and CSAT in new ways. One type of augmented intelligence,",
@@ -1049,48 +1092,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-25T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-renderedai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content.md",
-      "title": "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content",
-      "excerpt": "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training. BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rend",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-ac573258ce746927b32b80f381d92a85",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-ac573258ce746927b32b80f381d92a85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T11:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",

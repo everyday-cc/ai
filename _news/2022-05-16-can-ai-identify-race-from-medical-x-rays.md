@@ -42,6 +42,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Artificial intelligence predicts patients' race from their medical images"
+    excerpt: "The miseducation of algorithms is a critical problem; when artificial intelligence mirrors ... and engineers are not enough. Health care is a social-cultural problem just as much as it's a medical ..."
+    publishedDateTime: 2022-05-20T13:39:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-patients-medical-images.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 18
 
 secured: "SmD608jcYWorBBc47XRjylkSrE8lTxukdqCk8qeu07U2maune66KxEULTfT3nOlCX1Bzg5NjIHkbfeC6P3+P7oFZPxAsezIi00+X+KSPaPBPhGcq/01cJgH5NrXoWjNhLk1dROsh24DY7uZpKs5FWFXKBOg88jUG32FY/MhsEZ1kvq1AGXeZWMsE7smEwtJVDSfq0dp2a5TSLvFiiq028HWHoZGm3XjojUn+CH3krTCxQsyxp3odMo1QnrknWEVDJhnE1PC++q7FK5yfOPjaORuJ6rtjbaqMZH+cHt3aau5y52zLBNWbMS0lPdFoumH5NJjZPwvpqLgh8whYo+q790mhNIjTnjHCWFx1r5XunV8Pak6r4MYbJd60ALyMFcv78fPYu8GY9OxQw0MyMVGleDjkjktkQK8x20R/nQfgSkxEHSr8TyYAm7yXE7QZmPRVKzJHaBTSGdih/NMR6Nxm6ntUdxaChgYfTQb9xD23upwra0d07b4B0XQObqlKu0FCfWmeU7x42dMG2+hjLfhyAg==;4A00GbaaqwY6jCAJzfb2kA=="
 ---

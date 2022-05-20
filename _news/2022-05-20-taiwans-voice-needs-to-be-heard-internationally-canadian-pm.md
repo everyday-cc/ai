@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T13:16:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272558922/taiwan-voice-needs-to-be-heard-internationally-canadian-pm"
 webUrl: "https://www.bignewsnetwork.com/news/272558922/taiwan-voice-needs-to-be-heard-internationally-canadian-pm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Big News Network.com

@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 618
         isCached: true
+  - title: "Artificial Intelligence in IoT Market 2022 Report Covers Top Key Players Profiling – AWS, Oracle, Thingstel, Microsoft, Arundo, Uptake"
+    excerpt: "The recent report on “Artificial Intelligence in IoT Market” offered by Credible Markets, comprises of a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business."
+    publishedDateTime: 2022-05-19T00:00:00Z
+    webUrl: "https://xaralite.com/115478/business/artificial-intelligence-in-iot-market-2022-report-covers-top-key-players-profiling-aws-oracle-thingstel-microsoft-arundo-uptake/"
+    type: article
+    provider:
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 39
+    images:
+      - url: "http://redskins101.com/wp-content/uploads/2022/05/116-1024x618.jpg"
+        width: 1024
+        height: 618
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Agriculture Market 2022 by Top Players List: IBM, Intel, Microsoft, SAP, Agribotix, etc…"
     excerpt: "With all the current and future difficulties of the industry, the Global Artificial Intelligence (AI) in Agriculture Market trends and approaches are examined. The competitive character of the industry,"
     publishedDateTime: 2022-05-19T12:19:00Z

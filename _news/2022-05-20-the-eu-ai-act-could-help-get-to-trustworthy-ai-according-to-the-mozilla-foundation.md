@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T12:09:00Z
 originalUrl: "https://www.zdnet.com/article/the-eu-ai-act-could-help-get-to-trustworthy-ai-according-to-the-mozilla-foundation/"
 webUrl: "https://www.zdnet.com/article/the-eu-ai-act-could-help-get-to-trustworthy-ai-according-to-the-mozilla-foundation/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: ZDNet

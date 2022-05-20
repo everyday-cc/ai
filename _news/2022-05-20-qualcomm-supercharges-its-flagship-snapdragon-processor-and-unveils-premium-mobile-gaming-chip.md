@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/marcochiappetta/2022/05/20/qualcomm-supercharges-its-flagship-snapdragon-processor-and-unveils-premium-mobile-gaming-chip/"
 webUrl: "https://www.forbes.com/sites/marcochiappetta/2022/05/20/qualcomm-supercharges-its-flagship-snapdragon-processor-and-unveils-premium-mobile-gaming-chip/"
 type: article
+quality: 37
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Qualcomm Takes the Lid Off Its New Flagship Smartphone Chips and AR Headset"
+    excerpt: "Qualcomm Qualcomm has announced the next batch of mobile chips coming to smartphones, tablets, and the AR curious. The company revealed the Snapdragon 8+ Gen 1, a bump up to the current processor used in the latest Android flagships."
+    publishedDateTime: 2022-05-20T12:00:00Z
+    webUrl: "https://gizmodo.com/qualcomms-new-snapdragon-smartphone-chips-and-ar-headse-1848951360"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
 
 secured: "91pJm/GuL1elljaiG5WUptlmep8SPY0kbOP7FUxQr9sfn17/qypVenQininpISYidW/IOv1gMWgJttsHJmwHCv9UP4q1buja2XGyY6oZxq5f+JCw9PX4VlJHqPwlOeWrCP4tY67iG0CATQyNIuCLO3mJ6r9QbO2zyljv0gLvQAaNZJeoro379LGZq2WPZlK+2NkPqacod0SVnCH49R8+vRvwDHUZRtaKOZhYzdO09M2PVgpL0QsIdISy7zs1atg+izfZOtnZNiz8bLih0QWlLwwjBLX8hp+6HuwmZukcco8Jl6AFJQBEri3MmwdovbRArGOyhIflIJ45w8yUE4GPaFHZ9hBbDV8fYY5179W5WUpDaaW5joQxXG1/77Sd+cBKHzzHDRn/lCGt+sA0DfRbobex3q3MRss7NJoYiVAD6EIO6d5TJR4XgR5KhujqKkQ9ZFfR/ytFJbky4Z0yxdHvxUXqd6Y+JHUGI0RblCE3A1IPFTefOkT7e/vLEcNe2jigg6o22HosYZYOQ6mjy8Q6Uw==;EVFSyrqjFvPsZeTpGI44VA=="
 ---

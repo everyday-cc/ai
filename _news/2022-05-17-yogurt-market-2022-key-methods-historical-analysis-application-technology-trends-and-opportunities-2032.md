@@ -137,6 +137,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Face Recognition Software Market Size, Growth, Share, Leading Company Analysis, And Key Country Forecast to 2022-2028"
+    excerpt: "Global “Face Recognition Software Market” Report Size, and analysis maintains detailed dynamics and is over shadowed by"
+    publishedDateTime: 2022-05-19T09:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-growth-share-leading-company-analysis-and-key-country-forecast-to-2022-2028-2022-05-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Far-field Speech Recognition Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
     excerpt: "Far-field Speech Recognition Market (US, Europe, Asia-Pacific) 2022 Global Industry Market research report gives"
     publishedDateTime: 2022-05-17T06:02:00Z
@@ -206,6 +215,15 @@ related:
       name: xaralite.com
       domain: xaralite.com
     quality: 19
+  - title: "Self-Driving Taxi Market Growth 2022 Share, Size, Landscape, Top Key Players, Strategies and Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Self-Driving Taxi Market” report"
+    publishedDateTime: 2022-05-20T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-growth-2022-share-size-landscape-top-key-players-strategies-and-forecast-to-2028-2022-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
   - title: "Artificial Intelligence In Military Market Latest Revenue Data, Growth Drivers 2022 – SAIC, Raytheon, BAE Systems, SparkCognition, etc"
     excerpt: "Making business decisions in today’s evolving global Artificial Intelligence In Military market is challenging. It needs insights on when, how, and where to act. Artificial Intelligence In Military report has conducted in-depth market research providing reliable information about the market to you."
     publishedDateTime: 2022-05-16T04:47:00Z
@@ -274,6 +292,15 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
+    quality: 0
+  - title: "Artificial Intelligence In Transportation Market Technology, Applications, Demand, Growth Factors And Forecast To 2028"
+    excerpt: "Get a sample of the Artificial Intelligence in Transportation Market report @ Some Key Highlights in the Report In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for ..."
+    publishedDateTime: 2022-05-20T12:59:00Z
+    webUrl: "https://menafn.com/1104247482/Artificial-Intelligence-In-Transportation-Market-Technology-Applications-Demand-Growth-Factors-And-Forecast-To-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 0
 
 secured: "ASgw65rFHw3+HOsqrLndk14Gm1BFp/mVMerPQZTG0gTAVa1NyoyVprd3FaDldP5C/6PEBs4w80li5vklUu3vxcDTXhvyyZe1Jw85HtGSDl8Eml86sPJVzE+TB6IBcM+JKb8Si+Q///lJrx3jXXbuWL1Y8Zn0LCiU/vfjSqy0Iyoc+I8cTALc2SBecnWPYLdY9Xg9/cM5ZVHyYWCrJOHExZqZV5MMIhFjO+8LzxQd6wpTpPVKXnF73qgKaID4v2OK0uiHFErxwNK4fIArkpTzb42NykUAXazSmZk8H7WNzzL/ukBfymSxJfisADjtyA4WLp3StcA9qZhUdkKgJDTg1Lxk7VQeSPmW8HNgz9NatTE=;8fD8strQFZT+ktiF5tO5eQ=="

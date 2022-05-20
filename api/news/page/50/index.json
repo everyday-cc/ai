@@ -2,6 +2,40 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-04-05-fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce.md",
+      "title": "fabric Recognized as a Strong Performer in 2022 Gartner Peer Insights™ ‘Voice of the Customer’ Report for Digital Commerce",
+      "excerpt": "Headless commerce platform received highest overall rating by customers across the Gartner Peer Insights™ Digital Commerce report. SEATTLE , April 5, 2022 /PRNewswire/ -- fabric",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence.md",
       "title": "Overwatch raises $11M for airborne imaging systems with built-in artificial intelligence",
       "excerpt": "I look forward to working closely with them as we quickly scale our company to support the brave men and women worldwide who rely on intelligence from our systems.” Squandra Ventures managing partner Guy Filippelli and Shield Capital managing partner Raj ...",
@@ -1057,58 +1091,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-interpret-caller-input-using-grammar-slot-types-in-amazon-lex.md",
-      "title": "Interpret caller input using grammar slot types in Amazon Lex",
-      "excerpt": "Customer service calls require customer agents to have the customer’s account information to process the caller’s request. For example, to provide a status on an insurance claim, the support agent needs policy holder information such as the policy ID and claim number. Such information is often collected",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/interpret-caller-input-using-grammar-slot-types-in-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/interpret-caller-input-using-grammar-slot-types-in-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T09:45:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

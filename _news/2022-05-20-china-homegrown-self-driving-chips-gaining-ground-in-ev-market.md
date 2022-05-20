@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T06:30:00Z
 originalUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=10"
 webUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=10"
 type: article
+quality: 39
+heat: -1
+published: false
 
 provider:
   name: Digi Times
@@ -15,6 +18,42 @@ topics:
   - AI in Autos
   - AI
 
-secured: "LOGbCSMWfnN/9St8NC1VeFhzWlVv+QJMyHjy3Q6Lud8zZf3tMQg6+xM7q06IMByCVWpVzOEV4HVIzbBwXLM+YbinPAC0IQt9Sgh/1y3hrNdUYVepLexgcvn7MYYn6rdVLA5jCEAvGoueTyD5o4UrnHz0Ke14sSATFA9qSW8zdNj8H9y7rQG5YTyy08cP/z11jdeAmX6oPfYmXfoCRh4vV9X0J4JcpZvo55XFqC2xh4dtOV2JS9o4z0Zuo4lvqKbZzytBcGwZYCLwCvNjRqFVK8KaCgKCch6pa1b0Cw/q3rN768PZnQGs04YLqk4nCQySzZ1Zj8aq0+IbzVkneUXmZkGe0cvwDSTJ5ER3GVvBv3EFengxyIPIOSswWM00L/45GCZDIMikk9LCxrr0qDDXyQWgVCQhI9wv5AFaqxZ/Xc5GKUpdcyYvBb/tOtBCE6IUEcokewbMbDxDkIzch9hx5fPd3T+NyXQ9gQAsWr0ot5SVYoHuYnbC5J4hbvl0W01FEEpv5SzbAs31XY/mJXi6Og==;/+diKJ0i6FZD+n1aSqSgRg=="
+images:
+  - url: "https://img.digitimes.com/newsshow/20220520pd201_files/1_2b.jpg"
+    width: 1280
+    height: 853
+    isCached: true
+
+related:
+  - title: "Emergence of Self-Driving Cars Drives the Growth in Machine Learning Market"
+    excerpt: "Besides, extensive investment in artificial intelligence worldwide is expected to boost the growth of the market. The report analyzes the global machine learning market and provides estimates in terms of revenue (US$ Bn) from 2018 to 2030. Exponential ..."
+    publishedDateTime: 2022-05-17T09:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market%EF%BF%BC"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Mining Market: Top Driving Factors That Could Escalate Market Growth Worldwide, Report"
+    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources to reduce waste drives the growth of the market. In addition, autonomous mining equipment equipped ..."
+    publishedDateTime: 2022-05-19T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-top-driving-factors-that-could-escalate-market-growth-worldwide-report"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+
+secured: "DAOg+3YntDJ0pG6Bu58vq2m0h0g0SkXxMSPkxDgbF4l37j6ty+0zbwATTR9Q7tTYaSExcB1NNqFfi4O9nwLJvjgFkbRP/+tP3ohXLhYoSLwunud/MFyOSQUUIS4rA2dHrwkldsg/R6oB191ZfG5x8f4y4qYB5MxgpDc9f3lOc8osP2V7z+9rf3Jp0Pk68tR715fVE4pjg3VrnuhAcwuZ7Nr2J47D25LQAt6uuilCoaXeL1khoUb2cq7CkW3Tek38J4GLdgCmwyoYBSbjDtIdIg4OxqoNBNE+8wS0TYE3CoI4Pqgk67yBA7t87R+N22StwucBEnE5humytGJbP9IdwvZQtWiYjm/ZIPQLG92gOzE=;f4nF11yRdkzxybTME26JrA=="
 ---
 

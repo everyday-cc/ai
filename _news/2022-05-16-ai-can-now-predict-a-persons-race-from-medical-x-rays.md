@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-c
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-can-now-predict-persons-race-medical-x-rays?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Psychology Today
@@ -42,6 +42,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Artificial intelligence predicts patients' race from their medical images"
+    excerpt: "The miseducation of algorithms is a critical problem; when artificial intelligence mirrors ... and engineers are not enough. Health care is a social-cultural problem just as much as it's a medical ..."
+    publishedDateTime: 2022-05-20T13:39:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-patients-medical-images.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 18
 
 secured: "A60a2RBiWZpuoHSzqNRd8Nmutu3NmqCLi9gjkIwm+0Q57p6sRM5VYDjEGhV9yL0oHUo6EtP3moLcEY7OeOZzBndiOIXRwdXEJJYxww9ARRJHsLkqrdVOb3EtsdYiwg0kKZGcOD1XXBrtWgLTcJO81FIIkU30p9GKdzVXxWpBVXo1PDdItQvokfHwu3Dd7Mjc/xcFaNVrOmSXw4j6w/OnnqHwf7zTbF9WpDkf+KrOJM7Sxgq40JFDZWuIgceIT4INBQeKVtwBGwETkEJbdDtnnEXEBJUj3JynXJJf1gwtEfQjqzqufYPWwDmzf1XfYAyFjucIvm7tN9J8SMZuNE2IVdpogIrly1xulIoI2Kz3Bws=;CU53DT51X5ZZRtldhxSPZg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T12:30:00Z
 originalUrl: "https://www.businesswireindia.com/ai-in-crypto-platform-cryptosmartlife-set-to-simplify-crypto-investing-in-india-with-thematic-coin-baskets-78913.html"
 webUrl: "https://www.businesswireindia.com/ai-in-crypto-platform-cryptosmartlife-set-to-simplify-crypto-investing-in-india-with-thematic-coin-baskets-78913.html"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Business Wire
@@ -13,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "UYS Scuti Trading Robots Provide Investors with Comprehensive Experience with Crypto Trading"
+    excerpt: "Digital assets trading is already a 24/7 global market with the market value of hundreds of billions of dollars. Therefore, it is vital for companies to reform their system and get ready for the incoming opportunities."
+    publishedDateTime: 2022-05-17T13:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-5-17-uys-scuti-trading-robots-provide-investors-with-comprehensive-experience-with-crypto-trading"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 8
 
 secured: "WI56uOMAQZOA5hraamiRYbYxfgiLBs5Rr6Ktv86oruIawDMh2awcOglTdykMnoKWC+/IAizcLsnHHNy/LwhDWWTMxRnU2/WhOE3zya8gT+y2Q0/kXvYSQ3AXDPei9WjFX/kNCZbNgMrgNSW0CciC4Sasl94Se0M+NXH9bOdCWrSC+OwxMq/z8JsKSBrZrp0YzOpg4H44alfuer/T05NfyJP5Rru/Nbl5TxKQzwB6bCVAfSoqjUAH4IghFaCH96+SpP7ttCerfZewCy94uX+DRIDlJmu0EB2mxDAiBCmsip6F3E9NOmJ7/nQ7xKHs1Y9VRGrJpDyYhOsKij5/mxL4K4pnS/evA2W1pL2zv4ZuAsA=;a/0juFUdWklBwqsvfeNtnA=="
 ---

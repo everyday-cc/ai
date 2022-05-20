@@ -59,22 +59,6 @@ related:
         width: 680
         height: 382
         isCached: true
-  - title: "Curious Thing’s voice AI communication platform asks the right questions"
-    excerpt: "Sydney-based Curious Thing is an aptly-named startup. The voice AI communication platform can call people and ask them questions like “How are you feeling today?” and then follow up with ..."
-    publishedDateTime: 2022-05-15T20:00:00Z
-    webUrl: "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/"
-    ampWebUrl: "https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/FounderShoot-2.jpg"
-        width: 5529
-        height: 3691
-        isCached: true
   - title: "No-code bot platform E42 launches marketplace for businesses to hire AI employee"
     excerpt: "The marketplace will be a store for E42’s own clients to put up their own AI bots, which can then be licensed or hired by other businesses to deploy on their own services"
     publishedDateTime: 2022-05-19T11:04:00Z

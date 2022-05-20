@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-05-17-argo-ai-begins-driverless-testing-in-austin-and-miami.md",
-      "title": "Argo AI Begins Driverless Testing In Austin And Miami",
-      "excerpt": "Argo AI, the Pittsburgh, Pennsylvania-based automated driving company majority owned by Ford and Volkswagen has just begun its first driverless testing on public roads in Miami and Austin. This milestone comes about five and a half years after the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
-      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62839ea0171c859a3a9cfd95/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
-      "publishedDateTime": "2022-05-17T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-17-tractian-which-uses-ai-to-monitor-industrial-equipment-raises-15m.md",
       "title": "Tractian, which uses AI to monitor industrial equipment, raises $15M",
       "excerpt": "Tractian, a startup developing a product to monitor the ... which Marinelli says is patent pending in the U.S., uses AI to identify mechanical problems a machine might be having by analyzing ...",
@@ -113,7 +61,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -260,7 +208,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -467,7 +415,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026-2022-05-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": 297,
       "tags": null,
       "images": [
         {
@@ -1045,7 +993,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1223,6 +1171,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-finding-ais-low-hanging-fruit.md",
+      "title": "Finding AI’s low-hanging fruit",
+      "excerpt": "In some circles, the idea of going smaller with AI is catching on. Instead of a complete forklift upgrade across the entire business process, it’s better to do the easy stuff first.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/",
+      "originalUrl": "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1219474321.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/",
+      "publishedDateTime": "2022-05-16T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

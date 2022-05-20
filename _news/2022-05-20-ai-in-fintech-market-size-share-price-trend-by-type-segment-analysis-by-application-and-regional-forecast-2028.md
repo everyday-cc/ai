@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-20T11:33:00Z
 originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-share-price-trend-by-type-segment-analysis-by-application-and-regional-forecast-2028-2022-05-20"
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-share-price-trend-by-type-segment-analysis-by-application-and-regional-forecast-2028-2022-05-20"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/393913cdf506e6a535563a5c8f38b15fbfae676d-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
-    excerpt: "Emphasizing the uniqueness of the platform, the Chief Digital Officer, Mr. Utpal Chakraborty, a known name in the AI & FinTech industry, mentioned â€“ \"The FinoAllied platform stands out in ..."
-    publishedDateTime: 2022-05-15T22:39:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1253827&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1816599/FinoAllied_Conversational_Banking_Platform_Award.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Titan Capital Markets Releases Key Analysis of AI Market Outlook And Trends For 2022"
     excerpt: "TITAN CAPITAL MARKETS PTY LTD, an AFSL-licensed and ASIC-regulated integrated educational financial group in Australia that helps members to improve their financial thinking and forex trading skills through extensive online and offline financial education courses and systematic social trading training programs,"

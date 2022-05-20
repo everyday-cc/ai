@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T10:00:00Z
 originalUrl: "https://thebulletin.org/2022/05/is-your-face-gay-conservative-criminal-ai-researchers-are-asking-the-wrong-questions/"
 webUrl: "https://thebulletin.org/2022/05/is-your-face-gay-conservative-criminal-ai-researchers-are-asking-the-wrong-questions/"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Bulletin of the Atomic Scientists

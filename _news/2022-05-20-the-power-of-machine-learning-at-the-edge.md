@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/20/the-power-of-machine-learning-at-the-edge/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/20/the-power-of-machine-learning-at-the-edge/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

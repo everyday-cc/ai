@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service Market foresee scrutiny and Demand with predict recapitulation To 2025"
+    excerpt: "Global Machine Learning as a Service Market Report by Market Study report scrutinizes the overall market synopsis globally, their restraining factors, drivers, major challenges, opportunities, latest trends to stabilize the global Machine Learning as a Service market situation,"
+    publishedDateTime: 2022-05-20T13:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-foresee-scrutiny-and-demand-with-predict-recapitulation-to-2025-2022-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Computer Vision Market Research Report, Growth Trends and Competitive Analysis During 2017-2025"
     excerpt: "Snapshot The global artificial intelligence (AI) in computer vision market is anticipated to rely on certain factors"
     publishedDateTime: 2022-05-19T05:49:00Z

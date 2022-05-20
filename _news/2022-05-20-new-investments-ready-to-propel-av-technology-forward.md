@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T13:00:00Z
 originalUrl: "https://www.nasdaq.com/articles/new-investments-ready-to-propel-av-technology-forward"
 webUrl: "https://www.nasdaq.com/articles/new-investments-ready-to-propel-av-technology-forward"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

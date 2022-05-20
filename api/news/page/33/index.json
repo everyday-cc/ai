@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-04-19-cheap-robot-vacuums-roomba-shark-robovacs-on-sale-from-180.md",
+      "title": "Cheap robot vacuums: Roomba, Shark robovacs on sale from $180",
+      "excerpt": "If you're on the hunt for a robot vacuum, you should take advantage of Best Buy's offers for various models from iRobot's Roomba and Shark, starting at $180.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/",
+      "originalUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/iroomba-s9-best-robot-vacs-1.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/?amp",
+      "publishedDateTime": "2022-04-19T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-can-human-centered-mlops-help-ai-live-up-to-hype.md",
       "title": "Can human-centered MLOps help AI live up to hype?",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! The concept of “human-centered AI” has permeated the artificial intelligence zeitgeist over the past couple of years.",
@@ -1053,40 +1105,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-microsoft-azure-uae-regions-launches-four-new-key-services.md",
-      "title": "Microsoft Azure UAE Regions launches four new key services",
-      "excerpt": "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE regions. These latest services mean that regional Microsoft Cloud customers now have access to almost all of Azure’s tools,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-uae-regions-launches-four-new-key-services-b3b680ui",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-uae-regions-launches-four-new-key-services-b3b680ui",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

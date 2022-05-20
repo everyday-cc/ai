@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T13:20:00Z
 originalUrl: "https://www.embedded.com/embedded-news-edge-ai-and-vision-latest-plus-more/"
 webUrl: "https://www.embedded.com/embedded-news-edge-ai-and-vision-latest-plus-more/"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Embedded
@@ -15,7 +18,39 @@ topics:
   - Computer Vision
   - AI
   - AI Hardware
+  - AI in Robotics
 
-secured: "4CeDqDatsKnZFzZ6V7Y3+myEFRbWNvlDBUnEwsv/IVbUupLAdtf571Ap37bHq0Y36aJNQmE7cItUwPhjW1Br25DZWW8PIkP5ozPUHHKh9VEVubT0HuUOIBycJ1QCqXQXIElZfrr/AM9rEDoL7jzkFDO8+pJUUkhDezlEKyACKsvnwpNGzoMd7XTCtbXzbyMDzaVL1mUQurGb4my1BBXxPpct+a3yZ/I/xmoaL+8ezCo42vgaRO3SZAPyYnNntffFCsmHRWCsvrTA5Qn/ctSKimelil6zqMtIbdQcqR6i+nFg8a4iqQh1iHurAn0PDUv5178Cu3kuy2ybXgGJaUhGjy//11HhiRMbe7TtGbTcXlGislF5rnbYVd0bSWqh75tg9C0LK5SPvf7Gj7ZhN5e4yODDiKoiIqWyP7B91nreFW4fNOyRVMtYUnZlw1bndJm/vI70pWLV2xEXy5KfeAxHiBFJPHplTFfY9JX0dK2uMGWdk5RkJDWq3LgDfPHb3Oz5TMILMAUbaQ6uwBG3cs+/BA==;biCJjDUxxZCYoMFgT3ydiQ=="
+images:
+  - url: "https://www.embedded.com/wp-content/uploads/2022/05/Immervision-Halodi_Eve.jpg"
+    width: 2560
+    height: 1854
+    isCached: true
+
+related:
+  - title: "Edge AI and Vision Alliance Announces 2022 Vision Tank Winners"
+    excerpt: "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit."
+    publishedDateTime: 2022-05-19T06:57:00Z
+    webUrl: "https://fox40.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
+    type: article
+    provider:
+      name: FOX40
+      domain: fox40.com
+    quality: 39
+    images:
+      - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
+        width: 800
+        height: 328
+        isCached: true
+  - title: "Edge AI and Vision Alliance awards Blaize®, Inc., Best Edge AI Processor in annual Product of the Year ceremony"
+    excerpt: "The Edge AI and Vision Alliance announced Blaize as winner of the 2022 Edge AI and Vision Product of the Year - Best Edge AI Processor - for the Blaize® Pathfinder P1600 Embedded System on Module (SoM)."
+    publishedDateTime: 2022-05-18T02:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-55190f76e28841508889eee3df7cc022"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+
+secured: "c32tfSnVE33mRgOqdSclIZ7MfhI7Bcs/VsyiZD5ZxsDpvwlc9Fo8txWc/XnryavUCDwLJCM12LV2yj/9G11kQ3Cc0utbaC4UGH/iAhT+owIRa+WAFUiR8hhtj3kEPKQypIQpWWOGGXuX6cd6QMixW6nHfK7zaJHaof4IFIG9oIOm68rbCjIcYIIGd0ZYrXW1dq7Km6Xi0wy3z9lkn//esf5wZ299TLR2SK2s/Lq9JROcLPykoqVl5xUZj3UthkUty1yANwnCOgdYV92ZaCkQ0I2YH/pUBjUSLeVRWA2Me+yCszDRNiPkZRFeVjI6KLgSzBBwEUW9jtAMWm8hC0QwMaIC6Vqds1Az1flmFqe6aR0=;RvBz5EbEYNVel9IimzASfQ=="
 ---
 

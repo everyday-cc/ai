@@ -1141,21 +1141,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-12-google-offers-a-more-modest-vision-of-the-future.md",
-      "title": "Google offers a more modest vision of the future",
-      "excerpt": "There was a time when Google offered a wondrous vision of the future, with driverless cars ... The company’s biggest bet in artificial intelligence does not, at least for now, mean science ...",
+      "path": "_news/2022-05-12-china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources.md",
+      "title": "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources",
+      "excerpt": "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,",
       "sourceUrl": null,
-      "webUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
-      "originalUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
+      "webUrl": "https://www.reuters.com/article/jd-technology-hong-kong-ipo/china-scrutiny-stymies-jd-com-fintech-units-2-bln-hong-kong-ipo-sources-idUSL3N2WX0ZE",
+      "originalUrl": "https://www.reuters.com/article/jd-technology-hong-kong-ipo/china-scrutiny-stymies-jd-com-fintech-units-2-bln-hong-kong-ipo-sources-idUSL3N2WX0ZE",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2021/01/17/whatsapp-changes-170121-01.jpg/BINARY/whatsapp-changes-170121-01.jpg",
-          "width": 640,
-          "height": 400,
+          "url": "https://www.reuters.com/resizer/hLcxPDYq3sDZ9zFaofocCH2PX1M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34I2Z4M7X5NR5JVIWPJ6ZQKHU4.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1163,14 +1163,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/technology/2059713",
-      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2059713",
-      "publishedDateTime": "2022-05-11T23:12:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T22:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "bdnews24",
-        "domain": "bdnews24.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1179,7 +1188,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Finance",
         "AI"
       ]
     }

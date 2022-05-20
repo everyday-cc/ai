@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T10:20:00Z
 originalUrl: "https://techcentral.co.za/curro-pilots-artificial-intelligence-for-learning-in-its-schools/211364/"
 webUrl: "https://techcentral.co.za/curro-pilots-artificial-intelligence-for-learning-in-its-schools/211364/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: TechCentral

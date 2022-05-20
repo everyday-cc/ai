@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-19T16:00:00Z
 originalUrl: "https://www.abc27.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
 webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -39,6 +39,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Elementary recognized for achievements in machine vision and industrial quality inspectionsNEW YORK, May 19, 2022 /PRNewswire/ -- CB Insights"
+    publishedDateTime: 2022-05-19T23:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1031477278"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "Encord Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Encord, the platform for data-centric computer vision, on its annual AI 100 ranking, a list showcasing the 100 most promising private artificial intelligence companies in the world."
     publishedDateTime: 2022-05-17T16:02:00Z
@@ -95,20 +104,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-19T22:56:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_da4784f4-c976-5aa0-a574-0834544df640.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 35
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "WellSaid Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial ..."
     publishedDateTime: 2022-05-17T13:05:00Z
@@ -147,23 +142,23 @@ related:
       domain: tmcnet.com
     quality: 17
   - title: "Observe.AI Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Observe.AI (  an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named to CB Insights’ annual AI 100 Ranking, which showcases the 100 most promising private artificial intelligence companies in the world."
-    publishedDateTime: 2022-05-17T13:10:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-845a3541f907412399b2fd2459ed1d90"
+    excerpt: "Observe.AI is recognized for leading innovations in contact center AINEW YORK--(BUSINESS WIRE)--Observe.AI ( an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named to CB Insights’ annual AI 100 Ranking,"
+    publishedDateTime: 2022-05-17T16:10:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=665306"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 15
   - title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial ..."
     publishedDateTime: 2022-05-18T15:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-18-luminous-computing-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 11
   - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
     excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
     publishedDateTime: 2022-05-19T17:00:00Z

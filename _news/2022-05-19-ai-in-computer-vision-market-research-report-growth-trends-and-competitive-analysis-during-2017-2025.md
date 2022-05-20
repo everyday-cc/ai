@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service Market foresee scrutiny and Demand with predict recapitulation To 2025"
+    excerpt: "Global Machine Learning as a Service Market Report by Market Study report scrutinizes the overall market synopsis globally, their restraining factors, drivers, major challenges, opportunities, latest trends to stabilize the global Machine Learning as a Service market situation,"
+    publishedDateTime: 2022-05-20T13:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-foresee-scrutiny-and-demand-with-predict-recapitulation-to-2025-2022-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market 2022, Trends, Size, Industry Share, Analysis and Forecast to 2028"
     excerpt: "The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 billion by 2028 from US$ 148 billion in 2020. The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 ..."
     publishedDateTime: 2022-05-17T22:00:00Z

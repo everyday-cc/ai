@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-06-facial-recognition-by-police-ban-it.md",
+      "title": "Facial recognition by police: Ban it",
+      "excerpt": "About three years ago, as the technology was advancing and law enforcement (figuratively) salivating over it, we took a stand against using facial-recognition programs on police body cameras in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/",
+      "originalUrl": "https://www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailybreeze.com/wp-content/uploads/2022/04/LDN-L-LAPD-CAR-0301-4.jpg?w=1024&h=578",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/amp/",
+      "cdnAmpWebUrl": "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/amp/",
+      "publishedDateTime": "2022-04-06T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Breeze",
+        "domain": "dailybreeze.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-how-ai-is-creating-higher-quality-pet-bales.md",
       "title": "How AI is creating higher quality PET bales",
       "excerpt": "e-scrap and construction and demolition debris with an object recognition run rate of more than 10 billion items annually. This combination of scalable accuracy and classification creates a step-level solution for data collection and measurement that ...",
@@ -1286,49 +1329,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition.md",
-      "title": "São Paulo subway ordered to suspend use of facial recognition",
-      "excerpt": "The company responsible for running the São Paulo metro system was ordered to suspend the use of facial recognition technology. According to the decision issued on Tuesday by judge Cynthia Thome at the São Paulo State Court,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "publishedDateTime": "2022-03-23T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

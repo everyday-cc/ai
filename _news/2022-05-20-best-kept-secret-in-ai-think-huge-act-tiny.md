@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/20/best-kept-secret-in-ai-think-huge-act-tiny/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/20/best-kept-secret-in-ai-think-huge-act-tiny/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

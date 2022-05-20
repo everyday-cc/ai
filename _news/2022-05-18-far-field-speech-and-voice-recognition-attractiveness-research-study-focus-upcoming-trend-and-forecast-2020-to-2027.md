@@ -137,6 +137,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Face Recognition Software Market Size, Growth, Share, Leading Company Analysis, And Key Country Forecast to 2022-2028"
+    excerpt: "Global “Face Recognition Software Market” Report Size, and analysis maintains detailed dynamics and is over shadowed by"
+    publishedDateTime: 2022-05-19T09:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-growth-share-leading-company-analysis-and-key-country-forecast-to-2022-2028-2022-05-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Far-field Speech Recognition Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
     excerpt: "Far-field Speech Recognition Market (US, Europe, Asia-Pacific) 2022 Global Industry Market research report gives"
     publishedDateTime: 2022-05-17T06:02:00Z
@@ -206,6 +215,15 @@ related:
       name: xaralite.com
       domain: xaralite.com
     quality: 19
+  - title: "Self-Driving Taxi Market Growth 2022 Share, Size, Landscape, Top Key Players, Strategies and Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Self-Driving Taxi Market” report"
+    publishedDateTime: 2022-05-20T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-growth-2022-share-size-landscape-top-key-players-strategies-and-forecast-to-2028-2022-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
   - title: "Yogurt Market 2022 Key Methods, Historical Analysis, Application, Technology, Trends And Opportunities 2032"
     excerpt: "From 2022 to 2032, the global yoghurt market is expected to rise at a CAGR of 4.8%, from USD 89.9 Mn in the year 2022 to USD 143.7 Mn in the year 2032."
     publishedDateTime: 2022-05-17T03:58:00Z
@@ -274,6 +292,15 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
+    quality: 0
+  - title: "Artificial Intelligence In Transportation Market Technology, Applications, Demand, Growth Factors And Forecast To 2028"
+    excerpt: "Get a sample of the Artificial Intelligence in Transportation Market report @ Some Key Highlights in the Report In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for ..."
+    publishedDateTime: 2022-05-20T12:59:00Z
+    webUrl: "https://menafn.com/1104247482/Artificial-Intelligence-In-Transportation-Market-Technology-Applications-Demand-Growth-Factors-And-Forecast-To-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 0
 
 secured: "ITh+X1oep20Dwh1qPxxyfZ3iHeqKlYXXrTSA2+wZwdKLlvqbBC8x8Y3EX/khu88pQ3YJPX0xi5N8UtrFWqryJfIJM4usW/AhQSLpIYhDY1QwG5iJ0c/qtG/3FarGlUwA93+m9t+j8kkFlJz+CxZHAsfZBFvvnxskOhHfv2LISj7FuRhfFot1yjeE4ND8kv4keauMwLyNacdyFIEvlaMIqGuoV1Jn83ZN931c63KjPZj6HsUtgCRA6uAzqV8xYQisZ9hVcu+sBSlkI41NTj57RgA0Dtv6Vg61poMgWLtvBC+fd55bQij74bFArGgHVxdNEPtw0xtVW3YrwHDbzJ/aQqO6cxqN4c/Nu2rxdIFFJoQ=;fO+DinnzznnNa4X0ifSIgg=="

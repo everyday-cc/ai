@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-de
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Identification of long COVID patients through machine learning"
+    excerpt: "In a recent study posted to Preprints with The Lancet*, researchers developed a machine learning approach to identify patients with long coronavirus disease (COVID). . Image Credit: Starocean/Shutterstock The post-acute sequelae of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection are called long COVID."
+    publishedDateTime: 2022-05-20T11:48:00Z
+    webUrl: "https://www.news-medical.net/news/20220520/Identification-of-long-COVID-patients-through-machine-learning.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 19
   - title: "Machine learning can identify, potentially help patients with 'long-COVID'"
     excerpt: "Researchers from Chapel Hill, N.C.-based UNC School of Medicine's machine learning models helped identify long-COVID patients, patients who had the virus for more than 28 days, by analyzing patterns in electronic health record data,"
     publishedDateTime: 2022-05-17T21:18:00Z
