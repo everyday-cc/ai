@@ -154,18 +154,18 @@ related:
       domain: govtech.com
     quality: 39
   - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
-    excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly."
-    publishedDateTime: 2022-05-19T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/create-personalized-ai-powered-social-media-content-with-predis-ai/article_1ed20882-76e8-54f5-9bca-afc7139e0de8.html"
+    excerpt: "Predis.ai brings a revolutionary AI-based social media assistant to individuals and businesses to get content inspiration and create unique personalized content for different soci"
+    publishedDateTime: 2022-05-19T13:00:00Z
+    webUrl: "https://wreg.com/business/press-releases/cision/20220519IO63101/create-personalized-ai-powered-social-media-content-with-predis-ai/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: WREG
+      domain: wreg.com
     quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
+        width: 800
+        height: 268
         isCached: true
 
 secured: "WHxDWEZu0hLKUkazNFPanWgF5sf5kkWAJ75qwn4cAT1vgUqObzh4TAqioQaDl8kCf1bnVrSmqkH4+1kx/LfnOFSUgNy/CR/9W/7JRe4fEaamGm7gb4mHYNYfdyGjtvGmzznZk1hVnmsvmY6V0+9lU7Kdb0BIIsN2guV7wjvlQItmsl2AG3Uidz5sEBceSZquvdZ1JbE8dD1AjtPAMW7hHlhxo0mzZeR5O3bSLhfzB14M1sfeELZOWpUeAQlteoqK3P8y74Bve1Dfp2B0gH1NqiyM8Ar01lfC5eW6t8jHrVuUeIY3LiDtGBqucfNipsoRZdLpfz8cNaky77EEaQVmSgXCqmhdNeeATvJXqRNq7Do=;RNTAuyVaZPemeEcFwbnNJQ=="

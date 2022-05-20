@@ -33,6 +33,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 10
+  - title: "Titan Capital Markets Releases Key Analysis of AI Market Outlook And Trends For 2022"
+    excerpt: "TITAN CAPITAL MARKETS PTY LTD, an AFSL-licensed and ASIC-regulated integrated educational financial group in Australia that helps members to improve their financial thinking and forex trading skills through extensive online and offline financial education courses and systematic social trading training programs,"
+    publishedDateTime: 2022-05-19T19:25:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-5-20-titan-capital-markets-releases-key-analysis-of-ai-market-outlook-and-trends-for-2022"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 10
 
 secured: "H82PsSZQ4PkGjkZw1XE8LuhG0+tPhP9t5cDY3dBZIVv0wQM4qMg2tMYd/i2nHYzjAVwzCpB7XcYYWluQBkInvdHBerPxVB8IxBbZLQioME57uZJVh2lUpmlmANE0oTPUCSfPDk4LhzCX0Q7skD+fw6huFDf56VEHz78LZnG7qOxVUZbBbMPaFg+NnwYko2b9EtN16KE6mT0B9cMh4HJ1gdIoyAXQYEJXwChSgseQkZ04DCFKv1W6DNK2O4LIbA7qyVAnL98sNxzwEBVqRGFDNOhiG0aIMxdcin+G3Jz9dda0s87sGTuyFLkB13381Iy3KQsIvOpD7JW301qfh85STYoP/w0vFLWndWM+eyWOYTw=;ihux7Q+GzjF2AzfYi3JTng=="
 ---

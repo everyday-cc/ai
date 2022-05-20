@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Robot hives in Israel kibbutz hope to keep bees buzzing"
-excerpt: "Startup Beewise came up with the idea in an effort to reduce mortality rates in a species that has in the past years seen sharp rates of decline due to environmental threats. – Artificial intelligence – “The robot is equipped with sensors that allow ..."
-publishedDateTime: 2022-05-18T15:16:00Z
-originalUrl: "https://www.digitaljournal.com/business/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing/article"
-webUrl: "https://www.digitaljournal.com/business/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing/article"
+title: "Robot Hives In Israel Kibbutz Hope To Keep Bees Buzzing"
+excerpt: "They function as normal hives, but apiaries built at a kibbutz in Israel's Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators."
+publishedDateTime: 2022-05-18T07:12:00Z
+originalUrl: "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
+webUrl: "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
+ampWebUrl: "https://www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/beehives-Israel-AFP-1K-01-1.jpg"
-    width: 1024
-    height: 704
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP9013742092031961124543124772733399242360---1.jpg"
+    width: 768
+    height: 556
     isCached: true
 
 related:
@@ -49,6 +51,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 34
 
-secured: "25f2/dNOfgcXi1dAc7G0bt91TmOtyu8hayTsCvfiGasTlf1ssBYfKDcOLDagM29VgDIyYM9WH35val4ZfgeIRGO4fMn2oLypTs3f64Z4Hxta25YzmeGgwfatFETvxk0k0Yif8xbywmehI4pTgsTDPI1CkA1zK0dyoi0lMmO6wYMZ4AHIRfLpWA4+nlAwM6L4diAYcb7voyR88bK0BglgmX/gBhm6ALCd4nHFnmcWp6BDML3n3wWlNGpM6PRcMelEMEIHFd3epSIvVtjYZ08BI7uoGaIn2XHKnPTE1Akg/4lGE5SPFbdWrlODiRaff3aWZrfdKgsVw37HDy9JWZnk3NJyAixbY8L9iCNm9BUuCsFPFtCtJTvN2zswYP9S1r0jYiFaY3G++v3dNgA06x8FDqE5tTLtlreXuHXxv90VC+/2iI7+wz2mxkEwSFUDqvznBebVGohZcLoz6ZW5UyIzdluJwvNXyK74XRaMHLyGgjsw+pK0vgW1V2p032q3SC/lAOcAxFjHdLoKHNh53ojh1g==;5EjCCcrkEle617rPeT60eQ=="
+secured: "x73yGEwmLkBtgVO8/lNdx4MZZFH5Q9IessUsD3WC5NCZJ6ouyIZiCBi18XliMNBGCfbocUpCJq3/+vtUl0wQXKF1h/BnbZojsEPfz+jVh7kKRFmNz0r38hGSGf2ewXXuEchtfxaWJLpq1VeavdqZCa84Q521Axu8HzyTlpIpYUzR9VX0FG4K8rigIX30DvfeBheOLTdJ1RcV1G4GQGwGt45yYn22Y1fVIZYcudJSfwtw50H0bRTQC+w1dqOgv+lekZRJz5YjgR+ltyj8teZeQL4xwOwH7Z3dy/ZNwD46Ccqn4inRiY0tCmdzoiSi/8uxtl8vZ7kTjWfjcVH2Yn/tQ0QGLPN1tcymYNMiQ3ksup4=;Px3EMxSdZAmwl4FM97eA3Q=="
 ---
 

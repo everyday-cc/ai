@@ -60,22 +60,6 @@ related:
         width: 1000
         height: 554
         isCached: true
-  - title: "How is AI improving aircraft inspections after hard landings?"
-    excerpt: "A hard landing on the runway puts stress on a plane. ATR is using artificial AI to help identify any damage and get planes flying again."
-    publishedDateTime: 2022-05-15T11:36:00Z
-    webUrl: "https://www.freightwaves.com/news/how-is-ai-improving-aircraft-inspections-after-hard-landings"
-    ampWebUrl: "https://www.freightwaves.com/news/how-is-ai-improving-aircraft-inspections-after-hard-landings/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/how-is-ai-improving-aircraft-inspections-after-hard-landings/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 57
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/05/ATR-Smart-Lander_1.jpg"
-        width: 1771
-        height: 996
-        isCached: true
   - title: "Using AI To Cure Blinding Eye Diseases"
     excerpt: "NIH discovery sheds light on tissue targeted by age-related macular degeneration and other diseases Researchers have identified distinct differences among the cells comprising a tissue in the retina that is vital to human visual perception."
     publishedDateTime: 2022-05-17T20:19:00Z

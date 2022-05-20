@@ -144,6 +144,20 @@ related:
         width: 1147
         height: 759
         isCached: true
+  - title: "DeepMind’s AlphaFold 2 is half of the story"
+    excerpt: "Google’s research arm DeepMind released an open-source version of its deep-learning neural network AlphaFold 2, which solved protein folding."
+    publishedDateTime: 2022-05-20T05:02:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-alphafold-2-is-half-of-the-story/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Alpha-fold.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "DeepMind’s Gato is the Swiss Army Knife of AI models"
     excerpt: "However, we don’t have AI models that do both. DeepMind has leveraged the advances in large-scale language modelling to build a single generalist agent beyond the scope of text outputs. Gato is a multi-modal,"
     publishedDateTime: 2022-05-18T12:34:00Z

@@ -77,12 +77,12 @@ related:
         isCached: true
   - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-17T22:45:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+    publishedDateTime: 2022-05-17T21:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
     type: article
     provider:
-      name: FOX31 Denver
-      domain: kdvr.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 36
     images:
       - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"

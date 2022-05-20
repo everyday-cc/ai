@@ -97,6 +97,20 @@ related:
       name: Aviation Today
       domain: aviationtoday.com
     quality: 44
+  - title: "New Relic announces product integrations and multi-year commercial partnership with Microsoft Azure"
+    excerpt: "New Relic announced a strategic partnership with Microsoft to help enterprises accelerate cloud migration and multi-cloud initiatives. With this partnership, Microsoft Azure customers can use New Relic as their default observability platform natively inside Azure Portal."
+    publishedDateTime: 2022-05-20T03:57:00Z
+    webUrl: "https://www.crn.in/news/new-relic-announces-product-integrations-and-multi-year-commercial-partnership-with-microsoft-azure/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 40
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2021/08/16173811/CRN_Mergers_05_696.jpg"
+        width: 696
+        height: 465
+        isCached: true
   - title: "Microsoft launches Open Data for Society"
     excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
     publishedDateTime: 2022-05-16T12:42:00Z

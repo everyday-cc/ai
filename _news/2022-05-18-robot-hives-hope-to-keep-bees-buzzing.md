@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/18/robot-hives-h
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/18/robot-hives-hope-to-keep-bees-buzzing"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Robot hives in Israel kibbutz hope to keep bees buzzing"
-    excerpt: "Startup Beewise came up with the idea in an effort to reduce mortality rates in a species that has in the past years seen sharp rates of decline due to environmental threats. – Artificial intelligence – “The robot is equipped with sensors that allow ..."
-    publishedDateTime: 2022-05-18T15:16:00Z
-    webUrl: "https://www.digitaljournal.com/business/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing/article"
+  - title: "Robot Hives In Israel Kibbutz Hope To Keep Bees Buzzing"
+    excerpt: "They function as normal hives, but apiaries built at a kibbutz in Israel's Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators."
+    publishedDateTime: 2022-05-18T07:12:00Z
+    webUrl: "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
+    ampWebUrl: "https://www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
+      name: Barron's
+      domain: barrons.com
+    quality: 59
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/beehives-Israel-AFP-1K-01-1.jpg"
-        width: 1024
-        height: 704
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP9013742092031961124543124772733399242360---1.jpg"
+        width: 768
+        height: 556
         isCached: true
   - title: "Robot hives in Israel aims to keep bees buzzing"
     excerpt: "Startup Beewise came up with the idea to reduce mortality rates in a species that has seen sharp rates of decline due to environmental threats."

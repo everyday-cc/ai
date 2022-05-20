@@ -2,17 +2,17 @@
 category: news
 title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
 excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-publishedDateTime: 2022-05-17T22:45:00Z
-originalUrl: "https://kdvr.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
-webUrl: "https://kdvr.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+publishedDateTime: 2022-05-17T21:44:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -187,6 +187,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "sDhw5yds/1hTcgHvlg/B/BYeTeiR3/mg/35dKAvqDW5QR7qeNRL5HX4Wu2s/YVpHPQJIJJ28twgMg9eT7EyTtA1esGB1MjPm7wjYgOnt51CfQXznSS4CFGj1uG/qt+zEYBT86/x36UCJrGIgLOck90WEvnvYhMgBUd45GWHwJeML6Yd/qRO5/vflBXM6fYdcX4rU0hhADN8rxKAqqzYAgdRrIVZFTIgzJe4AK7l1sag9Tt3m9bw/hHPuLpu2RI7kjVGHfTmb+yreEBoJToeqBowzAP4QeL27hCyKrgx53IyHb3xZbOcW7buwuyi7fn4NfIGAuYa/IE1jCffC52DTOTR1frhktSaGXUx2TprHOQQ=;3SH6cpvvdfCBHTMoKoT4Uw=="
+secured: "w6BZ8caKuicOmjVU/1+FkQtJAZCwJwKxkGb7a64O12i4SzRA8ci99ByO1Ra6+xhQjY5JD3v6khtM4dwqftjIcVXB2OCsa6RLtl47245tRhdrI5iffMity5iqqKXPBZ5SAuqoOV86sQz7UhbBIz/wbhmf/s38773X473084Xj+31yclrV0rTONWGupQ2SAm5ltnqlT/dNe5Ue3hywmQ/uMf1IlwgsY3Dv1PujmSwvDUC9/vdwGh9WyLSNZmAUQYG8M16wY8NyXOsYS0BDJhl+D312w7h6rH7+cDQfNi9/aOgFIHsrQ2s2+ppBH0bG/4N2xmhbUnMkqIz/iOUjHeVgaX6E0XAgY2t66izW6HUqOrk=;JZjKeAv74drqf+n4ZdMXsg=="
 ---
 

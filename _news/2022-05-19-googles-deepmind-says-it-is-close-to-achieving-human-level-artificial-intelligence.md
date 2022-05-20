@@ -137,6 +137,20 @@ related:
         width: 1147
         height: 759
         isCached: true
+  - title: "DeepMind’s AlphaFold 2 is half of the story"
+    excerpt: "Google’s research arm DeepMind released an open-source version of its deep-learning neural network AlphaFold 2, which solved protein folding."
+    publishedDateTime: 2022-05-20T05:02:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-alphafold-2-is-half-of-the-story/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Alpha-fold.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records"
     excerpt: "The claim provides access to justice and a means of compensation which would not have been viable on an individual basis due to the cost"
     publishedDateTime: 2022-05-16T18:58:00Z

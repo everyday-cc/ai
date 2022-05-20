@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
-excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
-publishedDateTime: 2022-05-19T15:30:00Z
-originalUrl: "https://www.wkrg.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
-webUrl: "https://www.wkrg.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the Consumer Goods, E-Commerce, and Logistics industries."
+publishedDateTime: 2022-05-19T14:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241"
+webUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: WKRG News 5
-  domain: wkrg.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
@@ -40,6 +44,6 @@ related:
         height: 271
         isCached: true
 
-secured: "DZRoB6tco6wy5q2OlpYgAV1bhPPFX5jLxTwyn5WpEyqf50f+UnxknbWVi82wJ3YZHJYjmJWHYS9cT0MgrUrRt5LlXVI5BiFJwGmvFFbzzwN6fTs/YZInlqpwMU1oJmbA5/KL/sA5McTtQdRcYPVptIQ7RqoQkGBnY2m5tI6DJbbLsdh7L08cOr4vaUrZTR6/AEQir93x6HGHq6+udxEuHUbGk+g93ir9eSfVL0n8EpoepHHsdrNWbz10l8CTZFup8powhUM26643s1eP3wjUYNF1myPpwU1Qmsq16j2yTjPbo4ceossYpr1sdaMBGwKIfgI0kciKEhYgWkQfAxuVYfe15QmRHsutt0XUMk7prHw=;1WE87ScnRyGEAHLcWU4O0Q=="
+secured: "viM097pl8nE9rM7xBotbRI1fLEnqVB1E7t+J4lcGwIRA8ZW4A951gE6gyN/pMt4gGtJakoxRrbd+rLC52Ps47EPQ0+6NwZzkKmWghBSKriHR98wGTMxMF4MrfqQXu+A2WcvL39hNZel9nOpXzVZ6TKFTJwqj/hMFgfr40bVeHeSBnr+hfEOnBXRBy5aBhaghR9LLIbKdnY30FUcIp5FnQH5aj9laxSsoJ62MPKtQjOoV2rToD1YUm4zkhCTatut1/IN4isFBtyK1dRqr38L43LgBakWcO4MRowP0qq1MtKIWh5/L2doYVXBgCpo2T5StgnrvVSvHRJo7WkHdkEpyIi+Umxu4AilOJROJq7tjIk4=;cL8uKH+x4Hp0xapyCmxEdA=="
 ---
 

@@ -74,22 +74,6 @@ related:
         width: 1000
         height: 554
         isCached: true
-  - title: "How is AI improving aircraft inspections after hard landings?"
-    excerpt: "A hard landing on the runway puts stress on a plane. ATR is using artificial AI to help identify any damage and get planes flying again."
-    publishedDateTime: 2022-05-15T11:36:00Z
-    webUrl: "https://www.freightwaves.com/news/how-is-ai-improving-aircraft-inspections-after-hard-landings"
-    ampWebUrl: "https://www.freightwaves.com/news/how-is-ai-improving-aircraft-inspections-after-hard-landings/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/how-is-ai-improving-aircraft-inspections-after-hard-landings/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 57
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/05/ATR-Smart-Lander_1.jpg"
-        width: 1771
-        height: 996
-        isCached: true
   - title: "Building AI for healthcare made easier with programming tools"
     excerpt: "Chronic disease prediction and management is one of five projects under Singapore’s national AI strategy launched in 2019. . Read more at straitstimes.com."
     publishedDateTime: 2022-05-16T04:00:00Z

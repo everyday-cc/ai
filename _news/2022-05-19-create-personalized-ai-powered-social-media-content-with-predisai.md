@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
-excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly."
-publishedDateTime: 2022-05-19T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/create-personalized-ai-powered-social-media-content-with-predis-ai/article_1ed20882-76e8-54f5-9bca-afc7139e0de8.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/create-personalized-ai-powered-social-media-content-with-predis-ai/article_1ed20882-76e8-54f5-9bca-afc7139e0de8.html"
+excerpt: "Predis.ai brings a revolutionary AI-based social media assistant to individuals and businesses to get content inspiration and create unique personalized content for different soci"
+publishedDateTime: 2022-05-19T13:00:00Z
+originalUrl: "https://wreg.com/business/press-releases/cision/20220519IO63101/create-personalized-ai-powered-social-media-content-with-predis-ai/"
+webUrl: "https://wreg.com/business/press-releases/cision/20220519IO63101/create-personalized-ai-powered-social-media-content-with-predis-ai/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: WREG
+  domain: wreg.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
+    width: 800
+    height: 268
     isCached: true
 
 related:
@@ -164,6 +164,6 @@ related:
       domain: businessinsider.com
     quality: 35
 
-secured: "eZMKeGSWQNrAf7PV9E1rNNjGvD25WEmbVoB0/IpDS09hqsdd0AQbXNqG6FIGI29xnMf4Tx60AD4tSgMNM1hO3lPoF3hIgm9SAHlSgRW/MRPEdo3p81lVHMfJjpC2Vda0xLWdPynZhnbBaw61u0oBdA+j2e9jv2DcH6r2DXSMVGm/X4SLpg1pU+p3m5RlrY9b3ems1JAOBPIunw+1Td+8qrEDyfUE21uojksjd4MTznhpMirj2NiVqh50xs+MMM3UoLTw5IQG/PANGZPhni1cdwUNu2SKbz1rbvA8jTF80ibf7dbRwuj57k7IHRhMaaG2IZ7oednJAbo/UZJvPlVeGnWZLMn65PrcSnHUSvUtXDJXC17pC01vgNpq4nsE/ZYg15N2GfWF01McSABh/Hcs8JxBvh5HoWyWRT6mgzd2fI7V++Xg6nQvop6+PsailrgVipTRPi/OAm2uSsl3VIp/o4INWX4HsH53W+e6zW2vhzgHEw/gp6x8apvPBf0UzYWlJI9jyOvwuI/kLp0SNmLzAQ==;oUVTtLEKo1iqmP1afEY1vg=="
+secured: "2+ZuyLw4mum4HdAr5EjAk4gWiK9OCoZ/VFybmJ8glBQ4oZMc2x+IDEkm6nRFyR/TPDylOIeeICB4QhoQs8ep5aPHAUmczrwE8VvhubqmyIMJHCdVBdT/0fHVk9thvEQZUJAo540KpIx8TZh+eVoNBBhYiBPWnWGlInoxkm7/BCnLK9ernxF+e9zE/YFCW0uP5grEGMyQLXN4jmcSpnWTBjHAfJoFtzxg6IQz3MWSO/H+SqxD0WgS7TAgmUDzybJHhN6Lvs1tZ8ziqu+O0p6SsE4jAncAHVg+OWhnFWv+p/FfssTHDuh5oDfLOtE4GiGJ3BhERkAPITjqlJITsKHXPl00Se059fg+fbsy1dGTSFk=;uLkCn+o2L7ynAXdy2YBi5Q=="
 ---
 
