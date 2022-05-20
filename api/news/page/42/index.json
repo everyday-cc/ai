@@ -2,6 +2,48 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-04-12-artificial-intelligence-may-improve-diabetes-diagnosis-study.md",
+      "title": "Artificial intelligence may improve diabetes diagnosis: Study",
+      "excerpt": "According to a new study, researchers using a fully-automated artificial intelligence (AI) deep learning model were",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study",
+      "originalUrl": "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://telanganatoday.com/wp-content/uploads/2022/04/Artificial-intelligence-may-improve-diabetes-diagnosis-Study-831x450.jpg",
+          "width": 831,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp",
+      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp",
+      "publishedDateTime": "2022-04-12T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-blockchain-to-revolutionize-the-lending-space-in-the-fintech-industry.md",
       "title": "Blockchain To Revolutionize the Lending Space In the Fintech Industry",
       "excerpt": "With increasing focus on the payments segment and closely followed by securities and trade finance, blockchain will focus on evolving complexity and delivery time frame",
@@ -1073,50 +1115,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-small-medium-enterprises-ramping-up-their-security-through-cloud-based-financial-analytics-deployment.md",
-      "title": "Small & Medium Enterprises Ramping up their Security through Cloud-Based Financial Analytics Deployment",
-      "excerpt": "Financial Analytics Market to Top US$ 25.1 Bn Amid Surging Application in the BFSI Sector. In its latest market study, Fact.MR offers unbiased analysis on the global financial ana",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-small-medium-enterprises-ramping-up-their-security-through-/2022/04/11/9580453.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-small-medium-enterprises-ramping-up-their-security-through-/2022/04/11/9580453.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

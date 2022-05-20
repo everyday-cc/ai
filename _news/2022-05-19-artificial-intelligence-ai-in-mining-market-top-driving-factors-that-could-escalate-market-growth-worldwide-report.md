@@ -38,6 +38,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "China homegrown self-driving chips gaining ground in EV market"
+    excerpt: "China's homegrown high-end autonomous driving chips have seen a significant breakthrough in commercial applications, as Chinese AI chip startup Horizon Robotics has over the past month cut into the supply chains of both BYD and FAW Group with its latest automotive-grade AI processor,"
+    publishedDateTime: 2022-05-20T06:30:00Z
+    webUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=10"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220520pd201_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "ArevTMxg8Jc/hZrdlGatNp6rqxo8NXpqjeit8y7ADqDk1xSHwuiQweyLVGN7tgdycUFtx45ChsrAoPIN5Xwem4g1QEof7+xLoIshg1xxQZG1qE8ICxY+7oY8QpAVGcgwQQYUqxwhadFFAJ3Rhf4nAnS0H/2vXJDrY7iPnem7HvwznBLP9F0qLlRkDC7fEPvsR7nvF2kYs8ShLoyT+RWtUySeCUVPKOUbz9y74kAPS33+uR8BfoMwsJ5Fuvd8jUAEuAm/xWGPsycHf2OUFdLCB2VYBo7OVBAb5vllW7MzrauYhRrh5OF3ldFpzLiSGcP1JK+6p6wYy60gr2ZLi1MMP1+5VwWO2MbjTAIj+ydmScbzUfFuDN1zOc7V6CaXJ7RgjspuEFwlBybOwfZ14po7Vui8WqZ7MbGl1yqtnfrDe9kVxabYWrKH35jSsnc0kWhaaGggwjk3U5Nlusv9+4hvbJsGQZccCHXH0A7tdfvCnQrGbkjQWNsSCjuAuk5bCUSp0TI6OidN3Ad3fMvjt7OxbQ==;Dq8sCElsekstTiiXDTXlSA=="
 ---

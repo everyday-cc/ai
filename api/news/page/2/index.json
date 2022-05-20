@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-19-how-does-ai-affect-small-business-accounting.md",
+      "title": "How Does AI Affect Small Business Accounting?",
+      "excerpt": "Accounting software companies have invested millions into AI to make small business accounting easier. Here are five tasks AI accounting software can handle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/the-ascent/small-business/accounting/articles/ai-accounting/",
+      "originalUrl": "https://www.fool.com/the-ascent/small-business/accounting/articles/ai-accounting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/affiliates/images/research-artsalary-surprise_v621.2e16d0ba.fill-1080x1080.jpg",
+          "width": 1068,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-wayve-and-microsoft-partner-to-scale-autonomous-vehicles.md",
       "title": "Wayve and Microsoft partner to scale autonomous vehicles",
       "excerpt": "Machine learning at scale is 90% an engineering challenge ... The company has been working with Microsoft and its Azure cloud since 2020. Since then, the team has seen an absolute acceleration ...",
@@ -339,6 +390,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-18-synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next.md",
+      "title": "Synchrony Financial Stock Lost 10% In One Week, What To Expect Next?",
+      "excerpt": "The current scenario is likely to increase the credit risk, leading to an increase in the provisions of credit losses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6284647b19c3382449b0251b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/amp/",
+      "publishedDateTime": "2022-05-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-googles-ai-powered-interview-warmup-helps-with-job-prep.md",
       "title": "Google's AI-Powered 'Interview Warmup' Helps With Job Prep",
       "excerpt": "Google is using machine learning and artificial intelligence to help applicants practice for job interviews. The tool, aptly named Interview Warmup (Opens in a new window), invite",
@@ -615,49 +718,6 @@
       "provider": {
         "name": "inc42.com",
         "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing.md",
-      "title": "Robot Hives In Israel Kibbutz Hope To Keep Bees Buzzing",
-      "excerpt": "They function as normal hives, but apiaries built at a kibbutz in Israel's Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
-      "originalUrl": "https://www.barrons.com/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP9013742092031961124543124772733399242360---1.jpg",
-          "width": 768,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing-01652843707",
-      "publishedDateTime": "2022-05-18T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1136,58 +1196,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-the-next-frontier-for-healthcare-blockchain-ar-and-vr.md",
-      "title": "The Next Frontier For Healthcare: Blockchain, AR and VR",
-      "excerpt": "The medical industry has traditionally been slow to adopt new technologies, but blockchain, augmented reality and virtual reality technologies are changing that thought process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/425443",
-      "originalUrl": "https://www.entrepreneur.com/article/425443",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652285926-GettyImages-954960690.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

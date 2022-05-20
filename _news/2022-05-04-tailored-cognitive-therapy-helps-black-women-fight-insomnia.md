@@ -2,14 +2,14 @@
 category: news
 title: "Tailored Cognitive Therapy Helps Black Women Fight Insomnia"
 excerpt: "WEDNESDAY, May 4, 2022 (HealthDay News) -- A cognitive behavioral therapy (CBT) intervention for insomnia tailored for Black women improves sleep outcomes and intervention engagement, according to ..."
-publishedDateTime: 2022-05-04T16:46:00Z
-originalUrl: "https://poststar.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_9a54d6bd-24d0-5d71-9127-13f98db4f3ce.html"
-webUrl: "https://poststar.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_9a54d6bd-24d0-5d71-9127-13f98db4f3ce.html"
+publishedDateTime: 2022-05-04T16:56:00Z
+originalUrl: "https://www.gazettetimes.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_016f56ab-8363-5988-b43c-e98f45adced7.html"
+webUrl: "https://www.gazettetimes.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_016f56ab-8363-5988-b43c-e98f45adced7.html"
 type: article
 
 provider:
-  name: The Post-Star
-  domain: poststar.com
+  name: Corvallis Gazette-Times
+  domain: gazettetimes.com
 
 topics:
   - Microsoft AI
@@ -17,11 +17,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/6/91/69132851-3a91-5547-bd84-df33e1a20612/6272ac7f92f82.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/gazettetimes.com/content/tncms/assets/v3/editorial/e/1e/e1ecca10-2750-57a8-b4c1-2c1c9dd38643/6272adb210d50.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
     width: 600
     height: 315
     isCached: true
 
-secured: "uHsSXzmbptoob55ByFs/mUExwZpnPr+PuBksueG4YJCBPCGFTh1UPc8wYOcmDiW725915GUHf4U+GZgbM2iD4sycrt+gkMn5YlmIRiKQ1wqExAEZRl+bUo4ZIGFudgkG+If2ZIRGG97gkqmu1VzwZmiwxJlt3acSNGM64m7xHyd6fRA5xnoZ/PBkdRywl1ULB4oyM+wwuqASnzT5lE+gSgkFn8+T0cASdZZtW9j8AfMufhi77sw2fsrML/SbkeJSexqjCoj5tY2rJoQKrPkO9TnZr22sw0uO+vH4g0KxQp7CcPNb6o4UHW/LhMnpxKp2Um6ztBTe3YIe6+wdTempB3VpGZzImVHUCpj+7CrheiA=;wgy0BaLX/Ltd36RnHqhW4Q=="
+secured: "T28LtQWn/GBrQTbojEbCR6c2BKEKg+wI4L+PTxOvwMzhSDIHn9bAtHaE2TMJgMxZdBbctAKauekvcYhiN1BidoIKw7zozvnA7wTpKX0lRGAsil5W5qG5l8fTs1rx1GX2oe2KU3GMcKujzID66KPY4LIZ6MDruzpwaRwcveDhr5uFkVYIaFd3CXJx/dt4LPQR4UZcfyR0tzrILcdDFqxHk2JGOqEFqoGQYU36rtx10Xh1q2iUoJbDad4hFvmpv88SR58ksmEGelRe+futQr0m69PZeTIX+ISejGMN2U9heSPP1RsKfMfTCjDqvymt1W/w8Smvz1H+m8iwNqy0ZyAta5HSKLM5K+reKWjymbapVtY=;CP0MK7pWEemPIOwSJ7uwGw=="
 ---
 

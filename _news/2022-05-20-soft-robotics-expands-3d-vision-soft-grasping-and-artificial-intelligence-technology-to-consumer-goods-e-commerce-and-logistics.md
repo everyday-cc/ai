@@ -2,17 +2,17 @@
 category: news
 title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
 excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
-publishedDateTime: 2022-05-19T17:30:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+publishedDateTime: 2022-05-20T07:41:00Z
+originalUrl: "https://www.ketk.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+webUrl: "https://www.ketk.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: ketk
+  domain: ketk.com
 
 topics:
   - AI in Robotics
@@ -40,6 +40,6 @@ related:
         height: 271
         isCached: true
 
-secured: "CfKX1th+t4DzTcflggMC1cQDkVHm6lAtgWL64aEd7MLrjLi+GnodC7hjFlxefbXiequd+JIJ1wtic/+aRshig9cyhdCo4LruYY/OtY5Kd3xUXEMEqeGhzEwdP6ZbcyCIuBV2/Ei/xGQFufh/B7mHULHeTZUublMwdj+CKOR3VyuJco0ETs8qqpKSZ/cMfCkIcXuAGszFGCehRW4R1aMDNvQTAy2iAp3mge9y4UMhpobjnz0ROhPPx2s7wMiTCGBQrGfH4ytEVMi+p5TeTs8q9nWxaMvpPhS9ThdHb3zcteURBhf432225oEGEQpYq+D3myV4DEbamn8J26H9pUPRpParQd0zduD0qCNw/RDVipQ=;E7YO1ls/UDUTiE9NKlRk9Q=="
+secured: "BCJ/Z6QqUqL1aq4qBbhBP4BxUScJ8k0+7jOzagGYo/k88hgLhV6/CryggM5OOIfgx63ZSSVSpNkPnzycSTeLrfDTHh5+IwJV/TNYUbPGcGpaIiCGpWJY97WnJIU1X3wegztpsRIGoHE+w4VPtxMOUaJkPgcZdWa5kdnd7qj2co2CKXPi4YZ6VXn3naqHy/cly/GNAREbxNFb0UWVVptn9yZ/9t3LSxl+omnolTVM4uih2wtdwRaKHka72eaqMCbgYRq6oX6QR+W4xkkorDn8Vf6vly4x2Sri/YbRpUQThMK9LCAEjRaSWWj33MU6z72zokEy9+VdLn2auDHWd89ml0nDSVSPtsYxXrBcwceRetQ=;XQFOgdc3IvEz20zlG8VI0Q=="
 ---
 

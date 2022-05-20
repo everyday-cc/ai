@@ -2,6 +2,57 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-02-17-steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool.md",
+      "title": "Steps Enterprises Can Take To Build A Dependable AI Talent Pool",
+      "excerpt": "As AI establishes a strong foothold across industries, demand for AI talent is exponentially rising. However, the growing AI talent gap remains a persistent issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620d627b286ce11f4f02e992/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/amp/",
+      "publishedDateTime": "2022-02-17T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-agilent-acquires-artificial-intelligence-technology-to-enhance-lab-productivity.md",
       "title": "Agilent Acquires Artificial Intelligence Technology to Enhance Lab Productivity",
       "excerpt": "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All",
@@ -1098,58 +1149,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database.md",
-      "title": "Clearview AI aims to put almost every human in facial recognition database",
-      "excerpt": "The controversial facial recognition company Clearview AI reportedly told investors that it aims to collect 100 billion photos—supposedly enough to ensure that almost every human will be in its database.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

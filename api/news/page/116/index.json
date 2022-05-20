@@ -2,6 +2,49 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-02-09-new-chip-rewires-itself-like-the-brain-to-help-ai-learn-continuously.md",
+      "title": "New Chip Rewires Itself Like the Brain to Help AI Learn Continuously",
+      "excerpt": "On top of that, the devices can be manufactured using conventional chip fabrication technology. After testing the performance of individual devices, the researchers then used their data to create simulations of large networks of them. They used the ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/",
+      "originalUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/02/ramanathan-chipLO.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/?amp=1",
+      "publishedDateTime": "2022-02-08T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-ais-impact-diversity-and-workforce-automation.md",
       "title": "AI’s Impact: Diversity and Workforce Automation",
       "excerpt": "Leaders must leverage AI so that it augments rather than replaces the human workforce, and ensure that AI no longer perpetuates historical bias. Artificial intelligence will shape so much across business and culture — but what will its effects be on the ...",
@@ -1115,49 +1158,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-smartphone-reminders-improve-memory.md",
-      "title": "Smartphone Reminders Improve Memory",
-      "excerpt": "In older adults with dementia or mild cognitive impairment using a personal ... Funding for the study was provided by Microsoft and the National Institute on Aging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/smartphone-reminders-improve-memory-205552-1.htm",
-      "originalUrl": "https://www.medindia.net/news/smartphone-reminders-improve-memory-205552-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/web-based-training-could-delay-onset-of-dementia.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/smartphone-reminders-improve-memory-205552-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/smartphone-reminders-improve-memory-205552-1.htm",
-      "publishedDateTime": "2022-02-07T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

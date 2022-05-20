@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Benefits Psoriatic Arthritis Patients"
-    excerpt: "PredictAI, a new machine-learning tool developed by researchers, speeds up the diagnosis of psoriatic arthritis (PsA) by up to 4 years."
-    publishedDateTime: 2022-05-15T14:07:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "AI tool could dramatically decrease diagnostic times for psoriatic arthritis patients"
     excerpt: "\"What PredictAI brings is the opportunity to scan large medical databases and use AI methods to search for clues such as complaints of joint pain, orthopedic specialist consultations, lab results ..."
     publishedDateTime: 2022-05-16T14:56:00Z

@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-05-04-google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise.md",
+      "title": "Google Fires Another AI Researcher for Questioning Findings, Company Says Otherwise",
+      "excerpt": "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
+      "originalUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/6f9f38ebe51de141ba324517208291b9c98e6e51/2022/05/02/b1c01638-c17e-462e-80eb-3428354a9ae9/gettyimages-1233383030.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
+      "publishedDateTime": "2022-05-03T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-bigbearai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-industry-events.md",
       "title": "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events",
       "excerpt": "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ...",
@@ -558,49 +610,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-03-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
-      "title": "Facebook-Owner Meta Opens Access to AI Large Language Model",
-      "excerpt": "(Reuters) - Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was ...",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-03-teamviewer-brings-artificial-intelligence-to-the-shopfloor.md",
       "title": "TeamViewer Brings Artificial Intelligence to the Shopfloor",
       "excerpt": "May 3, 2022 /PRNewswire/ -- TeamViewer, a leading global provider of remote connectivity and workplace digitalization solutions, today announced the launch of AiStudio, a fully integrated Artificial Intelligence (AI) add-on to TeamViewer's leading ...",
@@ -630,6 +639,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
+      "title": "Facebook-owner Meta opens access to AI large language model",
+      "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. May 3 (Reuters) - Facebook-owner ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model",
+      "originalUrl": "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp",
+      "publishedDateTime": "2022-05-03T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1069,58 +1112,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short.md",
-      "title": "How To Adopt AI-Based Business Intelligence Solutions When Traditional Dashboards Fall Short",
-      "excerpt": "Business leaders must consider leveraging AI to monitor and learn the behavior of data in real ... The right product manager will be able to align with data scientists and translate expectations and results to management, bridging the gap between the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60ca10c91854bb852614d23b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/amp/",
-      "publishedDateTime": "2022-05-03T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

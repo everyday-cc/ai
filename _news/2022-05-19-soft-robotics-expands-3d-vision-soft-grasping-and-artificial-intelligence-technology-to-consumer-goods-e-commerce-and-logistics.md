@@ -31,12 +31,12 @@ images:
 related:
   - title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
     excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
-    publishedDateTime: 2022-05-19T17:30:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+    publishedDateTime: 2022-05-20T07:41:00Z
+    webUrl: "https://www.ketk.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
+      name: ketk
+      domain: ketk.com
     quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
@@ -44,6 +44,6 @@ related:
         height: 271
         isCached: true
 
-secured: "viM097pl8nE9rM7xBotbRI1fLEnqVB1E7t+J4lcGwIRA8ZW4A951gE6gyN/pMt4gGtJakoxRrbd+rLC52Ps47EPQ0+6NwZzkKmWghBSKriHR98wGTMxMF4MrfqQXu+A2WcvL39hNZel9nOpXzVZ6TKFTJwqj/hMFgfr40bVeHeSBnr+hfEOnBXRBy5aBhaghR9LLIbKdnY30FUcIp5FnQH5aj9laxSsoJ62MPKtQjOoV2rToD1YUm4zkhCTatut1/IN4isFBtyK1dRqr38L43LgBakWcO4MRowP0qq1MtKIWh5/L2doYVXBgCpo2T5StgnrvVSvHRJo7WkHdkEpyIi+Umxu4AilOJROJq7tjIk4=;cL8uKH+x4Hp0xapyCmxEdA=="
+secured: "s9w5addsADVno+vuKKUiERFWa0gnvJKDRarmkSZxPSxNGqce7b7jqDSvNNOQwVkxfUiHImLMBFViJZZkQWH1BRJFUCmVbuVRTc/lustH5FRgloele73PrLTzaIO3iXI8IhgWcJXcrE6VxGL1I4rCtwdVyXV4QxN8/YvX1TNSfIzU2mkvhENBoze6C3Icu0qWW8BSDN2ddA/fNlli6VP9P2U1QhjPPpHs5YVrOXvt/adD1PzuWpLNRfr6DKMzDyYV/qwUJARL7NaOwXjN+v4Yu228lOFiW9GOEm3nq4i/rur10jrcd+OqjB8XUsgP2ylZ9u/GD+S2Rk9Nh1R3yRpdM9vH3h8HHQK4SGQSAvwEtkgzyMec+C+2FhyUp1mGfV6bKADrv/MernHL1s0CLh/XyMVpo/s3mcQvjPyD7Ll5Ijs2RnaGbO7JIBnChjbcJZrTSw8jXyNT9Dj9YD+il5YyZO/EuVDrS7Gey+qnVbFE8bfVjLz9j+FvNjCRKmfS47Oa/I1PxRv7hRy07TgiCEfUgg==;5J274D0Pdpz2ZgHbUyYMdQ=="
 ---
 

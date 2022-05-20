@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-04-05-whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson.md",
+      "title": "What’s in a name? Buffalo’s link to IBM Supercomputer, Watson",
+      "excerpt": "Most folk are aware of IBM’s Watson, the deep-thinking supercomputer that won jeopardy and launched an artificial intelligence bonanza. Watson is not the fastest supercomputer in the world ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/",
+      "originalUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalorising.com/wp-content/uploads/2018/03/Idea-1024x614.jpeg",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/amp/",
+      "cdnAmpWebUrl": "https://www-buffalorising-com.cdn.ampproject.org/c/s/www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/amp/",
+      "publishedDateTime": "2022-04-05T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo Rising",
+        "domain": "buffalorising.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-facial-recognition-system-to-be-launched-at-pune-airport-in-2023.md",
       "title": "Facial recognition system to be launched at Pune airport in 2023",
       "excerpt": "A facial recognition system will be launched at Pune's Lohegaon Airport by March 2023, Minister of State for Civil Aviation VK Singh said in Parliament. The system will be launched as part of the Centre's Digi Yatra initiative to provide passengers \"seamless and hassle-free experience at airports\".",
@@ -1059,58 +1102,6 @@
         "AI",
         "AI Ethics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-vanderbilt-researchers-using-artificial-intelligence-to-help-basketball-players-improve-their-shots.md",
-      "title": "Vanderbilt researchers using artificial intelligence to help basketball players improve their shots",
-      "excerpt": "Using facial recognition and computer vision, NOAH generates detailed statistics about how and where somebody is shooting, the trajectory of the ball, and where they missed shots from. NOAH ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
-      "originalUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/04/720/405/iStock-1342205557.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
-      "publishedDateTime": "2022-04-04T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

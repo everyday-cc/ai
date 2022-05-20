@@ -2,60 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-05-04-robots-are-the-key-to-advancing-artificial-intelligence.md",
-      "title": "Robots Are The Key To Advancing Artificial Intelligence",
-      "excerpt": "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-05-04T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-05-04-vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology.md",
       "title": "VW Group To Rely On Qualcomm Chips For Its Self-Driving Technology",
       "excerpt": "All VW Group brands will use this chip starting in 2026 in a deal that runs through to ... Instead, it is also working alongside Argo AI and has already partnered with the company to develop an all-autonomous version of the electric ID.",
@@ -1380,6 +1326,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
+      "title": "Pittsburgh Welcomes Plus One Robotics",
+      "excerpt": "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

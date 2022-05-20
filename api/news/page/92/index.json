@@ -2,6 +2,49 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2022-03-01-tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada.md",
+      "title": "Tesla begins rolling out Full Self-Driving FSD Beta in Canada",
+      "excerpt": "Tesla begins rolling out Full Self-Driving FSD Beta in Canada. Only users who actively apply and pass their \"Security Test Score\" can try it",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/",
+      "originalUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/02/Tesla-Autopilot-a-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/",
+      "publishedDateTime": "2022-02-28T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028.md",
       "title": "Speech Recognition Market Growth Rate, Top Players Analysis, Statistics, Revenue and Forecast till 2028",
       "excerpt": "Market Study Report Adds New Research On Speech Recognition Market, Which Is A Detailed Analysis Of This Business Space Inclusive Of The Trends, Competitive Landscape, And The Market Size. Encompassing One Or More Parameters Among Product Analysis,",
@@ -1135,59 +1178,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions.md",
-      "title": "UNESCO International Research Center Spotlights In 2022 Global Top 10 Outstanding AI Solutions",
-      "excerpt": "IRCAI ( International Research Center on Artificial Intelligence) under the auspices of UNESCO, launched an unprecedented program to identify the global top 10 AI solutions supporting the United Nations Sustainable Development Goals (SDGs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621bb520766538529bd5d84e/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/",
-      "publishedDateTime": "2022-02-27T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

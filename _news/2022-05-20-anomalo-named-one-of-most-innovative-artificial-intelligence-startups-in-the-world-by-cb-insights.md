@@ -84,12 +84,12 @@ related:
         isCached: true
   - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-17T21:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
+    publishedDateTime: 2022-05-17T22:45:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: FOX31 Denver
+      domain: kdvr.com
     quality: 36
     images:
       - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
@@ -97,18 +97,18 @@ related:
         height: 400
         isCached: true
   - title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "NEW YORK, May 19, 2022 /PRNewswire/ -- CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
-    publishedDateTime: 2022-05-19T23:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_da4784f4-c976-5aa0-a574-0834544df640.html"
+    excerpt: "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    publishedDateTime: 2022-05-20T01:56:00Z
+    webUrl: "https://fox40.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: FOX40
+      domain: fox40.com
     quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
+        width: 800
+        height: 328
         isCached: true
   - title: "WellSaid Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial ..."
@@ -141,12 +141,12 @@ related:
   - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
     excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:   “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
     publishedDateTime: 2022-05-19T16:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-c79946a0a421e8cf10b36e92bbc0b6f6"
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-c79946a0a421e8cf10b36e92bbc0b6f6"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 26
+    quality: 24
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

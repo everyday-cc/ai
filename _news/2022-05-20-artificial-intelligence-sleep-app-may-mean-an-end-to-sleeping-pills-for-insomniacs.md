@@ -24,6 +24,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Sleepio: could an artificial intelligence sleep app be the answer to insomniac’s prayers?"
+    excerpt: "The National Institute for Health and Care Excellence has endorsed sleep tech company Sleepio’s algorithm-based treatment to reduce sleeping pill prescriptions."
+    publishedDateTime: 2022-05-20T07:57:00Z
+    webUrl: "https://www.stylist.co.uk/health/sleepio-artificial-intelligence-insomnia/662325"
+    type: article
+    provider:
+      name: Stylist
+      domain: stylist.co.uk
+    quality: 30
+    images:
+      - url: "https://www.stylist.co.uk/images/app/uploads/2022/05/20082136/gettyimages-1058382320-1-crop-1653031357-1680x880.jpg?w=1680&h=880&fit=max&auto=format%2Ccompress"
+        width: 1680
+        height: 880
+        isCached: true
+
 secured: "NPXp4ZgXNgziSBDlFL/v4Jlo7UbJIvg94VpqxEPvDeMS+wi/zGQCWGAs8Wn+JLRhaqlQ5btdxzaVphBtnzC2Zf2DtIpTcP/b0I7TQlilbhFDPWja1bBuLqqPu/Jg/evXf1i5AYQM+aDH5vGa0UpkcHFsvqYPnbWw7mqa1I4Uil1q0hAwqMqQfHL1Md6HCvvyJY6gbRzbEFqgeVop/69YnYhIh2vDpGqNggovW7SQqC34g3lo5idGEOJ4uYVlg/nolT91dF5mxq/z5VzdjVFmUncYf6IDURgOX/AP3Y4/T91hweFn2w3SKqmZJSxgo3ll8aDUba9XM4miK8M8V1lfraq15bD75FzWLMtW5TXYOuI042YJlygVXhhW5crFzjFo0IfANnY4ubi2A692GG3Bgrezfx/beqwzhbHopl+0GyWU4Sa4aXrZHYepU+QtGk5U8jZ/cX3de26Wze4+5fc9wJ67HhBDAEQugUsIoX8Q9ze+syX25PKNNTUVn8V7mVWlir9yNmOlzgikcDeq83Kg1g==;MaMVO778mMpEvo3l04ba/Q=="
 ---
 

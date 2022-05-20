@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-05-03-how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short.md",
+      "title": "How To Adopt AI-Based Business Intelligence Solutions When Traditional Dashboards Fall Short",
+      "excerpt": "Business leaders must consider leveraging AI to monitor and learn the behavior of data in real ... The right product manager will be able to align with data scientists and translate expectations and results to management, bridging the gap between the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60ca10c91854bb852614d23b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/amp/",
+      "publishedDateTime": "2022-05-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions.md",
       "title": "RPT-FOCUS-Startups apply artificial intelligence to supply chain disruptions",
       "excerpt": "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ...",
@@ -1149,58 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-6-must-see-indie-games-we-saw-at-pax-east-2022.md",
-      "title": "6 must-see indie games we saw at PAX East 2022",
-      "excerpt": "In combat, for instance, players can call on their manager to apply a buff or debuff, and players have to mind a hype meter ... is that players pretty much control two characters instead of just one. The first is a giant robot armed with a sword that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/",
-      "originalUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cult-of-the-lamb-featured.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/missed-games-pax-east-2022/?amp",
-      "publishedDateTime": "2022-05-02T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

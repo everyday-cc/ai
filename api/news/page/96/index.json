@@ -2,6 +2,40 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-02-24-irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback.md",
+      "title": "IRS will allow taxpayers to forgo facial recognition amid blowback",
+      "excerpt": "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1",
+      "publishedDateTime": "2022-02-23T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-facebooks-hyped-new-ai-concept-looks-busted-as-hell.md",
       "title": "Facebook's hyped new 'AI concept' looks busted as hell",
       "excerpt": "The biggest stories of the day delivered to your inbox.",
@@ -1137,59 +1171,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time.md",
-      "title": "Meta's Zuckerberg: 'AI is perhaps the most important foundational technology of our time'",
-      "excerpt": "Zuckerberg said Meta will make \"a single model that can understand hundreds of languages\" and \"a universal speech translator\" that would offer instantaneous translation between all languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
-      "originalUrl": "https://www.zdnet.com/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0473600d410f4325d2d67d8bffe30e38de96e24c/2022/02/23/240b3d28-afe8-462d-9988-306272f429e9/zuckerberg-2022-ai-lab-meta-presentation.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-zuckerberg-ai-is-perhaps-the-most-important-foundational-technology-of-our-time/",
-      "publishedDateTime": "2022-02-23T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

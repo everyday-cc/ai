@@ -2,19 +2,19 @@
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
 excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:13:00Z
-originalUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+publishedDateTime: 2022-05-13T02:04:00Z
+originalUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
 
 provider:
-  name: Iowa Public Radio
-  domain: iowapublicradio.org
+  name: Texas Public Radio
+  domain: tpr.org
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +23,6 @@ images:
     height: 242
     isCached: true
 
-secured: "vTQucIv2sPoeUCViQay+YPJ8tOfE/EI/8rbWBqRW8rBdj2pYFB3UlCzk7gF9nHUhw35wsbGvRRj8SzmIkBBIlSYgX4xq+Fj6EU61/fLCQcJlo+rdgSeBdOy1LIbyUkCG6PoTfIm2BKR+SyCW/sn8Sp9YMLF474JONW4a+QxoMHdtVRAbUyiWUtvBPnSFP1a7or/SfGh9+IBDk9C2FToeIdQzPQWLboKuOi+nweEw4qIEVRQZaT8ErDX5YV+DIDRO07LewtUYGZF1f3v1FZA+EWTZIzg61c9sCUoB755cyszY7vqsrFO7mi+qRo40VU/1goeQRYL6kMx2rBNXCvR77tBXOa/ZwzVwCiJDHP6aU5Y=;NhLEa88w/9OxML6m/Rz52A=="
+secured: "Y0IKbs63xE5mcBGdgP0mQw57/LP1xanOreLZCTdPqAYqVWhCChDz0bAx3xUjEyhVIe3bvldt6LZRVdg5v86uKRyS7udqwFsDekEI6YzJg93waI3bBodcOY2ONkx6I0N4szqOmbiv4Kk3RPhDuxmC9TVhHc4RumPO4/3DpOwSC884D1b6M5zkqiia7Nr19vM3sLOohfdULvSadrYMLDUDa6FQW6fX5isZfkfIB7Uas4ZJPpKiPzFu4zUMsMVVnBTOxGRT/Hip2hzVQGoo3dMhv6b9mXQwKfOdMhvs9DoFpZ3bZqi5KuFZdnFZTkV0+KhhO0eWwhp/NwalAFt6bY048aESdKrm2tB0Sd8OpaUVw+o=;83eBT9l5XI2nV2nr3ycpmw=="
 ---
 

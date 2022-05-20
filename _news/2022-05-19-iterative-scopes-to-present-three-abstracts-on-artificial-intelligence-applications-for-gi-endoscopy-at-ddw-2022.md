@@ -1,29 +1,24 @@
 ---
 category: news
 title: "Iterative Scopes to Present Three Abstracts on Artificial Intelligence Applications for GI Endoscopy at DDW 2022"
-excerpt: "Iterative Scopes, a pioneer in precision medicine technologies for gastroenterology, announced today that its artificial intelligence platforms will be featured in three abstract presentations at the upcoming Digestive Disease Week 2022 (DDW 2022)."
-publishedDateTime: 2022-05-19T12:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-san-diego-artificial-intelligence-db74b2277b674ca6a5166588340a25f2"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-san-diego-artificial-intelligence-db74b2277b674ca6a5166588340a25f2"
+excerpt: "Two abstracts include data generated in collaboration with Eli Lilly and Company and focusing on an AI-driven automated disease scoring technology aimed to accelerate clinical trials for ulcerative co"
+publishedDateTime: 2022-05-19T12:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/b27298679/iterative-scopes-to-present-three-abstracts-on-artificial-intelligence-applications-for-gi-endosco"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/b27298679/iterative-scopes-to-present-three-abstracts-on-artificial-intelligence-applications-for-gi-endosco"
+ampWebUrl: "https://www.benzinga.com/amp/content/27298679"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27298679"
 type: article
-quality: 18
-heat: 18
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-  - AI in Healthcare
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "wQMKKw1Dt8qI3/vbXXUOM7wdLzj3ppj/lz6mQgbQ/0vO9a+kFLAQBEh6g/aVkjkadDySKZCL5AkNE/POPQF3XPjftLVuf6/XZtLJ28iPsxa5bOATZhi2Hu2ZhpKbSRC/vYX/ZsT65Cz/C/nzidlBTb40wL27PBNpAvHzUZFykbvyNUe1g6ijN8k40UjVslnJr7mcr9Aeja6v0wKKkVP2gyCA2jBqzStd7hobThXXgx4b7/ab+fNbjPp/8syoD/F+tvdpxt2Ritu3xLDH1b6Cc3INbcP9bRscUDbQS9z1oUK+ECaqczF7iiEsCHgRU0jFjJXBvO8WXJwFor7/KRQIe+0w5cQrYItrGwZvuctfza4=;U+Qzt9VTeaYww4ch7ECnuw=="
+secured: "Qa0+7EA9StJhEHZMhGn4mnAAH7KoKbuSzpQRFKd7T/mQVKLkIWu+oeah4xvUlx1XB0LzsjzpOk3TlYEvJnM056X51by0lv7eL5AbdgvuSAcoA7eqAL37vnGG0/hfk5/h4cihmhmHMsgyffk7aWPbTIIHSDftobJ1oeMlbWPvh691IQFHUrRjzVT6UR12XBkmpV0ih60C6Uoxl3w0+KkfMjAfSpQl4LnFBZR4MfC0hRxyjuOHmCqU8IxzxXhUkazjTYukcWVWd0+OOcCGS8sz9yLeg6p3IJIMingUXjjDjOB1ak+mGuU8Tyug21IcMLk35axUzYgloLGIpws1NzRwHbHNyncSlyPDxsdehiyFZXw=;Fu99WpQb/7cQS3FURg8sCw=="
 ---
 

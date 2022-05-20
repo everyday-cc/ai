@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-tool-decrease-diagnostic-p
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-tool-decrease-diagnostic-psoriatic.amp"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Benefits Psoriatic Arthritis Patients"
-    excerpt: "PredictAI, a new machine-learning tool developed by researchers, speeds up the diagnosis of psoriatic arthritis (PsA) by up to 4 years."
-    publishedDateTime: 2022-05-15T14:07:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "New AI tool can speed up the diagnosis of psoriatic arthritis by up to 4 years"
     excerpt: "Researchers in Israel have shown that a new machine-learning tool can speed up the diagnosis of psoriatic arthritis (PsA) by up to 4 years, potentially preventing irreversible joint damage and deteriorating function for sufferers."
     publishedDateTime: 2022-05-15T18:35:00Z

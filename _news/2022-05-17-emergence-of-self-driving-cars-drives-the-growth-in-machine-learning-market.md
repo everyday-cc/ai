@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "China homegrown self-driving chips gaining ground in EV market"
+    excerpt: "China's homegrown high-end autonomous driving chips have seen a significant breakthrough in commercial applications, as Chinese AI chip startup Horizon Robotics has over the past month cut into the supply chains of both BYD and FAW Group with its latest automotive-grade AI processor,"
+    publishedDateTime: 2022-05-20T06:30:00Z
+    webUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=10"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220520pd201_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Artificial Intelligence (AI) in Mining Market: Top Driving Factors That Could Escalate Market Growth Worldwide, Report"
     excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources to reduce waste drives the growth of the market. In addition, autonomous mining equipment equipped ..."
     publishedDateTime: 2022-05-19T13:57:00Z

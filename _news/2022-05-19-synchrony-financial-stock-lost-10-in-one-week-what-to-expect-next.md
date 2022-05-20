@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/synchrony-financial-stock-lost-10-in
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next?amp"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,11 +25,18 @@ related:
     excerpt: "The current scenario is likely to increase the credit risk, leading to an increase in the provisions of credit losses."
     publishedDateTime: 2022-05-18T12:00:00Z
     webUrl: "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 34
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//6284647b19c3382449b0251b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "0TQzOPoMbGSFJnIZuOwqn7EjM45Jj1bwKF3r1Dii/pAcvTHK0BxkyYLNTLQ/BRIxR2gLQ84SJ7fge9tXbkAvVJXqMbJWB/GvRa3h2slfw/+GYZu+B2GabThFja/VeCs9/ORvLToUR/Wgjw+6tajIMgD9pPnpNDSqq+kTRP4d5octA7UKby9+i3Sf0AUhwMZLqCVn7gjBOgbQc22l7PL91ev3xnopq5/fE+bJbrnzo24QlFfd6LZL2NlT8czYpAgdXXJpoupQcrpSGWCJUMdHk0TxcA7NohOCUHDr+vtk1uzNg67iV0zMGPdemN8I+rnGLy7D5Vcf6DoSNIkoAYPSxPar9LrdpKQHmICJE/6+Qe8=;2Ko2hfF0wNcsyLcDlVoZGw=="
 ---

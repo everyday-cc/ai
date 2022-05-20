@@ -2,17 +2,17 @@
 category: news
 title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
 excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-publishedDateTime: 2022-05-17T21:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
+publishedDateTime: 2022-05-17T22:45:00Z
+originalUrl: "https://kdvr.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+webUrl: "https://kdvr.com/business/press-releases/cision/20220517NY61119/fero-labs-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
   - AI
@@ -81,18 +81,18 @@ related:
         height: 700
         isCached: true
   - title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "NEW YORK, May 19, 2022 /PRNewswire/ -- CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
-    publishedDateTime: 2022-05-19T23:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_da4784f4-c976-5aa0-a574-0834544df640.html"
+    excerpt: "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    publishedDateTime: 2022-05-20T01:56:00Z
+    webUrl: "https://fox40.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: FOX40
+      domain: fox40.com
     quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
+        width: 800
+        height: 328
         isCached: true
   - title: "WellSaid Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial ..."
@@ -139,12 +139,12 @@ related:
   - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
     excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:   “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
     publishedDateTime: 2022-05-19T16:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-c79946a0a421e8cf10b36e92bbc0b6f6"
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-c79946a0a421e8cf10b36e92bbc0b6f6"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 26
+    quality: 24
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -187,6 +187,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "w6BZ8caKuicOmjVU/1+FkQtJAZCwJwKxkGb7a64O12i4SzRA8ci99ByO1Ra6+xhQjY5JD3v6khtM4dwqftjIcVXB2OCsa6RLtl47245tRhdrI5iffMity5iqqKXPBZ5SAuqoOV86sQz7UhbBIz/wbhmf/s38773X473084Xj+31yclrV0rTONWGupQ2SAm5ltnqlT/dNe5Ue3hywmQ/uMf1IlwgsY3Dv1PujmSwvDUC9/vdwGh9WyLSNZmAUQYG8M16wY8NyXOsYS0BDJhl+D312w7h6rH7+cDQfNi9/aOgFIHsrQ2s2+ppBH0bG/4N2xmhbUnMkqIz/iOUjHeVgaX6E0XAgY2t66izW6HUqOrk=;JZjKeAv74drqf+n4ZdMXsg=="
+secured: "4LfCI/hKV6TzqEGrvUYIc2b8P1UahORjaq0kotJmqkiBeA/qjEaky/2ygIs6UuwO8HFC1Z6pxOwCPARuPl8TyaMY3po27XpDAeVlWuG6IO9/nKIjB9h7x300hN4mo3blyp8iPqf5+dMa5AhKspDLv4/icg1BcHrnZIPrFABTk2CoOSK7OzfiuaE8WRYwl1o6VL996HLQszHShg2Lj9Sbpdo6gfzDb8NM2okrAB5EpbsZYsgLKaPp9ltzGdSxfqSi6QeDFvfocg/kDuCVl7skRPCHRKoVkR88z5WlkxyuqjbgqPEcqUlIzAibg8tDZRWpHx7h7n8HycnmZlR0inecxMWBq5klsfxbp1gn/2ENNHM=;g0DyNSMibelYkftu/Dn8qQ=="
 ---
 
