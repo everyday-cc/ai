@@ -2,6 +2,145 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-11-interrogating-the-perpetual-foreigner-ideology-in-the-language-of-the-dignity-act.md",
+      "title": "Interrogating the perpetual foreigner ideology in the language of the Dignity Act",
+      "excerpt": "The bill includes several other negative provisions: detaining families seeking asylum in processing centers on the border for up to 150 days; making “fraudulent representation concerning asylum” a federal crime punishable for up to 10 years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.peoplesworld.org/article/interrogating-the-perpetual-foreigner-ideology-in-the-language-of-the-dignity-act/",
+      "originalUrl": "https://www.peoplesworld.org/article/interrogating-the-perpetual-foreigner-ideology-in-the-language-of-the-dignity-act/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.peoplesworld.org/wp-content/uploads/2022/05/citizenship960.jpg",
+          "width": 960,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People's World",
+        "domain": "peoplesworld.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-sas-viya-on-microsoft-azure-can-deliver-204-roi-according-to-independent-study.md",
+      "title": "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study",
+      "excerpt": "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study",
+      "originalUrl": "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessghana.com/cms/webroot/img/news/thumb_2022-05-19-14441601.jpg",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessGhana",
+        "domain": "businessghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-achieve-in-vehicle-comfort-using-personalized-machine-learning-and-amazon-sagemaker.md",
+      "title": "Achieve in-vehicle comfort using personalized machine learning and Amazon SageMaker",
+      "excerpt": "This blog post is co-written by Rudra Hota and Esaias Pech from Continental AG. Many drivers have had the experience of trying to adjust temperature settings in their vehicle while attempting to keep their eyes on the road. Whether the previous driver preferred a warmer cabin temperature, or you’re now",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-in-vehicle-comfort-using-personalized-machine-learning-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-in-vehicle-comfort-using-personalized-machine-learning-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/ML-9354-image003-300.jpg",
+          "width": 300,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T09:24:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-how-voxels-ai-technology-could-put-a-stop-to-accidents-at-work.md",
       "title": "How Voxel’s AI Technology Could Put A Stop To Accidents At Work",
       "excerpt": "San Francisco-based Voxel will today announce a $15 million Series A round, with investors flocking to a company promising that new technology can dramatically reduce workplace accidents. The business applies artificial intelligence tools to live video feeds from its customers in order to prevent accidents before they happen and to identify behaviours that might lead to future health and safety difficulties.",
@@ -452,49 +591,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
-      "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
-      "excerpt": "Scientists find public appetite for self-driving vehicle trails far behind that of the technology companies and steps need to be taken to make them a success",
-      "sourceUrl": null,
-      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
-      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "i",
-        "domain": "inews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-11-deci-deep-learning-platform-aims-to-ease-ai-application-development.md",
       "title": "Deci deep-learning platform aims to ease AI application development",
       "excerpt": "Using Deci, the company says, AI developers can achieve improved inference performance and efficiency to enable effective deployments on resource-constrained edge devices, maximize hardware use and reduce training and inference cost.",
@@ -596,6 +692,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
+      "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
+      "excerpt": "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories",
+      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories",
+      "cdnAmpWebUrl": "https://inews-co-uk.cdn.ampproject.org/c/s/inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories",
+      "publishedDateTime": "2022-05-11T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "i",
+        "domain": "inews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1059,145 +1198,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-the-problem-with-self-driving-cars.md",
-      "title": "The problem with self-driving cars",
-      "excerpt": "The question was never about automating driving. The question is about how to transform the transit experience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/",
-      "originalUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/shutterstock_635238704.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-10T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
-      "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
-      "excerpt": "IBM has set a new goal for propelling the ... the company's \"error\" predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare and ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91481989,imgsize-28942,width-1200,height-628,overlay-etcio/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "publishedDateTime": "2022-05-10T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-launches-new-ai-chips-challenging-nvidias-market.md",
-      "title": "Intel launches new AI chips, challenging Nvidia's market",
-      "excerpt": "as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp (NVDA.O). Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
-      "originalUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

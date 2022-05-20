@@ -95,18 +95,18 @@ related:
         height: 400
         isCached: true
   - title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Elementary recognized for achievements in machine vision and industrial quality inspections NEW YORK, May 19, 2022 /PRNewswire/ -- CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
-    publishedDateTime: 2022-05-19T22:57:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-354915698884a3fcf6d298e87c2c7671"
+    excerpt: "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+    publishedDateTime: 2022-05-19T22:56:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_da4784f4-c976-5aa0-a574-0834544df640.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 35
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
   - title: "Wellsaid Labs Named To The 2022 CB Insights AI 100 List Of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking , showcasing the 100 most promising private artificial intelligence companies in the world. 'This is the sixth year that CB ..."

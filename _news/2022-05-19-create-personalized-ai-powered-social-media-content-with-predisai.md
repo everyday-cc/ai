@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
-excerpt: "Predis.ai brings a revolutionary AI-based social media assistant to individuals and businesses to get content inspiration and create unique personalized content for different soci"
-publishedDateTime: 2022-05-19T13:00:00Z
-originalUrl: "https://wreg.com/business/press-releases/cision/20220519IO63101/create-personalized-ai-powered-social-media-content-with-predis-ai/"
-webUrl: "https://wreg.com/business/press-releases/cision/20220519IO63101/create-personalized-ai-powered-social-media-content-with-predis-ai/"
+excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly. PUNE, India , May 19, 2022 /PRNewswire/ -- Social media has"
+publishedDateTime: 2022-05-19T12:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27297790/create-personalized-ai-powered-social-media-content-with-predis-ai"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/n27297790/create-personalized-ai-powered-social-media-content-with-predis-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/27297790"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27297790"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WREG
-  domain: wreg.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-
-images:
-  - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
-    width: 800
-    height: 268
-    isCached: true
 
 related:
   - title: "Forma AI poised to grow AI-supported sales compensation management platform"
@@ -164,6 +160,6 @@ related:
       domain: businessinsider.com
     quality: 35
 
-secured: "2+ZuyLw4mum4HdAr5EjAk4gWiK9OCoZ/VFybmJ8glBQ4oZMc2x+IDEkm6nRFyR/TPDylOIeeICB4QhoQs8ep5aPHAUmczrwE8VvhubqmyIMJHCdVBdT/0fHVk9thvEQZUJAo540KpIx8TZh+eVoNBBhYiBPWnWGlInoxkm7/BCnLK9ernxF+e9zE/YFCW0uP5grEGMyQLXN4jmcSpnWTBjHAfJoFtzxg6IQz3MWSO/H+SqxD0WgS7TAgmUDzybJHhN6Lvs1tZ8ziqu+O0p6SsE4jAncAHVg+OWhnFWv+p/FfssTHDuh5oDfLOtE4GiGJ3BhERkAPITjqlJITsKHXPl00Se059fg+fbsy1dGTSFk=;uLkCn+o2L7ynAXdy2YBi5Q=="
+secured: "boplXRWvnVAqbRAauW3AZcyJUViez5X1HfSkcQLP8TIqoDCiVmun3sZgG8ZR/6HQZctD1/ItnVXtGI7aRoovtBM374EAnpOexPInXGo465lszzib/S3jRA9MhZambD80KdpUxOgVqlW1300Y/2Gq7Vt/iDWAFocRH+klD49kXl3k1Sld7+Us0Xz5rPy+hAvrPK31TCt+jfkSR8Q2dF0R4scA95Lp8zri8HNWbNrOJLC3H5AkZDoUTXZt8ZRUaC/BIBs4qVDdsygylcmxP8wCkGRAFrrNBqgUiasThZq67ScArxfVhowQPQna+ebazPz8B9qAbZDIpl4zJup1kkI+tYf5e9Kc7xpWN1JtZHHg4zU=;oSg6qb1n/9HFHxzPmX+LXw=="
 ---
 

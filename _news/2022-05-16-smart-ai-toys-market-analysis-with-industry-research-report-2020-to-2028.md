@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104214911/Smart-AI-Toys-Market-Analysis-With-I
 webUrl: "https://menafn.com/1104214911/Smart-AI-Toys-Market-Analysis-With-Industry-Research-Report-2020-To-2028"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,29 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market Size, Business Segment and Geography – Forecast and Analysis 2022-2028"
-    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
-    publishedDateTime: 2022-05-17T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-segment-and-geography-forecast-and-analysis-2022-2028-2022-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Global Fintech Market is expanding at a CAGR of 22.17% during the 2018-2023 period"
-    excerpt: "Technology segment insights The major technologies involved in the fintech sector are artificial intelligence (AI), Blockchain, cryptography, biometrics and identity management, cyber-security, and robotic process automation (RPA). Major growth will be ..."
-    publishedDateTime: 2022-05-17T06:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-fintech-market-is-expanding-at-a-cagr-of-22-17-during-the-2018-2023-period"
+  - title: "Edge AI Software Market: Global Industry Could Hit New Highs, Says Allied Market Research"
+    excerpt: "Increasing enterprise workloads on the cloud, rapid developments of IoT, and growth in the number of intelligent applications are the major driving"
+    publishedDateTime: 2022-05-18T11:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-global-industry-could-hit-new-highs-says-allied-market-research"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 18
+    quality: 28
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
         width: 600
         height: 337
         isCached: true
+  - title: "Data and AI Ethics Market Size In 2022 with Top Countries Data : What is the demand outlook for Industry? | In-Depth Analysis with 104 Report Pages"
+    excerpt: "May 17, 2022 (The Expresswire) -- According to this latest study, In 2022 the growth of Data and AI Ethics Market will have significant change from previous year. Over the next five years the Data and AI Ethics Market will register a magnificent spike in ..."
+    publishedDateTime: 2022-05-18T13:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-in-2022-with-top-countries-data-what-is-the-demand-outlook-for-industry-in-depth-analysis-with-104-report-pages-2022-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
 
 secured: "P+LwMGQQHxR1+BbX0XLNVUapy9KtE+bXLqO1Kn5hJqs8KS5e3xSeSJAkeYnC3kMddU9slKOrKO+oSzm4cIYvgZPQwLkbwlL9Ap6802Ov1xuBFiVTp/eMnte6gHoxl/JckIFIEuZ1P3kmCZaxRe+iLMxuAUupOieuJ+TqDV3BYXH2g/ofpzw6h8/Kuc20MZc/w0huD7pJvOqc5QSLkRgLAS7UZIZupYihmvbZRuIQwTyMHQo3WELUfJxw6dU1jL49MaeXSmoAR8KaQwm+4oNCr324TdRBhuss20OiWKn3v0kwLz84WrSnIgffBR/z3K43HeJLzTqxkKMKLwDOHEuVCTRLlYIeYqpIi8oZhpUGfCY=;c8Qur598VKlR1fi3pqjwXQ=="
 ---

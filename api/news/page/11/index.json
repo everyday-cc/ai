@@ -2,6 +2,155 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-05-10-clearview-ai-agrees-to-restrict-us-sales-of-facial-recognition-mostly-to-law-enforcement.md",
+      "title": "Clearview AI agrees to restrict US sales of facial recognition mostly to law enforcement",
+      "excerpt": "Clearview AI, a controversial facial-recognition software company, agreed on Monday that it will not sell its software to most companies in the United States — a decision that will largely restrict its use to law-enforcement agencies in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
+      "originalUrl": "https://www.cnn.com/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 504,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220509145253-02-clearview-ai-file-022222-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
+      "publishedDateTime": "2022-05-09T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach.md",
+      "title": "Fresh off $2B valuation, machine learning platform Hugging Face highlights ‘open and collaborative approach’",
+      "excerpt": "Earlier today, community-driven machine learning platform Hugging Face announced $100 Million in new funding – raised in just one week – to continue building what many, including CEO Clement Delangue,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/",
+      "originalUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/collaboration.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/amp/",
+      "publishedDateTime": "2022-05-09T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-self-driving-microscopes-discover-shortcuts-to-new-materials.md",
+      "title": "'Self-driving' microscopes discover shortcuts to new materials",
+      "excerpt": "Researchers are teaching microscopes to drive discoveries with an intuitive algorithm that could guide breakthroughs in new materials for energy technologies, sensing and computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220509150750.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220509150750.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-a-smarter-way-to-develop-new-drugs-using-artificial-intelligence.md",
       "title": "A Smarter Way To Develop New Drugs Using Artificial Intelligence",
       "excerpt": "A new artificial intelligence technique has been developed that only proposes candidate molecules that can actually be produced in a lab. Pharmaceutical companies are using artificial intelligence to streamline the process of discovering new medicines.",
@@ -1054,156 +1203,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-report-intels-looking-to-sell-computer-vision-software.md",
-      "title": "Report: Intel's Looking to Sell Computer Vision Software",
-      "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
-      "originalUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-5-ways-ai-can-help-solve-the-privacy-dilemma.md",
-      "title": "5 ways AI can help solve the privacy dilemma",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/",
-      "originalUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/amp/",
-      "publishedDateTime": "2022-05-08T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence industry is expected to grow to $554 billion in total revenue by 2024, according to market research firm IDC.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
-      "originalUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics",
-        "IBM AI",
-        "AI in Autos"
       ]
     }
   ],

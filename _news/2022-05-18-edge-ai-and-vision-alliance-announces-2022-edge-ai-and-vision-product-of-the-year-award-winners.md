@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Edge AI and Vision Alliance Announces 2022 Edge AI and Vision Product of the Year Award Winners"
-excerpt: "SANTA CLARA, Calif., May 17, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the 2022 winners of the Edge AI and Vision Product of the Year Awards. The Awards celebrate the ..."
-publishedDateTime: 2022-05-18T06:18:00Z
-originalUrl: "https://myfox8.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
-webUrl: "https://myfox8.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
+excerpt: "SANTA CLARA, Calif., May 17, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the 2022 winners of the Edge AI and Vision Product of the Year Awards. The Awards celebrate the innovation and achievement of the industry's leading companies ..."
+publishedDateTime: 2022-05-18T02:30:00Z
+originalUrl: "https://www.kxan.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
+webUrl: "https://www.kxan.com/business/press-releases/cision/20220517SF55829/edge-ai-and-vision-alliance-announces-2022-edge-ai-and-vision-product-of-the-year-award-winners/"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: WGHP
-  domain: myfox8.com
+  name: KXAN
+  domain: kxan.com
 
 topics:
   - AI
@@ -35,6 +35,6 @@ related:
         height: 202
         isCached: true
 
-secured: "ISZHtDnstcCNzhMrO3E7GN2Nf9kWjjibIoax57KjQJwjQDbAEklXP9z353RPoeSOGd3/Haqr5WSNZfH852LiD0ZxhwDNCu0nKbWocRtD9kmdEbhcHYt/Mhwo+jl+4oAFYA70asgcd4kvBnuiealJ2c1V0aGOPSuoXQSshI2tRBzjsgcxkEYClNKcZnu9d2z1b34wFovy/dGhhw8v3C/qoVPqLKnc7pE0HGXAliBmAElTyfFwIfZXnN59uVSl544jqU/L64Lx1Fb0VfRseXjXAYvcBME1u5qSZTaqkQWLyzOtrcFCxYZYgovehIksDSK0K9MJOWkAb+v1nO8Qj/3U5o8DKM+3mcKWgmSAA6Rdm0k=;4leUtM8PrQCqINV8nkz05A=="
+secured: "egW5mqDjkJ1WleiivuG6QMG5UlAhUdTvUqyIBuGgQ/TpJFfZS5mJJq3R7AAu4rkDDxtYi0YRamJUGui/F2dGCAey5BlSDvlSiKIJ5eJ0I1ksOXet1Z2ALzuA3bl4RRn5QKZbP/iSCPjMjfg3N3nyAUBVpIzlDNkbl2HEObRa7JNQY1Ps7OGgZ4DKafwWpWhSz4VZMgAiWPkv8d62p1v0bi9FODtBfytii46z830V1vKibStzxCoXoIqPbCUl0p+JXjljZEtQ3lrTjyWxDRsx1l0NvmgrcNNBPc+zB0STriCPWVQYdWuVCFA+MByu8OarlmuC2lOeQTiWwiS9z31yhrVTglT6EWKBOAQTCpxUlRE=;z/38LV1epkR8AGLnNwkXZw=="
 ---
 

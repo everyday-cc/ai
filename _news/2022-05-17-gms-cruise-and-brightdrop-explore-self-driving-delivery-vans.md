@@ -33,15 +33,6 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "GM Cruise and BrightDrop start to work on autonomous delivery vans"
-    excerpt: "General Motors is working with BrightDrop electric van business by setting up its autonomous software Cruise in the vans."
-    publishedDateTime: 2022-05-15T19:08:00Z
-    webUrl: "https://techstory.in/gm-cruise-and-brightdrop-start-to-work-on-autonomous-delivery-vans/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 2
 
 secured: "dLtZV/Gox/IbRiymRDgE2Ab+PGw2fp6CC2RBdtPv6n18H/QbbKvSfvk5ZIxp/ZFkbep8Xy+PpCQ/jT4QhQ2Z0qBT7ocQVGyIR7gkQgqH7ZSVS1JeDVVl34dbQC8kyWWF49Xvpfb+N83JZLkWrbZlLYveaZf6X1n09d8mTKUaE1G6Cp3rhZ3i596oDpcTGOskup7YgZYp4qAqfNdpqOvyIjbkGuTPj8W9QI4AFf9f60NcfOJgmWskuHyK8MIvSK63dzI97RVqsFd8Kl90rQKPQ+CuCm/A2eezq1PzqQP0NIQ5HZDBS4lgj6RIh4vmD7das1pcsmJfEnTMcLnMhgFkXT7j7DRbqZyat8MqxV5ZyaSmzXDi/+wNJGKSLtWKXtVMxLP/zMdi3BHu8WQX7kQ9A3Ar51s+d/sMcaqImrqq3FTbYkO9HO1mHk/PKBPWiLWPIsMwILp503wHJSz4tkSES/Z7RUQ2FWPtAHZtxCzPLvxENQlM52qfkLbxmnyQmqZlRCR7CdtnD89BAj8cVRTimA==;x5hFWD4NtSXQ1P99tRQ2zA=="
 ---

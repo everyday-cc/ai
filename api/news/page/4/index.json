@@ -2,6 +2,108 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-16-finding-ais-low-hanging-fruit.md",
+      "title": "Finding AI’s low-hanging fruit",
+      "excerpt": "In some circles, the idea of going smaller with AI is catching on. Instead of a complete forklift upgrade across the entire business process, it’s better to do the easy stuff first.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/",
+      "originalUrl": "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1219474321.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/",
+      "publishedDateTime": "2022-05-16T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-how-to-make-sure-your-resume-passes-muster-with-an-ai-reader.md",
+      "title": "How to Make Sure Your Résumé Passes Muster With an AI Reader",
+      "excerpt": "Including just the right keywords is crucial to getting to the next step in a job search.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_jr_pos2",
+      "originalUrl": "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_jr_pos2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-544215/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916",
+      "publishedDateTime": "2022-05-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars.md",
       "title": "AI Ethics Tempted But Hesitant To Use AI Adversarial Attacks Against The Evils Of Machine Learning, Including For Self-Driving Cars",
       "excerpt": "The net result would seem to be an outcome of good. Not everyone agrees with that sentiment. From an AI Ethics perspective, there is a lot of handwringing going on about this meaty topic. Some would argue that by leveraging adversarial attacks, even when ...",
@@ -876,6 +978,39 @@
       ]
     },
     {
+      "path": "_news/2022-05-14-artificial-intelligence-in-medicine-market-growth-scenario-2028-cyrcadia-health-aicure-modernizing-medicine.md",
+      "title": "Artificial Intelligence In Medicine Market Growth Scenario 2028 | Cyrcadia Health, AiCure, Modernizing Medicine",
+      "excerpt": "Latest survey on Worldwide Artificial Intelligence In Medicine Market is conducted to provide hidden gems performance analysis of Worldwide Artificial Intelligence In Medicine to",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/21351/technology/artificial-intelligence-in-medicine-market-growth-scenario-2028-cyrcadia-health-aicure-modernizing-medicine/",
+      "originalUrl": "https://xaralite.com/21351/technology/artificial-intelligence-in-medicine-market-growth-scenario-2028-cyrcadia-health-aicure-modernizing-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-14T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-14-call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap.md",
       "title": "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP",
       "excerpt": "The global Call Center AI Market size is to grow from USD 1.6 billion in 2022 to USD 4.1 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.3% during the forecast period. The advent of AI in the call center offers enhanced customer support services and better experience coupled with rising development in customer engagement through social media platforms to boost the growth of the call center AI in the market.",
@@ -1021,143 +1156,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction.md",
-      "title": "AI Weekly: AI tools for hiring under scrutiny; Clearview AI settlement reaction",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/",
-      "originalUrl": "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1079268358.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/",
-      "publishedDateTime": "2022-05-13T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-rain-nabs-11m-to-build-voice-experiences-for-brands.md",
-      "title": "Rain nabs $11M to build voice experiences for brands",
-      "excerpt": "A growing number of high-profile vendors occupy a voice recognition market expected to be worth $22 billion by 2026, but one of the lower-profile startups on the scene, Rain Technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/13/rain-nabs-11m-to-build-voice-experiences-for-brands/",
-      "originalUrl": "https://venturebeat.com/2022/05/13/rain-nabs-11m-to-build-voice-experiences-for-brands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/Hero-image-of-new-Smart-Display-visual-experience.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/13/rain-nabs-11m-to-build-voice-experiences-for-brands/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/13/rain-nabs-11m-to-build-voice-experiences-for-brands/amp/",
-      "publishedDateTime": "2022-05-13T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-lawyer-says-georgia-man-set-for-execution-should-be-spared.md",
-      "title": "Lawyer says Georgia man set for execution should be spared",
-      "excerpt": "ATLANTA (AP) — The life of a Georgia man set to be executed Tuesday for killing an 8-year-old girl should be spared, his lawyer argues, explaining that her client has significant cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

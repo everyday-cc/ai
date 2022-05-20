@@ -2,6 +2,134 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-05-02-ai-visionary-and-responsible-ai-leader-linda-leopold-of-hm-group.md",
+      "title": "AI Visionary And Responsible AI Leader Linda Leopold Of H&M Group",
+      "excerpt": "In my ten-part series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was thrilled to have an in-depth and thought-provoking conversation with Linda Leopold of H&M Group. As the Head of Responsible AI & Data, she leads the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/05/02/ai-visionary-and-responsible-ai-leader-linda-leopold-of-hm-group/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/05/02/ai-visionary-and-responsible-ai-leader-linda-leopold-of-hm-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626ed29ead53bf1e91ab771e/0x0.jpg?format=jpg&crop=2143,1205,x0,y107,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/05/02/ai-visionary-and-responsible-ai-leader-linda-leopold-of-hm-group/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/05/02/ai-visionary-and-responsible-ai-leader-linda-leopold-of-hm-group/amp/",
+      "publishedDateTime": "2022-05-01T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world.md",
+      "title": "An AI-ML solution that lets people with disabilities to interact with the world",
+      "excerpt": "They find it tough to access digital content and services and communicate too on the online platforms. Here’s a start-up, DeepVisionTech.AI, which builds a digital interpreter solutions, using artificial intelligence and machine learning solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/ef95ah/article65372881.ece/alternates/LANDSCAPE_615/letstalk.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece/amp/",
+      "publishedDateTime": "2022-05-01T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-would-you-buy-a-work-of-art-created-by-artificial-intelligence.md",
+      "title": "Would you buy a work of art created by artificial intelligence?",
+      "excerpt": "Are computers capable of creating art, will they ever be? In the meantime, examples of artificial art have increased considerably since the last Biennale. We talked about this with Luca Gambardella, who analyses nature to teach artificial intelligence how to be autonomous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.domusweb.it/en/art/2022/05/02/would-you-buy-a-work-of-art-created-by-artificial-intelligence.html",
+      "originalUrl": "https://www.domusweb.it/en/art/2022/05/02/would-you-buy-a-work-of-art-created-by-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Loves by Domus",
+        "domain": "domusweb.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-ai-in-renewable-energy-market-size-to-surpass-us-7582-bn-by-2030.md",
       "title": "AI in Renewable Energy Market Size to Surpass US$ 75.82 Bn by 2030",
       "excerpt": "Tokyo, May 01, 2022 (GLOBE NEWSWIRE) -- The global artificial intelligence (AI) in renewable energy market size was estimated at US$ 8.24 billion in 2021. The growing need for power in emerging and established regions is one of the primary reasons driving ...",
@@ -975,162 +1103,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-anthropics-quest-for-better-more-explainable-ai-attracts-580m.md",
-      "title": "Anthropic’s quest for better, more explainable AI attracts $580M",
-      "excerpt": "Less than a year ago, Anthropic was founded by former OpenAI VP of research Dario Amodei, intending to perform research in the public interest on making AI more reliable and explainable.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/",
-      "originalUrl": "https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1160995648.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/amp/",
-      "publishedDateTime": "2022-04-29T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-arm-announces-new-iot-hardware.md",
-      "title": "Arm announces new IoT hardware",
-      "excerpt": "As part of Arm’s roadmap, the company is also working on Total Solutions for vision, object recognition and smart sensor fusion. The first one will be addressed by Cortex-A53, while the latter ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
-      "originalUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1097773250.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
-      "publishedDateTime": "2022-04-29T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects.md",
-      "title": "IonQ And Hyundai Steer Partnership Toward Quantum ML To Recognize Traffic Signals And Objects",
-      "excerpt": "“QML doesn't need numerous processing steps for traffic road sign recognition like classical approaches to object detection,” he said. “Quantum recognizes a sign and interprets its meaning in one single step.” IonQ has already completed the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/04/29/ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/04/29/ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626c04baf07d0697571617fb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/04/29/ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/04/29/ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects/amp/",
-      "publishedDateTime": "2022-04-29T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

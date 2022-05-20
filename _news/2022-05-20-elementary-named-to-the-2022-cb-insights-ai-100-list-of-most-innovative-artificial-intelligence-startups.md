@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "Elementary recognized for achievements in machine vision and industrial quality inspections NEW YORK, May 19, 2022 /PRNewswire/ -- CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
-publishedDateTime: 2022-05-19T22:57:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-354915698884a3fcf6d298e87c2c7671"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-354915698884a3fcf6d298e87c2c7671"
+excerpt: "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
+publishedDateTime: 2022-05-19T22:56:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_da4784f4-c976-5aa0-a574-0834544df640.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_da4784f4-c976-5aa0-a574-0834544df640.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -182,6 +182,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "HkQzAv7JidqNs7M3nbA25FtQAdEXRsYumpZgS+G5LhzbP1WKDX/xPoeysbgc3B2FZEvoBjcwig8ajIbLYDH+LcilRXP5H3tMC42KeDyMzntEBJBdRFjGGS9TQJ9el1OSTlPn3TC6L43FbaaXOf5CfuqohPr/Zg2T8Rt1NwCC8rlgyzhPikBAPO91qybcz8h1WxfwRKAJYAsbzL2NqrnnzMmt+42KVz3w692O6gHSxhj7/iLNNRNNONx7hF7jYAuYpO+G8G3nd7L7TdDLZvR6i8BG7UUF8g89HHA0kxSBqX27N1HTS447/ogZ1eiM7kCryOm0sbgFXSX8Yhp7KqUtuLXNKeWWWlpcVkvVnDYGST0=;St/9ihngeaec75RzfpFAzA=="
+secured: "unOxWiqF0drKGDJtnW8tUB2/tJbnyKF/F58PH7RrVck7vuFpEFxry5h6jgO5ZxBWpPdynt08Ap431OZB4UbQIjR4KI1ZdEL/mQfyXxAmn0zY3vN55Euios4tn0nVyeT/DJrFhOAwT/y26GYdaW82g7h+tNjVj950YY7vmjjBb/xxW1hLoZKcYTZmLFIyXkgmr0G4UM98uz+yCrPzU4mc3E001uuV5yt73+7H3OjUS8Bnff5iva4y8GpPagrNJDYUveG0E3Utn7Fe08EAuDx+vlU7SAatdLOSjJzAEyQLDyYMwIVqcAlF02qihJGgxB2gg9Uv7r7mKAl0bn3EZSSpUC2dwucmIUtVK2DplpHVxRg=;WzhW9bpdNorPh3xvFc4baA=="
 ---
 

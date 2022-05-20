@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/vision-screeners-market-is-expec
 webUrl: "https://www.digitaljournal.com/pr/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-5-9-during-the-forecast-period-2022-2029"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Natural Language Processing (NLP) Market Size Is Expected To Grow At A CAGR Of 11.1% During Assessment Period 2022-2028 | 102 Report Pages"
+    excerpt: "Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
+    publishedDateTime: 2022-05-20T10:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-natural-language-processing-nlp-market-size-is-expected-to-grow-at-a-cagr-of-11-1-during-assessment-period-2022-2028-102-report-pages"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/CCC-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Global Fintech Market is expanding at a CAGR of 22.17% during the 2018-2023 period"
+    excerpt: "Technology segment insights The major technologies involved in the fintech sector are artificial intelligence (AI), Blockchain, cryptography, biometrics and identity management, cyber-security, and robotic process automation (RPA). Major growth will be ..."
+    publishedDateTime: 2022-05-17T06:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-fintech-market-is-expanding-at-a-cagr-of-22-17-during-the-2018-2023-period"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "The Europe hyperscale data center market is expected to grow at a CAGR of 6% during the period 2022–2027."
     excerpt: "Reportlinker.com announces the release of the report \"Europe Hyperscale Data Center Market - Industry Outlook & Forecast 2022-2027\" -"
     publishedDateTime: 2022-05-18T07:30:00Z

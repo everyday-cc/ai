@@ -2,9 +2,9 @@
 category: news
 title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
 excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-publishedDateTime: 2022-05-11T16:40:00Z
-originalUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
-webUrl: "https://businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204-ROI-according-to-independent-study"
+publishedDateTime: 2022-05-11T16:29:00Z
+originalUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
+webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://businessghana.com/cms/webroot/img/news/thumb_2022-05-19-1439160.jpg"
+  - url: "https://www.businessghana.com/cms/webroot/img/news/thumb_2022-05-19-14441601.jpg"
     width: 300
     height: 225
     isCached: true
 
-secured: "IMTOZHZBXTKpjYAqSS3MpyGK5p/XqXNRGaf9XrAxHNRfaKl3hWLmsL872K9+CES2sJwWuYqNMf2grc6Wpr445mj4zzGN7MML7BZAaOkoxr93Fx5kjGEpdGhnEcko1ZwO8mk+gTgdkOE1TY9rF5cfwXyNSmdv4B30rub1KFk9r6NlBe1P9pru2TiWrtqUXVxyZcqxPdqrsHz4N2Coii0SmujnLtH0SgzHs0medRkALoy1HoPGbeqWYl2Mnoo51tTjD/LaY+YrZ8YbIjhLHPDMVR/qH0jczeWRD3HdpU6f706yNezsf/pZbfgGYDoUCd2t8Ei92QHpCjsug2AjkPGv+mg/JaYOl+TXPtLzFJlNh1w=;+w0oSv4h7rkUw0o74okd/g=="
+secured: "5ise6Yd9bz7XX7PJx9Yz7ujgCNWNVTTH6/qWpDjvW/qAFvjwTremc8Z47RR9u6zbtwoABAEPYtZPBEoHv3nnWRbgL2+fq0NvMl+mmfZTTHqsFQMhVXVe7NCF0sTVpXZZs9dUKi/flLLNvkMWvKUQ8fxn5ddq8RbhoZE7NvjM9cBwruSASy/Msrfw6OBCCCUXeNDfDBwxyz778k7n13BjzKODiqEf60HZMPffH34i7aT+5ov6n3+SUnJ9wFo1JFv7T8P5BiUetGVZBN3WMX3j7kl7tCZeOQjHEC6v/18w+FHq7kVHnKjdqjNS+XaoDtxHeEz8vzFWz7Z5gFICSurby3Fv+vj40EYEb86pK595x+0=;50xvsgWQci6hkbYrb2TKJg=="
 ---
 

@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Lack of strategy, skills biggest barriers for AI adoption in India"
+    excerpt: "Another greatest barrier to successful AI adoption is limited skills, expertise or knowledge (38 per cent) for organisations exploring or deploying AI in the country. \"As the adoption of AI grows ..."
+    publishedDateTime: 2022-05-20T10:54:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91687803,imgsize-53448,width-1200,height-628,overlay-etcio/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "IBM looks to address AI adoption challenges"
     excerpt: "In today’s hybrid cloud reality, distributed data holds the key to unlocking value through new business and operational insights. However, according to the “Global AI Adoption Index 2021,” conducted by Morning Consult and commissioned by IBM,"
     publishedDateTime: 2022-05-19T09:34:00Z

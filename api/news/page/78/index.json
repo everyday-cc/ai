@@ -2,6 +2,135 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-03-15-techforceai-raises-15-million-seed-funding.md",
+      "title": "Techforce.ai Raises $1.5 Million Seed Funding",
+      "excerpt": "To digitally enable knowledge workers with just-in-time AI and Automation \"We believe the future of work will be driven by higher cognitive ... has partnerships with Microsoft, IBM, Oracle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru.md",
+      "title": "Country’s first Artificial Intelligence & Robotics Technology Park launched in Bengaluru",
+      "excerpt": "The country’s first Artificial Intelligence & Robotics Technology Park (ARTPARK) was launched in Bengaluru yesterday.  It is promoted by a not-for-profit foundation set up by the Indian Institute of Science (IISc) Bengaluru,",
+      "sourceUrl": null,
+      "webUrl": "https://newsonair.com/2022/03/15/countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru/",
+      "originalUrl": "https://newsonair.com/2022/03/15/countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsonair.com/wp-content/uploads/2022/03/NPIC-20223159221.jpg",
+          "width": 400,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NEWS ON AIR",
+        "domain": "newsonair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-jim-isaak-think-more-click-less-to-thwart-ai-manipulation.md",
+      "title": "Jim Isaak: Think more, click less to thwart AI manipulation",
+      "excerpt": "You can choose whom you do business with” — he points out that private businesses like GoFundMe can establish their own guidelines, in this",
+      "sourceUrl": null,
+      "webUrl": "https://www.unionleader.com/opinion/op-eds/jim-isaak-think-more-click-less-to-thwart-ai-manipulation/article_74fd5148-f1a2-52d0-be5f-c324e731474f.html",
+      "originalUrl": "https://www.unionleader.com/opinion/op-eds/jim-isaak-think-more-click-less-to-thwart-ai-manipulation/article_74fd5148-f1a2-52d0-be5f-c324e731474f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/8/57/857171a0-ad1e-5411-919b-2c7a347aabc5/622f633a9359e.image.jpg",
+          "width": 382,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Hampshire Union Leader",
+        "domain": "unionleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-cerebras-brings-wafer-size-ai-chips-to-medical-data-analysis.md",
       "title": "Cerebras brings wafer-size AI chips to medical data analysis",
       "excerpt": "AI chip startup Cerebras Systems has deployed one of its CS-2 systems at a well-funded startup that uses natural language processing to analyze massive amounts of biomedical data. As announced on Monday,",
@@ -936,126 +1065,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-democratizing-ai-bridging-the-intelligence-divide-in-commercial-life-sciences.md",
-      "title": "Democratizing AI: Bridging the Intelligence Divide in Commercial Life Sciences",
-      "excerpt": "Small and emerging biopharma have been historically reserved about artificial intelligence. But, writes Alan Kalton, AI solutions have matured, been proven, and are no longer a risky investment for small to mid-size companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmaceuticalcommerce.com/view/democratizing-ai-bridging-the-intelligence-divide-in-commercial-life-sciences",
-      "originalUrl": "https://www.pharmaceuticalcommerce.com/view/democratizing-ai-bridging-the-intelligence-divide-in-commercial-life-sciences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/pharma_commerce/b1e3463c3db169f108c6ae9543c7a4da01efa454-480x270.jpg?fit=crop&auto=format",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pharmaceuticalcommerce",
-        "domain": "pharmaceuticalcommerce.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-artificial-intelligence-robotics-technology-park-launched-in-karnataka.md",
-      "title": "Artificial Intelligence & Robotics Technology Park launched in Karnataka",
-      "excerpt": "Artificial Intelligence and Robotics Technology Park (ARTPARK), the first of its' kind in the country, a not-for-profit foundation has been launched in the city on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
-      "originalUrl": "https://www.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/770339/artificial-intelligence-photopixabay-com.jpg?w=570&h=312",
-          "width": 570,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
-      "publishedDateTime": "2022-03-14T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-kbc-launches-ai-fintech.md",
-      "title": "KBC launches AI fintech",
-      "excerpt": "Belgian bank KBC has launched its own fintech to sell the AI applications it has developed to third parties. Called Discai, the separate legal entity will focus on selling AI-based applications to business-to-business firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/39862/kbc-launches-ai-fintech",
-      "originalUrl": "https://www.finextra.com/newsarticle/39862/kbc-launches-ai-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

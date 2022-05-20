@@ -70,15 +70,6 @@ related:
         width: 768
         height: 513
         isCached: true
-  - title: "Facial recognition technology is a valuable tool"
-    excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."
-    publishedDateTime: 2022-05-15T18:32:00Z
-    webUrl: "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 19
   - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
     excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
     publishedDateTime: 2022-05-19T13:48:00Z

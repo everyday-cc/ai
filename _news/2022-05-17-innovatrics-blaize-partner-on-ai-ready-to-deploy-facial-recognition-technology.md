@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatri
 webUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatrics,-blaize-partner-on-ai-ready-to-deploy-facial-recognition-technology.html"
 type: article
 quality: 50
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 21
-  - title: "Facial recognition technology is a valuable tool"
-    excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."
-    publishedDateTime: 2022-05-15T18:32:00Z
-    webUrl: "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 19
   - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
     excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
     publishedDateTime: 2022-05-19T13:48:00Z

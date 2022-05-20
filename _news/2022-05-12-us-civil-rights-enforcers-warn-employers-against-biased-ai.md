@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/f5ad71513aff4975a6d89f61f8f02e63.jpg?w=1280"
@@ -117,6 +118,6 @@ related:
         height: 633
         isCached: true
 
-secured: "g5sYh+YtJRDOxa+2wPJmT+m+wjna6pp1Xt1dpshz5+1YjeBFkZLQ2BwHvAF1AXZtn9TxqToKb3sSBfx2UVJHF8+qjRRkmXacB22zucofGd7wxuqStlDpWXpX2OdWY8rIbyv9AD7neV4mwvh9m8AmNvlDJwvRbaqvTexo0jO7LU7Pv/bZhk8d01R8xgKz18/LQiR4HwZFUvrzOlCJmTlqOSUdLgWhVfZecQEfiiH3mGiW9rZVYDTmbqlTKQoeiMDVHZtutuQuqKBV5TCs2NXTGvHAl6lwbjmHLbrK0vDj1vL/rFEBoutpYib+o/Y3RJ9hF3zq61E5M9e2UXy5h/N7iWemxPuErfoDk4pm2EzQays=;KnVnRnXrlUBsqi/KbHOhNA=="
+secured: "WYzOeYyjSm54wR2qs+KLGQXNxIfHVgEttnrDbFNdcm4ihSD4RgwKJIwApo3lsu7CiJV5hfQyDjOgj2rDWZKpbP2F5mamZXphNnz7k9Cuoe7qQLMFo/cq2/c8UsEmoZBpXtQJ7LVfinAEE0vY3ne4F6uI7tusDmcIidm80pT1G3YTs7+E7BKb+xjPwpM4eFIJ0LADqlJkzUdjTGDY8CmlWr7PwgqBOc00GsCuGbp6VvIhdHrt9Lpi7uGlaykhtPj6EfkIyrv///UuIVot1UbApL/ZxLyKTA6IEO1w4BfiFeOULssf6kDtADjNdsZC9wUSh4JkQw/zuVS86xuFZi7JuJGMtyKMhNMx5P79VPDvBE4W9WaQyDFhN/U0o/hBFvmPPYibBchkMK5bvkjfHe7AvPWzKU10+zeceRHdmsL2qEzNeO8qszb7EoERQLLKGzFIgDnvKWWc6dCy9DpmCqDU3dKoNZB3y+jSJj0eoghPzSiN6LcFje/s3nYOVufISci/f7ZrkR9hcaFpYHTOmYx8cw==;rxHAauhrGg/XBc1CKi5HCQ=="
 ---
 

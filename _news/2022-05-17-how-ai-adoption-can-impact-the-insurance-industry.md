@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/05/AI_robots.jpg?w=1200&strip=all"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Lack of strategy, skills biggest barriers for AI adoption in India"
+    excerpt: "Another greatest barrier to successful AI adoption is limited skills, expertise or knowledge (38 per cent) for organisations exploring or deploying AI in the country. \"As the adoption of AI grows ..."
+    publishedDateTime: 2022-05-20T10:54:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91687803,imgsize-53448,width-1200,height-628,overlay-etcio/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Roundtable: The Impact of Artificial Intelligence in the Region"
     excerpt: "In partnership with Google, AS/COA will host a conversation with experts from across Latin America developments in the artificial intelligence space."

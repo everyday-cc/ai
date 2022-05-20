@@ -154,19 +154,16 @@ related:
       domain: govtech.com
     quality: 39
   - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
-    excerpt: "Predis.ai brings a revolutionary AI-based social media assistant to individuals and businesses to get content inspiration and create unique personalized content for different soci"
-    publishedDateTime: 2022-05-19T13:00:00Z
-    webUrl: "https://wreg.com/business/press-releases/cision/20220519IO63101/create-personalized-ai-powered-social-media-content-with-predis-ai/"
+    excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly. PUNE, India , May 19, 2022 /PRNewswire/ -- Social media has"
+    publishedDateTime: 2022-05-19T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27297790/create-personalized-ai-powered-social-media-content-with-predis-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27297790"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27297790"
     type: article
     provider:
-      name: WREG
-      domain: wreg.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 37
-    images:
-      - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
-        width: 800
-        height: 268
-        isCached: true
 
 secured: "WHxDWEZu0hLKUkazNFPanWgF5sf5kkWAJ75qwn4cAT1vgUqObzh4TAqioQaDl8kCf1bnVrSmqkH4+1kx/LfnOFSUgNy/CR/9W/7JRe4fEaamGm7gb4mHYNYfdyGjtvGmzznZk1hVnmsvmY6V0+9lU7Kdb0BIIsN2guV7wjvlQItmsl2AG3Uidz5sEBceSZquvdZ1JbE8dD1AjtPAMW7hHlhxo0mzZeR5O3bSLhfzB14M1sfeELZOWpUeAQlteoqK3P8y74Bve1Dfp2B0gH1NqiyM8Ar01lfC5eW6t8jHrVuUeIY3LiDtGBqucfNipsoRZdLpfz8cNaky77EEaQVmSgXCqmhdNeeATvJXqRNq7Do=;RNTAuyVaZPemeEcFwbnNJQ=="
 ---

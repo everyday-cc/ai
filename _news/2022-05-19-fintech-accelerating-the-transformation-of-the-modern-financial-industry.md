@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/953271"
 webUrl: "https://www.eurekalert.org/news-releases/953271"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Market launch of revolutionary FinTech product from Allied Digital that will enable rapid digital transformation for banks"
-    excerpt: "Emphasizing the uniqueness of the platform, the Chief Digital Officer, Mr. Utpal Chakraborty, a known name in the AI & FinTech industry, mentioned â€“ \"The FinoAllied platform stands out in ..."
-    publishedDateTime: 2022-05-15T22:39:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1253827&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1816599/FinoAllied_Conversational_Banking_Platform_Award.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "UWGzzLz5yXjJ1uvqt8nwoCT5lEYVwbNYZbsyLRTipX+asmJR2bTfVkOYyAYU+I6LJH0bsDuFlKcnG5vfr1RuMuHKjdVYfKWZHNSkrQ7pRvhL/ifTerPtR76FrUJKcUCAxm8oSbAecKCXq1uj6pYPOx/75v23xA6+Cm8ip8e2p4JxHJOrERK/D3Wa+1vqBjizdSE4xMWQBYqLXlX7DeAg03E2+rVntMRhnNM2PORLMkhwJc7giqvdG/FVCrRn8GpbtSL0aE/CxT4DmGFuH/vdy+Z4qj7eRkAwWxVRt/cXorZdwekkIemUa7XAYqlyYnnkIA2aW9FFSMKN2O8Hpl8EXbgsebgqI5Lz/r+0C0KnsxlbgtKz3cTCI+u0/99v6TE1QNRO74hZQYmaXMhQynIHd0rRbtm0KVWpeiICUDzlC1VNiSPL1ueWFjyEP+eJU6XGQTAs+yP5ITNa9awIiBi+4MA3bOi6C1A6cdytgwpuYh7AKQ4ZfqBX8SSWVJ6kxppdaF5JHAy2EjII5YUVVry/YA==;4EU3uh0fL2oDOM6DE1eTqQ=="
 ---

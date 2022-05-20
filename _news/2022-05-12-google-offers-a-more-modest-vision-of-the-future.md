@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2020/06/16/huawei-logo-160620-01.jpg/BINARY/huawei-logo-160620-01.jpg"
+  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2021/01/17/whatsapp-changes-170121-01.jpg/BINARY/whatsapp-changes-170121-01.jpg"
     width: 640
     height: 400
     isCached: true
 
-secured: "0MXseFBHdNC8kGpBG/Zmr2T2SxPdqxnDlM38VJpuNDwq6AxVh2xCXuUrIcX08nqM+hzWxLGf31uwLKBJBgd1q9/or78rcO/E2uDNh5yBMXKFNpu7rfC1J2QT2gF2wo40nzcyBIBEVCRjm4c13QCbF86b+pLn4ogjScYgOKPX9cWIz/bchi+DgOBqTunqj4vFr+Ba6xXaGbfK4OF3ZwxmssUvVcEFX/WmXoUhE5lgVC0K50aG4hSuG7MyVER6SdiazcZhDwxrsZyE31xH2hsrqpPJ0T3kDH2jI/J/Zhs22W2WfvySpMPdOdSVwJt7Lox4Rtbs4CUw4E/bBIirxXNTcHrPFMmNmw2408s361J6ax4=;7oESIiZTZhK/7bCbWzf7aA=="
+secured: "XHfWZEEIH64tkUuf/VNAf9vAaJb1OOJd+ffR5seukWepi9q0aVXDH27cQ52mu3mVd1QtM4Yxo6iIe/MhQ6uimnfWL/9GT0d7r/LvXMVChLqZePGtjSE8vybHyHOhfsYud3KUI67TNHGkz1rd+SsbLNL/6I+1yDF2JpxLk38Vgkm/wu3v9Y9GsBcYT6V38ojgohodWB5vRkHOBVanGxySYrcZdhfChg21BrseyV70+nkNmyD21+L8mhMizRpsX2Jc8uy0ok7QT1EEQhdlG1+fvkQhxmXB8eXT9QfE6fD1LpcqpDZgS82vP2hd/RM5/jBH/6vQZF+yPZXovhxtA8YLODviqwrFVnlHHfNcVgElFYk=;v6oeVBOe+16qQYs7paxdvA=="
 ---
 

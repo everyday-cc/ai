@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-tool-decrease-diagnostic-p
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-tool-decrease-diagnostic-psoriatic.amp"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 2880
     height: 1920
     isCached: true
-
-related:
-  - title: "New AI tool can speed up the diagnosis of psoriatic arthritis by up to 4 years"
-    excerpt: "Researchers in Israel have shown that a new machine-learning tool can speed up the diagnosis of psoriatic arthritis (PsA) by up to 4 years, potentially preventing irreversible joint damage and deteriorating function for sufferers."
-    publishedDateTime: 2022-05-15T18:35:00Z
-    webUrl: "https://www.news-medical.net/news/20220515/New-AI-tool-can-speed-up-the-diagnosis-of-psoriatic-arthritis-by-up-to-4-years.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 13
 
 secured: "6+8QgFOm0snwJCpqQ1BiXiPDDZ/gUCz4XFMqKrFYZCGOhUD0qS2BvslAIiA9snNpSvqGoqNTIIVNNnImV1B6DfhINwdTbno6Wg3BQYGyB67sAwGyxE5UyLQk8J0m+gOh+wJNVnmPiSyj9dfQZ9yqOAvJzyCth49g5segtwsvOYdOfqUDkt43hmE+FEZuXVje2bkGOx/xaHYRnkJpW2oWzRk1wSRmTjYsLokXHuzJEqGHJgLYhyU6NRrjB99aw6/clk2TJ7JvMONUOwscIhWCsFVceXjcmeul/pKPEglmJ20Q6tNEk37kddMnjSuyCpWmUDXX6a0BcS16WjLVpvoAOl1XELC0vXaC/q8fGYVbnwg=;pPJAlkWtv7cgWF+4Jr2sFw=="
 ---

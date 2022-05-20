@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Pittsburgh-based Argo AI touts driverless operations in Miami and Austin"
-excerpt: "Its commercial partnerships with Walmart and Lyft still have backup drivers in both cities. General Motors and its autonomous vehicle subsidiary Cruise is running in San Francisco and Alphabet's Waymo has also gone driverless there."
+excerpt: "Pittsburgh-based Argo AI has pulled drivers from its autonomous cars in Miami and Austin, though it is still in the testing phase. Its commercial partnerships with Walmart and Lyft still have backup drivers in both cities. General Motors and its autonomous ..."
 publishedDateTime: 2022-05-17T22:24:00Z
-originalUrl: "https://www.turnto23.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin"
-webUrl: "https://www.turnto23.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin"
-ampWebUrl: "https://www.turnto23.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true"
-cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true"
+originalUrl: "https://www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin"
+webUrl: "https://www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin"
+ampWebUrl: "https://www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: KERO-TV
-  domain: turnto23.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - AI
@@ -212,6 +212,6 @@ related:
       domain: bizjournals.com
     quality: 10
 
-secured: "54U7fhCp5ejjcUjV4k+xeZsAY0L5n8s4A+2wSYy6CnDIboV05hOP1bFyz2Q0BiERiaQ/l9b5sES5R+In2KJDqbNK2eGhznGK9Z01GscVGeQME2TLaX3rgLmH1ccqbH26XcXLPr438PWHosVcZc8egEO7J/MqEccwQW9avDPqu7R+pfW6UfyKbP1nhkIYsPNZMNV1HKLtK/8JY7ubviIqYZjjtyNaSoIVE7a/rpISecFd912SJSbZ0Dsa0C5nGqi0oFvQnqwPZUL5lnnRbpjFEZs95oosgO8iT8c583/Jm4XjILHykB5qRvrHg2x5d7yl/ySdzthEjDc0+aSr2p4WSUGj2YePiu6N60uIvg46lfA=;MKEBk5OHHe1McqcjeeAulQ=="
+secured: "zpBDb7zJQ8daLowgKOcvI1uTigjbV0k13ZckiiuZ/mNotlHLF6gtS7TU+nLlHVk7NcNbGbYiOM4Aj1JWX3PMZ0v2hOmPSgsA/E8kscU3g8EBPihIVRZc8M5KdF0PCX61Rs9XexPvjYfG7UgpP2BXkQRJ/ONwjhwN0w8GhCvPMc7B282zukQ15AkgcnV0iriCZOqoDy7a4T02FduYqSgGYI98bcvi3oJrdxA674E3Huq4Su0xIRBGq5p0/GBm2uh6KtUKqf9NK3OEEQ2k0kzDQlcGaqKOpcf+utFh/j8x5U8IMZhAsui3TOPumjVx5K/Pmoz/U9LIYK0fkqMmv/zVIuGZTjbC9/lx8cRLVHRssfE=;wDatmG/WUWiuEMnkvWHTNA=="
 ---
 
