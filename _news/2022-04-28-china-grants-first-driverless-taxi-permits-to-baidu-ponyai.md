@@ -1,28 +1,26 @@
 ---
 category: news
-title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ..."
-publishedDateTime: 2022-04-28T09:56:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+title: "China Grants First Driverless Taxi Permits to Baidu, Pony.ai"
+excerpt: "China has granted Chinese internet services company Baidu and a rival autonomous car company, Pony.ai, permits to provide driverless ride-hailing services to the public in Beijing, a significant regulatory step in the country's pursuit of driverless technology."
+publishedDateTime: 2022-04-28T13:42:00Z
+originalUrl: "https://www.manufacturing.net/automotive/news/22197712/china-grants-first-driverless-taxi-permits-to-baidu-ponyai"
+webUrl: "https://www.manufacturing.net/automotive/news/22197712/china-grants-first-driverless-taxi-permits-to-baidu-ponyai"
 type: article
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: Manufacturing
+  domain: manufacturing.net
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/04/AP22118230409001.626a998a8824f.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C189%2C1920%2C1080&w=1200"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "QLurh51mE9tqGlfk/qykBrtYDNpy3efoNP7cJP17O2Gs/sQxp8ly60WOZQLKTZI10jRn3Xx1xMkGIKkDmVcr/Y/1MVA1EdVhcvo14LuCt2FYTlkXUFX4JWC5EjyhNDaDYV2+Dk+RTD+v3+J9n5vzeP82ushhh4s88OSvGWMMwI0ZF9Q+nPAIo1HA5/I1gFICpZGGb5VhxqsuaOJCsLX+DQY/x50jalQQ6vRdpoTrgiAV1hatrpGBy45DwW1j1lvrsoI9I0l1a+OSG7YhM12rUqBx/J8XBAwuebg1QCR+0yDbzPxuyz3LNOEs7u5h60gJcdUGo0dclTTOzGJ8Mbr1pl968/dWDIHhvlNIwDTIqf4=;bkVaW3xEjnirerBGNfxzJw=="
+secured: "fh+qUOt0uiMd1m2eyieFOowbXue8vWj7OLjeiV54cm3oy07ppTkqJqB8HfbkR2Zk6bQjJL45nBYBLkXb/3CitfwJ09BGUZpgm5PLNV3DxdtHgO143wdic3vXCRiz9zdYWwGYRl75yp7wHjXek9KHPgy/bq+cgefoG4T3quP3atTOMpLHNFQ4LhJPW7r3JhEfq2nNAVTRgNSqUQXb9ue07ORbiXjQ1M1Y+5qUjo/OUTFeC36HeO2oLMB0Nkjlp6Z/AbLrWTLUu8ouA9sCmlkYLyRlK7XJzyit+PM7qwTu9gWddoyIIFjcaXWi1uAeeyKOvIkFXWUHD6LfWywWiJEYCHya0DjXFBZPDzLnrmiGINA=;FlS2Qi25xSPu+HBSomPgtw=="
 ---
 

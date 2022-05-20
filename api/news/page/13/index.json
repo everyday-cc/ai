@@ -2,48 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2022-05-06-new-shape-memory-alloy-discovered-through-artificial-intelligence-framework.md",
-      "title": "New shape memory alloy discovered through artificial intelligence framework",
-      "excerpt": "Researchers used an Artificial Intelligence Materials Selection framework (AIMS) to discover a new shape memory alloy. The shape memory alloy showed the highest efficiency during operation achieved thus far for nickel-titanium-based materials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220505143808.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220505143808.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-06-google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division.md",
       "title": "Google merges DeepMind's AI health efforts with newly formed Google Health division",
       "excerpt": "Google acquired DeepMind, a London based artificial intelligence (AI) firm, back in 2014. The company is famous for its AlphaGo AI that defeated the world Go champion and was in the news in 2016 ...",
@@ -1117,6 +1075,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-artificial-intelligence-software-market-size-comprehensive-analysis-growth-forecast-from-2020-to-2025.md",
+      "title": "Artificial Intelligence Software Market Size Comprehensive Analysis, Growth Forecast from 2020 to 2025",
+      "excerpt": "May 05, 2022 (Market Insight Reports) -- The report Artificial Intelligence Software Market Analysis and forecast 2025 maintains enhanced dynamics and is overshadowed by a top player across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-comprehensive-analysis-growth-forecast-from-2020-to-2025-2022-05-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-comprehensive-analysis-growth-forecast-from-2020-to-2025-2022-05-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

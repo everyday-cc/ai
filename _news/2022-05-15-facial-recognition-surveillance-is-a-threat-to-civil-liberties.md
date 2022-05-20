@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Facial recognition surveillance is a threat to civil liberties"
-excerpt: "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ..."
+excerpt: "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it."
 publishedDateTime: 2022-05-15T15:59:00Z
-originalUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
-webUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
-ampWebUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
-cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
+originalUrl: "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
+webUrl: "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
+ampWebUrl: "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
+cdnAmpWebUrl: "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Daily News
-  domain: dailynews.com
+  name: The San Bernardino Sun
+  domain: sbsun.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://www.dailynews.com/wp-content/uploads/2022/05/IDB-L-CHINOPD-0212-16x9-2.jpg?w=1024&h=578"
+  - url: "https://www.sbsun.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682"
     width: 1024
-    height: 578
+    height: 682
     isCached: true
 
 related:
@@ -77,6 +76,6 @@ related:
       domain: thecyberwire.com
     quality: 19
 
-secured: "Zo3cGayuK9a356h/jcw2Q1F9pu1LnZ79a/fKnEFq9sgqaIK+6Gpvvg0JqZYg7wNnVst3y/XhqNH2gSkQfC8G3q/kamJ6+Q4ztZVsvl/AEj56NlW3TzvlPmDqvGi7uuOmatfPHSEZZAg2PsmSKhWd8CkwWPMyDokbsk96//3FqLJQsfZYotKdWtJZu1x1uft3GFU9vv8ucK/3DT1YLRc/PsSV6flS6GyNarUnMlt+nBsLxjDwnafKe8+/4+kxxhE4O0S9GW80fa+AzMl6BwZkFvivKlph1kfHpPdjHzP5IMFaYnwFOiKnL5HitqcbK3oe0hcbOUEf+Dip1X99PQJFJWNVm10IYNhqchUSrxJb7/bOIcr9UL2zOz8rwJbvr/2FGSyH3IWip3yVZUoz+XJjB4pXqk/DOKAfGlJcVP15214K41YRkLZuWNgKVu6Z3Es9rwIytpfFCoLIMgI4Wncqd1fM/nz8cABpQwgyj5eSUc2B1WUQGTFmiYZEA+tij5e5Pe7AcHDCp3QHAw4WVGEyWQ==;q5r82I4x6BJR+mKpAjgbLA=="
+secured: "vWZAaao7pU6rt+4e2sOy9AvVzlRgxGifZJgD5z/mth9fvNf5lhm+h1EA4JzGlZfPFiqR1mNuO1FbPlcZ0A2GOIraVaqnMkej792vwaUBw17EZB4QHjOP9pbNkoYe1wFy8S7LgriycWjocDunH3QCBgkw/3uKGq93JyWqsw4jtUFYHhf5wpsuBAv2QYkhpVj8+8aMEYt1yCt0kB+1wI7Ympvh+SqTC6MkW6aF//yJTuCgsLkxpogJcqAmzMaCRm6Nprl26CYrBDhVgfjlX1j1PFxhZlfSj5Sd4cndlwKcBKyYfxCRCIZKNRkn5cROKiyhayFhwdi/koKLi5VvCwS2YK3GR560i3/P36Tk5fDyGO0=;x/SSCnIrqdM7bW57tVJovg=="
 ---
 

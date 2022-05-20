@@ -146,6 +146,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "AI is changing the way people relate to other beings"
+    excerpt: "Whether it is satellite footage tracking geese at continental scale, or a smartphone video of squirrels in a park, people are seeing the 8.7m other species on the planet in new lights. In “Ways of Being”,"
+    publishedDateTime: 2022-05-19T16:50:00Z
+    webUrl: "https://www.economist.com/culture/2022/05/18/ai-is-changing-the-way-people-relate-to-other-beings"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220521_CUP001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Finding the Fairness in AI"
     excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
     publishedDateTime: 2022-05-17T15:09:00Z

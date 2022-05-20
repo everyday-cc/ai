@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-05-09-southie-autonomy-secures-25-million-seed-funding-5m-in-robot-lease-financing.md",
-      "title": "Southie Autonomy Secures $2.5 Million Seed Funding & $5M in Robot Lease Financing",
-      "excerpt": "The platform utilizes artificial intelligence and augmented reality to automate highly ... it was very expensive and complex to reprogram robots to perform different tasks, causing the automation ROI to plummet. With Southie’s innovative AI-powered ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-oceans-venture-capital-artificial-intelligence-621389a0bc45430c8a6cc63083a1f6fd",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-oceans-venture-capital-artificial-intelligence-621389a0bc45430c8a6cc63083a1f6fd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-09-rgo-robotics-exits-stealth-aims-to-disrupt-mobile-robotics-with-visionary-functionality.md",
       "title": "Rgo Robotics exits stealth, aims to disrupt mobile robotics with visionary functionality",
       "excerpt": "Rgo Robotics enables mobile robots to operate autonomously by understanding their environment through artificial perception technology.",
@@ -1368,6 +1325,41 @@
       "provider": {
         "name": "Automation",
         "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-three-stocks-to-profit-from-the-robot-revolution.md",
+      "title": "Three stocks to profit from the robot revolution",
+      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
+      "publishedDateTime": "2022-04-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -42,6 +42,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "Rgw0tTURscKSHCjAD0/IOfXXYo9lJvx0IpFQHz87XCWUrpPgF4jX+0um17f7T3ub+lMnNk6/6w3ZiIJQT7XmT58pDoSupLoZllAfEZMtjzNK9RG60wFAr3uiENDejtIBoEuSaqHALRd+8gf2AF5AeZ1TdniOQJUrpFlbCfjPeIj5tx0/bhFlgSseyHsyXGTMpdBk8xLrQfB+Kxb/DwmgWaxTp/fJnrlS6sLjgHcPce/jhRnJGrDYKOv+AFGGydIPWHsmhr5TxoHOsuapT25+pH6CEvP+K/o+hjTyFnY9kypD2OpsNdomtW0nsqPp1iU+syVrSSuTEj2tiWijnrGgCXHTMwZW0T0HjEmd+v97G54=;3GC63rCd8QHwMxQeK876Qg=="
+secured: "m5ujXDNrlIaPV8rrAXnbTirhPd7yvokPYDQOxVTBbeBZZolPuT+r1V0vPF3EBgAHUQjL5Du/P9/3CXoheITew6WqQFTcc19cDZ9t8XrXLi/nk+DW+iB6UmCIraIEMYwI2zRFTaX85dsOhIPC+cMqSjz1sJDClkNXP2/CmEehSJvJ6TZHQyhFUimeAgWUxIBO7stS/UDXWwPGtcFNakvHUT+9P70BHFh6BTGsO9oYxeFVIstelijuCLwqgZtHK4c6qNoiOZzPufZiwQ4CqqtJRnLY6Vx8DP02Gxmt1xYbns/hyW/Xja7K2noIAiB6DuMYGJrRat9i6sAl+6E8DGGg9QIEwOK5B4feILJGUD+hIrE=;f3UUpqDAd/00Iy7yl2H1/A=="
 ---
 

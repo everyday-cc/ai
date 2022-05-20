@@ -2,20 +2,26 @@
 category: news
 title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
 excerpt: "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-publishedDateTime: 2022-05-19T23:38:00Z
-originalUrl: "https://www.fox46.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
-webUrl: "https://www.fox46.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+publishedDateTime: 2022-05-20T01:56:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: fox46
-  domain: fox46.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
+
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
 
 related:
   - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
@@ -181,6 +187,6 @@ related:
       domain: kdvr.com
     quality: 0
 
-secured: "mvAJ3jv+suKdxVty2p2y6/XoYWZql0uHbzb/cqNVp5zzmqR2KmTQEMeCG63qgjBDG+t7c4guyiMtcBRyXwWBar+LzDILlLp8WVLX+6cZn9t/qpRor/I5vrBk1nfapWaZeJRLdeiFvtyUiyjfHXkjCFh1YZZN/kdpmkUK/BOPeWQ/IAwpSm/Q+k3vAxcBdrEkjCYS4+wGrwPc7BQtcMD+7x3PocEAsDDADi375gQ/sxT1wWC44ZCpRKTI/F6/O2i8JN3yhFGCKhQzI/ff7Rta58gHhEdmb0XGxwtUyIiayI9rCciDUNjyvzSvISiaYwoZ8fm7i4pBWsteqN/CPIaWlBEHk+TwZvZIPwJ0PriA0SI=;PTdjoMYHS3J1dlgVymr0Rg=="
+secured: "LEHOwsLgWl6CFbwHj2gvVBmU7OBcdg8gaIWczQ3HDU50dRHwDXjR7xyc0dGLLMlKZk3eKwsKHsZAVy5xrLYnjypUUSXMlfYlcbSaVKpy77aT0MJ7hSqiipda5bwn7hQYdD3XD8aB5YQxPu2XikC1M0J9Ub2Snew9b36zND7Xq8gapw96s3nw10zIAlmGVpxC7+BAGEJMchWNQSZ8aoDRQyEcmPdPvEGEtGhaj2r0w77F24hfCv0GGRo1bxiPjU51badfOtivR2V9kSWa4AQmo6LieUHzi+6B8RGrc8NigcNzmRTv9kESQGNgPtbdzcrKuN3jfOIyjGyntDBCYlXCAdMEzUA/GfD6vC2jO8Ld6kM=;74qpCFQUGFVjgp+LwKuf6w=="
 ---
 

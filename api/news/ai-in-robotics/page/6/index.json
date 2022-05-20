@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-04-04-insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-others.md",
-      "title": "Insights on the Entertainment Robot Global Market to 2026 - Featuring Lego, Sony and Hasbro Among Others",
-      "excerpt": "The \"Entertainment Robot Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The entertainment robot market is",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/g26442149/insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-oth",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/g26442149/insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-oth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26442149",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26442149",
-      "publishedDateTime": "2022-04-04T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-03-ai-and-robotics-uncover-hidden-signatures-of-parkinsons-disease.md",
       "title": "AI and Robotics Uncover Hidden Signatures of Parkinson’s Disease",
       "excerpt": "A study published in Nature Communications unveils a new platform for discovering cellular signatures of disease that integrates robotic systems for studying  patient cells with artificial intelligence methods for image analysis.",
@@ -1383,6 +1340,58 @@
         "name": "Government Technology",
         "domain": "govtech.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-chinas-latest-brainwave-controlling-space-robots-using-mind-power.md",
+      "title": "China’s latest brainwave? Controlling space robots using mind power",
+      "excerpt": "A research team with China’s manned space programme say they have developed technology that will allow astronauts to control robotic equipment ... and Chen Dong used a mind-reading device ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind?module=lead_hero_story&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind?module=lead_hero_story&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/03/25/ed9c6cc4-01e6-4c1b-86b0-38139667623d_72a3c279.jpg?itok=hLxpK9b5&v=1648220192",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
+      "publishedDateTime": "2022-03-25T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

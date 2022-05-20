@@ -2,6 +2,93 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-05-02-artificial-intelligence-cuts-miss-rate-for-colonoscopies.md",
+      "title": "Artificial Intelligence Cuts Miss Rate for Colonoscopies",
+      "excerpt": "MONDAY, May 2, 2022 (HealthDay News) -- Artificial intelligence cuts the miss rate of colorectal neoplasia nearly in half, according to a study published online March 15 in Gastroenterology. Michael B. Wallace, M.D., from the Mayo Clinic Jacksonville in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/lifestyles/article_fea534e5-27aa-50d8-b70d-7f865712f3e7.html",
+      "originalUrl": "https://www.stltoday.com/lifestyles/article_fea534e5-27aa-50d8-b70d-7f865712f3e7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/32/532b20ab-51a3-56f8-8262-5a9051a3389a/62701fdf9a53d.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-how-an-engineer-at-googles-deepmind-ai-lab-pulled-off-a-career-pivot-from-marketing-into-machine-learning-without-a-phd.md",
+      "title": "How an engineer at Google's DeepMind AI lab pulled off a career pivot from marketing into machine learning without a Ph.D.",
+      "excerpt": "Ivan Lobov used to work in advertising but spent vacations and weekends taking part in programming challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4",
+      "originalUrl": "https://www.businessinsider.com/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-healthcare-ethics-in-ai-can-software-make-ethical-decisions.md",
       "title": "Healthcare Ethics In AI: Can Software Make Ethical Decisions?",
       "excerpt": "they must abide by basic principles of medical ethics. Can machines behave ethically, either with or without human oversight? It's a question without an easy answer. To facilitate discussion, let's explore a few topics related to AI-based clinical tools ...",
@@ -751,6 +838,48 @@
       ]
     },
     {
+      "path": "_news/2022-05-01-how-is-artificial-intelligence-revolutionizing-the-educational-sector.md",
+      "title": "How Is Artificial Intelligence Revolutionizing The Educational Sector?",
+      "excerpt": "The role of technological advancement especially in the form of Artificial Intelligence in the educational sector was realized very strongly during the Covid-19 pandemic when the students were ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104140207/How-Is-Artificial-Intelligence-Revolutionizing-The-Educational-Sector",
+      "originalUrl": "https://menafn.com/1104140207/How-Is-Artificial-Intelligence-Revolutionizing-The-Educational-Sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-05/01/R&AN_bbc47image_story.jpeg",
+          "width": 800,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-01T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-01-believe-it-or-not-ai-can-help-brands-connect-with-customers-in-an-empathetic-way.md",
       "title": "Believe it or not, AI can help brands connect with customers in an empathetic way",
       "excerpt": "Developments in artificial intelligence (AI) to help brands recognize opportunities to respond in an empathetic way are on the rise. Understanding the customer mindset really starts with brands ...",
@@ -971,146 +1100,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-01-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a large drop in short interest in the month of April. As of April 15th, there was short interest totalling 8,800 shares, a drop of 47.6% from the March 31st total ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
-      "originalUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks8.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
-      "publishedDateTime": "2022-04-30T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-artificial-intelligence-and-the-human-context-of-war.md",
-      "title": "Artificial Intelligence And the Human Context of War",
-      "excerpt": "Yet fancy tactics are no substitute for bad strategy. Wars are caused by miscalculation and confusion, and artificial intelligence cannot offset natural stupidity.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-human",
-      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/globalhawk_1.jpg",
-          "width": 1222,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-30T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-perceptron-ai-mixes-concrete-designs-molecules-and-thinks-with-space-lasers.md",
-      "title": "Perceptron: AI mixes concrete, designs molecules, and thinks with space lasers",
-      "excerpt": "This column aims to collect some of the most interesting recent discoveries and papers in the field of artificial intelligence ... the team created a neural network that could predict material ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
-      "originalUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Step-6_AI-Sustainable-Concrete-Project-Image.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
-      "publishedDateTime": "2022-04-30T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
