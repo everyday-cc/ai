@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/05/12/google-presentation-120522-01.jpg/BINARY/google-presentation-120522-01.jpg"
-    width: 1024
-    height: 640
+  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2020/06/16/huawei-logo-160620-01.jpg/BINARY/huawei-logo-160620-01.jpg"
+    width: 640
+    height: 400
     isCached: true
 
-secured: "JkdGqw2AUoOb+KIK9S0mJ4bE65w+JYd0haXcAIC/FWCtj+8VzmHtK9/qDLMRCrvvuTcqSNjHkCWGUOpY0/YBdlwXo2NC5PtFPM7EDGSBrnJQzjsYzfYVr9jy7TLcINbPabMbqrxQ3JVg2tEsShu0YObYDj35l0TZ4pvwZNekWnVaOqvnrB6wGDZevs+XN7kNA2ZuNd9sBxcGyyXDeCddeN/1z4SzdOqtikp/90Tz6crYFDyj807CADz5Xy7UxIyJXdXGx5HgEJ3Kc6VYae8O1xkaS1LYoCel399iE3vCgbJqwZNhbyMIKyfJ73YFlBWIGw5npXRPqM5R49iWbeXGIrV9HNbc4mt4QfZzOz3RVy4=;GXXgCk3c34hH7i6YxNlWFg=="
+secured: "PRovaWQm61OFtxaHSif7bziSLhc3Xy5ViG9tsopXo9NIAGgjblc8S+lDKBGYhNCmPcxXmVZG5h7sjepU5xDkiGCgWx2OVihQrGwj8dAr0Sxn1emIW9Dugp7YzXaquq1rmV036MWa1iCOJMs1Y1UWGXOzvIhe77j/Z5ej82Zj6P78axyS9eP4PcjgZVdrIS2mvCfSz3s0nGWunOL9mvWNsLWXQiqS00lhWixk18UH1UMLBGz43TlyQN9rGbm+IumMO0RFwbeL0B7dBcHn5yEKK4sIn3yOwPz/W2UQRa0NVLwWdS6fy1t8R0398ctqjNtU56SrDhzQOVREPEy1pTTfcvzeofRwo3ihFjP+HDH2/A0=;II6Qcf8kysES/tjsk8J7ig=="
 ---
 

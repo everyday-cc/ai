@@ -3,8 +3,8 @@ category: news
 title: "Octane AI Promotes Two Executives to C-Suite as Company Bets on Artificial Intelligence to Fuel its Zero-Party Data Platform"
 excerpt: "Megan Berry and Alex Gurevich appointed Chief Product Officer and Chief Operating Officer at Octane AI. \"Octane AI has become the leading zero-party data platform over the past 12 months as shifting advertising data policies from Apple and Google have pushed merchants to prioritize collecting their own data and leveraging it to personalize their communications with customers,"
 publishedDateTime: 2022-05-19T13:34:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/octane-ai-promotes-two-executives-to-c-suite-as-company-bets-on-artificial-intelligence-to/article_9b4bd28e-5337-55db-9100-0372ab38ae41.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/octane-ai-promotes-two-executives-to-c-suite-as-company-bets-on-artificial-intelligence-to/article_9b4bd28e-5337-55db-9100-0372ab38ae41.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/octane-ai-promotes-two-executives-to-c-suite-as-company-bets-on-artificial-intelligence-to/article_9b4bd28e-5337-55db-9100-0372ab38ae41.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/octane-ai-promotes-two-executives-to-c-suite-as-company-bets-on-artificial-intelligence-to/article_9b4bd28e-5337-55db-9100-0372ab38ae41.html"
 type: article
 quality: 25
 heat: 25
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "9WqKkbHxuAN7WQpsGTyls5vhFh5RmxDzUpaqNORbHP/wWsB8jcdXdlo8jMbgDb3PCNKE5LQM6bZKBULPL1CuXhgCA+FGwE3TCkUgfMIrYXc58IEWBeckEDmTJH4bKwVx5c+pcE3qMHwhMDjnnL/xLGI6wJTe6MO5m9kL01AzlTZZtQG2pqkpUhHqdyEB/OaIwDgl8lVo+UHtiqKpnTQXcZBBpdv56VvM1+Mb0xMAkC7YobUHYtDWziZf1UxfJBOSTweHzd4t/LRhLoVuxnTdJZCbsr2hg+u6DDh5lNziJYLX8sYyzHy+DvkHmnnpIPog7odM8UgHPSHHGUoYpNSeMvIOzKUTAZMuyv6zpDvG093a1pTmdoOJVmRbPhBuT17XDfr3MKDUjgQAWmYo/JNyIkEl7LRLJush7kuuhht08PDC7U9GUj1/+nHtVvfzp65PsGxHBLMpSE46oJgJteIUCGykEusCQ1cuKR/RBNqBByOzsJGNGcWFxA7QunNJswrD4RE86uRDi6l9QfyFoasdLA==;3DmALhtJmBDunUXkLWAnUA=="
+secured: "3fRZc5jOshXo5NZFp+V7dsRHa63W9V/IkO8kZ4G7YU+DHID0G/ak92SCIpApUL9sTHjWIjDN+7nmxBV23QFeXh4tDrDpZtgc4dXhlh2a5zCUGcQs20IZzyMh2sD9xb6BF51NZqGp6Y3qbXkoDPIn9z20RQS2Vaj5+nuk0RlhXxKtDVra6V8BtRdjgw4KGRjmcwo1vFU+mmjVw6QNY3g8f1cfd61XJoYlUeHeEzbqdbDazf1t9DcezeEFWF35zRIvtqBPR2BJZm6DyVwM+4RtVEHx1NLbfLZKPMZ2PFfjFh7ej6uKo5JYJppxq92767YclMSjrAXtp5cFcP/4oIs4HZdzysr4zgKdeWfRY6cXnfc=;3UeMNIgR34jMzcGr5WfdVg=="
 ---
 

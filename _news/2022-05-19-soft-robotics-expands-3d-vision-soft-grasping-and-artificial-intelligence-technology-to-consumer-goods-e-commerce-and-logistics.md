@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
-excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the Consumer Goods, E-Commerce, and Logistics industries."
-publishedDateTime: 2022-05-19T14:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241"
-webUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241"
+excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
+publishedDateTime: 2022-05-19T15:30:00Z
+originalUrl: "https://www.wkrg.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+webUrl: "https://www.wkrg.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WKRG News 5
+  domain: wkrg.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
+    width: 400
+    height: 271
+    isCached: true
 
 related:
   - title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
@@ -38,6 +40,6 @@ related:
         height: 271
         isCached: true
 
-secured: "tH3HAIvH3F9fCcsQqOVADhTOHG1i9ZabcS/ibXC25yvX7jT/H/IAf5Y+sy5vI2+77nEzbX5L3ppWu8uLXp8ANcuW3vEZQAQk1I+XpctyHg49NDfV1yaA/WM6t6CbedDETIWyVfMnLSNjQgqf8ZvmaNUTXJB8cjZ2Ewu9JJ2XbkidtHSa5ZJSdLAWSxs745LPE/6zSBzPusrP1hBIXLl6xWTzjsq7+V3kL3agXpR+Yu+oU6+/Dq23YQxjiF8fReJUQZVnkWil6R6RJyHjRFx6qhrah5Vw7zRkg4IojTfn9I9VSXQewbIDVXzNuNg0SVSMPlsKDgLvlqQFG0hx3D+b2cTdVlmQ1EubEtEiB2e+KlOBoEAFv/9z+LeSSiEU2jcCJvf/WnsQ2ZKoAC/pcdiubayF9Vyck/q9Ke2bQKgbRr1PH720nkrnft51CN9p5JZxODMY20bznoXrzvyNiaJZ2qV6uTpqBibHIw6H6zWW18GanRXTaMT+xQIBU+DctHS8T1ub/vwW+lCTd2G4ektlAg==;pNGeDbaSNnWklw4EYWqa4g=="
+secured: "DZRoB6tco6wy5q2OlpYgAV1bhPPFX5jLxTwyn5WpEyqf50f+UnxknbWVi82wJ3YZHJYjmJWHYS9cT0MgrUrRt5LlXVI5BiFJwGmvFFbzzwN6fTs/YZInlqpwMU1oJmbA5/KL/sA5McTtQdRcYPVptIQ7RqoQkGBnY2m5tI6DJbbLsdh7L08cOr4vaUrZTR6/AEQir93x6HGHq6+udxEuHUbGk+g93ir9eSfVL0n8EpoepHHsdrNWbz10l8CTZFup8powhUM26643s1eP3wjUYNF1myPpwU1Qmsq16j2yTjPbo4ceossYpr1sdaMBGwKIfgI0kciKEhYgWkQfAxuVYfe15QmRHsutt0XUMk7prHw=;1WE87ScnRyGEAHLcWU4O0Q=="
 ---
 

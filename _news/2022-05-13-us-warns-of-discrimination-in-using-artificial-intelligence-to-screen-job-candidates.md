@@ -2,27 +2,27 @@
 category: news
 title: "U.S. warns of discrimination in using artificial intelligence to screen job candidates"
 excerpt: "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ..."
-publishedDateTime: 2022-05-12T21:13:00Z
-originalUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
-ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
-cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+publishedDateTime: 2022-05-13T02:04:00Z
+originalUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+webUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates"
+ampWebUrl: "https://www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
+cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true"
 type: article
 
 provider:
-  name: Iowa Public Radio
-  domain: iowapublicradio.org
+  name: Texas Public Radio
+  domain: tpr.org
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/622ba45/2147483647/strip/true/crop/2622x1476+0+245/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F18%2FDelStateUniv-71a8f761e7b519fb3e9150a149e8fe2a3a989f57.jpg"
+  - url: "https://npr.brightspotcdn.com/dims4/default/d849a46/2147483647/strip/true/crop/1500x844+0+84/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkstx%2Ffiles%2F201908%2F080719_cmp_south_san_isd_west_campus.jpg"
     width: 430
     height: 242
     isCached: true
 
-secured: "Z7hjP13NIPvTY0NQPxu1usL/Wxunf4wRt5TGjW2vxd7rOl0HvY+bGqBZzb0LUXKtZbG+Vtc7/JEHcwQ5fK00mcYy6ocH9V3eLlJ2CUToWeuAMh3k1VUY2m687rjpyD/SZVE7DXdMVj6hHdJSufUv+xqOpm+4pePXFVaV6dX1c2HnIYbXaII8CFSz6Qr3Jgiuo3qD5Z8wINJwyOZ+iI75a3sO6v9tpkuD6N0uEmFu54zdCiLcK6Lexq4lOYZfJJsqutAaY1DY89kXfTOEs1K5+KUrWIejtO4pOCvR0c4swm6P2JV+NchSc9/4MNSyIC/QaDDFpyOlmqEgKjF++Avh2vaBi/aIud+bT9Kh+pC6Eyg=;bx+UVH+Dz4nG7XYWQXgJBQ=="
+secured: "xPTMxTn0L38UiTSZUNflaT3sejEuWjONJYFzvP6UaF+b+V8Q6YMx63MMURkDYv7fgk9m7FrL7Y8vr+Wqy8DK4MmoN07gP5rHBKjmensXTgIglgEu28IKzGM/svtejVH3FHPy5Dkxjj650dsajhKSpdG1DOR6THW8FVrRdOST+6uZydGXOtMmp7CsZzZwDtv9/XIuO2X7eghk2xF+G6ki6fvLUqTiBWaOd/D/nTcwZrYhD8vVXX5R4UQ0Rq2XtOBl6papAwxa9us8LXXUzsQ62FCDelJe9GFX60I2dYudC2XR6511eeEMuJR04w+0eSlMCkDqjp/Zgh4D2N0O32ez9yJA5GBHD6B3q2/c0o4LCvA=;xIt1FsfIo62Zaw9G/Gt5FQ=="
 ---
 
