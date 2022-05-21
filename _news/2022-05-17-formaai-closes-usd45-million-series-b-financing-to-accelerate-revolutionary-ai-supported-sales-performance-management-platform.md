@@ -126,20 +126,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "The power of artificial intelligence"
-    excerpt: "MILWAUKEE (CBS 58) -- For many organizations around the world, digital transformation has accelerated over the last two years, prompting new investments in advanced technologies like artificial intelligence -- or \"AI.\" Today, AI is changing the way ..."
-    publishedDateTime: 2022-05-16T13:54:00Z
-    webUrl: "https://www.cbs58.com/news/the-power-of-artificial-intelligence"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 39
-    images:
-      - url: "https://newscdn2.weigelbroadcasting.com/MuzbZ-1652709561-226479-blog-artificial%20intelligence.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Transforming Government Services with Artificial Intelligence"
     excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
     publishedDateTime: 2022-05-19T18:36:00Z

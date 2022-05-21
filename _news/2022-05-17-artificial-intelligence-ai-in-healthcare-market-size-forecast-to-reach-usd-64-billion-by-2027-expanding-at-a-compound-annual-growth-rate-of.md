@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of-43-2022-05-17"
 type: article
 quality: 61
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145472"
         width: 375
         height: 249
-        isCached: true
-  - title: "Artificial Intelligence (Ai) In Pharmaceutical Market Research on Demand and Production, Top Players with Trends and Forecast till 2030"
-    excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Pharmaceutical Market Size Is Expected To Reach USD 7,147.2 Million By 2029., at a CAGR of 31.2% during the forecast period.” The ..."
-    publishedDateTime: 2022-05-16T13:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-pharmaceutical-market-research-on-demand-and-production-top-players-with-trends-and-forecast-till-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Healthcare Artificial Intelligence Market Size Is Expected To Grow At A CAGR Of 22.3% During Assessment Period 2022-2028 | 122 Report Pages"
     excerpt: "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."

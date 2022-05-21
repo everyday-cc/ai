@@ -30,9 +30,9 @@ related:
   - title: "Can AI Identify Patients With Long COVID?"
     excerpt: "Long COVID refers to the condition where people experience long-term effects from their infection with the SARS CoV-2 virus that is responsible for the COVID-19 disease (Coronavirus disease 2019) pandemic according to the U."
     publishedDateTime: 2022-05-20T21:57:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/can-ai-identify-patients-long-covid"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
+    webUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid"
+    ampWebUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
     type: article
     provider:
       name: Psychology Today

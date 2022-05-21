@@ -53,20 +53,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Artificial Intelligence (Ai) In Pharmaceutical Market Research on Demand and Production, Top Players with Trends and Forecast till 2030"
-    excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Pharmaceutical Market Size Is Expected To Reach USD 7,147.2 Million By 2029., at a CAGR of 31.2% during the forecast period.” The ..."
-    publishedDateTime: 2022-05-16T13:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-pharmaceutical-market-research-on-demand-and-production-top-players-with-trends-and-forecast-till-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Global Video Streaming Market is to Reach USD 932,000.12 Million | Blockchain Technologies and Artificial Intelligence (AI) to Increase Video Quality"
     excerpt: "Artificial Intelligence (AI) is becoming increasingly important in editing, cinematography, voice-overs, scriptwriting, and other elements of video production and distribution. These advancements are expected to have a favourable impact on market growth."
     publishedDateTime: 2022-05-19T10:28:00Z

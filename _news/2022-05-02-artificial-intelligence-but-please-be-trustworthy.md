@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Artificial intelligence – but please be trustworthy!"
-excerpt: "Laser scan of the rubber surface. Companies often have a hard time with artificial intelligence: They are concerned that they will end up with a solution which is not always reliable – and therefore often continue to perform tasks, especially those of a ..."
-publishedDateTime: 2022-05-02T07:28:00Z
-originalUrl: "https://www.fraunhofer.de/en/press/research-news/2022/may-2022/artificial-intelligence-but-please-be-trustworthy.html"
-webUrl: "https://www.fraunhofer.de/en/press/research-news/2022/may-2022/artificial-intelligence-but-please-be-trustworthy.html"
+excerpt: "To date, entrepreneurs have not put a lot of trust in artificial intelligence – many processes are still performed manually. An example of how artificial intelligence and control technology can ..."
+publishedDateTime: 2022-05-02T10:56:00Z
+originalUrl: "https://idw-online.de/de/news792809"
+webUrl: "https://idw-online.de/de/news792809"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: Fraunhofer
-  domain: fraunhofer.de
+  name: idw
+  domain: idw-online.de
 
 topics:
   - AI
 
 images:
-  - url: "https://www.fraunhofer.de/en/press/research-news/2022/may-2022/artificial-intelligence-but-please-be-trustworthy/jcr:content/contentPar/sectioncomponent/sectionParsys/textwithinlinedimage/imageComponent1/image.img.jpg/1648137625181/iem-kuenstliche-intelligenz-aber-bitte-vertrauenswuerdig-bild-1.jpg"
-    width: 1600
-    height: 1067
+  - url: "https://files.idw-online.de/corona_idw.png"
+    width: 615
+    height: 284
     isCached: true
 
-secured: "uwWSS0VLsjo4VdzbwGmv5svqjrqQWN+qeAZCITsCtwuZL32mYgYUUeD3Vm2Dhfoo8b8raRsMdOwR4zmgQXW5pnje/bxFNY42vka42N22K9iEYL16hpBXGgfGC1bLxvzjmvecfrvtqGNVaRVuB4hX1IaEaqko+TjJHkUMIzuYoNJ1TEOkxoYbyOJbpxCSxl+K0hWdFMsOwT3KQQFgKaiWkpTtM9watEBx5ec0XHgkwvnjLJgOmFHQV3Ry+CcC09P7NRufdWmfTn8jSg5P4cL/zW3MyWywOcNboHsJNb1r0LBADipv+nAVXdHGbwC76w29Tt135ykunjWqGQZHj9QhVyDOZGVP1V64isjw2RFZQXY=;lDWnXUUMWwU5gcM8iajy0Q=="
+secured: "lOdDAnMCFn4c5Xt9RZvNQ0e4EjU+ivpp7+R5IKUh6Q+4Sa3iqwqXOeEiDWsS3Xwl7Ko9jQSPrjViklEChLmlfEVgQOH8d77Iv9Nnw2fn9W/sDiywtwB5/LHwBSrgrY0da9aYQw2hKtS3WN5oB9r5lMGp/h0q7SMrkOL38BsdFzla2xZ3FLRZ7hEs3J+FdFfFNXlNG1I10+NwHScN1R4/v5+7vXCprntgadnPoJKmOAWSUC+6JLfSf8zXuXuTDGiGkvfFHztiA066l63ePQa6FDXOjq0DJHXsRL/Rpvjq8NLQ+6xng4OTNUM+0Yok0yV4OypFowo3eePmuAlQYdhHVr6Uz3QJcnCXDUKMhiBvlh4=;v5eCBtQlA5HNkyt8lfUAMQ=="
 ---
 

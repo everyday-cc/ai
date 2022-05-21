@@ -38,6 +38,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence (AI) in Oil and Gas Market – Big Changes to Have Big Impact (2022-2027)"
+    excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Oil and Gas Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Oil and Gas space,"
+    publishedDateTime: 2022-05-21T07:29:00Z
+    webUrl: "https://xaralite.com/189422/news/artificial-intelligence-ai-in-oil-and-gas-market-big-changes-to-have-big-impact-2022-2027/"
+    type: article
+    provider:
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 20
 
 secured: "w+bux6znBnCd+4Fce5PgRixlw+3eCtYcP8sdg6qrlscHkQdVxLukVuuxfsRKKQ+YVscXYf/abKaGjNjcV9YEdSlaXVKCFyBR2lzXq4FkLYxF3ZPikhNmm3wbPocLmQ22iClseHXgsnYXmVbdfrpWUW/TPKAwOBDjt95E0+YMqvBPzx2Yys4WFUErKx/5gS4R1Z79Z+/1ynw0KBr0CDnw5kXoi2nmCTFL+dcBshezH7GOYWABFqrzE94wgZF8+7uOOGrg9ZlCpawY8Qo0KeMbPuWpaEmlqFUfuL0Vo9iB6SfMKBV04ql8xiOS6TwClZS/g4FXJ5w0Yvx0zBbZzV8RFybGaNPbFCCt6hNEIsc3V9A=;IxMtpN0q2vtURmQ2w5SPqg=="
 ---

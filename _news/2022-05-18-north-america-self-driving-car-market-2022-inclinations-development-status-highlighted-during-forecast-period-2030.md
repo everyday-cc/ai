@@ -57,20 +57,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Latin America Self-driving Car Market 2022 : Technology Advancements, Industry Scope and Forecast to 2030"
-    excerpt: "Quadintel published a new report on the Latin America Self-driving Car Market. The research report consists of thorough information about demand, growth,"
-    publishedDateTime: 2022-05-16T14:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/latin-america-self-driving-car-market-2022-technology-advancements-industry-scope-and-forecast-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 7
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "hhjXcUcAZk0lgmEECDPgocZjL0tRbW7VmfjwIvodpk6oe5UfczeHdFK7beYvrYlQ2cPkJt0mx6HOn9PLXwwRVh9VYpmDc3N/8t6cITVbbpSXo3964NID0ctCUufylxBKpMnCTkoevXw2/tv2CWdOMqWvz01yE6ZTJyfu4HDso0Pbk1szJBEHl8riTu1HyfDL7fDUftpiuw1S9PvZhvq3wO1hOqMK9+zIOZh8GyysFRRoJV4S8N0Twp94oM5l4rnRzpPX+fCQz4k1mxdQT3a8XfR8GroCcrAGYXgwWjPB/FIgkJ3dSp+0msP8+vGokxNKqPbTJQeZvQLCE4MbCOZmeekGtZQBxj1bbuTBUzSsNwc=;K314TkVCHPTc6NaOtv7HSw=="
 ---

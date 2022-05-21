@@ -124,20 +124,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "The power of artificial intelligence"
-    excerpt: "MILWAUKEE (CBS 58) -- For many organizations around the world, digital transformation has accelerated over the last two years, prompting new investments in advanced technologies like artificial intelligence -- or \"AI.\" Today, AI is changing the way ..."
-    publishedDateTime: 2022-05-16T13:54:00Z
-    webUrl: "https://www.cbs58.com/news/the-power-of-artificial-intelligence"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 39
-    images:
-      - url: "https://newscdn2.weigelbroadcasting.com/MuzbZ-1652709561-226479-blog-artificial%20intelligence.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
     excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly. PUNE, India , May 19, 2022 /PRNewswire/ -- Social media has brought about a revolutionary change in the way of life and Predis."
     publishedDateTime: 2022-05-19T12:06:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Can AI Identify Patients With Long COVID?"
 excerpt: "Long COVID refers to the condition where people experience long-term effects from their infection with the SARS CoV-2 virus that is responsible for the COVID-19 disease (Coronavirus disease 2019) pandemic according to the U."
 publishedDateTime: 2022-05-20T21:57:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/can-ai-identify-patients-long-covid"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/can-ai-identify-patients-long-covid"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
+originalUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid"
+webUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid"
+ampWebUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
 type: article
 quality: 57
 heat: 127
@@ -123,6 +123,6 @@ related:
       domain: beckershospitalreview.com
     quality: 17
 
-secured: "sGZoHbph5zQFAmKXkJt61hQi0zevrzRXOfvslK+iYl/gCnRQQWH30QYfCu0tpEylal2/WTlIaMVawGCbzZNxhOdCGi0oTPukjWsKfUJT3kwTuT51YGp0wMunn3JA8ugeBAQSgsoZX68lMTBhAzbj2DmZu+aAvzrlzcVvIMOtOPTHp+Bf3dIccWhkfplhXMSPeybqLkRXrU8tTQeNyTq5WnPRv+E7cfn2ZglvWGfan9eNlz/EZsapqfTgjZimfOzKQbOLlQO2BnFVlEI++zRZasj/2XNJFD7cpauJVd7vnaA92RumDFWmi0KRqQgHiEhNJisHvXQp4FGCsLmsmwrWO4r6Nw1a8NNq0wuTWTC1XQA8713dq8bQ9ArYt1W7wv3odTP+P5PxiaG+bJfSMuMx7EqVNKzAPZ29dmuOWWvzjrE7DmIS7U7LnQ3+5xqYqj+uuk5a2oVvbaRX1ETu26GqK9wQTO2dg/HvBr2C8QP0UcHI3GNE20PWp/FD5K5Jtkobaty7ELfJ7tNyrxdFvQi6yA==;eJFnr8X2x6gYUnXTodmJOw=="
+secured: "hemX1BoVkLJ7U2rZGlkYrso6Ss0Uf9Bm4uQaaufPAWYopZiybH2BUlftBmIMxWHG2bPeCSHYb0v5XuwtgXRQ66KLlQDQbHujYjX0oYjphRLJDbb2AopBiIyc3HprLK9bxlwljNkGVAIfvjm0NAbDY2jauYo5URZnkuIA4iXnsIrMJHpRTBopiERmOloVHlx6/urHMNK+k+CMF39sjsp//8N0vSQzhSTSFIjlARu1+BqrNr4ZoCentXDnNoDqk29DPu8c5/uWM/VNOfPv4E232SR1dEmrMD27sH7YWzjnFKZHoc9Boy41LGASR+vjL1PJaE0Ozbjam2rEgdB5TfSDShY6y96A+Byv7EgTOXX27eU=;vZlUxSD++pfCiFEnBmyTgg=="
 ---
 

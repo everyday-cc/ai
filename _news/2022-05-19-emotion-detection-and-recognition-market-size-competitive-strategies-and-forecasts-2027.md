@@ -76,6 +76,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Move to regulate facial recognition technology"
+    excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."
+    publishedDateTime: 2022-05-17T04:30:00Z
+    webUrl: "https://www.worldradio.ch/news/bitesize-news/move-to-regulate-facial-recognition-technology/"
+    type: article
+    provider:
+      name: World Radio Switzerland
+      domain: worldradio.ch
+    quality: 39
+    images:
+      - url: "https://mmo.aiircdn.com/29/6052d11808e86.jpg"
+        width: 1320
+        height: 760
+        isCached: true
   - title: "Computer Vision Market Size, Demand, Dynamics, Business Growth And 2031 Forecasts"
     excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on the Computer Vision Market that emphasizes the latest trends, key opportunities, drivers, and ..."
     publishedDateTime: 2022-05-17T06:38:00Z
@@ -173,6 +187,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Regulate facial recognition, don’t ban it"
+    excerpt: "This article has been published in Restoring America to highlight how over-the-top government intervention can stifle technological advancement.]"
+    publishedDateTime: 2022-05-18T18:05:00Z
+    webUrl: "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/regulate-facial-recognition-dont-ban-it"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 19
   - title: "Natural Language Processing Market Global Competition Data 2022"
     excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the highest revenue by 2029. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2022-05-19T20:16:00Z
@@ -181,6 +204,15 @@ related:
     provider:
       name: xaralite.com
       domain: xaralite.com
+    quality: 19
+  - title: "US Senators request investigation of facial recognition company."
+    excerpt: "Texas Department of Insurance clarifies facts surrounding data incident. US Senators request investigation of facial recognition company. South African pharmacy suffers customer data breach. Highschooler blows whistle on student data leak."
+    publishedDateTime: 2022-05-19T19:30:00Z
+    webUrl: "https://thecyberwire.com/newsletters/privacy-briefing/4/97"
+    type: article
+    provider:
+      name: Cyber Wire
+      domain: thecyberwire.com
     quality: 19
   - title: "Self-Driving Taxi Market Growth 2022 Share, Size, Landscape, Top Key Players, Strategies and Forecast to 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Self-Driving Taxi Market” report"
@@ -216,43 +248,6 @@ related:
     quality: 1
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Europe Self-driving Car Market 2022 : Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2030"
-    excerpt: "Quadintel published a new report on the Europe Self-driving Car Market. The research report consists of thorough information about demand, growth,"
-    publishedDateTime: 2022-05-16T14:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/europe-self-driving-car-market-2022-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Middle East and Africa Self-driving Car Market 2022 : Growth Factors, Product Overview, Segmentation and Forecast Study to 2030"
-    excerpt: "Quadintel published a new report on the Middle East and Africa Self-driving Car Market. The research report consists of thorough information about demand,"
-    publishedDateTime: 2022-05-16T14:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/middle-east-and-africa-self-driving-car-market-2022-growth-factors-product-overview-segmentation-and-forecast-study-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-  - title: "Self-driving Car Market [RESEARCH STUDY] 2022 : Research Report With COVID 19 Update Key Players Analysis, Growth Factors and Forecast to 2030"
-    excerpt: "Quadintel published a new report on the Self-driving Car Market. The research report consists of thorough information about demand, growth, opportunities,"
-    publishedDateTime: 2022-05-16T14:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-research-study-2022-research-report-with-covid-19-update-key-players-analysis-growth-factors-and-forecast-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
         width: 600
         height: 337
         isCached: true

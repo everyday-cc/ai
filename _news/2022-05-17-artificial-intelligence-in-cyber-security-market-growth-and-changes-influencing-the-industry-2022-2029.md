@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Crippling AI cyberattacks are inevitable: 4 ways security pros can prepare"
-    excerpt: "As enterprise companies battle a growing number of major security breaches, they need to prepare for increasingly sophisticated AI-driven cybercrimes."
-    publishedDateTime: 2022-05-16T13:49:00Z
-    webUrl: "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/"
-    ampWebUrl: "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1057918132.jpg?w=1200&strip=all"
-        width: 1200
-        height: 730
-        isCached: true
   - title: "Crippling AI cyberattacks are inevitable: 4 ways companies can prepare"
     excerpt: "As enterprise companies battle a growing number of major security breaches, they need to prepare for increasingly sophisticated AI-driven cybercrimes."
     publishedDateTime: 2022-05-16T16:45:00Z

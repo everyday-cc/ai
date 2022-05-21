@@ -63,15 +63,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence (Ai) In Food & Beverages Market is projected to register a CAGR of 45.4%, in terms of value, between 2022 and 2029"
-    excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai ... client base present over the enterprises of medicinal services, healthcare, innovation, next-gen technologies, semi-conductors, chemicals ..."
-    publishedDateTime: 2022-05-16T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-food-beverages-market-is-projected-to-register-a-cagr-of-45-4-in-terms-of-value-between-2022-and-2029"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "gG6O6KMut9WJIHbzNq/DcnALX09jib9S7xcmgi5algfkmkZfKjPcxc8lCg7TkvS8orY3tBgk/ATvhP+JsTF4FaUZuU+xj2N/WpTtkR067/6A8gXwS0Hw3bAILMWJq4wQi973T4a8IeofsS2S0RRd+2wuzTzbRgLyOOx9vN5tKHDXoFB/VetebUD7j5rf455K+U9f8+N6GhJPV+OUaHriH46qDlTo8MTY7nqOuYre58UXsLho/jzulfBs0EEuVLNfQavwUHxD+YLAaSFVOB5lIMl2IowIc6Q4xNtVgF6E4bd5wsBL0sr/yJmscigRKdzRO/tF4zIgamx1+DzG+e9bGwiVT24hR/roApuNs8d2BrM=;IyS1Z3+JGeu6+P6rXG66Iw=="
 ---

@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-05-06-al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups.md",
+      "title": "AL STOCK TRADES Introduces Efficient Services to Optimize Management and Investment of Money by Low – and Middle-Income Groups",
+      "excerpt": "The company endeavors to democratize financial information and introduce efficient money management and investment services with a view to achieving ... software called BrainMachine and other machine learning algorithms, which will offer relevant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups",
+      "originalUrl": "https://www.digitaljournal.com/pr/al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://orders.newsfilecorp.com/files/8404/122911_fb68ff7964363984_001.jpg",
+          "width": 550,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-rapid-adaptation-of-deep-learning-teaches-drones-to-survive-any-weather.md",
       "title": "Rapid adaptation of deep learning teaches drones to survive any weather",
       "excerpt": "Right now, drones are either flown under controlled conditions, with no wind, or are operated by humans using remote controls. Drones have been taught to fly in formation in the o",
@@ -1068,58 +1111,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-traceable-ai-raises-60-million-for-unique-api-security-platform.md",
-      "title": "Traceable AI raises $60 million for unique API security platform",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/",
-      "originalUrl": "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/",
-      "publishedDateTime": "2022-05-04T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

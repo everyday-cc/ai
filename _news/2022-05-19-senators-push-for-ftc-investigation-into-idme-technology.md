@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Senators Call For Probe Into ID.me Facial Recognition Database"
+    excerpt: "\"Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition.” Now, a great of senators have written a letter to the Federal Trade Commission and its chair,"
+    publishedDateTime: 2022-05-21T06:00:00Z
+    webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
+        width: 1222
+        height: 815
+        isCached: true
   - title: "Senators Seek FTC Probe of ID.me Selfie Technology"
     excerpt: "In a letter to the Federal Trade Commission requesting an investigation, four Democratic senators asked the regulator to examine whether identity verification company ID.me’s statements pointed to its use of illegal “deceptive and unfair business practices."
     publishedDateTime: 2022-05-18T17:11:00Z

@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Senators Seek FTC Probe of IRS Provider ID.me Selfie Technology"
-excerpt: "A group of Democratic senators has asked the Federal Trade Commission to investigate whether identity verification company ID.me illegally misled consumers and government agencies over its use of controversial facial recognition software."
-publishedDateTime: 2022-05-18T13:09:00Z
-originalUrl: "https://www.bnnbloomberg.ca/senators-seek-ftc-probe-of-irs-provider-id-me-selfie-technology-1.1767606"
-webUrl: "https://www.bnnbloomberg.ca/senators-seek-ftc-probe-of-irs-provider-id-me-selfie-technology-1.1767606"
+title: "Senators Call For Probe Into ID.me Facial Recognition Database"
+excerpt: "\"Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition.” Now, a great of senators have written a letter to the Federal Trade Commission and its chair,"
+publishedDateTime: 2022-05-21T06:00:00Z
+originalUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
+webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
 type: article
-quality: 4
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: bnnbloomberg
-  domain: bnnbloomberg.ca
+  name: The National Interest
+  domain: nationalinterest.org
 
 topics:
-  - AWS AI
+  - Computer Vision
   - AI
+
+images:
+  - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
+    width: 1222
+    height: 815
+    isCached: true
 
 related:
   - title: "Senators Push for FTC Investigation into ID.me Technology"
@@ -34,20 +40,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/da27b57/2147483647/strip/true/crop/1000x521+0+3/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F63%2F9f%2F8d290f4a41b2941b9fafba5a3eeb%2Fshutterstock-1658387542.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Senators Call For Probe Into ID.me Facial Recognition Database"
-    excerpt: "\"Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition.” Now, a great of senators have written a letter to the Federal Trade Commission and its chair,"
-    publishedDateTime: 2022-05-21T06:00:00Z
-    webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
-        width: 1222
-        height: 815
         isCached: true
   - title: "Senators Seek FTC Probe of ID.me Selfie Technology"
     excerpt: "In a letter to the Federal Trade Commission requesting an investigation, four Democratic senators asked the regulator to examine whether identity verification company ID.me’s statements pointed to its use of illegal “deceptive and unfair business practices."
@@ -74,7 +66,16 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 24
+  - title: "Senators Seek FTC Probe of IRS Provider ID.me Selfie Technology"
+    excerpt: "A group of Democratic senators has asked the Federal Trade Commission to investigate whether identity verification company ID.me illegally misled consumers and government agencies over its use of controversial facial recognition software."
+    publishedDateTime: 2022-05-18T13:09:00Z
+    webUrl: "https://www.bnnbloomberg.ca/senators-seek-ftc-probe-of-irs-provider-id-me-selfie-technology-1.1767606"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 4
 
-secured: "7ZyuNnbgsuiwZ9/6WzSFNXfvZPdZoYETk9dLDJ8+2QASXj/XWVm28dTWkEzaig6ruIXJgLnykcKyRmDTNkfAmoROVQ3389jkwJu9yNi72qumq+UG4BFvZng/qY3Jys1FtsEW9mWjkI2PO4c+135z2oWE8JixlZjTcJu3uOgj2RWmUzNlRdo2XOIQzJbt+tUAoM18GAYHnHji0bZWPMF40Z8cwDU7EqBzfLiXAJuFxSyIkTk6wi6wmdrQZ/YiHxkIsvJD+k62SFpeaWEEDwtK/VH7Z95A65IbLNEF8+/rTADpI9Z7JVom15UppIeiXJ7wP6hmVFxkl+mN/YnQYEsKMZWgDzt1VfMBzmgRKWIE2DnoOf2ggmVgAPrhHwTiNBUx7n35HHM7zl6ntRYjnHUWW54MjdbHxAz1OPIfK14tzq0w181zUUT4nd5r2JDXDdzojUmqHspEY3L5rKDf4qBAvYT8Uk8psambxGHFBo2A26ptMvNWmRpVCtuluq6ZE4SKpnQnZVgiiA6H8v4Ja3vzvw==;Wlio0DHR2jk+OYcX9/PPWQ=="
+secured: "qoon0NgUEtNA2x8fihy4zUuIoePcrohVF1XIb/kKVWvDNgr9+DoHf+vHWqGFzwXWLJCxxSIqErV3upzHQRR6pO6Q1ETuJz9kxPIkdkCv6iVIZkp3cfeOXVM85HA/5bRVgE7RqGvCRVoyDRvVwHG3yRSWgelIS08mqfm+Y9AsNLdR3ATrFpABAY1FbJg6nMylpTqxxH9XuPtabnLaxenSvA3o06H8wtOpVvTWnePD0lEnMxHpHNwTUfnsDfH+J1Jo2o9P9MMm8lmWynb8IVQKTZZcWDHwIFza4OpX1fly10fqDgxWHwlfmvrsrai6shxYDIbI37BTMZUbMnJanqRcdlCDujLU6ubmQyK/xuHmmOY=;2ew7yoO3B1k7Fe2H4xFacA=="
 ---
 

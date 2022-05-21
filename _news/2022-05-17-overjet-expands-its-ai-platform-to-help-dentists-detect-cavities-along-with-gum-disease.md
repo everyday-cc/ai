@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Overjet Receives Second FDA Clearance, Adding Overjet Caries Assist to the Industry's #1 Dental AI Platform"
-    excerpt: "The first and only chairside dental AI technology cleared by the FDA that can both quantify bone levels with periodontal disease, and detect and outline tooth decay for accurate patient care and communication."
-    publishedDateTime: 2022-05-16T13:56:00Z
-    webUrl: "https://fox2now.com/business/press-releases/cision/20220516NE57926/overjet-receives-second-fda-clearance-adding-overjet-caries-assist-to-the-industrys-1-dental-ai-platform/"
-    type: article
-    provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 0
-
 secured: "ftuEPDYySgV6rBbEoCfMHomcJVttSrdRpS9uppqV4MtKiOxzmYlWtzZ93PzYCtWKDrBueAF1/mTKD8/iE/FO+z6g3MO47/luB2axBEDCuYVRA7D3vMk/XOCvMLHqcLFfUdca9Y3zEbrdV7JDjtY2IVZ5a6GDoC6QjNLSg2Xr6PhOjqatoIpRinqZEryY6oIPMYWnU1kOcxT5W6zjVlnoX+d6lgvKw9H5m9NkTM6GRuiRxRt9D/ZyughsufCN9tqLyeyICXrS8LHNRs0AYUNQcsWVflJvfzvWa2VIS0IsJ9UrkP+QI7ylRGodMVxZ6YvNgDiwyqTUTcSjaRthzcLwEbCrw0so3zD2h48Any1sltEX4Dbhl1Wsa4rjwR8N7entImT3Bet0bARXJs5rHvChRKWdLQVMgTCGVcsdm6AiwBOrz9mzb19+4YF+F7WBRN/opX5Ecm6NK7B6eVtwldRnBVIDx2SkOb8CaWtckvnbGcDSLVAe0gPaPjCRbjubSJI6fZfTIqNlOmKMTxGpvWM8uw==;/5cLwQF2ZxhzafxdbSjfyQ=="
 ---
 
