@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/business/article/Keep-Your-Resume-Attractive
 webUrl: "https://www.chron.com/business/article/Keep-Your-Resume-Attractive-and-Up-to-Date-with-17186891.php"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "How to Make Sure Your Résumé Passes Muster With an AI Reader"
-    excerpt: "Including just the right keywords is crucial to getting to the next step in a job search."
-    publishedDateTime: 2022-05-16T16:00:00Z
-    webUrl: "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_jr_pos2"
-    ampWebUrl: "https://www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-544215/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "aHD2xqC0P6FwLMgLyNbZ6Q0dUn7Uutwt15pV2gB/1BgbJq2UFcW9RU0wCc/DekvXbDBgugWHb28mXtFqPF6p7DV4efJQ3zj0VtzE+kRBGqZU0hjIVZh5VbTdsfhVXqSvFEfwQ2sap4XQ2iPPqCKpNjixiElDl8ZuuGXIaaDLeNJlXRT0kyQ8IH7zBzljmtJpliCSHb/t08WIqRzrmXNY2GkjO2rXp23qIBS5AQOgN/tazOI4wIuv+k8A71A9Sl7M1cemo0DIcxyfq5hxR+apk9ABC0QaMRuaThldZw+ST6Nr3qVrflHSCz6d+cuZMO+JUOolO0UASH5ZnRJczqmXFBCqpvS2Et4KmBczPA5WvGQ=;rJcBSxF6KDjKE6wg+3L0LA=="
 ---

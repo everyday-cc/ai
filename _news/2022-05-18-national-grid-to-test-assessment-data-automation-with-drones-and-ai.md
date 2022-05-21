@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Inscribes battles fraud with AI-powered detection and automation tools"
-    excerpt: "Today every $1 in fraud loss costs U.S. financial services firms $4, according to LexisNexis Risk Solutions. Synthetic identity fraud, when fraudsters create identities not associated with real people,"
-    publishedDateTime: 2022-05-16T15:30:00Z
-    webUrl: "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/"
-    ampWebUrl: "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/fraud-detection.jpg?fit=600%2C600&strip=all"
-        width: 600
-        height: 600
-        isCached: true
   - title: "The issues with the EU’s draft regulation on facial recognition AI"
     excerpt: "Dr Kris Shrishak of the ICCL spoke to SiliconRepublic.com about where the EU’s planned AI regulation could improve ways to address facial recognition companies in the US. It is no surprise that the global discussion on facial recognition technology has ..."
     publishedDateTime: 2022-05-17T10:16:00Z
@@ -47,6 +31,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_286930709.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Innovatrics, Blaize partner on AI ready-to-deploy facial recognition technology"
+    excerpt: "Global EU-based provider of biometric technology solutions Innovatrics and Blaize, the AI computing innovator of edge computing, have announced a technology partnership to deliver ready-to-use facial recognition solutions designed for access control and public security applications leveraging"
+    publishedDateTime: 2022-05-17T01:25:00Z
+    webUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatrics,-blaize-partner-on-ai-ready-to-deploy-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 50
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/3ed17bc21849e3d3f6a2da496277ab6e_M.jpg"
+        width: 375
+        height: 208
         isCached: true
 
 secured: "usvpUAOnRIBaO/xyztNVmWQoP7Z5u90zrMO+htiVWfkDR7NOnLH4Q6pgo8hgOufor1d1gUmB4pFlDnzLvyGPOUkoODEnxosdrUmM+pVUtZ7shIGrBsycFA+XLYcErsyRBSjZSmD9xOWHu9RRh9FfEacyeIKLRv68ZjGcU6soKnRwMffpGWve9681UJADznTs/AZ6RVrKFHu56XIbitnBwFOgGUCkkwEv2GHHF0O5sn0aE4Lp1pzReznXl3qkblKhDO1ojMIADduDo9zcOF6sxSCDj1ddIX7oraIewMpIeKAM570H7bQoqWcdYgjTjbd+Dlre847qqZ4owouskNJNjSBmp0I209e3WmFQRf5l64yw84UBUz6lEoZuJVTYoZ9QMNeV1cXpxh53vl+gHezC6VP70ysNDRfSHXbpATG2m+l9G6npmDvR/6QQwZuPWw775ZfzD23r0hAA3HKgNjAHcXq82njy4pQbqjnuEP3pAS1iZgjXc/aok8oTYD7X3uXzOGWAvU5V0rKETqGK4kT/sw==;Oxo9m0h0/xLZVRvncUoP/Q=="

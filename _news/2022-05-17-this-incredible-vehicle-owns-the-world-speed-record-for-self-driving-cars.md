@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics Tempted But Hesitant To Use AI Adversarial Attacks Against The Evils Of Machine Learning, Including For Self-Driving Cars"
-    excerpt: "The net result would seem to be an outcome of good. Not everyone agrees with that sentiment. From an AI Ethics perspective, there is a lot of handwringing going on about this meaty topic. Some would argue that by leveraging adversarial attacks, even when ..."
-    publishedDateTime: 2022-05-16T15:31:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62814aa647441d8a952568f8/0x0.jpg?format=jpg&crop=2715,1528,x279,y50,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI Ethics Forewarns Don't Be Caught In Machine Learning Myopia By Overlooking Neuro-Symbolic AI, Including For Autonomous Self-Driving Cars"
     excerpt: "There is a rising controversy about Machine Learning myopia as to overlooking the value of neuro-symbolic AI or hybrid AI, which has crucial ramifications for AI and AI Ethics. This includes the advent of AI-based self-driving cars."
     publishedDateTime: 2022-05-19T15:30:00Z
@@ -61,33 +45,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Artificial Intelligence Is Opening Up A New World Of Possibilities In Hearing"
-    excerpt: "For me, there’s nothing more fulfilling than seeing technology enhance the way people live. We’re just starting to scratch the surface when it comes to AI. When people talk about this technology, its impact is not 10 years from now."
-    publishedDateTime: 2022-05-19T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
+  - title: "NYC needs regulations for self-driving cars, says Mayor Adams’ pick to lead Taxi and Limousine Commission"
+    excerpt: "Mayor Adams’ nominee to run the city’s Taxi and Limousine Commission wants to bring self-driving cars to New York. David Do, the former head of Washington D.C.’s Department of For-Hire Vehicles, told City Council members during his confirmation ..."
+    publishedDateTime: 2022-05-17T22:49:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-tlc-david-do-autonomous-vehicles-20220517-3zzmutwauzfqfnoel4zkgtfxim-story.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 7
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//628543e5e9890719668a0ba8/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.nydailynews.com/resizer/_4CMNU-1PJemZ48oSZjbpPIXVns=/1200x630/filters:format(jpg):quality(70):focal(262x294:272x304)/cloudfront-us-east-1.images.arcpublishing.com/tronc/OP6X4GUDXRCSLNQ6XOAM77VKOE.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Self-driving cars hit a third of cyclists, all oncoming cars in testing"
-    excerpt: "Autonomous cars may be further away than believed. Testing of three leading systems found that they hit a third of cyclists, and failed to avoid any oncoming cars. The tests [PDF] performed by the American Automobile Association (AAA) looked at three vehicles: a 2021 Hyundai Santa Fe with Highway Driving Assist,"
-    publishedDateTime: 2022-05-16T16:30:00Z
-    webUrl: "https://www.theregister.com/2022/05/16/selfdriving_system_tests/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/16/selfdriving_system_tests/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/selfdriving_system_tests/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 24
 
 secured: "WC5mUxGa/Kjl1Tgpvg81grCBsIfiVgJROTTiIIM4g8coa3+2eNfPmYLEglaICXYRQCJCnkqPjcB8rvsejA7YhhHTeGWa82A9QMRM6zBG6DUT6SuJ7Dv11bR2bv9C3tKZOkVpi1hBFbuCI0kUmLgZ4clCpdm5NrHguNc7QH8EU4LQnR/UQE5MXPKKxhidniVyyOo8PIm0D1hKuWVTOc43E1KPRb5YycuZko7ggBcsLfkpv8tMN9WSJygs1HDryGrvav/ohA54QL3jwi0t0es0qvPPVkygDIQ+GPnnQkqo4iJd4aAcgNfidWDP11JG5dT2uxseLxGrUW9S7As/64M0xo1Wrw2DQmcnIViS+jadbwB8TPjpDkqBrk6hwwoiefH2jtM3d2hvnV2VjML6MuvF6+Obczm/ZuuryKCECgz67LSHE43LArHiTKxdLRf5Mjq+gKkEMxWE2GLEor724EW+IBn/lUyLimNHiVpSVzOev1xPAgCiDxhxGzHjGs5Vik4qLqpEtY3G3xjn9G3XIQTHSQ==;zS2En0APOk9ihFZxMaJVJA=="
 ---

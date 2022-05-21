@@ -7,7 +7,7 @@ originalUrl: "https://www.iol.co.za/technology/software-and-internet/google-is-f
 webUrl: "https://www.iol.co.za/technology/software-and-internet/google-is-facing-legal-action-over-using-16-million-peoples-healthcare-data-without-their-knowledge-or-consent-46fea968-951d-59e5-a096-eb07bbc056e7"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Digest daily roundup: Google sued for using NHS data of 1.6 million Brits ‘without consent’"
-    excerpt: "The company’s artificial intelligence arm, DeepMind, received the data in 2015 from the Royal Free NHS Trust in London for the purpose of testing a smartphone app called Streams. The claim is being brought by Andrew Prismall in a representative action in ..."
-    publishedDateTime: 2022-05-16T15:29:00Z
-    webUrl: "https://www.techdigest.tv/2022/05/tech-digest-daily-roundup-google-sued-for-using-nhs-data-of-1-6-million-brits-without-consent.html"
+  - title: "Google faces lawsuit for misusing millions of people’s medical data"
+    excerpt: "The news of the class-action lawsuit against Google has been followed by the publication of a study accusing the company of enabling adtech’s “biggest data breach”."
+    publishedDateTime: 2022-05-17T13:08:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/google-faces-lawsuit-for-misusing-millions-of-people-s-medical-data/"
     type: article
     provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 26
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2021/10/Google-1024x576-1024x576-1024x576-1024x576-1024x576-1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: IET
+      domain: theiet.org
+    quality: 4
 
 secured: "g/yIxMSG0794J45mtIz2EY/rSUKBClaauXueFVL/A5pvbfH9eGNnzorJKNjhYqteJNuth7LgKBTccYpkfzUVfYYZaGK011N1bhZqsFSrAT3y9RrV5/dPeNHzBptQgBlPkl4pWNJyMWIcfDNycITu/JVAG/0634HzLDIKg1cTDUNzj6yNC03l313aiTxoYYp4H7tuGQ6Nn5Ci7i3UOIRFYqXwkvPjZ9XB7/DK3PM7UB7YXh+BPihIF2QVwFi57Ar55N//shjkxvj7ty7deCPjT2xvvGfr52/aCE0TKVjhTPF2UYsD62m7VL82sBiznYZF25/5hq8GZiQ/A3c0EjJcJ2VIGdc3t6dlCEva0Xqm9kc=;c15GVIRxIKiacdomSxEgkg=="
 ---

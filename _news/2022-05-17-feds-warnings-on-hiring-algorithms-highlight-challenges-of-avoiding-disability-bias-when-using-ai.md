@@ -24,97 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Finding AI’s low-hanging fruit"
-    excerpt: "In some circles, the idea of going smaller with AI is catching on. Instead of a complete forklift upgrade across the entire business process, it’s better to do the easy stuff first."
-    publishedDateTime: 2022-05-16T16:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/"
-    ampWebUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
+  - title: "How Artificial Intelligence Is Opening Up A New World Of Possibilities In Hearing"
+    excerpt: "For me, there’s nothing more fulfilling than seeing technology enhance the way people live. We’re just starting to scratch the surface when it comes to AI. When people talk about this technology, its impact is not 10 years from now."
+    publishedDateTime: 2022-05-19T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1219474321.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628543e5e9890719668a0ba8/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "6 business risks of shortchanging AI ethics and governance"
-    excerpt: "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors inherent to the technology — for example, how a particular AI ..."
-    publishedDateTime: 2022-05-17T10:00:00Z
-    webUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html"
-    ampWebUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Using AI to predict heart attacks"
-    excerpt: "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?"
-    publishedDateTime: 2022-05-17T14:50:00Z
-    webUrl: "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg"
-        width: 1000
-        height: 554
-        isCached: true
-  - title: "Using AI To Cure Blinding Eye Diseases"
-    excerpt: "NIH discovery sheds light on tissue targeted by age-related macular degeneration and other diseases Researchers have identified distinct differences among the cells comprising a tissue in the retina that is vital to human visual perception."
-    publishedDateTime: 2022-05-17T20:19:00Z
-    webUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/"
-    ampWebUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
-    images:
-      - url: "https://scitechdaily.com/images/RPE-Subpopulations-AI-777x442.jpg"
-        width: 777
-        height: 442
-        isCached: true
-  - title: "Disrupting conventional baggage scanning with AI"
-    excerpt: "Vehant Technologies Technology has reinforced all the aspects of our lives in terms of how we work, learn, travel or shop. It’s inescapable that the technological devices and services have begun to reflect the public ambitions and desires to connect with others and contribute to the world."
-    publishedDateTime: 2022-05-18T07:40:00Z
-    webUrl: "https://www.crn.in/columns/disrupting-conventional-baggage-scanning-with-ai/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 39
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2020/05/12140219/Artificial-intelligence-HR.jpg"
-        width: 750
-        height: 430
-        isCached: true
-  - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
-    excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
-    publishedDateTime: 2022-05-18T08:33:00Z
-    webUrl: "https://www.finextra.com/blogposting/22305/five-ways-artificial-intelligence-in-fintech-is-changing-the-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 422
         isCached: true
   - title: "AI is changing the way people relate to other beings"
     excerpt: "Whether it is satellite footage tracking geese at continental scale, or a smartphone video of squirrels in a park, people are seeing the 8.7m other species on the planet in new lights. In “Ways of Being”,"
@@ -130,24 +54,20 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Finding the Fairness in AI"
-    excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
-    publishedDateTime: 2022-05-17T15:09:00Z
-    webUrl: "https://cacm.acm.org/news/261047-finding-the-fairness-in-ai/fulltext"
+  - title: "Europe is seeing a hiring boom in military industry machine learning roles"
+    excerpt: "Europe was the fastest growing region for machine learning hiring among military industry companies in the three months ending March. The number of roles in Europe made up 17.1% of total machine learning jobs – up from 13."
+    publishedDateTime: 2022-05-19T09:00:00Z
+    webUrl: "https://www.army-technology.com/analysis/europe-is-seeing-a-hiring-boom-in-military-industry-machine-learning-roles/"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
-  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
-    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
-    publishedDateTime: 2022-05-20T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
+      name: Army Technology
+      domain: army-technology.com
+    quality: 37
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/05/OUGqT-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
 
 secured: "yJJOYB+SOaRDhgAMvQbnERhy7zpo+0cjFHdEwKoyfIuJxeC5gHZ4UxNxOx2GqILQ9wwHfsUVNCxP355Xpq9OwXqQSgku5nmEnS64ppqYWsDvjg6teWiGNOt5el66f7RqctzJ7Re2gayToH/NxbvoQA5DK7bW3xhDeTHiEcAULvShN1nsJNN/NvUdJoIz7pjdEEzhVyfWzdNQK8s3zwffygZRWW4O4uq4DpulZUo5TWu7L2w0Bp0dupfTjNqBA8HujhPVYFDHefEIZS7xPw38ypDDNmyg5iWrKb0NpXPaUAV+XCBVQMe4YW717dgkPW7eRfd6p9tzeR5wk05/iirwIgW7aZn9vDXCn08Mn4lNkcvo1rTwT/RB2Z04gvItmhI3b/2EaJJ6FpK7iEJ04t2mJxdhX2vrZe+Qqi0PuWLYIPa6zP7vw+tcNDL65YnITKLZf4Biw316ns0uQedHYlBWTb6jUVftfpz3p9fbblXTJzvUq8/geabWGMJ1qQlmUkrnBMTII+811ukf7KoPi5sZhA==;NKNOQL3+B91we7QlDqwqHQ=="
 ---

@@ -25,111 +25,83 @@ images:
     isCached: true
 
 related:
-  - title: "Finding AI’s low-hanging fruit"
-    excerpt: "In some circles, the idea of going smaller with AI is catching on. Instead of a complete forklift upgrade across the entire business process, it’s better to do the easy stuff first."
-    publishedDateTime: 2022-05-16T16:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/"
-    ampWebUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
+  - title: "How AI Adoption Can Impact The Insurance Industry"
+    excerpt: "But today, he is a strong proponent of artificial intelligence (AI). At a TED talk in 2017, Kasparov said, “Machines have instructions; we have a purpose. We will need intelligent machines to help us turn our grandest dreams into reality.” AI is all ..."
+    publishedDateTime: 2022-05-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//614e19843adfdba049044453/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI is improving the web for the visually impaired"
+    excerpt: "Join AI and data leaders for insightful talks and ... But when it comes to text on a complex background like an image or a gradient, things start to get complicated and helpful tools are rare."
+    publishedDateTime: 2022-05-19T21:09:00Z
+    webUrl: "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/"
+    ampWebUrl: "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1219474321.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all"
+        width: 1200
+        height: 603
+        isCached: true
+  - title: "How AI-driven robots and drones bring cognitive intelligence to Industry 4.0"
+    excerpt: "The robots, drones and cameras that inspect machines to perform predictive maintenance and relay analog information to operations staff can now function autonomously. Even better – the longer they’re at their jobs,"
+    publishedDateTime: 2022-05-17T15:05:00Z
+    webUrl: "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/"
+    ampWebUrl: "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/AI_robots.jpg?w=1200&strip=all"
         width: 1200
         height: 800
         isCached: true
-  - title: "6 business risks of shortchanging AI ethics and governance"
-    excerpt: "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors inherent to the technology — for example, how a particular AI ..."
-    publishedDateTime: 2022-05-17T10:00:00Z
-    webUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html"
-    ampWebUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
+  - title: "Lack of strategy, skills biggest barriers for AI adoption in India"
+    excerpt: "Another greatest barrier to successful AI adoption is limited skills, expertise or knowledge (38 per cent) for organisations exploring or deploying AI in the country. \"As the adoption of AI grows ..."
+    publishedDateTime: 2022-05-20T10:54:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Using AI to predict heart attacks"
-    excerpt: "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?"
-    publishedDateTime: 2022-05-17T14:50:00Z
-    webUrl: "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg"
-        width: 1000
-        height: 554
-        isCached: true
-  - title: "Using AI To Cure Blinding Eye Diseases"
-    excerpt: "NIH discovery sheds light on tissue targeted by age-related macular degeneration and other diseases Researchers have identified distinct differences among the cells comprising a tissue in the retina that is vital to human visual perception."
-    publishedDateTime: 2022-05-17T20:19:00Z
-    webUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/"
-    ampWebUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 57
     images:
-      - url: "https://scitechdaily.com/images/RPE-Subpopulations-AI-777x442.jpg"
-        width: 777
-        height: 442
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91687803,imgsize-53448,width-1200,height-628,overlay-etcio/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Disrupting conventional baggage scanning with AI"
-    excerpt: "Vehant Technologies Technology has reinforced all the aspects of our lives in terms of how we work, learn, travel or shop. It’s inescapable that the technological devices and services have begun to reflect the public ambitions and desires to connect with others and contribute to the world."
-    publishedDateTime: 2022-05-18T07:40:00Z
-    webUrl: "https://www.crn.in/columns/disrupting-conventional-baggage-scanning-with-ai/"
+  - title: "Roundtable: The Impact of Artificial Intelligence in the Region"
+    excerpt: "In partnership with Google, AS/COA will host a conversation with experts from across Latin America developments in the artificial intelligence space."
+    publishedDateTime: 2022-05-18T20:31:00Z
+    webUrl: "https://www.as-coa.org/events/roundtable-impact-artificial-intelligence-region"
     type: article
     provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 39
+      name: Americas Society
+      domain: as-coa.org
+    quality: 37
     images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2020/05/12140219/Artificial-intelligence-HR.jpg"
-        width: 750
-        height: 430
-        isCached: true
-  - title: "AI is changing the way people relate to other beings"
-    excerpt: "Whether it is satellite footage tracking geese at continental scale, or a smartphone video of squirrels in a park, people are seeing the 8.7m other species on the planet in new lights. In “Ways of Being”,"
-    publishedDateTime: 2022-05-19T16:50:00Z
-    webUrl: "https://www.economist.com/culture/2022/05/18/ai-is-changing-the-way-people-relate-to-other-beings"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220521_CUP001.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
-    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
-    publishedDateTime: 2022-05-16T23:02:00Z
-    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 23
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://www.as-coa.org/sites/default/files/styles/event_hero_836x576_/public/AdobeStock_DataServers_1250.jpg?h=fef4d8e8&itok=VIMWt9hv"
+        width: 836
+        height: 469
         isCached: true
   - title: "Finding the Fairness in AI"
     excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
@@ -140,15 +112,24 @@ related:
       name: acm.org
       domain: acm.org
     quality: 17
-  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
-    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
-    publishedDateTime: 2022-05-20T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
+  - title: "IBM looks to address AI adoption challenges"
+    excerpt: "In today’s hybrid cloud reality, distributed data holds the key to unlocking value through new business and operational insights. However, according to the “Global AI Adoption Index 2021,” conducted by Morning Consult and commissioned by IBM,"
+    publishedDateTime: 2022-05-19T09:34:00Z
+    webUrl: "https://it-online.co.za/2022/05/19/ibm-looks-to-address-ai-adoption-challenges/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 17
+  - title: "The power industry found it harder to fill artificial intelligence vacancies in Q1 2022"
+    excerpt: "Artificial intelligence-related jobs that were closed during Q1 2022 had been online for an average of 35 days when they were taken offline. This was an increase compared to the equivalent figure a year earlier,"
+    publishedDateTime: 2022-05-18T13:03:00Z
+    webUrl: "https://www.power-technology.com/analysis/the-power-industry-found-it-harder-to-fill-artificial-intelligence-vacancies-in-q1-2022/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 9
 
 secured: "DJOIN3m3nBNez86E8v1Z5nQb1qilbpZ89MRDAGHIBhUzHvgqBhG0zHVUGDE2MS4MHYQlUUnyox+AzoPlUVe4tBkQ4EWdoU+0mv83g/9VqH59FZR9hsZd3urtYHF9Op5T9zFhTRDa2RLdMI4jpo3OvLR6bfh8YrG7rcfxOC1CK/5SJrWeVmSEGZunmDCytUIQFJrOyX2bITWfe6Ovn18jhjD95JMAC5nfttC2Y93046/n5Q9OwKqfD7onahlNuwjIl06tTgKF4VQdgTa0ttz/VwM5NSx8XO8bF6/peT3P7JpbwxcuWTTy7tHSoRqDgfc6VC/ByuVGmTHYIP5drnfVRkdyiQ5YEeMgowi3+hvbfnERG+lyr6qnKNf40zWJdl0ZHn4Y2kDM50Etbgdvsjh1AaoNogSA1s2jBrlFCfwrg9jfs51q0+wzeTQFB8l0GelxcZpHQoydB+09WAp+t/ZCvKfBd9bTPmoWC0GA/Udjh6mt1H0+ZxJcF3nz9cUNvqosMKwWhEn+37x3ZA97idWbpA==;kiw+++/HkFBuFnb20nq4Fw=="
 ---

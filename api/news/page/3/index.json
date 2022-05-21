@@ -88,39 +88,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-18-c3ai-stock-is-close-to-becoming-a-buy.md",
-      "title": "C3.ai Stock Is Close to Becoming a Buy",
-      "excerpt": "Artificial intelligence (AI) has already made an impact on the world. From AI-powered robots to AI-driven cars, it is already changing our lives and work. C3.ai’s (NYSE:AI) AI algorithms can optimize an organization’s operations by bridging the gaps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy",
-      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy?amp",
-      "publishedDateTime": "2022-05-17T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-18-zmoai-secures-8m-led-by-hillhouse-to-create-ai-generated-fashion-models.md",
       "title": "ZMO.ai secures $8M led by Hillhouse to create AI generated fashion models",
       "excerpt": "With breakthroughs in machine learning, it’s no longer uncommon to see algorithmically generated bodies that can move and talk authentically like real humans. The question is now down to whether startups offering such products can achieve a sustainable business model.",
@@ -529,6 +496,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-17-using-ai-to-predict-heart-attacks.md",
+      "title": "Using AI to predict heart attacks",
+      "excerpt": "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg",
+          "width": 1000,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "publishedDateTime": "2022-05-17T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-the-next-frontier-for-healthcare-blockchain-ar-and-vr.md",
       "title": "The Next Frontier For Healthcare: Blockchain, AR and VR",
       "excerpt": "The medical industry has traditionally been slow to adopt new technologies, but blockchain, augmented reality and virtual reality technologies are changing that thought process.",
@@ -735,7 +745,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -880,6 +890,93 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-the-issues-with-the-eus-draft-regulation-on-facial-recognition-ai.md",
+      "title": "The issues with the EU’s draft regulation on facial recognition AI",
+      "excerpt": "Dr Kris Shrishak of the ICCL spoke to SiliconRepublic.com about where the EU’s planned AI regulation could improve ways to address facial recognition companies in the US. It is no surprise that the global discussion on facial recognition technology has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/enterprise/the-issues-with-the-eus-draft-regulation-on-facial-recognition-ai",
+      "originalUrl": "https://www.siliconrepublic.com/enterprise/the-issues-with-the-eus-draft-regulation-on-facial-recognition-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_286930709.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-6-business-risks-of-shortchanging-ai-ethics-and-governance.md",
+      "title": "6 business risks of shortchanging AI ethics and governance",
+      "excerpt": "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors inherent to the technology — for example, how a particular AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
+      "originalUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp",
+      "publishedDateTime": "2022-05-17T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1030,6 +1127,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-17-north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles.md",
+      "title": "North America is seeing a hiring boom in retail industry machine learning roles",
+      "excerpt": "North America extended its dominance for machine learning hiring among retail industry companies in the three months ending March. The number of roles in North America made up 77.1% of total machine learning jobs – up from 75% in the same quarter last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retail-insight-network.com/analysis/north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles/",
+      "originalUrl": "https://www.retail-insight-network.com/analysis/north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/05/WdKIv-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Verdict Retail",
+        "domain": "retail-insight-network.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Size Forecast to Reach USD 64 billion by 2027, expanding at a compound annual growth rate of 43%",
       "excerpt": "Artificial Intelligence Healthcare Market size is predicted to touch USD 64 billion by 2027, registering a CAGR of 43% over the forecast period (2020-2027), owing to the increasing application of AI in medical imaging,",
@@ -1078,152 +1218,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-human-centered-ai-book-review-a-roadmap-for-people-first-artificial-intelligence.md",
-      "title": "Human-Centered AI, book review: A roadmap for people-first artificial intelligence",
-      "excerpt": "As if. As Shneiderman writes in his new book, Human-Centered AI, he's somewhat modified his stance in the intervening years, giving greater weight to ending the tedium of performing the same tasks over and over. However, he remains sceptical that AI will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/human-centered-ai-book-review/",
-      "originalUrl": "https://www.zdnet.com/article/human-centered-ai-book-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2bc742f40b259164cd692288cfd4dab0a17877dd/2022/05/17/e9b93a46-659a-4596-9497-944b9778a275/human-centred-ai-main.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/human-centered-ai-book-review/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-centered-ai-book-review/",
-      "publishedDateTime": "2022-05-17T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-tableau-enhances-links-to-salesforce-ai-as-it-works-to-blend-more-into-ecosystem.md",
-      "title": "Tableau enhances links to Salesforce AI as it works to blend more into ecosystem",
-      "excerpt": "When Salesforce spent almost $16 billion to buy Tableau in 2019, it was getting a company with a goal of bringing data to the masses. As a cloud solution, it fits nicely into the growing Salesforce federation of cloud products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/",
-      "originalUrl": "https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-16-at-3.18.20-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/amp/",
-      "publishedDateTime": "2022-05-17T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-bristol-robotics-start-up-signs-deal-with-energy-giant-enel.md",
-      "title": "Bristol robotics start-up signs deal with energy giant Enel",
-      "excerpt": "The company was founded by three University of Bristol graduates in 2016 and uses tech to inspect wind turbines",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623",
-      "originalUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.business-live.co.uk/incoming/article23972743.ece/ALTERNATES/s615/0_HBBRI_160522-perceptual-robotics-bristol.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp",
-      "cdnAmpWebUrl": "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp",
-      "publishedDateTime": "2022-05-16T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business-live",
-        "domain": "business-live.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -23,6 +23,17 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Automotive Artificial Intelligence Market: Machine Learning Technology to Rake at 45.4% CAGR During 2020-2028"
+    excerpt: "According to a recent report published by Allied Market Research, titled, “Automotive Artificial Intelligence Market by Component, Technology, and"
+    publishedDateTime: 2022-05-17T13:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-machine-learning-technology-to-rake-at-45-4-cagr-during-2020-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+
 secured: "H82PsSZQ4PkGjkZw1XE8LuhG0+tPhP9t5cDY3dBZIVv0wQM4qMg2tMYd/i2nHYzjAVwzCpB7XcYYWluQBkInvdHBerPxVB8IxBbZLQioME57uZJVh2lUpmlmANE0oTPUCSfPDk4LhzCX0Q7skD+fw6huFDf56VEHz78LZnG7qOxVUZbBbMPaFg+NnwYko2b9EtN16KE6mT0B9cMh4HJ1gdIoyAXQYEJXwChSgseQkZ04DCFKv1W6DNK2O4LIbA7qyVAnL98sNxzwEBVqRGFDNOhiG0aIMxdcin+G3Jz9dda0s87sGTuyFLkB13381Iy3KQsIvOpD7JW301qfh85STYoP/w0vFLWndWM+eyWOYTw=;ihux7Q+GzjF2AzfYi3JTng=="
 ---
 

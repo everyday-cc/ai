@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How data is empowering success in financial services"
-    excerpt: "Many financial services companies believe the transformation to a data ... Artificial intelligence and machine learning can learn from every interaction, every click, every purchase and then provide more tailored experiences for the customer, client ..."
-    publishedDateTime: 2022-05-16T16:24:00Z
-    webUrl: "https://www.raconteur.net/customer-experience/how-data-is-empowering-success-in-financial-services/"
+  - title: "Artificial Intelligence in Cyber Security Market | Growth and Changes Influencing the Industry 2022-2029"
+    excerpt: "Rise in number of cybercrimes drives the artificial intelligence (AI) in cyber security market. Global increase in IoT adoption and number of connected"
+    publishedDateTime: 2022-05-17T02:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-cyber-security-market-growth-and-changes-influencing-the-industry-2022-2029"
     type: article
     provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 24
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
     images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2022/05/Coveo-FS-data-image-web.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "ALBXWzojCMHPdJ6MWIIMEo+q55Rka5XHxiIiqid/O2ai4Q8d4XPa5r23WVhOSjdGmImF6SsLJbnDDVMYZkbUQgdpb8K3UT/4RwoOf45SAvi3ia3xhJ0rJhFXutSge/mWz1xeeRdmkNlYJTHDD2zdn1WzV5lsCztDjH9n3X5DHzf54BBezV9dXP0xG4G9KjqeyX9Nta2J4OFE2Ijk0BGFMJ5NsNfmO3VHqvZup/6GKhuISx6cA7NVbBVHzN6Jkq8pFFH6X8Ywy2LHeBPfiYCE/+ILxXJ7rjfOzyYv3idzESP/X+YNH7acDf1Ubq5ufL308PnF7V3cS50i7kXwvz6SZVvXk+nHWVf0XXgaFiBz3WQPBhJ3cmMzdkq6nRX1Nv/DukmZRjtATLu9DYz4jVOU3zFpGLwbUt+BiCXN7P8ougRL13m9jb4TqiRtgUeUXgNz7bUU0374gSc0oRS4uFfJgStPun47zSEPGOytaRwDKxY+onlksHl9AJjdxT2Eacb9YS9DzxRMIwX7Qio4DPvNWQ==;dfcr0JU+l5VPYkfwVus1uA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 18
+  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
+    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
+    publishedDateTime: 2022-05-20T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 11
 
 secured: "JSedjKM9JHUFPYlLqWVMwzA1fK/1L7Xezi8b+BkqK+DiHIUw55NhMUexHQkKWeQ2Q3Knpao0A5PYeUuIhvhcSSWluLSNXRhoUddDUxFDxihzVr5xf44CUBXeNT317jkBybjtwSlrDaezX0R6p3Yc85zxDeG21X5L//wBPJLuN5IMXdk/921wP7Q5ZiSe5QknjKoEANbwxQJajgyhy/8qbr+lRS3wSYOVEvl5ikdikJ4D0nOt9nt+us3Wf5n7K1rybPKldWox5glWubZW1ldFueIBVmw9LjS/wVj8Or8tk2V6F0PGvoXXigNngiwqCNlgF9TubsFCl5RixTm4jMLAIzyhIULvKwTovZB/hv83Pbb6xWT6tncIH76GM7e2lHdHpJpQnQATPUlbyRtwaIpKjo9zd9+mJUNrQmAi6xuitbewIaNA7tOWah25S+upHIYDYVDAAjwCkbAJ2NryLRiv1L2iTlmA0DAbFo9JyUnkkO+Kb2jq5U5LD7Q9XJ3valmHVU4JAAqVbUsLASbC7zDJoA==;mrYMdavanxD7lTOnKQZLqA=="
 ---

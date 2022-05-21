@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/study-reveals-come
 webUrl: "https://markets.businessinsider.com/news/stocks/study-reveals-comedy-ai-and-self-care-can-quickly-boost-patient-mental-health-1031472682"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Business Insider
@@ -26,22 +26,6 @@ images:
     width: 400
     height: 270
     isCached: true
-
-related:
-  - title: "Plan to feed phone data of NHS mental health patients to AI mothballed"
-    excerpt: "An AI was designed to predict when people are at risk of having a mental health crisis, based on their health records, but plans to extend the project with mobile phone data seem to have been scrapped"
-    publishedDateTime: 2022-05-16T15:10:00Z
-    webUrl: "https://www.newscientist.com/article/2319586-plan-to-feed-phone-data-of-nhs-mental-health-patients-to-ai-mothballed/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/05/16140805/SEI_104310453.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "3lJj9hCFxjRpUcm09L/jv+1O4MS5ye7eyZl5nRSBrwmTbogIr7mzN5l/rNEKohijTqWU9ljMlae2b8Vm0Q6CgFg5MzZjljxpINIJyIwu9pQHU1oyqGO0tcATXaYabzEDgUQjlqg5zVrsE10QzZmbbeeJGpzBRqlRhRJotYwu6eqN3OEGamdc+G7Pq3EgnulrvDrCu0tkuz0pQj1nwdh1UDHwmc2fwFekiBLemikpxJYGv9O+zlEk1wTbMU1pcI/N/RhA93Gm1ujn+D5EWweOVEtb/cMljphoyyHYYba4nailrPg61eFRvfEHYDS8GIGnYLQV3rpZagJOLMVMEV16BuD6RnjW+ZPEOqWsQaK+ZNQRoNIDhec0DH0oTRYnnYTXGNpy2Dtb/TXb7P0C8EtffiqFc1GfpfVgWTcSzQH654RS5oOgbILssq/vcadB/irGiUzTkeBZWpA8GFw0oJeD2lIi+K/SI9q6RlbrvdOtFFyGHIHfPuPVp8BN9K2kylxhWNTOTnwlVoNyNdT02yn+bQ==;Rr0JFmd4c+3TcDk30UOgzw=="
 ---

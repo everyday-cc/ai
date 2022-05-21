@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
+    excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
+    publishedDateTime: 2022-05-18T08:33:00Z
+    webUrl: "https://www.finextra.com/blogposting/22305/five-ways-artificial-intelligence-in-fintech-is-changing-the-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Roundtable: The Impact of Artificial Intelligence in the Region"
     excerpt: "In partnership with Google, AS/COA will host a conversation with experts from across Latin America developments in the artificial intelligence space."
     publishedDateTime: 2022-05-18T20:31:00Z
@@ -96,6 +110,15 @@ related:
         width: 836
         height: 469
         isCached: true
+  - title: "Finding the Fairness in AI"
+    excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
+    publishedDateTime: 2022-05-17T15:09:00Z
+    webUrl: "https://cacm.acm.org/news/261047-finding-the-fairness-in-ai/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
   - title: "The power industry found it harder to fill artificial intelligence vacancies in Q1 2022"
     excerpt: "Artificial intelligence-related jobs that were closed during Q1 2022 had been online for an average of 35 days when they were taken offline. This was an increase compared to the equivalent figure a year earlier,"
     publishedDateTime: 2022-05-18T13:03:00Z

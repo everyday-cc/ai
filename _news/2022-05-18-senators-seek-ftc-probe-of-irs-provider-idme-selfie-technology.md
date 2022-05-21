@@ -43,7 +43,7 @@ related:
     provider:
       name: The National Interest
       domain: nationalinterest.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
         width: 1222

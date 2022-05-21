@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: Forbes
@@ -32,63 +32,48 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics Tempted But Hesitant To Use AI Adversarial Attacks Against The Evils Of Machine Learning, Including For Self-Driving Cars"
-    excerpt: "The net result would seem to be an outcome of good. Not everyone agrees with that sentiment. From an AI Ethics perspective, there is a lot of handwringing going on about this meaty topic. Some would argue that by leveraging adversarial attacks, even when ..."
-    publishedDateTime: 2022-05-16T15:31:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
+  - title: "AI is changing the way people relate to other beings"
+    excerpt: "Whether it is satellite footage tracking geese at continental scale, or a smartphone video of squirrels in a park, people are seeing the 8.7m other species on the planet in new lights. In “Ways of Being”,"
+    publishedDateTime: 2022-05-19T16:50:00Z
+    webUrl: "https://www.economist.com/culture/2022/05/18/ai-is-changing-the-way-people-relate-to-other-beings"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
+      name: The Economist
+      domain: economist.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62814aa647441d8a952568f8/0x0.jpg?format=jpg&crop=2715,1528,x279,y50,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220521_CUP001.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "AI Ethics Forewarns Don't Be Caught In Machine Learning Myopia By Overlooking Neuro-Symbolic AI, Including For Autonomous Self-Driving Cars"
-    excerpt: "There is a rising controversy about Machine Learning myopia as to overlooking the value of neuro-symbolic AI or hybrid AI, which has crucial ramifications for AI and AI Ethics. This includes the advent of AI-based self-driving cars."
-    publishedDateTime: 2022-05-19T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/19/ai-ethics-forewarns-dont-be-caught-in-machine-learning-myopia-by-overlooking-neuro-symbolic-ai-including-for-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/19/ai-ethics-forewarns-dont-be-caught-in-machine-learning-myopia-by-overlooking-neuro-symbolic-ai-including-for-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/19/ai-ethics-forewarns-dont-be-caught-in-machine-learning-myopia-by-overlooking-neuro-symbolic-ai-including-for-autonomous-self-driving-cars/amp/"
+  - title: "Europe is seeing a hiring boom in military industry machine learning roles"
+    excerpt: "Europe was the fastest growing region for machine learning hiring among military industry companies in the three months ending March. The number of roles in Europe made up 17.1% of total machine learning jobs – up from 13."
+    publishedDateTime: 2022-05-19T09:00:00Z
+    webUrl: "https://www.army-technology.com/analysis/europe-is-seeing-a-hiring-boom-in-military-industry-machine-learning-roles/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Army Technology
+      domain: army-technology.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62184c65dbd6bd0c97949c9c/0x0.jpg?format=jpg&crop=5676,3194,x0,y103,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/05/OUGqT-1038x778.png"
+        width: 1038
+        height: 778
         isCached: true
-  - title: "This Incredible Vehicle Owns The World Speed Record For Self-Driving Cars"
-    excerpt: "When it comes to self-driving cars, most people think of Waymo and Tesla models. The fastest autonomous car looks quite a bit different, however."
-    publishedDateTime: 2022-05-17T00:37:00Z
-    webUrl: "https://www.slashgear.com/865192/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/"
+  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
+    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
+    publishedDateTime: 2022-05-16T23:02:00Z
+    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 53
+      name: Law
+      domain: law.com
+    quality: 23
     images:
-      - url: "https://www.slashgear.com/img/gallery/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/l-intro-1652743968.jpg"
-        width: 1600
-        height: 900
+      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Self-driving cars hit a third of cyclists, all oncoming cars in testing"
-    excerpt: "Autonomous cars may be further away than believed. Testing of three leading systems found that they hit a third of cyclists, and failed to avoid any oncoming cars. The tests [PDF] performed by the American Automobile Association (AAA) looked at three vehicles: a 2021 Hyundai Santa Fe with Highway Driving Assist,"
-    publishedDateTime: 2022-05-16T16:30:00Z
-    webUrl: "https://www.theregister.com/2022/05/16/selfdriving_system_tests/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/16/selfdriving_system_tests/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/selfdriving_system_tests/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 24
 
 secured: "O7crYmnwe4BYeXwt9fE2Xv0Di9ckr6xa40q88BfWjSs0Qeh8qnDJSvK+Qfh4aqDniOg+RZ3xDatkBpSVEhf8gHifum3PDM/GnKUVvX7pf9xsshR9AB6kNCEdvStb4KnKqiFEwxW9Iuc2eM9qVmXomZAztb4V/WEK/8/TLg+NwGghA83FMxNUxje9oyM8MZC0mYMgBvKbywDJgBeza9Ev8W6J7hfeSsLP/njwFR6VC6famUYyHcltjYi6YutO1gRw9Y2KHiC7x5/YuyUJfyaGLCk8vdVzxvZ2gbG4Qz3wzJJdryPkoL/XVNC6eXoKFSiPgzkuuoSEfg13+3NMAioLEKtDX+4KTO2IfeRHDGG5sf3h5mQE3cREZMWncIy75wlxw9pSUEs/WtyvaVgzx95uyOlR1cToT7K3NDJ8ToMHR2yQOzDmR2vvCpWLmTmG7PpQbZ7e6olWOpdVIyeikpU35H9joCxHuPfA0PzaGmFVEF/QxIqvex5azZ2OvxVCnQz3M0McEhMEmEDAFPc+aFceuA==;HTqrVSRECfmtaptrxg64Kw=="
 ---

@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Illinois Facebook users receiving payouts for class-action lawsuit over facial recognition"
-    excerpt: "ILLINOIS, USA — Payments are rolling out in the settlement of a 2020 lawsuit against Facebook, now Meta, over its use of facial recognition technology that violated an Illinois privacy law. In an update posted to an official website for the lawsuit ..."
-    publishedDateTime: 2022-05-16T16:51:00Z
-    webUrl: "https://www.wqad.com/article/money/illinois-facebook-facial-recognition-class-action-lawsuit-payments/526-cba51e2c-aa04-4648-b779-1a01203c06ac"
-    ampWebUrl: "https://www.wqad.com/amp/article/money/illinois-facebook-facial-recognition-class-action-lawsuit-payments/526-cba51e2c-aa04-4648-b779-1a01203c06ac"
-    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/money/illinois-facebook-facial-recognition-class-action-lawsuit-payments/526-cba51e2c-aa04-4648-b779-1a01203c06ac"
-    type: article
-    provider:
-      name: WQAD
-      domain: wqad.com
-    quality: 49
-    images:
-      - url: "https://media.tegna-media.com/assets/WQAD/images/62bf4458-abe7-43c3-8f57-9d1cfbe02ec4/62bf4458-abe7-43c3-8f57-9d1cfbe02ec4_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Google faces lawsuit for using NHS data of 1.6 million people in UK"
     excerpt: "London: Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its artificial intelligence (AI) division called DeepMind."
     publishedDateTime: 2022-05-17T05:21:00Z

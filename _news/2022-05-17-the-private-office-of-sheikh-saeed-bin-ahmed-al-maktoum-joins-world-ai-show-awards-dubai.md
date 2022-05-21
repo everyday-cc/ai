@@ -32,15 +32,6 @@ related:
         width: 255
         height: 250
         isCached: true
-  - title: "The Private Office of Sheikh Saeed Bin Ahmed Al Maktoum joins World AI Show & Awards – Dubai"
-    excerpt: "To be held under the patronage of the Private Office of HH Sheikh Saeed Bin Ahmed Al Maktoum, a member of the royal family of Dubai, the 35 th global edition of World AI Show & Awards will bring together the most powerful voices in the global AI and RPA space."
-    publishedDateTime: 2022-05-16T16:15:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/zexprwire-2022-5-16-the-private-office-of-sheikh-saeed-bin-ahmed-al-maktoum-joins-world-ai-show-and-awards-dubai"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 6
 
 secured: "ZBEtPj1wCjsqkbiMSOxayQ8omcJTG+SDckYXFSH2Up9gH4bQsNqNImxq+OHIc+HH4mme3uYXBpKI1wACiFz8ua2ZMNlbNtIK5jBA2kubtPk2J8EhJ+7Cqg1ajeIIOukZh3D/nNA2Fm6scutfvJCISO91c0gOo+hq7ZIaFTupPX9ryd40+BHESphLvXcJnrsVHFJ2+Nt2KomTpG6nieby675pJw8tN6i0osbBNYTxdCMxnRBXd0oG7CPMpw8z/re/w1xiBOBtAEiCWdsryg37A8fqc++t5c2oLERYrvzcEOfGVEQtjhUM+DgHmpJINcmwAXM7Cnye2KodEEmSdb9gN9Bb61mKTqRWjNiHYPWU+HhbUKLkzKOPLHlAIRf92BuTWsxIR6yyhnNmdwS/ApkLJnJHugkQecixbRLteeecJSwkUq1BG08PpR87GvXPmhcjxnwRXgBKC4+5VRgIXNmVzpr90MDKQ9SbFAT5GTh2+g3ZIMgkum0k2o2vXO7HF9Q58dMu6kdCJdBPw19zEk7nRA==;bXSxVStOLd3pSjcSXuaLiA=="
 ---

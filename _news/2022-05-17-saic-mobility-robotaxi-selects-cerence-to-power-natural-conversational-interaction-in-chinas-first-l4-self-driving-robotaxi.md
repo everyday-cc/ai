@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 753
         isCached: true
-  - title: "Inside a self-driving truck with Torc Robotics"
-    excerpt: "It’s the home of Torc Robotics, a company founded 17 years ago, that aims to increase trucking safety by developing automated self-driving technology. Torc Robotics has reached a mile marker on its journey toward fully autonomous Level 4 driving ..."
-    publishedDateTime: 2022-05-16T16:00:00Z
-    webUrl: "https://www.fleetequipmentmag.com/self-driving-truck-torc/"
-    type: article
-    provider:
-      name: Fleet Equipment Magazine
-      domain: fleetequipmentmag.com
-    quality: 36
 
 secured: "gZ1aEjUi9skwuu5Bp2FSDNgTE8zDNuO/0ueyQObmR3O7/IGIUk2f2tjLmUdknF65NAx15U3GGcgHiGSR9dqqVg8JupG62kTDywBzv6GhrOiW7KGtQdB8J8QwxDztEO31VIqXQfDrfBl3KB250tCftt02NwN6VV2kfI4+y0raI2k8r14IG+CzabrlFUwPR6xxpwYJmSwf1Uyde48t5a0CD9yiQ/9NeDdKHAS6ixcy5oSzBAAx9YHAKryuv5GP/b2rLVMpE0M3qhV6v7qHQ4IPdXNeLhHPL6ibY3eN4dZlKEth1b3sqa6iRYwkmh+HH2pqjJoUD9m/StxO600eKcKwD8tR8pFT0brvwrv+aKN1GCc=;PNgqE5ZkrQEVU7hifJo/Fw=="
 ---

@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google and DeepMind face class action lawsuit over patient data deal with London hospital"
-    excerpt: "London law firm Mishcon de Reya is bringing forward a major class action lawsuit against artificial intelligence (AI) firm DeepMind and its sister company Google over claims the two firms misused ..."
-    publishedDateTime: 2022-05-16T16:29:00Z
-    webUrl: "https://www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/"
-    ampWebUrl: "https://www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/google-and-deepmind-face-class-action-lawsuit-over-patient-data-deal-with-london-hospital/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 50
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2022/03/Royal-Free-Hospital.png"
-        width: 1147
-        height: 759
-        isCached: true
   - title: "DeepMind’s AlphaFold 2 is half of the story"
     excerpt: "Google’s research arm DeepMind released an open-source version of its deep-learning neural network AlphaFold 2, which solved protein folding."
     publishedDateTime: 2022-05-20T05:02:00Z

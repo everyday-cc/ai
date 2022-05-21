@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "North America Self-driving Car Market 2022 Inclinations & Development Status Highlighted During Forecast Period 2030"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel ..."
-    publishedDateTime: 2022-05-18T14:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2022-inclinations-development-status-highlighted-during-forecast-period-2030-2022-05-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Europe Machine Learning Market 2022 : Projections & Future Opportunities Recorded for the Period 2030"
     excerpt: "Quadintel published a new report on the Europe Machine Learning Market. The research report consists of thorough information about demand, growth,"
     publishedDateTime: 2022-05-17T06:50:00Z

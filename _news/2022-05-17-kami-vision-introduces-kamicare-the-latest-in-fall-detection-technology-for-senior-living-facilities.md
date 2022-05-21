@@ -24,22 +24,6 @@ images:
     height: 339
     isCached: true
 
-related:
-  - title: "Kami Vision Introduces KamiCare, the Latest in Fall Detection Technology for Senior Living Facilities"
-    excerpt: "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions to enterprise, SMBs, and consumers, unveiled KamiCare, its flagship fall detection and management solution that detects falls with higher than 99% accuracy and quickly alerts caregivers and family members."
-    publishedDateTime: 2022-05-16T16:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-seniors-san-jose-fed1bbde5e5743e1a3c55a13e0b926a2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "KklkwdrzLFXIMKAqtV9JUmZSui71CV1+YwQ68xzoKXlZ1H0K2g+0IwJhKcZBppo3KNbWn7Pb1FJctptqmvro9z53i2mNy+wkXbogmjXjq7Mbbnzuzga6C0PG0RB/bMd3Ig5MqZs0O7BkIvgWvFDub5SvydWkDuz3qT7Pz3mX9qYkweagNkm853zWzM6IDcOF0hOA9347Z2DRa/Y7V6PJZc+MFiZPsa+xyaFaCRH284jsmp7ds6yVtJ5Za1DER8cO7XY9sxzE2JUgVqWcnYyaY0EC0LE2P5KJ5FjpgwahCqoPIGfJBbtYOzzDFMm51vUYsLSSI3KnC6gZ2TJEV3c/aiu2OS3Ns/9lqT6RnArWYqA=;pmROd7+NGt4uvdZSH+HWEQ=="
 ---
 

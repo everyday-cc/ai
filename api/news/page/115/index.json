@@ -2,6 +2,143 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2022-02-10-expert-believes-machine-learning-can-improve-after-failing-during-covid.md",
+      "title": "Expert believes machine learning can improve after failing during Covid",
+      "excerpt": "Machine learning and artificial intelligence (AI) systems have long been touted as the future of medicine. A patient can walk into a doctors office, and after a quick scan discover their risk for a variety of diseases, and be given information on how to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/health/article-10494799/Expert-believes-machine-learning-improve-failing-Covid.html",
+      "originalUrl": "https://www.dailymail.co.uk/health/article-10494799/Expert-believes-machine-learning-improve-failing-Covid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/02/09/20/53985879-0-image-a-59_1644439690246.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/health/article-10494799/amp/Expert-believes-machine-learning-improve-failing-Covid.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-10494799/amp/Expert-believes-machine-learning-improve-failing-Covid.html",
+      "publishedDateTime": "2022-02-09T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-austin-police-turn-to-artificial-intelligence-to-help-with-311-call-backlog-after-defunding.md",
+      "title": "Austin Police turn to artificial intelligence to help with 311 call backlog after defunding",
+      "excerpt": "Staffing shortages within the Austin Police Department continues to cause long wait times for customers calling for emergency help prompting the department to turn to artificial intelligence for help at call centers. \"I called 311 the other day and hung up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/austin-police-artificial-intelligence-help-311-call-backlog-defunding",
+      "originalUrl": "https://www.foxnews.com/politics/austin-police-artificial-intelligence-help-311-call-backlog-defunding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d64ca2c-f155-4777-b514-74f3bea8a518/a5ccdcd0-ffd6-4930-9d02-2cc675b7f90d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/austin-police-artificial-intelligence-help-311-call-backlog-defunding.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/austin-police-artificial-intelligence-help-311-call-backlog-defunding.amp",
+      "publishedDateTime": "2022-02-09T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-salesforce-empowered-an-ai-ethics-team-to-keep-it-honest-dealing-with-third-party-apps-is-trickier.md",
+      "title": "Salesforce empowered an AI ethics team to keep it honest. Dealing with third-party apps is trickier.",
+      "excerpt": "Some ethics roles sit inside a legal compliance team or are relegated to a monthly governance or privacy check-in. However, Baxter’s team has a surprising amount of day-to-day interaction and input into decisions made throughout the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/enterprise/salesforce-ethics-team-lacks-control",
+      "originalUrl": "https://www.protocol.com/enterprise/salesforce-ethics-team-lacks-control",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/kathy-baxter.png?id=29248254&width=1500&coordinates=360%2C0%2C320%2C0&height=2000",
+          "width": 1500,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/salesforce-ethics-team-lacks-control-2656561932",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/salesforce-ethics-team-lacks-control-2656561932",
+      "publishedDateTime": "2022-02-09T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-sony-ai-defeats-human-racers-in-gran-turismo-playstation-game.md",
       "title": "Sony AI defeats human racers in Gran Turismo PlayStation game",
       "excerpt": "His first big scoop was about radioactive cat poop. Over the last two years, Sony AI trained a computer system to play Polyphony Digital's Gran Turismo Sport, a popular and realistic car racing game, and beat some of the world's best human competitors ...",
@@ -1024,143 +1161,6 @@
         "name": "National Institute for Health and Care Excellence",
         "domain": "nice.org.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store.md",
-      "title": "IBM Watson-Powered AI Virtual Assistant Helps Visitors on the TD Precious Metals Digital Store'",
-      "excerpt": "IBM ) worked with TD Securities to launch an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store , including ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103664242/IBM-Watson-Powered-AI-Virtual-Assistant-Helps-Visitors-on-the-TD-Precious-Metals-Digital-Store",
-      "originalUrl": "https://menafn.com/1103664242/IBM-Watson-Powered-AI-Virtual-Assistant-Helps-Visitors-on-the-TD-Precious-Metals-Digital-Store",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?444806",
-          "width": 374,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.md",
-      "title": "Raquel Urtasun’s tech company develops self-driving vehicle simulator",
-      "excerpt": "TORONTO - One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away",
-      "sourceUrl": null,
-      "webUrl": "https://www.therecord.com/ts/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html",
-      "originalUrl": "https://www.therecord.com/ts/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thestar.com/j-LCDvx0Et6fcBec6MzWhz1IcJ0=/1280x1024/smart/filters:cb(1644443122032)/https://www.therecord.com/content/dam/thestar/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/2022020809028-adb8b8e5fa05bb3f4168d0080253787490ef3e8a1262f68c164b8cb064b57338.jpg",
-          "width": 1280,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Waterloo Region Record",
-        "domain": "therecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-personalization-and-context-ais-surging-role-in-advertising.md",
-      "title": "Personalization And Context: AI’s Surging Role In Advertising",
-      "excerpt": "The advertising industry is still a long way from perfecting artificial intelligence, but the technology is promising.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6202a95d936f0afd86b5c9b8/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/02/09/personalization-and-context-ais-surging-role-in-advertising/amp/",
-      "publishedDateTime": "2022-02-09T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

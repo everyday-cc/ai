@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-21T06:00:00Z
 originalUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
 webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"

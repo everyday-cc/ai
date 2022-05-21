@@ -25,107 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Railway industry companies are increasingly innovating in machine learning"
-    excerpt: "Research and innovation in machine learning in the railway equipment supply, product and services sector is on the rise. The most recent figures show that the number of related patent applications in the industry stood at 13 in the three months ending March – up from three over the same period in 2021."
-    publishedDateTime: 2022-05-16T17:00:00Z
-    webUrl: "https://www.railway-technology.com/dashboards/patents/railway-industry-companies-are-increasingly-innovating-in-machine-learning/"
+  - title: "How Artificial Intelligence Is Opening Up A New World Of Possibilities In Hearing"
+    excerpt: "For me, there’s nothing more fulfilling than seeing technology enhance the way people live. We’re just starting to scratch the surface when it comes to AI. When people talk about this technology, its impact is not 10 years from now."
+    publishedDateTime: 2022-05-19T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
     type: article
     provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/05/zP74W-1038x778.png"
-        width: 1038
-        height: 778
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628543e5e9890719668a0ba8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "North America is seeing a hiring boom in retail industry machine learning roles"
-    excerpt: "North America extended its dominance for machine learning hiring among retail industry companies in the three months ending March. The number of roles in North America made up 77.1% of total machine learning jobs – up from 75% in the same quarter last year."
-    publishedDateTime: 2022-05-17T09:00:00Z
-    webUrl: "https://www.retail-insight-network.com/analysis/north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles/"
+  - title: "AI is changing the way people relate to other beings"
+    excerpt: "Whether it is satellite footage tracking geese at continental scale, or a smartphone video of squirrels in a park, people are seeing the 8.7m other species on the planet in new lights. In “Ways of Being”,"
+    publishedDateTime: 2022-05-19T16:50:00Z
+    webUrl: "https://www.economist.com/culture/2022/05/18/ai-is-changing-the-way-people-relate-to-other-beings"
     type: article
     provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 50
+      name: The Economist
+      domain: economist.com
+    quality: 39
     images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/05/WdKIv-1038x778.png"
-        width: 1038
-        height: 778
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220521_CUP001.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Europe is seeing a hiring boom in pharmaceutical industry machine learning roles"
-    excerpt: "Europe was the fastest growing region for machine learning hiring among pharmaceutical industry companies in the three months ending March. The number of roles in Europe made up 22.1% of total machine learning jobs – up from 17."
-    publishedDateTime: 2022-05-17T09:00:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/features/europe-is-seeing-a-hiring-boom-in-pharmaceutical-industry-machine-learning-roles/"
+  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
+    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
+    publishedDateTime: 2022-05-16T23:02:00Z
+    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
     type: article
     provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 34
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2022/05/YsfY6-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "Europe is seeing a hiring boom in railway industry machine learning roles"
-    excerpt: "Europe was the fastest growing region for machine learning hiring among railway industry companies in the three months ending March. The number of roles in Europe made up 23.1% of total machine learning jobs – up from 7."
-    publishedDateTime: 2022-05-17T08:00:00Z
-    webUrl: "https://www.railway-technology.com/analysis/europe-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles-2/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 33
-  - title: "Machine learning innovation among power industry companies dropped off in the last quarter"
-    excerpt: "Analysis of patent filings shows an decrease in related applications in the industry following a rise over the past year"
-    publishedDateTime: 2022-05-20T10:00:00Z
-    webUrl: "https://www.power-technology.com/analysis/machine-learning-innovation-among-power-industry-companies-dropped-off-in-the-last-quarter/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 29
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/05/XLwmp-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "Machine learning innovation among retail industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in machine learning in the retail sector has declined in the last year. The most recent figures show that the number of related patent applications in the industry stood at 32 in the three months ending March – down from 100 over the same period in 2021."
-    publishedDateTime: 2022-05-16T18:00:00Z
-    webUrl: "https://www.retail-insight-network.com/analysis/machine-learning-innovation-among-retail-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
+      name: Law
+      domain: law.com
     quality: 23
-  - title: "J&J is top machine learning innovator in clinical trial operations in Q1 2022"
-    excerpt: "Johnson & Johnson was the top innovator in the clinical trial operations sector in the latest quarter. The company filed 31 related patents in the three months ending March. That was up from 11 over the same period in 2021. It was followed by Roche with 15 ..."
-    publishedDateTime: 2022-05-16T18:04:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/dashboards/patents/clinical-trial-operations-industry-companies-are-increasingly-innovating-in-machine-learning/"
-    type: article
-    provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 16
-  - title: "Pharmaceutical industry companies are increasingly innovating in machine learning"
-    excerpt: "Research and innovation in machine learning in the pharmaceutical sector is on the rise. The most recent figures show that the number of related patent applications in the industry stood at 77 in the three months ending March – up from 66 over the same period in 2021."
-    publishedDateTime: 2022-05-16T18:00:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/features/pharmaceutical-industry-companies-are-increasingly-innovating-in-machine-learning/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 14
-  - title: "Machine learning innovation among automotive industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in machine learning in the automotive manufacturing and supply sector has declined in the last year. The most recent figures show that the number of related patent applications in the industry stood at 170 in the three months ending ..."
-    publishedDateTime: 2022-05-16T18:00:00Z
-    webUrl: "https://www.just-auto.com/features/machine-learning-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 6
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "pzs612SqkV+Byl254wAUueMucebbjuVME2gOhvYEEyAkOXtuIzuRDxOYO33tsyEqt/PxJ+DD04/2eE7dGcqeYC+PvpR9PipEWmDHQ+iP5DUUdqGLy/yvMeYHJh4gqBxGvCDPDEV52K9axREdggAweeKFpKf/zuJPR8zaoSHqlW2dOSBoNZkU7oMvlNKhNe8ORpVbYWjruFswGEcolbq119MHUCr7A2+FMD8+SEhy/e6lkDfcRGAAFLDCu8RPtv7kwCNLyJUJqmhoT43kUFdFo8LYkL6C7gz+0+ZbNGp8tXMrRn+hGQFgB8hHyEQ1EQB1UeiTmZ0n2eBMpVe33TqAByEtgef+kzs4Q5zxfdJqBxgxDViGDS0YvRUjeP7VwUwIL26qXYmiXEH0P7cx/svCg7o+te4kNgHXDzXHTMLXY/C3ahGIh9wEO9hTwVBohxVQSdtZt+yTgmpkCEBixbHEPEYcOE3+m4E/S8HhIrTngxCFjomBsytffIhDwP+oPzYgY2cp7YNmLAPp8eYcDUatzA==;KwVTXF+Om4EgUdBktCQBZg=="
 ---

@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-05-17-innovatrics-blaize-partner-on-ai-ready-to-deploy-facial-recognition-technology.md",
-      "title": "Innovatrics, Blaize partner on AI ready-to-deploy facial recognition technology",
-      "excerpt": "Global EU-based provider of biometric technology solutions Innovatrics and Blaize, the AI computing innovator of edge computing, have announced a technology partnership to deliver ready-to-use facial recognition solutions designed for access control and public security applications leveraging",
+      "path": "_news/2022-05-17-human-centered-ai-book-review-a-roadmap-for-people-first-artificial-intelligence.md",
+      "title": "Human-Centered AI, book review: A roadmap for people-first artificial intelligence",
+      "excerpt": "As if. As Shneiderman writes in his new book, Human-Centered AI, he's somewhat modified his stance in the intervening years, giving greater weight to ending the tedium of performing the same tasks over and over. However, he remains sceptical that AI will ...",
       "sourceUrl": null,
-      "webUrl": "https://itwire.com/business-it-news/enterprise-solutions/innovatrics,-blaize-partner-on-ai-ready-to-deploy-facial-recognition-technology.html",
-      "originalUrl": "https://itwire.com/business-it-news/enterprise-solutions/innovatrics,-blaize-partner-on-ai-ready-to-deploy-facial-recognition-technology.html",
+      "webUrl": "https://www.zdnet.com/article/human-centered-ai-book-review/",
+      "originalUrl": "https://www.zdnet.com/article/human-centered-ai-book-review/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 98,
       "tags": null,
       "images": [
         {
-          "url": "https://itwire.com/media/k2/items/cache/3ed17bc21849e3d3f6a2da496277ab6e_M.jpg",
-          "width": 375,
-          "height": 208,
+          "url": "https://www.zdnet.com/a/img/resize/2bc742f40b259164cd692288cfd4dab0a17877dd/2022/05/17/e9b93a46-659a-4596-9497-944b9778a275/human-centred-ai-main.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1781,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,116 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T18:25:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/human-centered-ai-book-review/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-centered-ai-book-review/",
+      "publishedDateTime": "2022-05-17T00:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-tableau-enhances-links-to-salesforce-ai-as-it-works-to-blend-more-into-ecosystem.md",
+      "title": "Tableau enhances links to Salesforce AI as it works to blend more into ecosystem",
+      "excerpt": "When Salesforce spent almost $16 billion to buy Tableau in 2019, it was getting a company with a goal of bringing data to the masses. As a cloud solution, it fits nicely into the growing Salesforce federation of cloud products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/",
+      "originalUrl": "https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-16-at-3.18.20-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/amp/",
+      "publishedDateTime": "2022-05-17T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-bristol-robotics-start-up-signs-deal-with-energy-giant-enel.md",
+      "title": "Bristol robotics start-up signs deal with energy giant Enel",
+      "excerpt": "The company was founded by three University of Bristol graduates in 2016 and uses tech to inspect wind turbines",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623",
+      "originalUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.business-live.co.uk/incoming/article23972743.ece/ALTERNATES/s615/0_HBBRI_160522-perceptual-robotics-bristol.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp",
+      "cdnAmpWebUrl": "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp",
+      "publishedDateTime": "2022-05-16T23:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business-live",
+        "domain": "business-live.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +143,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -158,7 +261,7 @@
       "originalUrl": "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -343,6 +446,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge.md",
+      "title": "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge",
+      "excerpt": "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1047,144 +1184,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-15-artificial-intelligence-benefits-psoriatic-arthritis-patients.md",
-      "title": "Artificial Intelligence Benefits Psoriatic Arthritis Patients",
-      "excerpt": "PredictAI, a new machine-learning tool developed by researchers, speeds up the diagnosis of psoriatic arthritis (PsA) by up to 4 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
-      "publishedDateTime": "2022-05-15T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-15-shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company.md",
-      "title": "Shareholder: Amazon’s ‘astronomical’ misuse of customer data could ruin company",
-      "excerpt": "Amazon launched its facial recognition service, Rekognition, in 2016 for customers to build “powerful visual search and discovery” into applications, according to a blog post on its website.",
-      "sourceUrl": null,
-      "webUrl": "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company",
-      "originalUrl": "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2022/05/web1_BIZ-CPT-AMAZON-DATA-LAWSUIT-GET-1-.jpg",
-          "width": 1068,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-14T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lima News",
-        "domain": "limaohio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages.md",
-      "title": "Paradox: Artificial Intelligence Helps Solve, But Suffers From Skills Shortages",
-      "excerpt": "We don’t have enough people to build the AI systems that can automate business areas that don’t have enough people, latest IBM survey shows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//5fe0e38e220093c48951892b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/amp/",
-      "publishedDateTime": "2022-05-14T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

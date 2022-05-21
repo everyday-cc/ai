@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-priv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/"
 type: article
 quality: 81
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Illinois Facebook users receiving payouts for class-action lawsuit over facial recognition"
-    excerpt: "ILLINOIS, USA — Payments are rolling out in the settlement of a 2020 lawsuit against Facebook, now Meta, over its use of facial recognition technology that violated an Illinois privacy law. In an update posted to an official website for the lawsuit ..."
-    publishedDateTime: 2022-05-16T16:51:00Z
-    webUrl: "https://www.wqad.com/article/money/illinois-facebook-facial-recognition-class-action-lawsuit-payments/526-cba51e2c-aa04-4648-b779-1a01203c06ac"
-    ampWebUrl: "https://www.wqad.com/amp/article/money/illinois-facebook-facial-recognition-class-action-lawsuit-payments/526-cba51e2c-aa04-4648-b779-1a01203c06ac"
-    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/money/illinois-facebook-facial-recognition-class-action-lawsuit-payments/526-cba51e2c-aa04-4648-b779-1a01203c06ac"
-    type: article
-    provider:
-      name: WQAD
-      domain: wqad.com
-    quality: 49
-    images:
-      - url: "https://media.tegna-media.com/assets/WQAD/images/62bf4458-abe7-43c3-8f57-9d1cfbe02ec4/62bf4458-abe7-43c3-8f57-9d1cfbe02ec4_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "‘The Game is Over’: Google’s DeepMind says it is on verge of achieving human-level AI"
     excerpt: "Human-level artificial intelligence is close to finally being achieved, according to a lead researcher at Google’s DeepMind AI division. Dr Nando de Freitas said “the game is over” in the ..."

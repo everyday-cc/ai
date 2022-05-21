@@ -37,15 +37,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Green robotics start-up signs deal with energy giant"
-    excerpt: "A start-up with University of Bristol roots has signed a deal with energy giant Enel to help keep its estimated 9,000 turbines spinning."
-    publishedDateTime: 2022-05-16T15:36:00Z
-    webUrl: "https://www.bristol.ac.uk/news/2022/may/robotics-start-up-signs-deal.html"
-    type: article
-    provider:
-      name: University of Bristol
-      domain: bristol.ac.uk
-    quality: 34
 
 secured: "mHg4AkIn1Zv5ityt5NHz2CBkuIHkejxW9Zckgbf+BJfcdkwgQJuDkJ3O9zizdA9k9k1+oSdB4SDMI2IGtTmrg7ssUhuIEN1q8ifrC89YzlW0OEYkQB7o7u2OPCVgPpR8kMEA32PZjazo0g24T1UcMO5JWLMbckZqTMPQGnpMrf+2r3Soe/Zu3X+kbRKL/pP/xsKaFzl+JPuaoprDCETwCY+WHMnhEkGibEBjE/oI+Lmt4CSzGN1OkkyHmbECkCgOpSJhGZG/vGIh6lll0XwFqhCmFvVHKn2mvvLI2CP2FQnULqUQi2i9eMdq41lVPCJERhRg6MWr20+M8U7e+ip5vtwqCIRNNDbRma+/ta01zzI=;AoXN0y3Y1bI+32R1WTsO2Q=="
 ---

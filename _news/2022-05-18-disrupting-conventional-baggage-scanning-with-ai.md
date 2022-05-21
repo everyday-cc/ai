@@ -25,130 +25,118 @@ images:
     isCached: true
 
 related:
-  - title: "Finding AI’s low-hanging fruit"
-    excerpt: "In some circles, the idea of going smaller with AI is catching on. Instead of a complete forklift upgrade across the entire business process, it’s better to do the easy stuff first."
-    publishedDateTime: 2022-05-16T16:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/"
-    ampWebUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
+  - title: "Can AI Identify Patients With Long COVID?"
+    excerpt: "Long COVID refers to the condition where people experience long-term effects from their infection with the SARS CoV-2 virus that is responsible for the COVID-19 disease (Coronavirus disease 2019) pandemic according to the U."
+    publishedDateTime: 2022-05-20T21:57:00Z
+    webUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid"
+    ampWebUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1219474321.jpg?w=1200&strip=all"
-        width: 1200
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic0827814.jpg?itok=6-v41JVn"
+        width: 1528
         height: 800
         isCached: true
-  - title: "6 business risks of shortchanging AI ethics and governance"
-    excerpt: "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors inherent to the technology — for example, how a particular AI ..."
-    publishedDateTime: 2022-05-17T10:00:00Z
-    webUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html"
-    ampWebUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
+  - title: "AI models identify COVID-19 patients at the greatest risk of death, injury"
+    excerpt: "New artificial intelligence (AI) models can help doctors prioritize care by predicting which COVID-19 patients are most at risk of dying or developing kidney injuries during hospitalization."
+    publishedDateTime: 2022-05-16T20:21:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 55
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-patient.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Using AI to predict heart attacks"
-    excerpt: "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?"
-    publishedDateTime: 2022-05-17T14:50:00Z
-    webUrl: "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
+  - title: "Scientists use machine learning techniques for better characterization of long COVID"
+    excerpt: "Scientists, using machine learning techniques, analyzed an unprecedented collection of electronic health records (EHRs) available for COVID-19 research to better identify who has long COVID. Exploring de-identified EHR data in the National COVID Cohort ..."
+    publishedDateTime: 2022-05-17T00:09:00Z
+    webUrl: "https://www.news-medical.net/news/20220516/Scientists-use-machine-learning-techniques-for-better-characterization-of-long-COVID.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220516/Scientists-use-machine-learning-techniques-for-better-characterization-of-long-COVID.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220516/Scientists-use-machine-learning-techniques-for-better-characterization-of-long-COVID.aspx"
     type: article
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 59
+    quality: 52
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg"
-        width: 1000
-        height: 554
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/education_science_micrograph_of_medical_science_stratified_squamous_epithelium_t_-_Pan_Xunbin_M1_c1ee5d5708f84924b64367b777f5faae-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "Using AI To Cure Blinding Eye Diseases"
-    excerpt: "NIH discovery sheds light on tissue targeted by age-related macular degeneration and other diseases Researchers have identified distinct differences among the cells comprising a tissue in the retina that is vital to human visual perception."
-    publishedDateTime: 2022-05-17T20:19:00Z
-    webUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/"
-    ampWebUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
+  - title: "Understanding COVID reinfections; artificial intelligence that has learned human biases"
+    excerpt: "Warm weather is upon us, which has historically meant a reprieve from infections driven by indoor settings — yet COVID is running rampant and we may not even know to what extent. Months ago, CDC director Rochelle Walensky said it's not a matter of if you get COVID,"
+    publishedDateTime: 2022-05-19T15:29:00Z
+    webUrl: "https://www.wbur.org/radioboston/2022/05/19/covid-reinfection-variants-ai-biases-phenomenal-women"
+    ampWebUrl: "https://amp.wbur.org/radioboston/2022/05/19/covid-reinfection-variants-ai-biases-phenomenal-women"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/05/19/covid-reinfection-variants-ai-biases-phenomenal-women"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
+      name: WBUR
+      domain: wbur.org
+    quality: 49
     images:
-      - url: "https://scitechdaily.com/images/RPE-Subpopulations-AI-777x442.jpg"
-        width: 777
-        height: 442
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/AP22087837827707.jpg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
-    excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
-    publishedDateTime: 2022-05-18T08:33:00Z
-    webUrl: "https://www.finextra.com/blogposting/22305/five-ways-artificial-intelligence-in-fintech-is-changing-the-industry"
+  - title: "Scientists use machine learning models to help discern characteristics of people with long-COVID"
+    excerpt: "Clinical scientists used machine learning (ML) models to explore de-identified electronic health record (EHR) data in the National COVID Cohort Collaborative (N3C), a National Institutes of Health-funded national clinical database,"
+    publishedDateTime: 2022-05-18T01:14:00Z
+    webUrl: "https://www.news-medical.net/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: News Medical
+      domain: news-medical.net
+    quality: 46
     images:
-      - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 422
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Electronic_Health_Record-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "AI is changing the way people relate to other beings"
-    excerpt: "Whether it is satellite footage tracking geese at continental scale, or a smartphone video of squirrels in a park, people are seeing the 8.7m other species on the planet in new lights. In “Ways of Being”,"
-    publishedDateTime: 2022-05-19T16:50:00Z
-    webUrl: "https://www.economist.com/culture/2022/05/18/ai-is-changing-the-way-people-relate-to-other-beings"
+  - title: "Scientists use machine learning models to help identify long COVID patients"
+    excerpt: "Clinical scientists used machine learning (ML) models to explore de-identified electronic health record (EHR) data in the National COVID Cohort Collaborative (N3C), a National Institutes of Health-funded national clinical database,"
+    publishedDateTime: 2022-05-17T16:36:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/953020"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
     images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220521_CUP001.jpg"
-        width: 1280
-        height: 720
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e08c1c1a-08ef-4b9f-8b33-6fdc4b78d028/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
-    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
-    publishedDateTime: 2022-05-16T23:02:00Z
-    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
+  - title: "Identification of long COVID patients through machine learning"
+    excerpt: "In a recent study posted to Preprints with The Lancet*, researchers developed a machine learning approach to identify patients with long coronavirus disease (COVID). . Image Credit: Starocean/Shutterstock The post-acute sequelae of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection are called long COVID."
+    publishedDateTime: 2022-05-20T11:48:00Z
+    webUrl: "https://www.news-medical.net/news/20220520/Identification-of-long-COVID-patients-through-machine-learning.aspx"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 23
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Finding the Fairness in AI"
-    excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
-    publishedDateTime: 2022-05-17T15:09:00Z
-    webUrl: "https://cacm.acm.org/news/261047-finding-the-fairness-in-ai/fulltext"
+      name: News Medical
+      domain: news-medical.net
+    quality: 19
+  - title: "Machine learning can identify, potentially help patients with 'long-COVID'"
+    excerpt: "Researchers from Chapel Hill, N.C.-based UNC School of Medicine's machine learning models helped identify long-COVID patients, patients who had the virus for more than 28 days, by analyzing patterns in electronic health record data,"
+    publishedDateTime: 2022-05-17T21:18:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/machine-learning-can-identify-potentially-help-patients-with-long-covid.html"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 17
-  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
-    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
-    publishedDateTime: 2022-05-20T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
 
 secured: "+Gpj46ylphmrjbOlr9brqOxQbcMGVIsWQ6PVVdeo588IHNmABbfKDzlzXD3JEnp7MF1C/+C/lHiOaXCjL6Ox1gG91rKo3Edj0xzAOfrYJe0naYXKd/pAF8hHnsto7TSpDTCcEPtfEudVyzrInXsMHl8QadaehEH2WijB4jPvuSJcTUpXaI1Bp5W8yPsR7fbHFRx5O9bEbLMWDG9iC2OvdEZurf428onsONl8E9nwc44M8OnsMbwCIx+8SmIAEZMWH8E/6DJR/VtKGF6tQ8nHkEeiGttPMfnS0j+C2lrr9ieiTcE0JaIlHQA3kP0C/9YrlzuDmQA9Ai79KEcShKQjaP5qFql1bLimwHTzyIgK70G9pADfVYrwILuZIqB7jqKz4Y4x3eFhph8JuzMz9d73ADnOexLKfyd7O5psmcpNHuhFoEsGM//PHCEhhhe3dYeM7iz60h2+m+6HS1GHVFuDA3wu98h8mXgmeqUsUs40Jw1L9obpZ/HQH8IZxldpOJubgi0IHaAwLwVVo0wVXMjfiA==;lB6ZuFFt6j7YZU6PMYTw/g=="
 ---

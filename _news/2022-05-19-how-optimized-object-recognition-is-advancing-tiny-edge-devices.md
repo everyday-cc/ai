@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Emza and Alif Demonstrate Fast, Ultra-Efficient Object Detection for Tiny AI Edge Devices"
-    excerpt: "GIV'ATAYIM, Israel, May 16, 2022 (GLOBE NEWSWIRE) -- Emza Visual Sense, a pioneer in Tiny AI visual sensing, is joining with Alif Semiconductor to show how the combination of powerful, highly efficient Arm®-based hardware and optimized models can make AI ..."
-    publishedDateTime: 2022-05-16T15:18:00Z
-    webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8542587/emza-and-alif-demonstrate-fast-ultra-efficient-object-detection-for-tiny-ai-edge-devices/"
-    type: article
-    provider:
-      name: WKRN
-      domain: wkrn.com
-    quality: 10
   - title: "Emza and Alif Demonstrate Fast, Ultra-Efficient Object Detection for Tiny AI Edge Devices"
     excerpt: "Emza Visual Sense, a pioneer in Tiny AI visual sensing, is joining with Alif Semiconductor to show how the combination of powerful, highly efficient Arm®-based hardware and optimized models can make AI a reality at the edge."
     publishedDateTime: 2022-05-16T18:39:00Z

@@ -20,43 +20,20 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR"
-    excerpt: "Allied Market Research recently published a report, titled, “Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and"
-    publishedDateTime: 2022-05-16T15:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr"
+  - title: "Edge AI Software Market: Global Industry Could Hit New Highs, Says Allied Market Research"
+    excerpt: "Increasing enterprise workloads on the cloud, rapid developments of IoT, and growth in the number of intelligent applications are the major driving"
+    publishedDateTime: 2022-05-18T11:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-global-industry-could-hit-new-highs-says-allied-market-research"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 50
+    quality: 28
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Machine learning as a Service Market to Reach $302.66 Bn, Globally, by 2030 at 36.2% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \"Machine learning as a Service Market by By Application (Marketing and Advertising,"
-    publishedDateTime: 2022-05-17T13:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at-36-2-cagr-allied-market-research-895645004.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
-        isCached: true
-  - title: "Medical Robots Market Size Worth $25.44Bn, Globally, by 2028 at 18.5% CAGR - Exclusive Report by The Insight Partners"
-    excerpt: "The Insight Partners published latest research study on \"Medical Robots Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Product (Surgical Robots, Hospital & Pharmacy Robots, Rehabilitation Robots,"
-    publishedDateTime: 2022-05-19T11:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-medical-robots-market-size-worth-2544bn-globally-2028-/2022/05/19/9605359.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "u+StmTwKRgWUcH7ZPRn/gE+szYWe3EJFzBrdC1+RKnHKx/WuMu7Z7A9nPsvtZIhGn5ktXHmPM6F5bx9Cai7n4oHKdAuPjeOdqMFiIGKUctvM1mu6JBaoZnKXWAbheC09oRR90HHe6EOauJWWN/lR9uIDHFJlFDUC5JBC60SZ24w5vtMEQXYS0GhZkfGbu1TSlwiXPMJSdc0stkxYwnEAxepaIXFcMZx4iMlFUOQ4mu92zRbA4kkyVfuKByDcEjWWKYw1D+MXbhorfKss2cp4/VEU/6b9/C+8PuIXRDn8V2FM75WFBzzfYUG/u3qIepYU6NdK3wYgMWSyQ5kwy7S9XFp08jvxu/+zQOvmCGZZRyk=;xrs+/hAETp9MePX5GisZ8w=="
 ---

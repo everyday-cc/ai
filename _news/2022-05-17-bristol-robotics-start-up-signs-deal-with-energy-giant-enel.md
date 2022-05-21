@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-live.co.uk/technology/bristol-robotics-start-up
 cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 52
-  - title: "Green robotics start-up signs deal with energy giant"
-    excerpt: "A start-up with University of Bristol roots has signed a deal with energy giant Enel to help keep its estimated 9,000 turbines spinning."
-    publishedDateTime: 2022-05-16T15:36:00Z
-    webUrl: "https://www.bristol.ac.uk/news/2022/may/robotics-start-up-signs-deal.html"
-    type: article
-    provider:
-      name: University of Bristol
-      domain: bristol.ac.uk
-    quality: 34
 
 secured: "89Uj0C4pTR573tBWgRHbqkgF44iXJVOP3WjR7DW9ZdrGTMGIgPsY6LOhqrm4hqz8xMRi+QWRrN8NcGmXPw87UZxr0KiSpRiNAu/kN0PXpB3L1Oj4iD1RvBIcjSji+YhHnKiGgZTLIEuTwpR6eOAI7fyF588rKVOomU4Fsxi6D+KqFoegKUaYJiWEoIJLv7X8X541zJsAa5NYTjTYBWhfugRYkW+LjaChW5uGGd5Pvl7CmHqttnfGMgDH1soU5FGBEzVwq+11ST+THWhXG7NtykuWmyfkuV9O6a4eI47BtmpAiVF/4ktdzqEC86e1R0b7AF3kotI0pVjW2A87h8ynCZF5un5PVj/0CJks0OEhdch1xrblU/K9nIyBW8Sb8J7JucJ350QyT61IC+rwbraJOhX8HT7y1b9utU9eU0rdMswcfj+a4NxoXtieVf2HXyjaaOZyMpk8OKwrnR39Psweh6AS4NSd2mgo85y4M2ec5M2QAJaWEg1AN6DHi6YC4RUqsfFV32r7HUQTzfiU2X8cJw==;1oY4MuYWyJ5k5k9G9poAEQ=="
 ---

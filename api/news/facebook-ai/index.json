@@ -98,7 +98,7 @@
       "originalUrl": "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -184,6 +184,50 @@
         "AI",
         "Facebook AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-6-business-risks-of-shortchanging-ai-ethics-and-governance.md",
+      "title": "6 business risks of shortchanging AI ethics and governance",
+      "excerpt": "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors inherent to the technology — for example, how a particular AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
+      "originalUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp",
+      "publishedDateTime": "2022-05-17T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -610,35 +654,35 @@
     },
     {
       "path": "_news/2022-05-03-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
-      "title": "Facebook-Owner Meta Opens Access to AI Large Language Model",
-      "excerpt": "(Reuters) - Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was ...",
+      "title": "Facebook-owner Meta Opens Access To AI Large Language Model",
+      "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first ...",
       "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model",
+      "webUrl": "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718",
+      "originalUrl": "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T07:15:00-07:00",
+      "publishedDateTime": "2022-05-03T07:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1309,52 +1353,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-cerebras-wafer-size-ai-chips-play-nice-with-pytorch-tensorflow.md",
-      "title": "Cerebras' wafer-size AI chips play nice with PyTorch, TensorFlow",
-      "excerpt": "Cerebras Systems has expanded support for the popular open-source PyTorch and TensorFlow machine-learning frameworks on the Wafer-Scale Engine 2 processors that power its CS-2 system. The chip designer says the expanded support,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/13/cerebras_wafersized_ai_chips_play/",
-      "originalUrl": "https://www.theregister.com/2022/04/13/cerebras_wafersized_ai_chips_play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/03/14/cs21_7nm_planview_dinner.jpg",
-          "width": 9144,
-          "height": 6094,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/13/cerebras_wafersized_ai_chips_play/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/cerebras_wafersized_ai_chips_play/",
-      "publishedDateTime": "2022-04-13T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
       ]
     }
   ],

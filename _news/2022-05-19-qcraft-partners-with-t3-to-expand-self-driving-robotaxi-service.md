@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Inside a self-driving truck with Torc Robotics"
-    excerpt: "It’s the home of Torc Robotics, a company founded 17 years ago, that aims to increase trucking safety by developing automated self-driving technology. Torc Robotics has reached a mile marker on its journey toward fully autonomous Level 4 driving ..."
-    publishedDateTime: 2022-05-16T16:00:00Z
-    webUrl: "https://www.fleetequipmentmag.com/self-driving-truck-torc/"
-    type: article
-    provider:
-      name: Fleet Equipment Magazine
-      domain: fleetequipmentmag.com
-    quality: 36
   - title: "SAIC Mobility Robotaxi Selects Cerence to Power Natural, Conversational Interaction in China’s First L4 Self-Driving Robotaxi"
     excerpt: "Cerence Inc.  (NASDAQ: CRNC), AI for a world in motion, today announced that SAIC Mobility Robotaxi, part of leading Chinese automaker SAIC Motor, has selected Cerence to provide mobility assistant technology for its L4 self-driving robotaxi platform,"
     publishedDateTime: 2022-05-17T12:03:00Z

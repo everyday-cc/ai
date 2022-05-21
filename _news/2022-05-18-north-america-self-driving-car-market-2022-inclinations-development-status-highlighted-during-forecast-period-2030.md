@@ -29,34 +29,61 @@ images:
     isCached: true
 
 related:
-  - title: "Asia-Pacific Machine Learning Market 2022 : Industry Development Scenario and Forecast 2030"
-    excerpt: "Quadintel published a new report on the Asia-Pacific Machine Learning Market. The research report consists of thorough information about demand, growth,"
-    publishedDateTime: 2022-05-17T05:33:00Z
-    webUrl: "https://www.digitaljournal.com/pr/asia-pacific-machine-learning-market-2022-industry-development-scenario-and-forecast-2030"
+  - title: "North America is seeing a hiring boom in retail industry machine learning roles"
+    excerpt: "North America extended its dominance for machine learning hiring among retail industry companies in the three months ending March. The number of roles in North America made up 77.1% of total machine learning jobs – up from 75% in the same quarter last year."
+    publishedDateTime: 2022-05-17T09:00:00Z
+    webUrl: "https://www.retail-insight-network.com/analysis/north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 50
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/05/WdKIv-1038x778.png"
+        width: 1038
+        height: 778
         isCached: true
-  - title: "Europe Machine Learning Market 2022 : Projections & Future Opportunities Recorded for the Period 2030"
-    excerpt: "Quadintel published a new report on the Europe Machine Learning Market. The research report consists of thorough information about demand, growth,"
-    publishedDateTime: 2022-05-17T06:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/europe-machine-learning-market-2022-projections-future-opportunities-recorded-for-the-period-2030"
+  - title: "Europe is seeing a hiring boom in pharmaceutical industry machine learning roles"
+    excerpt: "Europe was the fastest growing region for machine learning hiring among pharmaceutical industry companies in the three months ending March. The number of roles in Europe made up 22.1% of total machine learning jobs – up from 17."
+    publishedDateTime: 2022-05-17T09:00:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/features/europe-is-seeing-a-hiring-boom-in-pharmaceutical-industry-machine-learning-roles/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 34
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2022/05/YsfY6-1038x778.png"
+        width: 1038
+        height: 778
         isCached: true
+  - title: "Europe is seeing a hiring boom in railway industry machine learning roles"
+    excerpt: "Europe was the fastest growing region for machine learning hiring among railway industry companies in the three months ending March. The number of roles in Europe made up 23.1% of total machine learning jobs – up from 7."
+    publishedDateTime: 2022-05-17T08:00:00Z
+    webUrl: "https://www.railway-technology.com/analysis/europe-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles-2/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 33
+  - title: "Machine learning innovation among retail industry companies has dropped off in the last year"
+    excerpt: "Research and innovation in machine learning in the retail sector has declined in the last year. The most recent figures show that the number of related patent applications in the industry stood at 32 in the three months ending March – down from 100 over the same period in 2021."
+    publishedDateTime: 2022-05-16T18:00:00Z
+    webUrl: "https://www.retail-insight-network.com/analysis/machine-learning-innovation-among-retail-industry-companies-has-dropped-off-in-the-last-year/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 23
+  - title: "Pharmaceutical industry companies are increasingly innovating in machine learning"
+    excerpt: "Research and innovation in machine learning in the pharmaceutical sector is on the rise. The most recent figures show that the number of related patent applications in the industry stood at 77 in the three months ending March – up from 66 over the same period in 2021."
+    publishedDateTime: 2022-05-16T18:00:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/features/pharmaceutical-industry-companies-are-increasingly-innovating-in-machine-learning/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 14
 
 secured: "hhjXcUcAZk0lgmEECDPgocZjL0tRbW7VmfjwIvodpk6oe5UfczeHdFK7beYvrYlQ2cPkJt0mx6HOn9PLXwwRVh9VYpmDc3N/8t6cITVbbpSXo3964NID0ctCUufylxBKpMnCTkoevXw2/tv2CWdOMqWvz01yE6ZTJyfu4HDso0Pbk1szJBEHl8riTu1HyfDL7fDUftpiuw1S9PvZhvq3wO1hOqMK9+zIOZh8GyysFRRoJV4S8N0Twp94oM5l4rnRzpPX+fCQz4k1mxdQT3a8XfR8GroCcrAGYXgwWjPB/FIgkJ3dSp+0msP8+vGokxNKqPbTJQeZvQLCE4MbCOZmeekGtZQBxj1bbuTBUzSsNwc=;K314TkVCHPTc6NaOtv7HSw=="
 ---

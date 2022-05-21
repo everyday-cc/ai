@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchang
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: CIO
@@ -28,128 +28,59 @@ images:
     isCached: true
 
 related:
-  - title: "Finding AI’s low-hanging fruit"
-    excerpt: "In some circles, the idea of going smaller with AI is catching on. Instead of a complete forklift upgrade across the entire business process, it’s better to do the easy stuff first."
-    publishedDateTime: 2022-05-16T16:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/"
-    ampWebUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
+  - title: "How consumers and businesses are using the power of artificial intelligence"
+    excerpt: "For many organizations around the world, digital transformation has accelerated over the last two years, prompting new investments in advanced technologies like Artificial Intelligence (AI). Today, AI is already changing the way businesses operate in ..."
+    publishedDateTime: 2022-05-17T16:43:00Z
+    webUrl: "https://www.kgun9.com/the-morning-blend/how-consumers-and-businesses-are-using-the-power-of-artificial-intelligence"
+    ampWebUrl: "https://www.kgun9.com/the-morning-blend/how-consumers-and-businesses-are-using-the-power-of-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-kgun9-com.cdn.ampproject.org/c/s/www.kgun9.com/the-morning-blend/how-consumers-and-businesses-are-using-the-power-of-artificial-intelligence?_amp=true"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1219474321.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Using AI to predict heart attacks"
-    excerpt: "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?"
-    publishedDateTime: 2022-05-17T14:50:00Z
-    webUrl: "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
+      name: KGUN 9
+      domain: kgun9.com
     quality: 59
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg"
-        width: 1000
-        height: 554
-        isCached: true
-  - title: "Using AI To Cure Blinding Eye Diseases"
-    excerpt: "NIH discovery sheds light on tissue targeted by age-related macular degeneration and other diseases Researchers have identified distinct differences among the cells comprising a tissue in the retina that is vital to human visual perception."
-    publishedDateTime: 2022-05-17T20:19:00Z
-    webUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/"
-    ampWebUrl: "https://scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-ai-to-cure-blinding-eye-diseases/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
-    images:
-      - url: "https://scitechdaily.com/images/RPE-Subpopulations-AI-777x442.jpg"
-        width: 777
-        height: 442
-        isCached: true
-  - title: "Disrupting conventional baggage scanning with AI"
-    excerpt: "Vehant Technologies Technology has reinforced all the aspects of our lives in terms of how we work, learn, travel or shop. It’s inescapable that the technological devices and services have begun to reflect the public ambitions and desires to connect with others and contribute to the world."
-    publishedDateTime: 2022-05-18T07:40:00Z
-    webUrl: "https://www.crn.in/columns/disrupting-conventional-baggage-scanning-with-ai/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 39
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2020/05/12140219/Artificial-intelligence-HR.jpg"
-        width: 750
-        height: 430
-        isCached: true
-  - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
-    excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
-    publishedDateTime: 2022-05-18T08:33:00Z
-    webUrl: "https://www.finextra.com/blogposting/22305/five-ways-artificial-intelligence-in-fintech-is-changing-the-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "AI is changing the way people relate to other beings"
-    excerpt: "Whether it is satellite footage tracking geese at continental scale, or a smartphone video of squirrels in a park, people are seeing the 8.7m other species on the planet in new lights. In “Ways of Being”,"
-    publishedDateTime: 2022-05-19T16:50:00Z
-    webUrl: "https://www.economist.com/culture/2022/05/18/ai-is-changing-the-way-people-relate-to-other-beings"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220521_CUP001.jpg"
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/a47/f0fe4276ab8344079f404f1ac9c377b7/a47fa92d61d747a8b0981b97a78da90d/poster_43cdfb0816ea479e86355519988b9378.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
-    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
-    publishedDateTime: 2022-05-16T23:02:00Z
-    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
+  - title: "Why CIOs should pay attention to AI ethics, governance"
+    excerpt: "But there are pitfalls CIOs need to look for, according to a story in CIO. Having ethics and governance plans in place can prevent problems from popping up. One hospital struggled with how to act on the AI’s predictions of patient health conditions,"
+    publishedDateTime: 2022-05-17T21:43:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/why-cios-should-pay-attention-to-ai-ethics-governance.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 23
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
+        width: 460
+        height: 460
         isCached: true
-  - title: "Finding the Fairness in AI"
-    excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
-    publishedDateTime: 2022-05-17T15:09:00Z
-    webUrl: "https://cacm.acm.org/news/261047-finding-the-fairness-in-ai/fulltext"
+  - title: "5 ways artificial intelligence helps businesses"
+    excerpt: "Technology has brought on a lot of amazing innovations, and artificial intelligence is one of them. Artificial intelligence has been around for quite a while now, and it has helped us in a lot of ..."
+    publishedDateTime: 2022-05-16T20:28:00Z
+    webUrl: "https://knowtechie.com/5-ways-artificial-intelligence-helps-businesses/"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
-  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
-    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
-    publishedDateTime: 2022-05-20T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2017/04/business-software-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Ethical AI in hiring makes good business sense"
+    excerpt: "By quickly and efficiently analyzing large volumes of data, AI significantly reduces the time spent recruiting great potential candidates."
+    publishedDateTime: 2022-05-19T13:18:00Z
+    webUrl: "https://www.benefitspro.com/2022/05/19/ethical-ai-in-hiring-makes-good-business-sense/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 34
 
 secured: "k0g/+ToJVXMvSeY7Iwm3Sd2BhYkurrKDsWercs5tOKULbymSVztvp+F+OwuqDKK8lPkuSElcdyPizA4A+vF9VvmgK+/tgUuMyrAQi9issA1gUfSxmYRkVyGfBC4X0b6vLqkY2exBis6dsbtO6EjArwgrnLWcSBiNDxsTvVHpfBfPdohgY04NRpptZQ5e0dh6+MA3rFQfYEA7x0l4lvLXtRrksAZsSJvPtY/oUcYpGl7qIxtnOb5VzW1ZxMFrJEmQaWHI5ncnipymv53TgnGTW3DQRknBeQOL+cTtyAGvphVFvuGsRPLZJD9OExrXz83JPFX7qv+yHYuqq6kOYOS/lnVd9V02L8Vogscy0Zxxn/UdHMmd+K7InVpgX9CO9ZWX6vz3nvhzBZfUrOz8fXaYH02QAolB1+JH2158/KroYui4lGfo3HNOfoURaGk+AP4nyzMhR4L6G1Fj+HeNh1LvFKITEFPDWnu+P1kFfz6g9OXbSEL0D4zaf8EigoqQpizgZiyN9h60X1vDfOLD1mpJLw==;hxCQN76CSzkKnAP0oe8wOA=="
 ---

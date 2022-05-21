@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-h
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: News Medical
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Finding AI’s low-hanging fruit"
-    excerpt: "In some circles, the idea of going smaller with AI is catching on. Instead of a complete forklift upgrade across the entire business process, it’s better to do the easy stuff first."
-    publishedDateTime: 2022-05-16T16:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/"
-    ampWebUrl: "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1219474321.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "6 business risks of shortchanging AI ethics and governance"
-    excerpt: "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors inherent to the technology — for example, how a particular AI ..."
-    publishedDateTime: 2022-05-17T10:00:00Z
-    webUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html"
-    ampWebUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Using AI To Cure Blinding Eye Diseases"
     excerpt: "NIH discovery sheds light on tissue targeted by age-related macular degeneration and other diseases Researchers have identified distinct differences among the cells comprising a tissue in the retina that is vital to human visual perception."
     publishedDateTime: 2022-05-17T20:19:00Z
@@ -75,80 +43,29 @@ related:
         width: 777
         height: 442
         isCached: true
-  - title: "Disrupting conventional baggage scanning with AI"
-    excerpt: "Vehant Technologies Technology has reinforced all the aspects of our lives in terms of how we work, learn, travel or shop. It’s inescapable that the technological devices and services have begun to reflect the public ambitions and desires to connect with others and contribute to the world."
-    publishedDateTime: 2022-05-18T07:40:00Z
-    webUrl: "https://www.crn.in/columns/disrupting-conventional-baggage-scanning-with-ai/"
+  - title: "Deep-learning AI algorithm accurately predicts severe aortic stenosis"
+    excerpt: "A machine learning algorithm detected severe aortic stenosis using audio files from a set of patients with accuracy similar to board-certified cardiologists, according to findings from a proof-of-concept study."
+    publishedDateTime: 2022-05-18T12:05:00Z
+    webUrl: "https://www.healio.com/news/cardiology/20220517/deeplearning-ai-algorithm-accurately-predicts-severe-aortic-stenosis"
     type: article
     provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 39
+      name: Healio
+      domain: healio.com
+    quality: 41
     images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2020/05/12140219/Artificial-intelligence-HR.jpg"
-        width: 750
-        height: 430
+      - url: "https://www.healio.com/~/media/slack-news/cardiology/misc/infographics/2022/05_may/ct0522voigt_17_graphic_01_web.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
-    excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
-    publishedDateTime: 2022-05-18T08:33:00Z
-    webUrl: "https://www.finextra.com/blogposting/22305/five-ways-artificial-intelligence-in-fintech-is-changing-the-industry"
+  - title: "Suicide prediction method combines AI and face-to-face screening"
+    excerpt: "A new observational study from Vanderbilt University Medical Center points to solutions for efficient clinical prediction of suicide attempt or suicidal thinking in adults."
+    publishedDateTime: 2022-05-16T17:57:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-suicide-method-combines-ai-face-to-face.html"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "AI is changing the way people relate to other beings"
-    excerpt: "Whether it is satellite footage tracking geese at continental scale, or a smartphone video of squirrels in a park, people are seeing the 8.7m other species on the planet in new lights. In “Ways of Being”,"
-    publishedDateTime: 2022-05-19T16:50:00Z
-    webUrl: "https://www.economist.com/culture/2022/05/18/ai-is-changing-the-way-people-relate-to-other-beings"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220521_CUP001.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Feds' Warnings on Hiring Algorithms Highlight Challenges of Avoiding Disability Bias When Using AI"
-    excerpt: "\"I get nervous when employers are using AI in the hiring process. You may not realize all the things you need to be thinking about. Yes, it is very dangerous,\" attorney Lee Moylan said. Employers may risk violating the Americans with Disabilities Act if ..."
-    publishedDateTime: 2022-05-16T23:02:00Z
-    webUrl: "https://www.law.com/njlawjournal/2022/05/16/feds-warnings-on-hiring-algorithms-highlight-challenges-of-avoiding-disability-bias-when-using-ai/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 23
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/399/2022/05/AI-hiring-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Finding the Fairness in AI"
-    excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
-    publishedDateTime: 2022-05-17T15:09:00Z
-    webUrl: "https://cacm.acm.org/news/261047-finding-the-fairness-in-ai/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 17
-  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
-    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
-    publishedDateTime: 2022-05-20T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
 
 secured: "C3mv3D/p0wFhBsfBQdQaHdTjVq6Pr82QyJ4a5ZGaeuz2jaa8/0YEf7vf0++LF0zsn2JFPL7j5/AzRF/8InunCWkPFLK7wXkQ27gsd+ohxS1Wb0OSY+gP/8T3Ph3ms0YMIL3agsR22DI/ePEZQHTxztLd1HqcnfgAf4GZTho/dna9ZUdcSdi36Mp1Rh1Id3zoQ5dJh90npk0z50TFHAgO1sXBG1JGEUJKgpvCF6yd179IKMBmL1Txebr+/Nb4yc0bS2jaJqffqPRkCLnweGW7FUgrAXCUop9TgkNc8K6cTZYOPpPfz0vNY70/rO16a1HAhXZj614X6Z3Xz41A2lchHvNRYrEHgGjD0WeLsGF9th69n9N1uJ50vEGN7QLosE9T5r/E/hqmLPE82nFZ9JLtiqCto9mEyT9bSBTROLGUGDADhtrCtxRuPZ1MJi3Gh8L+7thoXErmx4rBZahVtxkI43bsyNjpA6FwnmXKAdSaf0AySSS5izq7NgMWBAI52qQ4ox6ZmKIQ0SaPWkXThrQjuw==;iH+bdzWiCywu1V3+xIBBeA=="
 ---

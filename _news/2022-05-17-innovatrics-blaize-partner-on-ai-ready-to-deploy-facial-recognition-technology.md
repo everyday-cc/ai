@@ -7,8 +7,8 @@ originalUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatri
 webUrl: "https://itwire.com/business-it-news/enterprise-solutions/innovatrics,-blaize-partner-on-ai-ready-to-deploy-facial-recognition-technology.html"
 type: article
 quality: 50
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: ITWire
@@ -25,52 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Blaize and Innovatrics provide edge ready-to-deploy Facial Recognition Technology"
-    excerpt: "Innovatrics, a specialist in biometric technology, and Blaize, a company that’s using AI to develop advanced edge computing solutions, have announced a technology partnership. The partnership aims to deliver ready-to-use facial recognition solutions ..."
-    publishedDateTime: 2022-05-17T08:04:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/blaize-and-innovatrics-provide-edge-ready-to-deploy-facial-recognition-technology"
+  - title: "The issues with the EU’s draft regulation on facial recognition AI"
+    excerpt: "Dr Kris Shrishak of the ICCL spoke to SiliconRepublic.com about where the EU’s planned AI regulation could improve ways to address facial recognition companies in the US. It is no surprise that the global discussion on facial recognition technology has ..."
+    publishedDateTime: 2022-05-17T10:16:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/the-issues-with-the-eus-draft-regulation-on-facial-recognition-ai"
     type: article
     provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 49
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
     images:
-      - url: "https://www.newelectronics.co.uk/media/kkbkzsm5/face-biometrics-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_286930709.jpeg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Innovatrics and Blaize partner up for facial recognition security at the edge"
-    excerpt: "The technology partnership will feature SmartFace Embedded by Innovatrics and the Blaize Pathfinder P1600 Embedded System on Module."
-    publishedDateTime: 2022-05-16T19:22:00Z
-    webUrl: "https://www.biometricupdate.com/202205/innovatrics-and-blaize-partner-up-for-facial-recognition-security-at-the-edge"
+  - title: "National Grid to test assessment data automation with drones and AI"
+    excerpt: "NGET is launching a system trial that seeks to fully automate the capture and processing of corrosion-related condition assessment data."
+    publishedDateTime: 2022-05-18T14:36:00Z
+    webUrl: "https://www.power-grid.com/td/national-grid-to-test-assessment-data-automation-with-drones-and-ai/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
-  - title: "Flex Logix Partners With Roboflow to Enable Specialized AI Models For Computer Vision Applications"
-    excerpt: "May 17, 2022-- Flex Logix® Technologies, Inc., supplier of the most-efficient AI edge inference accelerator and the leading supplier of eFPGA IP, today announced that it has partnered with Roboflow, an end-to-end computer vision solution for developers ..."
-    publishedDateTime: 2022-05-17T06:27:00Z
-    webUrl: "https://www.design-reuse.com/news/51954/flex-logix-roboflow-partnership-ai-models-computer-vision.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 40
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage51954/flexlogix.jpg"
-        width: 768
-        height: 513
-        isCached: true
-  - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
-    excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
-    publishedDateTime: 2022-05-19T13:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/19/9605577.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: power-grid
+      domain: power-grid.com
+    quality: 17
 
 secured: "R5v92S7CpWmVIy26zSUPbJlEXEtvJh0hD+kHLbfuj/n4tkgC1oVL9Qji6a3nJkZ+Ax0SjpLLQZbo19t99vdCew+00FLfcRInugFBXGAZmM62yjrP0oN1NUgJ3pDDwxm9E/W5JX+6SthKkxgq2hyTeSB77piDBTipHJyraGDeQjBt37YAia0Bwkrh0phNCdy6ik6PKjpqCisR4JWcsEfku67o/ZMaHfE7YUtN5Xilfuoq/rbeZWsWuMNbC3Bn1Oj/e/QQR9AgkAbTWZaAMQTMmDENHThbc2j3F1BIy+8vahflGYE2SQNx2uDF+w1mogDjklKqAEpUir5m57i63os5THUCGePM07szIF3Q0let2mM=;9UzYtKCEWWRusdEMHsoPGg=="
 ---

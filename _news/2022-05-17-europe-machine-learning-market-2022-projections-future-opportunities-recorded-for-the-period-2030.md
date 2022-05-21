@@ -40,20 +40,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "North America Self-driving Car Market 2022 Inclinations & Development Status Highlighted During Forecast Period 2030"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel ..."
-    publishedDateTime: 2022-05-18T14:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2022-inclinations-development-status-highlighted-during-forecast-period-2030-2022-05-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "CnUBThnDXXVI0hpIoYC2vwXbzMHJy05fTYHkU+hAiCaxFlSEiTBxFVrauKxDSjH5Rw2WAjtHFSK9pQFJ3kpWw7zNxCXmC2j/iqraE7mAZPgBzXhg/mklkcxuay2+dS128HE9R9Ucn1RSRjgJtxwTOxhed1u/gWSzjp4WXWtAefamjMlcUMLTccBnv6B+8okDPElztMxX9UrVrxH5oGRQ+0N5Gn2WAwCHGnMxEB9rL3q0cLUjaqlNu5MMS4s9UbrtFY+ZROc90/EMISiiYibO7+MOWNd91KPStPeRid3BsQLStdl/S7+/LgCR58Cca+caz3AwNOTNjwjRA9KEwUazXoxpyUatBwHM+vu+a0vxmZo=;7LEAtjSNyAAsJspXuV20sQ=="
 ---

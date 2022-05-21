@@ -26,37 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR"
-    excerpt: "Allied Market Research recently published a report, titled, “Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and"
-    publishedDateTime: 2022-05-16T15:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr"
+  - title: "Machine learning Market is expected to reach USD 23.46 Bn by 2023"
+    excerpt: "Quadintel published a new report on the Machine learning Market. The research report consists of thorough information about demand, growth, opportunities, challenges, and restraints. In addition, it delivers an in-depth analysis of the structure and ..."
+    publishedDateTime: 2022-05-17T06:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-is-expected-to-reach-usd-23-46-bn-by-2023"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 50
+    quality: 41
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Automotive Artificial Intelligence Market: Machine Learning Technology to Rake at 45.4% CAGR During 2020-2028"
-    excerpt: "According to a recent report published by Allied Market Research, titled, “Automotive Artificial Intelligence Market by Component, Technology, and"
-    publishedDateTime: 2022-05-17T13:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-machine-learning-technology-to-rake-at-45-4-cagr-during-2020-2028"
+  - title: "Deep Learning Market Size Is Projected To Garner Significant Revenues By 2031 -End"
+    excerpt: "The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the market globally."
+    publishedDateTime: 2022-05-19T06:38:00Z
+    webUrl: "https://menafn.com/1104239032/Deep-Learning-Market-Size-Is-Projected-To-Garner-Significant-Revenues-By-2031-End"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?367957"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report from Lucintel"
+    excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
+    publishedDateTime: 2022-05-20T23:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/asic-chip-market-is-expected-to-reach-34-4-billion-by-2027-an-exclusive-market-research-report-from-lucintel"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 17
-  - title: "Medical Robots Market Size Worth $25.44Bn, Globally, by 2028 at 18.5% CAGR - Exclusive Report by The Insight Partners"
-    excerpt: "The Insight Partners published latest research study on \"Medical Robots Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Product (Surgical Robots, Hospital & Pharmacy Robots, Rehabilitation Robots,"
-    publishedDateTime: 2022-05-19T11:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-medical-robots-market-size-worth-2544bn-globally-2028-/2022/05/19/9605359.htm"
+    quality: 19
+    images:
+      - url: "https://www.abnewswire.com/uploads/1653029261.png"
+        width: 449
+        height: 300
+        isCached: true
+  - title: "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel"
+    excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
+    publishedDateTime: 2022-05-18T14:48:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+  - title: "The Worldwide Face Mask Detection Industry is Expected to Reach $4.2 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Global Face Mask Detection Market By Component, By Application, By Technology, By Regional Outlook, Industry Analysis Report and Forecast, 2021-2027” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2022-05-18T12:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-da0ee8b3bcf842c1b059837edd5ba12f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 0
 
 secured: "bHVMAdld5PBAKcrygrwm5YnePm2UylyBX722sOJTD5igT7kSEEl09HYV28PBqouA5QkFkY+uYribcvA6sze5VOgqASQkSkTBxdcMWiLEiITohReXxzlksYYyZaAanFMEV3nRS6EL/4bJ2HycrvfvSs5GYUl2fWPO+xEFPYIG9lCaqrEXKyINsNeYDf7ueXp51jKT+GRoMc+4ffdr2gFRAbhb7b0zKm+lXey9pw3FGhieR3qLmYb3wRP4cLNn/+XRAxbDKvIlZ0mMBObUV05MnQTMumKZXUtTwktZ3/VODkMBa4BapFxLUKrrNIippwZ1ggbjIIGk66Ekc61KJ7HHiPewtpDzLnGFISFZdCY8EwCteyFbgLM40pbpOFYoXmiupUah/8z+Bj1HgPvaJa6s+m97jqXfNtiBc8CgYUMQ71vFkpccI3Y293OfBp8BX8lwwUU51+ZOuI6HImBG+zTXfWEFNvl0NLGisrngXxIfE0hQV6deIqLTD/28YUUDaSK1yMuf+LbuAsZZIkJ2gW+h7A==;gTna0GAp6Oi2cNbRgvZFNg=="

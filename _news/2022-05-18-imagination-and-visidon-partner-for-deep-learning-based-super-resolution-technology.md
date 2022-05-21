@@ -45,6 +45,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 18
+  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
+    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
+    publishedDateTime: 2022-05-20T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 11
 
 secured: "b6uKeyAqC9F1usU2ASAPkpU+2f8lleeayv1ejljQfX31/FEDTz7ZNRoDRA7WLHaQ+56Fmruzi5fDBsR+Bl0tm6ACVxg8Lc7P6GHysFs9tNwkMF/2xNv0K3nRoK4MM2YLfGETk3Irg5QR95HViwzCKxLGxH2iBTJlqgFtWuW//TiIzgWak0V+OVSUBffbpsEgLUahilBbApIGYZL+wMopDOXIFP5gqT8ypYetv2McCO8E70iKxeXcISRYsQtU3X3NMdXfHtshUxAbacfqGxbHoZvJdceTagWr3FflfaLKMi9hHYIer1YkuKwwxymbR4vs4UfzBmhxB3vW+FCNevUykqxPHt46NyF0c+8hzJcJ+W4fmsoYQzxZv0Q9OPEkJIWOwSQmFccVPHQfUmfKIPM2t7KmXl9QbIrlMaC9O8LFwXRWAbXEpUS8VhkoXhqtuH1QoGdunEh4t9NVnS9tFlLErpAplwrdU//vbf8jO/wo+44sCXG9rJxXL8TXol6fHqPd+j8+3jxa38wGJV1ERxjLQA==;L+AbDqxv9HojQ+tlhT/ZEw=="
 ---
