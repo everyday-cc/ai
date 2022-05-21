@@ -2,6 +2,83 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-11-machine-learning-improves-hawaii-rainfall-mapping.md",
+      "title": "Machine learning improves Hawai'i rainfall mapping",
+      "excerpt": "University of Hawaiʻi and East-West Center researchers have developed more accurate monthly rainfall maps by using machine learning. They used a machine learning technique to detect erroneous ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
+      "originalUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-impro-1.jpg",
+          "width": 676,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-machine-hawaii-rainfall.amp",
+      "publishedDateTime": "2022-05-10T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-ai-leveraged-by-smbs-to-reshape-their-businesses.md",
+      "title": "AI Leveraged by SMBs to Reshape Their Businesses",
+      "excerpt": "AI-based software applications, such as Microsoft Azure, have made cloud-based information available to the entire organization, which means spontaneous innovation can happen faster. When a company can work more effectively, the speed of innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus.md",
       "title": "Intel Pits New Gaudi2 AI Training Engine Against Nvidia GPUs",
       "excerpt": "Nvidia is not the only company that has created specialized compute units that are good at the matrix math and tensor processing that underpins AI",
@@ -1100,100 +1177,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-cogniteam-elevates-low-code-ai-robotics-platform.md",
-      "title": "Cogniteam Elevates Low-Code AI Robotics Platform",
-      "excerpt": "With the recent debut of its Nimbus operating platform, Cogniteam, a robotics AI software development start up, is seeking to accelerate",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/cogniteam-elevates-low-code-ai-robotics-platform/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/cogniteam-elevates-low-code-ai-robotics-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/Cogniteam-Elevates-Low-Code-AI-Robotics-Platform.png",
-          "width": 1945,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/cogniteam-elevates-low-code-ai-robotics-platform/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/cogniteam-elevates-low-code-ai-robotics-platform/amp/",
-      "publishedDateTime": "2022-05-10T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai.md",
-      "title": "Tenyx raises $15M to build more intelligent voice-based customer service AI",
-      "excerpt": "Tenyx, which is developing a voice-based customer service solution powered by AI, has raised $15 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/",
-      "originalUrl": "https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/02/gettyimages-84164497.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/amp/",
-      "publishedDateTime": "2022-05-10T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

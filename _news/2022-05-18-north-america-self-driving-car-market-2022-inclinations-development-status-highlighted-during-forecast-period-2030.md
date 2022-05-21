@@ -66,24 +66,6 @@ related:
       name: Railway Technology
       domain: railway-technology.com
     quality: 33
-  - title: "Machine learning innovation among retail industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in machine learning in the retail sector has declined in the last year. The most recent figures show that the number of related patent applications in the industry stood at 32 in the three months ending March – down from 100 over the same period in 2021."
-    publishedDateTime: 2022-05-16T18:00:00Z
-    webUrl: "https://www.retail-insight-network.com/analysis/machine-learning-innovation-among-retail-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 23
-  - title: "Pharmaceutical industry companies are increasingly innovating in machine learning"
-    excerpt: "Research and innovation in machine learning in the pharmaceutical sector is on the rise. The most recent figures show that the number of related patent applications in the industry stood at 77 in the three months ending March – up from 66 over the same period in 2021."
-    publishedDateTime: 2022-05-16T18:00:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/features/pharmaceutical-industry-companies-are-increasingly-innovating-in-machine-learning/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 14
 
 secured: "hhjXcUcAZk0lgmEECDPgocZjL0tRbW7VmfjwIvodpk6oe5UfczeHdFK7beYvrYlQ2cPkJt0mx6HOn9PLXwwRVh9VYpmDc3N/8t6cITVbbpSXo3964NID0ctCUufylxBKpMnCTkoevXw2/tv2CWdOMqWvz01yE6ZTJyfu4HDso0Pbk1szJBEHl8riTu1HyfDL7fDUftpiuw1S9PvZhvq3wO1hOqMK9+zIOZh8GyysFRRoJV4S8N0Twp94oM5l4rnRzpPX+fCQz4k1mxdQT3a8XfR8GroCcrAGYXgwWjPB/FIgkJ3dSp+0msP8+vGokxNKqPbTJQeZvQLCE4MbCOZmeekGtZQBxj1bbuTBUzSsNwc=;K314TkVCHPTc6NaOtv7HSw=="
 ---

@@ -2,6 +2,101 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2022-02-15-natural-language-processing-nlp-market-2022-present-scenario-and-growth-prospects-2026-marketmuse-insight-engines-netbase-solutions.md",
+      "title": "Natural Language Processing (NLP) Market 2022 | Present Scenario and Growth Prospects 2026 | MarketMuse, Insight Engines, NetBase Solutions, IBM, 3M",
+      "excerpt": "Global Natural Language Processing (NLP) Market Development Strategy Pre and Post COVID-19, by Corporate Strategy Analysis, Landscape, Type, Application, and Leading 20 Countries , Covid 19 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2022-present-scenario-and-growth-prospects-2026-marketmuse-insight-engines-netbase-solutions-ibm-3m",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2022-present-scenario-and-growth-prospects-2026-marketmuse-insight-engines-netbase-solutions-ibm-3m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform.md",
+      "title": "VMware, Nvidia team up on AI-powered hybrid cloud platform",
+      "excerpt": "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI and ML workload support and the capability to share virtual GPU’s — a relatively recent advancement — across ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
+      "originalUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/09/hybrid.jpg?w=1200&strip=all",
+          "width": 708,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/",
+      "publishedDateTime": "2022-02-15T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-microsoft-azures-first-azure-hpc-ai-day.md",
       "title": "Microsoft Azure’s first Azure HPC + AI Day",
       "excerpt": "Welcome to our first Azure HPC + AI Day! We’re excited to host the first event, which will soon become an annual tradition. Join us on February 24 and 25 to hear directly from the Microsoft Azure team and earn points by attending sessions to get one of its kind Azure HPC + AI Day swag.",
@@ -1069,101 +1164,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-14-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report.md",
-      "title": "Intel's Mobileye aims for self-driving shuttles in the U.S. by 2024 -- report",
-      "excerpt": "Mobileye, the self-driving technology unit owned by Intel (NASDAQ:INTC), has set a goal of rolling out self-driving electric shuttle vehicles in the United States by 2024 as part of its efforts to ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
-      "originalUrl": "https://seekingalpha.com/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/951562278/image_951562278.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
-      "publishedDateTime": "2022-02-14T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-14-texas-sues-meta-over-facebooks-facial-recognition-practices.md",
-      "title": "Texas Sues Meta Over Facebook’s Facial-Recognition Practices",
-      "excerpt": "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794",
-      "originalUrl": "https://www.wsj.com/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 594,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-485400/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794",
-      "publishedDateTime": "2022-02-14T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

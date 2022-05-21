@@ -148,7 +148,7 @@
       "originalUrl": "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -292,6 +292,49 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology.md",
+      "title": "Soft Robotics Expands Commercial Focus for its Artificial Intelligence Technology",
+      "excerpt": "Soft Robotics Inc. expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the consumer goods, E-commerce, and logistics industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
+      "originalUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/05/Soft_Robotics_Inc_mGripAI_CPG.628698128d087.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 500,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -676,6 +719,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-20-heres-how-ai-computer-vision-will-change-driving-ecomotion-2022-conference.md",
+      "title": "Here's how AI, computer vision will change driving - EcoMotion 2022 conference",
+      "excerpt": "From computer vision to artificial intelligence, the advancements on display paint a telling picture of the ways that we will interact with our vehicles in the pretty-near future. Autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-707220",
+      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-707220",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/505401",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-707220/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-707220/amp",
+      "publishedDateTime": "2022-05-19T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-indian-chinese-companies-take-lead-in-use-of-artificial-intelligence-ibm.md",
       "title": "Indian, Chinese companies take lead in use of artificial intelligence: IBM",
       "excerpt": "Indian and Chinese companies are taking lead in use of artificial intelligence compared to their peers in major technically-advanced countries, an IBM survey report said on Thursday.",
@@ -863,6 +949,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-detect-social-media-fake-news-using-graph-machine-learning-with-amazon-neptune-ml.md",
+      "title": "Detect social media fake news using graph machine learning with Amazon Neptune ML",
+      "excerpt": "In recent years, social media has become a common means for sharing and consuming news. However, the spread of misinformation and fake news on these platforms has posed a major challenge to the well-being of individuals and societies. Therefore, it is imperative that we develop robust and automated solutions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-social-media-fake-news-using-graph-machine-learning-with-amazon-neptune-ml/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-social-media-fake-news-using-graph-machine-learning-with-amazon-neptune-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/19/graph-neptune-fake-news.jpg",
+          "width": 1000,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T09:12:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1075,152 +1214,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-apple-dislikes-windows-so-much-its-self-driving-car-might-not-have-any.md",
-      "title": "Apple Dislikes Windows So Much Its Self Driving Car Might Not Have Any",
-      "excerpt": "Did you even have a childhood if you did not press your face against a car window during a long road trip? Such an experience may soon be a thing of the past. Apple has filed a patent to add VR systems in its autonomous vehicles that would replace windows.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "originalUrl": "https://hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58592/content/apple-car-concept-design.jpg",
-          "width": 708,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "publishedDateTime": "2022-05-19T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics.md",
-      "title": "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics",
-      "excerpt": "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the Consumer Goods, E-Commerce, and Logistics industries.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg",
-          "width": 400,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-oxy-ceo-if-youre-not-using-ai-youre-missing-an-opportunity.md",
-      "title": "Oxy CEO: \"If you're not using AI you're missing an opportunity\"",
-      "excerpt": "CEO Vicki Hollub tells how AI is growing the oil company's business",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/oxy-ceo%3A-\"if-you're-not-using-ai-you're-missing-an-opportunity\"/d1f76e96-0750-4ad6-86c8-92a5788c53ae",
-      "originalUrl": "https://fortune.com/videos/watch/oxy-ceo%3A-\"if-you're-not-using-ai-you're-missing-an-opportunity\"/d1f76e96-0750-4ad6-86c8-92a5788c53ae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/d1f76e96-0750-4ad6-86c8-92a5788c53ae/Images/posterImage-ver1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/oxy-ceo%3A-%22if-you're-not-using-ai-you're-missing-an-opportunity%22/d1f76e96-0750-4ad6-86c8-92a5788c53ae/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/oxy-ceo%3A-%22if-you're-not-using-ai-you're-missing-an-opportunity%22/d1f76e96-0750-4ad6-86c8-92a5788c53ae/amp",
-      "publishedDateTime": "2022-05-19T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

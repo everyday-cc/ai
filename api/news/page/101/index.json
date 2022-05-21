@@ -2,6 +2,111 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-02-22-a-call-to-bring-more-human-centered-design-to-artificial-intelligence.md",
+      "title": "A call to bring more human-centered design to artificial intelligence",
+      "excerpt": "Many AI systems are developed under the assumption that 'whatever we want from AI, we're going to press the button, and as if if by magic, it's going to deliver the result to us.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a110448f6fc5f86778ca95ef106d3f8d8140ac6d/2022/02/21/3ce069ce-c48e-4564-9d58-fe286fb6a2d0/rainbow-hand-cropped-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
+      "publishedDateTime": "2022-02-21T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-h2o-brings-ai-grandmaster-powered-nlp-to-the-enterprise.md",
+      "title": "H2O brings AI grandmaster-powered NLP to the enterprise",
+      "excerpt": "Hydrogen Torch, H2O's latest product, is designed to deliver the AI capabilities of web giants to the rest of the world, says CEO Sri Ambati.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
+      "originalUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/08d382de07cd537698342f28b54b062cc846a7b8/2022/02/21/84c11a8a-f04c-4bf0-89d3-0c4b98db6ea1/h2ohydrogentorch.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
+      "publishedDateTime": "2022-02-21T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-can-machine-learning-models-overcome-biased-datasets.md",
       "title": "Can machine-learning models overcome biased datasets?",
       "excerpt": "Aug. 29, 2019 — In a key step toward making large-scale optical neural networks practical, researchers have demonstrated a first-of-its-kind multilayer all-optical artificial neural network ...",
@@ -1075,93 +1180,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-chinas-driverless-dreams-troubled-by-us-chip-dependency.md",
-      "title": "China’s driverless dreams troubled by US chip dependency",
-      "excerpt": "Jidu, a joint venture between search engine Baidu and car manufacturer Geely ... Zeekr, a unit of Geely, has partnered with Intel’s Mobileye to launch a self-driving car in 2024. And Great Wall Motor, another of China’s biggest traditional carmakers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "originalUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3d7ee15-7663-4701-8bde-d6019e7d4297.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "publishedDateTime": "2022-02-20T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-researchers-use-magnetic-systems-to-artificially-reproduce-the-learning-and-forgetting-functions-of-the-brain.md",
-      "title": "Researchers use magnetic systems to artificially reproduce the learning and forgetting functions of the brain",
-      "excerpt": "Neuromorphic computing, a new brain-inspired computation paradigm, reproduces the activity of biological synapses by using artificial neural networks. Such devices work as a system of switches ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-02-magnetic-artificially-functions-brain.html",
-      "originalUrl": "https://phys.org/news/2022-02-magnetic-artificially-functions-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-reproduce.jpg",
-          "width": 1410,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-02-magnetic-artificially-functions-brain.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-magnetic-artificially-functions-brain.amp",
-      "publishedDateTime": "2022-02-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

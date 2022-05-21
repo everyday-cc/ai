@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-22-workplace-digital-skills-training-in-a-bad-place.md",
+      "title": "Workplace digital skills training in a bad place",
+      "excerpt": "Workers aren’t getting enough training in much needed digital skills with two in three workers saying they’re not confident existing workplace training programs will meet their future career needs, a new survey has found.",
+      "sourceUrl": null,
+      "webUrl": "https://ia.acs.org.au/article/2022/workplace-digital-skills-training-in-a-bad-place.html",
+      "originalUrl": "https://ia.acs.org.au/article/2022/workplace-digital-skills-training-in-a-bad-place.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ia.acs.org.au/content/dam/ia/article/images/2022/training%20computer%20skills.jpg",
+          "width": 939,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ia.acs",
+        "domain": "acs.org.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws.md",
       "title": "Dataiku's No-Code Cloud Stack Accelerator Is Now Available on AWS",
       "excerpt": "Dataiku, the platform for Everyday AI, today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a… | London | Technology | Technology |",
@@ -1298,51 +1341,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-06-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.chitra.live/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-05T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
       ]
     }
   ],

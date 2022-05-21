@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-
 webUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab"
 type: article
 quality: 121
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records"
-    excerpt: "The claim provides access to justice and a means of compensation which would not have been viable on an individual basis due to the cost"
-    publishedDateTime: 2022-05-16T18:58:00Z
-    webUrl: "https://www.proactiveinvestors.com.au/companies/news/982280/litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records-982280.html"
-    type: article
-    provider:
-      name: Proactiveinvestors UK
-      domain: proactiveinvestors.com.au
-    quality: 38
   - title: "DeepMind’s Gato is the Swiss Army Knife of AI models"
     excerpt: "However, we don’t have AI models that do both. DeepMind has leveraged the advances in large-scale language modelling to build a single generalist agent beyond the scope of text outputs. Gato is a multi-modal,"
     publishedDateTime: 2022-05-18T12:34:00Z

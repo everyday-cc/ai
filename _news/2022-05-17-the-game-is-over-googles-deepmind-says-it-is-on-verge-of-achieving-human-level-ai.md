@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google faces fresh class action-style suit in UK over DeepMind NHS patient data scandal"
-    excerpt: "Google is facing a new class-action style lawsuit in the UK in relation to a health data scandal that broke back in 2016, when it emerged that its AI division, DeepMind, had been passed data on more than a million patients as part of an app development project by the Royal Free NHS Trust in"
-    publishedDateTime: 2022-05-16T17:24:00Z
-    webUrl: "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/"
-    ampWebUrl: "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/"
+  - title: "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’"
+    excerpt: "A DeepMind lead researcher made the bold claim that the company's newest AI was a 'game over' product for AGI research."
+    publishedDateTime: 2022-05-16T22:30:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 77
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/p1040482.jpg?w=1024"
-        width: 1024
-        height: 767
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FscalingAI.jpg&signature=9bc3b164454b20146d307326beb8c1b3"
+        width: 1280
+        height: 640
         isCached: true
   - title: "‘The Game is Over’: Google’s DeepMind says it is on verge of achieving human-level AI"
     excerpt: "To keep your finger on the pulse with major breaking news developing around the world sign up to our free email alerts Human-level artificial intelligence is close to finally being achieved, according to a lead researcher at Google’s DeepMind AI division."
@@ -57,51 +55,21 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Google faces lawsuit for using NHS data of 1.6 million people in UK"
-    excerpt: "London: Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its artificial intelligence (AI) division called DeepMind."
-    publishedDateTime: 2022-05-17T05:21:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/articleshow/91610435.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/amp_articleshow/91610435.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/amp_articleshow/91610435.cms"
+  - title: "'The Game is Over!' Google's DeepMind says it is close to achieving 'human-level' artificial intelligence – but it still needs to be scaled up"
+    excerpt: "DeepMind, a British company owned by Google, may be on the verge of achieving human-level artificial intelligence (AI). Nando de Freitas, a research scientist at DeepMind and machine learning ..."
+    publishedDateTime: 2022-05-18T11:38:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 38
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35126,msid-91610567/google.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Google faces class-action lawsuit for using NHS data of 1.6 mn people in UK"
-    excerpt: "Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 mn individuals for its AI division called DeepMind."
-    publishedDateTime: 2022-05-17T05:22:00Z
-    webUrl: "https://www.business-standard.com/article/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/02/full/1643789775-3091.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Google Faces Lawsuit For Using NHS Data Of 1.6 Mn People In UK"
-    excerpt: "Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its artificial intelligence (AI) division called DeepMind. DeepMind allegedly passed data on patients for a smartphone app called 'Streams' that it received from the Royal Free NHS Trust in London,"
-    publishedDateTime: 2022-05-17T10:18:00Z
-    webUrl: "https://menafn.com/1104226356/Google-Faces-Lawsuit-For-Using-NHS-Data-Of-16-Mn-People-In-UK"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/17/I_12427image_story.jpg"
-        width: 300
-        height: 400
+      - url: "https://i.dailymail.co.uk/1s/2022/05/18/12/57967583-0-image-a-9_1652873486461.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "217iaSf6ggXhtcFal5VfKqB7oXbUzrTbJdklqw7cYl/wSOuEwL1dIfpR/fVPouZf5ySFRSfXdWpn2bCmIMTbnyGbd9Ji85n0dOALvIWcYtW9ilc0BqTiSdUKUijiJxJEwAb4tFgNQve/BlJkCpEQIfrvdZD4tHjCIM7WD5G98BQaFx21Y3T2sITtJxFmFL+NC5S99+ddtmJEQ+vccEmZeiYuqBSsXXU4hU5hnX+ShPfClrKBljWmtv6TT0O8FRs5iSs9zgfGfUiYsRDR7ndQSXdEBPSlUUsmidE4kQeYgpQLaZ8rpcAxbgcySI8pDm18spNj1MNq5Q3OcfVHDGhADTmcoiDKohSTpYlVWWZgxxA=;GCo9nShYhq4055kTwrMG2Q=="

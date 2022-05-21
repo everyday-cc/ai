@@ -61,24 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine learning innovation among retail industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in machine learning in the retail sector has declined in the last year. The most recent figures show that the number of related patent applications in the industry stood at 32 in the three months ending March – down from 100 over the same period in 2021."
-    publishedDateTime: 2022-05-16T18:00:00Z
-    webUrl: "https://www.retail-insight-network.com/analysis/machine-learning-innovation-among-retail-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 23
-  - title: "Pharmaceutical industry companies are increasingly innovating in machine learning"
-    excerpt: "Research and innovation in machine learning in the pharmaceutical sector is on the rise. The most recent figures show that the number of related patent applications in the industry stood at 77 in the three months ending March – up from 66 over the same period in 2021."
-    publishedDateTime: 2022-05-16T18:00:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/features/pharmaceutical-industry-companies-are-increasingly-innovating-in-machine-learning/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 14
 
 secured: "EX3KZAR1VYAPLFmH/Hm8AZyBsRg08u/0A9pbaUMy3ToQxIGsaiFMOb1+4KItKf5CDEYXAVcD40Qj//buYc3X+hTFyyYCQWgvFzg+FlES9dnHpZ6f/Hk4XRX8tONeDJG92XRgdMJuJFCWpX9WWqJ94barW4nv7XMfqeLIy9RX42CAnFkGapdmMu10rbarbe0OFJuofoh342KfKEz6uWzy9CWwfBFKC2ZAAWtq5ksSw6wJUkJEQZenYGDPVc8IPv9AoLeF209MlbN3eYoabPXrX9va6rDkopqZrJVpxhr8rcIyozRCY51mI0Sb2l58dS3M9T/s5ZEt8T6+nRb2YJ0x8pnx4i2Mb/VoqZLl7XxBkfikGqQMSiIR5wQOZAYwY+JWN4VGyWogoUPGsyo2iY1u4L5FZg4Rs8NIbVpVuMA5lKwxes3TN1aCV2y/CgYjNFZX9lG5JQtSbTNGHnRRxiSjSAyTQ28JdWUBAt022l74iz8nlqe2jxmV0/npwknOT7I3gIMylmAB5qVyPC1jwfv2oA==;l7HZ5KGwrKFl2kPc/LcBfw=="
 ---

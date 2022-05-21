@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business/alternate-credit-scoring-can-f
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707/amp"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Green finance, AI, space, & health are potential areas of collaboration with India: Luxembourg Ambassador to India"
-    excerpt: "Kolkata/IBNS: The Ambassador of the Grand-Duchy of Luxembourg Peggy Frantzen highlighted green finance, space, Artificial Intelligence (AI), and health as potential areas of collaboration with India."
-    publishedDateTime: 2022-05-16T17:56:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/16111/green-finance-ai-space-health-are-potential-areas-of-collaboration-with-india-luxembourg-ambassador-to-india.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 32
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2022/a9c1f71c72b1117ffb131f27860a50e3.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "h8RCx+zyHxaVNhsckgr2xfwb3UsQ8DBL/oZjOkEI/gpThORzANzLegLFiblLMomGlMQ9UANfIC5KhN1OIFNToRlmrj8Nu9QTNnSmFdq2FaJQzlyzuuxVAVSkHq2PT6iFPJAyx4yJLF1lP7JoQJY/tONCQaqZr+69igrc+hQ5NzJRJRokqbz8qkomT2nJhDIbx1jpMMySyvlvj7HDpySB0Ah9KFer0yzPLA/f2qsW0SgNg7T48ozYYKbcQ4CjLjLCMGdNURREU7DsHWicG97mqq/EcmLqP4F5KgjiQLBo6GNa203fbi49/1CnAiTYXffL6Xp/TQHMrcDhIge7ZICw0F1NfVC5oyBt8ClVKkJ6+uNgTJrJ5KSsFynanfvh+NbEl2zwUfrNhHr9oSpIclMS8F9lzKjwM8zg3DQ7HKcnXrTzdKiEvHIzRluMeFO4FfcDM9q796lvXvUQwvd05zmKpsK2+P7R7i+AQ4GyvQm4xlwvKpvQxEE58foFRClaitfEPY/Ea3OeVlMRcPfmapqKYQ==;N7zJfTjztuOuB2oubWeKow=="
 ---

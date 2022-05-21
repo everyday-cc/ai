@@ -58,15 +58,6 @@ related:
         width: 777
         height: 442
         isCached: true
-  - title: "Suicide prediction method combines AI and face-to-face screening"
-    excerpt: "A new observational study from Vanderbilt University Medical Center points to solutions for efficient clinical prediction of suicide attempt or suicidal thinking in adults."
-    publishedDateTime: 2022-05-16T17:57:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-suicide-method-combines-ai-face-to-face.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 17
 
 secured: "uLRz8T8EB8/Wv4XKwpSo9emnqd7SddlBZk2p9xifFvwuBC4TuB3Ahr3wzNeaDmvW1FlEB7Nrk4eN3VAaWUP934kJS3gQFgQF29erLEUtEJDFGXHsfwP+VZRTEulJMmZr/SWCHielO8x7nwDQGGl2MsyWiy6JR1D5D7ckmcXqMLqXcy1kRqXwvGZOWHltbiQxRYa9thuh5XFV8ZVIaLnexZmw7PDb9ZqqO5Sy9yQddFvhLnUc+57Icz/kaXqb8Huwl2nTv64k9KFcU/AdBEtIEeXQD7UMGaxduHUQh7S4E0ea1nR6cXWU59OwnlxrXqilnl+Ofq1/wt8OpU8WNKm1nFfm4htUrulD79Wm7JzP8WI8tzreerg9xikMjFuNJliJ6x1ZQZID8F2XiEhbRFS3vt+XGcx3Oqiru4+/U0kOMwj5rSjbAXIHlcOgO+YDGZtzooU0PBYRj4W3ow62lmTgl1VYGYtZOCJhRzOShLI2RwflBBRUko3wHmO6ls6c3sA98g4HF46WSGH2K5CwOoXRFQ==;quB8FOmR4UuFxClRLAhX3w=="
 ---

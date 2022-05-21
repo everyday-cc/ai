@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 244
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/custom/image/afe84bdc-33fa-11e7-8231-771276f6981b.jpg?resize=600%2C315"
         width: 600
         height: 315
-        isCached: true
-  - title: "New collaboration and AIP tender make driverless Metro smarter and more reliable"
-    excerpt: "By combining this with artificial intelligence, the Copenhagen Metro will be able ... and from Nørreport to Lergravsparken (M2). Today, the driverless Metro consists of 39 stations located along 38 km of tracks. The company owns 81 trains."
-    publishedDateTime: 2022-05-16T17:49:00Z
-    webUrl: "https://www.mynewsdesk.com/uk/hitachi-rail-global/pressreleases/new-collaboration-and-aip-tender-make-driverless-metro-smarter-and-more-reliable-3182537"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 49
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/b_auto,c_pad,h_628,q_auto:good,w_1200/zw5lzkwistxsb3vme1ep.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Tech company completes first driverless car test on Oxford roads"
     excerpt: "Fully autonomous vehicles have been driven on Oxford roads with no on-board driver and they could soon be used to deliver food."

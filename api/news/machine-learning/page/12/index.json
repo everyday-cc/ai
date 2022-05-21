@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-02-16-deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028.md",
+      "title": "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028",
+      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time.md",
       "title": "Bringing Deep Learning to your hardware of choice, one DeciNet at a time",
       "excerpt": "Training deep learning models is costly and hard, but not as much as deploying and running them in production. Deci wants to help address that. Deep Learning is probably the most popular form of machine learning at this time. Although not every problem ...",
@@ -1379,49 +1423,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-difference-between-a-neural-network-and-a-deep-learning-system.md",
-      "title": "Difference between a Neural Network and a Deep Learning System",
-      "excerpt": "Now that we have talked about Neural Networks, let’s talk about Deep Learning. Deep learning, also known as hierarchical learning, is a subset of machine learning in artificial intelligence that can mimic the computing capabilities of the human brain and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/",
-      "originalUrl": "https://www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.geeksforgeeks.org/wp-content/uploads/nodeNeural.jpg",
-          "width": 441,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/amp/",
-      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/amp/",
-      "publishedDateTime": "2022-02-06T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeeksforGeeks",
-        "domain": "geeksforgeeks.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -84,15 +84,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 10
-  - title: "Call Center AI Market 2022 Development Status, Competition Analysis, Type and Application 2032"
-    excerpt: "The FMI study finds that the call centre AI market was worth US$ 1.3 Bn in 2021 and is expected to grow at a 13.5% CAGR during the forecast period. Growing client involvement through social media platforms,"
-    publishedDateTime: 2022-05-19T07:12:00Z
-    webUrl: "https://www.fmiblog.com/2022/05/19/call-center-ai-market-2022-development-status-competition-analysis-type-and-application-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 7
 
 secured: "7ZxvJ/mFnyv2sz9d45rkerFYifrzy3hn6B6fGtHXPByNYBy89CeLUYsdO1977M8GoPmdVT8gBgEl/S3o+N3BKHBOVD+qVFA3g/aZVr+uudacK61RpxeJ4InWUooFcIP4G5DURSidXEAacPgg6d93hxEylJPQ4qdaTRxPrIUC/Hg65SPkyfLZj5NBchS9efd6aUPRtxiWxOUWoLXb6+c8mdPSGs+zMuEgfnF63ko9sSvFKU2mZoNqMtONmJqkoo12jstGgKinH+pwn9ZBLsUbsGMBtxIMPhPTfXgayQLKGyVVLk+gJzpQaYxIKCxF53ygmHgd9oTVAwMqW1GBNkxHbL4hxBUDJOAY5mhmaGUQVcU=;45AQtzOW8tv9rOGBHnFebA=="
 ---

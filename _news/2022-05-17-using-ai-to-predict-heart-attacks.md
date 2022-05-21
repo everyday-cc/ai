@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-h
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Suicide prediction method combines AI and face-to-face screening"
-    excerpt: "A new observational study from Vanderbilt University Medical Center points to solutions for efficient clinical prediction of suicide attempt or suicidal thinking in adults."
-    publishedDateTime: 2022-05-16T17:57:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-suicide-method-combines-ai-face-to-face.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 17
 
 secured: "C3mv3D/p0wFhBsfBQdQaHdTjVq6Pr82QyJ4a5ZGaeuz2jaa8/0YEf7vf0++LF0zsn2JFPL7j5/AzRF/8InunCWkPFLK7wXkQ27gsd+ohxS1Wb0OSY+gP/8T3Ph3ms0YMIL3agsR22DI/ePEZQHTxztLd1HqcnfgAf4GZTho/dna9ZUdcSdi36Mp1Rh1Id3zoQ5dJh90npk0z50TFHAgO1sXBG1JGEUJKgpvCF6yd179IKMBmL1Txebr+/Nb4yc0bS2jaJqffqPRkCLnweGW7FUgrAXCUop9TgkNc8K6cTZYOPpPfz0vNY70/rO16a1HAhXZj614X6Z3Xz41A2lchHvNRYrEHgGjD0WeLsGF9th69n9N1uJ50vEGN7QLosE9T5r/E/hqmLPE82nFZ9JLtiqCto9mEyT9bSBTROLGUGDADhtrCtxRuPZ1MJi3Gh8L+7thoXErmx4rBZahVtxkI43bsyNjpA6FwnmXKAdSaf0AySSS5izq7NgMWBAI52qQ4ox6ZmKIQ0SaPWkXThrQjuw==;iH+bdzWiCywu1V3+xIBBeA=="
 ---

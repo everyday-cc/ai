@@ -2,6 +2,111 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-04-16-deep-science-ai-cuts-flows-and-goes-green.md",
+      "title": "Deep Science: AI cuts, flows, and goes green",
+      "excerpt": "TechCrunch's Deep Science column looks at the past week in scientific research. This edition touches on AI applied to recycling, among other topics.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/",
+      "originalUrl": "https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1023943076.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/amp/",
+      "publishedDateTime": "2022-04-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-16-build-tensorflow-lite-for-android.md",
+      "title": "Build TensorFlow Lite for Android",
+      "excerpt": "This document describes how to build TensorFlow Lite Android library on your own. Normally, you do not need to locally build TensorFlow Lite Android library. If you just want to use it, the easiest way is using the TensorFlow Lite AAR hosted at MavenCentral.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/lite_build",
+      "originalUrl": "https://www.tensorflow.org/lite/android/lite_build",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-04-16-tensorflow-lite-hexagon-delegate.md",
       "title": "TensorFlow Lite Hexagon delegate",
       "excerpt": "This document explains how to use the TensorFlow Lite Hexagon Delegate in your application using the Java and/or C API. The delegate leverages the Qualcomm Hexagon library to execute quantized kernels on the DSP. Note that the delegate is intended to ...",
@@ -1083,92 +1188,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station.md",
-      "title": "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station",
-      "excerpt": "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial recognition security software, FaceMe® Security. FaceMe Security now integrates with AXIS Communications’ AXIS Camera Station VMS (video management software),",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-software-cddd904b0d6b46ecb76b17445e7e171a",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-software-cddd904b0d6b46ecb76b17445e7e171a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-ai-helps-teachers-spot-students-with-learning-difficulties.md",
-      "title": "AI Helps Teachers Spot Students With Learning Difficulties",
-      "excerpt": "Artificial intelligence helps teachers identify which of their students have learning difficulties, according to a new study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/",
-      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62587506d54fb4ce7f4f6c3f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/amp/",
-      "publishedDateTime": "2022-04-15T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

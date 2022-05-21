@@ -2,6 +2,101 @@
   "page": 147,
   "value": [
     {
+      "path": "_news/2022-01-15-samsung-develops-in-memory-computing-for-ai-chips.md",
+      "title": "Samsung develops in-memory computing for AI chips",
+      "excerpt": "Samsung Electronics announced it has developed an in-memory computing technology that merges memory and system semiconductors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5981642180108/2022/1/16421803414018/v1.5/Samsung-develops-in-memory-computing-for-AI-chips.jpg",
+          "width": 680,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "publishedDateTime": "2022-01-14T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-4-reasons-meta-platforms-is-poised-to-grow-in-2022.md",
+      "title": "4 Reasons Meta Platforms Is Poised to Grow in 2022",
+      "excerpt": "I want to talk a little bit more about the future growth of Meta Platforms and Facebook. First, I just want to say one thing. I've been looking on LinkedIn and",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/14/4-reasons-meta-platforms-is-poised-to-grow-in-2022/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/14/4-reasons-meta-platforms-is-poised-to-grow-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/661292/gettyimages-1311088152.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars.md",
       "title": "Here’s What That Engaging And Wildly Popular Game Wordle Can Teach You About AI Self-Driving Cars",
       "excerpt": "An online game known as Wordle has suddenly become a social media darling and everyone is playing, which it turns out there are aspects that can shed light on AI self-driving cars.",
@@ -1092,83 +1187,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-expected-to-reach-161-billion-by-2022.md",
-      "title": "Cognitive Computing and Artificial Intelligence Systems Market in Healthcare Expected to Reach $16.1 billion by 2022",
-      "excerpt": "Major market players such as IBM, Microsoft and Google have made significant investments in finding healthcare uses for cognitive computing ... software and services. Whereas, based on technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2019/01/cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-expected-to-reach-16-1-billion-by-2022.html",
-      "originalUrl": "https://www.medgadget.com/2019/01/cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-expected-to-reach-16-1-billion-by-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-janes-news-page.md",
-      "title": "Janes - News page",
-      "excerpt": "Boeing is to expand its F/A-18E/F Super Hornet and EA-18G Growler industrial team for Germany, with ... New Czech Defence Minister Jana Černochová presented her ministry's priorities during a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.securitymagazine.com/articles/96922-swiss-transit-authority-uses-ai-monitoring-to-secure-rails",
-      "originalUrl": "https://www.janes.com/defence-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securitymagazine.com/ext/resources/2022/01/17/transport-g333cdff04_1920.jpg?height=635&t=1642440004&width=1200",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jane's Information Group",
-        "domain": "janes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

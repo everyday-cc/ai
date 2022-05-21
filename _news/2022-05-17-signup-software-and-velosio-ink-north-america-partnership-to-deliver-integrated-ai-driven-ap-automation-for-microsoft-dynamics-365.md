@@ -65,6 +65,20 @@ related:
         width: 1024
         height: 765
         isCached: true
+  - title: "Relativity Announces Microsoft Machine Translation Integration + More"
+    excerpt: "At Relativity Fest in London today, the pioneering eDiscovery and investigations company has rolled out a mass of announcements, ranging from a focus on ethical AI, to NLP-driven sentiment"
+    publishedDateTime: 2022-05-17T09:35:00Z
+    webUrl: "https://www.artificiallawyer.com/2022/05/17/relativity-announces-microsoft-machine-translation-integration-more/"
+    type: article
+    provider:
+      name: artificiallawyer.com
+      domain: artificiallawyer.com
+    quality: 56
+    images:
+      - url: "https://www.artificiallawyer.com/wp-content/uploads/2022/05/Screenshot-2022-05-17-at-08.22.49.png"
+        width: 1600
+        height: 1085
+        isCached: true
   - title: "New Relic announces integration and multi-year partnership with Microsoft Azure"
     excerpt: "New Relic <> partners with Microsoft to help enterprises accelerate cloud migration and multi-cloud initiatives"
     publishedDateTime: 2022-05-18T16:08:00Z

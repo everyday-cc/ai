@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/google-faces-lawsuit-for
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/amp_articleshow/91610435.cms"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,52 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google faces fresh class action-style suit in UK over DeepMind NHS patient data scandal"
-    excerpt: "Google is facing a new class-action style lawsuit in the UK in relation to a health data scandal that broke back in 2016, when it emerged that its AI division, DeepMind, had been passed data on more than a million patients as part of an app development project by the Royal Free NHS Trust in"
-    publishedDateTime: 2022-05-16T17:24:00Z
-    webUrl: "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/"
-    ampWebUrl: "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/p1040482.jpg?w=1024"
-        width: 1024
-        height: 767
-        isCached: true
-  - title: "‘The Game is Over’: Google’s DeepMind says it is on verge of achieving human-level AI"
-    excerpt: "To keep your finger on the pulse with major breaking news developing around the world sign up to our free email alerts Human-level artificial intelligence is close to finally being achieved, according to a lead researcher at Google’s DeepMind AI division."
-    publishedDateTime: 2022-05-18T06:09:00Z
-    webUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2080740.html?amp"
-    ampWebUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2080740.html?amp"
-    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2080740.html?amp"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 67
-    images:
-      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "‘The Game is Over’: Google’s DeepMind says it is on verge of achieving human-level AI"
-    excerpt: "Human-level artificial intelligence is close to finally being achieved, according to a lead researcher at Google’s DeepMind AI division. Dr Nando de Freitas said “the game is over” in the ..."
-    publishedDateTime: 2022-05-17T13:55:00Z
-    webUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2080740.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 47
-    images:
-      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Google faces class-action lawsuit for using NHS data of 1.6 mn people in UK"
     excerpt: "Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 mn individuals for its AI division called DeepMind."
     publishedDateTime: 2022-05-17T05:22:00Z
@@ -103,6 +57,29 @@ related:
         width: 300
         height: 400
         isCached: true
+  - title: "Google is facing legal action over using 1.6 million people's healthcare data 'without their knowledge or consent'"
+    excerpt: "The internet giant is being sued after unlawfully using data given to the corporation’s artificial intelligence arm Deep Mind in 2015 from the Royal Free NHS Trust to use in testing a smartphone app,"
+    publishedDateTime: 2022-05-18T07:50:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/google-is-facing-legal-action-over-using-16-million-peoples-healthcare-data-without-their-knowledge-or-consent-46fea968-951d-59e5-a096-eb07bbc056e7"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 17
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/6a9feddc-de4c-58d2-8d6f-2239f4788c7b&operation=CROP&offset=0x21&resize=400x225"
+        width: 650
+        height: 366
+        isCached: true
+  - title: "Google faces lawsuit for misusing millions of people’s medical data"
+    excerpt: "The news of the class-action lawsuit against Google has been followed by the publication of a study accusing the company of enabling adtech’s “biggest data breach”."
+    publishedDateTime: 2022-05-17T13:08:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/google-faces-lawsuit-for-misusing-millions-of-people-s-medical-data/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 4
 
 secured: "ku0iW2aF1kL3AQ8ACwXywdEtT4ISQOV9nMTAe77jbSJnNEc/IZofTdoQgnygEAk9RmA5ykfThVtEF2qYn5wSKHBTuLdMh7fcmuP3Y4w2S3VM4Xtz9DdecJYuZ/h11ZhYN5UPGKQNaHsAgDdiQeHw6Vfo5oIRJBGE8Z6cFvO2guqlA0G90csVPCLTzHDX+We/fGlikfV0xUZsuzCtTsTKnMK5tj7rH9A/L5fviyIo7KWGwuVDH0Yrv53pCkmDlD4EW/Q46e4YCpgqm/6Nq2JAhAb32/mfXeUZ7B5tjWIwUcfS7dkKGYyPujZiTvo5rDG3KySU2W+xlyG1MRAMI78obALVzf6Kro0mofaicyNup28=;RwOA6MCCa/EAqk3YmMmtQA=="
 ---

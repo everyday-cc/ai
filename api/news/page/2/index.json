@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-19-apple-dislikes-windows-so-much-its-self-driving-car-might-not-have-any.md",
+      "title": "Apple Dislikes Windows So Much Its Self Driving Car Might Not Have Any",
+      "excerpt": "Did you even have a childhood if you did not press your face against a car window during a long road trip? Such an experience may soon be a thing of the past. Apple has filed a patent to add VR systems in its autonomous vehicles that would replace windows.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
+      "originalUrl": "https://hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/58592/content/apple-car-concept-design.jpg",
+          "width": 708,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
+      "publishedDateTime": "2022-05-19T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-oxy-ceo-if-youre-not-using-ai-youre-missing-an-opportunity.md",
+      "title": "Oxy CEO: \"If you're not using AI you're missing an opportunity\"",
+      "excerpt": "CEO Vicki Hollub tells how AI is growing the oil company's business",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/oxy-ceo%3A-\"if-you're-not-using-ai-you're-missing-an-opportunity\"/d1f76e96-0750-4ad6-86c8-92a5788c53ae",
+      "originalUrl": "https://fortune.com/videos/watch/oxy-ceo%3A-\"if-you're-not-using-ai-you're-missing-an-opportunity\"/d1f76e96-0750-4ad6-86c8-92a5788c53ae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/d1f76e96-0750-4ad6-86c8-92a5788c53ae/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/oxy-ceo%3A-%22if-you're-not-using-ai-you're-missing-an-opportunity%22/d1f76e96-0750-4ad6-86c8-92a5788c53ae/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/oxy-ceo%3A-%22if-you're-not-using-ai-you're-missing-an-opportunity%22/d1f76e96-0750-4ad6-86c8-92a5788c53ae/amp",
+      "publishedDateTime": "2022-05-19T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-implementing-change-part-two-what-ai-cant-do-for-healthcare.md",
       "title": "Implementing Change Part Two: What AI Can’t Do For Healthcare",
       "excerpt": "Understanding what AI can’t do is important to prevent tech entrepreneurs and investors from pouring time and resources down rabbit holes that won’t bring about better care, improved working conditions or lower costs.",
@@ -453,7 +547,7 @@
       "originalUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -549,7 +643,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1134,100 +1228,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-how-ai-expedites-medical-research-diagnosis-and-dont-forget-office-work.md",
-      "title": "How AI Expedites Medical Research, Diagnosis And Don’t Forget Office Work",
-      "excerpt": "AI and machine learning have already had a huge impact not only in scientific research but also in epidemiology, diagnostics and, importantly, in the mostly manual work that keeps labs, doctors’ offices,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/18/how-ai-expedites-medical-research-diagnosis-and-dont-forget-office-work/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/18/how-ai-expedites-medical-research-diagnosis-and-dont-forget-office-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6283b3e18b9d556b4655e57c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/18/how-ai-expedites-medical-research-diagnosis-and-dont-forget-office-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/18/how-ai-expedites-medical-research-diagnosis-and-dont-forget-office-work/amp/",
-      "publishedDateTime": "2022-05-18T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round.md",
-      "title": "Indian Robotics Firm GreyOrange Raises $110 Mn In A Funding Round",
-      "excerpt": "Tiger Global-backed Indian robotics firm GreyOrange has raised $110 Mn in the latest funding round, as per reports.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
-      "originalUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/05/Feature-fashion-300x225.png",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
-      "publishedDateTime": "2022-05-18T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

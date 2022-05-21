@@ -2,6 +2,96 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-05-06-natural-language-processing-market-growing-at-a-cagr-203-key-player-ibm-microsoft-google-aws-facebook.md",
+      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook",
+      "excerpt": "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-facebook",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/721043d015e7592d3878c959eb0b07c6df1918ee-e1652191764450-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-use-custom-vocabulary-in-amazon-lex-to-enhance-speech-recognition.md",
+      "title": "Use custom vocabulary in Amazon Lex to enhance speech recognition",
+      "excerpt": "In our daily conversations, we come across new words or terms that we may not know. Perhaps these are related to a new domain that we’re just getting familiar with, and we pick these up as we understand more about the domain. For example, home loan terminology (“curtailment”), shortened words, (“refi”,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-custom-vocabulary-in-amazon-lex-to-enhance-speech-recognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-custom-vocabulary-in-amazon-lex-to-enhance-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T15:34:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-new-shape-memory-alloy-discovered-through-artificial-intelligence-framework.md",
       "title": "New shape memory alloy discovered through artificial intelligence framework",
       "excerpt": "Researchers used an Artificial Intelligence Materials Selection framework (AIMS) to discover a new shape memory alloy. The shape memory alloy showed the highest efficiency during operation achieved thus far for nickel-titanium-based materials.",
@@ -1032,92 +1122,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-aible-to-participate-in-the-bake-off-session-at-gartner-data-and-analytics-summit-may-9-11-in-london.md",
-      "title": "Aible to Participate in the ‘Bake-Off’ Session at Gartner Data and Analytics Summit, May 9-11 in London",
-      "excerpt": "Aible, the only enterprise AI solution that guarantees impact in one month, is proud to announce that it will participate in the “Bake-Off” at the Gartner Data & Analytics Summit, held on May 9-11 in London.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-science-business-europe-london-a7f0fa00661d7434c1d78e71aab33734",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-science-business-europe-london-a7f0fa00661d7434c1d78e71aab33734",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-computer-vision-as-a-solution-to-safety-challenges-in-industrial-facilities.md",
-      "title": "Computer Vision As A Solution To Safety Challenges In Industrial Facilities",
-      "excerpt": "In this article, we will discuss how to apply computer vision technology to detect safety hazards in industrial facilities, such as factories and logistic centers, in order to prevent human ...",
-      "sourceUrl": null,
-      "webUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
-      "originalUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ohsonline.com/-/media/OHS/OHS/Images/2022/05/computer-vision.jpg",
-          "width": 620,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ohsonline.com",
-        "domain": "ohsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
