@@ -1,10 +1,10 @@
 ---
 category: news
 title: "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge"
-excerpt: "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base."
-publishedDateTime: 2022-05-16T16:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm"
+excerpt: "\"This partnership with the leading AI chip company, Hailo, is a gamechanger for our enterprise customers. It addresses thegrowing need to process sensory information more efficiently, and at greater speeds than ever before in history. Together we unleash ..."
+publishedDateTime: 2022-05-16T16:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-alwaysaireg-partners-with-ai-chipmaker-hailo-power-next-/2022/05/16/9602690.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-alwaysaireg-partners-with-ai-chipmaker-hailo-power-next-/2022/05/16/9602690.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "S61VlOgOXoimwRLMi1aFvWHIsaIBCRWk3eTdzDZxAA3Kp/ioHW5A4bf3YRXLmFP5uuhMEpAXty1XO5Whe5uc7NuxEmuFahuHmzD28z7a/jTfz0OO3qz6/hBU1MT2LNzu3V//l61fWT86a6/5+DhogJ7BfDmq5IUI4hyVO1Rf3XSgKV4+jeRwhCbpekK4eY41BvkwTnKhEyzGW5IogOjh91QhA46OTnt38ULFk6nnrBNJWI0My7qnyO+43qNCky7q9emUI35a66GLHuGX4S8GOBW8p3fvLXY6d8SFwbfC/ZW/Qg/d2dv9tWkRXp5v50ViJbULCHcJpcrg1rO1usWrsPzhdiAl5Lzq+8Btu1C06f0=;etLI8NeAEZUJEGXj1FG62Q=="
+secured: "3o0NabSJNe8+KS0Vc8wvPdituNSgtFsUifUznUoZ6ay4kciIKy6hEYAb0u0AU3KmpZOG7KjQiOyvxUCo9c2rwvx+SAA7XUcnWps7njCSKLVXJ9QfLODsCex4UmExKtmQuWDQlhvHsobh7ZqJ4F8w9/bB3oXWjXYHiQZ7ZhhicgCdNddCzhZeyiT1JDFCvSpafJw2NL9S5n0Nqd6GUMdA6Z+SPkwIaVlnKP6LuLCFuVigViekMVOu3XLJCjxPZjRkt/9zw8LvOzkFfRLSJfEQJvpsVdWqHp4tbmIEZeHAOcZ1K8FXYhFNXcSgJ7TyNGNlF0jcMa9DlCYmQcYKMSscZfSt1L2aJFxil2cK5/w6/yI=;2k4DAThjE0o4ab5hQ2UIWg=="
 ---
 
