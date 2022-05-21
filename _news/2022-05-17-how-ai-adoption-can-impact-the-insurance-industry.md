@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Intelligent Automation, AI & Operational Excellence Leader Joins Process Intelligence Platform Leader Skan"
+    excerpt: "Skan, a leader in the Process Intelligence solution industry that provides unprecedented insights into how organizations get work done, has appointed Vinaykumar (Vinay) Mummigatti as Executive Vice President of Strategy and Customer Transformation."
+    publishedDateTime: 2022-05-20T13:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/intelligent-automation-ai-operational-excellence-leader-joins-process-intelligence-platform-leader-skan-1031478759"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/1822132/Vinay.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
     excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
     publishedDateTime: 2022-05-18T08:33:00Z
@@ -59,20 +73,6 @@ related:
       - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"
         width: 750
         height: 422
-        isCached: true
-  - title: "Intelligent Automation, AI & Operational Excellence Leader Joins Process Intelligence Platform Leader Skan"
-    excerpt: "Skan, a leader in the Process Intelligence solution industry that provides unprecedented insights into how organizations get work done, has appointed Vinaykumar (Vinay) Mummigatti as Executive Vice President of Strategy and Customer Transformation."
-    publishedDateTime: 2022-05-20T13:33:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c9f53279b8a31d2f6c2f109fb8f2259e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "QkpkFesBnUmvL+H2ZywCGv3OFWkFj8Pz8gkC/d+VQmAo0VkkDuGD4GiKvAfIvkwacCQPd9HFT4mVf5lOudxrXa67+B4inwnPaSPY9bANyLricHWq7Jr06PUwbuzi0oa+pMCcY6QigIRbp/Ss1IX7TuZtNZwNYB9fd7s6uxdpkwC9PhmfZTRSAkzcFFl0y+lFo7gRpmRstfQ4KnRyO+WyrLE/nISiZgr1M21AHq85WOD2r8k2gr2lVxIF6dGgbTrJCbAhKu0AKySQ3Sx1r5531S/Y/vmTAD9Oa0u6/jzd+o1oulcPRCZACtATblmW3TkFesYM6VxIyuy6+wF5534yfjk21/zqCNUrLVPOH/XycI52PSJi7UzBJKym+97uRN1TeAI5UoEplENscQ/cH3kQytidMJKLr/gZCIcnUJphaJvYVmJD6cvTSw4x3Qld5MfkmQgP9H1JVECnZSjMWDP8t0/oHr2uWqANUEyb3GIhZz41sUGF2P/t8tXZvbMTbJ7wuwkWUWlpfgi0bLuwZO4Osw==;8/sjQN3gphDbIY1eeyl9QA=="

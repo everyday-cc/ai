@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-21T18:50:00Z
 originalUrl: "https://bestgamingpro.com/programming-language-generation-is-used-to-drive-pair-programming/"
 webUrl: "https://bestgamingpro.com/programming-language-generation-is-used-to-drive-pair-programming/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Bestgamingpro

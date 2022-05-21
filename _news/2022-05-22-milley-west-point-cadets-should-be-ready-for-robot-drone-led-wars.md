@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-21T17:21:00Z
 originalUrl: "https://www.voanews.com/a/milley-west-point-cadets-should-be-ready-for-robot-drone-led-wars/6583679.html"
 webUrl: "https://www.voanews.com/a/milley-west-point-cadets-should-be-ready-for-robot-drone-led-wars/6583679.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Voice of America

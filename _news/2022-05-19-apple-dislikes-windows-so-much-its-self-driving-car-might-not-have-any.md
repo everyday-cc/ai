@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: HotHardware
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars not yet ready"
-    excerpt: "Smart cruise control systems in new cars are still flawed and don’t guarantee safety for drivers or cyclists, new research from the American Automobile Association (AAA) has found. The AAA tested three cars equipped with active driver assist to answer questions about how well these systems adapt to possible collisions with other road users."
-    publishedDateTime: 2022-05-17T02:24:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/self-driving-cars-not-yet-ready.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 24
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/smart%20cruise%20control.jpg"
-        width: 672
-        height: 378
-        isCached: true
   - title: "Twitter Users React to Possible Windowless Self-Driving Apple Car: ‘Of Course Apple Won’t Support Windows’"
     excerpt: "Apple's self-driving car could feature VR technology and no windows,” tweeted VRScout, accompanied by an article."
     publishedDateTime: 2022-05-19T17:22:00Z

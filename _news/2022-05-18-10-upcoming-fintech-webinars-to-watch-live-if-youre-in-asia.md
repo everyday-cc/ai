@@ -52,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "SA mobile telcos up their fintech play"
-    excerpt: "SOUTH African telcos Vodacom and MTN are upping their play in the fintech sector, boosting their mobile money offerings through value-added services such as micro-lending and micro-insurance, among other digital finance innovations."
-    publishedDateTime: 2022-05-17T05:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/sa-mobile-telcos-up-their-fintech-play-c6ef9b35-5285-4732-bf72-6ca9d18a37d5"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 24
-    images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/MTN-has-now-surpassed-Kenya-s-Mpesa-in-mobile-money-users-under-its-MoMo-offering-Bhekikhaya-Mabaso-ANA?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7f35a3d6-d121-5ed6-a3d6-4226e3c2f1c0&operation=CROP&offset=0x152&resize=2343x1318"
-        width: 650
-        height: 366
-        isCached: true
   - title: "A Short Guide to Understanding the Exciting Realm of Fintech"
     excerpt: "Fintech is skyrocketing in popularity, posing the first serious challenge to legacy financial institutions. What is it & how does it work? Find out here. What is Fintech & How Does it Work? People used to stand on the corner of a city intersection and see their options for banking."
     publishedDateTime: 2022-05-21T14:47:00Z

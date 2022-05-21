@@ -214,49 +214,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-19-apple-dislikes-windows-so-much-its-self-driving-car-might-not-have-any.md",
-      "title": "Apple Dislikes Windows So Much Its Self Driving Car Might Not Have Any",
-      "excerpt": "Did you even have a childhood if you did not press your face against a car window during a long road trip? Such an experience may soon be a thing of the past. Apple has filed a patent to add VR systems in its autonomous vehicles that would replace windows.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "originalUrl": "https://hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58592/content/apple-car-concept-design.jpg",
-          "width": 708,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "publishedDateTime": "2022-05-19T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-19-oxy-ceo-if-youre-not-using-ai-youre-missing-an-opportunity.md",
       "title": "Oxy CEO: \"If you're not using AI you're missing an opportunity\"",
       "excerpt": "CEO Vicki Hollub tells how AI is growing the oil company's business",
@@ -704,50 +661,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-financial-services-the-changing-face-of-cyber-security-as-data-sharing-and-pooling-gain-ground.md",
-      "title": "Financial services: The changing face of cyber security as data sharing and pooling gain ground",
-      "excerpt": "Shared and pooled data presents a remarkable and growing opportunity for a data heist. This is because data is being generated, stored, shared, and le..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/big-data/financial-services-the-changing-face-of-cyber-security-as-data-sharing-and-pooling-gain-ground/91653590",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/big-data/financial-services-the-changing-face-of-cyber-security-as-data-sharing-and-pooling-gain-ground/91653590",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91653590,imgsize-31824,width-1200,height-628,overlay-etcio/financial-services-the-changing-face-of-cyber-security-as-data-sharing-and-pooling-gain-ground.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/big-data/financial-services-the-changing-face-of-cyber-security-as-data-sharing-and-pooling-gain-ground/91653590",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/big-data/financial-services-the-changing-face-of-cyber-security-as-data-sharing-and-pooling-gain-ground/91653590",
-      "publishedDateTime": "2022-05-18T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -1235,6 +1148,108 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-can-you-trust-ai-to-help-navigate-todays-digital-business-landscape.md",
+      "title": "Can You Trust AI To Help Navigate Today’s Digital Business Landscape?",
+      "excerpt": "As artificial intelligence and machine learning technology continue to advance the digital business landscape, you may ask yourself: Can I trust these systems to keep my brand reliable and to remain ahead of the competition? Building trust in AI is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6048e165345b4ab79c3f331a/0x0.jpg?format=jpg&width=1200",
+          "width": 1140,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/amp/",
+      "publishedDateTime": "2022-05-18T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-googles-ai-powered-interview-warmup-helps-with-job-prep.md",
+      "title": "Google's AI-Powered 'Interview Warmup' Helps With Job Prep",
+      "excerpt": "Google is using machine learning and artificial intelligence to help applicants practice for job interviews. The tool, aptly named Interview Warmup (Opens in a new window), invite",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep",
+      "originalUrl": "https://www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/07AKzz0IzpvSrVwAul01AqA-2.fit_lim.size_1200x630.v1652872751.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep?amp=true",
+      "publishedDateTime": "2022-05-18T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

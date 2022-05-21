@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Move to regulate facial recognition technology"
-    excerpt: "A group of NGO’s – including Amnesty International – is calling for tighter rules on automatic facial recognition technology."
-    publishedDateTime: 2022-05-17T04:30:00Z
-    webUrl: "https://www.worldradio.ch/news/bitesize-news/move-to-regulate-facial-recognition-technology/"
-    type: article
-    provider:
-      name: World Radio Switzerland
-      domain: worldradio.ch
-    quality: 39
-    images:
-      - url: "https://mmo.aiircdn.com/29/6052d11808e86.jpg"
-        width: 1320
-        height: 760
-        isCached: true
   - title: "Computer Vision Market Size, Demand, Dynamics, Business Growth And 2031 Forecasts"
     excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on the Computer Vision Market that emphasizes the latest trends, key opportunities, drivers, and ..."
     publishedDateTime: 2022-05-17T06:38:00Z
@@ -214,20 +200,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
-  - title: "Yogurt Market 2022 Key Methods, Historical Analysis, Application, Technology, Trends And Opportunities 2032"
-    excerpt: "From 2022 to 2032, the global yoghurt market is expected to rise at a CAGR of 4.8%, from USD 89.9 Mn in the year 2022 to USD 143.7 Mn in the year 2032."
-    publishedDateTime: 2022-05-17T03:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/yogurt-market-2022-key-methods-historical-analysis-application-technology-trends-and-opportunities-2032"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 6
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Emotion Detection and Recognition Market Size, Competitive Strategies and Forecasts 2027"
     excerpt: "In the research report, Market Research Future (MRFR), highlights that the global Emotion Detection and Recognition market 2020 is slated to grow"
     publishedDateTime: 2022-05-19T13:09:00Z

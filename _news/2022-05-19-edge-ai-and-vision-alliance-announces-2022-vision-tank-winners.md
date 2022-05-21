@@ -2,21 +2,27 @@
 category: news
 title: "Edge AI and Vision Alliance Announces 2022 Vision Tank Winners"
 excerpt: "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit."
-publishedDateTime: 2022-05-19T03:57:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
+publishedDateTime: 2022-05-19T06:57:00Z
+originalUrl: "https://fox40.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
+webUrl: "https://fox40.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: FOX40
+  domain: fox40.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
+    width: 800
+    height: 328
+    isCached: true
 
 related:
   - title: "embedded news: edge AI and vision latest, plus more"
@@ -52,6 +58,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "o72iFzotfH72kk0ELfrlRFPMUlE2pUcaq8bS8Ro4GDrKbM9YTIuKPQ4shbXAaDEPTOf/auXong/9c8kqSOYJn8kSMLO14EhJCnUhzhdzNcQ3eBPwUBOYr4kQeW6PuCuGpv4kIHxYcSjsq5gscazr/jhPlFOFQVku3h9iMsNrl0CyjjVURiwXg9fZHGpcX8NDbkPZNcPLkh9KuismtUHV9medNzqQa83BloUX42Q8FIn3E3vQOXiCSRBTmI4m2TniGCJiolceQ67pXdsJlxBr/tHXqbugLVyBikQEhamU92fAZRQ29cXhGsNz3VU9wv7JdcpsO2NXx60ZwRdIziQKc5QxHxd52g3MsBCKTg6dbQU=;q3EvZK2eeE9kRbHKpFpfAQ=="
+secured: "VPXrxwHaV9mWMdIw1WNn+G+nP1GgzW9ZGHO/PnycZYeVS5mIx3kNN1OKIfQyRveHWZQ0hHOnjenI7c1NTjvVrXVoybb1v1u1XlNzjZKCJCrEa2Gt91C8H/JuHaqigpDf/q7FWM4TO6M4LpPsNAJ/jx6B+FmenSiDrABj3dZzb//J75FL/7YxBSB3o/amHlDvP5CGrwWoH2xktHBL7TJbTPiyxWYtEJCCkeb7PHxWjlk4EifHM36/Lq9Rg1O1t52Z3TMOkTvB3k7+hSjfpjOic6bLfezShkasjqeDMNo1J4o+QknKQUDXL4txJ97Ko6y6Lr/MIsCqNe82+00zlGZa5wCetGX40HmvJV9p6VANfTY=;BZ8+ottHDLPg4MU3PULBxA=="
 ---
 

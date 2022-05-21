@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-21T18:30:00Z
 originalUrl: "https://archiveofourown.org/works/39134988"
 webUrl: "https://archiveofourown.org/works/39134988"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Archive of Our Own

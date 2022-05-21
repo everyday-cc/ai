@@ -56,49 +56,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-19-apple-dislikes-windows-so-much-its-self-driving-car-might-not-have-any.md",
-      "title": "Apple Dislikes Windows So Much Its Self Driving Car Might Not Have Any",
-      "excerpt": "Did you even have a childhood if you did not press your face against a car window during a long road trip? Such an experience may soon be a thing of the past. Apple has filed a patent to add VR systems in its autonomous vehicles that would replace windows.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "originalUrl": "https://hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58592/content/apple-car-concept-design.jpg",
-          "width": 708,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/apple-car-patent-hints-vr-in-place-of-windows-hilarious-reaction",
-      "publishedDateTime": "2022-05-19T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-19-how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing.md",
       "title": "How Artificial Intelligence Is Opening Up A New World Of Possibilities In Hearing",
       "excerpt": "For me, there’s nothing more fulfilling than seeing technology enhance the way people live. We’re just starting to scratch the surface when it comes to AI. When people talk about this technology, its impact is not 10 years from now.",
@@ -1409,6 +1366,49 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-driverless-robotaxi-gets-clearance-to-use-public-roads-in-china.md",
+      "title": "Driverless robotaxi gets clearance to use public roads in China",
+      "excerpt": "Baidu and Pony.ai got the clearance to use public roads in China for the robotaxis which are capable of servicing passengers without a driver.",
+      "sourceUrl": null,
+      "webUrl": "https://philkotse.com/market-news/driverless-robotaxi-in-china-12660",
+      "originalUrl": "https://philkotse.com/market-news/driverless-robotaxi-in-china-12660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.philkotse.com/2022/05/06/KjJYY7r3/pony-ai-1-d10f_wm.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://philkotse.com/market-news/driverless-robotaxi-in-china-12660/amp",
+      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/driverless-robotaxi-in-china-12660/amp",
+      "publishedDateTime": "2022-05-06T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philkotse",
+        "domain": "philkotse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

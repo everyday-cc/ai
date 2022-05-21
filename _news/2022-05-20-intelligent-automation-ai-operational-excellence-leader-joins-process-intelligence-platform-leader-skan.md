@@ -2,26 +2,29 @@
 category: news
 title: "Intelligent Automation, AI & Operational Excellence Leader Joins Process Intelligence Platform Leader Skan"
 excerpt: "Skan, a leader in the Process Intelligence solution industry that provides unprecedented insights into how organizations get work done, has appointed Vinaykumar (Vinay) Mummigatti as Executive Vice President of Strategy and Customer Transformation."
-publishedDateTime: 2022-05-20T13:33:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c9f53279b8a31d2f6c2f109fb8f2259e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c9f53279b8a31d2f6c2f109fb8f2259e"
+publishedDateTime: 2022-05-20T13:37:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/intelligent-automation-ai-operational-excellence-leader-joins-process-intelligence-platform-leader-skan-1031478759"
+webUrl: "https://markets.businessinsider.com/news/stocks/intelligent-automation-ai-operational-excellence-leader-joins-process-intelligence-platform-leader-skan-1031478759"
 type: article
-quality: 21
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1822132/Vinay.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -72,6 +75,6 @@ related:
         height: 422
         isCached: true
 
-secured: "z0pTIqxR3TeCcwNAKV7y0jXzIIMzUc06noEFo6y+iUpms/x2IyHAgC348EueWCvGvQ0ONVnx8VRNnOCaXXnjLdVznj5D5DGVCiMvaM2cRgyMg7CrJLOD7U4CZRskIoEp6fi3BqDem+6CtRQUMYu84EFPn8JiFwLd4Q2OQNKMaIDkZ3mQ0vXZokJHbkhUeIutWumj8lZDjjGJlR9jAhuHJSlD1xaQOAvYgImaKyT773w6Et6m/OEv+MrXYvcWU/6eWExSl/WmxImtV+MIw7etd48HWXF+LY3ME/7KA0JEqLrRwqztDT0OBhHwa5LnJ3XuUixmCy52TGa3zQHYayaHIXgH8LbJR+xZ7i4V9zf8ObY=;MmNb/g9LChyv3oD9Jak8UA=="
+secured: "+6fMuMpJdxaaHVDA8nFi5BE1M7owVaFHbHS8GtzmiNdIYAzOG4zVvl3Pm+UXlz0N45lzMUuoVlJF7jdClHnyB9EEGGOeQq2hIvSPG+9t8pszZjoohDO0t/EJa151aon3dQxToAeJFwYwh7z9IdEzYCRm42naSJc7yw5YCGDA5EPzPOd/Je+sOvAtqVYg67AiBLMgf7WfKq6NJ5HqY2h0z9XTh7zLEUhGaNAUKQXDY1JnPiGQ4SJk0oqY3mqEgtdW1nJMqAoyXgP1IkxjxSY962y00MxDMcr2x66FRMwf9X2T1ffz7UY4mOxhl1PG0xVsoe5bvPI4UkPdeXfRQQNMiESQmLOXxNXGAJs4wyLzwQ0=;FpHzzVxFWiaE2D4IJlfuiQ=="
 ---
 
