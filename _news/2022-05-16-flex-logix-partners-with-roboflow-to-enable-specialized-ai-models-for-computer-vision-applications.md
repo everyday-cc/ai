@@ -1,23 +1,24 @@
 ---
 category: news
 title: "FLEX LOGIX PARTNERS WITH ROBOFLOW TO ENABLE SPECIALIZED AI MODELS FOR COMPUTER VISION APPLICATIONS"
-excerpt: "\"At Roboflow, enabling users to build high quality computer vision models and deploy to a wide range of industry leading hardware options like GPU, and now eFPGA, is essential. We are excited to add support for customers to train models and easily deploy ..."
-publishedDateTime: 2022-05-16T14:10:00Z
-originalUrl: "https://news.tmcnet.com/usubmit/2022/05/16/9602338.htm"
-webUrl: "https://news.tmcnet.com/usubmit/2022/05/16/9602338.htm"
+excerpt: "The availability of AI models optimized for the Flex Logix InferX accelerator enables edge device manufacturers to get to market quickly, reliably and affordably. MOUNTAIN VIEW, C"
+publishedDateTime: 2022-05-16T12:00:00Z
+originalUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220516SF57748/flex-logix-partners-with-roboflow-to-enable-specialized-ai-models-for-computer-vision-applications/"
+webUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220516SF57748/flex-logix-partners-with-roboflow-to-enable-specialized-ai-models-for-computer-vision-applications/"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MyTwinTiers.com
+  domain: mytwintiers.com
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
+  - Computer Vision
 
-secured: "hCFe3ciVyq9y1EWhg1qZJYm1K2oGw747WCt01kbo81Ccy+lOlCTUSEUahN564ukNzue3bVZP/BLTU/bR4sJoNzcnyijNCws0/75IPrFSJyhlJwdq7Aazxqo8u6y0mDv5+tvNdISWNu4uCuAjSu80KSK5uAHeAts0GdtRGp5hPPZ/JGiCTDs/0cF10q9d7zTaQKWK3OtpRFjuxsiZ8SBa5SKpq8HDPiFIwWlZOj78aNItobJvSmS3+bHTOv0HprTsvOoMvZyijFGoz9eqnB0aWNLiY6iR6WnBG6kDBgceH1P0tkZrGDjXmnRzbWXiBP6NAtuTw0YzxHMyalcYAb7umZq0K2uatsPrdC8rXg9vf30=;gOijO+oyFbQtJg3aPvM+gw=="
+secured: "6AiBB1pzi9KPB/ZntxGC8IDLYd2viuXR5n1pGbK6yStfSok5vDblNyNP7Gz3cPO+veDSpmPZWzR3QL0Y4X3dJHWIdar7eo1AmsD/JxCzzbVTg86gbXMLyQtLFu/lnQIfHKWyFZkFgwKoai/ogo68LACQ8fA9kLp9Vq1QU758GH7oVEHCiCRNYt+jWFpmDDk+izNWS3HW9wDDaWfX933lyI4mYNg9ai76roi+6ayFi+ticYLZGdF1xBQ6KqVCmDsJulWjjcYB9pxMLIggz3hRRoobZtlqQAdJ3OCcWY6SJzFAkvO4eugRUREZ3X65V+H5QyK3TbrPpysi09cDh7dQehCnF/9qgRrYpvsogm3DC3w=;NGcOoSsT47QTqHT4d9LkEw=="
 ---
 

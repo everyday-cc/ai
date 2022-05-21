@@ -52,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "FinTech Market Growing Massively by Xero, Sofi, Adyen"
-    excerpt: "Fintech is allowing companies to reduce their costs, automate their processes and reduce the chances of error. AI Chatbots are used by companies as customer assistants for various purposes such as sales, customer support executives (by phone), and online ..."
-    publishedDateTime: 2022-05-16T09:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/fintech-market-growing-massively-by-xero-sofi-adyen"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "10 Upcoming Fintech Webinars to Watch Live if You’re in Asia"
     excerpt: "For fintech entrepreneurs, professionals and investors located in Asia, we’ve compiled a list of the top upcoming webinars to watch live. These virtual events are meant to help viewers learn about some of the hottest fintech trends and biggest opportunities out there."
     publishedDateTime: 2022-05-18T06:04:00Z

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Wysa receives USFDA approval for AI led device for mental health"
-    excerpt: "The device delivers cognitive behavioural therapy (CBT) via a smartphone-based conversational agent to reduce the symptoms of depression and anxiety, .."
-    publishedDateTime: 2022-05-16T08:15:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health/91592319"
+  - title: "Google Debuts LaMDA 2 Conversational AI System and AI Test Kitchen"
+    excerpt: "At its annual developer conference last week, Google announced the second release of its conversational AI system, LaMDA, which stands for Language Models for Dialogue Applications. Google says LaMDa 2 is a more finely tuned version of their original ..."
+    publishedDateTime: 2022-05-16T22:42:00Z
+    webUrl: "https://www.datanami.com/2022/05/16/google-debuts-lamda-2-conversational-ai-system-and-ai-test-kitchen/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91592319,imgsize-18776,width-1200,height-628,overlay-ethealthworld/wysa-receives-usfda-approval-for-ai-led-device-for-mental-health.jpg"
-        width: 1200
-        height: 628
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/shutterstock_nlp.jpg"
+        width: 1000
+        height: 533
         isCached: true
 
 secured: "DItVTaIghXfP1Db4wj/g4p8ndppn4ecUhfOKVlS1Y0vYGZFapJGF5p8cz1NSj0jlJD+BpKiERdqgdnGbO63Sk8Hrr1KKZootGfV3ZviwAlSIJFMv4IQ6BbESbLbimH2E4ow7grRoctbv3Xtbx7dwVXYh9mtFLigvvmOGqofbR7f6nFavC4VRY1orbcOtACk6pRyRHGhC4eg5qsp/njMNeyuysmYjmSKwJirg+eCqV5fVsQ00SWZCFYtdlQA4Nh7q32S9JciOdz9JnbQGvp5lM4ywn2RMcQTUxvlaE5EJuKppkmyxxI09YLcCi5sUVBJ1kOY/rico+yc5wAKhc3dtQpjnS6KJW4TOt9ytpPZR87k=;qDbzNEoXP0/E+t8qpIXE9g=="

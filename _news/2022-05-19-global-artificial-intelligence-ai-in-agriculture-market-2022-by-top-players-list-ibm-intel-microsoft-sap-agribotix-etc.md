@@ -47,20 +47,6 @@ related:
         width: 1024
         height: 618
         isCached: true
-  - title: "AI in Computer Vision Market to Witness Massive Growth by 2029 | Qualcomm Technologies, Inc., Intel Corporation"
-    excerpt: "New Jersey, N.J., May 16, 2022 A2Z Market Research published new research on Global AI in Computer Vision Market covering the micro level of analysis by"
-    publishedDateTime: 2022-05-16T08:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-to-witness-massive-growth-by-2029-qualcomm-technologies-inc-intel-corporation"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "sz38cmtUhSyarBpUbEUyt/zElpJmO3UkOMlqkPgn0kz2Ggxti0P6m8msIXkSm8u9RQ8t8hFO4v2o/uYvi9tZ0CpyHmy1RQtODzRVisAUh/CnQKg70kRvepHMo59gM14DzVNtoW0+gWn03kNi/Bo3ZuhaNjPyR8RHym6XKnp92+r4DN05SSp0tvhizZLm5RUiH16EwgIkbmMzQn5BM3D4nODjksHDm495JNDgFotms1hA2wG/NRLb51z4VQInoDkT5yN8tsSymlLnCyyWQwkzpK5DTn6syOwINblZoXDtIJvZJaWNJxREU9HLOAtYGidnQj/WZrD05kYbH77OziqZ8COe3Gcy1xFLAmIgk0a0TUY=;OrFYOT5JXc4zdfAlJOP1zw=="
 ---

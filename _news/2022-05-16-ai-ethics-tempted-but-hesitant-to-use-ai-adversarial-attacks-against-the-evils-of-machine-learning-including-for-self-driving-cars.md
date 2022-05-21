@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/"
 type: article
 quality: 93
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       name: theregister
       domain: theregister.com
     quality: 24
-  - title: "What happens when things don't go according to plan for a self-driving truck"
-    excerpt: "Kodiak Robotics showcased its self-driving trucks' ability to pull over on the shoulder when something goes wrong, a critical milestone on the path toward commercial deployment."
-    publishedDateTime: 2022-05-16T08:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/kodiak-sees-milestone-self-driving-trucks-achieving-fail-safe-act"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 21
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/KODIAKNEW-MAIN_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "F7X3+uZaK7piEla0ftM6IZ1bXmBHuIOMGcR6+NHflKJTcBcZxlA3pwLMXiMyPZIFd5dVkOLwkBdKeE3Hc/4/+k0gpETIXt65XXS8uRMipvp2al5b13ntVbdiXwMjfpH8uMrt5X5jh6Td+KX+pdhBn+hR9q0SE2KQkGeRysaWsXgUdjvJQE0HHE7+r3zTriq0QH71SPCmKR6xuHWB34m5ObRbSEtrGOK4Ug8w/weiULeTfHeMmfGs2bAUONjN/NZXZYLDFjY0aJP1jGbB5xApzLdTtL55nCjT1PtaTOntrcaimE7tDYt5NG0AbPKvV3AsXCNdl3Q7f/neKOPhuUZ+9kxtHm0dI77zIFpVM2srw/vu7jS6WKBtS0PqEP1lcJnsf9GX/SIELsYj7feYWd4loVxJUHszPsAUT5Pkm1WUhQbwEuITDStqonKe/oRO1N7D1sCBW85kwIXaq1HJl32OuD07YxY5kJIElYofahrDeo1NYrxB8EDjDJ+qIvQwps1nLbOg7bgwn7sT2hZ2af7bWw==;VYMs2Vqv0RKxjiq/B/+ZeQ=="
 ---

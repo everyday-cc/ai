@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 618
         isCached: true
-  - title: "AI in Computer Vision Market to Witness Massive Growth by 2029 | Qualcomm Technologies, Inc., Intel Corporation"
-    excerpt: "New Jersey, N.J., May 16, 2022 A2Z Market Research published new research on Global AI in Computer Vision Market covering the micro level of analysis by"
-    publishedDateTime: 2022-05-16T08:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-to-witness-massive-growth-by-2029-qualcomm-technologies-inc-intel-corporation"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Agriculture Market 2022 by Top Players List: IBM, Intel, Microsoft, SAP, Agribotix, etc…"
     excerpt: "With all the current and future difficulties of the industry, the Global Artificial Intelligence (AI) in Agriculture Market trends and approaches are examined. The competitive character of the industry,"
     publishedDateTime: 2022-05-19T12:19:00Z

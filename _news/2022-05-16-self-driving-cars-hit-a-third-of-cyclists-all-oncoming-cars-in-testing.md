@@ -92,20 +92,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "What happens when things don't go according to plan for a self-driving truck"
-    excerpt: "Kodiak Robotics showcased its self-driving trucks' ability to pull over on the shoulder when something goes wrong, a critical milestone on the path toward commercial deployment."
-    publishedDateTime: 2022-05-16T08:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/kodiak-sees-milestone-self-driving-trucks-achieving-fail-safe-act"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 21
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/KODIAKNEW-MAIN_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "mPBl8/DDTCGz5bMvYNTXlv/CP/9mptKvkVWzkWOhy6X/faKFwYWP1Vff1LLZnmTE9WYq0Sg6kqJTz5Q4C0OJ0nk/xxULfgcyysCL+0vd/ujMsOxZs7xh+ITKWdrWbQRLwgr6j7KCURQEUTk6bmuGNPkYcaJQdOZJvrSAApopOlpLS9t3X0R6UEA3GNSlohoEW7m4BBL+dz4DQgawTMm14T13o66L6fMNlmbZY4Et32ja2XCsrJGXOvlvWn9bLFSXk5xN16ry8U8z4r9z5zTmSOvzownaxXIAaBE9MnpJEkqMZ5Su+ehd/F2lMLH51hi6ajDpe0rVkU52o1Iz29HICa+Wo9Lxk2W18Mml7jPg8vulqohEng/OG1vthkg+7ZQXyQmAo6IVVKMU5eCLtqlwFp66BGZ8VqBzxELF8X4EegaQlwbyufLH+LrEpapvMIFUhfrm8T0CCnkeXwB4R5zTTdIg8Dw1nab3rtyVF7KMLejSoDWSIHBzXmkV6wTmwZHxqVgi7wcU36iN8jVzES8fTA==;gbUHcb4Aelal7jzIeZQ0Mw=="
 ---

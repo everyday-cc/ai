@@ -98,20 +98,6 @@ related:
       name: theregister
       domain: theregister.com
     quality: 24
-  - title: "What happens when things don't go according to plan for a self-driving truck"
-    excerpt: "Kodiak Robotics showcased its self-driving trucks' ability to pull over on the shoulder when something goes wrong, a critical milestone on the path toward commercial deployment."
-    publishedDateTime: 2022-05-16T08:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/kodiak-sees-milestone-self-driving-trucks-achieving-fail-safe-act"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 21
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/KODIAKNEW-MAIN_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "O7crYmnwe4BYeXwt9fE2Xv0Di9ckr6xa40q88BfWjSs0Qeh8qnDJSvK+Qfh4aqDniOg+RZ3xDatkBpSVEhf8gHifum3PDM/GnKUVvX7pf9xsshR9AB6kNCEdvStb4KnKqiFEwxW9Iuc2eM9qVmXomZAztb4V/WEK/8/TLg+NwGghA83FMxNUxje9oyM8MZC0mYMgBvKbywDJgBeza9Ev8W6J7hfeSsLP/njwFR6VC6famUYyHcltjYi6YutO1gRw9Y2KHiC7x5/YuyUJfyaGLCk8vdVzxvZ2gbG4Qz3wzJJdryPkoL/XVNC6eXoKFSiPgzkuuoSEfg13+3NMAioLEKtDX+4KTO2IfeRHDGG5sf3h5mQE3cREZMWncIy75wlxw9pSUEs/WtyvaVgzx95uyOlR1cToT7K3NDJ8ToMHR2yQOzDmR2vvCpWLmTmG7PpQbZ7e6olWOpdVIyeikpU35H9joCxHuPfA0PzaGmFVEF/QxIqvex5azZ2OvxVCnQz3M0McEhMEmEDAFPc+aFceuA==;HTqrVSRECfmtaptrxg64Kw=="
 ---
