@@ -7,7 +7,7 @@ originalUrl: "https://www.benefitspro.com/2022/05/19/ethical-ai-in-hiring-makes-
 webUrl: "https://www.benefitspro.com/2022/05/19/ethical-ai-in-hiring-makes-good-business-sense/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "How To Unlock The Power Of AI In Your Business"
+    excerpt: "The need to effectively generate insights from your business data is undeniable. As per Gartner’s study on business composability, 51% of the more than 2,000 CIOs surveyed will increase investments in analytics in 2022."
+    publishedDateTime: 2022-05-18T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/18/how-to-unlock-the-power-of-ai-in-your-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "Y9bxfPJJaGSJSEkuGGM6SvkZLPWTGk4l9leyJJzwqFPi2nJySyWwOwOinLRTZQ9/odLIAWACEjEsSqaMMdh0FF7aAOf+y9H0h1zI7PzS2ciAnUfN9Jv+KqERyxvJIt43dloD0G5Z/fpxDCnMwJEwjkEIUtwLQ0s/2Ztu6ZMkHb4RuNzZtGXEXwYK73V9tYsZnfGb4/DDO9sEl4wQdczWQvg3r0GtAt8/v+tC81E8wd3a6hD2D4xmPMf9hOFXsPOdQ3Or+LGxfXxhBFGtRvN/8q09KGP8LAfzqyth+eW7FFxB4S0WAgasZMJKsjNEC/V75AlIdI9Jrs0J6uYWDe5N9clVvpEDLmdxSkhI/rmVk+Y=;ZxiAvD+EForuBn7u5ED4sw=="
 ---

@@ -26,15 +26,6 @@ images:
 
 related:
   - title: "TCS BaNCS Now Available on Google Cloud: Helps Financial Services Firms Innovate and Scale Faster"
-    excerpt: "TCS BaNCS will enable financial services firms with cloud-native capabilities to accelerate digitization and drive their growth and transformation."
-    publishedDateTime: 2022-05-16T06:05:00Z
-    webUrl: "https://www.tcs.com/tcs-bancs-now-available-on-google-cloud-helps-financial-services-firms-innovate-and-scale-faster"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 6
-  - title: "TCS BaNCS Now Available on Google Cloud: Helps Financial Services Firms Innovate and Scale Faster"
     excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) announced that its award-winning TCS BaNCS™ Cloud product suite spanning banking, capital markets and insurance, is now available on Google Cloud."
     publishedDateTime: 2022-05-17T06:50:00Z
     webUrl: "https://indiaeducationdiary.in/tcs-bancs-now-available-on-google-cloud-helps-financial-services-firms-innovate-and-scale-faster/"

@@ -38,6 +38,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "NeuroOne® to Present Its Breakthrough Technology for Monitoring Neural Activity at the H.C. Wainwright Global Investment Conference on May 25"
+    excerpt: "About NeuroOne® Medical Technologies Corporation NeuroOne is a medical technology company focused on the development and commercialization of minimally invasive and high-definition/high-precision solutions for epilepsy,"
+    publishedDateTime: 2022-05-19T11:36:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220519CL62487/neuroone-to-present-its-breakthrough-technology-for-monitoring-neural-activity-at-the-h-c-wainwright-global-investment-conference-on-may-25/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 4
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
   - title: "BioXcel Therapeutics Announces Updated Presentation Time at H.C. Wainwright Global Investment Conference"
     excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a commercial-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
     publishedDateTime: 2022-05-20T12:20:00Z

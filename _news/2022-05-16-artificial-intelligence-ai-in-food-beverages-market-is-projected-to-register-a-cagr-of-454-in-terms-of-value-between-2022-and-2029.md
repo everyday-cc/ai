@@ -33,6 +33,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Robotics Prosthetic market is expected to grow at a CAGR of 8.2% – An exclusive market research report from Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Global Robotics Prosthetic Market\"Trends, opportunities and forecast in robotics prosthetic market to 2024 by"
+    publishedDateTime: 2022-05-20T23:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robotics-prosthetic-market-is-expected-to-grow-at-a-cagr-of-8-2-an-exclusive-market-research-report-from-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
+    images:
+      - url: "https://www.abnewswire.com/uploads/1653025445.png"
+        width: 480
+        height: 404
+        isCached: true
   - title: "Global Fintech Market is expanding at a CAGR of 22.17% during the 2018-2023 period"
     excerpt: "Technology segment insights The major technologies involved in the fintech sector are artificial intelligence (AI), Blockchain, cryptography, biometrics and identity management, cyber-security, and robotic process automation (RPA). Major growth will be ..."
     publishedDateTime: 2022-05-17T06:39:00Z

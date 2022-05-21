@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Israeli Firm Hopes AI Can Curb Drownings"
+title: "Israeli firm hopes AI can curb drownings"
 excerpt: "An Israeli city is testing whether an artificial intelligence programme that detects drowning threats can help save lives off its beaches."
-publishedDateTime: 2022-05-20T19:19:00Z
-originalUrl: "https://www.barrons.com/news/israeli-firm-hopes-ai-can-curb-drownings-01653060008"
-webUrl: "https://www.barrons.com/news/israeli-firm-hopes-ai-can-curb-drownings-01653060008"
-ampWebUrl: "https://www.barrons.com/amp/news/israeli-firm-hopes-ai-can-curb-drownings-01653060008"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/israeli-firm-hopes-ai-can-curb-drownings-01653060008"
+publishedDateTime: 2022-05-20T17:18:00Z
+originalUrl: "https://phys.org/news/2022-05-israeli-firm-ai-curb.html"
+webUrl: "https://phys.org/news/2022-05-israeli-firm-ai-curb.html"
+ampWebUrl: "https://phys.org/news/2022-05-israeli-firm-ai-curb.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-israeli-firm-ai-curb.amp"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/lifeguards-in-the-city.jpg"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Israeli Firm Hopes AI Can Curb Drownings"
@@ -35,6 +41,6 @@ related:
         height: 512
         isCached: true
 
-secured: "hLGX2600ObEW0l7Js0DqEn/JG3K9DhLLQv1hjGFJIDBPwfxyvpaexv2Ob61qaixWOooL//9FrUFtj9q461tweRHcDv4FWsbC8ZE0uxEdJg2vZFpntnUcudeL5cU5l41JPH6WcQ8NNpzuz5EN89Yygt4OpeFA6dU8Vcr7ToGG03h3fDRANsphuLpttxhSbh4V32/aDVe5caXWXhpgMEHLYgEMmxX1K4R5TfZ89KZ3T3UDa8U+yysxLuXrKkb/0vzGsdoAmmoGj6RoI9t7Pk2nobTudQHc9B0baYCQf1aPNHccikpnsBjQmVdum31pY2pTxR1RcHcrjjaizAJJve9pylqMcSbAvOa1ZZ79kp09swY=;/JaHiZkVVktOxQLXN7csBw=="
+secured: "8yZaoH9Pn6fgInPOD8IiBGqZbNYgMJ0I7spY8J7kvBenmgC9sj8GwD07h6s+u5N8di6FQCwLW9Y4S307vPAjloM6aICCJV50ke3G6KbHyUDfIaW06uXApQUGYgmZ7wkR6ajRQzhdIsKR0bSDv41xWpyoD+zjV7ECSXPIYRfcMYZXmCzl/1nsGesBZf5ClZO9p3q4sCb4lXTpBrfbhjg8TWuoan2lhizH6883H/Suq93TrTmE8rNvjZMtaW3BGidoVzaCfMl24Pxdzx5nAD3M/BK/exYZi3a1vPBck7S17r4rYINWV8hfw+pq7sHejs55tfjkHcgTJrF8HjVHOk43SXyWHDUPXnDoVumO8mcfync=;q6+XBCwV5RXDUGJ9wFPyTQ=="
 ---
 

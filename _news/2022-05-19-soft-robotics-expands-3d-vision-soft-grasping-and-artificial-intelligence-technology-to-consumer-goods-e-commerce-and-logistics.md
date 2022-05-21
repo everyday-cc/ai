@@ -3,20 +3,20 @@ category: news
 title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
 excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
 publishedDateTime: 2022-05-19T14:30:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+originalUrl: "https://www.wpri.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+webUrl: "https://www.wpri.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: WPRI 12
+  domain: wpri.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
@@ -54,6 +54,6 @@ related:
         height: 271
         isCached: true
 
-secured: "g1MsFjUucr9FE7eWAfpg21RP01eeKL0MAv1rzKsZzSTNJvADmYXPRzxMd/icDXpi3rKieAb2vYBvLBBZwM1y6SDDtDqaH/tCYQDweCjvLgESf7m/CDVKyig3d5MQcipnDylAuUJXN9wBiPAIePG1TGAT5DhTIxV3TwkJht0EgdqCqiUCTMQ8bXe9jbh0V5cY6o17ufg3d0KKoT6cURS0TXap3iHqmOt43LzV9h8AuBKiwlhU/T7bpObETeCEqblIvWpFtPxgV1BS9AjyuCC79fhdo9pYzknpI9FXnwMt0+4VPn3SUZXwfVxFgdREzCqgVJpD+ldGzV63xYlZ2a0gTs6O0YVVVifYVVDgDiZROxA=;pNmxvh6dWQdJrBW9L4o9Iw=="
+secured: "rcyldozdyClB5Y/Gt6RyeKn6yOm+zbOJVf523GaFSmrqWI2Z2SPGyiHbuZLXRPPg3b7zc+FiZYgCkfO2aK7i4vv534oR3LPcVyoc9yUORa2lT6PfeNJw4jhJkD+u/FfWy+M1ieaZ5UgkT8uVfuUHB1PL0SHVkYTWVeewXC52rfyEQ5tF0gJakFLGH8f1SPVSk070Msj8LSezLL30+ecPQvpZlo1AMZirsJA5VJo2KN3Ca3kS7RlMJT4GOzcLC7/uUV+rZvmmGgwHHB4A4LY7W7ThnHkvQ4zG7zLYptUm8TJQ3+Ceai6IrIFtA5cXIlNOhGgffulHUKVeijAPKWLlbfSMoolSsRmvXSG1mzei2ao=;qFz9zFOuAmtrhn/obnpCiw=="
 ---
 

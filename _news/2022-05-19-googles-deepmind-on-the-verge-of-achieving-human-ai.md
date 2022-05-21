@@ -57,22 +57,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records"
-    excerpt: "The claim provides access to justice and a means of compensation which would not have been viable on an individual basis due to the cost"
-    publishedDateTime: 2022-05-16T06:57:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/982280/litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records-982280.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/982280"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/982280"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 78
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC8yMDIyLTA1LTE2LTA3LTMwLTM3LTcyYzk2NDY2M2VhYmJiNTE3YWIzNTg2NzgwYWZlNDkwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 740
-        isCached: true
   - title: "DeepMind’s new AI, Gato, can play videogames and control robots"
     excerpt: "While we’re not quite there yet, a new AI system developed by Alphabet’s DeepMind might have brought us one step closer. Gato is DeepMind’s latest AI that can perform more than 600 different tasks, such as playing videogames,"
     publishedDateTime: 2022-05-16T12:03:00Z

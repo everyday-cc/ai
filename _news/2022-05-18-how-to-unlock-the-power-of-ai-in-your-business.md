@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/18/how-
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/18/how-to-unlock-the-power-of-ai-in-your-business/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,29 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "How the Perfect Home Finds You using AI in Today’s Real Estate Market"
-    excerpt: "Already, Artificial Intelligence is enhancing the way brokers and agents meet their clients’ home-buying needs. Computer algorithms today are capable of screening millions of documents within seconds for everything"
-    publishedDateTime: 2022-05-16T05:55:00Z
-    webUrl: "https://www.geekwire.com/sponsor-post/how-the-perfect-home-finds-you-using-ai-in-todays-real-estate-market/"
+  - title: "Ethical AI in hiring makes good business sense"
+    excerpt: "By quickly and efficiently analyzing large volumes of data, AI significantly reduces the time spent recruiting great potential candidates."
+    publishedDateTime: 2022-05-19T13:18:00Z
+    webUrl: "https://www.benefitspro.com/2022/05/19/ethical-ai-in-hiring-makes-good-business-sense/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 47
-  - title: "How Top-Rated Denver Marketing Agency, Anew Media Group, is Transforming Aurora, CO, Home Services Marketing Using AI Technology"
-    excerpt: "In the age of rapidly changing technology, working in a fast-paced world demands up-to-date marketing solutions, which Anew Media Group"
-    publishedDateTime: 2022-05-20T17:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/how-top-rated-denver-marketing-agency-anew-media-group-is-transforming-aurora-co-home-services-marketing-using-ai-technology"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/CCC-2-1-e1652987116472-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 34
 
 secured: "3f5ImoObE4Yzy5zS0shgUjiAADbUhzvxkbIj4ukHKkquXLO41PjscK9yuJLXfKDgpXyXXAz7kGjeoX4CuGws+ryfdvM2JzISh1tmyE9AwZAbsBTrujObWY7uu8/Qm0ymdfuGmhgYcMDgiGZxjyeIk9bIMgSWS5XAfMsOXmOl/2THXuTWGT12uU1UCavPPfp4BnwgJjZPsuYSPZ5VM7aLojWznDylHV9fEe7pJzqAu9aWlyiiCzFLw92WwkuUsQ6j+Q42yukXapjIgAcPGhLn43CzSRfrNbv8MlcbcIFLr38Jn8/C0kgDLM85enQSy9a39VckJhFkxx3JFa2I+wbK7Id5p1xv43Fa72hV5LKQumU=;fKyywpDv7tiNfin88iQkng=="
 ---

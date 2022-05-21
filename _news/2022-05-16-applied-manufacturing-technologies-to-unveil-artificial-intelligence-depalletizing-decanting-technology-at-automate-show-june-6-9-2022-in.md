@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "PolyU’s Pioneering Technologies in AI, Materials Science and Biotechnology Awarded at TechConnect 2022 Innovation Awards"
-    excerpt: "HONG KONG SAR - Media OutReach - 19 May 2022 - The Hong Kong Polytechnic University (PolyU) has won three prestigious global Innovation Awards in the areas of"
-    publishedDateTime: 2022-05-19T11:50:00Z
-    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/05/19/polyus-pioneering-technologies-in-ai-materials-science-and-biotechnology-awarded-at-techconnect-2022-innovation-awards/138343"
+  - title: "How Top-Rated Denver Marketing Agency, Anew Media Group, is Transforming Aurora, CO, Home Services Marketing Using AI Technology"
+    excerpt: "In the age of rapidly changing technology, working in a fast-paced world demands up-to-date marketing solutions, which Anew Media Group"
+    publishedDateTime: 2022-05-20T17:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/how-top-rated-denver-marketing-agency-anew-media-group-is-transforming-aurora-co-home-services-marketing-using-ai-technology"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 12
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
     images:
-      - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-        width: 1200
-        height: 630
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/CCC-2-1-e1652987116472-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "3f0xHQn1D6DVd4Mxw6iefRVUAcQEq2YLprexcQ2soBt8eM6S1nU+dVE9isqSBHmogd/tXI+Gvc5xWAGDdQ3W52yjvT5EjxtOoEQTx8nW/moAGEpy5tWkP6km7NBjqDu08O9vOWx3bE6z7Ujl00ppIvRd/7ZcuWJaHBmMN4HpsyXtXjQgUq8mu2CRnie4Q4Gv/7QF/QBCXOFsTDLnSnsyek/yqaG/kxjg3T5eTydILm2TxcIn72o6vfFSmiUCxUQcLB72LrSxkGOzFLs2VA303ISclyqYyGDpG3QdqJj4Onst55vSEPXEmhPdiHmcRvHy5zflyFc2Y/u5eMSP/Ujsxac0y4Jzp5JC6jQ9KdTYd0A=;+tF2jnYp7ZnLTUaDX7qJwg=="

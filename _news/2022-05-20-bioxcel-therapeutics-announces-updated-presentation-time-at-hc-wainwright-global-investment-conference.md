@@ -47,6 +47,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "NeuroOne® to Present Its Breakthrough Technology for Monitoring Neural Activity at the H.C. Wainwright Global Investment Conference on May 25"
+    excerpt: "About NeuroOne® Medical Technologies Corporation NeuroOne is a medical technology company focused on the development and commercialization of minimally invasive and high-definition/high-precision solutions for epilepsy,"
+    publishedDateTime: 2022-05-19T11:36:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220519CL62487/neuroone-to-present-its-breakthrough-technology-for-monitoring-neural-activity-at-the-h-c-wainwright-global-investment-conference-on-may-25/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 4
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
 
 secured: "qRtJqM9oyLFblV1CMKyKlfz1zhCnqGqbMANNIHyvILuh77qgvlIE0PeUnKmEnT+ssLcy/l3f0XR4wTOhTlheMk8fQtTwWlBWRJxFjOE6iqecmup/lkIazZZ8tuSU1gPHRDJoFWgedSDmbTCmMThlJW6pPHTMf0yeoJgLCrOqxD6u6m/xGeKJTmFxSLFymDP7c+7j7bENGQGJ9OA8TPybKMD7Tu1TU+Hmuc1PUHC/BBk8cIC9/4uecI8LzwszGaWfCA9rzPhl1ivWYL4QSpvy7Azh4XczI8F/tCNGelORTpxeZkxrwolXOTVgStU0YgBs/H5YwELrUhxqCnNOspFIHvRal/FxOXarf6knS7AV9Y4=;3RP6UKDUlWMSEY1Ik6G05w=="
 ---

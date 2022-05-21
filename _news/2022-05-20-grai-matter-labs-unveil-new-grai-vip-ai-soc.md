@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-20T10:15:00Z
 originalUrl: "https://www.geeky-gadgets.com/grai-vip-ai-soc-20-05-2022/"
 webUrl: "https://www.geeky-gadgets.com/grai-vip-ai-soc-20-05-2022/"
 type: article
-quality: 19
-heat: 19
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/05/GrAI-Matter-Labs-sparsity-native-AI-SoC.jpg"
+    width: 700
+    height: 484
+    isCached: true
 
 related:
   - title: "GrAI Matter Labs Unveils Life-Ready AI with GrAI VIP at GLOBAL INDUSTRIE"
@@ -29,6 +36,6 @@ related:
       domain: morningstar.com
     quality: 18
 
-secured: "P1Ph2HmzcS9wHe7Ra3W/0jytU1jLhccRw71c1hZMvgY2PFuD5kQyo8i3p4jt8bz9BQGvIm7qHg+pxe8FXyRfcn+5DIyJan+U3udpoEl9+zAiFKThPkgNbPLjCb2p47dc+3lohX5oLT7PswdLe3imLVUECdz8YyytZrWfK2gpz1nv098v3H0nCfqxDG7nXRJBvrX6ZH884vvD46u8Tf5I/5qRu9Rqyu7koTQiaAonsLfp1K0CNThwbWOyGpganBw2tdP89XvU+7D/66Ev3hmqQtjYqeH5bLf0M1YiOOZJWGMdOhttC3+nFXhbLQ08TKh/NgfnzqCfVLOJeDDy1hBydaYXg+e7VQBGv5Fq0But8S8TiMfHjNQo4ggbMptuuXIa1zhcR5Y+sfhhuHJdys0TvFZNi7EKI7JHpdKFkWBNfETgWH/skbudC20SAhaatVMiMUL571NPYzr/agEFYJby4dal6DjWx+gJDOiQyqk6KFg7pmJJMyFMdK83uJajpG+ZZY1SAPSKYYYT/i9hQP/DAg==;FMnVjFK6TbU4LjasGGJBfQ=="
+secured: "nYdWKIw+56IRzOVG3GfQiENgApsrS1Ffz/fw2me2jAUHGA+ZvMdl25+sUGq0I4U7MuxV4VMW5tXwOiZGEjbdj7yeSnCkVG556lr1sqMhtMgQ3f1VNTFwPNxAlrHYs+pgVbOA7OFs3zx3uruAfPxEA7gYPUl33z15DFHTCc3TRaAmwE2LdOXxP0IFbiNr8rxmWLFBweL+6hMXMmXDQSBetx/HGl/ftfhUHGTReQEMUy5TyUb471tqUbC8jaqGtbnTV+bENL5ZFfpEQeadf2t0m7VDIXmO2i1y3NSJkHzpR/GDg+e2CIpbl08/tF8uYvuWMK13UaT5lNcG97i9PqssEZb1B8daQFv0I43+MgseDy0=;QMiOq01xoC1zDcjbzT08dw=="
 ---
 

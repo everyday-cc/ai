@@ -27,7 +27,12 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 19
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/05/GrAI-Matter-Labs-sparsity-native-AI-SoC.jpg"
+        width: 700
+        height: 484
+        isCached: true
 
 secured: "bYSDVZkl7iksKWuy6q98MB2Of7m22Figf2yeQfIyjdKHKqbZJBEUgPdAvilKDJCRcUq2Yyu4+3FZzhRHrGgxRFa1gJQ8YjirfuZ74u/Bstz+qJ8IVCyh4I8cbo866y/bRStt0+cmlji3R44POa5z+j4NqGEerHWi3EopdzUXEEQCKqCPKY2zxxLgQvFWZQnkvscGewrfFiHpk+3mkszY/iAGD2VaO0TRaa9ZIKGnCg4tSbNhW7SP/bsiVj3dKOPydSPq9aWEaNIvL+eRQIzQJeMNGAKyhZR7zW64MrhPbmFYP3rn3ngSsCFfZDufjP1hvTkr6brx+lxazTdoTRbYL/6iCnt4v8tBn57sCvQzd7PI9u0+mDZZY+ARd47OkyoVQpdMu65e3rKaaVks6FaQbu9A2Up5Q8J+L1QbPQs+zUy9I1OEt+MS/+bFl7DEFPXrsllryu0FwoYIIhS8gT3CLYw0RhoNqShpKm1GoraelHhu36SbcXlChXdO8402Xb7+gvDoIGhTz7JJWeKHa8b7uA==;Dd88qhRAc50tFKGX1z3SKA=="
 ---

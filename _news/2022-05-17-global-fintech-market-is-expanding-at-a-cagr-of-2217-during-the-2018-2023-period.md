@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Robotics Prosthetic market is expected to grow at a CAGR of 8.2% – An exclusive market research report from Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Global Robotics Prosthetic Market\"Trends, opportunities and forecast in robotics prosthetic market to 2024 by"
+    publishedDateTime: 2022-05-20T23:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robotics-prosthetic-market-is-expected-to-grow-at-a-cagr-of-8-2-an-exclusive-market-research-report-from-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
+    images:
+      - url: "https://www.abnewswire.com/uploads/1653025445.png"
+        width: 480
+        height: 404
+        isCached: true
   - title: "The Europe hyperscale data center market is expected to grow at a CAGR of 6% during the period 2022–2027."
     excerpt: "Reportlinker.com announces the release of the report \"Europe Hyperscale Data Center Market - Industry Outlook & Forecast 2022-2027\" -"
     publishedDateTime: 2022-05-18T07:30:00Z

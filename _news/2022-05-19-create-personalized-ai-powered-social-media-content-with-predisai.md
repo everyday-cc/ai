@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
-excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly. PUNE, India , May 19, 2022 /PRNewswire/ -- Social media has"
-publishedDateTime: 2022-05-19T12:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27297790/create-personalized-ai-powered-social-media-content-with-predis-ai"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/n27297790/create-personalized-ai-powered-social-media-content-with-predis-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/27297790"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27297790"
+excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly. PUNE, India , May 19, 2022 /PRNewswire/ -- Social media has brought about a revolutionary change in the way of life and Predis."
+publishedDateTime: 2022-05-19T12:06:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-india-social-media-aa5c53006200808283c597860d13c9f8"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-india-social-media-aa5c53006200808283c597860d13c9f8"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Forma AI poised to grow AI-supported sales compensation management platform"
@@ -158,6 +162,6 @@ related:
       domain: businessinsider.com
     quality: 35
 
-secured: "boplXRWvnVAqbRAauW3AZcyJUViez5X1HfSkcQLP8TIqoDCiVmun3sZgG8ZR/6HQZctD1/ItnVXtGI7aRoovtBM374EAnpOexPInXGo465lszzib/S3jRA9MhZambD80KdpUxOgVqlW1300Y/2Gq7Vt/iDWAFocRH+klD49kXl3k1Sld7+Us0Xz5rPy+hAvrPK31TCt+jfkSR8Q2dF0R4scA95Lp8zri8HNWbNrOJLC3H5AkZDoUTXZt8ZRUaC/BIBs4qVDdsygylcmxP8wCkGRAFrrNBqgUiasThZq67ScArxfVhowQPQna+ebazPz8B9qAbZDIpl4zJup1kkI+tYf5e9Kc7xpWN1JtZHHg4zU=;oSg6qb1n/9HFHxzPmX+LXw=="
+secured: "MIKkRY/Mgff/JSjPRXMyXu5RXANjLlkUYSLwIQR3BKNKGJ0yxcaPKlLLI8L2vO0hKTorvbYuS2HL6h8A0lYNuJSH1wQjuzEBzQvtwjKM2bAcnSoH7gnQmFCxdaNlgU1tJqz5T5Lc49kG/99f5BgMLUL7s7ijO3KQqSK2awZVt/ej5vCKpgq28COvsT6vONGFAAlkiwIBVJF1iqtWGsYJlWMvpkVijwPEBqkexn/qA385nnvuu4zF2SRAciuWnK9xIKCPHxeGk8djEGqisZd21SG61CeZjfhqVU5iCntZ+ott8gsOz4NTZHdLfKXGFkxnbcDHw5GtdwpLwoKYWSCQwkzKNw2VP+wYX09I3X5jQAw=;zk/wEgd36aa3smw+PymVZQ=="
 ---
 
