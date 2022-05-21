@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/emergence-of-self-driving-cars-d
 webUrl: "https://www.digitaljournal.com/pr/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market%EF%BF%BC"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -29,30 +29,16 @@ related:
   - title: "China homegrown self-driving chips gaining ground in EV market"
     excerpt: "China's homegrown high-end autonomous driving chips have seen a significant breakthrough in commercial applications, as Chinese AI chip startup Horizon Robotics has over the past month cut into the supply chains of both BYD and FAW Group with its latest automotive-grade AI processor,"
     publishedDateTime: 2022-05-20T06:30:00Z
-    webUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=10"
+    webUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=13"
     type: article
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 39
+    quality: 54
     images:
       - url: "https://img.digitimes.com/newsshow/20220520pd201_files/1_2b.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Mining Market: Top Driving Factors That Could Escalate Market Growth Worldwide, Report"
-    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources to reduce waste drives the growth of the market. In addition, autonomous mining equipment equipped ..."
-    publishedDateTime: 2022-05-19T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-top-driving-factors-that-could-escalate-market-growth-worldwide-report"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "vUxs5O5gB2U4w2hPHZDKtmc2s+2C/a7Lo20ox5a/MKUCaG7HENFABKLVQk6bbJ6rwqcYCQNl3SCeT+WDKCXCaQARqExts8mfOzxKz7l3J+JSU1O1TEI0cvRNEPNgoqWqTOC+mHfmI4dGOl2iGQBmTtTdfSeJbT3WijHsERP1ncruThGT4bsikOen0fuhY8/eDr4BN0yIHt+D35Hu3XFHaPLK3DyF37DUudM/7U1vpB5OcH3cFx+F68Kh1LiVXdLm1dKWd/9Xt+vnngXVIlVMXaezFdWBTJybZhxkXnxZui4YGGB0MdLtabNzcc6yHtPLkODKWMH3iz4RQvILkPmbgCGdJSMD2dmgUaPDL1ki/BE=;TMvVWE1yAyZEBuK6v4M5MQ=="

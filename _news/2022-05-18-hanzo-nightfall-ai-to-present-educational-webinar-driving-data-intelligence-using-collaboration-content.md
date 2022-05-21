@@ -7,7 +7,7 @@ originalUrl: "https://www.koin.com/business/press-releases/globenewswire/8545209
 webUrl: "https://www.koin.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intelligent Automation, AI & Operational Excellence Leader Joins Process Intelligence Platform Leader Skan"
-    excerpt: "Skan, a leader in the Process Intelligence solution industry that provides unprecedented insights into how organizations get work done, has appointed Vinaykumar (Vinay) Mummigatti as Executive Vice President of Strategy and Customer Transformation."
-    publishedDateTime: 2022-05-20T13:33:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c9f53279b8a31d2f6c2f109fb8f2259e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
     excerpt: "Hanzo, a technology pioneer in preserving, collecting, reviewing, and exporting dynamic, complex collaboration and web-based data, in partnership with Nightfall AI, the first cloud-native extensible data loss prevention (DLP) platform,"
     publishedDateTime: 2022-05-18T23:04:00Z

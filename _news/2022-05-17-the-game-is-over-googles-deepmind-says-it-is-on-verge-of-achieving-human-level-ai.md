@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’"
-    excerpt: "A DeepMind lead researcher made the bold claim that the company's newest AI was a 'game over' product for AGI research."
-    publishedDateTime: 2022-05-16T22:30:00Z
-    webUrl: "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over"
+  - title: "Is DeepMind's Gato AI really a human-level intelligence breakthrough?"
+    excerpt: "DeepMind has released what it calls a \"generalist\" AI called Gato that can perform 600 tasks – but does this mean it is truly intelligent?"
+    publishedDateTime: 2022-05-19T17:00:00Z
+    webUrl: "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/"
+    ampWebUrl: "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 77
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FscalingAI.jpg&signature=9bc3b164454b20146d307326beb8c1b3"
-        width: 1280
-        height: 640
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/05/19153919/SEI_104918089.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 801
         isCached: true
   - title: "‘The Game is Over’: Google’s DeepMind says it is on verge of achieving human-level AI"
     excerpt: "To keep your finger on the pulse with major breaking news developing around the world sign up to our free email alerts Human-level artificial intelligence is close to finally being achieved, according to a lead researcher at Google’s DeepMind AI division."

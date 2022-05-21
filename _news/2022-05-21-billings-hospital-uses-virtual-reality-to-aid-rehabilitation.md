@@ -1,20 +1,56 @@
 ---
 category: news
 title: "Billings hospital uses virtual reality to aid rehabilitation"
-excerpt: "Laurie Brown tries out a virtual reality rehabilitation tool during an open house at the Rehabilitation Hospital of Montana in Billings on Wednesday, May 18,2022. The hospital use"
-publishedDateTime: 2022-05-21T13:04:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
+excerpt: "Dr. Jose Ortiz counted the minutes he spent in the back of an ambulance transporting him from Red Lodge to Billings. Timely treatment is imperative to"
+publishedDateTime: 2022-05-21T12:10:00Z
+originalUrl: "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.html"
+webUrl: "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.html"
+ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html"
+cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html"
 type: article
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
-  - Computer Vision
+  - AI in Healthcare
   - AI
 
-secured: "seF49hsRpuSz4J86fueSq0mV+VADHea40hhRdLKZN0I5dL0030Cz125NqB17jiHOmvID+J6rnBU9hpLfw/FOC2NUCUh4atMDEJZq5EHi+QOcPLkSU9L0ECEHd2MpRbGoJFJvTrf+M/igAMIKLOSd6llOZwFXzbOieDtwpxUdvtgSAIafbo4M7TSzXPuoX/UVvyQMIdmzXu4+ECPSDpPO3TdKH9ZUagruhIxZ4krERVP0+x1mdP/p9ic5ePN0OLm7I5mSvApZpVLvLZCMrmyrmN3Ys9ZwHOq5/07p8bOu9eBmsN6kOHpbe3zHT8WyiW46fxRtEUMLuXITgbpOFjShYHWjtuxVqNhJA1a+kNAfpoUKQaW6eSlSD4ahMFSZy446i0V9/AYVVAtxCB01liy+xSaLeYGyIPRkscgFVf0FwWXHGJl10SuLEYjrYAMa7SWMLWcerGWa24dHnBVwP9z+H6KKAs4kzmYe1zvfa/hQnSjR0ZvecFx7pEeZ1VRaWXVMc39W1nlyV4VRyB4uFsLOtA==;SkFVrZD/Irn1q6Og5Uk/kQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/6/f5/6f5cfa36-9330-50ea-a0ab-8da7f6797d63/6288d8787cf4a.image.jpg?resize=1024%2C683"
+    width: 1024
+    height: 683
+    isCached: true
+
+related:
+  - title: "Rehabilitation Hospital of Montana incorporates VR and AI technology into patient care"
+    excerpt: "The Rehabilitation Hospital of Montana is now the first and only facility in the state to utilize VR and AI to deliver immersive rehabilitation training and patient care."
+    publishedDateTime: 2022-05-18T23:30:00Z
+    webUrl: "https://billingsgazette.com/lifestyles/health-med-fit/rehabilitation-hospital-of-montana-incorporates-vr-and-ai-technology-into-patient-care/article_62867ac2-d700-11ec-ade8-d7fc92301baf.html"
+    type: article
+    provider:
+      name: Billings Gazette
+      domain: billingsgazette.com
+    quality: 31
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/6/28/62867ac2-d700-11ec-ade8-d7fc92301baf/6285815a2918c.preview.jpg?crop=1250%2C656%2C368%2C199&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Field Robotics for Remote Patient Monitoring and Rehabilitation: Pandemic and Beyond"
+    excerpt: "Worldwide, healthcare systems are at threat of overloading and incurring unmanageably high costs. Healthcare and rehabilitation facilities are not always accessible to frail older adults in rural and underdeveloped areas."
+    publishedDateTime: 2022-05-21T07:10:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/37642/field-robotics-for-remote-patient-monitoring-and-rehabilitation-pandemic-and-beyond"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 27
+
+secured: "NMoRoquikuA5rUXsyVWQcJiZMBwob+LZtw48dduIN8hxetWl+N7l/kgwdoqygxo5Me4IqDOYtAmqHNKWWKMCFwJ0SLLiBKAEDrAp/pZG0kXY6z1dWSQWpu+NcCwW+hS235MqIW57AePQLrHKyMg7OjLMVSHaQ46Bt86ipyMuo0a8P3Bls2c9rfJiQ82Ujz82ewcrL6VY8vdapHLXsYzi0sx8FgLetTEf+oby+Y+qJHeJiCIZ2HMQJ2/7nh2IiVsgO4jeGjaEPFMoMYChixoWwRRGP7fMbrr+2dxkjILbiZ6IL/4jxZ54EL+UxZ1TmbsRGIvChEyyg7LcAUWLYV0PSJjr0W0FkVGgLB6na7uOCs0=;oDTcvJeFF/UwWDWXN0dT7Q=="
 ---
 

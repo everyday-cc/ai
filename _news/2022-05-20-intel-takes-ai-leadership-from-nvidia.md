@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 604
         isCached: true
-  - title: "Nvidia LaunchPad lowers AI’s barrier to entry through a hands-on approach"
-    excerpt: "Nvidia Corp. bridges this gap through LaunchPad, which offers businesses foundational skills such as developing an AI practice and getting it into production, according to Justin Boitano (pictured, right),"
-    publishedDateTime: 2022-05-16T20:37:00Z
-    webUrl: "https://siliconangle.com/2022/05/16/nvidia-launchpad-lowers-ais-barrier-to-entry-through-a-hands-on-approach-rhsummit/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Tushar-Katarki-and-Justin-Boitano-Red-Hat-Summit-2022.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "NEC Selects DDN and Nvidia for AI Research Supercomputer in Japan"
     excerpt: "High performance storage company DDN today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research. DDN said the system will have a raw compute performance of 580 PFLOPS,"
     publishedDateTime: 2022-05-18T18:58:00Z

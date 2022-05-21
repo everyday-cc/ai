@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
 type: article
 quality: 87
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is improving the web for the visually impaired"
-    excerpt: "Join AI and data leaders for insightful talks and ... But when it comes to text on a complex background like an image or a gradient, things start to get complicated and helpful tools are rare."
-    publishedDateTime: 2022-05-19T21:09:00Z
-    webUrl: "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/"
-    ampWebUrl: "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all"
-        width: 1200
-        height: 603
-        isCached: true
   - title: "How AI-driven robots and drones bring cognitive intelligence to Industry 4.0"
     excerpt: "The robots, drones and cameras that inspect machines to perform predictive maintenance and relay analog information to operations staff can now function autonomously. Even better – the longer they’re at their jobs,"
     publishedDateTime: 2022-05-17T15:05:00Z
@@ -56,27 +40,11 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 101
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/05/AI_robots.jpg?w=1200&strip=all"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Lack of strategy, skills biggest barriers for AI adoption in India"
-    excerpt: "Another greatest barrier to successful AI adoption is limited skills, expertise or knowledge (38 per cent) for organisations exploring or deploying AI in the country. \"As the adoption of AI grows ..."
-    publishedDateTime: 2022-05-20T10:54:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91687803,imgsize-53448,width-1200,height-628,overlay-etcio/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
     excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
@@ -92,47 +60,20 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Roundtable: The Impact of Artificial Intelligence in the Region"
-    excerpt: "In partnership with Google, AS/COA will host a conversation with experts from across Latin America developments in the artificial intelligence space."
-    publishedDateTime: 2022-05-18T20:31:00Z
-    webUrl: "https://www.as-coa.org/events/roundtable-impact-artificial-intelligence-region"
+  - title: "Intelligent Automation, AI & Operational Excellence Leader Joins Process Intelligence Platform Leader Skan"
+    excerpt: "Skan, a leader in the Process Intelligence solution industry that provides unprecedented insights into how organizations get work done, has appointed Vinaykumar (Vinay) Mummigatti as Executive Vice President of Strategy and Customer Transformation."
+    publishedDateTime: 2022-05-20T13:33:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c9f53279b8a31d2f6c2f109fb8f2259e"
     type: article
     provider:
-      name: Americas Society
-      domain: as-coa.org
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
     images:
-      - url: "https://www.as-coa.org/sites/default/files/styles/event_hero_836x576_/public/AdobeStock_DataServers_1250.jpg?h=fef4d8e8&itok=VIMWt9hv"
-        width: 836
-        height: 469
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Finding the Fairness in AI"
-    excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
-    publishedDateTime: 2022-05-17T15:09:00Z
-    webUrl: "https://cacm.acm.org/news/261047-finding-the-fairness-in-ai/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
-  - title: "IBM looks to address AI adoption challenges"
-    excerpt: "In today’s hybrid cloud reality, distributed data holds the key to unlocking value through new business and operational insights. However, according to the “Global AI Adoption Index 2021,” conducted by Morning Consult and commissioned by IBM,"
-    publishedDateTime: 2022-05-19T09:34:00Z
-    webUrl: "https://it-online.co.za/2022/05/19/ibm-looks-to-address-ai-adoption-challenges/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 17
-  - title: "The power industry found it harder to fill artificial intelligence vacancies in Q1 2022"
-    excerpt: "Artificial intelligence-related jobs that were closed during Q1 2022 had been online for an average of 35 days when they were taken offline. This was an increase compared to the equivalent figure a year earlier,"
-    publishedDateTime: 2022-05-18T13:03:00Z
-    webUrl: "https://www.power-technology.com/analysis/the-power-industry-found-it-harder-to-fill-artificial-intelligence-vacancies-in-q1-2022/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 9
 
 secured: "QkpkFesBnUmvL+H2ZywCGv3OFWkFj8Pz8gkC/d+VQmAo0VkkDuGD4GiKvAfIvkwacCQPd9HFT4mVf5lOudxrXa67+B4inwnPaSPY9bANyLricHWq7Jr06PUwbuzi0oa+pMCcY6QigIRbp/Ss1IX7TuZtNZwNYB9fd7s6uxdpkwC9PhmfZTRSAkzcFFl0y+lFo7gRpmRstfQ4KnRyO+WyrLE/nISiZgr1M21AHq85WOD2r8k2gr2lVxIF6dGgbTrJCbAhKu0AKySQ3Sx1r5531S/Y/vmTAD9Oa0u6/jzd+o1oulcPRCZACtATblmW3TkFesYM6VxIyuy6+wF5534yfjk21/zqCNUrLVPOH/XycI52PSJi7UzBJKym+97uRN1TeAI5UoEplENscQ/cH3kQytidMJKLr/gZCIcnUJphaJvYVmJD6cvTSw4x3Qld5MfkmQgP9H1JVECnZSjMWDP8t0/oHr2uWqANUEyb3GIhZz41sUGF2P/t8tXZvbMTbJ7wuwkWUWlpfgi0bLuwZO4Osw==;8/sjQN3gphDbIY1eeyl9QA=="
 ---

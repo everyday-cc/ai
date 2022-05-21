@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-21T12:30:00Z
 originalUrl: "https://richmond.com/business/local/labor-law-employment-discrimination-and-artificial-intelligence-employers-beware/article_9123d995-c735-5dd8-ba4f-54bec83f3144.html"
 webUrl: "https://richmond.com/business/local/labor-law-employment-discrimination-and-artificial-intelligence-employers-beware/article_9123d995-c735-5dd8-ba4f-54bec83f3144.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Richmond

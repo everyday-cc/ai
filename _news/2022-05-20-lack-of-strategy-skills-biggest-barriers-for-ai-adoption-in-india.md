@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,109 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Adoption Can Impact The Insurance Industry"
-    excerpt: "But today, he is a strong proponent of artificial intelligence (AI). At a TED talk in 2017, Kasparov said, “Machines have instructions; we have a purpose. We will need intelligent machines to help us turn our grandest dreams into reality.” AI is all ..."
-    publishedDateTime: 2022-05-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
+  - title: "Alternate Credit Scoring Can Further Financial Inclusion In India. Read Here For Details"
+    excerpt: "To empower the ‘credit invisible’ customers and bring them into the formal financial fold, the way financial institutions assess creditworthiness needs to undergo a sea change. Alternative credit scoring that uses smartphone data is the way forward toward greater financial inclusion."
+    publishedDateTime: 2022-05-21T02:32:00Z
+    webUrl: "https://www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707"
+    ampWebUrl: "https://www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 50
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//614e19843adfdba049044453/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1647829989.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "How AI is improving the web for the visually impaired"
-    excerpt: "Join AI and data leaders for insightful talks and ... But when it comes to text on a complex background like an image or a gradient, things start to get complicated and helpful tools are rare."
-    publishedDateTime: 2022-05-19T21:09:00Z
-    webUrl: "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/"
-    ampWebUrl: "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all"
-        width: 1200
-        height: 603
-        isCached: true
-  - title: "How AI-driven robots and drones bring cognitive intelligence to Industry 4.0"
-    excerpt: "The robots, drones and cameras that inspect machines to perform predictive maintenance and relay analog information to operations staff can now function autonomously. Even better – the longer they’re at their jobs,"
-    publishedDateTime: 2022-05-17T15:05:00Z
-    webUrl: "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/"
-    ampWebUrl: "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/AI_robots.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
-    excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
-    publishedDateTime: 2022-05-18T08:33:00Z
-    webUrl: "https://www.finextra.com/blogposting/22305/five-ways-artificial-intelligence-in-fintech-is-changing-the-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Roundtable: The Impact of Artificial Intelligence in the Region"
-    excerpt: "In partnership with Google, AS/COA will host a conversation with experts from across Latin America developments in the artificial intelligence space."
-    publishedDateTime: 2022-05-18T20:31:00Z
-    webUrl: "https://www.as-coa.org/events/roundtable-impact-artificial-intelligence-region"
-    type: article
-    provider:
-      name: Americas Society
-      domain: as-coa.org
-    quality: 37
-    images:
-      - url: "https://www.as-coa.org/sites/default/files/styles/event_hero_836x576_/public/AdobeStock_DataServers_1250.jpg?h=fef4d8e8&itok=VIMWt9hv"
-        width: 836
-        height: 469
-        isCached: true
-  - title: "Finding the Fairness in AI"
-    excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
-    publishedDateTime: 2022-05-17T15:09:00Z
-    webUrl: "https://cacm.acm.org/news/261047-finding-the-fairness-in-ai/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
-  - title: "IBM looks to address AI adoption challenges"
-    excerpt: "In today’s hybrid cloud reality, distributed data holds the key to unlocking value through new business and operational insights. However, according to the “Global AI Adoption Index 2021,” conducted by Morning Consult and commissioned by IBM,"
-    publishedDateTime: 2022-05-19T09:34:00Z
-    webUrl: "https://it-online.co.za/2022/05/19/ibm-looks-to-address-ai-adoption-challenges/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 17
-  - title: "The power industry found it harder to fill artificial intelligence vacancies in Q1 2022"
-    excerpt: "Artificial intelligence-related jobs that were closed during Q1 2022 had been online for an average of 35 days when they were taken offline. This was an increase compared to the equivalent figure a year earlier,"
-    publishedDateTime: 2022-05-18T13:03:00Z
-    webUrl: "https://www.power-technology.com/analysis/the-power-industry-found-it-harder-to-fill-artificial-intelligence-vacancies-in-q1-2022/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 9
 
 secured: "S3S9RFlog9CbKbhsEyTgFlul4UO1/cpNyKhZGFHv4/j1H9wkodXIRuaOQasDWCKI0W/YUaX9I5Y+cbMmWU3KLNn7OjN3OFTVU8MkKakiVrG8LzGNrOdDRugQ39AQSmgYMM3zlHardvg7JOr5FMl3k15z7l49J5B8YGK1QjyNOHspY1zQiMkUTJNvRLPdOiaorbUh5dhPiVfgIVGAzGKi5KteVfDFR+L7uxJRyN87Y0VzhAaKGNcKXXNTaHG9IHZfOdegl3tILn3aF+jZvsL9KNEKqGAmzRtcJKlLlQtzf2Y+th7FsiOwUoa9ffTF3A+9n1b4t7qPmN6jNlqLO7m0C7qa7GBIVvD/zAeoaGoZi1I=;QbRmWrqdL7sP3KVZXNDkBw=="
 ---

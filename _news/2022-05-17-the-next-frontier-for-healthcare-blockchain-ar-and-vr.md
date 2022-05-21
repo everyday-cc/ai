@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/425443"
 webUrl: "https://www.entrepreneur.com/article/425443"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "A New Cyber-Alliance of Artificial Intelligence, Internet of Things, Blockchain, and Edge Computing"
+    excerpt: "The world is witnessing an accelerated large-scale technology adoption with transformative effects on day-to-day operations, with many industries now depending on machine-controlled processes. These technologies include blockchain,"
+    publishedDateTime: 2022-05-21T15:56:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9773125/"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 18
 
 secured: "oq7HQeac5Ywu+BmRolNYKdCvrWHyQpczXMuvKifF81ZFf4kWkGkNqv4aFDvUBgwycNA5hMmgOjRQWmVA9YRTEmWWQNdsyS4gqOg1tqVE0UldzWulg7JCrHy5WjjPJWM6ue63A71P/u12F7gK0a+alnEYj4OGsWyMGrSae7/x3axUyAOyyhlVh+mGU7USDdyxjeazEWqMmHTOSTUFWjFMHeNJMNLZQ7Nez7Wt3PP60VHNL9YPrGfmxC/VlDmMnsnr/RUm6wOe16XGxFb1pzG1lgCJ4mz1T1yK7VIwuhA7EbK++JuS26jYM4ynPdCZWEFVTLPQTWQUrjFZkBPXSaUm6MtDCQPY+6vgmyX4oOVKgu8=;TRx2WMc+gfagHkayGMcqvQ=="
 ---

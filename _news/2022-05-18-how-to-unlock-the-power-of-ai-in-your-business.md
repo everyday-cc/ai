@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "The power industry found it harder to fill artificial intelligence vacancies in Q1 2022"
+    excerpt: "Artificial intelligence-related jobs that were closed during Q1 2022 had been online for an average of 35 days when they were taken offline. This was an increase compared to the equivalent figure a year earlier,"
+    publishedDateTime: 2022-05-18T13:03:00Z
+    webUrl: "https://www.power-technology.com/analysis/the-power-industry-found-it-harder-to-fill-artificial-intelligence-vacancies-in-q1-2022/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 9
+
 secured: "3f5ImoObE4Yzy5zS0shgUjiAADbUhzvxkbIj4ukHKkquXLO41PjscK9yuJLXfKDgpXyXXAz7kGjeoX4CuGws+ryfdvM2JzISh1tmyE9AwZAbsBTrujObWY7uu8/Qm0ymdfuGmhgYcMDgiGZxjyeIk9bIMgSWS5XAfMsOXmOl/2THXuTWGT12uU1UCavPPfp4BnwgJjZPsuYSPZ5VM7aLojWznDylHV9fEe7pJzqAu9aWlyiiCzFLw92WwkuUsQ6j+Q42yukXapjIgAcPGhLn43CzSRfrNbv8MlcbcIFLr38Jn8/C0kgDLM85enQSy9a39VckJhFkxx3JFa2I+wbK7Id5p1xv43Fa72hV5LKQumU=;fKyywpDv7tiNfin88iQkng=="
 ---
 

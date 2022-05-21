@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Funding Data and AI That Serve the Social Sector"
-    excerpt: "Five ways for funders to think about investing in data and AI that would put ownership of responsible data and AI squarely in the hands of the social sector."
-    publishedDateTime: 2022-05-16T21:58:00Z
-    webUrl: "https://ssir.org/articles/entry/funding_data_and_ai_that_serve_the_social_sector"
-    type: article
-    provider:
-      name: ssir.org
-      domain: ssir.org
-    quality: 39
-    images:
-      - url: "https://ssir.org/images/blog/Porway-Funding_Data_for_Good-737x737.jpg"
-        width: 737
-        height: 737
-        isCached: true
 
 secured: "BfsRgQ8ofrW5Zuv2cOmM6zm93VkJYCwtW56CTYXg45PBtt5IAt7sJAqx8tjFdi7VHujF7KESNcOOPftFhiT4qkqKv9P0d1TwXjHSG+x3PkZOKSdF3x6B3raCCA1SVBGZopIsZsa76ETJzBZqwQQ5JiED6WQPX8fnD7qsgopRQey+m7x4UfdfSSuCV7FYFdCc9t4xcyQw77hvdAwjA1988xymep59qohJmZTUU15PV/HhLLvp/0mZ1cAfQqmYv9A3gKrA6L8nyxQQNTrbkxI3z5m4gH4Y+lj71jlq1XaXk+2HLXbUX2J7SYT3gG/yzoW7IHX1hUifzcTDT9cfd8PeX3ATr+mQJo13oA8DFssKlc9hTX3Wgt/bOBGz4N33ZsiEfEaPkRqOd5xBq3y//U7Tsyh8eqVXbjCFXRiY6QBg/UJtqwZh4Me9Q6/r4p5vfzdGzTVDEgL5+UcPNozwOsOT26ChWplJQBW3kW7UrnZbaGJ7OQoMjP21feLd7NwuC4heMvFYMcqrjvESl1G60oCGWA==;aFDxecSGvSNhUqxXk4nZeA=="
 ---

@@ -117,6 +117,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
+    excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly.PUNE,"
+    publishedDateTime: 2022-05-19T12:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/create-personalized-ai-powered-social-media-content-with-predis-ai-1031475434"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Heartex raises $25M for its AI-focused, open source data labeling platform"
     excerpt: "Heartex, a data labeling firm, has raised $25 million in a venture funding round, bringing its total raised to $30 million."
     publishedDateTime: 2022-05-18T13:03:00Z
@@ -137,20 +146,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
-  - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
-    excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly. PUNE, India , May 19, 2022 /PRNewswire/ -- Social media has brought about a revolutionary change in the way of life and Predis."
-    publishedDateTime: 2022-05-19T12:06:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-india-social-media-aa5c53006200808283c597860d13c9f8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "WHxDWEZu0hLKUkazNFPanWgF5sf5kkWAJ75qwn4cAT1vgUqObzh4TAqioQaDl8kCf1bnVrSmqkH4+1kx/LfnOFSUgNy/CR/9W/7JRe4fEaamGm7gb4mHYNYfdyGjtvGmzznZk1hVnmsvmY6V0+9lU7Kdb0BIIsN2guV7wjvlQItmsl2AG3Uidz5sEBceSZquvdZ1JbE8dD1AjtPAMW7hHlhxo0mzZeR5O3bSLhfzB14M1sfeELZOWpUeAQlteoqK3P8y74Bve1Dfp2B0gH1NqiyM8Ar01lfC5eW6t8jHrVuUeIY3LiDtGBqucfNipsoRZdLpfz8cNaky77EEaQVmSgXCqmhdNeeATvJXqRNq7Do=;RNTAuyVaZPemeEcFwbnNJQ=="
 ---

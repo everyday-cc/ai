@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/20/why-ai-and-autonomous-response-ar
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Enhancing cybersecurity learning of Filipinos"
+    excerpt: "DURING the pandemic, cyberattacks on industries providing connectivity, essential services and entertainment increased by 341 percent, adversely impacting populations forced"
+    publishedDateTime: 2022-05-21T12:23:00Z
+    webUrl: "https://www.manilatimes.net/2022/05/22/business/sunday-business-it/enhancing-cybersecurity-learning-of-filipinos/1844512"
+    type: article
+    provider:
+      name: The Manila Times
+      domain: manilatimes.net
+    quality: 4
   - title: "A Continuing Year of Threats Towards Cybersecurity, Predicted by Experts of the US National AI and Cybersecurity ISAO"
     excerpt: "SAN FRANCISCO, Calif. and RIGA, Latvia, May 19, 2022 /PRNewswire-PRWeb/ -- Tortora Brayda Institute, a non-profit independent organization for multi-stakeholder partnerships in Artificial Intelligence, Cybersecurity and Cloud, today to announce its Task ..."
     publishedDateTime: 2022-05-19T12:51:00Z

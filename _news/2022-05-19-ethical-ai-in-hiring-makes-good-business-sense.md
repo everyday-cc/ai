@@ -65,20 +65,6 @@ related:
         width: 460
         height: 460
         isCached: true
-  - title: "5 ways artificial intelligence helps businesses"
-    excerpt: "Technology has brought on a lot of amazing innovations, and artificial intelligence is one of them. Artificial intelligence has been around for quite a while now, and it has helped us in a lot of ..."
-    publishedDateTime: 2022-05-16T20:28:00Z
-    webUrl: "https://knowtechie.com/5-ways-artificial-intelligence-helps-businesses/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2017/04/business-software-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "Y9bxfPJJaGSJSEkuGGM6SvkZLPWTGk4l9leyJJzwqFPi2nJySyWwOwOinLRTZQ9/odLIAWACEjEsSqaMMdh0FF7aAOf+y9H0h1zI7PzS2ciAnUfN9Jv+KqERyxvJIt43dloD0G5Z/fpxDCnMwJEwjkEIUtwLQ0s/2Ztu6ZMkHb4RuNzZtGXEXwYK73V9tYsZnfGb4/DDO9sEl4wQdczWQvg3r0GtAt8/v+tC81E8wd3a6hD2D4xmPMf9hOFXsPOdQ3Or+LGxfXxhBFGtRvN/8q09KGP8LAfzqyth+eW7FFxB4S0WAgasZMJKsjNEC/V75AlIdI9Jrs0J6uYWDe5N9clVvpEDLmdxSkhI/rmVk+Y=;ZxiAvD+EForuBn7u5ED4sw=="
 ---

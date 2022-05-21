@@ -35,7 +35,12 @@ related:
     provider:
       name: Albany Herald
       domain: albanyherald.com
-    quality: 13
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/custom/image/01b25422-d8d8-11e6-bb31-5378351eadac.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "GAMi9WxQuQQJDYk2V19ee8jKlMejtMlQhOcMvs34NYXpKQvrsI7GelhxcBWttPReI3bavw3+A5XFrwJEu70nwt+JL3zY01JuZrZtE9jk7Rly7Tx19Z55wodOPs+uQMUbtUCbsYOGXcp1R+N9ohrQI65R3wrQC31sVv6/cBCYDmLNvaJ5QxSQ+K91/lPYjxziRxY72YXWtWvdKPoMB0vblHk+8muEIjiTm99bZE7jdKAv2Ct3Bu+XkHcnrC733WlIXfcnTUY+cmbOwdPSIrXtpwvX5cP/tYf0RImiw/EShXextGdAb/29aUdBz/G6pG88e3n9MdOEDzcgz7eT+Bh0NjDTKyLXCiZXIC3swzQDmXS4fiX/AFxjFdJ/viHXD5BJxJ7x1RG+Qkj0x+zNwFqdHpBYreFnyCqYGzlNfrR1SXpXghMeq3DlCVP9hh5IPk9wOIaK7/VniodIi6Exq6CTuEtIbd2cspjbRuVy0VcWA0Se9enP+NZoZ/O+Vc6lDJ56eGHVl2z3BAItODMp3T6hZA==;Z030D9jjuJhVewaVH1yIKA=="
 ---

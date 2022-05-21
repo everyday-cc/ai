@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchang
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
         width: 460
         height: 460
-        isCached: true
-  - title: "5 ways artificial intelligence helps businesses"
-    excerpt: "Technology has brought on a lot of amazing innovations, and artificial intelligence is one of them. Artificial intelligence has been around for quite a while now, and it has helped us in a lot of ..."
-    publishedDateTime: 2022-05-16T20:28:00Z
-    webUrl: "https://knowtechie.com/5-ways-artificial-intelligence-helps-businesses/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2017/04/business-software-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Ethical AI in hiring makes good business sense"
     excerpt: "By quickly and efficiently analyzing large volumes of data, AI significantly reduces the time spent recruiting great potential candidates."

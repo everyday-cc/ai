@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Innovatrics and Blaize partner up for facial recognition security at the edge"
-    excerpt: "The technology partnership will feature SmartFace Embedded by Innovatrics and the Blaize Pathfinder P1600 Embedded System on Module."
-    publishedDateTime: 2022-05-16T19:22:00Z
-    webUrl: "https://www.biometricupdate.com/202205/innovatrics-and-blaize-partner-up-for-facial-recognition-security-at-the-edge"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
   - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
     excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
     publishedDateTime: 2022-05-19T13:48:00Z

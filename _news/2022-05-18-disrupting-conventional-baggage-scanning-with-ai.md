@@ -41,22 +41,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "AI models identify COVID-19 patients at the greatest risk of death, injury"
-    excerpt: "New artificial intelligence (AI) models can help doctors prioritize care by predicting which COVID-19 patients are most at risk of dying or developing kidney injuries during hospitalization."
-    publishedDateTime: 2022-05-16T20:21:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-patient.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Scientists use machine learning techniques for better characterization of long COVID"
     excerpt: "Scientists, using machine learning techniques, analyzed an unprecedented collection of electronic health records (EHRs) available for COVID-19 research to better identify who has long COVID. Exploring de-identified EHR data in the National COVID Cohort ..."
     publishedDateTime: 2022-05-17T00:09:00Z
@@ -127,6 +111,15 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
+    quality: 19
+  - title: "Machine Learning Models to Help Identify Long COVID Patients"
+    excerpt: "Machine learning (ML) models help clinicians distinguish characteristics of people with long-COVID and factors that may help identify such patients."
+    publishedDateTime: 2022-05-21T13:47:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-models-to-help-identify-long-covid-patients-207215-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
     quality: 19
   - title: "Machine learning can identify, potentially help patients with 'long-COVID'"
     excerpt: "Researchers from Chapel Hill, N.C.-based UNC School of Medicine's machine learning models helped identify long-COVID patients, patients who had the virus for more than 28 days, by analyzing patterns in electronic health record data,"

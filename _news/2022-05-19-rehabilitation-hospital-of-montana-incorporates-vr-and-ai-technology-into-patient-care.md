@@ -25,34 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Why the proliferation of AI technology is important to the future of sports"
-    excerpt: "The driving purpose of technology is problem-solving. In many cases, humans are already using tools, or have created systems, to address a problem — but there’s a need or desire to further improve performance or productivity."
-    publishedDateTime: 2022-05-19T20:09:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/SB-Blogs/COVID19-OpEds/2022/05/19-Rajan.aspx"
+  - title: "Billings hospital uses virtual reality to aid rehabilitation"
+    excerpt: "Dr. Jose Ortiz counted the minutes he spent in the back of an ambulance transporting him from Red Lodge to Billings. Timely treatment is imperative to"
+    publishedDateTime: 2022-05-21T12:10:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.html"
+    ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html"
+    cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html"
     type: article
     provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 35
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 59
     images:
-      - url: "https://www.sportsbusinessjournal.com/-/media/Images/Properties/SBJ_Atlas-property-graphic.ashx"
-        width: 596
-        height: 240
-        isCached: true
-  - title: "Why Artificial Intelligence Creates an Unprecedented Era of Opportunity in the Near Future"
-    excerpt: "The age of artificial intelligence (AI) is finally upon us. Consumer applications of AI, in particular, have come a long way, leading to more accurate search results for online shoppers, allowing apps and websites to make more personalized recommendations,"
-    publishedDateTime: 2022-05-18T11:55:00Z
-    webUrl: "https://www.inc.com/arvind-krishna/artificial-intelligence-innovation-future-opportunity-technology.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 29
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1090942270_503067_bqxza9.jpg"
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/6/f5/6f5cfa36-9330-50ea-a0ab-8da7f6797d63/6288d8787cf4a.image.jpg?resize=1024%2C683"
         width: 1024
-        height: 576
+        height: 683
         isCached: true
+  - title: "Field Robotics for Remote Patient Monitoring and Rehabilitation: Pandemic and Beyond"
+    excerpt: "Worldwide, healthcare systems are at threat of overloading and incurring unmanageably high costs. Healthcare and rehabilitation facilities are not always accessible to frail older adults in rural and underdeveloped areas."
+    publishedDateTime: 2022-05-21T07:10:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/37642/field-robotics-for-remote-patient-monitoring-and-rehabilitation-pandemic-and-beyond"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 27
 
 secured: "2sP0jR5HqzPWFnY7Ak5YokYWVSg1HbOsTPv7QAwLrUcY5upTIQvMTdhuj8+y8Ag5nAafpC6PLWSQCyAx1aO3MrZMMzOxjIEsq+X3uV+keLedUoOjNPRw1k9ArIva2KOsqKlKxQhM13/xY+VEQJJ1ZIbeG+M985wXGVwOqo+CJDS7ue5JFCMHWSlIopiQSS8ltCCA/a8NfxeureGGlPhgipCuEukqCEB5g8eiOiFPppnUxxcaBKiB0ZtHFXQ0vQa5HHvL2BJ6D/HyX25Eo5orZLQHpoaR+3lbuHPF+51NnM4rs2KsSKuBkYrsYJQef0HU/vVQRZ2hCMlvDBVVvr7oAzwLMYBi/wBsIeY119+ygbZ+ycNf2kDCVYgO+T47L9Lhst7oBqaU4vE8t8FSWle+Bl6/4qH7RaccCufJHN/YhdI6dxWj+0BOvNNTlSi/Vwh0NPFaSHHahRkr1DXO4B6j7li9jXyIh5UoGe+g2F7EsKZY5KDVMWjNy1mXBiLUWRoHezp6ZWx3izyQa5fJW3IcVQ==;eVtQ9cnikF+s8RVhe9xk8w=="
 ---

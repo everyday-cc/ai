@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=665762"
 webUrl: "https://us.acrofan.com/detail.php?number=665762"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 500
     height: 324
     isCached: true
-
-related:
-  - title: "Google Debuts LaMDA 2 Conversational AI System and AI Test Kitchen"
-    excerpt: "At its annual developer conference last week, Google announced the second release of its conversational AI system, LaMDA, which stands for Language Models for Dialogue Applications. Google says LaMDa 2 is a more finely tuned version of their original ..."
-    publishedDateTime: 2022-05-16T22:42:00Z
-    webUrl: "https://www.datanami.com/2022/05/16/google-debuts-lamda-2-conversational-ai-system-and-ai-test-kitchen/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/shutterstock_nlp.jpg"
-        width: 1000
-        height: 533
-        isCached: true
 
 secured: "DItVTaIghXfP1Db4wj/g4p8ndppn4ecUhfOKVlS1Y0vYGZFapJGF5p8cz1NSj0jlJD+BpKiERdqgdnGbO63Sk8Hrr1KKZootGfV3ZviwAlSIJFMv4IQ6BbESbLbimH2E4ow7grRoctbv3Xtbx7dwVXYh9mtFLigvvmOGqofbR7f6nFavC4VRY1orbcOtACk6pRyRHGhC4eg5qsp/njMNeyuysmYjmSKwJirg+eCqV5fVsQ00SWZCFYtdlQA4Nh7q32S9JciOdz9JnbQGvp5lM4ywn2RMcQTUxvlaE5EJuKppkmyxxI09YLcCi5sUVBJ1kOY/rico+yc5wAKhc3dtQpjnS6KJW4TOt9ytpPZR87k=;qDbzNEoXP0/E+t8qpIXE9g=="
 ---

@@ -23,17 +23,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "The Private Office Of Sheikh Saeed Bin Ahmed Al Maktoum Joins World AI Show & Awards Dubai"
-    excerpt: "To be held under the patronage of the Private Office of HH Sheikh Saeed Bin Ahmed Al Maktoum, a member of the royal family of Dubai, the 35th global edition of World AI Show & Awards will bring ..."
-    publishedDateTime: 2022-05-16T19:58:00Z
-    webUrl: "https://menafn.com/1104223932/The-Private-Office-Of-Sheikh-Saeed-Bin-Ahmed-Al-Maktoum-Joins-World-AI-Show-Awards-Dubai"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 7
-
 secured: "D7RhEWGDgsp1GvLzdzNY1DLCwbjz3WdrO1Un63LAzmeOvPw74ai/ZqPr5q7SFANSI5/JSlD9gbtKI8yNrnloiqfqxYciRXjrbsiDjmU+Z13UGTd0inFldD1CVRUquxcfLREpFIA/pEHIww2mjnIPpL6p7rXpwtgoOmvc+PdarXlRVz1EUxloYJ79Ut6hfBIVdPoUmpB+gAc35CA+OzZeopigEF1jzAy3Yh5fyUb6thwQZt4y+1fP6ZSq3ys7bc1zQUQ0T0AljWMZnlnOD64Lo1+hE/NyoA+ciDZmzzGbzqOnrQtUdOPjgCsGBJrkvfNPMeCCoUYH+WFRgObBR+nlqyLWL5jekk2y+3r6KD2sUBE=;zX1MMM7eUVv4znG7ilQI2Q=="
 ---
 

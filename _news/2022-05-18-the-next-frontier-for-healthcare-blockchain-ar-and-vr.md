@@ -67,6 +67,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "A New Cyber-Alliance of Artificial Intelligence, Internet of Things, Blockchain, and Edge Computing"
+    excerpt: "The world is witnessing an accelerated large-scale technology adoption with transformative effects on day-to-day operations, with many industries now depending on machine-controlled processes. These technologies include blockchain,"
+    publishedDateTime: 2022-05-21T15:56:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9773125/"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 18
 
 secured: "aKIRpYHC7+D82XdVEcSfY462GvFLB1b/3IKK8mdj8ZQeyO5Ps6tsZAO9bZpSyCz37FW8UDehHB/7t7h11+NuipcHysfxYAyEEf44XBN4lxdl76vTLvKjBYLHWEgSJ69i/wtZKH0zYzR942d5g8K3drnbOc8kQpSWH5u4RjUAJ7rA49uvIU/Y2jFUUTwbG2m+a6E3VfS/RUpXfoa2jwV6cIKPWTW9eVtYYyqPPP8qWajfnvvowl/aFT4ULln3U7uzkZnCPgX9jWZf0JLDYifeoQMbrXSvdWgELZI3PwfEz9p0ylCmcjqTEYW+jfImGSuEGzY5rw/1j9gdFzXLPwIiTz4+xdxJBWVshbWuPZ9/c5w=;izyB8cb9butwUQYXVOHHAQ=="
 ---

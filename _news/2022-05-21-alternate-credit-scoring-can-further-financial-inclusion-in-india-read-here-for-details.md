@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business/alternate-credit-scoring-can-f
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707/amp"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Lack of strategy, skills biggest barriers for AI adoption in India"
+    excerpt: "Another greatest barrier to successful AI adoption is limited skills, expertise or knowledge (38 per cent) for organisations exploring or deploying AI in the country. \"As the adoption of AI grows ..."
+    publishedDateTime: 2022-05-20T10:54:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91687803,imgsize-53448,width-1200,height-628,overlay-etcio/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "h8RCx+zyHxaVNhsckgr2xfwb3UsQ8DBL/oZjOkEI/gpThORzANzLegLFiblLMomGlMQ9UANfIC5KhN1OIFNToRlmrj8Nu9QTNnSmFdq2FaJQzlyzuuxVAVSkHq2PT6iFPJAyx4yJLF1lP7JoQJY/tONCQaqZr+69igrc+hQ5NzJRJRokqbz8qkomT2nJhDIbx1jpMMySyvlvj7HDpySB0Ah9KFer0yzPLA/f2qsW0SgNg7T48ozYYKbcQ4CjLjLCMGdNURREU7DsHWicG97mqq/EcmLqP4F5KgjiQLBo6GNa203fbi49/1CnAiTYXffL6Xp/TQHMrcDhIge7ZICw0F1NfVC5oyBt8ClVKkJ6+uNgTJrJ5KSsFynanfvh+NbEl2zwUfrNhHr9oSpIclMS8F9lzKjwM8zg3DQ7HKcnXrTzdKiEvHIzRluMeFO4FfcDM9q796lvXvUQwvd05zmKpsK2+P7R7i+AQ4GyvQm4xlwvKpvQxEE58foFRClaitfEPY/Ea3OeVlMRcPfmapqKYQ==;N7zJfTjztuOuB2oubWeKow=="
 ---

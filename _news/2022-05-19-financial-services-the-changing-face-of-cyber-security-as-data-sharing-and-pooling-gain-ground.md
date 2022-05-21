@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/big-data/financial
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/big-data/financial-services-the-changing-face-of-cyber-security-as-data-sharing-and-pooling-gain-ground/91653590"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Funding Data and AI That Serve the Social Sector"
-    excerpt: "Five ways for funders to think about investing in data and AI that would put ownership of responsible data and AI squarely in the hands of the social sector."
-    publishedDateTime: 2022-05-16T21:58:00Z
-    webUrl: "https://ssir.org/articles/entry/funding_data_and_ai_that_serve_the_social_sector"
-    type: article
-    provider:
-      name: ssir.org
-      domain: ssir.org
-    quality: 39
-    images:
-      - url: "https://ssir.org/images/blog/Porway-Funding_Data_for_Good-737x737.jpg"
-        width: 737
-        height: 737
-        isCached: true
   - title: "Artificial Intelligence in Cyber Security Market | Growth and Changes Influencing the Industry 2022-2029"
     excerpt: "Rise in number of cybercrimes drives the artificial intelligence (AI) in cyber security market. Global increase in IoT adoption and number of connected"
     publishedDateTime: 2022-05-17T02:25:00Z

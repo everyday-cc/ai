@@ -80,6 +80,20 @@ related:
         width: 1025
         height: 567
         isCached: true
+  - title: "A Short Guide to Understanding the Exciting Realm of Fintech"
+    excerpt: "Fintech is skyrocketing in popularity, posing the first serious challenge to legacy financial institutions. What is it & how does it work? Find out here. What is Fintech & How Does it Work? People used to stand on the corner of a city intersection and see their options for banking."
+    publishedDateTime: 2022-05-21T14:47:00Z
+    webUrl: "https://www.hackread.com/short-guide-understanding-exciting-realm-fintech/"
+    type: article
+    provider:
+      name: hackread
+      domain: hackread.com
+    quality: 24
+    images:
+      - url: "https://www.hackread.com/wp-content/uploads/2022/05/a-short-guide-to-understanding-the-exciting-realm-of-fintech.jpg"
+        width: 1200
+        height: 650
+        isCached: true
   - title: "CBB launches Bahrain Supernova FinTech Challenges 2022"
     excerpt: "The Central Bank of Bahrain (CBB) has launched its second annual series of nationwide FinTech innovation challenges, Bahrain Open Banking Supernova 2022, which will be hosted on FinHub 973, the CBB’s Digital Lab,"
     publishedDateTime: 2022-05-18T10:54:00Z

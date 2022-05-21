@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/18/robot-hives-h
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/18/robot-hives-hope-to-keep-bees-buzzing"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robot hives in Israel kibbutz hope to keep bees buzzing"
+    excerpt: "They function as normal hives, but apiaries built at a kibbutz in Israel’s Galilee are decked out with high-tech artificial intelligence systems"
+    publishedDateTime: 2022-05-21T14:08:00Z
+    webUrl: "https://www.malaymail.com/news/life/2022/05/21/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing/8092"
+    ampWebUrl: "https://www.malaymail.com/amp/news/life/2022/05/21/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing/8092"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/life/2022/05/21/robot-hives-in-israel-kibbutz-hope-to-keep-bees-buzzing/8092"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2022/05/21/16978.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Robot hives in Israel aims to keep bees buzzing"
     excerpt: "Startup Beewise came up with the idea to reduce mortality rates in a species that has seen sharp rates of decline due to environmental threats."
     publishedDateTime: 2022-05-18T05:36:00Z

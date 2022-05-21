@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/google-deepmind-agi/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-agi/amp"
 type: article
 quality: 59
-heat: 90
+heat: 91
 published: true
 
 provider:

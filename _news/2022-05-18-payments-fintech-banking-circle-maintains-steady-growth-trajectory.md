@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-ban
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/10-Upcoming-Fintech-Webinars-to-Watch-Live-if-Youre-in-Asia.png?x82653"
         width: 1025
         height: 567
+        isCached: true
+  - title: "A Short Guide to Understanding the Exciting Realm of Fintech"
+    excerpt: "Fintech is skyrocketing in popularity, posing the first serious challenge to legacy financial institutions. What is it & how does it work? Find out here. What is Fintech & How Does it Work? People used to stand on the corner of a city intersection and see their options for banking."
+    publishedDateTime: 2022-05-21T14:47:00Z
+    webUrl: "https://www.hackread.com/short-guide-understanding-exciting-realm-fintech/"
+    type: article
+    provider:
+      name: hackread
+      domain: hackread.com
+    quality: 24
+    images:
+      - url: "https://www.hackread.com/wp-content/uploads/2022/05/a-short-guide-to-understanding-the-exciting-realm-of-fintech.jpg"
+        width: 1200
+        height: 650
         isCached: true
   - title: "Top 10 Upcoming In-Person Fintech Events to Be Held in Singapore in 2022"
     excerpt: "Striving to become a global node for business tourism in Asia, Singapore has taken big steps to regain a sense of normalcy for meetings, incentives, conferences and exhibitions, by relaxing protocols."

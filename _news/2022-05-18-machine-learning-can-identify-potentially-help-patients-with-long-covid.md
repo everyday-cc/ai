@@ -35,22 +35,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "AI models identify COVID-19 patients at the greatest risk of death, injury"
-    excerpt: "New artificial intelligence (AI) models can help doctors prioritize care by predicting which COVID-19 patients are most at risk of dying or developing kidney injuries during hospitalization."
-    publishedDateTime: 2022-05-16T20:21:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-covid-patients-greatest-death.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-patient.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Scientists use machine learning techniques for better characterization of long COVID"
     excerpt: "Scientists, using machine learning techniques, analyzed an unprecedented collection of electronic health records (EHRs) available for COVID-19 research to better identify who has long COVID. Exploring de-identified EHR data in the National COVID Cohort ..."
     publishedDateTime: 2022-05-17T00:09:00Z
@@ -135,6 +119,15 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
+    quality: 19
+  - title: "Machine Learning Models to Help Identify Long COVID Patients"
+    excerpt: "Machine learning (ML) models help clinicians distinguish characteristics of people with long-COVID and factors that may help identify such patients."
+    publishedDateTime: 2022-05-21T13:47:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-models-to-help-identify-long-covid-patients-207215-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
     quality: 19
 
 secured: "zOrK9JtVLvfFrTyJk/te5w4ZRMl8PgOcCP0S4F7rmjEox05z9Gq9u4QnA7C/LuvsifNxh/gAsooxyancTlEFoLonHfIR5N/zMjh6MnaMcOs2ZxR+5qkti1pguI0XPa9w+gRGAn2Y1f30WuZ//B+zh7dH+fm9K2sy6wtmrfj/8MvsFFOuBVlosOaU+dVs+3MWjv8+rg+AHeJamj+qRY0Rd4B/tPLIlVoXKrzoDug+wmZ4qI6nwKS6/ymBpvgyC4e80PILQ/IAr7XmFZqE3OowzIcuFbT+rj6V570htZSZ6Vl+5pz7BfbSasQ0TNsaJA5hnLdP+6J/oR9eesebMilCvcsJ6IyrsGrWr8WpuZclSaA=;GlBl890mOd3298RQ1LGshA=="

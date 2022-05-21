@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/k12/higher/article/2022/05/can-administra
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/higher/article/2022/05/can-administrators-ensure-ethical-use-ai-k-12-education?amp"
 type: article
 quality: 91
-heat: 111
+heat: 112
 published: true
 
 provider:
