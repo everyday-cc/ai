@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-mak
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html/amp"
 type: article
 quality: 101
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Microsoft launches Open Data for Society"
-    excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
-    publishedDateTime: 2022-05-16T12:42:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-launches-open-data-for-society/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
   - title: "SignUp Software and Velosio Ink North America Partnership to Deliver Integrated, AI-driven AP Automation for Microsoft Dynamics 365"
     excerpt: "These two Microsoft Dynamics powerhouses will support companies of all sizes to automate processes, increase efficiency, and improve accuracy while reducing cost and compliance risk."
     publishedDateTime: 2022-05-17T12:45:00Z

@@ -94,15 +94,6 @@ related:
       name: Aviation Today
       domain: aviationtoday.com
     quality: 44
-  - title: "Microsoft launches Open Data for Society"
-    excerpt: "Brad Smith, president and vice chair at Microsoft Corporation, has announced that Microsoft has launched Open Data for Society."
-    publishedDateTime: 2022-05-16T12:42:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-launches-open-data-for-society/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
   - title: "SignUp Software and Velosio Ink North America Partnership to Deliver Integrated, AI-driven AP Automation for Microsoft Dynamics 365"
     excerpt: "These two Microsoft Dynamics powerhouses will support companies of all sizes to automate processes, increase efficiency, and improve accuracy while reducing cost and compliance risk."
     publishedDateTime: 2022-05-17T12:45:00Z

@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "AI in crypto platform, CryptoSmartlife set to simplify crypto investing in India with thematic coin baskets"
+    excerpt: "Crypto tech industry has emerged as one of the fastest-growing technology sub-sectors in the last couple of years. Innovative players are emerging in the space to make crypto investing ubiquitous. And one such hi-tech startup is CryptoSmartlife."
+    publishedDateTime: 2022-05-21T05:30:00Z
+    webUrl: "https://theprint.in/ani-press-releases/ai-in-crypto-platform-cryptosmartlife-set-to-simplify-crypto-investing-in-india-with-thematic-coin-baskets/965132/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/ai-in-crypto-platform-cryptosmartlife-set-to-simplify-crypto-investing-in-india-with-thematic-coin-baskets/965132/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/ai-in-crypto-platform-cryptosmartlife-set-to-simplify-crypto-investing-in-india-with-thematic-coin-baskets/965132/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 39
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/05/CyptoSmartlife_may2120222022052104532620220521051754.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "UYS Scuti Trading Robots Provide Investors with Comprehensive Experience with Crypto Trading"
     excerpt: "Digital assets trading is already a 24/7 global market with the market value of hundreds of billions of dollars. Therefore, it is vital for companies to reform their system and get ready for the incoming opportunities."
     publishedDateTime: 2022-05-17T13:30:00Z

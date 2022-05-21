@@ -148,7 +148,7 @@
       "originalUrl": "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -336,6 +336,58 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-computer-chip-giant-asml-places-big-bets-on-a-tiny-future.md",
+      "title": "Computer chip giant ASML places big bets on a tiny future",
+      "excerpt": "ASML , a semiconductor industry and stock market giant, has to think smaller. Or maybe bigger. It is building machines the size of doubl",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/computer-chip-giant-asml-places-big-bets-tiny-future-2022-05-20/",
+      "originalUrl": "https://www.reuters.com/technology/computer-chip-giant-asml-places-big-bets-tiny-future-2022-05-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/SZxbVKNg5ab42dF-SY1sIlrnkEg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P75Z23REDRJF7KMT5BBLFLHLAQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -580,7 +632,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1158,57 +1210,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in.md",
-      "title": "When big AI labs refuse to open source their models, the community steps in",
-      "excerpt": "When big AI labs like OpenAI and DeepMind decline to release their models, community efforts attempt to fill the gap with custom, reverse-engineered versions.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/",
-      "originalUrl": "https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/interactive.png?w=680",
-          "width": 680,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/amp/",
-      "publishedDateTime": "2022-05-19T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

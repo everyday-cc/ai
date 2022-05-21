@@ -140,15 +140,6 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 12
-  - title: "AI in Drug Discovery Market Global Demand, Opportunities, Growth, Segment Analysis and Forecast to 2027"
-    excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a robust CAGR of 40.8% throughout the forecast period. The global AI in the drug discovery market has been ..."
-    publishedDateTime: 2022-05-16T12:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-global-demand-opportunities-growth-segment-analysis-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
   - title: "Artificial Intelligence in Retail 2021 Industry Analysis, Key Players Data, Growth Factors, Share, Opportunities and Forecast to 2030"
     excerpt: "Artificial Intelligence in Retail Market to surpass USD 20.5 Billion by 2030 from USD 1.35 Billion in 2019 in terms of value growing at a CAGR of 37.5% throughout the forecast period, i.e., 2020-30."
     publishedDateTime: 2022-05-18T14:00:00Z

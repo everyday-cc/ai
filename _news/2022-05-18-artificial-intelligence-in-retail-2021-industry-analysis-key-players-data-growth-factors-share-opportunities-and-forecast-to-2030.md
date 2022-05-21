@@ -148,15 +148,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 4
-  - title: "AI in Drug Discovery Market Global Demand, Opportunities, Growth, Segment Analysis and Forecast to 2027"
-    excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a robust CAGR of 40.8% throughout the forecast period. The global AI in the drug discovery market has been ..."
-    publishedDateTime: 2022-05-16T12:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-global-demand-opportunities-growth-segment-analysis-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
 
 secured: "HdbZjogkTAd8DTd3J6K4lu6bBHlHWNzn3M6eQXiq3ZlcEdenyj3GEuAmLybh6VM0ujk7vvfafVGma7Q88ukwAkIDNd9DyYenTkyCxqX6Ae1c6e8OdvNtO0jLH8teEJAA8Pd7NiI5BloS2/cY+s988SzTb3KnAXEHaF6aoIxSySry0XRSostdFjb0jN9v2rKuA+03bxsUS/iDozkynQolHEfhx4FPNV/HFR9PWPnyAcLVgkboQh0z1URgwtWNnsFeMVphjmIx5GHT55gZBj17R0wPzxlm1iOJpEGveTIkar+L4w4cANwFrzIBILFAPMaY2nRaYn7W0igZjBc3u09RdQQI++sfxq6HPkiPhzoxMog=;L5DDJs/1Huugitj0IlJOHA=="
 ---

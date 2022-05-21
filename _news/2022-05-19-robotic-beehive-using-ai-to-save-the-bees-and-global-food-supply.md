@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/gilpress/2022/05/19/robotic-beehive-u
 webUrl: "https://www.forbes.com/sites/gilpress/2022/05/19/robotic-beehive-using-ai-to-save-the-bees-and-global-food-supply/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Military Robots Market To Be Driven By Advancement In Artificial Intelligence And Robotics In The Forecast Period Of 2022-2027"
-    excerpt: "Military robots are utilised in transportation, search, and rescue, mine clearing, and combat support activities. The expanding popularity of artificial intelligence and robots, as well as global worry about terrorism, are projected to boost the market ..."
-    publishedDateTime: 2022-05-16T11:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-military-robots-market-to-be-driven-by-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Global Military Robots Market to be Driven by the Advancement in Artificial Intelligence and Robotics in the Forecast Period of 2022-2027"
     excerpt: "The new report by Expert Market Research titled, ‘Global Military Robots Market Size, Share, Price, Trends, Growth, Report and Forecast 2022-2027’, gives an in-depth analysis of the global military robots market,"
     publishedDateTime: 2022-05-18T17:07:00Z

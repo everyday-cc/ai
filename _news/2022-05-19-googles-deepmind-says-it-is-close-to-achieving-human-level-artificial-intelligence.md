@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "DeepMind’s new AI, Gato, can play videogames and control robots"
-    excerpt: "While we’re not quite there yet, a new AI system developed by Alphabet’s DeepMind might have brought us one step closer. Gato is DeepMind’s latest AI that can perform more than 600 different tasks, such as playing videogames,"
-    publishedDateTime: 2022-05-16T12:03:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can-play-videogames-and-control-robots"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 71
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/a-14.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Apple exec who quit over return-to-office mandate joins Google’s DeepMind"
     excerpt: "Former Apple director of machine learning Ian Goodfellow made headlines when he resigned from his position due to Apple's refusal to allow employees to continue to work remotely full time has now found another company to work for: DeepMind,"
     publishedDateTime: 2022-05-18T10:13:00Z

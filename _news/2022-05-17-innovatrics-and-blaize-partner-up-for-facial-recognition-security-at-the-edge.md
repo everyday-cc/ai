@@ -62,15 +62,6 @@ related:
         width: 768
         height: 513
         isCached: true
-  - title: "Blaize and Innovatrics Provide Edge Ready, Low Power, Low Latency Facial Recognition Technology!"
-    excerpt: "Innovatrics, a global leader in biometric technology, and Blaize®, the AI computing innovator revolutionizing edge computing, today announced a technology partnership to deliver ready-to-use facial recognition solutions designed for access control and public security applications leveraging SmartFace Embedded and Blaize edge computing devices."
-    publishedDateTime: 2022-05-16T12:43:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-16-blaize-and-innovatrics-provide-edge-ready-low-power-low-latency-facial-recognition-technology"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 21
   - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
     excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
     publishedDateTime: 2022-05-19T13:48:00Z

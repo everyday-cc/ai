@@ -78,15 +78,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Why Is Solving For Trust In AI So Challenging?"
-    excerpt: "we are called to consider AI through the lenses of effective governance, ethics and trust. Like any technology, enterprises should be able to trust that the AI tools they use deliver the outcomes they expect. While there is no silver bullet, there are ..."
-    publishedDateTime: 2022-05-16T12:48:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/16/why-is-solving-for-trust-in-ai-so-challenging/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Self-driving cars hit a third of cyclists, all oncoming cars in testing"
     excerpt: "Autonomous cars may be further away than believed. Testing of three leading systems found that they hit a third of cyclists, and failed to avoid any oncoming cars. The tests [PDF] performed by the American Automobile Association (AAA) looked at three vehicles: a 2021 Hyundai Santa Fe with Highway Driving Assist,"
     publishedDateTime: 2022-05-16T16:30:00Z

@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Machine Condition Monitoring Market To Surpass Valuation Of US$ 5 Bn By 2031"
-    excerpt: "Industry 4.0 with new technologies like machine learning, artificial intelligence and IoT. Want to know the obstructions to your company’s growth in future? Request a brochure @ https://www.transparencymarketresearch.com/sample/sample.php?flag=B&rep_id ..."
-    publishedDateTime: 2022-05-16T11:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-condition-monitoring-market-to-surpass-valuation-of-us-5-bn-by-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Eurovision-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report from Lucintel"
     excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
     publishedDateTime: 2022-05-20T23:50:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/computer-chip-giant-asml-places
 webUrl: "https://www.reuters.com/technology/computer-chip-giant-asml-places-big-bets-tiny-future-2022-05-20/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Reuters
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Computer Chip Giant ASML Places Big Bets on a Tiny Future"
+    excerpt: "It is building machines the size of double-decker buses, weighing over 200 tonnes, in its quest to produce beams of focused light that create the microscopic circuitry on computer chips used in everything from phones and laptops to cars and AI."
+    publishedDateTime: 2022-05-20T19:11:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-05-20/computer-chip-giant-asml-places-big-bets-on-a-tiny-future"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "T9cdxteUkgewj9ptx/1ua2E2xu0FwxG8ORIl6q70HZjvxbYZHgawnd3D73A93qH+hJnfA+rYng1E7hXJ3NFtDZ8IgEp0ZNw0PqYZebUcOqpidD6MzkiAlO0CALQpqpFLRDk0m7niGaep3eYs6WuyckQr3wIDOvcJbbc3b4igywMlNjG05jQrJzlaUDTQRPnNVMGMPVws8lmr6x5+xhP0YzGva8zY5Il7Km+FKUrGJwt/hDZ0ZMk7CWqbNrIxSoKPVn2Od1F4r5PvihgKFRtAU0uKu49VA4MYLermcKvXpbhb1PkahOWXbtgI3dGqFJOnjQsvoghSTHCxusA3PtgAIxmmUpNr267qu6WAnhSzgDhXuaVNhqqR4sGQoXV4VV/AiyKCI9hpryX21pRiH0cIc3iYTbvoDzSGCR2k+BGTZRK5HwcSEnUweeB9ON7B9G4qMeKDr58BdLv9KOFnsBjTR4QZZN7NV83V4gz7g4+aolNZfsGJTGOPfaocCB573KlomfY3Z9S8w6csReBHBr3D6g==;MA2w+a5VY86p/ivMs9o4xQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-
 webUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab"
 type: article
 quality: 121
-heat: 221
+heat: 211
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: " https://i.tribune.com.pk/media/images/623082907ce4897c3820b24c_DeepMin1652873089-0/623082907ce4897c3820b24c_DeepMin1652873089-0.jpg  "
         width: 1200
         height: 630
-        isCached: true
-  - title: "DeepMind’s new AI, Gato, can play videogames and control robots"
-    excerpt: "While we’re not quite there yet, a new AI system developed by Alphabet’s DeepMind might have brought us one step closer. Gato is DeepMind’s latest AI that can perform more than 600 different tasks, such as playing videogames,"
-    publishedDateTime: 2022-05-16T12:03:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/deepminds-new-ai-gato-can-play-videogames-and-control-robots"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 71
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/a-14.jpeg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Google's DeepMind says it is close to achieving 'human-level' artificial intelligence"
     excerpt: "DeepMind, a British company owned by Google, may be on the verge of achieving human-level artificial intelligence (AI). Nando de Freitas, a research scientist at DeepMind and machine learning professor at Oxford University, has said 'the game is over' in ..."

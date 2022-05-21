@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-5-
 webUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-5-17-uys-scuti-trading-robots-provide-investors-with-comprehensive-experience-with-crypto-trading"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AI in crypto platform, CryptoSmartlife set to simplify crypto investing in India with thematic coin baskets"
+    excerpt: "Crypto tech industry has emerged as one of the fastest-growing technology sub-sectors in the last couple of years. Innovative players are emerging in the space to make crypto investing ubiquitous. And one such hi-tech startup is CryptoSmartlife."
+    publishedDateTime: 2022-05-21T05:30:00Z
+    webUrl: "https://theprint.in/ani-press-releases/ai-in-crypto-platform-cryptosmartlife-set-to-simplify-crypto-investing-in-india-with-thematic-coin-baskets/965132/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/ai-in-crypto-platform-cryptosmartlife-set-to-simplify-crypto-investing-in-india-with-thematic-coin-baskets/965132/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/ai-in-crypto-platform-cryptosmartlife-set-to-simplify-crypto-investing-in-india-with-thematic-coin-baskets/965132/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 39
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/05/CyptoSmartlife_may2120222022052104532620220521051754.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "AI in Crypto Platform, CryptoSmartlife Set to Simplify Crypto Investing in India With Thematic Coin Baskets"
     excerpt: "CryptoSmartlife, Artificial Intelligence powered, India’s first end-to-end thematic basket investment platform, intends to simplify the way India invests in Crypto. CryptoSmartlife puts the top 100 market capitalization coins into baskets based on popular themes such as Blockchain,"
     publishedDateTime: 2022-05-20T12:30:00Z

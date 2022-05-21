@@ -69,15 +69,6 @@ related:
         width: 768
         height: 513
         isCached: true
-  - title: "Blaize and Innovatrics Provide Edge Ready, Low Power, Low Latency Facial Recognition Technology!"
-    excerpt: "Innovatrics, a global leader in biometric technology, and Blaize®, the AI computing innovator revolutionizing edge computing, today announced a technology partnership to deliver ready-to-use facial recognition solutions designed for access control and public security applications leveraging SmartFace Embedded and Blaize edge computing devices."
-    publishedDateTime: 2022-05-16T12:43:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-16-blaize-and-innovatrics-provide-edge-ready-low-power-low-latency-facial-recognition-technology"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 21
 
 secured: "cKNWGwOmrsveKDIzQaBe4fseKfiEKFNcZn99SE5bYmnpPqcm6yi3WBWWeyC0c8j4/XkjzWa/AaoHgxt/JJPqDBpzxET1vLjduACA9Hv+xhNE0ZOrzENaHFnTaycWcem1YJVndwKutd+7dGYRpOSEDqWtzM1o7u4X2PCADs/QfAhrcjavF2sp/WPZGc/pGM/EZXk1fqFetehE7FSzvEtIrTNvJ+cCbTX7kzU5eXtW66vUVgVLftulFlWI8AU6SdIsBMlYaquQVepcVdAfIw1BUTn/cMSXkQtN/UBrfFil/EBYzcocys9qowId7AbbKuOefQBEWe0hQFtuAgBxyli0ife1/3Pl4YkB9XwVMbBlQ8w=;X19BiRD5WxJuJWlxbwjlSw=="
 ---

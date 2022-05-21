@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Google sued for using the NHS data of 1.6 million Brits 'without their knowledge or consent'"
-    excerpt: "The Royal Free NHS Trust in London, which gave Google the patient data, was previously told the move was illegal following an investigation by the Information Commissioner's Office."
-    publishedDateTime: 2022-05-16T12:24:00Z
-    webUrl: "https://news.sky.com/story/google-sued-for-using-the-nhs-data-of-16-million-brits-without-their-knowledge-or-consent-12614525"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 0
 
 secured: "g/yIxMSG0794J45mtIz2EY/rSUKBClaauXueFVL/A5pvbfH9eGNnzorJKNjhYqteJNuth7LgKBTccYpkfzUVfYYZaGK011N1bhZqsFSrAT3y9RrV5/dPeNHzBptQgBlPkl4pWNJyMWIcfDNycITu/JVAG/0634HzLDIKg1cTDUNzj6yNC03l313aiTxoYYp4H7tuGQ6Nn5Ci7i3UOIRFYqXwkvPjZ9XB7/DK3PM7UB7YXh+BPihIF2QVwFi57Ar55N//shjkxvj7ty7deCPjT2xvvGfr52/aCE0TKVjhTPF2UYsD62m7VL82sBiznYZF25/5hq8GZiQ/A3c0EjJcJ2VIGdc3t6dlCEva0Xqm9kc=;c15GVIRxIKiacdomSxEgkg=="
 ---
