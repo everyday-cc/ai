@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-ma
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026-2022-05-17"
 type: article
 quality: 67
-heat: 267
+heat: 257
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Dynamic Face Recognition Systems Market 2022 - Latest Innovation, Sales Channels, Business Advancements, and Top-Vendor Landscape to 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 16, 2022 (CDN Newswire via Comtex) -- The Global Dynamic Face Recognition Systems Market from 2022 to 2028 report by MarketandResearch.biz at the maximum recent survey ..."
-    publishedDateTime: 2022-05-17T00:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-dynamic-face-recognition-systems-market-2022---latest-innovation-sales-channels-business-advancements-and-top-vendor-landscape-to-2028-2022-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

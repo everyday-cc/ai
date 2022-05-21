@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Field Robotics for Remote Patient Monitoring and Rehabilitation: Pandemic and Beyond"
-excerpt: "Worldwide, healthcare systems are at threat of overloading and incurring unmanageably high costs. Healthcare and rehabilitation facilities are not always accessible to frail older adults in rural and underdeveloped areas."
-publishedDateTime: 2022-05-21T07:10:00Z
-originalUrl: "https://www.frontiersin.org/research-topics/37642/field-robotics-for-remote-patient-monitoring-and-rehabilitation-pandemic-and-beyond"
-webUrl: "https://www.frontiersin.org/research-topics/37642/field-robotics-for-remote-patient-monitoring-and-rehabilitation-pandemic-and-beyond"
+title: "Billings hospital uses virtual reality to aid rehabilitation"
+excerpt: "Laurie Brown tries out a virtual reality rehabilitation tool during an open house at the Rehabilitation Hospital of Montana in Billings on Wednesday, May 18,2022. The hospital use"
+publishedDateTime: 2022-05-21T17:14:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
 type: article
-quality: 27
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Frontiers
-  domain: frontiersin.org
+  name: Houston Chronicle
+  domain: houstonchronicle.com
 
 topics:
-  - AI in Robotics
+  - Computer Vision
   - AI
+
+images:
+  - url: "https://s.hdnux.com/photos/01/25/66/32/22505126/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
+    isCached: true
 
 related:
   - title: "Billings hospital uses virtual reality to aid rehabilitation"
@@ -35,22 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Billings hospital uses virtual reality to aid rehabilitation"
-    excerpt: "Laurie Brown tries out a virtual reality rehabilitation tool during an open house at the Rehabilitation Hospital of Montana in Billings on Wednesday, May 18,2022. The hospital use"
-    publishedDateTime: 2022-05-21T17:14:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 59
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/66/32/22505126/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Rehabilitation Hospital of Montana incorporates VR and AI technology into patient care"
     excerpt: "The Rehabilitation Hospital of Montana is now the first and only facility in the state to utilize VR and AI to deliver immersive rehabilitation training and patient care."
     publishedDateTime: 2022-05-18T23:30:00Z
@@ -65,7 +57,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Field Robotics for Remote Patient Monitoring and Rehabilitation: Pandemic and Beyond"
+    excerpt: "Worldwide, healthcare systems are at threat of overloading and incurring unmanageably high costs. Healthcare and rehabilitation facilities are not always accessible to frail older adults in rural and underdeveloped areas."
+    publishedDateTime: 2022-05-21T07:10:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/37642/field-robotics-for-remote-patient-monitoring-and-rehabilitation-pandemic-and-beyond"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 27
 
-secured: "/wJmFY9tVHcAUQ00Y0PCfCw9Hqe/yWNIB6eD1JJb3Owox6RG18RA8uAPv+4yTKqlWyKFI1QmMcFjDDYvEvj5Jwi3wGHWbD3C5z1PbNoGuud+6UBwDO4S7KnCAi1x66xJX1qQwg5qVOkDkAcjvKGJPd3If2/L/twkcXz2Uu7NVttcZgC5pG3P/V/tA7PWvU9YSElCFgwh/GHsTxHjXKHR3GPxzLxkF1fOTdVJfQx2Jrp2jxpZWS+CftmbJ1Ds31pbvyqn4csfE0EJLFdHARzbBAmiAi7B1cuAY+34mfzpQZwEe5uX1V+ILwSTMNiVbm0y7pLQG5o4FYC+oJJpyqXIJuxj0OdNDd+TBNsThquWxMk=;zT67IdatWkgOgV47rdCIvw=="
+secured: "f3zRYciZAiEaD3yn3QLaemSzg1bS9uZSkvExTw4diMCtd2MMO4n/c0Mg2rnOAoHlWjlSeKgphtz4w1zJhK4w/W7ywa8/dkVYmlgHcGvOUtAJawXZtAVg4gBe+LYUGG6Ppcuw1AYoajWaBalI6o/WTb6zYOejhgbr/rKY7+00A56sRj4mY3Kvk9jHBgKEuBi7R1WxRjycUVZthCmfay2FD+99zqp3EV6eDo2aLIz3v+3LN0RRUvUddKEXyxI9fFSjkva1y0hgdnu5dIrhLz5wR5O8SyNpJ7gG12OZ0OVxAXZiA5uXQkWoYyX7XJSJIGqmkBPjo2tK1E7642SLyq0palh8a4oQguapzLVISSl34aU=;bU/Ce+pxU/+xvMAD4ENq+w=="
 ---
 

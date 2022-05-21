@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Billings hospital uses virtual reality to aid rehabilitation"
+    excerpt: "Laurie Brown tries out a virtual reality rehabilitation tool during an open house at the Rehabilitation Hospital of Montana in Billings on Wednesday, May 18,2022. The hospital use"
+    publishedDateTime: 2022-05-21T17:14:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/66/32/22505126/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Field Robotics for Remote Patient Monitoring and Rehabilitation: Pandemic and Beyond"
     excerpt: "Worldwide, healthcare systems are at threat of overloading and incurring unmanageably high costs. Healthcare and rehabilitation facilities are not always accessible to frail older adults in rural and underdeveloped areas."
     publishedDateTime: 2022-05-21T07:10:00Z

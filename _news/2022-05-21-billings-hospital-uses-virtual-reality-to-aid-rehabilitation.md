@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospi
 cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Billings hospital uses virtual reality to aid rehabilitation"
+    excerpt: "Laurie Brown tries out a virtual reality rehabilitation tool during an open house at the Rehabilitation Hospital of Montana in Billings on Wednesday, May 18,2022. The hospital use"
+    publishedDateTime: 2022-05-21T17:14:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/66/32/22505126/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Rehabilitation Hospital of Montana incorporates VR and AI technology into patient care"
     excerpt: "The Rehabilitation Hospital of Montana is now the first and only facility in the state to utilize VR and AI to deliver immersive rehabilitation training and patient care."
     publishedDateTime: 2022-05-18T23:30:00Z

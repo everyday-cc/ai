@@ -3,11 +3,11 @@ category: news
 title: "China homegrown self-driving chips gaining ground in EV market"
 excerpt: "China's homegrown high-end autonomous driving chips have seen a significant breakthrough in commercial applications, as Chinese AI chip startup Horizon Robotics has over the past month cut into the supply chains of both BYD and FAW Group with its latest automotive-grade AI processor,"
 publishedDateTime: 2022-05-20T06:30:00Z
-originalUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=13"
-webUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=13"
+originalUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=10"
+webUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=10"
 type: article
-quality: 54
-heat: 64
+quality: 39
+heat: -1
 published: false
 
 provider:
@@ -15,7 +15,7 @@ provider:
   domain: digitimes.com
 
 topics:
-  - AI Hardware
+  - AI in Autos
   - AI
 
 images:
@@ -39,7 +39,21 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence (AI) in Mining Market: Top Driving Factors That Could Escalate Market Growth Worldwide, Report"
+    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources to reduce waste drives the growth of the market. In addition, autonomous mining equipment equipped ..."
+    publishedDateTime: 2022-05-19T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-top-driving-factors-that-could-escalate-market-growth-worldwide-report"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
 
-secured: "LpAaSNss+E+XglGkyhSADcuBF0tphI98SmdxDsM7/mu/2HmIgxiSr7NoAPIXsw55XPoRob9FxJvYHmmv8G0ZrLrn0jK2h+Jme2SQbrCh4S7ISGv7qTeBRdlbjoB7FKOv6RK/DOV1UV/EUDDxXiT85k8IpUz2iibvLZasbtQxCDumijmlcakSqLupCaw3T3zmcD3m0ZeH2mYgftPYVUvY7NIT+EzMQ6Ep8BS4SQuoMflmecbASANQ8YTXkXUcA+tjsZ//NmpCHJawR6+AivaGZ01JilcHQRAUDNl3ANlv6pkoetbNGuuscGY2h5iStCLe+2AHEZ/4+7gpiWJAyjs6U/Pd+Axa6Z9pBtzoVm8LB9Q=;MJoBbyYNHsflybagGJDxVQ=="
+secured: "Nd/upNy1K7gdSiNp6Vtd+5QI/3IddaimXU03aTNP3PB1GmjGFeW3x4nH+4TIED2VABxTxq45Vx6WsY95csNuYu6m+4Zf1Y+IRQPvkC39u/imXEepebPXTUMhVAqhoY7oZDKWRIvBJlZ8ffm3As43Smco0GCqYGFsYjRH2FcRZuvRSdzju2VnhC3EfsCMv6PxzfdbFW7cTLbvw+MP2jLCB432H/8pipUCM30LDP/oeNdgd8Tqdh6CpWZRU/B+tFLMh/2xjCJenVMGVP20o3WzWfbIVH7Y6CL9pgnfFCScrF7h2oWDxjo9BnVqW49Ja/eDn7UyQyNSathbfDfrqblpVxl7n98Ne0CRescG8P/xDao=;trudhBOJpHAYIPl6m3sFFA=="
 ---
 

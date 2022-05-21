@@ -41,20 +41,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "University of Minnesota technology allows amputees to control a robotic arm with their mind"
-    excerpt: "When combined with an artificial intelligence computer and a robotic arm, the device can read and interpret brain signals, allowing upper limb amputees to control the arm using only their thoughts. The researchers’ most recent paper is published in the ..."
-    publishedDateTime: 2022-05-17T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/952896"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/08b39c7e-5576-40bf-bb0c-21379763bab5/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Technology allows amputees to control a robotic arm with their mind"
     excerpt: "University of Minnesota Twin Cities researchers have developed a more accurate, less invasive technology that allows amputees to move a robotic arm using their brain signals instead of their muscles."
     publishedDateTime: 2022-05-18T12:13:00Z

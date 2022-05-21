@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/19/ai-ethics-forewar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/19/ai-ethics-forewarns-dont-be-caught-in-machine-learning-myopia-by-overlooking-neuro-symbolic-ai-including-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Incredible Vehicle Owns The World Speed Record For Self-Driving Cars"
-    excerpt: "When it comes to self-driving cars, most people think of Waymo and Tesla models. The fastest autonomous car looks quite a bit different, however."
-    publishedDateTime: 2022-05-17T00:37:00Z
-    webUrl: "https://www.slashgear.com/865192/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 53
-    images:
-      - url: "https://www.slashgear.com/img/gallery/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/l-intro-1652743968.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "NYC needs regulations for self-driving cars, says Mayor Adams’ pick to lead Taxi and Limousine Commission"
     excerpt: "Mayor Adams’ nominee to run the city’s Taxi and Limousine Commission wants to bring self-driving cars to New York. David Do, the former head of Washington D.C.’s Department of For-Hire Vehicles, told City Council members during his confirmation ..."
     publishedDateTime: 2022-05-17T22:49:00Z

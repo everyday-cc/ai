@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This Incredible Vehicle Owns The World Speed Record For Self-Driving Cars"
-    excerpt: "When it comes to self-driving cars, most people think of Waymo and Tesla models. The fastest autonomous car looks quite a bit different, however."
-    publishedDateTime: 2022-05-17T00:37:00Z
-    webUrl: "https://www.slashgear.com/865192/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 53
-    images:
-      - url: "https://www.slashgear.com/img/gallery/this-incredible-vehicle-owns-the-world-speed-record-for-self-driving-cars/l-intro-1652743968.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "eaAsaqHXJXnaBLhu5k/f9KUyUXEPXaa0XRH1tBOJ2YSYDx5KwFmQsQoaYXzfnq40LNAbgDO4nODD+1a7vag3BmQnfUWXxeR2We/n8AtAc9iZAi9fiYVsZjAGbmfLpRGsEIOVniNQ2/xXtl9clwAoqYrx7m4brlaACS8wtzxJSZmNlKAoNwjXDuDxfIsWZOjGkI2krkQ9sBblcM9m6ljhfo+aeg7eveFULuiCH2uUv4d2TL9KZdmVK28ZGDdEv9vs495+hVKvbyVtpWP1ZFn1oq6ttECYXgHKtmy+4dAih/LB0Wt2pFqSnU7dRRiwqkZuPWhp1RWS46wvB+p7B+Mf2fRlXp20h6AxU07C2xqPhD2Lsa8GgJkSU4bO4t0iu5b0gatFZhOKF10ZkhbkYBl16A0/Fv/ZZn5+vbrThoCPsgtwcPvmxKpjexzZy6BMHqhMsd8v+Y9SrxMyLMkSvgREmcUEzYdgsk2fSaQy1rXjtLBdlrzP3y0aP/SQhJShj6MTSvwkJJez9oh2clP4nqzXzA==;xs6ukRIOHJHNaD3LGpkTng=="
 ---
