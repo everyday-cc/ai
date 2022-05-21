@@ -20,29 +20,15 @@ topics:
   - AI Hardware
 
 related:
-  - title: "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge"
-    excerpt: "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base."
-    publishedDateTime: 2022-05-16T16:00:00Z
-    webUrl: "https://fox8.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/"
+  - title: "FLEX LOGIX PARTNERS WITH ROBOFLOW TO ENABLE SPECIALIZED AI MODELS FOR COMPUTER VISION APPLICATIONS"
+    excerpt: "The availability of AI models optimized for the Flex Logix InferX accelerator enables edge device manufacturers to get to market quickly, reliably and affordably. MOUNTAIN VIEW, C"
+    publishedDateTime: 2022-05-16T12:00:00Z
+    webUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220516SF57748/flex-logix-partners-with-roboflow-to-enable-specialized-ai-models-for-computer-vision-applications/"
     type: article
     provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 45
-    images:
-      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-        width: 800
-        height: 340
-        isCached: true
-  - title: "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge"
-    excerpt: "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base."
-    publishedDateTime: 2022-05-16T17:00:00Z
-    webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/"
-    type: article
-    provider:
-      name: WKRN
-      domain: wkrn.com
-    quality: 25
+      name: MyTwinTiers.com
+      domain: mytwintiers.com
+    quality: 22
 
 secured: "w+7qqEvKgKEuI26H7qnUdH5aNOo5fdexE8x/BdPU5aeCd66izw337U5dHInkxrQtx0L6G+ir58U3cYJGh+oC0EXdeqCkm2tKSucONCbTgmoyfxUkmEkZrz4YnFo9XFED20Z0MGJQys0Z5efT6NidZPabAhkfbttguSreT4qDv1AYpsuz8A/meu9gtHDHmH3EiIiW9CzUwwabFLtjaHzmkOHZPwzS1/0eUqBK1zWEgflQhW9syfzeUmpId2Ov73Ji3k5afbu7Q+nvP0Pyo1Ku80gZ9qVhaSeWKLRTF089JcxH/CaIBm1CbyGG24ef0BibvOsDFO7JCaEl6E1gF4iGw8XbCfRY0JNYJ+ismRxHqMY=;rXW4gLN5dB3yz5OD6AD/kg=="
 ---

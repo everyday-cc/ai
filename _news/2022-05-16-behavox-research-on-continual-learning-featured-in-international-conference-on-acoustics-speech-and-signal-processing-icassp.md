@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-entertai
 webUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Deep learning solves nuisance alarms and tailgating in access control"
-    excerpt: "Access control systems are plagued by problems, such as false alarms and tailgating. Hakimo is a new company that applies concepts of deep learning to reduce false alarms and tailgating, and to make access control more accurate. False or nuisance alarms ..."
-    publishedDateTime: 2022-05-16T09:48:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 54
 
 secured: "a5HMPMSSkiQC0mDMlGaZWKh2VePQUxKppzRS3j7lYxCFADNfeUKXmjl/xjr/AhbVW/lRvnjG8GHAlMqGwmGGxVeGFQtC0lofS+WfWzcGQcvSHvlp8z+rq1SYpZXOO3GR8+lmHY9Gx+0LCKbzdJ1Bu4fns47dqwt4rnR3ny8WSc4bWpPbLGf7I0EXSSXYq0KzUspu6UmDUX+q2wGrsEjthFfjWZj9aJDbmLMCb39eRlUZbaYwS1NmJ+2MyK26AxmH7V2aJRgfVjFh8k2Of5+ttqChrMbb2xJkn05U5Ju/52u0t30/Dbkrqdyo/IC5eF1wodIYyKuoaobuQffMBDQW8uXlJf11Hu1WuhnvXA+RfaE=;iUqoQJd+YRsh3dVOgQzuyA=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The co-founders of DeepMind and LinkedIn have raised $225 million for their A.I. lab"
-    excerpt: "The funding has been raised at an undisclosed valuation and it's not clear who the investors are at this stage Inflection AI, the new artificial intelligence start-up from DeepMind co-founder ..."
-    publishedDateTime: 2022-05-16T10:52:00Z
-    webUrl: "https://www.cnbc.com/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/16/inflection-ai-linkedin-and-deepmind-co-founders-raise-225-million.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 97
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107026781-1646731964364-2022613_Mustafa-Suleyman_027_retouched.jpg?v=1646732040"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "DeepMind’s new AI, Gato, can play videogames and control robots"
     excerpt: "While we’re not quite there yet, a new AI system developed by Alphabet’s DeepMind might have brought us one step closer. Gato is DeepMind’s latest AI that can perform more than 600 different tasks, such as playing videogames,"
     publishedDateTime: 2022-05-16T12:03:00Z
@@ -102,6 +86,20 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2021/12/eye-gb14112db1_1280-e1638967223881.jpg"
         width: 966
         height: 544
+        isCached: true
+  - title: "DeepMind Introduces Gato, A New Generalist AI Agent"
+    excerpt: "Avdi Grimm describes the future of development, which is already here. Get a tour of a devcontainer, and contrast it with a deployment container. Live from the venue of the QCon London Conference ..."
+    publishedDateTime: 2022-05-19T14:13:00Z
+    webUrl: "https://www.infoq.com/news/2022/05/deepmind-gato-ai-agent/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2022/05/deepmind-gato-ai-agent/en/headerimage/generatedHeaderImage-1652806810649.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google and DeepMind face class action lawsuit over patient data deal with London hospital"
     excerpt: "London law firm Mishcon de Reya is bringing forward a major class action lawsuit against artificial intelligence (AI) firm DeepMind and its sister company Google over claims the two firms misused ..."

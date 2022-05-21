@@ -18,20 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "Although the data is thin, advocates say robotics and AI will soon revolutionize agriculture"
-    excerpt: "If robotics and artificial intelligence make business sense ... Iron Ox, a California start-up that just received a $53 million infusion of capital from Bill Gates’ Breakthrough Energy Ventures ..."
-    publishedDateTime: 2022-05-16T10:01:00Z
-    webUrl: "https://grist.org/article/although-the-data-is-thin-advocates-say-robotics-and-ai-will-soon-revolutionize-agriculture/"
+  - title: "The what, how, where and why of AI"
+    excerpt: "AI encompasses natural language processing, robotic process application, speech recognition, machine learning and vision technologies, says Shakeel Jhazbhay, GM: Digital Business Solutions at Datacentrix."
+    publishedDateTime: 2022-05-18T09:08:00Z
+    webUrl: "https://www.itweb.co.za/content/dgp45MaBLpZqX9l8"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/dgp45MaBLpZqX9l8"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45MaBLpZqX9l8"
     type: article
     provider:
-      name: Grist
-      domain: grist.org
-    quality: 58
-    images:
-      - url: "https://grist.org/wp-content/uploads/2022/05/GettyImages-1235444050.jpg"
-        width: 1600
-        height: 979
-        isCached: true
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
 
 secured: "HB9F5USgx7MIRxi1+Jfo7g9BVSLQhhFpmNv+BZ8ogQm1CXOXlEpQ80ZJ/La5uihB3tr3Ump9TUfrkq5iTqO3bOZWUKPIm3JDPhtmygeTb/Bta2Uq56hLfatxLqDmfYrTGUYJLYd3BngR6ChDbt8bUzyOZOMK1PTTkJ5qLrHnUFeadxPlTrs4sq78+z5Hr+JsWQuDfXwMMwv8+DHXGmYg6drKfGcciHOSSLPP6RFyfaM+KFzNnVRuy0k05owaSDZvAyD3NgRnLfSb/3ENL13BzGRgGrI0v8nQQ0a6rf77LFHNzJQRMgSPQX+pzbh2UbWc+Z5TfqQseiBGtlbsXCSnkTdsK2814kY0dcZ0k0AohlIRWVXx/o1XYXSOZnXwWdcGFeWZqRrIRRoOoIXwi1pGjl9uMlmiNjyrgJJAxTq3+xZUAsSK9P4haR6OGgb+TypcfD5FGjwcPGkzbJ6Xn7CZPG6agnu6QzncNcdesPn9pXsuyKcyHQBCHwVns34jjxfE7ufV72x2UqmaBS/8z4s08A==;yh6C8J2jNXq9hMIk6wuXVQ=="
 ---

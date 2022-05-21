@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Cork-based AI start-up Keelvar raises $24m in Series B funding"
-    excerpt: "Keelvar plans to expand its services for large enterprise and mid-market businesses, following a period of rapid growth last year."
-    publishedDateTime: 2022-05-16T09:35:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/cork-keelvar-series-b-funding-ai-supply-us"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_258782955.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Dublin spacetech start-up Ubotica nets €4m to work on out of this world AI"
     excerpt: "Ubotica uses computer vision tech and AI to analyse image datasets captured by satellites, which can be sent back to Earth for further investigation. The start-up’s latest funding boost will be used to further develop its tech and grow its team."
     publishedDateTime: 2022-05-18T10:29:00Z

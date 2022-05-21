@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/20/why-ai-and-autonomous-response-ar
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity startup launches AI content writer, plagiarism checker"
-    excerpt: "The plagiarism checker, called IEMSecure, can scan through 10 billion sources in just a few seconds, while the AI writer can generate content in 50 la.."
-    publishedDateTime: 2022-05-16T09:07:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/cybersecurity-startup-launches-ai-content-writer-plagiarism-checker/91593548"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/cybersecurity-startup-launches-ai-content-writer-plagiarism-checker/91593548"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/cybersecurity-startup-launches-ai-content-writer-plagiarism-checker/91593548"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91593548,imgsize-290884,width-1200,height-628,overlay-ettelecom/cybersecurity-startup-launches-ai-content-writer-plagiarism-checker.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "A Continuing Year of Threats Towards Cybersecurity, Predicted by Experts of the US National AI and Cybersecurity ISAO"
     excerpt: "SAN FRANCISCO, Calif. and RIGA, Latvia, May 19, 2022 /PRNewswire-PRWeb/ -- Tortora Brayda Institute, a non-profit independent organization for multi-stakeholder partnerships in Artificial Intelligence, Cybersecurity and Cloud, today to announce its Task ..."
     publishedDateTime: 2022-05-19T12:51:00Z

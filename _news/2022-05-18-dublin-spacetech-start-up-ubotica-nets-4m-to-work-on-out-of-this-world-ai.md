@@ -33,20 +33,6 @@ related:
       name: The Irish Times
       domain: irishtimes.com
     quality: 49
-  - title: "Cork-based AI start-up Keelvar raises $24m in Series B funding"
-    excerpt: "Keelvar plans to expand its services for large enterprise and mid-market businesses, following a period of rapid growth last year."
-    publishedDateTime: 2022-05-16T09:35:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/cork-keelvar-series-b-funding-ai-supply-us"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_258782955.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Space tech start-up Ubotica Technologies raises €4m in seed funding"
     excerpt: "Dublin-headquartered space technology start-up Ubotica Technologies has raised €4 million in seed funding to grow its team and fund the next generation of the CogniSat platform. The round was led by Atlantic Bridge and includes co-investment from US based Dolby Family Ventures and Seraphim Space."
     publishedDateTime: 2022-05-18T19:40:00Z

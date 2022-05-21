@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Edge Browser Will AI Improve All Web Images"
-    excerpt: "Turing Image Super-Resolution will automatically turn website images into high resolution graphics for users of Edge browser"
-    publishedDateTime: 2022-05-16T09:22:00Z
-    webUrl: "https://www.searchenginejournal.com/edge-browser-will-ai-improve-all-web-images/450350/"
-    type: article
-    provider:
-      name: Search Engine Journal
-      domain: searchenginejournal.com
-    quality: 37
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/05/turing-image-super-resolution-6282145c5dc44-sej.jpg"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "Call Center AI Market Growing Massively by Artificial Solutions International AB, IBM Corporation, Microsoft Corporation"
     excerpt: "New Jersey, United States - Research Cognizance announces the release of the Call Center AI Market research report. This study is one of the most detailed"
     publishedDateTime: 2022-05-19T10:02:00Z
