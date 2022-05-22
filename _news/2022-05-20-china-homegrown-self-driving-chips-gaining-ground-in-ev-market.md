@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autono
 webUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=10"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "Emergence of Self-Driving Cars Drives the Growth in Machine Learning Market"
-    excerpt: "Besides, extensive investment in artificial intelligence worldwide is expected to boost the growth of the market. The report analyzes the global machine learning market and provides estimates in terms of revenue (US$ Bn) from 2018 to 2030. Exponential ..."
-    publishedDateTime: 2022-05-17T09:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market%EF%BF%BC"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "/Q3/swG2VCkWImUprdDs6SL9BZ2xm/iMIUXF3VbToAOBhC6bPfMjDLXfv3FKT1KPYYX+Bb/XBLrrgMA6bq7aX/cPhNvaHPgh6xJmQhc6tuw/JiKsFUH3FqpETHWrf0PU8Bw3YqFdPANp4/1wY6bYC2S9Pk2p5sAmoqpyvBrAh9OK8qMM9Utc2Q/Ctonmv1Ayp7GGSQUMOwq+Uy7r8kpY05x+BAnnMP/VT9gtO8vdidk+4BYcDpAw1QHpGCiyAKF/l2yAsZiGE1okKfVbVti7MiocCDdvKGwDOzF+XCeK0ebdX52+KrS1CWlnxa5uEeTgjvfnulSEFdWL28cwCSBM+VlniC1Bnja/8qR6yqmi/oQPiQ3y4vBwqHHZhivGgpIpzEDSS/EQMQ1gjFhuucn3oLPZLmYEWj2RAwav3DF2pDTs3ZuoqngOhPonQQOkQltLeRI0h1dHDgympG9EDyHfu0UTLayyTZJc9BfKsg88/a3vzbGTS01DhUs8yULR+6QIR2wSlwQjmRgVh51vOwbTsw==;ojzWsXcIrgE9keLSZiCdKQ=="
 ---

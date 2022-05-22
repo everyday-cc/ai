@@ -28,45 +28,17 @@ images:
     isCached: true
 
 related:
-  - title: "6 business risks of shortchanging AI ethics and governance"
-    excerpt: "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors inherent to the technology — for example, how a particular AI ..."
-    publishedDateTime: 2022-05-17T10:00:00Z
-    webUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html"
-    ampWebUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
+  - title: "C3.ai Stock Is Close to Becoming a Buy"
+    excerpt: "Artificial intelligence (AI) has already made an impact on the world. From AI-powered robots to AI-driven cars, it is already changing our lives and work. C3.ai’s (NYSE:AI) AI algorithms can optimize an organization’s operations by bridging the gaps ..."
+    publishedDateTime: 2022-05-18T04:48:00Z
+    webUrl: "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy"
+    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy?amp"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Why CIOs should pay attention to AI ethics, governance"
-    excerpt: "But there are pitfalls CIOs need to look for, according to a story in CIO. Having ethics and governance plans in place can prevent problems from popping up. One hospital struggled with how to act on the AI’s predictions of patient health conditions,"
-    publishedDateTime: 2022-05-17T21:43:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/why-cios-should-pay-attention-to-ai-ethics-governance.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
-        isCached: true
-  - title: "Ethical AI in hiring makes good business sense"
-    excerpt: "By quickly and efficiently analyzing large volumes of data, AI significantly reduces the time spent recruiting great potential candidates."
-    publishedDateTime: 2022-05-19T13:18:00Z
-    webUrl: "https://www.benefitspro.com/2022/05/19/ethical-ai-in-hiring-makes-good-business-sense/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 34
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
 
 secured: "pfduyC2IA+sRI//DPaEKKlRWtOKfBOx91/IbweIo7u/KI1IYzfBRZWrbe3HBzSQlL8z4LeGNVn9e2c1/1IAs3TV+qxbk0GuN4qujAkzeJ0yA2u7r18xNc7J4Y9a0kA8s69IQwLfnJw8q58nPmRGMON59IXtmQF4FGickEtNS+33YvTwL1ywJ0cAgyjo9taB+4zh1O4n1i1JldKfQLHmKn91vapXFjSyLithDZvaotD/ZYE3EQ2QCaBKR94OAA3YDO8tzKLpXDnaIcwWxH8KK4qGvplpV2Bk9hT/SJzeo9fKosnIy3+zjktTaVw7czuHRuIHBoKLKLEg5kavSovpjOATOtOPkzQuTlOEU4TPcnS3GQUxamkzE+FCt1+uiRJyvexRoNZmdTamD9t7bFwYMsjyFp5Mqp7vk2eVAK77ASTy3e8nRaCWneOtreWCzapjZKHixJYPBGplF5mEL04umoBwjENB2AWcNM6JVCN94j1fnXvtDcu/nyRGq/Zgxv1xrzMOnp+Zd8u/GqH2+buwt7Q==;/LS3J531+9rdGSjGfi7GMg=="
 ---

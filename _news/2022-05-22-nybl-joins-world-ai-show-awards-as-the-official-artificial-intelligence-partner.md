@@ -1,15 +1,15 @@
 ---
 category: news
 title: "nybl Joins World AI Show & Awards as The Official Artificial Intelligence Partner"
-excerpt: "Leading AI company nybl will participate as the Official Artificial Intelligence Partner ... nybl deals with humans like humans and leaves the machine stuff to the robots. The culture at nybl and choices in partnerships are all dictated by a fundamental ..."
+excerpt: "nybl deals with humans like humans and leaves the machine stuff to the robots. The culture at nybl and choices ... as a Strategy and Growth Advisor to several global start-ups in the Artificial Intelligence, Shared Economy, and Tech industries."
 publishedDateTime: 2022-05-22T01:39:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/a27338746/nybl-joins-world-ai-show-awards-as-the-official-artificial-intelligence-partner"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/a27338746/nybl-joins-world-ai-show-awards-as-the-official-artificial-intelligence-partner"
 ampWebUrl: "https://www.benzinga.com/amp/content/27338746"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27338746"
 type: article
-quality: 51
-heat: 61
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,7 +19,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-  - AI Ethics
 
 related:
   - title: "Gfk Joins World AI Show & Awards As A Gold Sponsor"
@@ -37,6 +36,6 @@ related:
         height: 250
         isCached: true
 
-secured: "V8N9P0f1U3gjQSKDHflPI1JFt9TQh3Be2c+zAwLmRhkUByrCxZr0wjz3VPPWqS/Yx7PASKx3Tmob5Ng1NPjKct2LJdZqPbdyMezgeKj7Bt9yyzs5/SZaVtaP/ZQwPVA7PDtDWoqTHQkQWAFQ3xYDsBxvah3xgEtY9U8UgVE0KYLUpCF/c4+pc530fuIIQr9im9PCKEaYiXDf+t8RKoMmwMTqp/jLLs8ITRwn5LnofhPn/wnNNtfEhmw/BBt0npv3pHosOF++JlU5qLMnNIACcSkGSDNzMEGd/XSm33osdu1i4USoCNjJln+v7cdV55P0ZpdXbM7OzUufBtU2hTRCKWNoWkekvrlvwnKxQQm8qqg=;SUGoD5PlRb7Kt6vXq4rPWA=="
+secured: "wTH+wH+cA24p1KzWSRKUrjjQZXZ5RqMvo3OmHJN8qTKdb9ZAh+awbtYBs2+O0byxz6FzYpB+TcG5uAFsVxbGYBau9XDrvYxK24RlUR34AzuWqBMSGnqMwOUwV2pwypXraWFS2ja9kUSR67OSWOyKaItFTJYCqtpuz4GtF/JIUblLALK7MfiWBdFu1m44jGhBZ976q6LPPAJZo8zRygHMRx71/QcDinJDn7eKdjq+ftrC2FI9rhnqze5rdwpza9dyNhIHmf/03nJ2gMwwd/txEgZpKnjmSczFwHIX0pldDNphmzGfskaS58qmdyNKAxjCdTeonyyf///D3X93tIFNePiQYzJwe7i6FnzjH8YSJ6g=;7RqON6M7dUc8FSvXOFADMA=="
 ---
 

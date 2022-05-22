@@ -24,6 +24,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Regulate facial recognition, don’t ban it"
+    excerpt: "This article has been published in Restoring America to highlight how over-the-top government intervention can stifle technological advancement.]"
+    publishedDateTime: 2022-05-18T18:05:00Z
+    webUrl: "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/regulate-facial-recognition-dont-ban-it"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 19
+
 secured: "0fgtfZhtt4/n5Sy6KPyZ8wv9MmwWs1KEUnndDLtc9vt/YqCr1Wp/YhVUNGQDqWlRTOBazqpqRHTUeCD8JWx5TN1ZiGS6iGtw1i+3wYyhuIVPmGM4zJafuUhRDLzF6R/u5BFlGmnZXra++XMPMCBEDzocnD8y6bbREtby24D7i2Ga9LVity8nrBdY9vJbUaGN9GyDLTHyUACCO34xm28/lUSEojezSVPuevjhIURVMGW/4gpAkTRQ/SQZK5wnk7+LOyi03+TevBgQ3dqmWJDioc1bto/t5snNDdvNMVOGI2az+UXOgltjqD0dgsiPHew+MnM3LbY5QVSgeysYjYlanaZSUdk4OKLBt0+sS51IrhQ=;aV7fcs7WxdFHz0vGFLwI2A=="
 ---
 

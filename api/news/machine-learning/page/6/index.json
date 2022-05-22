@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-04-07-meet-dall-e-the-ai-that-draws-anything-at-your-command.md",
-      "title": "Meet DALL-E, the A.I. That Draws Anything at Your Command",
-      "excerpt": "New technology that blends language and images could serve graphic artists — and speed disinformation campaigns. Send any friend a story As a subscriber, you have 10 gift articles to give each ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html",
-      "originalUrl": "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/04/04/business/00dall-e3/00dall-e3-facebookJumbo-v3.jpg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/06/technology/openai-images-dall-e.amp.html",
-      "publishedDateTime": "2022-04-06T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-06-acm-prize-in-computing-recognizes-pioneer-of-robot-learning.md",
       "title": "ACM Prize in Computing recognizes pioneer of robot learning",
       "excerpt": "ACM, the Association for Computing Machinery, today named Pieter Abbeel the recipient of the 2021 ACM Prize in Computing for contributions to robot learning, including learning from demonstrations and deep reinforcement learning for robotic control.",
@@ -1396,6 +1344,50 @@
         "AI",
         "Facebook AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning-available-to-all.md",
+      "title": "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All",
+      "excerpt": "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

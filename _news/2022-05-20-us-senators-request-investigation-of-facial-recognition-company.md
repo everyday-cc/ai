@@ -19,167 +19,70 @@ topics:
   - AI
 
 related:
-  - title: "3D Facial Recognition Market Growth, Competitive Methods and Forecast 2026"
-    excerpt: "May 17, 2022 (Market Insight Reports) -- This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report ..."
-    publishedDateTime: 2022-05-17T10:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026-2022-05-17"
+  - title: "Senators Push for FTC Investigation into ID.me Technology"
+    excerpt: "The software, which has been used by government agencies, is raising questions among Democratic lawmakers around whether the company misled consumers and agencies about the scope of the verification technology."
+    publishedDateTime: 2022-05-18T23:05:00Z
+    webUrl: "https://www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology"
+    ampWebUrl: "https://www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology?_amp=true"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/da27b57/2147483647/strip/true/crop/1000x521+0+3/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F63%2F9f%2F8d290f4a41b2941b9fafba5a3eeb%2Fshutterstock-1658387542.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Artificial Intelligence (AI) Hardware Market Size, In-depth Analysis Report and Global Forecast to 2027"
-    excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
-    publishedDateTime: 2022-05-18T14:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027-2022-05-18"
+  - title: "Senators Call For Probe Into ID.me Facial Recognition Database"
+    excerpt: "\"Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition.” Now, a great of senators have written a letter to the Federal Trade Commission and its chair,"
+    publishedDateTime: 2022-05-21T06:00:00Z
+    webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 41
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
+        width: 1222
+        height: 815
         isCached: true
-  - title: "Artificial Intelligence (Chipsets) Market Size is set to record 40.1% CAGR during forecast 2022-2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 17, 2022 (Market Insight Reports) -- Selbyville, Delaware Artificial Intelligence (Chipsets) Market research is an intelligence report with meticulous efforts undertaken ..."
-    publishedDateTime: 2022-05-18T06:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-is-set-to-record-401-cagr-during-forecast-2022-2027-2022-05-17?tesla=y"
+  - title: "Senators Seek FTC Probe of ID.me Selfie Technology"
+    excerpt: "In a letter to the Federal Trade Commission requesting an investigation, four Democratic senators asked the regulator to examine whether identity verification company ID.me’s statements pointed to its use of illegal “deceptive and unfair business practices."
+    publishedDateTime: 2022-05-18T17:11:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2022/05/18/senators-seek-ftc-probe-of-id-me-selfie-technology/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Law
+      domain: law.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2022/05/US-Federal-Trade-Commission-Building-2022-012-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Face Recognition Software Market Size, Growth, Share, Leading Company Analysis, And Key Country Forecast to 2022-2028"
-    excerpt: "Global “Face Recognition Software Market” Report Size, and analysis maintains detailed dynamics and is over shadowed by"
-    publishedDateTime: 2022-05-19T09:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-growth-share-leading-company-analysis-and-key-country-forecast-to-2022-2028-2022-05-19"
+  - title: "Senators seek FTC probe of IRS provider ID.me selfie technology"
+    excerpt: "A group of Democratic senators has asked the Federal Trade Commission to investigate whether identity verification company ID.me illegally misled consumers and government agencies over its use of controversial facial recognition software."
+    publishedDateTime: 2022-05-18T17:25:00Z
+    webUrl: "https://techxplore.com/news/2022-05-senators-ftc-probe-irs-idme.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-senators-ftc-probe-irs-idme.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-senators-ftc-probe-irs-idme.amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-  - title: "Machine Learning Market In India Size Growth, Future Trends, Regions, Demand And Forecast 2022 To 2031"
-    excerpt: "Kenneth Research released a report on  Machine Learning Market in India  consisting of detailed analysis of the market and indust"
-    publishedDateTime: 2022-05-17T15:40:00Z
-    webUrl: "https://menafn.com/1104225642/Machine-Learning-Market-In-India-Size-Growth-Future-Trends-Regions-Demand-And-Forecast-2022-To-2031"
+      name: techxplore
+      domain: techxplore.com
+    quality: 24
+  - title: "Senators Seek FTC Probe of IRS Provider ID.me Selfie Technology"
+    excerpt: "A group of Democratic senators has asked the Federal Trade Commission to investigate whether identity verification company ID.me illegally misled consumers and government agencies over its use of controversial facial recognition software."
+    publishedDateTime: 2022-05-18T13:09:00Z
+    webUrl: "https://www.bnnbloomberg.ca/senators-seek-ftc-probe-of-irs-provider-id-me-selfie-technology-1.1767606"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?391924"
-        width: 455
-        height: 250
-        isCached: true
-  - title: "Industrial Robotics Market Size 2022-27 Share, Growth, Report and Forecast | IMARC Group"
-    excerpt: "According to the latest industrial robotics market report by IMARC Group, titled \"Global Industrial Robotics Market Size, Share, Industry Trends, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-05-18T15:36:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-industrial-robotics-market-size-2022-27-share-growth-report-and-forecast-imarc-group"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 25
-  - title: "Deep Learning Market 2022 Global Size, Share, Key Players, Production, Growth and Future Insights 2030"
-    excerpt: "Quadintel published a new report on the Deep Learning Market. The research report consists of thorough information about demand, growth, opportunities,"
-    publishedDateTime: 2022-05-19T10:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-2022-global-size-share-key-players-production-growth-and-future-insights-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Mobile Phone Facial Recognition Technology Market 2022: Global Industry Size and Growth Opportunities to 2028"
-    excerpt: "A report was released recently that sheds lots of light on the  Mobile Phone Facial Recognition Technology Market. The report covers an overview of the industry along with a detailed explanation that provides a lot of insight."
-    publishedDateTime: 2022-05-18T11:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-phone-facial-recognition-technology-market-2022-global-industry-size-and-growth-opportunities-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/d181e036e94ce0417b390ce7bc1e6c035f16169d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Regulate facial recognition, don’t ban it"
-    excerpt: "This article has been published in Restoring America to highlight how over-the-top government intervention can stifle technological advancement.]"
-    publishedDateTime: 2022-05-18T18:05:00Z
-    webUrl: "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/regulate-facial-recognition-dont-ban-it"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 19
-  - title: "Natural Language Processing Market Global Competition Data 2022"
-    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the highest revenue by 2029. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2022-05-19T20:16:00Z
-    webUrl: "https://xaralite.com/152200/business/natural-language-processing-market-global-competition-data-2022/"
-    type: article
-    provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 19
-  - title: "Self-Driving Taxi Market Growth 2022 Share, Size, Landscape, Top Key Players, Strategies and Forecast to 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Self-Driving Taxi Market” report"
-    publishedDateTime: 2022-05-20T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-growth-2022-share-size-landscape-top-key-players-strategies-and-forecast-to-2028-2022-05-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-  - title: "Far-Field Speech and Voice Recognition Attractiveness, Research Study Focus Upcoming Trend And Forecast 2020 To 2027"
-    excerpt: "Market Analysis Market Research Future (MRFR) predicts the global Far-Field Speech And Voice Recognition Market size to reach USD 3,005.14 million at a"
-    publishedDateTime: 2022-05-18T09:09:00Z
-    webUrl: "https://www.digitaljournal.com/pr/far-field-speech-and-voice-recognition-attractiveness-research-study-focus-upcoming-trend-and-forecast-2020-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Emotion Detection and Recognition Market Size, Competitive Strategies and Forecasts 2027"
-    excerpt: "In the research report, Market Research Future (MRFR), highlights that the global Emotion Detection and Recognition market 2020 is slated to grow"
-    publishedDateTime: 2022-05-19T13:09:00Z
-    webUrl: "https://www.digitaljournal.com/pr/emotion-detection-and-recognition-market-size-competitive-strategies-and-forecasts-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-  - title: "Artificial Intelligence In Transportation Market Technology, Applications, Demand, Growth Factors And Forecast To 2028"
-    excerpt: "Get a sample of the Artificial Intelligence in Transportation Market report @ Some Key Highlights in the Report In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for ..."
-    publishedDateTime: 2022-05-20T12:59:00Z
-    webUrl: "https://menafn.com/1104247482/Artificial-Intelligence-In-Transportation-Market-Technology-Applications-Demand-Growth-Factors-And-Forecast-To-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 4
 
 secured: "nNvJN8m4ZFUW0KDu7ePMWJgg+sXhzRpmQS01rArkF+w1dq0K9AyjypE9uw3gAUIlZeB9Gy0rhox6TaaK3sG0NHMlk87y/QEANYRXkepim8lZL46FxVrthtoWD63hT9/vQY/W+DtQ60SYGt9PWmbZD7/AFdzk4GmgHPkEz0hPnzzewtiyBdgZQc5Yhdx8vDSjcgYV/To3hsFcX4790GHDcKgu2ODSqw3OPYdmyyivDb6fqKhYg7sJ86vHgTDj9Wmowi7RFxhYXzSiEs2m1XBJtS+iWl+ufTo3Ut/4F0aBe3p7j9j7Zu5Df+e0oWlkKn3OmgTbesTk1GZLwUB3FTe4TroqegNnISePwfvNQyV/XwxyIKqUKt1RK0+TP0vluMn8ACM41ZuM1ZcfnhU51ZoeBqyz3Ssfztzw1DZYAg9tLaARp8ilffjwVHoKTfSvUTmjEEI39e7RbhmCZOXwadzcIp0wQewzrxxNq40vEooIEqelwAvLXe9ZEViqAJjwkFmCbfvKFrxrRGx9SyGHV7Qzrw==;bPMjiVIZ/yq5lMfL5FY9xQ=="
 ---

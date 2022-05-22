@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Adoption Can Impact The Insurance Industry"
-    excerpt: "But today, he is a strong proponent of artificial intelligence (AI). At a TED talk in 2017, Kasparov said, “Machines have instructions; we have a purpose. We will need intelligent machines to help us turn our grandest dreams into reality.” AI is all ..."
-    publishedDateTime: 2022-05-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//614e19843adfdba049044453/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Intelligent Automation, AI & Operational Excellence Leader Joins Process Intelligence Platform Leader Skan"
     excerpt: "Skan, a leader in the Process Intelligence solution industry that provides unprecedented insights into how organizations get work done, has appointed Vinaykumar (Vinay) Mummigatti as Executive Vice President of Strategy and Customer Transformation."
     publishedDateTime: 2022-05-20T13:37:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-18T11:55:00Z
 originalUrl: "https://www.inc.com/arvind-krishna/artificial-intelligence-innovation-future-opportunity-technology.html"
 webUrl: "https://www.inc.com/arvind-krishna/artificial-intelligence-innovation-future-opportunity-technology.html"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1090942270_503067_bqxza9.jpg"

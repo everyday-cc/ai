@@ -19,43 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report from Lucintel"
-    excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
-    publishedDateTime: 2022-05-20T23:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/asic-chip-market-is-expected-to-reach-34-4-billion-by-2027-an-exclusive-market-research-report-from-lucintel"
+  - title: "Edge AI Software Market: Global Industry Could Hit New Highs, Says Allied Market Research"
+    excerpt: "Increasing enterprise workloads on the cloud, rapid developments of IoT, and growth in the number of intelligent applications are the major driving"
+    publishedDateTime: 2022-05-18T11:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-global-industry-could-hit-new-highs-says-allied-market-research"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 19
+    quality: 28
     images:
-      - url: "https://www.abnewswire.com/uploads/1653029261.png"
-        width: 449
-        height: 300
-        isCached: true
-  - title: "The Intelligent Process Automation Market is expected to reach a value of 20.7 billion USD by the end of 2027"
-    excerpt: "As per our research analysis, In 2021, the Intelligent Process Automation Market size was forecast to be worth 8.1 billion dollars, and by the end of"
-    publishedDateTime: 2022-05-19T11:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-intelligent-process-automation-market-is-expected-to-reach-a-value-of-20-7-billion-usd-by-the-end-of-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 5
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel"
-    excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
-    publishedDateTime: 2022-05-18T14:48:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+  - title: "Blockchain AI Market: Key Players Change the View of the Global Face of Industry By 2030"
+    excerpt: "The rise in demand for the amalgamation of blockchain and AI in making an efficient software solution, monetization of data using blockchain technology"
+    publishedDateTime: 2022-05-20T03:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-key-players-change-the-view-of-the-global-face-of-industry-by-2030"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/393913cdf506e6a535563a5c8f38b15fbfae676d-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market: Machine Learning Technology to Rake at 45.4% CAGR During 2020-2028"
+    excerpt: "According to a recent report published by Allied Market Research, titled, “Automotive Artificial Intelligence Market by Component, Technology, and"
+    publishedDateTime: 2022-05-17T13:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-machine-learning-technology-to-rake-at-45-4-cagr-during-2020-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
 
 secured: "Nzvd7j8cmnbhE9RIBqCtjpy6kuipVYrs7/80Ah95RYA3ly1i0CnovGn7VA6yLwcosNZtPtxpRqlPyFpqhSxhyvefiQyH5OmSNxVDWsBXiXjTPqgATuErTzPPEyMF5uIQkQBH/deH3lgzpEWA5egCF8WJrBhweUcM79H8EWarCbfQUZI66SO6ZfZXbE+pGBPLXBAHmWOfXmKe81RQBPKQYb4mlMNHVgPJkwkRQwISQszvbwiVV+cqNKQ5b6HcD8UQHlybFKQEswl4K3tVW4Gi8AZUaE6u6HWernY/Y5qH9yv3uJmeLNrzKnPSGhfaiaMBUxZsQlxqv/V2za1/UZAQpUZrC2Oxhp73aghsysf9aXE=;N9JcZIvFsnKAAk8Bqsmulg=="
 ---

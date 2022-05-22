@@ -27,6 +27,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Ethical AI in hiring makes good business sense"
+    excerpt: "By quickly and efficiently analyzing large volumes of data, AI significantly reduces the time spent recruiting great potential candidates."
+    publishedDateTime: 2022-05-19T13:18:00Z
+    webUrl: "https://www.benefitspro.com/2022/05/19/ethical-ai-in-hiring-makes-good-business-sense/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 34
 
 secured: "x8bF5FbEEiYAFlnJwLa9UT25LBTb24D05gZrDyxTbKknszeM8jhHt7moXQGSbvIWn3v0j+x4bC5z1mpoCZF/t1bIIVcqsdMbTbJXd+Yxuad7eXL67RHPEZ+RonG6fuzUoGiRghc5wtv03nJePMnFVQ+8WtXrc9V5ojyV15n37sEXX7LsutLxM6Xm9GYVEYXOFHuNl/kpfzZzb6KPAHbT+dlFJxA45Qfqnc8OjFO6F1HBnxpKSj+vQlPc4c7VAa3MQFAG4wVB2FDRba5l0O2BN7apTp5bD9TrKw4RAdYsLQCPanwYJTE83aKRLen0iHg6EoROsa+lJxIO4+xJmlUfp3GuDKQMxkQpYW0xwMwo/+Di7Zu9x0iUzGV68PDMWaGUQu/Xz2kf2lRKfvDMH3SyYE8MH3w+RRQm2YveapUPynrHMUg7gcUfvLP/U3IO3c4k4vngs/GRO+BeIWj45NU0dtoVmdCWwAzR81xBtTVPPKHhWUgU7ScC1hsF28GYWsFsALIRcuKxRinBSSnsnbx4NQ==;tbE9/VdQI0skdG7KsKZjSQ=="
 ---

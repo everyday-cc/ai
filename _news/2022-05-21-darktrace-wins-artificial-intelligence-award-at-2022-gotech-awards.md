@@ -2,21 +2,17 @@
 category: news
 title: "DARKTRACE WINS ARTIFICIAL INTELLIGENCE AWARD AT 2022 GO:TECH AWARDS"
 excerpt: "Darktrace, a global leader in cyber security AI, today announced that it has won the AI & Machine Learning Award at the 2022 Go:Tech Awards. Backed by Business Leader, one of the UK's leading business titles,"
-publishedDateTime: 2022-05-20T19:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/darktrace-wins-artificial-intelligence-award-at-2022-go-tech-awards-1031479471"
-webUrl: "https://markets.businessinsider.com/news/stocks/darktrace-wins-artificial-intelligence-award-at-2022-go-tech-awards-1031479471"
+publishedDateTime: 2022-05-20T20:25:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
 type: article
-quality: 47
-heat: 47
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI
@@ -41,6 +37,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "wRA4EOH4Z+l/yyvWf2kkDUfU9qnzl611siVxIh+p/5ibdTtw96frYcHAIGZM5VTVd3Z7G6m29kRZrSSCtBO60TVIaQWypIdJq98wAKBJYuKnmiydWWOkPTOsggLDW6Wu+yeseVIM/Mf3hN77KJRqB+wYqTrMkDBYxkoAWF6VU0HO79m9N6i+1Pwr5x53RhKo9CKyVp9zIkHN8zy0DnRDTLNY3pLQoBOcs6rO53Y3ADPJRijpTtZh2bHf/sRn8TqUh5FnF/FUhSh6p0sLdalU3j5fVhv38E9CGfcMpe7TpUWdhYFCunQPvefWrnMxUSHgVjwDqu5h9/arXvDZwDx6kRzh9MQDXkZGt6icn+P9mTo=;Mw2TRDljvCP1gVQpbS8uww=="
+secured: "mvWcwO9i2bd5ldrXk0NJqeDw+EiHtxNY+WSacdjahtdiyHBSfSjLwBo+nH1Ll2Z9I/bNJ/961XYY2LJ5NKvaVKOPaUEjFyzKIiVO1kYy3wdQmd6+ffcH3Y+haZQQukwkOAY1KYu0/DsGf0kbF/SltbXy+O0AwKvRvzzuJ6GPXBUtFZEI8g9nStCtJLFFb3a7r3i7JjVLJgZXjDdvxZZkZXz/0pdKbWVDM8MBKOxEx3W4nCIShCNrjihwCucxn/Ac7yoPt9Q812/c1+c3ZjfnWRLNNlVTUPVtHoqJUIox91eDYTP2I1WXhErtnjbcOQGRVAId0JWGUEJjXlKBXrLEiBLFcnmNsrAhFvvDhP5z1Xw=;8rWJA3e+feIXZCNeOF8yWA=="
 ---
 

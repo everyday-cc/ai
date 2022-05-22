@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Ethical AI in hiring makes good business sense"
+    excerpt: "By quickly and efficiently analyzing large volumes of data, AI significantly reduces the time spent recruiting great potential candidates."
+    publishedDateTime: 2022-05-19T13:18:00Z
+    webUrl: "https://www.benefitspro.com/2022/05/19/ethical-ai-in-hiring-makes-good-business-sense/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 34
   - title: "The power industry found it harder to fill artificial intelligence vacancies in Q1 2022"
     excerpt: "Artificial intelligence-related jobs that were closed during Q1 2022 had been online for an average of 35 days when they were taken offline. This was an increase compared to the equivalent figure a year earlier,"
     publishedDateTime: 2022-05-18T13:03:00Z

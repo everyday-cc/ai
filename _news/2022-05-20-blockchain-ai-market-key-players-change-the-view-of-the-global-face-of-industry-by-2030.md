@@ -24,43 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Mining Market 2022: Explore Top Factors that Will Boost the Global Market by 2030"
-    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources"
-    publishedDateTime: 2022-05-18T11:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-2022-explore-top-factors-that-will-boost-the-global-market-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Mining Market: Top Driving Factors That Could Escalate Market Growth Worldwide, Report"
-    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources to reduce waste drives the growth of the market. In addition, autonomous mining equipment equipped ..."
-    publishedDateTime: 2022-05-19T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-top-driving-factors-that-could-escalate-market-growth-worldwide-report"
+  - title: "Edge AI Software Market: Global Industry Could Hit New Highs, Says Allied Market Research"
+    excerpt: "Increasing enterprise workloads on the cloud, rapid developments of IoT, and growth in the number of intelligent applications are the major driving"
+    publishedDateTime: 2022-05-18T11:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-global-industry-could-hit-new-highs-says-allied-market-research"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 28
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market – Big Changes to Have Big Impact (2022-2027)"
-    excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Oil and Gas Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Oil and Gas space,"
-    publishedDateTime: 2022-05-21T07:29:00Z
-    webUrl: "https://xaralite.com/189422/news/artificial-intelligence-ai-in-oil-and-gas-market-big-changes-to-have-big-impact-2022-2027/"
+  - title: "Automotive Artificial Intelligence Market: Machine Learning Technology to Rake at 45.4% CAGR During 2020-2028"
+    excerpt: "According to a recent report published by Allied Market Research, titled, “Automotive Artificial Intelligence Market by Component, Technology, and"
+    publishedDateTime: 2022-05-17T13:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-machine-learning-technology-to-rake-at-45-4-cagr-during-2020-2028"
     type: article
     provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 20
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+  - title: "The Worldwide Face Mask Detection Industry is Expected to Reach $4.2 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Global Face Mask Detection Market By Component, By Application, By Technology, By Regional Outlook, Industry Analysis Report and Forecast, 2021-2027” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2022-05-18T12:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-da0ee8b3bcf842c1b059837edd5ba12f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "w+bux6znBnCd+4Fce5PgRixlw+3eCtYcP8sdg6qrlscHkQdVxLukVuuxfsRKKQ+YVscXYf/abKaGjNjcV9YEdSlaXVKCFyBR2lzXq4FkLYxF3ZPikhNmm3wbPocLmQ22iClseHXgsnYXmVbdfrpWUW/TPKAwOBDjt95E0+YMqvBPzx2Yys4WFUErKx/5gS4R1Z79Z+/1ynw0KBr0CDnw5kXoi2nmCTFL+dcBshezH7GOYWABFqrzE94wgZF8+7uOOGrg9ZlCpawY8Qo0KeMbPuWpaEmlqFUfuL0Vo9iB6SfMKBV04ql8xiOS6TwClZS/g4FXJ5w0Yvx0zBbZzV8RFybGaNPbFCCt6hNEIsc3V9A=;IxMtpN0q2vtURmQ2w5SPqg=="
 ---

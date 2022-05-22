@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Faces Lawsuit For Using NHS Data Of 1.6 Mn People In UK"
-    excerpt: "Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its artificial intelligence (AI) division called DeepMind. DeepMind allegedly passed data on patients for a smartphone app called 'Streams' that it received from the Royal Free NHS Trust in London,"
-    publishedDateTime: 2022-05-17T10:18:00Z
-    webUrl: "https://menafn.com/1104226356/Google-Faces-Lawsuit-For-Using-NHS-Data-Of-16-Mn-People-In-UK"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/17/I_12427image_story.jpg"
-        width: 300
-        height: 400
-        isCached: true
   - title: "Google is facing legal action over using 1.6 million people's healthcare data 'without their knowledge or consent'"
     excerpt: "The internet giant is being sued after unlawfully using data given to the corporation’s artificial intelligence arm Deep Mind in 2015 from the Royal Free NHS Trust to use in testing a smartphone app,"
     publishedDateTime: 2022-05-18T07:50:00Z

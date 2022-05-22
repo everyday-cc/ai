@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-02-23-tull-family-foundation-gifts-prep-school-20m-for-labs-robotics.md",
-      "title": "Tull Family Foundation Gifts Prep School $20M for Labs, Robotics",
-      "excerpt": "Sewickley Academy in Pittsburgh will use the donation for facilities, scholarships and STEM offerings such as adding cybersecurity, artificial intelligence and advanced robotics to its computer science department.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics",
-      "originalUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/5ddf76b/2147483647/strip/true/crop/2048x1068+0+432/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F05%2F86c20d864ffdb8a6a71d21d4bca1%2Fsewickley-academy.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics?_amp=true",
-      "publishedDateTime": "2022-02-22T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-22-rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million.md",
       "title": "Rios, a startup developing robots that can grasp objects, has raised $28 million",
       "excerpt": "Rios’ robotics stack combines an AI orchestration system (deployed in the cloud or on-premises), embedded processors, computer vision, touch sensors, and accessories like gripper arms and pincers.",
@@ -1360,6 +1317,58 @@
         "name": "enterprisetalk",
         "domain": "enterprisetalk.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-micropsi-raises-34m-to-retrain-industrial-robots-using-human-demonstrations.md",
+      "title": "Micropsi raises $34M to retrain industrial robots using human demonstrations",
+      "excerpt": "“We and everybody around us — that’s us, who provide the AI, but also the makers of robots ... “Most customers will start with a single system and then add more as they validate its ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
+      "originalUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1316352689-e1635532855453.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
+      "publishedDateTime": "2022-02-10T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

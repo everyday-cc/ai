@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Adoption Can Impact The Insurance Industry"
-    excerpt: "But today, he is a strong proponent of artificial intelligence (AI). At a TED talk in 2017, Kasparov said, “Machines have instructions; we have a purpose. We will need intelligent machines to help us turn our grandest dreams into reality.” AI is all ..."
-    publishedDateTime: 2022-05-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/05/17/how-ai-adoption-can-impact-the-insurance-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//614e19843adfdba049044453/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
     excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
     publishedDateTime: 2022-05-18T08:33:00Z

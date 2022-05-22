@@ -67,6 +67,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 24
+  - title: "US Senators request investigation of facial recognition company."
+    excerpt: "Texas Department of Insurance clarifies facts surrounding data incident. US Senators request investigation of facial recognition company. South African pharmacy suffers customer data breach. Highschooler blows whistle on student data leak."
+    publishedDateTime: 2022-05-19T19:30:00Z
+    webUrl: "https://thecyberwire.com/newsletters/privacy-briefing/4/97"
+    type: article
+    provider:
+      name: Cyber Wire
+      domain: thecyberwire.com
+    quality: 19
   - title: "Senators Seek FTC Probe of IRS Provider ID.me Selfie Technology"
     excerpt: "A group of Democratic senators has asked the Federal Trade Commission to investigate whether identity verification company ID.me illegally misled consumers and government agencies over its use of controversial facial recognition software."
     publishedDateTime: 2022-05-18T13:09:00Z

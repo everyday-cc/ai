@@ -20,20 +20,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "3D Facial Recognition Market Growth, Competitive Methods and Forecast 2026"
-    excerpt: "May 17, 2022 (Market Insight Reports) -- This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report ..."
-    publishedDateTime: 2022-05-17T10:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026-2022-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Hardware Market Size, In-depth Analysis Report and Global Forecast to 2027"
     excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
     publishedDateTime: 2022-05-18T14:53:00Z
@@ -62,6 +48,71 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market Size, Share, Price Trend by Type, Segment Analysis by Application and Regional Forecast-2028"
+    excerpt: "AI in Fintech Market Forecast with sales and Revenue ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors."
+    publishedDateTime: 2022-05-20T11:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-share-price-trend-by-type-segment-analysis-by-application-and-regional-forecast-2028-2022-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge Artificial Intelligence (AI) Software Market Analysis Worth USD 2,519.3 Million In 2028 | Emergen Research"
+    excerpt: "Edge Artificial Intelligence (AI) Software Market Trends – Rising need for real-time operations Increasing art of AI applications and rapid introduction of 5G network are key factors driving ..."
+    publishedDateTime: 2022-05-19T17:21:00Z
+    webUrl: "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145472"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Mining Market 2022: Explore Top Factors that Will Boost the Global Market by 2030"
+    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources"
+    publishedDateTime: 2022-05-18T11:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-2022-explore-top-factors-that-will-boost-the-global-market-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Mining Market: Top Driving Factors That Could Escalate Market Growth Worldwide, Report"
+    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources to reduce waste drives the growth of the market. In addition, autonomous mining equipment equipped ..."
+    publishedDateTime: 2022-05-19T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-top-driving-factors-that-could-escalate-market-growth-worldwide-report"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Data and AI Ethics Market Size In 2022 with Top Countries Data : What is the demand outlook for Industry? | In-Depth Analysis with 104 Report Pages"
+    excerpt: "May 17, 2022 (The Expresswire) -- According to this latest study, In 2022 the growth of Data and AI Ethics Market will have significant change from previous year. Over the next five years the Data and AI Ethics Market will register a magnificent spike in ..."
+    publishedDateTime: 2022-05-18T13:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-in-2022-with-top-countries-data-what-is-the-demand-outlook-for-industry-in-depth-analysis-with-104-report-pages-2022-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Face Recognition Software Market Size, Growth, Share, Leading Company Analysis, And Key Country Forecast to 2022-2028"
     excerpt: "Global “Face Recognition Software Market” Report Size, and analysis maintains detailed dynamics and is over shadowed by"
     publishedDateTime: 2022-05-19T09:03:00Z
@@ -122,33 +173,38 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Regulate facial recognition, don’t ban it"
-    excerpt: "This article has been published in Restoring America to highlight how over-the-top government intervention can stifle technological advancement.]"
-    publishedDateTime: 2022-05-18T18:05:00Z
-    webUrl: "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/regulate-facial-recognition-dont-ban-it"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 19
-  - title: "Natural Language Processing Market Global Competition Data 2022"
-    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the highest revenue by 2029. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2022-05-19T20:16:00Z
-    webUrl: "https://xaralite.com/152200/business/natural-language-processing-market-global-competition-data-2022/"
+  - title: "Artificial Intelligence (AI) in Oil and Gas Market – Big Changes to Have Big Impact (2022-2027)"
+    excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Oil and Gas Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Oil and Gas space,"
+    publishedDateTime: 2022-05-21T07:29:00Z
+    webUrl: "https://xaralite.com/189422/news/artificial-intelligence-ai-in-oil-and-gas-market-big-changes-to-have-big-impact-2022-2027/"
     type: article
     provider:
       name: xaralite.com
       domain: xaralite.com
-    quality: 19
-  - title: "US Senators request investigation of facial recognition company."
-    excerpt: "Texas Department of Insurance clarifies facts surrounding data incident. US Senators request investigation of facial recognition company. South African pharmacy suffers customer data breach. Highschooler blows whistle on student data leak."
-    publishedDateTime: 2022-05-19T19:30:00Z
-    webUrl: "https://thecyberwire.com/newsletters/privacy-briefing/4/97"
+    quality: 20
+  - title: "Robot Operating System Market is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2029"
+    excerpt: "Growth in adoption of robots in the e-commerce sector, penetration of automation in different industries, and increase in emphasis of labor safety drive"
+    publishedDateTime: 2022-05-20T03:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robot-operating-system-market-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2029"
     type: article
     provider:
-      name: Cyber Wire
-      domain: thecyberwire.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/393913cdf506e6a535563a5c8f38b15fbfae676d-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Global Military Robots Market to be Driven by the Advancement in Artificial Intelligence and Robotics in the Forecast Period of 2022-2027"
+    excerpt: "The new report by Expert Market Research titled, ‘Global Military Robots Market Size, Share, Price, Trends, Growth, Report and Forecast 2022-2027’, gives an in-depth analysis of the global military robots market,"
+    publishedDateTime: 2022-05-18T17:07:00Z
+    webUrl: "https://xaralite.com/95222/business/global-military-robots-market-to-be-driven-by-the-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027/"
+    type: article
+    provider:
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 18
   - title: "Self-Driving Taxi Market Growth 2022 Share, Size, Landscape, Top Key Players, Strategies and Forecast to 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Self-Driving Taxi Market” report"
     publishedDateTime: 2022-05-20T07:42:00Z
@@ -158,20 +214,42 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
-  - title: "Far-Field Speech and Voice Recognition Attractiveness, Research Study Focus Upcoming Trend And Forecast 2020 To 2027"
-    excerpt: "Market Analysis Market Research Future (MRFR) predicts the global Far-Field Speech And Voice Recognition Market size to reach USD 3,005.14 million at a"
-    publishedDateTime: 2022-05-18T09:09:00Z
-    webUrl: "https://www.digitaljournal.com/pr/far-field-speech-and-voice-recognition-attractiveness-research-study-focus-upcoming-trend-and-forecast-2020-to-2027"
+  - title: "Global Healthcare Chatbots Market Share 2022, Size, Market Movements by Trend Analysis, Growth Status, Revenue Expectation to 2030 Research Report"
+    excerpt: "Global “Healthcare Chatbots Market“ (2022-2030) research report represents a detailed overview of the current market situation and forecast till 2030. The study perhaps a perfect mixture of qualitative and quantitative information highlighting key market developments,"
+    publishedDateTime: 2022-05-19T07:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-chatbots-market-share-2022-size-market-movements-by-trend-analysis-growth-status-revenue-expectation-to-2030-research-report-2022-05-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
+  - title: "Titan Capital Markets Releases Key Analysis of AI Market Outlook And Trends For 2022"
+    excerpt: "TITAN CAPITAL MARKETS PTY LTD, an AFSL-licensed and ASIC-regulated integrated educational financial group in Australia that helps members to improve their financial thinking and forex trading skills through extensive online and offline financial education courses and systematic social trading training programs,"
+    publishedDateTime: 2022-05-19T11:57:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-97578c02db1c212e1dbdf1498d48da01"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+  - title: "Titan Capital Markets Releases Key Analysis of AI Market Outlook And Trends For 2022"
+    excerpt: "TITAN CAPITAL MARKETS PTY LTD, an AFSL-licensed and ASIC-regulated integrated educational financial group in Australia that helps members to improve their financial thinking and forex trading skills through extensive online and offline financial education courses and systematic social trading training programs,"
+    publishedDateTime: 2022-05-19T19:25:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-5-20-titan-capital-markets-releases-key-analysis-of-ai-market-outlook-and-trends-for-2022"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 10
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market to enjoy explosive growth | Aboard Software, Analytical Flavor Systems, Deepnify, etc."
+    excerpt: "Impact Analysis on the Growth of Artificial Intelligence (AI) in Food and Beverage Market The global artificial intelligence in food & beverages"
+    publishedDateTime: 2022-05-20T10:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-food-and-beverage-market-to-enjoy-explosive-growth-aboard-software-analytical-flavor-systems-deepnify-etc"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 1
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+    quality: 0
   - title: "Artificial Intelligence In Transportation Market Technology, Applications, Demand, Growth Factors And Forecast To 2028"
     excerpt: "Get a sample of the Artificial Intelligence in Transportation Market report @ Some Key Highlights in the Report In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for ..."
     publishedDateTime: 2022-05-20T12:59:00Z

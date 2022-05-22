@@ -48,15 +48,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 0
-  - title: "The Worldwide Face Mask Detection Industry is Expected to Reach $4.2 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Global Face Mask Detection Market By Component, By Application, By Technology, By Regional Outlook, Industry Analysis Report and Forecast, 2021-2027” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2022-05-18T12:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-da0ee8b3bcf842c1b059837edd5ba12f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "6xOoa0afxCZydCcPMwQDtzZ7N8GykUs/bDXnP3qhBzifq63r8vCHgoJjac8ngFkGB34q6X04kjbv4XDji2WJEaMhIVS3+aAEuNVUXQGz+uLRjyWgjBtP4J9LD3VPxWNzrhWosT3HBcUye8kEJsmdrBn4fSrxecfOz/Dnyru7Xrw0t1gF+5qqM8MwBpUVr4LiVXxmVkku4N8uXiGidX683Lx5sqyRx1LR7kU6W1QHMDjZUaZSjlArUHpRVBSwZcE8OkU9k0maMAmLI5q1T9u/VhbfjD4rGe/eUl4x0YmmrCCkaF56Z7kHChg+LF6Kk2U+w4j9yfeTC20Qag9ODGAZKU/MsTrXemjFSU0clmcObhE=;Cb+p8MtzLCKsQ8kJyULIVw=="
 ---
