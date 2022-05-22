@@ -33,20 +33,6 @@ related:
         width: 449
         height: 300
         isCached: true
-  - title: "The Intelligent Process Automation Market is expected to reach a value of 20.7 billion USD by the end of 2027"
-    excerpt: "As per our research analysis, In 2021, the Intelligent Process Automation Market size was forecast to be worth 8.1 billion dollars, and by the end of"
-    publishedDateTime: 2022-05-19T11:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-intelligent-process-automation-market-is-expected-to-reach-a-value-of-20-7-billion-usd-by-the-end-of-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 5
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "4GgDB/cS0wqJAlqOEd2hhHsKmoWamL+JY5vxp+2Ah1EplJlWZpDAdwflRpwcIr82XXIB5lA+dEI5flXQj+/FbQTj16fQQ/gW+p/i27qFTWRTpbBYBdHTN/jPcjNaOBNb9ptETHarYwcLb9xymkVlpuKkmf2Vby4e/llv6Ngk3q9eVL6J2hDYIOsX+XvlHyhM5fCNA52UQdF1pjJq/WIaGHO/gk33v4QpcZFv860QzGqH/mnLqta8/S8JergcchHAW3SAZRzvG7LdGaq+NYKXlx6OT+9HcQv8RbAQ+8z21VyA/ILH5FveDaoEm61NcP7U6uAE83T7qVUVnsQlUv8z2JmZSeD7JkikY/5DO53a/yKu5xWkOOtH1C+s4Z2ICKXxMJs9PHyn6xvdzavOddoRVD0FO6oFgbfqajPvXoBtje/nSKVxUW4okKUgGgjHp7LF0/EaQFOdeNId0PeNhd5ySqKgpuD71LyOMsbo1ezRMhOplRQ3bSsc5/3YgMQrwd0H/1CJ6VzC8bYDZnToZXNFMA==;C0xC0IFRw1TEPNGnLezSzA=="
 ---

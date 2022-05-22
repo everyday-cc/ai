@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Facebook-Owner Meta Opens Access to AI Large Language Model"
-excerpt: "(Reuters) - Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was ..."
-publishedDateTime: 2022-05-03T14:15:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model"
+title: "Facebook-owner Meta Opens Access To AI Large Language Model"
+excerpt: "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first ..."
+publishedDateTime: 2022-05-03T14:59:00Z
+originalUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
+webUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "RTjuNZQ3Os8To7sS3Lu9WY5YmLKRy6WWU+pG1vvm7vQtvX6nvm9P1Ops10rQCOCQ/f4MSTEmRbRhEY+FR+zYRfIraCPR9mQaBYNdwtZKv8o3uh3kU2cBWki1TG81Neax7fCmw1rXVfwQWh7JtCWj8pZEQArF3tBPi59Cz3OckArz4b9HrwRsTRvlF2uiTPNupvUyfmFgQPwBT8PDjV+idKvK1cRco3w7eA+7lGXu+e6+D2SAsQR1S5gmoUPnqo+moxYwffg0KxZkMdDWVsHhi15TelG/3/1eg6kSTEhFo2rSjff4xVHHCLdmkv+Ool+MNUty2CwB1TOiEYVd7SEdsio6MNvl/Oa2oV93gY8ECt8=;Izc53DWrDsikc3wzjk98CQ=="
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg"
+    width: 1200
+    height: 803
+    isCached: true
+
+secured: "N+xXE3IY+6163do+h268JtFXm3cTxQwxhU4QVMDNZpEd7Qlge4jz8fl9e/uIsaVa9cnT7F9X0N4AjXvF6cwsYn5NLvKLur6g7cJxyQTxSdHphYRVyRopFsi5KxmfAsxjTD3FZQ1lsAhgIpQm0a20X6vMRMsJ2+QL725Z/Y7tXkE6saReuXJzUnEFK0/XU1VtJY4InMhdOvrB6c+/uV4HxmJVR0sVDYWmCq/UBNM5Nx9cHNoaL+N0x+RG3XuISW2u65cu6RX554reOkVAU7RU3ZEfNhqrUOvMlZPO1P2uZO/jizvBB73xuiMFCckNWcXZSLrZJpG2nowwYHF42VBLZ04sIi7xHWdr8nDfuANQcOE=;l+7c0vgD2tBi0kI86m2zgA=="
 ---
 

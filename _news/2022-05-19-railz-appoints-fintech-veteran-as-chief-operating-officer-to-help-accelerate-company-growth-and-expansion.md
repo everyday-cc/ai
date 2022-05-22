@@ -35,17 +35,20 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "T3 Conference Review from a FinTech CEO’s Perspective"
-    excerpt: "The return of the Technology Tools for Today (T3), a financial technology conference in Denton, TX, was an important event bringing together and creating a financial industry ecosystem of FinTech leaders,"
-    publishedDateTime: 2022-05-17T15:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/t3-conference-review-from-a-fintech-ceos-perspective"
-    ampWebUrl: "https://www.nasdaq.com/articles/t3-conference-review-from-a-fintech-ceos-perspective?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/t3-conference-review-from-a-fintech-ceos-perspective?amp"
+  - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
+    excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
+    publishedDateTime: 2022-05-18T08:33:00Z
+    webUrl: "https://www.finextra.com/blogposting/22305/five-ways-artificial-intelligence-in-fintech-is-changing-the-industry"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 422
+        isCached: true
   - title: "10 Upcoming Fintech Webinars to Watch Live if You’re in Asia"
     excerpt: "For fintech entrepreneurs, professionals and investors located in Asia, we’ve compiled a list of the top upcoming webinars to watch live. These virtual events are meant to help viewers learn about some of the hottest fintech trends and biggest opportunities out there."
     publishedDateTime: 2022-05-18T06:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 603
     isCached: true
-
-related:
-  - title: "Finding the Fairness in AI"
-    excerpt: "A machine learning system used by Amazon to pre-screen job applicants was found to display bias against women, for example, while an AI system used to analyze brain scans failed to perform equally well across people of different races."
-    publishedDateTime: 2022-05-17T15:09:00Z
-    webUrl: "https://cacm.acm.org/news/261047-finding-the-fairness-in-ai/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
 
 secured: "XFYkm1vL5GUXdA6qFQWTVJM7mYH4iGvKR+5NXrgiw8dh66bJBTr5xHu84Tt1YZN/s5Iyr5fI/gIq97Un3vv2dm1yMLjX0BH5hZPGZDReohcXtEa2YJNu6xo/j9n5UgQkmtPNOjPN1+mhDWEeuENvYbCBn8jEomHsRH24TFVYmoZogISfItXHQjujriKsk6GjOuJEMCBRyO+F0TCiCoLG0n6NbYDrAe2sZZVfW/GgyD1dGewodkgpuGR+DMoPRqSh7GCnScDFZIdJ8gMHNN4oY48m0L6xGWHDRx+U1lW0pCY36XMhXrKkzJ+qspdJwUDJmn837klLsGxiWtUhr6lMMPGKb6bxAacHiqEpVKVJkTxOH/t6FBwp1RDd5Apby4gKmbc3qyWm/BN7IBwIpCgP+OxDpnZGmVP9Ojk06iT9WUfD9lsfKO6cCVSuZkMKoNi5ZeSG01s/9ClgpmaXC4rc+gPzNIvTqz5SjpjZGOtwR2dfaDM4kiI9ibNcBmU3hPJUARyHgSXxZRnC1Jb8wIHpZg==;ELOm6gG96cvqtH8nD2uYCQ=="
 ---

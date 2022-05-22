@@ -72,20 +72,6 @@ related:
         width: 750
         height: 430
         isCached: true
-  - title: "Scientists use machine learning models to help identify long COVID patients"
-    excerpt: "Clinical scientists used machine learning (ML) models to explore de-identified electronic health record (EHR) data in the National COVID Cohort Collaborative (N3C), a National Institutes of Health-funded national clinical database,"
-    publishedDateTime: 2022-05-17T16:36:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/953020"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e08c1c1a-08ef-4b9f-8b33-6fdc4b78d028/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Identification of long COVID patients through machine learning"
     excerpt: "In a recent study posted to Preprints with The Lancet*, researchers developed a machine learning approach to identify patients with long coronavirus disease (COVID). . Image Credit: Starocean/Shutterstock The post-acute sequelae of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection are called long COVID."
     publishedDateTime: 2022-05-20T11:48:00Z

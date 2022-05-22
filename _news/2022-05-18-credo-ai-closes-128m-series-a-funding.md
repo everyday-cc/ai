@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2022/05/credo-ai-closes-12-8m-series-a-fun
 webUrl: "https://www.finsmes.com/2022/05/credo-ai-closes-12-8m-series-a-funding.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Credo AI raises $12.8M Series A to bring ethics into AI used by corporations"
-    excerpt: "Credo AI was co-founded in 2020 by CEO Navrina Singh and CTO Eli Chen as a way to bring better oversight and governance to the artificial intelligence industry across three levels"
-    publishedDateTime: 2022-05-17T15:49:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2022/05/17/credo-ai-seriesa-funding-venture-capital.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
   - title: "Credo AI Closes $12.8 Million Series A Funding Round Led by Sands Capital"
     excerpt: "The funding will further Credo AI's category defining leadership in Responsible AI, accelerate product development and strengthen its tech policy function to support emerging AI standards and ..."
     publishedDateTime: 2022-05-17T18:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/intelligent-automa
 webUrl: "https://markets.businessinsider.com/news/stocks/intelligent-automation-ai-operational-excellence-leader-joins-process-intelligence-platform-leader-skan-1031478759"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -28,36 +28,82 @@ images:
     isCached: true
 
 related:
-  - title: "How AI-driven robots and drones bring cognitive intelligence to Industry 4.0"
-    excerpt: "The robots, drones and cameras that inspect machines to perform predictive maintenance and relay analog information to operations staff can now function autonomously. Even better – the longer they’re at their jobs,"
-    publishedDateTime: 2022-05-17T15:05:00Z
-    webUrl: "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/"
-    ampWebUrl: "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/"
+  - title: "Crowd Media enters conversational AI partnership with business intelligence platform to supercharge sales and lead generation"
+    excerpt: "The deal is a natural fit for Crowd Media which will now go and whip up a Proof of Concept (POC) which will focus on leveraging CM8’s Talking Head platform to apply “conversational AI” to the Media Search sector. That POC will be with SourceFlare in ..."
+    publishedDateTime: 2022-05-18T00:53:00Z
+    webUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/"
+    ampWebUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 47
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/AI_robots.jpg?w=1200&strip=all"
+      - url: "https://stockhead.com.au/wp-content/uploads/2022/05/Unknown.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
-    excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
-    publishedDateTime: 2022-05-18T08:33:00Z
-    webUrl: "https://www.finextra.com/blogposting/22305/five-ways-artificial-intelligence-in-fintech-is-changing-the-industry"
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
+    publishedDateTime: 2022-05-18T15:30:00Z
+    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: KOIN 6
+      domain: koin.com
+    quality: 20
     images:
-      - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 422
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+        width: 800
+        height: 340
         isCached: true
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "Hanzo, a technology pioneer in preserving, collecting, reviewing, and exporting dynamic, complex collaboration and web-based data, in partnership with Nightfall AI, the first cloud-native extensible data loss prevention (DLP) platform,"
+    publishedDateTime: 2022-05-18T23:04:00Z
+    webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
+    type: article
+    provider:
+      name: abc27
+      domain: abc27.com
+    quality: 20
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
+        width: 800
+        height: 340
+        isCached: true
+  - title: "The Intelligent Process Automation Market is expected to reach a value of 20.7 billion USD by the end of 2027"
+    excerpt: "As per our research analysis, In 2021, the Intelligent Process Automation Market size was forecast to be worth 8.1 billion dollars, and by the end of"
+    publishedDateTime: 2022-05-19T11:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-intelligent-process-automation-market-is-expected-to-reach-a-value-of-20-7-billion-usd-by-the-end-of-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 5
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "BigBear.ai Names Former Intelligence Officer Tony Barrett as President of Cyber and Engineering Division"
+    excerpt: "Ex-Marine and decorated combat veteran will apply innovation and outstanding service to steer the strategic growth of BigBear.ai’s Federal Sector BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions,"
+    publishedDateTime: 2022-05-19T12:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-19-bigbearai-names-former-intelligence-officer-tony-barrett-as-president-of-cyber-and-engineering-division"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+  - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
+    excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
+    publishedDateTime: 2022-05-19T13:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/19/9605577.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "daTGKuCPj2Peq00fcOS9c5Tn98b/Y/vF9vqNP0UrPK3pvh9BZVjTvm9vfHPlfAWfQm8gOs2ekRTbXlWJ2ewJ45FqMOnIDZwpgKuCe8R9C7PNXO62d1NfxBjfvfHgeQiVwfPEoi20E5z70Cv+Ijl06J9de60OIO47W1iZYBEalKXDRHC643YwYa+cHGbkRe7SuHPpT9V0oRu3F+PfMrZQXMRjeET1klUuiRS0KxVWv4Pw8j9S+Wlx48Hk05P4H0prHUoPtXmppY37MxnrAxJkdhrNeqY8TMhNcRo1zM0DfMQMDU9v4sIvqNm7x3R+DtXywQDLdY6sj37j99urNc7A0GFM7U+iPuSrZQVYYyNUUDNbJ/I76IKxSp7jtl1PmQBZKgOto0mwdRBnNHiJMi4673WBKqyCSvF0tj31nFaLV2+qMGcQVSQVKtNIYbxBGay+2rbZt4svd8d9urIkCCGrsWdSEFwqiQ65aThlAtjdkWJYfU52xHzcGuwcjb3+oAG8FPwYSuEiZKoASqEaQxvU0w==;xgrBv3vSshqtBuLBy4je0w=="
 ---

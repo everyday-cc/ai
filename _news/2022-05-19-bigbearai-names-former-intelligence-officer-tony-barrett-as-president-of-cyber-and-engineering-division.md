@@ -18,20 +18,87 @@ topics:
   - AI
 
 related:
-  - title: "Tony Barrett Elevated to President of Cyber and Engineering at BigBear.ai; COO Sam Gordy Quoted"
-    excerpt: "Looking for the latest Government Contracting News? Read about Tony Barrett Elevated to President of Cyber and Engineering at BigBear.ai; COO Sam Gordy Quoted."
-    publishedDateTime: 2022-05-19T20:43:00Z
-    webUrl: "https://executivegov.com/2022/05/tony-barrett-elevated-to-president-of-cyber-and-engineering-at-bigbear-ai/"
+  - title: "Intelligent Automation, AI & Operational Excellence Leader Joins Process Intelligence Platform Leader Skan"
+    excerpt: "Skan, a leader in the Process Intelligence solution industry that provides unprecedented insights into how organizations get work done, has appointed Vinaykumar (Vinay) Mummigatti as Executive Vice President of Strategy and Customer Transformation."
+    publishedDateTime: 2022-05-20T13:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/intelligent-automation-ai-operational-excellence-leader-joins-process-intelligence-platform-leader-skan-1031478759"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 25
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/05/19/25/61/27/a3/93/dd/f5/f4/unnamed-file-32.jpeg"
-        width: 272
-        height: 270
+      - url: "https://mma.prnewswire.com/media/1822132/Vinay.jpg"
+        width: 400
+        height: 400
         isCached: true
+  - title: "Crowd Media enters conversational AI partnership with business intelligence platform to supercharge sales and lead generation"
+    excerpt: "The deal is a natural fit for Crowd Media which will now go and whip up a Proof of Concept (POC) which will focus on leveraging CM8’s Talking Head platform to apply “conversational AI” to the Media Search sector. That POC will be with SourceFlare in ..."
+    publishedDateTime: 2022-05-18T00:53:00Z
+    webUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/"
+    ampWebUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 47
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2022/05/Unknown.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
+    publishedDateTime: 2022-05-18T15:30:00Z
+    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 20
+    images:
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+        width: 800
+        height: 340
+        isCached: true
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "Hanzo, a technology pioneer in preserving, collecting, reviewing, and exporting dynamic, complex collaboration and web-based data, in partnership with Nightfall AI, the first cloud-native extensible data loss prevention (DLP) platform,"
+    publishedDateTime: 2022-05-18T23:04:00Z
+    webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
+    type: article
+    provider:
+      name: abc27
+      domain: abc27.com
+    quality: 20
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
+        width: 800
+        height: 340
+        isCached: true
+  - title: "The Intelligent Process Automation Market is expected to reach a value of 20.7 billion USD by the end of 2027"
+    excerpt: "As per our research analysis, In 2021, the Intelligent Process Automation Market size was forecast to be worth 8.1 billion dollars, and by the end of"
+    publishedDateTime: 2022-05-19T11:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-intelligent-process-automation-market-is-expected-to-reach-a-value-of-20-7-billion-usd-by-the-end-of-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 5
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
+    excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
+    publishedDateTime: 2022-05-19T13:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/19/9605577.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "yQgewtKQeMhvsB5ftbfN1BRd0GXROxLZxr86ItO+C3tmVNS3vkz084aS7GjdKsZAfSMRh3IJB6I9ua/6JAQHsUEeJhcR9yMuyqn4cq3/RwqpDx779CZuTFUW7cWGESW74TeMRsugSPaGHbbyrUx7FGz0CxKMdmfOqa0aQQGlg+xhX9z0AJiOay/UY2CKllvTBGuKUmSyD4jhr+VUPC1NBJej15Trx2/welyg3pzjVeXbLVe5d7K8IQuxP4tfNdDbpxBKh1XAFq0Si0aw1YAurxwPpNjOWRFDCE2gHl1YaLk4sxPvlkpvEg/kvwcmtnPC/BgwMh+xUXgWob9Yu8F85jLO+cvdWBOiFNk3hcDEJaOp3n9QaKDH0zqGaOidPX+s+q5HIzR3vpFT0ItANAXlh1xrAjQkXhR8QLQ3Fl2WmXLc0Xk0JoQXsYyLbiavxnlNoqtwmknvK0iOCkJ6vIw1r6YgsZ6uq/qYNT4Uneo6jXfye36tbmfNJS6wHsd18GkN1FlHlaIt/kNeJtMVu8Sazw==;8aAyRlcxBpl6Glfoj9CTTA=="
 ---

@@ -2,27 +2,21 @@
 category: news
 title: "Horizon3.ai Named Finalist for Most Promising Early-Stage Startup in 2022 SC Awards"
 excerpt: "Horizon3.ai, a cybersecurity firm focused on autonomous penetration testing, today announced that it has been recognized as an Excellence Award finalist in the Most Promising Early-Stage Startup category for the 2022 SC Awards."
-publishedDateTime: 2022-05-18T10:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-san-francisco-b0f527227d4b4c3abe9f6cd62b2e832d"
-webUrl: "https://apnews.com/press-release/business-wire/technology-san-francisco-b0f527227d4b4c3abe9f6cd62b2e832d"
+publishedDateTime: 2022-05-18T10:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-18-horizon3ai-named-finalist-for-most-promising-early-stage-startup-in-2022-sc-awards"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-18-horizon3ai-named-finalist-for-most-promising-early-stage-startup-in-2022-sc-awards"
 type: article
-quality: 31
-heat: 31
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "SyDIVhVzC4cMVFqwUXCAoB11fGXrf9MtPVKqWCEdp007Fy+IGzIcs+0zEkK2/wyMGkfEO3mIgft3vO3/3cFD49J5eWxtzNdDV4pdMbVmKGzbck7JpIP1tC3Z2Xk6PEtrOqHFgFfwvf6IUP1WJDCnqh6fa+w++Rhh/ean1TfqfdFQrqCmASdnyGo5ggZMGEUWYbEdRz0em/G8ME9A3UW3fHvjZo0XQrA9SKY+BQ+tQsJ8Ld5RPj4ZgGXFFc1YGjyqgDB3dqVZCj8b3B8eeRkaIBNykz+WzsIrjHnERR1AZajbf1A9yz9Cw/i/lck9hdCNOTjKD4SkybPmEDkscytb7bjqVnFWFKQWEFJUsHCGURQ=;V5DhivUgNLbKCDSo8oKCOg=="
+secured: "eAkIfHWQCWloOxzSCSyLAh6DeJwM7f8iKkjapPReyW/Y8bg10ye8TKQZQUUzcPRknBJV2Sg3EzJMgfb4rj6+kAUujC9oCY7JL0D9f0CPGpuJq4mbmJFBdoIUqW+aa74OQFJigvKCjVz5pPLXBtGDp2eK5B+EaFiZ576OqgqXblvZ59iDuHTEOGyvkW6N0KcaF4JWaWyhXNumT74r308/yw+81nc+vbm8emGYewLrb3UkT+di3EfFMZ/4zlTnl+6xC70zjTItAW/65lEarr3fHOMfapF5tEzhaiWsDJIyZ9s+RWPnQ/RUrVmrgUPw663d0W5k5luwK84Al4nOOIM9Ak48wBzoMhdwI4M4MfQWf8c=;RylYufXF4QMPPG1M+b1nYA=="
 ---
 

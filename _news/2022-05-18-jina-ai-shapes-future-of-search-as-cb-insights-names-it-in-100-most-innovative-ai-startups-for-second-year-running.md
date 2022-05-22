@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
-    excerpt: "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". The word \"Markets Insider\". Two crossed lines that form an 'X'."
-    publishedDateTime: 2022-05-17T16:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running-1031469372"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/1819489/Jina_AI_CBInsights_2022_V02__1.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Encord Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "“We’re honoured to not only be recognized as an innovative AI Startup but also as the only company within the computer vision bracket. The whole team has worked tirelessly from its humble beginnings to get to where we are today and for this effort to ..."
-    publishedDateTime: 2022-05-17T16:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-4dc43e2541424c35958ce34955b8a195"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Five Canadian startups crack CB Insights’ 2022 AI 100 list"
     excerpt: "Five Canadian AI companies have been named in CB Insights’ sixth annual AI 100 list, which aims to highlight the most promising and innovative private AI startups in the world."
     publishedDateTime: 2022-05-18T21:14:00Z
@@ -131,15 +103,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Observe.AI Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Observe.AI is recognized for leading innovations in contact center AINEW YORK--(BUSINESS WIRE)--Observe.AI ( an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named to CB Insights’ annual AI 100 Ranking,"
-    publishedDateTime: 2022-05-17T16:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=665306"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 15
   - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
     excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
     publishedDateTime: 2022-05-19T17:00:00Z
