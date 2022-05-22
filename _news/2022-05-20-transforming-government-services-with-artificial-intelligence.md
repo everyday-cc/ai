@@ -3,12 +3,12 @@ category: news
 title: "Transforming Government Services with Artificial Intelligence"
 excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
 publishedDateTime: 2022-05-19T18:36:00Z
-originalUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence"
-webUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence"
-ampWebUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
+originalUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
+webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
+ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
   domain: govtech.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -143,6 +142,6 @@ related:
       domain: businessinsider.com
     quality: 35
 
-secured: "P1jwTgNs9cJZJqbPMPRz8xnxvw/VdYVoun35r3dg+fzH6ZOLN0MU3oEq36rmfV/I7pT6abVSiuYLoDkZxy4wg9VqCCcwjjR9rf7RonGzQRMGd00FUsOnT8eFuz9Y/qv7V9+aXJrKy3UqqBe+weDZcQM1/9fTRisdojw17Gq+EuO6pG0o7ko+H+PgWx83ywORqOfN5tm+A5m6oBo49cF0HdA6wjQt7AVI/1N0u5Lb+NMq3nrtWYMJiv/EX3F6yCA4ATtRESG8qBjEnB07synzAEYZnP4mSWQxkwpIrSFQXtQfHHddzJXFwEDjEoXXouvrH4S9O5xx9JL/rEKQJgtrktGh5l6b74TD2dzrnfVHMzk=;pwgBswp0/+7M50+ZytQCfA=="
+secured: "BejCsKfzCAy1eX9qgHjAKftTN/AK1cRW7YhxJBRbjqLcKpEZBin0KzvWV7xbWjWZg/uz88ac1+JirdMpUEpq04LhFSnXk6qvojj73chg6CLSMtnCAy2amgoYrTBPZP11C15SJa3STqPwTKfuswErT4PFXxSqawDgggKymZi3XJAZBXjRfKzrip0znF28vaHpedo5yh6qCV7Rlkpt+AhYLEPSoH6NyUTpDQ7+puokreA9H9IvDDV2Ry+VXtoPrmKZyNZCp5EKsk/O94O7GFK4PSJU/8NtvWIaJF7TpZNm0B6BIClpLM+BknQG7+f2dOE36gqKI6sxWVOupZSgEoVsaK29XEJ+9TQQgVldARhMNlY=;Y2X9sZxJ8sgY+qloX684oA=="
 ---
 

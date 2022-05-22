@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Relativity Explores Ethical AI and Unveils New Product Capabilities to Enhance Productivity at Relativity Fest London"
-    excerpt: "... Translation Relativity will incorporate AI machine translation directly in RelativityOne. Out-of-the-box, users will be able to translate large batches of documents in more than 100 languages and 12,000 language combinations. Relativity is ..."
-    publishedDateTime: 2022-05-17T11:35:00Z
-    webUrl: "https://www.abc4.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/"
+    excerpt: "Breaking Free from Bias with AI Relativity remains steadfast in its commitment to deliver the cutting-edge solutions that will help its customers thrive in an increasingly dense a"
+    publishedDateTime: 2022-05-17T09:51:00Z
+    webUrl: "https://who13.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/"
     type: article
     provider:
-      name: abc4.com
-      domain: abc4.com
+      name: who13
+      domain: who13.com
     quality: 13
 
 secured: "HIw4eRAay32DKhzjescRlBuYhlHhR8Otyefz4P51WVNky+XWvcv2ByJmzjQt1YPbQK7iXmucP1jKIRRYCy9HDk1jNXIYd5CnYw1PvsXURQ4QMB3Q7AoCNB07F8RiRCMzzs95vRTIxTn5LrkffF67ecgxHrsle34pmOn47my1PD+jjsI4GzU+An+Gh8KqREQ9GYktPE2BmqoJgWPwl4mQNY50KvzIE8qXxDNbaBaGzv6WnMwfahrwnnho4FRJT54bCq09XERbOwn+5yxY1fb2C4DqpGYlXYBni1PWNvjpk2nYFS2zRdinCRnPf7CnYASSqxRtsQgM47s2+yM1qjuRFVWro6sy5EUjmYIetMHKLRI=;PFiCqPMF2IIwi32YCl8QDg=="

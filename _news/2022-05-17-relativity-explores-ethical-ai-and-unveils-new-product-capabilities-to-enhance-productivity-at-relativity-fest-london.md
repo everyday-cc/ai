@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Relativity Explores Ethical AI and Unveils New Product Capabilities to Enhance Productivity at Relativity Fest London"
-excerpt: "... Translation Relativity will incorporate AI machine translation directly in RelativityOne. Out-of-the-box, users will be able to translate large batches of documents in more than 100 languages and 12,000 language combinations. Relativity is ..."
-publishedDateTime: 2022-05-17T11:35:00Z
-originalUrl: "https://www.abc4.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/"
-webUrl: "https://www.abc4.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/"
+excerpt: "Breaking Free from Bias with AI Relativity remains steadfast in its commitment to deliver the cutting-edge solutions that will help its customers thrive in an increasingly dense a"
+publishedDateTime: 2022-05-17T09:51:00Z
+originalUrl: "https://who13.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/"
+webUrl: "https://who13.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: abc4.com
-  domain: abc4.com
+  name: who13
+  domain: who13.com
 
 topics:
   - Natural Language Processing
@@ -35,6 +35,6 @@ related:
         height: 250
         isCached: true
 
-secured: "wezzliyr+d0ptuXkaB9OMHdg3nD670Zwi59YZQ2r2OWsX8P6VEueky1JjMxVvQzBY5qOvrh4BrL9LF3DpjuNAlxyl97mP2y+vwcxmZY0xtRG5+7PRAVZKWF2fB1gVqP9kKnrDmDdXhowX5Pa2tBOgZ4SsZmp0b8o2KWId3OLHngt11bY0ArabGbSrPrdS93oETwjQfBMIqdMeSLxRoCJRgNLBzo+tkfrKMfO4OBQ8QeyYZ6x3kGro6MHbqNJFfAJXmVEomvK0LCOVR2Vaa8UbCoEXHTNTD2KEvJNcOF604zI8zztLSOmHx/G/j5DdKXagdolaCxP3QqlYvGpoPFttGwZy7g9/8kqM90RkVYKLE0=;xSE6+VbNKgeIJKiIIEbb3Q=="
+secured: "whQcfrh11DMdu7fMnmB3sAcIJnUpyEOckOfcYVRmBkOraPywdgk33qmaD6D1QBgtPZn6jzaz8MpjK8T2+a3gp/8AbwpIXBZGiZ7Ejfe8nM0edwBnTAgvefIaRjNUzGVsu8+u3sgUz6wcN4DCDB4RSyB+XiCvROtlp0gkIAS1bbo/3johjru2J+11cW1et/sWrlLJdOoV7MWg0ob0hUZ2Zdzv8j46YPfA3UnJLViNz/wNiR3kPucoA+ESR/aT+LvsXJrJJw6y8vgmqOkP0R0lNrimhWjzrY0orAsIwtgoc9EIhFl6mQ2eKFiZ+NHB/8wl/2myIroa6hv+s5lIBJNbwg6mEkZKQC3mJOVfPOTV+bg=;bUKM85/C/SEXQyN+V5tTjQ=="
 ---
 

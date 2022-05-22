@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Blaize and Innovatrics provide edge ready-to-deploy Facial Recognition Technology"
-    excerpt: "Innovatrics, a specialist in biometric technology, and Blaize, a company that’s using AI to develop advanced edge computing solutions, have announced a technology partnership. The partnership aims to deliver ready-to-use facial recognition solutions ..."
-    publishedDateTime: 2022-05-17T08:04:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/blaize-and-innovatrics-provide-edge-ready-to-deploy-facial-recognition-technology"
+  - title: "Sri Lanka's National Institute Of Business Management Installs Facial Recognition System"
+    excerpt: "National Institute of Business Management (NIBM), one of the leading higher educational institutions in Sri Lanka, announced on Monday that it ha"
+    publishedDateTime: 2022-05-21T04:12:00Z
+    webUrl: "https://menafn.com/1104250772/Sri-Lankas-National-Institute-Of-Business-Management-Installs-Facial-Recognition-System"
     type: article
     provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 49
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
     images:
-      - url: "https://www.newelectronics.co.uk/media/kkbkzsm5/face-biometrics-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://menafn.com/updates/pr/2022-05/21/CG_390a4image_story.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "cKNWGwOmrsveKDIzQaBe4fseKfiEKFNcZn99SE5bYmnpPqcm6yi3WBWWeyC0c8j4/XkjzWa/AaoHgxt/JJPqDBpzxET1vLjduACA9Hv+xhNE0ZOrzENaHFnTaycWcem1YJVndwKutd+7dGYRpOSEDqWtzM1o7u4X2PCADs/QfAhrcjavF2sp/WPZGc/pGM/EZXk1fqFetehE7FSzvEtIrTNvJ+cCbTX7kzU5eXtW66vUVgVLftulFlWI8AU6SdIsBMlYaquQVepcVdAfIw1BUTn/cMSXkQtN/UBrfFil/EBYzcocys9qowId7AbbKuOefQBEWe0hQFtuAgBxyli0ife1/3Pl4YkB9XwVMbBlQ8w=;X19BiRD5WxJuJWlxbwjlSw=="

@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipset Industry Research Report 2022 by Type, Applications, Regions, Drivers, Market Size Estimation and Forecast to 2029"
-    excerpt: "May 17, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
-    publishedDateTime: 2022-05-17T08:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-industry-research-report-2022-by-type-applications-regions-drivers-market-size-estimation-and-forecast-to-2029-2022-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market In India Size Growth, Future Trends, Regions, Demand And Forecast 2022 To 2031"
     excerpt: "Kenneth Research released a report on  Machine Learning Market in India  consisting of detailed analysis of the market and indust"
     publishedDateTime: 2022-05-17T15:40:00Z

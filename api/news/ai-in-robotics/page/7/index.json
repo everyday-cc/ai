@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-28-microsofts-dynamics-365-creates-peace-of-mind-for-business.md",
+      "title": "Microsoft’s Dynamics 365 creates peace of mind for business",
+      "excerpt": "Wide-ranging benefits range from modernising sales and customer service to creating intelligent supply chain operations and e-commerce platforms",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesspost.ie/commercial-reports/microsofts-dynamics-365-creates-peace-of-mind-for-business-89879d0f",
+      "originalUrl": "https://www.businesspost.ie/commercial-reports/microsofts-dynamics-365-creates-peace-of-mind-for-business-89879d0f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTI5Y2MyN2FkLTBlMjUtNTU1NC04NjlkLTg1MDIzNzc4OWUyOSZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MTY1OS4yNjk2NjI5MjEzJndpZHRoPTI5NTMmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA0MTE5ODUwMTg3MjY1OTE3JmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjg0MjY5NjYxOTIxMzQ4XCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJ1c2luZXNzcG9zdC5pZVxcXC9zYnAtbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjljNmNhMTI3MjJjZjJjZTI3OTQzYjViN2QyZTUzNjMyYWMzN2U2ZGQifQ==/microsoft-s-dynamics-365-creates-peace-of-mind-for-business.84269661921348",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-28T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sunday Business Post",
+        "domain": "businesspost.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-27-are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-pu.md",
       "title": "Are dystopian societies always flawless and meant to introduce a rebellious character who will pu...",
       "excerpt": "Are dystopian societies always flawless and meant to introduce a rebellious character who will put an end to it ? by Ana Goerrian 1. Types of Dystopias 1.1. Animal Farm. 1.1.1. bu",
@@ -1286,49 +1330,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-20-young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics.md",
-      "title": "Young Scientists Awards for school students bringing innovation to AI & Robotics",
-      "excerpt": "To make digital documents and online material more accessible to people who are blind, I have developed a 'Tactile Display' with the help of people who can read digital text and documents.”",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics/",
-      "originalUrl": "https://analyticsindiamag.com/young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/young-scientist-private.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-20T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -128,14 +128,14 @@ related:
   - title: "Transforming Government Services with Artificial Intelligence"
     excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
     publishedDateTime: 2022-05-19T18:36:00Z
-    webUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence"
-    ampWebUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
+    webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
+    ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
     type: article
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 39
+    quality: 37
   - title: "Forma.ai closes USD$45 million Series B financing to accelerate revolutionary AI-supported sales performance management platform"
     excerpt: "Company leads market in data-driven models with higher-impact incentives to drive optimal performance TORONTO, May 17, 2022 /PRNewswire/ - Forma.ai, the Sales Performance Management solution (SPM ..."
     publishedDateTime: 2022-05-17T13:19:00Z
