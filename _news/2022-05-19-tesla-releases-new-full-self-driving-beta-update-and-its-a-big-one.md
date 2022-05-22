@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla to host second artificial intelligence day in August"
-    excerpt: "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day on Aug. 19, with the company likely to expand on plans to fine-tune its self-driving technology."
-    publishedDateTime: 2022-05-17T23:37:00Z
-    webUrl: "https://www.metro.us/tesla-to-host-second/"
-    ampWebUrl: "https://www.metro.us/tesla-to-host-second/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/tesla-to-host-second/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 74
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportScienceNews/tagreuters.com2022binary_LYNXNPEI4G18T-BASEIMAGE.jpg"
-        width: 800
-        height: 531
-        isCached: true
   - title: "Tesla's Latest Self-Driving Update Is A Game-Changer"
     excerpt: "Tesla has released a big beta software update for drivers who are in its Full Self-Driving program, offering a huge list of improvements and changes."
     publishedDateTime: 2022-05-19T19:53:00Z

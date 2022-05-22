@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Startup Gatik Says It Will Put Self-Driving Trucks on the Road in Kansas"
-excerpt: "Autonomous delivery truck startup Gatik on Thursday said it will be putting its box trucks on the road in Kansas after state officials gave it and its partner and customer Walmart Inc the go-ahead. Kansas Governor Laura Kelly on Friday signed into law a bill permitting use of driverless vehicles in the state without a human safety driver behind the wheel."
-publishedDateTime: 2022-05-19T11:23:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-05-19/startup-gatik-says-it-will-put-self-driving-trucks-on-the-road-in-kansas"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-05-19/startup-gatik-says-it-will-put-self-driving-trucks-on-the-road-in-kansas"
+title: "Startup Gatik says it will put self-driving trucks on the road in Kansas"
+excerpt: "Autonomous delivery truck startup Gatik on Thursday said it will be putting its box trucks on the road in Kansas after state officials gave it and its partner and customer Walmart Inc the go-ahead."
+publishedDateTime: 2022-05-19T10:23:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/startup-gatik-says-it-will-put-self-driving-trucks-road-kansas-2022-05-19/"
+webUrl: "https://www.reuters.com/business/autos-transportation/startup-gatik-says-it-will-put-self-driving-trucks-road-kansas-2022-05-19/"
 type: article
-quality: 33
-heat: 33
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +22,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "91H60r/40TwSWR7WZgfQ4skYqjMaIxT/w+Cm0Qf26/yN3dUoov9K7eb9HyeBd2O3AT34KV3nSEdgghIPZhjY5krd9eylLccFSzaGYAx5bHQqUyZbmV4holfRwDiRe7aey8kxoJWhIx+QTmThngjYIF1sTisd318HIST6mfsF9OzdApNQ/WY/+ayA+oSwQ75X/O2uBr0z3DbKq4yKcYrusx2aNGgQnolsDxKyWoBln/rL2z1+/NaQde3RX3F+4V7FrNk3M0z1QFH7HTdKfzntGn1RZ6zTU5e8SyYAJuyXAQKPF2fxhsVDmyx8tex+oWvjwHSQz5DfuIDLLXXdNdPJZtjJsv45SO+fIJBP8pPVf7cSn8Qnu5wH2QZh190886eR4qeK8PhOSb1ZqXJSxV5NWVacS5Pxjk9VpRAScvx+siBoJsm600ILNItKTU5lIh7u7OjCWcaHFjB6fgvLZAVBHh4WCBxZ5nuvPzail2l1uAmDyopLqmgI6XdOtn+avamvYsNK4OGS9XR0YSjT5yjoJw==;3afDUxayiQWLgYemGBreog=="
+images:
+  - url: "https://www.reuters.com/resizer/_v2ApWQ1q4Cs8Z28LcNgb-j9H64=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XOJGUX6FABJ5XHA3KQ2XVF3TCU.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "PAtzLHRPTvRRFfgv0+QOFBCuC1E59Ldh0vGPSWj2fENN52isrT9j0uoCuDIoc3E/PoVFprZO6zS5jnzZrH04IDUyTLjr6I76kCi7QANzDzjKTrnYjqRABJVG80FGDKMJP1xE8K8+JvAiqVVps+j9LufX2xdHBqS9yZVE+sZmA4mFtIKHPcmFVt3jTJTs9N1JAkmU+8ARr7lx7LDnHBsRcdBu9W3OKf9/6zP9yi9KQ2WzDPRJMwckYKiYW7DSNVzCWGXIQt8CzQ0s/X7CJmTx3FNa4LzuKg71XJqW3urgCzzONm2xX9lStjEQCCcR6EXLocBVCPz69ijbz3RPO5k2brEyalcdsPwOexiDw+u7w+A=;0I6cldWDMM1bIi+Nqws9Jw=="
 ---
 

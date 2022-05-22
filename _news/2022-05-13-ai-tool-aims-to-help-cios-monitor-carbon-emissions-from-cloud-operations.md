@@ -2,9 +2,9 @@
 category: news
 title: "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations"
 excerpt: "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ..."
-publishedDateTime: 2022-05-13T16:22:00Z
-originalUrl: "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11"
-webUrl: "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11"
+publishedDateTime: 2022-05-13T16:52:00Z
+originalUrl: "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
+webUrl: "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "XD8tSSx/ZVQFJ1TtnGAvrvCmUC7+q+ijICrlXb0/P7zMa/5LB7KgmSg4nuNVZp8J4+9qJz3h+78e8aAZv9P/PNpzuB5cPai6ynvW/5IDqg11i53Ks+oK1vOdgy9k3is9G54HnVs8dKDynptzAP1N7EPhp4LaIr4dFgQsAAY6hv+ym45/o9zYTmAvQ2FM2ay3je+EsDaw/YrTENbS3u7RzGUgXs1LN9Q7SVsa9Mkk4mgdtVbFtweApRQ2ayA3eDUiW2ayY/IPHOOsoTsdYYzhL8dBgvp5xs1m5X6eZYEmf5M09wXgCJg9VYfxwobXrknmPVMPTrqXMROnUEBlw+YwbNNxzKNgk5gps/1Cw8xczK0=;aaqIPk7OaeU3q9u/cnj/cQ=="
+secured: "cUu6Bj1ZQbaR4yzr5UxUDVi5C2iZCwKO8VzmWl4+3hUmvDhM6lOV4IycJ6anSioY9ZbDJcEBuru4WyOOBeLSaZ6qw3lxEm8BeoLGOyKd1D9Uq9Enc1bWNJwszhovtuYIwERVTu8xc2Z+WO/V5qsWWRYESJlJWxE+SAAym/8QkAKv7d0y638s0SxoyU3C+IUyrvgTad387QzDkcTmQr7ctrM+aI5nbXXpS6AmDTnwb/5DDnH4si0Cjuv+LuX8YL5kbcVu28F0Ft3sV3UoJYy0wLdLWZf1zPqZM1820IO/54ir5Lz1jA/5J/i5if9VAa7+ppGOaOPw1Z+TmOrIh7T5HBDJ5Tkq59fSxkvoAr4n42Q=;dQuiTV79LDW1udwIAeteuA=="
 ---
 

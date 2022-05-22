@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Oxbotica completes first driverless car test on open roads"
-excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. Investment Minister Lord Grimstone ..."
-publishedDateTime: 2022-05-19T23:41:00Z
-originalUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
-webUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
+excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
+publishedDateTime: 2022-05-19T23:17:00Z
+originalUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
+webUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: AOL.co.uk
-  domain: aol.co.uk
+  name: Shropshire Star
+  domain: shropshirestar.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.shropshirestar.com/resizer/PAsXFLOw9WrxrGRAZYfim27mu6A=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/3AYSWITJCRD35A7LRP6UIGV2XE.jpg"
+    width: 1200
+    height: 900
+    isCached: true
 
 related:
   - title: "Ford-backed Argo AI startup launches driverless-car testing"
@@ -84,6 +90,6 @@ related:
       domain: webindia123.com
     quality: 16
 
-secured: "UykXM0y8bjp4bqNj7v8GPIZC+grKpCsVv4H6bgjxx4wW8C/vhSDrZ04Oi8vQ9QhyGr96G36HOX0sn4o42gZ0RytGT09MdQq089T6FTQOYaxtQjDSVuXDV1LVf/lrxxPsN8rdovE919PhE0VzGMdjMxPMK8GvH+TZMRvAW6m+vh30cbVYxXYus+RH7K1Gngn++BoH0UOinVGMMDIM2Fi1DrhPnufX2hkFlRQSp+BYy5JsNxJaM27QO24VAqA8WBqG2gaduRWXOdslmFwOF+z6NwiNYd5Dt4yxAyYsecrvNE+SvpurZOE9Olhd+OAI9CfuTCKDytc9rFG3CHh/9iUSP1WaDpxSVXJZABPsd32IxNE=;Wf169KfhGaZELek6IlZe0g=="
+secured: "ME4V8ShDeaG1Y1Mwa9ifM0XE9353Tmk11ZQzWjsuZ4YfZ+6Hq550t4xu6wwlFUhgEHxJ4nMb114OtSWi6awuYD/18jEamrwP+4uz7SjXvygbE29jidMF5xDV2WUk2KzvRXrdKIn6aHkvUkjig03WQZTWUfy5G5q1LAnrQWDDWqqHSSkA7lRl4y8beEQVl5p1flI+gmBdggf98joP/bFyXXiEcdc593iyZDiEd6MLnRPtmrplIzC63fub8U+alM25n1aU8DBOkANOkzwhXFyUUD2tuWo3mQYU0/mfmHt8kCufNmlAfue7Dye0vzztpdj9K3J0Thl4KWsvyGsK1b+s7Jw2jNii8qp0iTEUkvtao4U=;xx9surC44LR8Vl5bB5k6nQ=="
 ---
 

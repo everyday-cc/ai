@@ -39,22 +39,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Crowd Media enters conversational AI partnership with business intelligence platform to supercharge sales and lead generation"
-    excerpt: "The deal is a natural fit for Crowd Media which will now go and whip up a Proof of Concept (POC) which will focus on leveraging CM8’s Talking Head platform to apply “conversational AI” to the Media Search sector. That POC will be with SourceFlare in ..."
-    publishedDateTime: 2022-05-18T00:53:00Z
-    webUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/"
-    ampWebUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 47
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2022/05/Unknown.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
     excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
     publishedDateTime: 2022-05-18T15:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-lea
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2017/09/apple_park_photo_2_theater.0.jpeg"
         width: 1820
         height: 1213
-        isCached: true
-  - title: "Apple Machine Learning Director Who Left Over Office Return Policy Joins Google"
-    excerpt: "Earlier this month, former Apple director of machine learning Ian Goodfellow made headlines when he resigned from his position due to Apple's refusal to allow employees to continue to work remotely full time. Goodfellow has now found another company to ..."
-    publishedDateTime: 2022-05-18T00:04:00Z
-    webUrl: "https://www.macrumors.com/2022/05/17/ian-goodfellow-joins-deepmind-google/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 35
-    images:
-      - url: "https://images.macrumors.com/t/zJFHRDqj80CBnd_Ft2G0NMMwgKs=/1600x/article-new/2022/05/deepmind-google.jpg"
-        width: 1600
-        height: 840
         isCached: true
 
 secured: "s379DXuE7q8m+49tVukAtRQ7o2OKRxEeMwc2RCUKqJ6P/d0wTRQK7MzusTr3y+VeCf8xdSsQYOUZ9mxl7SQ0aCTmh8gDV1Em3DWC26hsY5DHhVpUx1gJc7+vTbiZv9Evo+7OIAgd+Rc83mKnrAupbGHVDtoR+UuSlm+T8AZAxM+BNfTOPI+/iCLlQT7XKQxSVfaFd9a5G+rMl+Gq8dBONHEFr6HR1ya8UY8He29bLGWj1vcMStqJMfm5iyw/e8QTV1WYpdLs7NG+79rJ5TBjmF7PzHuX8xKx7mOouzLaIpFaTL9Pt9K1cQ8y3GufZmphxNFDFJSmvopnVaBb+Qtpe7/+kLcxRkw3Dr0HAcwgLJPW6Q3xZvD7iDZ8NYkfa9YRVQB1dqni8ORJXg9yJdwAsmPxu8EFg2CJQmNUaWLnLShALuyWVx3y/njoetW8QSsI1Rzey8+6mS6jJuoqt/uLd0weOg9ZJkbSDh3Bcme5ORjXxkhcKwxm3RbiqfCzo3lCUg6Nhl1HcVQ7UnuKJH5tuA==;wVCCL5k6ehfRVsTUo0a7vA=="

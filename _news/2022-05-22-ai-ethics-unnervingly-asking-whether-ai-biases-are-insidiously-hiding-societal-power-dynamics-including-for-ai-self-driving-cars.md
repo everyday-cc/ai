@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingl
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/"
 type: article
-quality: 75
+quality: 77
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1833,1235,x170,y0,safe&width=1200"
@@ -48,6 +49,6 @@ related:
         height: 675
         isCached: true
 
-secured: "GPnEwkllE2qr29PIFeCC6AZF6fzokLiuvaJW66byz2m9o1zNaA7viMglJgZ/N8JaG7GZ/IcRqvNdthKn67B95oLmf8pRemRHXbaHL+Kmv2+9pY2y10wfiPH0NbDv5rNsdxb5A5iLqbnWd17KCcgzUlPqqdwHwvq+H/Hgq4IL7ugYZjDkyTxdKuK1oydVG1JSb15k2qFBzHKUe9oJL7f6WqKT51i6I+NRnr8VM0URlThIm0x7KbtSYBky/SnuH/C4Jf15+mixzpyuTJxgFoqkkQY+lxfW9CT5Ff5oXMoTQm466St26WZWZQvCPFjw19iUftnBD2fPBCZ0KPjb+gCUoBvoB9HBf1co0zIR8aotJ0U=;7EAVGQgU9/w+ax8NtxEk0g=="
+secured: "Hed7LcSBoe2cfK1cjAZZ5ht9TQHzKHXjhDSMp0BF14UGiEI+b/XT+p1L5j7wpkNjr8MdVrMi2URh5u8O3RRTzQsoLMMcEmqK4YQKvePJ+hCgoZNHVPFUkqlfZPFPa1d4IP90CCerUkXzrEKJJuiIYrwms45LhOxh6uBicGdxu2iQrsJz015NDSh0WwDekL4IBRdWRekAge7+tuuPvsSgjoa8ncpJ4BHuf2xrIC/N8xgfm2kh5asadWP2RquIsVXWwHAKwXa6Y9nzN33v40ygNNtWRhhPWcOeGA1jxF7z7LTdAFZAsyzoL/yb87an85tL24OEnq+/OcCVlxVVEb20y6rtys/gb3Z95MtxcqxwArhfyy197b1lVu+iephylM4FOoeZE2vXeJR1kcUGevn7eG9X+lY0UOP+K8lX4KiVYNH/TAE0/FR+CoFemgxbnsZCXfoRvauAhy7qL95e8t0Ue/sy7dtuqhcj1OZCvGiysIfaX3sPv2deHJUaQAg+CzQSs1nQpQbsInMs4vKmS0x87g==;gSHIKHX35zC1D168EMTewQ=="
 ---
 

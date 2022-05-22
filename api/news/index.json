@@ -10,7 +10,7 @@
       "originalUrl": "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -475,21 +476,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-20-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology.md",
-      "title": "Soft Robotics Expands Commercial Focus for its Artificial Intelligence Technology",
-      "excerpt": "Soft Robotics Inc. expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the consumer goods, E-commerce, and logistics industries.",
+      "path": "_news/2022-05-20-ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse.md",
+      "title": "AI experts are in short supply. That's making the skills crisis worse",
+      "excerpt": "A study by IBM concluded that the UK is falling behind its European neighbours in AI adoption, with employers blaming a lack of skills in areas like software engineering, problem solving, and knowledge of programming languages.",
       "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
-      "originalUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
+      "webUrl": "https://www.zdnet.com/article/ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse/",
+      "originalUrl": "https://www.zdnet.com/article/ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/05/Soft_Robotics_Inc_mGripAI_CPG.628698128d087.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 500,
-          "height": 339,
+          "url": "https://www.zdnet.com/a/img/resize/ca381b4440afdede7e4506a91464950f24c2bdb0/2022/05/20/1e191d2c-6198-4cd6-9f5a-661bfb4467c1/programmers-coding-at-desk-man-woman-office-training.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -497,14 +498,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T07:00:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse/",
+      "publishedDateTime": "2022-05-20T05:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -513,8 +523,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {

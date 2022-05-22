@@ -36,7 +36,7 @@ related:
     provider:
       name: FingerLakes1
       domain: fingerlakes1.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://www.fingerlakes1.com/wp-content/uploads/2022/05/AI.png"
         width: 661

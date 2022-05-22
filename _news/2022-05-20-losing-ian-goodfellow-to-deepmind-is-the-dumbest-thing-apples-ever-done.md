@@ -40,22 +40,6 @@ related:
         width: 1600
         height: 906
         isCached: true
-  - title: "Apple exec who departed over office return policy joins up with Google"
-    excerpt: "After his split, Apple's former director of machine learning has already moved on and has found employment with Google's DeepMind."
-    publishedDateTime: 2022-05-18T00:36:00Z
-    webUrl: "https://appleinsider.com/articles/22/05/18/apple-exec-who-departed-over-office-return-policy-joins-up-with-google"
-    ampWebUrl: "https://appleinsider.com/articles/22/05/18/apple-exec-who-departed-over-office-return-policy-joins-up-with-google/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/05/18/apple-exec-who-departed-over-office-return-policy-joins-up-with-google/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/30930-51101-coreml-og-xl.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "MsM1XigXmhKrVmgerUkA1+RK0Z43Aa4hj/CzaYrYfCcoyEqmUGve9jr6sYeLUq2WRSpobaur2tccNBRdgURE3WqOF0rDMcgOb6vzFk8/GicsyaOhJHHeMf6WM0vqqpQ3mClvNO8RUX/EKmPFJGMMYKM0WqQpcs9f9eqnL3zL4Egdf4LtgxWQwD8nNWQgSp1TZzRtwmYcHYVrCni8bP5gz6fO1DgsOw19geTLWkiTl5/X8U9KiZ9msXNd3ekVQ6Aa/UoMYW0l82/iEFdeaDoS6qVSjP5hfoXUIbe3VOj++KodnNmg1zP9QkXoqPTkAfjlMaNW2GN/JR86xuutMSeJtsGlTXplGfL69TYaaPcEFxUQzS/TWbv6xQAQ+2GzuuQ2Dbyov6ZY05VqLdGTE2nm4IEueIhWq3TTRXlMQ77nQEkgOYw1kd1wkw+uJUYaPQbgVdVx0Kxwd8CxFaTNXl+aJaB0jcL4ry2AWjb1nt+QUdNND4sEfcLP2MCpNQPX8YX+K0+oIFyGDP7a4IfsS43/Yw==;q47S4L+gmQA9z4nmHFOX2w=="
 ---

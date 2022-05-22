@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-20T06:30:00Z
 originalUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=10"
 webUrl: "https://www.digitimes.com/news/a20220520PD201/automotive-ic-autonomous-vehicle.html?chid=10"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://img.digitimes.com/newsshow/20220520pd201_files/1_2b.jpg"
@@ -24,6 +25,6 @@ images:
     height: 853
     isCached: true
 
-secured: "D5GaUm/wxKnBhwa48aL6+3N39nZ05OnXiqw9J+6ORMiiI5j8klB06/V7ypuuKHcsvtEM64PNt5JOrnlJgiwCMrMJWjuOFcPMWJpQWaFklZYN2iUIgCGFLjzoUgZGI0SwtSmEvHCSN0nrtWiZI0Q9COcqVq4BBsYHXaQ66fCDrgFKnotB1lSjPZShCWKkS/Mb01Gpew9X76CsvvVwuzf+v2Wd4wnPM5ChD5y4hE5r3y+JL8dbTaonePTnVKVGdoO8S+OTqQpjqsTPB4ZB77gXr6NM59hRu+4p+UykUBG3lQuxcDPk1u5kVMOmwpmAtre3Nwepz3ICt9EFB+zAyQ1i2lw1RuX/ZsftGigfh8JXOKk=;pT0PgqP+dI6CFD3jfz7N/Q=="
+secured: "FAjyfGRAtOBt8aqPQNssvTr6mcPjqBJ1RFtma583/HwWbld4y2zzWXwHI/+BXATAi5ksIWueroyNtBkzSbS7Sz7APMDsjW6YHsRXICqzg342GE6496RLPavIqJZc5AGKpxTdsPpp2PONvjqB/UXfGgfUvXbH54l4YofcSemAHt0be1HOCKQXFfvbm5/CGkfGmohxBwf0k2lwIuR2+9OdlO2P/G49noHO61x94eD1Tw6yXG15Txn/bDKgXLTFJ25RfCGxdPT1YKkMaY8glF6WqOi0Sh4DyX0vkNj3oznDuKrrZ5hZPppf6svt0iiuwNCbM3Vx6KBUEou/xkLyRz2whW3G4FVq4vZXkiaAQooa1ZIh+kae5zRs6O38OYi67c8IdWuJjVNqInPOSjGooHJ8hDvJrRdIWv1Qtl8sigX2H+YvMrpxPJ+jPVXCjJ2plfL9saDstPiXfshX76BDxLXDZTuCemv4fBEazYjz4KUEi14ybZqgH4YRjbiL4O5tKoz9rMEVX3a5QuOQeZmHU0Cw4Q==;9r7mz45Kr9khyMAFR0p5XQ=="
 ---
 

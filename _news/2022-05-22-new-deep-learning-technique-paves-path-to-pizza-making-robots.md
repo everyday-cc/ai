@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-22T14:00:00Z
 originalUrl: "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots"
 webUrl: "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots"
 type: article
-quality: 69
-heat: 79
+quality: 86
+heat: 96
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FRobotPizza.jpg&signature=6ac11f10998502e3a24f329632f83cba"
@@ -39,6 +40,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "sawPX46zOM1V2nXlVFLuGoZLTt5T7H+DsI4eIAKb6/t7We9Jlo1Up+vCqipE5vAKhUEM9Kq4Qq4LL0xV2piCrUEXmcmQYlbAN/EDnpmreZdLHUQLF8I0bvvHuMILEpQTAIn/86A0CHB2CVJ7GotIk6n/Whg4MD+o4CZO86I02KHhrSPNBG/h7WFQeet5n1xfmQcpno6Ec6Akg9EUjGdPtgaDKPMLokYA2ufnURtANm/QGVtUFLa8HSt2z49cZ4QqFlDkSQU7ElEP63AD2/2OsK/IHs7Cvku6L4zbUO8/ixNdyTNnbMJUIsFaVt3CCz7JMiI4fih/4yc/s+UO5s79Wkosch3wfCLVrSWjEesq+74=;9G6kLCr37ySc6kMoYiYcjw=="
+secured: "73SPr9VLQbBHCRRRaWvFoITAEF6PIicEAkDnkPUWKZrP+OeeWDZ49IjCIrTHL4IC5EyehlebsyJlf6iViJyo98MBF+jiT0gBzNXKbiCwXwDH2IIQ0gbX91tRbaAGBhMx3xc5nZcGvDNpp/G0Jjd/wPX5tKwTZkNpXU+NmVForLYHUvqFshC+AUwO6RmbBoaliRAzkjkOnjVXFilupPkdD0/e9pwgBYt1Qo8f3rq5sxfp5GGfGXJG3mDrEU4G7XjVbwOPfzNxm9lFmzY5DimdvaAr3zxCjfcideMPXMOxe9MUQHa0td5oEfOzpxiGL1OIPQEsAdrVJUa5rJ8fJIV9ccMFQM2smve6To2nQd4Te9IOQEHDzi00mIBxKOKYRxQUfK/Iyb3hDFwbEvHkdDalEGkE7JYwsVYkz4wkPQoCbPxl8YK52tENB9rPbBhw69CGMZWs96hh+22/i/Pcg0mxsYrL+S1CFIGnl2xNqUDPWsM/a9VD+7RFX3pPwBiSXr9JF9oq9HPkd/JIQIWs7z7z1g==;jPqFr3kgg5SAxdWfMrxtBw=="
 ---
 
