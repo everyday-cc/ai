@@ -34,15 +34,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ford's Argo AI begins driverless vehicle operations in Austin and Miami"
-    excerpt: "Ford’s self-driving Argo AI unit has hit a major milestone. On Tuesday, it began driverless operations in Austin and Miami. The company’s cars aren’t carrying paying customers just yet, but they’re now allowed to ferry Argo AI employees without a safety driver at the wheel."
-    publishedDateTime: 2022-05-17T18:09:00Z
-    webUrl: "https://www.engadget.com/argo-ai-driverless-operations-austin-miami-175417884.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 64
   - title: "Ford-backed Argo AI launches driverless car testing"
     excerpt: "The removal of human safety drivers in Miami and Austin is a milestone for the Pittsburgh-based autonomous vehicle technology."
     publishedDateTime: 2022-05-17T21:02:00Z
@@ -107,15 +98,6 @@ related:
     provider:
       name: Financial Buzz
       domain: financialbuzz.com
-    quality: 34
-  - title: "Argo AI launches driverless testing in Miami"
-    excerpt: "On Tuesday, autonomous vehicle technology company Argo AI announced the start of driverless testing in Miami and Austin. Argo is the first AV company to go driverless in two major American cities. “"
-    publishedDateTime: 2022-05-17T18:54:00Z
-    webUrl: "https://wsvn.com/news/argo-ai-launches-driverless-operations-in-miami/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
     quality: 34
   - title: "Ford and VW-backed Argo AI launches fully driverless car service in Miami and Austin"
     excerpt: "Argo AI is giving some of its autonomous car backup drivers a break. The Ford and VW-backed self-driving car technology company has launched fully driverless ride-hailing services in Austin and Miami. Argo AI has been testing the service with human safety ..."

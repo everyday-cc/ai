@@ -1,24 +1,28 @@
 ---
 category: news
-title: "nybl Joins World AI Show & Awards as The Official Artificial Intelligence Partner"
-excerpt: "nybl deals with humans like humans and leaves the machine stuff to the robots. The culture at nybl and choices ... as a Strategy and Growth Advisor to several global start-ups in the Artificial Intelligence, Shared Economy, and Tech industries."
-publishedDateTime: 2022-05-22T01:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/a27338746/nybl-joins-world-ai-show-awards-as-the-official-artificial-intelligence-partner"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/a27338746/nybl-joins-world-ai-show-awards-as-the-official-artificial-intelligence-partner"
-ampWebUrl: "https://www.benzinga.com/amp/content/27338746"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27338746"
+title: "Nybl Joins World AI Show & Awards As The Official Artificial Intelligence Partner."
+excerpt: "The 35th global edition of World AI Show will bring together global AI leaders, investors, media outlets, and government officials under one roof"
+publishedDateTime: 2022-05-22T07:55:00Z
+originalUrl: "https://menafn.com/1104251821/Nybl-Joins-World-AI-Show-Awards-As-The-Official-Artificial-Intelligence-Partner"
+webUrl: "https://menafn.com/1104251821/Nybl-Joins-World-AI-Show-Awards-As-The-Official-Artificial-Intelligence-Partner"
 type: article
-quality: 49
-heat: 49
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2022-05/21/M_e8f02image_story.jpg"
+    width: 800
+    height: 915
+    isCached: true
 
 related:
   - title: "Gfk Joins World AI Show & Awards As A Gold Sponsor"
@@ -36,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "UOzbm9+nasDjtJmB8Z70Y+cGe+Bl2QbDoUBYNqbr22GZS4hKpS430/LPQX210Ub784XbI9oNug0q3LSaSH3cl2qGMx3XjsgbAxs9enO9RermIQz4+mNxH6UPNG8vigrsDvKAVOL0eJ4gvfhlsjls9K4ubE9i0MuzcroVWrR/DkjngIZBMIdsRfGO/Yx1//ZMsr88gEN9tF9UTQxpj2Vogqk7Bey9tCpiXrPWawWeV0VfJf+7XvLMkuQZizUlEqPJ0w7UlZ8rJ5Qtrbl/wNW2mJUO+QdZoN9TbUek2ha95WwzjP7hZfGDLF0L0qzViFdU+/MceFDc1ccfCxCLp6X5WdFeZHhkFGMuK+Fx3CyMvF4=;JUxIr5gzvSs7oliLbw1/yw=="
+secured: "/y51MmCM4L5f2/RyAbSaLZhcOTxn9/1tYiDpUQkbGSz4/35Th2YKKVDtjfetyXmXeK20omQ15A/4YuL1fQdCeRY1jOoV2YI6+ABG5fJhfSs3mPtPXgXoDm8CU0V2O/l3MnEvt9VnAj3VHc4BxB4xlyqaz95soZSxEJyHmiM84D+bgysB+hmeAWcGyLYnEl1YxW3VmXfqnMgmSFmXfTWMy8ZrwyZnLxyiXdYNmskfbQ4BEMRe9OWoch6+gH/GJctMy71Zu7XRtbbtkBbOUg79qrvE50D4XPgS4ecwVpMnELc2+jdjZUDPNaVJbm+9Pc7YsyQ+lh0e3JqG0qri9Vk96Bme6pg7z45DS1u+RYYth1I=;xAiWDkpAY+9+0XrzEIYPpA=="
 ---
 

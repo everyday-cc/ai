@@ -104,15 +104,6 @@ related:
       name: Oklahoma's News
       domain: kfor.com
     quality: 6
-  - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
-    excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
-    publishedDateTime: 2022-05-17T18:00:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220517CN59970/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 0
 
 secured: "+2nXbYMb+7Z8+3sIxBgjFpv3kqp+AnMMsnqLl4KiDc5nsod7fAyk9zlEpUEcJF030XpZIj4iMYB6xfvcjfzDJw3mKaQB8q9gQzKU3A6orA24eS5xtgCAi4RMWL/PpT3KSqkBFjYIJWYAKSyx5wcqIV7hk1aIlIpHzQfpYV+uBxE0Lfq4TNAZb04qdDgBHseNrjTLZHAnluXSQA/umpt/NXHyQV7D+5nEgRanFqDdEkEw6J1VUtrDBrM8uUBTMgOYusLpeKF6giNcM7fVe0g30hlqCENsmYL/lv9K07pGJFBzHeuTQkx4VRYHjz2vjqwP2HjyoXYoQd9aHEJGnSdI6fy8zZiIM+boSzDXnUSzSPA=;nMA3HPCJMNzO8pR9UdPt2g=="
 ---

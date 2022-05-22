@@ -103,15 +103,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Jina AI Shapes Future of Search as CB Insights Names it in 100 Most Innovative AI Startups for Second Year Running"
-    excerpt: "... a new tech stack for comprehending unstructured data with the power of artificial neural networks, with a global community of thousands of developers. Upon being named on the AI 100 list ..."
-    publishedDateTime: 2022-05-17T18:00:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220517CN59970/jina-ai-shapes-future-of-search-as-cb-insights-names-it-in-100-most-innovative-ai-startups-for-second-year-running/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 0
 
 secured: "HZuLPx6kB4DitsP4fJOBFV7Ybc/SRLpbOnE3NST9v9YFLMAvWPqc8d1Y9+nN9zbwvCve4SjLj6bIkN8HxaX7bEiwzCIZmnXOvoJk3hOJb6nwITc94Rjix7dnHO3NALypXOeicvzZnd/WzSKcChsX1iBPFh8urCYmSpE/meXaD8ts+78s8v5vqCNX5krZdg/KcO2ffS8caTgGida/VNAzkQEaw5/MaHBIcbKBaRgJlyEoRuq4m+z27+fwJ8bSUzy/XGrCvu6nHIdK5/OxY0p18/LAcMZWAPxe2mEMbh81/Ag0sjSooB+JZGkSxDgtb4Z2AkOiN6zJyZuas/eKkqFhLT8TiI+w/lAR+WA+GozaYfc=;Kaguumpj2PScdg4n7IUHtg=="
 ---

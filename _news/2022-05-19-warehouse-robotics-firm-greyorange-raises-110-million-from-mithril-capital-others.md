@@ -35,15 +35,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "GreyOrange raises $110M for its AI-powered warehouse robots"
-    excerpt: "The startup’s robots are powered by an artificial intelligence platform dubbed GreyMatter that helps coordinate supply chain activities. The platform finds opportunities to speed up merchandise ..."
-    publishedDateTime: 2022-05-17T17:40:00Z
-    webUrl: "https://siliconangle.com/2022/05/17/greyorange-raises-110m-ai-powered-warehouse-robots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
   - title: "Robotics company GreyOrange to add 300 jobs as retailers turn to automation during supply chain delays"
     excerpt: "The supply chain innovator anticipates 100% growth as more retailers turn to automation during nationwide labor shortages."
     publishedDateTime: 2022-05-19T17:46:00Z

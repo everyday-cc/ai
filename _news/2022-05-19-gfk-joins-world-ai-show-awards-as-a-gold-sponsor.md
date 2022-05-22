@@ -24,17 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "nybl Joins World AI Show & Awards as The Official Artificial Intelligence Partner"
-    excerpt: "nybl deals with humans like humans and leaves the machine stuff to the robots. The culture at nybl and choices ... as a Strategy and Growth Advisor to several global start-ups in the Artificial Intelligence, Shared Economy, and Tech industries."
-    publishedDateTime: 2022-05-22T01:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/a27338746/nybl-joins-world-ai-show-awards-as-the-official-artificial-intelligence-partner"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27338746"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27338746"
+  - title: "Nybl Joins World AI Show & Awards As The Official Artificial Intelligence Partner."
+    excerpt: "The 35th global edition of World AI Show will bring together global AI leaders, investors, media outlets, and government officials under one roof"
+    publishedDateTime: 2022-05-22T07:55:00Z
+    webUrl: "https://menafn.com/1104251821/Nybl-Joins-World-AI-Show-Awards-As-The-Official-Artificial-Intelligence-Partner"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 48
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/21/M_e8f02image_story.jpg"
+        width: 800
+        height: 915
+        isCached: true
 
 secured: "D7RhEWGDgsp1GvLzdzNY1DLCwbjz3WdrO1Un63LAzmeOvPw74ai/ZqPr5q7SFANSI5/JSlD9gbtKI8yNrnloiqfqxYciRXjrbsiDjmU+Z13UGTd0inFldD1CVRUquxcfLREpFIA/pEHIww2mjnIPpL6p7rXpwtgoOmvc+PdarXlRVz1EUxloYJ79Ut6hfBIVdPoUmpB+gAc35CA+OzZeopigEF1jzAy3Yh5fyUb6thwQZt4y+1fP6ZSq3ys7bc1zQUQ0T0AljWMZnlnOD64Lo1+hE/NyoA+ciDZmzzGbzqOnrQtUdOPjgCsGBJrkvfNPMeCCoUYH+WFRgObBR+nlqyLWL5jekk2y+3r6KD2sUBE=;zX1MMM7eUVv4znG7ilQI2Q=="
 ---
