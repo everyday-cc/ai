@@ -3,14 +3,9 @@ category: news
 title: "Can Administrators Ensure the Ethical Use of AI in K–12 Education?"
 excerpt: "School and IT leaders should consider these questions before investing in artificial intelligence and machine learning technologies for the classroom."
 publishedDateTime: 2022-05-20T21:38:00Z
-originalUrl: "https://edtechmagazine.com/k12/higher/article/2022/05/can-administrators-ensure-ethical-use-ai-k-12-education"
-webUrl: "https://edtechmagazine.com/k12/higher/article/2022/05/can-administrators-ensure-ethical-use-ai-k-12-education"
-ampWebUrl: "https://edtechmagazine.com/k12/higher/article/2022/05/can-administrators-ensure-ethical-use-ai-k-12-education?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/higher/article/2022/05/can-administrators-ensure-ethical-use-ai-k-12-education?amp"
+originalUrl: "https://edtechmagazine.com/k12/k12/k12/k12/article/2022/05/can-administrators-ensure-ethical-use-ai-k-12-education"
+webUrl: "https://edtechmagazine.com/k12/k12/k12/k12/article/2022/05/can-administrators-ensure-ethical-use-ai-k-12-education"
 type: article
-quality: 91
-heat: 102
-published: true
 
 provider:
   name: EdTech
@@ -21,23 +16,6 @@ topics:
   - AI Ethics
   - AI in Education
 
-images:
-  - url: "https://edtechmagazine.com/k12/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202205/GettyImages-1214297905.jpg?itok=Qlh0qa5-"
-    width: 1440
-    height: 500
-    isCached: true
-
-related:
-  - title: "Algorithms of Education: How Datafication and Artificial Intelligence Shape Policy"
-    excerpt: "While the science fiction tales of artificial intelligence eclipsing humanity are still very much fantasies, in Algorithms of Education the authors tell real stories of how algorithms and machines are transforming education governance, providing a ..."
-    publishedDateTime: 2022-05-18T14:55:00Z
-    webUrl: "https://www.jstor.org/stable/10.5749/j.ctv2fzkpxp"
-    type: article
-    provider:
-      name: JSTOR
-      domain: jstor.org
-    quality: 28
-
-secured: "OdihlrbxIcbIm8lbZR+4HNzXLOcoeOe9JGgCpxXwVBg9er0MZcHnNGLIeTjfTkXqwH9aNqW9j+Fhl/8SFVVE2nfzyYgrwibaU/Y/lw6T7YPuwcRQwZft/iK6zbyT3a1Vr+PIP7piwGNXVML3cJJgpamRO43zyk0rBkZKw3XOZOIPHoAGGp6gbwidHW6Gtz3sYXRYMu7VlunuEnLny0LjETnnpU5l5TKPBiBS7F6u7Pi4i3XNlGjCudRlExrUtILMWc/bAD28+qHfuh2K48Hs3ixWWB8R07AMmirzFNIvJGJUgdg3FDYxYefcbNSnxy6iXvqrzutjOVWEy2MTX/K08sk5CKh3o1/+JaKuD++PylE=;CiHktmDZri8j1duFsUhtLw=="
+secured: "ILaM5LpBGY8m5LuliL37D3qMxpbwAFno3D7dZgYeArFh900uR8Vzife5pYF9O28/QniQIPgp3hXtFCjQnhYO3RuxZgzmDU6sg45dlDmoXwzTS/YNGpdiAAKdSdwzIPIAfOVSEyRD+aHhoA6vy6y1No4woQ3T/KPG3quGDU/tthnMVPiORvkYzkkKDbfx0Q5S0xnQD9f84OemaVtKiXcYDaqB0I9mB7gbtIFXWGoIP+8uuMccbPGusOQSCFZLScKm/Aro+K6go0RPCFBY6g0A1lRUixFxJHFTZlj4oP2iLrpO1oJfjAXa8JtSYKb98jAv8fRUg6mDTiZ210qAJryaEQow0NG+9q2C2TYhDnerOZrY/gWDhqNSB3eKmsNxaVf8Cr4pRzIfcxQFwg/BubElFLhu3lqVbqgl+k+GgbXGdxb1nh2dz7ZpYWX5Cxg8JRefYOmMHtpz6EBLF5PXUpjTQYqw1nNCNHQRaWyluzXO/q9HiYVy1IQ9MYxpDNaQxIs49nRBZ0nKdQVmqLVQW6XdZA==;TihvMkGe5GoSfo0W2c8Mpg=="
 ---
 

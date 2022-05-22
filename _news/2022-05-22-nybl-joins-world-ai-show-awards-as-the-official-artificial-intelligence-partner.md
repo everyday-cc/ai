@@ -1,45 +1,21 @@
 ---
 category: news
-title: "Nybl Joins World AI Show & Awards As The Official Artificial Intelligence Partner."
-excerpt: "The 35th global edition of World AI Show will bring together global AI leaders, investors, media outlets, and government officials under one roof"
-publishedDateTime: 2022-05-22T07:55:00Z
-originalUrl: "https://menafn.com/1104251821/Nybl-Joins-World-AI-Show-Awards-As-The-Official-Artificial-Intelligence-Partner"
-webUrl: "https://menafn.com/1104251821/Nybl-Joins-World-AI-Show-Awards-As-The-Official-Artificial-Intelligence-Partner"
+title: "nybl Joins World AI Show & Awards as The Official Artificial Intelligence Partner"
+excerpt: "Held under the patronage of the Private Office of HH Sheikh Saeed Bin Ahmed Al Maktoum, a member of the royal family of Dubai, World AI Show & Awards, is set to take place on 25-26 May 2022 at the Jumeirah Emirates Towers in Dubai."
+publishedDateTime: 2022-05-22T09:07:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/acnnewswire-2022-5-22-nybl-joins-world-ai-show-and-awards-as-the-official-artificial-intelligence-partner"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/acnnewswire-2022-5-22-nybl-joins-world-ai-show-and-awards-as-the-official-artificial-intelligence-partner"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Robotics
+  - AI Ethics
   - AI
+  - AI in Robotics
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-05/21/M_e8f02image_story.jpg"
-    width: 800
-    height: 915
-    isCached: true
-
-related:
-  - title: "Gfk Joins World AI Show & Awards As A Gold Sponsor"
-    excerpt: "World AI Show & Awards, is taking place on 25 - 26 May 2022 at the Jumeirah Emirates Towers in Dubai. Daniel S"
-    publishedDateTime: 2022-05-19T03:46:00Z
-    webUrl: "https://menafn.com/1104237387/Gfk-Joins-World-AI-Show-Awards-As-A-Gold-Sponsor"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?803639"
-        width: 255
-        height: 250
-        isCached: true
-
-secured: "/y51MmCM4L5f2/RyAbSaLZhcOTxn9/1tYiDpUQkbGSz4/35Th2YKKVDtjfetyXmXeK20omQ15A/4YuL1fQdCeRY1jOoV2YI6+ABG5fJhfSs3mPtPXgXoDm8CU0V2O/l3MnEvt9VnAj3VHc4BxB4xlyqaz95soZSxEJyHmiM84D+bgysB+hmeAWcGyLYnEl1YxW3VmXfqnMgmSFmXfTWMy8ZrwyZnLxyiXdYNmskfbQ4BEMRe9OWoch6+gH/GJctMy71Zu7XRtbbtkBbOUg79qrvE50D4XPgS4ecwVpMnELc2+jdjZUDPNaVJbm+9Pc7YsyQ+lh0e3JqG0qri9Vk96Bme6pg7z45DS1u+RYYth1I=;xAiWDkpAY+9+0XrzEIYPpA=="
+secured: "uyQOYGz0ir4SWys/CjlEWNHdf2cx3otCpheOIZo57UukEifhLvWYjq48+CFozfvZ2Ohw9WVzMi/yqYxmkhs0Ie/tUyE43VLywStZl8fm8Kq90ZHb5E4Vc61W/y/+jLF9KX7E3myRJ884zHheHLVwgmtRTBDabzNTqJilrQWnjSnXrtbCElw7s4kI8UXoliYgCGc+iLbTs4Xb1L7sbinrPpD2hL1grMUa4zcIPIMFEi9EfFfRlcgffQwtvSUjlUm3NGs/ZwPGr34ipunPnyRJqG05bA926TiuSc+wBbxFpQZTHQrLorl1wKhd6tJ15j44EOg0KafA08R0OEqlgSLqONTKKHE8Wv64FHxZKzmeVgA=;k773cDCsvguVEgHRtZ7jEw=="
 ---
 
