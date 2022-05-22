@@ -25,66 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning Market is expected to reach USD 23.46 Bn by 2023"
-    excerpt: "Quadintel published a new report on the Machine learning Market. The research report consists of thorough information about demand, growth, opportunities, challenges, and restraints. In addition, it delivers an in-depth analysis of the structure and ..."
-    publishedDateTime: 2022-05-17T06:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-is-expected-to-reach-usd-23-46-bn-by-2023"
+  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Projected to Garner Significant Revenues by 2030"
+    excerpt: "Artificial Intelligence (AI) in Remote Patient Monitoring Market: Contours The shift from volume-based to value-based care in healthcare sector has opened"
+    publishedDateTime: 2022-05-17T11:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-remote-patient-monitoring-market-projected-to-garner-significant-revenues-by-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 41
+    quality: 33
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Machine learning as a Service Market to Reach $302.66 Bn, Globally, by 2030 at 36.2% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \"Machine learning as a Service Market by By Application (Marketing and Advertising,"
-    publishedDateTime: 2022-05-17T13:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at-36-2-cagr-allied-market-research-895645004.html"
+  - title: "Artificial Intelligence In Law Market Size Is Projected To Garner Significant Revenues By 2030"
+    excerpt: "With transformation of business models happening on account of emergence of AI, IoT and Robotics, the global Artificial Intelligence in Law market is estimated to observe significant growth over ..."
+    publishedDateTime: 2022-05-17T09:37:00Z
+    webUrl: "https://menafn.com/1104226001/Artificial-Intelligence-In-Law-Market-Size-Is-Projected-To-Garner-Significant-Revenues-By-2030"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 20
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
     images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?283193"
+        width: 269
+        height: 250
         isCached: true
-  - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report from Lucintel"
-    excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
-    publishedDateTime: 2022-05-20T23:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/asic-chip-market-is-expected-to-reach-34-4-billion-by-2027-an-exclusive-market-research-report-from-lucintel"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.abnewswire.com/uploads/1653029261.png"
-        width: 449
-        height: 300
-        isCached: true
-  - title: "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel"
-    excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
-    publishedDateTime: 2022-05-18T14:48:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-  - title: "The Worldwide Face Mask Detection Industry is Expected to Reach $4.2 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Global Face Mask Detection Market By Component, By Application, By Technology, By Regional Outlook, Industry Analysis Report and Forecast, 2021-2027” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2022-05-18T12:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-da0ee8b3bcf842c1b059837edd5ba12f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "ZzObbLZoz2Fi8cMzaBKQALNbtL4B2MK8yNJecwV/4OpHf7PfLYlBrplaoajmUdMnL6VpfnTmJO3THrK5B9y5P1T06X5JrEclq4UIYSoE4Ui1G26yAfsG1/546mFYs3uGJUTlIM5X6O1qll+Ir/nAIPhyDT2DtufMOU/DXN0L4KbeCYdkQ3v9NIYWe2H4fhO+sPgXxwSQIyNdHAsNKJN9hw/9aWPVrJuFvg6n67BgmUE5fAIAh/v2P+/hjxF7jVyVyaymN1HC8Wew2m7+AI/0jHVPAkbf1kGWZi8t2sjv7A6cEYAXDOy/yU7CWXd3mVbBVRQLY9M9ByfBV0FE6K28iKz/BFBKdXKoiEOkSSmvPHk=;eta21rMnp3lqihVT1DLCVQ=="
 ---

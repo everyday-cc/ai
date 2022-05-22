@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Billings hospital uses virtual reality to aid rehabilitation"
-excerpt: "Laurie Brown tries out a virtual reality rehabilitation tool during an open house at the Rehabilitation Hospital of Montana in Billings on Wednesday, May 18,2022. The hospital use"
-publishedDateTime: 2022-05-21T17:14:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Billings-hospital-uses-virtual-reality-to-aid-17188999.php"
+excerpt: "Dr. Jose Ortiz counted the minutes he spent in the back of an ambulance transporting him from Red Lodge to Billings. Timely treatment is imperative to"
+publishedDateTime: 2022-05-21T19:00:00Z
+originalUrl: "https://www.bozemandailychronicle.com/news/health/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_0a4c11a5-6447-5240-927f-fce1b934cdd1.html"
+webUrl: "https://www.bozemandailychronicle.com/news/health/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_0a4c11a5-6447-5240-927f-fce1b934cdd1.html"
+ampWebUrl: "https://www.bozemandailychronicle.com/news/health/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_0a4c11a5-6447-5240-927f-fce1b934cdd1.amp.html"
+cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/news/health/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_0a4c11a5-6447-5240-927f-fce1b934cdd1.amp.html"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
-  - Computer Vision
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/25/66/32/22505126/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/4/08/4089c07e-ba91-51e3-86c8-d3ca3f05a931/6289426adb5e6.image.jpg?resize=1024%2C683"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -67,6 +67,6 @@ related:
       domain: frontiersin.org
     quality: 27
 
-secured: "f3zRYciZAiEaD3yn3QLaemSzg1bS9uZSkvExTw4diMCtd2MMO4n/c0Mg2rnOAoHlWjlSeKgphtz4w1zJhK4w/W7ywa8/dkVYmlgHcGvOUtAJawXZtAVg4gBe+LYUGG6Ppcuw1AYoajWaBalI6o/WTb6zYOejhgbr/rKY7+00A56sRj4mY3Kvk9jHBgKEuBi7R1WxRjycUVZthCmfay2FD+99zqp3EV6eDo2aLIz3v+3LN0RRUvUddKEXyxI9fFSjkva1y0hgdnu5dIrhLz5wR5O8SyNpJ7gG12OZ0OVxAXZiA5uXQkWoYyX7XJSJIGqmkBPjo2tK1E7642SLyq0palh8a4oQguapzLVISSl34aU=;bU/Ce+pxU/+xvMAD4ENq+w=="
+secured: "2eYDyK5vG3VS6HRSGxXzOtLg3myxh6DAK5NXrXNdfOBxt2REp19wxQrAg8vTS5xc5Sq3CpbO6jOD0iRszI9whDsdLVRzEF7zbnxjpUj5SfQOGdSJdZLmiAcOly9AusdADSR25arLrudW1SQxgVYXD9l4uG00PUkWEhKXK014ZVi1pI9GtMRUdX8uaoXzMN3OMJ7+jQSv4UPAdweuz6waLDQLKpsDjHKhFvzkET8DQuoRerta/BZh52traFXG3Akk41i/S3i95BV3D7+YVdU6R205goaaImP2E1bSQiK1cJMP56bSJJhJCKxBDKpE2RmJkMKrnFpeF6zYfLy/3B07ReSShX5dK31jQRTbM8VFAUA=;iKnAtGIa+CbcEkWVsHKJVA=="
 ---
 

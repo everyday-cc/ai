@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Size, Demand, Dynamics, Business Growth And 2031 Forecasts"
-    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on the Computer Vision Market that emphasizes the latest trends, key opportunities, drivers, and ..."
-    publishedDateTime: 2022-05-17T06:38:00Z
-    webUrl: "https://menafn.com/1104225349/Computer-Vision-Market-Size-Demand-Dynamics-Business-Growth-And-2031-Forecasts"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?175965"
-        width: 379
-        height: 249
-        isCached: true
   - title: "Artificial Intelligence Chipset Industry Research Report 2022 by Type, Applications, Regions, Drivers, Market Size Estimation and Forecast to 2029"
     excerpt: "May 17, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
     publishedDateTime: 2022-05-17T08:26:00Z
@@ -93,15 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Far-field Speech Recognition Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
-    excerpt: "Far-field Speech Recognition Market (US, Europe, Asia-Pacific) 2022 Global Industry Market research report gives"
-    publishedDateTime: 2022-05-17T06:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2022-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
   - title: "Machine Learning Market In India Size Growth, Future Trends, Regions, Demand And Forecast 2022 To 2031"
     excerpt: "Kenneth Research released a report on  Machine Learning Market in India  consisting of detailed analysis of the market and indust"
     publishedDateTime: 2022-05-17T15:40:00Z

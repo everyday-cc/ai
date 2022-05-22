@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104226356/Google-Faces-Lawsuit-For-Using-NHS-D
 webUrl: "https://menafn.com/1104226356/Google-Faces-Lawsuit-For-Using-NHS-Data-Of-16-Mn-People-In-UK"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google faces lawsuit for using NHS data of 1.6 million people in UK"
-    excerpt: "London: Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 million individuals for its artificial intelligence (AI) division called DeepMind."
-    publishedDateTime: 2022-05-17T05:21:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/articleshow/91610435.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/amp_articleshow/91610435.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-faces-lawsuit-for-using-nhs-data-of-1-6-million-people-in-uk/amp_articleshow/91610435.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35126,msid-91610567/google.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Google faces class-action lawsuit for using NHS data of 1.6 mn people in UK"
-    excerpt: "Google is facing a class-action lawsuit in the UK for allegedly using confidential medical records belonging to 1.6 mn individuals for its AI division called DeepMind."
-    publishedDateTime: 2022-05-17T05:22:00Z
-    webUrl: "https://www.business-standard.com/article/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/google-faces-class-action-lawsuit-for-using-nhs-data-of-1-6-mn-people-in-uk-122051700333_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/02/full/1643789775-3091.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "Google is facing legal action over using 1.6 million people's healthcare data 'without their knowledge or consent'"
     excerpt: "The internet giant is being sued after unlawfully using data given to the corporation’s artificial intelligence arm Deep Mind in 2015 from the Royal Free NHS Trust to use in testing a smartphone app,"
     publishedDateTime: 2022-05-18T07:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-re
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 105
 published: true
 
 provider:

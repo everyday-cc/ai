@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

@@ -34,6 +34,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "The Worldwide Face Mask Detection Industry is Expected to Reach $4.2 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Global Face Mask Detection Market By Component, By Application, By Technology, By Regional Outlook, Industry Analysis Report and Forecast, 2021-2027” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2022-05-18T12:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-da0ee8b3bcf842c1b059837edd5ba12f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "u+StmTwKRgWUcH7ZPRn/gE+szYWe3EJFzBrdC1+RKnHKx/WuMu7Z7A9nPsvtZIhGn5ktXHmPM6F5bx9Cai7n4oHKdAuPjeOdqMFiIGKUctvM1mu6JBaoZnKXWAbheC09oRR90HHe6EOauJWWN/lR9uIDHFJlFDUC5JBC60SZ24w5vtMEQXYS0GhZkfGbu1TSlwiXPMJSdc0stkxYwnEAxepaIXFcMZx4iMlFUOQ4mu92zRbA4kkyVfuKByDcEjWWKYw1D+MXbhorfKss2cp4/VEU/6b9/C+8PuIXRDn8V2FM75WFBzzfYUG/u3qIepYU6NdK3wYgMWSyQ5kwy7S9XFp08jvxu/+zQOvmCGZZRyk=;xrs+/hAETp9MePX5GisZ8w=="
 ---

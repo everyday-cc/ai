@@ -49,20 +49,6 @@ related:
         width: 480
         height: 404
         isCached: true
-  - title: "Global Fintech Market is expanding at a CAGR of 22.17% during the 2018-2023 period"
-    excerpt: "Technology segment insights The major technologies involved in the fintech sector are artificial intelligence (AI), Blockchain, cryptography, biometrics and identity management, cyber-security, and robotic process automation (RPA). Major growth will be ..."
-    publishedDateTime: 2022-05-17T06:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-fintech-market-is-expanding-at-a-cagr-of-22-17-during-the-2018-2023-period"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "gG6O6KMut9WJIHbzNq/DcnALX09jib9S7xcmgi5algfkmkZfKjPcxc8lCg7TkvS8orY3tBgk/ATvhP+JsTF4FaUZuU+xj2N/WpTtkR067/6A8gXwS0Hw3bAILMWJq4wQi973T4a8IeofsS2S0RRd+2wuzTzbRgLyOOx9vN5tKHDXoFB/VetebUD7j5rf455K+U9f8+N6GhJPV+OUaHriH46qDlTo8MTY7nqOuYre58UXsLho/jzulfBs0EEuVLNfQavwUHxD+YLAaSFVOB5lIMl2IowIc6Q4xNtVgF6E4bd5wsBL0sr/yJmscigRKdzRO/tF4zIgamx1+DzG+e9bGwiVT24hR/roApuNs8d2BrM=;IyS1Z3+JGeu6+P6rXG66Iw=="
 ---

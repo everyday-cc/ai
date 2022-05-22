@@ -2,26 +2,24 @@
 category: news
 title: "DARKTRACE WINS ARTIFICIAL INTELLIGENCE AWARD AT 2022 GO:TECH AWARDS"
 excerpt: "Darktrace, a global leader in cyber security AI, today announced that it has won the AI & Machine Learning Award at the 2022 Go:Tech Awards. Backed by Business Leader, one of the UK's leading business titles,"
-publishedDateTime: 2022-05-20T22:25:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
+publishedDateTime: 2022-05-20T19:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/darktrace-wins-artificial-intelligence-award-at-2022-go-tech-awards-1031479471"
+webUrl: "https://markets.businessinsider.com/news/stocks/darktrace-wins-artificial-intelligence-award-at-2022-go-tech-awards-1031479471"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
 
 related:
   - title: "Major UK Retailer Stops Novel Malware Attack With Darktrace AI"
@@ -43,6 +41,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "Vm7DKaIu9gjsrZK7RwDS/zr3IjrPCao4UAVeXB5IooYahkFxBWjGTkOA2r2kwfyZRzlEZm6IXa6zxPpM4XfD+cySV1jx2xEc8sTNeS5K1x453xAqCH7ggJ8grek8UTIpA08cpvx2yjmeH1tBMMXYQnXiRFBj7TvcEDWQuCWCmENNqHoEWJv3aokCWhb1E50wedeaAix/vdYnIcQnQegxPdl94hnJ88xWAm7+6Y2SSnrYDIguqVLyp5Was17GnA48uTkEBp8smvWje/vomEgdqg6s6X8k9B2m4F/z4GpBkW3MdnwNhxNpCsgz+REMskmr3u32xzJXfgIMmW8Dhwff3IKKYJsqMjsZVjPcvN38aQ8=;6GYYJSkDTtkPWAu3Bh8/yA=="
+secured: "wRA4EOH4Z+l/yyvWf2kkDUfU9qnzl611siVxIh+p/5ibdTtw96frYcHAIGZM5VTVd3Z7G6m29kRZrSSCtBO60TVIaQWypIdJq98wAKBJYuKnmiydWWOkPTOsggLDW6Wu+yeseVIM/Mf3hN77KJRqB+wYqTrMkDBYxkoAWF6VU0HO79m9N6i+1Pwr5x53RhKo9CKyVp9zIkHN8zy0DnRDTLNY3pLQoBOcs6rO53Y3ADPJRijpTtZh2bHf/sRn8TqUh5FnF/FUhSh6p0sLdalU3j5fVhv38E9CGfcMpe7TpUWdhYFCunQPvefWrnMxUSHgVjwDqu5h9/arXvDZwDx6kRzh9MQDXkZGt6icn+P9mTo=;Mw2TRDljvCP1gVQpbS8uww=="
 ---
 

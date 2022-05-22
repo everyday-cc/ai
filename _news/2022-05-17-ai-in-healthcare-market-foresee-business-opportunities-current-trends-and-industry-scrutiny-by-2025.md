@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17"
 type: article
 quality: 69
-heat: 169
+heat: 149
 published: true
 
 provider:
@@ -97,34 +97,6 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?182762"
         width: 356
-        height: 250
-        isCached: true
-  - title: "AI in Agriculture Market Research 2019 – Growth Opportunities and Revenue Statistics by 2026"
-    excerpt: "AI in Agriculture Market Scope. A new report titled “Global AI in Agriculture Market Professional Report 2020-2026” has been added by Straits Research to its repository of res"
-    publishedDateTime: 2022-05-17T06:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-agriculture-market-research-2019-growth-opportunities-and-revenue-statistics-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Window Cleaning Robot Market May Set A New Growth Story To Generate Booming Opportunities In The Industry By 2030"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
-    publishedDateTime: 2022-05-17T05:37:00Z
-    webUrl: "https://menafn.com/1104225364/Window-Cleaning-Robot-Market-May-Set-A-New-Growth-Story-To-Generate-Booming-Opportunities-In-The-Industry-By-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?807256"
-        width: 375
         height: 250
         isCached: true
   - title: "Deep Learning Chip Market Demand, Growth, Trend, Business Opportunities, Manufacturers and Research Methodology by 2028"

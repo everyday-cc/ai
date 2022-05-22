@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market Size, Business Segment and Geography – Forecast and Analysis 2022-2028"
-    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
-    publishedDateTime: 2022-05-17T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-segment-and-geography-forecast-and-analysis-2022-2028-2022-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Self-Cleaning Filters Market foresee Professional Survey by Manufacturers, Share, Growth, Trends, Types and Applications, predict to 2026"
     excerpt: "Self-cleaning filters are used for to remove contamination and oversize materials from your products. These filters are adopted for efficient filtration of liquids with high or moderate viscosity. These."
     publishedDateTime: 2022-05-17T14:54:00Z

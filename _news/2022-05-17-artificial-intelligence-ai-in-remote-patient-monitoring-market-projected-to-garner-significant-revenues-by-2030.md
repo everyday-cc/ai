@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Market Size Is Projected To Garner Significant Revenues By 2031 -End"
+    excerpt: "The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the market globally."
+    publishedDateTime: 2022-05-19T06:38:00Z
+    webUrl: "https://menafn.com/1104239032/Deep-Learning-Market-Size-Is-Projected-To-Garner-Significant-Revenues-By-2031-End"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?367957"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence In Law Market Size Is Projected To Garner Significant Revenues By 2030"
     excerpt: "With transformation of business models happening on account of emergence of AI, IoT and Robotics, the global Artificial Intelligence in Law market is estimated to observe significant growth over ..."
     publishedDateTime: 2022-05-17T09:37:00Z

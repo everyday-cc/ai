@@ -19,71 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning Market is expected to reach USD 23.46 Bn by 2023"
-    excerpt: "Quadintel published a new report on the Machine learning Market. The research report consists of thorough information about demand, growth, opportunities, challenges, and restraints. In addition, it delivers an in-depth analysis of the structure and ..."
-    publishedDateTime: 2022-05-17T06:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-is-expected-to-reach-usd-23-46-bn-by-2023"
+  - title: "Edge AI Software Market: Global Industry Could Hit New Highs, Says Allied Market Research"
+    excerpt: "Increasing enterprise workloads on the cloud, rapid developments of IoT, and growth in the number of intelligent applications are the major driving"
+    publishedDateTime: 2022-05-18T11:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-global-industry-could-hit-new-highs-says-allied-market-research"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 41
+    quality: 28
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Deep Learning Market Size Is Projected To Garner Significant Revenues By 2031 -End"
-    excerpt: "The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the market globally."
-    publishedDateTime: 2022-05-19T06:38:00Z
-    webUrl: "https://menafn.com/1104239032/Deep-Learning-Market-Size-Is-Projected-To-Garner-Significant-Revenues-By-2031-End"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?367957"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Machine learning as a Service Market to Reach $302.66 Bn, Globally, by 2030 at 36.2% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \"Machine learning as a Service Market by By Application (Marketing and Advertising,"
-    publishedDateTime: 2022-05-17T13:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at-36-2-cagr-allied-market-research-895645004.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
-        isCached: true
-  - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report from Lucintel"
-    excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
-    publishedDateTime: 2022-05-20T23:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/asic-chip-market-is-expected-to-reach-34-4-billion-by-2027-an-exclusive-market-research-report-from-lucintel"
+  - title: "Automotive Artificial Intelligence Market: Machine Learning Technology to Rake at 45.4% CAGR During 2020-2028"
+    excerpt: "According to a recent report published by Allied Market Research, titled, “Automotive Artificial Intelligence Market by Component, Technology, and"
+    publishedDateTime: 2022-05-17T13:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-machine-learning-technology-to-rake-at-45-4-cagr-during-2020-2028"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.abnewswire.com/uploads/1653029261.png"
-        width: 449
-        height: 300
-        isCached: true
-  - title: "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel"
-    excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
-    publishedDateTime: 2022-05-18T14:48:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+    quality: 17
 
 secured: "Nzvd7j8cmnbhE9RIBqCtjpy6kuipVYrs7/80Ah95RYA3ly1i0CnovGn7VA6yLwcosNZtPtxpRqlPyFpqhSxhyvefiQyH5OmSNxVDWsBXiXjTPqgATuErTzPPEyMF5uIQkQBH/deH3lgzpEWA5egCF8WJrBhweUcM79H8EWarCbfQUZI66SO6ZfZXbE+pGBPLXBAHmWOfXmKe81RQBPKQYb4mlMNHVgPJkwkRQwISQszvbwiVV+cqNKQ5b6HcD8UQHlybFKQEswl4K3tVW4Gi8AZUaE6u6HWernY/Y5qH9yv3uJmeLNrzKnPSGhfaiaMBUxZsQlxqv/V2za1/UZAQpUZrC2Oxhp73aghsysf9aXE=;N9JcZIvFsnKAAk8Bqsmulg=="
 ---

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market Size, Business Segment and Geography – Forecast and Analysis 2022-2028"
-    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
-    publishedDateTime: 2022-05-17T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-segment-and-geography-forecast-and-analysis-2022-2028-2022-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Robot Operating System Market is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2029"
     excerpt: "Growth in adoption of robots in the e-commerce sector, penetration of automation in different industries, and increase in emphasis of labor safety drive"
     publishedDateTime: 2022-05-20T03:00:00Z

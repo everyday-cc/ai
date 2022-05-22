@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/asic-chip-market-is-expected-to-
 webUrl: "https://www.digitaljournal.com/pr/asic-chip-market-is-expected-to-reach-34-4-billion-by-2027-an-exclusive-market-research-report-from-lucintel"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -25,48 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning Market is expected to reach USD 23.46 Bn by 2023"
-    excerpt: "Quadintel published a new report on the Machine learning Market. The research report consists of thorough information about demand, growth, opportunities, challenges, and restraints. In addition, it delivers an in-depth analysis of the structure and ..."
-    publishedDateTime: 2022-05-17T06:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-is-expected-to-reach-usd-23-46-bn-by-2023"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cf22b862df220aaebd12cf960a645816365d243e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Deep Learning Market Size Is Projected To Garner Significant Revenues By 2031 -End"
-    excerpt: "The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the market globally."
-    publishedDateTime: 2022-05-19T06:38:00Z
-    webUrl: "https://menafn.com/1104239032/Deep-Learning-Market-Size-Is-Projected-To-Garner-Significant-Revenues-By-2031-End"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?367957"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Machine learning as a Service Market to Reach $302.66 Bn, Globally, by 2030 at 36.2% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \"Machine learning as a Service Market by By Application (Marketing and Advertising,"
-    publishedDateTime: 2022-05-17T13:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-reach-302-66-bn-globally-by-2030-at-36-2-cagr-allied-market-research-895645004.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
-        isCached: true
   - title: "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel"
     excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
     publishedDateTime: 2022-05-18T14:48:00Z
@@ -75,15 +33,6 @@ related:
     provider:
       name: Daily Herald
       domain: dailyherald.com
-    quality: 0
-  - title: "The Worldwide Face Mask Detection Industry is Expected to Reach $4.2 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Global Face Mask Detection Market By Component, By Application, By Technology, By Regional Outlook, Industry Analysis Report and Forecast, 2021-2027” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2022-05-18T12:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-da0ee8b3bcf842c1b059837edd5ba12f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
     quality: 0
 
 secured: "n3OBG7OWkq/NFCRG7fGHdxYDZAoJ2L9gp4/46BBJI3RAiRUxpBR2zLXVdiufEGuyCdYCssZSFNSYzR+IZOZC8BsPlDjmHN4DOh1qPie08N5SdOJmBMkiEMiGomi4r2KT3GsEhA7tr3QGNr//yqInJaiklg25kMut+wxjlJmO1QxnXJqjaoMls0rju/Xx+6tUUs34otwBGfa0kzCYh7yoKCuqYLBSo9wO7TtXCEuoocZDT+f1Q2Rif4zawOZnMEqWWzgDkCMJFx1BxbQt6oN43Sgix+g+uQHQFrLsxS/z/G0PY4N0NHQ+xyFBAXoPdATvQErTiG47XURdXmcNvRmNWR7BeT0fTh+breZSuUOHetaFJpA2DBbUZca37o6fXBvkSRDgA8BhW2Yu9ZkHzgCcUqspGNQ8/MKNqzdUzMv6hfKKJqOUwCkM7pN/BfgDYy+O4ID9qs72wcxTpAPK3DiDCtZh53FfMS423Q0fS4j6Ot+u4kdWLIHQ7IZv8mPpF4Cw/gu88yVj3XYw060FitAyyQ==;M1ziYUXRkYsPSWx46lUGfA=="
