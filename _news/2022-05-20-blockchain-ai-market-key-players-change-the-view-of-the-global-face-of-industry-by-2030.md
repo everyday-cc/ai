@@ -24,38 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "Edge AI Software Market: Global Industry Could Hit New Highs, Says Allied Market Research"
-    excerpt: "Increasing enterprise workloads on the cloud, rapid developments of IoT, and growth in the number of intelligent applications are the major driving"
-    publishedDateTime: 2022-05-18T11:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-global-industry-could-hit-new-highs-says-allied-market-research"
+  - title: "Blockchain AI Market 2022 | Scope of Current and Future Industry 2032"
+    excerpt: "The global blockchain AI market is expected to secure US$ 2.8 Billion while exhibiting a 22.9% growth rate during the forecast period. The market is"
+    publishedDateTime: 2022-05-19T04:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-2022-scope-of-current-and-future-industry-2032"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 28
+    quality: 37
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/d181e036e94ce0417b390ce7bc1e6c035f16169d-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Automotive Artificial Intelligence Market: Machine Learning Technology to Rake at 45.4% CAGR During 2020-2028"
-    excerpt: "According to a recent report published by Allied Market Research, titled, “Automotive Artificial Intelligence Market by Component, Technology, and"
-    publishedDateTime: 2022-05-17T13:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-machine-learning-technology-to-rake-at-45-4-cagr-during-2020-2028"
+  - title: "A New Cyber-Alliance of Artificial Intelligence, Internet of Things, Blockchain, and Edge Computing"
+    excerpt: "The world is witnessing an accelerated large-scale technology adoption with transformative effects on day-to-day operations, with many industries now depending on machine-controlled processes. These technologies include blockchain,"
+    publishedDateTime: 2022-05-21T15:56:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9773125/"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 18
+  - title: "Blockchain AI Market 2022 Expectations & Growth Trends Highlighted Until 2032"
+    excerpt: "The global blockchain AI market is expected to reach US$ 2.8 billion during the forecast period, rising at a CAGR of 22.9 percent. The market is anticipated to be worth USD 285.7 million in 2021, rising to USD 358 million in 2022."
+    publishedDateTime: 2022-05-20T11:38:00Z
+    webUrl: "https://techbullion.com/blockchain-ai-market-2022-expectations-growth-trends-highlighted-until-2032-2/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 14
+  - title: "Global Video Streaming Market is to Reach USD 932,000.12 Million | Blockchain Technologies and Artificial Intelligence (AI) to Increase Video Quality"
+    excerpt: "Artificial Intelligence (AI) is becoming increasingly important in editing, cinematography, voice-overs, scriptwriting, and other elements of video production and distribution. These advancements are expected to have a favourable impact on market growth."
+    publishedDateTime: 2022-05-19T10:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-video-streaming-market-is-to-reach-usd-932000-12-million-blockchain-technologies-and-artificial-intelligence-ai-to-increase-video-quality"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 17
-  - title: "The Worldwide Face Mask Detection Industry is Expected to Reach $4.2 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Global Face Mask Detection Market By Component, By Application, By Technology, By Regional Outlook, Industry Analysis Report and Forecast, 2021-2027” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2022-05-18T12:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-da0ee8b3bcf842c1b059837edd5ba12f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "w+bux6znBnCd+4Fce5PgRixlw+3eCtYcP8sdg6qrlscHkQdVxLukVuuxfsRKKQ+YVscXYf/abKaGjNjcV9YEdSlaXVKCFyBR2lzXq4FkLYxF3ZPikhNmm3wbPocLmQ22iClseHXgsnYXmVbdfrpWUW/TPKAwOBDjt95E0+YMqvBPzx2Yys4WFUErKx/5gS4R1Z79Z+/1ynw0KBr0CDnw5kXoi2nmCTFL+dcBshezH7GOYWABFqrzE94wgZF8+7uOOGrg9ZlCpawY8Qo0KeMbPuWpaEmlqFUfuL0Vo9iB6SfMKBV04ql8xiOS6TwClZS/g4FXJ5w0Yvx0zBbZzV8RFybGaNPbFCCt6hNEIsc3V9A=;IxMtpN0q2vtURmQ2w5SPqg=="
 ---

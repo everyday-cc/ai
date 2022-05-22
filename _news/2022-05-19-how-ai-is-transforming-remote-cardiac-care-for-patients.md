@@ -23,6 +23,19 @@ images:
     height: 268
     isCached: true
 
+related:
+  - title: "Transforming Government Services with Artificial Intelligence"
+    excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
+    publishedDateTime: 2022-05-19T18:36:00Z
+    webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
+    ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 37
+
 secured: "naWYbwi84G9mjCn425ncLYz/rm3UshPkz5qPrx70tbPgzV6ccuy+ftZfkFb790zicxqGdMdf5DT2eQcs1wXSLK1pPWyxE0MsZxSAAc4K4snJiQhDlBKeMAmprghRYznn7CzO5VVDdJslwyw4PvOsng7GetQJTeBCTVGKHU151eRB26/6WHqcLezv4vpJytwA2N0ZXLmqvKOdbkFDLChR39zR0Em63wIG1oqHEjvflQ7A2DKsWGx/DlAvqvPF0ynrxs4UKma+1FK+4vjoIsW6ngVk5Ss79hqqzfLTaFe1jjI3KCgBsiPbWZ5rLOgww+RBFbAL8ymmUjL8fpimHIxC2LJLQ0kBOcyS2KBpA94QqD3c7zDuqcIOf1GsOWbLYP0m/+J4fQCCaTUqsbz7j3xYFfXfSv1TtULruWZrYSBjFcYZ4eTLIpPe2MRahH9SXAYy0VBiZTvc2sKCXroNyl+fMY9VElaUfAX0m1IJK2DUUoa9nNcRihEEB1HToFXUg4KkPhK+pUAm6xtPpoYXK6buyw==;Mi5nQ4iRCIWHxxc4ANZNkQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcar
 webUrl: "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechCrunch
@@ -30,20 +30,6 @@ images:
 
 related:
   - title: "The Next Frontier For Healthcare: Blockchain, AR and VR"
-    excerpt: "The medical industry has traditionally been slow to adopt new technologies, but blockchain, augmented reality and virtual reality technologies are changing that thought process."
-    publishedDateTime: 2022-05-17T14:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/425443"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 84
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1652285926-GettyImages-954960690.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "The Next Frontier For Healthcare: Blockchain, AR and VR"
     excerpt: "The healthcare industry is primed for a revolution as the convergence of blockchain, cryptocurrency, virtual reality and artificial intelligence begin to take hold. U.S. healthcare spending is estimated to reach $8."
     publishedDateTime: 2022-05-17T18:39:00Z
     webUrl: "https://www.stamfordadvocate.com/business/article/The-Next-Frontier-For-Healthcare-Blockchain-AR-17178569.php"
@@ -57,29 +43,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Blockchain AI Market 2022 | Scope of Current and Future Industry 2032"
-    excerpt: "The global blockchain AI market is expected to secure US$ 2.8 Billion while exhibiting a 22.9% growth rate during the forecast period. The market is"
-    publishedDateTime: 2022-05-19T04:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-2022-scope-of-current-and-future-industry-2032"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/d181e036e94ce0417b390ce7bc1e6c035f16169d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "A New Cyber-Alliance of Artificial Intelligence, Internet of Things, Blockchain, and Edge Computing"
-    excerpt: "The world is witnessing an accelerated large-scale technology adoption with transformative effects on day-to-day operations, with many industries now depending on machine-controlled processes. These technologies include blockchain,"
-    publishedDateTime: 2022-05-21T15:56:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9773125/"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 18
 
 secured: "3hWslT1ndXjBQKqbdeO6a3clqmgIgWis4kM/m7wSVKX4y8UFXI29fUxHoA1/gYbMSEoY5z3ZDpxK4IPbRS2PqcTRvDXkhyhyeGu/Kx2noayHUrYtpT9AKiqerNLO8Dqrd4klE2/q9hPeWcdCWlR9vPooDRjS/+YzjXzSFCHdPwbSoqoUGf2GF4vw5DkPpdhwcJlwGgDGYIqTiorKvOEQlKXst/ysyS7UX7D883vIHz5Os5dYK1RgMGELOgsDRmJhtD8AiDuWgPHcW1zov9MgyxzKSLRM/eUygOFGLBEHvOki54TQjnvwOz3RbCu5+fzTWDbnZNr0eB4LiXTirOS6UlJQITZYs+ediYkpEe+Sb15MZUGPW8ghJpSWpqsYUYvgNZUvA2PQmIMxf5kTW9YbFKCOZ9k7eJ9qTZgOm2ZI0dlRWBPUMar2oqOn3tIv6U5TaX8BjLkypzoI+kh4BPu50ra6Oe+roTz76pkSIjV6D2V8livEFYuRG4GmIHDNF2ECUrRgjBwVlQfbxKMfkj2Ybg==;xpUezGDxQ57CNehNygfOnQ=="
 ---

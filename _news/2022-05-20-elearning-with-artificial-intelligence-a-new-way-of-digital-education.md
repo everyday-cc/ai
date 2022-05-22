@@ -7,8 +7,8 @@ originalUrl: "https://insights.ehotelier.com/insights/2022/05/20/elearning-with-
 webUrl: "https://insights.ehotelier.com/insights/2022/05/20/elearning-with-artificial-intelligence-a-new-way-of-digital-education/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: eHotelier
@@ -26,29 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "The role of AI and machine learning in revolutionizing clinical research"
-    excerpt: "The goal of implementing artificial intelligence and machine learning in clinical research is not to replace humans with digital tools but to increase their productivity."
-    publishedDateTime: 2022-05-17T20:16:00Z
-    webUrl: "https://medcitynews.com/2022/05/the-role-of-ai-and-machine-learning-in-revolutionizing-clinical-research/"
+  - title: "REPerformance Uses AI to Personalize Physical Education"
+    excerpt: "A software company in Canada is bringing its web-based application to the U.S. that uses personal fitness data to create individualized workout programs and feedback geared toward their progress rather than ability."
+    publishedDateTime: 2022-05-19T23:25:00Z
+    webUrl: "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education"
+    ampWebUrl: "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 55
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://medcitynews.com/uploads/2022/04/INVEST-PharmaTech-2022-Email-Header.jpg"
-        width: 600
-        height: 340
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8aed749/2147483647/strip/true/crop/1000x521+0+89/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Fe1%2Fd1af45fd4441996fa546b5a6f9dd%2Fphysical-education.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Accelerating the pace of machine learning"
-    excerpt: "Machine learning happens a lot like erosion. Data is hurled at a mathematical model like grains of sand skittering across a rocky landscape. Some of those grains simply sail along with little or no impact."
-    publishedDateTime: 2022-05-19T02:09:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220518160618.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "VWA5oSSXTiEcnwYKh6xuUv4yf58GFZefdmO+M1cF8m+eQa+n2mDC9BTO2tAECDgJF4303BpBu1bR3oovlrhrpVlBc8Hm3Zv43JQem8TTQb68y+xNme98NmKLg/pkiSc9szphz07FMfjPEude9ONER+vuSBCFMpGlEkLB/fBi+OAZCy0mbfG1WWqXSOvKdNV+gVDSUmx4s5lAuxwx/18bgRr4iXs+aSCx0yB0ftbQeYAnTmzszkMCXTguNDQTXKWhAw78AVoHYhupOEV8Np0oAbF4cA3E/7TTPMNbsF895DRNZdpoVRgai9LgdQwqzU5ro9bQiywT7Fss4HdhVQ4LH1x8ajfFzLkj+IkU9NmM3sAapo1FzG9MUiYiSO8Z+yoe1ifeVTd0Hk4ivCJPfFAS7TJFfdvith9tWImqATKSWYq5caHolXmZvFNA5p0zbf2sMxlaLetGPrURbWQgkwXoIQBUNRkhNPf+SqohX+jPbPHQuq8Kib85GyvqD58/T5VQI7wXlUhLl6Kl+ojzEw1kZA==;CrWO2L1t7XIbdZxaxgTMXA=="
 ---

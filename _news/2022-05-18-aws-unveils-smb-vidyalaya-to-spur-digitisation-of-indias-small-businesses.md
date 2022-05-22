@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/aws-unveils-smb-vid
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/aws-unveils-smb-vidyalaya-to-spur-digitisation-of-indias-small-businesses/amp_articleshow/91632524.cms"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "AWS launches SMB Vidyalaya to upskill India’s small businesses using AWS Cloud"
-    excerpt: "AWS has been continually expanding its services to support cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and Artificial Intelligence (AI), Internet of Things ..."
-    publishedDateTime: 2022-05-17T13:19:00Z
-    webUrl: "https://www.financialexpress.com/education-2/aws-launches-smb-vidyalaya-to-upskill-indias-small-businesses-using-aws-cloud/2528432/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 15
 
 secured: "EgmHNyY62uq07kGJlKhOMu3VZ9QUm3LvkviGCxwNBEhCU04K1OPS2Sf6LO5Oqh4JRyQC5NXKm5ba35ili4tEt3OO/aKAFw3L5xT69AcCj2lx25Dh5CD4gg+0DOwfSvR8LqBKVCKiY9uQelJoEJ8UlnpkZ3/q5ud/LKE6hr5XakKN3uMMBFlrd5/NPT6Fhcxu/LXThg4Qy5N1yX57eIP0cp3eo/LV1jUDuxsjtMmA9S54sSNTRe3+sxSW3FuE7iw0LbRnOd8mWf4Hn0I3At4jNHH9ym1JqWI6HIcz9dkZSQmtQKkuFVw5B7HVY5zv8ei3nos8klUW+a9f8OB2iXxR+z08lvnRN24T+xknpXQ4Nag1rAuL0KqfgRoUsM6YSvYuKWKCTedx6Gh2lOMazt+v/+5rwLggsA3ozy2API90w+Smn15aZubNa3+AfCcnl2QKqKmNQ3rZRFHMQNgYsnotVKKlm/DTzE19OcmjCtyCeqDcmDa8Lci4ELQKqnez70ciYoPCVaSK5KXjUh28AAIWYQ==;dN0b7ZrNft24qqBGdSTNWQ=="
 ---

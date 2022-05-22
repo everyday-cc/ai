@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospi
 cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/4/08/4089c07e-ba91-51e3-86c8-d3ca3f05a931/6289426adb5e6.image.jpg?resize=1024%2C683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Hospital uses virtual reality to aid rehabilitation"
+    excerpt: "Ortiz eventually started therapy at the Rehabilitation Hospital ... and BIONIK Labs to integrate virtual reality and artificial intelligence (AI) to patient care, The Billings Gazette reported."
+    publishedDateTime: 2022-05-22T07:00:00Z
+    webUrl: "https://lmtribune.com/northwest/hospital-uses-virtual-reality-to-aid-rehabilitation/article_bbdcc6ae-9672-53fa-b1b4-0c1da879678b.html"
+    type: article
+    provider:
+      name: Lewiston Tribune
+      domain: lmtribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/2/2e/22e38208-df50-5a7f-be32-0079371e1a54/6289e1ae8dafe.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Rehabilitation Hospital of Montana incorporates VR and AI technology into patient care"
     excerpt: "The Rehabilitation Hospital of Montana is now the first and only facility in the state to utilize VR and AI to deliver immersive rehabilitation training and patient care."

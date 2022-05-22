@@ -51,6 +51,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Hospital uses virtual reality to aid rehabilitation"
+    excerpt: "Ortiz eventually started therapy at the Rehabilitation Hospital ... and BIONIK Labs to integrate virtual reality and artificial intelligence (AI) to patient care, The Billings Gazette reported."
+    publishedDateTime: 2022-05-22T07:00:00Z
+    webUrl: "https://lmtribune.com/northwest/hospital-uses-virtual-reality-to-aid-rehabilitation/article_bbdcc6ae-9672-53fa-b1b4-0c1da879678b.html"
+    type: article
+    provider:
+      name: Lewiston Tribune
+      domain: lmtribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/2/2e/22e38208-df50-5a7f-be32-0079371e1a54/6289e1ae8dafe.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Rehabilitation Hospital of Montana incorporates VR and AI technology into patient care"
     excerpt: "The Rehabilitation Hospital of Montana is now the first and only facility in the state to utilize VR and AI to deliver immersive rehabilitation training and patient care."
     publishedDateTime: 2022-05-18T23:30:00Z

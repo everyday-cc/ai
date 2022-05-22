@@ -18,20 +18,82 @@ topics:
   - AI
 
 related:
-  - title: "Sri Lanka's National Institute Of Business Management Installs Facial Recognition System"
-    excerpt: "National Institute of Business Management (NIBM), one of the leading higher educational institutions in Sri Lanka, announced on Monday that it ha"
-    publishedDateTime: 2022-05-21T04:12:00Z
-    webUrl: "https://menafn.com/1104250772/Sri-Lankas-National-Institute-Of-Business-Management-Installs-Facial-Recognition-System"
+  - title: "Crowd Media enters conversational AI partnership with business intelligence platform to supercharge sales and lead generation"
+    excerpt: "The deal is a natural fit for Crowd Media which will now go and whip up a Proof of Concept (POC) which will focus on leveraging CM8’s Talking Head platform to apply “conversational AI” to the Media Search sector. That POC will be with SourceFlare in ..."
+    publishedDateTime: 2022-05-18T00:53:00Z
+    webUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/"
+    ampWebUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 47
     images:
-      - url: "https://menafn.com/updates/pr/2022-05/21/CG_390a4image_story.jpg"
-        width: 900
-        height: 600
+      - url: "https://stockhead.com.au/wp-content/uploads/2022/05/Unknown.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Wysa Receives FDA Breakthrough Device Designation for AI-led Mental Health Conversational Agent"
+    excerpt: "Wysa, a leading artificial intelligence (AI) based digital companion for behavioral health, has announced that the U.S. Food and Drug Administration (FDA) has granted Breakthrough Device Designation for its AI-based digital mental health conversational agent for patients 18 years and older with a diagnosis of chronic musculoskeletal pain (defined as pain lasting longer than three months) and depre."
+    publishedDateTime: 2022-05-18T03:57:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=665762"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 27
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
+    publishedDateTime: 2022-05-18T15:30:00Z
+    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 20
+    images:
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+        width: 800
+        height: 340
+        isCached: true
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "Hanzo, a technology pioneer in preserving, collecting, reviewing, and exporting dynamic, complex collaboration and web-based data, in partnership with Nightfall AI, the first cloud-native extensible data loss prevention (DLP) platform,"
+    publishedDateTime: 2022-05-18T23:04:00Z
+    webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
+    type: article
+    provider:
+      name: abc27
+      domain: abc27.com
+    quality: 20
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
+        width: 800
+        height: 340
+        isCached: true
+  - title: "National Grid to test assessment data automation with drones and AI"
+    excerpt: "NGET is launching a system trial that seeks to fully automate the capture and processing of corrosion-related condition assessment data."
+    publishedDateTime: 2022-05-18T14:36:00Z
+    webUrl: "https://www.power-grid.com/td/national-grid-to-test-assessment-data-automation-with-drones-and-ai/"
+    type: article
+    provider:
+      name: power-grid
+      domain: power-grid.com
+    quality: 17
+  - title: "Ecopia AI Partners with Snap Inc. Subsidiary to Pilot 3D Map Content Integration"
+    excerpt: "Ecopia AI announced today that it was selected by a Snap Inc. subsidiary to provide high-precision vector mapping data. This press release features multimedia. View the full release here:  Sample of the 3D Vector Map of Buildings and Vegetation Generated by Ecopia AI Leveraging Airbus Imagery (Photo: Business Wire) Ecopia leverages advanced AI-based mapping systems to mine the most up-to-date commercially-available geospatial imagery,"
+    publishedDateTime: 2022-05-20T11:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-2863231fece947a7b304aafe101cf9c5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
 
 secured: "cKNWGwOmrsveKDIzQaBe4fseKfiEKFNcZn99SE5bYmnpPqcm6yi3WBWWeyC0c8j4/XkjzWa/AaoHgxt/JJPqDBpzxET1vLjduACA9Hv+xhNE0ZOrzENaHFnTaycWcem1YJVndwKutd+7dGYRpOSEDqWtzM1o7u4X2PCADs/QfAhrcjavF2sp/WPZGc/pGM/EZXk1fqFetehE7FSzvEtIrTNvJ+cCbTX7kzU5eXtW66vUVgVLftulFlWI8AU6SdIsBMlYaquQVepcVdAfIw1BUTn/cMSXkQtN/UBrfFil/EBYzcocys9qowId7AbbKuOefQBEWe0hQFtuAgBxyli0ife1/3Pl4YkB9XwVMbBlQ8w=;X19BiRD5WxJuJWlxbwjlSw=="
 ---

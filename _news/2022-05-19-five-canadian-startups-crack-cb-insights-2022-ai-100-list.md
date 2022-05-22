@@ -80,20 +80,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "WellSaid Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial ..."
-    publishedDateTime: 2022-05-17T13:05:00Z
-    webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-artificial-intelligence-4ffed104ae0f795c84a450521c540555"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Wellsaid Labs Named To The 2022 CB Insights AI 100 List Of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking , showcasing the 100 most promising private artificial intelligence companies in the world. 'This is the sixth year that CB ..."
     publishedDateTime: 2022-05-18T07:49:00Z
@@ -136,15 +122,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Cresta Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "SAN FRANCISCO, May 17, 2022 /PRNewswire/ -- CB Insights today named Cresta to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the ..."
-    publishedDateTime: 2022-05-17T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cresta-named-the-2022-cb-insights-ai-100-/2022/05/17/9603574.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Observe.AI Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "Observe.AI is recognized for leading innovations in contact center AINEW YORK--(BUSINESS WIRE)--Observe.AI ( an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named to CB Insights’ annual AI 100 Ranking,"
     publishedDateTime: 2022-05-17T16:10:00Z

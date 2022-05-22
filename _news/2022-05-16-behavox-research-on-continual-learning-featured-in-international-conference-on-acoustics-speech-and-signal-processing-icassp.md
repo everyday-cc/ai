@@ -2,9 +2,9 @@
 category: news
 title: "Behavox Research on Continual Learning Featured in International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 excerpt: "Behavox, which provides a suite of security products that help compliance, HR, and security teams protect their company and colleagues from bad actors, today announced that its academic research paper on artificial intelligence “Continual learning using lattice-free MMI for speech recognition” has been accepted by the International Conference on Acoustics,"
-publishedDateTime: 2022-05-16T13:07:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
+publishedDateTime: 2022-05-16T13:03:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "6C5IRyIXmWEwh3Fehl8NQw6ErzxMK8EYxDOkKSnOcsbu4IpvluzbsH1bayclyn7lCpp4x1WeIgCnjiyt27utohOr5t+nx4ZLNmYZ7GY3cQD3Xtw1or2N+gVLHHhYV8J63QsWqvSZQmMjV/HPucW6zE8jsX23HgYTn2WKcx4nEuEwIbZnzt9EZFiWk23vdGLb/pYVvlwTidlUoNIFOzgT+0f2wFPX00JKIqVmflhwafRgFD0TYVnOfuNkVlVZ8YZURxzPFzOdgclYj+XMnRAAz6tWql6X0cCMmaQHgD4ugxe+lZHnrbv5wLEfkZBwxHbbh5MLrHLeXuWjf/CYli4buBJC9j6vtZWXT+KuL2G20YI=;VwTFcvLye77/tqVVHEJMHA=="
+secured: "YXBxPLAs6TuBsi26EZlPmGdGbkjUftx4C/DyTNn9RFw/tHuhnHWk0PsldeJu0y/nXmFL2/Vndyql16T8KWvVB0jPoAtyJv7Tkk9JWzP6SW6huyQTacceilu7Q2NrDh8LI51c6A72HDP/DbYbHeD+foQZi8wKshzPZ36/5P40LSrYL/0FJ/kP9HgCv9dP7sQHLLEk/rexILmYMD6cYK4XR6QCg0DYxVar7UWzcvg1kG9sxeWlg6atlJ1sOgmnl6eo1iaCmNu+dSwzZFnMBLB/oW3aSMSKIk3wa2PpdLFW/j2XAHwXeyX7m9LnYDDgx1g8VmncwEzvLhJOHq28ArCWo5vee+NeHRDSTp93QTc09fo=;eRUVBJND2OtClawsbWUpLA=="
 ---
 

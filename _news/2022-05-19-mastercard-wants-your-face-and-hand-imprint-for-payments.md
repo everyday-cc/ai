@@ -95,15 +95,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Mastercard launches tech that lets you pay with your face or hand"
-    excerpt: "Mastercard on Tuesday launched a program that allows retailers to offer biometric payment methods, like facial recognition and fingerprint scanning. Users can authenticate a payment by showing their face or the palm of their hand instead of swiping their card."
-    publishedDateTime: 2022-05-17T13:16:00Z
-    webUrl: "https://www.cnbc.com/2022/05/17/mastercard-launches-tech-that-lets-you-pay-with-your-face-or-hand.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 34
 
 secured: "gZUVESmR/nsKL87njJfOYkArvCXAyYq/2VTndbNzvrRzWzGl9sRf6yvJ2IvZHI+L6K0PzBw5Ioa1qViwEDgUtXxU4QPFLiVpmyM+ZPmfm4HK5fo8oMaCDbuT0xZNvGvG4IN7R8iNFS6v3HyIbspwLIE3npBWzTnxPZZs81ylzw8LarnLd/RCy2J8x9KodM5KZDk9fVW3OZhUyaYtY6uOrj1rH4e12YwUsDC2iASKlYmFdOGgOcO5YZcuENgNaD7yWmShgylAND0b227LSZcuUU/2I/p2shpxIz045OXjQDx0bu5Yv4JOglHlzggkCzC+jltj7BrHipdsvBhN2pPOlrL/KGL+qlxmZ09qlDu8BaUJ34ZAxTmALkS8yFIFTOJ0O/D39+in2p8nkG2gOp5RwSw3/1h1LEdcBgeaaxRs8cPJBtcrJd3bbs9KveVgKGISf9mbI33BrHkcVxl7fb/2VEpM+cNO3CTIVbImZjnncbTBp/W/POPRay3hKIkRFt5DekTjvKWO5/r0TobD1iml0Q==;uEYxpU4UV8zxuCagm5IbiA=="
 ---

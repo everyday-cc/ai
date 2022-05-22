@@ -7,7 +7,7 @@ originalUrl: "https://www.packworld.com/supplier-news/news/22236612/soft-robotic
 webUrl: "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ethics in the AI, Technology, and Information Age"
+    excerpt: "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?"
+    publishedDateTime: 2022-05-20T17:27:00Z
+    webUrl: "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF"
+    type: article
+    provider:
+      name: Amazon Associates UK
+      domain: amazon.co.uk
+    quality: 54
+    images:
+      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
+        width: 350
+        height: 450
+        isCached: true
   - title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
     excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
     publishedDateTime: 2022-05-19T14:30:00Z

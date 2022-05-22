@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "‘The Game is Over’: Google’s DeepMind says it is on verge of achieving human-level AI"
-    excerpt: "Human-level artificial intelligence is close to finally being achieved, according to a lead researcher at Google’s DeepMind AI division. Dr Nando de Freitas said “the game is over” in the ..."
-    publishedDateTime: 2022-05-17T13:55:00Z
-    webUrl: "https://www.independent.co.uk/tech/ai-deepmind-artificial-general-intelligence-b2080740.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 47
-    images:
-      - url: "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "'The Game is Over!' Google's DeepMind says it is close to achieving 'human-level' artificial intelligence – but it still needs to be scaled up"
     excerpt: "DeepMind, a British company owned by Google, may be on the verge of achieving human-level artificial intelligence (AI). Nando de Freitas, a research scientist at DeepMind and machine learning ..."
     publishedDateTime: 2022-05-18T11:38:00Z

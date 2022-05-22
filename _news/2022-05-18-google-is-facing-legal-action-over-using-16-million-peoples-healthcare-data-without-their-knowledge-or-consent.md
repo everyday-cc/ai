@@ -24,17 +24,6 @@ images:
     height: 366
     isCached: true
 
-related:
-  - title: "Google faces lawsuit for misusing millions of people’s medical data"
-    excerpt: "The news of the class-action lawsuit against Google has been followed by the publication of a study accusing the company of enabling adtech’s “biggest data breach”."
-    publishedDateTime: 2022-05-17T13:08:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/google-faces-lawsuit-for-misusing-millions-of-people-s-medical-data/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
-
 secured: "g/yIxMSG0794J45mtIz2EY/rSUKBClaauXueFVL/A5pvbfH9eGNnzorJKNjhYqteJNuth7LgKBTccYpkfzUVfYYZaGK011N1bhZqsFSrAT3y9RrV5/dPeNHzBptQgBlPkl4pWNJyMWIcfDNycITu/JVAG/0634HzLDIKg1cTDUNzj6yNC03l313aiTxoYYp4H7tuGQ6Nn5Ci7i3UOIRFYqXwkvPjZ9XB7/DK3PM7UB7YXh+BPihIF2QVwFi57Ar55N//shjkxvj7ty7deCPjT2xvvGfr52/aCE0TKVjhTPF2UYsD62m7VL82sBiznYZF25/5hq8GZiQ/A3c0EjJcJ2VIGdc3t6dlCEva0Xqm9kc=;c15GVIRxIKiacdomSxEgkg=="
 ---
 

@@ -2,21 +2,17 @@
 category: news
 title: "DARKTRACE WINS ARTIFICIAL INTELLIGENCE AWARD AT 2022 GO:TECH AWARDS"
 excerpt: "Darktrace, a global leader in cyber security AI, today announced that it has won the AI & Machine Learning Award at the 2022 Go:Tech Awards. Backed by Business Leader, one of the UK's leading business titles,"
-publishedDateTime: 2022-05-20T19:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/darktrace-wins-artificial-intelligence-award-at-2022-go-tech-awards-1031479471"
-webUrl: "https://markets.businessinsider.com/news/stocks/darktrace-wins-artificial-intelligence-award-at-2022-go-tech-awards-1031479471"
+publishedDateTime: 2022-05-20T19:25:00Z
+originalUrl: "https://fox59.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
 type: article
-quality: 47
-heat: 47
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - AI
@@ -41,6 +37,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "9mGC8LuX56u82U7Aw7s0gIy0YMwFb9d3QEcOml1ioAbsx6bGSzEn9wiBB5+M41IGlfHuqQ5bHHIramzuAvjKSeszaYItSZVxjW93YjykPc9hC/2yxLW2IKeiJ20q6W2nqfiyJ1sqJdaB2jRfO15Cg7UXi6kKUzUj8Pe9y0Phqy3qlHZxnHrxe/iQOMJClPMH8u3tY/xKnZvHMBkVQzSWElbTVrH45ye7v25qg6QNYqZ0wrhsiB+qDbQoChE4GZRJ8gH9bmh+wVjiNmY3X2Rgs5zq8jZHeYzR/fpQgZoJsLnglSAfaT6oZEqWPfUGJUH79jnqNNQ1o5XUnbBdZr71KdRJyzSHfNMOGVILeOmhDX0=;6ey4ps73M5FL0JCVyxoEHw=="
+secured: "dymSDjLBn5wGqyunHkIwFpQanByklta8nf6S9ea0joM4odHSJQvWcSikTjwCP5rH7NB87A9VEv3CEkSxY3U56tOzp++mgUSFNCET8ai1NHnOwzPvh3NKysDA82KkKCOlXHkZgIbUvnZ+fuFU9ayW0llAJ+urSYRMCuBYHWIx6tt5A2kke+kZDDF7ltCMPeZ5bsbZlS9eNMkyaDZhyJzaOWpQoKXmAx2c2rz93aiqLZAMGXspelK942L6ZI9nZZc2jWMNBduwu5RNl8/bAMhrldEN9V6HNowBA1xHfSN7aEFgpGlK1KczNNTlPpySK7a+y8lF0Zglgw6HkqQ4KALzFf1Aut0iA3a9AgSScWhPIEM=;oMuYSSTRiRwx1vJNZIz7Ww=="
 ---
 

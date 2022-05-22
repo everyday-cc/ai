@@ -39,6 +39,20 @@ related:
         width: 500
         height: 339
         isCached: true
+  - title: "Ethics in the AI, Technology, and Information Age"
+    excerpt: "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?"
+    publishedDateTime: 2022-05-20T17:27:00Z
+    webUrl: "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF"
+    type: article
+    provider:
+      name: Amazon Associates UK
+      domain: amazon.co.uk
+    quality: 54
+    images:
+      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
+        width: 350
+        height: 450
+        isCached: true
   - title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
     excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
     publishedDateTime: 2022-05-20T07:41:00Z
@@ -54,6 +68,6 @@ related:
         height: 271
         isCached: true
 
-secured: "MqilY46OjTJ7gztee+T4NDSc0jNDzLyXxgZ1/sObuTBQBkwLV8TsarDYuDe53mRQzTmju47/zaZrQ/DrvnwTreR4IMgpiAmNiH7XgpvAZTVkB29I3JPeFLIACYzpYCy3aeV+/4C6GIl3FrRw19N10DHf5p43wnS8HmXRX/OIcY42TZ0OaTD7VA8DIT4K0lf5QKQleju8X1qrlUhko+ZozVja+nCUIWLD0kjzaeaQyJLghteHpvCVAttxH6QdmE1GrlI/ZPkOkniiRHX2RB09dqhoea8yKC3+DKN/LCgRzy1ro7atRjzzLDkGcCVEn2cPW6qm5crDxsYroarMM6JaFOma7kwdb1kBedH35PamF2E=;Z4iB7zwZmdrg7owUZ8+7/Q=="
+secured: "IVObfkQZaXvk4lIP1Yz6Byb8BQS4mMw5E7RI//kz/7Cor66eCFOniCjt6orbI83iiunRX3RcY69LINt0uBog7eBpbeBOWpR9MPcfDy7F6FrdA2RIIGWGGwyVWdKGzQACQNuFM/eL3BVdr7qA7B38YNHSxnhdrTzBD6r8KqWub6H+JLXzLUGMu/12bMZKz79r8iyvaKRtSIRejdNucJ+x17qJqCvU7tCUyCGOpsv+gNLZUh5bI4L5fxOpDNNtZ96k7c/JjmDu5YJ3sbDE65fdNK0Mi9HHHrvhN4ShvPXtYp35bZff0a6elINdni0Egw+JMqhz8IaGVgTSvr/L7Kt9TpJ0JAJobasjQHF31REnAwE=;QalolI6HDSq8DOlMlXsBag=="
 ---
 

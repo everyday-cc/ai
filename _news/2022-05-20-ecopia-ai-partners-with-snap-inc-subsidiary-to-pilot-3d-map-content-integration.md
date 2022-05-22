@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-2863231f
 webUrl: "https://apnews.com/press-release/business-wire/technology-2863231fece947a7b304aafe101cf9c5"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,84 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Crowd Media enters conversational AI partnership with business intelligence platform to supercharge sales and lead generation"
+    excerpt: "The deal is a natural fit for Crowd Media which will now go and whip up a Proof of Concept (POC) which will focus on leveraging CM8’s Talking Head platform to apply “conversational AI” to the Media Search sector. That POC will be with SourceFlare in ..."
+    publishedDateTime: 2022-05-18T00:53:00Z
+    webUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/"
+    ampWebUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 47
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2022/05/Unknown.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Wysa Receives FDA Breakthrough Device Designation for AI-led Mental Health Conversational Agent"
+    excerpt: "Wysa, a leading artificial intelligence (AI) based digital companion for behavioral health, has announced that the U.S. Food and Drug Administration (FDA) has granted Breakthrough Device Designation for its AI-based digital mental health conversational agent for patients 18 years and older with a diagnosis of chronic musculoskeletal pain (defined as pain lasting longer than three months) and depre."
+    publishedDateTime: 2022-05-18T03:57:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=665762"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 27
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
+    publishedDateTime: 2022-05-18T15:30:00Z
+    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 20
+    images:
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+        width: 800
+        height: 340
+        isCached: true
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "Hanzo, a technology pioneer in preserving, collecting, reviewing, and exporting dynamic, complex collaboration and web-based data, in partnership with Nightfall AI, the first cloud-native extensible data loss prevention (DLP) platform,"
+    publishedDateTime: 2022-05-18T23:04:00Z
+    webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
+    type: article
+    provider:
+      name: abc27
+      domain: abc27.com
+    quality: 20
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
+        width: 800
+        height: 340
+        isCached: true
+  - title: "National Grid to test assessment data automation with drones and AI"
+    excerpt: "NGET is launching a system trial that seeks to fully automate the capture and processing of corrosion-related condition assessment data."
+    publishedDateTime: 2022-05-18T14:36:00Z
+    webUrl: "https://www.power-grid.com/td/national-grid-to-test-assessment-data-automation-with-drones-and-ai/"
+    type: article
+    provider:
+      name: power-grid
+      domain: power-grid.com
+    quality: 17
+  - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
+    excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
+    publishedDateTime: 2022-05-19T13:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/19/9605577.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ERIVhap8UA609IHL6l8fEmrkiKq7GV2v+v/Da61Qb1tVkxNN6NYMoCfp9NjV+4JNF6HA0zfQK9cCYJxS/C5BZdeIe7DakJ2zdf0H4dQwCmaK2K0P8xKYMUgGL08ft7T3HdLkZ/9yRbflppegSRMXmIwjcT32DS+29rNFvAdzb3PwVouzQHWCi0eSFXB+a/nuOg+S6CWu7J5uzVRs6yw6evUBGrh8FNH+wUYQMdZljv7JkUmOuHm7ZChr2h9eQEkHIJsrH95aGw3zYD22fsOber3b772pwhDBjkEN6OLXcNwhgFCI24EMFlEheqDvlSXrC/sihx+/xvFZUUpQbyQA0OGFvCn1bTBpNkAeq8yhuRU=;BsozQqH0dkqw7eg49BCHPA=="
 ---

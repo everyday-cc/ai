@@ -9,7 +9,7 @@ ampWebUrl: "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-fa
 cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Mastercard launches tech that lets you pay with your face or hand"
-    excerpt: "Mastercard on Tuesday launched a program that allows retailers to offer biometric payment methods, like facial recognition and fingerprint scanning. Users can authenticate a payment by showing their face or the palm of their hand instead of swiping their card."
-    publishedDateTime: 2022-05-17T13:16:00Z
-    webUrl: "https://www.cnbc.com/2022/05/17/mastercard-launches-tech-that-lets-you-pay-with-your-face-or-hand.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 34
   - title: "Mastercard wants your face and hand imprint for payments"
     excerpt: "Mastercard announced a new way to make payments called the Biometric Checkout Program. Instead of looking for your phone or wallet at checkout, the new system aims to speed up the process by only using your face or your hand to make a purchase at"
     publishedDateTime: 2022-05-18T18:14:00Z

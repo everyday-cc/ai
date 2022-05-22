@@ -2,17 +2,17 @@
 category: news
 title: "NEC Selects DDN Storage for Japan's Largest Corporate AI Research Supercomputer"
 excerpt: "DDN ®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research."
-publishedDateTime: 2022-05-18T16:00:00Z
-originalUrl: "https://www.kget.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
-webUrl: "https://www.kget.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
+publishedDateTime: 2022-05-18T13:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: KGET.com
-  domain: kget.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
@@ -24,6 +24,6 @@ images:
     height: 252
     isCached: true
 
-secured: "olui9eYSQD4jFz6FfJNV9P4GIRmRtxz2ojaxMS6U176aBXy4KddyLOcLIBbGOknOmvz6qITHjbZ9oBUQD9N+uS0YM8EbRTM5mz848ifk0lQFbjD1EBGiZ0Ex4bwsN9BJoNCQX0mwL5Gscnx11ZsHvMlYvEla8Q0wkOrcWFTHU/BxvKI5Xeygbb9G1mAmbGesrgFkcmOqBx/lNXQJNG3z8OrrNcQ7U6MMkp+vrXYqCAYJxqLhfP0k90SUCQbQUTnivYY+H6h0yx/sGhCB5eOBsRBEWRjUUP1trwHWUVsjPSh2T8stmmwe4QxqjnG3Q/xo3ofeoucCbGaGsGtnzFPAsGbVrlwJ/dql91OQYeGWUZM=;el7axsS3aCm7vmBb5qTzEA=="
+secured: "tHlhD8IOOtPEZdfZibq/r1toYTiY/Vxj/t4qiUBHbdEihG7oXdwrSg3HvKBMj+dmX7F7Stn1Onkp3tOGnNJC1RKFAFh76bu4OBVMrVBKaFUhk9RcxKmO0YL7xcNHsOnpnGBKs0VnzmvWUuXI9m8T51Tax2ktIyUFlwm9QeqZv4oljotg3dIYpf5jO3Kvvbn9OiDEmxWgOl5YGOC78fZ9AJcm9tCGuslPUheE6AAZp11wuAWPOxlpayLo4YbSPTdISwggE9BL4A00eJPfs1cgpyeLeGUZELYcRucXarECeDqaSN1evtarqBgW+g4Ci5UGlg791Pgp//iPnWzueztcIt4r4c/l9bzqIN61Xcvh79Y=;d6f26Mlcp7RMVOiTB9bQlQ=="
 ---
 

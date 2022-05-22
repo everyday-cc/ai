@@ -9,7 +9,7 @@ ampWebUrl: "https://stockhead.com.au/tech/crowd-media-enters-conversational-ai-p
 cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/crowd-media-enters-conversational-ai-partnership-with-business-intelligence-platform-to-supercharge-sales-and-lead-generation/?amp"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,106 +27,75 @@ images:
     isCached: true
 
 related:
-  - title: "Forma AI poised to grow AI-supported sales compensation management platform"
-    excerpt: "Forma's automated workflows unite the process, enabling sales compensation resources to focus on incentive design — not formula building."
-    publishedDateTime: 2022-05-17T14:24:00Z
-    webUrl: "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/"
-    ampWebUrl: "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/"
+  - title: "Wysa Receives FDA Breakthrough Device Designation for AI-led Mental Health Conversational Agent"
+    excerpt: "Wysa, a leading artificial intelligence (AI) based digital companion for behavioral health, has announced that the U.S. Food and Drug Administration (FDA) has granted Breakthrough Device Designation for its AI-based digital mental health conversational agent for patients 18 years and older with a diagnosis of chronic musculoskeletal pain (defined as pain lasting longer than three months) and depre."
+    publishedDateTime: 2022-05-18T03:57:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=665762"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 27
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-sales_performance.jpg?w=1200&strip=all"
-        width: 1200
-        height: 1659
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
-  - title: "REPerformance Uses AI to Personalize Physical Education"
-    excerpt: "A software company in Canada is bringing its web-based application to the U.S. that uses personal fitness data to create individualized workout programs and feedback geared toward their progress rather than ability."
-    publishedDateTime: 2022-05-19T23:25:00Z
-    webUrl: "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education"
-    ampWebUrl: "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true"
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
+    publishedDateTime: 2022-05-18T15:30:00Z
+    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
+      name: KOIN 6
+      domain: koin.com
+    quality: 20
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/8aed749/2147483647/strip/true/crop/1000x521+0+89/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Fe1%2Fd1af45fd4441996fa546b5a6f9dd%2Fphysical-education.jpg"
-        width: 840
-        height: 438
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+        width: 800
+        height: 340
         isCached: true
-  - title: "No-code bot platform E42 launches marketplace for businesses to hire AI employee"
-    excerpt: "The marketplace will be a store for E42’s own clients to put up their own AI bots, which can then be licensed or hired by other businesses to deploy on their own services"
-    publishedDateTime: 2022-05-19T11:04:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/nocode-bot-platform-e42-launches-marketplace-for-businesses-to-hire-ai-employee-11652957618284.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/nocode-bot-platform-e42-launches-marketplace-for-businesses-to-hire-ai-employee/amp-11652957618284.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nocode-bot-platform-e42-launches-marketplace-for-businesses-to-hire-ai-employee/amp-11652957618284.html"
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "Hanzo, a technology pioneer in preserving, collecting, reviewing, and exporting dynamic, complex collaboration and web-based data, in partnership with Nightfall AI, the first cloud-native extensible data loss prevention (DLP) platform,"
+    publishedDateTime: 2022-05-18T23:04:00Z
+    webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
+      name: abc27
+      domain: abc27.com
+    quality: 20
     images:
-      - url: "https://images.livemint.com/img/2022/05/19/600x338/oped1-kC7G--621x414@LiveMint_1652958069638.jpg"
-        width: 599
-        height: 338
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
+        width: 800
+        height: 340
         isCached: true
-  - title: "Ethics in the AI, Technology, and Information Age"
-    excerpt: "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?"
-    publishedDateTime: 2022-05-20T17:27:00Z
-    webUrl: "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF"
+  - title: "National Grid to test assessment data automation with drones and AI"
+    excerpt: "NGET is launching a system trial that seeks to fully automate the capture and processing of corrosion-related condition assessment data."
+    publishedDateTime: 2022-05-18T14:36:00Z
+    webUrl: "https://www.power-grid.com/td/national-grid-to-test-assessment-data-automation-with-drones-and-ai/"
     type: article
     provider:
-      name: Amazon Associates UK
-      domain: amazon.co.uk
-    quality: 54
-    images:
-      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
-        width: 350
-        height: 450
-        isCached: true
-  - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
-    excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly.PUNE,"
-    publishedDateTime: 2022-05-19T12:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/create-personalized-ai-powered-social-media-content-with-predis-ai-1031475434"
+      name: power-grid
+      domain: power-grid.com
+    quality: 17
+  - title: "Ecopia AI Partners with Snap Inc. Subsidiary to Pilot 3D Map Content Integration"
+    excerpt: "Ecopia AI announced today that it was selected by a Snap Inc. subsidiary to provide high-precision vector mapping data. This press release features multimedia. View the full release here:  Sample of the 3D Vector Map of Buildings and Vegetation Generated by Ecopia AI Leveraging Airbus Imagery (Photo: Business Wire) Ecopia leverages advanced AI-based mapping systems to mine the most up-to-date commercially-available geospatial imagery,"
+    publishedDateTime: 2022-05-20T11:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-2863231fece947a7b304aafe101cf9c5"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Heartex raises $25M for its AI-focused, open source data labeling platform"
-    excerpt: "Heartex, a data labeling firm, has raised $25 million in a venture funding round, bringing its total raised to $30 million."
-    publishedDateTime: 2022-05-18T13:03:00Z
-    webUrl: "https://techcrunch.com/2022/05/18/2314708/"
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+  - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
+    excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
+    publishedDateTime: 2022-05-19T13:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/19/9605577.htm"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 45
-  - title: "Transforming Government Services with Artificial Intelligence"
-    excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
-    publishedDateTime: 2022-05-19T18:36:00Z
-    webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
-    ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 37
-  - title: "Forma.ai closes USD$45 million Series B financing to accelerate revolutionary AI-supported sales performance management platform"
-    excerpt: "Company leads market in data-driven models with higher-impact incentives to drive optimal performance TORONTO, May 17, 2022 /PRNewswire/ - Forma.ai, the Sales Performance Management solution (SPM ..."
-    publishedDateTime: 2022-05-17T13:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/forma-ai-closes-usd-45-million-series-b-financing-to-accelerate-revolutionary-ai-supported-sales-performance-management-platform-1031468610"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ld1LgAcx5dru5+O5cqRo/0v2v/w7fzZuiVurxQPqR0PoWf7APrWxi9z72lgd4N+l7YQfRIAlamsho8y51BR8x4eKihGJdEFiAM6Ws73eVBxAS5xJTRJBjARV3UWJkrrWbNaSuGRQKTN1xzXG3NOKYoMwkJ/yZm/eu1tWijpVgJu15lqrpafbuELHcZ2m8eS2VOZYDZpgLaasbhGP7MlP+nXxeqGKsnNOSA0d0V88ETiFPyo+OcJIFK2vbtQ1CvJ7cOsJ1b9+49VU1NIMo6NYp48LEjr2TzKwr93RnfMA2DeFMc2Z5a2vdW6t24v/iT9iyDxb6sLoMIGHSTSzhFLs0YwlrrhR1NMPxk8c3Nu6KTw=;1MUVkumv7daqf3OeIEYLoA=="
 ---

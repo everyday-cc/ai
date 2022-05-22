@@ -10,7 +10,7 @@
       "originalUrl": "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -45,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-20-elearning-with-artificial-intelligence-a-new-way-of-digital-education.md",
-      "title": "eLearning with Artificial Intelligence – a new way of digital education",
-      "excerpt": "The principal advantage of AI is that it can be trained to carry out a large list of activities in a personalized fashion. It is a universal solution to gain tools to optimize their routine, enhance productivity,",
+      "path": "_news/2022-05-21-digital-biomarkers-are-healthcares-next-frontier.md",
+      "title": "Digital biomarkers are healthcare’s next frontier",
+      "excerpt": "Sunny Kumar, MD, MBA is a partner at GSR Ventures, an early-stage venture capital firm focused on healthcare technology ... the sensor data is analyzed with artificial intelligence (AI) and ...",
       "sourceUrl": null,
-      "webUrl": "https://insights.ehotelier.com/insights/2022/05/20/elearning-with-artificial-intelligence-a-new-way-of-digital-education/",
-      "originalUrl": "https://insights.ehotelier.com/insights/2022/05/20/elearning-with-artificial-intelligence-a-new-way-of-digital-education/",
+      "webUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
+      "originalUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://insights.ehotelier.com/wp-content/uploads/sites/6/2022/05/bigstock-E-learning-Online-Education-In-421602110.jpg",
-          "width": 900,
-          "height": 450,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-560115497.jpg?w=600",
+          "width": 600,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,12 +69,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T20:10:00-07:00",
+      "publishedDateTime": "2022-05-20T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "eHotelier",
-        "domain": "ehotelier.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -84,8 +93,7 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI in Education"
+        "AI"
       ]
     },
     {
