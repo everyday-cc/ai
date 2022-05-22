@@ -570,58 +570,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-19-tesla-releases-new-full-self-driving-beta-update-and-its-a-big-one.md",
-      "title": "Tesla releases new Full Self-Driving Beta update and it’s a big one",
-      "excerpt": "Beta software update with improvements based on over 250,000 training video clips from its fleet. Based on the release notes, it’s a big update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/",
-      "originalUrl": "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/",
-      "publishedDateTime": "2022-05-19T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-19-machine-learning-as-a-service-mlaas-market-size-share-latest-trends-demand-growth-opportunities-and-overview-2022-to-2028.md",
       "title": "Machine Learning as a Service (MlaaS) Market Size, Share, Latest Trends, Demand, Growth, Opportunities and Overview 2022 to 2028",
       "excerpt": "TheMachine Learning as a Service (MlaaS) MarketResearch Report 2022 provides a detailed overview of the current state",
@@ -819,6 +767,49 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-ford-backed-argo-ai-startup-launches-driverless-car-testing.md",
+      "title": "Ford-backed Argo AI startup launches driverless-car testing",
+      "excerpt": "Argo AI, a robotaxi startup that has the backing of Ford Motor Co. and Volkswagen AG, said Tuesday it's launching driverless test rides in Miami and Austin, Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://herald-review.com/ap/lifestyles/ford-backed-argo-ai-startup-launches-driverless-car-testing/article_b3a7381c-c52a-55ca-9f1c-e89bb1dad89a.html",
+      "originalUrl": "https://herald-review.com/ap/lifestyles/ford-backed-argo-ai-startup-launches-driverless-car-testing/article_b3a7381c-c52a-55ca-9f1c-e89bb1dad89a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/custom/image/afe84bdc-33fa-11e7-8231-771276f6981b.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Herald & Review",
+        "domain": "herald-review.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {

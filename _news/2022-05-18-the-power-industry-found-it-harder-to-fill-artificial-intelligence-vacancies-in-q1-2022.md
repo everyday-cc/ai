@@ -36,6 +36,20 @@ related:
       name: Benefits Pro
       domain: benefitspro.com
     quality: 34
+  - title: "5 successful ways to use artificial intelligence to improve your business processes"
+    excerpt: "Artificial intelligence (AI) is having its moment these days. No wonder it starts being used for business purposes. The companies like Google, Microsoft, and Salesforce are integrating Artificial Intelligence solutions as"
+    publishedDateTime: 2022-05-22T14:54:00Z
+    webUrl: "https://www.fingerlakes1.com/2022/05/22/5-successful-ways-to-use-artificial-intelligence-to-improve-your-business-processes/"
+    type: article
+    provider:
+      name: FingerLakes1
+      domain: fingerlakes1.com
+    quality: 31
+    images:
+      - url: "https://www.fingerlakes1.com/wp-content/uploads/2022/05/AI.png"
+        width: 661
+        height: 545
+        isCached: true
 
 secured: "x8bF5FbEEiYAFlnJwLa9UT25LBTb24D05gZrDyxTbKknszeM8jhHt7moXQGSbvIWn3v0j+x4bC5z1mpoCZF/t1bIIVcqsdMbTbJXd+Yxuad7eXL67RHPEZ+RonG6fuzUoGiRghc5wtv03nJePMnFVQ+8WtXrc9V5ojyV15n37sEXX7LsutLxM6Xm9GYVEYXOFHuNl/kpfzZzb6KPAHbT+dlFJxA45Qfqnc8OjFO6F1HBnxpKSj+vQlPc4c7VAa3MQFAG4wVB2FDRba5l0O2BN7apTp5bD9TrKw4RAdYsLQCPanwYJTE83aKRLen0iHg6EoROsa+lJxIO4+xJmlUfp3GuDKQMxkQpYW0xwMwo/+Di7Zu9x0iUzGV68PDMWaGUQu/Xz2kf2lRKfvDMH3SyYE8MH3w+RRQm2YveapUPynrHMUg7gcUfvLP/U3IO3c4k4vngs/GRO+BeIWj45NU0dtoVmdCWwAzR81xBtTVPPKHhWUgU7ScC1hsF28GYWsFsALIRcuKxRinBSSnsnbx4NQ==;tbE9/VdQI0skdG7KsKZjSQ=="
 ---

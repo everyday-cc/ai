@@ -7,8 +7,8 @@ originalUrl: "https://herald-review.com/ap/lifestyles/ford-backed-argo-ai-startu
 webUrl: "https://herald-review.com/ap/lifestyles/ford-backed-argo-ai-startup-launches-driverless-car-testing/article_b3a7381c-c52a-55ca-9f1c-e89bb1dad89a.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Herald & Review
@@ -25,73 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Pittsburgh-based Argo AI touts driverless operations in Miami and Austin"
-    excerpt: "Pittsburgh-based Argo AI has pulled drivers from its autonomous cars in Miami and Austin, though it is still in the testing phase. Its commercial partnerships with Walmart and Lyft still have backup drivers in both cities. General Motors and its autonomous ..."
-    publishedDateTime: 2022-05-17T22:24:00Z
-    webUrl: "https://www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin"
-    ampWebUrl: "https://www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true"
+  - title: "Tech company completes first driverless car test on Oxford roads"
+    excerpt: "Fully autonomous vehicles have been driven on Oxford roads with no on-board driver and they could soon be used to deliver food."
+    publishedDateTime: 2022-05-20T08:11:00Z
+    webUrl: "https://www.oxfordmail.co.uk/news/20153137.tech-company-completes-first-driverless-car-test-oxford-roads/"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
-    quality: 73
+      name: Oxford Mail
+      domain: oxfordmail.co.uk
+    quality: 39
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/0a92cfb/2147483647/strip/true/crop/3924x2207+0+256/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7f%2F01%2F5a5ea67e44c1bc2325802ac4ad61%2Fap10040103787.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ford-backed Argo AI launches driverless car testing"
-    excerpt: "The removal of human safety drivers in Miami and Austin is a milestone for the Pittsburgh-based autonomous vehicle technology."
-    publishedDateTime: 2022-05-17T21:02:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/05/17/ford-backed-argo-ai-launches-driverless-car-testing/9810370002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 54
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/15/PDTN/a8bbea08-359b-43c6-a9db-a9da024a5250-2021-0315-dm-bu_av_remote0538.jpg?auto=webp&crop=8255,4643,x0,y547&format=pjpg&width=1200"
+      - url: "https://www.oxfordmail.co.uk/resources/images/13799882/"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Argo AI deploys autonomous vehicle fleets in Austin and Miami"
-    excerpt: "Most of Argo AI’s vehicles on the road currently only have employees on board, but some Lyft passengers in Miami are able to get a ride in one of them."
-    publishedDateTime: 2022-05-19T09:02:00Z
-    webUrl: "https://www.cbtnews.com/argo-ai-deploys-autonomous-vehicle-fleets-in-austin-and-miami/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 37
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2022/05/Argo.jpeg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Argo AI Expands to Austin and Miami in Search of More Challenges"
-    excerpt: "The self-driving car company has added two more cities to test its vehicles in environments that contain situations like jaywalkers to build its AI's intelligence."
-    publishedDateTime: 2022-05-18T21:22:00Z
-    webUrl: "https://www.designnews.com/automotive-engineering/argo-ai-expands-austin-and-miami-search-more-challenges"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 37
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/21A0280-3-1-scaled.jpg"
-        width: 1540
         height: 800
         isCached: true
-  - title: "Argo AI Launches Driverless Testing in Austin and Miami"
-    excerpt: "Argo AI has officially begun operating its driverless test vehicles, with no human safety drivers, in both Miami and Austin."
-    publishedDateTime: 2022-05-17T19:05:00Z
-    webUrl: "https://www.financialbuzz.com/argo-ai-launches-driverless-testing-in-austin-and-miami/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 34
   - title: "Ford and VW-backed Argo AI launches fully driverless car service in Miami and Austin"
     excerpt: "Argo AI is giving some of its autonomous car backup drivers a break. The Ford and VW-backed self-driving car technology company has launched fully driverless ride-hailing services in Austin and Miami. Argo AI has been testing the service with human safety ..."
     publishedDateTime: 2022-05-18T12:02:00Z
@@ -101,15 +48,42 @@ related:
       name: Fox Business
       domain: foxbusiness.com
     quality: 27
-  - title: "No driver, no problem: Argo AI puts fully autonomous cars on streets of Austin, Miami"
-    excerpt: "Pittsburgh-based autonomous vehicle startup Argo AI announced it is now operating vehicles without human drivers on public streets in Austin and Miami. It marks a major milestone for the company as it readies to scale its AV operations for commercial use ..."
-    publishedDateTime: 2022-05-17T19:51:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/05/17/argo-ford-lyft-driverless-cars-austin-miami.html"
+  - title: "Oxbotica completes first driverless car test on open roads"
+    excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. Investment Minister Lord Grimstone ..."
+    publishedDateTime: 2022-05-19T23:41:00Z
+    webUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 10
+      name: AOL.co.uk
+      domain: aol.co.uk
+    quality: 19
+  - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
+    excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
+    publishedDateTime: 2022-05-19T07:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-/2022/05/19/9605232.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+  - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
+    excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
+    publishedDateTime: 2022-05-19T18:57:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254876&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
+  - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
+    excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."
+    publishedDateTime: 2022-05-21T18:38:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255267&cat=PRN"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
 
 secured: "Lv9fAMZCj5GRI/8+psZadxlhyea5wUpmxO2cGsIMZxe8efx5SHMjUjSdG81IAqqew8j53JhRuRChd0/m1uZOL+83YTlMHmDHLZO7uWuJzJX63R2D2+WIeJJcc60NdVjmxrPVW73u8Xp8DMDc6M4mx82yVhFU+7+XOhnZzUa50EjTtUX8DX98drJLMg4+sgQizjt9LnRNxJKYr3p/xxE8Y8iuAw7rMFBm58altYd7ojVIee13BbIs7VwNhgimxZ9MK3HdljZhL7WoAx4qrq7MWVJ4dOsWUHEu1+g3QW8dADnytIoK1Z6i/KOOKB3aoCyV1soqJrStg0Aj+gSfQRiV+h0rA4NHEyVCvYUfSAKcuiFyfmrtCeHFH/P/cekyNAt/V0wzHbr4knrFpqivzVM40c85fF7jDNcqrvN2bmYynxy+jsgfJP/uGAyX4sOdp9gkRt97G2oi+s+mTn2LjBCm8SLjPBC7ZJ9Ack14sOHeeHC79w8Lb4dJysXXl/yBmTUWzXHGs62Jgw1n8/0oKnkI1A==;sqQueTOHlO4rezSzEhVEbw=="
 ---

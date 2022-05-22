@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-03-17-face-recognitions-staying-power.md",
+      "title": "Face recognition's staying power",
+      "excerpt": "Facial recognition's deployment in everyday consumer devices, like iPhone's Face ID, has accustomed much of the public to its use. A Pew survey from 2019 showed that a majority of U.S. respondents trusted law enforcement to use facial recognition responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/facial-recognition-staying-power-government-irs-10701d9f-3553-43c2-a55e-d064625c1970.html",
+      "originalUrl": "https://www.axios.com/facial-recognition-staying-power-government-irs-10701d9f-3553-43c2-a55e-d064625c1970.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/Fh1y13RZxNbIVY2Ec-cVVh3P8AM=/0x0:1920x1080/1366x768/2022/03/16/1647467072256.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5.md",
       "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 5%",
       "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating)’s stock price shot up 5% during trading on Wednesday . The stock traded as high as $27.86 and last traded at $27.86.",
@@ -1046,48 +1089,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-israeli-ai-infrastructure-firm-runai-raises-75-million.md",
-      "title": "Israeli AI Infrastructure Firm Run:ai Raises $75 Million",
-      "excerpt": "Run:ai enables organizations to have all their AI resources on a single, unified platform that supports AI at all stages of development.",
-      "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2022/03/ai-run-infrastructure-firm/",
-      "originalUrl": "https://nocamels.com/2022/03/ai-run-infrastructure-firm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/03/run.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

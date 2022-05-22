@@ -34,6 +34,15 @@ related:
         width: 300
         height: 268
         isCached: true
+  - title: "Patients recognize role of artificial intelligence in diagnosis, treatment"
+    excerpt: "In a patient survey, 66% of respondents said AI plays a large role in their diagnosis and treatment and thought it was important."
+    publishedDateTime: 2022-05-22T12:22:00Z
+    webUrl: "https://www.modernretina.com/view/patients-recognize-role-of-artificial-intelligence-in-diagnosis-treatment"
+    type: article
+    provider:
+      name: modernretina
+      domain: modernretina.com
+    quality: 15
 
 secured: "BejCsKfzCAy1eX9qgHjAKftTN/AK1cRW7YhxJBRbjqLcKpEZBin0KzvWV7xbWjWZg/uz88ac1+JirdMpUEpq04LhFSnXk6qvojj73chg6CLSMtnCAy2amgoYrTBPZP11C15SJa3STqPwTKfuswErT4PFXxSqawDgggKymZi3XJAZBXjRfKzrip0znF28vaHpedo5yh6qCV7Rlkpt+AhYLEPSoH6NyUTpDQ7+puokreA9H9IvDDV2Ry+VXtoPrmKZyNZCp5EKsk/O94O7GFK4PSJU/8NtvWIaJF7TpZNm0B6BIClpLM+BknQG7+f2dOE36gqKI6sxWVOupZSgEoVsaK29XEJ+9TQQgVldARhMNlY=;Y2X9sZxJ8sgY+qloX684oA=="
 ---

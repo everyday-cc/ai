@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/google-deepmind-agi/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-agi/amp"
 type: article
 quality: 59
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon closing in on 'ethical' AI implementation"
-    excerpt: "The Defense Department is still finalizing an implementation plan for its artificial intelligence ethical principles, according to Jane Pinelis, the chief of AI assurance for the Defense Department's Joint Artificial Intelligence Center,"
-    publishedDateTime: 2022-05-17T21:02:00Z
-    webUrl: "https://fcw.com/defense/2022/05/pentagon-closing-ethical-ai-implementation/367059/"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 54
-    images:
-      - url: "https://cdn.fcw.com/media/img/cd/2022/05/17/051722_getty_fcw_pinelis/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Pentagon closing in on 'ethical' AI implementation"
     excerpt: "The Defense Department is still finalizing an implementation plan for its artificial intelligence ethical principles, according to Jane Pinelis, the chief of AI assurance for the Defense Department's Joint Artificial Intelligence Center,"
     publishedDateTime: 2022-05-19T16:00:00Z

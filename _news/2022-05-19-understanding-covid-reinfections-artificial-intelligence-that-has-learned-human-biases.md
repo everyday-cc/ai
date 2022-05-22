@@ -90,15 +90,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 19
-  - title: "Machine learning can identify, potentially help patients with 'long-COVID'"
-    excerpt: "Researchers from Chapel Hill, N.C.-based UNC School of Medicine's machine learning models helped identify long-COVID patients, patients who had the virus for more than 28 days, by analyzing patterns in electronic health record data,"
-    publishedDateTime: 2022-05-17T21:18:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/machine-learning-can-identify-potentially-help-patients-with-long-covid.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 17
 
 secured: "bC5M6EEfU0nkTdT19i+P0UuYErmpUMJ74JNvegVdluElI08UVm6qxnf1BpuaNCKJg1ELxdDE6e9yRFw9PEvjYrpyAQaNwI2US54XjAnHzgSRNIjpR27+UeECJCzNPIPOC9Umz303qpOi0kVSfdNUno4occbWN16eZbXS9RRZ8JOa9qU3VlIVsFiUlRgzlC6dpsozuisSvUYB5PcBX2GmH5zOemq+5GBaWjDcmjQf/0mT8MWtqiegciRmKQqXUf/IUQD/7w8SDMsv01+bAWPZfjxXzplnfwWxUOdnaPQrJoeeRGSH44xj9UaW9a0wff1MuJ2rDbHygpzLMWArARO5ttXazAkARzKjFf4c461tWEA=;nrgGxmb4pIN0sS1ixoYGAA=="
 ---

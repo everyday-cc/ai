@@ -2,6 +2,58 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-04-13-why-regulating-ai-is-a-mistake.md",
+      "title": "Why Regulating AI Is A Mistake",
+      "excerpt": "Oren Etzioni is the CEO of the Allen institute for Artificial Intelligence ... AI technology that further delivers on the promise of driverless cars, intelligent robots, and other societal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
+      "originalUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/545350597/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-observeai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m.md",
       "title": "Observe.AI bolsters its business intelligence for contact centers with new $125M",
       "excerpt": "Observe.AI’s solution uses AI to process customer interactions with contact center agents to generate business intelligence and develop more sophisticated insights into how to improve customer experience.",
@@ -1086,40 +1138,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-exco-acquires-machine-learning-company-bibblio-to-expand-website-personalization-capabilities-for-brands-publishers-and-e-commerce-businesses.md",
-      "title": "EX.CO Acquires Machine-Learning Company Bibblio to Expand Website Personalization Capabilities for Brands, Publishers, and E-commerce Businesses",
-      "excerpt": "Bibblio has focused on building easy-to-use, machine-learning-based technologies that any business ... For more information, visit ex.co. We sell different types of products and services to both investment professionals and individual investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220412ny22479/exco-acquires-machine-learning-company-bibblio-to-expand-website-personalization-capabilities-for-brands-publishers-and-e-commerce-businesses",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220412ny22479/exco-acquires-machine-learning-company-bibblio-to-expand-website-personalization-capabilities-for-brands-publishers-and-e-commerce-businesses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

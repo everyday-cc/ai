@@ -28,6 +28,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "5 successful ways to use artificial intelligence to improve your business processes"
+    excerpt: "Artificial intelligence (AI) is having its moment these days. No wonder it starts being used for business purposes. The companies like Google, Microsoft, and Salesforce are integrating Artificial Intelligence solutions as"
+    publishedDateTime: 2022-05-22T14:54:00Z
+    webUrl: "https://www.fingerlakes1.com/2022/05/22/5-successful-ways-to-use-artificial-intelligence-to-improve-your-business-processes/"
+    type: article
+    provider:
+      name: FingerLakes1
+      domain: fingerlakes1.com
+    quality: 31
+    images:
+      - url: "https://www.fingerlakes1.com/wp-content/uploads/2022/05/AI.png"
+        width: 661
+        height: 545
+        isCached: true
   - title: "The power industry found it harder to fill artificial intelligence vacancies in Q1 2022"
     excerpt: "Artificial intelligence-related jobs that were closed during Q1 2022 had been online for an average of 35 days when they were taken offline. This was an increase compared to the equivalent figure a year earlier,"
     publishedDateTime: 2022-05-18T13:03:00Z

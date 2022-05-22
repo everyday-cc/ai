@@ -38,20 +38,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-17T21:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Wellsaid Labs Named To The 2022 CB Insights AI 100 List Of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking , showcasing the 100 most promising private artificial intelligence companies in the world. 'This is the sixth year that CB ..."
     publishedDateTime: 2022-05-18T07:49:00Z

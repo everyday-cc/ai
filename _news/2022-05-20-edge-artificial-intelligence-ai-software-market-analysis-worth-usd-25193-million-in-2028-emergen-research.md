@@ -82,20 +82,6 @@ related:
         width: 410
         height: 1025
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market 2022, Trends, Size, Industry Share, Analysis and Forecast to 2028"
-    excerpt: "The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 billion by 2028 from US$ 148 billion in 2020. The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 ..."
-    publishedDateTime: 2022-05-17T22:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.abnewswire.com/uploads/1652771728.jpeg"
-        width: 770
-        height: 440
-        isCached: true
   - title: "Artificial Intelligence (AI) In Food And Beverages Market Trends, Share, Growth, Opportunity And Forecast 2027"
     excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027),"
     publishedDateTime: 2022-05-19T00:33:00Z
@@ -202,6 +188,15 @@ related:
       name: xaralite.com
       domain: xaralite.com
     quality: 20
+  - title: "GPU Database Market Size, Share, Revenue, Global Industry Demand, Recent Trends, Size and Share Estimation by 2027 with Top Players"
+    excerpt: "The GPU Database Market(2022-2027) research report covers the present situation and the development possibilities of"
+    publishedDateTime: 2022-05-18T09:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-database-market-size-share-revenue-global-industry-demand-recent-trends-size-and-share-estimation-by-2027-with-top-players-2022-05-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
   - title: "Robot Operating System Market is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2029"
     excerpt: "Growth in adoption of robots in the e-commerce sector, penetration of automation in different industries, and increase in emphasis of labor safety drive"
     publishedDateTime: 2022-05-20T03:00:00Z

@@ -58,15 +58,6 @@ related:
         width: 696
         height: 465
         isCached: true
-  - title: "Frost & Sullivan Awards Microsoft With The Platform Of The Year For Its Iot Solutions"
-    excerpt: "Frost & Sullivan Awards Microsoft with the Platform of the Year for its IoT Solutions The Azure IoT Platform enables enterprises to expand featur"
-    publishedDateTime: 2022-05-17T19:06:00Z
-    webUrl: "https://menafn.com/1104230171/Frost-Sullivan-Awards-Microsoft-With-The-Platform-Of-The-Year-For-Its-Iot-Solutions"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 12
 
 secured: "IDKy5Hlqj5n+ixTuJnI+/xhyIH5ptqoMx0d81Fd+r+NThzP7UzCtoUceySfhaSRkyWKkULPzrFE6CpGbBQFQqK9JomjOhOABrjNA75926pluXTX/KRnfsSZRAUNksjYCjtGW6iTqWOe0uxhJAZTAo+4vCXH++22s6V4Ruqe2e8ExgJ/IYwve7ye8uRWMvzle/HJa0LYUZfPH4sligvBxuaNyfVDglkUS4/coeMya1pZOxr6PBZMCPdOBc+eEr+Ba/Ac+8H2GUbkdP+OZ+dIkA13M+8CtIJoybAqTy5Ma7Asb58vm8GjcgSvY6U9LYsPt2vtwcFVzwJga5My6bdhkGRrKbatNnJb0PjlO/FZpISw=;Wu9Rlp8TCmxNS0NMt2eE7Q=="
 ---

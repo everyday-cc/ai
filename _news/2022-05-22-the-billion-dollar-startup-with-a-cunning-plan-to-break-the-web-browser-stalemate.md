@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-22T13:39:00Z
 originalUrl: "https://www.techradar.com/features/the-billion-dollar-startup-with-a-cunning-plan-to-break-the-web-browser-stalemate"
 webUrl: "https://www.techradar.com/features/the-billion-dollar-startup-with-a-cunning-plan-to-break-the-web-browser-stalemate"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: TechRadar

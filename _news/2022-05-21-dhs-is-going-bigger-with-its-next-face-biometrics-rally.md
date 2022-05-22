@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meme to mime: Google and others launching face biometrics as computer code"
-    excerpt: "Google and Domino's Pizza are both pushing a new accessibility feature – involving face biometrics -- as something mainstream computer users will like."
-    publishedDateTime: 2022-05-17T22:20:00Z
-    webUrl: "https://www.biometricupdate.com/202205/meme-to-mime-google-and-others-launching-face-biometrics-as-computer-code"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
   - title: "AI-Enabled Biometrics Market To See Booming Growth | Safran, NEC, Fujitsu"
     excerpt: "Advance Market Analytics published a new research publication on “ AI-enabled Biometrics Market Insights, to 2027″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
     publishedDateTime: 2022-05-19T19:34:00Z

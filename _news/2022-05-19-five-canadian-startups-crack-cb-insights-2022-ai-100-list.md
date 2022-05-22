@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fero Labs Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Fero Labs to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-17T21:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fero-labs-named-the-2022-cb-insights-ai-/2022/05/17/9604125.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "Elementary recognized for achievements in machine vision and industrial quality inspections NEW YORK, May 19, 2022 /PRNewswire/ -- CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
     publishedDateTime: 2022-05-19T22:57:00Z

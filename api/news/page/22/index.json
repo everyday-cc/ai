@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-04-29-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
+      "title": "People in Beijing can now book a taxi with no one at the wheel",
+      "excerpt": "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://auburnpub.com/news/national/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/article_8b3dda8f-68b4-56b4-9ab4-c39f0d14a919.html",
+      "originalUrl": "https://auburnpub.com/news/national/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/article_8b3dda8f-68b4-56b4-9ab4-c39f0d14a919.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/f/55/f55b6e25-7254-576e-b366-2a83bc630158/626b10245cf15.image.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auburn Citizen",
+        "domain": "auburnpub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-how-ai-and-video-are-redefining-talent-recruitment.md",
       "title": "How AI and video are redefining talent recruitment",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -1168,49 +1211,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-the-emerging-types-of-language-models-and-why-they-matter.md",
-      "title": "The emerging types of language models and why they matter",
-      "excerpt": "AI systems that understand and generate ... but nonetheless capable language model that can translate between languages, write blog posts, complete code and more. More recently, Microsoft and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

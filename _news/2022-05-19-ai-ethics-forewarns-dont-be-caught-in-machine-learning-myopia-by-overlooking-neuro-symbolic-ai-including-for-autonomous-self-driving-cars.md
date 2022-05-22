@@ -33,19 +33,21 @@ images:
     isCached: true
 
 related:
-  - title: "NYC needs regulations for self-driving cars, says Mayor Adams’ pick to lead Taxi and Limousine Commission"
-    excerpt: "Mayor Adams’ nominee to run the city’s Taxi and Limousine Commission wants to bring self-driving cars to New York. David Do, the former head of Washington D.C.’s Department of For-Hire Vehicles, told City Council members during his confirmation ..."
-    publishedDateTime: 2022-05-17T22:49:00Z
-    webUrl: "https://www.nydailynews.com/new-york/ny-tlc-david-do-autonomous-vehicles-20220517-3zzmutwauzfqfnoel4zkgtfxim-story.html"
+  - title: "AI Ethics Unnervingly Asking Whether AI Biases Are Insidiously Hiding Societal Power Dynamics, Including For AI Self-Driving Cars"
+    excerpt: "A bubbling up theory is that AI biases are reflections of hidden societal power dynamics, which has vital impacts for AI and AI Ethics, including the use case of self-driving cars."
+    publishedDateTime: 2022-05-22T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 7
+      name: Forbes
+      domain: forbes.com
+    quality: 75
     images:
-      - url: "https://www.nydailynews.com/resizer/_4CMNU-1PJemZ48oSZjbpPIXVns=/1200x630/filters:format(jpg):quality(70):focal(262x294:272x304)/cloudfront-us-east-1.images.arcpublishing.com/tronc/OP6X4GUDXRCSLNQ6XOAM77VKOE.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1833,1235,x170,y0,safe&width=1200"
         width: 1200
-        height: 630
+        height: 809
         isCached: true
 
 secured: "rddax76Cxi7SzRfhu9mP319aZZBR89msadY/GmhFjFG7jmc8cR2i1PcEHUiaudbkmNiqb7S6PzV1O2swkUHaW36ZXHIac4xwmRsZPm1ZrobdjCHc/QvjxN4jBehsDwhgFbiTW1r7wtEg6Ze9f3Vgn5YcFirca6WGni+8qjAJYEyDAgMNh7QKr3wS2h+mwfI5B9bAkEXu5/kVmWUQ62J0WRpvwt6a3vXql+o7xdSalaGkLPGykYv2M2csbrz1H0zM6bv2ZBQ9zOUmnWluSNtID45IBuIh5uHx9IQzXPrUsN58ygvW4d8z4aKxyJrT173/xD//9OxyEEFJUhkD4lyPgIaMXEyoO/Z2NlVgRC1qR6/kbVteO0VPJ+FGg5OOiS0btXLe3uPDG5YQ3n6QRDPyzMrzNyBnzBVVzkyThoZvrc3Deocg2SfpZ+AgdD3WB6Aoj8OhUm1AOYocUst5DxVDv9HuFvRkNuGKNNjnwJVTZNsfnHofBVFLWewUDpfoPAyoje7HmErXGfa+CKblC/IARg==;Pf8paldCtNYdSqq37vwX2Q=="

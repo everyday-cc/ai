@@ -58,15 +58,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 20
-  - title: "Frost & Sullivan Awards Microsoft With The Platform Of The Year For Its Iot Solutions"
-    excerpt: "Frost & Sullivan Awards Microsoft with the Platform of the Year for its IoT Solutions The Azure IoT Platform enables enterprises to expand featur"
-    publishedDateTime: 2022-05-17T19:06:00Z
-    webUrl: "https://menafn.com/1104230171/Frost-Sullivan-Awards-Microsoft-With-The-Platform-Of-The-Year-For-Its-Iot-Solutions"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 12
 
 secured: "c9u3CyutJ/61JMFa4Tx3Ci0pQOYYOG9oqQvgLCoRG450yhndjIKN0Tnk+JqG/CZ1CnTnhbHyepw24yza8UhDy1r9/vA1wYUoCqE2foMFbjB8GAcz3AFciUwszWXUo6Y2+ZxuKBL5xkCAkG6zzm/jbAoimCG7s53HM2ZUhAS5nFz6TrHlpkDYDhIbN9RJPq4ZQlLDpiUwD5sKVk4zoExiU2EgbbKfYkCsZeuuB9UuW/+r5sq8In3I4LOiWRVuk3xP/0nsTdjngh5OTK5wL2zwiv+T1oj9cmD2XSTCAZrHwRgnzlUraJkwnl6Swgk45DouoP5RoKjOc4SiLuGt0Xgv++irbDT0TKPOUWAlw7hTgmk=;KQSaM+k3HSVfXjt0llz/1w=="
 ---

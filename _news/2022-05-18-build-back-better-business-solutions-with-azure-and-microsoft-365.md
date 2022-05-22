@@ -7,7 +7,7 @@ originalUrl: "https://www.sharepointeurope.com/events/build-back-better-business
 webUrl: "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 20
-  - title: "Frost & Sullivan Awards Microsoft With The Platform Of The Year For Its Iot Solutions"
-    excerpt: "Frost & Sullivan Awards Microsoft with the Platform of the Year for its IoT Solutions The Azure IoT Platform enables enterprises to expand featur"
-    publishedDateTime: 2022-05-17T19:06:00Z
-    webUrl: "https://menafn.com/1104230171/Frost-Sullivan-Awards-Microsoft-With-The-Platform-Of-The-Year-For-Its-Iot-Solutions"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 12
 
 secured: "f03JK6S3Kq0md9+YfTcyC+4q75lzDxmLj8xeR8Wibq5/6y8T50KFFYq6LoPgrFJrGiyrJMcFwHf19WGLRxbOuMRJzLAuMPOBAa4Hi26pipWh2p2T32Z+g4qDsCsBTzirnz1AfHhc5O+yzMS4PzJKB+TRZtY+8tqfZ3m7JQN0JhgkUC/0edDPCr6oJLaHk6L3I+LVFcblHFx1g9HwAiIah/N+lXJlDD+AXWI++9Bxitg6x9LteUmT/WGkYphGrw5Ic+V7lX+7++iTLshWgaXYq2Kcb1+9BSL4cf6NX7wt81QWxQSsJP4SJgYrK1x4dV+LdwAeY3Qa4w6dfGfsTUPsyQEHqVDxEE2KhpxKGSvU/Pk=;H4pw3HEMDCihRYiy5q7vhA=="
 ---

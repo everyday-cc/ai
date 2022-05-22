@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-22T12:42:00Z
 originalUrl: "https://seekingalpha.com/news/3841547-cathie-wood-says-ai-could-lead-to-50-gdp-growth"
 webUrl: "https://seekingalpha.com/news/3841547-cathie-wood-says-ai-could-lead-to-50-gdp-growth"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Seeking Alpha
