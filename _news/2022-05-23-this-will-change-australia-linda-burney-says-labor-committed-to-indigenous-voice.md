@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-22T19:08:00Z
 originalUrl: "https://www.smh.com.au/politics/federal/this-will-change-australia-linda-burney-says-labor-committed-to-indigenous-voice-20220522-p5aneo.html"
 webUrl: "https://www.smh.com.au/politics/federal/this-will-change-australia-linda-burney-says-labor-committed-to-indigenous-voice-20220522-p5aneo.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Sydney Morning Herald

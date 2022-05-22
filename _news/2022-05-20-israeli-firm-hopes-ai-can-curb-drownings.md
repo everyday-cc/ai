@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Israel Tests AI-Powered Floating Solar Panels To Generate Clean Energy"
+    excerpt: "Israel announced a project to test an artificial intelligence (AI) floating solar system to generate electricity by tracking the sun,"
+    publishedDateTime: 2022-05-22T19:55:00Z
+    webUrl: "https://nocamels.com/2022/05/xfloat-mekorot-solar-panels-energy-floating/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 39
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/05/xfloat.png"
+        width: 1018
+        height: 666
+        isCached: true
 
 secured: "44R01nO4KHQf9inaNWcXffaAcmanD22r+MTSRn6t5LaE9me88vw7acYIzY1sMzFQt2Xhalbrg/QVi4ywD+iUIRjFZ4pce/eLGutW84oRvGiEg8a/UW3nadr3zUDD7BKxo0E4qITR5dZ39Z0WfQN678nVbsDMsktBLaH5M8i/Zl4LAi3KdrX+dJ/eSdsqurnxc0KX9I+qWNvXkduQDd22U+S2WY5FM2qiPNoGS9T2vywZ6wGb3IZ1RZQP+8u5gKABbDflfZusdpwpPK1O/4BXEfJ5ocUnhqr5ABGP3Ow+tOfuh/1xdyKYtGw3ESHbg0n58Z3Fcr48Psi8eXPAxrQ0H0Qz6g6qF/kZGUJ+FwWnRKs=;KiCXuofAGI9hZSHUjfMiUw=="
 ---

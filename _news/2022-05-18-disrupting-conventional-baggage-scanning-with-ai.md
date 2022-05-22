@@ -57,22 +57,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Scientists use machine learning models to help discern characteristics of people with long-COVID"
-    excerpt: "Clinical scientists used machine learning (ML) models to explore de-identified electronic health record (EHR) data in the National COVID Cohort Collaborative (N3C), a National Institutes of Health-funded national clinical database,"
-    publishedDateTime: 2022-05-18T01:14:00Z
-    webUrl: "https://www.news-medical.net/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 46
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Electronic_Health_Record-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Identification of long COVID patients through machine learning"
     excerpt: "In a recent study posted to Preprints with The Lancet*, researchers developed a machine learning approach to identify patients with long coronavirus disease (COVID). . Image Credit: Starocean/Shutterstock The post-acute sequelae of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection are called long COVID."
     publishedDateTime: 2022-05-20T11:48:00Z

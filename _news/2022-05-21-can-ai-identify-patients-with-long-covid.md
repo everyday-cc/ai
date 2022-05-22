@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/AP22087837827707.jpg"
         width: 3000
         height: 2000
-        isCached: true
-  - title: "Scientists use machine learning models to help discern characteristics of people with long-COVID"
-    excerpt: "Clinical scientists used machine learning (ML) models to explore de-identified electronic health record (EHR) data in the National COVID Cohort Collaborative (N3C), a National Institutes of Health-funded national clinical database,"
-    publishedDateTime: 2022-05-18T01:14:00Z
-    webUrl: "https://www.news-medical.net/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Scientists-use-machine-learning-models-to-help-discern-characteristics-of-people-with-long-COVID.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 46
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Electronic_Health_Record-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
   - title: "Disrupting conventional baggage scanning with AI"
     excerpt: "Vehant Technologies Technology has reinforced all the aspects of our lives in terms of how we work, learn, travel or shop. It’s inescapable that the technological devices and services have begun to reflect the public ambitions and desires to connect with others and contribute to the world."

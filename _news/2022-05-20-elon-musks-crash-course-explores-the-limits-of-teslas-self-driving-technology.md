@@ -50,6 +50,15 @@ related:
       name: India TV
       domain: indiatvnews.com
     quality: 36
+  - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
+    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
+    publishedDateTime: 2022-05-22T18:04:00Z
+    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 35
 
 secured: "8TmnsBLFczZQY7MTTcnFOjMP0WJv2UMEe2TCfz030spF8Xg3LCf5Mn80i82QUjpUXoFyLmDDXaYCplXEci1lHV5uNWuMk2j8rtJ8bSol93h5qI2TkJe9WsJyYmkkMZ2+R+yX+EJwWZFTUh0CPLveew58PT35Y7U3eucCbeAGkxeZwaTnh2oA0Id3Fr3r2oSe3K954UUlWi6FbebHO4oTh9rYTRQGLUPB5YR7Zpak6ZnSjeOsDwQsbsKxVBWIS+U2YRZOY/QvD+K6M1qgF/GmWAKJ+tFGoc9snVL19iqc9JnFVDgZ+Y8CCJ8sZST4SYjVxVDn/lyHkKQ83LeUg7VZagrENRq7S46/ydlo9FXhRPGyzdxhl2/XAuXygmslXRPPvxe7yB1qCe5YEIBW7Hho/hG+c8Yp2FL8PrLZHt0eBmUk2rbMhWzBufJymle5CCiZTiqsvVJw7AMw6YmXdeArYGUPeg4b7HOsuMQTc6K6ERc5neU4VpkondrneZv8vmayjW0HH/qcWEHQb4cT4iTTNQ==;qSWNkzzqFh3I6V9qFI3R3Q=="
 ---

@@ -36,6 +36,15 @@ related:
         width: 3624
         height: 2416
         isCached: true
+  - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
+    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
+    publishedDateTime: 2022-05-22T18:04:00Z
+    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 35
   - title: "'Elon Musk's Crash Course' explores the limits of Tesla's 'self-driving' technology"
     excerpt: "As Elon Musk tweets his way through his pending Twitter acquisition, FX's \"The New York Times Presents\" documentary banner takes a hard look at his flagship business, Tesla, and its"
     publishedDateTime: 2022-05-20T13:33:00Z

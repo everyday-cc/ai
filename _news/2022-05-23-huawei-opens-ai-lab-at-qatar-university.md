@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-22T19:10:00Z
 originalUrl: "https://www.gulf-times.com/story/717654/Huawei-opens-AI-Lab-at-Qatar-University"
 webUrl: "https://www.gulf-times.com/story/717654/Huawei-opens-AI-Lab-at-Qatar-University"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Gulf Times

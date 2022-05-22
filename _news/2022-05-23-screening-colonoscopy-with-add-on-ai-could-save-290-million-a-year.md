@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-22T18:31:00Z
 originalUrl: "https://www.medpagetoday.com/meetingcoverage/ddw/98864"
 webUrl: "https://www.medpagetoday.com/meetingcoverage/ddw/98864"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MedPage Today

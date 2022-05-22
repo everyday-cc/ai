@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-18T10:02:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-san-francisco-b0f527227d4b4c3abe9f6cd62b2e832d"
 webUrl: "https://apnews.com/press-release/business-wire/technology-san-francisco-b0f527227d4b4c3abe9f6cd62b2e832d"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Associated Press

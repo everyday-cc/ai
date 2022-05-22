@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-05-israeli-firm-ai-curb.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-israeli-firm-ai-curb.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Israel Tests AI-Powered Floating Solar Panels To Generate Clean Energy"
+    excerpt: "Israel announced a project to test an artificial intelligence (AI) floating solar system to generate electricity by tracking the sun,"
+    publishedDateTime: 2022-05-22T19:55:00Z
+    webUrl: "https://nocamels.com/2022/05/xfloat-mekorot-solar-panels-energy-floating/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 39
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/05/xfloat.png"
+        width: 1018
+        height: 666
+        isCached: true
   - title: "Israeli Firm Hopes AI Can Curb Drownings"
     excerpt: "An Israeli city is testing whether an artificial intelligence programme that detects drowning threats can help save lives off its beaches. The programme, developed by a company called SightBit, uses information collected from surveillance cameras to determine who is in the water -- an adult or child,"
     publishedDateTime: 2022-05-20T15:19:00Z

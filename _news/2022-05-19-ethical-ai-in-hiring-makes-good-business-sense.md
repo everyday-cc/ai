@@ -42,6 +42,15 @@ related:
         width: 661
         height: 545
         isCached: true
+  - title: "1 Artificial Intelligence Growth Stock to Buy Right Now"
+    excerpt: "The stock market is currently on the roughest losing streak since the start of the pandemic in 2020. The broad S&P 500 index is down 19% from its all-time high, putting it within a whisker of bear"
+    publishedDateTime: 2022-05-22T14:53:00Z
+    webUrl: "https://www.sharewise.com/us/news_articles/1_Artificial_Intelligence_Growth_Stock_to_Buy_Right_Now_TheMotleyFool_20220522_1435"
+    type: article
+    provider:
+      name: sharewise.com
+      domain: sharewise.com
+    quality: 19
   - title: "The power industry found it harder to fill artificial intelligence vacancies in Q1 2022"
     excerpt: "Artificial intelligence-related jobs that were closed during Q1 2022 had been online for an average of 35 days when they were taken offline. This was an increase compared to the equivalent figure a year earlier,"
     publishedDateTime: 2022-05-18T13:03:00Z
