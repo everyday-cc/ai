@@ -26,17 +26,6 @@ images:
     height: 753
     isCached: true
 
-related:
-  - title: "SAIC Mobility Robotaxi Selects Cerence to Power Natural, Conversational Interaction in China’s First L4 Self-Driving Robotaxi"
-    excerpt: "Cerence Inc.  (NASDAQ: CRNC), AI for a world in motion, today announced that SAIC Mobility Robotaxi, part of leading Chinese automaker SAIC Motor, has selected Cerence to provide mobility assistant technology for its L4 self-driving robotaxi platform,"
-    publishedDateTime: 2022-05-17T12:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-china-cerence-inc-faa6831fed86ae08f9314061e66f1854"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-
 secured: "ayY82IthS8hJUYQr9IWiIzLNYGf4yQgrwapEv14ZB0x4mwdus+oPZy4C3XbTHX3r7UOU0pWpA23pTQC1VnmJ2WufRPeeYhyIIV38+QqpcsUWfgZ99K42QG1Kyk1AVtn0BOai+58Z+0Q4e8sf1fxfUzTaWZPuEOn4F7MulE4uPmGI3dVdtwDpfgbf60nF4jbKOLPM9Nu6gYg39PcBu/JiXWUvo2OKOKB00l/g5PbmjgPvV2VubmIP/XJpYW+H+WiK/Z99Am/hZbUaeFP7R6juR6c3UZzFmG7ScjjXJm2OUZxrLoGPi6HOEAZRoXLblmAfP44HsyaZO1BFaFzFej1iDjm4RhwaDMR6ZGx6XasDPc/CO5cr2WBr/5hsQpvPySu0gRg4clye9Z+AZtHlQzw8v0O+65j5CAHTuBp9Z00sj3Sg4jLQaH+3+FGHRVQFhoK6LVMqbRF/iARATrS9P8YPZUlDkkmbMqQqD8Ubbkj1IleODWRI3NbPi+6hPBzSayzeRcnWfxB1pf9Gs4pIlXrr5w==;iM4SOaWJqsYc0oBv/GcQtg=="
 ---
 

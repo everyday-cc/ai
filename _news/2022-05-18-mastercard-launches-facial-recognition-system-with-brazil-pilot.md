@@ -43,15 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mastercard Begins Facial-Recognition Rollout With Retailers"
-    excerpt: "Mastercard Inc. has begun to trial a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their ..."
-    publishedDateTime: 2022-05-17T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-05-17/mastercard-begins-facial-recognition-rollout-with-retailers"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 49
   - title: "Did ID.me hoodwink Americans with IRS facial-recognition tech, senators ask"
     excerpt: "Democrat senators want the FTC to investigate \"evidence of deceptive statements\" made by ID.me regarding the facial-recognition technology it controversially built for Uncle Sam. ID.me made headlines this year when the IRS said US taxpayers would have to enroll in the startup's facial-recognition system to access their tax records in the future."
     publishedDateTime: 2022-05-18T22:50:00Z

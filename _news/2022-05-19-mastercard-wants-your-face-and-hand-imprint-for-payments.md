@@ -35,15 +35,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mastercard Begins Facial-Recognition Rollout With Retailers"
-    excerpt: "Mastercard Inc. has begun to trial a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their ..."
-    publishedDateTime: 2022-05-17T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-05-17/mastercard-begins-facial-recognition-rollout-with-retailers"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 49
   - title: "Mastercard launches facial-recognition system with Brazil pilot"
     excerpt: "Mastercard has begun to test a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their face using a retailer’s smartphone app and assign their likeness to a bank card stored on file."
     publishedDateTime: 2022-05-18T16:43:00Z

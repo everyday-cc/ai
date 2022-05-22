@@ -58,15 +58,6 @@ related:
         width: 696
         height: 465
         isCached: true
-  - title: "Frost & Sullivan awards Microsoft with the Platform of the year for its IoT Solutions"
-    excerpt: "The Azure IoT Platform enables enterprises to expand features ... industry with its innovation and best-in-class technologies, such as its IoT platform, machine learning, artificial intelligence, digital twins, analytics, edge computing, and much more."
-    publishedDateTime: 2022-05-17T12:47:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56075541-frost-sullivan-awards-microsoft-with-the-platform-of-the-year-for-its-iot-solutions-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 12
   - title: "Frost & Sullivan Awards Microsoft With The Platform Of The Year For Its Iot Solutions"
     excerpt: "Frost & Sullivan Awards Microsoft with the Platform of the Year for its IoT Solutions The Azure IoT Platform enables enterprises to expand featur"
     publishedDateTime: 2022-05-17T19:06:00Z

@@ -93,15 +93,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "SignUp Software and Velosio Ink North America Partnership to Deliver Integrated, AI-driven AP Automation for Microsoft Dynamics 365"
-    excerpt: "These two Microsoft Dynamics powerhouses will support companies of all sizes to automate processes, increase efficiency, and improve accuracy while reducing cost and compliance risk."
-    publishedDateTime: 2022-05-17T12:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/signup-software-and-velosio-ink-north-america-partnership-to-deliver-integrated-ai-driven-ap-automation/article_b5071b9b-0689-59c8-9f64-964847b93743.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
 
 secured: "0+mfCtosc5qy/BRMYPi0G3CPhV18kW+eQLS9U18uwty1wGjxL8De5kgbS0br2dXWzIxRQA/hKGsd653boFn3N1mbrc5w08zO14jojgHSXTMwldlU9/Y4ayp46AO58KvrJIDIjDppiBaZYXRfcfajhm3VXiTveuRlzrxypdgjBLyUkdUl43iTpj34xM2lyzz46/d0QAIqKTgF8Cy9yBNdiBAMKd50LK6SK4DWuTVEoyHu5nmtKzWdqTvVZIQxTzwtH9vcTmQ/7G9spWGjFyyE2ax8hFm9C8zcnRc+f08Z96ZF/kAtm0vFhLZ83X63jRC/+6Z1cFgWcmjL+/Pgegi+3YDVN71nO8FAq6ijU8ibww6mXrdeRU3+6x27mEWg7CozMjwVh8QGLwneqAfVG3SgIw2LitZNc5Zav/cY+ooOl9VVTMeEj9xUQQrDCrNf472mxk2X5Te5pPisuYqmW1xbiZX+4iAo5a+s1ZQDH5WQRqxOPcPf4MZ+uL9D+BcSp7Oa8Rn4GzyvAjNkUE4bbo8BrQ==;UERL0Kes2g93UB/kFIaWTw=="
 ---

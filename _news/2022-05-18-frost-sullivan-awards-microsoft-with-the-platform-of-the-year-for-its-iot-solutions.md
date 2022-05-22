@@ -67,15 +67,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 20
-  - title: "Frost & Sullivan awards Microsoft with the Platform of the year for its IoT Solutions"
-    excerpt: "The Azure IoT Platform enables enterprises to expand features ... industry with its innovation and best-in-class technologies, such as its IoT platform, machine learning, artificial intelligence, digital twins, analytics, edge computing, and much more."
-    publishedDateTime: 2022-05-17T12:47:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56075541-frost-sullivan-awards-microsoft-with-the-platform-of-the-year-for-its-iot-solutions-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 12
 
 secured: "eWaZbyqjeK/o9CABvFBTSsJMCtq24p+ZipQG61Ik/GfkZLL0u6pAc8ZnzMf6orNA5VAiFpwl73VtOMliOeHDHrRO3MulPuCCERSgcar9I4pZ7wT26eFy6gl9J2wHF/f4vznKmoIu0t4lLhe2g5DIQh760bqekDNw6WZAay5QUzw0wf2FjyiIJh5rydt4Am1e1RV+gjrQtV2l2bJWsA8Y+khdyp6HeWps/YbvCWociZ2zMTTL60Ii4i9Eyh5+wnDWqdLbU5E86uyNjUUB3NzNuv/YUuU503IRSQAiQLvpP+olSzFq37Vgk6XIpeGPwN705UHtsTXkn2+i2vOy+gBFs2m3JXYN91ttzRTcSnKcOKGcKVgXzXqFC+IP96cN1urzExYF3bQrojGL3VPad2qdzQHAbeG8RKdzl1WZQgkZtFSxyYXA47ZlcJiae957UUwcfK0YcEwK0CNuQniJrKbrohipGe3o5cDuqGj/lh4Y2Dwwq9yLeOijrcx9LqsAvjuXm5Oeyv7QcV7QplYK5pugkw==;iiQD50+hO4Hg2QO+UiNC0A=="
 ---

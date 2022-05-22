@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-suppor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/"
 type: article
 quality: 102
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered construction management platform Buildots lands $60M"
-    excerpt: "who co-founded construction tech startup Buildots in 2018 with Aviv Leibovici and Yakir Sudry. Graduates of the Israel Defense Forces (IDF), the founders created a platform that leverages AI and ..."
-    publishedDateTime: 2022-05-17T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/05/17/ai-powered-construction-management-platform-buildots-lands-60m/"
-    ampWebUrl: "https://techcrunch.com/2022/05/17/ai-powered-construction-management-platform-buildots-lands-60m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/ai-powered-construction-management-platform-buildots-lands-60m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/buildots.jpg?w=680"
-        width: 680
-        height: 382
-        isCached: true
   - title: "REPerformance Uses AI to Personalize Physical Education"
     excerpt: "A software company in Canada is bringing its web-based application to the U.S. that uses personal fitness data to create individualized workout programs and feedback geared toward their progress rather than ability."
     publishedDateTime: 2022-05-19T23:25:00Z

@@ -94,15 +94,6 @@ related:
       name: Aviation Today
       domain: aviationtoday.com
     quality: 44
-  - title: "SignUp Software and Velosio Ink North America Partnership to Deliver Integrated, AI-driven AP Automation for Microsoft Dynamics 365"
-    excerpt: "These two Microsoft Dynamics powerhouses will support companies of all sizes to automate processes, increase efficiency, and improve accuracy while reducing cost and compliance risk."
-    publishedDateTime: 2022-05-17T12:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/signup-software-and-velosio-ink-north-america-partnership-to-deliver-integrated-ai-driven-ap-automation/article_b5071b9b-0689-59c8-9f64-964847b93743.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
 
 secured: "plB8dKeGTL2NWwVbVDjDf0S5x7eKvKXHT8Rxuv/dxlHyJ7i+3tj/qPM/YtHzrhwCLHBuOYDBQWrTdOwYue/MsUbtctCeUTDRSFUAmqrl6A9+22Y3SUFbbQrjeqiyBiTSMbV+kWtBHKu2SEJ1e+WYU6TzYs6F3GaENtmtOaJjkB4kAFB+BqlNWMxXoYJCtzeYi907e2pMX5e7/kgYVj73HsflOQRClZ7j2USbDH/9sODyMhY2j41BQI5ASFUdv5xUV5RxBpKn7BvMqtnf1xvoX2Y8aoi+XUP+RM0aZH+0KMCzCZBLOhnDJJhL6rC54GCJmuDTYHxhJhYtIDpkp17Atqr6GfL46LgV2sS/C2Gh4ZE=;3EuwQqxvw+mazjry5QPTrg=="
 ---

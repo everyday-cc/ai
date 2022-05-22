@@ -33,15 +33,6 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 47
-  - title: "Seven Group & Presults Partner to Give Financial Advisors Integrated Access to AI-Based Compliance Engine"
-    excerpt: "Seven Group, a New York City-based marketing platform for financial advisors, announced that they've partnered up with Presults, a leading provider of financial advisory archiving and compliance solutions."
-    publishedDateTime: 2022-05-17T12:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-17-seven-group-and-presults-partner-to-give-financial-advisors-integrated-access-to-ai-based-compliance-engine"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 2
 
 secured: "CB0a+NtZVT6GvjkjmHjV602uAz1EnDe2vOq+wCFeF51SlPXuof+lBrq8GybZLH5TVz2/Lsio3cDnySnr1fdz67vSLjp98emXYFe7lcV3/LKhjifVn6Bud2aBAp6yLBxPBpB8ef6r/R9SPbsX23IpImXSUxGp0QbbuPo+OPi7gpwZlWCLlgEdZ4x4KcgucD05nijWi5kbvnrBRayxHI1gitS2FysolZRbQnv2Yr/zN5N3TTnDEm6zypVicNIntbDGyeasnAJ2YRvtHlB3uUJneaZObSYKKmDOAV9+qE7RMkOUse0jaabVA9K5zM2WFIHFWhzaJgZtWmcmJNFkV8bOZG1k0zaE06jdvOg5JRSeIRQ=;mzk6pmdCEQcdv4ot+K23aA=="
 ---

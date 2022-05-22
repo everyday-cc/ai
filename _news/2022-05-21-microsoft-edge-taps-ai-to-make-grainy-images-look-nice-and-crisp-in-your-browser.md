@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-mak
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html/amp"
 type: article
 quality: 101
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "SignUp Software and Velosio Ink North America Partnership to Deliver Integrated, AI-driven AP Automation for Microsoft Dynamics 365"
-    excerpt: "These two Microsoft Dynamics powerhouses will support companies of all sizes to automate processes, increase efficiency, and improve accuracy while reducing cost and compliance risk."
-    publishedDateTime: 2022-05-17T12:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/signup-software-and-velosio-ink-north-america-partnership-to-deliver-integrated-ai-driven-ap-automation/article_b5071b9b-0689-59c8-9f64-964847b93743.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
 
 secured: "Sea7+3tJXoxkc49KmkPiEW5a8lxeoxd3vvlwJsndp6aOXmrMq5GUQFrOT7O16PmTnoMHXfA9dOAWjHs+JW0eA2M/kUwWqHg7vx+dcWJsc2+sk/uPjT6p8hc3Q0vxFJ5drc89dday3+lW1510lorhtygZbWz8gDlhWMndqHt/nPdQVgYbqTcQzkL6Ucru1lQ59TAJZ1RsMI4aZIOr0nya3war4DE4fLYZ/QipfSeXJTQ6pL/q8PMcFhhfilglAJtondxCy6LnGs09i7EEG4vtln9tGnfge6Vu+PT/jYprtFEXoBly392pLAzl6qUw1BY3TYNO8P0V2oTuIa7ywAoDrYCu4Uujj6rWWn1pVxH1ZMqDt7fRwA2dvxqb7gA6cReYlj9pnoE3KNLdmSWMyqQKJZJo76TjJollQ6x3lBlCzNt2MAOX3xnysczL6c16Hr6ysrtu5kJgZ9SUCmYAlUsIcgj/w6+YUg+1fvIgXtqGzSFAVc1IFHa821gKIQqIkwgwWlBn+T8Kql4l/pAsoV8QMA==;lK6bS4ImUwKhsXPjJ8lcew=="
 ---

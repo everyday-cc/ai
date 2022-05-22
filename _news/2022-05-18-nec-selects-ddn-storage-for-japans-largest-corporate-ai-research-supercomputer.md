@@ -2,17 +2,17 @@
 category: news
 title: "NEC Selects DDN Storage for Japan's Largest Corporate AI Research Supercomputer"
 excerpt: "DDN ®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research."
-publishedDateTime: 2022-05-18T14:00:00Z
-originalUrl: "https://fox2now.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
-webUrl: "https://fox2now.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
+publishedDateTime: 2022-05-18T16:00:00Z
+originalUrl: "https://www.kget.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
+webUrl: "https://www.kget.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: Fox2Now St. Louis
-  domain: fox2now.com
+  name: KGET.com
+  domain: kget.com
 
 topics:
   - AI Hardware
@@ -24,6 +24,6 @@ images:
     height: 252
     isCached: true
 
-secured: "+QksWpvJdGw4lCXJ0ZHzT5v7aR4Bm0Vjcduzsmw36UwRknLi7zfH0wY3UMhCa5XaK6LgzHe7dpYG4Pfk0jZIvlBAgC0rAXfj5H/r2U5ldkdKjhuDoaUnasoE9b5cCzIlAIrkmu4OWZLOZOpxqGa5tI2jqyYGRvu1XB+RFD/OMyKqEc9bl5OwSY+oL+0u1cebbmmUJlp3/T39tpdFLlTFcyjpTzIris0lsWVNSLNPZl//b8CtA8ZJZhPHOSfdn0Km8l3zcZnkC6wbjfGUEsGJwZD2A/FjeWppFsnIApLajr5qa9DPtxm2/1ldWcjJrB6WPMog6clB2OqLthwxfcmcFDoElbGfeAydFACc6H8/58g=;9cJhIPPDmRKpQMDOXsEFlg=="
+secured: "olui9eYSQD4jFz6FfJNV9P4GIRmRtxz2ojaxMS6U176aBXy4KddyLOcLIBbGOknOmvz6qITHjbZ9oBUQD9N+uS0YM8EbRTM5mz848ifk0lQFbjD1EBGiZ0Ex4bwsN9BJoNCQX0mwL5Gscnx11ZsHvMlYvEla8Q0wkOrcWFTHU/BxvKI5Xeygbb9G1mAmbGesrgFkcmOqBx/lNXQJNG3z8OrrNcQ7U6MMkp+vrXYqCAYJxqLhfP0k90SUCQbQUTnivYY+H6h0yx/sGhCB5eOBsRBEWRjUUP1trwHWUVsjPSh2T8stmmwe4QxqjnG3Q/xo3ofeoucCbGaGsGtnzFPAsGbVrlwJ/dql91OQYeGWUZM=;el7axsS3aCm7vmBb5qTzEA=="
 ---
 

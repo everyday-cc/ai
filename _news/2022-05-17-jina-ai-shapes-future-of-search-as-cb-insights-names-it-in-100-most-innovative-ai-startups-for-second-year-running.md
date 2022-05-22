@@ -42,20 +42,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "TrojAI Inc. Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named TrojAI Inc. to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"Protecting AI has become recognized as the most significant cybersecurity challenge of the next decade,"
-    publishedDateTime: 2022-05-17T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/trojai-inc-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial/article_402d8035-c3c4-5ac1-94fc-9cd5223c92cf.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Five Canadian startups crack CB Insights’ 2022 AI 100 list"
     excerpt: "Five Canadian AI companies have been named in CB Insights’ sixth annual AI 100 list, which aims to highlight the most promising and innovative private AI startups in the world."
     publishedDateTime: 2022-05-18T21:14:00Z

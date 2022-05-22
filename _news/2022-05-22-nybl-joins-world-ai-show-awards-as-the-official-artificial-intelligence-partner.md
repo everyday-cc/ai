@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/05/a27338746/nybl-joins-world
 ampWebUrl: "https://www.benzinga.com/amp/content/27338746"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27338746"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 related:
   - title: "Gfk Joins World AI Show & Awards As A Gold Sponsor"
