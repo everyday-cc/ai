@@ -1,28 +1,20 @@
 ---
 category: news
-title: "Brands matter: Why trusting an existing brand can lure you into buying a driverless car"
-excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ..."
-publishedDateTime: 2022-05-11T13:11:00Z
-originalUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
-webUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
-ampWebUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp"
+title: "Brands matter! Why trusting an existing brand can lure you into buying a driverless car"
+excerpt: "But the idea of a fully automated driving mode, where artificial intelligence takes control ... in the United States do not feel safe in a driverless car. Even though consumers are sceptical ..."
+publishedDateTime: 2022-05-11T06:48:00Z
+originalUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
+webUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/brands-matter-why-trus.jpg"
-    width: 1356
-    height: 668
-    isCached: true
-
-secured: "pmxBI3sfKEC7PfFUiNO8IcgQzrPezmrT7pcFDGUEUIjBSp0ccXlyGyzP1EM/TkiLh8JdoIlWJJI3w/zJatsbS7njOavRu3ItH1XfByyZLxfCcO9BIYrJk8Y0VqWCJtd4MnKgTO8nY7W9cd4nURGNGi0sx/tSazZcLr8MMQjMkDROJ8YFb0PnewYGCecUK5D7Pd8X0XA9i3LHo9xswMzQnUQTBmsI4AtPAzBA86ddkH7Yl11zuPPlmghhul9iHu1uNlOrkgL3Sl683Ovmwwh0GkJO0ZQn5+t4t7WtWtaWuWYKRsziQutAvJ5g74oh4zLOfY1D0NtAXOI7pFMgUT5DynkeYBKnxcvl4vEY2xVq9wQvEB5A7rthaVsMFl4AH9J5hntm6nkjePzbzh6iLqNfzuwidlEZD7ywWAfsjcOeBg+LHfp4XmOSlq9CIM2jTnoo3XyJJhlqXBT2OcMQerGeA/ruwly7wA+FpEhhnSL3Ewii987pTGpIacI1wABmV8nOPlfRd+1P5j8GPlvSHpbW2g==;2Cy6TyM8ClcIEHcrFTrvgQ=="
+secured: "BcA7E3kXm3kZmET6tOsojqrekKU1hUBxiPB4fkhiDphmMW9V9kAce6qmwmb1MDBmhaE/JnNnSNAKpsheUuDLLpEcHjmOjBkB0NvCeTQ0LvoZR1j2XZP+4yL5RK2nP23CA/np6Og4dM3f66DrIkHhc3JK5G79TVx9wUQpmZ/MTXeGjljeNudvkUvgOqFMVXFM6MggtDsBYXifxYETbg7nBe7GZZt3hGntYDxpkUU5RH8IA5lYzhm0EA/3rJ1rcjihh1AcUYfIKLta9SX2j7ociqw0mf5IbLhi/Y/zByUJt9b31zhZsi9OMG4//eYdsn7/E/NL8kwO/A7uIa22Z6GGzRljyAsQPYI/YWk3pI2RjUQ=;fuM0r0QflvOp0fBNi15W9Q=="
 ---
 

@@ -1,73 +1,24 @@
 ---
 category: news
 title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
-excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
-publishedDateTime: 2022-05-19T14:30:00Z
-originalUrl: "https://www.wpri.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
-webUrl: "https://www.wpri.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
+excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the Consumer Goods, E-Commerce, and Logistics industries."
+publishedDateTime: 2022-05-19T14:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241"
+webUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: WPRI 12
-  domain: wpri.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
-    width: 400
-    height: 271
-    isCached: true
-
-related:
-  - title: "Soft Robotics Expands Commercial Focus for its Artificial Intelligence Technology"
-    excerpt: "Soft Robotics Inc. expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the consumer goods, E-commerce, and logistics industries."
-    publishedDateTime: 2022-05-20T14:00:00Z
-    webUrl: "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology"
-    type: article
-    provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 64
-    images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2022/05/Soft_Robotics_Inc_mGripAI_CPG.628698128d087.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 500
-        height: 339
-        isCached: true
-  - title: "Ethics in the AI, Technology, and Information Age"
-    excerpt: "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?"
-    publishedDateTime: 2022-05-20T17:27:00Z
-    webUrl: "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF"
-    type: article
-    provider:
-      name: Amazon Associates UK
-      domain: amazon.co.uk
-    quality: 54
-    images:
-      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
-        width: 350
-        height: 450
-        isCached: true
-  - title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
-    excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
-    publishedDateTime: 2022-05-20T07:41:00Z
-    webUrl: "https://www.ketk.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
-    type: article
-    provider:
-      name: ketk
-      domain: ketk.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
-        width: 400
-        height: 271
-        isCached: true
-
-secured: "PXcskoRTqcdBVOoSku1/gIw8Ekq8cWXGgzN13UvGgGGAGe+TEUlvzgHJ9q2ia+bPOSeCk/PE+pTqkYYfCBG8P0paPY8cLLYhV+MqDoy1lxq56WMJAvDB/pxJXn8znv37DyxB0hMGAg2+KOCa+choR9PS2JMDBwS3UK93dodCmkeJ7oXQdExy5SdJY+o7GlCtljzhyniOjxlnReBVjtUJo1y/dXJ9Z/zdFJ/bhyRPJOKAAKR7uT/r49vsrAp7ADHkz4awPzSSYw1zJFFrLnUz0G8WOxWgVtGO/auVBiZwRUIjTM6mx8xP/LgMxybJXgP3t1Zj1xlyvFTtmMPn4BuGgxCJRAar8TJve0kjPkLAFOI=;8X09GQEUtenVb8csocZj6Q=="
+secured: "Gp7qztGmkw/RW38FQHsW2+buohaA28I95qFdhEm6fY3de9xmKzgO0K12xNzS4tmChISRRSVCwCYiNDYLyU+oB/QjHu/wyulRjrpmcRSY4SctlowB4InSjybyFoWI8fNbCdQpZ9aJpXcNfeUC4Wk1PosYPS0cfpqPzYRZfv0jECTVcILC+xLCHgxRwG0UP0Ef8pv3HHT79zTyA/2frcgMs9D8pAGKquBQp8PKE5nxBxC6ENwh3ApZiXU/8iJnOhw+Xp70U/iwLObLkp0Dw5LJ6b31dQAYI/YMlysaDRYUhF5qeWxvhGgApl1+98ZGRY9WGckejvZAhLvmpOg6JKk+O2RqcQlMaDIIUR0w/zHA5MWcO4NSGjSAnRYESk1Un6EZSMcXxEWsOkAxrdHPm4GS59+0Q0hOERZuFScDlrHZA9XLtneIALc/LH3Hmb9jvsiZt7kgkSpKt6V3esR/GEBEvkIUEkTc7EVpk4+CtXdoB+DMfponOLIV4xJjMhamyLnmpdrlCCdHgyapIezGEAR1LQ==;cofUnDcIllgff4yGxbARqQ=="
 ---
 
