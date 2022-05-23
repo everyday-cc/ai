@@ -7,7 +7,7 @@ originalUrl: "https://thespinoff.co.nz/tech/23-05-2022/ai-writing-has-entered-a-
 webUrl: "https://thespinoff.co.nz/tech/23-05-2022/ai-writing-has-entered-a-new-dimension-and-its-going-to-change-education"
 type: article
 quality: 54
-heat: 84
+heat: 86
 published: true
 
 provider:

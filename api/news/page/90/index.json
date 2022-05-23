@@ -2,6 +2,58 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-03-03-analyst-ratings-for-c3ai.md",
+      "title": "Analyst Ratings For C3.ai",
+      "excerpt": "In the last 3 months, 4 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $33.5 with a high of $40.00 and a low of $27.00. Below is a summary of how these 4 analysts rated C3.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_3929.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-washington-to-roll-out-facial-recognition-dropped-by-irs.md",
       "title": "Washington to Roll Out Facial Recognition Dropped by IRS",
       "excerpt": "Washington state is getting ready to roll out the ID.me facial recognition system dropped by the IRS over privacy and equity concerns, while human rights activists are asking state government officials to ban the system.",
@@ -1143,40 +1195,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-renesas-and-fixstars-to-establish-automotive-sw-platform-lab-to-develop-software-and-operating-environments-for-deep-learning.md",
-      "title": "Renesas and Fixstars to Establish Automotive SW Platform Lab to Develop Software and Operating Environments for Deep Learning",
-      "excerpt": "As Part of Collaboration, Companies Launch Cloud-Based Evaluation Environment for R-Car SoCs to Enable Simple Initial Evaluation for Device Selection Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220302005331/renesas-and-fixstars-to-establish-automotive-sw-platform-lab-to-develop-software-and-operating-environments-for-deep-learning",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220302005331/renesas-and-fixstars-to-establish-automotive-sw-platform-lab-to-develop-software-and-operating-environments-for-deep-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

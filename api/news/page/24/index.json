@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-04-28-neuromorphic-sensing-shifts-computer-vision-focus.md",
+      "title": "Neuromorphic sensing shifts computer vision focus",
+      "excerpt": "Is computer vision about to reinvent itself, again? Ryad Benosman, professor of Ophthalmology at the University of Pittsburgh and an adjunct professor at the CMU Robotics Institute, believes that it is. As one of the founding fathers of event–based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/neuromorphic-sensing-shifts-computer-vision-focus/",
+      "originalUrl": "https://www.embedded.com/neuromorphic-sensing-shifts-computer-vision-focus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2022/05/img20220503084934A-Shift-in-Computer-Vision-is-Co_1_w943_h751.jpg",
+          "width": 943,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
       "title": "Pittsburgh Welcomes Plus One Robotics",
       "excerpt": "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ...",
@@ -1103,58 +1146,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-server-ai-chip-market-cagr-volume-and-value-market-players-amd-intel-baidu-2022-2027-by-hny-research.md",
-      "title": "Server AI Chip Market CAGR, Volume and Value, Market Players - AMD, Intel, Baidu - 2022 - 2027 By HNY Research",
-      "excerpt": "Apr 27, 2022 (Heraldkeepers) -- The \"Server AI Chip\" Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/server-ai-chip-market-cagr-volume-and-value-market-players---amd-intel-baidu---2022---2027-by-hny-research-2022-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/server-ai-chip-market-cagr-volume-and-value-market-players---amd-intel-baidu---2022---2027-by-hny-research-2022-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

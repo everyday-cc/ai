@@ -2,6 +2,40 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-04-26-hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage.md",
+      "title": "Hospitals turn to artificial intelligence to help patients while addressing worker shortage",
+      "excerpt": "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc15.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
+      "originalUrl": "https://www.abc15.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC15 Arizona",
+        "domain": "abc15.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-computer-system-scrutinizes-video-footage-to-analyze-animal-behavior.md",
       "title": "Computer system scrutinizes video footage to analyze animal behavior",
       "excerpt": "Ordinarily, when studying the behavior of animals, scientists have to watch many hours of video footage of the creatures going about their daily lives. That may soon no longer be necessary, however, thanks to a new critter-watching computer system.",
@@ -1063,49 +1097,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-ai-increasing-transparency-in-used-car-sales.md",
-      "title": "AI increasing transparency in used car sales",
-      "excerpt": "Jim O’Brien, general manager, Americas at RAVIN.AI, discusses how AI can be used as a tool to increase transparency in used car sales",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/ai-increasing-transparency-in-used-car-sales-123499239/",
-      "originalUrl": "https://www.information-age.com/ai-increasing-transparency-in-used-car-sales-123499239/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/04/how-the-online-safety-bill-can-make-internet-safer-for-all-512x220.jpeg.optimal.jpeg",
-          "width": 512,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

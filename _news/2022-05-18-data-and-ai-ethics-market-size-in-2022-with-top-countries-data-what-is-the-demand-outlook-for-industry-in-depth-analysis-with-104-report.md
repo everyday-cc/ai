@@ -93,20 +93,6 @@ related:
         width: 356
         height: 250
         isCached: true
-  - title: "Artificial Intelligence (AI) in Mining Market 2022: Explore Top Factors that Will Boost the Global Market by 2030"
-    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources"
-    publishedDateTime: 2022-05-18T11:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-2022-explore-top-factors-that-will-boost-the-global-market-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/014c9ade67b501be5e805542b1c82f3201cec6cf-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence (AI) in Mining Market: Top Driving Factors That Could Escalate Market Growth Worldwide, Report"
     excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources to reduce waste drives the growth of the market. In addition, autonomous mining equipment equipped ..."
     publishedDateTime: 2022-05-19T13:57:00Z
@@ -120,6 +106,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
         width: 600
         height: 337
+        isCached: true
+  - title: "AI In Fashion Market Report: Size, Trends, Demands And Progression Status Up To 2022-2031"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, May 22, 2022, 22:34 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 20"
+    publishedDateTime: 2022-05-23T04:39:00Z
+    webUrl: "https://menafn.com/1104255404/AI-In-Fashion-Market-Report-Size-Trends-Demands-And-Progression-Status-Up-To-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?695690"
+        width: 450
+        height: 250
         isCached: true
   - title: "Face Recognition Software Market Size, Growth, Share, Leading Company Analysis, And Key Country Forecast to 2022-2028"
     excerpt: "Global “Face Recognition Software Market” Report Size, and analysis maintains detailed dynamics and is over shadowed by"
@@ -150,20 +150,6 @@ related:
     quality: 23
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Mobile Phone Facial Recognition Technology Market 2022: Global Industry Size and Growth Opportunities to 2028"
-    excerpt: "A report was released recently that sheds lots of light on the  Mobile Phone Facial Recognition Technology Market. The report covers an overview of the industry along with a detailed explanation that provides a lot of insight."
-    publishedDateTime: 2022-05-18T11:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-phone-facial-recognition-technology-market-2022-global-industry-size-and-growth-opportunities-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/d181e036e94ce0417b390ce7bc1e6c035f16169d-600x337.jpg"
         width: 600
         height: 337
         isCached: true

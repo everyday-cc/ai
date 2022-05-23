@@ -2,17 +2,17 @@
 category: news
 title: "DARKTRACE WINS ARTIFICIAL INTELLIGENCE AWARD AT 2022 GO:TECH AWARDS"
 excerpt: "Darktrace, a global leader in cyber security AI, today announced that it has won the AI & Machine Learning Award at the 2022 Go:Tech Awards. Backed by Business Leader, one of the UK's leading business titles,"
-publishedDateTime: 2022-05-20T21:25:00Z
-originalUrl: "https://www.abc4.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
-webUrl: "https://www.abc4.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
+publishedDateTime: 2022-05-20T20:25:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: abc4.com
-  domain: abc4.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI
@@ -42,6 +42,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "8aSoZT8deAyo388mkt4D8V03eRGeoOW7QkkX9CMedENjPpp2SX9W/Jx7jJXNc2DUmoMRWU+IUyipC6+p88O26GLj3i8vjbYWNP/8d2DBfscmbhhlMe3saCuNNyQ1gBLLjIMNP77YpCHrYfL2bpdKKrcTuKQ6NFyNehqjBQm6gURq3JqaD5m+0/CP6l6uuwR6+i4dH6/z/HZ5+eLdi/t93z6+TuJxXxr9N6dnH5zsC5/dLPdc3diCW30ID1Z7bMhTerrcboxR8B5S3gndXMbrhMc+31+QhtLqjiHbBkQErQhaNop7BwbT1M9q4Faho3uV9Nlg/ANuKicoXDa3YWyQQQWp3K24aKpVMoHjNUNj+tE=;c6T8nWqTOm+V7ttnEXkpUg=="
+secured: "U8d4TmCBzauph+TVY9MZjIWwKlOWEMr/a2cxI1IdihiEnFEyK4tZybGPKXdH7iikipGJDWcEwLe0B0FuW4HL+RLRd+7D7HTAnUlSRWkGz+OisHlWSjjFeUZlnCxW6IGB0giGN5D7V33DVWdA7PnFIt+FxrHpIp56Y+UmMrkuXqENULlejujIGVpvJx57wRnmpGukdjt+GEXFNRsBhz6GeFnqRtryqgXDkmgV5+Egvnw47d6u8IrfoOb0U1IRzbYye2TnFITFV6ZijXN+dpEFdw+4nFNP5u4M9L515YFGPO2No0U+UgaYAC9FfAI5ZOm8vIyzqqxfZsTHWeuN2V8SmGnzOCfQG+ZBb6JV1JddEHs=;n0Vw7AyysgULSOvao/FBTQ=="
 ---
 

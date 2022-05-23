@@ -2,6 +2,58 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-02-22-an-intro-to-ai-made-for-students.md",
+      "title": "An intro to AI, made for students",
+      "excerpt": "Adorable, operatic blobs. A global, online guessing game. Scribbles that transform into works of art. These may not sound like they’re part of a curriculum, but learning the basics of how artificial intelligence (AI) works doesn’t have to be complicated, super-technical or boring.To celebrate Digital",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/discover-ai-in-daily-life/",
+      "originalUrl": "https://blog.google/technology/ai/discover-ai-in-daily-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StillForKeyword_1.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/discover-ai-in-daily-life/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/discover-ai-in-daily-life/amp/",
+      "publishedDateTime": "2022-02-22T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-artificial-intelligence-ai-future-of-neurosurgery.md",
       "title": "Artificial Intelligence (AI) — Future of Neurosurgery?",
       "excerpt": "Technical performance and learning outcomes during simulated brain tumor removal may be enhanced by artificial intelligence (AI) as per a study at the Neurosurgical Simulation and Artificial Intelligence Learning Centre at The Neuro (Montreal Neurological ...",
@@ -1113,57 +1165,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-facilio-which-develops-ai-powered-property-management-software-nabs-35m.md",
-      "title": "Facilio, which develops AI-powered property management software, nabs $35M",
-      "excerpt": "GE Digital’s Predix and startup Petasense offer similar Wi-Fi-enabled, cloud- and AI-driven monitoring sensors. And Sidewalk Labs and Carbon Relay boast products that leverage sensor data to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/",
-      "originalUrl": "https://venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1282120747-e1638981626372.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/amp/",
-      "publishedDateTime": "2022-02-22T02:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

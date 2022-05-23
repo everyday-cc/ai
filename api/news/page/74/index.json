@@ -2,6 +2,58 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-03-17-irobot-brings-smart-mapping-features-to-midrange-i3-i3-roombas.md",
+      "title": "iRobot Brings Smart-Mapping Features to Midrange i3, i3+ Roombas",
+      "excerpt": "iRobot on Thursday released Genius 4.0, a software update that brings smart-mapping features to the midrange Roomba i3+ and i3, and new object-recognition abilities to the high-end Roomba j7+ and j7.",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/robot-vacuums/92977/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roombas",
+      "originalUrl": "https://au.pcmag.com/robot-vacuums/92977/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roombas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/i/irobot-bri/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roomb_x8mu.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence.md",
       "title": "Veritone Named Winner of 14th Annual Media Excellence Awards for Best Artificial Intelligence",
       "excerpt": "(NASDAQ: VERI), creator of aiWARE™, a hyper-expansive enterprise AI platform, is pleased to announce it has been named the winner of the 14th Annual Media Excellence Awards (MEA) for Best Artificial Intelligence.",
@@ -1034,50 +1086,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-enhancing-dlp-with-natural-language-understanding-for-better-email-security.md",
-      "title": "Enhancing DLP With Natural Language Understanding for Better Email Security",
-      "excerpt": "Natural language understanding is well-suited for scanning enterprise email to detect and filter out spam and other malicious content. Armorblox introduces a data loss prevention service to its email security platform using NLU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/emerging-tech/enhancing-dlp-with-natural-language-understanding-for-better-email-security",
-      "originalUrl": "https://www.darkreading.com/emerging-tech/enhancing-dlp-with-natural-language-understanding-for-better-email-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa07a0d5ae58a2d/62331767ba1c6a10726da896/robot-book-KittipongJirasukhanont-alamy.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

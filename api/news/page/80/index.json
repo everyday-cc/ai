@@ -2,6 +2,40 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-03-15-new-robot-with-heart-can-control-your-anger.md",
+      "title": "New Robot With Heart can Control Your Anger",
+      "excerpt": "A new text message mediation robot has been developed to help users control their anger ... The appointment slipped my mind. Can you wait another hour?\" The team found that OMOY was able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/new-robot-with-heart-can-control-your-anger-206092-1.htm",
+      "originalUrl": "https://www.medindia.net/news/new-robot-with-heart-can-control-your-anger-206092-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/new-robot-with-heart-can-control-your-anger-206092-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-robot-with-heart-can-control-your-anger-206092-1.htm",
+      "publishedDateTime": "2022-03-14T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-cloud-based-management-system-helps-energy-companies-with-water-efficiency.md",
       "title": "Cloud-Based Management System Helps Energy Companies with Water Efficiency",
       "excerpt": "An intelligent water management system is designed to improve water efficiency and sustainability for energy companies with the possibility of expanding the information across industries.",
@@ -1006,58 +1040,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars.md",
-      "title": "AI Ethics And The Riddle Underlying Criminal Accountability Of AI, Including Crimes Committed By Revered AI-Based Self-Driving Cars",
-      "excerpt": "Ethical AI is contending with whether or not AI ought to be criminally accountable, which can be illustrated via crimes potentially committed via AI self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62203112ed0d0bc76dc90630/0x0.jpg?format=jpg&crop=2218,1248,x0,y162,safe&fit=crop",
-          "width": 2218,
-          "height": 1248,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

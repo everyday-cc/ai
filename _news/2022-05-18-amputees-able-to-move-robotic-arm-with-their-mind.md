@@ -41,15 +41,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Technology allows amputees to control a robotic arm with their mind"
-    excerpt: "University of Minnesota Twin Cities researchers have developed a more accurate, less invasive technology that allows amputees to move a robotic arm using their brain signals instead of their muscles."
-    publishedDateTime: 2022-05-18T12:13:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-technology-amputees-robotic-arm-mind.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 19
 
 secured: "9AY1JaFFJ0BdO3qUUiJsZ+6HywfY80kflz2MZXLB/OJvrmcuoLTr69HYRtgQ5Ypju5unA4hHtECwPo3ZAChKahfnfZFyZOIsOx8EMriJ94ZTLUGZGUnQsCYL5MWEcn/KkeH6NEF9Bj06Mvi2mSBIWnEANIlmvIn753iUVvLRP3WunjsmxQBeeRn7bLdJhMyegYsnlHDpmwNq0X05p7FEiw28au4woqMAAq/W7oJFQtIsRLfEDorHZ7deKfZ4YkAw2cL/ysHYeG8lelKS6E+QvhZcP4ZcVlbzpZAkb7NfEWezSdeUeQHFrRU7AA7nBbuY6TI5sFBliKMaW++hO6hMuZ7Kbe8E9VER+utn/ohWm5I=;Z7SOsXQk6YdAf3/DL02bGA=="
 ---

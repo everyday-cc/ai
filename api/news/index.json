@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-23-the-rise-of-ai-chips.md",
+      "title": "The rise of AI chips",
+      "excerpt": "What are the different ways in which AI chips are being used in various sectors? What are the recent innovations in the industry?",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/incoming/mulfl7/article65446708.ece/alternates/LANDSCAPE_615/iStock-1034901762.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece/amp/",
+      "publishedDateTime": "2022-05-22T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-ai-writing-has-entered-a-new-dimension-and-its-going-to-change-education.md",
       "title": "AI writing has entered a new dimension, and it’s going to change education",
       "excerpt": "I haven’t heard of anyone who’s actually used GPT-3 and doesn’t think AI is going to change the world profoundly. Education in particular is going to feel its influence immediately. That’s because although GPT-3 has been around for a couple of years,",
@@ -10,7 +53,7 @@
       "originalUrl": "https://thespinoff.co.nz/tech/23-05-2022/ai-writing-has-entered-a-new-dimension-and-its-going-to-change-education",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -54,7 +97,7 @@
       "originalUrl": "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -519,49 +562,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-20-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology.md",
-      "title": "Soft Robotics Expands Commercial Focus for its Artificial Intelligence Technology",
-      "excerpt": "Soft Robotics Inc. expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the consumer goods, E-commerce, and logistics industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
-      "originalUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/05/Soft_Robotics_Inc_mGripAI_CPG.628698128d087.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 500,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-05-20-ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse.md",
       "title": "AI experts are in short supply. That's making the skills crisis worse",
       "excerpt": "A study by IBM concluded that the UK is falling behind its European neighbours in AI adoption, with employers blaming a lack of skills in areas like software engineering, problem solving, and knowledge of programming languages.",
@@ -621,7 +621,7 @@
       "originalUrl": "https://interestingengineering.com/ai-powered-prosthetic-arm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {

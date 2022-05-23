@@ -85,15 +85,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "DeepMind’s Gato is the Swiss Army Knife of AI models"
-    excerpt: "However, we don’t have AI models that do both. DeepMind has leveraged the advances in large-scale language modelling to build a single generalist agent beyond the scope of text outputs. Gato is a multi-modal,"
-    publishedDateTime: 2022-05-18T12:34:00Z
-    webUrl: "https://analyticsindiamag.com/deepminds-gato-is-the-swiss-army-knife-of-ai-models/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
   - title: "Google DeepMind claims they're close to achieving human-level AI"
     excerpt: "Google DeepMind lead researcher Dr. Nando de Freitas has claimed on Twitter that artificial general intelligence is all but here."
     publishedDateTime: 2022-05-20T09:01:00Z

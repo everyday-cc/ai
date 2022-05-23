@@ -1,29 +1,61 @@
 ---
 category: news
 title: "HyperSense named in 2022 Gartner® Market Guide for Multipersona Data Science and Machine Learning Platforms"
-excerpt: "Subex listed as a Representative Vendor in the report BENGALURU, India, May 23, 2022 /PRNewswire/ -- Subex, a pioneer in the space of Digital Trust, has been named in 2022 Gartner®"
-publishedDateTime: 2022-05-23T01:00:00Z
-originalUrl: "https://www.asiaone.com/business/hypersense-named-2022-gartner-market-guide-multipersona-data-science-and-machine-learning"
-webUrl: "https://www.asiaone.com/business/hypersense-named-2022-gartner-market-guide-multipersona-data-science-and-machine-learning"
+excerpt: "Subex, a pioneer in the space of Digital Trust, has been named in 2022 Gartner® Market Guide for Multipersona Data Science and Machine Learning Platforms (DSML). Through HyperSense, Subex has been listed as a Representative Vendor in the report."
+publishedDateTime: 2022-05-23T05:30:00Z
+originalUrl: "https://theprint.in/ani-press-releases/hypersense-named-in-2022-gartner-market-guide-for-multipersona-data-science-and-machine-learning-platforms/967250/"
+webUrl: "https://theprint.in/ani-press-releases/hypersense-named-in-2022-gartner-market-guide-for-multipersona-data-science-and-machine-learning-platforms/967250/"
+ampWebUrl: "https://theprint.in/ani-press-releases/hypersense-named-in-2022-gartner-market-guide-for-multipersona-data-science-and-machine-learning-platforms/967250/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/hypersense-named-in-2022-gartner-market-guide-for-multipersona-data-science-and-machine-learning-platforms/967250/?amp"
 type: article
-quality: 21
-heat: 21
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnasia.com/media2/1822606/Subex_Logo.jpg?p=medium600"
+  - url: "https://static.theprint.in/wp-content/uploads/2022/05/Subex_may2320222022052303410120220523052126.jpg"
     width: 600
-    height: 400
+    height: 450
     isCached: true
 
-secured: "eDTdGB+wFZC+2p+YveMOOnFybnO6rmPVdexVUiooaggdxq2HBAKjFwX0DkrPLVcJ+fsThzdf89aF7JvJiRXW4JiN6zVsApud15ADyIzrf1qkDy1/7phQSSJelnqz7fNONa8ZeH3yrLXcGtRrQhiGjYpWPNs5+/gPx5tFlKMuDHsk6+d9jFHr1tPeAhp/JhTRniy0i4cg02EYgzYPupVW/f0MzeTwZbdBaPmbRMYi3dWjXmLUb+LBmcZjx5HKMju6RKlhubVIbMeqhfKqPWF/k0p05CC7y4ghLFhWHiRpe9gooF1oNpqqqyINQBOwibfAsfjuJ4PSExDnXT3sZAU4FeoM3mVJYCHga/QQdoWM+u4=;upxVA7ia1eNTSFSy3Ji6kg=="
+related:
+  - title: "HyperSense named in 2022 GartnerÂ® Market Guide for Multipersona Data Science and Machine Learning Platforms"
+    excerpt: "According to this Market Guide for Multipersona Data Science and Machine Learning Platforms, \"Data science and machine learning are evolving rapidly with key trends such as augmen"
+    publishedDateTime: 2022-05-23T04:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255494&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/1822606/Subex_Logo.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "HyperSense named in 2022 Gartnerreg; Market Guide for Multipersona Data Science and Machine Learning Platforms"
+    excerpt: "Subex a pioneer in the space of Digital Trust has been named in 2022 GartnerampregAccording to this Market Guide for Multipersona Data Science and Machine Lear"
+    publishedDateTime: 2022-05-23T05:49:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272561138/hypersense-named-in-2022-gartnerreg-market-guide-for-multipersona-data-science-and-machine-learning-platforms"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
+secured: "8al2B/mP9+E7qtmXChOr/RLQmNyZ0OknNP/X8S9qAmF10x0iClnIbSJDBsIy6iO22Bff2DlOb2x/3tjgocut9YZ1R9umsIw6RG8nEmWjLLVaqjhF4hRdjap0sTCltaf9XLuqUlZFkxDe3NV9ZETgvJOi2X9D2cEKszZNzQhDF03zPfIAC54Ar2xe38T/hlLdttvZPfaSw/uue++VvSXv6CSvWu7BMIVGb1IzwTfRGvl+HwK75/9b1NcG4+Ka30SFdf4NLsLVhNqi8YZ13/MEtbaYzNZqtAMF4jrO9U1EKeaLc/F1jEoe0qEnBACri338tyHoMoJIdQYD39xDE2hN+Mm9LqEnBavs4nV6VANRBSM=;nhQ2TzFchdA1vng041MNJA=="
 ---
 

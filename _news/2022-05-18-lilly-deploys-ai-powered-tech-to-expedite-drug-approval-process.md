@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Deep-learning AI algorithm accurately predicts severe aortic stenosis"
-    excerpt: "A machine learning algorithm detected severe aortic stenosis using audio files from a set of patients with accuracy similar to board-certified cardiologists, according to findings from a proof-of-concept study."
-    publishedDateTime: 2022-05-18T12:05:00Z
-    webUrl: "https://www.healio.com/news/cardiology/20220517/deeplearning-ai-algorithm-accurately-predicts-severe-aortic-stenosis"
-    type: article
-    provider:
-      name: Healio
-      domain: healio.com
-    quality: 41
-    images:
-      - url: "https://www.healio.com/~/media/slack-news/cardiology/misc/infographics/2022/05_may/ct0522voigt_17_graphic_01_web.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "1O8p6y8aHhlxS6efgOo1Hui18fK7vN0FzCsCaC0kxLc743niGYu5NPm6ApUzLn2IC+ZrKiDDRQGvuOM9IhkCiuKDOAuMfuHkMoUSltiFvXqmhB/qpsG2WORQA1gmT9MC3KUmPhVoLHVP75ZJ01u+Lcs5i9g47eNzE2raa7U9ApNe1JOV0Nd5g3azqxthGff9I20gea/i3Bpur169CR5a/oln8GgQ8exKzRjofL21s4xJLZWJwb9kPCSFHRKSwMIBEgN0bEwQw2tiQ42K7+b2Fm779k0LDyWWkcH+MBUg/wY/AeMzZro6u/Ly2gsVPFzLZG3Zyr6zILO/pF+EvQ7tjeohgzFxXoBcoGduYBavggQ+nxp8YCUXBC6uBaPHt1n9uhoY/LTTUFCWdGgQZCYVz3g5TzOF+FAdRAg2tanyyIFR+oEPgH7CYa73Z10IRpYGbtaAcwar39qwQal1g3ADESpOYw5rLLzacQkYwceBAkHqvWit749i+c33Yc2LyuoTHisqe9SNpFVhWcl4Y7f4BA==;8/DYrjb/o7FIEvvoOlDyoA=="
 ---

@@ -54,15 +54,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Temenos delivers digital banking solutions on AWS"
-    excerpt: "Temenos and Amazon Web Services have extended their global relationship to run Temenos onboarding and origination solutions on"
-    publishedDateTime: 2022-05-18T12:14:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/temenos-delivers-digital-banking-solutions-on-aws/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
 
 secured: "PE1M31r0pX5Skj9Pmmd042uQLKQXl6XQwCg6RRNfkm3Xrb3/1hOSMVlcdJWIkE1knar4fWF+fYTtoabM9JaLW9dO/pGOaK/19sp5kTYwdqoAl4HHvb2Ej5ogOvZ785AnrG05D3zaJJCXw3prFEmFExCxAXWGIydABVCV5Spon93dKBCiTdMR7/WobfCkGPG96/lk9J6FrbZk36EEosHaTp+5GjxUlc2F7WuBShA77E4D+ZcNlgSuW1GjFt8FDqf/gIARw5gaokeD0l5HcYyS77RUwFt25FP7yh2Io0taShUbAhaHzRJ+PI8HAM333N3X+DQuIJxY+u6dGylCdEX3Gzb9h+xRLt2qAKg2+kdJBh0=;713NlhZX1WuejJeWmgPu/Q=="
 ---

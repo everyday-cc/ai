@@ -26,6 +26,22 @@ images:
     height: 350
     isCached: true
 
-secured: "yWZLYPpSRfBNS4Hx8WEkEUSD7EFxSdshR6Bxk23T0Qd1dtdH2ObbXg4jxF/heLdTwTkSUgEGYT4+Va6blWJBRzaBKwWc7JM4WcP3Z9r6nxlrOPo3002ENm5EtGxUUkGJJkpeDiu75yYJqUKhGI8C1EsD7q5qikKBcwauB3mTlxNZrql6QHV7MWl9KjA1X6zv3AkWtlZF/3EAg/+bF/2kh1jUZai1nyZFP6YwPwmAMjse01gM67LoyGVcxaxSw2wZUnIBwcv1p70faNBFdXkBVtiwLEpcRUcbO+uA3jSaJo4Q4ihPkax8ohPLhwh2XJWWhb1yJv8eqEG7gRkoS4l6A8V/qsZC+3WhL/5blRvGRZU=;OsrCW8cGZ8UUTgMx0KJCcw=="
+related:
+  - title: "Government launches £40m competition to jump-start self-driving buses and delivery vans"
+    excerpt: "Ministers are accelerating the introduction of self-driving buses, shuttles and delivery vans onto British roads with a £40m fund that could help create thousands of jobs.   A new government competition is trying to harness the economic potential of autonomous vehicles,"
+    publishedDateTime: 2022-05-23T05:00:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2022/05/23/government-launches-40m-competition-jump-start-self-driving/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 16
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/business/2018/07/20/TELEMMGLPICT000125144398_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
+
+secured: "9qhhzpe8O7d1IIgjmxt5FkPHbDA4m7ZRTvA1jR0bN3nD+nbwuPAGUWOcXD2nvD+gXF0Uo9b3/fmLsyTzaK97L9c7vvvgtp992s8M5LNYo2p0XGOHdUMBEW2XkA8ZMADyv9cZV7heRiTyDo7G3EpjSchZbpjbK0UIbnX/yTWvI5SciAuGJQiTV2y70NAtMf/cO8pIGV+6J0/VkvlbgrLLSuXqwjv4nfsAO0zYK0X+dQCfI+/Hu7bQtQVF/+HPHCj5E6l/GtXmj6iGPIcg7D8HFZIatIZB4apHRU2ZYCLhstHFKIaHvkyKclEriCcLdE/EQTIvtpcrqbM0YatIPac88SFvYYCSXcPbatj7iCNgcHCp+0W6yq36VXf8SA4xmi7tVMArZwnQxFI0SZ41vD2FZvnMb73WMsNcvz3GGfUnhON5C1bUKcUi376zAC8VMht6i9Gh7CpbSpwN0zaXfM1p183rbBvdFWuO+tikcPDkbjyVwtCLBzVQntPUNjHAyyFjzltHcSQ/eF8wZvXcN8al4Q==;0fUlG0aMnYzXkNLBZR9BkQ=="
 ---
 

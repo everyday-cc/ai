@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk says Tesla will have self-driving cars without the need for human drivers this time next year"
+    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
+    publishedDateTime: 2022-05-22T18:04:00Z
+    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
+    ampWebUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 73
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk Explores The Limits Of Tesla’s ‘Self-Driving’ Technology"
     excerpt: "“Crash Course” includes interviews with various regulators as well as former Tesla employees, such as software engineer Raven Jiang, who make the points that self-driving technology was seen ..."
     publishedDateTime: 2022-05-22T22:29:00Z

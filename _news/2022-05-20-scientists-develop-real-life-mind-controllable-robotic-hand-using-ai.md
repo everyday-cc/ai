@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/ai-powered-prosthetic-arm"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-powered-prosthetic-arm"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Technology allows amputees to control a robotic arm with their mind"
-    excerpt: "University of Minnesota Twin Cities researchers have developed a more accurate, less invasive technology that allows amputees to move a robotic arm using their brain signals instead of their muscles."
-    publishedDateTime: 2022-05-18T12:13:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-technology-amputees-robotic-arm-mind.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 19
 
 secured: "WDLC5HreE9lSDFyQznf4hXKMYXuaCc+S0C7YqOBuJhf04zOJWoMCFmQd9iR2foR3+AYdBCEw9voQmmGbLf6+BiKKo+re4sZIvNXNwcbWI72PpzvKQLLD+KyrToNxc3vAiJjERI8omypONjNMEETQTEP2Kdnn4Nt4PYaxzUdXzPnKMYDPOrrsGehWvR9sDlpX1cke1nYauCoMtHVQnfhMq5d9AuwrrypXk//ux2b0f+YfsLuuTF8oBdoJDjkUWg6Ku+4xwTb3FiFQ5jgfscaCt3RW/P+mTwXeCct5gHzG9nzM65wKwuP+AsrYsjNf5G2TNpzlBAog3hgidzokWii8OTPVbOdUcvF9bHcvm8B5wyPvPR62wvnyRsb653qJkKvxvAmLrGnJ4Qg2V3yEwJGqnhCyW6Mzw2gN4UBUO1Cmkqy29w7FJjsw4+xxcggDu63JQ6aZ0dXaX8V48bwTLDe6DOH+nT9v6nl+hLHCaqcLNNZIMpf5PEU1CNpRp7/ORzTEdTUbeJ2gW5dtELzkPWtvKQ==;B01hqze3U22P2SyKazVy/A=="
 ---

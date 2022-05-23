@@ -21,6 +21,31 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "5 successful ways to use artificial intelligence to improve your business processes"
+    excerpt: "Artificial intelligence (AI) is having its moment these days. No wonder it starts being used for business purposes. The companies like Google, Microsoft, and Salesforce are integrating Artificial Intelligence solutions as"
+    publishedDateTime: 2022-05-22T14:54:00Z
+    webUrl: "https://www.fingerlakes1.com/2022/05/22/5-successful-ways-to-use-artificial-intelligence-to-improve-your-business-processes/"
+    type: article
+    provider:
+      name: FingerLakes1
+      domain: fingerlakes1.com
+    quality: 33
+    images:
+      - url: "https://www.fingerlakes1.com/wp-content/uploads/2022/05/AI.png"
+        width: 661
+        height: 545
+        isCached: true
+  - title: "National Grid to test assessment data automation with drones and AI"
+    excerpt: "NGET is launching a system trial that seeks to fully automate the capture and processing of corrosion-related condition assessment data."
+    publishedDateTime: 2022-05-18T14:36:00Z
+    webUrl: "https://www.power-grid.com/td/national-grid-to-test-assessment-data-automation-with-drones-and-ai/"
+    type: article
+    provider:
+      name: power-grid
+      domain: power-grid.com
+    quality: 17
+
 secured: "k6Wz3Jt3rJ/4C8yIatquHi6OMWYV5M3IcRC3CYdQDfSE5NbV7QcgqzM02U96RpNG+8SsDmeEkQxTG6afIvlGTYcp1o6mVpeUVVgkxRg8vbciVMLwl7bgW+NFMQmhGktTyjfLZRDPtYpJE6fqxlKslCrOVrpZ2UBpLMskzx5w9bi+ZF6OL9t+KFyQoVOIjMcAXOnsGvvU92TIzHqIM+ILjvRMK/PzDkFfG2Zm2ApeZv7EFVM19KaqOXkGT39K9gB9WJUfC21I8Xa5lxw8VvGdWaEoP5eRAMD8g3nM9CcI73S4WZ933Tb2YzmKBMEj26kgATs8tD5KCTkU4WUCNTys7p7Z8O4AlFn0x1kumfeGJ3dAvDbGQsUU0jYx8J7zKpY5hfa1Rr0CgIdwVvOMLY3eIMv54s58+8scRk+kGQ2016J+RDTQUg0GQPjyLTkF5LCZscF7leBgovcH+rfKuf4ILyfKscw949abTB1fEnZesYYIWB0r7iSIIPAwA4AI/zPiT1SW1L/wyVZTPLb1egSq+A==;2R8AUU1FtbK8uHUPz2HifA=="
 ---
 

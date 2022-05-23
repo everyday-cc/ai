@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Deep-learning AI algorithm accurately predicts severe aortic stenosis"
-    excerpt: "A machine learning algorithm detected severe aortic stenosis using audio files from a set of patients with accuracy similar to board-certified cardiologists, according to findings from a proof-of-concept study."
-    publishedDateTime: 2022-05-18T12:05:00Z
-    webUrl: "https://www.healio.com/news/cardiology/20220517/deeplearning-ai-algorithm-accurately-predicts-severe-aortic-stenosis"
-    type: article
-    provider:
-      name: Healio
-      domain: healio.com
-    quality: 41
-    images:
-      - url: "https://www.healio.com/~/media/slack-news/cardiology/misc/infographics/2022/05_may/ct0522voigt_17_graphic_01_web.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Lilly deploys AI-powered tech to expedite drug approval process"
     excerpt: "The pharmaceutical company is partnering with Yseop to install the software company’s Augmented Analyst, designed to elevate and accelerate data analysis."
     publishedDateTime: 2022-05-18T14:17:00Z

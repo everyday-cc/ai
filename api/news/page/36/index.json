@@ -2,6 +2,57 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-04-19-instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis.md",
+      "title": "Instreamatic launches voice AI for real-time customer sentiment analysis",
+      "excerpt": "Using Instreamatic's voice AI, Speaky analyzes in real time the ideas, advice and suggestions that customers communicate verbally.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/",
+      "originalUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1283399887-e1650300137284.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/",
+      "publishedDateTime": "2022-04-18T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-sas-data-ethics-head-named-to-national-ai-advisory-committee.md",
       "title": "SAS data ethics head named to National AI Advisory Committee'",
       "excerpt": "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data ...",
@@ -1134,50 +1185,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials.md",
-      "title": "Machine learning and AI is coming for corrupt officials",
-      "excerpt": "Mark Heywood correctly asserted in the Daily Maverick that unless we introduce the certainty of punishment for corrupt public officials, we will lose the fight against corruption .  The July looting and riots taught us that these events affect our daily lives.",
-      "sourceUrl": null,
-      "webUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/",
-      "originalUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.mg.co.za/wp-media/2022/04/bd15270f-gettyimages-1283484229-scaled.jpg",
-          "width": 2560,
-          "height": 1709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp",
-      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp",
-      "publishedDateTime": "2022-04-17T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mg.co.za",
-        "domain": "mg.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

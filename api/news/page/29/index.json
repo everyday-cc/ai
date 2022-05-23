@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-04-25-ai-increasing-transparency-in-used-car-sales.md",
+      "title": "AI increasing transparency in used car sales",
+      "excerpt": "Jim O’Brien, general manager, Americas at RAVIN.AI, discusses how AI can be used as a tool to increase transparency in used car sales",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/ai-increasing-transparency-in-used-car-sales-123499239/",
+      "originalUrl": "https://www.information-age.com/ai-increasing-transparency-in-used-car-sales-123499239/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/04/how-the-online-safety-bill-can-make-internet-safer-for-all-512x220.jpeg.optimal.jpeg",
+          "width": 512,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-computer-vision-in-healthcare-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis.md",
       "title": "Computer Vision in Healthcare Market Research Report 2022 – Industry Environment, Supply Side and Demand Side Analysis",
       "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
@@ -1108,57 +1151,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-conversational-ai-tools-should-unify-calling-messaging-analytics-and-more.md",
-      "title": "Conversational AI tools should unify calling, messaging, analytics and more",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! LivePerson,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/",
-      "originalUrl": "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/chatbots_phone.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/",
-      "publishedDateTime": "2022-04-22T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

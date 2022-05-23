@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-23-the-rise-of-ai-chips.md",
+      "title": "The rise of AI chips",
+      "excerpt": "What are the different ways in which AI chips are being used in various sectors? What are the recent innovations in the industry?",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/incoming/mulfl7/article65446708.ece/alternates/LANDSCAPE_615/iStock-1034901762.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece/amp/",
+      "publishedDateTime": "2022-05-22T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-21-microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.md",
       "title": "Microsoft Edge taps AI to make grainy images look nice and crisp in your browser",
       "excerpt": "TopazLabs’ Gigapixel AI is a dedicated, paid tool to do the same ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite.",
@@ -63,7 +106,7 @@
       "originalUrl": "https://interestingengineering.com/ai-powered-prosthetic-arm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1343,50 +1386,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-nvidia-burns-55-million-settling-with-sec-on-gpu-sales-to-crypto-miners.md",
-      "title": "Nvidia burns $5.5 million settling with SEC on GPU sales to crypto miners",
-      "excerpt": "We all had a bad time waiting out the graphics card shortage that took place from late 2020 up until recently, but it wasn’t the first time crypto mining was to blame for a lack of Nvidia and AMD GPUs. Back in 2017 and 2018 there was another similar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
-      "originalUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/05/nvidia-crypto-money-sec-settlement-mining-gpu-graphics-cards-gaming-availability.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
-      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
-      "publishedDateTime": "2022-05-06T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pcinvasion.com",
-        "domain": "pcinvasion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -18,31 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "How AI is transforming remote cardiac care for patients"
-    excerpt: "The average heart beats about 1.5 million times over two weeks, and physicians might have to identify a six-second time period, which can determine a clinical outcome. Finding what’s clinically meaningful can be a needle in the haystack type of problem,"
-    publishedDateTime: 2022-05-18T23:19:00Z
-    webUrl: "https://medcitynews.com/2022/05/how-ai-is-transforming-remote-cardiac-care-for-patients/"
+  - title: "The rise of AI chips"
+    excerpt: "What are the different ways in which AI chips are being used in various sectors? What are the recent innovations in the industry?"
+    publishedDateTime: 2022-05-23T05:00:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
     images:
-      - url: "https://medcitynews.com/uploads/2022/04/image0011-300x268.png"
-        width: 300
-        height: 268
+      - url: "https://www.thehindu.com/incoming/mulfl7/article65446708.ece/alternates/LANDSCAPE_615/iStock-1034901762.jpg"
+        width: 615
+        height: 383
         isCached: true
-  - title: "Transforming Government Services with Artificial Intelligence"
-    excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
-    publishedDateTime: 2022-05-19T18:36:00Z
-    webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
-    ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+  - title: "How to use responsible AI to manage risk"
+    excerpt: "A key motivation for responsible AI endeavors is resolving uncertainty about who is accountable if something goes wrong."
+    publishedDateTime: 2022-05-18T13:30:00Z
+    webUrl: "https://venturebeat.com/2022/05/18/how-to-use-responsible-ai-to-manage-risk/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "CJDL356sI0zPmoVFxmE/1y1pEmdq/PNo7uvrucflQrDCzVEU0W+Fv/V0AXoA21g4iylvBWi7YCKH0gjB+uCRfbx8wex7m81IsQbKVgHgYGIhWMzlylGkRvLA8DYGXvJrGC/WkQGRwJAphxXJM6BoF7JaamrFASV5cdmBhiSevzHl8izkGC4BkAtSILru4auuPpSdJJpiHJOY1pWN+PRewxnYjxqD+Ri79zQbZ5brqXO3wnm/ZR77sVvRJ+CDBL6By+7BujuVRrTKpnK8K2s1Gey01pZUY8mjKU/trH/IVB3LVaNM4WxK2rTEojyxd/7mfLQJ7fBpPIDBTFMm4KCfnaP/5Q5pgIrv1Kc+sOwFGUL4EU6PHkrz5omSbQrbeEeJKw4uemr2NnbEo9OUl0I75xTlnKr0YZ7UK6pdXP+jN3tknBqbrUCreyQTWtQkSIgKJYhBF5NGp94M+nbstosImIzBsG/hNW4Gh1srtWKK5oHufZNb/JrlB8Znhhws7giGv63UWFetM/quqvBMQDBIMQ==;kkn2OhipwcR1e7SRftgdSw=="
 ---

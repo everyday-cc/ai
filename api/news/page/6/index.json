@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-14-lawyer-says-georgia-man-set-for-execution-should-be-spared.md",
+      "title": "Lawyer says Georgia man set for execution should be spared",
+      "excerpt": "ATLANTA (AP) — The life of a Georgia man set to be executed Tuesday for killing an 8-year-old girl should be spared, his lawyer argues, explaining that her client has significant cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations.md",
       "title": "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations",
       "excerpt": "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ...",
@@ -1174,60 +1208,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract.md",
-      "title": "Moderate, classify, and process documents using Amazon Rekognition and Amazon Textract",
-      "excerpt": "Many companies are overwhelmed by the abundant volume of documents they have to process, organize, and classify to serve their customers better. Examples of such can be loan applications, tax filing, and billing. Such documents are more commonly received in image formats and are mostly multi-paged and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/04/ML4749_InferencePipeline-776x630.png",
-          "width": 776,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T10:38:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

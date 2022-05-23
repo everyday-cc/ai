@@ -10,7 +10,7 @@
       "originalUrl": "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -362,6 +362,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-19-soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics.md",
+      "title": "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics",
+      "excerpt": "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the Consumer Goods, E-Commerce, and Logistics industries.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg",
+          "width": 400,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-oxy-ceo-if-youre-not-using-ai-youre-missing-an-opportunity.md",
       "title": "Oxy CEO: \"If you're not using AI you're missing an opportunity\"",
       "excerpt": "CEO Vicki Hollub tells how AI is growing the oil company's business",
@@ -673,7 +725,7 @@
       "originalUrl": "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -777,7 +829,7 @@
       "originalUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -882,7 +934,7 @@
       "originalUrl": "https://herald-review.com/ap/lifestyles/ford-backed-argo-ai-startup-launches-driverless-car-testing/article_b3a7381c-c52a-55ca-9f1c-e89bb1dad89a.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1066,7 +1118,7 @@
       "originalUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1170,7 +1222,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027-2022-05-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 276,
       "tags": null,
       "images": [
         {
@@ -1209,49 +1261,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-mastercard-tests-new-facial-recognition-pay-app.md",
-      "title": "Mastercard Tests New Facial Recognition Pay App",
-      "excerpt": "The Payface App will allow consumers to pay for goods using the same facial recognition technology that unlocks smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/",
-      "originalUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/15E/02C/15E02C3C687F437AD3EA9F9598C262B9.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=cxjQk4hNs4y9rOEBkus3oRXCbIM",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp",
-      "cdnAmpWebUrl": "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp",
-      "publishedDateTime": "2022-05-18T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

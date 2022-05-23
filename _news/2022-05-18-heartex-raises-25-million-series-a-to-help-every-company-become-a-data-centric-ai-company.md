@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/heartex-raises-25-
 webUrl: "https://markets.businessinsider.com/news/stocks/heartex-raises-25-million-series-a-to-help-every-company-become-a-data-centric-ai-company-1031472335"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,15 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "Heartex raises $25M for its AI-focused, open source data labeling platform"
-    excerpt: "Heartex, a data labeling firm, has raised $25 million in a venture funding round, bringing its total raised to $30 million."
-    publishedDateTime: 2022-05-18T13:03:00Z
-    webUrl: "https://techcrunch.com/2022/05/18/2314708/"
+  - title: "Modulos Launches a Data-Centric AI Platform That Simplifies the Development of Trustworthy AI Applications"
+    excerpt: "Data-centric AI software company Modulos AG today announced the availability of its revolutionary data-centric AI platform. The platform enables companies to identify flaws in their data in a fraction of the time required by conventional data cleaning methods."
+    publishedDateTime: 2022-05-19T13:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-b3d97c505b494a8a62ed7a259a53427a"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 45
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "aztGLLD8T0gHYVh93kO/y7jcy+o9HLP+MIUvf1NryQQJMt/znkfyW7UsgqkO5Ku/Qi5ast/P7xjBlkU9+XZeDKPZnDA6SX0noMPDQ+TP6ML0RFf3d5FUcMo0CC/84ZXIrldTxjepxFbnAOFrVdjnXdGmquzfdvoTWAq5kORCyFp1d4rXU4SjUhGGYB5DyKUsk9lHKqmS/nqmutnDXuRlbM4M1g3ZE9sqykkbKll4YYkv09RAQO3ogGzc4LRhVj5vVF2x94MP0sM7jxPODNIPkzuT6dUyLOzpJ/YjwznWM3Gw0FlTeTkJtQZxmSa/WsjYP8SH/N3c/zaZUTmatD5JOXgEmGfiE8EIT9cznOF0biYA5KdoKVBrpg7M9GUXIVEJqo1xEWBbC4oLUkor7XMWH0156dj8Sn8+nW73BuxZUFfbW5QkRSeaWjNIfO6bjxlhXVKAWwoR+kqcd8K6piZzaOVlrX+529z81eFe0uDWZuKMNaGPeKZ+Fqwrpv0EdkuQ+MT9XK0OAy/QeFDRvfTJ2w==;YyuLqYaqFAaFAgtMy2h4iw=="
 ---

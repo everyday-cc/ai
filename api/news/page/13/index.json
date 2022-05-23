@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-05-09-17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch.md",
+      "title": "17-year-old student invents low-cost prosthetic arm that can be controlled with the mind [WATCH]",
+      "excerpt": "The high-schooler used his sister's S$75 printer and some fishing line to print the arm in small pieces. After that, he bolted and branded each part together. To make the arm strong and durable, he had to run 75 iterations of the design. In the end, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091",
+      "originalUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-91434091,imgsize-100,width-1280,height-720,resizemode-75/91434091.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091/amp",
+      "publishedDateTime": "2022-05-09T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-report-intels-looking-to-sell-computer-vision-software.md",
       "title": "Report: Intel's Looking to Sell Computer Vision Software",
       "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
@@ -1159,49 +1202,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-loen-lensless-opto-electronic-neural-network-empowered-machine-vision.md",
-      "title": "LOEN: Lensless opto-electronic neural network empowered machine vision",
-      "excerpt": "has generated the rapid development of deep learning based on convolutional neural networks (CNN), leading to effective solutions for a variety of issues in artificial intelligence applications.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.html",
-      "originalUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/loen-lensless-opto-ele.jpg",
-          "width": 2027,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.amp",
-      "publishedDateTime": "2022-05-06T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

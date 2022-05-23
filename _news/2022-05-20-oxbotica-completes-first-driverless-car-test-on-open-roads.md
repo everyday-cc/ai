@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Oxbotica completes first driverless car test on open roads"
-excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
-publishedDateTime: 2022-05-19T23:17:00Z
-originalUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
-webUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
+excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. Investment Minister Lord Grimstone ..."
+publishedDateTime: 2022-05-19T23:41:00Z
+originalUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
+webUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Shropshire Star
-  domain: shropshirestar.com
+  name: AOL.co.uk
+  domain: aol.co.uk
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.shropshirestar.com/resizer/PAsXFLOw9WrxrGRAZYfim27mu6A=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/3AYSWITJCRD35A7LRP6UIGV2XE.jpg"
-    width: 1200
-    height: 900
-    isCached: true
 
 related:
   - title: "Ford-backed Argo AI startup launches driverless-car testing"
@@ -53,15 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ford and VW-backed Argo AI launches fully driverless car service in Miami and Austin"
-    excerpt: "Argo AI is giving some of its autonomous car backup drivers a break. The Ford and VW-backed self-driving car technology company has launched fully driverless ride-hailing services in Austin and Miami. Argo AI has been testing the service with human safety ..."
-    publishedDateTime: 2022-05-18T12:02:00Z
-    webUrl: "https://www.foxbusiness.com/lifestyle/ford-vw-argo-ai-driverless-car-service-miami-austin"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 27
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
     publishedDateTime: 2022-05-19T07:06:00Z
@@ -90,6 +75,6 @@ related:
       domain: webindia123.com
     quality: 16
 
-secured: "zszMzysGrmhCUx1Y3+6Xo7ETL5PRkF38jVcQzXZSEspE1Wf8WtzKGYLotB8DUm1StZuYLw1U5ZoczI/qGtfXYTqnxqLm2ouFeppMzkgSyZPfS1P9+3fSQJOZMVaBI7F0khFwNIP7Q0OTp2jXad7/ol4iIvFlJI5BjjJkRThBrEdwG6XVvjPiWv/JfEt0hgeSLr8PkBarqA7DEc9XMFlc7Mi/CRg6EJ2gyrFTfjTcZAuG/jrqHDSi59D8T1gM1JCCUc3wDAKVAqCsLsraKSg11TNeVosJRXOKZ16hDetQMJF5wvkyttlxMOg4Wvr7ZrnuODKF+TVvdZ1hD3voL+2Jrf/p+fTdkex1xztoJIS7Zsg=;Mm4JFyx5WbMls52c9beh2g=="
+secured: "nLulL/BVE7Q+WcTbmmEd+ahwLWXOwhWP08rQ+WASzCqWovUk4rvy4I1YbBxbGrX5Z2rhHcborVq9TcTJFShIHLXijlROFr1bmtCGo3YKLoZfB4Q/BkzeAB4xFSvEBiwdH/FZwALp+14PaTaNcDxTKjYyNfyrOcWk2ARvtQTAKjk3O0nFS9sdS3/sQfhtBa9iuHv42444i214dktLzu0j+/iotadaEu3IzKSn7M04bWNSXKMumAininUKm83G37+AlJsfQeSPESDZvy6/KZsOsts4NjfhAuyFIw+qC0CuE6YsR189cOUl3wELRTBGoT71bWGO4F81bKSQB7HeXUyS8yQcS3PSlfd1ChGQzUAwudc=;gvsyshIdwwyv2Z7Na/doUA=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-05-03-empowerly-launches-artificial-intelligence-scholar-program-for-junior-high-and-high-school-students.md",
+      "title": "Empowerly Launches Artificial Intelligence Scholar Program for Junior High and High School Students",
+      "excerpt": "Students can choose from a variety of research tracks, including healthcare and biology ... https://www.prnewswire.com/news-releases/empowerly-launches-artificial-intelligence-scholar-program-for-junior-high-and-high-school-students-301538404.html SOURCE ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/college-admissions-technology-education-artificial-intelligence-9fb2188997d5cb7cae2de5728cc39a1e",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/college-admissions-technology-education-artificial-intelligence-9fb2188997d5cb7cae2de5728cc39a1e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-elon-musk-boasts-teslas-optimus-robots-will-have-full-artificial-intelligence.md",
       "title": "Elon Musk boasts Tesla's 'Optimus' robots will have full artificial intelligence",
       "excerpt": "But according to Tesla boss Elon Musk, his humanoid robot, Optimus, is coming soon – and it might also contain the first true Artificial Intelligence. “Tesla AI might play a role in AGI,” the multi-billionaire tweeted, “given that it trains against ...",
@@ -1107,58 +1150,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-dall-e-2-shows-the-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices.md",
-      "title": "DALL-E 2 shows the power of generative deep learning, but raises dispute over AI practices",
-      "excerpt": "DALL-E 2 builds on the success of its predecessor DALL-E and improves the quality and resolution of the output images thanks to advanced deep learning techniques. The announcement of DALL-E 2 was ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
-      "originalUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-84-2.jpg&signature=3681cc767a6d909013fa0af8c6b3a6e3",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
-      "publishedDateTime": "2022-05-02T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
