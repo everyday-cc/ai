@@ -24,52 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Blockchain AI Market 2022 | Scope of Current and Future Industry 2032"
-    excerpt: "The global blockchain AI market is expected to secure US$ 2.8 Billion while exhibiting a 22.9% growth rate during the forecast period. The market is"
-    publishedDateTime: 2022-05-19T04:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-2022-scope-of-current-and-future-industry-2032"
+  - title: "Edge Artificial Intelligence (AI) Software Market Analysis Worth USD 2,519.3 Million In 2028 | Emergen Research"
+    excerpt: "Edge Artificial Intelligence (AI) Software Market Trends – Rising need for real-time operations Increasing art of AI applications and rapid introduction of 5G network are key factors driving ..."
+    publishedDateTime: 2022-05-19T17:21:00Z
+    webUrl: "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/d181e036e94ce0417b390ce7bc1e6c035f16169d-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145472"
+        width: 375
+        height: 249
         isCached: true
-  - title: "Blockchain AI Market: Key Players Change the View of the Global Face of Industry By 2030"
-    excerpt: "The rise in demand for the amalgamation of blockchain and AI in making an efficient software solution, monetization of data using blockchain technology"
-    publishedDateTime: 2022-05-20T03:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-key-players-change-the-view-of-the-global-face-of-industry-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/393913cdf506e6a535563a5c8f38b15fbfae676d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "A New Cyber-Alliance of Artificial Intelligence, Internet of Things, Blockchain, and Edge Computing"
-    excerpt: "The world is witnessing an accelerated large-scale technology adoption with transformative effects on day-to-day operations, with many industries now depending on machine-controlled processes. These technologies include blockchain,"
-    publishedDateTime: 2022-05-21T15:56:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9773125/"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 18
-  - title: "Blockchain AI Market 2022 Expectations & Growth Trends Highlighted Until 2032"
-    excerpt: "The global blockchain AI market is expected to reach US$ 2.8 billion during the forecast period, rising at a CAGR of 22.9 percent. The market is anticipated to be worth USD 285.7 million in 2021, rising to USD 358 million in 2022."
-    publishedDateTime: 2022-05-20T11:38:00Z
-    webUrl: "https://techbullion.com/blockchain-ai-market-2022-expectations-growth-trends-highlighted-until-2032-2/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 14
 
 secured: "t3VohsR75sjRLv8GlOd3FM7GB+wfcFe7iHMQwfHJzrb6C5u59Lk06GYVqZdita3e2nLV5NsVxDDHnCu0ItWvHcbvbgEoj6KZATXKWW3nbDuh3De+6BPXRx7+FshWPGz8IBu9Ug3jLmjp/y8QBzvD/H76ZMYOboq4BFrp5V0VxovVMSaSyEgosO92L8ddK3IDx8QzQ1yhIAhOO6sp/m5qrQoeM3cXVRJXInoZ95aL7pqL5aHxDq8jmzLD6cdl+RelW7lyIDdb9AiyVv+IcUL83I7rBnq+W5BJAO/Kn4lWMwd+Yyxbd+V2/YamiTeR5BlvSVjxbkSYynbEZuHGW8LZ1xhKTHVTBUd9tm9E/BLYvCo=;0nG+0XiUF9v11D4SOOJBYA=="
 ---

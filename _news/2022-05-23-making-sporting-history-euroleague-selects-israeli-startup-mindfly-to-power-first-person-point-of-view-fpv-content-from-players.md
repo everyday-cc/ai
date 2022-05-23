@@ -23,6 +23,17 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "Making sporting history: EuroLeague selects Israeli startup MindFly to power First-Person Point of View (FPV) content from players"
+    excerpt: "He also co-founded Mobixell and served as its CTO, an Israeli startup which was sold to Flash Networks. MindFly uses AI powered bodycams and an AI cloud platform to provide a seamless, automated, end to end solution, from recording, through processing and ..."
+    publishedDateTime: 2022-05-23T17:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27343183/making-sporting-history-euroleague-selects-israeli-startup-mindfly-to-power-first-person-point-of-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+
 secured: "7YeV0gN0o7txgLWMkFmsqmvsERNmDiROPIvStoakRwM7+4PiN/foCwy9MCoH15dmIhDvtQ5/nBpHza2sSOvI1r6IKNuc4wcuuBh3EQBDPlaVTetl8AipRIKIYtDoA5Lm26HZJx01J/49PmYI0tdVZpOZUeB5o38llxlsK3QFzk+jjSxUprhf6gTFHTijHzmhRW+kikkjOlloqYESeRCls3JxuLTr1EXPoxq2D1uVU7+zxOl3P8F1bLa7rmFzyvceR99quxZz+sQb5sTKKEMz2uIdn9lwa+U8Dk8YTV9iqDRo+Z8/EpM0HOgmaF4JIUi6F1R3EvuEy1UyjRhy8NlXGraiI4H8AT7Tgtd6YB0WF8k=;mgLyc7NsRJy37RGW/x7yuA=="
 ---
 

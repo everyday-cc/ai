@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/new-deep-learning-technique-paves-path
 webUrl: "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots"
 type: article
 quality: 86
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Accelerating the pace of machine learning"
-    excerpt: "Machine learning happens a lot like erosion. Data is hurled at a mathematical model like grains of sand skittering across a rocky landscape. Some of those grains simply sail along with little or no impact."
-    publishedDateTime: 2022-05-19T02:09:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220518160618.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "gsWvTSEg8lXs6rxDTyaTejqtQ31fUSKl+y9P07o2wqFHNBaF601V9DlHGEMUE3QZi46HfnpvX948ReOHOARWwMooNXWEW0ng314qRRDZnaJCU9glAlDAYSLpBrHXjCattygaEWoaZIXpFWg/cYN+CFFMOsFD5BWhdN905ju6GozylaTc+X8Lx+Hab9ah2QP7fRuYIJt1HBtD2KM8bfQmUMjuIJYad0MPD3Em3fe2fFkvZ5IV+mMorMld8imgO+ZjAbmems2H9Lno9FmcZ2DzEvj14WKMqv2lHAM1ObNEjD0Zs1qfLS7/ZO47iIsHCHPBBKmEu3yJavpTTx1Ue5exKfnSM+py6DZMP3VVAopPuwv7t6V7DgwHBpY7e+zv7uxcTVHAUB5BbYLhHlTfJJNBlJHgR8dPNs/lBsR0sVFsw9HmtRCPVFqFxWQfXAIKr1tmPxJG6QkwusDfTyEUiWY5nJ8z+ZTDV1vzEaG2fEg2kCGzYf2dv17YlBdDYpfKerJndcY1CUeRgsPt5u0ilXQFZw==;kdUJ6La8WDvgPXpdyTYA2A=="
 ---

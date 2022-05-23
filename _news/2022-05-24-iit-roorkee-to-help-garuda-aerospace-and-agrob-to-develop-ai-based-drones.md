@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T19:39:00Z
 originalUrl: "https://menafn.com/1104260513/IIT-Roorkee-To-Help-Garuda-Aerospace-And-AGROB-To-Develop-AI-Based-Drones"
 webUrl: "https://menafn.com/1104260513/IIT-Roorkee-To-Help-Garuda-Aerospace-And-AGROB-To-Develop-AI-Based-Drones"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

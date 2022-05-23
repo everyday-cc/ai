@@ -39,6 +39,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Artificial intelligence innovation among military industry companies has dropped off in the last year"
+    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
+    publishedDateTime: 2022-05-23T18:04:00Z
+    webUrl: "https://www.army-technology.com/analysis/artificial-intelligence-innovation-among-military-industry-companies-has-dropped-off-in-the-last-year/"
+    type: article
+    provider:
+      name: Army Technology
+      domain: army-technology.com
+    quality: 2
 
 secured: "nHlKbIiDia3zFl4i87eCNxpAfTyGEQzTgth5K3VqrFRzGKyHUs7m+iC8/Box4OcQQxxp5k+4aCvyEP2bnGezzU/9YlfiHIoDNjs4tPUTh/KTGqcY1aU3amnlq/C9b5IkxkRza0rnXoGAChi9U+Dol4s2Qh57joeSYsvaavf+HeRKavfqrmky28IraiYD8r5bwpz2DFsV9Haca+bOAOQ1waxeT7Tma8nzDcE7Fft8gORLIkrAs3DwGPkIMJ/VEl5E4CZMLTCIAOK1Umb3pUQf3aCDkuGSZfyjp70luPHWxTxAz1eaIBOce0VdsBptuWU9MPrcYt1jzH3RZMboxjSQJsuX/fO5sx/TNduUTfudElPjzcZo6fWgVf8iN7r1hu6PJyfsPgkiRbxrjbgA1YBTFsN+cEq0O4GxGYZwKyT96Yp34lvfiLiJiFXNWnjtzPKOAcEsHrWFmRFhPossWpWko8hB4s2x9yT3ySpwJtW45a3uEFKL/2o+No7pJGQqAgzcSpnEYSxMgRE42+whbRepuw==;5Cs1nKMGPZoB+WtXSyRekg=="
 ---

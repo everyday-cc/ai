@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T18:07:00Z
 originalUrl: "https://www.unilad.co.uk/news/ais-ability-to-predict-race-from-xrays-alone-sparks-concerns-20220523"
 webUrl: "https://www.unilad.co.uk/news/ais-ability-to-predict-race-from-xrays-alone-sparks-concerns-20220523"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: UNILAD

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3178385/china-robot-un
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion"
 type: article
 quality: 101
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -45,6 +45,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Global Service Robotics Market to Reach $110.4 Billion by 2026"
+    excerpt: "While advanced technology is enabling robots to perform diverse tasks, latest concepts like biometric recognition, 5G and artificial intelligence are facilitating virtualization of service robots. Professional service robots are increasingly being ..."
+    publishedDateTime: 2022-05-23T17:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27344073/global-service-robotics-market-to-reach-110-4-billion-by-2026"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+  - title: "MassRobotics Announces Call for Nominations for The Robotics Medal Recognizing Women in Robotics"
+    excerpt: "MassRobotics, a leading robotics innovation organization, announced a call for nominations for The Robotics Medal, a new annual award presented to a female researcher for substantial achievements and contributions in the field of robotics."
+    publishedDateTime: 2022-05-23T19:08:00Z
+    webUrl: "https://www.automation.com/en-us/articles/may-2022/massrobotics-call-nominations-robotics-medal-women"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 21
   - title: "Softeon Continues to Advance Integration and Optimization of Mobile Robots, Put Walls, other Warehouse Automation"
     excerpt: "Warehouse Management and Warehouse Execution Systems Deliver Throughput, Operating Cost Reduction, and ROIRESTON, Va.--(BUSINESS WIRE)--#3PL--Softeon, a global supply chain software provider with the industry's best track record of customer success,"
     publishedDateTime: 2022-05-19T17:16:00Z

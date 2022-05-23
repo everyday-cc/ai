@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T19:34:00Z
 originalUrl: "https://www.globest.com/2022/05/23/ai-machine-learning-helps-rkw-residential-earn-perfect-mystery-shop-scores/"
 webUrl: "https://www.globest.com/2022/05/23/ai-machine-learning-helps-rkw-residential-earn-perfect-mystery-shop-scores/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: GlobeSt.com

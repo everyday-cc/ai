@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T18:19:00Z
 originalUrl: "https://venturebeat.com/2022/05/23/hitachi-energys-new-ai-solution-analyzes-trees-to-prevent-wildfires/"
 webUrl: "https://venturebeat.com/2022/05/23/hitachi-energys-new-ai-solution-analyzes-trees-to-prevent-wildfires/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

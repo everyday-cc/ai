@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-key-players
 webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-key-players-change-the-view-of-the-global-face-of-industry-by-2030"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blockchain AI Market 2022 | Scope of Current and Future Industry 2032"
-    excerpt: "The global blockchain AI market is expected to secure US$ 2.8 Billion while exhibiting a 22.9% growth rate during the forecast period. The market is"
-    publishedDateTime: 2022-05-19T04:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-2022-scope-of-current-and-future-industry-2032"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/d181e036e94ce0417b390ce7bc1e6c035f16169d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "A New Cyber-Alliance of Artificial Intelligence, Internet of Things, Blockchain, and Edge Computing"
     excerpt: "The world is witnessing an accelerated large-scale technology adoption with transformative effects on day-to-day operations, with many industries now depending on machine-controlled processes. These technologies include blockchain,"
     publishedDateTime: 2022-05-21T15:56:00Z
@@ -56,20 +42,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 14
-  - title: "Global Video Streaming Market is to Reach USD 932,000.12 Million | Blockchain Technologies and Artificial Intelligence (AI) to Increase Video Quality"
-    excerpt: "Artificial Intelligence (AI) is becoming increasingly important in editing, cinematography, voice-overs, scriptwriting, and other elements of video production and distribution. These advancements are expected to have a favourable impact on market growth."
-    publishedDateTime: 2022-05-19T10:28:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-video-streaming-market-is-to-reach-usd-932000-12-million-blockchain-technologies-and-artificial-intelligence-ai-to-increase-video-quality"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "w+bux6znBnCd+4Fce5PgRixlw+3eCtYcP8sdg6qrlscHkQdVxLukVuuxfsRKKQ+YVscXYf/abKaGjNjcV9YEdSlaXVKCFyBR2lzXq4FkLYxF3ZPikhNmm3wbPocLmQ22iClseHXgsnYXmVbdfrpWUW/TPKAwOBDjt95E0+YMqvBPzx2Yys4WFUErKx/5gS4R1Z79Z+/1ynw0KBr0CDnw5kXoi2nmCTFL+dcBshezH7GOYWABFqrzE94wgZF8+7uOOGrg9ZlCpawY8Qo0KeMbPuWpaEmlqFUfuL0Vo9iB6SfMKBV04ql8xiOS6TwClZS/g4FXJ5w0Yvx0zBbZzV8RFybGaNPbFCCt6hNEIsc3V9A=;IxMtpN0q2vtURmQ2w5SPqg=="
 ---

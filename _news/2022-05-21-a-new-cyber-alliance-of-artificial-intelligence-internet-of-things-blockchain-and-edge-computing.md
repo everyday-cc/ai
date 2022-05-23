@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Blockchain AI Market 2022 | Scope of Current and Future Industry 2032"
-    excerpt: "The global blockchain AI market is expected to secure US$ 2.8 Billion while exhibiting a 22.9% growth rate during the forecast period. The market is"
-    publishedDateTime: 2022-05-19T04:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-2022-scope-of-current-and-future-industry-2032"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/d181e036e94ce0417b390ce7bc1e6c035f16169d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Blockchain AI Market: Key Players Change the View of the Global Face of Industry By 2030"
     excerpt: "The rise in demand for the amalgamation of blockchain and AI in making an efficient software solution, monetization of data using blockchain technology"
     publishedDateTime: 2022-05-20T03:20:00Z
@@ -55,20 +41,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 14
-  - title: "Global Video Streaming Market is to Reach USD 932,000.12 Million | Blockchain Technologies and Artificial Intelligence (AI) to Increase Video Quality"
-    excerpt: "Artificial Intelligence (AI) is becoming increasingly important in editing, cinematography, voice-overs, scriptwriting, and other elements of video production and distribution. These advancements are expected to have a favourable impact on market growth."
-    publishedDateTime: 2022-05-19T10:28:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-video-streaming-market-is-to-reach-usd-932000-12-million-blockchain-technologies-and-artificial-intelligence-ai-to-increase-video-quality"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "gU4RM1fuBpp5f0/oEyYv4lSYRCheRFqONdKUcCgFBGXgoj1AUw4GOsnijHwDusJXWUFcp3lueQs1Dei+osMuUTPLkmbHTwg7xdPQqo3B2JVNscB9joB7fBhAVNDogqTY0T1Tk8PuO0zxLoifdotcNCAHhf908mNmy5gWIYdIUXyvrNJA0zyXMVb9OT++id7UkfFUTOLKKENEjoGAGKP4K3MqLlLoGWOEmfJXm+MobFnHB0lLeqidBeuVrQ5Df+P623SYiXrkjbq25eUsQ2o62obs8Oe2nSY5p4vZ4esmNl5FHGAA3UQlvJnhjS27NWTDoKez9VmhUfNgSh4OHTgOnDxZ20A8z8VjcLnx0Lyej8U=;DsBjiSGOqVHPZqbhzwItTA=="
 ---

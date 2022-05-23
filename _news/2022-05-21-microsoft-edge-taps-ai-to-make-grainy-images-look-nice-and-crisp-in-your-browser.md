@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-mak
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html/amp"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: Aviation Today
       domain: aviationtoday.com
     quality: 44
+  - title: "Microsoft believes that its new tools make language models more secure to work with"
+    excerpt: "Tools and data sets aimed to audit AI-powered content filtering systems and automatically build test cases indicating possible vulnerabilities have been released by Microsoft ahead of Build 2022. OpenAI’s GPT-3 is an example of a large language model (LLM) that can evaluate and create text with human-level complexity,"
+    publishedDateTime: 2022-05-23T20:08:00Z
+    webUrl: "https://bestgamingpro.com/microsoft-believes-that-its-new-tools-make-language-models-more-secure-to-work-with/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 35
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/05/This-Microsoft-Teams-update-could-solve-all-your-problems-but-youll-never-get-to-use-it-1.png"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Call Center AI Market Growing Massively by Artificial Solutions International AB, IBM Corporation, Microsoft Corporation"
     excerpt: "New Jersey, United States - Research Cognizance announces the release of the Call Center AI Market research report. This study is one of the most detailed"
     publishedDateTime: 2022-05-19T10:02:00Z

@@ -55,6 +55,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Global Service Robotics Market to Reach $110.4 Billion by 2026"
+    excerpt: "While advanced technology is enabling robots to perform diverse tasks, latest concepts like biometric recognition, 5G and artificial intelligence are facilitating virtualization of service robots. Professional service robots are increasingly being ..."
+    publishedDateTime: 2022-05-23T17:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27344073/global-service-robotics-market-to-reach-110-4-billion-by-2026"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+  - title: "MassRobotics Announces Call for Nominations for The Robotics Medal Recognizing Women in Robotics"
+    excerpt: "MassRobotics, a leading robotics innovation organization, announced a call for nominations for The Robotics Medal, a new annual award presented to a female researcher for substantial achievements and contributions in the field of robotics."
+    publishedDateTime: 2022-05-23T19:08:00Z
+    webUrl: "https://www.automation.com/en-us/articles/may-2022/massrobotics-call-nominations-robotics-medal-women"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 21
 
 secured: "o7w44gbT/XnLqIw/Z9kCrWyCjHjfTh3LCa/jBun2d/37DvxAXd/lZ7D/1yk3sf2UzUjgcmT1cA8ZZPMJbFL1g7l425B+yNAgDhkn4m1GXe0CYgR2ZV+x/1MSbO65/mLb9NG+esjZ2j2dUTVrxNMdQ3aU8i05tHaA8QwS9qo/FDnotlzfL5xtsJP1BAkA9JayuomDjcGsE4z99+oqQP+/shBRIJRYwlKmDG07nr4P6OT90dAe1YZl0QLfhnYIdPEDysiK6VN1zHMzaoooRu3PTtVqvKTtkKjJ8HoE5bghB1jj97fdoGH/42Xh3Kf1w8tDgYjxXexZlvMA1Q6luKzPNvuTEk0pgDew5NeUfplE8IE=;tVCMTYfIvNRRaZ7JSZrtzA=="
 ---

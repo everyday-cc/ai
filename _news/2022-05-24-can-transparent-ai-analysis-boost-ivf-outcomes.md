@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T17:59:00Z
 originalUrl: "https://www.mddionline.com/artificial-intelligence/can-transparent-ai-analysis-boost-ivf-outcomes"
 webUrl: "https://www.mddionline.com/artificial-intelligence/can-transparent-ai-analysis-boost-ivf-outcomes"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MD&M East
