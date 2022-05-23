@@ -9,8 +9,8 @@ ampWebUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-
 cdnAmpWebUrl: "https://tampa-cbslocal-com.cdn.ampproject.org/c/s/tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
 type: article
 quality: 59
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS Tampa
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla releases new Full Self-Driving Beta update and it’s a big one"
+    excerpt: "Beta software update with improvements based on over 250,000 training video clips from its fleet. Based on the release notes, it’s a big update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
+    publishedDateTime: 2022-05-19T10:13:00Z
+    webUrl: "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/"
+    ampWebUrl: "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla rival Nio plans Singapore research hub for AI, self-driving"
     excerpt: "Chinese electric vehicle maker Nio will establish a research and development center for autonomous driving and artificial intelligence in Singapore, in the Tesla rival's latest bid for digital talent."
     publishedDateTime: 2022-05-20T16:18:00Z
@@ -41,31 +57,15 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Elon Musk’s Crash Course: How to stream New York Times documentary on Tesla self-driving cars"
-    excerpt: "The special explores the crashes that took place while cars were being autopiloted, and both Musk’s fans and skeptics will want to tune in to this groundbreaking documentary about self-driving cars. The special, which runs for 1 hour and 42 minutes will ..."
-    publishedDateTime: 2022-05-20T09:02:00Z
-    webUrl: "https://www.syracuse.com/tv/2022/05/elon-musks-crash-course-how-to-stream-new-york-times-documentary-on-tesla-self-driving-cars.html"
-    ampWebUrl: "https://www.syracuse.com/tv/2022/05/elon-musks-crash-course-how-to-stream-new-york-times-documentary-on-tesla-self-driving-cars.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/tv/2022/05/elon-musks-crash-course-how-to-stream-new-york-times-documentary-on-tesla-self-driving-cars.html?outputType=amp"
+  - title: "Tesla's Latest Self-Driving Update Is A Game-Changer"
+    excerpt: "Tesla has released a big beta software update for drivers who are in its Full Self-Driving program, offering a huge list of improvements and changes."
+    publishedDateTime: 2022-05-19T19:53:00Z
+    webUrl: "https://www.slashgear.com/868855/teslas-latest-self-driving-update-is-a-game-changer/"
     type: article
     provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 48
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3MIPFA2CZFD7PGPQNAMWQDECOM.jpg"
-        width: 3624
-        height: 2416
-        isCached: true
-  - title: "Elon Musk declares Tesla Artificial Intelligence Day 2.0 on August 19"
-    excerpt: "Tesla has started to conduct regular annual events with very prominent subjects, in between the presentation in the recent past years to engage more with the world to show the progress made by the company."
-    publishedDateTime: 2022-05-18T13:32:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/elon-musk-declares-tesla-artificial-intelligence-day-2-0-on-august-19-2022-05-18-777558"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 36
+      name: SlashGear
+      domain: slashgear.com
+    quality: 49
   - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
     excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
     publishedDateTime: 2022-05-22T18:04:00Z
@@ -75,19 +75,19 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 35
-  - title: "'Elon Musk's Crash Course' explores the limits of Tesla's 'self-driving' technology"
-    excerpt: "As Elon Musk tweets his way through his pending Twitter acquisition, FX's \"The New York Times Presents\" documentary banner takes a hard look at his flagship business, Tesla, and its"
-    publishedDateTime: 2022-05-20T13:33:00Z
-    webUrl: "https://www.albanyherald.com/entertainment/elon-musks-crash-course-explores-the-limits-of-teslas-self-driving-technology/article_3caac8cb-d90e-5a26-858e-d5ccf86164d3.html"
+  - title: "Deere leads farming revolution with its fully autonomous self driving tractor out later this year"
+    excerpt: "Deere will release its first fully autonomous, self driving tractor. Deere sees autonomy as the future of farming, and it will begin with the tractor it announced"
+    publishedDateTime: 2022-05-20T03:46:00Z
+    webUrl: "https://www.kwwl.com/news/deere-leads-farming-revolution-with-its-fully-autonomous-self-driving-tractor-out-later-this-year/article_5701d1d0-d7f3-11ec-99a5-47da1f6d26b6.html"
     type: article
     provider:
-      name: Albany Herald
-      domain: albanyherald.com
-    quality: 33
+      name: KWWL
+      domain: kwwl.com
+    quality: 26
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/custom/image/01b25422-d8d8-11e6-bb31-5378351eadac.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/3/e9/3e9c46f9-3fc4-574a-964a-32ca0338bd92/62870ee366845.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "mNxVe+gsywPelrUsHmEHgml7+1hH9lbHHQqtow9pWmCcQ1ANGufw71MrdvJzPq0XomKzkuLVT0K/xF9BXXmumRA5STTP1ffeW2nO9FprJ1nx+3m2owRlz6w6lGv0zZ/H/VPFYR0RsbLNuEkI1pXYasmtsTyv5DOKG+4SoCMN1aDA/IPO9FraXmjQIckI1NoTJF3hYmUpMtLvkwgVHowYAb5begtt3zTG3p8iTAa/fJUEVcReBjogCyNgPIwcH7D39/XXYKulQ/FAvHdFQ3aGblpfS+ucM64p41os6Mafo9PphNhaTtodj+g4z6VdggpEcWXHc5BiZIT3GcR24PPkEPKKXVKpYgYqwGtp3/2Z0xU3Tx7N0yvQz4hMVctXisJ1J3LfQqW2qdmwjAw+w6ICXLiM27P3skCeUP5X49ttzVy5L47RqTffyi2D/Ozw0IV38RlyHjpHyqKygo5ytElww+iw5ZealuaanPp6OfNMbZQfkhhf1aylbsnSYZulO4uPc0iJSOTqoxwoex7gYZ0IBw==;vuKLnSdP5bLUDluNJiwwoQ=="

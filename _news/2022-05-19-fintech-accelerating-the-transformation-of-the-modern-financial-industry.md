@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/953271"
 webUrl: "https://www.eurekalert.org/news-releases/953271"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "A Short Guide to Understanding the Exciting Realm of Fintech"
-    excerpt: "Fintech is skyrocketing in popularity, posing the first serious challenge to legacy financial institutions. What is it & how does it work? Find out here. What is Fintech & How Does it Work? People used to stand on the corner of a city intersection and see their options for banking."
-    publishedDateTime: 2022-05-21T14:47:00Z
-    webUrl: "https://www.hackread.com/short-guide-understanding-exciting-realm-fintech/"
-    type: article
-    provider:
-      name: hackread
-      domain: hackread.com
-    quality: 24
-    images:
-      - url: "https://www.hackread.com/wp-content/uploads/2022/05/a-short-guide-to-understanding-the-exciting-realm-of-fintech.jpg"
-        width: 1200
-        height: 650
-        isCached: true
-  - title: "Here Are Vietnam’s 8 Most Active Fintech Investors and The Startups They Are Betting On"
-    excerpt: "As fintech continues to pick up to steam in Vietnam, we look today at the investors supporting that momentum. For this list, we’ve selected eight of the most active investors in the Vietnamese fintech sector,"
-    publishedDateTime: 2022-05-19T07:08:00Z
-    webUrl: "https://fintechnews.sg/60987/vietnam/here-are-vietnams-8-most-active-fintech-investors-and-the-startups-they-are-betting-on/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 16
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/A-Look-at-8-of-the-Most-Active-Investors-in-Vietnams-Fintech-Startups.png?x82653"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Railz Appoints Fintech Veteran as Chief Operating Officer to Help Accelerate Company Growth and Expansion"
     excerpt: "Railz, a financial technology company that helps banks and fintech quickly harness and analyze small-medium business (SMB) data, announced that payments industry leader Amitaabh"
     publishedDateTime: 2022-05-19T12:37:00Z

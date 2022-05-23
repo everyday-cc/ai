@@ -55,13 +55,18 @@ related:
         isCached: true
   - title: "BioXcel Therapeutics Announces Updated Presentation Time at H.C. Wainwright Global Investment Conference"
     excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a commercial-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
-    publishedDateTime: 2022-05-20T12:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-announces-updated-presentation-time-hc-wainwright-/2022/05/20/9606281.htm"
+    publishedDateTime: 2022-05-20T11:03:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/health-ff79e7b36f40698596ba0873f85f2978"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "krAuPXQjQj4i5GerATfSEh/Ik9SvzayRGx+MRLhJc12ffAaOw7Xjxif2OSDFRy2NEZ2S4KhxM4czU+HWSNoqkRJXto6KL7t3WEgt1QdhhRFyRg8XiPcTYGsbA274rfk1jeXRm6oTwfaKCxFxA0mJGcPEI46Y9BERXgwk9JSClJLygG9XPp9WOf2lDKOOVRGnW9TjMckHxdTt5ae+7/DidoI0tgvloefodtgul7Vkd4Zpf76PnNjnvkSGhkU/TlygdRbaT+jrZZCv2J/EVHbHIQo1kN3sh+78kS8RR7eRi1WDifeL/r9U0z7SquQNt6cVcUIQMyxsOyXV3F6GB2BoinFij6FXb1seO/vUM2/00h0=;sXdyJ2KTTX9dTBVzMlCfSQ=="
 ---

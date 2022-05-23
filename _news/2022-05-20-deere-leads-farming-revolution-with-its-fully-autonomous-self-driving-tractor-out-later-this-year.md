@@ -7,7 +7,7 @@ originalUrl: "https://www.kwwl.com/news/deere-leads-farming-revolution-with-its-
 webUrl: "https://www.kwwl.com/news/deere-leads-farming-revolution-with-its-fully-autonomous-self-driving-tractor-out-later-this-year/article_5701d1d0-d7f3-11ec-99a5-47da1f6d26b6.html"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,72 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Tesla releases new Full Self-Driving Beta update and it’s a big one"
+    excerpt: "Beta software update with improvements based on over 250,000 training video clips from its fleet. Based on the release notes, it’s a big update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
+    publishedDateTime: 2022-05-19T10:13:00Z
+    webUrl: "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/"
+    ampWebUrl: "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Elon Musk Explores The Limits Of Tesla’s ‘Self-Driving’ Technology"
+    excerpt: "“Crash Course” includes interviews with various regulators as well as former Tesla employees, such as software engineer Raven Jiang, who make the points that self-driving technology was seen ..."
+    publishedDateTime: 2022-05-22T22:29:00Z
+    webUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/"
+    ampWebUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
+    cdnAmpWebUrl: "https://tampa-cbslocal-com.cdn.ampproject.org/c/s/tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
+    type: article
+    provider:
+      name: CBS Tampa
+      domain: cbslocal.com
+    quality: 59
+    images:
+      - url: "https://tampa.cbslocal.com/wp-content/uploads/sites/15909843/2022/05/hypatia-h_95e1fbe11735d97d17c67c941570c5c6-h_296a49084dcbd41e3bcf9362b22c1e27.jpg?w=1024&h=576&crop=1"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Tesla rival Nio plans Singapore research hub for AI, self-driving"
+    excerpt: "Chinese electric vehicle maker Nio will establish a research and development center for autonomous driving and artificial intelligence in Singapore, in the Tesla rival's latest bid for digital talent."
+    publishedDateTime: 2022-05-20T16:18:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/Tesla-rival-Nio-plans-Singapore-research-hub-for-AI-self-driving"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 56
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F4%252F1%252F1%252F40461140-3-eng-GB%252FCropped-16530628192021-04-19T041433Z_1114811952_RC2SYM9EBE2T_RTRMADP_3_AUTOSHOW-SHANGHAI-NIO.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Tesla's Latest Self-Driving Update Is A Game-Changer"
+    excerpt: "Tesla has released a big beta software update for drivers who are in its Full Self-Driving program, offering a huge list of improvements and changes."
+    publishedDateTime: 2022-05-19T19:53:00Z
+    webUrl: "https://www.slashgear.com/868855/teslas-latest-self-driving-update-is-a-game-changer/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 49
+  - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
+    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
+    publishedDateTime: 2022-05-22T18:04:00Z
+    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 35
 
 secured: "xgI1Ly0DnikF2TSFJwSvJsthdFZqf0vQYWKoFMX0mugrlxbZ7Ru3GnZsPQBie+fxw0zWGeKiC4OqSw6kI7QyFi2VBBw+dLNsNBhLmMSLwH1DMI33437Ww4OYUbckgQlz64DcBBAO+H066nqVbQZVYrUicfMjfP1qCXGVG+BA6FIgM6Bm+UuQ3H/dR4ECmuUeKEH3xQdWDEX/fGFSA2IBSISeW/P+l954tTr6JeqpD/QQuP/xMJ3RJl+46tsjkTRp7yfnb1EKl2zqPNGxBQBy/D4aXHjW1PaS4reexdnkl8/vZWN4kNeGs87u5nOYoNDZLUGMS/X3FjUxiKiX6HhXB8+oeyQ9SZfVo1bs5xGi30egRZ2c/IbpqOmHHOYpuJFEH5sDun9H7y0/tMWoOYYTl5RkTwikCUMuHl/r4F/44NDK+ptvJ0GBZADTzh4weKGFjLekU79bx+mLG3Mv5JgQc682oPJLV2ZYDiyZE59BBNlS0K48e7WkAqjIBOfqK43xwnq3M1DlxeLYJ78CqZNlCw==;yrTqrPlL4SSf0iX0l/wIPA=="
 ---

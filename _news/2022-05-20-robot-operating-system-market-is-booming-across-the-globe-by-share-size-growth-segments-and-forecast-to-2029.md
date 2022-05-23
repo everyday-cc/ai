@@ -187,15 +187,6 @@ related:
       name: xaralite.com
       domain: xaralite.com
     quality: 20
-  - title: "GPU Database Market Size, Share, Revenue, Global Industry Demand, Recent Trends, Size and Share Estimation by 2027 with Top Players"
-    excerpt: "The GPU Database Market(2022-2027) research report covers the present situation and the development possibilities of"
-    publishedDateTime: 2022-05-18T09:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-database-market-size-share-revenue-global-industry-demand-recent-trends-size-and-share-estimation-by-2027-with-top-players-2022-05-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
   - title: "Global Military Robots Market to be Driven by the Advancement in Artificial Intelligence and Robotics in the Forecast Period of 2022-2027"
     excerpt: "The new report by Expert Market Research titled, ‘Global Military Robots Market Size, Share, Price, Trends, Growth, Report and Forecast 2022-2027’, gives an in-depth analysis of the global military robots market,"
     publishedDateTime: 2022-05-18T17:07:00Z

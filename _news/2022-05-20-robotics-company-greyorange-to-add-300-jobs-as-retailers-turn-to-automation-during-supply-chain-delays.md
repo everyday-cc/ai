@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Indian Robotics Firm GreyOrange Raises $110 Mn In A Funding Round"
-    excerpt: "Tiger Global-backed Indian robotics firm GreyOrange has raised $110 Mn in the latest funding round, as per reports."
-    publishedDateTime: 2022-05-18T09:14:00Z
-    webUrl: "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/"
-    ampWebUrl: "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 89
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/05/Feature-fashion-300x225.png"
-        width: 300
-        height: 225
-        isCached: true
   - title: "Warehouse robotics firm GreyOrange raises $110 million from Mithril Capital, others"
     excerpt: "GreyOrange said it will deploy the capital to accelerate global expansion and step up the adoption of its fulfillment platform in warehouses, distribution centers and retail stores"
     publishedDateTime: 2022-05-19T12:11:00Z

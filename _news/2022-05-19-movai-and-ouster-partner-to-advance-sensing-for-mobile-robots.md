@@ -17,22 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "MOV.AI Partners with Ouster to Equip Autonomous Mobile Robots with High-Resolution Digital Lidar for Challenging Warehouse Environments"
-    excerpt: "TEL AVIV, Israel , May 18, 2022 /PRNewswire/ -- MOV.AI announced today its partnership with Ouster, a leading provider of high-resolution digital lidar sensors, to provide autonomous mobile robots (AMRs) with uninterrupted autonomy in today's challenging ..."
-    publishedDateTime: 2022-05-18T09:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mov-ai-partners-with-ouster-to-equip-autonomous-mobile-robots-with-high-resolution-digital-lidar/article_871968f4-5f9e-5ba1-ac09-4b4eb2ea1bec.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 5
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-
 secured: "58lhyFFZag2qrDEgTup41Ep9qxGuQmqONQbw+jDe7nw30MkxOKDbbsLeJ+E6jaVEp9OQ5PKZgIfPkOjtQmyIAZ2S9r67mQJ0SHmQvExSJ/fI47uLJ7yytGya5HvWgbZ3ggN+muMnVvKLMwZnw7W9QPLxHPrJ2CdO+YmVJsjEF8Er2Ek5XBvzBI6zoKX5YA+KzKllCrntlTQMvxAGH4Meo/rdKDbNbytBjSSPjE7izWWRfCaA9wSwp7YbGrTKUxrDAXrAOTybju6NERtMqioDxkWsi/s9Q+XnqjxpJ2WtcgQH4dwM6pCsO/hYPVZYnN6M6+Z2L14grDKRyITKGkq7BvoX8L4cIg0rBlrNITXwDe+9Lwd8izTXd1ZEZarLDquvHBoy18PT2swcHhFH1OmLEMfClXKgiTC7ag1RkeddgjnZr20bL2+zrtMEKWY5kScFkwBXAOyz38QM3F5e8am8yX59KTwjM6G66wEKHBC51HPV/3n08/WZ1IEs9GzdVIkyydnF9oRtzYEUMk3L30WkFw==;TihDaSQF4bV4tM1aq6+pyg=="
 ---
 

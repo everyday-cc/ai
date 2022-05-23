@@ -7,7 +7,7 @@ originalUrl: "https://www.moneycontrol.com/news/business/startup/warehouse-robot
 webUrl: "https://www.moneycontrol.com/news/business/startup/warehouse-robotics-firm-greyorange-raises-110-million-from-mithril-capital-others-8540611.html"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Indian Robotics Firm GreyOrange Raises $110 Mn In A Funding Round"
-    excerpt: "Tiger Global-backed Indian robotics firm GreyOrange has raised $110 Mn in the latest funding round, as per reports."
-    publishedDateTime: 2022-05-18T09:14:00Z
-    webUrl: "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/"
-    ampWebUrl: "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 89
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/05/Feature-fashion-300x225.png"
-        width: 300
-        height: 225
-        isCached: true
   - title: "Robotics company GreyOrange to add 300 jobs as retailers turn to automation during supply chain delays"
     excerpt: "The supply chain innovator anticipates 100% growth as more retailers turn to automation during nationwide labor shortages."
     publishedDateTime: 2022-05-19T17:46:00Z

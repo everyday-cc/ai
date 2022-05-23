@@ -173,15 +173,6 @@ related:
       name: xaralite.com
       domain: xaralite.com
     quality: 20
-  - title: "GPU Database Market Size, Share, Revenue, Global Industry Demand, Recent Trends, Size and Share Estimation by 2027 with Top Players"
-    excerpt: "The GPU Database Market(2022-2027) research report covers the present situation and the development possibilities of"
-    publishedDateTime: 2022-05-18T09:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-database-market-size-share-revenue-global-industry-demand-recent-trends-size-and-share-estimation-by-2027-with-top-players-2022-05-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
   - title: "Robot Operating System Market is Booming Across the Globe by Share, Size, Growth, Segments and Forecast to 2029"
     excerpt: "Growth in adoption of robots in the e-commerce sector, penetration of automation in different industries, and increase in emphasis of labor safety drive"
     publishedDateTime: 2022-05-20T03:00:00Z

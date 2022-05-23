@@ -2,21 +2,27 @@
 category: news
 title: "BioXcel Therapeutics Announces Updated Presentation Time at H.C. Wainwright Global Investment Conference"
 excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a commercial-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
-publishedDateTime: 2022-05-20T12:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-announces-updated-presentation-time-hc-wainwright-/2022/05/20/9606281.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-announces-updated-presentation-time-hc-wainwright-/2022/05/20/9606281.htm"
+publishedDateTime: 2022-05-20T11:03:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/health-ff79e7b36f40698596ba0873f85f2978"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/health-ff79e7b36f40698596ba0873f85f2978"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Guardforce AI to Present at the H.C. Wainwright Global Investment Conference on May 24th"
@@ -62,6 +68,6 @@ related:
         height: 207
         isCached: true
 
-secured: "qRtJqM9oyLFblV1CMKyKlfz1zhCnqGqbMANNIHyvILuh77qgvlIE0PeUnKmEnT+ssLcy/l3f0XR4wTOhTlheMk8fQtTwWlBWRJxFjOE6iqecmup/lkIazZZ8tuSU1gPHRDJoFWgedSDmbTCmMThlJW6pPHTMf0yeoJgLCrOqxD6u6m/xGeKJTmFxSLFymDP7c+7j7bENGQGJ9OA8TPybKMD7Tu1TU+Hmuc1PUHC/BBk8cIC9/4uecI8LzwszGaWfCA9rzPhl1ivWYL4QSpvy7Azh4XczI8F/tCNGelORTpxeZkxrwolXOTVgStU0YgBs/H5YwELrUhxqCnNOspFIHvRal/FxOXarf6knS7AV9Y4=;3RP6UKDUlWMSEY1Ik6G05w=="
+secured: "Y3zXsnYRpWLU4w67Eh16oR7ZcmjuxPbECSPWjqFiBUrDa69HS2gBghRp99odnYhYFyN60Zf5WCTs0SDb2PSuzK4SKdYdqBbHbNU/7rJb4caFzc/qa5y5ShTLYY3fyFw7QTmUtBtByp9saGCJcRAG0jdxsQLJjd1usRJDss8z4o59IbbHFu06GSEs5llH2hjvbDzMFGKMWoTybwfNCJZtReY3S62bY9tt5mCMtQYHLsw7xKYx3QcahIxfjh96Ksp4WBeGDpt06fkUvTFSN0DE3HhlyGBrBgv2mSKOQJ3NoqMDmizJhNMT8VRXiZJaubcg4Z6oA+0mw6yiELcdalbclESzJN7henCx5OyjGIy9mho=;l8AM04mLhOe6NjHis/pQoQ=="
 ---
 

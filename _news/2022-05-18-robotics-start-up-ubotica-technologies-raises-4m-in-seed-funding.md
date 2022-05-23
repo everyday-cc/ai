@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Dublin spacetech start-up Ubotica nets €4m to work on out of this world AI"
-    excerpt: "Ubotica uses computer vision tech and AI to analyse image datasets captured by satellites, which can be sent back to Earth for further investigation. The start-up’s latest funding boost will be used to further develop its tech and grow its team."
-    publishedDateTime: 2022-05-18T10:29:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/ubotica-dublin-spacetech-funding"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 35
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_302537769.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Space tech start-up Ubotica Technologies raises €4m in seed funding"
     excerpt: "Dublin-headquartered space technology start-up Ubotica Technologies has raised €4 million in seed funding to grow its team and fund the next generation of the CogniSat platform. The round was led by Atlantic Bridge and includes co-investment from US based Dolby Family Ventures and Seraphim Space."
     publishedDateTime: 2022-05-18T19:40:00Z

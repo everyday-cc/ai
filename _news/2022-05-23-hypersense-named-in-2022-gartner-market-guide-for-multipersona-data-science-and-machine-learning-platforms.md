@@ -1,29 +1,29 @@
 ---
 category: news
 title: "HyperSense named in 2022 Gartner® Market Guide for Multipersona Data Science and Machine Learning Platforms"
-excerpt: "Subex, a pioneer in the space of Digital Trust, has been named in 2022 Gartner® Market Guide for Multipersona Data Science and Machine"
-publishedDateTime: 2022-05-23T01:03:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/hypersense-named-in-2022-gartner-r-market-guide-for-multipersona-data-science-and-machine-learning-platforms-834697575.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/hypersense-named-in-2022-gartner-r-market-guide-for-multipersona-data-science-and-machine-learning-platforms-834697575.html"
+excerpt: "Subex listed as a Representative Vendor in the report BENGALURU, India, May 23, 2022 /PRNewswire/ -- Subex, a pioneer in the space of Digital Trust, has been named in 2022 Gartner®"
+publishedDateTime: 2022-05-23T01:00:00Z
+originalUrl: "https://www.asiaone.com/business/hypersense-named-2022-gartner-market-guide-multipersona-data-science-and-machine-learning"
+webUrl: "https://www.asiaone.com/business/hypersense-named-2022-gartner-market-guide-multipersona-data-science-and-machine-learning"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1822606/Subex_Logo.jpg?p=facebook"
-    width: 636
-    height: 333
+  - url: "https://mma.prnasia.com/media2/1822606/Subex_Logo.jpg?p=medium600"
+    width: 600
+    height: 400
     isCached: true
 
-secured: "h18OEih6flxy9IMiL5XEB/JeNDcm56kiMAiDfKs92ESiIywq7fNQ0sfNnuCpBPh24Tlmn1f8GQfynmk0B761pt3NyluUJP7+LFT0gf+Ond8u7d2r1TB9hwtUq7mjg7jtuXbtukRWEqY88A0xInzFJC1FglDfm04oIBcBFID6gu60o6gPnQhqbZI5UWYIqlLV82oO72rOkUKMl5FR9BsNZpMunJhvNvA7gqw5CH00ot7nmvDO+5nGAJnrbcA9PEHLXqbCQ+VeShDhk07oxW0QrVlEKbOvMWpNshpZchZJGyi74n5qgawN9THbhod7NRHUtlPoQCodZp/9BfbFjnn5Y4yQAen5d+8kS5FDagNSj9U=;sSA0HjNNfwfPlNlNcoqLyw=="
+secured: "eDTdGB+wFZC+2p+YveMOOnFybnO6rmPVdexVUiooaggdxq2HBAKjFwX0DkrPLVcJ+fsThzdf89aF7JvJiRXW4JiN6zVsApud15ADyIzrf1qkDy1/7phQSSJelnqz7fNONa8ZeH3yrLXcGtRrQhiGjYpWPNs5+/gPx5tFlKMuDHsk6+d9jFHr1tPeAhp/JhTRniy0i4cg02EYgzYPupVW/f0MzeTwZbdBaPmbRMYi3dWjXmLUb+LBmcZjx5HKMju6RKlhubVIbMeqhfKqPWF/k0p05CC7y4ghLFhWHiRpe9gooF1oNpqqqyINQBOwibfAsfjuJ4PSExDnXT3sZAU4FeoM3mVJYCHga/QQdoWM+u4=;upxVA7ia1eNTSFSy3Ji6kg=="
 ---
 
