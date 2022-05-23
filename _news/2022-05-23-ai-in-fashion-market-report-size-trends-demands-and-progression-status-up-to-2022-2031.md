@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) In Food And Beverages Market Trends, Share, Growth, Opportunity And Forecast 2027"
-    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027),"
-    publishedDateTime: 2022-05-19T00:33:00Z
-    webUrl: "https://menafn.com/1104234110/Artificial-Intelligence-AI-In-Food-And-Beverages-Market-Trends-Share-Growth-Opportunity-And-Forecast-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?182762"
-        width: 356
-        height: 250
-        isCached: true
   - title: "Face Recognition Software Market Size, Growth, Share, Leading Company Analysis, And Key Country Forecast to 2022-2028"
     excerpt: "Global “Face Recognition Software Market” Report Size, and analysis maintains detailed dynamics and is over shadowed by"
     publishedDateTime: 2022-05-19T09:03:00Z

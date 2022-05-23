@@ -7,7 +7,7 @@ originalUrl: "https://www.theregister.com/2022/05/23/clearview_ai_ico_fine/"
 webUrl: "https://www.theregister.com/2022/05/23/clearview_ai_ico_fine/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "ICO fines Clearview AI more than $8M"
+    excerpt: "The U.K.’s Information Commissioner’s Office (ICO) has fined Clearview AI over £7.5 million (nearly U.S. $8.06 million) for collecting people’s images from internet and social media sites without their knowledge or consent to create a global online ..."
+    publishedDateTime: 2022-05-23T17:41:00Z
+    webUrl: "https://www.complianceweek.com/regulatory-enforcement/ico-fines-clearview-ai-more-than-8m/31709.article"
+    type: article
+    provider:
+      name: Compliance Week
+      domain: complianceweek.com
+    quality: 37
+    images:
+      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/4/0/6/15406_clearviewai_83041.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Clearview AI fined in the UK: No 'lawful reason' to collect Brits' images"
     excerpt: "The UK's data protection body today made good on its threat to fine controversial facial recognition company Clearview AI, ordering it to stop scraping the personal data of residents from the internet,"
     publishedDateTime: 2022-05-23T12:06:00Z

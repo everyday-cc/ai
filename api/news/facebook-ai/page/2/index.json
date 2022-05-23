@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-14-cerebras-wafer-size-ai-chips-play-nice-with-pytorch-tensorflow.md",
+      "title": "Cerebras' wafer-size AI chips play nice with PyTorch, TensorFlow",
+      "excerpt": "Cerebras Systems has expanded support for the popular open-source PyTorch and TensorFlow machine-learning frameworks on the Wafer-Scale Engine 2 processors that power its CS-2 system. The chip designer says the expanded support,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/13/cerebras_wafersized_ai_chips_play/",
+      "originalUrl": "https://www.theregister.com/2022/04/13/cerebras_wafersized_ai_chips_play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/14/cs21_7nm_planview_dinner.jpg",
+          "width": 9144,
+          "height": 6094,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/13/cerebras_wafersized_ai_chips_play/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/cerebras_wafersized_ai_chips_play/",
+      "publishedDateTime": "2022-04-13T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-artificial-intelligence-voice-market-set-to-witness-explosive-growth-by-2029-iflytek-google-apple.md",
       "title": "Artificial Intelligence Voice Market Set to Witness Explosive Growth by 2029 | iFlyTek, Google, Apple",
       "excerpt": "New Jersey, N.J., April 11, 2022 – The Artificial Intelligence Voice Market research report provides all the information related to the industry. It gives the outlook of the market by giving authentic data to its client which helps to make essential decisions.",
@@ -1329,58 +1375,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-ai-produced-images-cant-fix-diversity-issues-in-dermatology-databases.md",
-      "title": "AI-produced images can’t fix diversity issues in dermatology databases",
-      "excerpt": "Research teams would have to carefully check if AI-generated images would have any usual quirks that people wouldn’t be able to see with the naked eye. That type of quirk could theoretically ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/3/11/22971207/dermatology-ai-diversity-skin-tone-synthetic-images",
-      "originalUrl": "https://www.theverge.com/2022/3/11/22971207/dermatology-ai-diversity-skin-tone-synthetic-images",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/jgPgR3XgTlswf2yOU30fNxSp1-E=/0x455:4013x2556/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23306742/1296572722.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

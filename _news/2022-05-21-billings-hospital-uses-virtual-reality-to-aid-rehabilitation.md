@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospi
 cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
     quality: 39
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/lmtribune.com/content/tncms/assets/v3/editorial/2/2e/22e38208-df50-5a7f-be32-0079371e1a54/6289e1ae8dafe.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Rehabilitation Hospital of Montana incorporates VR and AI technology into patient care"
-    excerpt: "The Rehabilitation Hospital of Montana is now the first and only facility in the state to utilize VR and AI to deliver immersive rehabilitation training and patient care."
-    publishedDateTime: 2022-05-18T23:30:00Z
-    webUrl: "https://billingsgazette.com/lifestyles/health-med-fit/rehabilitation-hospital-of-montana-incorporates-vr-and-ai-technology-into-patient-care/article_62867ac2-d700-11ec-ade8-d7fc92301baf.html"
-    type: article
-    provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
-    quality: 31
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/6/28/62867ac2-d700-11ec-ade8-d7fc92301baf/6285815a2918c.preview.jpg?crop=1250%2C656%2C368%2C199&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

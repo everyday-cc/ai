@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3178385/china-robot-un
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Walmart expands orders for warehouse robotics from Symbotic"
+    excerpt: "Retailer increases adoption of fulfillment technology from 25 warehouses to all 42 regional DCs in its U.S. network."
+    publishedDateTime: 2022-05-23T16:51:00Z
+    webUrl: "https://www.dcvelocity.com/articles/54664-walmart-expands-orders-for-warehouse-robotics-from-symbotic"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 54
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2022/05/23/Symbotic-Bots-4.png?height=635&t=1653324728&width=1200"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Softeon Continues to Advance Integration and Optimization of Mobile Robots, Put Walls, other Warehouse Automation"
     excerpt: "Warehouse Management and Warehouse Execution Systems Deliver Throughput, Operating Cost Reduction, and ROIRESTON, Va.--(BUSINESS WIRE)--#3PL--Softeon, a global supply chain software provider with the industry's best track record of customer success,"
     publishedDateTime: 2022-05-19T17:16:00Z

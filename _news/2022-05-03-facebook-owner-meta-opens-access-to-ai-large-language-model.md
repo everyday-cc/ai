@@ -1,22 +1,26 @@
 ---
 category: news
-title: "Facebook-owner Meta opens access to AI large language model"
-excerpt: "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. May 3 (Reuters) - Facebook-owner ..."
-publishedDateTime: 2022-05-03T14:11:00Z
-originalUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model"
-webUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model"
-ampWebUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp"
+title: "Facebook-owner Meta Opens Access To AI Large Language Model"
+excerpt: "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first ..."
+publishedDateTime: 2022-05-03T14:59:00Z
+originalUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
+webUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "S9QKYzX/yXfCFMgucZyedygHZxqOw9VddWm98jSUS3SaXbno3MdzVAWjwQNJy+V9Tw0uyFfa/BzbcrPZy1jFRNiKsWHW8HpmMKPuwb0G2Sdw7aEoGtrkIbb+gGe1MDLFHvnK4NAFpOQ00/PJHRb7BNw7Ce3gi5L9e6K1EQU2KfBbt32GxHTfbuyT7DtNq0sBjYRkeyc2kAIY74BnarYAwxheD7FgjgJr8o6vZB4q7gMiTAamvn0LsaF7bABNqLS/ExvXLYjiXiPaRoQ5FVol+PEuNG608Sv/r948+0I43wS+u7HuXPwIisIvxEdObAMn2/NZZtzKB4NcTbVMzGLqscJrd0FYaqE1PQvY3oDfZG8=;GR40G31N184WuPiFdQnVVA=="
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg"
+    width: 1200
+    height: 803
+    isCached: true
+
+secured: "H/WiFqqqL8lTUOnff3v21b6rvVD/S9EyCn19FZVAwJKm1E3oAOQG7tnnyP0E5jf809WtamAhHn9bnxbNmptk481tluw+6yFmtaJXk3W1cQFSfQ8enIDDKMpBGtUmlq2YxYJphufufNuU/gVhJ6geg3sWrlozSi50r6vFyRL3Xd4T1aprsw1J3bNoo6zAMuZ19A+h4MRTGKOXlFEFtQzdnaHxmEShAs1ekwi8YHT+XMWmFS9ka/mN4/5AFiUOJekJInjP+Yn3tU2kT7pElqx3l4zSMX5aVKVipH8LpPKwX+Jt/oRmgVoVVaEpZORahRFvQlPK0Tv5XP1uld5s96Ri9R0YrpfhzXXL3k7cEz7d+8c=;naH3I4Zp/BsoxfLnz3LBnA=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-21-driving-into-the-future-this-chennai-based-startup-is-helping-vehicles-make-better-decisions-through-connectivity.md",
+      "title": "Driving into the future: This Chennai-based startup is helping vehicles make better decisions through connectivity",
+      "excerpt": "Ever since Tesla CEO Elon Musk popularised the vision of driverless vehicles interacting ... in the vehicle,” Venkat says. Using Artificial Intelligence, data stored in the cloud is processed ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
+      "originalUrl": "https://yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/40d66ae0f37111eb854989d40ab39087/ImagesFrames27-1647505616198.png ",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
+      "publishedDateTime": "2022-03-20T20:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-21-researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored.md",
       "title": "Researchers Warn: Risks of Using AI To Grow Our Food Are Substantial and Must Not Be Ignored",
       "excerpt": "Artificial intelligence (AI) is on the cusp of driving an agricultural revolution, and helping confront the challenge of feeding our growing global population in a sustainable way. But researchers warn that using new AI technologies at scale holds huge risks that are not being considered.",
@@ -1284,49 +1327,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-artificial-intelligence-is-redefining-the-travel-industry.md",
-      "title": "Artificial Intelligence is Redefining The Travel Industry",
-      "excerpt": "Artificial intelligence (AI) is transforming the travel industry by offering predictive analytics, tailored recommendations and live updates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/artificial-intelligence-is-redefining-the-travel-industry",
-      "originalUrl": "https://www.bbntimes.com/technology/artificial-intelligence-is-redefining-the-travel-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/companies/Artificial_Intelligence_is_Redefining_The_Travel_Industry.jpg",
-          "width": 1000,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
         "images": null,
         "publishers": null,
         "authors": null

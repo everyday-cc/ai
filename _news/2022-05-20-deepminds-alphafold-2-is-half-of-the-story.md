@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "From LEGO competitions to DeepMind's robotics lab"
-    excerpt: "If you want to be at DeepMind, go for it. Apply, interview, and just try. You might not get it the first time but that doesn’t mean you can’t try again. I never thought DeepMind would accept me, and when they did, I thought it was a mistake. Everyone doubts themselves – I’ve never felt like the smartest"
-    publishedDateTime: 2022-05-19T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 121
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/62863b2de650d13aae1b5176_Akhil_Raju__Blog__16x9.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google's DeepMind on the verge of achieving human AI"
     excerpt: "Human-level artificial intelligence will soon be achievable, according to the lead researcher at Google’s DeepMind AI division. Dr Nando de Freitas said that it was \"game over\" in the long ..."
     publishedDateTime: 2022-05-19T08:30:00Z
@@ -55,6 +41,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Is DeepMind's Gato AI really a human-level intelligence breakthrough?"
+    excerpt: "DeepMind has released what it calls a \"generalist\" AI called Gato that can perform 600 tasks – but does this mean it is truly intelligent?"
+    publishedDateTime: 2022-05-19T17:00:00Z
+    webUrl: "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/"
+    ampWebUrl: "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/05/19153919/SEI_104918089.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Google Says It’s Closing in on Human-Level Artificial Intelligence"
+    excerpt: "Google DeepMind lead researcher Dr. Nando de Freitas boldly declared that \"the game is over\" and that as we scale AI, so too will we approach AGI."
+    publishedDateTime: 2022-05-19T19:57:00Z
+    webUrl: "https://futurism.com/the-byte/google-deepmind-agi"
+    ampWebUrl: "https://futurism.com/google-deepmind-agi/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-agi/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2022/05/google-deepmind-agi-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "DeepMind Introduces Gato, A New Generalist AI Agent"
     excerpt: "Avdi Grimm describes the future of development, which is already here. Get a tour of a devcontainer, and contrast it with a deployment container. Live from the venue of the QCon London Conference ..."
     publishedDateTime: 2022-05-19T14:13:00Z
@@ -69,6 +87,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Losing Ian Goodfellow to DeepMind is the dumbest thing Apple’s ever done"
+    excerpt: "What were they thinking? Apple let one of the world's most talented machine learning researchers join the the DeepMind crew? Wow."
+    publishedDateTime: 2022-05-19T19:45:00Z
+    webUrl: "https://thenextweb.com/news/losing-ian-goodfellow-deepmind-dumbest-thing-apples-ever-done"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 50
   - title: "The Download: DeepMind’s AI shortcomings, and China’s social media translation problem"
     excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
     publishedDateTime: 2022-05-23T12:40:00Z

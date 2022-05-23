@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Oxbotica completes first driverless car test on open roads"
-excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
-publishedDateTime: 2022-05-19T23:17:00Z
-originalUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
-webUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
+excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. Investment Minister Lord Grimstone ..."
+publishedDateTime: 2022-05-19T23:41:00Z
+originalUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
+webUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Shropshire Star
-  domain: shropshirestar.com
+  name: AOL.co.uk
+  domain: aol.co.uk
 
 topics:
   - AI in Autos
@@ -77,6 +77,6 @@ related:
       domain: webindia123.com
     quality: 16
 
-secured: "RwPJWzblVOH7QUgO34SusC0lR95uZ7CvPTBZdGfSPqQY2Kn/76JqvMEt2bPG8xLyTSZW6OSpcdhGcqUkxUG2pJF7FsxlECbpScTvT3zwEQ6mgj7IxeivPvtrqNYGVHgI2cYFQEbUKuhsNeXnqUEarI7HIn0TKI2//FYoFOqGlf4qbRSVQuVrRDeFfvZ4QIYi1Tl//SwfeNLZQk/gMdJQnNfuBobmuMM6wlNapRqCQJnKumdrBV4Hyf7+tAyaP6/T2aTZ/0Qc0ewxWumhfkr1GrhavGnnqhcMbyKKqTnlrg9c1MedOW4lQPUR0tlb7NRZtXTb4ihuGrp/97YPbHTVod/9/WX9qJImzVm2gvYDZzA=;othbaiE8x7no9mDebrcBgQ=="
+secured: "MGGaKLvkHJeuoW0jsYrc6NzvEwF+Uc9bASMT2cedDFExnib+SaYGZhzXGsyO+GCntEltZl/Zd4+I5vQcnYDWktCRRnmyGzQTV1O7bmTL6NUOs6mFxZMBJYfATVkBaxpnE0LN7nvjOwShFcVtDwZfBmkUW+dGz17eCHjVan0Mly03F5++ewHJ0nBdAPpmNhj8UuaEg7xdxTxHtonGf3b27hh3jIL8CAxIrud6nr9YjcL1rDlVcyYxIEoYXsmhBlv72llUNqKhxQpK/Rp+ABu4t+e1bvi5F9faZujvzwJKxE0eWRPlsdpwebIm21jVZWiEVsEfSEIyKcsayvtuySAmX9pIDSH02/RRpxBAMb1RVnA=;P9ZrjuTdi2OvnI/5i6PWCw=="
 ---
 

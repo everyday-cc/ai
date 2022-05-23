@@ -19,15 +19,57 @@ topics:
   - AI
 
 related:
-  - title: "Nominations Open for 2022 IDC FinTech Rankings & Real Results"
-    excerpt: "Annual rankings serve as de facto resource for banks, insurance companies, and capital markets firms making critical IT buying decisionsNEEDHAM, Mass.--(BUSINESS WIRE)--#IDCFinTechRankings--Nominations are now open for the 19th annual IDC FinTech Rankings and 8th annual IDC FinTech Rankings Real Results 2022."
-    publishedDateTime: 2022-05-23T12:34:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=668203"
+  - title: "Playing by the Rules: Fintechs Use AI for Marketing Compliance"
+    excerpt: "Companies are spending billions on marketing and advertising, paying big bucks to be center stage for public attention. For fintechs that operate globally and under the jurisdiction of multiple government agencies and regulatory systems,"
+    publishedDateTime: 2022-05-23T16:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 4
+      name: Finextra
+      domain: finextra.com
+    quality: 56
+    images:
+      - url: "https://lh6.googleusercontent.com/XTM3knFbB18Ultf9kkId2-XySe7I71UoEt4VYlNfNr0eSFw_AF0IM6-T-ozQMxrAgBwQUijX_5Q-2JP20wYnU5IxgHWaS9__oPqESXw4wnWgtjOKz0fFImRtMckLFqiGUW0YMiWkY5BRmiucuQ"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "AI in Fintech Market Size, Share, Price Trend by Type, Segment Analysis by Application and Regional Forecast-2028"
+    excerpt: "AI in Fintech Market Forecast with sales and Revenue ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors."
+    publishedDateTime: 2022-05-20T11:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-share-price-trend-by-type-segment-analysis-by-application-and-regional-forecast-2028-2022-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A Short Guide to Understanding the Exciting Realm of Fintech"
+    excerpt: "Fintech is skyrocketing in popularity, posing the first serious challenge to legacy financial institutions. What is it & how does it work? Find out here. What is Fintech & How Does it Work? People used to stand on the corner of a city intersection and see their options for banking."
+    publishedDateTime: 2022-05-21T14:47:00Z
+    webUrl: "https://www.hackread.com/short-guide-understanding-exciting-realm-fintech/"
+    type: article
+    provider:
+      name: hackread
+      domain: hackread.com
+    quality: 24
+    images:
+      - url: "https://www.hackread.com/wp-content/uploads/2022/05/a-short-guide-to-understanding-the-exciting-realm-of-fintech.jpg"
+        width: 1200
+        height: 650
+        isCached: true
+  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
+    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
+    publishedDateTime: 2022-05-20T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 11
 
 secured: "UWGzzLz5yXjJ1uvqt8nwoCT5lEYVwbNYZbsyLRTipX+asmJR2bTfVkOYyAYU+I6LJH0bsDuFlKcnG5vfr1RuMuHKjdVYfKWZHNSkrQ7pRvhL/ifTerPtR76FrUJKcUCAxm8oSbAecKCXq1uj6pYPOx/75v23xA6+Cm8ip8e2p4JxHJOrERK/D3Wa+1vqBjizdSE4xMWQBYqLXlX7DeAg03E2+rVntMRhnNM2PORLMkhwJc7giqvdG/FVCrRn8GpbtSL0aE/CxT4DmGFuH/vdy+Z4qj7eRkAwWxVRt/cXorZdwekkIemUa7XAYqlyYnnkIA2aW9FFSMKN2O8Hpl8EXbgsebgqI5Lz/r+0C0KnsxlbgtKz3cTCI+u0/99v6TE1QNRO74hZQYmaXMhQynIHd0rRbtm0KVWpeiICUDzlC1VNiSPL1ueWFjyEP+eJU6XGQTAs+yP5ITNa9awIiBi+4MA3bOi6C1A6cdytgwpuYh7AKQ4ZfqBX8SSWVJ6kxppdaF5JHAy2EjII5YUVVry/YA==;4EU3uh0fL2oDOM6DE1eTqQ=="
 ---

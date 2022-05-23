@@ -50,13 +50,13 @@ related:
         height: 800
         isCached: true
   - title: "Oxbotica completes first driverless car test on open roads"
-    excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
-    publishedDateTime: 2022-05-19T23:17:00Z
-    webUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
+    excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. Investment Minister Lord Grimstone ..."
+    publishedDateTime: 2022-05-19T23:41:00Z
+    webUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
     type: article
     provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
+      name: AOL.co.uk
+      domain: aol.co.uk
     quality: 19
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"

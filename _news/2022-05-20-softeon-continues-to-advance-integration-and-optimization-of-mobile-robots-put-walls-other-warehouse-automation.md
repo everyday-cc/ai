@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Walmart expands orders for warehouse robotics from Symbotic"
+    excerpt: "Retailer increases adoption of fulfillment technology from 25 warehouses to all 42 regional DCs in its U.S. network."
+    publishedDateTime: 2022-05-23T16:51:00Z
+    webUrl: "https://www.dcvelocity.com/articles/54664-walmart-expands-orders-for-warehouse-robotics-from-symbotic"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 54
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2022/05/23/Symbotic-Bots-4.png?height=635&t=1653324728&width=1200"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "o7w44gbT/XnLqIw/Z9kCrWyCjHjfTh3LCa/jBun2d/37DvxAXd/lZ7D/1yk3sf2UzUjgcmT1cA8ZZPMJbFL1g7l425B+yNAgDhkn4m1GXe0CYgR2ZV+x/1MSbO65/mLb9NG+esjZ2j2dUTVrxNMdQ3aU8i05tHaA8QwS9qo/FDnotlzfL5xtsJP1BAkA9JayuomDjcGsE4z99+oqQP+/shBRIJRYwlKmDG07nr4P6OT90dAe1YZl0QLfhnYIdPEDysiK6VN1zHMzaoooRu3PTtVqvKTtkKjJ8HoE5bghB1jj97fdoGH/42Xh3Kf1w8tDgYjxXexZlvMA1Q6luKzPNvuTEk0pgDew5NeUfplE8IE=;tVCMTYfIvNRRaZ7JSZrtzA=="
 ---

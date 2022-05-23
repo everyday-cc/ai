@@ -3,8 +3,8 @@ category: news
 title: "A Deeper Understanding of Deep Learning"
 excerpt: "Deep learning should not work as well as it seems to: according to traditional statistics and machine learning, any analysis that has too many adjustable parameters will overfit noisy training data, and then fail when faced with novel test data."
 publishedDateTime: 2022-05-22T06:02:00Z
-originalUrl: "https://cacm.acm.org/magazines/2022/6/261164-a-deeper-understanding-of-deep-learning/fulltext?mobile=true?mobile=false"
-webUrl: "https://cacm.acm.org/magazines/2022/6/261164-a-deeper-understanding-of-deep-learning/fulltext?mobile=true?mobile=false"
+originalUrl: "https://cacm.acm.org/magazines/2022/6/261164-a-deeper-understanding-of-deep-learning/fulltext?mobile=true?mobile=true?mobile=false"
+webUrl: "https://cacm.acm.org/magazines/2022/6/261164-a-deeper-understanding-of-deep-learning/fulltext?mobile=true?mobile=true?mobile=false"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 473
     isCached: true
 
-secured: "4jdjxRIGd8/zFPteSE3VYK3/xbFCwlkYgUbAZlwzF1RLhvyOiAp4lL85vp+hbMd8Fe+lT439ph68CN4MncReZo6o/NoQjyfHMTHaay4djJGtrYj3WMdJUduaPRmbn6Iz8TnUvt6Pn0/PduFo6lRzqzaCkGuJXfvNqZK3z1xtZCKVjNsiv6jhKFT0I8ERCw0re6X0IvL4p1EX69nDtLlaE4lK9XHZ2+dDY0P8Z0PjGvY3O06cmYHW4k1GVVVxIXt10pnAvx25LrxAhH32++YPtzRPzPBBbFP+0eRFpPYcnxSaKtz3HG5qldINonVrpryw7BmYlzeR4gidF+lPLwYtthdQ2aBCvMp9hUUeVMxVDchxWEXuN5zX7YnfEh0WioJziTyFtyyJXICiuqZS+K0Q/Pltoj5UCRWHNJgH4ucuiHeY50qPug/+Uttl9UZJ0yqJRDzR0B6XAeniz4COtM61XNEyedmDQJHxRdRBJRQjqm1AjeIIGRCJa8SJS+uYEgjBx0k+SnOwmbEjwSVXgSEd4Q==;9HMTX/EFkfPjXLp0JV7TIA=="
+secured: "T9tvPoy/KfQz+L/qbphomJvCNKZONjdo/LdjaTDbeLcbuxGR+dk3GFXtwZ6M2afgjgXeM10ICrgOJ7S/Q3wXQf5yhDNwU84zIMuvBPzoEGMYUAZTFuskWDbQ63yjo2XmKCjzeJjc38EaObBOvTqezK0s8/zbxmgYUx14jt0Lm/xQF3oG73nf9Piq3zwW1JbtfjKmjk1GldIj0C+5LsqMELNRHWHTezyP9unfGvzXnCX/tyfQ0p3ocBtG+/L2LOfCaSUHShYHGeRr+DVOXyJ5WMw2hm/tUgYEiWOp3LTXtmaxOr0wZpWiOq1gdKerPY1W8XGX2gZCsPogCINYIPFgyrJ5GFoBH9g7MF9r2eKZ4to=;LNdArKzQvcZN1kZuC6N8iQ=="
 ---
 

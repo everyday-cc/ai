@@ -22,7 +22,7 @@ related:
   - title: "A peek into Gigabyte's GPU Arm for AI, HPC shops"
     excerpt: "Arm-based servers continue to gain momentum with Gigabyte Technology introducing a system based on Ampere's Altra processors paired with Nvidia A100 GPUs, aimed at demanding workloads such as AI training and high-performance compute (HPC) applications."
     publishedDateTime: 2022-05-23T15:08:00Z
-    webUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/?td=keepreading-btm"
+    webUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/23/gigabyte_intros_arm_server/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/23/gigabyte_intros_arm_server/"
     type: article

@@ -2,6 +2,153 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-01-24-western-new-england-university-debuts-oscar-sort-intuitive-trash-robot.md",
+      "title": "Western New England University Debuts Oscar Sort Intuitive Trash Robot",
+      "excerpt": "Western New England University (WNE) is the first U.S. institution of higher education to feature Oscar Sort, an AI-driven, intuitive, trash-sorting robot. This intuitive robot educates the campus community at the point of recycling and disposal and helps them to better understand how waste is measured,",
+      "sourceUrl": null,
+      "webUrl": "https://businesswest.com/blog/western-new-england-university-debuts-oscar-sort-intuitive-trash-robot/",
+      "originalUrl": "https://businesswest.com/blog/western-new-england-university-debuts-oscar-sort-intuitive-trash-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://businesswest.com/wp-content/gallery/women-of-impact-luncheon-2019/WOI-BW-DANIFINECOMMERCIAL-2019-SHERATON-SPRINGFIELD-MA-175.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T04:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessWest",
+        "domain": "businesswest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-why-your-next-home-will-be-built-by-robots.md",
+      "title": "Why Your Next Home Will Be Built By Robots",
+      "excerpt": "A quiet revolution is occurring in the systems used to create modern housing. The new twist on an old method is called volumetric modular manufacturing (VMM).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ead0c48891970940d30501/0x0.jpg?format=jpg&crop=3524,2348,x829,y0,safe&fit=crop",
+          "width": 3524,
+          "height": 2348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
+      "publishedDateTime": "2022-01-24T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities.md",
+      "title": "Australian Space Agency believes existing robotics can be used for terrestrial activities",
+      "excerpt": "Robotics used in mining, for instance, could provide sustainable solutions for space exploration, the agency said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "originalUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/dc3b79f93d7c9d39148f428678cf93140ee41f9e/2022/01/23/fce9aace-98b8-42a2-8b9a-ec1c7daf4607/robotic-roadmap.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "publishedDateTime": "2022-01-23T16:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027.md",
       "title": "Global Artificial Intelligence Delivery Robot Market 2021 Development Analysis, Strategic Outlook, Growth Rate and Forecast to 2027",
       "excerpt": "Global Artificial Intelligence Delivery Robot Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 divides the market industry on the basis of the regions by growth, product types,",
@@ -1297,155 +1444,6 @@
         "name": "freightwaves.com",
         "domain": "freightwaves.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-flipping-the-lens-on-fear-loathing-of-aiml-in-asian-robotics-review.md",
-      "title": "Flipping The Lens On Fear & Loathing of AI/ML - In Asian Robotics Review",
-      "excerpt": "Asian Robotics Review published an article about my annual Highlights and Milestones in AI in Healthcare report. I'm sharing the article here with permission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
-      "originalUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEF4M4Cxd7VHA/article-cover_image-shrink_600_2000/0/1642107776452?e=1647475200&v=beta&t=PvX-aOxcIBd3ow0QxB7pKK1SgAWqiMeWN7sQ0se_RxA",
-          "width": 1162,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-chinese-restaurant-chain-is-forced-to-use-robot-waiters-during-the-covid-pandemic.md",
-      "title": "Chinese restaurant chain is forced to use ROBOT waiters during the Covid pandemic",
-      "excerpt": "Directors at The Chinese Buffet unveiled one BellaBot in each of four restaurants in Liverpool, St Helens, Bolton and Wigan, to serve food to diners in place of humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/01/14/13/52927541-0-image-a-63_1642165520636.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "publishedDateTime": "2022-01-14T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-from-robot-soccer-to-speedgate-these-sports-of-the-future-already-exist.md",
-      "title": "From robot soccer to speedgate, these sports of the future already exist",
-      "excerpt": "These high-tech sports may sound like they come from the future, but they already exist. Here are some of the most ground-breaking. In drone soccer, teams of between three and five pilots score points by flying their \"striker\" drone through their opponent's goal,",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/01/14/sport/futuristic-high-tech-sports-spc-intl/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/01/14/sport/futuristic-high-tech-sports-spc-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220113174210-robocup-2019-sydney-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/01/14/sport/futuristic-high-tech-sports-spc-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/14/sport/futuristic-high-tech-sports-spc-intl/index.html",
-      "publishedDateTime": "2022-01-14T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

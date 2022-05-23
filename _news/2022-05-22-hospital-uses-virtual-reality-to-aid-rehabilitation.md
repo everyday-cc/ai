@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Rehabilitation Hospital of Montana incorporates VR and AI technology into patient care"
-    excerpt: "The Rehabilitation Hospital of Montana is now the first and only facility in the state to utilize VR and AI to deliver immersive rehabilitation training and patient care."
-    publishedDateTime: 2022-05-18T23:30:00Z
-    webUrl: "https://billingsgazette.com/lifestyles/health-med-fit/rehabilitation-hospital-of-montana-incorporates-vr-and-ai-technology-into-patient-care/article_62867ac2-d700-11ec-ade8-d7fc92301baf.html"
-    type: article
-    provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
-    quality: 31
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/6/28/62867ac2-d700-11ec-ade8-d7fc92301baf/6285815a2918c.preview.jpg?crop=1250%2C656%2C368%2C199&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Field Robotics for Remote Patient Monitoring and Rehabilitation: Pandemic and Beyond"
     excerpt: "Worldwide, healthcare systems are at threat of overloading and incurring unmanageably high costs. Healthcare and rehabilitation facilities are not always accessible to frail older adults in rural and underdeveloped areas."
     publishedDateTime: 2022-05-21T07:10:00Z

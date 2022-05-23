@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-23-playing-by-the-rules-fintechs-use-ai-for-marketing-compliance.md",
+      "title": "Playing by the Rules: Fintechs Use AI for Marketing Compliance",
+      "excerpt": "Companies are spending billions on marketing and advertising, paying big bucks to be center stage for public attention. For fintechs that operate globally and under the jurisdiction of multiple government agencies and regulatory systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance",
+      "originalUrl": "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh6.googleusercontent.com/XTM3knFbB18Ultf9kkId2-XySe7I71UoEt4VYlNfNr0eSFw_AF0IM6-T-ozQMxrAgBwQUijX_5Q-2JP20wYnU5IxgHWaS9__oPqESXw4wnWgtjOKz0fFImRtMckLFqiGUW0YMiWkY5BRmiucuQ",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next.md",
       "title": "Synchrony Financial Stock Lost 10% In One Week, What To Expect Next?",
       "excerpt": "The current scenario is likely to increase the credit risk, leading to an increase in the provisions of credit losses.",
@@ -1300,49 +1344,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry.md",
-      "title": "The Lithuanian collaboration of iDenfy and Alternative Payments – a safer future for the Fintech industry",
-      "excerpt": "Alternative Payments integrated iDenfy’s full-stack, multilingual ID verification to secure their customers’ dataThe digital platform for identity",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry",
-      "originalUrl": "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/f1653d2b223a6200f45edb7f55c9ffc64fd662bb-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

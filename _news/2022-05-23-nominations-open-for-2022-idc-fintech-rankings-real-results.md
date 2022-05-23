@@ -18,17 +18,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "FinTech: Accelerating the transformation of the modern financial industry"
-    excerpt: "Readers will also discover how FinTech innovations bridge the banks and financial institutions to corporations, households, and individuals, with the growing interests in Digital Currencies, Open Banking, and Banking-as-a-Service (BaaS) models. To help ..."
-    publishedDateTime: 2022-05-19T13:51:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/953271"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 3
-
 secured: "agxM+DHBIaUu1WNVL6bQC4WFrENxkJcpTuzfAJCB0COLjpUcfkmuQNyAG8LnkLPk11vjqwdBggi5UfZd/dwbQYYvStPDyADRG96hgHsqqOfVwwoCLD29FDQUfJhnTZdnWQJ2HXB1zFbo9PesfJVGNNrjCjdxDB9ckg1oBoaj/9+VOKkChgnB/01VypInQ3rqPqgPK9Ej4wqxMpPAMVACvVhTapMAQVYN2TtS62AsfNMh7F5Zta98YKqnY7+gln2whh4kzkHqDTCEFdRlhyGUCQZdejGB9jMYYV8YyUQD5CbhEXzZHqjEtUKAALl2AAqidM5TCNRaN8SKh8w3a9Rx2lDkCiNyZNMA0PHZnqa6u3s=;ukkEwl5wfNajQZgM1W9nGA=="
 ---
 

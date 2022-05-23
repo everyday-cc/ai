@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-share-latest-trends-demand-growth-opportunities-and-overview-2022-to-2028-2022-05-19"
 type: article
 quality: 55
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) In Food And Beverages Market Trends, Share, Growth, Opportunity And Forecast 2027"
-    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027),"
-    publishedDateTime: 2022-05-19T00:33:00Z
-    webUrl: "https://menafn.com/1104234110/Artificial-Intelligence-AI-In-Food-And-Beverages-Market-Trends-Share-Growth-Opportunity-And-Forecast-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?182762"
-        width: 356
-        height: 250
         isCached: true
   - title: "AI In Fashion Market Report: Size, Trends, Demands And Progression Status Up To 2022-2031"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, May 22, 2022, 22:34 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 20"

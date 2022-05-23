@@ -36,22 +36,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 46
-  - title: "Facebook posts may help identify people at risk for hazardous drinking habits"
-    excerpt: "Key to the research was the use of Facebook content analyzed with \"contextual embeddings,\" a new artificial intelligence application that interprets language in context. The contextual embedding model, say Schwartz, Jose and colleagues, had a 75 percent ..."
-    publishedDateTime: 2022-05-19T00:01:00Z
-    webUrl: "https://www.news-medical.net/news/20220519/Facebook-posts-may-help-identify-people-at-risk-for-hazardous-drinking-habits.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220519/Facebook-posts-may-help-identify-people-at-risk-for-hazardous-drinking-habits.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220519/Facebook-posts-may-help-identify-people-at-risk-for-hazardous-drinking-habits.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 41
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/7/Selection_of_alcoholic_drinks_on_rustic_wood_background_-_Oleksandra_Naumenko_A1_fe979bdaef3943969b200bceaf42b174-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "DXZGmDQZJ7UtCxc/EUnMF36VOJbFCkuS1wl2mFFCu44AarHkILAczKsnhrUkd8ef6vGgaka2TNBzVD9tJ7o6ViTQr++dA8E8zXV17vEKjXeMaVjv/Ae8jN91onJQ6t/yp0DlXhmzi5r7sAqbCyfSeUL7PSj1N1MpNW0mN7yXDhGz5aemjr9rv99m6f9gxa+MR4LOzFpp33QVjtBJJdw212SrOBCv1EEpDgao0PohQvrT59+DqHBKf6I/AV4oPMjw+sgRGEwdGQl8dCG978x4SnxONA9tyEwSifnLy54Qb+EXXTPF7FPNxYRqXlV6KwPm9A4Y2iuYfcA6bAaZedcdTihUaj7N1sxUTlA+gEGhx/dTDWs56BCoo/M70pSfjqGh4Tk8HXqQNwT+CzEmdi+XVSElhxYJY+686vfe46OoMfGjSqUqMyFayYJvGWzJDtI5C+iY94oPwfwxqsm43vzDSeRBTwYrDrw3ofFA+KzU9U7KuqXbWYM1CzwO1YDqvBaOiDmjDsmE7dwugC+lUbYp1w==;DAibwUVo4RXgGPca7A2qAw=="
 ---

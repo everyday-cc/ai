@@ -25,22 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Firm ForwardAI and Fifo Capital to Enhance SMB Loan Underwriting Process"
-    excerpt: "ForwardAI, a Fintech providing aggregated access to accounting & business data and analysis, announced its partnership with Fifo Capital."
-    publishedDateTime: 2022-05-23T03:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/amp/"
+  - title: "Playing by the Rules: Fintechs Use AI for Marketing Compliance"
+    excerpt: "Companies are spending billions on marketing and advertising, paying big bucks to be center stage for public attention. For fintechs that operate globally and under the jurisdiction of multiple government agencies and regulatory systems,"
+    publishedDateTime: 2022-05-23T16:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
+      name: Finextra
+      domain: finextra.com
+    quality: 56
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt.jpeg"
-        width: 1280
-        height: 1104
+      - url: "https://lh6.googleusercontent.com/XTM3knFbB18Ultf9kkId2-XySe7I71UoEt4VYlNfNr0eSFw_AF0IM6-T-ozQMxrAgBwQUijX_5Q-2JP20wYnU5IxgHWaS9__oPqESXw4wnWgtjOKz0fFImRtMckLFqiGUW0YMiWkY5BRmiucuQ"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "AI in Fintech Market Size, Share, Price Trend by Type, Segment Analysis by Application and Regional Forecast-2028"
+    excerpt: "AI in Fintech Market Forecast with sales and Revenue ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors."
+    publishedDateTime: 2022-05-20T11:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-share-price-trend-by-type-segment-analysis-by-application-and-regional-forecast-2028-2022-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
+    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
+    publishedDateTime: 2022-05-20T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 11
+  - title: "FinTech: Accelerating the transformation of the modern financial industry"
+    excerpt: "Readers will also discover how FinTech innovations bridge the banks and financial institutions to corporations, households, and individuals, with the growing interests in Digital Currencies, Open Banking, and Banking-as-a-Service (BaaS) models. To help ..."
+    publishedDateTime: 2022-05-19T13:51:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/953271"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 3
 
 secured: "mblr8joZ9FqZn6PWOKgRqZvOL904NaC92cBQ+/YzO0zBzVV6rvc89fQF+M5uAzWDgMtj1NA2k5PNeToqEsT6i5IeVZN5ZES+0ZDULGkPrkiPK7oucBm1xR2mcq1dj7NQODf2IeWDjmrlJaVHwCnGfRNbAOHilguBHu4wppCgMSl5rOFZCxIz+GWFsyykeLYZI+BzMGkeR7GYcdSTkQynSLf5vS3SzC1eM11RLW6fgwlj6Q8cO2ZISNID8Q+ECc/RgXmjQJHKL3qO/CDhU5rAXWMtL9ihGdArXsXoq/BlvUcfo6L0yhBbJGT3rahECupvX00XsFmFIr18y7z1QxEBpms/PnItezsA4STi2mikIYFbksWeuzrxFy6fMYpmn1pFft/ZAsA2xuh4rXiaMaWGQmuQ6jESw3XawFeLYD7aRzfdAM809F/HMlKhsAWk3WpWmt/HM6qn4gEVAulg0xZkVqs6Kea/RHCtW2ZMVda4oRupoyKTOGS1PCu0ggBJhHSAB2sULcP+9GNeWjR0Otc2Ag==;8f7nb9CqaexujC0dBDtdfg=="
 ---

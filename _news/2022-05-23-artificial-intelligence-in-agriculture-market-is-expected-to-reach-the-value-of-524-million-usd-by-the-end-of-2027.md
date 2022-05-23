@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-23T05:42:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-agriculture-market-is-expected-to-reach-the-value-of-5-24-million-usd-by-the-end-of-2027"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-agriculture-market-is-expected-to-reach-the-value-of-5-24-million-usd-by-the-end-of-2027"
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/7f8b6157c13fc2c762dea1580670b4377d5c7d29-1-600x337.jpg"
@@ -39,6 +40,6 @@ related:
         height: 300
         isCached: true
 
-secured: "1FBvPDjuUE5uweBizrhYhwS2fl6ZifvIaYkTbfIHGYsK4V8x9NORs7xsQXIWVpluWhUmcIplmZKCwwCY6y0i2pKoJpzfQ62euIqdHms3IIB8JcMAO1ypjXn7sOPf+sFGpG54ul6ULiNWRfkUEcVIGkNOsJfZMNtINhJmPVI3u0b4b8wwYW3Xb4jEvmg0TEON3Q4Btpd128BPijUgcKuCH7IO7RgTmp5Jwsh8+9j3NQKhej3eBqj0xv40ZTvzTT4IFueA4a3ZR/q0jeonivmBV6nsMqUFjgaDVlNyaHGC9N3CMTjVZQj55tCpqRlnPuceHYVJhnwn8iKAfJX6hSaidbZ24tUWX4R32kxsPkVOtYI=;+aYcpkLwcehplcfCC2suzg=="
+secured: "n00Jc3kWdGzVz/Nof7YP8Gnzb5oJiHXvHTRTu95jnF44M+VzKOVquLp3p32vHicnxCclWg/ZNyiT5MzGax8Xst8RUjQTEGN2GuaqgC9iVcN29WFMS21iXbf0ZTnAnZNHj1yfeKd2UB9FatbqmFK7/ThMtaEVY5aA81jn/U+a3RhaDgMEmP8bKx4dvXCoKc+XuKuFopdugGH0bkSp7rd/BXEZUa4MPeGN1eHSz4oZ2hiErUiTysWd/ToCsnqSgotP4lTbYZEl/olJAEJrysUNeDz7tcOEJGJ9RYlOwPkX++VXmhRBvuQX5jhYcg8XdYfQuWOEvQYoLucWYEcgefQk95dKhBYjtS39AJ5iEH6Q/pwZup8SJRMmVBJnftokj1ikdZ3YSaOsQqN/BDmtGEqQxwud9ZokxagqisQqbkvNnNNvtMol38m7LttWW9XSuSGos5WmonErzr4VzL3iFKzmRbrXVaO39+thRy7INeha45+VsWO1c6xblxwV/3zx0pJ6h0CxcAqkAv/vrPta7S7+qA==;wg0eGGYJEXYN7suQBvgFkA=="
 ---
 

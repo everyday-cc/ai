@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/19/ai-ethics-forewar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/19/ai-ethics-forewarns-dont-be-caught-in-machine-learning-myopia-by-overlooking-neuro-symbolic-ai-including-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve//62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1833,1235,x170,y0,safe&width=1200"
         width: 1200
         height: 809
+        isCached: true
+  - title: "Self-driving delivery vans heading for UK roads as government launches £40m initiative"
+    excerpt: "Self-driving vans, buses and shuttles could soon hit the UK’s roads following the launch today (23 May) of a £40m funding competition. The move aims to kick-start commercial self-driving services, including delivery vehicles."
+    publishedDateTime: 2022-05-23T15:46:00Z
+    webUrl: "https://motortransport.co.uk/blog/2022/05/23/self-driving-delivery-vans-heading-for-uk-roads-as-government-launches-40m-initiative/"
+    type: article
+    provider:
+      name: Motor Transport
+      domain: motortransport.co.uk
+    quality: 16
+    images:
+      - url: "https://motortransport.co.uk/wp-content/uploads/2022/05/shutterstock_1014530413-2.jpg"
+        width: 800
+        height: 476
         isCached: true
 
 secured: "rddax76Cxi7SzRfhu9mP319aZZBR89msadY/GmhFjFG7jmc8cR2i1PcEHUiaudbkmNiqb7S6PzV1O2swkUHaW36ZXHIac4xwmRsZPm1ZrobdjCHc/QvjxN4jBehsDwhgFbiTW1r7wtEg6Ze9f3Vgn5YcFirca6WGni+8qjAJYEyDAgMNh7QKr3wS2h+mwfI5B9bAkEXu5/kVmWUQ62J0WRpvwt6a3vXql+o7xdSalaGkLPGykYv2M2csbrz1H0zM6bv2ZBQ9zOUmnWluSNtID45IBuIh5uHx9IQzXPrUsN58ygvW4d8z4aKxyJrT173/xD//9OxyEEFJUhkD4lyPgIaMXEyoO/Z2NlVgRC1qR6/kbVteO0VPJ+FGg5OOiS0btXLe3uPDG5YQ3n6QRDPyzMrzNyBnzBVVzkyThoZvrc3Deocg2SfpZ+AgdD3WB6Aoj8OhUm1AOYocUst5DxVDv9HuFvRkNuGKNNjnwJVTZNsfnHofBVFLWewUDpfoPAyoje7HmErXGfa+CKblC/IARg==;Pf8paldCtNYdSqq37vwX2Q=="

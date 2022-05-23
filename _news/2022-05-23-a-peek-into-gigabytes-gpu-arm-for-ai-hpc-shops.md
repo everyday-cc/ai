@@ -3,8 +3,8 @@ category: news
 title: "A peek into Gigabyte's GPU Arm for AI, HPC shops"
 excerpt: "Arm-based servers continue to gain momentum with Gigabyte Technology introducing a system based on Ampere's Altra processors paired with Nvidia A100 GPUs, aimed at demanding workloads such as AI training and high-performance compute (HPC) applications."
 publishedDateTime: 2022-05-23T15:08:00Z
-originalUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/?td=keepreading-btm"
-webUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/?td=keepreading-btm"
+originalUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/"
+webUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/23/gigabyte_intros_arm_server/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/23/gigabyte_intros_arm_server/"
 type: article
@@ -38,6 +38,6 @@ related:
       domain: insidehpc.com
     quality: 14
 
-secured: "swWOjiPt5/X7M2JY08vX5bioB8044V8epBZEjz9MSfGo4PBHkctEbpthCT4q0upjf+rYExt5lh80aOnD5Pz+XpOsTlgm1/gjC1W8LHMnlf7IRyScL5zYiDlm+ZJxC+rsVma7wt3ZqILH9gwJP7AkrY5bHdqfK3bwyHTb0SWZXdkNI+cAR82TCdUNH2h4/s6JElvDbWgz46Z1QNV0LPMbkqs6U/oVnybxP1s4FDGRhHp4CDlTUDkvS6oGTtkMMH32RIictPy3ZQAwEvBgRAINoXgNI9u6bW9KDLQQwOEqdnSbykR+UnoMBNQPgMwtk3khT2URc7/wYajfnYiYd4BHRYMtZMdZvU8VUXZDs/MXAPY=;6406nQN1Af7XtpGwh2RVAA=="
+secured: "994KvOvceGK+zgsxKpSslNqWPB5BGmtS19YzAYLeqxwJdX3NwUoivZH84D1Ue0N8JnF5HnLJWDzzumb1A7zFCVuxidM9/PkZN7qd/WW+YVHfibm/l8o9DxQwKKA5lyYlYNpU9+2aW9RPatpOv+xkVzRTx7H9Cg2gSITXy2Da53f5Zn0MWA9hia743nezZRa/TUpKzmxsX4K8iZchFNbdihrY4PrbFTF8NVYd9s9prGIGkEGc+7vZ4KuMVO2xxYyudhQj3wdunoWUq1OksTdIuRje22MqWgUNAicqVL3wtFQfXSicgzB91kbGtV3KYu0PJphqeQEwxF1nIkzYeRwEmbwoOJk5GJbEoBEd1BCcq6c=;5Gju65FDN4f+/Ot/xPa5Og=="
 ---
 

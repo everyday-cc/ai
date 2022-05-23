@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-24-leave-space-exploration-to-the-robots-says-new-book.md",
+      "title": "Leave Space Exploration To The Robots, Says New Book",
+      "excerpt": "Compelling new book argues that we really need to forget about astronauts and instead renew our focus on robotics for the continued exploration of space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
+      "originalUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6264f17889d41edd0830febc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
+      "publishedDateTime": "2022-04-23T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-japan-plans-mind-reading-robots-and-brain-interface-devices-by-2020.md",
+      "title": "Japan plans mind-reading robots and brain interface devices 'by 2020'",
+      "excerpt": "The Japanese government and private sector are, according to the Nikkei, all set to begin work on a collaborative new project to develop thought-controlled gadgets, devices ... and robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2010-04-23-japan-plans-mind-reading-robots-and-brain-interface-devices-by.html",
+      "originalUrl": "https://www.engadget.com/2010-04-23-japan-plans-mind-reading-robots-and-brain-interface-devices-by.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/XYbrXNO7oanMjSOMWhmDlA--~B/aD0zNDA7dz01NjY7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2010/04/23apr10o2353fjapan.jpg",
+          "width": 566,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-mind-reading-for-robotic-limb-control.md",
+      "title": "Mind Reading for Robotic Limb Control",
+      "excerpt": "The aim of the research is to develop real-time mind-controlled robotic limbs for the disabled, according to an announcement made at an April 16 symposium in Aichi prefecture. Although brain waves ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2008/04/mind_reading_for_robotic_limb_control.html",
+      "originalUrl": "https://www.medgadget.com/2008/04/mind_reading_for_robotic_limb_control.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-how-to-protect-ai-from-cyberattacks-start-with-the-data.md",
       "title": "How to protect AI from cyberattacks – start with the data",
       "excerpt": "AI is a digital technology, which means it can be compromised particularly when confronted by an intelligent attack",
@@ -1221,154 +1359,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving.md",
-      "title": "Tesla's Optimus Robot Could Arrive As Soon As EV Full Self-Driving",
-      "excerpt": "During Tesla Inc's (NASDAQ: TSLA) most recent earnings call, CEO Elon Musk laid out expectations for achieving full self-driving in 2022, but he",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "originalUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/04/14/0x0-kjc_5055-1.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26644087",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26644087",
-      "publishedDateTime": "2022-04-15T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-roboticist-shares-why-she-loves-working-at-boston-dynamics.md",
-      "title": "Roboticist shares why she loves working at Boston Dynamics",
-      "excerpt": "someone asks if humans have total control over the talented quadruped. Reassuringly for those fearing the robot uprising, Moreira responds: “Yes, Spot does not have a mind of its own. You have a controller where you can directly command Spot, kind of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/",
-      "originalUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/roboticist-boston-dynamics-2.jpg",
-          "width": 904,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/?amp",
-      "publishedDateTime": "2022-04-14T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-show-us-your-robots-at-tc-sessions-robotics-2022.md",
-      "title": "Show us your robots at TC Sessions: Robotics 2022",
-      "excerpt": "It’s time to gather your robots and get ready for a high-tech show-and-tell at TC Sessions: Robotics 2022 on July 22 at the Hynes Convention Center in Boston, Massachusetts. Join more than 2,000 other brilliant,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/",
-      "originalUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628-1.png?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/",
-      "publishedDateTime": "2022-04-14T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

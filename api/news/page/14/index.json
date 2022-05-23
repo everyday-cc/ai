@@ -2,6 +2,336 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-05-08-5-ways-ai-can-help-solve-the-privacy-dilemma.md",
+      "title": "5 ways AI can help solve the privacy dilemma",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/",
+      "originalUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/amp/",
+      "publishedDateTime": "2022-05-08T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-08-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence industry is expected to grow to $554 billion in total revenue by 2024, according to market research firm IDC.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
+      "originalUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-08T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics",
+        "IBM AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-08-artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases.md",
+      "title": "Artificial Intelligence (AI) Discovers Precise Treatments for Blinding Diseases",
+      "excerpt": "New study discovers subpopulations of retinal cells using artificial intelligence, that may help modify the treatment preciseness of blinding eye diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/eye6.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
+      "publishedDateTime": "2022-05-07T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-08-what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era.md",
+      "title": "What voice tech can teach us about brand innovation in the Web3 era",
+      "excerpt": "The rise of voice tech to mainstream prominence provides lessons for brands when considering the augmented worlds of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/",
+      "originalUrl": "https://venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1093904450.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/amp/",
+      "publishedDateTime": "2022-05-07T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-08-artificial-intelligence-tapped-to-fight-western-wildfires.md",
+      "title": "Artificial intelligence tapped to fight Western wildfires",
+      "excerpt": "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have a new tool to add to their arsenal of prescribed burns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
+      "originalUrl": "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/07/Spring_Wildfires_50329.jpg-e40f6_c0-204-4896-3060_s1200x700.jpg?4f73bfd5e643028254bdc4481a457737dfcd6b2f",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
+      "publishedDateTime": "2022-05-07T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-08-microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business.md",
+      "title": "Microsoft veteran Bob Muglia: Relational knowledge graphs will transform business",
+      "excerpt": "The basic story is this: Five companies have created modern data analytics platforms, Snowflake, Amazon, Databricks, Google, and Azure, but those data analytics ... That includes much more use of machine learning within business analytics, as the name ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6c1577c7fa2cd45817e9491718dfc95ca6d3457e/2022/05/07/4f3a30a8-c5f2-4bbd-8a4f-86a5f7b488ec/from-modern-data-stack-to-knowledge-graphs-5-1-22-slide-28.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
+      "publishedDateTime": "2022-05-07T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-07-artificial-intelligence-tapped-to-fight-western-wildfires.md",
+      "title": "Artificial intelligence tapped to fight Western wildfires",
+      "excerpt": "Officials tasked with preventing and battling large, destructive wildfires in the West could soon be using artificial intelligence in addition to their arsenal of prescribed burns, pick axes, chain saws and aircraft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires",
+      "originalUrl": "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/6f63def/2147483647/strip/true/crop/2436x1370+10+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fa8%2F2210e55e44b6ac36223edd42b57f%2Fwildfire.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true",
+      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true",
+      "publishedDateTime": "2022-05-07T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "7News and TheDenverChannel.com",
+        "domain": "thedenverchannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-07-cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less.md",
       "title": "Cybersecurity reporting mandates could make us more vulnerable, not less",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -858,324 +1188,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom.md",
-      "title": "Artificial intelligence helps decode sounds of the animal kingdom",
-      "excerpt": "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
-      "originalUrl": "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/5752abc/2147483647/strip/true/crop/900x506+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F97%2F14%2Fc5200d774c06abf9d29172df0431%2Funderstanding-animal-sounds.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
-      "publishedDateTime": "2022-05-06T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 17",
-        "domain": "fox17online.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images.md",
-      "title": "11,400 ‘Citizen Scientists’ Help Discover 1,031 New Asteroids After Search Of Old Hubble Images",
-      "excerpt": "Artificial intelligence: an automated deep learning algorithm built with Google Cloud AutoML Vision. The search also unearthed new galaxies and nebulae. Some asteroids from within our Solar System have photobombed deep images of the Universe taken by",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/",
-      "originalUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62750318e66defb8b43ddefe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/amp/",
-      "publishedDateTime": "2022-05-06T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-driverless-robotaxi-gets-clearance-to-use-public-roads-in-china.md",
-      "title": "Driverless robotaxi gets clearance to use public roads in China",
-      "excerpt": "Baidu and Pony.ai got the clearance to use public roads in China for the robotaxis which are capable of servicing passengers without a driver.",
-      "sourceUrl": null,
-      "webUrl": "https://philkotse.com/market-news/driverless-robotaxi-in-china-12660",
-      "originalUrl": "https://philkotse.com/market-news/driverless-robotaxi-in-china-12660",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.philkotse.com/2022/05/06/KjJYY7r3/pony-ai-1-d10f_wm.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://philkotse.com/market-news/driverless-robotaxi-in-china-12660/amp",
-      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/driverless-robotaxi-in-china-12660/amp",
-      "publishedDateTime": "2022-05-06T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philkotse",
-        "domain": "philkotse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-global-ai-in-fashion-market-size-2022-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-to-2027-research-report.md",
-      "title": "Global AI in Fashion Market Size 2022, Market Movements by Trend Analysis, Growth Status and Revenue Expectation to 2027 Research Report",
-      "excerpt": "AI in Fashion Market Share 2022-2027 Global Industry research report presents you analysis of market ... Oracle (US), AWS (US), IBM (US), Adobe (US), Google (US), Lily AI (US), Facebook (US), SAP (Germany), Vue.ai (US), Wide Eyes (Spain), Huawei (China ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/46437579/global-ai-in-fashion-market-size-2022-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-to-2027-research-report",
-      "originalUrl": "https://www.wicz.com/story/46437579/global-ai-in-fashion-market-size-2022-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-to-2027-research-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ABSOLUTEREPORTS.images.worldnow.com/images/22634945_G.png?lastEditedDate=1651815339000",
-          "width": 904,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention.md",
-      "title": "Dall-E 2: Why the AI image generator is a revolutionary invention",
-      "excerpt": "A piece of software is able to generate detailed images from just a short, worded prompt… but it comes with obvious issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/",
-      "originalUrl": "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.immediate.co.uk/production/volatile/sites/4/2022/05/Dall-E-small-a7397dd.jpg?quality=90&resize=960,413",
-          "width": 960,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/amp/",
-      "cdnAmpWebUrl": "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/amp/",
-      "publishedDateTime": "2022-05-06T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC Focus",
-        "domain": "sciencefocus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-aws-allows-a-lenovo-server-to-play-in-its-on-prem-ai-video-cloud.md",
-      "title": "AWS allows a Lenovo server to play in its on-prem AI video cloud",
-      "excerpt": "Amazon Web Services has allowed a third-party hardware offering into its universe, with a Lenovo server dedicated to video analytics scoring the gig. To understand why AWS has endorsed third-party hardware we need to revisit the 2020 re:invent conference,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "originalUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/05/06/supplied_lenovo_thinkedge_se70.jpg",
-          "width": 1201,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "publishedDateTime": "2022-05-06T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-the-benefits-and-dangers-of-using-ai-in-recruitment.md",
-      "title": "The Benefits And Dangers Of Using AI In Recruitment",
-      "excerpt": "Artificial Intelligence (AI) has made massive inroads into wider HR practices and recruitment in particular. Here we look at the problems as well as benefits of using AI in recruitment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6274afa31115eb7c6b1222ff/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/amp/",
-      "publishedDateTime": "2022-05-05T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
