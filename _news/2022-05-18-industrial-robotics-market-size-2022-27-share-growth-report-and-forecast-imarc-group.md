@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (Chipsets) Market Size is set to record 40.1% CAGR during forecast 2022-2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 17, 2022 (Market Insight Reports) -- Selbyville, Delaware Artificial Intelligence (Chipsets) Market research is an intelligence report with meticulous efforts undertaken ..."
-    publishedDateTime: 2022-05-18T06:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-is-set-to-record-401-cagr-during-forecast-2022-2027-2022-05-17?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Fintech Market Size, Share, Price Trend by Type, Segment Analysis by Application and Regional Forecast-2028"
     excerpt: "AI in Fintech Market Forecast with sales and Revenue ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors."
     publishedDateTime: 2022-05-20T11:33:00Z

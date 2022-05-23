@@ -35,29 +35,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Robot hives hope to keep bees buzzing"
-    excerpt: "They function as normal hives, but apiaries built at a kibbutz in Israel’s Galilee are decked out with high-tech artificial intelligence systems set to ensure longevity for these vital pollinators."
-    publishedDateTime: 2022-05-18T06:20:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/18/robot-hives-hope-to-keep-bees-buzzing"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/18/1588883.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "Robot hives in Israel aims to keep bees buzzing"
-    excerpt: "Startup Beewise came up with the idea to reduce mortality rates in a species that has seen sharp rates of decline due to environmental threats."
-    publishedDateTime: 2022-05-18T05:36:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/top-lifestyle/2022/05/18/robot-hives-in-israel-aims-to-keep-bees-buzzing/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
 
 secured: "sj6qd4BwaJIoXUW8nMqDhxMkOYOBGWHl/B+B9kLfcZREhuaMZcc3s5fMhK4P+2Ijkl/UU/BhMNPn3JVXCEZ0k7FC4diB75Oktr7R919mRGOp4LhqqlBfI/BpfS0a3JQ+W7B0bCpdG44zUWxvzCS/eiDj4zPrDuVgeG5dtTGx1WS2qKfYGO5G4R/akYjIMT2bNygKpoArqz59/OHtIflhH1ULQD6dB4Hs2gdh4FwBEXl9LSPy7GK8gbzVMRn9dat9+c6znPjltbcnsP8cwwUMp6LZG7ei9WAfo9GHDvm7aFbfXD7Enwr0WQskvA0pndzTknqZhRnBswyTpw97tyy8qhlCFHGqO45egkmLqYzy1fzn/jHKYO9KnkmuSrlxPe9z4Dp2ixCoR53qfmSYuxn6KHWHl9g8Tt6oXYCTl5/CirwKyCi98EN60WU9QOpJGRq5J02Ug5FJO/a9zazrUgzObAifsx8O/Tdf6fxTXOvUXkh/vzLdSjcvV/aC2iPFTFe05jVgPhNvs2wKTZQ15gqKeg==;liMqaQ0YALk21AKBjOGmXw=="
 ---

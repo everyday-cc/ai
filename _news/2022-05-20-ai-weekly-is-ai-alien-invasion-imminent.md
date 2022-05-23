@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-im
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

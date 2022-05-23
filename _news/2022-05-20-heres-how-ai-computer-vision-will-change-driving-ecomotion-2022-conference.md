@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/business-and-innovation/tech-and-start-ups/artic
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-707220/amp"
 type: article
 quality: 70
-heat: 81
+heat: 80
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.hackread.com/short-guide-understanding-exciting-realm-
 webUrl: "https://www.hackread.com/short-guide-understanding-exciting-realm-fintech/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,73 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Payments Fintech Banking Circle Maintains Steady Growth Trajectory"
-    excerpt: "We have also sustained investment in the use of AI to enhance the effectiveness of the AML processes ... online lending, and other forms of Fintech. Announcing the Launch of the ConvoyFiCrowdfunding Website ConvoyFi is theFirst Decentralized ..."
-    publishedDateTime: 2022-05-18T05:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 74
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Graph-Growth-Increase-768x1024.jpg"
-        width: 768
-        height: 1024
-        isCached: true
-  - title: "Five Ways Artificial Intelligence in FinTech is Changing the Industry"
-    excerpt: "Artificial intelligence has become a promising technology for enterprises from various sectors of the economy. Financial companies are pioneers and leaders in this field. Autonomous Research calculated that by 2030 AI will save the industry up to 22% of the funds."
-    publishedDateTime: 2022-05-18T08:33:00Z
-    webUrl: "https://www.finextra.com/blogposting/22305/five-ways-artificial-intelligence-in-fintech-is-changing-the-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "10 Upcoming Fintech Webinars to Watch Live if You’re in Asia"
-    excerpt: "For fintech entrepreneurs, professionals and investors located in Asia, we’ve compiled a list of the top upcoming webinars to watch live. These virtual events are meant to help viewers learn about some of the hottest fintech trends and biggest opportunities out there."
-    publishedDateTime: 2022-05-18T06:04:00Z
-    webUrl: "https://fintechnews.sg/61208/events/10-upcoming-fintech-webinars-to-watch-live-if-youre-in-asia/"
+  - title: "Here Are Vietnam’s 8 Most Active Fintech Investors and The Startups They Are Betting On"
+    excerpt: "As fintech continues to pick up to steam in Vietnam, we look today at the investors supporting that momentum. For this list, we’ve selected eight of the most active investors in the Vietnamese fintech sector,"
+    publishedDateTime: 2022-05-19T07:08:00Z
+    webUrl: "https://fintechnews.sg/60987/vietnam/here-are-vietnams-8-most-active-fintech-investors-and-the-startups-they-are-betting-on/"
     type: article
     provider:
       name: Fintech Singapore
       domain: fintechnews.sg
-    quality: 24
+    quality: 16
     images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/10-Upcoming-Fintech-Webinars-to-Watch-Live-if-Youre-in-Asia.png?x82653"
-        width: 1025
-        height: 567
-        isCached: true
-  - title: "Top 10 Upcoming In-Person Fintech Events to Be Held in Singapore in 2022"
-    excerpt: "Striving to become a global node for business tourism in Asia, Singapore has taken big steps to regain a sense of normalcy for meetings, incentives, conferences and exhibitions, by relaxing protocols."
-    publishedDateTime: 2022-05-19T10:14:00Z
-    webUrl: "https://fintechnews.sg/61268/events/top-upcoming-in-person-fintech-events-to-be-held-in-singapore-2022/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 23
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/Top-10-Upcoming-In-Person-Fintech-Events-to-Be-Held-in-Singapore-in-2022.png?x82653"
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/A-Look-at-8-of-the-Most-Active-Investors-in-Vietnams-Fintech-Startups.png?x82653"
         width: 1024
         height: 567
         isCached: true
-  - title: "CBB launches Bahrain Supernova FinTech Challenges 2022"
-    excerpt: "The Central Bank of Bahrain (CBB) has launched its second annual series of nationwide FinTech innovation challenges, Bahrain Open Banking Supernova 2022, which will be hosted on FinHub 973, the CBB’s Digital Lab,"
-    publishedDateTime: 2022-05-18T10:54:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDtXm9hx6uxSIMngb0867aIw%3d"
+  - title: "FinTech: Accelerating the transformation of the modern financial industry"
+    excerpt: "Readers will also discover how FinTech innovations bridge the banks and financial institutions to corporations, households, and individuals, with the growing interests in Digital Currencies, Open Banking, and Banking-as-a-Service (BaaS) models. To help ..."
+    publishedDateTime: 2022-05-19T13:51:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/953271"
     type: article
     provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 19
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 3
   - title: "Railz Appoints Fintech Veteran as Chief Operating Officer to Help Accelerate Company Growth and Expansion"
     excerpt: "Railz, a financial technology company that helps banks and fintech quickly harness and analyze small-medium business (SMB) data, announced that payments industry leader Amitaabh"
     publishedDateTime: 2022-05-19T12:37:00Z
@@ -101,15 +57,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 2
-  - title: "Fintech Startup TradeStreet Tracking Unusual Market Events Expands Internationally"
-    excerpt: "The Swiss and Czech-based startup TradeStreet using a proprietary algorithm to track unusual stock market events is expanding its coverage from Switzerland and Czechia to the rest of Europe and the United States."
-    publishedDateTime: 2022-05-18T14:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-5-18-fintech-startup-tradestreet-tracking-unusual-market-events-expands-internationally"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "mblr8joZ9FqZn6PWOKgRqZvOL904NaC92cBQ+/YzO0zBzVV6rvc89fQF+M5uAzWDgMtj1NA2k5PNeToqEsT6i5IeVZN5ZES+0ZDULGkPrkiPK7oucBm1xR2mcq1dj7NQODf2IeWDjmrlJaVHwCnGfRNbAOHilguBHu4wppCgMSl5rOFZCxIz+GWFsyykeLYZI+BzMGkeR7GYcdSTkQynSLf5vS3SzC1eM11RLW6fgwlj6Q8cO2ZISNID8Q+ECc/RgXmjQJHKL3qO/CDhU5rAXWMtL9ihGdArXsXoq/BlvUcfo6L0yhBbJGT3rahECupvX00XsFmFIr18y7z1QxEBpms/PnItezsA4STi2mikIYFbksWeuzrxFy6fMYpmn1pFft/ZAsA2xuh4rXiaMaWGQmuQ6jESw3XawFeLYD7aRzfdAM809F/HMlKhsAWk3WpWmt/HM6qn4gEVAulg0xZkVqs6Kea/RHCtW2ZMVda4oRupoyKTOGS1PCu0ggBJhHSAB2sULcP+9GNeWjR0Otc2Ag==;8f7nb9CqaexujC0dBDtdfg=="
 ---
