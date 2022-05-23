@@ -2,6 +2,373 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-02-22-ydata-launches-data-centric-ai-community-for-data-scientists.md",
+      "title": "YData launches data-centric AI community for data scientists",
+      "excerpt": "Register here. Chief data officers, data scientists and data analysts of all stripes may be interested in a new AI support and information community that’s debuting today. That special ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/",
+      "originalUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1327569482-e1645483723963.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/",
+      "publishedDateTime": "2022-02-22T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-neosapience-gets-215m-to-use-ai-powered-synthetic-avatars-for-creators.md",
+      "title": "Neosapience gets $21.5M to use AI-powered synthetic avatars for creators",
+      "excerpt": "Korean startup called Neosapience has developed a ... It will not only allow content with less effort but also execute on our vision of AI-powered virtual actors being accessible to everyone ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/",
+      "originalUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-21-at-11.10.27-AM.png?w=1024",
+          "width": 1024,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/",
+      "publishedDateTime": "2022-02-22T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19.md",
+      "title": "Skymount Medical, Inc.: Skymount Medical Receives UK MHRA Approval to Test New Treatment in Patients with Mild to Moderate COVID-19",
+      "excerpt": "Feb. 22, 2022 (GLOBE NEWSWIRE) -- Skymount Medical, a drug discovery company using an artificial intelligence (AI ... the reach of this combination therapy internationally.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-02/55306795-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-02/55306795-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-homology-joins-biomarin-in-halting-gene-therapy-studies-for-rare-metabolic-disease.md",
+      "title": "Homology joins BioMarin in halting gene therapy studies for rare metabolic disease",
+      "excerpt": "It was a tough week for companies, patients and families hoping a gene therapy for the rare metabolic disease phenylketonuria is on its way. On Friday afternoon, after BioMarin had already announced its program would be on hold for at least “several quarters,",
+      "sourceUrl": null,
+      "webUrl": "https://endpts.com/homology-joins-biomarin-in-halting-gene-therapy-studies-for-rare-metabolic-disease/",
+      "originalUrl": "https://endpts.com/homology-joins-biomarin-in-halting-gene-therapy-studies-for-rare-metabolic-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ENDPOINTS NEWS",
+        "domain": "endpts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare.md",
+      "title": "Why Developing Decision Intelligence And Support Is The Crucial Next Step For AI In Healthcare",
+      "excerpt": "To be clear, much of what is commonly dubbed \"artificial intelligence\" today doesn't really live up to the definition. In healthcare, particularly, plenty of purportedly AI-powered solutions merely represent long-overdue IT automation implementations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6205174d5de155a4329ea195/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
+      "publishedDateTime": "2022-02-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-microsoft-reveals-singularity-ai-infrastructure-service.md",
+      "title": "Microsoft reveals ‘Singularity’ AI infrastructure service",
+      "excerpt": "Microsoft Azure and Research teams are working together to build a new AI infrastructure service, called Unity. The Unity Team is working to build what Microsoft describes in some of its team operations as a new AI service from the beginning platform that ...",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Microsoft-reveals-Singularity-AI-infrastructure-service-01.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/",
+      "publishedDateTime": "2022-02-22T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers.md",
+      "title": "Sustainable AI Turns Small Data Into Huge Results For Manufacturers And Researchers",
+      "excerpt": "Just ask some of the customers from Hacarus, a Japan-based startup that’s developed a standout AI-fueled visual inspection solution. Manufacturers and medical researchers have discovered sparse modeling is the sustainable antidote to traditional AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620a7008f65109a2886f0b25/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
+      "publishedDateTime": "2022-02-22T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation.md",
+      "title": "Making Sense Of The 'Unknown' With Data Intelligence And Hyperautomation",
+      "excerpt": "Analysts like Gartner propose that robotic process automation (RPA), low-code application platforms, integration platform as a service (iPaaS), artificial intelligence (AI), intelligent document processing and other streamlining hyperautomation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f5a781e94c16200363132d/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/amp/",
+      "publishedDateTime": "2022-02-22T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-key-learnings-for-financial-brands-to-use-in-2022.md",
       "title": "Key Learnings For Financial Brands To Use In 2022",
       "excerpt": "Dmitry Dolgorukov is the Co-Founder and CRO of HES Fintech, a leader in providing financial institutions with intelligent ... So how can brands engage artificial intelligence (AI) and machine learning (ML) effectively to get tangible results?",
@@ -810,404 +1177,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service.md",
-      "title": "Microsoft goes public with details on its 'Singularity' AI infrastructure service",
-      "excerpt": "She is the author of 2.'s Azure and Research teams are working together to build a new AI infrastructure service, codenamed \"Singularity.\" The Singularity team is working to build what describes in some of its job postings for the group,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5dcf3d674c0197c63f668fe41924cf7082da7b01/2022/02/21/9f3ec88d-87db-45bd-b79c-7a1b2522126a/singularityaiservicemicrosoft.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "publishedDateTime": "2022-02-21T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-new-machine-learning-model-flags-abnormal-brain-scans-in-real-time.md",
-      "title": "New machine learning model flags abnormal brain scans in real-time",
-      "excerpt": "Researchers from the King's College London School of Biomedical Engineering & Imaging Sciences have developed a deep learning framework based on convolutional neural networks to flag clinically relevant abnormalities at the time of imaging,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brainscan.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.amp",
-      "publishedDateTime": "2022-02-21T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business.md",
-      "title": "Running multiple APIs side-by-side with AI paves way to hyperautomation for business",
-      "excerpt": "Running existing APIs side-by-side can cut costs while reducing inefficiencies, but it requires a critical missing piece – AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/",
-      "originalUrl": "https://venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1219705473.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/amp/",
-      "publishedDateTime": "2022-02-21T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-could-ai-help-solve-the-global-chip-shortage.md",
-      "title": "Could AI Help Solve The Global Chip Shortage?",
-      "excerpt": "Today’s chip shortage is holding back global economic growth, fueling inflation and making life difficult for consumers and business alike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620d50fbb36ef033e8f05d4f/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/amp/",
-      "publishedDateTime": "2022-02-21T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.md",
-      "title": "A Look at What’s Next in AI, Virtual Collaboration, and Beyond",
-      "excerpt": "Choose from 900+ sessions across robotics, speech AI, data science, and more The conference is packed with talks from the brightest minds in the business. With over 900 sessions to choose from, you’ll find the insights needed to accelerate your life’s work: whether you’re fascinated by robotics research;",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
-      "originalUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/02/2158900-gtc22-spring-digital-advertorial-bnr-1200x675-engb-100919670-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
-      "publishedDateTime": "2022-02-21T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-irs-adds-option-that-lets-taxpayers-skip-facial-recognition.md",
-      "title": "IRS Adds Option That Lets Taxpayers Skip Facial Recognition",
-      "excerpt": "The Internal Revenue Service on Monday said it has enabled a new option that allows taxpayers to sign up for online accounts with the agency without the use of any biometric data, including facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "originalUrl": "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 319,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/7betrcU9jHZ1tSz-tNe_qVOBzRw=/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "publishedDateTime": "2022-02-21T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-self-driving-trucks-still-need-humans.md",
-      "title": "Self-driving trucks still need humans",
-      "excerpt": "The future of autonomous trucking requires the definition of a man-machine interface that can handle every operational situation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/self-driving-trucks-still-need-humans/",
-      "originalUrl": "https://www.techrepublic.com/article/self-driving-trucks-still-need-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2014/03/truck_849x565_031814.jpg?x23932",
-          "width": 849,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/self-driving-trucks-still-need-humans/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/self-driving-trucks-still-need-humans/amp/",
-      "publishedDateTime": "2022-02-21T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-ongoing-investigation-notice-the-schall-law-firm-encourages-investors-in-c3ai-inc-with-losses-of-100000-to-contact-the-firm.md",
-      "title": "ONGOING INVESTIGATION NOTICE: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $100,000 to Contact the Firm",
-      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / February 21, 2022 / The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/ac25738076/ongoing-investigation-notice-the-schall-law-firm-encourages-investors-in-c3-ai-inc-with-losses-of",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/ac25738076/ongoing-investigation-notice-the-schall-law-firm-encourages-investors-in-c3-ai-inc-with-losses-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25738076",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25738076",
-      "publishedDateTime": "2022-02-21T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

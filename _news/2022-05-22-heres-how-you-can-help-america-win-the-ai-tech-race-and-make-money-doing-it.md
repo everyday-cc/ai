@@ -9,8 +9,8 @@ ampWebUrl: "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-w
 cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Money Morning
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ignore At Your Peril: How Africa’s AI And Startup Scene Is Getting Ready To Change The World"
+    excerpt: "Embodying entrepreneurship and innovation like no other sector, Africa’s startup ecosystem is blossoming. Innovative thinkers are localising tools such as AI and edge computing, among other technologies,"
+    publishedDateTime: 2022-05-23T08:05:00Z
+    webUrl: "https://za.investing.com/news/ignore-at-your-peril-how-africas-ai-and-startup-scene-is-getting-ready-to-change-the-world-2559616"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 28
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
   - title: "Letters from America – risks of discrimination in AI-backed recruitment processes (UK)"
     excerpt: "So following our recent post on proposed new regulations it’s not just the EU that is looking askance at the potential risks of artificial intelligence in recruitment.  From acros"
     publishedDateTime: 2022-05-20T18:54:00Z

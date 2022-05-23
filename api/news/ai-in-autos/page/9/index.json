@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-01-starship-technologies-raises-another-42m-to-fuel-the-growth-of-its-fleet-of-self-driving-delivery-robots.md",
+      "title": "Starship Technologies raises another $42M to fuel the growth of its fleet of self-driving delivery robots",
+      "excerpt": "Starship Technologies, one of the bigger players in the world of autonomous delivery robots — the small, boxy vehicles that self-drive around cities and closed campuses delivering food and other small items — has raised yet another round of funding,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/01/starship-technologies-raises-another-42m-to-fuel-the-growth-of-its-fleet-of-self-driving-delivery-robots/",
+      "originalUrl": "https://techcrunch.com/2022/03/01/starship-technologies-raises-another-42m-to-fuel-the-growth-of-its-fleet-of-self-driving-delivery-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Starship-Technologies-2.jpeg?w=840",
+          "width": 840,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/01/starship-technologies-raises-another-42m-to-fuel-the-growth-of-its-fleet-of-self-driving-delivery-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/01/starship-technologies-raises-another-42m-to-fuel-the-growth-of-its-fleet-of-self-driving-delivery-robots/amp/",
+      "publishedDateTime": "2022-03-01T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-baidu-beats-quarterly-revenue-estimates.md",
       "title": "Baidu beats quarterly revenue estimates",
       "excerpt": "Chinese search engine giant Baidu Inc BIDU.O reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-d",
@@ -1299,58 +1351,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-19-chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen.md",
-      "title": "China's Baidu Launches Self-Driving Taxis in Densely Populated Shenzhen",
-      "excerpt": "Chinese tech firm Baidu launched its self-driving taxi service in downtown Shenzhen on Thursday, marking the company’s first deployment of autonomous vehicles into a densely populated area of China.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493",
-      "originalUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3a3f19bdef62d31e313b4ac74f3f28d7.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp",
-      "publishedDateTime": "2022-02-18T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

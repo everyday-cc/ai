@@ -41,6 +41,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Bengaluru-based self-driving startup Minus Zero raises USD 1.7 Mn"
+    excerpt: "Bengaluru-based self-driving startup Minus Zero has raised USD 1.7 million in seed funding led by tech VC firm Chiratae Ventures."
+    publishedDateTime: 2022-05-23T09:49:00Z
+    webUrl: "https://analyticsindiamag.com/bengaluru-based-self-driving-startup-minus-zero-raises-usd-1-7-mn/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Founders-photo-1.png"
+        width: 1196
+        height: 843
+        isCached: true
 
 secured: "5+LThmatCWv7B82bPYhLeGxU4adyUDMRa/nYVVedqQQOcpXzGaCnDJY//aC+KSvx03Eg0xi2fPvrn+PXzFkfZzMj+gGt4oEBNAtJyS7+cL3lgcbGt6Rpl2rCeoU9FgHKZJm+VycxEPJvLTGF6Lnb+3uaArKiOY1y1MbrPwPOc6eTUADT9stpf+wCFl/9cnVsyoHyMr3LwQrd6yoXArrRj219U6xUnVF3SA/S/hlupa9mpugnGmAaNKlqRU9lXdaDJqvga/ytvxNr/NH0SnzPVZWYT1i+e5aCztKU6e4/vhcf1hvzVGo6HPQYNl5kxR+8Kdx2esTly7I+YyzIRmbJKbvoUtG805uvbS1LSEm1AaSAb924bTeyl3P7OMTRcgqRb9X6uPPkvOom+Nifgq48c85GfXqLpyVxJN5zs8ojIP/JAeSlDQtK9rhiJcMNPl2+g5eicEicFLHXptWQatkoSf9X8et4zbnOEde4GxbibU3aMNhHNsoJGCShzOuiUq5MqThjTAzlexCNHT92Vx73rQ==;L3R5ngvAh9impJOenMnc6Q=="
 ---

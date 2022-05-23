@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-23-self-driving-startup-minus-zero-raises-17-million-in-funding-led-by-chiratae-ventures.md",
+      "title": "Self-driving startup Minus Zero raises $1.7 million in funding led by Chiratae Ventures",
+      "excerpt": "The company will use the funding for building an extensive autonomous vehicle research and development, infrastructure and hiring more people.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/articleshow/91735958.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/articleshow/91735958.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-299346,msid-91736088/minus-zero-founders.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms",
+      "publishedDateTime": "2022-05-22T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-ai-ethics-forewarns-dont-be-caught-in-machine-learning-myopia-by-overlooking-neuro-symbolic-ai-including-for-autonomous-self-driving-cars.md",
       "title": "AI Ethics Forewarns Don't Be Caught In Machine Learning Myopia By Overlooking Neuro-Symbolic AI, Including For Autonomous Self-Driving Cars",
       "excerpt": "There is a rising controversy about Machine Learning myopia as to overlooking the value of neuro-symbolic AI or hybrid AI, which has crucial ramifications for AI and AI Ethics. This includes the advent of AI-based self-driving cars.",
@@ -1366,58 +1409,6 @@
         "name": "7News and TheDenverChannel.com",
         "domain": "thedenverchannel.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-apples-self-service-repair-is-an-expert-self-own.md",
-      "title": "Apple’s Self Service Repair is an expert self-own",
-      "excerpt": "Self repairs designed to fail, and 10 great Mac features you don't know: All the news, rumors, and tips you missed this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/696937/apple-breakfast-may-7-2022.html",
-      "originalUrl": "https://www.macworld.com/article/696937/apple-breakfast-may-7-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.macworld.com/wp-content/uploads/2022/04/apple_breakfast_logo-34.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.macworld.com/article/696937/apple-breakfast-may-7-2022.html/amp",
-      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/696937/apple-breakfast-may-7-2022.html/amp",
-      "publishedDateTime": "2022-05-07T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

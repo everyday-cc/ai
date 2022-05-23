@@ -1,0 +1,67 @@
+---
+category: news
+title: "HyperSense named in 2022 Gartner(R) Market Guide for Multipersona Data Science and Machine Learning Platforms"
+excerpt: "Subex, a pioneer in the space of Digital Trust, has been named in 2022 Gartner(R) Market Guide for Multipersona Data Science and Machine Learning Platforms (DSML). Through HyperSense, Subex has been listed as a Representative Vendor in the report."
+publishedDateTime: 2022-05-23T08:17:00Z
+originalUrl: "https://www.newswit.com/en/LdzY"
+webUrl: "https://www.newswit.com/en/LdzY"
+type: article
+quality: 0
+heat: -1
+published: false
+
+provider:
+  name: academy
+  domain: newswit.com
+
+topics:
+  - Machine Learning
+  - AI
+
+related:
+  - title: "HyperSense named in 2022 Gartner® Market Guide for Multipersona Data Science and Machine Learning Platforms"
+    excerpt: "Subex listed as a Representative Vendor in the report BENGALURU, India, May 23, 2022 /PRNewswire/ -- Subex, a pioneer in the space of Digital Trust, has been named in 2022 Gartner®"
+    publishedDateTime: 2022-05-23T01:00:00Z
+    webUrl: "https://www.asiaone.com/business/hypersense-named-2022-gartner-market-guide-multipersona-data-science-and-machine-learning"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 21
+    images:
+      - url: "https://mma.prnasia.com/media2/1822606/Subex_Logo.jpg?p=medium600"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "HyperSense named in 2022 GartnerÂ® Market Guide for Multipersona Data Science and Machine Learning Platforms"
+    excerpt: "According to this Market Guide for Multipersona Data Science and Machine Learning Platforms, \"Data science and machine learning are evolving rapidly with key trends such as augmen"
+    publishedDateTime: 2022-05-23T04:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255494&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/1822606/Subex_Logo.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "HyperSense named in 2022 Gartnerreg; Market Guide for Multipersona Data Science and Machine Learning Platforms"
+    excerpt: "Subex a pioneer in the space of Digital Trust has been named in 2022 GartnerampregAccording to this Market Guide for Multipersona Data Science and Machine Lear"
+    publishedDateTime: 2022-05-23T05:49:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272561138/hypersense-named-in-2022-gartnerreg-market-guide-for-multipersona-data-science-and-machine-learning-platforms"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
+secured: "CuRApGNYZ5SLYjsmFWA7FNCXvAdhTRJms7QjyG+9dbXWPsKDo4KPKBB0yk3NVsqR9WZTv0LmjjLy9Ngb/KufwGTh/ohOCTW/QC9nWoQ1qENTT0zaiTv7tNM+M+eqFj4gddtgKykqUFU7oCqjqhAJ1UJcm7zTOVvCU/OfddfN4XJeWn5P9db/+g70aKOv1GIMvNe7n/CjQTdGk39Z4jqp9LXJ7CKHRgabPtL2+8qU4yPl4afI7mNjo5MS8wcbgKHJZzSmSxWqVIiMraDEggVagJ4RPMRSYlrf8xpV8XyV3zdD1GS3rl9dCdHE3nMOMSqqD5TcvrsEu0HMtcpm81UvqdvIKUJ+Pkw0R82y8c32KUQ=;7374JmWsIEoTBC8g/XeEXw=="
+---
+

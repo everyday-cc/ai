@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/ai-powered-prosthetic-arm"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-powered-prosthetic-arm"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 744
     height: 419
     isCached: true
-
-related:
-  - title: "Amputees able to move robotic arm with their mind"
-    excerpt: "When combined with an artificial intelligence computer and a robotic arm, the device can read and interpret brain signals, allowing upper limb amputees to control the arm using only their thoughts. “It’s a lot more intuitive than any commercial system ..."
-    publishedDateTime: 2022-05-18T15:51:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/amputees-able-to-move-robotic-arm-with-their-mind/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/18382/dreamstime_l_139572277.png?crop=0,0.24791666666666667,0,0.25989583333333327&cropmode=percentage&width=1200&height=450&rnd=132973636420000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "WDLC5HreE9lSDFyQznf4hXKMYXuaCc+S0C7YqOBuJhf04zOJWoMCFmQd9iR2foR3+AYdBCEw9voQmmGbLf6+BiKKo+re4sZIvNXNwcbWI72PpzvKQLLD+KyrToNxc3vAiJjERI8omypONjNMEETQTEP2Kdnn4Nt4PYaxzUdXzPnKMYDPOrrsGehWvR9sDlpX1cke1nYauCoMtHVQnfhMq5d9AuwrrypXk//ux2b0f+YfsLuuTF8oBdoJDjkUWg6Ku+4xwTb3FiFQ5jgfscaCt3RW/P+mTwXeCct5gHzG9nzM65wKwuP+AsrYsjNf5G2TNpzlBAog3hgidzokWii8OTPVbOdUcvF9bHcvm8B5wyPvPR62wvnyRsb653qJkKvxvAmLrGnJ4Qg2V3yEwJGqnhCyW6Mzw2gN4UBUO1Cmkqy29w7FJjsw4+xxcggDu63JQ6aZ0dXaX8V48bwTLDe6DOH+nT9v6nl+hLHCaqcLNNZIMpf5PEU1CNpRp7/ORzTEdTUbeJ2gW5dtELzkPWtvKQ==;B01hqze3U22P2SyKazVy/A=="
 ---

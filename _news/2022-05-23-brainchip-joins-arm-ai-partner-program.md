@@ -1,28 +1,24 @@
 ---
 category: news
 title: "BrainChip Joins Arm AI Partner Program"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 22, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of"
-publishedDateTime: 2022-05-22T21:34:00Z
-originalUrl: "https://www.digitaljournal.com/pr/brainchip-joins-arm-ai-partner-program"
-webUrl: "https://www.digitaljournal.com/pr/brainchip-joins-arm-ai-partner-program"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 22, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, announced today it"
+publishedDateTime: 2022-05-22T21:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/ac27340151/brainchip-joins-arm-ai-partner-program"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/ac27340151/brainchip-joins-arm-ai-partner-program"
+ampWebUrl: "https://www.benzinga.com/amp/content/27340151"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27340151"
 type: article
 quality: 54
 heat: 64
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/DDD-6-1-600x337.png"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "BrainChip Holdings Ltd.: BrainChip Joins Arm AI Partner Program"
@@ -35,6 +31,6 @@ related:
       domain: finanznachrichten.de
     quality: 34
 
-secured: "pi3rGJ+b8WVTytFEzpDjZpbP3+FVyNzJH1iLglbm4x0czDZr6J5A+8+BbCzOUbUlfQX0t0V4qZ3RXf36jxok68vvu+5SZB6Ls4PsIPPV/0KBXB1eUCLiTNfisdediZMI/Nq0DgLyUR1LKpuZ4fffJA/Da+L/oxSURuG0rlCtnThmHtwdqQi336KMr38Nep8sVeEsIYa9WcGauO4IfgKgH4L7utClw2LLNfFqASv2BF2jpDX/J9kFBinQEggjUmu30auJ8eSqH8oh7wn//7Bryix1p1u5+o0LG/lz5eLCuUn0DrYzTmt/xgf0aqfB0H//ZbyG8Jc4E7w32LrvlLCjbOaWjy6BAXCQcsHv+8VyZ3k=;VwuCTfZiQ5jrZftWnQG0oQ=="
+secured: "GTpUtK2IaVVhj1h1WQ6DhxnAsKA8p8mrjZS18+kqPqWRBnQp7BjAVoxxD12MCFKfm/y9ORlNh2MK64DPiGkG5CeXjtqa0x/Y6RilV11pnE18vBqBuQzp0k5JM99hio4F+vMIbB4sq9K0vETvQxCj5H6fB8qeqRnQDs5zAXPcId7rtJAskMw9qOqyhpPV3PmObKaM5BsH1jtBzUM2EsMn7YC/J4VfkXw0PauXsrloPRsflSFRAx9yc0mMjfjO5W89gidFAG4x98X4faLBwn8NsZTS9WGbhIVxJA6utyR2pNiuGV+O5PyFxbuFKpR/KGSBQpAZnPl4bQezYouMqeTU10ooXw9E71ERAmr5Fca7UGA=;lxzAxjMP7Wf+wAuX/Rdl5Q=="
 ---
 

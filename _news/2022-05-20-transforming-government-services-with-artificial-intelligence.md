@@ -20,19 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "How AI is transforming remote cardiac care for patients"
-    excerpt: "The average heart beats about 1.5 million times over two weeks, and physicians might have to identify a six-second time period, which can determine a clinical outcome. Finding what’s clinically meaningful can be a needle in the haystack type of problem,"
-    publishedDateTime: 2022-05-18T23:19:00Z
-    webUrl: "https://medcitynews.com/2022/05/how-ai-is-transforming-remote-cardiac-care-for-patients/"
+  - title: "Aixplain Brings Transformative Multilingual Access To ACL With AI"
+    excerpt: "AI-powered translation, dubbing and subtitling enables access to members worldwide. Build, diagnose, and improve your AI systems and datasets; continuously, efficiently and effortlessly.” — ~aiXplain LOS GATOS,"
+    publishedDateTime: 2022-05-23T09:30:00Z
+    webUrl: "https://menafn.com/1104257660/Aixplain-Brings-Transformative-Multilingual-Access-To-ACL-With-AI"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://medcitynews.com/uploads/2022/04/image0011-300x268.png"
-        width: 300
-        height: 268
+      - url: "https://menafn.com/updates/pr/2022-05/23/EP_89e96image_story.png"
+        width: 600
+        height: 265
         isCached: true
 
 secured: "1SYoqQfRXRTHWp0w+yKiQVfmVpxD/wxjvMjv/81FzNLocccnUEKwPoOOdI3pGwV736R2Y7JcvXj1q2vkL3U7COp0F58m7TnspuPD9vpCWQZnppqTP1jYJ/m2MhZUDG5mHbUUGLRFoXNx+bDmafVAKDlpW2FI8bFDTBnCmeIHrRjD2f8LsYZtHiKHybZ4cD0pAEA3A9xcZ6SzPJwv4+6P9mn/cxw/+XRoT8/3hRReiC5k/cIQV+W/HPmt93NkG8mMEFVuiWltR4dW5IWj/PXNzg3OnKtfMAnnrfE8Mu88tATSk7bPbye3gHzzu656rp8XXqhsgOjUJRoelr5q/Yc7fzsNcjn0rpUjtYN6otalQ5g=;oMdJ6dPRAMURDf95y4xiIQ=="

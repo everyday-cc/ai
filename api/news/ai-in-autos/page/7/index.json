@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-21-researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored.md",
+      "title": "Researchers Warn: Risks of Using AI To Grow Our Food Are Substantial and Must Not Be Ignored",
+      "excerpt": "Artificial intelligence (AI) is on the cusp of driving an agricultural revolution, and helping confront the challenge of feeding our growing global population in a sustainable way. But researchers warn that using new AI technologies at scale holds huge risks that are not being considered.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/",
+      "originalUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Farm-Drone-Spraying-Pesticide-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/amp/",
+      "publishedDateTime": "2022-03-20T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-20-ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars.md",
       "title": "Ethical AI Ambitiously Hoping To Have AI Learn Ethical Behavior By Itself, Such As The Case With AI In Autonomous Self-Driving Cars",
       "excerpt": "Maybe AI can learn to be ethical, though this is harder than it seems, including considerations underlying AI-based self-driving cars.",
@@ -1284,49 +1327,6 @@
       "provider": {
         "name": "bbntimes",
         "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-the-united-states-has-fallen-behind-china-on-artificial-intelligence.md",
-      "title": "The United States Has Fallen Behind China on Artificial Intelligence",
-      "excerpt": "American officials can’t talk seriously about national security and securing the future if they’re going to continue treating civilian and military applications of AI as an afterthought.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/united-states-has-fallen-behind-china",
-      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/united-states-has-fallen-behind-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/chinaAI_0.jpg",
-          "width": 1222,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
         "images": null,
         "publishers": null,
         "authors": null

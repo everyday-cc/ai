@@ -2,6 +2,381 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-05-03-can-artificial-intelligence-help-fight-western-wildfires.md",
+      "title": "Can Artificial Intelligence Help Fight Western Wildfires?",
+      "excerpt": "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
+      "originalUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/bd7f643/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F29%2F8eabf0f5fb605508abbc28c7f04c%2Fshutterstock-2189586432.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
+      "publishedDateTime": "2022-05-03T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach-to-the-design-of-chips-for-high-performance-computing-applications.md",
+      "title": "Joe Costello, ex-CEO of Cadence joined Anari AI: “There must be a new approach to the design of chips for high-performance computing applications”",
+      "excerpt": "Joe Costello, ex-CEO of Cadence, joined Anari AI in the Board Advisor position to empower the wind of change in the hardware AI industry. Anari AI is a startup delivering the next-generation platform for computation to provide companies with personalized AI Systems accessible in one click.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html",
+      "originalUrl": "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/3f/23f39291-cd74-541b-b0d9-4a1e2f0e5387/6271530a5dcff.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-galileo-emerges-from-stealth-to-streamline-ai-model-development.md",
+      "title": "Galileo emerges from stealth to streamline AI model development",
+      "excerpt": "As the use of AI becomes more common throughout the enterprise, the demand for products that make it easier to inspect, discover and fix critical AI errors is increasing. After all, AI is costly ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/",
+      "originalUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/05/open-source-data-science.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/amp/",
+      "publishedDateTime": "2022-05-03T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
+      "title": "Facebook-owner Meta Opens Access To AI Large Language Model",
+      "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718",
+      "originalUrl": "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-norads-vanherck-says-artificial-intelligence-capabilities-lacking.md",
+      "title": "NORAD’s VanHerck says artificial intelligence capabilities lacking",
+      "excerpt": "(Jose Luis Magana/AP) WASHINGTON — U.S. Northern Command and North American Aerospace Defense Command lack the artificial intelligence capabilities needed to do their jobs to the fullest and maintain an edge over rival nations, according to the leader of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/T8gu2NwwdvBLNDcbYyTLx6vYnO8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/FFQY4UHAMRGAXF3IKU5VY2LE54.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-ai-will-not-replace-assistants.md",
+      "title": "AI Will Not Replace Assistants",
+      "excerpt": "I am not an Artificial Intelligence expert. I am not even a software engineer, for that matter. But I do know one thing: Assistants are going be to among the last jobs in the office to be replaced by technology. This is much more than a hot take.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/",
+      "originalUrl": "https://www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626fee9a3da25fb982b8e8a8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/amp/",
+      "publishedDateTime": "2022-05-03T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-building-the-future-of-ai-powered-retail-starts-with-trust.md",
+      "title": "Building The Future Of AI-Powered Retail Starts With Trust",
+      "excerpt": "This must give you a unique vantage point on data-centric AI, per your recent blog ... At the outset, I always start with the question: do we need machine learning at all to solve this problem, or is there an easier way to fix it that we should implement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62704c8d931d4d3a63b1ef88/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
+      "publishedDateTime": "2022-05-03T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-soundcloud-acquires-musiio-an-ai-music-curator-to-improve-discovery.md",
+      "title": "SoundCloud acquires Musiio, an AI music curator, to improve discovery",
+      "excerpt": "An online audio sharing platform and streamer, SoundCloud has acquired Musiio, an AI music curation company. With Musiio’s team and technology, SoundCloud plans to strengthen its music discovery ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
+      "originalUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/soundcloud.jpg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
+      "publishedDateTime": "2022-05-03T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-teamviewer-brings-artificial-intelligence-to-the-shopfloor.md",
       "title": "TeamViewer Brings Artificial Intelligence to the Shopfloor",
       "excerpt": "May 3, 2022 /PRNewswire/ -- TeamViewer, a leading global provider of remote connectivity and workplace digitalization solutions, today announced the launch of AiStudio, a fully integrated Artificial Intelligence (AI) add-on to TeamViewer's leading ...",
@@ -762,384 +1137,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs.md",
-      "title": "AI Visionary And Innovation Leader Sumaya Al Hajeri Of The UAE AI Office May Be Exactly What This World Needs.",
-      "excerpt": "I teach how to stand up and walk again after a fall.” For my final interview with The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I had the privilege of speaking with Sumaya Al Hajeri. She is an executive professional in the field of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626ef52e2100d83a26834a2a/0x0.jpg?format=jpg&crop=828,466,x0,y115,safe&width=1200",
-          "width": 828,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/amp/",
-      "publishedDateTime": "2022-05-03T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
-      "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
-      "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics, artificial intelligence, and healthcare technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
-      "originalUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-motion-gestures-using-ai-to-enhance-camera-based-gesture-recognition-technology.md",
-      "title": "Motion Gestures using AI to enhance camera-based gesture recognition technology",
-      "excerpt": "The effort involves combining a variety of Human Machine Interface (HMI) technologies such as voice recognition, gesture recognition, eye tracking, haptics, and touch for greater consumer experience and effectiveness. On the other hand, Motion Gestures has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html",
-      "originalUrl": "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220503vl202_files/5_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-one-platform-to-ai-it-all-google-vertex-ai-makes-aiml-simple-in-sa.md",
-      "title": "One platform to AI it all: Google Vertex AI makes AI/ML simple in SA",
-      "excerpt": "Says Van Schalkwyk: “For companies that aren’t ready to build their own custom models just yet, Google offers AutoML as part of VertexAI. AutoML allows you to create high quality custom ML models from your data, whether it’s image data, tabular ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
-      "originalUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/Wza03qX-xmJUelSFZnXHTeP9yo1B46ikfxMDhAlMZI8WgCmyGGoGl_beifZkPUon4b-XWbgvFpbMxhroGzZyvGBv7uautu21Vfs=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/Pero3MZ3A4wqQb6m",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ3A4wqQb6m",
-      "publishedDateTime": "2022-05-02T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics.md",
-      "title": "Dell targets multi-cloud ecosystem with cyber recovery and data analytics",
-      "excerpt": "metadata and machine learning to proactively detect, diagnose and speed up data recovery when an attack has occurred, as well as identify the last known uncorrupted copy of data to recover from. Both PowerProtect Cyber Recovery for Microsoft Azure and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/",
-      "originalUrl": "https://www.zdnet.com/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/",
-      "publishedDateTime": "2022-05-02T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions.md",
-      "title": "FOCUS-Startups apply artificial intelligence to supply chain disruptions",
-      "excerpt": "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tech-supplychain/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2VV1GD",
-      "originalUrl": "https://www.reuters.com/article/tech-supplychain/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2VV1GD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-delivers-real-time-data-for-smarter-farming.md",
-      "title": "AI delivers real-time data for smarter farming",
-      "excerpt": "Its operation management software, powered by an AI platform called Alice AI, allows customers to optimally schedule and plan their farming operations and to make real-time decisions and adjustments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/",
-      "originalUrl": "https://venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1318237749.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/amp/",
-      "publishedDateTime": "2022-05-02T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-traceable-ai-nabs-60m-to-secure-app-apis-using-machine-learning.md",
-      "title": "Traceable AI nabs $60M to secure app APIs using machine learning",
-      "excerpt": "Businesses need machine learning here. To have zero trust you need API clarity. You can no longer easily buy or hire security people, so you need to solve these vulnerabilities via technology.”",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/02/2307940/",
-      "originalUrl": "https://techcrunch.com/2022/05/02/2307940/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/traceable_all_threats_of_threat_actor.png",
-          "width": 3838,
-          "height": 2026,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/02/2307940/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/02/2307940/amp/",
-      "publishedDateTime": "2022-05-02T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

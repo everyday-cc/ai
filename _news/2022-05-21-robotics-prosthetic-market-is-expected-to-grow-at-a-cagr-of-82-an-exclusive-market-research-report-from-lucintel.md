@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Education Market to Grow At A CAGR Of 13.2% Through 2028 | 120 Report Pages"
+    excerpt: "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
+    publishedDateTime: 2022-05-23T09:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-13-2-through-2028-120-report-pages"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 53
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Healthcare Natural Language Processing (NLP) Market Size Is Expected To Grow At A CAGR Of 11.1% During Assessment Period 2022-2028 | 102 Report Pages"
     excerpt: "Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
     publishedDateTime: 2022-05-20T10:40:00Z
@@ -36,6 +50,20 @@ related:
     quality: 32
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/CCC-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Mining Market: Top Driving Factors That Could Escalate Market Growth Worldwide, Report"
+    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources to reduce waste drives the growth of the market. In addition, autonomous mining equipment equipped ..."
+    publishedDateTime: 2022-05-19T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-top-driving-factors-that-could-escalate-market-growth-worldwide-report"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
         width: 600
         height: 337
         isCached: true

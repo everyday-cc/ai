@@ -104,15 +104,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Industrial Robotics Market Size 2022-27 Share, Growth, Report and Forecast | IMARC Group"
-    excerpt: "According to the latest industrial robotics market report by IMARC Group, titled \"Global Industrial Robotics Market Size, Share, Industry Trends, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-05-18T15:36:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-industrial-robotics-market-size-2022-27-share-growth-report-and-forecast-imarc-group"
+  - title: "Innovations And Growth Opportunities In Artificial Intelligence For Histopathology Market 2022"
+    excerpt: "Artificial intelligence for Histopathology Market NEW YORK, NY, U.S., May 23, 2022 /EINPresswire.com / -- This report studies the Artifici"
+    publishedDateTime: 2022-05-23T08:39:00Z
+    webUrl: "https://menafn.com/1104256728/Innovations-And-Growth-Opportunities-In-Artificial-Intelligence-For-Histopathology-Market-2022"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 25
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/23/EP_0fa10image_story.jpeg"
+        width: 259
+        height: 259
+        isCached: true
   - title: "Self-Driving Taxi Market Growth 2022 Share, Size, Landscape, Top Key Players, Strategies and Forecast to 2028"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Self-Driving Taxi Market” report"
     publishedDateTime: 2022-05-20T07:42:00Z

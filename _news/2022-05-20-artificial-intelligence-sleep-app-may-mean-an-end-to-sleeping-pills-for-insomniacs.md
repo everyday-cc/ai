@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence sleep app Sleepio may put an end to sleeping pills for insomnia sufferers"
+    excerpt: "A newly-developed artificial intelligence app may be the answer to a good night's sleep, with claims the application could replace highly-addictive sleeping pills for insomnia sufferers. Sleepio uses an artificial intelligence (AI) algorithm to provide individuals with tailored cognitive behavioural therapy for insomnia (CBT-I),"
+    publishedDateTime: 2022-05-23T08:06:00Z
+    webUrl: "https://www.newshub.co.nz/home/lifestyle/2022/05/artificial-intelligence-sleep-app-sleepio-may-put-an-end-to-sleeping-pills-for-insomnia-sufferers.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/lifestyle/2022/05/artificial-intelligence-sleep-app-sleepio-may-put-an-end-to-sleeping-pills-for-insomnia-sufferers.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/lifestyle/2022/05/artificial-intelligence-sleep-app-sleepio-may-put-an-end-to-sleeping-pills-for-insomnia-sufferers.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 46
+    images:
+      - url: "https://www.newshub.co.nz/home/lifestyle/2022/05/artificial-intelligence-sleep-app-sleepio-may-put-an-end-to-sleeping-pills-for-insomnia-sufferers/_jcr_content/par/image.dynimg.768.q75.jpg/v1653292870150/sleep-woman-creative-getty-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Tech Digest daily roundup: Could AI sleep app end insomnia?"
     excerpt: "A new artificial intelligence sleep app has been developed that might be able to replace sleeping pills for insomnia sufferers."
     publishedDateTime: 2022-05-20T15:53:00Z

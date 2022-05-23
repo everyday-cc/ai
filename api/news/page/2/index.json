@@ -2,6 +2,280 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-20-c3ai-meteoric-growth-with-artificial-intelligence-tailwinds.md",
+      "title": "C3.ai: Meteoric Growth With Artificial Intelligence Tailwinds",
+      "excerpt": "C3.ai provides AI services to enterprises & has grown revenues at 40% over the past few years, with a GM of 75%. Click to know why I rate it as a BUY.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
+      "originalUrl": "https://seekingalpha.com/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345658982/image_1345658982.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
+      "publishedDateTime": "2022-05-19T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-reperformance-uses-ai-to-personalize-physical-education.md",
+      "title": "REPerformance Uses AI to Personalize Physical Education",
+      "excerpt": "A software company in Canada is bringing its web-based application to the U.S. that uses personal fitness data to create individualized workout programs and feedback geared toward their progress rather than ability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education",
+      "originalUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/8aed749/2147483647/strip/true/crop/1000x521+0+89/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Fe1%2Fd1af45fd4441996fa546b5a6f9dd%2Fphysical-education.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true",
+      "publishedDateTime": "2022-05-19T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-how-ai-is-improving-the-web-for-the-visually-impaired.md",
+      "title": "How AI is improving the web for the visually impaired",
+      "excerpt": "Join AI and data leaders for insightful talks and ... But when it comes to text on a complex background like an image or a gradient, things start to get complicated and helpful tools are rare.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/",
+      "originalUrl": "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/",
+      "publishedDateTime": "2022-05-19T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-google-says-its-closing-in-on-human-level-artificial-intelligence.md",
+      "title": "Google Says It’s Closing in on Human-Level Artificial Intelligence",
+      "excerpt": "Google DeepMind lead researcher Dr. Nando de Freitas boldly declared that \"the game is over\" and that as we scale AI, so too will we approach AGI.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/google-deepmind-agi",
+      "originalUrl": "https://futurism.com/the-byte/google-deepmind-agi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/05/google-deepmind-agi-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/google-deepmind-agi/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-agi/amp",
+      "publishedDateTime": "2022-05-19T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-ai-weekly-is-ai-alien-invasion-imminent.md",
+      "title": "AI Weekly: Is AI alien invasion imminent?",
+      "excerpt": "Is the potential for artificial general intelligence a sign of an alien invasion on the horizon? Or is there even such a thing as true AGI?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/",
+      "originalUrl": "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-693638332.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/amp/",
+      "publishedDateTime": "2022-05-19T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-heres-how-ai-computer-vision-will-change-driving-ecomotion-2022-conference.md",
+      "title": "Here's how AI, computer vision will change driving - EcoMotion 2022 conference",
+      "excerpt": "From computer vision to artificial intelligence, the advancements on display paint a telling picture of the ways that we will interact with our vehicles in the pretty-near future. Autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-707220",
+      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-707220",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/505401",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-707220/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-707220/amp",
+      "publishedDateTime": "2022-05-19T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-indian-chinese-companies-take-lead-in-use-of-artificial-intelligence-ibm.md",
       "title": "Indian, Chinese companies take lead in use of artificial intelligence: IBM",
       "excerpt": "Indian and Chinese companies are taking lead in use of artificial intelligence compared to their peers in major technically-advanced countries, an IBM survey report said on Thursday.",
@@ -457,6 +731,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-19-soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics.md",
+      "title": "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics",
+      "excerpt": "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the Consumer Goods, E-Commerce, and Logistics industries.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg",
+          "width": 400,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-oxy-ceo-if-youre-not-using-ai-youre-missing-an-opportunity.md",
       "title": "Oxy CEO: \"If you're not using AI you're missing an opportunity\"",
       "excerpt": "CEO Vicki Hollub tells how AI is growing the oil company's business",
@@ -903,356 +1229,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-from-lego-competitions-to-deepminds-robotics-lab.md",
-      "title": "From LEGO competitions to DeepMind's robotics lab",
-      "excerpt": "If you want to be at DeepMind, go for it. Apply, interview, and just try. You might not get it the first time but that doesn’t mean you can’t try again. I never thought DeepMind would accept me, and when they did, I thought it was a mistake. Everyone doubts themselves – I’ve never felt like the smartest",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
-      "originalUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62863b2de650d13aae1b5176_Akhil_Raju__Blog__16x9.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-how-optimized-object-recognition-is-advancing-tiny-edge-devices.md",
-      "title": "How optimized object recognition is advancing tiny edge devices",
-      "excerpt": "Alif Semiconductor have demonstrated an optimized face detection model running on Alif's Ensemble microcontroller based on Arm IP. The two found it is suitable for enhancing low-power artificial intelligence (AI) at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
-      "originalUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-873875560.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
-      "publishedDateTime": "2022-05-18T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-machine-learning-framework-pytorch-enabling-gpu-accelerated-training-on-apple-silicon-macs.md",
-      "title": "Machine Learning Framework PyTorch Enabling GPU-Accelerated Training on Apple Silicon Macs",
-      "excerpt": "In collaboration with the Metal engineering team at Apple, PyTorch today announced that its open source machine learning framework will soon support GPU-accelerated model training on Apple silicon Macs powered by M1, M1 Pro, or M1 Max chips. Until now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
-      "originalUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.macrumors.com/t/j1xq0VbOUNTowCRcKQkyv9DRnM0=/2000x/article-new/2022/05/pytorch.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet.md",
-      "title": "Too Little Too Late: Apple Reverses Remote Work Policy After Machine Learning Head Decamps to Alphabet",
-      "excerpt": "That job switch marks a major blow for Apple, a company that’s struggled to appease workers at odds with its return to work strategy. Goodfellow, who’s the most senior member known to have jumped ship over remote work so far,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742",
-      "originalUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1df6fad1a744c6167d22b8a2880b1d68.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp",
-      "publishedDateTime": "2022-05-18T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant.md",
-      "title": "Univ. of Washington and Meta partner on program linking PhD students to AI mentors at tech giant",
-      "excerpt": "Allen School of Computer Science & Engineering to form the Meta AI Mentorship Program ... might engage on such things as representation learning, natural language generation, machine translation, question answering, semantic parsing and large-scale ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/",
-      "originalUrl": "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/",
-      "publishedDateTime": "2022-05-18T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-aws-and-temenos-team-up-for-speedier-banking.md",
-      "title": "AWS and Temenos team up for speedier banking",
-      "excerpt": "Amazon Web Services (AWS) has joined with cloud banking software provider ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
-      "originalUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/7RB6x6ga3Yjd83zESPEq2L-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-performing-artists-push-for-copyright-protection-from-ai-deepfakes.md",
-      "title": "Performing artists push for copyright protection from AI deepfakes",
-      "excerpt": "When a friend messaged voice actor Bev Standing to ask whether she was the voice of TikTok's text-to-speech feature, the Canadian performer's surprise soon turned to irritation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/litigation/performing-artists-push-copyright-protection-ai-deepfakes-2022-05-18/",
-      "originalUrl": "https://www.reuters.com/legal/litigation/performing-artists-push-copyright-protection-ai-deepfakes-2022-05-18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/6BbOlIsUD1m77qP5CQnD4_lBcnQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HRDUY677TBNVXNJCYV2UKSYZBY.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

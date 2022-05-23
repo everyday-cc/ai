@@ -24,17 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "iTradeNetwork Introduces Machine Learning File Monitoring—A Fresh Take on a Foodservice Data Problem"
-    excerpt: "TradeNetwork (ITN), the industry’s largest perishables network, proudly announces its new Machine Learning File Monitoring system for Spend Insights— a unique, automated way to provide foodservice operators with the most complete distributor data in the industry."
-    publishedDateTime: 2022-05-18T16:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newsdirect-2022-5-18-itradenetwork-introduces-machine-learning-file-monitoringa-fresh-take-on-a-foodservice-data-problem"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 4
-
 secured: "I6dTyp5QQY/dcBTA6amxF8ul15DqYWBQ1yJ48cgHcWHPmNBZw3Y58pvuoNkcSd0uzFU5/q6E3rKNECQTMEcl+WKsIDKb7BkLW10gvs2mTQ79GaRMeXL9qgHXDDHFw9rHVFEbfBMvJyubqY3KHgPtvhnlfCQ8BNKTDMYw8alx92f9Eds3f33IE9erxwBX0gVKCv0mV37688cosnee004++cmcFv380qb4pl50pNF5QdouQn6xyd4DT1D1VgBo3aA2MdOdWoCSBu98diA6gTMtVdJOKKmeyDsMs/43t3j9tMj9p7q8DQF/Ta1qzkYW1BBgQ5Y7nOW6RYOdqDbwLvMJmwpQ7fZ+i6iKO8Iw6z65TVw=;/WvFWMxINdUbzPJ7s4eCFQ=="
 ---
 

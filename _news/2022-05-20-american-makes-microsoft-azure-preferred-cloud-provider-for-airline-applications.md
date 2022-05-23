@@ -35,36 +35,6 @@ related:
         width: 1022
         height: 477
         isCached: true
-  - title: "Wayve and Microsoft partner to scale autonomous vehicles"
-    excerpt: "Machine learning at scale is 90% an engineering challenge ... The company has been working with Microsoft and its Azure cloud since 2020. Since then, the team has seen an absolute acceleration ..."
-    publishedDateTime: 2022-05-18T16:58:00Z
-    webUrl: "https://venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/"
-    ampWebUrl: "https://venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/wayve-and-microsoft-partner-to-scale-autonomous-vehicles/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1212935826.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "New Relic announces integration and multi-year partnership with Microsoft Azure"
-    excerpt: "New Relic <> partners with Microsoft to help enterprises accelerate cloud migration and multi-cloud initiatives"
-    publishedDateTime: 2022-05-18T16:08:00Z
-    webUrl: "https://seekingalpha.com/news/3840520-new-relic-announces-integration-and-multi-year-partnership-with-microsoft-azure"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 50
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Call Center AI Market Growing Massively by Artificial Solutions International AB, IBM Corporation, Microsoft Corporation"
     excerpt: "New Jersey, United States - Research Cognizance announces the release of the Call Center AI Market research report. This study is one of the most detailed"
     publishedDateTime: 2022-05-19T10:02:00Z

@@ -38,20 +38,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
-    publishedDateTime: 2022-05-18T15:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c6203c4c80f64de79ab0a14730186ed1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
     excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:   “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
     publishedDateTime: 2022-05-19T16:02:00Z

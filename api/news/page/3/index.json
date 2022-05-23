@@ -2,6 +2,356 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-19-from-lego-competitions-to-deepminds-robotics-lab.md",
+      "title": "From LEGO competitions to DeepMind's robotics lab",
+      "excerpt": "If you want to be at DeepMind, go for it. Apply, interview, and just try. You might not get it the first time but that doesn’t mean you can’t try again. I never thought DeepMind would accept me, and when they did, I thought it was a mistake. Everyone doubts themselves – I’ve never felt like the smartest",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
+      "originalUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62863b2de650d13aae1b5176_Akhil_Raju__Blog__16x9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-how-optimized-object-recognition-is-advancing-tiny-edge-devices.md",
+      "title": "How optimized object recognition is advancing tiny edge devices",
+      "excerpt": "Alif Semiconductor have demonstrated an optimized face detection model running on Alif's Ensemble microcontroller based on Arm IP. The two found it is suitable for enhancing low-power artificial intelligence (AI) at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
+      "originalUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-873875560.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
+      "publishedDateTime": "2022-05-18T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-machine-learning-framework-pytorch-enabling-gpu-accelerated-training-on-apple-silicon-macs.md",
+      "title": "Machine Learning Framework PyTorch Enabling GPU-Accelerated Training on Apple Silicon Macs",
+      "excerpt": "In collaboration with the Metal engineering team at Apple, PyTorch today announced that its open source machine learning framework will soon support GPU-accelerated model training on Apple silicon Macs powered by M1, M1 Pro, or M1 Max chips. Until now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
+      "originalUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/j1xq0VbOUNTowCRcKQkyv9DRnM0=/2000x/article-new/2022/05/pytorch.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet.md",
+      "title": "Too Little Too Late: Apple Reverses Remote Work Policy After Machine Learning Head Decamps to Alphabet",
+      "excerpt": "That job switch marks a major blow for Apple, a company that’s struggled to appease workers at odds with its return to work strategy. Goodfellow, who’s the most senior member known to have jumped ship over remote work so far,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742",
+      "originalUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1df6fad1a744c6167d22b8a2880b1d68.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp",
+      "publishedDateTime": "2022-05-18T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant.md",
+      "title": "Univ. of Washington and Meta partner on program linking PhD students to AI mentors at tech giant",
+      "excerpt": "Allen School of Computer Science & Engineering to form the Meta AI Mentorship Program ... might engage on such things as representation learning, natural language generation, machine translation, question answering, semantic parsing and large-scale ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/",
+      "originalUrl": "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/",
+      "publishedDateTime": "2022-05-18T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-aws-and-temenos-team-up-for-speedier-banking.md",
+      "title": "AWS and Temenos team up for speedier banking",
+      "excerpt": "Amazon Web Services (AWS) has joined with cloud banking software provider ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
+      "originalUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7RB6x6ga3Yjd83zESPEq2L-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-performing-artists-push-for-copyright-protection-from-ai-deepfakes.md",
+      "title": "Performing artists push for copyright protection from AI deepfakes",
+      "excerpt": "When a friend messaged voice actor Bev Standing to ask whether she was the voice of TikTok's text-to-speech feature, the Canadian performer's surprise soon turned to irritation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/performing-artists-push-copyright-protection-ai-deepfakes-2022-05-18/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/performing-artists-push-copyright-protection-ai-deepfakes-2022-05-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/6BbOlIsUD1m77qP5CQnD4_lBcnQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HRDUY677TBNVXNJCYV2UKSYZBY.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027.md",
       "title": "Artificial Intelligence (AI) Hardware Market Size, In-depth Analysis Report and Global Forecast to 2027",
       "excerpt": "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market.",
@@ -859,370 +1209,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents.md",
-      "title": "Arteria AI, Goldman Sachs, And The Transformation Of Financial Legal Documents",
-      "excerpt": "Arteria AI is working with companies like Goldman Sachs to use AI to help transform the creation and negotiation of financial legal contracts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6283e05c1e567fc242d534e2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/amp/",
-      "publishedDateTime": "2022-05-17T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-argo-ai-launches-driverless-autonomous-vehicle-testing-in-miami-austin.md",
-      "title": "Argo AI launches driverless autonomous vehicle testing in Miami, Austin",
-      "excerpt": "Argo AI, the autonomous vehicle technology company backed by Ford and Volkswagen, is launching driverless operations in Miami and Austin, a significant milestone for the startup that illustrates its progress towards commercialization.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/",
-      "originalUrl": "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/",
-      "publishedDateTime": "2022-05-17T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-customize-pronunciation-using-lexicons-in-amazon-polly.md",
-      "title": "Customize pronunciation using lexicons in Amazon Polly",
-      "excerpt": "Amazon Polly is a text-to-speech service that uses advanced deep learning technologies to synthesize natural-sounding human speech. It is used in a variety of use cases, such as contact center systems, delivering conversational user experiences with human-like voices for automated real-time status check,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/17/customize-pronunciation-polly.jpg",
-          "width": 1000,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T08:36:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-40.md",
-      "title": "How AI-driven robots and drones bring cognitive intelligence to Industry 4.0",
-      "excerpt": "The robots, drones and cameras that inspect machines to perform predictive maintenance and relay analog information to operations staff can now function autonomously. Even better – the longer they’re at their jobs,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/",
-      "originalUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/AI_robots.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/",
-      "publishedDateTime": "2022-05-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-argo-ai-begins-driverless-testing-in-austin-and-miami.md",
-      "title": "Argo AI Begins Driverless Testing In Austin And Miami",
-      "excerpt": "Argo AI, the Pittsburgh, Pennsylvania-based automated driving company majority owned by Ford and Volkswagen has just begun its first driverless testing on public roads in Miami and Austin. This milestone comes about five and a half years after the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
-      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62839ea0171c859a3a9cfd95/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
-      "publishedDateTime": "2022-05-17T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-tractian-which-uses-ai-to-monitor-industrial-equipment-raises-15m.md",
-      "title": "Tractian, which uses AI to monitor industrial equipment, raises $15M",
-      "excerpt": "Tractian, a startup developing a product to monitor the ... which Marinelli says is patent pending in the U.S., uses AI to identify mechanical problems a machine might be having by analyzing ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/17/2314910/",
-      "originalUrl": "https://techcrunch.com/2022/05/17/2314910/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1022854924.jpg?w=1024",
-          "width": 1024,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/17/2314910/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/2314910/amp/",
-      "publishedDateTime": "2022-05-17T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025.md",
-      "title": "AI in Healthcare Market foresee Business Opportunities, Current Trends and Industry scrutiny by 2025",
-      "excerpt": "Global Artificial Intelligence in Healthcare Market valued approximately USD 650 million in 2016 is anticipated",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

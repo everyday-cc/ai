@@ -19,26 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "Univ. of Washington and Meta partner on program linking PhD students to AI mentors at tech giant"
-    excerpt: "Allen School of Computer Science & Engineering to form the Meta AI Mentorship Program ... might engage on such things as representation learning, natural language generation, machine translation, question answering, semantic parsing and large-scale ..."
-    publishedDateTime: 2022-05-18T16:02:00Z
-    webUrl: "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/"
-    ampWebUrl: "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/"
+  - title: "AI writing has entered a new dimension, and it’s going to change education"
+    excerpt: "I haven’t heard of anyone who’s actually used GPT-3 and doesn’t think AI is going to change the world profoundly. Education in particular is going to feel its influence immediately. That’s because although GPT-3 has been around for a couple of years,"
+    publishedDateTime: 2022-05-23T00:05:00Z
+    webUrl: "https://thespinoff.co.nz/tech/23-05-2022/ai-writing-has-entered-a-new-dimension-and-its-going-to-change-education"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 58
-  - title: "Energy-efficient AI hardware technology via a brain-inspired stashing system"
-    excerpt: "Researchers have proposed a novel AI system inspired by the neuromodulation of the brain, referred to as a \"stashing system,\" that requires less energy consumption. The research group led by Professor Kyung Min Kim from the Department of Materials Science and Engineering has developed a technology that can efficiently handle mathematical operations for artificial intelligence by imitating the continuous changes in the topology of the neural network according to the situation."
-    publishedDateTime: 2022-05-18T18:06:00Z
-    webUrl: "https://techxplore.com/news/2022-05-energy-efficient-ai-hardware-technology-brain-inspired.html"
+      name: The Spinoff
+      domain: thespinoff.co.nz
+    quality: 54
+    images:
+      - url: "https://thespinoff.co.nz/_next/static/media/mad-chapman.f3d01208.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
+    excerpt: "Hanzo, a technology pioneer in preserving, collecting, reviewing, and exporting dynamic, complex collaboration and web-based data, in partnership with Nightfall AI, the first cloud-native extensible data loss prevention (DLP) platform,"
+    publishedDateTime: 2022-05-18T23:04:00Z
+    webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 18
+      name: abc27
+      domain: abc27.com
+    quality: 20
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
+        width: 800
+        height: 340
+        isCached: true
 
 secured: "3jFzE1RlND8ZTLl8eWbB37rKf7lGqoGlCumOJMHhdIyCOmcJGu7cHFHx/TB2QnW5al9ramJMkowgr+JvcLos+7SMxBddLmFfCtwqMZFCaRx3vSdEf3oAW+553Gjmslt4hbhzKcUPZBtx281JXnIoW3FsTs2YFvXMr2I7Bjn53bQdHIq9uHj7yYNox0EWjGC2ByJoz/NHKrCphoi9pZOQs/kaF4Lr7apu6t9TN/dsy93I2UzTARuezPB7WOT6hXpeGPYt+w3e3rO6vHATpvCnOmEcxcfW2HkWNT2MawKOzq36Sm8gvWvsJRWCZ1Ooy2erTC7lMlxVH3dgC+pzGwa3w0wgforZqvHyflhtpoWGzCh9S+APbsyqFRfkgH3OKRevY8kU9w2UC6C+8x2pZ1q6EznYylTWaom5crhcteQ1Ybp4Z0gdOJ/gALxzWNfHm+ySwBcEvPskW3mLQamekP0Od7yLOSdEezy4lHJDy/n0a6NrRRqZKxF9ahlUlhnH7nABce0sUIx2pKgyFT1UjEjJUQ==;tEJbFSK8sam709YM52RBJQ=="
 ---

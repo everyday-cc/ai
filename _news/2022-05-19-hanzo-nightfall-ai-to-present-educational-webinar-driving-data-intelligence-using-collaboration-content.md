@@ -38,20 +38,15 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
-    excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
-    publishedDateTime: 2022-05-18T15:30:00Z
-    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
+  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
+    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
+    publishedDateTime: 2022-05-20T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
     type: article
     provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 20
-    images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-        width: 800
-        height: 340
-        isCached: true
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 11
 
 secured: "21eIOevGhBHu0Bov8T8Y0nz2p0uyhZ6jB3lct3mWFBGTFoCWSr2hdCLQKGdmbDVopPF3US2ntSu+wCsnCX4qp1FKZ+j8fWm7LwhhpEWOBUzMlQZcOcXqTV9B5rgJmX5aG0ni+LAaXQU59MsKRspZbP2NN35V5UhWh6n7ZJe9G9iHsOf0CvnaWToJgx0kxAGtLlTyUv677mtEbJoUn0nrKPAFqqpzAboGzPy5iPrdnrTVroNtOIR2sOJ357bmi031KP27eO5YrMbVLalYdnXpPFGDG3ZvZIXnz6p6efuZJCAGYt55eu9iODyXEE+mvTCvmaINc1ULMLpy8U3OLwt0RroBAAnrqt2ETdN7Skwy14U=;1kQsbn6QXILmC4+Ybjq+UQ=="
 ---

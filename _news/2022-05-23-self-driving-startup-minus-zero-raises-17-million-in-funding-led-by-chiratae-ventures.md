@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/self-driving-startup-minus
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: India Times
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bengaluru-based self-driving startup Minus Zero raises USD 1.7 Mn"
+    excerpt: "Bengaluru-based self-driving startup Minus Zero has raised USD 1.7 million in seed funding led by tech VC firm Chiratae Ventures."
+    publishedDateTime: 2022-05-23T09:49:00Z
+    webUrl: "https://analyticsindiamag.com/bengaluru-based-self-driving-startup-minus-zero-raises-usd-1-7-mn/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Founders-photo-1.png"
+        width: 1196
+        height: 843
+        isCached: true
   - title: "Government launches £40m competition to jump-start self-driving buses and delivery vans"
     excerpt: "Ministers are accelerating the introduction of self-driving buses, shuttles and delivery vans onto British roads with a £40m fund that could help create thousands of jobs.   A new government competition is trying to harness the economic potential of autonomous vehicles,"
     publishedDateTime: 2022-05-23T05:00:00Z
@@ -42,6 +56,6 @@ related:
         height: 536
         isCached: true
 
-secured: "mgQ3GLS4T1bMuKqfHyDhl0ww+JUwjfdZogKIjmd5CRLmRGC0R4QYhDGVWPqJgBh6aBnehkqMetIjACKuP+bp79z9m0PoVcfLAvEwa29vq9czHY2iQDztP1WFmUuyyzqw4nnn3Chgc35Ukk5Jit9SPvObitLg87+vTQwgIpR3R5h7kZgEi23JMlrEw/FD3PGR2X6ejOyl2690VnKkSVsf3Hu8CnaVFntwbMLRP+sxYXKSiRzKTS1Tjossl6cjZ2bpddSHEmmGh7EQG22o77xRj6L6XSm6GCqSUpr2kRUjYBFFquuHiarJyZVvrXYwBm7rCv/WsL6mzZcPABp4e6fIiHQ1wQs3aPppqbtwZF/L5V0=;cwLbaqhFzw66GTTF9bjPAg=="
+secured: "Sodmb4xQHOPvH9G1IQU+tnaRt7df1RJlQhRuOvH/Mqd9Cug4yPnnxEKIXIz3L6hgxmsd1ihKEyVnSaTbNj1FIGDyTpKNeNfR0aRndkn1hNMBrzW8GAxT2yzF1eRgaJoKRKRRAIRWf3/a9NGP9PSS7Z4iFdcYD7u4xkCjXeM16naKE6VwXCtlgfnGIyiDFjvkroUWNBnWNbzdCFXAxewTB7ivx7QotOjWiDJC1fJ5doKN1lGDcdB2aL1aSCXsblQoKtXRi4dGTi77fZXZYZnVWYSNiqvhxRN4cWCBYfe14uR27rOCx4nQR678fLJ+g0GgCE6etTozO4MK5D/Q5Rge/NfZ+/Uiv3hmOXSI27MjkvgAhVNWcyu+4Jg2aS/TBtSVWxwkCnqvSg5JHwwdoMx+S3tzGa/9JXvu0jyhBxUVPZWFNaC1rhqvLK4zH9OQLL4SCXamgRHarwtReCyWsrWiLV06EEAeYEQ1+5EDUCKf9ULCtG10w0yt5QlgkOR9m5/Qab/aPU0HzoRGfdQQUCucBg==;ki67IznO2+kfSyNPnsLDDA=="
 ---
 
