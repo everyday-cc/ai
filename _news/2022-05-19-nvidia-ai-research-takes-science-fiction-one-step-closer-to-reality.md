@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "NEC Selects DDN and Nvidia for AI Research Supercomputer in Japan"
-    excerpt: "High performance storage company DDN today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research. DDN said the system will have a raw compute performance of 580 PFLOPS,"
-    publishedDateTime: 2022-05-18T18:58:00Z
-    webUrl: "https://insidehpc.com/2022/05/nec-selects-ddn-and-nvidia-for-ai-research-supercomputer-in-japan/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "fjr1KtdrlVTvVWtPcShSgIxtWoD1YVOC8MAF1O8vi7QSl5/WVdmYsrk5y9oV6z9+1BaDVkg+e/lJ+dK0gaLGcoVXhVqQAYN1fw8N3lyreRwlsTEdO4XK+zibNFO4ddPNH+KvM59FdPa32fhkeP3p6KmB1EsBC/GNUk1QWCGIOi1IVYpQr8YZQ3nV0hxx20RDEoppfHpYhFGPSOpl+oB5TMe0xUckZY8NjCLKZvXYissDbhVyPJEY8JtfRh7GZwpnc086kOJzvjDD9uMXDnu5LmB/ELfLQXnSs1UH4/31X5+I524uNdGjUC2iuSRj3eYveVJgOAvo+6jBHgp5ILh+XSt1q0aau4S+ENvg2qAiQlkdsk04lGK7O31g/LHmD4Kx6B5ooh1Jh6omSUtbhXIRTQVIr7BHjTsYCV6py9gmG3bvN8bnf/J4xosSc9dT32QxAAOlkbO2gtuiyYRsfsMlWCAIBLzpVjsGad/TjNnMctOBzdbiGEReQjVZSxGU+KOMRq4Ag39PqRCvXD4EmPCqZw==;AG8lZNhbevvVqaziknayvg=="
 ---

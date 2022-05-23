@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-22-state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international-visitors.md",
+      "title": "State to use facial recognition at Honolulu Airport to speed up travel time for international visitors",
+      "excerpt": "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening",
+      "sourceUrl": null,
+      "webUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
+      "originalUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/4/06/40611144-6dcb-11ec-9c2b-b794470070e4/61d4fbcdbb7ed.image.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
+      "cdnAmpWebUrl": "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
+      "publishedDateTime": "2022-04-21T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KITV",
+        "domain": "kitv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-mits-newest-computer-vision-algorithm-identifies-images-down-to-the-pixel.md",
       "title": "MIT's newest computer vision algorithm identifies images down to the pixel",
       "excerpt": "But for artificial intelligence and computer vision systems, developing a high-fidelity understanding of their surroundings takes a bit more effort. Well, a lot more effort. Around 800 hours of ...",
@@ -1287,58 +1330,6 @@
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-facial-recognition-goes-to-war.md",
-      "title": "Facial Recognition Goes to War",
-      "excerpt": "Services that put a name to a face, including Clearview AI, are being used to identify Russian soldiers, living or dead, and to verify that travelers in Ukraine are who they claim.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html",
-      "originalUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/04/05/business/00facerec-01/00facerec-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html",
-      "publishedDateTime": "2022-04-07T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

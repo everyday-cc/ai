@@ -30,6 +30,17 @@ images:
     height: 413
     isCached: true
 
+related:
+  - title: "Incoming Indigenous Labor MP calls Greens a bigger threat to a Voice to parliament than Coalition"
+    excerpt: "The incoming Indigenous MP for Australias red centre says the Greens are a bigger threat to the voice to parliament than the Coalition, as the left-wing party pushes a treaty between the government and Aboriginal people before any national Indigenous body."
+    publishedDateTime: 2022-05-23T10:34:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/incoming-indigenous-labor-mp-calls-greens-a-bigger-threat-to-a-voice-to-parliament-than-coalition/news-story/6028697104d58c490253d2295a0cb881"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
+
 secured: "X96iiyWKIjrQlqOyue2Wlio13JUPlzfy281wnQm8AsjtFpt1PmIyV+oGGsU5qgxh/tX0WFaB0fvQK0AsXdNR+zBhN5ASlYbXlTvv8yYeBH4FdmM04z2iG9FH3nJVmoAy0FAZhQkiR5rTFYQOMzIVs0iIhRKT8niLMXD2zKMjwbNTTqHCbbI+nU0QgZo3sAgtUYsZ0Tf1gu35LMGdrPMWXU4H+L02DcOutFiLWkTwrg0vH90JfNo4SFE6ZDTUIccVdZ7+hu/iZs2C8KHWigzHt3bx+9SIPYXT6QKENHB5Gs8DrFHnWtCHLPzCU/wKD2wkc3fjbg6qfoj0FERvmTfilnCWLihuUQSux5we/AFZPPj4UMwiwKaPQuUEKxKmnhvdjoOI22CBMkVTzl18OMstAfsFwmlwxpzuRU/YcA69jj+EH5vXI1tMsJdGkgvTAMWI7MlXcUDB9Mv23Qhru1qN7EQj63as5ihyRuQK5olwb9RdLCAOUhDebZcOy4KTipfnUqdEPld8jOd9S9PDkDs6jg==;BEwugDcaVfjlqRXNT/HfQw=="
 ---
 

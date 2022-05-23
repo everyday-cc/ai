@@ -20,16 +20,19 @@ topics:
 
 related:
   - title: "BrainChip Joins Arm AI Partner Program"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 22, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, announced today it"
-    publishedDateTime: 2022-05-22T21:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/ac27340151/brainchip-joins-arm-ai-partner-program"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27340151"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27340151"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 22, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, announced today it has been accepted into the Arm® AI Partner Program,"
+    publishedDateTime: 2022-05-22T21:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-brainchip-holdings-ltd-a1d2b11e190956616425f573c922c84a"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "fD33x553Z41bL5OE5l8Ne3eiaBM+wCEzix22O3cjzKa9LeAajJf53lGVyz6xmSAY0HCCfv9ijw0pGamlk4R/EGhPWzstjtnEKH++jEH3GflcyZDJd4ugP8IPp9sSsK4Oyj5mS+E6hOLwubrm7ReRQMb1ZNLlZYoPVipw6MYBnuNXhx9ylkmF3qy7NX0Xund5IynKjht/5W9F4H1SyDLw7FzRGc5M6nLxga990c5xGQbcB7zsJLk0AtmEcGtQpziLak/5AvbSSlDwfP1lsmMeUd36ntf3ior7uKPCm1SEl/yvnCYsJ65rzP+nZHyH076Byi7sQsh9iXckbU/cxor56mnpFXgZgD78GRlZXk5lDCc=;NBjIXIKoq2LoPDSdVQl1bw=="
 ---

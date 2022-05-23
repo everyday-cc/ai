@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-11-slai-makes-intelligent-choices-around-machine-learning-setups-for-developers.md",
+      "title": "Slai makes intelligent choices around machine learning setups for developers",
+      "excerpt": "Slai is building a developer-first platform for machine learning. It equips developers with the tools to quickly ship machine-learning applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/slai-founders.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "publishedDateTime": "2022-05-10T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models.md",
       "title": "Predibase exits stealth with a low-code platform for building AI models",
       "excerpt": "Or they can choose to use a blackbox off-the-shelf ‘AutoML’ solution that simplifies their problem at the expense of flexibility and control.” Indeed, while worldwide spending on AI ...",
@@ -1352,49 +1404,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-human-brain-organoids-reveal-how-a-genetic-mutation-disrupts-neural-development.md",
-      "title": "Human Brain Organoids Reveal How a Genetic Mutation Disrupts Neural Development",
-      "excerpt": "Scientists at the University of California, San Diego (UCSD), School of Medicine used human brain organoids to reveal how a genetic mutation associated with a profound form of autism disrupts neural development. Using gene therapy tools to recover the gene ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/developmental-disorders/autism/human-brain-organoids-reveal-how-a-genetic-mutation-disrupts-neural-development/",
-      "originalUrl": "https://www.genengnews.com/developmental-disorders/autism/human-brain-organoids-reveal-how-a-genetic-mutation-disrupts-neural-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2022/05/Getty_1015900158_AutismBrain-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

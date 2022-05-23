@@ -41,7 +41,35 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Self-driving buses, delivery vans and pods targeted with £40m government competition"
+    excerpt: "A new £40m competition will kick-start commercial self-driving services including autonomous delivery vehicles and passenger buses, the government has said. Launched today (23 May) by minister for investment Lord Grimstone,"
+    publishedDateTime: 2022-05-23T11:24:00Z
+    webUrl: "https://www.imeche.org/news/news-article/self-driving-buses-delivery-vans-and-pods-targeted-with-40m-government-competition"
+    type: article
+    provider:
+      name: Institution of Mechanical Engineers
+      domain: imeche.org
+    quality: 17
+    images:
+      - url: "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Government launches £40m competition to jump-start self-driving buses and delivery vans"
+    excerpt: "Ministers are accelerating the introduction of self-driving buses, shuttles and delivery vans onto British roads with a £40m fund that could help create thousands of jobs.   A new government competition is trying to harness the economic potential of autonomous vehicles,"
+    publishedDateTime: 2022-05-23T05:00:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2022/05/23/government-launches-40m-competition-jump-start-self-driving/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 16
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/business/2018/07/20/TELEMMGLPICT000125144398_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
 
-secured: "527VAlUn2P+XypzJI0DOM+PH1r663zdiOx7T82sR0ZbZeFprVNxbHNcVs8FX6POBtD2Y9Pg1wlwrG4/olqpKgKJ1jnnVmu7JdyUhyYbqWatrp4BEktYYnWX6Bh1yCSFHE7zbWRCq0EFKL+Gn14RU1tuzl6vRkQx/aMwO1mLv/g4IY6M59s/+7+qYvvutesy0w/RBvVy4bdG9RFHyu3Rp1j8wMJvy+M7p3CnYwl1hZG17rXWselK/x/QMgKA2nJIYl6RdK0KuQAgDxbyPDD9CEY4AVqhUxfOVeZk0KI1k2uS0TfgWjKV4QLLoy9XO7NKxzST2MVWPURz+/cDNBNZCcK9qnmTk1nNogGlC+HJcJoA=;DVTV05U7j76XHJLDEu73qQ=="
+secured: "2nUuj8dXErUA1+uh9PLxr+9fS0jZRLt5fqBCnbn6QQN69rCVFOFkSbYAlVibBUmd4B/JFTMVh8z4Oq/St2x+OlwmgAA17gGt9z1h54lRJ43I/5tKhWKSI2x90CfBF42aL58X2dH1UCTiFUQwXJUu2FmOInGQvHsqrJRLp9g+oNdg5nyYf8i8BBFfRq1Ji2cTI8ExDP54FPom2PQUV02rirUesY/SiiIt0bhnacpTeKDp42CaRCIFGTV5+jc0+qm/ltAr1Wu36Q5/Mxsj4kwJqXsyJai/tTUnTw05x1MYSCor9Qrr6qLabMOjwSGKNd1z5JlK96+XZx8+8r+CnoaHD6WQzikdzDQxa0jPPHKh5rfCx6wj+yQtjvTqq1zec4LCU9Ah/vPlZaJdb00zzfmrYN6uLmjqlUzzTDYFMCrqEirj3Si1lMYBpXS7nzTSpSD3npTMy+GepqiTg9UbzBoK5SsGtrxlSRGNRGtMYITrDWZc7QrAR2VzjjaDxBopx29SL5W1uHZ3NAlI6m4vfqjilg==;28iKtev9IHsIJHGJqK3REA=="
 ---
 

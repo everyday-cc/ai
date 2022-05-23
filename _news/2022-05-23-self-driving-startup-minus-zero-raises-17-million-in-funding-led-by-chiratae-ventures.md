@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/self-driving-startup-minus
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving vehicle start-up Minus Zero raises $1.7mn in seed fund"
+    excerpt: "Minus Zero, the self-driving vehicle start-up, has raised $1.7 million in a seed round led by Chiratae Ventures and clocking participation from JITO Angel Network. Angel investors from the autonomous vehicles industry,"
+    publishedDateTime: 2022-05-23T10:28:00Z
+    webUrl: "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/23/full/1653301694-2772.png"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Bengaluru-based self-driving startup Minus Zero raises USD 1.7 Mn"
     excerpt: "Bengaluru-based self-driving startup Minus Zero has raised USD 1.7 million in seed funding led by tech VC firm Chiratae Ventures."
     publishedDateTime: 2022-05-23T09:49:00Z
@@ -41,20 +57,15 @@ related:
         width: 1196
         height: 843
         isCached: true
-  - title: "Government launches £40m competition to jump-start self-driving buses and delivery vans"
-    excerpt: "Ministers are accelerating the introduction of self-driving buses, shuttles and delivery vans onto British roads with a £40m fund that could help create thousands of jobs.   A new government competition is trying to harness the economic potential of autonomous vehicles,"
-    publishedDateTime: 2022-05-23T05:00:00Z
-    webUrl: "https://www.telegraph.co.uk/business/2022/05/23/government-launches-40m-competition-jump-start-self-driving/"
+  - title: "Space tech start-up Ubotica Technologies raises €4m in seed funding"
+    excerpt: "Dublin-headquartered space technology start-up Ubotica Technologies has raised €4 million in seed funding to grow its team and fund the next generation of the CogniSat platform. The round was led by Atlantic Bridge and includes co-investment from US based Dolby Family Ventures and Seraphim Space."
+    publishedDateTime: 2022-05-18T19:40:00Z
+    webUrl: "https://www.irishtimes.com/business/technology/space-tech-start-up-ubotica-technologies-raises-4m-in-seed-funding-1.4881891"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 16
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/business/2018/07/20/TELEMMGLPICT000125144398_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
-        isCached: true
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 17
 
 secured: "Sodmb4xQHOPvH9G1IQU+tnaRt7df1RJlQhRuOvH/Mqd9Cug4yPnnxEKIXIz3L6hgxmsd1ihKEyVnSaTbNj1FIGDyTpKNeNfR0aRndkn1hNMBrzW8GAxT2yzF1eRgaJoKRKRRAIRWf3/a9NGP9PSS7Z4iFdcYD7u4xkCjXeM16naKE6VwXCtlgfnGIyiDFjvkroUWNBnWNbzdCFXAxewTB7ivx7QotOjWiDJC1fJ5doKN1lGDcdB2aL1aSCXsblQoKtXRi4dGTi77fZXZYZnVWYSNiqvhxRN4cWCBYfe14uR27rOCx4nQR678fLJ+g0GgCE6etTozO4MK5D/Q5Rge/NfZ+/Uiv3hmOXSI27MjkvgAhVNWcyu+4Jg2aS/TBtSVWxwkCnqvSg5JHwwdoMx+S3tzGa/9JXvu0jyhBxUVPZWFNaC1rhqvLK4zH9OQLL4SCXamgRHarwtReCyWsrWiLV06EEAeYEQ1+5EDUCKf9ULCtG10w0yt5QlgkOR9m5/Qab/aPU0HzoRGfdQQUCucBg==;ki67IznO2+kfSyNPnsLDDA=="
 ---

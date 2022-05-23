@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-23-uk-watchdog-fines-facial-recognition-firm-75m-over-image-collection.md",
+      "title": "UK watchdog fines facial recognition firm £7.5m over image collection",
+      "excerpt": "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
+      "originalUrl": "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/47c278fa57498f6cb6dfacca66029466bbf0ae82/0_140_4226_2537/master/4226.jpg?width=620&quality=85&auto=format&fit=max&s=a52403bcb19393cd53e562b4af829d1b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
+      "publishedDateTime": "2022-05-23T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-21-trust-stamp-which-sells-facial-recognition-tools-to-ice-had-dozens-of-peoples-data-exposed-in-breach.md",
       "title": "Trust Stamp, which sells facial recognition tools to ICE, had dozens of peoples' data exposed in breach",
       "excerpt": "Dozens of names, addresses, and driver's license data were exposed in the breach, though it doesn't appear to include the data of migrants.",
@@ -1387,58 +1439,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble.md",
-      "title": "Hohem iSteady V2 is a Red Dot Award winning AI facial tracking gimble",
-      "excerpt": "The stabilizer draws its inspiration from the ‘Bionic Owl design’ and comes with highlight features like high AI recognition, fast-tracking, and automatic following. Its AI tracking is capable of tracking the face and body of the subject even when they ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/",
-      "originalUrl": "https://www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/05/20220428153603.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/?amp=1",
-      "publishedDateTime": "2022-05-07T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

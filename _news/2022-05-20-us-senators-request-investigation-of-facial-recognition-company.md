@@ -19,61 +19,96 @@ topics:
   - AI
 
 related:
-  - title: "Senators Push for FTC Investigation into ID.me Technology"
-    excerpt: "The software, which has been used by government agencies, is raising questions among Democratic lawmakers around whether the company misled consumers and agencies about the scope of the verification technology."
-    publishedDateTime: 2022-05-18T23:05:00Z
-    webUrl: "https://www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology"
-    ampWebUrl: "https://www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/senators-push-for-ftc-investigation-into-id-me-technology?_amp=true"
+  - title: "UK watchdog fines facial recognition firm £7.5m over image collection"
+    excerpt: "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database"
+    publishedDateTime: 2022-05-23T10:24:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/da27b57/2147483647/strip/true/crop/1000x521+0+3/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F63%2F9f%2F8d290f4a41b2941b9fafba5a3eeb%2Fshutterstock-1658387542.jpg"
-        width: 840
-        height: 438
+      - url: "https://i.guim.co.uk/img/media/47c278fa57498f6cb6dfacca66029466bbf0ae82/0_140_4226_2537/master/4226.jpg?width=620&quality=85&auto=format&fit=max&s=a52403bcb19393cd53e562b4af829d1b"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Senators Call For Probe Into ID.me Facial Recognition Database"
-    excerpt: "\"Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition.” Now, a great of senators have written a letter to the Federal Trade Commission and its chair,"
-    publishedDateTime: 2022-05-21T06:00:00Z
-    webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
+  - title: "UK watchdog fines Clearview AI $9.5 mn, tells firm to delete data"
+    excerpt: "The Information Commissioner's Office (ICO) in the UK on Monday fined facial recognition surveillance firm Clearview AI more than 7.5 million pounds (.."
+    publishedDateTime: 2022-05-23T11:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/big-data/uk-watchdog-fines-clearview-ai-9-5-mn-tells-firm-to-delete-data/91743478"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/big-data/uk-watchdog-fines-clearview-ai-9-5-mn-tells-firm-to-delete-data/91743478"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/big-data/uk-watchdog-fines-clearview-ai-9-5-mn-tells-firm-to-delete-data/91743478"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 41
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
-        width: 1222
-        height: 815
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91743478,imgsize-84710,width-1200,height-628,overlay-etcio/uk-watchdog-fines-clearview-ai-9-5-mn-tells-firm-to-delete-data.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Senators Seek FTC Probe of ID.me Selfie Technology"
-    excerpt: "In a letter to the Federal Trade Commission requesting an investigation, four Democratic senators asked the regulator to examine whether identity verification company ID.me’s statements pointed to its use of illegal “deceptive and unfair business practices."
-    publishedDateTime: 2022-05-18T17:11:00Z
-    webUrl: "https://www.law.com/dailybusinessreview/2022/05/18/senators-seek-ftc-probe-of-id-me-selfie-technology/"
+  - title: "Facial recognition company Clearview AI fined £7.5m for illegally using images of Brits scraped from online"
+    excerpt: "The company is accused of illegally scraping 20 billion images of people's faces from the web without their knowledge or permission, and then using them to form a global facial recognition database."
+    publishedDateTime: 2022-05-23T09:23:00Z
+    webUrl: "https://news.sky.com/story/facial-recognition-company-clearview-ai-fined-16375m-for-illegally-using-images-of-brits-scraped-from-online-12619574"
+    ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-company-clearview-ai-fined-7-5m-for-illegally-using-images-of-brits-scraped-from-online-12619574"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-company-clearview-ai-fined-7-5m-for-illegally-using-images-of-brits-scraped-from-online-12619574"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 24
+      name: Sky
+      domain: sky.com
+    quality: 56
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/392/2022/05/US-Federal-Trade-Commission-Building-2022-012-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://e3.365dm.com/22/05/1600x900/skynews-facial-recognition_5781088.jpg?20220523103812"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Senators seek FTC probe of IRS provider ID.me selfie technology"
-    excerpt: "A group of Democratic senators has asked the Federal Trade Commission to investigate whether identity verification company ID.me illegally misled consumers and government agencies over its use of controversial facial recognition software."
-    publishedDateTime: 2022-05-18T17:25:00Z
-    webUrl: "https://techxplore.com/news/2022-05-senators-ftc-probe-irs-idme.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-senators-ftc-probe-irs-idme.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-senators-ftc-probe-irs-idme.amp"
+  - title: "Tech Digest daily roundup: Clearview AI fined £7.5m for facial recognition breach"
+    excerpt: "Facial recognition company Clearview AI has been fined more than £7.5m by the UK's privacy watchdog for collecting the facial images"
+    publishedDateTime: 2022-05-23T10:54:00Z
+    webUrl: "https://www.techdigest.tv/2022/05/tech-digest-daily-roundup-clearview-ai-fined-7-5m-for-facial-recognition-breach.html"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 24
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 49
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2022/05/facialrecognition-1-1024x576-1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Facial recognition firm ordered to delete data of UK residents"
+    excerpt: "Facial recognition firm Clearview AI has been fined £7.5 million and ordered to delete personal data belonging to UK residents. The Information Commissioner’s Office (ICO) issued an enforcement notice against the US-based firm after a joint ..."
+    publishedDateTime: 2022-05-23T11:50:00Z
+    webUrl: "https://www.independent.co.uk/tech/facial-recognition-clearview-ai-uk-b2085114.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 39
+    images:
+      - url: "https://static.independent.co.uk/2021/07/21/12/GettyImages-1080200064.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facial recognition company used by Met Police fined millions by information watchdog"
+    excerpt: "A facial recognition company used by the Metropolitan Police has been ordered to delete billions of Facebook photos and fined £7.5m after breaking data protection laws. Clearview"
+    publishedDateTime: 2022-05-23T11:31:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2022/05/23/facial-recognition-company-used-met-police-fined-millions-information/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 32
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2022/05/23/TELEMMGLPICT000295438109_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "nNvJN8m4ZFUW0KDu7ePMWJgg+sXhzRpmQS01rArkF+w1dq0K9AyjypE9uw3gAUIlZeB9Gy0rhox6TaaK3sG0NHMlk87y/QEANYRXkepim8lZL46FxVrthtoWD63hT9/vQY/W+DtQ60SYGt9PWmbZD7/AFdzk4GmgHPkEz0hPnzzewtiyBdgZQc5Yhdx8vDSjcgYV/To3hsFcX4790GHDcKgu2ODSqw3OPYdmyyivDb6fqKhYg7sJ86vHgTDj9Wmowi7RFxhYXzSiEs2m1XBJtS+iWl+ufTo3Ut/4F0aBe3p7j9j7Zu5Df+e0oWlkKn3OmgTbesTk1GZLwUB3FTe4TroqegNnISePwfvNQyV/XwxyIKqUKt1RK0+TP0vluMn8ACM41ZuM1ZcfnhU51ZoeBqyz3Ssfztzw1DZYAg9tLaARp8ilffjwVHoKTfSvUTmjEEI39e7RbhmCZOXwadzcIp0wQewzrxxNq40vEooIEqelwAvLXe9ZEViqAJjwkFmCbfvKFrxrRGx9SyGHV7Qzrw==;bPMjiVIZ/yq5lMfL5FY9xQ=="
 ---

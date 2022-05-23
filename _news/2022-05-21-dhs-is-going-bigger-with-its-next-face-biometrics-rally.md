@@ -34,15 +34,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 16
-  - title: "Amazon Claims Student’s Biometric Data Collection Suit is Impermissible Expansion of BIPA Liability"
-    excerpt: "Amazon Web Services Inc. (AWS) has fired back at allegations that it secretly collects biometric information from Illinois residents in violation of the"
-    publishedDateTime: 2022-05-18T17:43:00Z
-    webUrl: "https://lawstreetmedia.com/news/tech/tech-giants/amazon-claims-students-biometric-data-collection-suit-is-impermissible-expansion-of-bipa-liability/"
-    type: article
-    provider:
-      name: Law Street Media
-      domain: lawstreetmedia.com
-    quality: 5
 
 secured: "mUsBDFY7+MK7yzrJwWrR+5DgpUDakeR6wZiklNI40EhVqCDhw2Q8uz9J628ah42JybwGbL0lj2PL0JILnLfyRjPRzHnxs/slHbROuTTnGc5YC8oQcC6hltoB5TH8jgpgCYBlzoxNlaqMDe28B1yCdrkHZajp9QwkGSk7s6e/uiZoo9slTtQhHEnpuOOGIOl+sEFYITpGCXoCwAVFpkJnqfPhVGISfxDtw4OqOl59g8RGgXfDkhy46NWSphDIIvH3Wrdnr3LPPSmi27Ifed8fDOOKmaiSwapHa+aoIaczN8THHAGSvJfsbFgJOOSbLhZNbgLcBfrR9EBKNEGvytobirBu87ZdTd5VAPesBksAiqs=;9E8uS72SYVvx+QsW7u480g=="
 ---

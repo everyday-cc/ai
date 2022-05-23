@@ -55,6 +55,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Google claims its AI can understand humour"
+    excerpt: "Which is more than most Americans Google claims it has written some AI code which can actually understand humour and scarcasm, which is odd really given that is something the US has never really understood."
+    publishedDateTime: 2022-05-23T10:59:00Z
+    webUrl: "https://www.fudzilla.com/news/54890-google-claims-its-ai-can-understand-humour"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/5c1ba6a54f0edc0b4fc1f8e89a901a0d_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "yVUjsZH/ihD42xWL7Tf52JW/7K9I7PuHsEBCxTf6OlmjMgSsZEaiPrv2i5SlTo5GDP/d/TPC8MeIlM/hRkBXSsIDP/atNMEvWrGiZnaX88XeeoGVFS/+eyaNlzFHwapBBjiJR5Grd5JQRaael+UzhxEnZqqDLGtODkMfBfuznHNxUbcI+tC6i/CywP719RM3NQrGZL6kxw2svYhGBAO745qMWMMK/OvnXLOJo+TSJS9HCkX9kXxLeyKEywBHSrU+SGczhFEh4o8HIhht13gHDQqyP3j6Q4qBtyMyY9Kg5cVE+iBZJQsH70+g+RZ7MOFbQ45otDIfKJ72DiQaExKCl6vh3fQ53rIJgLARlkzUsGKkn4biWdY3ykZBxYzovTrOEAWUZeTi47vJxY4LcwO7OpcpQ7xNGNIWvGJ+Qz+SpXc588/xzHE3tVXIMjew//tv2C4g1+VxAkEVWQ43AFLDz6T+9ExZ7Kc1TjYmr0VF9rPsCH6KcD51mtty/Q0H4AcMk/4Iy4rTNtlwgZY6rv0r6A==;QTfaxsXodp5vmJG0Qbdkew=="
 ---

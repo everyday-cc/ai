@@ -42,40 +42,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Senators Seek FTC Probe of ID.me Selfie Technology"
-    excerpt: "In a letter to the Federal Trade Commission requesting an investigation, four Democratic senators asked the regulator to examine whether identity verification company ID.me’s statements pointed to its use of illegal “deceptive and unfair business practices."
-    publishedDateTime: 2022-05-18T17:11:00Z
-    webUrl: "https://www.law.com/dailybusinessreview/2022/05/18/senators-seek-ftc-probe-of-id-me-selfie-technology/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/392/2022/05/US-Federal-Trade-Commission-Building-2022-012-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Senators seek FTC probe of IRS provider ID.me selfie technology"
-    excerpt: "A group of Democratic senators has asked the Federal Trade Commission to investigate whether identity verification company ID.me illegally misled consumers and government agencies over its use of controversial facial recognition software."
-    publishedDateTime: 2022-05-18T17:25:00Z
-    webUrl: "https://techxplore.com/news/2022-05-senators-ftc-probe-irs-idme.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-senators-ftc-probe-irs-idme.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-senators-ftc-probe-irs-idme.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 24
-  - title: "US Senators request investigation of facial recognition company."
-    excerpt: "Texas Department of Insurance clarifies facts surrounding data incident. US Senators request investigation of facial recognition company. South African pharmacy suffers customer data breach. Highschooler blows whistle on student data leak."
-    publishedDateTime: 2022-05-19T19:30:00Z
-    webUrl: "https://thecyberwire.com/newsletters/privacy-briefing/4/97"
-    type: article
-    provider:
-      name: Cyber Wire
-      domain: thecyberwire.com
-    quality: 19
 
 secured: "qoon0NgUEtNA2x8fihy4zUuIoePcrohVF1XIb/kKVWvDNgr9+DoHf+vHWqGFzwXWLJCxxSIqErV3upzHQRR6pO6Q1ETuJz9kxPIkdkCv6iVIZkp3cfeOXVM85HA/5bRVgE7RqGvCRVoyDRvVwHG3yRSWgelIS08mqfm+Y9AsNLdR3ATrFpABAY1FbJg6nMylpTqxxH9XuPtabnLaxenSvA3o06H8wtOpVvTWnePD0lEnMxHpHNwTUfnsDfH+J1Jo2o9P9MMm8lmWynb8IVQKTZZcWDHwIFza4OpX1fly10fqDgxWHwlfmvrsrai6shxYDIbI37BTMZUbMnJanqRcdlCDujLU6ubmQyK/xuHmmOY=;2ew7yoO3B1k7Fe2H4xFacA=="
 ---

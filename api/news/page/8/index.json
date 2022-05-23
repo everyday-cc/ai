@@ -2,6 +2,162 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-12-data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round.md",
+      "title": "Data-driven fintech TIFIN valued at $842M in new $109M Series D round",
+      "excerpt": "TIFIN brought in $109 million in fresh funding to bring its tech to the wealth and asset management industries",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/",
+      "originalUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1153689483.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/",
+      "publishedDateTime": "2022-05-12T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-how-ai-can-improve-services-revenue-and-customer-success.md",
+      "title": "How AI can improve services revenue and customer success",
+      "excerpt": "Having real-time data that can be modeled using AI and machine learning can help to solve customer success challenges today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/",
+      "originalUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-customer_succes_ai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/how-ai-can-improve-services-revenue-and-customer-success/amp/",
+      "publishedDateTime": "2022-05-12T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-biotech-ceo-were-only-growing-stronger-with-ai-robotics.md",
+      "title": "Biotech CEO: We're Only Growing Stronger With AI, Robotics",
+      "excerpt": "We're dependent on data, we're dependent on better artificial intelligence that enables us to use models ... Again, we use AI, we use robotics, we use data science, and we use it all at the edge of where the technology is today as a way to enable our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/",
+      "originalUrl": "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/679121/robotics-lab.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-china-scrutiny-stymies-jdcom-fintech-units-2-billion-hong-kong-ipo-sources.md",
       "title": "China Scrutiny Stymies JD.Com Fintech Unit's $2 Billion Hong Kong IPO - Sources",
       "excerpt": "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,",
@@ -1042,145 +1198,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-trumps-voice-is-still-very-much-being-heard.md",
-      "title": "Trump’s voice is still very much being heard",
-      "excerpt": "Former President Donald Trump's influence is currently having a resurgence. Candidates he has endorsed are winning key GOP primaries. Candidates he had not endorsed are still swearing fealty to him. And he may soon get an important bullhorn back: The mute button placed on him by Twitter may be lifted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
-      "originalUrl": "https://www.cnn.com/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220511101100-oz-trump-rally-pennsylvania-0506-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
-      "publishedDateTime": "2022-05-11T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws.md",
-      "title": "IBM Think 2022 – Broad array of IBM software catalog now available as SaaS offerings on AWS",
-      "excerpt": "IBM today announced it has signed a strategic collaboration agreement with AWS, with plans to offer a broad array of its software catalog as SaaS on AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646",
-      "originalUrl": "https://www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/05/think-2022.jpg",
-          "width": 1372,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646?amp=1",
-      "publishedDateTime": "2022-05-11T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-google-workspace-suite-to-gain-7-new-ai-tools-for-usability-security.md",
-      "title": "Google Workspace Suite To Gain 7 New AI Tools For Usability & Security",
-      "excerpt": "Google is expanding its use of AI in Workspace in a bid to improve the usability and security of its services. That's based on a recent announcement from",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/10/google-workspace-gmail-new-icon.jpg",
-          "width": 1172,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp",
-      "publishedDateTime": "2022-05-11T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-14-neural-network-market-growth-2022-2028-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions.md",
+      "title": "Neural Network Market Growth (2022-2028), Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions",
+      "excerpt": "Global “Neural Network Market” (2022-2028) research report gives an outline of the business with orders, applications",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-market-growth-2022-2028-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2022-04-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-market-growth-2022-2028-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2022-04-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-dall-e-2-the-future-of-ai-research-and-openais-business-model.md",
       "title": "DALL-E 2, the future of AI research, and OpenAI’s business model",
       "excerpt": "DALL-E 2 shows how far the AI research community has come toward harnessing the power of deep learning and addressing some of its limits.",
@@ -1329,49 +1381,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-how-ml-ops-can-help-scale-your-ai-and-ml-models.md",
-      "title": "How ML Ops Can Help Scale Your AI and ML Models",
-      "excerpt": "Machine learning operations, or ML Ops, can help enterprises improve governance and regulatory compliance, automation, and production model quality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html",
-      "originalUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/04/blog-7.png?w=1024",
-          "width": 1024,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html/amp",
-      "publishedDateTime": "2022-04-07T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Facebook-owner Meta Opens Access To AI Large Language Model"
-excerpt: "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first ..."
-publishedDateTime: 2022-05-03T14:59:00Z
-originalUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
-webUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
+title: "Facebook-Owner Meta Opens Access to AI Large Language Model"
+excerpt: "(Reuters) - Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was ..."
+publishedDateTime: 2022-05-03T14:15:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model"
 type: article
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg"
-    width: 1200
-    height: 803
-    isCached: true
-
-secured: "dWsG0LLCtIqhEmj5iuyYN6Edz+4SCsYwgI2CqzZ/GGbguBlnMcr7kkHbN/Cy4jjg4Sf9/IObT68ge4qPWShzEO0l4flalu52CYu774b8gqgqjkwei+EkICJUSO6N0FJCZU8q3C+rxAHnYHlHDFtWnXKOJt9r3DOkuyC+ctVhNi9UCeVBlhEH2AxoLrE4lYuqcN3M7p3V5ukqvobypZHL+nJOlC/hRzQHYq06Uyli4EFvRUWp4fbTvx8ObeXmXeLwotfg1j6c9De6xAWfMIQhQTzKi2uGLa/0J062rILltYSKlFC2JF9+8MBsFdlMnyCxO5Tdd14NlajzrmUx3egKfPbnuPyQTDP7GBGOLr7f4f4=;XCayGpW9xMo0K01yOc/aAQ=="
+secured: "TZOOnLyK3BfFlPfrcVo3zTqtZplZtv3Ihq/H6cKPp3ogIZQECl78QhaT9JLEmL79HXSMOdRHxjwko5PL7hne6zt8t+nRJRhHv4Nr9YsJLezSRYPWqX2YQ0hpr5wwGJ9m2pAE1oD9u8K93j0JiKJRgADkjiBTWZT+Fh63ManQSYMQ7FTGmUbcIO78WiMU5EXtdJCQaTk0ifWlY8QFC4610F1U9uAp5GbasuowWRMWQnSTqoYIqSyB67/ltdRrUDOn3GeY9ukMZIh4ZmmCLWv8YC9Yi8IhV1ZXjS7RBsk+23VzZ/FhJ9xEtXh5RGpk/ciR0KCBBzL3tIhsASRLjG2zwx06QG6wj9eO3Pv1kfiKtM0=;Vdbt2rWrCIc1XfedVIybXg=="
 ---
 

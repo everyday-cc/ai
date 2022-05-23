@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-05-israeli-firm-ai-curb.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-israeli-firm-ai-curb.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/20/lifeguards-in-the-city-of-ashdod-on-israels.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "Israeli AI Startup BeyondMinds Shuts Down, 65 Employees Let Go"
+    excerpt: "About six months ago, when the markets for IA were starting to cool down, the company's board of directors urged CEO Rotem Alaluf to sell the company."
+    publishedDateTime: 2022-05-23T11:33:00Z
+    webUrl: "https://www.jewishpress.com/news/israel/israeli-ai-startup-beyondminds-shuts-down-65-employees-let-go/2022/05/23/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 37
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/BeyondMinds-founder-Rotem-Alaluf..jpg"
+        width: 800
+        height: 601
         isCached: true
 
 secured: "offyZoHQWu5hYyqbl29i4Wa6D27YA5gLodBYlesGrfY5zoXU1nPCopfxSstdmoxRGG865TBDxAI7+NKpQU/MDReJAAW4XYxW18S9+Nhu+NxJVhu1BkIoBN+V3BgyH5RQO0L2WS8vV8ze2XRXrrBTc9+G21M/3oYyE9/7HjxosfiejUwkk8yIvCjvjhu/UXsRHUQ50/TG5v6E+cA+dxJDlVBcyJuUtcx6oxt++FnLzzPS16x1krh4PawZVrJDY1Jl4WbAHp7Gcq6z4xjVNOBqj2oMHPvV2uoe/7RT3rW8FljaEmmdVUO/BIKP7Q43uPOzaargxuELG1xL3eD7C0ywwXbP90iu3Kt/PmZSOw1o8s7a2fi4/kiUPsdT+0v6Nbsc1mPxA7CcpVfafb7JJBW6ghz1BOACBgFgNZP2eB2wHiW98BzxMYw2tgKy4e6uTISBoLMAOQLKIJhRRaYFHDFDRjxxWJookbdz2XcliBivgLj3PIipHabSB2jY86/FWl2CsKP7fquNVmii+fFCieRhzw==;hUNJ/IoplB+TRmPpg7LpVg=="

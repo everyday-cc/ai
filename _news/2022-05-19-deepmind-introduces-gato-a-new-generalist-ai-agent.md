@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google's DeepMind says it is close to achieving 'human-level' artificial intelligence"
-    excerpt: "DeepMind, a British company owned by Google, may be on the verge of achieving human-level artificial intelligence (AI). Nando de Freitas, a research scientist at DeepMind and machine learning professor at Oxford University, has said 'the game is over' in ..."
-    publishedDateTime: 2022-05-18T18:54:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html?curator=upstract.com"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 71
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/05/18/12/57967583-0-image-a-9_1652873486461.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "DeepMind’s AlphaFold 2 is half of the story"
     excerpt: "Google’s research arm DeepMind released an open-source version of its deep-learning neural network AlphaFold 2, which solved protein folding."
     publishedDateTime: 2022-05-20T05:02:00Z

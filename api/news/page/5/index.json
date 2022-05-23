@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-17-deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-the-game-is-over.md",
+      "title": "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’",
+      "excerpt": "A DeepMind lead researcher made the bold claim that the company's newest AI was a 'game over' product for AGI research.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over",
+      "originalUrl": "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FscalingAI.jpg&signature=9bc3b164454b20146d307326beb8c1b3",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-personalize-your-machine-translation-results-by-using-fuzzy-matching-with-amazon-translate.md",
+      "title": "Personalize your machine translation results by using fuzzy matching with Amazon Translate",
+      "excerpt": "A person’s vernacular is part of the characteristics that make them unique. There are often countless different ways to express one specific idea. When a firm communicates with their customers, it’s critical that the message is delivered in a way that best represents the information they’re trying to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/personalize-your-machine-translation-results-by-using-fuzzy-matching-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/personalize-your-machine-translation-results-by-using-fuzzy-matching-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/06/ML-7026-Solution-Architecture-2.jpg",
+          "width": 780,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T10:48:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-google-faces-fresh-class-action-style-suit-in-uk-over-deepmind-nhs-patient-data-scandal.md",
       "title": "Google faces fresh class action-style suit in UK over DeepMind NHS patient data scandal",
       "excerpt": "Google is facing a new class-action style lawsuit in the UK in relation to a health data scandal that broke back in 2016, when it emerged that its AI division, DeepMind, had been passed data on more than a million patients as part of an app development project by the Royal Free NHS Trust in",
@@ -1061,101 +1166,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages.md",
-      "title": "Paradox: Artificial Intelligence Helps Solve, But Suffers From Skills Shortages",
-      "excerpt": "We don’t have enough people to build the AI systems that can automate business areas that don’t have enough people, latest IBM survey shows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//5fe0e38e220093c48951892b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/amp/",
-      "publishedDateTime": "2022-05-14T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-dan-odowd-senate-campaign-targeting-teslas-self-driving-cars.md",
-      "title": "Dan O'Dowd Senate campaign targeting Tesla's self-driving cars",
-      "excerpt": "Over the past month, there's a fairly good chance you have the video. It is clip after clip, essentially bashing Tesla's self-driving technology for a full minute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/dan-odowd-senate-campaign-targeting-teslas-self-driving-cars/",
-      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/dan-odowd-senate-campaign-targeting-teslas-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/14/76c4f476-4221-4814-a16b-e6a49ec1e08d/thumbnail/1200x630/48ee44ca76aba5e3d6a5235e63e3df5c/tesla-ad.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/dan-odowd-senate-campaign-targeting-teslas-self-driving-cars/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/dan-odowd-senate-campaign-targeting-teslas-self-driving-cars/",
-      "publishedDateTime": "2022-05-14T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

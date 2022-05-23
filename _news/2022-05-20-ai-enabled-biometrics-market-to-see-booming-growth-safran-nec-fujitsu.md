@@ -32,15 +32,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Amazon Claims Student’s Biometric Data Collection Suit is Impermissible Expansion of BIPA Liability"
-    excerpt: "Amazon Web Services Inc. (AWS) has fired back at allegations that it secretly collects biometric information from Illinois residents in violation of the"
-    publishedDateTime: 2022-05-18T17:43:00Z
-    webUrl: "https://lawstreetmedia.com/news/tech/tech-giants/amazon-claims-students-biometric-data-collection-suit-is-impermissible-expansion-of-bipa-liability/"
-    type: article
-    provider:
-      name: Law Street Media
-      domain: lawstreetmedia.com
-    quality: 5
 
 secured: "WwQrDYrkMUyF7M4pN7zirYayp7zqHJjBN+pq0zBOrHQsJ2ZOXwaZf+cuUFCVKW7kDWxIYjmL2R8vwMpuQ6maM0GA3olqwXte75UWr64N7z1IpgXYi1SPuU+WmmCM/2YIQCsd+PsjNMR2IUEg/Tj0jsqUuZzSX6zFT2zgTb4PyE2Buqp/uD0sbdJJcDcTCQaMmyI+kG5rHemfTo29OLnXL3LGq1YgMvsTs1mI0HS2E3oka3JCVRocON9n2kZ9zTZJDYG1B9u5ciWIUVnaYBmM/azkc25XRx8usCoimcRgxBSZX1rYIQZTrRzw3CMRbhqZuDYR548qqfTa6X0lZsoN7we9zCjaNGNlP9h0gIMaL+8=;s2nWLUFo4BsWL5AOPdtFMw=="
 ---

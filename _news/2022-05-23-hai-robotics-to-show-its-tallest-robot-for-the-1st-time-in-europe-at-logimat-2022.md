@@ -2,26 +2,26 @@
 category: news
 title: "HAI ROBOTICS to Show Its Tallest Robot for the 1st Time in Europe at LogiMAT 2022"
 excerpt: "HAI ROBOTICS, the pioneer in Autonomous Case-handling Robot (ACR) systems for warehouse logistics, will exhibit its cutting-edge automation technology at LogiMAT 2022, Europe's biggest annual intralogistics tradeshow,"
-publishedDateTime: 2022-05-23T08:43:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html"
+publishedDateTime: 2022-05-23T11:42:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=667987"
+webUrl: "https://us.acrofan.com/detail.php?number=667987"
 type: article
 quality: 64
 heat: 74
 published: true
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/7f/67fb44f3-c878-559c-a7b9-fd57d7ffd061/628b49d386acc.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 480
         isCached: true
 
-secured: "p0xT0L+BtDXJAfV5QicbNKaFU1zohZJwbsQiw+R8DSoa//6nB6YRT0FWmLlfj5wdy2sMuo2LiE1OKplDG/fy/xE5FuYIv5oWafG6dwzWJk5FRtEFlv1E/3tTVUR4ofn/JK76l5TsdI/iF10bHVdIOI1u0ueMjmGK8re9JYiKDpEup01eX1WyeW595LtJP5zRsUd/pxMDKNfOD0ZtcCvF173ENWLZilMV4X/h8lsyWTcwLECnuoUA6UoNj99f4d8MRJx3XmB+I6xJlv1cdMBtN9ImEWwYSu6EGp6Zuj7bXs1jFlOkSozztPZUJLJko8yKh1zB6IasC1W6otbp0XH3r/8d3h+iFpXibyipZQJlHfc=;jPSPr2T0WLgkddVuI25t/w=="
+secured: "wH34YH6IZPyPNGwBGT9dByQRCNe3b8H8Aop63i08m9X5virsge8NaTpvvNs8F7iVfVNobyskDLK/Z6PgQg3rCEzxZ0S/mgWlYp90z0WBlXXZxezrvYWPFd1gP0kvpFBgdRGInJdCLuu1W6/KrjyG+oAcWlyV3Q69+9sU7X8ZsXcbZq+OEN2dbPpu1HgWMLjUNvjSMMTgfz4ADVkk1dquZ616ze5PJw8XDnhc/AdVReXAY0cL2cFQA9R3ZhJugh8As+qTBGLGOWzVY8Jp3YwSYhsg8slOky+n5D34HPU4MFvaabbGLxqMFLZ/qDMA8RqlAI1q7uvNuhMYHgczE4uhTXv+wA7rFaGIUec7Wh9ytCc=;oaA95mPokjv0e6IjI/t+yg=="
 ---
 

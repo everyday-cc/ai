@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Mastercard wants your face and hand imprint for payments"
-    excerpt: "Mastercard announced a new way to make payments called the Biometric Checkout Program. Instead of looking for your phone or wallet at checkout, the new system aims to speed up the process by only using your face or your hand to make a purchase at"
-    publishedDateTime: 2022-05-18T18:14:00Z
-    webUrl: "https://pocketnow.com/mastercard-biometric-checkout-program"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 4
-
 secured: "3IgHeSY7TpfqRHVR+/BTp/NLd77aaiWyz7ZdSwsGW/A3vQBag1jIBMQ8gSJW7ry9olLFeF+wHx/mfMDSuJbz+MNEdlclnPSmc2l1wUgnPxXRwLM+NstlmVC9AfkZOhk1YRwGLMWYqkk2BUEHJrP6kOWX/SBJcE9s5vnTTk4lOGYjPMHw9+C4UilRt/2SU7iu955ov3m31lQ3+nEN/dCzbtdmvB0YncZciJ3ddB2RWaIHKgbwgw65nkIKH4foU+N8y7WwRid7C940kXDEvsm61fJ2xDWSpugjtM0WgQPjc3dCBiOyG0UlNBrQx90Ychy8wLmShp/ye9VWYkwSXoJuCmfRFXyYR1CacWa5Spzbks+cJPBMZSYB4A9jsVi1NrwR4mFPJep0WyskIoScxrAMWI2UNns6+osUWqIbuKxsI4mtB+CFHhIaxWl1jNAHkIueR8GwD6QQSTgOuvaTC0hflFlYD4XGmJa+czSDOBN2HuueEqK5ZXOjV2E2h6vrDd0wxyPDClk39Tg1WnJpxTgeJw==;e/X+/OYDONXx2qJbJv8/UQ=="
 ---
 

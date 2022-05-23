@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-
 webUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab"
 type: article
 quality: 121
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: " https://i.tribune.com.pk/media/images/623082907ce4897c3820b24c_DeepMin1652873089-0/623082907ce4897c3820b24c_DeepMin1652873089-0.jpg  "
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google's DeepMind says it is close to achieving 'human-level' artificial intelligence"
-    excerpt: "DeepMind, a British company owned by Google, may be on the verge of achieving human-level artificial intelligence (AI). Nando de Freitas, a research scientist at DeepMind and machine learning professor at Oxford University, has said 'the game is over' in ..."
-    publishedDateTime: 2022-05-18T18:54:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html?curator=upstract.com"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10828641/amp/Googles-DeepMind-says-close-achieving-human-level-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 71
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/05/18/12/57967583-0-image-a-9_1652873486461.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "DeepMind Introduces Gato, A New Generalist AI Agent"
     excerpt: "Avdi Grimm describes the future of development, which is already here. Get a tour of a devcontainer, and contrast it with a deployment container. Live from the venue of the QCon London Conference ..."

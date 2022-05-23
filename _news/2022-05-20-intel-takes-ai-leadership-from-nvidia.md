@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 604
         isCached: true
-  - title: "NEC Selects DDN and Nvidia for AI Research Supercomputer in Japan"
-    excerpt: "High performance storage company DDN today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research. DDN said the system will have a raw compute performance of 580 PFLOPS,"
-    publishedDateTime: 2022-05-18T18:58:00Z
-    webUrl: "https://insidehpc.com/2022/05/nec-selects-ddn-and-nvidia-for-ai-research-supercomputer-in-japan/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "jhkGqZ3hDrj4g9fQAJd1WR4O3vsLdWGb4EHWvQ58zUHyLvF8n0iQfsg6CwR/AQJQtVbud0Oi3SpnZVC3hUVxmWxZo1OS3Gwli7tDhiJ+wLIq14Sw6mUnOAOaWoggKeIlsz/+4te81Vvd5y76elVKzx7bYHfH7rZi8kq6cyqvKBbWXVdsYEldDhV8g8GDQrsd/krElIYItmEbQH5UawzLci4jYKmqyTMyz5Twfx7jCdeJeUCPzuUKESEVG3OxmlbX6GcGb0djvVrnHU0EfUljPchVUxeyNrL88Qvi3RDu8Wz2HP0aV4eR3fo9XXuIJ+QREhdraBT+gW1xlhEe3HGWmse9A9fLtslU3QDC4jJkibyMFU1f2xrDLBpYoRWEjsMS5NI9lT8dadPWaePR7pMjbR01KJ4UBnx7uxufzEMGW1PilOcDsg20RcxYNwZCnWCPiXBdu0nOUaLzWfuQ/kqQl7PTQRJJM1HBlEohcWZirnYkciOBko7Qo1Zc89rXxuB72+TsqG3p2C7bqCcg84/Mdg==;dJjN52LjVsLPtkUvgNpnfA=="
 ---

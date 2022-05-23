@@ -2,6 +2,144 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2022-02-17-arthur-selected-to-provide-critical-ai-performance-capabilities-for-department-of-defense.md",
+      "title": "Arthur selected to provide critical AI performance capabilities for Department of Defense",
+      "excerpt": "View original content:https://www.prnewswire.com/news-releases/arthur-selected-to-provide-critical-ai-performance-capabilities-for-department-of-defense-301484204.html",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/arthur-selected-to-provide-critical-ai-performance-capabilities-for-department-of-defense-301484204.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/arthur-selected-to-provide-critical-ai-performance-capabilities-for-department-of-defense/article_77c5c4f4-ccd1-5894-97ba-aa2969bd6288.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news.md",
+      "title": "AI acquires the power to manipulate fusion, but wait, it’s actually good news",
+      "excerpt": "The project is a collaboration between Google’s DeepMind and l’École Polytechnique Fédérale de Lausanne (EPFL) started years ago when AI researchers from the former and fusion researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/",
+      "originalUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/tokamak-plasma.jpg?w=1024",
+          "width": 1024,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/amp/",
+      "publishedDateTime": "2022-02-16T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-how-signal-iduna-operationalizes-machine-learning-projects-on-aws.md",
+      "title": "How SIGNAL IDUNA operationalizes machine learning projects on AWS",
+      "excerpt": "This post is co-authored with Jan Paul Assendorp, Thomas Lietzow, Christopher Masch, Alexander Meinert, Dr. Lars Palzer, Jan Schillemans of SIGNAL IDUNA. At SIGNAL IDUNA, a large German insurer, we are currently reinventing ourselves with our transformation program VISION2023 to become even more customer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-4172-image005-1120x630.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T12:12:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-the-african-software-developers-using-ai-to-fight-inequality.md",
       "title": "The African software developers using AI to fight inequality",
       "excerpt": "AI used to tackle poverty, translate languages African data seen vital to fighting racial bias More funding, wider digital access needed, say developers DURBAN, Feb 16 (Thomson Reuters Foundation) - Determined to use her skills to fight inequality ...",
@@ -1073,162 +1211,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-app-annie-becomes-dataai-to-be-the-unified-data-standard.md",
-      "title": "App Annie becomes Data.ai to be the ‘unified data standard’",
-      "excerpt": "Register here. Mobile data and analytics platform App Annie has rebranded as Data.ai, as the company repositions itself as the “unified data standard” to capitalize on what it calls a “big ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/",
-      "originalUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1225870864-e1645017623537.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/amp/",
-      "publishedDateTime": "2022-02-16T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-ibm-acquires-microsoft-azure-consultancy-firm-neudesic.md",
-      "title": "IBM acquires Microsoft Azure consultancy firm Neudesic",
-      "excerpt": "IBM has acquired Microsoft Azure consultancy firm Neudesic for an undisclosed sum. The deal will not only expand IBM's hybrid multi-cloud services, but also advance the company's hybrid cloud and artificial intelligence (AI) strategies. Neudesic offers an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/362266/ibm-acquires-microsoft-azure-consultancy-firm",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/362266/ibm-acquires-microsoft-azure-consultancy-firm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1594223123/itpro/IBM_building_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-the-accuracy-limits-of-data-driven-healthcare.md",
-      "title": "The Accuracy Limits Of Data-Driven Healthcare",
-      "excerpt": "This is not a new concept, but as we begin to rely more heavily on data-driven technologies, such as artificial intelligence (AI ... it comes to AI applications in high-stakes industries like healthcare. Outcomes in this field have the ability to prevent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620ad56ed042e09544bf109c/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/",
-      "publishedDateTime": "2022-02-16T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

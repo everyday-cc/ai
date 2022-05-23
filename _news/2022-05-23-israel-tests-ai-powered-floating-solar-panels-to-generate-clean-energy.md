@@ -55,6 +55,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Israeli AI Startup BeyondMinds Shuts Down, 65 Employees Let Go"
+    excerpt: "About six months ago, when the markets for IA were starting to cool down, the company's board of directors urged CEO Rotem Alaluf to sell the company."
+    publishedDateTime: 2022-05-23T11:33:00Z
+    webUrl: "https://www.jewishpress.com/news/israel/israeli-ai-startup-beyondminds-shuts-down-65-employees-let-go/2022/05/23/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 37
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/BeyondMinds-founder-Rotem-Alaluf..jpg"
+        width: 800
+        height: 601
+        isCached: true
 
 secured: "SZNsxiAzdFAGlQQemCSUgAf02wJeTHnxwjgkHvPv7qSJATziWrOIXOf4ZJpqhuokrmiSkekpqf0u336pjnasKrRU2KsxfMlJri+NmWLsoEXR9T/usU99GOmG4OGMw7e5IcHW4ji1EKEPaQyiFhEdi7L0HVVQLJsCYlAnsGe088SdzSP8/qOTgc7xx3K+yazK0b+uAUuS5z36hmUjHN4wmH3dxPB3qZ5qrjoult6sFbZoZh4X5Ns601TuM1oTAdESNnDR/jnO+oY1t6zvyE0gNaJuZ41g3iWfvC9Q3zrRWSjMhHk9tfeD7Sbu6OhRzsKV0/XP5DGB2bpRuTt+HERNpr3JYf5pHJixIvb5RzATTqw29dFAHEXYBT1nlAGlsE1EnHpuNbhvjLwtbpquyChS+flLuox2Lv/HA2Jr8asYfztNAWuATScMTBzrFmmUJ+sWsEdbBIhP+Qhim07vuEvObWIiOkY89npS+3hhBE0LozjR0FC7vNWLGWuegfqA21syOhyIuefrdNz10pzpOj7HTA==;Z8GlKHfyvoBh7NLJ3B03vA=="
 ---

@@ -2,6 +2,238 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-23-hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat-2022.md",
+      "title": "HAI ROBOTICS to Show Its Tallest Robot for the 1st Time in Europe at LogiMAT 2022",
+      "excerpt": "HAI ROBOTICS, the pioneer in Autonomous Case-handling Robot (ACR) systems for warehouse logistics, will exhibit its cutting-edge automation technology at LogiMAT 2022, Europe's biggest annual intralogistics tradeshow,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=667987",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=667987",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-what-you-need-to-know-about-the-new-threat-poisoned-ai.md",
+      "title": "What You Need To Know About The New Threat: Poisoned AI",
+      "excerpt": "As the availability of data increases and algorithms become more accurate, AI can make the difference between successful products and those that fail.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/what-you-need-to-know-about-the-new-threat-poisoned-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/what-you-need-to-know-about-the-new-threat-poisoned-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62879c4bc9d8e1a64ac60506/0x0.jpg?format=jpg&crop=1524,857,x190,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/what-you-need-to-know-about-the-new-threat-poisoned-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/23/what-you-need-to-know-about-the-new-threat-poisoned-ai/amp/",
+      "publishedDateTime": "2022-05-23T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-self-driving-vehicle-start-up-minus-zero-raises-17mn-in-seed-fund.md",
+      "title": "Self-driving vehicle start-up Minus Zero raises $1.7mn in seed fund",
+      "excerpt": "Minus Zero, the self-driving vehicle start-up, has raised $1.7 million in a seed round led by Chiratae Ventures and clocking participation from JITO Angel Network. Angel investors from the autonomous vehicles industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/23/full/1653301694-2772.png",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "publishedDateTime": "2022-05-23T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-uk-watchdog-fines-facial-recognition-firm-75m-over-image-collection.md",
+      "title": "UK watchdog fines facial recognition firm £7.5m over image collection",
+      "excerpt": "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
+      "originalUrl": "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/47c278fa57498f6cb6dfacca66029466bbf0ae82/0_140_4226_2537/master/4226.jpg?width=620&quality=85&auto=format&fit=max&s=a52403bcb19393cd53e562b4af829d1b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
+      "publishedDateTime": "2022-05-23T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms.md",
+      "title": "Who hacked the slaughterhouse? When robots and AI take over farms",
+      "excerpt": "Advanced tech in farming promises to maximize crop yields, minimize the impact of climate change, and fight global food insecurity. Yet swift adoption without consideration of the risks may increase food-system vulnerabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/",
+      "originalUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thebulletin.org/wp-content/uploads/2022/05/The_Holy_cow.jpeg",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/amp/",
+      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/amp/",
+      "publishedDateTime": "2022-05-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bulletin of the Atomic Scientists",
+        "domain": "thebulletin.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-132-through-2028-120-report-pages.md",
       "title": "Artificial Intelligence (AI) in Education Market to Grow At A CAGR Of 13.2% Through 2028 | 120 Report Pages",
       "excerpt": "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3.",
@@ -89,49 +321,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-23-hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat-2022.md",
-      "title": "HAI ROBOTICS to Show Its Tallest Robot for the 1st Time in Europe at LogiMAT 2022",
-      "excerpt": "HAI ROBOTICS, the pioneer in Autonomous Case-handling Robot (ACR) systems for warehouse logistics, will exhibit its cutting-edge automation technology at LogiMAT 2022, Europe's biggest annual intralogistics tradeshow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/7f/67fb44f3-c878-559c-a7b9-fd57d7ffd061/628b49d386acc.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-23-nextbillionai-raises-21-million-in-series-b-round.md",
       "title": "NextBillion.ai raises $21 million in Series B round",
       "excerpt": "The funding round was led by global investment firm Mirae Asset Capital. Existing investors Lightspeed, M12 (Microsoft’s Venture Fund), and Alphawave NextBillion.ai, a spatial data and mapping platform for enterprises, has raised $21 million in a Series ...",
@@ -214,49 +403,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-self-driving-startup-minus-zero-raises-17-million-in-funding-led-by-chiratae-ventures.md",
-      "title": "Self-driving startup Minus Zero raises $1.7 million in funding led by Chiratae Ventures",
-      "excerpt": "The company will use the funding for building an extensive autonomous vehicle research and development, infrastructure and hiring more people.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/articleshow/91735958.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/articleshow/91735958.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-299346,msid-91736088/minus-zero-founders.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms",
-      "publishedDateTime": "2022-05-22T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -777,7 +923,7 @@
       "originalUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -913,6 +1059,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-20-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology.md",
+      "title": "Soft Robotics Expands Commercial Focus for its Artificial Intelligence Technology",
+      "excerpt": "Soft Robotics Inc. expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the consumer goods, E-commerce, and logistics industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
+      "originalUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/05/Soft_Robotics_Inc_mGripAI_CPG.628698128d087.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 500,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse.md",
       "title": "AI experts are in short supply. That's making the skills crisis worse",
       "excerpt": "A study by IBM concluded that the UK is falling behind its European neighbours in AI adoption, with employers blaming a lack of skills in areas like software engineering, problem solving, and knowledge of programming languages.",
@@ -960,206 +1149,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-scientists-develop-real-life-mind-controllable-robotic-hand-using-ai.md",
-      "title": "Scientists develop real-life mind controllable robotic hand using AI",
-      "excerpt": "A team of researchers at the University of Minnesota has created a robotic arm that can function according to your thoughts. In the future, such advance prosthetic body parts might allow humans to control computer-based devices with their minds.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/ai-powered-prosthetic-arm",
-      "originalUrl": "https://interestingengineering.com/ai-powered-prosthetic-arm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2p754w9/sizes/neuroprostheric-hand-umn_resize_md.JPG",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/ai-powered-prosthetic-arm",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-powered-prosthetic-arm",
-      "publishedDateTime": "2022-05-20T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-computer-chip-giant-asml-places-big-bets-on-a-tiny-future.md",
-      "title": "Computer chip giant ASML places big bets on a tiny future",
-      "excerpt": "ASML , a semiconductor industry and stock market giant, has to think smaller. Or maybe bigger. It is building machines the size of doubl",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/computer-chip-giant-asml-places-big-bets-tiny-future-2022-05-20/",
-      "originalUrl": "https://www.reuters.com/technology/computer-chip-giant-asml-places-big-bets-tiny-future-2022-05-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/SZxbVKNg5ab42dF-SY1sIlrnkEg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P75Z23REDRJF7KMT5BBLFLHLAQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-china-robot-unicorn-hai-robotics-eyes-international-expansion-as-market-for-warehouse-automation-cranks-up.md",
-      "title": "China robot unicorn Hai Robotics eyes international expansion as market for warehouse automation cranks up",
-      "excerpt": "Hai Robotics makes robots for moving and sorting boxes in warehouses, a market estimated to reach US$41 billion globally by 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion?module=live&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion?module=live&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/19/5020fad2-9d36-402d-a4c2-acacef0bb0f6_a484de56.jpg?itok=BWP9j4IV&v=1652960037",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion",
-      "publishedDateTime": "2022-05-20T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-10-skills-robots-cant-replace-in-the-workplace-yet.md",
-      "title": "10 Skills Robots Can’t Replace In The Workplace (Yet)",
-      "excerpt": "Machines have made great strides, but there are still plenty of workplace skills only humans have. Ensure your success by cultivating these top 10 skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62872d26ae4897dfa63b4a56/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/amp/",
-      "publishedDateTime": "2022-05-19T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -80,6 +80,31 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 10
+  - title: "Global Face Mask Detection Market Report to 2027 - by Component, Application, Technology and Region"
+    excerpt: "Facial recognition systems, which began as a type of computer application, have seen increased use in recent years on smartphones and in other forms of technology, such as robotics. Computerized facial recognition systems are classified as biometrics since ..."
+    publishedDateTime: 2022-05-23T11:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27343540/global-face-mask-detection-market-report-to-2027-by-component-application-technology-and-region"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27343540"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27343540"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
+  - title: "HD Maps for Autonomous Vehicles Market Emerging Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
+    excerpt: "The global HD maps for autonomous vehicles market is expected to reach a market size of USD 16.51 Billion at a steady CAGR of 34.3% in 2028, according to"
+    publishedDateTime: 2022-05-23T10:58:00Z
+    webUrl: "https://www.digitaljournal.com/pr/hd-maps-for-autonomous-vehicles-market-emerging-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "jyqhrgzmpPWcmLMwpNH8R6xUkuQjoxkNGvyJ5e7/iTBaaoYlakcxfv3UGlwx6yURirrO9s0+MXU/0/zR+hxa2FPeEgLJfjl7ZZV2W//0mHDtSWS4m3nUBzDt8N1FKy0D3ynDOUsQhLKM7BzFSbzYc/xlF+SbflMIEag9utlW1TWAUTq01G6aMnju7l6ASA0uNRsxoTTdvysS7WlxJ/f7gdo6MblfEIPMtIA+ygB0pH0sHYcm+dpu4qgge2Y+zE9ezJd08/40x+YdlWvfDiupWCo22O/QvDNEfw41GYfotDHjFwVHhXYg64q3NHj5Mg6dSgs9M649tCq3V3SifLAAMHGhL95FhJC2E5H1IpJgFA8=;W2WSocRN20e/ukVjM0GGYA=="
 ---

@@ -6,17 +6,17 @@
       "title": "HAI ROBOTICS to Show Its Tallest Robot for the 1st Time in Europe at LogiMAT 2022",
       "excerpt": "HAI ROBOTICS, the pioneer in Autonomous Case-handling Robot (ACR) systems for warehouse logistics, will exhibit its cutting-edge automation technology at LogiMAT 2022, Europe's biggest annual intralogistics tradeshow,",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html",
+      "webUrl": "https://us.acrofan.com/detail.php?number=667987",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=667987",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/7f/67fb44f3-c878-559c-a7b9-fd57d7ffd061/628b49d386acc.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,54 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T01:43:00-07:00",
+      "publishedDateTime": "2022-05-23T04:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms.md",
+      "title": "Who hacked the slaughterhouse? When robots and AI take over farms",
+      "excerpt": "Advanced tech in farming promises to maximize crop yields, minimize the impact of climate change, and fight global food insecurity. Yet swift adoption without consideration of the risks may increase food-system vulnerabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/",
+      "originalUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thebulletin.org/wp-content/uploads/2022/05/The_Holy_cow.jpeg",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/amp/",
+      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/amp/",
+      "publishedDateTime": "2022-05-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bulletin of the Atomic Scientists",
+        "domain": "thebulletin.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -138,6 +181,49 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology.md",
+      "title": "Soft Robotics Expands Commercial Focus for its Artificial Intelligence Technology",
+      "excerpt": "Soft Robotics Inc. expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the consumer goods, E-commerce, and logistics industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
+      "originalUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/05/Soft_Robotics_Inc_mGripAI_CPG.628698128d087.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 500,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -289,101 +375,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-19-soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics.md",
-      "title": "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics",
-      "excerpt": "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the Consumer Goods, E-Commerce, and Logistics industries.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg",
-          "width": 400,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-robotic-beehive-using-ai-to-save-the-bees-and-global-food-supply.md",
-      "title": "Robotic Beehive Using AI To Save The Bees And Global Food Supply",
-      "excerpt": "Beewise delivers beekeeping at scale with Beehome, a newly invented beehive using precision robotics, computer vision and AI to help beekeepers fight the alarming decline in the global bee population.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/05/19/robotic-beehive-using-ai-to-save-the-bees-and-global-food-supply/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/05/19/robotic-beehive-using-ai-to-save-the-bees-and-global-food-supply/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-19-how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing.md",
       "title": "How Artificial Intelligence Is Opening Up A New World Of Possibilities In Hearing",
       "excerpt": "For me, there’s nothing more fulfilling than seeing technology enhance the way people live. We’re just starting to scratch the surface when it comes to AI. When people talk about this technology, its impact is not 10 years from now.",
@@ -445,7 +436,7 @@
       "originalUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {

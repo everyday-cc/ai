@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-24-ukraine-is-using-facial-recognition-tech-to-identify-dead-russian-soldiers-and-inform-their-families.md",
+      "title": "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families",
+      "excerpt": "The Ukrainian government is using facial recognition software from the controversial startup Clearview AI to identify dead Russian soldiers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3",
+      "originalUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/623c81dda2e45b00195027e0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp",
+      "publishedDateTime": "2022-03-24T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030.md",
       "title": "Image Recognition Market Segmentation Analysis and Global Industry Trends Forecast 2030",
       "excerpt": "pattern recognition, object recognition, and digital image processing. The category of code recognition technology segment is estimated to be the leading segment in the world market for image ...",
@@ -1308,49 +1360,6 @@
       "provider": {
         "name": "WLKY",
         "domain": "wlky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-mice-can-recognise-3d-objects-from-memory-of-their-2d-photos-study-suggests.md",
-      "title": "Mice can recognise 3D objects from memory of their 2D photos, study suggests",
-      "excerpt": "“Our findings also provide strong support that a functional mouse hippocampus is required for this form of nonspatial visual recognition memory and picture-object equivalence,” he adde",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "originalUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/03/15/10/122287_web.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "publishedDateTime": "2022-03-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

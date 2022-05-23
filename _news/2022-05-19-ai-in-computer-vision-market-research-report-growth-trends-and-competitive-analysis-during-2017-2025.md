@@ -72,6 +72,17 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 10
+  - title: "Global Face Mask Detection Market Report to 2027 - by Component, Application, Technology and Region"
+    excerpt: "Facial recognition systems, which began as a type of computer application, have seen increased use in recent years on smartphones and in other forms of technology, such as robotics. Computerized facial recognition systems are classified as biometrics since ..."
+    publishedDateTime: 2022-05-23T11:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27343540/global-face-mask-detection-market-report-to-2027-by-component-application-technology-and-region"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27343540"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27343540"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
   - title: "Artificial Intelligence In Transportation Market Technology, Applications, Demand, Growth Factors And Forecast To 2028"
     excerpt: "Get a sample of the Artificial Intelligence in Transportation Market report @ Some Key Highlights in the Report In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for ..."
     publishedDateTime: 2022-05-20T12:59:00Z
@@ -81,6 +92,20 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 0
+  - title: "HD Maps for Autonomous Vehicles Market Emerging Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
+    excerpt: "The global HD maps for autonomous vehicles market is expected to reach a market size of USD 16.51 Billion at a steady CAGR of 34.3% in 2028, according to"
+    publishedDateTime: 2022-05-23T10:58:00Z
+    webUrl: "https://www.digitaljournal.com/pr/hd-maps-for-autonomous-vehicles-market-emerging-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "KpRCboG5tc71jQXrqtpJdTtlB2IeWnYpqF/o6mnpuMtY8JMlVGbPpd57qRYDiljKzIwzJBmxs8C+crc+9CJHVRv3xDMVB7fWh8I+uwMPoEG/NO02RkQBKVSG0VHFnAxRUJvcDGuTN3Dz3VG9XxdG4zJ2iaQQXQYcnw/ZX89FvFMsX3z91L204BOE29Mihg5Kbi2vDy1CIRv6Z42hMQLPwl7CdiX7MBwlrHWACWUK3aFZuFjzLhQ+lGP/EcH6RY4ZL16ruq5KRsfiNcdSNv7ltv4D7jkoLDmjwOeTczUFvCtc7PCu442uBop6iOJqaQyEbOsMBdwoZ4aIxxhfS6pUz2bxOkJ6zWLtkA4NZke4pGS+xWmw5I9xXsjuWfpxXq878Uvx6g4yW6fVEGrlJsKNYEI1B9PV5Z/9kwO/MB+G7zmxf5n0K2xH0DiYlhg02ySmyCoiNV0DggqNrRX3EZo5jIyaQTP28BezS/6Dp4fN0hu9eNJzH7cyGK1xXqMaHd9y+4ENxBJBM6qTJI2dRz8Y7g==;1ppCBbJ1tqxQWThwVN1irg=="
 ---

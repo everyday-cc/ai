@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-08-the-irs-backs-down-from-facial-recognition-plan-to-verify-identities.md",
+      "title": "The IRS backs down from facial recognition plan to verify identities",
+      "excerpt": "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/",
+      "originalUrl": "https://www.usatoday.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-state-farm-claims-app-adds-object-recognition-for-simple-submission.md",
       "title": "State Farm claims app adds object recognition for simple submission",
       "excerpt": "Furthermore, with object recognition now available to State Farm app users, the amount of typing is substantially decreased, and the possibility for discretion is eliminated. In the case of an ...",
@@ -1386,58 +1429,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning.md",
-      "title": "How AR, Computer Vision And AI Coalesce For Smart City Cleaning",
-      "excerpt": "The combined application of AI, AR and computer vision in smart cities enables public agencies to optimize urban cleaning in a multitude of ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/26/how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/26/how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61d673281226bcdadb299dfc/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1000,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/26/how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/26/how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning/amp/",
-      "publishedDateTime": "2022-01-26T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],
