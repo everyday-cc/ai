@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T12:00:00Z
 originalUrl: "https://www.stltoday.com/news/local/crime-and-courts/meet-the-falcon-ai-powered-license-readers-multiply-as-police-tool-in-st-louis-suburbs/article_25ee76f8-836a-5610-9d0e-613be652c55c.html"
 webUrl: "https://www.stltoday.com/news/local/crime-and-courts/meet-the-falcon-ai-powered-license-readers-multiply-as-police-tool-in-st-louis-suburbs/article_25ee76f8-836a-5610-9d0e-613be652c55c.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: St. Louis Post-Dispatch

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T00:00:00Z
 originalUrl: "https://www.deepmind.com/blog/open-sourcing-mujoco"
 webUrl: "https://www.deepmind.com/blog/open-sourcing-mujoco"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: DeepMind

@@ -1,20 +1,29 @@
 ---
 category: news
 title: "Pioneering UK Start-up Participates in AWS Summit Washington, DC to Showcase Value of AI Patient Listening Tool to US Market"
-excerpt: "WASHINGTON, DC / ACCESSWIRE / May 23, 2022 / UK-based health technology company PEP Health will today (Monday 23rd May 2022) participate in the AWS Summit"
-publishedDateTime: 2022-05-23T12:59:00Z
-originalUrl: "https://www.digitaljournal.com/pr/pioneering-uk-start-up-participates-in-aws-summit-washington-dc-to-showcase-value-of-ai-patient-listening-tool-to-us-market"
-webUrl: "https://www.digitaljournal.com/pr/pioneering-uk-start-up-participates-in-aws-summit-washington-dc-to-showcase-value-of-ai-patient-listening-tool-to-us-market"
+excerpt: "WASHINGTON, DC / ACCESSWIRE / May 23, 2022 / UK-based health technology company PEP Health will today (Monday 23rd May 2022) participate in the AWS Summit in Washington, DC to showcase the value that its pioneering AI patient listening tool can provide to the U."
+publishedDateTime: 2022-05-23T13:26:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272561610/pioneering-uk-start-up-participates-in-aws-summit-washington-dc-to-showcase-value-of-ai-patient-listening-tool-to-us-market"
+webUrl: "https://www.bignewsnetwork.com/news/272561610/pioneering-uk-start-up-participates-in-aws-summit-washington-dc-to-showcase-value-of-ai-patient-listening-tool-to-us-market"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI
   - AWS AI
 
-secured: "pdHkCSpqRsrmUxx4Y0XYV4biLwa7ju1/4AeXsP0gJOuQ4naQejH6wtkoRwT+JIq/oQTLApp78Tf018vDvDB95B4HjxlhJPVoFXb9PTADn6xXH9z94nZGTzvNdWCfVvOxXMGUJATDwnNkHFfgEGMmJlDPLSfXybavo/rdDH2j6Jhvypx90zQojKKR5iv8uz/5lrabXeiSRSEtjGoKCC4Qxrcl8H8VQZtT7fec5AApmFhkgt20dx+kR0uvlXnua8GzeNCrtCrjaTndmx9i8eI4CaybfR6358PUhGFtrCTSz6HHWzbCfIOLmfnNUYsFo2X0C98S1nL3V4GzrXg+532FO/So3PEszD9yKyIDy2YHyfdS+KGcGGsaBvBmM26M+TwpE9TPZyFUo9VJDBOzvwLX2cIPX57QCvrJcYTTUfljDQIDY5oMGPsbCbcPZVu+QbcE9mKFBlrxhkjH8PPH4NpnO9YpZyugHudr1A3FvDs9ya4bl5cEL3nnNoEGxf1gLyf9zQ9ewfa8YukTjC30FGiKOA==;3GEiTjj1KvA3kVfz5vkLBg=="
+images:
+  - url: "https://cdn.bignewsnetwork.com/cus1653202572476.jpg"
+    width: 630
+    height: 420
+    isCached: true
+
+secured: "KMD/APMYBBFdSLnz8gcFFyHTwrS86z8cyXHklExNy7MdVO99wolkQunuuuAMWrv5F5XXcd3Cfok1DYqLy5URtMsRa10RTrM2fg7doiBdawYf5Vk8xb5mlJUutuf7yoFgJPC9kc8dThZYXaHFNnxlJpCQMkdZB1qymV6EtbbVKxjevGGaCRpb0wOasNsM1XTxd7eks0ieF0JRF970YLiDhjJvz5FZcpsuLgcSPYJqj51cgv6+MDtfuDfZJC6QaWUltEMv2y3iiJHkrWqs9s+/temVIqmKM1RJ4NTiP3petTAnPLBGyipzIisUgGGlujonGjnwLb3zPVZgStxwd8mpNJTCHAas5nkNLLYASCt1hQk=;vWTAo/2YL00fLEanS59nsg=="
 ---
 

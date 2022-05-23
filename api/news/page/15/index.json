@@ -2,6 +2,86 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-05-06-automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53118-mn-by-2030-exclusive-report-by-acumen-research-and-consulting.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Revenue to Surpass US$ 53,118 Mn By 2030 – Exclusive Report By Acumen Research And Consulting",
+      "excerpt": "Artificial intelligence will have a huge impact on ... and electric vehicles in the US and the presence of many AI and self-driving car companies in the region. Then again, the Europe region ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g27039451/automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53-118-mn-by-2030-exclusive-rep",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g27039451/automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53-118-mn-by-2030-exclusive-rep",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27039451",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27039451",
+      "publishedDateTime": "2022-05-05T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-natural-language-processing-market-growing-at-a-cagr-203-key-player-ibm-microsoft-google-aws-facebook.md",
+      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook",
+      "excerpt": "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-facebook",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/721043d015e7592d3878c959eb0b07c6df1918ee-e1652191764450-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-use-custom-vocabulary-in-amazon-lex-to-enhance-speech-recognition.md",
       "title": "Use custom vocabulary in Amazon Lex to enhance speech recognition",
       "excerpt": "In our daily conversations, we come across new words or terms that we may not know. Perhaps these are related to a new domain that we’re just getting familiar with, and we pick these up as we understand more about the domain. For example, home loan terminology (“curtailment”), shortened words, (“refi”,",
@@ -742,34 +822,25 @@
     },
     {
       "path": "_news/2022-05-05-aible-to-participate-in-the-bake-off-session-at-gartner-data-analytics-summit-may-9-11-in-london.md",
-      "title": "Aible to Participate in the ‘Bake-Off’ Session at Gartner Data & Analytics Summit, May 9-11 in London",
-      "excerpt": "Aible, the only enterprise AI solution that guarantees impact in one month, is proud to announce that it will participate in the “Bake-Off” at the Gartner Data & Analytics Summit, held on May 9-11 in London.",
+      "title": "Aible to Participate in the 'Bake-Off' Session at Gartner Data & Analytics Summit, May 9-11 in London",
+      "excerpt": "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-europe-london-91b69bab833ac3e4e644f998780349b8",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-europe-london-91b69bab833ac3e4e644f998780349b8",
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8535548/aible-to-participate-in-the-bake-off-session-at-gartner-data-analytics-summit-may-9-11-in-london",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8535548/aible-to-participate-in-the-bake-off-session-at-gartner-data-analytics-summit-may-9-11-in-london",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T06:03:00-07:00",
+      "publishedDateTime": "2022-05-05T06:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1032,92 +1103,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging.md",
-      "title": "Guidehouse Insights Finds AI and Predictive Analytics in Healthcare Will Enable Safer Aging",
-      "excerpt": "Passive monitoring, an important addition to the smart home, is replacing traditional forms of personal emergency response systemsBOULDER, Colo.,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-aible-to-participate-in-the-bake-off-session-at-gartner-data-and-analytics-summit-may-9-11-in-london.md",
-      "title": "Aible to Participate in the ‘Bake-Off’ Session at Gartner Data and Analytics Summit, May 9-11 in London",
-      "excerpt": "Aible, the only enterprise AI solution that guarantees impact in one month, is proud to announce that it will participate in the “Bake-Off” at the Gartner Data & Analytics Summit, held on May 9-11 in London.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-science-business-europe-london-a7f0fa00661d7434c1d78e71aab33734",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-science-business-europe-london-a7f0fa00661d7434c1d78e71aab33734",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

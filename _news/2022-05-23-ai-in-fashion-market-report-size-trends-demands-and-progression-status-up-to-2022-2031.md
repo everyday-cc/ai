@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GPU for Deep Learning Market Analysis 2022: Share, Top Key Players Research and Forecast to 2027 with Dominant Sectors and Countries Data"
+    excerpt: "The “GPU for Deep Learning Market” 2022 Research report will make detailed analysis mainly on in-depth research on"
+    publishedDateTime: 2022-05-23T06:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Chipset Market Latest, Boosting Technologies, Industry Growth Analysis, Demand Status, Trends up to 2030 | (CAGR) of 14.79%"
     excerpt: "May 19, 2022 (Alliance News via COMTEX) -- Report Ocean published the latest research report on the Deep Learning Chipset market. In order to comprehend a market holistically, a variety of factors ..."
     publishedDateTime: 2022-05-19T12:58:00Z
@@ -144,6 +158,24 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 11
+  - title: "Global Machine Vision Market Size And Market Growth Opportunities"
+    excerpt: "Machine Vision Global Market Report 2022 - Market Size, Trends, And Global Forecast 2022-2026 The Global Machine Vision Market Report by"
+    publishedDateTime: 2022-05-23T12:39:00Z
+    webUrl: "https://menafn.com/1104258499/Global-Machine-Vision-Market-Size-And-Market-Growth-Opportunities"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 4
+  - title: "Deep Learning System Market Overview Highlighting Major Drivers, Trends, Growth and Demand Report by 2028"
+    excerpt: "According to latest analysis by Emergen Research, the deep learning system market is witnessing increased growth due to improvement in computing power and"
+    publishedDateTime: 2022-05-23T12:58:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-system-market-overview-highlighting-major-drivers-trends-growth-and-demand-report-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 2
 
 secured: "iTSL4mBkJvSPn+l3L1WA2loOZdx+F2SZHs700TVtwtN3ZxVdHJq5KXk8THwYJmw+bx1mKNdoaLaAPtMHciw4QfVw4rsqFPnWo5fx1f3vJF7Xyf9aGfYnAbJaFH3R2llN4u/72TK/zpZ0yks+j0mYmtABoRakNNN6WBCMlad6Fsdw96hISBKeOgeq20CW4t7T27gyNNZ+CYH/+jn1R71KTp0dJNofN4Qt7oQisXgRNWL2MCkDVX4hKfgT/hDck+qMD+qAQ23Z4EXqD5IR7k7JYPyWU4vDakzcK1Om3odgWxted7pmuawga6lzMsjdxr5M3ir2TJhGMxjbju7sO/BP4xqN+70oeC510V/dAWNALW4=;uf9ujSEy9YVFPlrm44Fj6A=="
 ---

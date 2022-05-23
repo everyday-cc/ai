@@ -63,6 +63,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Download: DeepMind’s AI shortcomings, and China’s social media translation problem"
+    excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
+    publishedDateTime: 2022-05-23T12:40:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 48
   - title: "DeepMind’s AlphaFold 2 is half of the story"
     excerpt: "Google’s research arm DeepMind released an open-source version of its deep-learning neural network AlphaFold 2, which solved protein folding."
     publishedDateTime: 2022-05-20T05:02:00Z
@@ -77,6 +88,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The hype around DeepMind’s new AI model misses what’s actually cool about it"
+    excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
+    publishedDateTime: 2022-05-23T12:18:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/23/1052627/deepmind-gato-ai-model-hype/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 31
 
 secured: "2INv5i06mtTT9wqNSrv8K2S2TKjCVA2zQIbJ1rq/H/u0qq565Sc20YNAt/RWN47IBo6+lOgKlQhTH3/RuOiAuvVRZpMws31PXqcOC3VeJorA+JMnhzaoLu4DHTbM4i0jcTfJSPJ14k1+9eO9J8S9mnyWjELTHUf7A0juLiMcFHW86UOLi/dXVQNiOUV5c/3sfj4YDOhyk+ffOvwfygSqNRdeogpNCnNlZpzJP//HX6360C/3D1B8DL7O9ydmb13m+EKBftiC+b9frWecXUx3LhfKmUFtuUNwZCl4UlqLDuAaQAQygefOtGBsldrYqxiOSMZUQHfwkT4VQGdMBzXKB7g6RRbkpXvk3IhZu2NLOkg=;RX7DDnH7MeNLCVuFPzQQ/g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-05-facebook-reveal-individuals-e
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-facebook-reveal-individuals-excessive.amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook Parent Meta Creates New AI Platform That Could Help Improve Avatars"
+    excerpt: "Queenie Wong is a senior writer for CNET News, who focuses on social media companies including Facebook's parent company Meta, Twitter and TikTok. She previously covered social networks for The Mercury News in San Jose."
+    publishedDateTime: 2022-05-23T13:00:00Z
+    webUrl: "https://www.cnet.com/news/social-media/facebook-parent-meta-creates-new-ai-platform-that-could-help-improve-avatars/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 46
   - title: "Facebook posts may help identify people at risk for hazardous drinking habits"
     excerpt: "Key to the research was the use of Facebook content analyzed with \"contextual embeddings,\" a new artificial intelligence application that interprets language in context. The contextual embedding model, say Schwartz, Jose and colleagues, had a 75 percent ..."
     publishedDateTime: 2022-05-19T00:01:00Z

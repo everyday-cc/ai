@@ -95,6 +95,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial Recognition Firm Clearview AI Fined $9.4 Million by UK Regulator"
+    excerpt: "The UK Information Commissioner’s Office (ICO) has fined facial recognition database firm Clearview AI more than £7.5 million (around $9.4 million) for breaching the UK GDPR. The ICO has also ordered Clearview to stop scraping and using the personal data of UK residents,"
+    publishedDateTime: 2022-05-23T13:30:00Z
+    webUrl: "https://www.securityweek.com/facial-recognition-firm-clearview-ai-fined-94-million-uk-regulator"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
+    quality: 34
   - title: "Facial recognition company used by Met Police fined millions by information watchdog"
     excerpt: "A facial recognition company used by the Metropolitan Police has been ordered to delete billions of Facebook photos and fined £7.5m after breaking data protection laws. Clearview"
     publishedDateTime: 2022-05-23T11:31:00Z
@@ -109,6 +118,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "UK fines US AI firm £7.5m over mass image collection"
+    excerpt: "The UK's data watchdog also ordered the company to stop obtaining personal data of UK residents available on the internet."
+    publishedDateTime: 2022-05-23T13:36:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/uk-fines-us-ai-firm-7-5m-over-mass-image-collection/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
 
 secured: "nNvJN8m4ZFUW0KDu7ePMWJgg+sXhzRpmQS01rArkF+w1dq0K9AyjypE9uw3gAUIlZeB9Gy0rhox6TaaK3sG0NHMlk87y/QEANYRXkepim8lZL46FxVrthtoWD63hT9/vQY/W+DtQ60SYGt9PWmbZD7/AFdzk4GmgHPkEz0hPnzzewtiyBdgZQc5Yhdx8vDSjcgYV/To3hsFcX4790GHDcKgu2ODSqw3OPYdmyyivDb6fqKhYg7sJ86vHgTDj9Wmowi7RFxhYXzSiEs2m1XBJtS+iWl+ufTo3Ut/4F0aBe3p7j9j7Zu5Df+e0oWlkKn3OmgTbesTk1GZLwUB3FTe4TroqegNnISePwfvNQyV/XwxyIKqUKt1RK0+TP0vluMn8ACM41ZuM1ZcfnhU51ZoeBqyz3Ssfztzw1DZYAg9tLaARp8ilffjwVHoKTfSvUTmjEEI39e7RbhmCZOXwadzcIp0wQewzrxxNq40vEooIEqelwAvLXe9ZEViqAJjwkFmCbfvKFrxrRGx9SyGHV7Qzrw==;bPMjiVIZ/yq5lMfL5FY9xQ=="
 ---

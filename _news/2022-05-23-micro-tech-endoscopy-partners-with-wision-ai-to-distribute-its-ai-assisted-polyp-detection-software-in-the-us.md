@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T13:32:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-health-ann-arbor-artificial-intelligence-8e6c1522e9e64ea6bf9869d1f0a7de3b"
 webUrl: "https://apnews.com/press-release/business-wire/technology-health-ann-arbor-artificial-intelligence-8e6c1522e9e64ea6bf9869d1f0a7de3b"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

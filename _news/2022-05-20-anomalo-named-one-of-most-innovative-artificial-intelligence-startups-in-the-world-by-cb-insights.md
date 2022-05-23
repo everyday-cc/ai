@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Five Canadian startups crack CB Insights’ 2022 AI 100 list"
-    excerpt: "Five Canadian AI companies have been named in CB Insights’ sixth annual AI 100 list, which aims to highlight the most promising and innovative private AI startups in the world."
-    publishedDateTime: 2022-05-18T21:14:00Z
-    webUrl: "https://betakit.com/five-canadian-startups-crack-cb-insights-2022-ai-100-list/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 37
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/02/RaquelUrtasun_2021_83-1.jpg"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "Elementary recognized for achievements in machine vision and industrial quality inspections NEW YORK, May 19, 2022 /PRNewswire/ -- CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
     publishedDateTime: 2022-05-19T22:57:00Z

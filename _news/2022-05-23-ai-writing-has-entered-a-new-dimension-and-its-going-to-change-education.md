@@ -7,8 +7,8 @@ originalUrl: "https://thespinoff.co.nz/tech/23-05-2022/ai-writing-has-entered-a-
 webUrl: "https://thespinoff.co.nz/tech/23-05-2022/ai-writing-has-entered-a-new-dimension-and-its-going-to-change-education"
 type: article
 quality: 54
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The Spinoff
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
-    excerpt: "Hanzo, a technology pioneer in preserving, collecting, reviewing, and exporting dynamic, complex collaboration and web-based data, in partnership with Nightfall AI, the first cloud-native extensible data loss prevention (DLP) platform,"
-    publishedDateTime: 2022-05-18T23:04:00Z
-    webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
-    type: article
-    provider:
-      name: abc27
-      domain: abc27.com
-    quality: 20
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
-        width: 800
-        height: 340
-        isCached: true
   - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
     excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
     publishedDateTime: 2022-05-20T18:50:00Z

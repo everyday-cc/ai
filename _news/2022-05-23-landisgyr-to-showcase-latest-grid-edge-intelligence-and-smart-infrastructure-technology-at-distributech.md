@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T14:00:00Z
 originalUrl: "https://www.kxan.com/business/press-releases/cision/20220523LN65103/landisgyr-to-showcase-latest-grid-edge-intelligence-and-smart-infrastructure-technology-at-distributech/"
 webUrl: "https://www.kxan.com/business/press-releases/cision/20220523LN65103/landisgyr-to-showcase-latest-grid-edge-intelligence-and-smart-infrastructure-technology-at-distributech/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KXAN

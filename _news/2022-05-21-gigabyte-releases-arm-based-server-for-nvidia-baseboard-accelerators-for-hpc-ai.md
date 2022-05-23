@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "GIGABYTE G492-PD0: high-perf server with NVIDIA CPU + HGX A100 GPU"
-    excerpt: "The new GIGABYTE G492-PD0 not only packs NVIDIA's new Ampere Altra Max or Altra processor, but also NVIDIA HGX A100 Tensor Core GPUs for the highest performance in cloud infrastru"
-    publishedDateTime: 2022-05-20T02:17:00Z
-    webUrl: "https://www.tweaktown.com/news/86299/gigabyte-g492-pd0-high-perf-server-with-nvidia-cpu-hgx-a100-gpu/index.html"
+  - title: "A peek into Gigabyte's GPU Arm for AI, HPC shops"
+    excerpt: "Arm-based servers continue to gain momentum with Gigabyte Technology introducing a system based on Ampere's Altra processors paired with Nvidia A100 GPUs, aimed at demanding workloads such as AI training and high-performance compute (HPC) applications."
+    publishedDateTime: 2022-05-23T15:08:00Z
+    webUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/?td=keepreading-btm"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/23/gigabyte_intros_arm_server/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/23/gigabyte_intros_arm_server/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
+      name: theregister
+      domain: theregister.com
+    quality: 76
+    images:
+      - url: "https://regmedia.co.uk/2022/05/23/gigabyteg492-pd0.jpg"
+        width: 996
+        height: 622
+        isCached: true
 
 secured: "c5Xfv+AE6+OWKC4zvDr9jQ3v0Lyj9gNmnfhSQnwOrHtCsMwv8OUd9UkUO+sxC9C9URouhBzTP/1cg7f5XPQihh1E3VAk2/bLnRJMwgiu3BM/zNYxMVQWBTYKYwY9T1x7UlCYZwV5tdlQdwhZOaM/TwCpY+MBr/zt6AvjMteo/wO3Y8Ovx65jMWA4qHQlc6jGaWd1GMT95ud0tL3VZkO9mMFRuMkQPbKEcHuzs7l4eNum/9P4fB24J3tnLaJiypZ37bgb5AYxG3qAy+GkHXl7Oirfnbok/UzkC5+QqKs5ImAOOF5x21D6myvPkP93qg+2p91vx1erMjP/whZwiZpa4O75nGytm9DVSmH9kqqK6Qk=;DNRrc6FiZhCxjML/c8Nu6g=="
 ---

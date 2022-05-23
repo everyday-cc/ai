@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T13:48:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272561693/national-institute-of-technology-signs-mou-with-dr-moopen-medical-college-to-undertake-collaborative-research-in-healthcare"
 webUrl: "https://www.bignewsnetwork.com/news/272561693/national-institute-of-technology-signs-mou-with-dr-moopen-medical-college-to-undertake-collaborative-research-in-healthcare"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Big News Network.com

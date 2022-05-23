@@ -23,22 +23,6 @@ images:
     height: 1365
     isCached: true
 
-related:
-  - title: "Argo AI Expands to Austin and Miami in Search of More Challenges"
-    excerpt: "The self-driving car company has added two more cities to test its vehicles in environments that contain situations like jaywalkers to build its AI's intelligence."
-    publishedDateTime: 2022-05-18T21:22:00Z
-    webUrl: "https://www.designnews.com/automotive-engineering/argo-ai-expands-austin-and-miami-search-more-challenges"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 37
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/21A0280-3-1-scaled.jpg"
-        width: 1540
-        height: 800
-        isCached: true
-
 secured: "OgCITPuCGFknorbTsdQtIoU7pbkyPqMrQ3nmM0ctx6DqUckhZ1LieHVs7dF/vaKzvJ81QiUJ5uCMk5sw0R42h5taMJ9f0SWu2U5sY9ce7TtIDgTTWsqTwcDmiiJ9ZXjDFwshhmdh3eN6yutaC00kmKkCOjRyZOi6OfgIwK9pS7A1MrMWoav/4nlc9EJvIGtFqXqn0mL1iLlgv4JcoxfDJOLtR/Z1nNzE4ZCV396qqrTOS28MM8Qd8yJjVQXk86IRvQlSa1vhLZ0vNuNP1cgzAKtDXrmRO7KyXvACXhc1tPzPUo1SQvTualhyRPsI4vd0sSjWOEOQr6qPiJlKrNSuQxcBrmE57XsHOFZSsorbKxW96HUT41rWIVwcTrWhE7vsThSbL4Ig6ZM5VkPy5DrfjEWQQmWJKS/COg7BPpMtAlnmtUd5NAwuhE4yo9oK219i8fzZUK3RkBE06m5AbgDmqmmv4OeVbxDCGs28AnZ7Itd/0JdzPctrsdmIZ4WL19Oskfagsg8am6pxXSEyYLfZtA==;62oQ1+fiRNP6dF4LeyvTmQ=="
 ---
 

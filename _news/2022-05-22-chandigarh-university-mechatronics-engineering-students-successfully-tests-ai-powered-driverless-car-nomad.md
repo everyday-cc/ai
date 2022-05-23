@@ -35,20 +35,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Ford-backed Argo AI startup launches driverless-car testing"
-    excerpt: "Argo AI, a robotaxi startup that has the backing of Ford Motor Co. and Volkswagen AG, said Tuesday it's launching driverless test rides in Miami and Austin, Texas."
-    publishedDateTime: 2022-05-18T20:51:00Z
-    webUrl: "https://herald-review.com/ap/lifestyles/ford-backed-argo-ai-startup-launches-driverless-car-testing/article_b3a7381c-c52a-55ca-9f1c-e89bb1dad89a.html"
-    type: article
-    provider:
-      name: Herald & Review
-      domain: herald-review.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/custom/image/afe84bdc-33fa-11e7-8231-771276f6981b.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tech company completes first driverless car test on Oxford roads"
     excerpt: "Fully autonomous vehicles have been driven on Oxford roads with no on-board driver and they could soon be used to deliver food."
     publishedDateTime: 2022-05-20T08:11:00Z
@@ -64,13 +50,13 @@ related:
         height: 800
         isCached: true
   - title: "Oxbotica completes first driverless car test on open roads"
-    excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. Investment Minister Lord Grimstone ..."
-    publishedDateTime: 2022-05-19T23:41:00Z
-    webUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
+    excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
+    publishedDateTime: 2022-05-19T23:17:00Z
+    webUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
     type: article
     provider:
-      name: AOL.co.uk
-      domain: aol.co.uk
+      name: Shropshire Star
+      domain: shropshirestar.com
     quality: 19
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"

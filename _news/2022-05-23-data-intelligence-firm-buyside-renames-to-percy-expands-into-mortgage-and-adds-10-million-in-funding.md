@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T13:40:00Z
 originalUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8547324/data-intelligence-firm-buyside-renames-to-percy-expands-into-mortgage-and-adds-10-million-in-funding/"
 webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8547324/data-intelligence-firm-buyside-renames-to-percy-expands-into-mortgage-and-adds-10-million-in-funding/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WKRN

@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/953271"
 webUrl: "https://www.eurekalert.org/news-releases/953271"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Railz Appoints Fintech Veteran as Chief Operating Officer to Help Accelerate Company Growth and Expansion"
-    excerpt: "Railz, a financial technology company that helps banks and fintech quickly harness and analyze small-medium business (SMB) data, announced that payments industry leader Amitaabh"
-    publishedDateTime: 2022-05-19T12:37:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/railz-appoints-fintech-veteran-as-chief-operating-officer-to-help-accelerate-company-growth-and-expansion/article_05569e69-3e0b-5f8a-957d-4cd6239b87e7.html"
+  - title: "Nominations Open for 2022 IDC FinTech Rankings & Real Results"
+    excerpt: "Annual rankings serve as de facto resource for banks, insurance companies, and capital markets firms making critical IT buying decisionsNEEDHAM, Mass.--(BUSINESS WIRE)--#IDCFinTechRankings--Nominations are now open for the 19th annual IDC FinTech Rankings and 8th annual IDC FinTech Rankings Real Results 2022."
+    publishedDateTime: 2022-05-23T12:34:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=668203"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 2
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 4
 
 secured: "UWGzzLz5yXjJ1uvqt8nwoCT5lEYVwbNYZbsyLRTipX+asmJR2bTfVkOYyAYU+I6LJH0bsDuFlKcnG5vfr1RuMuHKjdVYfKWZHNSkrQ7pRvhL/ifTerPtR76FrUJKcUCAxm8oSbAecKCXq1uj6pYPOx/75v23xA6+Cm8ip8e2p4JxHJOrERK/D3Wa+1vqBjizdSE4xMWQBYqLXlX7DeAg03E2+rVntMRhnNM2PORLMkhwJc7giqvdG/FVCrRn8GpbtSL0aE/CxT4DmGFuH/vdy+Z4qj7eRkAwWxVRt/cXorZdwekkIemUa7XAYqlyYnnkIA2aW9FFSMKN2O8Hpl8EXbgsebgqI5Lz/r+0C0KnsxlbgtKz3cTCI+u0/99v6TE1QNRO74hZQYmaXMhQynIHd0rRbtm0KVWpeiICUDzlC1VNiSPL1ueWFjyEP+eJU6XGQTAs+yP5ITNa9awIiBi+4MA3bOi6C1A6cdytgwpuYh7AKQ4ZfqBX8SSWVJ6kxppdaF5JHAy2EjII5YUVVry/YA==;4EU3uh0fL2oDOM6DE1eTqQ=="
 ---

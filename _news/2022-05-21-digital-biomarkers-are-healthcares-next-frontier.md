@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcar
 webUrl: "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechCrunch
@@ -27,6 +27,17 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "Fintech in Healthcare: Improving Healthcare Affordability Across the Globe"
+    excerpt: "Rising service prices, patient number growth, and population aging have always been driving up the cost of healthcare around the globe."
+    publishedDateTime: 2022-05-23T13:06:00Z
+    webUrl: "https://innotechtoday.com/fintech-in-healthcare-improving-healthcare-affordability-across-the-globe/"
+    type: article
+    provider:
+      name: Innovation & Tech Today
+      domain: innotechtoday.com
+    quality: 19
 
 secured: "3hWslT1ndXjBQKqbdeO6a3clqmgIgWis4kM/m7wSVKX4y8UFXI29fUxHoA1/gYbMSEoY5z3ZDpxK4IPbRS2PqcTRvDXkhyhyeGu/Kx2noayHUrYtpT9AKiqerNLO8Dqrd4klE2/q9hPeWcdCWlR9vPooDRjS/+YzjXzSFCHdPwbSoqoUGf2GF4vw5DkPpdhwcJlwGgDGYIqTiorKvOEQlKXst/ysyS7UX7D883vIHz5Os5dYK1RgMGELOgsDRmJhtD8AiDuWgPHcW1zov9MgyxzKSLRM/eUygOFGLBEHvOki54TQjnvwOz3RbCu5+fzTWDbnZNr0eB4LiXTirOS6UlJQITZYs+ediYkpEe+Sb15MZUGPW8ghJpSWpqsYUYvgNZUvA2PQmIMxf5kTW9YbFKCOZ9k7eJ9qTZgOm2ZI0dlRWBPUMar2oqOn3tIv6U5TaX8BjLkypzoI+kh4BPu50ra6Oe+roTz76pkSIjV6D2V8livEFYuRG4GmIHDNF2ECUrRgjBwVlQfbxKMfkj2Ybg==;xpUezGDxQ57CNehNygfOnQ=="
 ---

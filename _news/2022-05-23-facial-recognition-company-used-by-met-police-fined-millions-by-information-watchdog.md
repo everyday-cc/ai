@@ -101,6 +101,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial Recognition Firm Clearview AI Fined $9.4 Million by UK Regulator"
+    excerpt: "The UK Information Commissioner’s Office (ICO) has fined facial recognition database firm Clearview AI more than £7.5 million (around $9.4 million) for breaching the UK GDPR. The ICO has also ordered Clearview to stop scraping and using the personal data of UK residents,"
+    publishedDateTime: 2022-05-23T13:30:00Z
+    webUrl: "https://www.securityweek.com/facial-recognition-firm-clearview-ai-fined-94-million-uk-regulator"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
+    quality: 34
   - title: "US Senators request investigation of facial recognition company."
     excerpt: "Texas Department of Insurance clarifies facts surrounding data incident. US Senators request investigation of facial recognition company. South African pharmacy suffers customer data breach. Highschooler blows whistle on student data leak."
     publishedDateTime: 2022-05-19T19:30:00Z
@@ -110,6 +119,15 @@ related:
       name: Cyber Wire
       domain: thecyberwire.com
     quality: 19
+  - title: "UK fines US AI firm £7.5m over mass image collection"
+    excerpt: "The UK's data watchdog also ordered the company to stop obtaining personal data of UK residents available on the internet."
+    publishedDateTime: 2022-05-23T13:36:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/uk-fines-us-ai-firm-7-5m-over-mass-image-collection/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
 
 secured: "3SC4DlCX0X7o7ucl2GdugGVGb6dSXCa4WSB4PhaHB2sEr0ID8Ji0zMt3HqcfLIz0GKOYBYVTQt84EKcjbkbE6f9KNghl/x4NFM4AL36GnRfbBbcLAJg/KdHmOb/U8O5bqoGzpZpen+mV8NbMhE2V6Dl+aR2vy5F0nTEVIeEf1Xm/sOj5YnLZf27gjG6lCN0Jb0vBm+GL2X6+VyRfKc7gUdf1aSgT9rGKKzw23vTzTKlfMx0JTPbIefzvfMV29BPoz94+QCBuZzh8Ucni67/EepB/xIeYEevA3nOx+t0z7oeVrk789hjPz5xODFni6XvcdOXXxYVvOnbaftIhDFfegTVZKPrVoprAOFhvR74u3FswhvwN0bqhrIQHOZrbUw0t3qmkA9Bz07PCoqTuXHhafNCx0pqTSfms8Kg84dsoOY7EZPGVxxnP1CnMqmEwBnFEw1gNkLHSDomUyP/tp6cyoEk9PNdgQmmo34MkQHP+Y33fAN0bqExdrzTdxlzD4Wg3kfbvHmKVFhRehVh/vXUQPQ==;gdnrFsJ7TqcivDhaeOxfcQ=="
 ---

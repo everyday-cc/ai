@@ -26,20 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Identify Patients With Long COVID?"
-    excerpt: "Long COVID refers to the condition where people experience long-term effects from their infection with the SARS CoV-2 virus that is responsible for the COVID-19 disease (Coronavirus disease 2019) pandemic according to the U."
-    publishedDateTime: 2022-05-20T21:57:00Z
-    webUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid"
-    ampWebUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
+  - title: "Three Lessons Learned While Building A Travel Insurance Startup During Covid-19"
+    excerpt: "Covid-19 reset everything — how we think about health and wellness, where we live and how we explore the world. We saw early on that protecting one’s trip investment and healt"
+    publishedDateTime: 2022-05-23T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/amp/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic0827814.jpg?itok=6-v41JVn"
-        width: 1528
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62879e7a7ead2bcc2e837362/0x0.jpg?format=jpg&width=1200"
+        width: 1200
         height: 800
         isCached: true
   - title: "Identification of long COVID patients through machine learning"

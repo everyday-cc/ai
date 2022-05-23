@@ -69,6 +69,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Self-driving buses, shuttles and delivery vans could soon hit UK roads thanks to £40 million government-funded competition"
+    excerpt: "Self-driving delivery vans and buses could be on our streets within three years, say ministers, who are offering firms cash to get projects started."
+    publishedDateTime: 2022-05-23T13:48:00Z
+    webUrl: "https://www.kentonline.co.uk/kent/news/self-driving-delivery-vans-and-public-buses-could-be-on-uk-r-267598/"
+    type: article
+    provider:
+      name: Kent Online
+      domain: kentonline.co.uk
+    quality: 0
 
 secured: "2nUuj8dXErUA1+uh9PLxr+9fS0jZRLt5fqBCnbn6QQN69rCVFOFkSbYAlVibBUmd4B/JFTMVh8z4Oq/St2x+OlwmgAA17gGt9z1h54lRJ43I/5tKhWKSI2x90CfBF42aL58X2dH1UCTiFUQwXJUu2FmOInGQvHsqrJRLp9g+oNdg5nyYf8i8BBFfRq1Ji2cTI8ExDP54FPom2PQUV02rirUesY/SiiIt0bhnacpTeKDp42CaRCIFGTV5+jc0+qm/ltAr1Wu36Q5/Mxsj4kwJqXsyJai/tTUnTw05x1MYSCor9Qrr6qLabMOjwSGKNd1z5JlK96+XZx8+8r+CnoaHD6WQzikdzDQxa0jPPHKh5rfCx6wj+yQtjvTqq1zec4LCU9Ah/vPlZaJdb00zzfmrYN6uLmjqlUzzTDYFMCrqEirj3Si1lMYBpXS7nzTSpSD3npTMy+GepqiTg9UbzBoK5SsGtrxlSRGNRGtMYITrDWZc7QrAR2VzjjaDxBopx29SL5W1uHZ3NAlI6m4vfqjilg==;28iKtev9IHsIJHGJqK3REA=="
 ---

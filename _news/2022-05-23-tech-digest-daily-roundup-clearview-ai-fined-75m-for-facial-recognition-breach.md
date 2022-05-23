@@ -87,6 +87,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial Recognition Firm Clearview AI Fined $9.4 Million by UK Regulator"
+    excerpt: "The UK Information Commissioner’s Office (ICO) has fined facial recognition database firm Clearview AI more than £7.5 million (around $9.4 million) for breaching the UK GDPR. The ICO has also ordered Clearview to stop scraping and using the personal data of UK residents,"
+    publishedDateTime: 2022-05-23T13:30:00Z
+    webUrl: "https://www.securityweek.com/facial-recognition-firm-clearview-ai-fined-94-million-uk-regulator"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
+    quality: 34
   - title: "Facial recognition company used by Met Police fined millions by information watchdog"
     excerpt: "A facial recognition company used by the Metropolitan Police has been ordered to delete billions of Facebook photos and fined £7.5m after breaking data protection laws. Clearview"
     publishedDateTime: 2022-05-23T11:31:00Z
@@ -110,6 +119,15 @@ related:
       name: Cyber Wire
       domain: thecyberwire.com
     quality: 19
+  - title: "UK fines US AI firm £7.5m over mass image collection"
+    excerpt: "The UK's data watchdog also ordered the company to stop obtaining personal data of UK residents available on the internet."
+    publishedDateTime: 2022-05-23T13:36:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/uk-fines-us-ai-firm-7-5m-over-mass-image-collection/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
 
 secured: "XHmN1SHmwfLQRT8d1ZOGxqIZhMjxkx+SuPYGNou0gB+/Ib9NhbMDURuo49Qn81dUDTc9xjGfzRCtSvkGtsHe9etAUxCFoBYKML5Oj9nZUHOKRRRmaXRJZYuXF1CDyySio5E7Rk1ZFcqsQ/ADN9BLkpQX5T2xSWJ/KKFDT+nZAiYO+KxS7Te9Uu9kt51sbV5F+AAG0xlXzgal3sAvDeGkdU4Ivf7pfvSzsIuqU3zGs26W3GmelorEmpx9DFPd69njPg27ez0iz0MVKvUN2eq6DXXA2VX4ZFz2r5BRrOEaQ2SiOTaEQ5t91r+bgSbwMA89wAJxYu1OsQQfxjPD07BA9GdE6C4y5QkMem9jevfuVYeK2N4FEurwVSinsCzo6+ZuxuZhaNoyOwuXsF46Y0Aa1WccmkCRIG4oOdKHhmEuRb/d17ebmfpWaBz68bWOmkKypVU2cfiiQ+UqfvcT6WKMEXC96DT0Cyy2C/E4/blNrJGYWfqedBjcD0lYYfvZHxSCYtJT47RyXPSz+BudhDqVSg==;6tHYC1zXxrPv5SDNR98xXA=="
 ---

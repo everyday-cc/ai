@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T13:17:00Z
 originalUrl: "https://www.marketwatch.com/press-release/image-recognition-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2026-2022-05-23"
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2026-2022-05-23"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MarketWatch

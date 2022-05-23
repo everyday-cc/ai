@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-04-cardiac-resynchronization-therapy-market-is-growing-at-a-cagr-of-79-during-2022-2032.md",
+      "title": "Cardiac Resynchronization Therapy Market Is Growing At A CAGR Of 7.9% During 2022-2032",
+      "excerpt": "Various regulations imposed by the governments on the consumption of Cardiac Resynchronization Therapy in detail. Impact of modern technologies, such as big data & analytics, artificial intelligence, and social media platforms on the global Cardiac ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2022-04-04/cardiac-resynchronization-therapy-market-is-growing-at-a-cagr-of-79-during-2022-2032",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2022-04-04/cardiac-resynchronization-therapy-market-is-growing-at-a-cagr-of-79-during-2022-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-computer-vision-in-healthcare-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028.md",
       "title": "Computer Vision in Healthcare Market Segments, Growth, Share, Size, 2022 Major Companies Profile, Competitive Landscape and Key Regions 2028",
       "excerpt": "Apr 04, 2022 (The Expresswire) -- Global “Computer Vision in Healthcare Market” (2022) Gives key measurements on the market status, market size, recent trends of the keyword manufacturers ...",
@@ -1310,49 +1344,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-health-related-artificial-intelligence-needs-rigorous-evaluation-and-guardrails.md",
-      "title": "Health-related artificial intelligence needs rigorous evaluation and guardrails",
-      "excerpt": "A new group, the Coalition for Health AI, has identified three key steps needed to pave the path toward addressing concerns about accuracy, safety, and the presence of bias in health-directed algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2022/03/17/health-related-ai-needs-rigorous-evaluation-and-guardrails/",
-      "originalUrl": "https://www.statnews.com/2022/03/17/health-related-ai-needs-rigorous-evaluation-and-guardrails/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2022/03/AdobeStock_109243776-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
         "images": null,
         "publishers": null,
         "authors": null

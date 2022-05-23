@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T13:51:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dla-piper-represents-data-intelligence-technologies-in-its-acquisition-by-axiologic-solutions/article_bbb7596d-6691-537a-b377-caa8b03204c7.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dla-piper-represents-data-intelligence-technologies-in-its-acquisition-by-axiologic-solutions/article_bbb7596d-6691-537a-b377-caa8b03204c7.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

@@ -32,6 +32,15 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners"
+    excerpt: "The Insight Partners published latest research study on \"Voice Biometrics Market Forecast to 2028 – COVID-19 Impact and Global Analysis  b"
+    publishedDateTime: 2022-05-23T14:26:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "WwQrDYrkMUyF7M4pN7zirYayp7zqHJjBN+pq0zBOrHQsJ2ZOXwaZf+cuUFCVKW7kDWxIYjmL2R8vwMpuQ6maM0GA3olqwXte75UWr64N7z1IpgXYi1SPuU+WmmCM/2YIQCsd+PsjNMR2IUEg/Tj0jsqUuZzSX6zFT2zgTb4PyE2Buqp/uD0sbdJJcDcTCQaMmyI+kG5rHemfTo29OLnXL3LGq1YgMvsTs1mI0HS2E3oka3JCVRocON9n2kZ9zTZJDYG1B9u5ciWIUVnaYBmM/azkc25XRx8usCoimcRgxBSZX1rYIQZTrRzw3CMRbhqZuDYR548qqfTa6X0lZsoN7we9zCjaNGNlP9h0gIMaL+8=;s2nWLUFo4BsWL5AOPdtFMw=="
 ---

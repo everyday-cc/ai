@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-
 webUrl: "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab"
 type: article
 quality: 121
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Download: DeepMind’s AI shortcomings, and China’s social media translation problem"
+    excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
+    publishedDateTime: 2022-05-23T12:40:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 48
   - title: "DeepMind’s AlphaFold 2 is half of the story"
     excerpt: "Google’s research arm DeepMind released an open-source version of its deep-learning neural network AlphaFold 2, which solved protein folding."
     publishedDateTime: 2022-05-20T05:02:00Z
@@ -83,6 +94,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 34
+  - title: "The hype around DeepMind’s new AI model misses what’s actually cool about it"
+    excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
+    publishedDateTime: 2022-05-23T12:18:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/23/1052627/deepmind-gato-ai-model-hype/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 31
 
 secured: "KTySUOJVXfjHgSLBNSglmFlKXbxdD6PX7DGveLw6+Kp10ogRn48TKQ0lVWXwnjrk1JCUoJWIdysSEmV+IL7zG22vOjYCcMXBrHoSWW8AeA7cijqvFDxH9mSbSlyQ5IRMgpU7/UMbJ7/n6tmc6qRFFsjNOnmZT/zGxcdeojN6SZ+gYEAwXDURRyWu2YLyfjNTj8SWW60E/Mqs77kvi+6cmrbQMpic1rjuL5GXAYMarz6swF+pxAFTN9/XmEfHD2eJKaKjTYvqiZlCNceRa0X0ncxgLnZ7lzNGakGLG33NZXYGLb67YlTrqNimXzmyltjpZ4Nz68xfblYD9f4DMBGmBpOfg0jlpakvdM53dCeioKo=;iCx1ssXrz75fVebfzums/g=="
 ---

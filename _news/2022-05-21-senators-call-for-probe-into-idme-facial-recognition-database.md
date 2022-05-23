@@ -42,6 +42,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Senators are asking the FTC to investigate a facial recognition firm for deceiving Americans"
+    excerpt: "Yet another company that creates facial recognition software is now under the spotlight, as four Democratic senators asked the Federal Trade Commission today to investigate the Virginia-based American online identity network company ID."
+    publishedDateTime: 2022-05-19T02:33:00Z
+    webUrl: "https://siliconangle.com/2022/05/18/senators-asking-ftc-investigate-facial-recognition-firm-deceiving-americans/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/498967686_5f322c40a9_c.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "qoon0NgUEtNA2x8fihy4zUuIoePcrohVF1XIb/kKVWvDNgr9+DoHf+vHWqGFzwXWLJCxxSIqErV3upzHQRR6pO6Q1ETuJz9kxPIkdkCv6iVIZkp3cfeOXVM85HA/5bRVgE7RqGvCRVoyDRvVwHG3yRSWgelIS08mqfm+Y9AsNLdR3ATrFpABAY1FbJg6nMylpTqxxH9XuPtabnLaxenSvA3o06H8wtOpVvTWnePD0lEnMxHpHNwTUfnsDfH+J1Jo2o9P9MMm8lmWynb8IVQKTZZcWDHwIFza4OpX1fly10fqDgxWHwlfmvrsrai6shxYDIbI37BTMZUbMnJanqRcdlCDujLU6ubmQyK/xuHmmOY=;2ew7yoO3B1k7Fe2H4xFacA=="
 ---

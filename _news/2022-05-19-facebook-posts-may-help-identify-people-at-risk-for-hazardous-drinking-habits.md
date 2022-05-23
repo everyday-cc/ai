@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook Parent Meta Creates New AI Platform That Could Help Improve Avatars"
+    excerpt: "Queenie Wong is a senior writer for CNET News, who focuses on social media companies including Facebook's parent company Meta, Twitter and TikTok. She previously covered social networks for The Mercury News in San Jose."
+    publishedDateTime: 2022-05-23T13:00:00Z
+    webUrl: "https://www.cnet.com/news/social-media/facebook-parent-meta-creates-new-ai-platform-that-could-help-improve-avatars/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 46
   - title: "Facebook posts may reveal individuals at risk for excessive drinking"
     excerpt: "Alcoholism can be a difficult condition to diagnose, especially in cases where individuals' drinking habits are not noticed and physical symptoms have not yet manifested. In a new study, published in Alcoholism: Clinical & Experimental Research,"
     publishedDateTime: 2022-05-20T14:08:00Z

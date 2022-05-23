@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T13:07:00Z
 originalUrl: "https://www.benzinga.com/news/22/05/27341541/tesla-ai-director-andrej-karpathy-testifies-to-autopilots-prowess-heres-what-he-experienced"
 webUrl: "https://www.benzinga.com/news/22/05/27341541/tesla-ai-director-andrej-karpathy-testifies-to-autopilots-prowess-heres-what-he-experienced"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Benzinga.com

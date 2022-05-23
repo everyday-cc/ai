@@ -57,15 +57,15 @@ related:
         width: 1196
         height: 843
         isCached: true
-  - title: "Space tech start-up Ubotica Technologies raises €4m in seed funding"
-    excerpt: "Dublin-headquartered space technology start-up Ubotica Technologies has raised €4 million in seed funding to grow its team and fund the next generation of the CogniSat platform. The round was led by Atlantic Bridge and includes co-investment from US based Dolby Family Ventures and Seraphim Space."
-    publishedDateTime: 2022-05-18T19:40:00Z
-    webUrl: "https://www.irishtimes.com/business/technology/space-tech-start-up-ubotica-technologies-raises-4m-in-seed-funding-1.4881891"
+  - title: "UK launches £40m competition to roll out self-driving commercial vehicles"
+    excerpt: "The UK Government has launched a £40m competition to kick-start the roll out of commercial self-driving vehicles from 2025. Announced today by investment minister Lord Grimstone, the ‘Commercialising Connected and Automated Mobility’ will provide ..."
+    publishedDateTime: 2022-05-23T12:13:00Z
+    webUrl: "https://www.cityam.com/uk-launches-40m-competition-to-roll-out-self-driving-commercial-vehicles/"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 17
+      name: City A.M.
+      domain: cityam.com
+    quality: 3
 
 secured: "Sodmb4xQHOPvH9G1IQU+tnaRt7df1RJlQhRuOvH/Mqd9Cug4yPnnxEKIXIz3L6hgxmsd1ihKEyVnSaTbNj1FIGDyTpKNeNfR0aRndkn1hNMBrzW8GAxT2yzF1eRgaJoKRKRRAIRWf3/a9NGP9PSS7Z4iFdcYD7u4xkCjXeM16naKE6VwXCtlgfnGIyiDFjvkroUWNBnWNbzdCFXAxewTB7ivx7QotOjWiDJC1fJ5doKN1lGDcdB2aL1aSCXsblQoKtXRi4dGTi77fZXZYZnVWYSNiqvhxRN4cWCBYfe14uR27rOCx4nQR678fLJ+g0GgCE6etTozO4MK5D/Q5Rge/NfZ+/Uiv3hmOXSI27MjkvgAhVNWcyu+4Jg2aS/TBtSVWxwkCnqvSg5JHwwdoMx+S3tzGa/9JXvu0jyhBxUVPZWFNaC1rhqvLK4zH9OQLL4SCXamgRHarwtReCyWsrWiLV06EEAeYEQ1+5EDUCKf9ULCtG10w0yt5QlgkOR9m5/Qab/aPU0HzoRGfdQQUCucBg==;ki67IznO2+kfSyNPnsLDDA=="
 ---

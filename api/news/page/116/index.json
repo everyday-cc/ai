@@ -2,6 +2,110 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-02-10-sony-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust.md",
+      "title": "Sony trains AI to leave world’s best Gran Turismo drivers in the dust",
+      "excerpt": "an artificial intelligence program has delivered another humiliation, leaving the world’s best video game racing drivers in the dust. Researchers at Sony trained an AI called GT Sophy to play ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/feb/09/sony-playstation-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust",
+      "originalUrl": "https://www.theguardian.com/technology/2022/feb/09/sony-playstation-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3033fb179fb48b9042b5388377f0c20fd1f031fc/108_0_1616_970/master/1616.jpg?width=620&quality=85&auto=format&fit=max&s=70631904ece175ccc23d7ce5f4b032ef",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/feb/09/sony-playstation-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/sony-playstation-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust",
+      "publishedDateTime": "2022-02-09T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-the-best-speech-to-text-software-for-2022.md",
+      "title": "The best speech-to-text software for 2022",
+      "excerpt": "... is a dedicated mobile speech-to-text app that delivers a high degree of accuracy thanks to its industry-leading speech recognition software that can adapt to your own speech patterns. In other words, Dragon Anywhere can actually learn how you speak ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/business/best-speech-to-text-software-2022/",
+      "originalUrl": "https://www.digitaltrends.com/business/best-speech-to-text-software-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/mansitatdeskathomeofficeroomholdingsmart.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/business/best-speech-to-text-software-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/business/best-speech-to-text-software-2022/?amp",
+      "publishedDateTime": "2022-02-09T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-army-buys-artificial-intelligence-infused-folding-quadcopters-for-battlefield-use.md",
       "title": "Army Buys Artificial Intelligence-Infused Folding Quadcopters For Battlefield Use",
       "excerpt": "Skydio says the X2D offers up to 35 minutes of flight time, can operate in both day or night, and features artificial intelligence tools that enable 360-degree obstacle avoidance and “subject detection” of both people and vehicles. Skydio’s drone ...",
@@ -1065,110 +1169,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m.md",
-      "title": "Leaf Logistics, which develops AI-powered logistics software, secures $37M",
-      "excerpt": "Leaf Logistics, which develops AI-powered supply chain and logistics software, has raised $37 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/09/leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m/",
-      "originalUrl": "https://venturebeat.com/2022/02/09/leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/05/truck.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/09/leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/09/leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m/amp/",
-      "publishedDateTime": "2022-02-09T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-domino-data-lab-adds-autoscaling-to-mlops.md",
-      "title": "Domino Data Lab adds autoscaling to MLOps",
-      "excerpt": "Domino Data Lab 5.0 is focusing heavily on the deployment, autoscaling, and monitoring part of the machine learning lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "originalUrl": "https://www.zdnet.com/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b61c7907e86210dfb3ced032662b9a22a9763d65/2022/02/08/08c0dfa8-2677-4880-ac25-65e91de12f4b/ds.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "publishedDateTime": "2022-02-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 type: article
 quality: 59
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial Recognition Firm Clearview AI Fined $9.4 Million by UK Regulator"
+    excerpt: "The UK Information Commissioner’s Office (ICO) has fined facial recognition database firm Clearview AI more than £7.5 million (around $9.4 million) for breaching the UK GDPR. The ICO has also ordered Clearview to stop scraping and using the personal data of UK residents,"
+    publishedDateTime: 2022-05-23T13:30:00Z
+    webUrl: "https://www.securityweek.com/facial-recognition-firm-clearview-ai-fined-94-million-uk-regulator"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
+    quality: 34
   - title: "Facial recognition company used by Met Police fined millions by information watchdog"
     excerpt: "A facial recognition company used by the Metropolitan Police has been ordered to delete billions of Facebook photos and fined £7.5m after breaking data protection laws. Clearview"
     publishedDateTime: 2022-05-23T11:31:00Z
@@ -114,6 +123,15 @@ related:
       name: Cyber Wire
       domain: thecyberwire.com
     quality: 19
+  - title: "UK fines US AI firm £7.5m over mass image collection"
+    excerpt: "The UK's data watchdog also ordered the company to stop obtaining personal data of UK residents available on the internet."
+    publishedDateTime: 2022-05-23T13:36:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/uk-fines-us-ai-firm-7-5m-over-mass-image-collection/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
 
 secured: "eBwcqfPboZW4KN4Tp2+1vRHtfJ1rOVYbATv+rUI2XXNlRy+2b6ccwhp6abRmknGQfurwuPSX96mZstiBD3XdjKfz5bMzpHXZYczc8f2LYdSffqzqVAL7q4mQ6jXoN8f/luwKnhOLEc7PnDQ5fP+pGmjnb0t85KdXw+fXEqc1DmTQxf1KM+gAiN2SB7itjgYRIXb+Q4rhauhUslrGko0blVw2Z3EpU6Rfx43KrrYMXYg36qZEtDaIFQA4qCJKiIxZA6IYZjcGdcowqr0pyUe8HvFBx9oW9RsThlU+LEpxUMFKLXPzE0sEVGZ8LofzvA9X1X00MlQUfMmOfwCH0zPKq0fMOzh4C8wftd5+n5n9l/H9XHNtpwRKNu7M7tI14Jfi/gfFq3nze2dtBOFU8sYcxWG3msh5i1T8epnryY8XZ925WlXmaTf872RycZ9l23iOlPAU9X02aAm/AoD8zhVlNOzEfCSt6MtC94n+ulevTIkApuoNJixWdngFxgt9DOEosKRo8fyBJKuyLrMBCgfInw==;MJRN1xsmPbJMIQ+BLG8PVA=="
 ---

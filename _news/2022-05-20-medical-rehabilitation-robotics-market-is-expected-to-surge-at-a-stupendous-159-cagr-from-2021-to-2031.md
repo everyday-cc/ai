@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/05/20/medical-rehabilitation-robotics
 webUrl: "https://www.fmiblog.com/2022/05/20/medical-rehabilitation-robotics-market-is-expected-to-surge-at-a-stupendous-15-9-cagr-from-2021-to-2031-2/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Medical Robots Market Size Worth $25.44Bn, Globally, by 2028 at 18.5% CAGR - Exclusive Report by The Insight Partners"
-    excerpt: "The Insight Partners published latest research study on \"Medical Robots Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Product (Surgical Robots, Hospital & Pharmacy Robots, Rehabilitation Robots,"
-    publishedDateTime: 2022-05-19T11:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-medical-robots-market-size-worth-2544bn-globally-2028-/2022/05/19/9605359.htm"
+  - title: "Surgical Robotics Market Size to Hit US$ 21.3 Billion by 2030"
+    excerpt: "The global surgical robotics market size was valued at US$ 5.36 bn in 2021. This device enables a surgeon to perform complex surgical procedures with higher precision. They are"
+    publishedDateTime: 2022-05-23T14:37:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27348969"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27348969"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
 
 secured: "mpJqvME5lIG3dNbu1Qb0Gne3XdbKkf+aLQro2PJMYelKycs3JKM6N1jx+X6s3Hcpq/dHZPnmLcrI8ygiYDy1rlOgA7nM7fsm/mJ04nb3rZ8GJQNDujAIVLvoR1H7TJo2JIcHUnMBSe5h/qo9TWLSj5d4wMVBW4oWxG4QxwWJxvOP8UK2tw6M3qL9QXWClZVres5LAGg2Cqc5eTiE6R6VTN+DwC6RwQSC3ztXkSSSRujQatnUYU04VNW4Ay+KjexjFrX9fg2URpn0D6VRzWSDxr/6GIA1uiHNSHHIJixaUljKcvcB7yQlQmL8lByMaafaU7jIbXyM9XL0eMqFsxSFSb11DOzXeHcIMY3h2FTbOaQ=;LgD8oGpkg3qz5h9ezeMrjw=="
 ---

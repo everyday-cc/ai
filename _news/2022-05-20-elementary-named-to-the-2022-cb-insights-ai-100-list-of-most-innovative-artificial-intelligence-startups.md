@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-
 webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-354915698884a3fcf6d298e87c2c7671"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five Canadian startups crack CB Insights’ 2022 AI 100 list"
-    excerpt: "Five Canadian AI companies have been named in CB Insights’ sixth annual AI 100 list, which aims to highlight the most promising and innovative private AI startups in the world."
-    publishedDateTime: 2022-05-18T21:14:00Z
-    webUrl: "https://betakit.com/five-canadian-startups-crack-cb-insights-2022-ai-100-list/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 37
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/02/RaquelUrtasun_2021_83-1.jpg"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights"
     excerpt: "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:   “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
     publishedDateTime: 2022-05-19T16:02:00Z

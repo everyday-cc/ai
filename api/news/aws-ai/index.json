@@ -257,6 +257,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-18-pieces-selected-for-amazon-web-services-aws-health-equity-program.md",
+      "title": "Pieces Selected for Amazon Web Services (AWS) Health Equity Program",
+      "excerpt": "Pieces, a healthcare AI company, today announced that it has been selected for a new global program from Amazon Web Services (AWS) supporting organizations that are developing solutions to advance health equity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604351.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604351.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1177522/Pieces_Logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-customize-pronunciation-using-lexicons-in-amazon-polly.md",
       "title": "Customize pronunciation using lexicons in Amazon Polly",
       "excerpt": "Amazon Polly is a text-to-speech service that uses advanced deep learning technologies to synthesize natural-sounding human speech. It is used in a variety of use cases, such as contact center systems, delivering conversational user experiences with human-like voices for automated real-time status check,",
@@ -1411,50 +1454,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-aws-allows-a-lenovo-server-to-play-in-its-on-prem-ai-video-cloud.md",
-      "title": "AWS allows a Lenovo server to play in its on-prem AI video cloud",
-      "excerpt": "Amazon Web Services has allowed a third-party hardware offering into its universe, with a Lenovo server dedicated to video analytics scoring the gig. To understand why AWS has endorsed third-party hardware we need to revisit the 2020 re:invent conference,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "originalUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/05/06/supplied_lenovo_thinkedge_se70.jpg",
-          "width": 1201,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "publishedDateTime": "2022-05-06T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

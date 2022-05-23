@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T13:09:00Z
 originalUrl: "https://menafn.com/1104258708/Artificial-Intelligence-In-Genomics-Market-Sales-Continue-To-Peak-Statistics-Study-By-MarketUs-In-2022"
 webUrl: "https://menafn.com/1104258708/Artificial-Intelligence-In-Genomics-Market-Sales-Continue-To-Peak-Statistics-Study-By-MarketUs-In-2022"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

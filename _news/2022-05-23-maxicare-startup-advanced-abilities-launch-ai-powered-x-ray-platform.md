@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T12:12:00Z
 originalUrl: "https://www.rappler.com/technology/maxicare-advanced-abilities-xray-ai-smartscan-launch/"
 webUrl: "https://www.rappler.com/technology/maxicare-advanced-abilities-xray-ai-smartscan-launch/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Rappler

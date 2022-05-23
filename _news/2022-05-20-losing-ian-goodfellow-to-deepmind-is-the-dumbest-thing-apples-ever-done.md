@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/losing-ian-goodfellow-deepmind-dumbest
 webUrl: "https://thenextweb.com/news/losing-ian-goodfellow-deepmind-dumbest-thing-apples-ever-done"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -22,24 +22,6 @@ topics:
   - Google AI
   - AI
   - Machine Learning
-
-related:
-  - title: "AI Expert Ian Goodfellow Is Coming Back To Google Over Office Policies"
-    excerpt: "Apple Machine Learning executive Ian Goodfellow is returning to work on AI at Google and reportedly cites an inbound 'return-to-office policy at the"
-    publishedDateTime: 2022-05-18T23:03:00Z
-    webUrl: "https://www.androidheadlines.com/2022/05/ian-goodfellow-google-deepmind-ai.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/05/ian-goodfellow-google-deepmind-ai.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/ian-goodfellow-google-deepmind-ai.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2018-AM-AH-2-AH-2019.jpg"
-        width: 1600
-        height: 906
-        isCached: true
 
 secured: "MsM1XigXmhKrVmgerUkA1+RK0Z43Aa4hj/CzaYrYfCcoyEqmUGve9jr6sYeLUq2WRSpobaur2tccNBRdgURE3WqOF0rDMcgOb6vzFk8/GicsyaOhJHHeMf6WM0vqqpQ3mClvNO8RUX/EKmPFJGMMYKM0WqQpcs9f9eqnL3zL4Egdf4LtgxWQwD8nNWQgSp1TZzRtwmYcHYVrCni8bP5gz6fO1DgsOw19geTLWkiTl5/X8U9KiZ9msXNd3ekVQ6Aa/UoMYW0l82/iEFdeaDoS6qVSjP5hfoXUIbe3VOj++KodnNmg1zP9QkXoqPTkAfjlMaNW2GN/JR86xuutMSeJtsGlTXplGfL69TYaaPcEFxUQzS/TWbv6xQAQ+2GzuuQ2Dbyov6ZY05VqLdGTE2nm4IEueIhWq3TTRXlMQ77nQEkgOYw1kd1wkw+uJUYaPQbgVdVx0Kxwd8CxFaTNXl+aJaB0jcL4ry2AWjb1nt+QUdNND4sEfcLP2MCpNQPX8YX+K0+oIFyGDP7a4IfsS43/Yw==;q47S4L+gmQA9z4nmHFOX2w=="
 ---

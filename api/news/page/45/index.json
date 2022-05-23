@@ -2,6 +2,92 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-04-11-can-artificial-intelligence-solve-nigerias-ailing-power-grid.md",
+      "title": "Can artificial intelligence solve Nigeria’s ailing power grid",
+      "excerpt": "For the umpteenth time, Nigeria is trying yet again in 2022 to fix its ailing national grid which suffered a system collapse last Friday — the third",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/energy/article/can-artificial-intelligence-solve-nigerias-ailing-power-grid/",
+      "originalUrl": "https://businessday.ng/energy/article/can-artificial-intelligence-solve-nigerias-ailing-power-grid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/09/Power-Grid-Collapses.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/energy/article/can-artificial-intelligence-solve-nigerias-ailing-power-grid/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/energy/article/can-artificial-intelligence-solve-nigerias-ailing-power-grid/",
+      "publishedDateTime": "2022-04-11T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-small-medium-enterprises-ramping-up-their-security-through-cloud-based-financial-analytics-deployment.md",
+      "title": "Small & Medium Enterprises Ramping up their Security through Cloud-Based Financial Analytics Deployment",
+      "excerpt": "Financial Analytics Market to Top US$ 25.1 Bn Amid Surging Application in the BFSI Sector. In its latest market study, Fact.MR offers unbiased analysis on the global financial ana",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-small-medium-enterprises-ramping-up-their-security-through-/2022/04/11/9580453.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-small-medium-enterprises-ramping-up-their-security-through-/2022/04/11/9580453.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-liveperson-upgrades-conversation-assist.md",
       "title": "LivePerson Upgrades Conversation Assist",
       "excerpt": "LivePerson, a provider of conversational artificial intelligence technology ... and bots from third-party platforms like Google DialogFlow and IBM Watson. An intuitive interface presenting multiple recommendations inline in the conversation, allowing ...",
@@ -1016,101 +1102,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
-      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
-      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
-          "width": 1314,
-          "height": 986,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-get-42-hours-of-microsoft-azure-training-for-under-6-per-course.md",
-      "title": "Get 42 hours of Microsoft Azure training for under $6 per course",
-      "excerpt": "With this comprehensive bundle, you can start your cloud computing journey while studying totally online -- no school enrollment is necessary",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "originalUrl": "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e0de291bb0c3dd3c2874894221d7e481d0e5170b/2022/04/05/5059ada6-b553-4485-86c2-ab88d0440a1d/zd-microsoft-azure-prep.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "publishedDateTime": "2022-04-10T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -34,6 +34,15 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 16
+  - title: "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners"
+    excerpt: "The Insight Partners published latest research study on \"Voice Biometrics Market Forecast to 2028 – COVID-19 Impact and Global Analysis  b"
+    publishedDateTime: 2022-05-23T14:26:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "mUsBDFY7+MK7yzrJwWrR+5DgpUDakeR6wZiklNI40EhVqCDhw2Q8uz9J628ah42JybwGbL0lj2PL0JILnLfyRjPRzHnxs/slHbROuTTnGc5YC8oQcC6hltoB5TH8jgpgCYBlzoxNlaqMDe28B1yCdrkHZajp9QwkGSk7s6e/uiZoo9slTtQhHEnpuOOGIOl+sEFYITpGCXoCwAVFpkJnqfPhVGISfxDtw4OqOl59g8RGgXfDkhy46NWSphDIIvH3Wrdnr3LPPSmi27Ifed8fDOOKmaiSwapHa+aoIaczN8THHAGSvJfsbFgJOOSbLhZNbgLcBfrR9EBKNEGvytobirBu87ZdTd5VAPesBksAiqs=;9E8uS72SYVvx+QsW7u480g=="
 ---

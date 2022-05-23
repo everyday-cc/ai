@@ -578,25 +578,43 @@
     {
       "path": "_news/2022-05-04-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
       "title": "Facebook-owner Meta opens access to AI large language model",
-      "excerpt": "iBeat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Facebook-owner Meta Platforms Inc is ...",
+      "excerpt": "May 3 (Reuters) - Facebook-owner Meta Platforms Inc (FB.O) is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday.",
       "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/facebook-owner-meta-opens-access-to-ai-large-language-model/91298575",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/facebook-owner-meta-opens-access-to-ai-large-language-model/91298575",
+      "webUrl": "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/",
+      "originalUrl": "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T20:09:00-07:00",
+      "publishedDateTime": "2022-05-03T19:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -611,11 +629,11 @@
     },
     {
       "path": "_news/2022-05-03-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
-      "title": "Facebook-Owner Meta Opens Access to AI Large Language Model",
-      "excerpt": "(Reuters) - Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was ...",
+      "title": "Facebook-owner Meta opens access to AI large language model",
+      "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. May 3 (Reuters) - Facebook-owner ...",
       "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2022-05-03/facebook-owner-meta-opens-access-to-ai-large-language-model",
+      "webUrl": "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model",
+      "originalUrl": "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -623,23 +641,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T07:15:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp",
+      "publishedDateTime": "2022-05-03T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

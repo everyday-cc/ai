@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T13:39:00Z
 originalUrl: "https://menafn.com/1104259017/AI-Exosphere-Satellite-Writer-An-Artificial-Intelligence-Content-Writing-Tool-Gets-High-Remarks-During-Beta"
 webUrl: "https://menafn.com/1104259017/AI-Exosphere-Satellite-Writer-An-Artificial-Intelligence-Content-Writing-Tool-Gets-High-Remarks-During-Beta"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Middle East North Africa Financial Network
