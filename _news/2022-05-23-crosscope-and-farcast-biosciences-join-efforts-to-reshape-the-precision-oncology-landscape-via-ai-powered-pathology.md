@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Crosscope and Farcast Biosciences join efforts to reshape the precision oncology landscape via AI-powered pathology"
-excerpt: "Today marks the beginning of a new era in the field of cancer diagnosis and precision medicine with the coming together of two leading organizations Crosscope Inc., a Silicon Valley-based leader and provider of Vendor Agnostic AI-enabled Digital Pathology Platform,"
-publishedDateTime: 2022-05-23T05:44:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255497&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255497&cat=PR News Wire"
+excerpt: "Today marks the beginning of a new era in the field of cancer diagnosis and precision medicine with the coming together of two leading organizationsFarcast has"
+publishedDateTime: 2022-05-23T07:10:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272561210/crosscope-and-farcast-biosciences-join-efforts-to-reshape-the-precision-oncology-landscape-via-ai-powered-pathology"
+webUrl: "https://www.bignewsnetwork.com/news/272561210/crosscope-and-farcast-biosciences-join-efforts-to-reshape-the-precision-oncology-landscape-via-ai-powered-pathology"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1823385/Crosscope_Farcast_Bio.jpg"
-    width: 400
-    height: 209
+  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+    width: 630
+    height: 420
     isCached: true
 
-secured: "65IOCyrtq1q0MvUOuN2Zy7DuuCpqt3zUKjNyPWc/eShD+clAlSn/U307QT7l9URpvS9EXN5pvr0DFQUb8ABvBBA54XHzzma631csewCOaxTNN+WSer9AkbEiDmbT45W7LjrEVQ26sZWf5B0H6JYbuoEBTL8U5+AyBW+gCZR4K+4PAM9zfFO79SuGY9JEILvnht728kKlTIbGVlcNN3x2zWEae6JQ0sUaUntyKVah79vQQNCMIowrqs701QtjvKwsDG+KCwGFE7SlNV0O9Dpv4LloretCqhZh4dmCVVGU2a8ai1SkhhXh717azgn9obAWwqsi+xkAST6jl9nnxgseD5ewe7NHcUYAQ3EHTa7ajh0=;nOMuieaDNWB9cjugY6wDqA=="
+secured: "7MIQOuigBqrzlDMVd158klz8SjL+GHrvqc/lwZhMHHA+AuAcL9NOeeEY7v775OGRgw1Rx+dXDno7uJjF139YwOg7IfggUqyGRcm3jqbgS6U37FIY90RrJ+pxyQJjBL9tOOYVppIjrzdLkaRtHT/hR4IT7uVag8wCnTttFJoLjibqtwmLR+7Q7MXESHv4VT0pxy2kc7zoveOmKFOPJ+7VlsbMGRVE6ICCbxBLrCjcSfD7yjTaTQ5J+BPkGJp7arCpc7Hx06zgZnos03k6YGGV0tmbWIKFdyvMDWCuiXUcwziVH6E8BILFIQTdsx3eVTccCBzshe724NltfDZFicxuNOkBL83+CnPBBREe6aWzPrY=;ncAR3UVEh813ml6dnLAbSw=="
 ---
 

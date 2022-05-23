@@ -25,23 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "‘Incredible potential’ - UK Government sinks £40million into self-driving buses and vans"
-    excerpt: "The Government estimates that self-driving vehicle technology could be worth £42 billion to the UK economy by 2035, potentially creating 38,000 new skilled jobs. The first vehicl"
-    publishedDateTime: 2022-05-23T03:01:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1614333/Self-driving-buses-government-investment-competition"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1614333/Self-driving-buses-government-investment-competition/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1614333/Self-driving-buses-government-investment-competition/amp"
+  - title: "Self-driving startup Minus Zero raises $1.7 million in funding led by Chiratae Ventures"
+    excerpt: "The company will use the funding for building an extensive autonomous vehicle research and development, infrastructure and hiring more people."
+    publishedDateTime: 2022-05-23T06:04:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/articleshow/91735958.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 35
+      name: India Times
+      domain: indiatimes.com
+    quality: 51
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/The-Government-has-put-millions-toward-a-competition-to-find-driverless-buses-like-this-one-1614333.jpg?r=1653251248257"
-        width: 590
-        height: 350
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-299346,msid-91736088/minus-zero-founders.jpg"
+        width: 600
+        height: 450
         isCached: true
 
-secured: "Qjc6Qpfp8YTWo1qSROihvGED6IKMnRLl/2gf9wKncUbSi7X7pVsitw3dz1KQn+z+XpKG5x+CIfSCGS+WMuAMIca9fWOnCNqNR3SVx1F7b4oOJg0gjn+ni3CZN39GIemCIuBz/Wn9E0YytQYvNjws7QBIUlYd4DYcLBV53Mvp16iy1KBGtKhOvPPL9GUZ2PnnDQ5VG6BjnEhj3ydpeswIGYB3FJOqx0p3Eqk/64Swc7xiEZ5LQAwFwlsUUYfrCCs95mHEzGMwWPl4fhXsGChTTdzu/K6k8PU0duBsztrE2dKdoo/EzWihtTUv24a5CyPm1z7ffwe1Vq0OtzYNNRlUeYPdC4Y7wH2H+G5Yu357XY4=;+ss+kVXQgvihi0LLDJbOuw=="
+secured: "5+LThmatCWv7B82bPYhLeGxU4adyUDMRa/nYVVedqQQOcpXzGaCnDJY//aC+KSvx03Eg0xi2fPvrn+PXzFkfZzMj+gGt4oEBNAtJyS7+cL3lgcbGt6Rpl2rCeoU9FgHKZJm+VycxEPJvLTGF6Lnb+3uaArKiOY1y1MbrPwPOc6eTUADT9stpf+wCFl/9cnVsyoHyMr3LwQrd6yoXArrRj219U6xUnVF3SA/S/hlupa9mpugnGmAaNKlqRU9lXdaDJqvga/ytvxNr/NH0SnzPVZWYT1i+e5aCztKU6e4/vhcf1hvzVGo6HPQYNl5kxR+8Kdx2esTly7I+YyzIRmbJKbvoUtG805uvbS1LSEm1AaSAb924bTeyl3P7OMTRcgqRb9X6uPPkvOom+Nifgq48c85GfXqLpyVxJN5zs8ojIP/JAeSlDQtK9rhiJcMNPl2+g5eicEicFLHXptWQatkoSf9X8et4zbnOEde4GxbibU3aMNhHNsoJGCShzOuiUq5MqThjTAzlexCNHT92Vx73rQ==;L3R5ngvAh9impJOenMnc6Q=="
 ---
 

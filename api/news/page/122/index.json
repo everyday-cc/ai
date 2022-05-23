@@ -2,6 +2,49 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2022-02-05-deepminds-alphacode-generates-code-at-a-level-competitive-with-human-programmers.md",
+      "title": "DeepMind’s AlphaCode Generates Code at a Level Competitive With Human Programmers",
+      "excerpt": "In the new paper Competition-Level Code Generation with AlphaCode, a DeepMind research team introduces a system that uses transformer-based language models to generate code and create novel solutions for programming problems that require deep reasoning.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/02/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-200/",
+      "originalUrl": "https://syncedreview.com/2022/02/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-200/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/02/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-200/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/02/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-200/amp/",
+      "publishedDateTime": "2022-02-04T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-how-voice-technology-will-drive-business-communications-in-2022.md",
       "title": "How Voice Technology Will Drive Business Communications In 2022",
       "excerpt": "Driving the evolution of IoT and cybersecurity processes (i.e., antispoofing, authenticating users, etc.). Prevalence Of Automation Technologies that include robotic process automation, natural language processing and intelligent document processing will ...",
@@ -1141,58 +1184,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-the-state-of-ai-ethics-the-principles-the-tools-the-regulations.md",
-      "title": "The state of AI ethics: The principles, the tools, the regulations",
-      "excerpt": "Register here. What do we talk about when we talk about AI ethics? Just like AI itself, definitions for AI ethics seem to abound. A definition that seems to have garnered some consensus is that AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/",
-      "originalUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1256138488-e1643905043558.jpg?fit=800%2C588&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/amp/",
-      "publishedDateTime": "2022-02-03T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

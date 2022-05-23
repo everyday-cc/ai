@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-03-sanctuary-cognitive-systems-closes-c755-million-us58.md",
+      "title": "Sanctuary Cognitive Systems Closes C$75.5 Million (US$58.…",
+      "excerpt": "Sanctuary Cognitive Systems Corporation, a company focused on creating the world's first human-like intelligence in general-purpose robots, today announced the successful closing of an oversubscribed C$75.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/sanctuary-cognitive-systems-closes-c75-5-million-us58-5-million-series-a-funding-accelerating-its-mission-to-create-the-worlds-first-human-like-intelligence-in-general-purpose-robots-to-address-labour-shortages-around-the-wo-301493034.html",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-sanctuary-cognitive-systems-closes-c755-million-us585-million-/2022/03/02/9555699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1756088/Sanctuary_Cognitive_Systems_Corporation.jpg?p=facebook",
+          "width": 2104,
+          "height": 1102,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical.md",
       "title": "Sanctuary claims it’s creating robots with human-level intelligence, but experts are skeptical",
       "excerpt": "AI today (mostly) excels at narrow ... would seem to just be a pretty standard reinforcement learning (RL) robotics startup,” Matthew Guzdial, a University of Alberta assistant professor ...",
@@ -1316,49 +1359,6 @@
       "provider": {
         "name": "Telegraph & Argus",
         "domain": "thetelegraphandargus.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-educational-robotics-to-top-4-billion-by-2028.md",
-      "title": "Educational Robotics to Top $4 Billion by 2028",
-      "excerpt": "Educational Robotics to Top $4 Billion by 2028. By David Nagel; 02/23/22; The need for robotics in education will help drive double-digit annual growth",
-      "sourceUrl": null,
-      "webUrl": "https://thejournal.com/Articles/2022/02/23/Educational-Robotics-to-Top-4-Billion-by-2028.aspx?s=the_nu_240222&p=1",
-      "originalUrl": "https://thejournal.com/Articles/2022/02/23/Educational-Robotics-to-Top-4-Billion-by-2028.aspx?s=the_nu_240222&p=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thejournal.com/~/media/EDU/THEJournal/THElogo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Journal",
-        "domain": "thejournal.com",
         "images": null,
         "publishers": null,
         "authors": null

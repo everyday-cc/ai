@@ -2,6 +2,40 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-04-20-316-frontal-cerebellar-eeg-source-localization-and-functional-connectivity-as-predictors-of-alzheimers-disease-related-cognitive-decline.md",
+      "title": "316 Frontal-cerebellar EEG source localization and functional connectivity as predictors of Alzheimer’s disease-related cognitive decline",
+      "excerpt": "HTML view is not available for this content. However, as you have access to this content, a full PDF is available via the ‘Save PDF’ action button. OBJECTIVES/GOALS: Novel EEG source localization and functional connectivity will assess frontal and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/316-frontalcerebellar-eeg-source-localization-and-functional-connectivity-as-predictors-of-alzheimers-diseaserelated-cognitive-decline/2A0F824ED78339B9FD789376E4DC0B72",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/316-frontalcerebellar-eeg-source-localization-and-functional-connectivity-as-predictors-of-alzheimers-diseaserelated-cognitive-decline/2A0F824ED78339B9FD789376E4DC0B72",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-designing-a-soft-robot-to-improve-lung-examinations.md",
       "title": "Designing a soft robot to improve lung examinations",
       "excerpt": "Seniors in the Department of Mechanical Engineering at the University of Colorado Boulder are designing a new soft robot to improve physicians' ability to examine the deepest part of a patient's lung.",
@@ -1036,49 +1070,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-the-great-recognition-achievers-report-reveals-recognition-reduces-turnover.md",
-      "title": "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover",
-      "excerpt": "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/science-canada-770af8ce578c44b3a9e6dac113b3f86d",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/science-canada-770af8ce578c44b3a9e6dac113b3f86d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

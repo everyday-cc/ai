@@ -38,15 +38,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Algorithms of Education: How Datafication and Artificial Intelligence Shape Policy"
-    excerpt: "While the science fiction tales of artificial intelligence eclipsing humanity are still very much fantasies, in Algorithms of Education the authors tell real stories of how algorithms and machines are transforming education governance, providing a ..."
-    publishedDateTime: 2022-05-18T14:55:00Z
-    webUrl: "https://www.jstor.org/stable/10.5749/j.ctv2fzkpxp"
-    type: article
-    provider:
-      name: JSTOR
-      domain: jstor.org
-    quality: 28
   - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
     excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
     publishedDateTime: 2022-05-18T15:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2022-05-18-masterc
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-05-18-mastercard-launches-facial-recognition-system-with-brazil-pilot/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mastercard Tests New Facial Recognition Pay App"
-    excerpt: "The Payface App will allow consumers to pay for goods using the same facial recognition technology that unlocks smartphones."
-    publishedDateTime: 2022-05-18T14:46:00Z
-    webUrl: "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/"
-    ampWebUrl: "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 59
-    images:
-      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/15E/02C/15E02C3C687F437AD3EA9F9598C262B9.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=cxjQk4hNs4y9rOEBkus3oRXCbIM"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Did ID.me hoodwink Americans with IRS facial-recognition tech, senators ask"
-    excerpt: "Democrat senators want the FTC to investigate \"evidence of deceptive statements\" made by ID.me regarding the facial-recognition technology it controversially built for Uncle Sam. ID.me made headlines this year when the IRS said US taxpayers would have to enroll in the startup's facial-recognition system to access their tax records in the future."
-    publishedDateTime: 2022-05-18T22:50:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/18/senate_ftc_idme/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/18/senate_ftc_idme/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/18/senate_ftc_idme/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 42
-    images:
-      - url: "https://regmedia.co.uk/2019/01/11/facial_recognition.jpg"
-        width: 1000
-        height: 691
-        isCached: true
   - title: "Mastercard rolling out facial recognition"
     excerpt: "Watch \"Mastercard rolling out facial recognition\", a video on CBSNews.com. View more videos and watch CBS News, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2022-05-19T02:31:00Z

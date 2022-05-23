@@ -34,15 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "National Grid to test assessment data automation with drones and AI"
-    excerpt: "NGET is launching a system trial that seeks to fully automate the capture and processing of corrosion-related condition assessment data."
-    publishedDateTime: 2022-05-18T14:36:00Z
-    webUrl: "https://www.power-grid.com/td/national-grid-to-test-assessment-data-automation-with-drones-and-ai/"
-    type: article
-    provider:
-      name: power-grid
-      domain: power-grid.com
-    quality: 17
 
 secured: "DVnar+wvI6q3wThvbL3f0bBWZa+gMNvCJX5Z/8XT/ZymdRncgjpEh311dmlUnm0GKTIFuYvg7q7N2AnQQz9i4Scrmbt7TPqZf3FOYj6gguLbmaItoK9uyyPM35yZaBMDnVjh0kZpy5XLNgTEvSofOdGAr0yPA3oasIc9hiFBXCMK0e8JnUAGnt69to8p4akE4WqXs9xyDfMSGYWByc2AscXglDf51XkLWHW25iC9UYAoM0JAuHwHsGrKAclKy0Mjj2wBJLQPqksqMb3evEETqOFBFF7OXxKTZTPxErG1JehPKJePKGFMdQGeFHahIlTYcqCh37uDK1TkSwsHBX22IDA/oj/XChi+BhoR0aY3SUA28OA3CjJBCgWKd3emlbgGO0XZa45IZ3CzqckLodtBw7UJYpP+3+DgKgCuhHA0DHnFC97e9lmIddqxmtBKgXaE7eXBcXR6C1VtcMKwnJuhH/w7Gd52svzRye7C8lcWH6bwSphjmRxRkytgBVir8XvWDL+6mJTlR3FPF/vzDD2Pqg==;oL2kkERfO7eFVvhI6TK7Gw=="
 ---

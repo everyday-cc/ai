@@ -2,6 +2,59 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-04-28-cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022.md",
+      "title": "CMU’s Matt Johnson-Roberson and MIT’s Daniela Rus will talk higher-education at TC Sessions: Robotics 2022",
+      "excerpt": "Robotics technology, currently a $45.5 billion global market, has had an enormous impact on countless industries, including agtech, automotive, healthcare, labor, warehousing and logistics. Thanks to advances in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/",
+      "originalUrl": "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Johnson_1200x628.png?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/amp/",
+      "publishedDateTime": "2022-04-28T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-comparative-effectiveness-of-an-fda-authorized-digital-therapeutic-to-medications-and-cognitive-behavioral-therapy-treating-chronic-insomnia.md",
       "title": "Comparative Effectiveness of an FDA-Authorized Digital Therapeutic to Medications and Cognitive Behavioral Therapy Treating Chronic Insomnia in Adults",
       "excerpt": "Available treatments include guideline-recommended first-line cognitive behavioral therapy for insomnia (CBT-I) and medications. However, limitations such as patient access to CBT-I and limited efficacy, the presence of significant side effects ...",
@@ -1107,49 +1160,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-language-generation-ais-could-transform-science.md",
-      "title": "How language-generation AIs could transform science",
-      "excerpt": "is trialling LLMs in research; it is building a tool called 'Elicit' to answer questions using the scientific literature.) Robo-writers: the rise and risks of language-generating AI LLMs are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-01191-3",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-01191-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-01191-3/d41586-022-01191-3_20348526.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

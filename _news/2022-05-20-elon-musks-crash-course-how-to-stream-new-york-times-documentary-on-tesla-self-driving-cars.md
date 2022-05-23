@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk declares Tesla Artificial Intelligence Day 2.0 on August 19"
-    excerpt: "Tesla has started to conduct regular annual events with very prominent subjects, in between the presentation in the recent past years to engage more with the world to show the progress made by the company."
-    publishedDateTime: 2022-05-18T13:32:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/elon-musk-declares-tesla-artificial-intelligence-day-2-0-on-august-19-2022-05-18-777558"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 36
   - title: "'Elon Musk's Crash Course' explores the limits of Tesla's 'self-driving' technology"
     excerpt: "As Elon Musk tweets his way through his pending Twitter acquisition, FX's \"The New York Times Presents\" documentary banner takes a hard look at his flagship business, Tesla, and its"
     publishedDateTime: 2022-05-20T13:33:00Z

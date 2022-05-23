@@ -74,15 +74,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 24
-  - title: "Senators Seek FTC Probe of IRS Provider ID.me Selfie Technology"
-    excerpt: "A group of Democratic senators has asked the Federal Trade Commission to investigate whether identity verification company ID.me illegally misled consumers and government agencies over its use of controversial facial recognition software."
-    publishedDateTime: 2022-05-18T13:09:00Z
-    webUrl: "https://www.bnnbloomberg.ca/senators-seek-ftc-probe-of-irs-provider-id-me-selfie-technology-1.1767606"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 4
 
 secured: "nNvJN8m4ZFUW0KDu7ePMWJgg+sXhzRpmQS01rArkF+w1dq0K9AyjypE9uw3gAUIlZeB9Gy0rhox6TaaK3sG0NHMlk87y/QEANYRXkepim8lZL46FxVrthtoWD63hT9/vQY/W+DtQ60SYGt9PWmbZD7/AFdzk4GmgHPkEz0hPnzzewtiyBdgZQc5Yhdx8vDSjcgYV/To3hsFcX4790GHDcKgu2ODSqw3OPYdmyyivDb6fqKhYg7sJ86vHgTDj9Wmowi7RFxhYXzSiEs2m1XBJtS+iWl+ufTo3Ut/4F0aBe3p7j9j7Zu5Df+e0oWlkKn3OmgTbesTk1GZLwUB3FTe4TroqegNnISePwfvNQyV/XwxyIKqUKt1RK0+TP0vluMn8ACM41ZuM1ZcfnhU51ZoeBqyz3Ssfztzw1DZYAg9tLaARp8ilffjwVHoKTfSvUTmjEEI39e7RbhmCZOXwadzcIp0wQewzrxxNq40vEooIEqelwAvLXe9ZEViqAJjwkFmCbfvKFrxrRGx9SyGHV7Qzrw==;bPMjiVIZ/yq5lMfL5FY9xQ=="
 ---

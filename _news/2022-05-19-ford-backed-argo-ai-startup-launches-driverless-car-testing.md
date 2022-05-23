@@ -7,8 +7,8 @@ originalUrl: "https://herald-review.com/ap/lifestyles/ford-backed-argo-ai-startu
 webUrl: "https://herald-review.com/ap/lifestyles/ford-backed-argo-ai-startup-launches-driverless-car-testing/article_b3a7381c-c52a-55ca-9f1c-e89bb1dad89a.html"
 type: article
 quality: 54
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Herald & Review
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "A start-up aims to bring driverless cars to Indian roads"
+    excerpt: "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au"
+    publishedDateTime: 2022-05-23T07:52:00Z
+    webUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/"
+    ampWebUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Tech company completes first driverless car test on Oxford roads"
     excerpt: "Fully autonomous vehicles have been driven on Oxford roads with no on-board driver and they could soon be used to deliver food."
     publishedDateTime: 2022-05-20T08:11:00Z

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-05-09-the-three-way-race-for-gpu-dominance-in-the-data-center.md",
+      "title": "The three-way race for GPU dominance in the data center",
+      "excerpt": "Nvidia, AMD, and Intel are about to slug it out for a share of the growing graphics-processing-unit market that’s being fueled by the needs of artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.html",
+      "originalUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/03/nvidia-hopper-gpu-100922543-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.amp.html",
+      "publishedDateTime": "2022-05-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch.md",
       "title": "17-year-old student invents low-cost prosthetic arm that can be controlled with the mind [WATCH]",
       "excerpt": "The high-schooler used his sister's S$75 printer and some fishing line to print the arm in small pieces. After that, he bolted and branded each part together. To make the arm strong and durable, he had to run 75 iterations of the design. In the end, the ...",
@@ -1150,58 +1193,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-invest-in-the-robotics-startup-tripling-restaurant-profits.md",
-      "title": "Invest in the Robotics startup tripling restaurant profits",
-      "excerpt": "So instead of chasing an armada of employees, franchises have already started deploying Flippy. This synthesis of AI-driven robotics, machine learning and data analytics can grill, fry and, as its name suggests, flip an entire restaurant’s worth of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/miso-robotics-145539918.html",
-      "originalUrl": "https://www.engadget.com/miso-robotics-145539918.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/c6c6c570-cbb4-11ec-bfdf-cfbdb5e2b591",
-          "width": 1600,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "BrainChip Joins Arm AI Partner Program"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 22, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, announced today it has been accepted into the Arm ® AI Partner Program,"
-publishedDateTime: 2022-05-22T23:30:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 22, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of"
+publishedDateTime: 2022-05-22T21:34:00Z
+originalUrl: "https://www.digitaljournal.com/pr/brainchip-joins-arm-ai-partner-program"
+webUrl: "https://www.digitaljournal.com/pr/brainchip-joins-arm-ai-partner-program"
 type: article
-quality: 34
-heat: -1
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/DDD-6-1-600x337.png"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "BrainChip Holdings Ltd.: BrainChip Joins Arm AI Partner Program"
@@ -29,6 +35,6 @@ related:
       domain: finanznachrichten.de
     quality: 34
 
-secured: "inOHJiLYz5IZN0niWgdzdnt7hORUcqiPphQYtaowfmDLW8G/WjJxPqXCfodFssv1v+qsRJXT5F5oNB3tl+khu5JDTZdsUXvUV+boaGgMy8jVq8JFUMADVBKdxhcqJo+F/u9lDoBsZyesHAQCtUCUxVr+6aVO0AU4MT/l3vqkXIvj5Vftm/6/IaLnokujCnZsfS6h7hvWfbNuC9+A5YxcLbJK5f7byWPaXPZzFfdLwdoQBRKJMOjaqSjExtpFYItYwY+CNiI8kcCAyal9/rVrycuSKMV1N3CYlcA/0dF1Yd4A0t6m4jpUerDYOTIDRtb1q/9YDR5XWkdZbajJNTfskO/zLre+Maj66nALgX6X6Mc=;dAB0JX7sx6qoYI7i3RwZag=="
+secured: "pi3rGJ+b8WVTytFEzpDjZpbP3+FVyNzJH1iLglbm4x0czDZr6J5A+8+BbCzOUbUlfQX0t0V4qZ3RXf36jxok68vvu+5SZB6Ls4PsIPPV/0KBXB1eUCLiTNfisdediZMI/Nq0DgLyUR1LKpuZ4fffJA/Da+L/oxSURuG0rlCtnThmHtwdqQi336KMr38Nep8sVeEsIYa9WcGauO4IfgKgH4L7utClw2LLNfFqASv2BF2jpDX/J9kFBinQEggjUmu30auJ8eSqH8oh7wn//7Bryix1p1u5+o0LG/lz5eLCuUn0DrYzTmt/xgf0aqfB0H//ZbyG8Jc4E7w32LrvlLCjbOaWjy6BAXCQcsHv+8VyZ3k=;VwuCTfZiQ5jrZftWnQG0oQ=="
 ---
 

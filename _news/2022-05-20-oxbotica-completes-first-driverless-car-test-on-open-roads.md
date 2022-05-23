@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "A start-up aims to bring driverless cars to Indian roads"
+    excerpt: "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au"
+    publishedDateTime: 2022-05-23T07:52:00Z
+    webUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/"
+    ampWebUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Ford-backed Argo AI startup launches driverless-car testing"
     excerpt: "Argo AI, a robotaxi startup that has the backing of Ford Motor Co. and Volkswagen AG, said Tuesday it's launching driverless test rides in Miami and Austin, Texas."
     publishedDateTime: 2022-05-18T20:51:00Z
@@ -75,6 +91,6 @@ related:
       domain: webindia123.com
     quality: 16
 
-secured: "nLulL/BVE7Q+WcTbmmEd+ahwLWXOwhWP08rQ+WASzCqWovUk4rvy4I1YbBxbGrX5Z2rhHcborVq9TcTJFShIHLXijlROFr1bmtCGo3YKLoZfB4Q/BkzeAB4xFSvEBiwdH/FZwALp+14PaTaNcDxTKjYyNfyrOcWk2ARvtQTAKjk3O0nFS9sdS3/sQfhtBa9iuHv42444i214dktLzu0j+/iotadaEu3IzKSn7M04bWNSXKMumAininUKm83G37+AlJsfQeSPESDZvy6/KZsOsts4NjfhAuyFIw+qC0CuE6YsR189cOUl3wELRTBGoT71bWGO4F81bKSQB7HeXUyS8yQcS3PSlfd1ChGQzUAwudc=;gvsyshIdwwyv2Z7Na/doUA=="
+secured: "hb3UNQuquMGOD4Lx3IsPEtBLsz40Ev8OsvCoW+TGKxTs1m3a9A55GxFeiLdnnEojMLBNMUs/DoMKb2S8nSjbcWKtE9EjawZH9tmr4ypcEN2UByWXDi7c1QFQtbXO2QlyrxgsoTFZS2OJtI9IASkNzVADK8APBJxQrKDV4DyNre6H0rGCF1EBvvux9K/XD9pprQTWvS/yVA5poZ198+B+Z9Pt4R8BKjNRRHgF53gZwmNEShjMoG4CQBEvQH8RfLoLD4DQ2wisCrWowyRDJmhXzalTr0IDCAV3DHJjZLUGvHbzXcUpS0xOiUIctbUc+c8jAokd0GvcUCQW7TshHELXBXsVO2U1AqbiskiQFAPbsyI=;B4C6a4q7+ztXx6wfRvhNug=="
 ---
 

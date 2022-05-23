@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-spee
 webUrl: "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.bobsguide.com/wp-content/uploads/2022/03/shutterstock_1748437547.png"
         width: 1300
         height: 1000
-        isCached: true
-  - title: "Temenos puts digital banking on AWS"
-    excerpt: "Temenos (SIX: TEMN) and Amazon Web Services (AWS), have extended their global relationship to run Temenos onboarding and origination solutions on AWS. The technology collaboration aims to allow all retail and commercial banks - incumbents and challengers - to provide digital onboarding and origination solutions with higher performance,"
-    publishedDateTime: 2022-05-18T15:03:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92681/temenos-puts-digital-banking-on-aws"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
 
 secured: "1SorSs1EI22dxYq4FN2bpNUIhsz2a5VhpKuAdWjGS0CVBrQ0IBKqJIwPxesCo9XyO2DwlYZ65PDjDkLmmLlSvIoyaiqqZso98poB2vhKaGzwiop/rOLSrtKOwKmWFeftoTeJOjS5Oym4+UNxss/ZfDpL+/jp4X8ocLHjMKHG5Jw8Ikf+S8/Alf95hm4vtkxDO5jEnN4RFg47Y2bYXhdC63DC2l29ixvjw8feStkG/T+1wGYZc1zhZUcC2sx4lMbX0OgYihiCBH8bqm83yJmQ9TP5P7Ntqv1eXuG2pQvrqiEWl2Egt/+WfEqf03jXg+/uPgQDiAUXvoZfSelDRNsir9hNp4UbHu19Z2A4hdL2WqP7GgyBlDVlsDtJY2xxOaC6kKKce2eFcsk7Ymnc7PGvTKkOhD/HwaigJ5fGpjb3EJCcmW+oXkDqUgwJ1FdxhF1zflKgs9Py+V3dKsdCfC863W11sq6AhTKHaQ+okaT1TlK50gYMviYS7c/QEnd83h2KDMMMdq4Fvu96ezijHoYdng==;1Y/HQdWUNLTJnZ0YQ3kG3w=="

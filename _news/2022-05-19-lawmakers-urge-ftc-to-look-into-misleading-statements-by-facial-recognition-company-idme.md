@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Did ID.me hoodwink Americans with IRS facial-recognition tech, senators ask"
+    excerpt: "Democrat senators want the FTC to investigate \"evidence of deceptive statements\" made by ID.me regarding the facial-recognition technology it controversially built for Uncle Sam. ID.me made headlines this year when the IRS said US taxpayers would have to enroll in the startup's facial-recognition system to access their tax records in the future."
+    publishedDateTime: 2022-05-18T22:50:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/18/senate_ftc_idme/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/18/senate_ftc_idme/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/18/senate_ftc_idme/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 42
+    images:
+      - url: "https://regmedia.co.uk/2019/01/11/facial_recognition.jpg"
+        width: 1000
+        height: 691
+        isCached: true
   - title: "Senators are asking the FTC to investigate a facial recognition firm for deceiving Americans"
     excerpt: "Yet another company that creates facial recognition software is now under the spotlight, as four Democratic senators asked the Federal Trade Commission today to investigate the Virginia-based American online identity network company ID."
     publishedDateTime: 2022-05-19T02:33:00Z

@@ -57,6 +57,75 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) In Food And Beverages Market Trends, Share, Growth, Opportunity And Forecast 2027"
+    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027),"
+    publishedDateTime: 2022-05-19T00:33:00Z
+    webUrl: "https://menafn.com/1104234110/Artificial-Intelligence-AI-In-Food-And-Beverages-Market-Trends-Share-Growth-Opportunity-And-Forecast-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?182762"
+        width: 356
+        height: 250
+        isCached: true
+  - title: "AI In Fashion Market Report: Size, Trends, Demands And Progression Status Up To 2022-2031"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, May 22, 2022, 22:34 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 20"
+    publishedDateTime: 2022-05-23T04:39:00Z
+    webUrl: "https://menafn.com/1104255404/AI-In-Fashion-Market-Report-Size-Trends-Demands-And-Progression-Status-Up-To-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?695690"
+        width: 450
+        height: 250
+        isCached: true
+  - title: "Face Recognition Software Market Size, Growth, Share, Leading Company Analysis, And Key Country Forecast to 2022-2028"
+    excerpt: "Global “Face Recognition Software Market” Report Size, and analysis maintains detailed dynamics and is over shadowed by"
+    publishedDateTime: 2022-05-19T09:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-size-growth-share-leading-company-analysis-and-key-country-forecast-to-2022-2028-2022-05-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "Industrial Robotics Market Size 2022-27 Share, Growth, Report and Forecast | IMARC Group"
+    excerpt: "According to the latest industrial robotics market report by IMARC Group, titled \"Global Industrial Robotics Market Size, Share, Industry Trends, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-05-18T15:36:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-industrial-robotics-market-size-2022-27-share-growth-report-and-forecast-imarc-group"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 25
+  - title: "Deep Learning Market 2022 Global Size, Share, Key Players, Production, Growth and Future Insights 2030"
+    excerpt: "Quadintel published a new report on the Deep Learning Market. The research report consists of thorough information about demand, growth, opportunities,"
+    publishedDateTime: 2022-05-19T10:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-2022-global-size-share-key-players-production-growth-and-future-insights-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Self-Driving Taxi Market Growth 2022 Share, Size, Landscape, Top Key Players, Strategies and Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Self-Driving Taxi Market” report"
+    publishedDateTime: 2022-05-20T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-growth-2022-share-size-landscape-top-key-players-strategies-and-forecast-to-2028-2022-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
   - title: "Deep Learning Chip Market Demand, Growth, Trend, Business Opportunities, Manufacturers and Research Methodology by 2028"
     excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to"
     publishedDateTime: 2022-05-19T13:02:00Z
@@ -66,6 +135,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 12
+  - title: "Global Healthcare Chatbots Market Share 2022, Size, Market Movements by Trend Analysis, Growth Status, Revenue Expectation to 2030 Research Report"
+    excerpt: "Global “Healthcare Chatbots Market“ (2022-2030) research report represents a detailed overview of the current market situation and forecast till 2030. The study perhaps a perfect mixture of qualitative and quantitative information highlighting key market developments,"
+    publishedDateTime: 2022-05-19T07:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-chatbots-market-share-2022-size-market-movements-by-trend-analysis-growth-status-revenue-expectation-to-2030-research-report-2022-05-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
 
 secured: "edSHvc2+ZwE2vIbPpfNp026Q8zr3HTHYzoxIKbMtIjqV3Yo5oUW8VNOOXEs9Af+coY5zdeHOygcuO/jaOT0ivBMEQbaIdVmAzcbPqZ3slpNP6dj4hTWSOFcH7dWAMmw7FRi/L/3FrbNfAXInIdcRwtR6kW2++g9Vn8dEAmtcUToD062qSHlurhM8IjnDQCKdGgbvMAZB+2dQLUSwG7CGwsEXfuzM74kyFJUldUtXvbAtD6bhoOQloY1cjJAwPLyz7tnt2+R69P1qDN6IUIy5+YbDc6+QwXuPmX4UC2d6j9dum+2ZhnQ5hlI4A1N7uhM+ZOfFw4uqSkQ2wgsdlAw2lk8fJDnkAClEi2923g9qnfk=;NEXLagUN+qOMc0sVw7N23w=="
 ---

@@ -20,6 +20,22 @@ topics:
   - AI in Autos
 
 related:
+  - title: "A start-up aims to bring driverless cars to Indian roads"
+    excerpt: "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au"
+    publishedDateTime: 2022-05-23T07:52:00Z
+    webUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/"
+    ampWebUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Ford-backed Argo AI startup launches driverless-car testing"
     excerpt: "Argo AI, a robotaxi startup that has the backing of Ford Motor Co. and Volkswagen AG, said Tuesday it's launching driverless test rides in Miami and Austin, Texas."
     publishedDateTime: 2022-05-18T20:51:00Z

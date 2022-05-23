@@ -34,15 +34,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "How to use responsible AI to manage risk"
-    excerpt: "A key motivation for responsible AI endeavors is resolving uncertainty about who is accountable if something goes wrong."
-    publishedDateTime: 2022-05-18T13:30:00Z
-    webUrl: "https://venturebeat.com/2022/05/18/how-to-use-responsible-ai-to-manage-risk/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
 
 secured: "CJDL356sI0zPmoVFxmE/1y1pEmdq/PNo7uvrucflQrDCzVEU0W+Fv/V0AXoA21g4iylvBWi7YCKH0gjB+uCRfbx8wex7m81IsQbKVgHgYGIhWMzlylGkRvLA8DYGXvJrGC/WkQGRwJAphxXJM6BoF7JaamrFASV5cdmBhiSevzHl8izkGC4BkAtSILru4auuPpSdJJpiHJOY1pWN+PRewxnYjxqD+Ri79zQbZ5brqXO3wnm/ZR77sVvRJ+CDBL6By+7BujuVRrTKpnK8K2s1Gey01pZUY8mjKU/trH/IVB3LVaNM4WxK2rTEojyxd/7mfLQJ7fBpPIDBTFMm4KCfnaP/5Q5pgIrv1Kc+sOwFGUL4EU6PHkrz5omSbQrbeEeJKw4uemr2NnbEo9OUl0I75xTlnKr0YZ7UK6pdXP+jN3tknBqbrUCreyQTWtQkSIgKJYhBF5NGp94M+nbstosImIzBsG/hNW4Gh1srtWKK5oHufZNb/JrlB8Znhhws7giGv63UWFetM/quqvBMQDBIMQ==;kkn2OhipwcR1e7SRftgdSw=="
 ---

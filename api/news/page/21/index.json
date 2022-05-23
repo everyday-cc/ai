@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-04-30-do-your-kids-likes-cars-buy-this-ai-robot-lego-compatible-toy.md",
+      "title": "Do Your Kids Likes Cars? Buy This AI Robot Lego Compatible Toy",
+      "excerpt": "Yes, this is motorized, but it also is like an artificial intelligence robot, and it’s programmable. It is billed as “the world’s most powerful robotic car.” And, it is compatible with the hugely popular LEGO blocks. Plus, just as with modern cars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/",
+      "originalUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motorbiscuit.com/wp-content/uploads/2022/04/M1-STEM-Car-STEMHUB-4.jpeg",
+          "width": 1920,
+          "height": 1086,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/?amp",
+      "cdnAmpWebUrl": "https://www-motorbiscuit-com.cdn.ampproject.org/c/s/www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/?amp",
+      "publishedDateTime": "2022-04-29T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "motorbiscuit",
+        "domain": "motorbiscuit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-30-endoluxe-and-optimus-ise-enter-marketing-and-development-agreement-to-realize-advanced-imaging-and-artificial-intelligence-in-advanced-operating.md",
       "title": "Endoluxe and Optimus-ISE Enter Marketing and Development Agreement to Realize Advanced Imaging and Artificial Intelligence in Advanced Operating Rooms",
       "excerpt": "The company is focused on reducing costs of legacy video platforms, enhancing procedure adoption, and improving patient outcomes through better therapy application. Endoluxe is committed to being a vendor agnostic platform that allows customers to utilize ...",
@@ -1088,50 +1131,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-robotics-in-early-education-is-important-for-a-stem-future.md",
-      "title": "Robotics in Early Education is Important for a STEM Future",
-      "excerpt": "QTrobot, created by AI startup LuxAI, is specifically designed for autism students to impart knowledge through engagement sessions. Someday, Artificially Intelligent Robots may be able to decipher their language and enable meaningful learning patterns in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/robotics-in-early-education-is-important-for-a-stem-future-nid-9812.html",
-      "originalUrl": "https://www.cioapplications.com/news/robotics-in-early-education-is-important-for-a-stem-future-nid-9812.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/4xm0r450308cioapp.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-05-facebook-reveal-individuals-e
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-facebook-reveal-individuals-excessive.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why Elon Musk should read Facebook’s latest transparency report"
-    excerpt: "Start with an observation: last week, Pew Research reported that large majorities ... those of us who are nosy and enjoy reading about the failures of artificial-intelligence systems: Facebook’s quarterly community standards enforcement report, the ..."
-    publishedDateTime: 2022-05-18T14:30:00Z
-    webUrl: "https://www.theverge.com/2022/5/18/23115281/facebook-transparency-report-understanding-moderation-elon-musk"
+  - title: "Facebook posts may help identify people at risk for hazardous drinking habits"
+    excerpt: "Key to the research was the use of Facebook content analyzed with \"contextual embeddings,\" a new artificial intelligence application that interprets language in context. The contextual embedding model, say Schwartz, Jose and colleagues, had a 75 percent ..."
+    publishedDateTime: 2022-05-19T00:01:00Z
+    webUrl: "https://www.news-medical.net/news/20220519/Facebook-posts-may-help-identify-people-at-risk-for-hazardous-drinking-habits.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220519/Facebook-posts-may-help-identify-people-at-risk-for-hazardous-drinking-habits.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220519/Facebook-posts-may-help-identify-people-at-risk-for-hazardous-drinking-habits.aspx"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 54
+      name: News Medical
+      domain: news-medical.net
+    quality: 41
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/OOyKfOEuZFywXmEnwJxt0U4rEtE=/0x267:2040x1335/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10602743/jbareham_180405_1777_facebook_0002.jpg"
-        width: 1200
-        height: 628
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/7/Selection_of_alcoholic_drinks_on_rustic_wood_background_-_Oleksandra_Naumenko_A1_fe979bdaef3943969b200bceaf42b174-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "DXZGmDQZJ7UtCxc/EUnMF36VOJbFCkuS1wl2mFFCu44AarHkILAczKsnhrUkd8ef6vGgaka2TNBzVD9tJ7o6ViTQr++dA8E8zXV17vEKjXeMaVjv/Ae8jN91onJQ6t/yp0DlXhmzi5r7sAqbCyfSeUL7PSj1N1MpNW0mN7yXDhGz5aemjr9rv99m6f9gxa+MR4LOzFpp33QVjtBJJdw212SrOBCv1EEpDgao0PohQvrT59+DqHBKf6I/AV4oPMjw+sgRGEwdGQl8dCG978x4SnxONA9tyEwSifnLy54Qb+EXXTPF7FPNxYRqXlV6KwPm9A4Y2iuYfcA6bAaZedcdTihUaj7N1sxUTlA+gEGhx/dTDWs56BCoo/M70pSfjqGh4Tk8HXqQNwT+CzEmdi+XVSElhxYJY+686vfe46OoMfGjSqUqMyFayYJvGWzJDtI5C+iY94oPwfwxqsm43vzDSeRBTwYrDrw3ofFA+KzU9U7KuqXbWYM1CzwO1YDqvBaOiDmjDsmE7dwugC+lUbYp1w==;DAibwUVo4RXgGPca7A2qAw=="

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mastercard Tests New Facial Recognition Pay App"
-    excerpt: "The Payface App will allow consumers to pay for goods using the same facial recognition technology that unlocks smartphones."
-    publishedDateTime: 2022-05-18T14:46:00Z
-    webUrl: "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/"
-    ampWebUrl: "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 59
-    images:
-      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/15E/02C/15E02C3C687F437AD3EA9F9598C262B9.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=cxjQk4hNs4y9rOEBkus3oRXCbIM"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Mastercard launches facial-recognition system with Brazil pilot"
     excerpt: "Mastercard has begun to test a biometric payment system for brick-and-mortar stores, using facial recognition rather than contactless cards, smartphones or memorable PINs. The company said its Biometric Checkout Program would let a shopper scan their face using a retailer’s smartphone app and assign their likeness to a bank card stored on file."
     publishedDateTime: 2022-05-18T16:43:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://lh3.googleusercontent.com/PSDso2yuUoiNSsATUQkixcCZ89bmLrlWxPaPJmuAXSlvKfpPMLQx9tXRgM8iUKLCOGR4BiES_A0PdHz2OZ37mrPz5GZbGLxxLN_WXMWmz_ZutIM=s512"
         width: 512
         height: 341
-        isCached: true
-  - title: "Did ID.me hoodwink Americans with IRS facial-recognition tech, senators ask"
-    excerpt: "Democrat senators want the FTC to investigate \"evidence of deceptive statements\" made by ID.me regarding the facial-recognition technology it controversially built for Uncle Sam. ID.me made headlines this year when the IRS said US taxpayers would have to enroll in the startup's facial-recognition system to access their tax records in the future."
-    publishedDateTime: 2022-05-18T22:50:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/18/senate_ftc_idme/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/18/senate_ftc_idme/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/18/senate_ftc_idme/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 42
-    images:
-      - url: "https://regmedia.co.uk/2019/01/11/facial_recognition.jpg"
-        width: 1000
-        height: 691
         isCached: true
   - title: "Mastercard wants your face and hand imprint for payments"
     excerpt: "Mastercard announced a new way to make payments called the Biometric Checkout Program. Instead of looking for your phone or wallet at checkout, the new system aims to speed up the process by only using your face or your hand to make a purchase at"
