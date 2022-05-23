@@ -32,34 +32,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
-    excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
-    publishedDateTime: 2022-05-18T15:30:00Z
-    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 20
-    images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-        width: 800
-        height: 340
-        isCached: true
-  - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
-    excerpt: "Hanzo, a technology pioneer in preserving, collecting, reviewing, and exporting dynamic, complex collaboration and web-based data, in partnership with Nightfall AI, the first cloud-native extensible data loss prevention (DLP) platform,"
-    publishedDateTime: 2022-05-18T23:04:00Z
-    webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8545209/hanzo-nightfall-ai-to-present-educational-webinar-driving-data-intelligence-using-collaboration-content/"
-    type: article
-    provider:
-      name: abc27
-      domain: abc27.com
-    quality: 20
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
-        width: 800
-        height: 340
-        isCached: true
   - title: "The Intelligent Process Automation Market is expected to reach a value of 20.7 billion USD by the end of 2027"
     excerpt: "As per our research analysis, In 2021, the Intelligent Process Automation Market size was forecast to be worth 8.1 billion dollars, and by the end of"
     publishedDateTime: 2022-05-19T11:24:00Z

@@ -19,14 +19,19 @@ topics:
 
 related:
   - title: "Major UK Retailer Stops Novel Malware Attack With Darktrace AI"
-    excerpt: "Darktrace, a global leader in cyber security AI, today announced that a UK retailer used Darktrace’s AI to stop a cyber-attack attempting to leverage ‘BumbleBee’, a new malware loader known to be used by Russia-based ransomware group Conti among other cyber-criminal entities."
-    publishedDateTime: 2022-05-19T08:31:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-malware-a1140654c4263a417965a1ca1b4c1c59"
+    excerpt: "Darktrace, a global leader in cyber security AI, today announced that a UK retailer used Darktrace's AI to stop a cyber-attack attempting to leverage 'BumbleBee', a new malware loader known to be used by Russia-based ransomware group Conti among other cyber-criminal entities."
+    publishedDateTime: 2022-05-19T11:30:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220519LN63125/major-uk-retailer-stops-novel-malware-attack-with-darktrace-ai/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
+      name: KTLA
+      domain: ktla.com
+    quality: 37
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
   - title: "Darktrace: DARKTRACE WINS ARTIFICIAL INTELLIGENCE AWARD AT 2022 GO:TECH AWARDS"
     excerpt: "Darktrace, a global leader in cyber security AI, today announced that it has won the AI & Machine Learning Award at the 2022 Go:Tech Awards. Backed"
     publishedDateTime: 2022-05-20T19:34:00Z

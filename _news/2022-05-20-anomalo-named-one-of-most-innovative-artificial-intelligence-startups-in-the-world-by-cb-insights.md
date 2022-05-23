@@ -47,20 +47,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Wellsaid Labs Named To The 2022 CB Insights AI 100 List Of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named WellSaid Labs to its annual AI100 ranking , showcasing the 100 most promising private artificial intelligence companies in the world. 'This is the sixth year that CB ..."
-    publishedDateTime: 2022-05-18T07:49:00Z
-    webUrl: "https://menafn.com/1104232943/Wellsaid-Labs-Named-To-The-2022-CB-Insights-AI-100-List-Of-Most-Innovative-Artificial-Intelligence-Startups"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/18/ND_a9f51image_story.jpg"
-        width: 1250
-        height: 653
-        isCached: true
   - title: "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. “This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100."
     publishedDateTime: 2022-05-18T15:22:00Z

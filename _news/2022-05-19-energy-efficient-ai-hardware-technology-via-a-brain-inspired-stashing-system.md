@@ -31,20 +31,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 58
-  - title: "Imagination and Visidon partner for deep-learning-based super resolution technology"
-    excerpt: "Imagination Technologies and Visidon are partnering to support the transition to deep-learning-based super resolution for embedded applications across mobile, DTV and automotive markets. This AI-based technology allows users to upscale low-resolution ..."
-    publishedDateTime: 2022-05-18T08:14:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/imagination-and-visidon-partner-for-deep-learning-based-super-resolution-technology"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 18
-    images:
-      - url: "https://www.newelectronics.co.uk/media/knaobqq2/imagination-cc.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
     excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
     publishedDateTime: 2022-05-20T18:50:00Z

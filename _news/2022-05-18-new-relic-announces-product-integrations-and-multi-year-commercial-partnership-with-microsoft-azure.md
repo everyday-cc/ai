@@ -19,31 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Build Back Better: Business Solutions with Azure and Microsoft 365"
-    excerpt: "How to build innovative solutions that solve real business problems using Azure and Microsoft 365. No code, low code and pro code."
-    publishedDateTime: 2022-05-18T08:11:00Z
-    webUrl: "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/"
-    type: article
-    provider:
-      name: SharePoint
-      domain: sharepointeurope.com
-    quality: 54
-    images:
-      - url: "https://www.sharepointeurope.com/wp-content/uploads/speakers/2016/03/Bill-Ayers-2.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver a 204% ROI"
-    excerpt: "ORGANIZATIONS deploying SAS Viya, SAS' cloud-native AI, analytic and data management platform, on Microsoft Azure, can see benefits including a 204 percent return"
-    publishedDateTime: 2022-05-19T11:46:00Z
-    webUrl: "https://www.manilatimes.net/2022/05/20/public-square/sas-viya-on-microsoft-azure-can-deliver-a-204-roi/1844257"
-    ampWebUrl: "https://www.manilatimes.net/2022/05/20/public-square/sas-viya-on-microsoft-azure-can-deliver-a-204-roi/1844257/amp"
-    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/05/20/public-square/sas-viya-on-microsoft-azure-can-deliver-a-204-roi/1844257/amp"
-    type: article
-    provider:
-      name: The Manila Times
-      domain: manilatimes.net
-    quality: 54
   - title: "New Relic announces product integrations and multi-year commercial partnership with Microsoft Azure"
     excerpt: "New Relic announced a strategic partnership with Microsoft to help enterprises accelerate cloud migration and multi-cloud initiatives. With this partnership, Microsoft Azure customers can use New Relic as their default observability platform natively inside Azure Portal."
     publishedDateTime: 2022-05-20T03:57:00Z
@@ -57,6 +32,20 @@ related:
       - url: "https://cdn.crn.in/wp-content/uploads/2021/08/16173811/CRN_Mergers_05_696.jpg"
         width: 696
         height: 465
+        isCached: true
+  - title: "New Relic embraces multi-cloud through Azure partnership"
+    excerpt: "New Relic has debuted its new integration partnership with Microsoft Azure, a move that will remove Amazon Web Services' (AWS) exclusivity as the default cloud provider for its platform."
+    publishedDateTime: 2022-05-18T16:11:00Z
+    webUrl: "https://www.arnnet.com.au/article/698231/new-relic-embraces-multi-cloud-through-azure-partnership/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/stewart_cochrane_new_relic_senior_director_alliances__channels_asia_pacific__japan_-_1.jpg"
+        width: 505
+        height: 315
         isCached: true
 
 secured: "IDKy5Hlqj5n+ixTuJnI+/xhyIH5ptqoMx0d81Fd+r+NThzP7UzCtoUceySfhaSRkyWKkULPzrFE6CpGbBQFQqK9JomjOhOABrjNA75926pluXTX/KRnfsSZRAUNksjYCjtGW6iTqWOe0uxhJAZTAo+4vCXH++22s6V4Ruqe2e8ExgJ/IYwve7ye8uRWMvzle/HJa0LYUZfPH4sligvBxuaNyfVDglkUS4/coeMya1pZOxr6PBZMCPdOBc+eEr+Ba/Ac+8H2GUbkdP+OZ+dIkA13M+8CtIJoybAqTy5Ma7Asb58vm8GjcgSvY6U9LYsPt2vtwcFVzwJga5My6bdhkGRrKbatNnJb0PjlO/FZpISw=;Wu9Rlp8TCmxNS0NMt2eE7Q=="

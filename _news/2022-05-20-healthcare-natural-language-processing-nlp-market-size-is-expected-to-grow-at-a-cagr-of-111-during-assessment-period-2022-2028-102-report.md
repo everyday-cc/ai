@@ -40,17 +40,6 @@ related:
         width: 480
         height: 404
         isCached: true
-  - title: "The Europe hyperscale data center market is expected to grow at a CAGR of 6% during the period 2022–2027."
-    excerpt: "Reportlinker.com announces the release of the report \"Europe Hyperscale Data Center Market - Industry Outlook & Forecast 2022-2027\" -"
-    publishedDateTime: 2022-05-18T07:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27269886/the-europe-hyperscale-data-center-market-is-expected-to-grow-at-a-cagr-of-6-during-the-period-2022"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27269886"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27269886"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
 
 secured: "9CGOqqi/j1LqdYgB4ywyZ4CjDqeNqLMdQLHeWv0mH6nFgjYmlKSzPyFgjgYBpOM2IwdApSl+HSDASI7uY4cgcDJvA8PV6V4P4+z42KPRUJQs5ImmENzytTDk5pU/rI9ImsN43gXsBVqfpJYluIST4tBk0HC9RSxsi5uIWbkXWg3KsQJUe7yT8TMx4LXetD63OxKWQw2OITXK5/9iHGXIeI86u/jYv9YnSrSQxydwmq6XM8xBSWyvL6okJsaSF/k1pRaSHd7mLSjmsScQq/d+f2rFJWN15E5BQTV+nsfl+LjIgewVVP6zny2RJFoLYSiDNhoGHoMCr99b32qMlFVdLM9oZt4f8vrIESktUna3Ovo=;8/60qhhSbD/vAZfu8d3VOg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.manilatimes.net/2022/05/20/public-square/sas-viya-on-mic
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/05/20/public-square/sas-viya-on-microsoft-azure-can-deliver-a-204-roi/1844257/amp"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -19,45 +19,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Build Back Better: Business Solutions with Azure and Microsoft 365"
-    excerpt: "How to build innovative solutions that solve real business problems using Azure and Microsoft 365. No code, low code and pro code."
-    publishedDateTime: 2022-05-18T08:11:00Z
-    webUrl: "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/"
-    type: article
-    provider:
-      name: SharePoint
-      domain: sharepointeurope.com
-    quality: 54
-    images:
-      - url: "https://www.sharepointeurope.com/wp-content/uploads/speakers/2016/03/Bill-Ayers-2.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "New Relic announces product integrations and multi-year commercial partnership with Microsoft Azure"
-    excerpt: "New Relic announced a strategic partnership with Microsoft to help enterprises accelerate cloud migration and multi-cloud initiatives. With this partnership, Microsoft Azure customers can use New Relic as their default observability platform natively inside Azure Portal."
-    publishedDateTime: 2022-05-20T03:57:00Z
-    webUrl: "https://www.crn.in/news/new-relic-announces-product-integrations-and-multi-year-commercial-partnership-with-microsoft-azure/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 40
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2021/08/16173811/CRN_Mergers_05_696.jpg"
-        width: 696
-        height: 465
-        isCached: true
-  - title: "New Relic Announces Product Integrations and Multi-Year Commercial Partnership with Microsoft Azure"
-    excerpt: "Azure customers can use New Relic as a fully-integrated, Azure-native observability platform to accelerate enterprise cloud migration and multi-cloud initiatives. FUTURESTACK—New Relic (NYSE: NEWR), the observability company,"
-    publishedDateTime: 2022-05-18T16:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-18-new-relic-announces-product-integrations-and-multi-year-commercial-partnership-with-microsoft-azure"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 20
 
 secured: "c9u3CyutJ/61JMFa4Tx3Ci0pQOYYOG9oqQvgLCoRG450yhndjIKN0Tnk+JqG/CZ1CnTnhbHyepw24yza8UhDy1r9/vA1wYUoCqE2foMFbjB8GAcz3AFciUwszWXUo6Y2+ZxuKBL5xkCAkG6zzm/jbAoimCG7s53HM2ZUhAS5nFz6TrHlpkDYDhIbN9RJPq4ZQlLDpiUwD5sKVk4zoExiU2EgbbKfYkCsZeuuB9UuW/+r5sq8In3I4LOiWRVuk3xP/0nsTdjngh5OTK5wL2zwiv+T1oj9cmD2XSTCAZrHwRgnzlUraJkwnl6Swgk45DouoP5RoKjOc4SiLuGt0Xgv++irbDT0TKPOUWAlw7hTgmk=;KQSaM+k3HSVfXjt0llz/1w=="
 ---

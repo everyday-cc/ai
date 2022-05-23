@@ -24,20 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Intelligent Automation, AI & Operational Excellence Leader Joins Process Intelligence Platform Leader Skan"
-    excerpt: "Skan, a leader in the Process Intelligence solution industry that provides unprecedented insights into how organizations get work done, has appointed Vinaykumar (Vinay) Mummigatti as Executive Vice President of Strategy and Customer Transformation."
-    publishedDateTime: 2022-05-20T13:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/intelligent-automation-ai-operational-excellence-leader-joins-process-intelligence-platform-leader-skan-1031478759"
+  - title: "AI writing has entered a new dimension, and it’s going to change education"
+    excerpt: "I haven’t heard of anyone who’s actually used GPT-3 and doesn’t think AI is going to change the world profoundly. Education in particular is going to feel its influence immediately. That’s because although GPT-3 has been around for a couple of years,"
+    publishedDateTime: 2022-05-23T00:05:00Z
+    webUrl: "https://thespinoff.co.nz/tech/23-05-2022/ai-writing-has-entered-a-new-dimension-and-its-going-to-change-education"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: The Spinoff
+      domain: thespinoff.co.nz
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1822132/Vinay.jpg"
+      - url: "https://thespinoff.co.nz/_next/static/media/mad-chapman.f3d01208.png"
         width: 400
         height: 400
         isCached: true
+  - title: "Algorithms of Education: How Datafication and Artificial Intelligence Shape Policy"
+    excerpt: "While the science fiction tales of artificial intelligence eclipsing humanity are still very much fantasies, in Algorithms of Education the authors tell real stories of how algorithms and machines are transforming education governance, providing a ..."
+    publishedDateTime: 2022-05-18T14:55:00Z
+    webUrl: "https://www.jstor.org/stable/10.5749/j.ctv2fzkpxp"
+    type: article
+    provider:
+      name: JSTOR
+      domain: jstor.org
+    quality: 28
   - title: "Hanzo & Nightfall AI To Present Educational Webinar Driving Data Intelligence Using Collaboration Content"
     excerpt: "He has helped develop a broad range of products and solutions for big data challenges and is passionate about emerging technologies like machine learning, artificial intelligence, and visual analytics."
     publishedDateTime: 2022-05-18T15:30:00Z
@@ -52,38 +61,6 @@ related:
         width: 800
         height: 340
         isCached: true
-  - title: "The Intelligent Process Automation Market is expected to reach a value of 20.7 billion USD by the end of 2027"
-    excerpt: "As per our research analysis, In 2021, the Intelligent Process Automation Market size was forecast to be worth 8.1 billion dollars, and by the end of"
-    publishedDateTime: 2022-05-19T11:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-intelligent-process-automation-market-is-expected-to-reach-a-value-of-20-7-billion-usd-by-the-end-of-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 5
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "BigBear.ai Names Former Intelligence Officer Tony Barrett as President of Cyber and Engineering Division"
-    excerpt: "Ex-Marine and decorated combat veteran will apply innovation and outstanding service to steer the strategic growth of BigBear.ai’s Federal Sector BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions,"
-    publishedDateTime: 2022-05-19T12:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-19-bigbearai-names-former-intelligence-officer-tony-barrett-as-president-of-cyber-and-engineering-division"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-  - title: "ZeroFox Recognized by Key Awards in Threat Intelligence, Technology Innovation and International Business Leadership"
-    excerpt: "ZeroFox, a leading external cybersecurity provider, announced today it has been recognized by three industry-leading awards in the categories of Threat Intelligence, Maryland Technology Company of the Year and International Business Leadership."
-    publishedDateTime: 2022-05-19T13:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/19/9605577.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "21eIOevGhBHu0Bov8T8Y0nz2p0uyhZ6jB3lct3mWFBGTFoCWSr2hdCLQKGdmbDVopPF3US2ntSu+wCsnCX4qp1FKZ+j8fWm7LwhhpEWOBUzMlQZcOcXqTV9B5rgJmX5aG0ni+LAaXQU59MsKRspZbP2NN35V5UhWh6n7ZJe9G9iHsOf0CvnaWToJgx0kxAGtLlTyUv677mtEbJoUn0nrKPAFqqpzAboGzPy5iPrdnrTVroNtOIR2sOJ357bmi031KP27eO5YrMbVLalYdnXpPFGDG3ZvZIXnz6p6efuZJCAGYt55eu9iODyXEE+mvTCvmaINc1ULMLpy8U3OLwt0RroBAAnrqt2ETdN7Skwy14U=;1kQsbn6QXILmC4+Ybjq+UQ=="
 ---

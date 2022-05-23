@@ -1,0 +1,28 @@
+---
+category: news
+title: "Australian artificial intelligence spending to reach $3.6 billion by 2025: IDC"
+excerpt: "Australian organisations are predicted to spend around $3.6 billion on artificial intelligence systems in 2025, according to research from IDC. The market research firm said the spending growth represents a compounded annual growth rate (CAGR) of 24."
+publishedDateTime: 2022-05-23T00:04:00Z
+originalUrl: "https://www.crn.com.au/news/australian-artificial-intelligence-spending-to-reach-36-billion-by-2025-idc-580336"
+webUrl: "https://www.crn.com.au/news/australian-artificial-intelligence-spending-to-reach-36-billion-by-2025-idc-580336"
+type: article
+quality: 33
+heat: 33
+published: false
+
+provider:
+  name: CRN Australia
+  domain: crn.com.au
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.nextmedia.com.au/News/20220523110801_crn-14_ai_artificial_intelligence_iStock-961970568.jpg"
+    width: 1400
+    height: 900
+    isCached: true
+
+secured: "dCvEU7r1hrcQyiWtQ42KhmJGVj1oMpfVHQX+N1dD+e+G4X0q0dA4Ym6n0VGJ79K14otvXCb/kFCU2K2nxUdTytujXosduvHDTxC07Bs+Ibse51kV3fWoEuvHDa0TsYuPApe+XUaNqoLHcVjX68Zme9tBG0suEpTX6czEoKqav48TCszSTMspl4y625wkN97nXPwsXvscDb3pJY+QmhgrhQVs3Fy9LM9hKBBZpG3HXp9LdHlVQsBDvei9ATDMtqmv3JcL6/yH3tYMJdgordk7sx9l185x4ovWBZxzYqpkN1CJrLKg3jIBQNqRTiryy9VbO3yxLVg3GiTNYC04iEKC7xU7JXGDXmlMJXG37r4iSfI=;IRPK+jwNlwtrN3ggXMqRmQ=="
+---
+

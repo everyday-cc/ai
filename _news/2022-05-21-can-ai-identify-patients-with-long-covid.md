@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/AP22087837827707.jpg"
         width: 3000
         height: 2000
-        isCached: true
-  - title: "Disrupting conventional baggage scanning with AI"
-    excerpt: "Vehant Technologies Technology has reinforced all the aspects of our lives in terms of how we work, learn, travel or shop. It’s inescapable that the technological devices and services have begun to reflect the public ambitions and desires to connect with others and contribute to the world."
-    publishedDateTime: 2022-05-18T07:40:00Z
-    webUrl: "https://www.crn.in/columns/disrupting-conventional-baggage-scanning-with-ai/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 39
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2020/05/12140219/Artificial-intelligence-HR.jpg"
-        width: 750
-        height: 430
         isCached: true
   - title: "Identification of long COVID patients through machine learning"
     excerpt: "In a recent study posted to Preprints with The Lancet*, researchers developed a machine learning approach to identify patients with long coronavirus disease (COVID). . Image Credit: Starocean/Shutterstock The post-acute sequelae of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection are called long COVID."

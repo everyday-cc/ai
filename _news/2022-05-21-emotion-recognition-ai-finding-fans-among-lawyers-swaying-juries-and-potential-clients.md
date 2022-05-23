@@ -30,20 +30,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 58
-  - title: "Imagination and Visidon partner for deep-learning-based super resolution technology"
-    excerpt: "Imagination Technologies and Visidon are partnering to support the transition to deep-learning-based super resolution for embedded applications across mobile, DTV and automotive markets. This AI-based technology allows users to upscale low-resolution ..."
-    publishedDateTime: 2022-05-18T08:14:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/imagination-and-visidon-partner-for-deep-learning-based-super-resolution-technology"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 18
-    images:
-      - url: "https://www.newelectronics.co.uk/media/knaobqq2/imagination-cc.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Energy-efficient AI hardware technology via a brain-inspired stashing system"
     excerpt: "Researchers have proposed a novel AI system inspired by the neuromodulation of the brain, referred to as a \"stashing system,\" that requires less energy consumption. The research group led by Professor Kyung Min Kim from the Department of Materials Science and Engineering has developed a technology that can efficiently handle mathematical operations for artificial intelligence by imitating the continuous changes in the topology of the neural network according to the situation."
     publishedDateTime: 2022-05-18T18:06:00Z
