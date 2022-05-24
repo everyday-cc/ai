@@ -2,38 +2,18 @@
 category: news
 title: "DARKTRACE WINS ARTIFICIAL INTELLIGENCE AWARD AT 2022 GO:TECH AWARDS"
 excerpt: "Darktrace, a global leader in cyber security AI, today announced that it has won the AI & Machine Learning Award at the 2022 Go:Tech Awards. Backed by Business Leader, one of the UK's leading business titles,"
-publishedDateTime: 2022-05-20T22:25:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
+publishedDateTime: 2022-05-20T19:37:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-darktrace-wins-artificial-intelligence-award-2022-gotech-awards-/2022/05/20/9606538.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-darktrace-wins-artificial-intelligence-award-2022-gotech-awards-/2022/05/20/9606538.htm"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
-
-related:
-  - title: "Darktrace: DARKTRACE WINS ARTIFICIAL INTELLIGENCE AWARD AT 2022 GO:TECH AWARDS"
-    excerpt: "Darktrace, a global leader in cyber security AI, today announced that it has won the AI & Machine Learning Award at the 2022 Go:Tech Awards. Backed"
-    publishedDateTime: 2022-05-20T19:34:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56115342-darktrace-darktrace-wins-artificial-intelligence-award-at-2022-go-tech-awards-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 13
-
-secured: "fzHb48gUQOC+JPfrPxQNtNOukmeuMcVZVpZmjEgwQymFJ9MdpNemH82P6+eJLgExvrSIwo6es11xTXIkA1wEnbyzo6ZmHRXaqmuKbx01AXg0R2nr42pfgbJqjA0gUk6GTLnmQt7twpZ5KeCh+uz4Uk25Ri/Y2eU+M0VXAepkjE6fiJRZQPujNcOKwR1VKlN76MFGvGKYKao8U9+g1Z1V11iWmtjBfoQBnczN+tGeF8n6hXls/CGgfGN6cHrRW6njfi6aE+EKneV2ZAcBRMKkwsy/zRWWXXNpxk3IvriCQz6WUK3GJhCD6cob08o8cpLMmq+Mlcban3vlHUzwNzkH8PHXLVlehZYZNtDO8iuRtWo=;7ceyA2K6m5FWL5Fg+9MHpw=="
+secured: "hg3VBHymZJR33wLjCsIUyko+aqKQjH7u0Zh+CN8ABMX3Xbj9HATGVphpLtMIwuKxtN+hl6lfhVvWdRxMZyDUtrxZH0O4rVMm0sPf7gldI6eKFB82LLtokt8xD4lUmzPpQ2UOX+ylgDzkAYkVpcYAEqFjse8DjHkLb02S1ShdvoMRMLahXmzhPE1YCTs5W//szYv0fZq+dt99v26iFncoxuyIgr9/9si/VcNVnhY63mZNpcglTFDRQ7pAmlQnvDtLCiB/0w8KBN5lXVCHY9C0vhRK442T7QNUxBcgne+dplntKZSAyg88MPI3pYKc7Z3FMSgH44PXSl3/+D5WNrOTMhUmtgCQLstYK0+B8/I4yfA=;xWIM3pUNDDTlDFgkFf8WuA=="
 ---
 

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech"
-excerpt: "SAS Hackathon an incubator for innovation and social justice. CARY, N.C. and MILWAUKEE, May 10, 2022 /PRNewswire/ -- This spring, a team of data scientists and technology enthusia"
-publishedDateTime: 2022-05-10T14:35:00Z
-originalUrl: "https://pix11.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
-webUrl: "https://pix11.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
+excerpt: "The team used SAS Viya ® software running on Microsoft Azure cloud platform. The combination of AI in the cloud gives Hackathon teams – and businesses, government agencies and universities ..."
+publishedDateTime: 2022-05-10T15:05:00Z
+originalUrl: "https://whnt.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
+webUrl: "https://whnt.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/"
 type: article
 
 provider:
-  name: WPIX
-  domain: pix11.com
+  name: WHNT
+  domain: whnt.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1812710/SAS_Milwaukee_County_Courthouse.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "QqFx9UFfm3zipoxpNqSTyZzz0Tgd6a4qOLKrsH6rofhtz/vYGWPufADq38U1wrFKhNuFw0/Nz3B3O4BBtC2XUFQ4/imS8CbBAn9gmb9RR/Gb+qXQttwyTEdC5/j9W6WOhWcUz1WpZ5Ub1mdIU6AJJXd86QxnP3ADjVe/AAqKM+SzrshuVvcglWKJUyPjtaX1YGAbio6m64/uQ+hMPeZAmZbQnFSN3nkmaJ+s4VnyzQIljln0Z4DkUFk8W2mC8+TrLcgWOAX5LDchNll04lArIiJ7ulOVZEb/lPMYn4Qw1ANtvixT+5hf6r5RpRH7/PbvrPJzQrUfcxxR2rBFt1vxE0eeGg/SpmD8RfdMQxp9epBWnKNpvWTq3X1uxi5h4J8mmpwAeQGIG6YdyQsJg01EZ4ypmGhTzNv80JadKLupnKUuDZvithKQUgyzufJpZizioxwJWpqVSPUmW1IejV6mlM23ygbbaMsJ0/bDRgtEIvlT3yiwzQCUusYztmLEqH19gfXAI0Zt8YA6xcB2m5E00w==;OgVemvSUkyiosTV70U5dbQ=="
+secured: "WbXPYBqZZtidz26qAwNgrbUwN5K1TmyXkuDsVqOmCnYaZ5RU8LCmRsXMoiz+64//Yl18BXIa46idYTMOJm80g/qN+Zv9o0Lw2VZOhPmlDygda0uHqTnL1XDQDeBdLOU7+TcjFOY1OiB5odDMw9ckYl67wQggw87RILBe/VCnG9cIXtr2ICF8jK4N2oLHI/Zov4XML/seGiz2u0eV5aqZGpo6ayARMgKIGkcQzjeyIsaSeh6B9gyzeF8UQhN9pTPaJ9M9j/xK2ld0Ev4yyg49Sdl+/izQsA62/3Mtg/qAGbDTMKMTS4aZ74XKobRt6hWUpeLYTOW/pPIUtslubAK+BIZrrkWZnbS2jLFpGyMSZLihUeOfGc2OPfvuvzFpaAmS0Lz8CKezF4u9xKQ5EnXLW5a/tGXcwQnYkSm0SMv0shqjO5t/CJdCo5ofEZ8djtbKbXGzuw0W4PRUK+rJjXXBDRO0G2O0DyQrdjJ4JkDcEMdEABRfV/PLP7ZqjT/cU71mOk1sLiTewtfPEv+cnYUgvg==;twvS4+8/8vz0tjF6O0CAqA=="
 ---
 
