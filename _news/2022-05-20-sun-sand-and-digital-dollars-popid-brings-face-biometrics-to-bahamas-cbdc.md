@@ -25,20 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "The Bahamian Sand Dollar Is the First CBDC to Use Facial Recognition to Verify Users"
-    excerpt: "Thursday announced users of the Bahamian Sand Dollar, one of the first CBDCs to emerge for general use, will use PopID’s PopPay platform to authenticate themselves. The new service relies on the SunCash digital wallet,"
-    publishedDateTime: 2022-05-19T15:14:00Z
-    webUrl: "https://www.digitaltransactions.net/the-bahamian-sand-dollar-is-the-first-cbdc-to-use-facial-recognition-to-verify-users/"
+  - title: "DHS is going bigger with its next face biometrics rally"
+    excerpt: "The department's Science and Technology directorate is emphasizing discerning people in groups and their level of consent to face biometric scanning."
+    publishedDateTime: 2022-05-20T20:59:00Z
+    webUrl: "https://www.biometricupdate.com/202205/dhs-is-going-bigger-with-its-next-face-biometrics-rally"
     type: article
     provider:
-      name: Digital Transactions
-      domain: digitaltransactions.net
-    quality: 32
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
     images:
-      - url: "https://v6r2p5t5.rocketcdn.me/wp-content/uploads/2022/05/SandDollarWP.jpg"
-        width: 400
-        height: 400
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/20165716/airport-travel-groups-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
+  - title: "AI-Enabled Biometrics Market To See Booming Growth | Safran, NEC, Fujitsu"
+    excerpt: "Advance Market Analytics published a new research publication on “ AI-enabled Biometrics Market Insights, to 2027″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
+    publishedDateTime: 2022-05-19T19:34:00Z
+    webUrl: "https://menafn.com/1104244298/AI-Enabled-Biometrics-Market-To-See-Booming-Growth-Safran-NEC-Fujitsu"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+  - title: "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners"
+    excerpt: "The Insight Partners published latest research study on \"Voice Biometrics Market Forecast to 2028 – COVID-19 Impact and Global Analysis  b"
+    publishedDateTime: 2022-05-23T14:26:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "mh0VxoeZkH3FNMbZNsOEXfg8vmCx5dyTD2i/utDjVr7ZxUmhFEHhbg563KzmNiEQm2QilLpPBS5uFnf/vuSSJ3YJP98aa0ycGuxRK31cJlmmoH1PTRVsHzpr/0CgrG0wzRxckVkVwcVIec87OVhdibkAyMap9cAD+CLF5CfFX5yx8u12yrMzax1EqRb14MaKv2+oK8rU/2nPTio4jFwOrCS2eWzhjdrHcgFiyiNpFKYjAOcC+7gb4PrL8hTl33AZ0q5oQZ3ZB3NXlffs+snA4rxAda47mWmuTlFDoHt2p5K4PgnU7ZmOYd9WBZgds51N8K4RGoXwGn8BoyVB97N556rxFojdQplB6QgxPFNPbWM=;AdCe1EK7B3niApED85Lolg=="
 ---

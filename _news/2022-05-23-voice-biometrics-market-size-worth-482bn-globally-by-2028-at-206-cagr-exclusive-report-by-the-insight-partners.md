@@ -33,6 +33,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Sun, sand and digital dollars: PopID brings face biometrics to Bahamas CBDC"
+    excerpt: "Bahamians can now link their digital SunCash accounts to PopPay by PopID to pay with their faces at participating merchants."
+    publishedDateTime: 2022-05-19T21:40:00Z
+    webUrl: "https://www.biometricupdate.com/202205/sun-sand-and-digital-dollars-popid-brings-face-biometrics-to-bahamas-cbdc"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "AI-Enabled Biometrics Market To See Booming Growth | Safran, NEC, Fujitsu"
     excerpt: "Advance Market Analytics published a new research publication on “ AI-enabled Biometrics Market Insights, to 2027″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
     publishedDateTime: 2022-05-19T19:34:00Z

@@ -19,31 +19,26 @@ topics:
   - AI
 
 related:
-  - title: "AI In Fashion Market Report: Size, Trends, Demands And Progression Status Up To 2022-2031"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, May 22, 2022, 22:34 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 20"
-    publishedDateTime: 2022-05-23T04:39:00Z
-    webUrl: "https://menafn.com/1104255404/AI-In-Fashion-Market-Report-Size-Trends-Demands-And-Progression-Status-Up-To-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?695690"
-        width: 450
-        height: 250
-        isCached: true
-  - title: "Global Face Mask Detection Market Report to 2027 - by Component, Application, Technology and Region"
-    excerpt: "Facial recognition systems, which began as a type of computer application, have seen increased use in recent years on smartphones and in other forms of technology, such as robotics. Computerized facial recognition systems are classified as biometrics since ..."
-    publishedDateTime: 2022-05-23T11:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27343540/global-face-mask-detection-market-report-to-2027-by-component-application-technology-and-region"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27343540"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27343540"
+  - title: "Radiotherapy Devices Global Market Report 2022"
+    excerpt: "Reportlinker.com announces the release of the report \"Radiotherapy Devices Global Market Report 2022\" -  The global radiotherapy devices market is expected to grow from $4.76 billion in 2021 to $5.21 billion in 2022 at a compound annual growth rate (CAGR) of 9."
+    publishedDateTime: 2022-05-24T09:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27363539/radiotherapy-devices-global-market-report-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27363539"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27363539"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 10
+    quality: 39
+  - title: "Natural Language Processing Market Global Competition Data 2022"
+    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the highest revenue by 2029. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2022-05-19T20:16:00Z
+    webUrl: "https://xaralite.com/152200/business/natural-language-processing-market-global-competition-data-2022/"
+    type: article
+    provider:
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 19
 
 secured: "94GTGKrJ17VnOnv9fd1Z3H4BniGal35SHYXcyRKBPSf4lfBQ6xGbbguorn//3zFfw4Hho18h2F565gCGoEYLgWzMfpLykmD2X+gaI8eDUq7HxsrlBjGQImjB9SwyAHn54r4gmSbeE5TkTMpEjls9t6Hz5TQQIVASR8E2EQOTjz9gd1aDtjgMaLmNvX2C+9siwT1UxiIxzczUQeW5SwCRmFrGCMlw3+pOVQ292Aq/RkQdCNRfLmqy48FX5TV88uCcPHCpVWquc6JzevRXOM+TEZHA0sv64NJzbcgel38tq8fevthas85alOWHf/nPKVGlArDeCEZCFRgrWesT1/gjYhyteGZAu3AfgpW1AKSuIpM=;HjKHmtsRYKj8BV36+x5nog=="
 ---

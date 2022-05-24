@@ -248,6 +248,15 @@ related:
       name: Android
       domain: androidheadlines.com
     quality: 17
+  - title: "ICO Fines Clearview AI £7.5m for Collecting UK Citizens’ Data"
+    excerpt: "The UK’s Information Commissioner’s Office (ICO) has fined facial recognition database firm Clearview AI £7.5m for breaching UK data protection rules. This represents a huge reduction on the £17m fine the ICO initially said it planned to issue US-based Clearview AI in November 2021."
+    publishedDateTime: 2022-05-24T09:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/ico-fines-clearview-ai-75m/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
   - title: "Clearview CEO laments ‘misrepresentation’ of facial recognition app in response to UK fine"
     excerpt: "Clearview AI has been fined approximately £7.5 million by the UK Information Commissioner’s Office for breach of data privacy laws."
     publishedDateTime: 2022-05-23T18:44:00Z

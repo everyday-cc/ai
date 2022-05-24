@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Tesla to soon have self-driving cars without need for human drivers: Musk"
+    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the need for human drivers,"
+    publishedDateTime: 2022-05-24T08:48:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91762636,imgsize-50640,width-1200,height-628,overlay-etcio/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla to soon have self-driving cars without need for human drivers: Elon Musk"
     excerpt: "As per the report, Musk has been claiming that Tesla will have 1 million robotaxis on the road by the end of the year since 2020. Recently, Electrek reported that Musk changed Tesla's 1 million robotaxis by end of the year goal to a1 million people in Full Self-Driving (FSD) Beta,"
     publishedDateTime: 2022-05-24T06:30:00Z
@@ -103,20 +119,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla To Soon Have Self-Driving Cars Without Need For Human Drivers: Musk"
-    excerpt: "Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the"
-    publishedDateTime: 2022-05-24T07:39:00Z
-    webUrl: "https://menafn.com/1104263206/Tesla-To-Soon-Have-Self-Driving-Cars-Without-Need-For-Human-Drivers-Musk"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?874722"
-        width: 374
-        height: 250
-        isCached: true
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
     publishedDateTime: 2022-05-19T18:57:00Z
@@ -145,6 +147,6 @@ related:
       domain: webindia123.com
     quality: 16
 
-secured: "IB/0FDdzpurtLAIq0s2ral2zCRT0S1916xGookooRWyMgf9C34FPhMRC/voJIaDnht4VTq/NuNtZ1QqTr8PLUE8XW+stXrvNcQZVqO5siYLaLKhWmemRS51rnGO9utew/qbhXaFi4bQpbd6WLesMVMcY8E98d2l8eZRie/N5NPr1zFWNBiiQLYv5YCa90gskqAIbkXFl3NFtFBaT4yXi+mMeyMhQVIlLQ2tn9McxkT/fVlgQcr+ef5OyXW9J24W+Lb3zKQXIrAq0g4fr9eCoM0rGHoeWNdNHbzvx9lLSzoaclmKaTZCUnBLynjb6CxmFVDOFpdakfqbXumj66iag39Kh856jfi5jBHYmoOLuBcg=;LuUlc/9ail9lNXYTp7E+mw=="
+secured: "1CkGt5oQ1IT0FrLSlN6IT8MdZgXf6EeVKBIa4QJYY7Fyf7HZn1XL+Js8N+2JyD5HNvhhVb/7u9VnlwScXEjky/0UWD+h4am364bWDhpYnKtVt5dNCu4TmRTn923nZ5++BtOsZhJ2UDjtQpI23zH9IhmGnx5JmfBR324pLfJVGmMrmGBbDW7PzRrhFYDZRK5dBUYSCAovyuzcwQa1Slp0dwxuOUEclPApG6Z4svNGGErlf7EVkiy6AojmM8eBcP/Ai+z0/kwk+f1BFmBOv+EN9S1bHX9QUPzBH/I2pI03DsDwmGxF/VMRvJxIOcOeJPyDNHUG/XloKShsN5JCmq8SCDoCu2ouGhBBpB5IvwMBUlU=;OuiSUVkWHWWS0qjTZUUdQw=="
 ---
 

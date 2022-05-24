@@ -19,37 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Three Lessons Learned While Building A Travel Insurance Startup During Covid-19"
-    excerpt: "Covid-19 reset everything — how we think about health and wellness, where we live and how we explore the world. We saw early on that protecting one’s trip investment and healt"
-    publishedDateTime: 2022-05-23T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/amp/"
+  - title: "UNC scientists using machine learning in latest efforts against ‘long’ COVID"
+    excerpt: "A study published in The Lancet Digital Health led by UNC School of Medicine’s Emily R. Pfaff, PhD, shows how the National COVID Cohort Collaborative used XGBoost machine learning models to better define long COVID and identify potential long COVID patients with a high degree of accuracy."
+    publishedDateTime: 2022-05-24T09:22:00Z
+    webUrl: "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/"
+    ampWebUrl: "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62879e7a7ead2bcc2e837362/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Understanding COVID reinfections; artificial intelligence that has learned human biases"
-    excerpt: "Warm weather is upon us, which has historically meant a reprieve from infections driven by indoor settings — yet COVID is running rampant and we may not even know to what extent. Months ago, CDC director Rochelle Walensky said it's not a matter of if you get COVID,"
-    publishedDateTime: 2022-05-19T15:29:00Z
-    webUrl: "https://www.wbur.org/radioboston/2022/05/19/covid-reinfection-variants-ai-biases-phenomenal-women"
-    ampWebUrl: "https://amp.wbur.org/radioboston/2022/05/19/covid-reinfection-variants-ai-biases-phenomenal-women"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/05/19/covid-reinfection-variants-ai-biases-phenomenal-women"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 49
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/AP22087837827707.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://wraltechwire.com/wp-content/uploads/2020/08/Coronavirus_Testing_Research-DMID1-5nrd77mz1-1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Machine Learning Models to Help Identify Long COVID Patients"
     excerpt: "Machine learning (ML) models help clinicians distinguish characteristics of people with long-COVID and factors that may help identify such patients."

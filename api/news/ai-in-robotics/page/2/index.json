@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-11-robot-ethics-need-to-get-specific-says-durham-university.md",
+      "title": "Robot ethics need to get specific, says Durham University",
+      "excerpt": "As previously reported, Louise Sheridan, Deputy Director of the UK’s Centre for Data Ethics and Innovation (CDEI), believes that such fears can inhibit innovation as much as inform it. Speaking at a Westminster eForum on UK AI strategy last month ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university",
+      "originalUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-06/788FF129-6DB5-4A04-A3F4-3D6CE3DA1E75.jpeg",
+          "width": 640,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robot-ethics-need-get-specific-says-durham-university?amp",
+      "publishedDateTime": "2022-05-10T23:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-india-inc-wants-ai-robotics-but-campuses-lack-such-skills.md",
       "title": "India Inc wants AI, robotics but campuses lack such skills",
       "excerpt": "With India Inc digitising all its processes over the last two years of pandemic, there is demand for big data analytics, fintech and risk analysis, AI, cybersecurity, and product design and engineerin",
@@ -91,10 +135,10 @@
     {
       "path": "_news/2022-05-11-robots-and-the-future-of-remote-healthcare.md",
       "title": "Robots and the Future of Remote Healthcare",
-      "excerpt": "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented rate. A growing focus on technology -- and the ways it can help improve patient care and the provider experience -- is now at the forefront,",
+      "excerpt": "Although the technology has been around for several years, it is crucially important as we start to look toward the future ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that ...",
       "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634",
-      "originalUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634",
+      "webUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews",
+      "originalUrl": "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1353,50 +1397,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-internship-in-the-area-of-logistic-robotics-computer-vision-fmd.md",
-      "title": "Internship in the area of Logistic Robotics Computer Vision (f/m/d)",
-      "excerpt": "We, the (COMPANY NAME), offer you an interesting and various internship in the area of Logistic Robotics Computer Vision. At BMW, we develop a variety of robots that support our internal logistics processes in the production plants. For each robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.absolventa.de/stellenangebote/5241598-b-internship-in-the-area-of-logistic-robotics-computer-vision-f-m-d",
-      "originalUrl": "https://www.absolventa.de/stellenangebote/5241598-b-internship-in-the-area-of-logistic-robotics-computer-vision-f-m-d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uno-production.imgix.net/og_images/trans.png?w=1200&h=628&bg=e8f8f0&fit=crop&auto=format&q=60&fm=jpg&mark64=aHR0cHM6Ly91bm8tcHJvZHVjdGlvbi5pbWdpeC5uZXQvfnRleHQ_dz0xMDAwJnR4dDY0PWFVRm5iM0poSUVWMWNtOXdZUSZ0eHRjbHI9MTBiZjlkJnR4dHNpemU9NjAmdHh0cGFkPTUwJnR4dGZpdD1tYXgmdHh0Zm9udDY0PVNHVnNkbVYwYVdOaExDQkNiMnhrJnR4dGFsaWduPWNlbnRlcg&markalign=middle%2Ccenter&markfit=crop&blend64=aHR0cHM6Ly91bm8tcHJvZHVjdGlvbi5pbWdpeC5uZXQvb2dfaW1hZ2VzL2Fic29sdmVudGEvbG9nby5wbmc_dz0yMTgmaD00MCZmaXQ9Y3JvcCZmbT1wbmc&bw=218&bh=40&bx=942&by=557&bm=normal&bf=crop",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-30T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Absolventa",
-        "domain": "absolventa.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

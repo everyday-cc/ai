@@ -1,0 +1,45 @@
+---
+category: news
+title: "Radiotherapy Devices Global Market Report 2022"
+excerpt: "Reportlinker.com announces the release of the report \"Radiotherapy Devices Global Market Report 2022\" -  The global radiotherapy devices market is expected to grow from $4.76 billion in 2021 to $5.21 billion in 2022 at a compound annual growth rate (CAGR) of 9."
+publishedDateTime: 2022-05-24T09:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/g27363539/radiotherapy-devices-global-market-report-2022"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/g27363539/radiotherapy-devices-global-market-report-2022"
+ampWebUrl: "https://www.benzinga.com/amp/content/27363539"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27363539"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Benzinga.com
+  domain: benzinga.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+related:
+  - title: "Natural Language Processing Market Global Competition Data 2022"
+    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the highest revenue by 2029. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2022-05-19T20:16:00Z
+    webUrl: "https://xaralite.com/152200/business/natural-language-processing-market-global-competition-data-2022/"
+    type: article
+    provider:
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 19
+  - title: "Global Machine Vision Market Size And Market Growth Opportunities"
+    excerpt: "Machine Vision Global Market Report 2022 - Market Size, Trends, And Global Forecast 2022-2026 The Global Machine Vision Market Report by"
+    publishedDateTime: 2022-05-23T12:39:00Z
+    webUrl: "https://menafn.com/1104258499/Global-Machine-Vision-Market-Size-And-Market-Growth-Opportunities"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 4
+
+secured: "PgPpZR0nkSN9VQJ8Cwfc+LjhJUkZsHPz2bEFlIYNv6QutwtU1irrHv8AUDjytS0IO3WzonlmikYkqvSqLaMoicF8skE94CguhS4hu0EsAvOe0qhxW94k17IMG7QLHOWNmtZW/81trXNCugk3OExsWIrQFejVVlGyz7rE02dvgCM/99F+OrUXQkYf/GYl/0NvgS9DoYNtGdGd8cba5SgqzsaKuLD2gMbKKvzdHZ1+Ye/6j8qNzFqQcWmXyKAuv/2WLLL4tUbmROFWoa5omKj/H9EzqT+YUlyqGOHXh2RlsP1MRWkdlJNTEOgMChCfWjriuDCVmlpQhb5YWZ6CHW2tN5o97UyWdvTNP3zsXg3xSNU=;2k5gn1dZfauk1lc5Bp5unA=="
+---
+

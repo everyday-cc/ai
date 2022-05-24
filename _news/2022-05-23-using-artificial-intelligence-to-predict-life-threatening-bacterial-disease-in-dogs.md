@@ -7,7 +7,7 @@ originalUrl: "https://www.ucdavis.edu/health/news/using-artificial-intelligence-
 webUrl: "https://www.ucdavis.edu/health/news/using-artificial-intelligence-predict-life-threatening-bacterial-disease-dogs"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -25,27 +25,18 @@ images:
 
 related:
   - title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
-    excerpt: "Veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
-    publishedDateTime: 2022-05-23T19:55:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
+    excerpt: "UC Davis veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
+    publishedDateTime: 2022-05-23T17:45:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/953632"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 41
-  - title: "Using AI To Help the Deaf Communicate"
-    excerpt: "An Intel venture is developing a SaaS application that would translate sign language to English to help the deaf and hard-of-hearing communicate more easily."
-    publishedDateTime: 2022-05-19T15:35:00Z
-    webUrl: "https://www.designnews.com/artificial-intelligence/using-ai-help-deaf-communicate"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
     images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/deafpeople.jpg"
-        width: 770
-        height: 400
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/14d831c7-b0c0-4a36-8f9b-543dc99497dd/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "Y1w2xrWlF1dWRKmI/6kdUMjy1O4QXCICkVnoH7Q3t0S3WdZhWYMPtBNVF3qptA4XgjuS512URMFdctF19I/5F2f0GV+w/ujRch8fcpFuSk+NNRmS4M+n0P0gPCV+K/fsgLXsdOgFt3ZRIFJabrsiW0gsbUeOqjpOH5kj8CcHeXcXFsBoAkJPoAx38mLASg4HcbrbrhVmwKymWx7OuJoDn9oIVHGUikV+54PYfrKu3iDu04aO5Lc45l9bohf6COF43d1/z0ruS4cfuYIfbzVTm4nU31ds0FfPmu/sSmKMSN6yMxMRfTg37kNSjpPY7lOQ+ZgxEcgKlyo5LzvT++Zw6fojI6hZLRGaVEeuJXza2ZNzk2bFbBZVK2euWyNMzyg/5yT1//FHzAyxETu5Q8+8sAZavrXQ0Yzb8peyu4T8avD6Bff89y6w/PHvz5YfJGLluEX67RaB+KCH1o8OqGkv6Ty5HZ+jSjRfBMnT+wCFU2O2yP2wDZh5AUDCcVU0+VxfyG7//lpImane4VEc8srH2w==;01fvnEzgrnGWIpRrw094TQ=="

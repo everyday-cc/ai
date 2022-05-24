@@ -1,41 +1,29 @@
 ---
 category: news
 title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
-excerpt: "Veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
-publishedDateTime: 2022-05-23T19:55:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
+excerpt: "UC Davis veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
+publishedDateTime: 2022-05-23T17:45:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/953632"
+webUrl: "https://www.eurekalert.org/news-releases/953632"
 type: article
-quality: 41
-heat: 41
+quality: 31
+heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/14d831c7-b0c0-4a36-8f9b-543dc99497dd/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 225
+    isCached: true
+
 related:
-  - title: "Using AI To Help the Deaf Communicate"
-    excerpt: "An Intel venture is developing a SaaS application that would translate sign language to English to help the deaf and hard-of-hearing communicate more easily."
-    publishedDateTime: 2022-05-19T15:35:00Z
-    webUrl: "https://www.designnews.com/artificial-intelligence/using-ai-help-deaf-communicate"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/deafpeople.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
     excerpt: "UC Davis veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
     publishedDateTime: 2022-05-23T15:43:00Z
@@ -51,6 +39,6 @@ related:
         height: 720
         isCached: true
 
-secured: "+PDyfY7j19TVuLbiAZ1199bRVw7wp+wmB6ZHt8+vIzf6nUkMREDUmFauhfs5NB0C/eR9hAvrr8fudk6LMS3udXiV9XpVGaKnLGJ7QLdm0NCk/RiPEr0flsHyI2knvR7kJ0u3SyvMCaX9Xi5t85Pqp8JZW2KNBO75CLdXZpBoqsS6N5w03ytQQnCczWGrZKstoJa25qNlbMIucj6Z382UdYl7eP+HfFF7QaybFkllQdfPSnit6OdQuCG3+nUECLFuvlJF7opVMto1nOsxK439wfom+f+0xNCyul+Qj1Z2enycIbHAGoeHVgFR93bpY2+W9ZfcZIoNqDgomoBOKhnt3nMFgLpGMMEvGWbOaeAlvA8=;x/DTpIqV23YufK9L7H6VCA=="
+secured: "ZQdI4VM4waSAAJRYzUd42JKNS3nzI+eX2DHznrzrQTc7It6Y2EvY8hrnelbprjNZ8GCDL7xuFPlZBScSqtjobzUjPBMtJZk05SmWj8OTaoDxxcajNixsXo0fmuTxNkonINRNPjUYa3gH4vSS6b1nQ7ftdgnL6BMw57XD973dAwP02Jm1u/jZScHHAfoPjO6adNMApN32+vUlakw0YDA6eaYTneRi4YAhXiskekDkgYc25HLptUmZF/W45J9f4v3IdJyxheoyMBRSBQIfuRrvxjG7Dj52klOqtZZCKxO8IEkgjjfvObL36s07xCTyVn0HMuvv5ymE8vVywbMEU6BVouUSjext7C7UbmGvubM2FTk=;cBSH1fIjeV8w/wry0BUviw=="
 ---
 

@@ -32,6 +32,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Sun, sand and digital dollars: PopID brings face biometrics to Bahamas CBDC"
+    excerpt: "Bahamians can now link their digital SunCash accounts to PopPay by PopID to pay with their faces at participating merchants."
+    publishedDateTime: 2022-05-19T21:40:00Z
+    webUrl: "https://www.biometricupdate.com/202205/sun-sand-and-digital-dollars-popid-brings-face-biometrics-to-bahamas-cbdc"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners"
     excerpt: "The Insight Partners published latest research study on \"Voice Biometrics Market Forecast to 2028 – COVID-19 Impact and Global Analysis  b"
     publishedDateTime: 2022-05-23T14:26:00Z

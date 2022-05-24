@@ -34,22 +34,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Indian, Chinese companies take lead in the use of artificial intelligence: IBM"
-    excerpt: "It said that IT professionals in the financial services, media, energy, automotive, oil, and aerospace industries are most likely to report their companies have actively deployed AI, while organisations in industries such as retail,"
-    publishedDateTime: 2022-05-19T16:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/indian-chinese-companies-take-lead-in-the-use-of-artificial-intelligence-ibm/articleshow/91671545.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/indian-chinese-companies-take-lead-in-the-use-of-artificial-intelligence-ibm/amp_articleshow/91671545.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/indian-chinese-companies-take-lead-in-the-use-of-artificial-intelligence-ibm/amp_articleshow/91671545.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-91671535/artificial-intelligence.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "NXushLoCv8vWpOKErTF95opwvnf/m5XhLcPAJwEWPNipjUVcnmupNEZU7utHSAC2i8DRGd9ts3IhYlvhfzRE2G23QNShdB/pxHGQayVcvBweU+u9nayxOKGW/GgoseYFtkC7legDngaSOoRC+I9kGuR8W5ojPWAufZaMnsdu707cEDkFvhux7hf6OPWhxDu00N4SCSEbj9N0zvXO/0KU1kQn4o3cvXfsGWzZ00f0EQ8SYo4pk/pohR7xwlGviVbQCprfrGgo1zBPjrIJN2UcX90NcQIwXsTNdQ3QZ0WD4wfkHjZRi0PXBbOFtEuHAbl8lYezfcasPFZrBEDZjwsZUkYLzlbBTBpCaLZvo1ODuz4=;E05gq0Nyb2I8B+68L7/jxA=="
 ---

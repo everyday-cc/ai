@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-13-whats-next-for-alphafold-and-the-ai-protein-folding-revolution.md",
+      "title": "What's next for AlphaFold and the AI protein-folding revolution",
+      "excerpt": "Then, last July, London-based firm DeepMind, part of Alphabet — Google’s parent company — made public an artificial intelligence (AI) tool called AlphaFold 2. The software could predict the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-00997-5",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-00997-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00997-5/d41586-022-00997-5_20300294.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-investing-in-eastern-europes-ai-future.md",
       "title": "Investing in Eastern Europe’s AI future",
       "excerpt": "It was an honor and a privilege to attend a special event in the Bulgarian capital, Sofia, today to launch INSAIT, the Institute for Computer Science, Artificial Intelligence and Technology. INSAIT is a new AI and computer science research institute that will provide truly world-class facilities.It’s",
@@ -1427,58 +1470,6 @@
         "name": "bestgamingpro",
         "domain": "bestgamingpro.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-the-latest-deepmind-ai-breakthrough-could-be-perfect-for-indiana-jones.md",
-      "title": "The latest DeepMind AI breakthrough could be perfect for Indiana Jones",
-      "excerpt": "Uncovering the mysteries of the ancient world could soon get a little easier thanks to a new release from DeepMind. The Alphabet-owned firm has revealed Ithaca, a new AI model that could help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/the-latest-deepmind-ai-breakthrough-could-be-perfect-for-indiana-jones",
-      "originalUrl": "https://www.techradar.com/news/the-latest-deepmind-ai-breakthrough-could-be-perfect-for-indiana-jones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/HVKrcBZzhDZ6z67ppRMnrn-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-12T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

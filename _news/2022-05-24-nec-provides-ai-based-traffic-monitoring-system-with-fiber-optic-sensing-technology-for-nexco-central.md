@@ -1,24 +1,28 @@
 ---
 category: news
-title: "NEC Provides AI-based Traffic Monitoring System with Fiber-optic Sensing Technology for NEXCO CENTRAL"
-excerpt: "Smart road traffic monitoring through existing optical fiber cable for communications -TOKYO, May 24, 2022 - (JCN Newswire) - NEC Corporation has deployed an AI-based traffic monitoring system to Central Nippon Expressway Company Limited (NEXCO CENTRAL)."
-publishedDateTime: 2022-05-24T04:49:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/a27362254/nec-provides-ai-based-traffic-monitoring-system-with-fiber-optic-sensing-technology-for-nexco-cent"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/a27362254/nec-provides-ai-based-traffic-monitoring-system-with-fiber-optic-sensing-technology-for-nexco-cent"
-ampWebUrl: "https://www.benzinga.com/amp/content/27362254"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27362254"
+title: "NEC Provides AI-Based Traffic Monitoring System With Fiber-Optic Sensing Technology For NEXCO CENTRAL"
+excerpt: "NEC Provides AI-based Traffic Monitoring System with Fiber-optic Sensing Technology for NEXCO CENTRAL <br/>  - Smart road traffic monitoring"
+publishedDateTime: 2022-05-24T09:39:00Z
+originalUrl: "https://menafn.com/1104263747/NEC-Provides-AI-Based-Traffic-Monitoring-System-With-Fiber-Optic-Sensing-Technology-For-NEXCO-CENTRAL"
+webUrl: "https://menafn.com/1104263747/NEC-Provides-AI-Based-Traffic-Monitoring-System-With-Fiber-Optic-Sensing-Technology-For-NEXCO-CENTRAL"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
-secured: "6HKxR1nEksH5X2dXZUAE3nDSCmaxjIPKGhwzoReBAbH2uxT1Jjytif/qQS7RoMKJ3LG9vTACF68cSw5sdy/pbAhidqzKPXC9cm/8t7nWy2RkBUiu3mZJ2TPQ2Ae8OEYLvEGe4hvshe1glM3NVrxg+zS4fV8ASqaEIyCXyN07UcH81IDskM0NQ+sWIuqy9qmcClvzKrBQ4va1SIEFuyFWVmGV8pg3LrQZbK0NoGMmzVGC8RuhiBi1xNT4fYiOi2EfFL4xEyC6hWTJBPLI3Ka3ykVRqhYmsK17skjxLzRR1+rpm2lvT1pMnLTLyiB7Tx7AoBTI/DTp/CotqfufOCKwc3/hyHDbTW4nY5FWgzmhISE=;lNIKLOlSCrippXE+tkSnRw=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-05/24/JN_6b2e004a-a_Image_In_Body.jpg"
+    width: 650
+    height: 360
+    isCached: true
+
+secured: "y9thTetaF2pzvr2C8w4zBKO71PFuwE0rjnBc1hnXWylCIfsNRJ3RwuGyXITvUEyf/rRnfxMRzvjQ0lF98urCJ35EMUT6TGwfB6liGWUib6f0OIgZ6Y3U/PCsJQ+cOlQwbEz1NwD6EvBvGH9kmcznvu5K/OoFMtdheer9AlGcqvqjJN/T6dlHRwTF5/0ifVOmRYphXoEsKoaGddpzgDRUPcZ3gwGZ3xfOXqZ1WIRmxAn42h/df+pGBf8KWNP7xW1C1yt4WR/ekjDzWiuzELuujc/YbFgZxHZg3lE8F8dvBlbqLUoNJfwnRjjQvscLs2zW0EYhINngd80fRAf/PR9Cif3lzk48JM00rrZpG4aphHQ=;fNICBo0cBnFBo9uM01accQ=="
 ---
 

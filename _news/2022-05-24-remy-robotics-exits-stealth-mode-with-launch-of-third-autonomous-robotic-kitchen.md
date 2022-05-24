@@ -43,6 +43,20 @@ related:
         width: 635
         height: 520
         isCached: true
+  - title: "Massrobotics Launches $50,000 Robotics Competition"
+    excerpt: "MassRobotics launches $50,000 robotics competition . May 24, 2022 by David Edwards Leave a Comment . MassRobotics , a robotics innovation orga"
+    publishedDateTime: 2022-05-24T09:39:00Z
+    webUrl: "https://menafn.com/1104263784/Massrobotics-Launches-50000-Robotics-Competition"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/24/R&AN_33a63image_story.png"
+        width: 800
+        height: 369
+        isCached: true
   - title: "New Robotics Medal recognizes wide-ranging impact of female researchers"
     excerpt: "Given by MassRobotics, this first major prize of its kind is hoped to inspire and encourage women in robotics."
     publishedDateTime: 2022-05-23T22:38:00Z
@@ -72,6 +86,6 @@ related:
         height: 313
         isCached: true
 
-secured: "rm829riSALZuLmXLe1z/PFhgcsVbVOG/Fx5VvQg9KsoPIYjIOwb0EU42+sKa6Y5ZU3u60qW+EBGE3XVNO0kIL714bz+8AlbPO7QM9xrpFCQHaMp242gpdFUvxGFkEjg16AjsjDZPF3QklNXz2s8+uLz6Kt/sXnD6qZot5Nl3VtKn0UfPnqAViU6mzFxpuANwDNsdpGtFfM9ZKOZDPxKj27UbiOuVX0I5AKKenl+w+BYfIi/apHbSg/MGJVTjph8yxzSH3wstmzo+LcTw4DQIAUZ9Ph6qYjK3UZ3HhnNjqE3ks5T114UfYn9w12wVi2+6KsWbMP+gjbFLkXpzof6q31D17nD7wjpghWYjSUIKS+o=;THcpVs6CycQnpG5ItPdIyA=="
+secured: "0l7Rk3PfsWFHbAZ97v6YzznNVK7eRJcMdtU+QJ3V/8cNVka2aaDWWRGTqc+84V7UWdcKxMCofSAjFbp+5TfoGBqRLnu+piNt8aAVcstvF23+t4PaOnBTunhA7wi82k2mcPknK/T4yCYhR1qCyVM4nF9FCNoVQsFz3MRY0ImgTOwTo1lbPVl1YWX3SbbwUOAixuw3dml/Lu47tq5y8NfdMjds51RtgRILENrEF9ICWj4THTtT68WrrHczMY/vaxSsoSahc6+sY/5jpyX1pEXnFoP/hxiVTHfRoZE2AKbJB3zU98W7nYx/EVn7ZWyfh/ZjNUlIHHuXJL5u+G+XC5xTdmCfeTnpyF99TLB/sOKmY2+pw3IhMcEOytbsqWiviWVL9gYbhatz24NOhbiEkvYiNbeVwDOHNcAug23TKg/xT364ZnC1CqiF6S0hZ0Yr2R5h5jabpRepzAu8R4X95RpvTGwBKFnNtbE4JMSUiHp69MypHbMi6npyrcSIkKYXbMgec+ALdxlaYrzysNMo9OigWg==;1uiZGhDe0RKphMv6UAORVw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-fem
 webUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1823888/Remy_Robotics.jpg"
         width: 400
         height: 229
+        isCached: true
+  - title: "Massrobotics Launches $50,000 Robotics Competition"
+    excerpt: "MassRobotics launches $50,000 robotics competition . May 24, 2022 by David Edwards Leave a Comment . MassRobotics , a robotics innovation orga"
+    publishedDateTime: 2022-05-24T09:39:00Z
+    webUrl: "https://menafn.com/1104263784/Massrobotics-Launches-50000-Robotics-Competition"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/24/R&AN_33a63image_story.png"
+        width: 800
+        height: 369
         isCached: true
   - title: "New Robotics Medal recognizes wide-ranging impact of female researchers"
     excerpt: "Given by MassRobotics, this first major prize of its kind is hoped to inspire and encourage women in robotics."

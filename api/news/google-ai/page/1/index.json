@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-24-building-a-culture-of-pioneering-responsibly.md",
+      "title": "Building a culture of pioneering responsibly",
+      "excerpt": "When I joined DeepMind as COO, I did so in large part because I could tell that the founders and team had the same focus on positive social impact. In fact, at DeepMind, we now champion a term that perfectly captures my own values and hopes for integrating technology into people’s daily lives: pioneering",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly",
+      "originalUrl": "https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/628bb10c9262d40040f15edb_Lila_Ibrahim__Blog__16x9-0.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough.md",
       "title": "Is DeepMind's Gato AI really a human-level intelligence breakthrough?",
       "excerpt": "DeepMind has released what it calls a \"generalist\" AI called Gato that can perform 600 tasks – but does this mean it is truly intelligent?",
@@ -1447,49 +1499,6 @@
         "AI",
         "Google AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-whats-next-for-alphafold-and-the-ai-protein-folding-revolution.md",
-      "title": "What's next for AlphaFold and the AI protein-folding revolution",
-      "excerpt": "Then, last July, London-based firm DeepMind, part of Alphabet — Google’s parent company — made public an artificial intelligence (AI) tool called AlphaFold 2. The software could predict the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-00997-5",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-00997-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00997-5/d41586-022-00997-5_20300294.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

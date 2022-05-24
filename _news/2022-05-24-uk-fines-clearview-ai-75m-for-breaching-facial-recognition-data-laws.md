@@ -241,6 +241,15 @@ related:
       name: Android
       domain: androidheadlines.com
     quality: 17
+  - title: "ICO Fines Clearview AI £7.5m for Collecting UK Citizens’ Data"
+    excerpt: "The UK’s Information Commissioner’s Office (ICO) has fined facial recognition database firm Clearview AI £7.5m for breaching UK data protection rules. This represents a huge reduction on the £17m fine the ICO initially said it planned to issue US-based Clearview AI in November 2021."
+    publishedDateTime: 2022-05-24T09:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/ico-fines-clearview-ai-75m/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
   - title: "ICO fines Clearview AI $8M over alleged data privacy lapses"
     excerpt: "The U.K.'s Information Commissioner's Office has fined Clearview AI over £7.5 million (nearly U.S. $8.06 million) for collecting people's images from internet and social media sites without their knowledge or consent to create a global online database that could be used for facial recognition by law enforcement."
     publishedDateTime: 2022-05-23T17:39:00Z
@@ -260,6 +269,6 @@ related:
       domain: biometricupdate.com
     quality: 9
 
-secured: "jLbDoBjyJpYH+MQtAvfY6ICUX51rzi9hJzv7WDLXumD46PNpHCiJ3qbRcD6qHDpkmfuZp5RUe+4kZPqAXQIHl22YODEB2ASm3BeTVKVoBdp+vZ/ZObOt3s3gZhPWnEEEuzodYOFdNEPjrurg9pkrPpteMl7y/XHk0rNp4EPjTcblAu2IZmNbOWBA0eHPQWfdM8gSR8A2yDH8l9SjvhjXhCMWlSBx1zgaCDMGfXU16M36SWbd6dvTmvUB0Sj50EcQC9fnsNYXfmJCetENqXRCyIgKbSr224LYT1qCsh+b8e8k2oKbYTctc9FgwWiZIHSTOB1HTxyxP1LLe58qFvmqBxCAevs6vsRoZOui2rtO9gs=;ZXKbdnToPp2/CDl213w87A=="
+secured: "v4Q+Mdv3iVkhKSzev/MEYvCAXce8ZW+vtmP0bocZ8wcXhGnsHOpQJau6yYSmha0sydPll0xHMx1Md5/lKCDEnLrXKeFuO54lgiGxO+J1l9iNCcet66U5mrDAXwCLYWA3tjzUKY2OjXjwoh/Ds6sxlYsucJa3i7ymXnhdUWxhWiGux116x4dyRsCA1AQYIuCXxuO7RlCyiQGu3vZNmWpLN+UgOBoIVsOSjxVhjdjE3/oBUAaV0dhuCVjmMRexabcRbwjdFNZ8KYIxZE4KweihvhWjCtUXI1vKggfiJnHFIK6vIz02flTGkWrXjy9HIgxjDEuHfu6AS0WgmIHXsD7BqVyXjy6QpMOP6porINVUyyXl1j5o1x27cOuRnQ8x0+SGmqAp0BnO824gNYDqFpbBWLAlrT8DF5DnFFdivEvjqsKm1Ve/wClRNrUrN9667ylF3OH2Mqy+drDrshNrtWsxewLYjgDDh5LsYCEHOiAKVqXwYnxdfHSxuwgO4arXzkeiI62O9teTTmD/PFkT0UN+ag==;EhYReUFlEyFD9y7ZnLAb5g=="
 ---
 

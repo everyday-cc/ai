@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Tesla To Soon Have Self-Driving Cars Without Need For Human Drivers: Musk"
-excerpt: "Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the"
-publishedDateTime: 2022-05-24T07:39:00Z
-originalUrl: "https://menafn.com/1104263206/Tesla-To-Soon-Have-Self-Driving-Cars-Without-Need-For-Human-Drivers-Musk"
-webUrl: "https://menafn.com/1104263206/Tesla-To-Soon-Have-Self-Driving-Cars-Without-Need-For-Human-Drivers-Musk"
+title: "Tesla to soon have self-driving cars without need for human drivers: Musk"
+excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the need for human drivers,"
+publishedDateTime: 2022-05-24T08:48:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
 type: article
-quality: 38
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?874722"
-    width: 374
-    height: 250
+  - url: "https://etimg.etb2bimg.com/thumb/msid-91762636,imgsize-50640,width-1200,height-628,overlay-etcio/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -145,6 +147,6 @@ related:
       domain: webindia123.com
     quality: 16
 
-secured: "MbOV74siQg/rRzDosYx8BGZdmQAY77yBWOiguAJzVAmWp14WKcfO0vAuVSmhXkZqahYa6ERkf2p0pDnA1LlfeMfNkD5ztp6eyqSI7FIc12JkPN+dCXYV226VzCS9gSwU82QzISB05GHi/670ziJ/qV9Z0FAR1KZ1aIdA0zZDxfwXU4wR9r5Ysc2iyOKKuV4s5bFz070glIyLWtwnmVVqm7B0BZIf5jPHlgCg27OuBSzYjxdX+luMdP8A8k86toTmwgo5a/zfAe8HFhdpQj7KIiTJPd45m1yKoNOcAt4trOtD5snGeekPjLg8PgkQklgjgYwMkrxcBeIoxRzMQ2KiwvIRZDY4PZCxu0xFEnZeNiY=;OPa18cv2fpXtBucJ/v2IjQ=="
+secured: "pFINFmMVIEkHRQ1xeTGDglDBWGL73FCRX1a/jwas0cahE53NjVamIq5j1EMm0RBlgrHWYrNaaQTzxKuRiNFkNGT8rb0uY7J/cP+X6fe9qNCn7mwv+J57xv2Xg4bVSrgytTEMtPxMJUIqUp2ctb1xzTiWL8tpX8qEk7YOiV8P/oFUkZduydIennRa/3m2tKBBFNClzYFm6FetGrigziZ+tSVfbP/hOMQLdTh4nwTUyConyEnOfAG58QdtgwcDyogsa4VCQO16M/ZkNV110arfl/7Smy4P4CEKK6bCUdC/sYirAU+tPLM0i+PVe4xbe1jL6GcBZnrH6H4h/lMywUhi/ZcX3TSSjJye7++4MspKhZ8=;fOAGgcCY864kCfDhhuXlrA=="
 ---
 

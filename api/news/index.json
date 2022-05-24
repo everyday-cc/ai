@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-24-unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid.md",
+      "title": "UNC scientists using machine learning in latest efforts against ‘long’ COVID",
+      "excerpt": "A study published in The Lancet Digital Health led by UNC School of Medicine’s Emily R. Pfaff, PhD, shows how the National COVID Cohort Collaborative used XGBoost machine learning models to better define long COVID and identify potential long COVID patients with a high degree of accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/",
+      "originalUrl": "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2020/08/Coronavirus_Testing_Research-DMID1-5nrd77mz1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/?amp=1",
+      "publishedDateTime": "2022-05-24T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-uk-privacy-watchdog-fines-clearview-ai-75m-and-orders-uk-data-to-be-deleted.md",
       "title": "UK privacy watchdog fines Clearview AI £7.5m and orders UK data to be deleted",
       "excerpt": "The orders conclude a two-year joint investigation the ICO carried out with the Office of Australian Information Commissioner.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.zdnet.com/article/uk-privacy-watchdog-fines-clearview-ai-lb7-5m-and-orders-uk-data-to-be-deleted/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -50,6 +93,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-building-a-culture-of-pioneering-responsibly.md",
+      "title": "Building a culture of pioneering responsibly",
+      "excerpt": "When I joined DeepMind as COO, I did so in large part because I could tell that the founders and team had the same focus on positive social impact. In fact, at DeepMind, we now champion a term that perfectly captures my own values and hopes for integrating technology into people’s daily lives: pioneering",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly",
+      "originalUrl": "https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/628bb10c9262d40040f15edb_Lila_Ibrahim__Blog__16x9-0.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -214,7 +309,7 @@
       "originalUrl": "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefining-the-insurance-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -257,7 +352,7 @@
       "originalUrl": "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -521,11 +616,11 @@
       "title": "A peek into Gigabyte's GPU Arm for AI, HPC shops",
       "excerpt": "Arm-based servers continue to gain momentum with Gigabyte Technology introducing a system based on Ampere's Altra processors paired with Nvidia A100 GPUs, aimed at demanding workloads such as AI training and high-performance compute (HPC) applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/",
-      "originalUrl": "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/",
+      "webUrl": "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/?td=keepreading-top",
+      "originalUrl": "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/?td=keepreading-top",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -555,51 +650,32 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-05-23-three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19.md",
-      "title": "Three Lessons Learned While Building A Travel Insurance Startup During Covid-19",
-      "excerpt": "Covid-19 reset everything — how we think about health and wellness, where we live and how we explore the world. We saw early on that protecting one’s trip investment and healt",
+      "path": "_news/2022-05-23-surgical-robotics-market-size-to-hit-us-213-billion-by-2030.md",
+      "title": "Surgical Robotics Market Size to Hit US$ 21.3 Billion by 2030",
+      "excerpt": "The global surgical robotics market size was valued at US$ 5.36 bn in 2021. This device enables a surgeon to perform complex surgical procedures with higher precision. They are",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62879e7a7ead2bcc2e837362/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/amp/",
-      "publishedDateTime": "2022-05-23T07:30:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27348969",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27348969",
+      "publishedDateTime": "2022-05-23T07:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -608,6 +684,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -973,6 +1050,59 @@
       ]
     },
     {
+      "path": "_news/2022-05-22-ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars.md",
+      "title": "AI Ethics Unnervingly Asking Whether AI Biases Are Insidiously Hiding Societal Power Dynamics, Including For AI Self-Driving Cars",
+      "excerpt": "A bubbling up theory is that AI biases are reflections of hidden societal power dynamics, which has vital impacts for AI and AI Ethics, including the use case of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1833,1235,x170,y0,safe&width=1200",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2022-05-22T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-22-new-deep-learning-technique-paves-path-to-pizza-making-robots.md",
       "title": "New deep learning technique paves path to pizza-making robots",
       "excerpt": "A new deep learning technique developed by researchers shows promise to make robotics systems more stable in handling deformable objects.",
@@ -1023,142 +1153,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it.md",
-      "title": "Here’s How You Can Help America Win the AI Tech Race – and Make Money Doing It",
-      "excerpt": "Buck Jordan explains how investors like you can help America get ahead in the race to master artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/",
-      "originalUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/10/lightbulb-tech-ideas-1200.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/",
-      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/",
-      "publishedDateTime": "2022-05-22T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-amazon-installs-creepy-ai-cameras-to-monitor-more-delivery-drivers-report-says.md",
-      "title": "Amazon installs 'creepy' AI cameras to monitor more delivery drivers, report says.",
-      "excerpt": "Amazon is installing more cameras that can send out alerts if workers violate driving standards after introducing them in the US last year",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-installs-creepy-ai-cameras-monitor-uk-delivery-drivers-2022-5",
-      "originalUrl": "https://www.businessinsider.com/amazon-installs-creepy-ai-cameras-monitor-uk-delivery-drivers-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61b0ee716e06b7001992bbe4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon-installs-creepy-ai-cameras-monitor-uk-delivery-drivers-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-installs-creepy-ai-cameras-monitor-uk-delivery-drivers-2022-5?amp",
-      "publishedDateTime": "2022-05-22T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-nit-r-alumni-innovate-robotics-solution-for-underwater-inspections.md",
-      "title": "NIT-R alumni innovate robotics solution for underwater inspections",
-      "excerpt": "Classmates Debendra Pradhan and Biswajit Swain quit their plum jobs to launch a startup that has been providing customised solutions in the field of underwater robotics, writes Prasanjeet Sarkar",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.html",
-      "originalUrl": "https://www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/5/22/w600X390/alumni.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.amp",
-      "publishedDateTime": "2022-05-21T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

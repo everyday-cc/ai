@@ -30,6 +30,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
+  - title: "At 30.0% CAGR, Deep Learning Chip Market is Emerging with US$ 21.31 Billion by 2027"
+    excerpt: "The Global Deep Learning Chip Market 2021 Research Report is a professional and in-depth study on the current state of Deep Learning Chip Market. With the"
+    publishedDateTime: 2022-05-24T08:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-market-is-emerging-with-us-21-31-billion-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 50
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "mpJqvME5lIG3dNbu1Qb0Gne3XdbKkf+aLQro2PJMYelKycs3JKM6N1jx+X6s3Hcpq/dHZPnmLcrI8ygiYDy1rlOgA7nM7fsm/mJ04nb3rZ8GJQNDujAIVLvoR1H7TJo2JIcHUnMBSe5h/qo9TWLSj5d4wMVBW4oWxG4QxwWJxvOP8UK2tw6M3qL9QXWClZVres5LAGg2Cqc5eTiE6R6VTN+DwC6RwQSC3ztXkSSSRujQatnUYU04VNW4Ay+KjexjFrX9fg2URpn0D6VRzWSDxr/6GIA1uiHNSHHIJixaUljKcvcB7yQlQmL8lByMaafaU7jIbXyM9XL0eMqFsxSFSb11DOzXeHcIMY3h2FTbOaQ=;LgD8oGpkg3qz5h9ezeMrjw=="
 ---

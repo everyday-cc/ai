@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Tesla to soon have self-driving cars without need for human drivers: Musk"
+    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the need for human drivers,"
+    publishedDateTime: 2022-05-24T08:48:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91762636,imgsize-50640,width-1200,height-628,overlay-etcio/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Oxbotica completes first driverless car test on open roads"
     excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
     publishedDateTime: 2022-05-19T23:17:00Z
@@ -102,20 +118,6 @@ related:
       - url: "https://www.oxfordmail.co.uk/resources/images/13799882/"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Tesla To Soon Have Self-Driving Cars Without Need For Human Drivers: Musk"
-    excerpt: "Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the"
-    publishedDateTime: 2022-05-24T07:39:00Z
-    webUrl: "https://menafn.com/1104263206/Tesla-To-Soon-Have-Self-Driving-Cars-Without-Need-For-Human-Drivers-Musk"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?874722"
-        width: 374
-        height: 250
         isCached: true
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
@@ -145,6 +147,6 @@ related:
       domain: webindia123.com
     quality: 16
 
-secured: "qL2i5sEb5dj84kQRiLzymujy4Pk3fOe+z7/rxRnRhgKbloyYdosgxlz6D/wcjjokLNGkqSkJaB92ypzku8cI8iFm24GJWYzYTy3Eg29XQV2vZFv/DYKAoDQ9q7NY+vTleooB0PdQNS4S4AXX5arT8HLbUm/TP123C695ZcQJ3YxCBynkgA02hhSA5v/SGuegoBq6+QLu/OUOccUfB8kcFpywQ7EZMHKAtsNO3Clp2uyS8wTmLSCAud7lxL25FH8EvEqImab5Qlnm4SnNN3qydwk86o1JmRk04h4KdYY/8SVWzIiv0JY/X+QaC/SWXS1kmRXiQ3/BCgCXnz4Rx3XT/cboSzOx+tPahpqQEUbCDpM=;0dDIL40jNgwrKrqdwtdwiA=="
+secured: "i+YKf9XhiMqAZ1Vgmj/aMtJ2xb6lnQDKUT73WrSNeSrS809ihttnsVaTj5qI5nlW+40GDHkU+oOAw0KJubUjiXycm7oc2NkdnAPbRiRWjZLrhzDxw7O5rTdmYiNelE7nht3JiM5/WyKQX6PB4ExuqtzPZEn1Oa3sdK+Mn+3h/d07KRcm/+x7Wb5Z5uxpm9CrJe6KZaUWKLe7ygJmWjgD6O3iP5WpQpZRMOjdKUPMniF7CfXARfp7waIJEgjIp3EuVjQGnozKDU/CiN9J+PVUb79vE7n81RvsSV938GhI8UHEBAGt8DDb8m/c3NoVQIuODZv1t/rfv8djAo13gH7TTrc5w2z56UAdtLXjf2bTVZPt5l0V2JpgJxnl5ahRuypVLzt087vmuCLPdzdukTt6ihBUFZ11V3onjDkY4R+yRHCWpaDXf9DEejmO4BC4KWCs5dpsMA/jUrqKY4c5d6Rs6BmlgAwkRE6vr6RRLGpTcm1NMXE0c3LPJFX4zY/UTYkmz5w961VvOH+JTU7wT3zlHw==;0M7XT+4mZe4qNGDjvIFFhg=="
 ---
 

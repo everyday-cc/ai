@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-05-04-petuum-unveils-enterprise-mlops-platform.md",
-      "title": "Petuum Unveils Enterprise MLOps Platform",
-      "excerpt": "Tong Wen is an Architect and Director of Engineering at Petuum. Tong joined Petuum from Microsoft where he was a member of the founding team of Azure Machine Learning. Tong has 10+ years of experience in building innovative and high-impact AI/ML and HPC ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-04-ex-google-uber-ai-heads-launch-ml-error-detection-platform.md",
       "title": "Ex-Google, Uber AI heads launch ML error-detection platform",
       "excerpt": "Meta releases code for massive language model to AI researchers AMD to offer CPUs with Xilinx AI engine in 2023 Microsoft to ax Azure Video Analyzer in November AI models still racist, even with more balanced training Fixing problems with ML data is the ...",
@@ -1354,6 +1311,40 @@
       "provider": {
         "name": "Medscape",
         "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-aging-politicians-like-sen-dianne-feinstein-should-know-when-its-time-to-leave-the-stage.md",
+      "title": "Aging politicians like Sen. Dianne Feinstein should know when it’s time to leave the stage",
+      "excerpt": "But without exception, decreased endurance, memory degradation, physical health concerns and general cognitive decline, are part of our balancing acts. Like cars, refrigerators and 10--year-old ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/",
+      "originalUrl": "https://www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/?amp=1",
+      "publishedDateTime": "2022-04-22T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null
