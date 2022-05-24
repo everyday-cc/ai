@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-11-never-scoop-poop-again-with-the-sleek-brilliantly-designed-litter-robot-4.md",
+      "title": "Never scoop poop again with the sleek, brilliantly designed Litter-Robot 4",
+      "excerpt": "Designed with community feedback in mind, the latest Litter-Robot is all about improving on all the pain points from previous models – notably it’s less noisy, bulky and smelly. Ahead, everything to know about the Litter-Robot 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/litter-robot-4-review-lead.jpg?q=h_899,w_1601,x_0,y_0",
+          "width": 1601,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
+      "publishedDateTime": "2022-05-11T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-robot-ethics-need-to-get-specific-says-durham-university.md",
       "title": "Robot ethics need to get specific, says Durham University",
       "excerpt": "As previously reported, Louise Sheridan, Deputy Director of the UK’s Centre for Data Ethics and Innovation (CDEI), believes that such fears can inhibit innovation as much as inform it. Speaking at a Westminster eForum on UK AI strategy last month ...",
@@ -1343,49 +1395,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-01-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a large drop in short interest in the month of April. As of April 15th, there was short interest totalling 8,800 shares, a drop of 47.6% from the March 31st total ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
-      "originalUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks8.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
-      "publishedDateTime": "2022-04-30T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
         "images": null,
         "publishers": null,
         "authors": null

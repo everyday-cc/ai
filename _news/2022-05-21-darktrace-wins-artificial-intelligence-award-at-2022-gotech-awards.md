@@ -2,20 +2,26 @@
 category: news
 title: "DARKTRACE WINS ARTIFICIAL INTELLIGENCE AWARD AT 2022 GO:TECH AWARDS"
 excerpt: "Darktrace, a global leader in cyber security AI, today announced that it has won the AI & Machine Learning Award at the 2022 Go:Tech Awards. Backed by Business Leader, one of the UK's leading business titles,"
-publishedDateTime: 2022-05-20T20:25:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
+publishedDateTime: 2022-05-20T22:25:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
+
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
 
 related:
   - title: "Darktrace: DARKTRACE WINS ARTIFICIAL INTELLIGENCE AWARD AT 2022 GO:TECH AWARDS"
@@ -28,6 +34,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "Wf/+ofSdpQyVWpQJvtZWwRCr+80VbDpBkETgrk6RA+Uy4GIcCzHK/FCJIkPC71ARQC/bidsk4ZKgL4qsx1B2RPyPCYD+R+UoXFl7T9iUXb9i/iAWwkxnMm33ATal29WXJhGDw+C/s6d3zy81M0irIIKLTirviilDjHYQ/JiYQczBCkoBuEaBR2VD0p06pg1pRQ89G2RfSiTM96ZLImB5HInAUi53q1zUcVe7TmiCtF6nsqVmB0jQssSqq4paR3Whdq1n/P3lPAKbojjp/k9ANWiWE8zRUMMXE636Mu/s4fzb+JiXb8HhgSc8wFOG8o7lf2fbi6ofbahVt7Oaaa02GJtEmy75Azavc59cAsNgdLY=;TXevgKeDf60tZqjYTBlTiw=="
+secured: "fzHb48gUQOC+JPfrPxQNtNOukmeuMcVZVpZmjEgwQymFJ9MdpNemH82P6+eJLgExvrSIwo6es11xTXIkA1wEnbyzo6ZmHRXaqmuKbx01AXg0R2nr42pfgbJqjA0gUk6GTLnmQt7twpZ5KeCh+uz4Uk25Ri/Y2eU+M0VXAepkjE6fiJRZQPujNcOKwR1VKlN76MFGvGKYKao8U9+g1Z1V11iWmtjBfoQBnczN+tGeF8n6hXls/CGgfGN6cHrRW6njfi6aE+EKneV2ZAcBRMKkwsy/zRWWXXNpxk3IvriCQz6WUK3GJhCD6cob08o8cpLMmq+Mlcban3vlHUzwNzkH8PHXLVlehZYZNtDO8iuRtWo=;7ceyA2K6m5FWL5Fg+9MHpw=="
 ---
 

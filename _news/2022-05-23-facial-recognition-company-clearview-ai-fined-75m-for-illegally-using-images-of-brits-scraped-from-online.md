@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The walls are closing in on Clearview AI"
+    excerpt: "The controversial face recognition company was just fined $10m for scraping UK faces from the web. That might not be the end of it."
+    publishedDateTime: 2022-05-24T11:41:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/24/1052653/clearview-ai-data-privacy-uk/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/24/1052653/clearview-ai-data-privacy-uk/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/24/1052653/clearview-ai-data-privacy-uk/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/AP_22056575357716.jpg?w=3000"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "UK fines Clearview AI £7.5m for breaching facial recognition data laws"
     excerpt: "The UK’s data protection watchdog has fined controversial facial recognition company Clearview AI £7.5m, for multiple data privacy law breaches. The Information Commissioner’s Office (ICO) has also ordered Clearview AI to stop obtaining and using the ..."
     publishedDateTime: 2022-05-24T07:09:00Z

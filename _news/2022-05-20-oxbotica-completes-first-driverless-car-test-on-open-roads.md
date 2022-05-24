@@ -105,6 +105,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Tesla to have self-driving cars without human drivers by May 2023, says Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has claimed that the company will have self-driving cars on road around May 2023. Here's what else he said."
+    publishedDateTime: 2022-05-24T11:05:00Z
+    webUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/"
+    ampWebUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 54
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/06/Elon-Musk.jpg"
+        width: 1201
+        height: 675
+        isCached: true
   - title: "Tech company completes first driverless car test on Oxford roads"
     excerpt: "Fully autonomous vehicles have been driven on Oxford roads with no on-board driver and they could soon be used to deliver food."
     publishedDateTime: 2022-05-20T08:11:00Z
@@ -119,15 +135,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
-    excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
-    publishedDateTime: 2022-05-19T18:57:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254876&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 16
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."
     publishedDateTime: 2022-05-21T18:38:00Z
@@ -147,6 +154,6 @@ related:
       domain: webindia123.com
     quality: 16
 
-secured: "1CkGt5oQ1IT0FrLSlN6IT8MdZgXf6EeVKBIa4QJYY7Fyf7HZn1XL+Js8N+2JyD5HNvhhVb/7u9VnlwScXEjky/0UWD+h4am364bWDhpYnKtVt5dNCu4TmRTn923nZ5++BtOsZhJ2UDjtQpI23zH9IhmGnx5JmfBR324pLfJVGmMrmGBbDW7PzRrhFYDZRK5dBUYSCAovyuzcwQa1Slp0dwxuOUEclPApG6Z4svNGGErlf7EVkiy6AojmM8eBcP/Ai+z0/kwk+f1BFmBOv+EN9S1bHX9QUPzBH/I2pI03DsDwmGxF/VMRvJxIOcOeJPyDNHUG/XloKShsN5JCmq8SCDoCu2ouGhBBpB5IvwMBUlU=;OuiSUVkWHWWS0qjTZUUdQw=="
+secured: "3/lxDLGJjbh1gq+28yuUXbkVHPlBa2MhYyfdu/9hiMls1Os0TPxIlLkrRdGodtb7jKSdZn3TiU8s7VfvCqpdX7xxjRwce+zBwlPiWQlQKCCuuj+FhcitYlM/vxljR+cqejlRJQ+RYlQReDBQdbC1STY6IVlPDeLm37/pqMr69iJGGu1XZXJ/wsCps+3Sqe+8zP9ICN58koWGZrGcZ42v6WnFB0kzFABbVnPnqgDoP8vofcor3Fmg8NHGGIKciXAd5UF1+AtM7b0XXCLmyJQYGUrUhIo3+vbGNlXFP1SS5gloPSWsmZCJA2OFN1Xh9W4m2cTi2WLJvX17jEyueCaNWOZ+DR2NPCCcJNa2VejBDRk=;4yGi0V8jqq+zxomGEYsqqA=="
 ---
 

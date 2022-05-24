@@ -58,20 +58,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
-  - title: "Softeon Continues to Advance Integration and Optimization of Mobile Robots, Put Walls, other Warehouse Automation"
-    excerpt: "Warehouse Management and Warehouse Execution Systems Deliver Throughput, Operating Cost Reduction, and ROIRESTON, Va.--(BUSINESS WIRE)--#3PL--Softeon, a global supply chain software provider with the industry's best track record of customer success,"
-    publishedDateTime: 2022-05-19T17:16:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=667067"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 18
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "OZhK408VppjFtmJQIdJE+uPnp9k7FocvUr/fWNv+7TDDG5rUwJAseh68CT2h9gA2zUT2Q+N7BvQ4RA5tEaRFD/26CbFAF0R4Oj1WKKS15Z0K98MbzhVljx5Ng6L4PazN8RCxXec/WvWQDTNlhYOViAFjGOmx+VUhfWwPqb0K77LBIDN1T6FpIpEZ3N9TVuHpmd4Jd7BFjbSsbPiJKVk8gKYEMUFZiVUNmXnqDlaaCm6gkpN4PbP6AKgxkaJ0/AIucTs2aWZ2QS/9EfW6OZAL8Gpv+Z1L+NMNz8CqXId17EclVGOfu1ZUESmTfXU6mG4oLTQCX3goXeSVc0Pz2fKwhu+b8yYJY/P3uK0w2V3hWrlMPp9Cly04rUrsP3JzL71wDwA/w/L3Qb/16UoQPfmhCiZSAB6pVsk4ZzEYEoIUz06qcCcoFaqmwB54rBHRwC9rSZKh4BSXJrwEsgGvtDfnbK/lBIIjxvEgdY5IhR6Uz4AbCSS/oXFlZfzDE6jA0ilidueHaFg3v8pGDFGMM67Bvg==;xGoxY0UCdC3O8shib+I4lA=="
 ---

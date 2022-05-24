@@ -40,6 +40,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "New AI Tool May Help Diagnose Post-Covid Lung Problems"
+    excerpt: "A novel Artificial Intelligence (AI)-aided diagnostic tool could help overcome some of the challenges of monitoring lung he"
+    publishedDateTime: 2022-05-24T11:39:00Z
+    webUrl: "https://menafn.com/1104264809/New-AI-Tool-May-Help-Diagnose-Post-Covid-Lung-Problems"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?729286"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "y9GXa6YC1cJwKZhVTOc7X4SCSaQZwJMCAEeeTiOQyxaDRG50qoOSIAbNaiQo0VZWt0chOT46WRdBYtbRv+vpfGmXINPFDyzdDA0vb9lewzK0lcOaBYL8XBGcMC8xxXYVOvfx961+8v/40tCN0ggQR5VJhIFlLFNfuDB8+4e/2Q/MYhyoIw4SWfZ4MhSi48E+TRipr7FcnepJBwYRI6aYCxOy+ACjlRy35Y9KonudFSQpNf1UscWdGPSqO6lYKqTW0AqvU3BsLnWhEcT4PyAIUfZktTvKJh06Plw9mHrJDKzDvdnnt5Nc4zq0uiMdpzlBymhgfadWdIx/p4/eOKWZZ9yrYTS5FD41iMts12pip1o=;mXPeDcMW8UhMYYh5LHBqsw=="
 ---

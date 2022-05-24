@@ -58,20 +58,6 @@ related:
       name: Automation
       domain: automation.com
     quality: 21
-  - title: "Softeon Continues to Advance Integration and Optimization of Mobile Robots, Put Walls, other Warehouse Automation"
-    excerpt: "Warehouse Management and Warehouse Execution Systems Deliver Throughput, Operating Cost Reduction, and ROIRESTON, Va.--(BUSINESS WIRE)--#3PL--Softeon, a global supply chain software provider with the industry's best track record of customer success,"
-    publishedDateTime: 2022-05-19T17:16:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=667067"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 18
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "1cXxm4/4BjA7cmJwwp9cmT49udlT8c0Uy8pwNZywRdyryOmHH6YpcaMmAOz4Di5/2AdVAaokvLre3YBIyu1E/j8ij9k2inwQFbqCLBAYiZnxcGPf7+yNc4G5OhacU73LhDutES8P6flPC6e8/n34yE/agehoQLKSjyvoy8PbvOLz2I0eoIDwolYwNG0+aKlrB7lzHjatsoG05RpsNfyShrc4rey20RbEklAO1scQGSCekaaHIBJmMsTC0bnIuTxZq/CkCn5uukbAYNqbY/GmgRMWummsqWDfaYloXd+YzBwyzxfonc8Vi1NeA/9N07yXa9fe/zPN3nlKxA0BqO5TwEwpvqDcCkdqv6KvQYaq4e4=;2w8LTmud4Ge79GFtFaUq2w=="
 ---

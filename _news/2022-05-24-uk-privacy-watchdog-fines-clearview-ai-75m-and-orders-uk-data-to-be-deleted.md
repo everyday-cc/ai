@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/uk-privacy-watchdog-fines-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uk-privacy-watchdog-fines-clearview-ai-lb7-5m-and-orders-uk-data-to-be-deleted/"
 type: article
 quality: 84
-heat: 275
+heat: 285
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-91743478,imgsize-84710,width-1200,height-628,overlay-etcio/uk-watchdog-fines-clearview-ai-9-5-mn-tells-firm-to-delete-data.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "The walls are closing in on Clearview AI"
+    excerpt: "The controversial face recognition company was just fined $10m for scraping UK faces from the web. That might not be the end of it."
+    publishedDateTime: 2022-05-24T11:41:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/24/1052653/clearview-ai-data-privacy-uk/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/24/1052653/clearview-ai-data-privacy-uk/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/24/1052653/clearview-ai-data-privacy-uk/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/AP_22056575357716.jpg?w=3000"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Facial recognition company Clearview AI fined £7.5m for illegally using images of Brits scraped from online"
     excerpt: "The company is accused of illegally scraping 20 billion images of people's faces from the web without their knowledge or permission, and then using them to form a global facial recognition database."

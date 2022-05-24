@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/pwc-cloud-and-digital-transformation/20
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 661
         height: 545
         isCached: true
-  - title: "An Artificial Intelligence Remedy to Ease Traffic Jam Madness This Summer"
-    excerpt: "With road trips and domestic travel set to boom this summer, everyone is anticipating to see record levels of people on the road in 2022. While traffic"
-    publishedDateTime: 2022-05-19T18:01:00Z
-    webUrl: "https://skift.com/2022/05/19/an-artificial-intelligence-remedy-to-ease-traffic-jam-madness-this-summer/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 16
 
 secured: "JcXgOoo5WNlC2Hra5JBTMi63sH5+LVW4Qad3fZ/mA7O7ZGwQX5VbXwIVwa+CKYstxNFPiaWwt0bx105On0v99DBNv2RGIIe5vdHR+PewVviYb/CIJtcvNXVxGIu4NneR5X0E54od5aetkUtaPojeSFecbqaWteIvbUpJd8WINCwIPbWppGk/u9enzSMLTq0P5rZ6IkTI/8sBFGNGBpN3SoNBDe6+XyqKEA0SE38b3fcSClYH9zfNSpDySbM7OXSkqgXJ9Rc7yiCnBc+/nMxq7+CGjpbKKMGWrYVKHHBNa/ay7kkoUFkoC0RWrJJ5xMcdiXpsyA+efapIDNeps39ZUYiUorej/2LsgePmHOu7YLafnRDa0duvMS7ENbolo5kdf2I4C9wg0YchCkLFn1smlYS57qKcLR3Aqovq7FPo3j5IqJvuzhtb/yYjfawAgXTCbrPY8bvRsn80LH7cVXU4kTK9EzSDSUby/oC6w4rXqdnZCFvhYmi/Bsatpvvh1Ypv7mKMTMttKc2GIW0zFU58Mw==;oofG5WCaaILiB0/yAUWnTg=="
 ---

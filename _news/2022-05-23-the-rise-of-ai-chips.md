@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/ar
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece/amp/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -27,15 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Patients recognize role of artificial intelligence in diagnosis, treatment"
-    excerpt: "In a patient survey, 66% of respondents said AI plays a large role in their diagnosis and treatment and thought it was important."
-    publishedDateTime: 2022-05-22T12:22:00Z
-    webUrl: "https://www.modernretina.com/view/patients-recognize-role-of-artificial-intelligence-in-diagnosis-treatment"
+  - title: "The Future Of AI Accountability"
+    excerpt: "As Uncle Ben says in Spiderman, \"With great power comes great responsibility.\" This is one of my favorite sayings because it holds true for every walk of life, especially as a leader in the workplace, where you are responsible for the success of the ..."
+    publishedDateTime: 2022-05-24T10:22:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/amp/"
     type: article
     provider:
-      name: modernretina
-      domain: modernretina.com
-    quality: 15
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628b8de7a18d8436b8782e88/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Remarkable new AI gives us a glimpse of the future for filmmakers"
+    excerpt: "Put on your best gravelly movie trailer voice and say \"Imagine a world...\", because in the future, that's how you'll make films: by imagining a world."
+    publishedDateTime: 2022-05-20T08:08:00Z
+    webUrl: "https://www.redsharknews.com/remarkable-new-ai-gives-us-a-glimpse-of-the-future-for-filmmakers"
+    ampWebUrl: "https://www.redsharknews.com/remarkable-new-ai-gives-us-a-glimpse-of-the-future-for-filmmakers?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/remarkable-new-ai-gives-us-a-glimpse-of-the-future-for-filmmakers?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 57
+    images:
+      - url: "https://www.redsharknews.com/hubfs/8-jpg.jpeg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Why the proliferation of AI technology is important to the future of sports"
+    excerpt: "The driving purpose of technology is problem-solving. In many cases, humans are already using tools, or have created systems, to address a problem — but there’s a need or desire to further improve performance or productivity."
+    publishedDateTime: 2022-05-19T20:09:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/SB-Blogs/COVID19-OpEds/2022/05/19-Rajan.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 35
+    images:
+      - url: "https://www.sportsbusinessjournal.com/-/media/Images/Properties/SBJ_Atlas-property-graphic.ashx"
+        width: 596
+        height: 240
+        isCached: true
+  - title: "Can Robots Learn Law? Scientists and Theologians Discuss the Future of AI"
+    excerpt: "The conference was organized in three parts around the concepts of expressing, defining, and understanding intelligence."
+    publishedDateTime: 2022-05-23T13:17:00Z
+    webUrl: "https://www.ncregister.com/cna/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
+    type: article
+    provider:
+      name: National Catholic Register
+      domain: ncregister.com
+    quality: 33
 
 secured: "XMeCT4l7MiGBU2TJwYi+4oLgkg1G69vJGiifVlO6z17BHsxX7Frn8hZZOjNs+2FA9p7yuE4qU6KwA0Yb9Td6eLonNXITWOA4BlugtnsUkntCyrUZmEeYqZbQcoAWHe4ep/2FcF9su7tGSY80F8mI8Txs/YZf6oiDx524dVU4nuGpk1lrfMB7xBhPW4qBtUz33DEi/Vy8KFcrOYKE2O37pboHt4DYADtwScxhYU1NxvQ+RSSK+qub/OoJPQ7urtpiqnW6C4brb2J+AQBqwbQorxsWeXchOqr7gYzIg4jo8Tl4jsIb2kg5wq82OEaAc8hZ1mretdDwUtKvO+qenPDGBo+Xfen+lwQ269r3l5AsKueK7qb0BjMUOMhh/YKYQj/AtbvPJCPRtFBUfrdGZyytcAXG7aB5WBvbfVybTxicxaF/YAiSKKqTCo0DQasvazWS3bowOqmo8dR7hPYuXDWJzQmIBEdA7GOUtgHEPkgCv1txwpYmMUPR9PP5Ojk214i+JgtRsEE4iI+O8tp8bgsJkQ==;OJ661qmzz7ACaYPTDPyyGQ=="
 ---

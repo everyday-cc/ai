@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3178385/china-robot-un
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion"
 type: article
 quality: 101
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       name: Automation
       domain: automation.com
     quality: 21
-  - title: "Softeon Continues to Advance Integration and Optimization of Mobile Robots, Put Walls, other Warehouse Automation"
-    excerpt: "Warehouse Management and Warehouse Execution Systems Deliver Throughput, Operating Cost Reduction, and ROIRESTON, Va.--(BUSINESS WIRE)--#3PL--Softeon, a global supply chain software provider with the industry's best track record of customer success,"
-    publishedDateTime: 2022-05-19T17:16:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=667067"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 18
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "0rKbqSUYrtqnIh8nvE0eVaigTcyU7uXl+bwOXU5rQ9CBh+t3/Ilzh4/qzG8d4As4jAfMUatZNcWUGc4ZU6qQA84691P3yt6YOYnWvf2j7ppPwjT8qAWcLkxyLJ3rQ2i+ORuX8u3G16qSjYE0UUB6OIpR567rhEsiVan9Zk8JQCn/rmZtgwWgnG6PJXt2PjXb0wnpZgRCYhxdnnjjaKK9vPL2FsJ94pp5o9gb1OPildMv4Yu+2b4Yc79P241h/t9WwcaUmsI6x70eGPCxF9F/GgYwlAfM3S0ue2QMHnrMkqy7++/W+04MCdDuajv/JLFy9Y5Yce2NtHmNU5gt3hB4JHLDR7jjCXTVIIavWDexfnk=;rfdp+wJVFdrH+/IlgZvg/g=="
 ---

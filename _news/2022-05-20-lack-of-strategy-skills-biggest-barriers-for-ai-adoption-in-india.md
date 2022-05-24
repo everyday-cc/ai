@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: cio.economictimes.indiatimes
@@ -41,6 +41,20 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1647829989.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI To Make Roads In India Safer To Drive"
+    excerpt: "Artificial Intelligence (AI) powered solutions, such as collision alert system, may soon make roads in India safer to drive. A unique AI approach that uses the predictive power of AI to identify risks on the road,"
+    publishedDateTime: 2022-05-24T11:58:00Z
+    webUrl: "https://menafn.com/1104265618/AI-To-Make-Roads-In-India-Safer-To-Drive"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/24/I_6679aimage_story.jpg"
+        width: 400
+        height: 220
         isCached: true
 
 secured: "S3S9RFlog9CbKbhsEyTgFlul4UO1/cpNyKhZGFHv4/j1H9wkodXIRuaOQasDWCKI0W/YUaX9I5Y+cbMmWU3KLNn7OjN3OFTVU8MkKakiVrG8LzGNrOdDRugQ39AQSmgYMM3zlHardvg7JOr5FMl3k15z7l49J5B8YGK1QjyNOHspY1zQiMkUTJNvRLPdOiaorbUh5dhPiVfgIVGAzGKi5KteVfDFR+L7uxJRyN87Y0VzhAaKGNcKXXNTaHG9IHZfOdegl3tILn3aF+jZvsL9KNEKqGAmzRtcJKlLlQtzf2Y+th7FsiOwUoa9ffTF3A+9n1b4t7qPmN6jNlqLO7m0C7qa7GBIVvD/zAeoaGoZi1I=;QbRmWrqdL7sP3KVZXNDkBw=="

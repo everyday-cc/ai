@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-02-21-chinas-driverless-dreams-troubled-by-us-chip-dependency.md",
-      "title": "China’s driverless dreams troubled by US chip dependency",
-      "excerpt": "Jidu, a joint venture between search engine Baidu and car manufacturer Geely ... Zeekr, a unit of Geely, has partnered with Intel’s Mobileye to launch a self-driving car in 2024. And Great Wall Motor, another of China’s biggest traditional carmakers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "originalUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3d7ee15-7663-4701-8bde-d6019e7d4297.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "publishedDateTime": "2022-02-20T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-02-19-ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems.md",
       "title": "AI’s true purpose is freeing up humans to find the biggest problems",
       "excerpt": "We start with a reasonable intuition (abduction ... Take chess and go, two board games that have received much attention from the AI community in the past decades. Chess was once called the ...",
@@ -1376,6 +1332,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-the-ai-edge-chip-market-is-on-fire-kindled-by-staggering-vc-funding.md",
+      "title": "The AI edge chip market is on fire, kindled by 'staggering' VC funding",
+      "excerpt": "Chips to perform AI inference on edge devices such as smartphones is a red-hot market, even years into the field's emergence, attracting more and more startups and more and more venture funding, according to a prominent chip analyst firm covering the field. \"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/?taid=620846816194ae0001832e64",
+      "originalUrl": "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/?taid=620846816194ae0001832e64",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4a03f15aa155125bf6d4225a64dec7130cc41157/2022/02/11/3b39c6a4-5a47-4471-a8b2-244eb6842a30/edgecortix.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/",
+      "publishedDateTime": "2022-02-11T04:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],
