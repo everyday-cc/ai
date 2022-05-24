@@ -2,7 +2,7 @@
 name: "Trint"
 overview: "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com"
 type: "profile"
-heat: 41
+heat: 50
 
 website: https://www.trint.com
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=CP-0vxaBKbo"
 
-secured: "6EP2KlaTE3/UOWFpkSJBthtUJELS0uCvH+h+rpAOkRmZorcOQoZSWrWDy2CYOScDO3Xpf6fusdFV7xqtDw3nc1c+/dxwP8xgA537YBVmgvNxbYP7jxBWySBkQhJIB9l7sYtj7vH65CPY07jzysZ5HHiw2aGo51PtyABsHS/ZtpmwYKI+Rv8k9YtbGUFfDHiTYJAnAfe3CBiLodBy0cQQkY7Ci4eDtS2463Jv+xnUjX9v3r65dZJno9GQX/78kD2VISGLlJz29eklcH3HFYNdKXV/PwNkJkrImwXXkpw7Pdrf5oLP3/VS00rqdsiPqcxFWF0F+9uha+UIHZX2fAWA8b62tGsMlLcydi3Ny4Xph59s1K3LeeCvuU4GqfMSYakUp+yY+0EwQ0HIXhdcgQmOVrqzoerzsUjswoddRyUBxf8=;byCGW1cgDIeAhqKYPPVpGA=="
+secured: "wWNt8RiLhyt/HflplwFUbUsjs2bTjP0zZx3AIDa+RiadWsn12ZhAM3KYqbHcJOinxNE8+UqvxOIIvBTnayaghUPmb0Qvp3vNKLQ1phC0WYnWkgLLXX/g2I9ICo4jTbe39yLWH64g/ultjr1CR4MqUH9DaglqQOxxkbgLwdjx4fw1525YA6w8RggR6nq1tJRjKLcSj9pKl4Nk72wZCEVyEKpCK7KjVExOZLfol3AAWF0s+Hk9kWwY6hgj2FERESsEzehMNCoX4HI2PtiUsMS8/5l5Go0jEj3SNGpwQxCDDxsMaERCURcaUU06+NpajngV8r428nG2VOrP1Rv/EF++2qNld75Xi0xERe2K4GkgWnL7tga7vE3XEozWSdtF13HO+w62aoXoWqjD3GQN4nz3D9AqY6rSP+OkbjZ96c5pJVY=;m/kpuEmm0gwZqcbPgwj20Q=="
 ---
 
