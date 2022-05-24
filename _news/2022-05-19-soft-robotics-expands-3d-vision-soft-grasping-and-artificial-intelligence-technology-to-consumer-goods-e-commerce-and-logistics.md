@@ -19,6 +19,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "0IahWcKF5NwzA+m9nfWQIY2j+SjadwVC4jnq+ZP4fWOTDAGyEZs50w3lZaDENoeaUVUHPccIf4+pkZ6jacuATMAGx9ujHDT2+15UbbZ3KDvAVg1elUqqxosqCWDq5zJopqxJBL071FwRg8GkhYPpDg8UI7f9w6yNso73bzwN2QZa3L80c4WME377L/KOtBnLYKXRsYpVYVlELg2soD7RHxb3D6bfcC07T5AeQAauMK9goDGaSKvTadQFJ8WacSpKmLW1jnNkh/9C4DC8KbYqCHchVhUX7hdYiICl3D/TKTwLCx32IHZgRjogSmjlCgPJBw2Irq6jqJ7H9oBW5IaRiroLTzv7VrbcGoBzFiKmm29igDQxeyW33+oD+oYQhCY8n7Vp+VL+snncANEwJzf9E7G1/UFCIySuLvNvumEFOZy8Hzv5q4fEYO1mxDRH9NGw2kH7mQCHxwGtOMlGVCKTG277I6E00x1fWqMSOTFvEXd6lhDHso6q1WnE77/VWe41E1b7yP4gt5Ouqhvp2kGzzA==;yNopTN6t1VbeMCYv//1nVQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
+    width: 400
+    height: 271
+    isCached: true
+
+secured: "lkXiUxJ80rgdSlUYyvwrzY+tiCw0UGBsxANPLQpL1jVxBesD1UVVWFt5CAHVQXUNXDfk5KNsKZWLaUr6otyYRZfP74tiyU70BZG/fjk5jJzSnlVI2mAY/VMNnx7Yf5D5XQZcJPlntc/lSmW0Ja3C19RqwBvnBhdpKkrEyYxFJf41Kmzi98J7c5+v7fmQ2laaE8TpdPN1aV9u63gqQq1GOjgrsuGen6Z+dyaxzXTYqIOK/X1UboL8aOWgaE2G5KlmqVK1U1NjqyuO7zr6P9nfxSZXwHiX0cVyRlvieJxLhJHOyeBl3GvTGjUWyNctSGY+o7bRpXXsWRH8dY5BAfzywcuMnf5HJPE8x8+9Xca/RR8=;KGIrQB7Un3cgfWDsLDf+sg=="
 ---
 

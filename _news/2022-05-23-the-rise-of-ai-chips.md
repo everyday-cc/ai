@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Why the proliferation of AI technology is important to the future of sports"
-    excerpt: "The driving purpose of technology is problem-solving. In many cases, humans are already using tools, or have created systems, to address a problem — but there’s a need or desire to further improve performance or productivity."
-    publishedDateTime: 2022-05-19T20:09:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/SB-Blogs/COVID19-OpEds/2022/05/19-Rajan.aspx"
-    type: article
-    provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 35
-    images:
-      - url: "https://www.sportsbusinessjournal.com/-/media/Images/Properties/SBJ_Atlas-property-graphic.ashx"
-        width: 596
-        height: 240
-        isCached: true
   - title: "Can Robots Learn Law? Scientists and Theologians Discuss the Future of AI"
     excerpt: "The conference was organized in three parts around the concepts of expressing, defining, and understanding intelligence."
     publishedDateTime: 2022-05-23T13:17:00Z

@@ -1,20 +1,45 @@
 ---
 category: news
-title: "Maxxess adds facial recognition authentication to eVisitor with SAFR Integration"
-excerpt: "Maxxess has added advanced facial recognition authentication to its eVisitor visitor management solution for access control, with off-the-shelf integration to RealNetworks’"
-publishedDateTime: 2022-05-24T13:38:00Z
-originalUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/maxxess-facial-recognition-authentication-evisitor-safr-integration-co-9972-ga-co-1554987129-ga-co-1617794190-ga-npr.1653381195.html"
-webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/maxxess-facial-recognition-authentication-evisitor-safr-integration-co-9972-ga-co-1554987129-ga-co-1617794190-ga-npr.1653381195.html"
+title: "Maxxess adds facial recognition authentication to eVisitor with SAFR integration"
+excerpt: "YORBA LINDA, Calif.—Maxxess, a global corporation specializing in security management solutions and innovative technologies, has added advanced facial recognition authentication to its eVisitor visitor management solution for access control, with off-the ..."
+publishedDateTime: 2022-05-24T14:40:00Z
+originalUrl: "https://www.securitysystemsnews.com/article/maxxess-adds-facial-recognition-authentication-to-evisitor-with-safr-integration"
+webUrl: "https://www.securitysystemsnews.com/article/maxxess-adds-facial-recognition-authentication-to-evisitor-with-safr-integration"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: SourceSecurity
-  domain: sourcesecurity.com
+  name: Security Systems News
+  domain: securitysystemsnews.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "1aaOHnd88HWN1DY2bqA3fImbJpctJyL22uEd0GcnMfNWHpYJEXpciOCpPdqYnR1+tYJZyKRgCufIoP0vjbHzkQmpqN0EtHGHDiLml6NqBXlrmZSOlbfb5iY1pr5wqJCqeg8eDzIKOTPxXZcnc3GEGNEfffsPZWM4MnayZxI3jn+14VS2s4I60/387MIqHiM7yU6ae8QOvULGiTnjBsIt6SC3aORvNvcUdMalhxMc5HYHQRT2cddSkQLSJzOJDMNy7Vhyf025qSmGEd+gRR0QUtXFAGMpaZ13SMS273950rcAV8AnA5hL7401gE1GBUHWx2wDm/g4rgUZO16G+k+avqDJwvTIUr204+1C//R/IEs=;xamwV50gtBUYCKxXNcGwFw=="
+images:
+  - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
+    width: 1200
+    height: 627
+    isCached: true
+
+related:
+  - title: "Sri Lanka's National Institute Of Business Management Installs Facial Recognition System"
+    excerpt: "National Institute of Business Management (NIBM), one of the leading higher educational institutions in Sri Lanka, announced on Monday that it ha"
+    publishedDateTime: 2022-05-21T04:12:00Z
+    webUrl: "https://menafn.com/1104250772/Sri-Lankas-National-Institute-Of-Business-Management-Installs-Facial-Recognition-System"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/21/CG_390a4image_story.jpg"
+        width: 900
+        height: 600
+        isCached: true
+
+secured: "fmQnK5EaCjsmBM1OXRisQCmqIip5G/ZFftSs1+hXfYpfZOg3R1PV/qJLqRlI5mGecLW6FVFt+hodZEwg6z4VyYGELWMWtLggmitN0rkYCKEcwX8qr0vEdcP2ZwpcC9P61obvooXa4vT7o0B+OeYRi3czIRH+DLOAMQWkkrTzLdcPtGa09StEkfabfAZcgIxer+VqAmjAwcivEQvhJhzI+T8C27oHUJ2mfrL2duaPZaLYzqBpWnTe6o8n4rWBmkoEMgA5h5uPV2NbxSHGWQFf197E1nb6N7JCbNgdCKO0hthxNnTwPfE2luX041PNRrGYdI6j/3Nv0RMG/EEQPceLV1b0q4I9TjR57+uypdbf4t8=;0dHyYOQc4EQPdnYRUUcuhQ=="
 ---
 

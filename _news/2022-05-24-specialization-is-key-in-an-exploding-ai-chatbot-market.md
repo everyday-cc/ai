@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T13:01:00Z
 originalUrl: "https://venturebeat.com/2022/05/24/specialization-is-key-in-an-exploding-ai-chatbot-market/"
 webUrl: "https://venturebeat.com/2022/05/24/specialization-is-key-in-an-exploding-ai-chatbot-market/"
 type: article
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -17,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Exclusive: US tech investing giant Tiger Global leads $14 million Series A round into AI chatbot startup Zowie"
+    excerpt: "The startup aims to transform customer queries into sales for ecommerce sites and counts L'Oreal and Avon among its customers."
+    publishedDateTime: 2022-05-24T10:27:00Z
+    webUrl: "https://www.businessinsider.com/zowie-raises-14-million-tiger-global-and-googles-gradient-ventures-2022-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: "https://i.insider.com/6287b8db8641770019bd7aff?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "FNo3wzHf8D6Et6zp361ZmV4Z+9i+S++SWLKL3K9S+hZUfu70m0OMkG/9G95h+BxehYtelxWi4FgKwZInOlTqkRcFMLYQPd+5M3EQ+VU1Gh7Os5t61IrFHde7QUihUpQ8hq90aozVdwhXycXlEmtfcahXWFgWY4RiQ8u7lJD4KWbhwSooa+vBUZvhxABJK6dO7e9xujh5CEC03SPEwG5PR3P5I6Hc9RE6DAKBeb+nijfXKqVTul+lDRz4DjvEgHE1B/0CJh+aZNRX70Uu9wY2justRm4kG1Y+Kk3JC/fweJjcwGMaRstPLnrIceemBUHBItwWpMFbhqrbQyhBVCfgPBa2sMCSIdDjTe9P0yLvAd85KQX4ugp/rLPjpPaERuKrYxz3GPeP4gxt9V2wKEOTzK8Ao+p76eLN7eAc53+3hq3z13Sa0eHX0dLONA4WuTKxNGEPrVYnzvcCE2iKkoy4qbdpR7aI4xHEamTdhGXsaIVOf6fT10gnfMzGBowVx7P21dhLBopRQ+fCixaMsDfFXw==;10XvNB8b8Tf0afzspPn/Hg=="
 ---

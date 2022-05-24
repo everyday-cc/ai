@@ -30,15 +30,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Natural Language Processing Market Global Competition Data 2022"
-    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the highest revenue by 2029. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2022-05-19T20:16:00Z
-    webUrl: "https://xaralite.com/152200/business/natural-language-processing-market-global-competition-data-2022/"
-    type: article
-    provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 19
 
 secured: "94GTGKrJ17VnOnv9fd1Z3H4BniGal35SHYXcyRKBPSf4lfBQ6xGbbguorn//3zFfw4Hho18h2F565gCGoEYLgWzMfpLykmD2X+gaI8eDUq7HxsrlBjGQImjB9SwyAHn54r4gmSbeE5TkTMpEjls9t6Hz5TQQIVASR8E2EQOTjz9gd1aDtjgMaLmNvX2C+9siwT1UxiIxzczUQeW5SwCRmFrGCMlw3+pOVQ292Aq/RkQdCNRfLmqy48FX5TV88uCcPHCpVWquc6JzevRXOM+TEZHA0sv64NJzbcgel38tq8fevthas85alOWHf/nPKVGlArDeCEZCFRgrWesT1/gjYhyteGZAu3AfgpW1AKSuIpM=;HjKHmtsRYKj8BV36+x5nog=="
 ---

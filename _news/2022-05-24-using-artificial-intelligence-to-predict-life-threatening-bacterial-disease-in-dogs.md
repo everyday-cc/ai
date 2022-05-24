@@ -38,6 +38,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "This bacterial disease can be deadly for your pet. UC Davis is using AI to catch it early"
+    excerpt: "Veterinarians and researchers at the University of California, Davis have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs using artifici"
+    publishedDateTime: 2022-05-24T11:00:00Z
+    webUrl: "https://www.sanluisobispo.com/news/california/article261712047.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 10
 
 secured: "Knk5b7daIQffm9Ttx0b6OzcniZePBSrXIV6iMJ1XVucULSY3iFE+or9ltMTkz5ISP69rewjxzt1LKqykt7E+pmn7E6+Y2l9SOC+htvYYIvMzj7/s5H6CSsnqhNCw4C2V+foUpdhIXlIKG2YZitmSdGl+7u0NSuDv8LOicFjMwMOB18/UKxf3ePjbBwANffPbwCR2nKHf7p1YnTZaElP/2aeL3cPdjhpR+zG8Q5CL/c9cGySyXilXLsWyD4CmpKCZmZFUYCwAhgVgH7tri4l+F8UVOhgfCtIAzJNa0VG0McwmWN0jl19qJ0JWJMqCkqVycQt1yInw3zfFWkNYlwbQVqAWVFLBG5o9UqMynIemaBbh4aGolr5pM7t/obn7TuAP2QrqhKIGnTt9YFQO4RIq4KPJUqZcaSphse8mCFtPlPCtFKlq0miEL9RRhgZfKa4ki2Iot2K1PxdDjVvP4rXzLGv3YKYWSBlZZ/TYOUagT843uUyydByDflT7xJYlMB2KCEdcZ6pv3L5UcBwSeUUkBQ==;LvegZVKm6lxFSnMyjIIssw=="
 ---

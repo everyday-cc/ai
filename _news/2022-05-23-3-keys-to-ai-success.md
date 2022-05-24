@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/pwc-cloud-and-digital-transformation/20
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "3 Questions to Ask Before Building AI Into Your Business Model"
+    excerpt: "The first step toward adopting artificial intelligence technology is taking a hard look at your business needs."
+    publishedDateTime: 2022-05-24T15:08:00Z
+    webUrl: "https://www.inc.com/ben-sherry/ai-artificial-intelligence-questions-mckinsey.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/ai_503655_uo22qs.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "5 successful ways to use artificial intelligence to improve your business processes"
     excerpt: "Artificial intelligence (AI) is having its moment these days. No wonder it starts being used for business purposes. The companies like Google, Microsoft, and Salesforce are integrating Artificial Intelligence solutions as"
     publishedDateTime: 2022-05-22T14:54:00Z

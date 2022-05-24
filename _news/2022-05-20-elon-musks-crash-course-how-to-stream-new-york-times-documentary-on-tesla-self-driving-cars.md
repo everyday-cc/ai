@@ -59,15 +59,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tesla's Latest Self-Driving Update Is A Game-Changer"
-    excerpt: "Tesla has released a big beta software update for drivers who are in its Full Self-Driving program, offering a huge list of improvements and changes."
-    publishedDateTime: 2022-05-19T19:53:00Z
-    webUrl: "https://www.slashgear.com/868855/teslas-latest-self-driving-update-is-a-game-changer/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 49
   - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
     excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
     publishedDateTime: 2022-05-22T18:04:00Z

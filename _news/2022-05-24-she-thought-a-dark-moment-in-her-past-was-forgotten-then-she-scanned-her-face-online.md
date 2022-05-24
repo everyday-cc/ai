@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T12:37:00Z
 originalUrl: "https://keyt.com/news/2022/05/24/she-thought-a-dark-moment-in-her-past-was-forgotten-then-she-scanned-her-face-online/"
 webUrl: "https://keyt.com/news/2022/05/24/she-thought-a-dark-moment-in-her-past-was-forgotten-then-she-scanned-her-face-online/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KEYT

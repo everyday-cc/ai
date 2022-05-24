@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-20T16:18:00Z
 originalUrl: "https://venturebeat.com/2022/05/24/vultr-brings-gpu-options-to-a-wider-audience/"
 webUrl: "https://venturebeat.com/2022/05/24/vultr-brings-gpu-options-to-a-wider-audience/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

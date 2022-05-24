@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Brands matter! Why trusting an existing brand can lure you into buying a driverless car"
-excerpt: "But the idea of a fully automated driving mode, where artificial intelligence takes control ... in the United States do not feel safe in a driverless car. Even though consumers are sceptical ..."
-publishedDateTime: 2022-05-11T06:48:00Z
-originalUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
-webUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
+title: "Brands matter: Why trusting an existing brand can lure you into buying a driverless car"
+excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ..."
+publishedDateTime: 2022-05-11T13:11:00Z
+originalUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
+webUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
+ampWebUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp"
 type: article
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "MuRAwTemVRpj0aNpMtPbzwCDfeb2S7NcwS9fwKaGihMA718Io0z0ZVBEnmmbGpLalualoimttCSJ68M+kpvljkaC325MtaLkyl+Mwzr1Eh8DCuX4rf5DDaxcHLvVPBUmMl3YTf553RCwRrqlvskywye2WvGVuePJXtq+ZwYMe7tsc9/TyPPHeQH3fgfVnmOMqlFrtYVjcNlv2eWaJdUK2jpA4ZRplrnS7nKepbm9NEnBFwZbTtLHKAiVUrTi6AvRybe/a9b4x6nr1t0Z2fOHCEEQQztzv0IATdc/LVgdZsn+8XxLrnGo2cce+FxojY63aNQSwp+C942DOGRTx8KUmBI4GH0/Ry3kb7ir2CWs7X4=;vq6/bFBDYDa+fbKCpehXOg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/brands-matter-why-trus.jpg"
+    width: 1356
+    height: 668
+    isCached: true
+
+secured: "4vm6hJx9EbkVHvaQibf4Br1OFuD0uYCcFQR4HTB5v/FNjF/SP5PF7iJAZao4cbE9m7nbZf6I79/1ykWGRFGetp4zhyoS0mHZZ5xptzDo3EVf2UdXxMRDadz2yYUGswDiWRfKMud+VyPqGbRbE19Fdc8oHvhYxmHGfQYvhdI6DF1dCJTBvxE1vdNsr+Ws6no677/PAUxt/UywFakkSHHVOjkGM1Fq3IJSP9pLf2eP+TIM4NFB/yRnw3GdPb2EvfxFSyGdb7GAeHMqy8YFnCA3L8iRn3WipxwfomRrqiVNni4eSFs4XPxFgn0OUsdHlARV/PsaSR0K5NQwcTd1RL8chKg+2tIjgFEAJ6y1ILQfKOc=;/3+byGo5a9cPyb3tJH52mQ=="
 ---
 

@@ -39,6 +39,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "‘Machine learning’ in beverages – Recruitment levels in Apr 2022 – data"
+    excerpt: "The proportion of beverage companies hiring for ‘machine learning’-related positions rose last month, according to recently-released figures. A total of 30.6% of the companies included in GlobalData’s analysis were recruiting for at least one ..."
+    publishedDateTime: 2022-05-24T12:59:00Z
+    webUrl: "https://www.just-drinks.com/features/machine-learning-in-beverages-recruitment-levels-in-apr-2022-data/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 19
   - title: "Artificial intelligence innovation among military industry companies has dropped off in the last year"
     excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
     publishedDateTime: 2022-05-23T18:04:00Z

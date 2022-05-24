@@ -39,6 +39,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Artificial Intelligence Writes Fanfiction: The Next Generation"
+    excerpt: "An AI writes an epic fanfiction about TNG, and other dimensions, and aliens, and warp cores, and the Borg, and Worf rebelling, and apparently everyone wishes they were dead. GPT-3 is an artificial intelligence language model that can produce human-like text."
+    publishedDateTime: 2022-05-24T15:18:00Z
+    webUrl: "https://archiveofourown.org/works/39181863"
+    type: article
+    provider:
+      name: Archive of Our Own
+      domain: archiveofourown.org
+    quality: 17
 
 secured: "KdH21V+Ax4apOgW697kSzlvwSPG1QhuTdaI7Br/hc8u3dBBIvcpiiyLTxuWFhIEQHl8iiH5Y0XLRIZBb40hn7fIPNe0xLatt4fOSHgppuc2FeGQtB6wc/LeF1Gv3y3xXep/3iRRBXsXvTKS5c/W7gsu4xxIFGyT88P4YDorpjWa1c9gDv2KAyNlRk16mCT1uUo7xbpyWJrRmF/DMxPH9BkeIO98amBrGcnkWfAdaA2OmELo3qPZ4gmaDWGfYwYQBF1rtxULu/XmV6/1dyEKJ6lEKj8JKYchTXsXre40lNlhTw0Ij5m8OYDbYzRKV/ekf7c99/h15EB+ZpkbSN8LutNJJzJuLn6bMwedOF35iOHXyCrOodhVPn05kekZpi3kGHxcXmP9MEQGzn2uDGVQaHwLYXyBcyh5QtGV1lI3ww6d1Sc5IcbNLSaB2X+hDHIKBuL48qs1zF8ApS+Z6uvD4+JV7rMsq8KVQeE3qxobaQum9mh3fQUjIQ+Jv+scpAHdkjqwM3tfv20kL3MiLlFholg==;s9vlSKXKm9brk7vyTnmA5g=="
 ---

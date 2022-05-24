@@ -1,19 +1,33 @@
 ---
 category: news
 title: "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers"
-excerpt: "TOGGLE AI to offer commission-free trading and subscriber-exclusive options pricing for new IBKR usersNEW YORK--(BUSINESS WIRE)--TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers."
-publishedDateTime: 2022-05-24T12:58:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=669020"
-webUrl: "https://us.acrofan.com/detail.php?number=669020"
+excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE's award-winning investment platform who are clients of Interactive Brokers,"
+publishedDateTime: 2022-05-24T12:36:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-toggle-ai-announces-zero-commission-initiative-with-interactive-brokers"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-toggle-ai-announces-zero-commission-initiative-with-interactive-brokers"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-secured: "vdW7oMtupyL+IaeXVw2UmxHpuk4xiUflNgPiyxMXoY3EzC33bQpik/wIceevj9aWfISXRh/vcc8Bo+zIAEISFoJYYJUXn22jsPgDkkav4bHKlEeVzZya6Twn9KDNPpk+EVlwv0k/eHsSjueWuml8kxVuCf0GdX0izxOU3R4huILrssROAq2VzyGdaRZ6PwW9j0bFl71kx1I2solkyDJUN2+ByGD4K0mhM9WdVFqiINmWvTTTYYSPjbej3lOH/Zi6NhQUdoKU8zmw95gSRTYXYRCD0gwN/32hkGFZvOn4YpNVoYIPawAjnUALMpLnIeVhhQLCt8YPuX33Es8KcHUy7r4Yc2uvEDMkI1E/skIbAI0kbPUf2HekDZXOGxUhi1JNh2EnRoYpuWI35B+akogj2KRY9/vgFCc+taj8x3dock+Dh3EGvQhVnGaME4ajymUJPUIcMNUG7zhgLbxeaxSuhbN/VPHrvH2JKrDT2DE8PvTpoi8DO4qOzzmHIy45GOPvQITjQ5fRAD7Q4KXnZyVtrg==;ahLLZSwM7fwKhSNDgX6n9g=="
+related:
+  - title: "How To Make AI Marketing Initiatives Actually Deliver"
+    excerpt: "Trying to decide on channels? How much to invest in a campaign? Which demographics to target? AI can ingest the relevant data and then produce forecasts and analyses to help you make the right choice."
+    publishedDateTime: 2022-05-24T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/how-to-make-ai-marketing-initiatives-actually-deliver/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+
+secured: "m4T7irPYbJy3lF8Le9wOVxlFG8I1XvollMdKwesEvnf9z0RNZyrkArDrlwOXi16BJXOK4rPxUHh+mbuFWRLwdmiuYz09oeDQ/XnS9cgg0qHZSuVBNWXYYehu2sm90RkplIVUri613XeQFB3FdYDG6mu3CHOHrwdsKbJRv+qLPowc4AgLLDa9pJxUF3mYZ+MwCOhV5VWS2ATbjAyR0t0t05moPDOY63W6LOB8qKn+o7wGSNjagZ/Y+SgxkH0pSobKne6zr76iTiAF0IwISQeuZZeyw/XyLaUmqgHdGybG8Q1xxn5IvZGHegV3DfOG5vdqgULvnmJQj9fvzM5n2Tjli9AXIxBaNZknByIv+C78TJA=;5AtfzQpfNlPwiEj8mnryVg=="
 ---
 

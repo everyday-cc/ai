@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T12:53:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-5-24-stmicroelectronics-releases-first-automotive-imu-with-embedded-machine-learning"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-5-24-stmicroelectronics-releases-first-automotive-imu-with-embedded-machine-learning"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Daily Herald

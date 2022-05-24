@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Says It’s Closing in on Human-Level Artificial Intelligence"
-    excerpt: "Google DeepMind lead researcher Dr. Nando de Freitas boldly declared that \"the game is over\" and that as we scale AI, so too will we approach AGI."
-    publishedDateTime: 2022-05-19T19:57:00Z
-    webUrl: "https://futurism.com/the-byte/google-deepmind-agi"
-    ampWebUrl: "https://futurism.com/google-deepmind-agi/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-agi/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2022/05/google-deepmind-agi-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Google’s DeepMind says it is close to achieving ‘human-level’ artificial intelligence"
     excerpt: "DeepMind, a Google-owned British company, seems to be on the verge of achieving human-level artificial intelligence (AI)."
     publishedDateTime: 2022-05-24T02:06:00Z
@@ -49,20 +33,15 @@ related:
         width: 698
         height: 486
         isCached: true
-  - title: "Google claims its AI can understand humour"
-    excerpt: "Which is more than most Americans Google claims it has written some AI code which can actually understand humour and scarcasm, which is odd really given that is something the US has never really understood."
-    publishedDateTime: 2022-05-23T10:59:00Z
-    webUrl: "https://www.fudzilla.com/news/54890-google-claims-its-ai-can-understand-humour"
+  - title: "The hype around DeepMind’s new AI model misses what’s actually cool about it"
+    excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
+    publishedDateTime: 2022-05-23T12:18:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/23/1052627/deepmind-gato-ai-model-hype/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/5c1ba6a54f0edc0b4fc1f8e89a901a0d_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 31
 
 secured: "2INv5i06mtTT9wqNSrv8K2S2TKjCVA2zQIbJ1rq/H/u0qq565Sc20YNAt/RWN47IBo6+lOgKlQhTH3/RuOiAuvVRZpMws31PXqcOC3VeJorA+JMnhzaoLu4DHTbM4i0jcTfJSPJ14k1+9eO9J8S9mnyWjELTHUf7A0juLiMcFHW86UOLi/dXVQNiOUV5c/3sfj4YDOhyk+ffOvwfygSqNRdeogpNCnNlZpzJP//HX6360C/3D1B8DL7O9ydmb13m+EKBftiC+b9frWecXUx3LhfKmUFtuUNwZCl4UlqLDuAaQAQygefOtGBsldrYqxiOSMZUQHfwkT4VQGdMBzXKB7g6RRbkpXvk3IhZu2NLOkg=;RX7DDnH7MeNLCVuFPzQQ/g=="
 ---

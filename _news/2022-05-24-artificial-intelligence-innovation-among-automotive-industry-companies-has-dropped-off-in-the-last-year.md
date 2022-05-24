@@ -69,6 +69,15 @@ related:
       name: Airforce Technology
       domain: airforce-technology.com
     quality: 18
+  - title: "What Happens When The AI Revolution Overruns The Transport Industry?"
+    excerpt: "There is no doubt that transport will continue to evolve as technology advances and AI becomes more important than ever before. We are currently at the beginning of a new technological revolution and it is imperative that we learn how to use AI in the ..."
+    publishedDateTime: 2022-05-24T13:48:00Z
+    webUrl: "https://www.livemint.com/brand-stories/what-happens-when-the-ai-revolution-overruns-the-transport-industry-11653399595211.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 17
   - title: "Artificial intelligence innovation among retail banking industry companies has dropped off in the last year"
     excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
     publishedDateTime: 2022-05-23T18:00:00Z

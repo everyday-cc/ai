@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T13:15:00Z
 originalUrl: "https://www.avnetwork.com/news/lynx-techniks-new-idc-erases-background-noise-from-live-broadcasts-with-ai"
 webUrl: "https://www.avnetwork.com/news/lynx-techniks-new-idc-erases-background-noise-from-live-broadcasts-with-ai"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: AV Network

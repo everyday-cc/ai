@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fi
 webUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance"
 type: article
 quality: 56
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK regulator fines facial recognition company $9M for illegally storing images"
-    excerpt: "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials."
-    publishedDateTime: 2022-05-23T21:22:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images"
-    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 55
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg"
-        width: 530
-        height: 300
-        isCached: true
   - title: "AI in Fintech Market Size, Share, Price Trend by Type, Segment Analysis by Application and Regional Forecast-2028"
     excerpt: "AI in Fintech Market Forecast with sales and Revenue ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors."
     publishedDateTime: 2022-05-20T11:33:00Z
@@ -84,15 +68,6 @@ related:
         width: 1200
         height: 650
         isCached: true
-  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
-    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
-    publishedDateTime: 2022-05-20T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
 
 secured: "8OjSLLnrBZCe72W3vPtEjS6QZFPYsUM/QmVpAd8CW2JW9uSfFY2nY2bARtBSUi5BDwhPQqyM4/mUQnukZyaOScRfUQ8LpJ7ARgGgMqmzMFTNuUWELqrpa/d952w96wYXsS8ffdvzKQcJmJr7Rc91fGs2865Zu0OvyKibIzlvO/Uew/PPJAGHxk8NpYXQ6otS0j+VoYAT1k5sN5WTt7MW4Z/vvIhcbCBYrRoqmxkRnW0q2gBEjXTyjUqWZ+PfuKniEf3umf8Uq/OfSgslQk9FKbbLKf3iplAHZFuOFbjs7Avs9GIQzE0X97G4EwSIaQyuxXMJsxdlYsWKG14HDQGVNvvp5tkXWKxgbqEXdZMRkZY=;P6MVEoSR/qS70yAo/NOUoA=="
 ---

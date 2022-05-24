@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T12:05:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56136788-tenet-fintech-group-inc-tenet-attends-key-canadian-trade-shows-to-raise-awareness-for-its-upcoming-canadian-business-hub-296.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56136788-tenet-fintech-group-inc-tenet-attends-key-canadian-trade-shows-to-raise-awareness-for-its-upcoming-canadian-business-hub-296.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Finanznachrichten

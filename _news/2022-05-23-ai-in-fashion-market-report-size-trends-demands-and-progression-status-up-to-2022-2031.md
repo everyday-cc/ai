@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence Robotic Arm Market 2022 - Industry Size, Statistics Data, Top Operating Vendors and Forecast to 2028"
+    excerpt: "The MarketsandResearch.biz has published the Global Artificial Intelligence Robotic Arm Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2028 research report after an exhaustive study and analysis of the market."
+    publishedDateTime: 2022-05-22T23:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotic-arm-market-2022---industry-size-statistics-data-top-operating-vendors-and-forecast-to-2028-2022-05-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
   - title: "Global Artificial Intelligence in Big Data Analytics and IoT Market Report 2022-2027: How Different Forms of AI May be Best Used for Problem-Solving"
     excerpt: "DUBLIN, May 23, 2022 /PRNewswire/ -- The \"Artificial Intelligence in Big Data Analytics and IoT: Market for Data Capture, Information and Decision Support Services 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ..."
     publishedDateTime: 2022-05-23T12:50:00Z

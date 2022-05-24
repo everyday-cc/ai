@@ -43,22 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "UK regulator fines facial recognition company $9M for illegally storing images"
-    excerpt: "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials."
-    publishedDateTime: 2022-05-23T21:22:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images"
-    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 55
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg"
-        width: 530
-        height: 300
-        isCached: true
   - title: "Defining “artificial intelligence” for regulation"
     excerpt: "It's commonly stated that there is no agreed definition of 'artificial intelligence'. This causes problems in making policies and regulations about it."
     publishedDateTime: 2022-05-24T00:15:00Z
@@ -87,15 +71,6 @@ related:
         width: 1200
         height: 650
         isCached: true
-  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
-    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
-    publishedDateTime: 2022-05-20T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
 
 secured: "xAGIknj64WQaOMk35/SYWn/2E/DGjqTNvpbST9a3bByadxVFcBuj9l/Gp0uj2CmYEfQnCd6D9OKUbll3+sb69wF5Rut8yn3rVfURlGD+J1LwJn5PItnPSKT0cH4zWQL5q9XAYwFXeiXoCEjgrZOtkPfFmTjIvGfkcZ5YuPsyZiTX5O2RNYzyRFV0PoPpAqXhmP/QfpHNYVFOrpgqFm/HEXjwrQZt02ws5x/jXjQnK34fzJOEMR7CCE/f9pdtFtLJEwA9L0YLLwvZ2HYUjSFCJ5HPCz4sph2+Nnzq+aoORHmE0rlR2CZiRbdFQ8JrVQXAvfAtdC7yoGJaKIlTecRdMBaebDVOpWlKT+XOrU8B8Sk=;NjBiakkIMjFPmkwRy2wQ7A=="
 ---

@@ -25,37 +25,14 @@ images:
     isCached: true
 
 related:
-  - title: "Sun, sand and digital dollars: PopID brings face biometrics to Bahamas CBDC"
-    excerpt: "Bahamians can now link their digital SunCash accounts to PopPay by PopID to pay with their faces at participating merchants."
-    publishedDateTime: 2022-05-19T21:40:00Z
-    webUrl: "https://www.biometricupdate.com/202205/sun-sand-and-digital-dollars-popid-brings-face-biometrics-to-bahamas-cbdc"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
-  - title: "AI-Enabled Biometrics Market To See Booming Growth | Safran, NEC, Fujitsu"
-    excerpt: "Advance Market Analytics published a new research publication on “ AI-enabled Biometrics Market Insights, to 2027″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2022-05-19T19:34:00Z
-    webUrl: "https://menafn.com/1104244298/AI-Enabled-Biometrics-Market-To-See-Booming-Growth-Safran-NEC-Fujitsu"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
   - title: "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners"
-    excerpt: "The Insight Partners published latest research study on \"Voice Biometrics Market Forecast to 2028 – COVID-19 Impact and Global Analysis  b"
-    publishedDateTime: 2022-05-23T14:26:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
+    excerpt: "The advantages of biometric authentication over speech recognition and the promising development of AI-based voice recognition technology that reduces the risk of replication or hacking provide top-notch biometric security Impact of COVID-19 Pandemic on ..."
+    publishedDateTime: 2022-05-23T12:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-biometrics-market-size-worth-4-82bn-globally-by-2028-at-20-6-cagr-/article_92bae39d-cd5d-5a57-b08d-35a00e3eb4c1.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
 
 secured: "mUsBDFY7+MK7yzrJwWrR+5DgpUDakeR6wZiklNI40EhVqCDhw2Q8uz9J628ah42JybwGbL0lj2PL0JILnLfyRjPRzHnxs/slHbROuTTnGc5YC8oQcC6hltoB5TH8jgpgCYBlzoxNlaqMDe28B1yCdrkHZajp9QwkGSk7s6e/uiZoo9slTtQhHEnpuOOGIOl+sEFYITpGCXoCwAVFpkJnqfPhVGISfxDtw4OqOl59g8RGgXfDkhy46NWSphDIIvH3Wrdnr3LPPSmi27Ifed8fDOOKmaiSwapHa+aoIaczN8THHAGSvJfsbFgJOOSbLhZNbgLcBfrR9EBKNEGvytobirBu87ZdTd5VAPesBksAiqs=;9E8uS72SYVvx+QsW7u480g=="

@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing Market Global Competition Data 2022"
-    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the highest revenue by 2029. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2022-05-19T20:16:00Z
-    webUrl: "https://xaralite.com/152200/business/natural-language-processing-market-global-competition-data-2022/"
-    type: article
-    provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 19
   - title: "Global Machine Vision Market Size And Market Growth Opportunities"
     excerpt: "Machine Vision Global Market Report 2022 - Market Size, Trends, And Global Forecast 2022-2026 The Global Machine Vision Market Report by"
     publishedDateTime: 2022-05-23T12:39:00Z

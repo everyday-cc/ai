@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T13:20:00Z
 originalUrl: "https://www.hstoday.us/industry/industry-news/octo-wins-spot-on-articial-intelligence-bpa/"
 webUrl: "https://www.hstoday.us/industry/industry-news/octo-wins-spot-on-articial-intelligence-bpa/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Homeland Security Today

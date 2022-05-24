@@ -57,15 +57,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tesla's Latest Self-Driving Update Is A Game-Changer"
-    excerpt: "Tesla has released a big beta software update for drivers who are in its Full Self-Driving program, offering a huge list of improvements and changes."
-    publishedDateTime: 2022-05-19T19:53:00Z
-    webUrl: "https://www.slashgear.com/868855/teslas-latest-self-driving-update-is-a-game-changer/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 49
   - title: "Elon Musk’s Crash Course: How to stream New York Times documentary on Tesla self-driving cars"
     excerpt: "The special explores the crashes that took place while cars were being autopiloted, and both Musk’s fans and skeptics will want to tune in to this groundbreaking documentary about self-driving cars. The special, which runs for 1 hour and 42 minutes will ..."
     publishedDateTime: 2022-05-20T09:02:00Z

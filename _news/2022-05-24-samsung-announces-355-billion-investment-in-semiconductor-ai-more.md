@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T12:19:00Z
 originalUrl: "https://www.androidheadlines.com/2022/05/samsung-announces-investment-semiconductor-ai.html"
 webUrl: "https://www.androidheadlines.com/2022/05/samsung-announces-investment-semiconductor-ai.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Android

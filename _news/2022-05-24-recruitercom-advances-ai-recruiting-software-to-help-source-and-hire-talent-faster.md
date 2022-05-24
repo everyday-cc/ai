@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T13:04:00Z
 originalUrl: "https://www.digitaljournal.com/pr/recruiter-com-advances-ai-recruiting-software-to-help-source-and-hire-talent-faster"
 webUrl: "https://www.digitaljournal.com/pr/recruiter-com-advances-ai-recruiting-software-to-help-source-and-hire-talent-faster"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Digital Journal

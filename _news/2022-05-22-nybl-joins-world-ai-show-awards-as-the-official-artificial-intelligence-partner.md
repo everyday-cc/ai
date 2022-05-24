@@ -5,7 +5,12 @@ excerpt: "Leading AI company nybl will participate as the Official Artificial In
 publishedDateTime: 2022-05-22T01:39:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/a27338746/nybl-joins-world-ai-show-awards-as-the-official-artificial-intelligence-partner"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/a27338746/nybl-joins-world-ai-show-awards-as-the-official-artificial-intelligence-partner"
+ampWebUrl: "https://www.benzinga.com/amp/content/27338746"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27338746"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Benzinga.com
@@ -14,6 +19,6 @@ provider:
 topics:
   - AI
 
-secured: "Zc98pBJoBdMkDba/5D756i/QnCBntMYfoxbHDeVv9+s6nk0b257flV10fonbVsMr6ii1sQUBGGnJ/k1xMiGPa5XjthgP3BWa31cfGd68dolqNPdenpH6fVTkOrfF+qw7R3S1bGYXRoJBpjD76v9GwNSil85cCNHFEhO3lZT0Z6haPUkV3jxJq8cw+PVl0bOSqfpAFW+0IyPglZf7NaAOZSEcAb52J2ftGnup6zxnqVjqenwvmYtSA07G3Uk2RDTLb/JHKGwIcnqYC22hJlgd+4xgpOJ24tWO6RBnXH94MurugE86yXCSENwDR0PwlN+kgA2C4B3zGafDjXo9d1Ewpl3ZkY9yeReZZoHAeXJ4m9c=;fJ4bf6AZCBK1VfXCKBfTuw=="
+secured: "jCCNlpXlPfiL43mPqQBi7gIk4ERa6T3Lav2VMU4SlaB31yVupwIj5gH0scH+S2TiGiqXjjnFGBlxcvNvdhhOVJpyeTC33T0t32Km7ikw6DPBhbQqytmdLt6u3B5+WOo1A4MEDXOw6aGL/m7Vtj5GUSmqBaoNQkoTKYwhXKloNDjTB/thtMpqWDvwRBIidwSRDrus2QW/6ZpEczJA6rzrLSKEgP+XwecQdH4iWLBVxNq1VvtX2YhUmbVSU47yCV+KYw0ZgU0QfPq4L6HoLieltKp2y7TTusZWfwoWznwtYvdtoz7n+BB51KhK8pSS4e5csPlSh7LiNbv4Y5xV+AdP9TFhJ+TBBgm7eDBlG1vrf1g=;YK2MQwU/99HAjiyn7WRO9Q=="
 ---
 

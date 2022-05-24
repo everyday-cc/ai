@@ -1,19 +1,29 @@
 ---
 category: news
 title: "Edgility, Inc. Launches EdgeAi, a Breakthrough Explainable and Open-Box Artificial Intelligence to Accelerate Adoption"
-excerpt: "Edgility, Inc. launches EdgeAi as healthcare's first operationally embedded AI with Explainability. EdgeAi exposes the internal mechanics of machine learning and deep learning systems in human-understandable terms."
-publishedDateTime: 2022-05-24T10:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-edgility-inc-launches-edgeai-breakthrough-explainable-open-box-/2022/05/24/9607612.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-edgility-inc-launches-edgeai-breakthrough-explainable-open-box-/2022/05/24/9607612.htm"
+excerpt: "Edgility, Inc. launches EdgeAi as healthcare’s first operationally embedded AI with Explainability. EdgeAi exposes the internal mechanics of machine learning and deep learning systems in human-understandable terms."
+publishedDateTime: 2022-05-24T10:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-136154cd61a34dbdaf0377891831fbe5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-136154cd61a34dbdaf0377891831fbe5"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "1uDQU71a4BF8/Pzlz6RIsT9F7FyYs4BFtdaCOT2n1fsIcHK7FMAtdONwUfeNmODjp7q3PK828xR5V/grMIG6gLdLuRP505bghuJ8W/UPwykkTADgC5UOTXiVuP8cuveA2NK020bSz4pD5+327eNtugr10+y52nk12FFsdrO82hPKcrIoClDxs5gYVOQOfFSBwDdtKtuNVSXbZFUUK8hpLd5uxqZBL2+JRCdAhLH0XzMLUqFU74PS62OVDhz/YBcDLLy/M9zfUqeEX6Fxk3hwlThY3aCBgkPC2FMxTlMfQTkCJEAM/3yYkCNuWtcPIam2gRtj6efqoTgxv+zUTTN7yy6rmbXRpGkjrbpEZ8XJMJw=;aFBuPHa9wGdbx38Dk04wxw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "OlNplhIOC9taSKMCHODRGVhEozbNjVYV96xxjTgU2Ao0B35k5PJbaHz1Uc3jTg519nj4iruUUiVqWBIMyJkD2sHYOz6YR1GRHNTJs/D13xKQUNvVlHNEPXSIoWgHFnzxdZRv998PfBpXMW5bYXBrxFw5WEZwrCcEg3HTTsH0QQsWUGl6vefPnGyML0T4pYmka0idiQd09FnpwMvnrrTXf8GWfbtQuvde/GXXr4Bds9undq6HmIp+XWjrlVuKW+Xh/QQTOXiJ9VKUQkMtOUCOFrgHxWpI9Gs4hhfMEIInKOGEY+Vah1PhUKrYdAMgNqc2+IzTcUTGPOy4xDa5UvY5YY/eqZZm0Cw3kSH6E0EAobQ=;4gB4lU2hQZKgblVIsEcWTA=="
 ---
 

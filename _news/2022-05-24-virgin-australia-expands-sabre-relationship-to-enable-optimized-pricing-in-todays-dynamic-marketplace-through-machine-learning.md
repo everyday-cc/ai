@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T13:50:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virgin-australia-expands-sabre-relationship-to-enable-optimized-pricing-in-todays-dynamic-marketplace-through-machine/article_5ad86e19-88da-574d-8f1f-aed5bbb61a98.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virgin-australia-expands-sabre-relationship-to-enable-optimized-pricing-in-todays-dynamic-marketplace-through-machine/article_5ad86e19-88da-574d-8f1f-aed5bbb61a98.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-jo
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Voice of America
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ukrainians put on masks and try to trick artificial intelligence"
+    excerpt: "When Innovatrics started, facial biometrics had a high error rate, but thanks to the development of neural networks and artificial intelligence, its reliability has significantly improved. Recently, the company launched a project to improve the technology."
+    publishedDateTime: 2022-05-24T15:17:00Z
+    webUrl: "https://spectator.sme.sk/c/22919230/ukrainians-put-on-masks-and-try-to-trick-artificial-intelligence.html"
+    type: article
+    provider:
+      name: SME
+      domain: spectator.sme.sk
+    quality: 54
+    images:
+      - url: "https://m.smedata.sk/api-media/media/image/spectator/4/78/7832364/7832364_1200x.jpg?rev=3"
+        width: 1200
+        height: 892
+        isCached: true
   - title: "Scanning the Corpse's Face: Ukrainians Using Facial Recognition Technology to Identify Russian Soldiers"
     excerpt: "The Ukrainian government is using facial recognition software to identify Russian soldiers captured and dead. VOA's Julie Taboh spoke with one software company CEO and an official with the Ukrainian national police about how the technology is contributing ..."
     publishedDateTime: 2022-05-20T19:15:00Z

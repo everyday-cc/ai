@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T12:14:00Z
 originalUrl: "https://www.datacenterdynamics.com/en/news/nvidia-to-sell-liquid-cooled-a100-pcie-gpu-cards-equinix-trials-deployment/"
 webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-to-sell-liquid-cooled-a100-pcie-gpu-cards-equinix-trials-deployment/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Datacenter Dynamics

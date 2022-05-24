@@ -1,24 +1,40 @@
 ---
 category: news
 title: "This Kickstarter-Funded Robot Dog Makes a Fun Addition to the Family"
-excerpt: "Some kids want to start lemonade stands, some want to sell eggs ... that coordinates all instinctive and sophisticated movements and is extensible with artificial intelligence capabilities and more by mounting a Raspberry Pi or other AI chips through ..."
-publishedDateTime: 2022-05-24T13:01:00Z
-originalUrl: "https://www.entrepreneur.com/article/427994"
-webUrl: "https://www.entrepreneur.com/article/427994"
+excerpt: "If you want to give your kids a STEM education while having a ton of fun, then why not bring a robot dog into the family? Petoi Bittle is the palm-sized robot dog that is suitable for kids 14 and over to build themselves and kids of all ages to enjoy with the supervision of an adult."
+publishedDateTime: 2022-05-24T13:08:00Z
+originalUrl: "https://www.timesunion.com/business/article/This-Kickstarter-Funded-Robot-Dog-Makes-a-Fun-17194679.php?IPID=Times-Union-jobs-entrepreneurship-river"
+webUrl: "https://www.timesunion.com/business/article/This-Kickstarter-Funded-Robot-Dog-Makes-a-Fun-17194679.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "UjNSnMLVjxrgefJpIaZ2i5pxbJ/tyaN98IXw2FNVCziqPUGPRwVbs4OBjykMnQhfGTxg2GtJm6CASbYU5Y9ZPh9+AXULzQfHO35UD3uCd2qjc/LJde5jEMZBmLQfH23XKA0HMcPIrKcEr4xT0tBuRa4fL9jAB7ww9lhDIUJwAwk08JEgx8I7Afm5nnO6F2rcX9tkbykGs0GmaGdvZTsMhuB3Qq+1vCEMdtnKmKwhHyOQ95yw7JOUCv9XHfYaTVzpfRP6WHvbaNI4tTqMvgf6LGDZY/y9bLDE5AfDK7dkiISh3fFoQ0vVL9RFZHRp9EgVSm3bzHN6cG9SL4myqfsyqG/tdxpCPZG3Vr4UVXekZ2fGJHDrUXD2d4dEZnXGrWTL0nnwZc/OADARO5xZlZKxCKlUAN0zU2g3z8iCBRyiG/SwUoZYd0cnvZIwF0ML8Pni+5aUyv98w6kiyISBs8yuecSZaHyRFdpAeZUTjNW1GTF2uorxZD5gl4JqZR/ezQBX/2L7n5FTK3otxBWo7zugaQ==;4PbgZRU9NIAZvg2J5a54xg=="
+images:
+  - url: "https://s.hdnux.com/photos/01/25/70/66/22515091/3/rawImage.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
+
+related:
+  - title: "AMD Launches Robotics Starter Kit To 'Kick-Start The Intelligent Factory Of The Future'"
+    excerpt: "AMD launches robotics starter kit to 'kick-start the intelligent factory of the future' May 20, 2022 by David Edwards Leave a Comment . Semico"
+    publishedDateTime: 2022-05-20T19:23:00Z
+    webUrl: "https://menafn.com/1104249232/AMD-Launches-Robotics-Starter-Kit-To-Kick-Start-The-Intelligent-Factory-Of-The-Future"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 26
+
+secured: "G3Gz+qLYB7kQs+K1/cqf5cgnkkEvKDYLRBm98PFw8SxNr0SlFM7d7PNF2KVpT0ZLehTDscKdbdynVqyni68ed5eHnHK4+wigx/T2DkUZFBuReXzEv32ySVZcSKcgtquQMk3Xd64pUMeiVVvRJAGT5RQ+yLxDiBra/IkElYJ66NfkZW49IvfzRtORp2TsXycWtCiDVDm+MmnNr1CU61sB0Q6CHo7VKgk1IwS8CE3FeLCArxyvcVIH3a85XxtLvAxaPvcYJKepADAy5mHquccjk95kCJIELOMiH8bbUjZe++P56S9ke6p3OJaPYphMpvs2jfK3k5mm3wioCXwKnXGHoSh2Pegp1eweXUj2xB0pGJM=;/iSvXgrpQHzkI0EPDUu7zQ=="
 ---
 

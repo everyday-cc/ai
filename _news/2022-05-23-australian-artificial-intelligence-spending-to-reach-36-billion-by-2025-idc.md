@@ -23,6 +23,17 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Indian public cloud services market to grow at 24% CAGR for 2021-26: IDC"
+    excerpt: "The Indian Public Cloud Services (PCS) market is expected to reach $13.5 billion by 2026, growing at a Compound Annual Growth Rate (CAGR) of 24 per cent for 2021-26, according to research firm, International Data Corporation (IDC)."
+    publishedDateTime: 2022-05-24T13:48:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/indian-public-cloud-services-market-to-grow-at-24-cagr-for-2021-26-idc/article65456797.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 3
+
 secured: "dCvEU7r1hrcQyiWtQ42KhmJGVj1oMpfVHQX+N1dD+e+G4X0q0dA4Ym6n0VGJ79K14otvXCb/kFCU2K2nxUdTytujXosduvHDTxC07Bs+Ibse51kV3fWoEuvHDa0TsYuPApe+XUaNqoLHcVjX68Zme9tBG0suEpTX6czEoKqav48TCszSTMspl4y625wkN97nXPwsXvscDb3pJY+QmhgrhQVs3Fy9LM9hKBBZpG3HXp9LdHlVQsBDvei9ATDMtqmv3JcL6/yH3tYMJdgordk7sx9l185x4ovWBZxzYqpkN1CJrLKg3jIBQNqRTiryy9VbO3yxLVg3GiTNYC04iEKC7xU7JXGDXmlMJXG37r4iSfI=;IRPK+jwNlwtrN3ggXMqRmQ=="
 ---
 

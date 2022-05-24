@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T13:56:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ex-nhl-player-derek-mathers-joins-autocorp-ai"
 webUrl: "https://www.digitaljournal.com/pr/ex-nhl-player-derek-mathers-joins-autocorp-ai"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Digital Journal

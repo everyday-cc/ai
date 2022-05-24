@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/23/gigabyte_intros_arm_serve
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/23/gigabyte_intros_arm_server/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 996
     height: 622
     isCached: true
-
-related:
-  - title: "GIGABYTE Releases Arm-Based Server for NVIDIA Baseboard Accelerators for HPC, AI"
-    excerpt: "GIGABYTE Technology, (TWSE: 2376), maker of high-performance servers and workstations, today announced a scalable server, G492-PD0, that supports dual Ampere Altra Max or Altra processors with NVIDIA HGX A100 Tensor Core GPUs for cloud infrastructure,"
-    publishedDateTime: 2022-05-20T17:01:00Z
-    webUrl: "https://insidehpc.com/2022/05/gigabyte-releases-arm-based-server-for-nvidia-baseboard-accelerators-for-hpc-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 14
 
 secured: "pE7bt4W0Kin/26zgMh1ogEDtc2adTj4JVHIl2oO+zX7hptIpzBoCDik1McTvYs7FlNa2TAQjzuOcWqTcbqwqBDifU9t3EtJ+YzO9piteh+NM7eX9d8USlymB8jVTmgJ/RX59yGn+NrO/+je4Umr3z9D35DwVkCcDhIoBxCOwaNLg2wtXfpYMNy5ouGjsTYjLv42AmMUb3f1VRdt5Naa4IBA+q8pAe7VXPx8kMqkfoMOo8//sF8M8mJ/VqNeQ0dykh9A/atZROUn9na2zvKyr+mAhLHqd7936QrfEULF84+OcjaGfjdVAzUcXJMBe9/3JNL2h7sWTbvI9nxIi+iDD8aB3TjFWKwHqKzmAodTM4932m8a0YPR2iu+j0tOkSbGQ6QhrDwDL5jRU17cqdBbL9FTH2jvhQiTn+EPcxi1QqzGTg7QEKy95TAP3jJ6VN6ST+Prd7lJrT9W5gJxxdWA072gzFmWBQWGeDfPKzYKEdBM8b2hvrnood5P7PMYI1G4w036M//93leRHF8qK8o5GYQ==;0qsfLPoQn/OQ3fwMldWRlQ=="
 ---

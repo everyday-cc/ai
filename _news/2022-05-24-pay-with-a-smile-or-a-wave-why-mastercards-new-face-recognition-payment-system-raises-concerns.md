@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/pay-with-a-smile-or-a-wave-why-maste
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/pay-with-a-smile-or-a-wave-why-mastercards-new-face-recognition-payment-system-raises-concerns-183447"
 type: article
 quality: 60
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 320
     height: 213
     isCached: true
+
+related:
+  - title: "Why Mastercard's new face recognition payment system raises concerns"
+    excerpt: "Mastercard's \"smile to pay\" system, announced last week, is supposed to save time for customers at checkouts. It is being trialed in Brazil, with future pilots planned for the Middle East and Asia."
+    publishedDateTime: 2022-05-24T14:26:00Z
+    webUrl: "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-mastercard-recognition-payment.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/why-mastercards-new-fa.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "vFynfMP02xGm0HXx4dhb0TcRWbMzKRPjbYQr96Y4GKqmM76bjR1DQuLMR79J9BPxmlyd3G4uK6O9yXVDpqwuyodd2EqLdYsrZhVekZqhP9VBA7cH7i1ruYYjm6gPt+oA4C5BCeU/fCcPds9B4j+1+8mBmHuZMYkIw9QnmV6sYnO+ip8l6Xo7cTkVhTT/JHOYtHqY+F5MGLquEeXNAGr0zmjx/oWTiUWh/Ku97BEafuG5cvoeNaau07UuEy4unG9VCkIRYR3GEVw16xOVH5YdZXMNyiHA5YiVDmEJQ4Nk/piRRdlAGpJDOiXjqvArC1VQtafa/WcbW8IWCRa7oyuSc83Sup55Asx7rHHx3vPzxfqhPus/chAimOKOAyadIvhxZRp3DXpOmvjJwOpkzzGoOiUA+XPgzXyPBHc6RXj9o0Ukzk7TZtRRFoNP8p7ZqNQdnxs96hdKkuXWCadBwaRJ3R6olUaqalmG2lWfHAaj4DKkoW8u8EWpE5cxsJJZqF9BeHXS97jVU3dlAxXAcluudg==;DgI6yIULc5zEWBmoqfibsw=="
 ---

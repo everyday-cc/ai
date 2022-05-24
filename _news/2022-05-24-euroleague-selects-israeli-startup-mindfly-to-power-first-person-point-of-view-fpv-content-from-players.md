@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T12:48:00Z
 originalUrl: "https://techround.co.uk/news/euroleague-selects-israeli-startup-mindfly-to-power-first-person-point-of-view-fpv-content-from-players/"
 webUrl: "https://techround.co.uk/news/euroleague-selects-israeli-startup-mindfly-to-power-first-person-point-of-view-fpv-content-from-players/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TechRound

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T13:21:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272563021/allied-digital-services-announced-significant-growth-of-operating-revenue-ebitda-and-launch-of-a-new-fintech-vertical"
 webUrl: "https://www.bignewsnetwork.com/news/272563021/allied-digital-services-announced-significant-growth-of-operating-revenue-ebitda-and-launch-of-a-new-fintech-vertical"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Big News Network.com
