@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/business-and-innovation/tech-and-start-ups/artic
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-707220/amp"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 640
     height: 428
     isCached: true
-
-related:
-  - title: "Call Center AI Market 2022 Development Status, Competition Analysis, Type and Application 2032"
-    excerpt: "The FMI study finds that the call centre AI market was worth US$ 1.3 Bn in 2021 and is expected to grow at a 13.5% CAGR during the forecast period. Growing client involvement through social media platforms,"
-    publishedDateTime: 2022-05-19T07:12:00Z
-    webUrl: "https://www.fmiblog.com/2022/05/19/call-center-ai-market-2022-development-status-competition-analysis-type-and-application-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 7
 
 secured: "Z8a7ICB78T+Q/VEX95OV+oWg+9OSuzXXSFAknlDZockHb5lHb14eAqsGFqGDISPkbsZVrJEBr8N1GzG5tI/vFZaRyTMcp4pMYx5dINIEYsi8L4Vpbf45CdC7q4d140QkWlDukTfihOTOQCdpB6fRE3D4DuycG2jnl/VX1yCJcY2KGH0FR2lzL+xCQp0Gw6/tv7erbHv6cYHbgcNPzzLgD6/0CTS/TFSuSExyBpYQEzzG1OMGHIVMIp+oI66tdQs4I60VQHBlTuWVx0S/KB7kmmeuhAleJXUWzJVIJTvNoHxLOsC+3NUVSYmGtzQHLCs3a68Z19A8TdxFEaqsIz9XIpNWMhMZEDa1AMKaAmnh1Tc=;wX1TetAshYXvhKjbqI0DOg=="
 ---

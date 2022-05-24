@@ -471,8 +471,8 @@
       "title": "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge",
       "excerpt": "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox44news.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/",
-      "originalUrl": "https://www.fox44news.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -482,11 +482,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T09:00:00-07:00",
+      "publishedDateTime": "2022-05-16T09:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 44 Waco News",
-        "domain": "fox44news.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1286,6 +1286,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-10-the-three-way-race-for-gpu-dominance-in-the-data-centre.md",
+      "title": "The three-way race for GPU dominance in the data centre",
+      "excerpt": "The modern graphics processing unit (GPU) started out as an accelerator for Windows video games, but over the last 20 years has morphed into an enterprise server processor for high-performance computing and artificial intelligence (AI) applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/",
+      "originalUrl": "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nvidia_amd_intel.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case.md",
       "title": "3D-printed Fan Mount Keeps Server GPU Cool In Desktop Case",
       "excerpt": "or are simply experimenting with machine-learning AI, you should be prepared to shell out quite a bit more money for a proper GPU than in the good old days. Bargains are still to be had in the ...",
@@ -1315,49 +1358,6 @@
       "provider": {
         "name": "Hackaday",
         "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus.md",
-      "title": "How Much Of A Premium Will Nvidia Charge For Hopper GPUs?",
-      "excerpt": "And network ASIC chips are architected to meet this goal. Nvidia is architecting GPU accelerators to take on ever-larger and ever-more-complex AI workloads, and in the classical HPC sense, it is in pursuit of performance at any cost, not the best cost at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/",
-      "originalUrl": "https://www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-hopper-die-shot.jpg",
-          "width": 435,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/amp/",
-      "publishedDateTime": "2022-05-09T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
         "images": null,
         "publishers": null,
         "authors": null

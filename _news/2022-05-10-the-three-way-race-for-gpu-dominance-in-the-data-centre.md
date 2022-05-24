@@ -1,14 +1,11 @@
 ---
 category: news
 title: "The three-way race for GPU dominance in the data centre"
-excerpt: "Nvidia, AMD, and Intel are about to slug it out for a share of the growing graphics-processing-unit market that’s being fuelled by the needs of AI and ML."
-publishedDateTime: 2022-05-10T02:29:00Z
-originalUrl: "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/?fpid=1"
-webUrl: "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/?fpid=1"
+excerpt: "The modern graphics processing unit (GPU) started out as an accelerator for Windows video games, but over the last 20 years has morphed into an enterprise server processor for high-performance computing and artificial intelligence (AI) applications."
+publishedDateTime: 2022-05-10T01:21:00Z
+originalUrl: "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/"
+webUrl: "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
   name: Reseller News
@@ -24,33 +21,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "Intel teases Arctic Sound M GPU for data centre at its Vision 2022 Event"
-    excerpt: "Arctic Sound M GPUs can manage 30+ 1080p streams, 40+ gaming streams, 62 Virtualized Functions, and 150 AI TOPs."
-    publishedDateTime: 2022-05-12T07:10:00Z
-    webUrl: "https://technosports.co.in/2022/05/12/arctic-sound-m/"
-    ampWebUrl: "https://technosports.co.in/2022/05/12/arctic-sound-m/?amp"
-    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/05/12/arctic-sound-m/?amp"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 58
-    images:
-      - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/05/Intel-Arctic-Sound-M-DG2.jpg"
-        width: 1600
-        height: 891
-        isCached: true
-  - title: "Intel teases Arctic Sound M GPU for data center: ACM-G10 GPU + 150W"
-    excerpt: "Intel Arctic Sound M PCIe Gen 4 graphics card based on the Intel Xe-HPG GPU is dropping in Q3 2022, I'll believe it when I see it."
-    publishedDateTime: 2022-05-11T02:41:00Z
-    webUrl: "https://www.tweaktown.com/news/86126/intel-teases-arctic-sound-gpu-for-data-center-acm-g10-150w/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
-
-secured: "CBTi9vc29CGQ6+Pvz0Ug19LXfwMcVeeAAmT49eokl/qv5pElloYDMOR5j4F+8jSMKS096bJFhTGJsVasJhfxU0mJzNUeP36nlEZdy/d6rlkaxS1KgFA6Vwej8JWplfqJUvMf8IwS61r4tZkjVcBLTwBhkOzVEkd4WQV2F5ChGtITRNIhIdaMPxPn/f755xDmIvDMFtY1hfXyn82haubafc5KZI3vIiTBuaEVJ+5etsTWnKMnBsO722fo0x39vYZIVca/MhA9x4o2jb3/yEE0Ij496pcoj4C5ZphHJ0cxdjnnv8/2SGmIIWhR2hGjeOvTP5BhxUAvFGhAen7/VJbInMmDsaddgzOu7cLmHxiDVZN5DOOQpyHzX+QP5S/zwJd553WwemQAzbK1Pz0PGF+1q9CJVb5PGE/rljTD1IRncVQBh8gRDuHBJWCpOyJV7VYCLNmeb9vA86S8tuh1ZTGeoogNm6W4T4eOiwZApX3z0UlSR+0dDAZrRXsahsaWzHhYHMA/+NNoJR1j81aMjuK2Aw==;ZLBdBJdqr11gwpcA1Nl54w=="
+secured: "iIDFoJF92s3ImqdI1BnrdeMe1CNEr3RW4z4/n2fE7MvuIAsJAYF6NuruoAvQRHQCxagjPdN+XeX/BzL1G7hZ7hXpTCHEsHZWriKX5mtC+Mns/1jYDBgTDJC8IeqIUXSCVzXAmQaHf4Lm7t9uWKz0NrTQMaMgn81cmsWE2fT4xQwNvUYBFogGyEDfb0G+xQn+Gh9RtZ8Wb4Qbm6ocE+Zg2zRYBhr5CtqQ2YELSYTLXXxXpI8ELnbqmv/CaDXzBut513BggCmgbJwZvb430gUipdne9jzAWqz+gm4aFUoW08ISOfe9awEOu9N7LK5AMBWXNinkwbn9EGIyUyq9Wd3rGb+d9EnjAJB/P9u+JoxP3A8=;Bvz+yIvNY+teSkRf4JG8ug=="
 ---
 

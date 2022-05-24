@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-02-26-what-you-need-to-know-about-facial-recognition-at-airports.md",
-      "title": "What You Need to Know About Facial Recognition at Airports",
-      "excerpt": "Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html",
-      "originalUrl": "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/26/travel/26qna-facial-recognition-1/26qna-facial-recognition-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.amp.html",
-      "publishedDateTime": "2022-02-26T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-26-texas-ag-ken-paxton-sues-facebook-parent-meta-over-facial-recognition.md",
       "title": "Texas AG Ken Paxton sues Facebook parent Meta over facial recognition",
       "excerpt": "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state's ...",
@@ -1340,6 +1288,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-meet-misty-ii-the-robot-as-a-platform-not-a-tool.md",
+      "title": "Meet Misty II: The Robot As a Platform, Not a Tool",
+      "excerpt": "At its core, Misty II is driven by a deep learning processor capable of a variety of machine learning tasks, such as facial and object recognition, distance detection, spatial mapping, and sound and touch sensing. Developers can also 3D print (or even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "originalUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Misty%202_%20DevDeskMistyOnly.jpg",
+          "width": 6586,
+          "height": 4391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

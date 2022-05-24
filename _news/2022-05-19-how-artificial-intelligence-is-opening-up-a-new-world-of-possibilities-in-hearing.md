@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220521_CUP001.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Europe is seeing a hiring boom in military industry machine learning roles"
-    excerpt: "Europe was the fastest growing region for machine learning hiring among military industry companies in the three months ending March. The number of roles in Europe made up 17.1% of total machine learning jobs – up from 13."
-    publishedDateTime: 2022-05-19T09:00:00Z
-    webUrl: "https://www.army-technology.com/analysis/europe-is-seeing-a-hiring-boom-in-military-industry-machine-learning-roles/"
-    type: article
-    provider:
-      name: Army Technology
-      domain: army-technology.com
-    quality: 37
-    images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/05/OUGqT-1038x778.png"
-        width: 1038
-        height: 778
         isCached: true
 
 secured: "O7crYmnwe4BYeXwt9fE2Xv0Di9ckr6xa40q88BfWjSs0Qeh8qnDJSvK+Qfh4aqDniOg+RZ3xDatkBpSVEhf8gHifum3PDM/GnKUVvX7pf9xsshR9AB6kNCEdvStb4KnKqiFEwxW9Iuc2eM9qVmXomZAztb4V/WEK/8/TLg+NwGghA83FMxNUxje9oyM8MZC0mYMgBvKbywDJgBeza9Ev8W6J7hfeSsLP/njwFR6VC6famUYyHcltjYi6YutO1gRw9Y2KHiC7x5/YuyUJfyaGLCk8vdVzxvZ2gbG4Qz3wzJJdryPkoL/XVNC6eXoKFSiPgzkuuoSEfg13+3NMAioLEKtDX+4KTO2IfeRHDGG5sf3h5mQE3cREZMWncIy75wlxw9pSUEs/WtyvaVgzx95uyOlR1cToT7K3NDJ8ToMHR2yQOzDmR2vvCpWLmTmG7PpQbZ7e6olWOpdVIyeikpU35H9joCxHuPfA0PzaGmFVEF/QxIqvex5azZ2OvxVCnQz3M0McEhMEmEDAFPc+aFceuA==;HTqrVSRECfmtaptrxg64Kw=="

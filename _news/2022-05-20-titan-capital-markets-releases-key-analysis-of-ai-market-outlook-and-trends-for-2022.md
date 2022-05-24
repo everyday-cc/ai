@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Innovations And Growth Opportunities In Artificial Intelligence For Histopathology Market 2022"
+    excerpt: "Artificial intelligence for Histopathology Market NEW YORK, NY, U.S., May 23, 2022 /EINPresswire.com / -- This report studies the Artifici"
+    publishedDateTime: 2022-05-23T08:39:00Z
+    webUrl: "https://menafn.com/1104256728/Innovations-And-Growth-Opportunities-In-Artificial-Intelligence-For-Histopathology-Market-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/23/EP_0fa10image_story.jpeg"
+        width: 259
+        height: 259
+        isCached: true
   - title: "Titan Capital Markets Releases Key Analysis of AI Market Outlook And Trends For 2022"
     excerpt: "TITAN CAPITAL MARKETS PTY LTD, an AFSL-licensed and ASIC-regulated integrated educational financial group in Australia that helps members to improve their financial thinking and forex trading skills through extensive online and offline financial education courses and systematic social trading training programs,"
     publishedDateTime: 2022-05-19T11:57:00Z
@@ -27,15 +41,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 10
-  - title: "Global Artificial Intelligence in Big Data Analytics and IoT Market Report 2022-2027: How Different Forms of AI May be Best Used for Problem-Solving"
-    excerpt: "This report evaluates various AI technologies and their use relative to analytics solutions within the rapidly growing enterprise and industrial data arena. The report assesses em"
-    publishedDateTime: 2022-05-23T12:19:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-big-data-analytics-iot-market-/2022/05/23/9606896.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "A3NE1ywQYewBwx6WrZR2skvP1jjsj0fdbAGcDjfEgWojmTDiKQZGy7x4hvlQtFq3CmdWEoYayQgvmK6MAtXojn3Psw1ZLcLyFRvhN4pJakLOejzyEJW0NkglNBzE3sLZeta382mDjry2bHEjTd3uIcAddfJkhp8Kod9nfUeNfqgiWEcNqv/74+bO0egWdCXhZqBsRWKDYTyFTcxrIp+j3LLyiyQHPj7P8HjGcFTNqmlo053M7VbkTr4EKLu9TvmnVsp4pfc9ES7Ms3ODYqu1S+eYVQ4vny2sWfL4SX6687Xez3HnzSqjY8e2qLjz3eUrEDT4i0FLNQ7IPeUisBSBJ1h3BySo5EyUVKK+18jzUmE=;IQoIpsd6+HqSUo7FAN8j7Q=="
 ---

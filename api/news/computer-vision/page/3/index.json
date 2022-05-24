@@ -2,41 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-04-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry.md",
-      "title": "Computer Vision Startup Encord Launches DICOM Image Annotation Tool To Eradicate Manual Data Labelling for Healthcare Industry",
-      "excerpt": "Encord's platform empowers some of the world's leading companies building computer vision models for medical imaging including Kings College London, Memorial Sloan Kettering Cancer Center and Stanford Medical Centre The first dedicated Digital Imaging and Communications in Medicine (DICOM) tool provides 3D annotation for modalities such as CT,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-22T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-04-22-state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international-visitors.md",
       "title": "State to use facial recognition at Honolulu Airport to speed up travel time for international visitors",
       "excerpt": "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening",
@@ -1321,6 +1286,49 @@
       "provider": {
         "name": "The Indian Express",
         "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-computer-vision-market-2022-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2031.md",
+      "title": "Computer Vision Market 2022 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2031",
+      "excerpt": "Kenneth Research, in its repository of market research reports, has recently added a report on Computer Vision Market that emphasizes the latest t",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103973174/Computer-Vision-Market-2022-Comprehensive-Analysis-Future-Estimations-Growth-Drivers-and-Forecast-to-2031",
+      "originalUrl": "https://menafn.com/1103973174/Computer-Vision-Market-2022-Comprehensive-Analysis-Future-Estimations-Growth-Drivers-and-Forecast-to-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?448548",
+          "width": 353,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

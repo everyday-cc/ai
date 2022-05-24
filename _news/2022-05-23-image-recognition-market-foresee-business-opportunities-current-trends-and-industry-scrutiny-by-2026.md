@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/image-recognition-market
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2026-2022-05-23"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,20 +23,61 @@ topics:
   - AI
 
 related:
-  - title: "HD Maps for Autonomous Vehicles Market Emerging Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
-    excerpt: "The global HD maps for autonomous vehicles market is expected to reach a market size of USD 16.51 Billion at a steady CAGR of 34.3% in 2028, according to"
-    publishedDateTime: 2022-05-23T10:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/hd-maps-for-autonomous-vehicles-market-emerging-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2028"
+  - title: "Machine Learning as a Service Market foresee scrutiny and Demand with predict recapitulation To 2025"
+    excerpt: "Global Machine Learning as a Service Market Report by Market Study report scrutinizes the overall market synopsis globally, their restraining factors, drivers, major challenges, opportunities, latest trends to stabilize the global Machine Learning as a Service market situation,"
+    publishedDateTime: 2022-05-20T13:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-foresee-scrutiny-and-demand-with-predict-recapitulation-to-2025-2022-05-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GPU for Deep Learning Market Analysis 2022: Share, Top Key Players Research and Forecast to 2027 with Dominant Sectors and Countries Data"
+    excerpt: "The “GPU for Deep Learning Market” 2022 Research report will make detailed analysis mainly on in-depth research on"
+    publishedDateTime: 2022-05-23T06:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Chip Market Demand, Growth, Trend, Business Opportunities, Manufacturers and Research Methodology by 2028"
+    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to"
+    publishedDateTime: 2022-05-19T13:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-demand-growth-trend-business-opportunities-manufacturers-and-research-methodology-by-2028"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
+    quality: 12
+  - title: "Deep Learning System Market Overview Highlighting Major Drivers, Trends, Growth and Demand Report by 2028"
+    excerpt: "According to latest analysis by Emergen Research, the deep learning system market is witnessing increased growth due to improvement in computing power and"
+    publishedDateTime: 2022-05-23T12:58:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-system-market-overview-highlighting-major-drivers-trends-growth-and-demand-report-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 2
+  - title: "Artificial Intelligence In Transportation Market Technology, Applications, Demand, Growth Factors And Forecast To 2028"
+    excerpt: "Get a sample of the Artificial Intelligence in Transportation Market report @ Some Key Highlights in the Report In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for ..."
+    publishedDateTime: 2022-05-20T12:59:00Z
+    webUrl: "https://menafn.com/1104247482/Artificial-Intelligence-In-Transportation-Market-Technology-Applications-Demand-Growth-Factors-And-Forecast-To-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "ASZHfsBPZXyzvL05DIv2jkxKam4MfcNvJBpgbSy0Ft0l/a7CdCjoHvmkN5E3WoYIxuWS1wBBDwPyQoJ/3t2xeohw/HNj+ZqV8cFS5oDgvODoa+HFA5pN16O8GvfXMqDg7v4gl5mN8tk5QgrePs155AueD6ROIUTocIGGsP6WZKxRu05puUNGBX6orevmtlSgexxI0BgdvqwPqkEoeH3oaCuyjAdFixRjByeNgG1hxJJB6KAv9koPD6KU479RLD9wWykwxsVLc2FsQMxLmi/FE+UZ+rH373AQipAJi/8NncURmv7uO151J2jqCU9Qsi160hnsRKEyOsk46YdtEGmSD8lNw/s9IqNi95GywExGKcY=;lPjDroqSoUsevSQXnjGJxg=="
 ---

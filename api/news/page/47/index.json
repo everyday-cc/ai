@@ -2,6 +2,188 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-04-10-fintech-roundup-how-going-fast-and-furious-can-ruin-your-startup.md",
+      "title": "Fintech Roundup: How going Fast and furious can ruin your startup",
+      "excerpt": "The big events in the fintech world over the last week felt like a very different vibe from 2021, which was filled with mega rounds, celebrations and lofty valuations. First off, 3-year-old one-click checkout startup Fast announced it was shutting down after struggling to raise more capital to keep operations running.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/",
+      "originalUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1162497947.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/",
+      "publishedDateTime": "2022-04-10T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-04-10-chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.md",
+      "title": "Chipotle tests tortilla chip-making robots to combat labor shortage",
+      "excerpt": "Chippy, the robot named and designed by Miso Robotics, will be able to cook and season Chipotle’s popular chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage",
+      "originalUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/04/932/470/GettyImages-173671212.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp",
+      "cdnAmpWebUrl": "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp",
+      "publishedDateTime": "2022-04-10T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 5",
+        "domain": "fox5dc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-04-10-new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands.md",
+      "title": "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands",
+      "excerpt": "ToroAlerts, LLC, a Portland, Oregon-based innovative FinTech company has launched a mobile app on iOS and Android that helps traders to take the emotion out of crypto trading. The app is integrated into an Artificial Intelligence (AI) Tool that uses Machine Learning (ML) and trading technical analysis to identify and alert the user with buying and selling points.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/prcom/technology-business-portland-oregon-artificial-intelligence-deaf2893d990a09e3cead6da0c963635",
+      "originalUrl": "https://apnews.com/press-release/prcom/technology-business-portland-oregon-artificial-intelligence-deaf2893d990a09e3cead6da0c963635",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-10T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-10-learning-grammars-of-molecules-to-build-them-in-the-lab.md",
+      "title": "Learning grammars of molecules to build them in the lab",
+      "excerpt": "Artificial intelligence (AI ... These methods require tens of thousands of samples to train the neural networks. Also, the designed molecules may not be physically synthesisable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/learning-grammars-of-molecules-to-build-them-in-the-lab/article65305834.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/learning-grammars-of-molecules-to-build-them-in-the-lab/article65305834.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/opinion/ywvy27/article65305853.ece/alternates/LANDSCAPE_615/iStock-1163061277.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/learning-grammars-of-molecules-to-build-them-in-the-lab/article65305834.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/learning-grammars-of-molecules-to-build-them-in-the-lab/article65305834.ece/amp/",
+      "publishedDateTime": "2022-04-09T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-10-pakistani-startup-empowers-the-hearing-impaired-with-tech.md",
       "title": "Pakistani startup empowers the hearing impaired with tech",
       "excerpt": "DeafTawk aims to become translator for millions with hearing ... resources but will “make DeafTawk one of the leading AI-based sign language interpretation services.” The company has big ...",
@@ -996,195 +1178,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-mlops-the-key-to-pushing-ai-into-the-mainstream.md",
-      "title": "MLops: The Key to Pushing AI into the Mainstream",
-      "excerpt": "MLops is still an emerging field, so it may be tempting to write it off as just another techy buzzword, but its track-record proves that when designed the right way and targeted at the proper goal: to maximize model performance and improve ROI,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/",
-      "originalUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/amp/",
-      "publishedDateTime": "2022-04-08T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-aacr22-artificial-intelligence-predicts-side-effects-of-combination-therapies.md",
-      "title": "AACR22: Artificial intelligence predicts side effects of combination therapies",
-      "excerpt": "Researchers at the Cancer Center Amsterdam (Netherlands) report their preliminary findings using artificial intelligence to predict the adverse ... making it difficult to decide whether a new combination therapy would risk their health,” explains Bart ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.biotechniques.com/cancer-research/artificial-intelligence-predicts-side-effects-of-combination-therapies/",
-      "originalUrl": "https://www.biotechniques.com/cancer-research/artificial-intelligence-predicts-side-effects-of-combination-therapies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.biotechniques.com/wp-content/uploads/2022/04/Drug-combination-therapeis.png",
-          "width": 802,
-          "height": 344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioTechniques",
-        "domain": "biotechniques.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds.md",
-      "title": "Artificial Intelligence Enhanced Heart Disease Diagnosis in Ultrasounds",
-      "excerpt": "Following the implementation of an artificial intelligence system into ultrasound procedures, researchers from the RIKEN Center for Advanced Intelligence Project (AIP) noticed a sharp increase in the accuracy of heart disease diagnoses.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
-      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-1169990180-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
-      "publishedDateTime": "2022-04-08T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-getting-started-with-the-amazon-kendra-box-connector.md",
-      "title": "Getting started with the Amazon Kendra Box connector",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. For many organizations, Box Content Cloud is a core",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-box-connector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-box-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T09:10:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

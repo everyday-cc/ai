@@ -2,6 +2,205 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-03-07-do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization.md",
+      "title": "Do You Need To Build Or Buy AI-Based Solutions For Your Organization?",
+      "excerpt": "Business leaders face a common dilemma in deciding between building and buying enterprise AI solutions while they plan to adopt AI for their organizations. They need to consider several factors about AI technology to make an informed decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d5c7c54cb1e138c0952e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 921,
+          "height": 915,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/amp/",
+      "publishedDateTime": "2022-03-07T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-07-grunt-of-the-litter-scientists-use-ai-to-decode-pig-calls.md",
+      "title": "Grunt of the litter: scientists use AI to decode pig calls",
+      "excerpt": "Researchers say algorithm that translates acoustic signatures could be developed to automatically monitor animal wellbeing",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
+      "originalUrl": "https://www.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/66c7f6e26abf00ae5c2fe46d7c7e1db80b7c385c/0_0_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=9afbc63d0a27ac5a1fe87e5e9b41a7f5",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
+      "publishedDateTime": "2022-03-07T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-07-google-ml-can-help-discover-new-antibodies-enzymes-foods.md",
+      "title": "Google ML can help discover new antibodies, enzymes, foods",
+      "excerpt": "The shape of a protein provides very strong clues as to how the protein machinery can be used, but doesn't completely solve this question.",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods",
+      "originalUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://telanganatoday.com/wp-content/uploads/2022/03/Google-ML-can-help-discover-new-antibodies-enzymes-foods-709x450.jpg",
+          "width": 709,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp",
+      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp",
+      "publishedDateTime": "2022-03-07T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-07-role-of-artificial-intelligence-and-machine-learning-in-stem-education.md",
+      "title": "Role Of Artificial Intelligence And Machine Learning In STEM Education",
+      "excerpt": "Role Of Artificial Intelligence And Machine Learning In STEM Education Artificial intelligence technology is all over the place. Congratulations: you’ve interacted with artificial intelligence technologies if you’ve Googled something,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-machine-learning-stem-education-mori-",
+      "originalUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-machine-learning-stem-education-mori-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHj4DrVqZ5qOA/article-cover_image-shrink_720_1280/0/1646639402873?e=1652313600&v=beta&t=h4D8u_YUUeXrMhxEWYajyLIJI1rnhtY_-OLF43wZr7c",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-06T23:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-healthcare-artificial-intelligence-market-importunity-size-industry-analysis-statistics-and-forecasts-to-2026.md",
       "title": "Healthcare Artificial Intelligence Market importunity Size, Industry Analysis, Statistics and Forecasts to 2026",
       "excerpt": "In terms of application, the overall healthcare artificial intelligence market is classified into virtual assistants, wearables, hospital workflow, therapy planning, drug discovery, medical ...",
@@ -955,198 +1154,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare.md",
-      "title": "AI Weekly: The Russia-Ukraine conflict is a test case for AI in warfare",
-      "excerpt": "The Russia-Ukraine conflict is a proving ground for AI technologies applied to warfare. Already, the impacts are coming into clear view.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/",
-      "originalUrl": "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-534144629-1.jpg?fit=800%2C532&strip=all",
-          "width": 799,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/",
-      "publishedDateTime": "2022-03-04T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-polycoder-is-an-open-source-ai-code-generator-that-researchers-claim-trumps-codex.md",
-      "title": "PolyCoder is an open source AI code-generator that researchers claim trumps Codex",
-      "excerpt": "Researchers at Carnegie Mellon University have developed a code-generating AI system that they claim can write in C better than OpenAI's Codex.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/",
-      "originalUrl": "https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/Application-developer.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/amp/",
-      "publishedDateTime": "2022-03-04T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-7-favorite-fintech-stocks-to-buy-after-the-correction.md",
-      "title": "7 Favorite Fintech Stocks to Buy After the Correction",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Here are 7 fintech stocks trading at significant discounts with the industry poised to thrive in the foreseeable future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/421408",
-      "originalUrl": "https://www.entrepreneur.com/article/421408",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/investorplace/hero-image-investorplace-421408.jpeg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-04T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-ionq-presents-algorithmic-qubits-benchmark-at-quantum-information-processing-qip-conference-2022.md",
-      "title": "IonQ Presents Algorithmic Qubits Benchmark at Quantum Information Processing (QIP) Conference 2022",
-      "excerpt": "Luning Zhao, a Senior Application Engineer with IonQ, will deliver an address describing the performance of IonQ Aria, the company's newest and most advanced quantum computer. Zha",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ionq-presents-algorithmic-qubits-benchmark-quantum-information-processing-/2022/03/04/9557400.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ionq-presents-algorithmic-qubits-benchmark-quantum-information-processing-/2022/03/04/9557400.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-04T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-fem
 webUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ related:
     excerpt: "Given by MassRobotics, this first major prize of its kind is hoped to inspire and encourage women in robotics."
     publishedDateTime: 2022-05-23T22:38:00Z
     webUrl: "https://www.scmr.com/article/new_robotics_medal_recognizes_wide_ranging_impact_of_female_researchers"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 54
+    images:
+      - url: "https://www.scmr.com/images/2021_article/robotics-award-news-May-23-2022-web.jpg"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Robotics Medal recognizes wide-ranging impact of female researchers"
+    excerpt: "Given by MassRobotics, this first major prize of its kind is hoped to inspire and encourage women in robotics."
+    publishedDateTime: 2022-05-23T22:27:00Z
+    webUrl: "https://www.scmr.com/article/robotics_medal_recognizes_wide_ranging_impact_of_female_researchers"
     type: article
     provider:
       name: Supply Chain Management Review

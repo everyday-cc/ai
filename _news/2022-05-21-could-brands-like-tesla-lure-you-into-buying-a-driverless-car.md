@@ -43,6 +43,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Drive I/O | Shanghai automakers hit by lockdowns, China’s new push for driverless cars"
+    excerpt: "Baidu and self-driving unicorn Pony.ai received permits to offer fully autonomous rides to the Beijing public in late April, the first service of its kind in the country. Domestic battery suppliers saw profits plunge in the first quarter amid rising raw ..."
+    publishedDateTime: 2022-05-24T00:30:00Z
+    webUrl: "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
+    ampWebUrl: "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 66
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/05/屏幕快照-2020-05-07-下午4.16.18.jpg?fit=1200%2C601&ssl=1"
+        width: 1200
+        height: 601
+        isCached: true
   - title: "Oxbotica completes first driverless car test on open roads"
     excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
     publishedDateTime: 2022-05-19T23:17:00Z
@@ -71,15 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
-    excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
-    publishedDateTime: 2022-05-19T07:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-/2022/05/19/9605232.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
     publishedDateTime: 2022-05-19T18:57:00Z

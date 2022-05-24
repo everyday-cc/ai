@@ -1,24 +1,23 @@
 ---
 category: news
 title: "nybl Joins World AI Show & Awards as The Official Artificial Intelligence Partner"
-excerpt: "Leading AI company nybl will participate as the Official Artificial Intelligence Partner. DUBAI, May 22, 2022 - (JCN Newswire) - Held under the patronage of the Private Office of HH Sheikh Saeed Bin Ahmed Al Maktoum, a member of the royal family of Dubai ..."
-publishedDateTime: 2022-05-22T01:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/a27338746/nybl-joins-world-ai-show-awards-as-the-official-artificial-intelligence-partner"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/a27338746/nybl-joins-world-ai-show-awards-as-the-official-artificial-intelligence-partner"
-ampWebUrl: "https://www.benzinga.com/amp/content/27338746"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27338746"
+excerpt: "Held under the patronage of the Private Office of HH Sheikh Saeed Bin Ahmed Al Maktoum, a member of the royal family of Dubai, World AI Show & Awards, is set to take place on 25-26 May 2022 at the Jumeirah Emirates Towers in Dubai."
+publishedDateTime: 2022-05-22T09:07:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/acnnewswire-2022-5-22-nybl-joins-world-ai-show-and-awards-as-the-official-artificial-intelligence-partner"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/acnnewswire-2022-5-22-nybl-joins-world-ai-show-and-awards-as-the-official-artificial-intelligence-partner"
 type: article
-quality: 47
-heat: 47
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
+  - AI in Robotics
   - AI
 
-secured: "uIEkfwgIPj0EMZ5GW0Il0A5+rzzv+ETcC1v0tQ5IXeS6ndEJlVr2T1Y1V2KVey9cm6cKnECV0qIa71nV0wX5uIXyqbf4XM3hbVG7+p4JfWOeog8I/uMvc05n42kngWvy9UITBOsN4aq/qYp56BVTzJeqzrbfQRnLiljmED4uj7/d6/Mf4ktc2JzN5Ol3Ha6XrqR1x45I4iyNEeL0ucD7/iXqeJxISUN7iP+l9xCPopy7gnBvpaS5m04Cs5AXYJmmZUMSnY2a6sEHGkgYPMQF2zb+BMUS3ASvm6cmQ9tEyERmthhVB1JXwHH76KhXz1STARNo7oVYlf2FJLlOeyIimQo6f0RSHGsEIJ+738jCmbk=;NnOWmYdK5wBDflfYbORBQw=="
+secured: "XhsqQ81ORnxiBhNv6YKZDXwPEWf0lJCu8hejVqmeaN4wDkLqZdJI5BWFhaW93bzO53LCF+mxo9rFFZxBHZl+oDtUO5ZMrs0VVsq9F2UHSxGfVhsCDoTILmYZ4KsRZddTePlZcB945d4iOE6nRGb1u92KvNoehJhdSzPFPbL/+dl8T/aqaN72JXGmmTKk0fmrf2EPx5lCUS1I2iObzd8bxgU6lOdN3HhduG/wh9M1t+aKD2cFDVJXN7YKYjqij2PsV75QyraKC06vihsIUoc6UlDTxeRIJxA/Bhw//vQUslY7dUOWf8UNM54a6STyZRURqs73veGkBGncsB7/2IMGa8rB+v4Q9QFIJ4YQFMttN3g=;E72xZMgHnIEd5sTyWNZpKg=="
 ---
 

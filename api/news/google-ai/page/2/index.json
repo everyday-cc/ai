@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-11-investing-in-eastern-europes-ai-future.md",
+      "title": "Investing in Eastern Europe’s AI future",
+      "excerpt": "It was an honor and a privilege to attend a special event in the Bulgarian capital, Sofia, today to launch INSAIT, the Institute for Computer Science, Artificial Intelligence and Technology. INSAIT is a new AI and computer science research institute that will provide truly world-class facilities.It’s",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
+      "originalUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
+      "publishedDateTime": "2022-04-11T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-how-ai-and-imagery-build-a-self-updating-map.md",
       "title": "How AI and imagery build a self-updating map",
       "excerpt": "Building a map is complex, and keeping it up-to-date is even more challenging. Think about how often your city, town or neighborhood changes on a day-to-day basis. Businesses and shops open and close, stretches of highway are added, and roadways change. In today’s Maps 101 installment, we’ll dive into",
@@ -1437,59 +1489,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-a-survey-of-ai-news-from-around-the-web.md",
-      "title": "A Survey of A.I. News from Around the Web",
-      "excerpt": "I wanted to present some curated links about A.I. in case you have an obsession like I do to follow some of the best related stories from around the Web. If you enjoy articles about A.I. at the intersection of breaking news join AiSupremacy here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/survey-ai-news-from-around-web-michael-spencer-",
-      "originalUrl": "https://www.linkedin.com/pulse/survey-ai-news-from-around-web-michael-spencer-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH-_z21-2zajg/article-cover_image-shrink_600_2000/0/1647054721661?e=1653523200&v=beta&t=LzhFQen8sg0FC4Wgdi_XopZqwllrPOci3ZiO8hKZruE",
-          "width": 612,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Google AI"
       ]
     }
   ],

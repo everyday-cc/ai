@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-17-using-ai-to-predict-heart-attacks.md",
+      "title": "Using AI to predict heart attacks",
+      "excerpt": "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg",
+          "width": 1000,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "publishedDateTime": "2022-05-17T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-the-next-frontier-for-healthcare-blockchain-ar-and-vr.md",
+      "title": "The Next Frontier For Healthcare: Blockchain, AR and VR",
+      "excerpt": "The medical industry has traditionally been slow to adopt new technologies, but blockchain, augmented reality and virtual reality technologies are changing that thought process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/425443",
+      "originalUrl": "https://www.entrepreneur.com/article/425443",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652285926-GettyImages-954960690.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-aiml-startups.md",
+      "title": "Flying Fish raises $70M fund and will cast net beyond Seattle to back more AI/ML startups",
+      "excerpt": "Seattle-based venture capital firm Flying Fish landed $70 million for its second fund to invest in more machine learning and artificial intelligence startups across a bevy of verticals… Read More",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/",
+      "originalUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/amp/",
+      "publishedDateTime": "2022-05-17T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform.md",
       "title": "Forma AI poised to grow AI-supported sales compensation management platform",
       "excerpt": "Forma's automated workflows unite the process, enabling sales compensation resources to focus on incentive design — not formula building.",
@@ -983,8 +1121,8 @@
       "title": "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge",
       "excerpt": "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox44news.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/",
-      "originalUrl": "https://www.fox44news.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -994,11 +1132,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T09:00:00-07:00",
+      "publishedDateTime": "2022-05-16T09:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 44 Waco News",
-        "domain": "fox44news.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1045,156 +1183,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars.md",
-      "title": "AI Ethics Tempted But Hesitant To Use AI Adversarial Attacks Against The Evils Of Machine Learning, Including For Self-Driving Cars",
-      "excerpt": "The net result would seem to be an outcome of good. Not everyone agrees with that sentiment. From an AI Ethics perspective, there is a lot of handwringing going on about this meaty topic. Some would argue that by leveraging adversarial attacks, even when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62814aa647441d8a952568f8/0x0.jpg?format=jpg&crop=2715,1528,x279,y50,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-16T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-artificial-intelligence-chip-market-to-reach-1949-bn-globally-by-2030-at-374-cagr.md",
-      "title": "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR",
-      "excerpt": "Allied Market Research recently published a report, titled, “Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools.md",
-      "title": "Inscribes battles fraud with AI-powered detection and automation tools",
-      "excerpt": "Today every $1 in fraud loss costs U.S. financial services firms $4, according to LexisNexis Risk Solutions. Synthetic identity fraud, when fraudsters create identities not associated with real people,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/",
-      "originalUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/fraud-detection.jpg?fit=600%2C600&strip=all",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/",
-      "publishedDateTime": "2022-05-16T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

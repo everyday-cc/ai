@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/google-deepmind-agi/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-agi/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Futurism
@@ -27,104 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Google's DeepMind on the verge of achieving human AI"
-    excerpt: "Human-level artificial intelligence will soon be achievable, according to the lead researcher at Google’s DeepMind AI division. Dr Nando de Freitas said that it was \"game over\" in the long ..."
-    publishedDateTime: 2022-05-19T08:30:00Z
-    webUrl: "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai"
-    ampWebUrl: "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1"
+  - title: "Pentagon closing in on 'ethical' AI implementation"
+    excerpt: "The Defense Department is still finalizing an implementation plan for its artificial intelligence ethical principles, according to Jane Pinelis, the chief of AI assurance for the Defense Department's Joint Artificial Intelligence Center,"
+    publishedDateTime: 2022-05-19T16:00:00Z
+    webUrl: "https://defensesystems.com/ai-analytics/2022/05/pentagon-closing-ethical-ai-implementation/367143/"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 74
-    images:
-      - url: " https://i.tribune.com.pk/media/images/623082907ce4897c3820b24c_DeepMin1652873089-0/623082907ce4897c3820b24c_DeepMin1652873089-0.jpg  "
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Is DeepMind's Gato AI really a human-level intelligence breakthrough?"
-    excerpt: "DeepMind has released what it calls a \"generalist\" AI called Gato that can perform 600 tasks – but does this mean it is truly intelligent?"
-    publishedDateTime: 2022-05-19T17:00:00Z
-    webUrl: "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/"
-    ampWebUrl: "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 74
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/05/19153919/SEI_104918089.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "DeepMind Introduces Gato, A New Generalist AI Agent"
-    excerpt: "Avdi Grimm describes the future of development, which is already here. Get a tour of a devcontainer, and contrast it with a deployment container. Live from the venue of the QCon London Conference ..."
-    publishedDateTime: 2022-05-19T14:13:00Z
-    webUrl: "https://www.infoq.com/news/2022/05/deepmind-gato-ai-agent/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
+      name: Defense Systems
+      domain: defensesystems.com
     quality: 54
     images:
-      - url: "https://res.infoq.com/news/2022/05/deepmind-gato-ai-agent/en/headerimage/generatedHeaderImage-1652806810649.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.defensesystems.com/media/img/cd/2022/05/19/051722_getty_fcw_pinelis-3/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Losing Ian Goodfellow to DeepMind is the dumbest thing Apple’s ever done"
-    excerpt: "What were they thinking? Apple let one of the world's most talented machine learning researchers join the the DeepMind crew? Wow."
-    publishedDateTime: 2022-05-19T19:45:00Z
-    webUrl: "https://thenextweb.com/news/losing-ian-goodfellow-deepmind-dumbest-thing-apples-ever-done"
+  - title: "Google claims its AI can understand humour"
+    excerpt: "Which is more than most Americans Google claims it has written some AI code which can actually understand humour and scarcasm, which is odd really given that is something the US has never really understood."
+    publishedDateTime: 2022-05-23T10:59:00Z
+    webUrl: "https://www.fudzilla.com/news/54890-google-claims-its-ai-can-understand-humour"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 50
-  - title: "The Download: DeepMind’s AI shortcomings, and China’s social media translation problem"
-    excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
-    publishedDateTime: 2022-05-23T12:40:00Z
-    webUrl: "https://www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/"
-    ampWebUrl: "https://www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 48
-  - title: "DeepMind’s AlphaFold 2 is half of the story"
-    excerpt: "Google’s research arm DeepMind released an open-source version of its deep-learning neural network AlphaFold 2, which solved protein folding."
-    publishedDateTime: 2022-05-20T05:02:00Z
-    webUrl: "https://analyticsindiamag.com/deepminds-alphafold-2-is-half-of-the-story/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Alpha-fold.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.fudzilla.com/media/k2/items/cache/5c1ba6a54f0edc0b4fc1f8e89a901a0d_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "Google DeepMind claims they're close to achieving human-level AI"
-    excerpt: "Google DeepMind lead researcher Dr. Nando de Freitas has claimed on Twitter that artificial general intelligence is all but here."
-    publishedDateTime: 2022-05-20T09:01:00Z
-    webUrl: "https://www.tweaktown.com/news/86316/google-deepmind-claims-theyre-close-to-achieving-human-level-ai/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
-  - title: "The hype around DeepMind’s new AI model misses what’s actually cool about it"
-    excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
-    publishedDateTime: 2022-05-23T12:18:00Z
-    webUrl: "https://www.technologyreview.com/2022/05/23/1052627/deepmind-gato-ai-model-hype/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 31
 
 secured: "VrvFhtECZdovpGVUqv4IUZoav8eANMrvUw1+JW8Q6VxOKCKGEdtBhrccm4HllKdiVQfrAUggk2AmV5avwybC6Nslix8sEHJXhrQf9KZ1IG7T983kPFGns+CMrgCGGwEi+fHxquoZtVVUPZc/sN2MlCakl9rv7iCTwHWoPFRdvRwZwsUHaWlXH7KLCwmgVBitrSnilQj7nxHt67au+JpR2leRHTPYyJa6mw9DlolUIg+QWckK50g2gG/HOrmYshXWbfs9Um1gCNQJqYu4PGYaGvJBarJEJVCS2CHR8LBzTv61Qn4H//CPX0zrUYCX+msJDbXIVTf2H5M0q79GHO32jDHdIbrBkTA8PesUOShgyXP6o5MwN3avIeUyPVKiScUTM43zdDKnKRXx/Ug4sHcbuag9clKpVRggvcWj/d2MTXJ8k3m8APsgUOAcd8k8xLBcjgbsUpLDe6aNMnKgpmeedXtP0nqMTCeQQ8d5+ojE5y3VeFCZhV8PLRfS2u5NPQ9wOx6Q65IO70ixLo2KfXNB9Q==;KmOKOyREqR+2JeFM0CRzzw=="
 ---

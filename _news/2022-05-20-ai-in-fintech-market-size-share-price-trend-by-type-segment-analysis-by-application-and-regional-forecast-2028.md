@@ -43,6 +43,36 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "UK regulator fines facial recognition company $9M for illegally storing images"
+    excerpt: "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials."
+    publishedDateTime: 2022-05-23T21:22:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images"
+    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 55
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg"
+        width: 530
+        height: 300
+        isCached: true
+  - title: "Defining “artificial intelligence” for regulation"
+    excerpt: "It's commonly stated that there is no agreed definition of 'artificial intelligence'. This causes problems in making policies and regulations about it."
+    publishedDateTime: 2022-05-24T00:15:00Z
+    webUrl: "https://www.themandarin.com.au/190364-defining-artificial-intelligence-for-regulation/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 37
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2022/05/artifical-intelligence-AI.jpg"
+        width: 796
+        height: 530
+        isCached: true
   - title: "A Short Guide to Understanding the Exciting Realm of Fintech"
     excerpt: "Fintech is skyrocketing in popularity, posing the first serious challenge to legacy financial institutions. What is it & how does it work? Find out here. What is Fintech & How Does it Work? People used to stand on the corner of a city intersection and see their options for banking."
     publishedDateTime: 2022-05-21T14:47:00Z

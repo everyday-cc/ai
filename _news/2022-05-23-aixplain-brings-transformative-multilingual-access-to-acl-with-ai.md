@@ -28,9 +28,9 @@ related:
   - title: "Transforming Government Services with Artificial Intelligence"
     excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
     publishedDateTime: 2022-05-19T18:36:00Z
-    webUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence"
-    ampWebUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
+    webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
+    ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
     type: article
     provider:
       name: Government Technology

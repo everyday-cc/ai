@@ -2,101 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-24-clearview-ai-slapped-with-a-huge-fine-for-illegally-scraping-facial-recognition-images.md",
-      "title": "Clearview AI Slapped With A Huge Fine For Illegally Scraping Facial Recognition Images",
-      "excerpt": "Earlier this month, Clearview AI reached a settlement agreement with the American Civil Liberties Union (ACLU) over the company’s usage of Illinois citizens' biometric data without their consent.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/clearview-ai-slapped-huge-fine-illegally-scraping-facial-recognition-images",
-      "originalUrl": "https://hothardware.com/news/clearview-ai-slapped-huge-fine-illegally-scraping-facial-recognition-images",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58632/content/clearview-ai-fine-illegally-scraping-facial-recognition-images-news.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/clearview-ai-slapped-huge-fine-illegally-scraping-facial-recognition-images",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-slapped-huge-fine-illegally-scraping-facial-recognition-images",
-      "publishedDateTime": "2022-05-23T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-uk-watchdog-fines-facial-recognition-firm-75m-over-image-collection.md",
-      "title": "UK watchdog fines facial recognition firm £7.5m over image collection",
-      "excerpt": "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
-      "originalUrl": "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/47c278fa57498f6cb6dfacca66029466bbf0ae82/0_140_4226_2537/master/4226.jpg?width=620&quality=85&auto=format&fit=max&s=a52403bcb19393cd53e562b4af829d1b",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
-      "publishedDateTime": "2022-05-23T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-21-trust-stamp-which-sells-facial-recognition-tools-to-ice-had-dozens-of-peoples-data-exposed-in-breach.md",
       "title": "Trust Stamp, which sells facial recognition tools to ICE, had dozens of peoples' data exposed in breach",
       "excerpt": "Dozens of names, addresses, and driver's license data were exposed in the breach, though it doesn't appear to include the data of migrants.",
@@ -157,7 +62,7 @@
       "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-707220",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -178,6 +83,49 @@
       "provider": {
         "name": "The Jerusalem Post Blogs",
         "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-edge-ai-and-vision-alliance-announces-2022-vision-tank-winners.md",
+      "title": "Edge AI and Vision Alliance Announces 2022 Vision Tank Winners",
+      "excerpt": "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit.",
+      "sourceUrl": null,
+      "webUrl": "https://fox40.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/",
+      "originalUrl": "https://fox40.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png",
+          "width": 800,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX40",
+        "domain": "fox40.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1423,6 +1371,58 @@
       "ampWebUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
       "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
       "publishedDateTime": "2022-05-08T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-08-report-intels-looking-to-sell-computer-vision-software.md",
+      "title": "Report: Intel's Looking to Sell Computer Vision Software",
+      "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
+      "originalUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-08T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",

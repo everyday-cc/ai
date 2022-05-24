@@ -2,6 +2,190 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-05-02-artificial-intelligence-cuts-miss-rate-for-colonoscopies.md",
+      "title": "Artificial Intelligence Cuts Miss Rate for Colonoscopies",
+      "excerpt": "MONDAY, May 2, 2022 (HealthDay News) -- Artificial intelligence cuts the miss rate of colorectal neoplasia nearly in half, according to a study published online March 15 in Gastroenterology. Michael B. Wallace, M.D., from the Mayo Clinic Jacksonville in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/lifestyles/article_fea534e5-27aa-50d8-b70d-7f865712f3e7.html",
+      "originalUrl": "https://www.stltoday.com/lifestyles/article_fea534e5-27aa-50d8-b70d-7f865712f3e7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/32/532b20ab-51a3-56f8-8262-5a9051a3389a/62701fdf9a53d.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-how-an-engineer-at-googles-deepmind-ai-lab-pulled-off-a-career-pivot-from-marketing-into-machine-learning-without-a-phd.md",
+      "title": "How an engineer at Google's DeepMind AI lab pulled off a career pivot from marketing into machine learning without a Ph.D.",
+      "excerpt": "Ivan Lobov used to work in advertising but spent vacations and weekends taking part in programming challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4",
+      "originalUrl": "https://www.businessinsider.com/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-healthcare-ethics-in-ai-can-software-make-ethical-decisions.md",
+      "title": "Healthcare Ethics In AI: Can Software Make Ethical Decisions?",
+      "excerpt": "they must abide by basic principles of medical ethics. Can machines behave ethically, either with or without human oversight? It's a question without an easy answer. To facilitate discussion, let's explore a few topics related to AI-based clinical tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f4e47455e0c17f79712a595/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/amp/",
+      "publishedDateTime": "2022-05-02T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-can-standards-help-a-cio-address-aiml-risks.md",
+      "title": "Can standards help a CIO address AI/ML risks?",
+      "excerpt": "As more and more organizations develop and implement Artificial Intelligence (AI) or Machine Learning (ML) applications, questions about the reliability of the results are increasing. Some high-profile AI/ML lapses risk giving this technology a bad name.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/blog/can-standards-help-a-cio-address-ai-ml-risks/480367",
+      "originalUrl": "https://www.itworldcanada.com/blog/can-standards-help-a-cio-address-ai-ml-risks/480367",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-1244482898-1.jpg",
+          "width": 797,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/blog/can-standards-help-a-cio-address-ai-ml-risks/480367?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/can-standards-help-a-cio-address-ai-ml-risks/480367?amp=1",
+      "publishedDateTime": "2022-05-02T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
       "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
       "excerpt": "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals. Baidu and a rival AI driving company,",
@@ -915,189 +1099,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-01-bioimage-analysis-has-deep-learning-changed-the-game.md",
-      "title": "Bioimage analysis: has deep learning changed the game?",
-      "excerpt": "Beth Cimini explains how deep learning can be used to make image processing faster, especially as bigger data sets are being analyzed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biotechniques.com/lab-design-machinery/sartorius_ba_sptl_bioimage-analysis-has-deep-learning-changed-the-game/",
-      "originalUrl": "https://www.biotechniques.com/lab-design-machinery/sartorius_ba_sptl_bioimage-analysis-has-deep-learning-changed-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.biotechniques.com/wp-content/uploads/2022/04/Microscopy.png",
-          "width": 601,
-          "height": 258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-30T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioTechniques",
-        "domain": "biotechniques.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-01-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a large drop in short interest in the month of April. As of April 15th, there was short interest totalling 8,800 shares, a drop of 47.6% from the March 31st total ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
-      "originalUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks8.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
-      "publishedDateTime": "2022-04-30T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-artificial-intelligence-and-the-human-context-of-war.md",
-      "title": "Artificial Intelligence And the Human Context of War",
-      "excerpt": "Yet fancy tactics are no substitute for bad strategy. Wars are caused by miscalculation and confusion, and artificial intelligence cannot offset natural stupidity.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-human",
-      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/globalhawk_1.jpg",
-          "width": 1222,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-30T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-perceptron-ai-mixes-concrete-designs-molecules-and-thinks-with-space-lasers.md",
-      "title": "Perceptron: AI mixes concrete, designs molecules, and thinks with space lasers",
-      "excerpt": "This column aims to collect some of the most interesting recent discoveries and papers in the field of artificial intelligence ... the team created a neural network that could predict material ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
-      "originalUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Step-6_AI-Sustainable-Concrete-Project-Image.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
-      "publishedDateTime": "2022-04-30T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

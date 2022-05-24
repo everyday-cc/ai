@@ -2,6 +2,144 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-05-10-microsoft-readies-its-latest-industrial-metaverse-pitch.md",
+      "title": "Microsoft readies its latest 'industrial metaverse' pitch",
+      "excerpt": "Microsoft is positioning a number of its enterprise components, from IoT to Synapse Analytics, as its stack ready to take on the 'industrial metaverse.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/85b6ea12ce92e31ebdb61572ca94cd093c168d17/2022/05/10/53c87957-c47b-474c-a213-d0e116968cd8/microsoftmetaversetechstack2021.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "publishedDateTime": "2022-05-10T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company.md",
+      "title": "Slack’s former head of machine learning wants to put AI in reach of every company",
+      "excerpt": "“The point of Graft is to make the AI of the 1% accessible to the 99% ... And this is useful because you don’t have to start from scratch on every new problem,” he said.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-924396196.jpg?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/amp/",
+      "publishedDateTime": "2022-05-10T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-artificial-intelligence-helps-prevent-suicide-in-ohio.md",
+      "title": "Artificial Intelligence Helps Prevent Suicide in Ohio",
+      "excerpt": "CareSource, a nationally recognized nonprofit health plan, announced today a collaboration with Clarigent Health to bring Artificial Intelligence (AI) to behavioral health providers in Ohio. Clairity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/",
+      "originalUrl": "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kxnet",
+        "domain": "kxnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices.md",
       "title": "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices",
       "excerpt": "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three wholly-owned subsidiary Robotic Assistance Devices (RAD),",
@@ -1027,144 +1165,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-google-announces-cloud-tpu-virtual-machines-for-ai-workloads.md",
-      "title": "Google announces Cloud TPU virtual machines for AI workloads",
-      "excerpt": "Google Cloud has announced the general availability of TPU virtual machines (VMs) for artificial intelligence workloads. The general availability release includes a new TPU embedding API, which Google Cloud claims can accelerate large-scale,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "originalUrl": "https://www.zdnet.com/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/da12492a3e3f3f9ae13884768b1cccd421e39918/2021/07/29/328ebbca-0812-4d74-8a88-a3aa8b815b5f/shutterstock-1504791845.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "publishedDateTime": "2022-05-10T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-disprz-partners-with-purple-quarter-to-appoint-alagu-sundaram-m-as-the-vp-of-engineering.md",
-      "title": "Disprz Partners with Purple Quarter to Appoint Alagu Sundaram M as the VP of Engineering",
-      "excerpt": "Bespoke CTO Search firm, Purple Quarter facilitated Disprz, an AI-powered E-learning and cognitive science-based learning platform, in finding the right tech leader by closing on Alagu Sundaram M as the VP of Engineering.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254416&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254416&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-china-is-using-ai-and-3d-printing-to-build-a-590-foot-tall-dam-without-the-need-for-human-workers-scientists-say.md",
-      "title": "China is using AI and 3D printing to build a 590-foot-tall dam without the need for human workers, scientists say",
-      "excerpt": "Using artificial intelligence, construction robots, and zero human labor, China is poised to complete the Yangqu dam by 2024, they said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/china-robots-ai-3d-print-dam-no-human-labor-2022-5",
-      "originalUrl": "https://www.businessinsider.com/china-robots-ai-3d-print-dam-no-human-labor-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6279eb5f94a2c10018eeb1f4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/china-robots-ai-3d-print-dam-no-human-labor-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-robots-ai-3d-print-dam-no-human-labor-2022-5?amp",
-      "publishedDateTime": "2022-05-09T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
