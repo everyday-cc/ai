@@ -2,20 +2,26 @@
 category: news
 title: "DARKTRACE WINS ARTIFICIAL INTELLIGENCE AWARD AT 2022 GO:TECH AWARDS"
 excerpt: "Darktrace, a global leader in cyber security AI, today announced that it has won the AI & Machine Learning Award at the 2022 Go:Tech Awards. Backed by Business Leader, one of the UK's leading business titles,"
-publishedDateTime: 2022-05-20T20:25:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
+publishedDateTime: 2022-05-20T22:25:00Z
+originalUrl: "https://fox40.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
+webUrl: "https://fox40.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: FOX40
+  domain: fox40.com
 
 topics:
   - AI
+
+images:
+  - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
+    width: 800
+    height: 328
+    isCached: true
 
 related:
   - title: "Major UK Retailer Stops Novel Malware Attack With Darktrace AI"
@@ -42,6 +48,6 @@ related:
       domain: finanznachrichten.de
     quality: 13
 
-secured: "U8d4TmCBzauph+TVY9MZjIWwKlOWEMr/a2cxI1IdihiEnFEyK4tZybGPKXdH7iikipGJDWcEwLe0B0FuW4HL+RLRd+7D7HTAnUlSRWkGz+OisHlWSjjFeUZlnCxW6IGB0giGN5D7V33DVWdA7PnFIt+FxrHpIp56Y+UmMrkuXqENULlejujIGVpvJx57wRnmpGukdjt+GEXFNRsBhz6GeFnqRtryqgXDkmgV5+Egvnw47d6u8IrfoOb0U1IRzbYye2TnFITFV6ZijXN+dpEFdw+4nFNP5u4M9L515YFGPO2No0U+UgaYAC9FfAI5ZOm8vIyzqqxfZsTHWeuN2V8SmGnzOCfQG+ZBb6JV1JddEHs=;n0Vw7AyysgULSOvao/FBTQ=="
+secured: "KvkSu3Ujf+WPHWtHPpLrkiL1wHoECnk2qg2TlSSgwVLSZooRwfE72XmXoFyqFqkVfTbAtWK7SwQQR0IVB2Erj5MxtQVw17qxztYjjsftnDVmOqF/GjHJ99YMg2eHHq0anpBcpr0dClIsG5r3fKzXsCvLaWh9ZOVJRma6B3B+wOr4vCCLN1DCZAw/gCuo2NDxKIfuH0uCgAn8sAr9IixYCY7A++q86cVE96DOBSqarFPzYYokWnyeAaXEhuacOQqgxO5qWbYZRRBd9XjQyRNTOBnVRwUZSCz3sd4/8rvlDGPEtiwwaxC10HwQHWLUSDgduYAdDR3tGG6rhi82ETyykFueutCp5RhAxOli8dFu58I=;pq4kljGwDyPfRCncUTsRBQ=="
 ---
 

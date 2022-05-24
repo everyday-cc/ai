@@ -59,20 +59,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Oxbotica completes first driverless car test on open roads"
-    excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
-    publishedDateTime: 2022-05-19T23:17:00Z
-    webUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 39
-    images:
-      - url: "https://www.shropshirestar.com/resizer/PAsXFLOw9WrxrGRAZYfim27mu6A=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/3AYSWITJCRD35A7LRP6UIGV2XE.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Tech company completes first driverless car test on Oxford roads"
     excerpt: "Fully autonomous vehicles have been driven on Oxford roads with no on-board driver and they could soon be used to deliver food."
     publishedDateTime: 2022-05-20T08:11:00Z
@@ -87,6 +73,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Oxbotica completes first driverless car test on open roads"
+    excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. Investment Minister Lord Grimstone ..."
+    publishedDateTime: 2022-05-19T23:41:00Z
+    webUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
+    type: article
+    provider:
+      name: AOL.co.uk
+      domain: aol.co.uk
+    quality: 19
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
     publishedDateTime: 2022-05-19T18:57:00Z
@@ -115,6 +110,6 @@ related:
       domain: webindia123.com
     quality: 16
 
-secured: "EZBubkEnYhrKiF2el+RBU8b1T/zHMvXIgViaodVVUkh/ncU8z2grcxY27yHO0Sl25AFp5W2vKEWcoLpfu8z3l2FRofkf4t2LAStZyH+kohD/7NEMFgN5jtJshYVbVKXjX6u34ycUvw7Lc8sHL9btL/WOo6btqTvkE67d9N6dICEHBX4iXaHJRZQvn2K5BK91v7LJ7jWkeMvoHB3/N07Yh76NB2oYPQxL0J+Ch7OGnSKg/qQBlqLXUXqOj4MVqdG/AUYXDyrbxTdXIGJMAWctyYLCroR1bR769ldElEIkrZoqteeUUBNPKKjxjo1xvvvR0i8N/YNSP/xqOOaMcBvhuDjN73F4ErOdl/zX1knj9Qo=;42TOeekTeGX1ssDUCxx8GQ=="
+secured: "J4qWSNexCRIrLUrBrtvU67M99iZ8eMm+atAHDHDt9aB6G1OTM/ODMnadJuyzODZgViMrAiw4hyu6Laf70c2QcCy0CBvjFPS2AbQhuNXjbHIkpKXkrJPL2rjkOlaZBsEiafmOnhALwadjvpkjGApBBQZYXobWLbElv1FbfWR9TZRVrtOlEj2uStkWVlOHq+tylgEwvf2wcVI80ope7spSTIIrPJS2V4tLD/ZYGNcwriRy0QdtyUm9G8Q8TQnAUp0XqB1QDDnCZz2skzl0mUbCDFRWv19uO7s0zwW2ne769Cu1hNrWAbEd+ix9nEwrif1sfqa++tqjyoVzERbFuRXL8genZtCOhZyBuufsCjYBmgE1WXhW3XBvwXaMdvzBtvf8Dhh+mp1i/58sKFEiFkH8dliZdNdpcysdx1K+NEFgWHC2LqsXqz/N6STj9ZZ9Y7tXQaSqmv9ac4TTeQ6GdmiBP/1LC0QPDD5j9yP8U0PvpXIWqSBMlFsc0Q5xVQa24XhCLO5gI6ztFGFC6Pz7F5UihA==;ov7HxjD4nmsewGewG6lnwA=="
 ---
 

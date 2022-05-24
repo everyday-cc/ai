@@ -49,20 +49,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Call Center AI Market Growing Massively by Artificial Solutions International AB, IBM Corporation, Microsoft Corporation"
-    excerpt: "New Jersey, United States - Research Cognizance announces the release of the Call Center AI Market research report. This study is one of the most detailed"
-    publishedDateTime: 2022-05-19T10:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/call-center-ai-market-growing-massively-by-artificial-solutions-international-ab-ibm-corporation-microsoft-corporation"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "0+mfCtosc5qy/BRMYPi0G3CPhV18kW+eQLS9U18uwty1wGjxL8De5kgbS0br2dXWzIxRQA/hKGsd653boFn3N1mbrc5w08zO14jojgHSXTMwldlU9/Y4ayp46AO58KvrJIDIjDppiBaZYXRfcfajhm3VXiTveuRlzrxypdgjBLyUkdUl43iTpj34xM2lyzz46/d0QAIqKTgF8Cy9yBNdiBAMKd50LK6SK4DWuTVEoyHu5nmtKzWdqTvVZIQxTzwtH9vcTmQ/7G9spWGjFyyE2ax8hFm9C8zcnRc+f08Z96ZF/kAtm0vFhLZ83X63jRC/+6Z1cFgWcmjL+/Pgegi+3YDVN71nO8FAq6ijU8ibww6mXrdeRU3+6x27mEWg7CozMjwVh8QGLwneqAfVG3SgIw2LitZNc5Zav/cY+ooOl9VVTMeEj9xUQQrDCrNf472mxk2X5Te5pPisuYqmW1xbiZX+4iAo5a+s1ZQDH5WQRqxOPcPf4MZ+uL9D+BcSp7Oa8Rn4GzyvAjNkUE4bbo8BrQ==;UERL0Kes2g93UB/kFIaWTw=="
 ---

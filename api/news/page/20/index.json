@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-05-03-tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.md",
+      "title": "Tech update: Using artificial intelligence to solve supply chain snarls, and consolidation in Canadian crypto",
+      "excerpt": "Federal artificial intelligence agency Scale AI has announced ... has a huge opportunity to take the lead in gene and cell therapy. The country has the capacity to create a multibillion dollar ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html",
+      "originalUrl": "https://www.thestar.com/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/business/mars/2022/05/19/tech-update-toronto-ventures-among-top-global-tech-pioneers-and-renewable-naturals-gas-usage-expands-into-ontario-buildings/_1_stormfisher.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html",
+      "publishedDateTime": "2022-05-03T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs.md",
       "title": "AI Visionary And Innovation Leader Sumaya Al Hajeri Of The UAE AI Office May Be Exactly What This World Needs.",
       "excerpt": "I teach how to stand up and walk again after a fall.” For my final interview with The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I had the privilege of speaking with Sumaya Al Hajeri. She is an executive professional in the field of ...",
@@ -1124,57 +1167,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects.md",
-      "title": "Square Enix Sells Deus Ex, Tomb Raider Studios to Fund Blockchain, AI Projects",
-      "excerpt": "Game publisher Square Enix is selling off the studios behind the Tomb Raider and Deus Ex franchises in an effort to streamline its business and fund new AI and blockchain investments. The deal, announced today, is valued at $300 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects",
-      "originalUrl": "https://www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00CgQX9YmOiuE3CVNmOjegm-1.fit_lim.size_1200x630.v1651503896.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects?amp=true",
-      "publishedDateTime": "2022-05-02T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

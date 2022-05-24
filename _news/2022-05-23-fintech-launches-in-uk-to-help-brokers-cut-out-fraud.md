@@ -24,22 +24,6 @@ images:
     height: 428
     isCached: true
 
-related:
-  - title: "Top 10 Upcoming In-Person Fintech Events to Be Held in Singapore in 2022"
-    excerpt: "Striving to become a global node for business tourism in Asia, Singapore has taken big steps to regain a sense of normalcy for meetings, incentives, conferences and exhibitions, by relaxing protocols."
-    publishedDateTime: 2022-05-19T10:14:00Z
-    webUrl: "https://fintechnews.sg/61268/events/top-upcoming-in-person-fintech-events-to-be-held-in-singapore-2022/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 23
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/Top-10-Upcoming-In-Person-Fintech-Events-to-Be-Held-in-Singapore-in-2022.png?x82653"
-        width: 1024
-        height: 567
-        isCached: true
-
 secured: "P2NoKq55KdOQD4lm7fVmnFXG9uC8C2QurKdTKt+vM7c5r8R+K+HhhD8aJj6XymumcarZ8cWN0TyNHu+iNvmVvlqhXC8nu9PORnPZ+LEnxgn5QEhhIugTIijystC7VPEmX1t8Q0/emZCc5RsRo6Rpj0M0biF8LPVwzhqWeICfQqiKtnte8bfRWpp1aLhTXpeda+kn3BywRyHFWd7zYU9PVOjkTiSgAxjNFyggf8XBln//1YH89hkVg6l+MTQ6OFPo0w9Gg9FOA0uM6+by2Ow4ZsSWHuNQByRlF6fcTMe6Ty6r88Hyt39NUmYVMVoMAp0aVXQV5zxNANJckGifnwW3vVRhC7CXE0A8396bIay0Yaqgvm9usxWYATQ82Ibefr/bAXB2SEq6btT5s+1Cd4rYMd/1LjC1CQUsG0+IYNB7BT4AtbgjBKD/0oVfwEXEHRPSL8h90OIkX3i1WQeTpBdHFho06hHOPu4DS9ihy95+HM/4ZyYiLxxycRPNWDhfycXk/8rfNzIrM0RBLgTMJFKJxw==;kKtCrxw0rh+UnzElfOlmIg=="
 ---
 

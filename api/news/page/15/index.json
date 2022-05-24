@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-05-07-india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability.md",
+      "title": "India and Germany in new deal on joint AI for healthcare, sustainability",
+      "excerpt": "Indo-German Science and Technology Centre (IGSTC) is all set to propose a joint “Artificial Intelligence” (‘AI’) initiative on healthcare and - Kenya breaking news | Kenya news today | Capitalfm.co.ke",
+      "sourceUrl": null,
+      "webUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/",
+      "originalUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.capitalfm.co.ke/news/files/2022/05/JITENDRA.jpeg",
+          "width": 1200,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-capitalfm-co-ke.cdn.ampproject.org/c/s/www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/",
+      "publishedDateTime": "2022-05-06T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Capital FM",
+        "domain": "capitalfm.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-07-how-to-master-the-data-lifecycle-for-successful-ai.md",
       "title": "How to master the data lifecycle for successful AI",
       "excerpt": "The AI data lifecycle is ever-changing, and the approaches we take to manage its different components need to be dynamic as well.",
@@ -1097,58 +1140,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division.md",
-      "title": "Google merges DeepMind's AI health efforts with newly formed Google Health division",
-      "excerpt": "Google acquired DeepMind, a London based artificial intelligence (AI) firm, back in 2014. The company is famous for its AlphaGo AI that defeated the world Go champion and was in the news in 2016 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
-      "originalUrl": "https://www.neowin.net/news/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2018/11/1542144283_google_deepmind_health_and_google_health_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
-      "publishedDateTime": "2022-05-05T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

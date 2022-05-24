@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Automobiles/Tesla-rival-Nio-plans
 webUrl: "https://asia.nikkei.com/Business/Automobiles/Tesla-rival-Nio-plans-Singapore-research-hub-for-AI-self-driving"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,88 +24,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Tesla releases new Full Self-Driving Beta update and it’s a big one"
-    excerpt: "Beta software update with improvements based on over 250,000 training video clips from its fleet. Based on the release notes, it’s a big update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
-    publishedDateTime: 2022-05-19T10:13:00Z
-    webUrl: "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/"
-    ampWebUrl: "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Elon Musk says Tesla will have self-driving cars without the need for human drivers this time next year"
-    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
-    publishedDateTime: 2022-05-22T18:04:00Z
-    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
-    ampWebUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Elon Musk Explores The Limits Of Tesla’s ‘Self-Driving’ Technology"
-    excerpt: "“Crash Course” includes interviews with various regulators as well as former Tesla employees, such as software engineer Raven Jiang, who make the points that self-driving technology was seen ..."
-    publishedDateTime: 2022-05-22T22:29:00Z
-    webUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/"
-    ampWebUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
-    cdnAmpWebUrl: "https://tampa-cbslocal-com.cdn.ampproject.org/c/s/tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
-    type: article
-    provider:
-      name: CBS Tampa
-      domain: cbslocal.com
-    quality: 59
-    images:
-      - url: "https://tampa.cbslocal.com/wp-content/uploads/sites/15909843/2022/05/hypatia-h_95e1fbe11735d97d17c67c941570c5c6-h_296a49084dcbd41e3bcf9362b22c1e27.jpg?w=1024&h=576&crop=1"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Tesla's Latest Self-Driving Update Is A Game-Changer"
-    excerpt: "Tesla has released a big beta software update for drivers who are in its Full Self-Driving program, offering a huge list of improvements and changes."
-    publishedDateTime: 2022-05-19T19:53:00Z
-    webUrl: "https://www.slashgear.com/868855/teslas-latest-self-driving-update-is-a-game-changer/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 49
-  - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
-    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
-    publishedDateTime: 2022-05-22T18:04:00Z
-    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 35
-  - title: "Deere leads farming revolution with its fully autonomous self driving tractor out later this year"
-    excerpt: "Deere will release its first fully autonomous, self driving tractor. Deere sees autonomy as the future of farming, and it will begin with the tractor it announced"
-    publishedDateTime: 2022-05-20T03:46:00Z
-    webUrl: "https://www.kwwl.com/news/deere-leads-farming-revolution-with-its-fully-autonomous-self-driving-tractor-out-later-this-year/article_5701d1d0-d7f3-11ec-99a5-47da1f6d26b6.html"
-    type: article
-    provider:
-      name: KWWL
-      domain: kwwl.com
-    quality: 26
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/3/e9/3e9c46f9-3fc4-574a-964a-32ca0338bd92/62870ee366845.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WOs9fBZO2RAZau253oDzVxa+t9uCMYFh0fKG4hTMTF4RHGYtdyTuk9fvVKUUeyg2RdWYgjyV/xeoAwskVDhL4ciZxnZbNfIYiSz1YUHSFwWUSM0fDRwdLlgYgLjLQnKXWtiCWrG5s/dOgx9NBFcASY9Uc3xBJkwfm7iBQT2YYy1zdMWdwVZbLVviaVH1Zfd9XsLchqGEa38/jXjREQ6NkVyUKfn09wt7oGTxuKA35rlb20RlGnvDO0HEXRgz50mLRyXy0MkdfYw/XK27PlLwgRz9qkyrTvuwkromjI+/QPPllbeGCX9H6ssO/CVb7E2vIollZtf2g9Mafn8GazkE2Uxg4yfGu90rhCyuk/goHKsr1BisjGvEo+eLYf2+7cMC6NTmaThvFd+r6fxeHi+f/00Ml+cMcfUjhCcpu0qhiL6b1wC9bVhLr+gGlATtFNG6Fc0JfnUhSAjkZS4JVj91XhoLr3h38xhwsZvG0rX1C+NilLux9Zzcn6J7QqkccfTxvCUolRAbNYHIw5UhIMJu/w==;pANM7uA6xhcDIYBC9TB9hA=="
 ---

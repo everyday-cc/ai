@@ -32,15 +32,6 @@ related:
         width: 1500
         height: 900
         isCached: true
-  - title: "IBM looks to address AI adoption challenges"
-    excerpt: "In today’s hybrid cloud reality, distributed data holds the key to unlocking value through new business and operational insights. However, according to the “Global AI Adoption Index 2021,” conducted by Morning Consult and commissioned by IBM,"
-    publishedDateTime: 2022-05-19T09:34:00Z
-    webUrl: "https://it-online.co.za/2022/05/19/ibm-looks-to-address-ai-adoption-challenges/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 17
 
 secured: "1QhG+UGCJ/XlHgfUZlGQoBtLq4LfUxho1Lwz99DVnoXqYzNQnLauvX1HGmLgHJwyNRQcE2IyThcI8lfEjipJBlcluhE1zxXvy6gsWnfBTt8cVhOASIFYX6ZW+Gvk4PeGTQ5d3ZN/kA1teUOqoxPptobbR7SNM6FM3YJOlCy/wHDDF0W3UrbmNU8UueHUVgAeHxrI1T+h1gI9VaSV8THHTBr4FjG2H+hbDSnYhhd3o4+GDQv4t5Qc9nQ7w8RvCviseWOWuxIdPQnknP+ySPEi/mdR4NUHtHrm+CLsgzszeca/8mppJwKsonGPyHIq4MKFtgXZZoU5DQy2mqD6na3qVuPD0Qb/OIAZ3pOMs69u/2El0ylg8azw7GCvrDR5ScIDQeUPtP7WbzWS0iMXMq7gSVcTKn73mrYkT3KXDG5wzu7EFK3g+vJ7hr33HJtU963RKGpFvxFIULdfDIC/ZZLXNy5ne5usCymWWfBWGHFJZVgm5OVehPbiMlTSZEFEm4xLxd8r4dzftS+jdrZZmlAWKg==;tNhqMnTDQOoWl0p9roSnZA=="
 ---

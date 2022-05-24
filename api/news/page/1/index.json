@@ -61,7 +61,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/23/__trashed-21/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -870,6 +870,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-23-elon-musk-says-tesla-will-have-self-driving-cars-without-the-need-for-human-drivers-this-time-next-year.md",
+      "title": "Elon Musk says Tesla will have self-driving cars without the need for human drivers this time next year",
+      "excerpt": "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/",
+      "originalUrl": "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/",
+      "publishedDateTime": "2022-05-22T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-22-new-deep-learning-technique-paves-path-to-pizza-making-robots.md",
       "title": "New deep learning technique paves path to pizza-making robots",
       "excerpt": "A new deep learning technique developed by researchers shows promise to make robotics systems more stable in handling deformable objects.",
@@ -1099,49 +1151,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-ibm-focuses-on-shortage-of-ai-talent-in-it-and-security.md",
-      "title": "IBM focuses on shortage of AI talent in IT and security",
-      "excerpt": "While IBM says AI can offer a path towards solving some of the workforce and skills shortages the industry faces, security researchers say the industry still needs good people to develop and analyze all the new AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/editorial/news/careers/ibm-focuses-on-shortage-of-ai-talent-in-it-and-security",
-      "originalUrl": "https://www.scmagazine.com/editorial/news/careers/ibm-focuses-on-shortage-of-ai-talent-in-it-and-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.scmagazine.com/wp-content/uploads/2021/11/GettyImages-1324245328.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SC Media",
-        "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

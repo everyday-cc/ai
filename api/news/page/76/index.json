@@ -2,6 +2,49 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-03-17-breakthrough-study-validates-artificial-intelligence-as-a-novel-biomarker-in-predicting-immunotherapy-response-published-in-journal-of-clinical.md",
+      "title": "Breakthrough Study Validates Artificial Intelligence as a Novel Biomarker in Predicting Immunotherapy Response - Published in Journal of Clinical Onco",
+      "excerpt": "Lunit's latest study provides evidence for Lunit SCOPE IO's ability to predict immunotherapy response This is the first study that adopted AI technology to define the tumor immune phenotype and to demonstrate its ability in predicting treatment outcomes of anti-PD-L1 therapy SEOUL,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=632521",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=632521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://us.acrofan.com/img/noImg.jpg",
+          "width": 500,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-timekettle-m2-language-translator-special-limited-time-deal.md",
       "title": "Timekettle M2 Language Translator – Special Limited Time Deal",
       "excerpt": "Timekettle has announced an exclusive offer for the M2 Language Translator with support for 40 languages and 93 accents. The Timekettle M2 translates",
@@ -1043,49 +1086,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-despite-ai-race-hype-us-and-china-make-a-formidable-ai-tag-team.md",
-      "title": "Despite AI race hype, US and China make a formidable AI tag team",
-      "excerpt": "With all the talk about competition between the U.S. and China to dominate AI advancement, it turns out researchers in both countries work together. A lot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/bulletins/us-china-ai-research-teams?share_id=6961398",
-      "originalUrl": "https://www.protocol.com/bulletins/us-china-ai-research-teams?share_id=6961398",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-most-ai-research-is-done-in-teams-and-the-u-s-and-china-collaborate-more-than-youd-think-less-than-p-greater-than.jpg?id=23178246&width=400&coordinates=0%2C208%2C0%2C208&height=711.4285714285714&quality=80",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/us-china-ai-research-teams-2656970398",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/us-china-ai-research-teams-2656970398",
-      "publishedDateTime": "2022-03-16T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Alchemab Announces Publication of AntiBERTa, an Antibody-Specific Machine Learning Model with Multiple Applications"
-    excerpt: "Alchemab Therapeutics, a biotechnology company focused on the discovery and development of naturally-occurring protective antibodies and immune repertoire-based patient stratification tools, today announced the publication of research demonstrating the potential of AntiBERTa (Antibody-specific Bi-directional Encoder Representation and Transformers),"
-    publishedDateTime: 2022-05-19T11:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/alchemab-announces-publication-of-antiberta-an-antibody-specific-machine-learning-model-with-multiple-applications/article_da6f3650-aed7-5f65-9195-14ab79557d5c.html"
+  - title: "New reporting guidelines developed to improve AI in health care settings"
+    excerpt: "New reporting guidelines, jointly published in Nature Medicine and the BMJ by Oxford researchers, will ensure that early studies on using Artificial Intelligence (AI) to treat real patients will give researchers the information needed to develop AI systems safely and effectively."
+    publishedDateTime: 2022-05-19T14:55:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-guidelines-ai-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-05-guidelines-ai-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-guidelines-ai-health.amp"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 17
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 58
     images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-reporting-guidelin.jpg"
+        width: 1200
+        height: 575
         isCached: true
 
 secured: "inrraFYvNdUhXVN9qUeYwIv5fIXETsRovyu+nLTvlFUULa0tuD4z4nU/kNU9s9akWVg10C6y3mpJMTshz76xqipHWL8I4eBu70mpkY2XdaELxson3gz7HgWSSFNIUgzplbacEIgN/FSZtQoigzySg2W7oHYtZiDSLLMsrOWv1GVnjtOgI4TBc01uRMAClQTfRGszmqK0U4aipV9CbxUAjGzve5e29r+3zfrj2OrWRQNUG4jq7PK/Qwtd9yirsMudutwacSbVmsfey1T+O0jKZBbM+gYBT/559glLbBjHmmQMo27L70mYaSlks+YSKFLm1CKCoXpN9hI7CfNdNCN5MTfrjDXRsiqBI4MxOXB7JPw=;JtgHYdD9DYKXYByIRr5wyg=="

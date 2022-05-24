@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market
 webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-growth-2022-share-size-landscape-top-key-players-strategies-and-forecast-to-2028-2022-05-20"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -23,29 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market 2022 Global Size, Share, Key Players, Production, Growth and Future Insights 2030"
-    excerpt: "Quadintel published a new report on the Deep Learning Market. The research report consists of thorough information about demand, growth, opportunities,"
-    publishedDateTime: 2022-05-19T10:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-2022-global-size-share-key-players-production-growth-and-future-insights-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence Systems Spending Market Key Players, End User, Demand and Consumption by 2027"
-    excerpt: "The global artificial intelligence systems spending market is anticipated to soar with a staggering 46.1% CAGR throughout the projection period between 2017 and 2027. The coronavirus pandemic is benefit from the coronavirus outbreak as businesses are remodeling operations to allow employees to work from home."
-    publishedDateTime: 2022-05-20T07:26:00Z
-    webUrl: "https://www.fmiblog.com/2022/05/20/artificial-intelligence-systems-spending-market-key-players-end-user-demand-and-consumption-by-2027/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 2
   - title: "HD Maps for Autonomous Vehicles Market Emerging Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
     excerpt: "The global HD maps for autonomous vehicles market is expected to reach a market size of USD 16.51 Billion at a steady CAGR of 34.3% in 2028, according to"
     publishedDateTime: 2022-05-23T10:58:00Z

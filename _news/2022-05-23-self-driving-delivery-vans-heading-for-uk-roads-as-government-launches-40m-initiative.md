@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 809
         isCached: true
+  - title: "Minus Zero wants to be the first to bring self-driving cars to India"
+    excerpt: "While Tesla is yet to enable its own autonomous self-driving features in their cars, Minus Zero may bring the technology to India as early as next year. The Bengaluru-based startup was able to raise $1."
+    publishedDateTime: 2022-05-24T03:15:00Z
+    webUrl: "https://www.techradar.com/in/news/minus-zero-wants-to-be-the-first-to-bring-self-driving-cars-to-india"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/rE74GZCXXpLivMo5UScv9k-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "tSc6sviOzAVuUbT72YNQ6drWou8tY+mxBLjcNTrBAcTgtJVdg34DzWM4nAcb6b0PMKgUhDdad2EAnn0yJsHNhmCZiB2TOfNJW3508mxcKPgCt2jSovQqeISOGZPKVVN/Ntr+85oZp7daO1iOTAM3LOfJ34RMiXk8akRXU4T/wGI4tWkemrRJKeydZQ7p6f3ryvbL4/B6VD6Ywsv+FyiaxQsye2M+NbKszw2gMiDhwp4a5YFeqkgNlPbSeJ5zunZAey0hynvFQnsD4rUQcfii/kSdRmkqv0n2gONi8ugSukTZthej8XF4JTXl6h2YK7Ntc+seZDdRdsE0x7vuCRnhrBTUFUJaiabtvDZ/23PHMss=;Shh16UwN2Tm6CgSfiNnM4g=="
 ---

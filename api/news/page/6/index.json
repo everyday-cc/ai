@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-16-how-to-make-sure-your-resume-passes-muster-with-an-ai-reader.md",
+      "title": "How to Make Sure Your Résumé Passes Muster With an AI Reader",
+      "excerpt": "Including just the right keywords is crucial to getting to the next step in a job search.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_jr_pos2",
+      "originalUrl": "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_jr_pos2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-544215/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916",
+      "publishedDateTime": "2022-05-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars.md",
       "title": "AI Ethics Tempted But Hesitant To Use AI Adversarial Attacks Against The Evils Of Machine Learning, Including For Self-Driving Cars",
       "excerpt": "The net result would seem to be an outcome of good. Not everyone agrees with that sentiment. From an AI Ethics perspective, there is a lot of handwringing going on about this meaty topic. Some would argue that by leveraging adversarial attacks, even when ...",
@@ -1091,58 +1142,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service.md",
-      "title": "Wyze Rolls Out Facial Recognition, Professional Monitoring with New Service",
-      "excerpt": "Wyze made its $4 monthly Cam Plus Pro subscription service widely available this week. The service introduces facial recognition and 24/7 professional monitoring to existing Wyze cameras, including the Wyze Cam v2, v3 and Pan v1. Cam Plus Pro's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/security/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/",
-      "originalUrl": "https://www.cnet.com/home/security/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/103f379b0431e0aba805ddb6894575d74c7b4e29/2019/10/23/047b0584-2536-49da-aaa2-62299e73c70b/cnet-security-005-wyze-cam-pan.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/",
-      "publishedDateTime": "2022-05-13T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

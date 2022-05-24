@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/company-testing-self-dri
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/company-testing-self-driving-trucks-on-i-576/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Gatik says it will put self-driving trucks on the road in Kansas"
-    excerpt: "Autonomous delivery truck startup Gatik on Thursday said it will be putting its box trucks on the road in Kansas after state officials gave it and its partner and customer Walmart Inc the go-ahead."
-    publishedDateTime: 2022-05-19T10:23:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/startup-gatik-says-it-will-put-self-driving-trucks-road-kansas-2022-05-19/"
+  - title: "Deere leads farming revolution with its fully autonomous self driving tractor out later this year"
+    excerpt: "Deere will release its first fully autonomous, self driving tractor. Deere sees autonomy as the future of farming, and it will begin with the tractor it announced"
+    publishedDateTime: 2022-05-20T03:46:00Z
+    webUrl: "https://www.kwwl.com/news/deere-leads-farming-revolution-with-its-fully-autonomous-self-driving-tractor-out-later-this-year/article_5701d1d0-d7f3-11ec-99a5-47da1f6d26b6.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 53
+      name: KWWL
+      domain: kwwl.com
+    quality: 26
     images:
-      - url: "https://www.reuters.com/resizer/_v2ApWQ1q4Cs8Z28LcNgb-j9H64=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XOJGUX6FABJ5XHA3KQ2XVF3TCU.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/3/e9/3e9c46f9-3fc4-574a-964a-32ca0338bd92/62870ee366845.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
 
 secured: "GmI45Cote1FQ8coa9W9+bZig75gh8X8HhY/7sZ3uFLayInC/N4FDfO5RbmGCpnMnNQCqFdvWcgTCvv96B+tPqsVOYo5xdK3eQmaC7DXN9Q9m3yoOz/T+Yh/MvLlxaPy+Bpc5guvkUU8UKdagDJqHzTxXvyaZC9acXufhE6aTtcGMFSLTJNFZOO2Ssmpz1jTf6r6iobWID8T3orR7trnaKEmj1EwFhOmKTZPnv3nhEmc4rCQN/QeK/Rf60WUA1eGKLYonptkixgiAvvfMmX53CGKVAKhQmOW/izark+99KCOjswUp3jGOXWTzMNOb31O+kznUKqx4pUi/US5690DJsT0OhXrgDbG3MMco8KYUnN4Wv5g1DEicZ9LecjR/CO231xC2tUxOeP6rB0IeD7pasw4EiCq4E2yOtmMELHEY5/td2b9wA0UYSnDEI38Cdt0RLZUCo2UL878+Jy6Y+zh+ug5K96K6PXKMtNKpRwKc8l5oOBZJjfdRPVkxTt2QuhShal2JtKDDCeujjByCrkT1vQ==;E+SnLCOQsuX+4IfuTAouCg=="

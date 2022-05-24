@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google’s DeepMind says it is close to achieving ‘human-level’ artificial intelligence"
+    excerpt: "DeepMind, a Google-owned British company, seems to be on the verge of achieving human-level artificial intelligence (AI)."
+    publishedDateTime: 2022-05-24T02:06:00Z
+    webUrl: "https://techstory.in/googles-deepmind-says-it-is-close-to-achieving-human-level-artificial-intelligence/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 49
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/05/hhh.png"
+        width: 698
+        height: 486
+        isCached: true
   - title: "Google DeepMind claims they're close to achieving human-level AI"
     excerpt: "Google DeepMind lead researcher Dr. Nando de Freitas has claimed on Twitter that artificial general intelligence is all but here."
     publishedDateTime: 2022-05-20T09:01:00Z

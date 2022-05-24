@@ -51,20 +51,6 @@ related:
       name: Aviation Today
       domain: aviationtoday.com
     quality: 44
-  - title: "Call Center AI Market Growing Massively by Artificial Solutions International AB, IBM Corporation, Microsoft Corporation"
-    excerpt: "New Jersey, United States - Research Cognizance announces the release of the Call Center AI Market research report. This study is one of the most detailed"
-    publishedDateTime: 2022-05-19T10:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/call-center-ai-market-growing-massively-by-artificial-solutions-international-ab-ibm-corporation-microsoft-corporation"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "AKWTLCKSRM+Q0j6F/rJYhW+Ar9MerhNISz/XdAYL76dHYLG4M5mtTRddLQVvbIFpWL1f8LjEm0hEmXOSM1Li7uBJxWSABztZDjQUF/Xn98L8FTcq3aOW8wfnsgB/16lgvTvJZdjjRh23aqrxBzW8b8igoscNHlTqHjrjK2eniUZVc53uzL/4YKhoizLl9uHmsXQSFRpD9qaF6ji6Z0Re5MbgyVu66Z7dhqwdNuQVFMu8ya3vGW3+/KwuGh0Osq/BOWkJI1PQeDTtKtuhcUDgr8hP1fM5h3IvZ35rXH8/UX4GaDijqxPZuxPejmErpo34OXwgml6pOa9OegblcICRT8hjnfh4hbYKkN4nywWIYY6LLdc4r5i3j3MrYMNtbr+HirW0RUeXYb9HDFhZ8J5YbUcg+RovW86IE49rWRuSNo0nlBtU/TSyMbpYj+kjeUTjpo9RK6S+ri+TTJ+S7mU+uB6RjPwEPIbR7NpuMPDY9/Tff3hOKCn+dvViGrf6FatPizfDuLZwdo+RCDUTaqqvpw==;9FXcOK27IHTxyJHvaKzrCQ=="
 ---

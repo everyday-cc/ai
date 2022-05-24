@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-05-05-artificial-intelligence-streamlines-rental-assistance-at-dha.md",
+      "title": "Artificial Intelligence Streamlines Rental Assistance at DHA",
+      "excerpt": "\"Vacancies are money,\" says DHA chief Troy Broussard. The public housing authority decided to \"think different\" in coming up with solutions to a time-consuming process.",
+      "sourceUrl": null,
+      "webUrl": "https://dallasinnovates.com/artificial-intelligence-streamlines-rental-assistance-at-dha/",
+      "originalUrl": "https://dallasinnovates.com/artificial-intelligence-streamlines-rental-assistance-at-dha/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s24806.pcdn.co/wp-content/uploads/2021/01/Top-Ten-Most-Popular-light-cursor-arrow-click-thin-line-flat-color-icon-linear-vector-symbol-vector-id912208236.jpg",
+          "width": 970,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Innovates",
+        "domain": "dallasinnovates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-deep-learning-chip-market-revenue-growth-factors-trends-key-companies-forecast-to-2028.md",
       "title": "Deep Learning Chip Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2028",
       "excerpt": "VANCOUVER, BC, UNITED STATES, May 4, 2022 /EINPresswire.com / -- The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue ...",
@@ -1123,50 +1166,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology.md",
-      "title": "VW Group To Rely On Qualcomm Chips For Its Self-Driving Technology",
-      "excerpt": "All VW Group brands will use this chip starting in 2026 in a deal that runs through to ... Instead, it is also working alongside Argo AI and has already partnered with the company to develop an all-autonomous version of the electric ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
-      "originalUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2022/05/VW-ID.-Buzz-2a-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
-      "publishedDateTime": "2022-05-04T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

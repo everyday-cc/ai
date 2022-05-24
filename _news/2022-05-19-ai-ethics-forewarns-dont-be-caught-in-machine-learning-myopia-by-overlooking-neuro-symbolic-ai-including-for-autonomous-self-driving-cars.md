@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/19/ai-ethics-forewar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/19/ai-ethics-forewarns-dont-be-caught-in-machine-learning-myopia-by-overlooking-neuro-symbolic-ai-including-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve//62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1833,1235,x170,y0,safe&width=1200"
         width: 1200
         height: 809
+        isCached: true
+  - title: "Minus Zero wants to be the first to bring self-driving cars to India"
+    excerpt: "While Tesla is yet to enable its own autonomous self-driving features in their cars, Minus Zero may bring the technology to India as early as next year. The Bengaluru-based startup was able to raise $1."
+    publishedDateTime: 2022-05-24T03:15:00Z
+    webUrl: "https://www.techradar.com/in/news/minus-zero-wants-to-be-the-first-to-bring-self-driving-cars-to-india"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/rE74GZCXXpLivMo5UScv9k-1200-80.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Self-driving delivery vans heading for UK roads as government launches £40m initiative"
     excerpt: "Self-driving vans, buses and shuttles could soon hit the UK’s roads following the launch today (23 May) of a £40m funding competition. The move aims to kick-start commercial self-driving services, including delivery vehicles."

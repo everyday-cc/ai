@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Oxbotica completes first driverless car test on open roads"
-excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
-publishedDateTime: 2022-05-19T23:17:00Z
-originalUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
-webUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
+excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. Investment Minister Lord Grimstone ..."
+publishedDateTime: 2022-05-19T23:41:00Z
+originalUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
+webUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Shropshire Star
-  domain: shropshirestar.com
+  name: AOL.co.uk
+  domain: aol.co.uk
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.shropshirestar.com/resizer/PAsXFLOw9WrxrGRAZYfim27mu6A=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/3AYSWITJCRD35A7LRP6UIGV2XE.jpg"
-    width: 1200
-    height: 900
-    isCached: true
 
 related:
   - title: "Could Brands Like Tesla Lure You Into Buying a Driverless Car?"
@@ -115,6 +109,6 @@ related:
       domain: webindia123.com
     quality: 16
 
-secured: "WB12jkNdy/685Kuu1qmBNmTc8ev0KeyOa/Bd2Wlxb9okU2jiNscP5D8SrkIINndHJzKjVi/ZSW7Tgef7nU2LBX+ULKnl50RDyzlMWeXFQp2sx08uI4YKg7Gx3Gx5F1sR0FKAVdV28ZzvvTeyStgG6D60TeA5Uq9raLkQ3X8wtJ/LiM6GnS28D8p94NOewhcyziLgncbNpOLgkl3dTepKwPaHjvaQtTjFNmr4Nup85IIp1jll16bol8kjEcWYZVejOUO37LF8cBsRl8U8lFq3cjDcRg+eJkNqEROqrl5hBhLTZsv4T7mYfkPMlVIJPLdpNF3g2XW4GebbKfC3HiQJ1UUdQT1yXcbAchTsTET1bRM=;l0b9x01efz6Pmsz1ya+png=="
+secured: "/QdOxGvPFuADJ6wntQOpzRtpXrpXLVag88KwAWMmLPxScBUWu3Os1ar24/rdDwSmhEab1qGvQVbiOivqAX56vFFW7IJX9WADc8IlRI4szdI+0YVVKjlj/Ta0CeSgOV3sswUGUoze65zXgT9jDbSDiSJHqIHrPLzP+jOUxmRuS6nPnOM7XXEuH3a5LgjUH6mWpYXHaDloH0ITuykqzHKHtyiCEpXsPgprupL/rRg5FvcATebMwoV55155QP2nInM2PpxbTGRhbflqsHHACTh9lG9a6lEIQJw0++O5gYPkHvytmJYZURZZCOIw4chhgLF+At2E3qPmnSWkyofrdyAZ2q8wWnCRiE8liHRQyRdOOKA=;iJMyA2X+hC0U+wRINicK2A=="
 ---
 

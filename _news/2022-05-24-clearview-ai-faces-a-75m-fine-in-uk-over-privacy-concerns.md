@@ -151,6 +151,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Clearview AI hit with fine in the UK for illegally storing images"
+    excerpt: "The embattled facial recognition firm Clearview AI Inc. has been fined £7.5 million ($9.4 million) by the U.K.’s privacy watchdog for illegally storing images of people. The company, which has its headquarters in New York City,"
+    publishedDateTime: 2022-05-24T02:47:00Z
+    webUrl: "https://siliconangle.com/2022/05/23/clearview-ai-hit-fine-uk-illegally-storing-images/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/3340932353_c0e4f68dc4_c.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "ICO fines Clearview AI more than $8M"
     excerpt: "The U.K.’s Information Commissioner’s Office (ICO) has fined Clearview AI over £7.5 million (nearly U.S. $8.06 million) for collecting people’s images from internet and social media sites without their knowledge or consent to create a global online ..."
     publishedDateTime: 2022-05-23T17:41:00Z
@@ -183,15 +197,6 @@ related:
       name: theregister
       domain: theregister.com
     quality: 18
-  - title: "UK fines US AI firm £7.5m over mass image collection"
-    excerpt: "The UK's data watchdog also ordered the company to stop obtaining personal data of UK residents available on the internet."
-    publishedDateTime: 2022-05-23T13:36:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/uk-fines-us-ai-firm-7-5m-over-mass-image-collection/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
   - title: "ICO fines Clearview AI $8M over alleged data privacy lapses"
     excerpt: "The U.K.'s Information Commissioner's Office has fined Clearview AI over £7.5 million (nearly U.S. $8.06 million) for collecting people's images from internet and social media sites without their knowledge or consent to create a global online database that could be used for facial recognition by law enforcement."
     publishedDateTime: 2022-05-23T17:39:00Z

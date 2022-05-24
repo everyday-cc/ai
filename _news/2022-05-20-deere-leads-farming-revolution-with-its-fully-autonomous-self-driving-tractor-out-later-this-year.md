@@ -25,86 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla releases new Full Self-Driving Beta update and it’s a big one"
-    excerpt: "Beta software update with improvements based on over 250,000 training video clips from its fleet. Based on the release notes, it’s a big update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
-    publishedDateTime: 2022-05-19T10:13:00Z
-    webUrl: "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/"
-    ampWebUrl: "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/"
+  - title: "Company testing self-driving trucks on I-576"
+    excerpt: "To get more of these autonomous trucks on the roads, there's some legislation going through Harrisburg right now to get the door open to see more of these when you're out on the roads. Senate Bill 965 and House Bill 2398 would make it easier for autonomous driving in the state."
+    publishedDateTime: 2022-05-23T23:35:00Z
+    webUrl: "https://www.cbsnews.com/pittsburgh/news/company-testing-self-driving-trucks-on-i-576/"
+    ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/company-testing-self-driving-trucks-on-i-576/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/company-testing-self-driving-trucks-on-i-576/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2022/05/23/72d25877-790f-402f-9038-6672c0d27eb7/thumbnail/1200x630/08b3dd168f456d96d952a3c154001626/locomation.png"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "Elon Musk says Tesla will have self-driving cars without the need for human drivers this time next year"
-    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
-    publishedDateTime: 2022-05-22T18:04:00Z
-    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
-    ampWebUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Elon Musk Explores The Limits Of Tesla’s ‘Self-Driving’ Technology"
-    excerpt: "“Crash Course” includes interviews with various regulators as well as former Tesla employees, such as software engineer Raven Jiang, who make the points that self-driving technology was seen ..."
-    publishedDateTime: 2022-05-22T22:29:00Z
-    webUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/"
-    ampWebUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
-    cdnAmpWebUrl: "https://tampa-cbslocal-com.cdn.ampproject.org/c/s/tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
-    type: article
-    provider:
-      name: CBS Tampa
-      domain: cbslocal.com
-    quality: 59
-    images:
-      - url: "https://tampa.cbslocal.com/wp-content/uploads/sites/15909843/2022/05/hypatia-h_95e1fbe11735d97d17c67c941570c5c6-h_296a49084dcbd41e3bcf9362b22c1e27.jpg?w=1024&h=576&crop=1"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Tesla rival Nio plans Singapore research hub for AI, self-driving"
-    excerpt: "Chinese electric vehicle maker Nio will establish a research and development center for autonomous driving and artificial intelligence in Singapore, in the Tesla rival's latest bid for digital talent."
-    publishedDateTime: 2022-05-20T16:18:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Tesla-rival-Nio-plans-Singapore-research-hub-for-AI-self-driving"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 56
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F4%252F1%252F1%252F40461140-3-eng-GB%252FCropped-16530628192021-04-19T041433Z_1114811952_RC2SYM9EBE2T_RTRMADP_3_AUTOSHOW-SHANGHAI-NIO.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Tesla's Latest Self-Driving Update Is A Game-Changer"
-    excerpt: "Tesla has released a big beta software update for drivers who are in its Full Self-Driving program, offering a huge list of improvements and changes."
-    publishedDateTime: 2022-05-19T19:53:00Z
-    webUrl: "https://www.slashgear.com/868855/teslas-latest-self-driving-update-is-a-game-changer/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 49
-  - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
-    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
-    publishedDateTime: 2022-05-22T18:04:00Z
-    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 35
 
 secured: "xgI1Ly0DnikF2TSFJwSvJsthdFZqf0vQYWKoFMX0mugrlxbZ7Ru3GnZsPQBie+fxw0zWGeKiC4OqSw6kI7QyFi2VBBw+dLNsNBhLmMSLwH1DMI33437Ww4OYUbckgQlz64DcBBAO+H066nqVbQZVYrUicfMjfP1qCXGVG+BA6FIgM6Bm+UuQ3H/dR4ECmuUeKEH3xQdWDEX/fGFSA2IBSISeW/P+l954tTr6JeqpD/QQuP/xMJ3RJl+46tsjkTRp7yfnb1EKl2zqPNGxBQBy/D4aXHjW1PaS4reexdnkl8/vZWN4kNeGs87u5nOYoNDZLUGMS/X3FjUxiKiX6HhXB8+oeyQ9SZfVo1bs5xGi30egRZ2c/IbpqOmHHOYpuJFEH5sDun9H7y0/tMWoOYYTl5RkTwikCUMuHl/r4F/44NDK+ptvJ0GBZADTzh4weKGFjLekU79bx+mLG3Mv5JgQc682oPJLV2ZYDiyZE59BBNlS0K48e7WkAqjIBOfqK43xwnq3M1DlxeLYJ78CqZNlCw==;yrTqrPlL4SSf0iX0l/wIPA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.scmagazine.com/editorial/news/careers/ibm-focuses-on-s
 webUrl: "https://www.scmagazine.com/editorial/news/careers/ibm-focuses-on-shortage-of-ai-talent-in-it-and-security"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: SC Media
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM looks to address AI adoption challenges"
-    excerpt: "In today’s hybrid cloud reality, distributed data holds the key to unlocking value through new business and operational insights. However, according to the “Global AI Adoption Index 2021,” conducted by Morning Consult and commissioned by IBM,"
-    publishedDateTime: 2022-05-19T09:34:00Z
-    webUrl: "https://it-online.co.za/2022/05/19/ibm-looks-to-address-ai-adoption-challenges/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 17
   - title: "IBM launches a software-defined storage server for AI"
     excerpt: "IBM has added a new member to its Spectrum Scale Enterprise Storage Server (ESS) portfolio that featuers a faster controller CPU and more throughput and that is designed  to work with Nvidia’s DGX dense compute servers for AI training."
     publishedDateTime: 2022-05-20T19:28:00Z
