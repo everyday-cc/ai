@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robots and the Future of Remote Healthcare"
-excerpt: "Although the technology has been around for several years, it is crucially important as we start to look toward the future ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that ..."
+excerpt: "As a result of the COVID-19 pandemic, healthcare innovation has been occurring at an unprecedented rate. A growing focus on technology -- and the ways it can help improve patient care and the provider experience -- is now at the forefront,"
 publishedDateTime: 2022-05-11T01:10:00Z
-originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
-webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634?fr=operanews"
+originalUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
+webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
 type: article
 
 provider:
@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "mzKIYNaNSEDNvwSmujJFgqPOQDWTZ0O+nVbXbS0A+wG/i/tYdHwnPeyEKuZSgJm54XcvbuhbAryoLpK+eKqCx7vgq/1iRX7w0tMMzJyTh0GsPeCkwlYOlogV/DqpujNHsEGO2dj3tA8CuaAsoJOGIo1UuvhJsOT+37hfa5QMJ06Z0zIk+ur7nkYH7m84ymqLeUGOL1hZLwE+ojX9BZUp0Q1LkVILiQ2b0hVI0q+9A3B/Voip5kPIfDftRFP6QT5VMnY3HcLo3sJsD9qRs+YXrAcGwKp3/qm6sGPZ7+hAPvhWGOm4xPf+Qxor16phHlDLpuRq6psGNG3/IjTT/u13G1drtm+yUb6z3rtl0XuaWUffWIVtzRfoIH7jDBCTzwcQeQjlAItT7udRaQ1fYGOb89OWETFvArSpN1Jx6dDnTmh+9gPE6pp5X+qzhwkCZsLRVoktiFeF9A9jFWjUOzknlgqkoi/RYLy5J6FzPneWftDVMor3x++jQaQcbi//lTCEgV0D6zokdsn671Ruj1pWFg==;KCaJEhooqoCP8YpEgVwBuA=="
+secured: "3ZDkxvJcO5SioYEK2u147xN1Q6Z0Az7u1VvgbU2I+HbbJRqNrsZUT4irzrOQ3RL8fsT5iVVyvcZOHRkgSGZtqMGtxP0JTtLxZC4cECzRm4jb2gcthupdHcw5AHaRif0QQ0dSlv8yETwgt9/ax7xl40TRg/jiD0mPqff5EcfOkorCSeRsFGQyBNL8sodc7KiE43RXyrpumkPqMdimMDUPfhsJCGmBW5v1Bq9dfupHninA8uh+nT1E5Xmxj5Cinpuuyb9wnAmhlOMuO4g+ZUILp5i5u0sMkO5g/oKb+/Te+SOMmtJKYcd//kiJG0b8JQ8J7KHWgUAKqvsBwo4tG6AjnNifHFRIqilJHWzqkLkzpq1IN+UclsrbUW9sTjGjNoNAun6lDRUx2oI1301JIxFwJuq3jtDfNDyW2cntv1qtIVtBq0GVh+ReNoI9UvUny4u8smobaraPl4K2IYzDLKxPsGft/8EtorpbjADkGJu8Fjdaxh12burem5jVrAtbaUpntsM3ON3S2eB8NjfGsjIgtw==;lmVqLfswg5FtF3+6TRT8SA=="
 ---
 

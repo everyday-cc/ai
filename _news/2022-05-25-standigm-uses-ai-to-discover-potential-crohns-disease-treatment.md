@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/article/2022/05/24/standigm-uses-ai-to-discover-potential-crohn-s-disease-treatment/15443479-1-eng-GB/Standigm-uses-AI-to-discover-potential-Crohn-s-disease-treatment.jpg"
@@ -49,6 +50,6 @@ related:
       domain: sciencedaily.com
     quality: 38
 
-secured: "Ir4MhVLXJoqcvjJlGu6l0CUO3scOnpDUqmzNTL0X/CnWEF+zWAk47rJrywVreR02g9OeZOdBBV7JgQiSmf7+v9qENuJpLt8uQyufXOIm1U1qtWWSSgfZsmjXW4i5eYz41LvzJddz2ya4XtmtkmuVo1Tor4NXZGsP1PRU0t8osOdngadv8p43vmsjpj+lCsBR+5PWNI3G0+xa/srtK1A4/rrqvB/keFLx8IrzHvqyhKllCzoR7NbJvSqcVZH4zbctRSaoR5Ww8/U10ci1ALlaakvDlirsxFYA41PovIGFFrbJ5+KCzNxhdytUgFZgZxJ1MV8Wd6b0U1PNF4AUU0NvXYAvknoVESpPufNCPQ7bOg8=;ViGcTky/BRN4nxMsQYxmhA=="
+secured: "LBKXmdsxbxst0tVXxvZWNgBuXjcA9+6F/fTO+dHhronZMODm+LfgPDAjuCXWLto1iBhsHNuJshMegVRY2IYP6d2DzGhwMLebIs9L7z4LaBpIBWyHsno5ucN68UyJ6VfazuuJtqbO7QDHki0Glp3s/RbkVNKl59a0mW580tmnBR8Cv5MTanhgdXQJfB8iadBKEDxYrA4zSHrgMvkWuIixCTIWejUC07Ak9hlzqk22LRtIY8gSzZx2ux9AFBIknqZ86Nmy/yanizxGKQ9n750h0+7Jozc+ECKdHflE2XoYW0mYoaDmMCXtp7EBlf72pb+a79t6qsz52P09Eqq4jzf9S/G0z782yEOxMbRjupagCwM0MGg1kpMkJXyMxevmod+GiphJwnjFyQy073ZyYh09pQvCSMOK+yH0WOZUeMb+tiMTpj/5pvFcktEjztvQbjFTQGpI2I1vJVd+7EUlQwYR20UOM5B8j7Dc7IBBNDgThd73sMYR4WrNc1QlPZ2Yd3vFU673cINjS6UHLQQ+0lzHlA==;CeC2fBGXASObSTG6f+5skg=="
 ---
 

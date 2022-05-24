@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "How To Make AI Marketing Initiatives Actually Deliver"

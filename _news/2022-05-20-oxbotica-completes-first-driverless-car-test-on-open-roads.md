@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.shropshirestar.com/resizer/PAsXFLOw9WrxrGRAZYfim27mu6A=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/3AYSWITJCRD35A7LRP6UIGV2XE.jpg"
-    width: 1200
-    height: 900
-    isCached: true
-
-secured: "0iTa9nYob4w38IUlYiY5HBT7N7jDCOIfY+KzAdsNYPULPzLZTDCTn1MArkJ4COCWM14iPxFTDixkmPBh+EY4jggXkoIzZviKMefp1qWcW9vM3oSdryLvCNgMv5m8aGUV1/S2Rfr35Hv2ik5lFTshJtXQBwJAfHmwLL3n9bu1nr/CWJy3rH1NspDi8jVm74DnNy13+seYIbTpPTKdgVbwCq9JMJlUSQjiBK3GSLxYiP6xto7JzDi7dZRuUbEGhM040VVgqYIoSc/x0gEgdiDP7LHGB4d5fFF4swx99MfatbxSpfQFyjJN546079esWk2W6ZVzhYu0ZM1huBN7J45a1yyLJxBN8KIR/CYIwpr8g/s=;lM0DU4jg8ghuPZrr9IH3jg=="
+secured: "MCrGoxGWjqiXHK2xxUXpp+wHoC/viMAMG2uJ676p6oRJyMIKL/utE2GRpwOIvJW934phBTsT1XQvjyRJ2FHm9XK2CBebtSo3lO0KW/fQ129Aq083PIiPg/y1KdMoLNZHqKr2RmUUW5huiO9qO5A7uZO5xzgQuspKyX9j5ojs1SN1T2L+BXjONmxiq52NKPZT0sSAgXjPmKbToItHRtHYAW5RRJXnpZQ02FeuQcdf+coympDAcQCdMf8fQJu1j6NXXG/6qGI5bXlxkiLI6zfT25gE2Q1kgTo5zrz+lPt08X3GNXHSWK5VcfeuLUZdeTL8jCIV2yqYf7pQkTAYIXCeLiBjCE/bDPp+Ng6WBi60FbM=;RccugVkgIEO+uRjvHO9fJw=="
 ---
 

@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/microsoft-ai.jpg"
@@ -295,6 +296,6 @@ related:
         height: 350
         isCached: true
 
-secured: "TmRsdZUuYPi2m2iY1ezD8AuBGIZc9Bh4v9B64CEciEb9P8GzsJ61JXZ+jaOnyqorhb7kJkkHiTJfPyyerrztCyRXK/+dlgBXaPYiOOEnM7gdf7E90fVj+ZeCDfhyrZdwM8VW0tLOoPmyx+07cxMkFmWLXRduxElKT0yDSGVzwrPlkfBqK2ACTMHwf+eUG6ptpxvPbFK2fITIitZs8Mv6r43EzGNxKZMlq3SH6aNEZdjkwv4bc4RNIdzKzufYGuOrQ8W6ayTtxu9o4Pgjz9wxzqP1inN6c/I/7o2BnuEPJfh+UuQgUHgi3RA66xfaq7R1493/MOWgALd4n3dV1RqgYjV70lxkWFjMENL3PkL6Fuo=;juZ/dpnZP1ar6Ean1DvYew=="
+secured: "JycPqJ2/BchEkiX/SJ+mMN5fh0TtshNS33w0koCbfFhhj9d9pX+awEqcsxuMm5svVawgdY1gPd2PRUgDAl1uPjbLYLmwKD4GWgzTyGpY1C2982rzNd4HRlUurWlE5PaqSMA4FTye8RDk+Mg3FDhzHWytj+Br4GITDyzSGUo8phJ4m4T++ZtKZd97/ePWsTGu0CrtoqeCgN2YtO8QsJxJo2WJMvxxajJXXnFxJfswbgQmhNRztNJ+FSCgy4Nw8jnpeX1AiZciyyM0RGYiRQR3+DwpUihSreaBq33F+r8TnP+md+bnj8eIO/NNlk04whNunZkKSdwfqkz5JAVuLb4Ahs33Mv9VfWr4tDnhHJl0/CY+gDWBhQt/hkeV5vNy9S1dDN9RhJnmdP4PFhPVsGmDG6LgQLBYyoBqWmI44JCcXIuu8U8quWGxfmrF/dJXdHXgwJIvd0JdYzf6Z7mTA2PwgawwED3GksxuHPTa73sEi5N5fvkJrs/ig6S/XZ2lU7gKAo4rdHou6cbhiFFCfnBUug==;shBi923LM8ko+e9wRuQxxA=="
 ---
 
