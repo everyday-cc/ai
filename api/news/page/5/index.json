@@ -2,6 +2,162 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-17-forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform.md",
+      "title": "Forma AI poised to grow AI-supported sales compensation management platform",
+      "excerpt": "Forma's automated workflows unite the process, enabling sales compensation resources to focus on incentive design — not formula building.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/",
+      "originalUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-sales_performance.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 1659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/forma-ai-poised-to-grow-ai-supported-sales-compensation-management-platform/amp/",
+      "publishedDateTime": "2022-05-17T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online.md",
+      "title": "Cybercrime Is Evolving: Artificial Intelligence Can Help Improve Consumer Safety Online",
+      "excerpt": "This is where artificial intelligence comes in. By harnessing the power of artificial intelligence, we can make the fight against cybercrime more effective and help protect consumers from the ever-growing threat of online crime. I had the pleasure of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62829735da902be673e6f1dc/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/05/17/cybercrime-is-evolving-artificial-intelligence-can-help-improve-consumer-safety-online/amp/",
+      "publishedDateTime": "2022-05-17T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-widely-available-ai-could-have-deadly-consequences.md",
+      "title": "Widely Available AI Could Have Deadly Consequences",
+      "excerpt": "In September 2021, scientists Sean Ekins and Fabio Urbina were working on an experiment they had named the “Dr. Evil project.” The Swiss government’s Spiez laboratory had asked them to find out what would happen if their AI drug discovery platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/",
+      "originalUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6282dd0483768a9d8a5c8f82/master/pass/AI-Drug-Discovery-Molecules-Business-455668503.jpg",
+          "width": 2400,
+          "height": 1769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-dr-evil-drug-discovery/amp",
+      "publishedDateTime": "2022-05-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026.md",
       "title": "3D Facial Recognition Market Growth, Competitive Methods and Forecast 2026",
       "excerpt": "May 17, 2022 (Market Insight Reports) -- This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report ...",
@@ -1054,144 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-crippling-ai-cyberattacks-are-inevitable-4-ways-security-pros-can-prepare.md",
-      "title": "Crippling AI cyberattacks are inevitable: 4 ways security pros can prepare",
-      "excerpt": "As enterprise companies battle a growing number of major security breaches, they need to prepare for increasingly sophisticated AI-driven cybercrimes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
-      "originalUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1057918132.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
-      "publishedDateTime": "2022-05-16T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-us-cops-kick-back-against-facial-recognition-bans.md",
-      "title": "US cops kick back against facial recognition bans",
-      "excerpt": "In brief Facial recognition bans passed by US cities are being overturned as law enforcement and lobbyist groups pressure local governments to tackle rising crime rates. In July, the state of Virginia will scrap its ban on the controversial technology after less than a year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/03/05/facial.jpg",
-          "width": 1000,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/",
-      "publishedDateTime": "2022-05-16T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-behavox-research-on-continual-learning-featured-in-international-conference-on-acoustics-speech-and-signal-processing-icassp.md",
-      "title": "Behavox Research on Continual Learning Featured in International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
-      "excerpt": "Behavox, which provides a suite of security products that help compliance, HR, and security teams protect their company and colleagues from bad actors, today announced that its academic research paper on artificial intelligence “Continual learning using lattice-free MMI for speech recognition” has been accepted by the International Conference on Acoustics,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

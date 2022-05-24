@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Could Brands Like Tesla Lure You Into Buying a Driverless Car?"
+    excerpt: "Established and emerging manufacturers have embarked on a journey to produce the most reliable driverless cars to compete in a growing market. But people still don’t trust AVs are safe, despite potential benefits of fuel efficiency,"
+    publishedDateTime: 2022-05-20T18:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/"
+    ampWebUrl: "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 74
+    images:
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/GettyImages-174038219.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A start-up aims to bring driverless cars to Indian roads"
     excerpt: "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au"
     publishedDateTime: 2022-05-23T07:52:00Z

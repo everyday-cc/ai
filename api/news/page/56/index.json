@@ -2,6 +2,197 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-04-01-worlds-smartest-traffic-management-system-launches-in-australia.md",
+      "title": "\"World's smartest traffic management system\" launches in Australia",
+      "excerpt": "Modern cities produce an absolute avalanche of data every second of every day, from cameras and sensors belonging to dozens of separate systems. In such a smart world, it's amazing that so many traffic lights are still so dumb.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/",
+      "originalUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/d27f7eb/2147483647/strip/true/crop/2940x1960+146+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fdb%2Fa7%2Fd895452c4b34b0bb2bb27d53b99f%2Fdepositphotos-325652746-xl.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/?amp=true",
+      "publishedDateTime": "2022-04-01T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-cyber-security-in-robotics-market-is-expanding-at-a-healthy-110-cagr-for-2022-2029.md",
+      "title": "Cyber Security in Robotics Market is Expanding At a Healthy 11.0% CAGR For 2022 – 2029",
+      "excerpt": "Sales in the global cyber security in robotics market are slated to top US$ 3.5 Bn in 2022. Expanding at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. The high demand for firewall security services and similar other solutions such as encryption solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2022/04/01/cyber-security-in-robotics-market-is-expanding-at-a-healthy-11-0-cagr-for-2022-2029/",
+      "originalUrl": "https://www.fmiblog.com/2022/04/01/cyber-security-in-robotics-market-is-expanding-at-a-healthy-11-0-cagr-for-2022-2029/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2022/03/FMI-5.jpg",
+          "width": 1008,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-podcast-transcript-do-we-need-ai-regulation.md",
+      "title": "Podcast transcript: Do we need AI regulation?",
+      "excerpt": "The first one is Sabina mentioned, have a review board, make AI ethics core to your data science and AI programme. And make sure that you have some external stakeholders there, the contrarians and the people, not only who will benefit from it, but who may ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1648740079/itpro/Podcast%20images/Episode%20125/IT_Pro_Podcast_Transcript_image.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-nvidia-lays-out-their-ai-vision.md",
+      "title": "Nvidia Lays Out Their AI Vision",
+      "excerpt": "For Nvidia’s AI stack, the Grace CPU will sit at ... even if you are looking down at a script. It can also translate to multiple languages on the fly, and make your mouth (almost) look like ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4499175-nvidia-stock-lays-out-ai-vision",
+      "originalUrl": "https://seekingalpha.com/article/4499175-nvidia-stock-lays-out-ai-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/957037018/image_957037018.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4499175-nvidia-stock-lays-out-ai-vision",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4499175-nvidia-stock-lays-out-ai-vision",
+      "publishedDateTime": "2022-03-31T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-metas-ai-exodus-top-talent-quits-as-the-lab-tries-to-keep-pace-with-rivals.md",
       "title": "Meta's A.I. exodus: Top talent quits as the lab tries to keep pace with rivals",
       "excerpt": "Facebook parent Meta has lost some top artificial intelligence scientists in recent weeks as the company continues with its pivot toward the metaverse.",
@@ -965,195 +1156,6 @@
         "AI",
         "Facebook AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-saphyre-nominated-for-fintech-of-the-year-award-by-global-custodian.md",
-      "title": "Saphyre Nominated for “Fintech of the Year” Award by Global Custodian",
-      "excerpt": "Saphyre, a fintech company using patent-approved AI technology to solve pre-trade setups and post-trade issues, has been nominated by Global Custodian for their annual “Fintech of the Year” award. Global Custodian’s Leaders in Custody awards is holding their ceremony in-person at The Savoy in London on May 4th 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-247120c5ae1b22c9bce8fc68f227de49",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-247120c5ae1b22c9bce8fc68f227de49",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-new-robotics-hub-opens-in-west-cumbria.md",
-      "title": "New robotics hub opens in West Cumbria",
-      "excerpt": "A new facility in Whitehaven is the first of network of robotics and artificial intelligence collaboration hubs across the UK.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria",
-      "originalUrl": "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/146899/s960_RAICo_1_Soft_Opening_GOV1.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Department of Health",
-        "domain": "www.gov.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-conversational-data-platform-taps-ai-for-sentiment-analysis.md",
-      "title": "Conversational data platform taps AI for sentiment analysis",
-      "excerpt": "Arena's no-code communication platform uses engagement data gained from conversations and combines it with artificial intelligence (AI) to better understand who might want to buy what among its customers,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/",
-      "originalUrl": "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/youappi-App-Re-Engagement-Image-for-VB.jpg?w=1200&strip=all",
-          "width": 900,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/",
-      "publishedDateTime": "2022-03-31T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods.md",
-      "title": "Fast internet brings tech jobs to Nairobi's poor neighbourhoods",
-      "excerpt": "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/",
-      "originalUrl": "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/4M_ZfsExf_mvYT37MXUvNasYssQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOEUTUKC2VNONJNEVBOTIYDQO4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

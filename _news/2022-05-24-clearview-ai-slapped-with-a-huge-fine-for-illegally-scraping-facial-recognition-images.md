@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-slapped-huge-fine-ille
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-slapped-huge-fine-illegally-scraping-facial-recognition-images"
 type: article
 quality: 66
-heat: 196
+heat: 197
 published: true
 
 provider:
@@ -183,6 +183,6 @@ related:
       domain: biometricupdate.com
     quality: 9
 
-secured: "fn4Ooy6rtda9Eo53jx5WthNsP7BlKotZT0BOL5K3DMbGCS2xJl42/hSfKjnPGxcnvyyXeKsD3sfq16cUhjGs2ar0COQ1mejn69dvJj19kEJeHL1LabbqUA+KmKsbX11vM5WRP0D0r5ckzHUeaOtP4A9nhTfCGH6Y60uqiZNDUpQ0IPl37jwu3Blb2kJN3m69WbIHQr1LQZA+2dZKenKdrBT7yr7WJP2NJKycHyBAjjsa68FZuudIVlHY03x+4mnUJnTUoF+yiCSENxzRAqQ+9TwdQam3UR/J0FpOhJ8pGkrcaZveiJy3WBb3C2txHaFJ+7Q5lEXzoNe9HHg1/ePZRb7WywxSOCwC9J4rd8dY7Zw=;p9iKKAvwHxXDh6feRba1cw=="
+secured: "TgjWuNomNJw0KAe+dNmmkG3BOH8XcHw1QFpJZmrck+4tTi8C6x7LZu9wam9MFqU7riL9ueofXJWQjKNlq/zMKq1Wq5DnW1z/TpabHAPrjECuTs8ynoX6e84qzgc4d6AIPfr7zA68DFHH3dRGIIkimb8AVufTsLq1z3+RcCrw3hGKEC0HLPZxOe0svVNg+eLvIhWWU469azuA+yIVJitugUNaWSp3VnLdx89QVhRdhas+GQ/sEekoPsHkkgJbjeBdW+LlTgp1LWAqDanvtsfg8imzX8Td5qky0fG6VB9zzmOXmdnDcxplM7GswyBEwmd1fiIE1BFvRj62g2pPdgIx32U2W4BsUBgwPHiKAZWieDSYRYEQLsyGyYLqKYzHl3IaYGHGSfkC01Jp4M33kajwtE2M1/6KqQQY/Vffo6La4ZqioOziJyIOj97DVEYVqFtSXyLrvS5xBL2DY2g74ZzTbsoJhJvw5j5AZ733giAXd5JkI33r1O5LYETGB1e/Y7TttEx9M9ADOGgOaGxBzRhgPw==;umKbtdVPJLpV3HCpljYRvw=="
 ---
 

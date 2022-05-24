@@ -26,12 +26,12 @@ images:
 related:
   - title: "ANNKE Reveals Next-Gen 4K Surveillance Camera, Lead by the AC800 Featuring AI, Active Deterrence, Two-Way Talk and Color Night Vision"
     excerpt: "With a solid combination of a 1/1.8-inch sensor, f/1.6 aperture in specifications and AI-activated spotlights and siren in software intelligence, the ANNKE AC800 will lead the pat"
-    publishedDateTime: 2022-05-23T15:58:00Z
-    webUrl: "https://wgnradio.com/business/press-releases/cision/20220523CN65846/annke-reveals-next-gen-4k-surveillance-camera-lead-by-the-ac800-featuring-ai-active-deterrence-two-way-talk-and-color-night-vision/"
+    publishedDateTime: 2022-05-23T16:11:00Z
+    webUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220523CN65846/annke-reveals-next-gen-4k-surveillance-camera-lead-by-the-ac800-featuring-ai-active-deterrence-two-way-talk-and-color-night-vision/"
     type: article
     provider:
-      name: WGN Radio
-      domain: wgnradio.com
+      name: We Are Green Bay
+      domain: wearegreenbay.com
     quality: 6
     images:
       - url: "https://mma.prnewswire.com/media/1823464/ANNKE_Active_Deterrence_Camera_AC800.jpg"

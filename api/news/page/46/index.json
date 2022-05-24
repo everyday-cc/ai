@@ -2,6 +2,175 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-04-11-israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope.md",
+      "title": "Israeli startup Sanolla receives FDA clearance for the world's first AI-ready infrasound stethoscope",
+      "excerpt": "Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the clinical use of the AI-ready VoqX TM, the first stethoscope in the world that can listen to infrasound - acoustic waves that cannot be heard by humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbtw.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
+      "originalUrl": "https://www.wbtw.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.wbtw.com/wp-content/uploads/sites/22/2022/04/police-lights-generic_30929150_ver1.0-7-1-1.jpg?w=2000&#038;ssl=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBTW",
+        "domain": "wbtw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks.md",
+      "title": "Artificial intelligence and cybersecurity among top priorities for Brazilian banks",
+      "excerpt": "Artificial intelligence (AI) and cybersecurity are among the top priorities when it comes to the technology strategy of banking institutions in Brazil, a new study has found. The annual research published by the Brazilian Banking Federation (Febraban ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "originalUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "publishedDateTime": "2022-04-11T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-technology-innovation-institute-announces-launch-of-noor-the-worlds-largest-arabic-nlp-model.md",
+      "title": "Technology Innovation Institute Announces Launch of NOOR, the World’s Largest Arabic NLP Model",
+      "excerpt": "Apr 11, 2022-- Technology Innovation Institute (TII), a global research center and applied research pillar of Abu Dhabi’s Advanced Technology Research Council, today announced the launch of NOOR, the world’s largest Arabic natural language processing (NLP) model to date.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-united-arab-emirates-middle-east-abu-dhabi-410cd804413342d6bf0c0428671e533e",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-united-arab-emirates-middle-east-abu-dhabi-410cd804413342d6bf0c0428671e533e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-hopkins-researchers-develop-ai-technique-to-predict-cardiac-arrests.md",
+      "title": "Hopkins researchers develop AI technique to predict cardiac arrests",
+      "excerpt": "This deep-learning concept could potentially be developed for other fields of medicine that rely on visual diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
+      "originalUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/04/Johns-hopkins-cardiac-arrest-ai-detection.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
+      "publishedDateTime": "2022-04-11T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-artificial-intelligence-ai-in-medical-market-2022-research-with-revenue-share-analysis-to-2027-by-nvidia-intel-ibm.md",
       "title": "Artificial Intelligence (AI) in Medical Market 2022 Research with Revenue, Share Analysis to 2027 | By -NVIDIA, Intel, IBM",
       "excerpt": "AWS, GE Healthcare, Siemens Healthineers, Medtronic, & Others The Global Artificial Intelligence (AI) in Medical Market Research Report contains a point by point investigation of the significant ...",
@@ -979,198 +1148,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-pakistani-startup-empowers-the-hearing-impaired-with-tech.md",
-      "title": "Pakistani startup empowers the hearing impaired with tech",
-      "excerpt": "DeafTawk aims to become translator for millions with hearing ... resources but will “make DeafTawk one of the leading AI-based sign language interpretation services.” The company has big ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/world/asia/pakistan/pakistani-startup-empowers-the-hearing-impaired-with-tech-1.87082858",
-      "originalUrl": "https://gulfnews.com/world/asia/pakistan/pakistani-startup-empowers-the-hearing-impaired-with-tech-1.87082858",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/04/09/DeafTawk3-1649518379790_1800ef50327_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/world/asia/pakistan/pakistani-startup-empowers-the-hearing-impaired-with-tech-1.87082858",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/asia/pakistan/pakistani-startup-empowers-the-hearing-impaired-with-tech-1.87082858",
-      "publishedDateTime": "2022-04-09T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-ai-pioneer-suggests-trickle-down-approach-to-machine-learning.md",
-      "title": "AI pioneer suggests trickle-down approach to machine learning",
-      "excerpt": "In 2015, modern AI trailblazer Andrew Ng's recipe for success was to go big on neural networks, data, and monolithic systems. Now that recipe has created a problem: the technology is dominated by only a few rich companies with the money and headcount to build such immense systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/09/ai_trickledown_economics/",
-      "originalUrl": "https://www.theregister.com/2022/04/09/ai_trickledown_economics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/02/22/shutterstock_banking_ai.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/",
-      "publishedDateTime": "2022-04-09T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-how-machine-learning-frees-up-creativity-and-strategy-for-marketers.md",
-      "title": "How machine learning frees up creativity and strategy for marketers",
-      "excerpt": "While machine learning in ad tech won't replace humans, it can free marketers from tedious tasks and empower them to be superhuman.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/09/how-machine-learning-frees-up-creativity-and-strategy-for-marketers/",
-      "originalUrl": "https://venturebeat.com/2022/04/09/how-machine-learning-frees-up-creativity-and-strategy-for-marketers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1315727841.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/09/how-machine-learning-frees-up-creativity-and-strategy-for-marketers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/09/how-machine-learning-frees-up-creativity-and-strategy-for-marketers/amp/",
-      "publishedDateTime": "2022-04-09T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-cities-take-the-lead-in-setting-rules-around-how-ai-is-used.md",
-      "title": "Cities Take the Lead in Setting Rules Around How AI Is Used",
-      "excerpt": "A look at what New York, London, Barcelona and other places are doing to establish regulations that other cities—and countries—may want to copy",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "originalUrl": "https://www.wsj.com/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-521230/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "publishedDateTime": "2022-04-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

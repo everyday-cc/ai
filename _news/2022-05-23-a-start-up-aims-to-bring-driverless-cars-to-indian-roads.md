@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
 type: article
 quality: 74
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Express
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Could Brands Like Tesla Lure You Into Buying a Driverless Car?"
+    excerpt: "Established and emerging manufacturers have embarked on a journey to produce the most reliable driverless cars to compete in a growing market. But people still don’t trust AVs are safe, despite potential benefits of fuel efficiency,"
+    publishedDateTime: 2022-05-20T18:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/"
+    ampWebUrl: "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 74
+    images:
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/GettyImages-174038219.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Oxbotica completes first driverless car test on open roads"
     excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
     publishedDateTime: 2022-05-19T23:17:00Z

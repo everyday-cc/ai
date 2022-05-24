@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 621
         isCached: true
+  - title: "GitLab introduces new cybersecurity and AI development features"
+    excerpt: "GitLab Inc. today introduced a new release of its software development platform with features that will help companies improve their cybersecurity, build machine learning applications and more easily troubleshoot errors."
+    publishedDateTime: 2022-05-23T20:53:00Z
+    webUrl: "https://siliconangle.com/2022/05/23/gitlab-introduces-new-cybersecurity-ai-development-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/gitlab.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Enhancing cybersecurity learning of Filipinos"
     excerpt: "DURING the pandemic, cyberattacks on industries providing connectivity, essential services and entertainment increased by 341 percent, adversely impacting populations forced"
     publishedDateTime: 2022-05-21T12:23:00Z

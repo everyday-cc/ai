@@ -1,23 +1,26 @@
 ---
 category: news
 title: "neuro42 Licenses Robot from Johns Hopkins University"
-excerpt: "(\"neuro42\" or the \"Company\"), a medical imaging, robotics, and AI technology company, today announced an exclusive licensing agreement with Johns Hopkins University (\"Johns Hopkins\") for their MR compatible robot for head,"
-publishedDateTime: 2022-05-18T19:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-neuro42-licenses-robot-from-johns-hopkins-university-/2022/05/18/9605055.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-neuro42-licenses-robot-from-johns-hopkins-university-/2022/05/18/9605055.htm"
+excerpt: "(“neuro42” or the “Company”), a medical imaging, robotics, and AI technology company, today announced an exclusive licensing agreement with Johns Hopkins University (“Johns Hopkins”) for their MR compatible robot for head,"
+publishedDateTime: 2022-05-18T18:59:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-san-francisco-robotics-945ca2945fda4759bc37f24dcc7f9269"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-san-francisco-robotics-945ca2945fda4759bc37f24dcc7f9269"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "HLdk8/xMBzCuAcn9/kr+H1bvwkI5YFU45/8XuEykZFRhJnhLHF0hw9NBNvJPGyJU1tT4YhL+B2uKL/dowlLZLd+smDV4vqmjf/KJfI6Cv5zknKBysMx/7evwn9Mp13EdlboRn8CsunVCptx71lL4PvxHfrQjU+q3uF5wC1ZmQUXy4MfqyfWqaD69TpzfJvjWvwjlqfpTrBpcXCpArNRH9l4iZVIJi3DBF8j87Xgv52MB+6OqufSxwN9F/nY7y7sGaXQmucVWJpfM15pE8TUbhQVmilJb82vYQpeArLKUocXTDdPvPsN30C1SjLL8vcM2eetiWMPZzbnI5xQx/ba70MB9veaP9v5ymciHwIcBKvc=;uUL/2oKIZCp29O0S23JuvQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "miggjoR+hJE2hS8md0bR6xcoia4nE3APHIbWkgYsFtqMFDsqU5xBZNr9vFICXTtPNqc06gGpF0uYQ+EcbF4lZB9uBFD9cMKxlEcAMn/7iIq2UcZShbGlir68tv1kDG+VXoNMx2Iq1jFyMC2qLk2UX/HG8Svp/NK+G5lqIMow8QEhJ+QzXB1nG1wk64tBaBsSe+Brs7j/mX/zEg7FXNmjLz+VExMnQSjEth905Fzs6mbQc9kd3HeWzyHLX8fCIRHfxLXiXDUB91v1laSne0kjFt/pwfwe5WKk8QETTigFb5bF49NohuTnmUyu0DpBwVDAihcXX0VCZBRcioX6PFNcRsigL309yNVhOu/BYsmdsGg=;WfHV7xjsiFSMl4qNqZ2waw=="
 ---
 

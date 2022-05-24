@@ -2,6 +2,155 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-13-too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend.md",
+      "title": "Too Much AI May Not Be Good for Your Health or the NHS; Google and IBM exits map trend",
+      "excerpt": "Grand promises that the technology could transform healthcare have struggled to bear fruit, with plenty of patient data collected in the meantime.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/05/12/1600x900/Google_Health_1621427558893_1652340789454.JPG",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "publishedDateTime": "2022-05-12T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract.md",
+      "title": "Moderate, classify, and process documents using Amazon Rekognition and Amazon Textract",
+      "excerpt": "Many companies are overwhelmed by the abundant volume of documents they have to process, organize, and classify to serve their customers better. Examples of such can be loan applications, tax filing, and billing. Such documents are more commonly received in image formats and are mostly multi-paged and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/04/ML4749_InferencePipeline-776x630.png",
+          "width": 776,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T10:38:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups.md",
+      "title": "Watch the latest TechCrunch Live here: Raising monster rounds for self-driving mobility startups",
+      "excerpt": "TechCrunch Live records, well, live every Wednesday at noon Pacific, and it’s a great time. The events are free, and is available to watch on Facebook, YouTube, and Twitter. However, if you want ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/",
+      "originalUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Df0KQS_Dox8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/",
+      "publishedDateTime": "2022-05-12T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-texas-illinois-facial-recognition-laws-lead-to-instagram-filter-ban.md",
       "title": "Texas & Illinois Facial Recognition Laws Lead To Instagram Filter Ban",
       "excerpt": "After Texas Attorney General Ken Paxton filed a lawsuit back in February against Meta alleging the company was not properly using its facial recognition technology, Meta disabled filters on",
@@ -1024,144 +1173,6 @@
       ],
       "topics": [
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-synergies-raises-12m-to-give-factory-managers-an-ai-analytics-assistant.md",
-      "title": "Synergies raises $12M to give factory managers an AI analytics assistant",
-      "excerpt": "There’s no lack of startups around the world trying to make industrial activities more efficient with artificial intelligence. Some invent robots to assist or replace manual labor, while others use machine learning to help businesses discover insights.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/",
-      "originalUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/2.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/",
-      "publishedDateTime": "2022-05-11T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ibm-customers-interested-in-the-cloud-can-now-run-its-software-on-aws.md",
-      "title": "IBM customers interested in the cloud can now run its software on AWS",
-      "excerpt": "Customers using AWS will be able to access IBM software for automation, data and artificial intelligence, security and sustainability that’s built on Red Hat OpenShift Service on AWS. Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/bulletins/ibm-aws-cloud-software",
-      "originalUrl": "https://www.protocol.com/bulletins/ibm-aws-cloud-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-ibms-software-portfolio-will-now-be-available-on-aws-raising-questions-about-the-future-of-ibm-cloud-less-than-br-greater-than-less-than-p-greater-than.jpg?id=28137119&width=400&coordinates=0%2C208%2C0%2C209&height=711.4285714285714&quality=80",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/ibm-aws-cloud-software-2657302123",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ibm-aws-cloud-software-2657302123",
-      "publishedDateTime": "2022-05-11T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ibm-ceo-artificial-intelligence-is-nearing-a-key-tipping-point.md",
-      "title": "IBM CEO: Artificial intelligence is nearing a key tipping point",
-      "excerpt": "When it comes to generalized AI, \"we have no idea how this is going to happen,\" IBM CEO Arvind Krishna says. That isn't stopping IBM from building AI tools that are now close to necessary for businesses to stay competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

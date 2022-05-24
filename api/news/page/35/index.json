@@ -2,6 +2,177 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-04-20-how-to-defend-the-financial-sector-against-cybersecurity-threats.md",
+      "title": "How To Defend the Financial Sector Against Cybersecurity Threats",
+      "excerpt": "By Moshe Hayun, threat intelligence team leader at Deep Instinct The financial sector is going through a period of rapid innovation. Crypto, open banking and the digital payments revolution are reshaping the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
+      "originalUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/04/iStock-1346676529.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
+      "publishedDateTime": "2022-04-19T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-pricey-ai-apps-drive-up-cloud-computing-spending.md",
+      "title": "Pricey AI Apps Drive Up Cloud-Computing Spending",
+      "excerpt": "Companies world-wide this year are expected to spend nearly $500 billion on cloud computing, up 20% from last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
+      "originalUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-527450/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
+      "publishedDateTime": "2022-04-19T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-intel-promotes-graphics-chief-raja-koduri-weeks-after-arc-discrete-gpu-reveal.md",
+      "title": "Intel promotes graphics chief Raja Koduri weeks after Arc discrete GPU reveal",
+      "excerpt": "Exclusive Intel has promoted its top graphics executive, ex-AMD veteran Raja Koduri, signaling the chipmaker's satisfaction so far with its fledgling – yet strategically important – discrete GPU business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/19/intel_koduri_gpu/",
+      "originalUrl": "https://www.theregister.com/2022/04/19/intel_koduri_gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/08/13/koduri.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/",
+      "publishedDateTime": "2022-04-19T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-395-vascular-cognitive-impairment-novel-endothelial-mechanisms-and-the-impact-of-dietary-pufas.md",
+      "title": "395 Vascular Cognitive Impairment: Novel Endothelial Mechanisms and the Impact of Dietary PUFAs",
+      "excerpt": "However, as you have access to this content, a full PDF is available via the ‘Save PDF’ action button. OBJECTIVES/GOALS: Vascular cognitive impairment (VCI) is the leading cause of dementia behind Alzheimers Disease (AD) and is often the result of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/395-vascular-cognitive-impairment-novel-endothelial-mechanisms-and-the-impact-of-dietary-pufas/0F08353DDC1FBFE1982A46A74BD96B63",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/395-vascular-cognitive-impairment-novel-endothelial-mechanisms-and-the-impact-of-dietary-pufas/0F08353DDC1FBFE1982A46A74BD96B63",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-316-frontal-cerebellar-eeg-source-localization-and-functional-connectivity-as-predictors-of-alzheimers-disease-related-cognitive-decline.md",
       "title": "316 Frontal-cerebellar EEG source localization and functional connectivity as predictors of Alzheimer’s disease-related cognitive decline",
       "excerpt": "HTML view is not available for this content. However, as you have access to this content, a full PDF is available via the ‘Save PDF’ action button. OBJECTIVES/GOALS: Novel EEG source localization and functional connectivity will assess frontal and ...",
@@ -919,157 +1090,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise.md",
-      "title": "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise",
-      "excerpt": "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/article_6ff88c2e-483f-54bf-9646-7e6edd7977d1.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/article_6ff88c2e-483f-54bf-9646-7e6edd7977d1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-uniphore-acquires-colabo-for-knowledge-ai-and-automation.md",
-      "title": "Uniphore Acquires Colabo for Knowledge AI and Automation",
-      "excerpt": "With the addition of knowledge-based AI, Uniphore is broadening its AI capabilities beyond only speech and emotions. “The integration would enhance our existing self-service and agent-assist solutions with a dynamic knowledge AI solution that can extract knowledge entities and graphs from different enterprise applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/",
-      "originalUrl": "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/8a4551705f9c48b0ad228e0cf26c9e60.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/",
-      "publishedDateTime": "2022-04-19T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-dental-ai-leader-overjet-announces-partnership-with-seattle-study-club.md",
-      "title": "Dental AI Leader Overjet Announces Partnership with Seattle Study Club",
-      "excerpt": "The partnership comes at a key moment when dentistry is in the midst of a foundational transformation. Innovations in advanced technologies such as AI are reshaping many aspects of dental practice, from clinical decision-making to doctor-patient communication.",
-      "sourceUrl": null,
-      "webUrl": "https://wgnradio.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/",
-      "originalUrl": "https://wgnradio.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN Radio",
-        "domain": "wgnradio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
-      "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
-      "excerpt": "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "originalUrl": "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2022/01/3d2613b2e9264cc5a94c0da6b805f92c.jpg?w=2000&#038;ssl=1",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVO",
-        "domain": "mystateline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
