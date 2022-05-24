@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/dius-automates-smartphone-condition-as
 webUrl: "https://www.crn.com.au/news/dius-automates-smartphone-condition-assessment-for-insurtech-company-580229"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Gradient AI Joins Guidewire Insurtech Vanguards Program"
-    excerpt: "Gradient AI, a leading enterprise software provider of artificial intelligence (AI) solutions for the insurance industry, announced that the company has joined Guidewire's Insurtech Vanguards program,"
-    publishedDateTime: 2022-05-23T13:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gradient-ai-joins-guidewire-insurtech-vanguards-program-/2022/05/23/9607022.htm"
+    excerpt: "Gradient AI, a leading enterprise software provider of artificial intelligence (AI) solutions for the insurance industry, announced that the company has joined Guidewire’s Insurtech Vanguards program,"
+    publishedDateTime: 2022-05-23T12:58:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-insurance-industry-fcc2e71b34d04967b4ac6230d1f1c66f"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "9XxJMVVSDXo1NWGrJ6Oz79wBUCGBuPEP3qlxqbYL97FPGo7x03lvD0r0Mq3VYcK3lIpDYlUbyvQS1GoaTmZl9VdcDSKHAyTvRXMAac3xFtmWSyQsL31ZGyoajMvP46nBVDdMo2cEJA4HKZt3aI0p//Zf6TuTJ7y7r6SbkL4Cyrw/vx9QoNC6tQMh7OL0dYXRciRwCi6s8gsPHTmDLLHbakEZ2Wu+5IRl5sFVHEr2AaF1szo6PStQaUXoO07MePDZLZEAA1RjhPK7Qgu3KiDGXeRLELj11th8oP8mfGjqI0O4rX8DQ5ppVS3Fy7xsSBxJaGBQx4ayX6pfg+Z/SqNu6NNdY0d39DAcImkbkfVfVlQVKkj9U3jjlmsGRkYvG08bWUhnQcsJ7fD09RzzaIVkNS2n9g3hXnH8Z3ulgVW2MlRXEzMDiNc55VLfTq7k38xgbBcSQrjfnlsIziTzkKAO0OYzBtJaof6dNfjTFCCFURQcQ1UUHpk7NQVtSu1hTukAfg16EtXHw1B9TI5h/khd1Q==;eCaCpVgdpKX3vQCFz7oykw=="
 ---

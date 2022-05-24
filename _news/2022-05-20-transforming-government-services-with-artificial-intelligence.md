@@ -3,10 +3,10 @@ category: news
 title: "Transforming Government Services with Artificial Intelligence"
 excerpt: "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started."
 publishedDateTime: 2022-05-19T18:36:00Z
-originalUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
-webUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence"
-ampWebUrl: "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence?_amp=true"
+originalUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence"
+webUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence"
+ampWebUrl: "https://www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
+cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/transforming-government-services-with-artificial-intelligence?_amp=true"
 type: article
 quality: 37
 heat: -1
@@ -35,6 +35,6 @@ related:
         height: 265
         isCached: true
 
-secured: "rIbjO0R7ROF/wBTLq1l+Gk1r5t9nxutUi+W76yDqrH3lEaRC4yDiDTJmTneAYBN7gq/WtkUpIlphFOax3p5+XlukF5gze+mG3ECAniF9na1Wok2+2AiBJ1w8Qt7AsZq7BJL2zKupnACw4eLinCr0uifbiCRxXqVm/JGk/KkvqSP4LO6c5Kq+MKyFGCSWKibaEbhZybZBdqUQai73Q60TGQIfp6KdSyhp245QJIrLXlxfkSTrrm0T8wv0ITcyF7HaRvFOkMDxI5PTQ71GPoa+vqzirKk0I/C5lAPoM5AIb4D47npHysE6dBX+nywJMeDKilAWyyOdWtEG/oDRa6sVjwkwmTqvrC14Y4AFmUa8jxs=;nZf+YVWHBwOH0oTZb8yZZA=="
+secured: "zB+67tM9lopPPEBmXwzFJfzpUYlQ7I3RRLXYO85yu2tCnZeMGEUOrLYXobYyhJAQxkELI127ykMiIVFxSmTX7UrzT8YFLyomHoS3tt3/NevI844QykefGOAgEgjhcB05Pjldxjr0Ak3M3OjDaEi1SjugC8s7Aja+rO8ihT/KKiHFQdGoEOrsuKjzrTDwszo9PMOsUIMT6iH3cCvJt+gemb+lJMkkCBeOt6dxhJ9UUXveBmumKJ95OWiQc9XFhritlaIcZvEnz322DUqtAMCWlNNTLtzBdkgnR3Gt1bczR6CYgx+4r1GWp8w5RdA0oV+++iALktzxkEnsSi4J8FTNVWGaWiZdCav/5cvaxtkKwro=;urrM0sM47kNdlJP/HrkWvg=="
 ---
 

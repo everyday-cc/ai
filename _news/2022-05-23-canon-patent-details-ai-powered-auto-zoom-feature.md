@@ -9,7 +9,7 @@ ampWebUrl: "https://m.dpreview.com/news/5225467491/canon-patent-application-deta
 cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/5225467491/canon-patent-application-details-ai-powered-auto-zoom-feature.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 590
     height: 378
     isCached: true
-
-related:
-  - title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
-    excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly.PUNE,"
-    publishedDateTime: 2022-05-19T12:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/create-personalized-ai-powered-social-media-content-with-predis-ai-1031475434"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "uGfZY97OWuzDWX8WS5KMDb94cY6OT1tt2PzOIcpYyWwLThX9Il9pZk4GCA3t6QktpsYgHfrFxxFi0ReUx1CR6Gb8tP8byXSMMDwErIK/NkcRLPb0Cs084UqE8kbiBDPVfLg4h5zTzeGCK5V5XCRMUcaX0PrQxPW1V8FMnf+N+8XPBe1KfL3FeRf53Pv9LnIw8WBUqI+fgx1R/HSCdd6LlsqPKcinHqML6UwnPBLU3rftsffFeUkszXhtbZ/FSMS0pxZKfS2a5rLdYO0pqLgSjkffL++dk/PRPlElx2BeSf6YcxFesSK/EBf0yVy5SglFyAQQEWTnzeZS1a2JXqs5nR5ZiEKnpS4h5+SN/Dkvj2/wAvC7mTlnCHMVZIKfpG0OKNG9viJxXlL5UAB7DXRjPNtDI4MaXK1D8vf7NE3ZQ8W5WQscM3GCOCo9gi4OHLCpXL8zLhIpMGc3cxioFh4oKI0iPmOeB4y2FkNZvrLlVvrjR+Ou2as+kFcG1Eq4CZSU+z6c7nCUzgZ86nbQbebSfg==;+jVollM2TzC651y0P221fQ=="
 ---

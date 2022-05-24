@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Automation Hero uses accurate AI to process documents"
-    excerpt: "Automation Hero released a SaaS service the company claims takes a quantum leap in OCR document-processing accuracy."
-    publishedDateTime: 2022-05-19T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/05/19/how-automation-hero-uses-accurate-ai-to-process-documents/"
+  - title: "Ethical AI in hiring makes good business sense"
+    excerpt: "By quickly and efficiently analyzing large volumes of data, AI significantly reduces the time spent recruiting great potential candidates."
+    publishedDateTime: 2022-05-19T13:18:00Z
+    webUrl: "https://www.benefitspro.com/2022/05/19/ethical-ai-in-hiring-makes-good-business-sense/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 34
 
 secured: "DVnar+wvI6q3wThvbL3f0bBWZa+gMNvCJX5Z/8XT/ZymdRncgjpEh311dmlUnm0GKTIFuYvg7q7N2AnQQz9i4Scrmbt7TPqZf3FOYj6gguLbmaItoK9uyyPM35yZaBMDnVjh0kZpy5XLNgTEvSofOdGAr0yPA3oasIc9hiFBXCMK0e8JnUAGnt69to8p4akE4WqXs9xyDfMSGYWByc2AscXglDf51XkLWHW25iC9UYAoM0JAuHwHsGrKAclKy0Mjj2wBJLQPqksqMb3evEETqOFBFF7OXxKTZTPxErG1JehPKJePKGFMdQGeFHahIlTYcqCh37uDK1TkSwsHBX22IDA/oj/XChi+BhoR0aY3SUA28OA3CjJBCgWKd3emlbgGO0XZa45IZ3CzqckLodtBw7UJYpP+3+DgKgCuhHA0DHnFC97e9lmIddqxmtBKgXaE7eXBcXR6C1VtcMKwnJuhH/w7Gd52svzRye7C8lcWH6bwSphjmRxRkytgBVir8XvWDL+6mJTlR3FPF/vzDD2Pqg==;oL2kkERfO7eFVvhI6TK7Gw=="
 ---

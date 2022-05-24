@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Gradient AI Joins Guidewire Insurtech Vanguards Program"
-excerpt: "Gradient AI, a leading enterprise software provider of artificial intelligence (AI) solutions for the insurance industry, announced that the company has joined Guidewire's Insurtech Vanguards program,"
-publishedDateTime: 2022-05-23T13:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gradient-ai-joins-guidewire-insurtech-vanguards-program-/2022/05/23/9607022.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gradient-ai-joins-guidewire-insurtech-vanguards-program-/2022/05/23/9607022.htm"
+excerpt: "Gradient AI, a leading enterprise software provider of artificial intelligence (AI) solutions for the insurance industry, announced that the company has joined Guidewire’s Insurtech Vanguards program,"
+publishedDateTime: 2022-05-23T12:58:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-insurance-industry-fcc2e71b34d04967b4ac6230d1f1c66f"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-insurance-industry-fcc2e71b34d04967b4ac6230d1f1c66f"
 type: article
-quality: 17
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "DiUS automates smartphone condition assessment for insurtech company"
@@ -33,6 +39,6 @@ related:
         height: 517
         isCached: true
 
-secured: "i9JaOcKUqzt7d9yIN2VxQZKNtAHDITFvS/sz1pI1aKmc32ezE/yI4RM6+VD2W5W1ixquFJdMqsKZqGEMVRpCHxbwoMEc5Gkx+i2PUZJ8tldv8ohOdI12DdsLKvEpw3eylUFsv9kGBeSjDYJJW+a3HHA3iJ7sOQQfg+zzWlYLXkwcNyCfjUi1mXjqvkVo4jTRFYqjbW8hf2JQnDkaqltnjaxPhHUD1tDdS5Q0OKcNuwkKfQw3LiNP4gOabaL+9r6ocgY+yhgnAJE40Y8mvm8UzTMFl5D0h4SEMv/24/7T+VL47olTl/HmspRiovvWKpm5MuBZXGH9sggVVhBOsKy32llXq0hi/Wsyavx+KiKLp4U=;XIsYGb3aNjc067UDPxPF0Q=="
+secured: "eL+9MlhFw+pdw6ilCZULGdxfv9TGAyswG++RLSh8KHZsU+rC5o8HRHkQKe8wGkdGloW2qhaN/aXgM1CljD/hHcNooXPI94tS/jx3wdrl57PWE5LAxqy3vwYp4ltkqRDnmmJhv3jIg4af1r29AKBCIiKrRKLSSMGCvQniqRvC4/bo/0wO/gL6FFL87MMyxu0sIIBpsOBSni1IXF1jOop/SD0oykcqcg321dkcFP86pBoTLr8HgSdLP7pvNrusf4HqeueSH90MtRrGWR6JZBUUNXy5m3Imx/EMizB02w+4ulJTehxe2TPK20DyCTiBd64cMPp/JDZSAYmscXQxvo5kRSgctM4k6zBdNLrwkEaPA8g=;NROYTJDSKObSsnOuSQxTyQ=="
 ---
 

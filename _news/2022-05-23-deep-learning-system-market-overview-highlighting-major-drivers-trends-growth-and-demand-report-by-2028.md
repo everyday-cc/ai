@@ -56,15 +56,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 19
-  - title: "Deep Learning Chip Market Demand, Growth, Trend, Business Opportunities, Manufacturers and Research Methodology by 2028"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to"
-    publishedDateTime: 2022-05-19T13:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-demand-growth-trend-business-opportunities-manufacturers-and-research-methodology-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 12
   - title: "Artificial Intelligence In Transportation Market Technology, Applications, Demand, Growth Factors And Forecast To 2028"
     excerpt: "Get a sample of the Artificial Intelligence in Transportation Market report @ Some Key Highlights in the Report In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for ..."
     publishedDateTime: 2022-05-20T12:59:00Z

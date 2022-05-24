@@ -33,14 +33,19 @@ related:
         height: 1366
         isCached: true
   - title: "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners"
-    excerpt: "The Insight Partners published latest research study on \"Voice Biometrics Market Forecast to 2028 – COVID-19 Impact and Global Analysis  b"
-    publishedDateTime: 2022-05-23T14:26:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
+    excerpt: "The advantages of biometric authentication over speech recognition and the promising development of AI-based voice recognition technology that reduces the risk of replication or hacking provide top-notch biometric security Impact of COVID-19 Pandemic on ..."
+    publishedDateTime: 2022-05-23T12:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-biometrics-market-size-worth-4-82bn-globally-by-2028-at-20-6-cagr-/article_92bae39d-cd5d-5a57-b08d-35a00e3eb4c1.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "WwQrDYrkMUyF7M4pN7zirYayp7zqHJjBN+pq0zBOrHQsJ2ZOXwaZf+cuUFCVKW7kDWxIYjmL2R8vwMpuQ6maM0GA3olqwXte75UWr64N7z1IpgXYi1SPuU+WmmCM/2YIQCsd+PsjNMR2IUEg/Tj0jsqUuZzSX6zFT2zgTb4PyE2Buqp/uD0sbdJJcDcTCQaMmyI+kG5rHemfTo29OLnXL3LGq1YgMvsTs1mI0HS2E3oka3JCVRocON9n2kZ9zTZJDYG1B9u5ciWIUVnaYBmM/azkc25XRx8usCoimcRgxBSZX1rYIQZTrRzw3CMRbhqZuDYR548qqfTa6X0lZsoN7we9zCjaNGNlP9h0gIMaL+8=;s2nWLUFo4BsWL5AOPdtFMw=="
 ---

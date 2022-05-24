@@ -49,7 +49,7 @@ related:
     provider:
       name: tech
       domain: techstory.in
-    quality: 49
+    quality: 51
     images:
       - url: "https://techstory.in/wp-content/uploads/2022/05/hhh.png"
         width: 698

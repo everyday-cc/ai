@@ -49,15 +49,6 @@ related:
       name: The Manila Times
       domain: manilatimes.net
     quality: 4
-  - title: "A Continuing Year of Threats Towards Cybersecurity, Predicted by Experts of the US National AI and Cybersecurity ISAO"
-    excerpt: "SAN FRANCISCO, Calif. and RIGA, Latvia, May 19, 2022 /PRNewswire-PRWeb/ -- Tortora Brayda Institute, a non-profit independent organization for multi-stakeholder partnerships in Artificial Intelligence, Cybersecurity and Cloud, today to announce its Task ..."
-    publishedDateTime: 2022-05-19T12:51:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-continuing-year-of-threats-towards-cybersecurity-predicted-by-experts-of-the-us-national-ai/article_3f667453-4455-545f-821b-1ad8325e7671.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "p68gnHUTAyCTzO2sLT6fOICVi3WTMoKFxjkJujMsmuTRKxHXeA4tKD+ylRuaXdsSoUiwq16q+wQ4+YG1+wT/xut46LnXVhxhvXqGDYrAq/+hkCIzoGpcMfxx+otzNrqS60UJNus4qleldKitUHzesLVSxIa1BDXq9rHAyMAVsvH3hbtAQSb/QIolwLtgsNzIC72otV6b9N1xHF2wyoTo5vphv4SFeK33kMRiTt8aqdu4aJJLjLNhEdweOnow8As/qIUVCQveOuW/OuZIoGGE3gtPtPdErUQXmP8OR2JqABRTn8PVdYD4YSJYD55h0+UbC+KNXw9qWvVP5S2RFNfA2VZ72pbLirt+SAjii/RKNX9g45PyzpV4MzKOD3J9DIOqAUDBb/vBEm2JAETgt3/DOQPFOATxeIqAy0G8rdLPP2LvZ0vAoPfMy5oSoka5vTVubv3/FM2RDzKpfOV59P0u4WzV4audYC1XjvaJsA9nF1kHD9mOQNqjE8GsJyNeKE7CgE9ZHDcWlQKHKuRR3pMZAA==;muYn9xGlVLFSJBNzSBuLCQ=="
 ---

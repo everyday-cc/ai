@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "The weight of going solar is too heavy to bear. Let this Israeli startup do the heavy lifting for you"
+    excerpt: "They are the first Israeli startup to sell electricity directly to homeowners in ... from seamless financing to AI-powered system management tools that allow them to enjoy savings from sustainable energy - effortlessly. Rhino Eco is also developing a ..."
+    publishedDateTime: 2022-05-24T05:01:00Z
+    webUrl: "https://www.geektime.com/rhino-eco-buy-no-pay-later-solar-energy/"
+    ampWebUrl: "https://www.geektime.com/rhino-eco-buy-no-pay-later-solar-energy/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/rhino-eco-buy-no-pay-later-solar-energy/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 27
+    images:
+      - url: "https://www.geektime.com/content/images/2022/05/iphone-mockup-proposal-.png"
+        width: 2000
+        height: 1289
+        isCached: true
   - title: "Making sporting history: EuroLeague selects Israeli startup MindFly to power First-Person Point of View (FPV) content from players"
     excerpt: "MindFly will fit AI-powered bodycams on EuroLeague players to enable fans to watch, hear, and experience everything their favorite player does while on the court"
     publishedDateTime: 2022-05-23T11:00:00Z

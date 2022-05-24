@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/making-sp
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/making-sporting-history-euroleague-selects-israeli-startup-mindfly-to-power-first-person-point-of-view/article_bc60d207-2580-50d4-828d-cb105e6b7a31.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "The weight of going solar is too heavy to bear. Let this Israeli startup do the heavy lifting for you"
+    excerpt: "They are the first Israeli startup to sell electricity directly to homeowners in ... from seamless financing to AI-powered system management tools that allow them to enjoy savings from sustainable energy - effortlessly. Rhino Eco is also developing a ..."
+    publishedDateTime: 2022-05-24T05:01:00Z
+    webUrl: "https://www.geektime.com/rhino-eco-buy-no-pay-later-solar-energy/"
+    ampWebUrl: "https://www.geektime.com/rhino-eco-buy-no-pay-later-solar-energy/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/rhino-eco-buy-no-pay-later-solar-energy/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 27
+    images:
+      - url: "https://www.geektime.com/content/images/2022/05/iphone-mockup-proposal-.png"
+        width: 2000
+        height: 1289
+        isCached: true
   - title: "Making sporting history: EuroLeague selects Israeli startup MindFly to power First-Person Point of View (FPV) content from players"
     excerpt: "He also co-founded Mobixell and served as its CTO, an Israeli startup which was sold to Flash Networks. MindFly uses AI powered bodycams and an AI cloud platform to provide a seamless, automated, end to end solution, from recording, through processing and ..."
     publishedDateTime: 2022-05-23T17:14:00Z

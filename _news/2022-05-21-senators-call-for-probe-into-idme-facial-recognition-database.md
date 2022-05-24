@@ -49,6 +49,15 @@ related:
       name: Cyber Wire
       domain: thecyberwire.com
     quality: 19
+  - title: "UK fines US facial recognition company"
+    excerpt: "Britain fined U.S. facial recognition company Clearview AI Inc. for more than 7.5 million pounds ($9.4 million) for collecting online images of people without their knowledge, AFP reported. The U.K. data watchdog also ordered the company to stop receiving ..."
+    publishedDateTime: 2022-05-24T05:40:00Z
+    webUrl: "https://news.am/eng/news/703437.html"
+    type: article
+    provider:
+      name: News
+      domain: news.am
+    quality: 19
 
 secured: "qoon0NgUEtNA2x8fihy4zUuIoePcrohVF1XIb/kKVWvDNgr9+DoHf+vHWqGFzwXWLJCxxSIqErV3upzHQRR6pO6Q1ETuJz9kxPIkdkCv6iVIZkp3cfeOXVM85HA/5bRVgE7RqGvCRVoyDRvVwHG3yRSWgelIS08mqfm+Y9AsNLdR3ATrFpABAY1FbJg6nMylpTqxxH9XuPtabnLaxenSvA3o06H8wtOpVvTWnePD0lEnMxHpHNwTUfnsDfH+J1Jo2o9P9MMm8lmWynb8IVQKTZZcWDHwIFza4OpX1fly10fqDgxWHwlfmvrsrai6shxYDIbI37BTMZUbMnJanqRcdlCDujLU6ubmQyK/xuHmmOY=;2ew7yoO3B1k7Fe2H4xFacA=="
 ---

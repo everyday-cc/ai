@@ -18,34 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Major UK Retailer Stops Novel Malware Attack With Darktrace AI"
-    excerpt: "Darktrace, a global leader in cyber security AI, today announced that a UK retailer used Darktrace's AI to stop a cyber-attack attempting to leverage 'BumbleBee', a new malware loader known to be used by Russia-based ransomware group Conti among other cyber-criminal entities."
-    publishedDateTime: 2022-05-19T11:30:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220519LN63125/major-uk-retailer-stops-novel-malware-attack-with-darktrace-ai/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 37
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
   - title: "DARKTRACE WINS ARTIFICIAL INTELLIGENCE AWARD AT 2022 GO:TECH AWARDS"
-    excerpt: "Darktrace, a global leader in cyber security AI, today announced that it has won the AI & Machine Learning Award at the 2022 Go:Tech Awards. Backed by Business Leader, one of the UK's leading business titles,"
-    publishedDateTime: 2022-05-20T22:25:00Z
-    webUrl: "https://fox40.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
+    excerpt: "Darktrace was named winner in the AI & Machine Learning category, an award which showcases pioneers in the artificial intelligence space. Darktrace was the first to apply artificial intelligence to the challenge of cyber security when it brought 'Self ..."
+    publishedDateTime: 2022-05-21T14:59:00Z
+    webUrl: "https://www.klfy.com/business/press-releases/cision/20220520LN64803/darktrace-wins-artificial-intelligence-award-at-2022-gotech-awards/"
     type: article
     provider:
-      name: FOX40
-      domain: fox40.com
-    quality: 37
-    images:
-      - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
-        width: 800
-        height: 328
-        isCached: true
+      name: KLFY
+      domain: klfy.com
+    quality: 17
 
 secured: "ONUWEKSAJP+nufbgPSbYmcnxY7M8tfzkBG29S4accfDfbbL3APJBzN+4rdpmw9A3S5ImdFK1w6l3Gsw/OgX5gbrTG4sz9GWGGC1r+UbT0SwgwWjR6ElvekdgKLTLPz6ViVO+MF2GahcViluGq/drqdW1QHiMqazCZr07XughM1e44ljOboUhFtqvRyoYm3mwLk2tNdk4+2glBOlcrqyfAlSLglg1jbMNZZMJSbHS2qB68aVnnTE4jeTHjFMid/NB2d8ExAqHmLC2ykhREv7H7NCsRvyga5idG4ChDVPE08ku1qgwB3WuJf5xh7gdJMnvGevHUAeC0+3C/C+sVCe3dLRkUQ/YGlqvFMef75jn55Q=;d5RnmHVzIAWLnuddfoFc6Q=="
 ---
