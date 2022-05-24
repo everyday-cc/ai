@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-23-control-formality-in-machine-translated-text-using-amazon-translate.md",
+      "title": "Control formality in machine translated text using Amazon Translate",
+      "excerpt": "Amazon Translate&nbsp;is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. Amazon Translate now supports formality customization. This feature allows you to customize the level of formality in your translation output. At the time",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T19:45:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-this-aws-database-e-training-bundle-is-just-30-this-week.md",
+      "title": "This AWS Database e-training bundle is just $30 this week",
+      "excerpt": "Then the 2022 Amazon Web Services Database Bundle has you covered ... and implementation of a database), migrating information to the cloud, the basics of AWS Rekognition in machine learning, and more. And since the courses are brought to us by skilled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html",
+      "originalUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2022/02/sale_310962_article_image.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html/amp",
+      "publishedDateTime": "2022-02-17T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-aws-announces-global-expansion-of-aws-local-zones.md",
       "title": "AWS Announces Global Expansion of AWS Local Zones",
       "excerpt": "(NASDAQ: AMZN), announced the completion of its first 16 AWS Local Zones in the U.S. and plans to launch new AWS Local Zones in 32 new metropolitan areas in 26 countries around the world. AWS Local Zones are a type of infrastructure deployment that extends AWS Regions to place compute,",
@@ -1355,92 +1460,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-06-at-aws-cloud-day-2020-in-ahmedabad-aws-architects-discussed-how-their-cloud-solutions-could-help-startups-scale.md",
-      "title": "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale",
-      "excerpt": "The next session by Abhishek Mahanty, Senior Solutions Architect, AWS, covered the Artificial Intelligence (AI) and Machine Learning (ML) services provided by AWS. \"AI and ML are super popular now ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "originalUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/AWSCloudDayAhmedabadImage-1583750134111.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "publishedDateTime": "2022-02-05T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-nfl-and-aws-build-the-digital-athlete-what-is-it.md",
-      "title": "NFL and AWS build “The Digital Athlete”: What is it?",
-      "excerpt": "The Digital Athlete is a virtual representation of an NFL player that can be used to better predict and eventually prevent player injury.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/nfl-and-aws-build-the-digital-athlete-what-is-it/",
-      "originalUrl": "https://analyticsindiamag.com/nfl-and-aws-build-the-digital-athlete-what-is-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/NFL-banner.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-05T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

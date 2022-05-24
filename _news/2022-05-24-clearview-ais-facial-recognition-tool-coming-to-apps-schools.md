@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/clearview-ais-facial-recognition-too
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools?amp"
 type: article
 quality: 84
-heat: 334
+heat: 354
 published: true
 
 provider:
@@ -36,6 +36,38 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/614a1badda1105b009022d2311e765283a637252/2022/05/10/b89fdde3-1e06-457f-b854-7c45f072a4d8/clearview-ai.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Clearview expands sales of its facial recognition tools"
+    excerpt: "The software isn't exactly what Clearview AI has caught flack for in the past. Since the company's recent settlement with the ACLU bans Clearview from providing social media face"
+    publishedDateTime: 2022-05-24T16:03:00Z
+    webUrl: "https://www.protocol.com/bulletins/clearview-private-companies"
+    ampWebUrl: "https://www.protocol.com/amp/clearview-private-companies-2657379335"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/clearview-private-companies-2657379335"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 76
+    images:
+      - url: "https://www.protocol.com/media-library/an-illustration-of-a-polygonal-face.jpg?id=27631065&width=1500&coordinates=296%2C0%2C297%2C0&height=2000"
+        width: 1500
+        height: 1996
+        isCached: true
+  - title: "ICO orders facial recognition firm Clearview AI to delete all data about UK residents"
+    excerpt: "UK data watchdog fines facial recognition company Clearview AI £7.5m for multiple privacy breaches. Firm, which offers services to police and law enforcement, faces growing pressure from regulators and legal action around the world."
+    publishedDateTime: 2022-05-24T16:24:00Z
+    webUrl: "https://www.computerweekly.com/news/252520622/ICO-orders-facial-recognition-firm-Clearview-AI-to-delete-all-data-about-UK-residents"
+    ampWebUrl: "https://www.computerweekly.com/news/252520622/ICO-orders-facial-recognition-firm-Clearview-AI-to-delete-all-data-about-UK-residents?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252520622/ICO-orders-facial-recognition-firm-Clearview-AI-to-delete-all-data-about-UK-residents?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 67
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/CCTV-facial-recognition-adobe.jpg"
+        width: 1200
+        height: 400
         isCached: true
   - title: "Clearview AI Slapped With A Huge Fine For Illegally Scraping Facial Recognition Images"
     excerpt: "Earlier this month, Clearview AI reached a settlement agreement with the American Civil Liberties Union (ACLU) over the company’s usage of Illinois citizens' biometric data without their consent."

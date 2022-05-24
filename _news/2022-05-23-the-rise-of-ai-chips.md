@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How will AI be used ethically in the future? AI Responsibility Lab has a plan"
+    excerpt: "AI Responsibility Lab's Mission Control provides a framework for teams to create standardized processes for ML and AI operations."
+    publishedDateTime: 2022-05-24T17:02:00Z
+    webUrl: "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/"
+    ampWebUrl: "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1134028859-e1653340548357.jpg?w=1200&strip=all"
+        width: 1200
+        height: 768
+        isCached: true
   - title: "Remarkable new AI gives us a glimpse of the future for filmmakers"
     excerpt: "Put on your best gravelly movie trailer voice and say \"Imagine a world...\", because in the future, that's how you'll make films: by imagining a world."
     publishedDateTime: 2022-05-20T08:08:00Z

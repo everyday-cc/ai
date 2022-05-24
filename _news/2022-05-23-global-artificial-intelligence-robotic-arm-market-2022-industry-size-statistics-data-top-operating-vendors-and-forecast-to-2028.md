@@ -50,17 +50,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Global Face Mask Detection Market Report to 2027 - by Component, Application, Technology and Region"
-    excerpt: "Facial recognition systems, which began as a type of computer application, have seen increased use in recent years on smartphones and in other forms of technology, such as robotics. Computerized facial recognition systems are classified as biometrics since ..."
-    publishedDateTime: 2022-05-23T11:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27343540/global-face-mask-detection-market-report-to-2027-by-component-application-technology-and-region"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27343540"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27343540"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 10
 
 secured: "fzgHdRfvS2SnTqTEgzV+b333xEGL56kdt2SFBxK1m5crE+SjKDW1cmvNbWjxOGa7ZJQA0ZWJB2Bds++R7QL/VNI57dHgVsCaQlyhVqjWhKF4ide3xU2GkHB1A/2gtU3FOzMSqVFHKE11VIoue24m/aw9l4X65FxU2vQsJV/HMCVzVp2KQdDU5Fk7jBNoL6GOkna+YoXaXYtMAv2EV9lbrcT7BHe5hmBztnRLOzfeCMBn8eKnBuHgV1U/Sl1y/yALrIipEyz/+zfwbVTe9GufWYOnmwDE69kVSaNMH5IHvyO7d19z7AhW7Y6AILWvJjj8PMtvgU2/B6qT8aMLVDO+aZUGxll/iI29YsVllj7IvmI=;GuBeaLakbFqtNVUmkcFCJw=="
 ---

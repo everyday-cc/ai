@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
-excerpt: "UC Davis veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
-publishedDateTime: 2022-05-23T17:45:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/953632"
-webUrl: "https://www.eurekalert.org/news-releases/953632"
+excerpt: "Veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
+publishedDateTime: 2022-05-23T19:55:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
 type: article
-quality: 31
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/14d831c7-b0c0-4a36-8f9b-543dc99497dd/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 225
-    isCached: true
 
 related:
   - title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
@@ -48,6 +46,6 @@ related:
       domain: sanluisobispo.com
     quality: 10
 
-secured: "Knk5b7daIQffm9Ttx0b6OzcniZePBSrXIV6iMJ1XVucULSY3iFE+or9ltMTkz5ISP69rewjxzt1LKqykt7E+pmn7E6+Y2l9SOC+htvYYIvMzj7/s5H6CSsnqhNCw4C2V+foUpdhIXlIKG2YZitmSdGl+7u0NSuDv8LOicFjMwMOB18/UKxf3ePjbBwANffPbwCR2nKHf7p1YnTZaElP/2aeL3cPdjhpR+zG8Q5CL/c9cGySyXilXLsWyD4CmpKCZmZFUYCwAhgVgH7tri4l+F8UVOhgfCtIAzJNa0VG0McwmWN0jl19qJ0JWJMqCkqVycQt1yInw3zfFWkNYlwbQVqAWVFLBG5o9UqMynIemaBbh4aGolr5pM7t/obn7TuAP2QrqhKIGnTt9YFQO4RIq4KPJUqZcaSphse8mCFtPlPCtFKlq0miEL9RRhgZfKa4ki2Iot2K1PxdDjVvP4rXzLGv3YKYWSBlZZ/TYOUagT843uUyydByDflT7xJYlMB2KCEdcZ6pv3L5UcBwSeUUkBQ==;LvegZVKm6lxFSnMyjIIssw=="
+secured: "lqKXKtzG9bCj2ycHSGl1scuWJw+1k0zfzZloqZlsFjXe1/C9GCzbjszVYAl9p6f3hLFtMawibNBoAX072+ES3oEa5++aVmnEv5vIa5jlJ/mfZoRMEDCglaVENaztUJFmpRNtMoUWC1BkXEBTbFj8gTAxXz/UVEjrS9WG63IuiYoV3P21WksNbvjonzHAtCeGtViixt3GeqGMYggeffDZUva0HUtz6CN5T9cRnNtHEGTr0xUUn62Q8FPP4UWHBXoM2/ps9CN2ConksI/aCSwSCRTf08xYIc+SzJEZZwJBbmy29YswPQ1zN1PVddYDNngZSt+tJNwKJ/vK5guakeacFp7qPVpaQRK9iW8dYL6N/uc=;hlpIZ0ieUGzPWRMdfNvuJw=="
 ---
 

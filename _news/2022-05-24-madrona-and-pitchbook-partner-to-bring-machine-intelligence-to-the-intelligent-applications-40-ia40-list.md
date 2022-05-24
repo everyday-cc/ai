@@ -1,22 +1,23 @@
 ---
 category: news
 title: "Madrona and PitchBook Partner to Bring Machine Intelligence to the Intelligent Applications 40 (#IA40) List"
-excerpt: "Madrona, a leading venture investor in artificial intelligence and machine learning companies, today announced a partnership with PitchBook to power the 2022 Intelligent Applications 40, #IA40, and released data based on the 2021 list."
-publishedDateTime: 2022-05-24T15:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-madrona-pitchbook-partner-bring-machine-intelligence-the-intelligent-/2022/05/24/9608422.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-madrona-pitchbook-partner-bring-machine-intelligence-the-intelligent-/2022/05/24/9608422.htm"
+excerpt: "PitchBook Previews a New Machine Learning Intelligent Application that Predicts Company Outcomes and Finds that late stage IA40 companies are 60% more likely to IPO than the average late-stage company Madrona,"
+publishedDateTime: 2022-05-24T15:02:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia40-list"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia40-list"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
+  - Machine Learning
   - AI
 
-secured: "6S0RK0B+mJGS4FXrvB3U8TQS5j+EnGLkLYMOQkBws0NSMXUXWwUcoGqSRlzYQ4xQYs1HOM3vmGXFhJho8X6nJbsGvAI8lHq+s5kYAoL6+uYY92FUzxDW7apzDnIXYNWnqu4XyxMl1V98P6/MWZQQYAejlbA+g2ym6K9wGXa9/WgVjcF4afFFGqXUA+qjP/CntECJGXqM/GXIFAxmxsb1IVc+kvGBEdI6JaddeKMGeuFnJY0qhYeOm93IXvfUnlnIWYYUDtjTCoXWYnnsrz/47MvJ7bHLUGCrQBUyNIlzidTEGZ4NkQdWvR+zzQtC7zk6OyJFi3tL+eNRT7JYT4TnBaKYu8/hnQyOkX4lD0/bmnY=;vt6I2bfrprqK+SSUzEChBA=="
+secured: "6LlFuwmspkJDl3cIy4hKp2UvacT+WtWJDEs5Z6O3/fwSJdRCEPfmRYgrT+Jnib9IEYiJRiFP5tC5hahC/tYQRn4iSqQXN3VtAPMf8nWAkFMz1/8lsqK4N98ebWKP6GNGbBNgmeTAi1YcZdpkgFYZv8LnAdhWYQVycHcH6lVK1MfgwKKLVhmNHmZUC2PbnnzRfPlwPNdcSG7FtIDQWy55w3iZxknq435LbDhkQuRAkR90M7cZ3Ury1AKEjkWLTh58+cT0VQzJzybamcJ04EClM3K6SIegrdkgivJeFQyCP/YKLlp/IV7MLVLn2Zs8VE5SMM64PUggcfMBqbiaLJnlIsdv4kaZpkA6ig83jbfcBDY=;9ks9PPshiK4BwJgqGfhTNA=="
 ---
 

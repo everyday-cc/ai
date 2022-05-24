@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-24T14:13:00Z
 originalUrl: "https://pitchfork.com/features/article/ai-music-experimentation-or-automation/"
 webUrl: "https://pitchfork.com/features/article/ai-music-experimentation-or-automation/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.pitchfork.com/photos/628beecdd93c1b63e1c3362a/16:9/w_1280,c_limit/Music%20and%20AI%20(1).jpg"
@@ -24,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "o/psaFrYLdLS78UnmR9sP+qbYiMS2exUbXfqp9XZcewoVbgkmFE/gfXMtkVJY3KlYinBDGLFORjTTBKLrVWDfBFFSJVnR5WxrXBCUlibygiCX2PLs9K1cWQpWt0q9V0ucBiGr8MTBolvKcY5SISgoa3OnH6Rq1xX3bBWYJLQ/o0WWKBdJjru8Tf8G54rIPGruMwbTZXDX5Y1ZvVrPwfI93ZTJ7LqAnE9BtD5crPLoIeYNSGRS8ilnggrNe0sSCvAmZ03duMjb3LAnGOdKMUjTsD88MBlG+vvSKqtW60PIhg9mQLftJcaS+EKMoLUqglKCtkI7ERh434rvpKQbp9vmGsqp2j1pj470sdSd3GTib8=;/b1P7Cbvp/FDxUusCpLOMw=="
+secured: "ho27v/7ZDeyhKFK4KCi0lQQLGOsgs03fqHQC/oUlrENdpA3b6fMAoR/l8IN84uaPCrGNLxnGIjUNK8L9UiV6JYcmUW2ReP8YyQXWepoSm7xpET/4JWonXI1OKmHfytI+NZHDh9gFPvaewQ8DCoapBOnhtiHszb1ryVpZdlrEp8Qi6BxkszjybaKzQpHU78x2JJm8ofo1EwevYAPO5/Kc7tbAdRh6NCBKD0VVyeLCjVOLSC1m1PvE8U2/xE0SfLwtq5TREwGDQ5ExQ8ujASqwL6PIAGt1UR8nCz/S0E81LPsy/IS+gemlz+6i84yBjn3c5c5l+2au29r7SOmtoxvtnPRWvKzES1ZqHFbjy5J7zbipE7WJFtdQpgnqe8DgY3V/fQD3ubzDi6S4sGIrPd6jusU7bTyWSTOqu2+7+LGI98kStIuwMKBn5iHePeeMCFfGKsTc763i73MzYatH0gaPPmhx/lCEjRVGA3xF3saWZWIAFFMyCTifVaXdSYGzJeuaB0LCDaguYImBowelUzrnGQ==;BAm66hmRKuEA5hVTOt/9Wg=="
 ---
 

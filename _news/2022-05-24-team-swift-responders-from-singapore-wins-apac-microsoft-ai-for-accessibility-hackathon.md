@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-24T05:45:00Z
 originalUrl: "https://news.microsoft.com/en-sg/2022/05/24/team-swift-responders-from-singapore-wins-apac-microsoft-ai-for-accessibility-hackathon/"
 webUrl: "https://news.microsoft.com/en-sg/2022/05/24/team-swift-responders-from-singapore-wins-apac-microsoft-ai-for-accessibility-hackathon/"
 type: article
-quality: 26
+quality: 48
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/439/2022/05/SNC-header-image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Microsoft brings support for Arm-based AI chips to Windows"
@@ -133,6 +140,22 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Microsoft \"hybrid loop\" shows the foundation for AI-powered client / cloud computing"
+    excerpt: "If there's ever a place where you're likely to hear the direction that computing and applications are headed, Microsoft's developer-focused Build conference is probably it. True"
+    publishedDateTime: 2022-05-24T16:37:00Z
+    webUrl: "https://www.techspot.com/news/94699-microsoft-hybrid-loop-shows-foundation-ai-powered-client.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/94699-microsoft-hybrid-loop-shows-foundation-ai-powered-client.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94699-microsoft-hybrid-loop-shows-foundation-ai-powered-client.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 99
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/05/2022-05-24-image-25.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Teams and Power Platform to get more collaboration, AI-assisted additions"
     excerpt: "Microsoft is previewing a bunch of new capabilities for Teams and Power Platform developers, including a new capability to scan images and create custom Power Apps controls directly from them."
     publishedDateTime: 2022-05-24T15:18:00Z
@@ -196,6 +219,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1316144933/image_1316144933.jpg?io=getty-c-w750"
         width: 750
         height: 422
+        isCached: true
+  - title: "Microsoft beefs up AI development on Azure with access to OpenAI models"
+    excerpt: "Microsoft Corp. is expanding its long-running relationship with the artificial intelligence research outfit OpenAI Inc. as it launched a new service today for Azure Cognitive Services. The service provides developers with access to a range of OpenAI’s AI models,"
+    publishedDateTime: 2022-05-24T15:00:00Z
+    webUrl: "https://siliconangle.com/2022/05/24/microsoft-beefs-ai-development-azure-access-openai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/microsoft-ai.jpg"
+        width: 1366
+        height: 768
         isCached: true
   - title: "Introducing the Microsoft Intelligent Data Platform"
     excerpt: "It’s clear that the fragmentation which exists today between databases, analytics, and governance products must be addressed. To help organizations unlock these new capabilities, we shared several exciting announcements today at Microsoft Build that demonstrate our continued innovation and investment"

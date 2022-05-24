@@ -47,17 +47,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 17
-  - title: "Global Face Mask Detection Market Report to 2027 - by Component, Application, Technology and Region"
-    excerpt: "Facial recognition systems, which began as a type of computer application, have seen increased use in recent years on smartphones and in other forms of technology, such as robotics. Computerized facial recognition systems are classified as biometrics since ..."
-    publishedDateTime: 2022-05-23T11:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27343540/global-face-mask-detection-market-report-to-2027-by-component-application-technology-and-region"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27343540"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27343540"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 10
 
 secured: "gDWBDRdq7+/ADIEi6f0QEm3XtxxtFz8iH7V/qzWXphGZwI1i5+DAhqgSeJO/s/NyXJFg9zNFkMzi7v2s++fKrT4lXEfDTcxJbTmRG/Li2M8AFqMKUorM5t64XSs9pALj5HjO0H4welComeskxU+bXCxKO6DJtsp/LYaFSwxZ8BBSCvf0WcNbGZPkfIQN0QlSnUDXk9YuSuhK6qCMY0FDzZK3eeQpySTEu4xE2KDrlyfFO0+tnoQ2zNhLewoT14pRkIL22Cy7rGSDaHm17SyUyxjj9BbtpMh3kwqSOfTL5M6WBMcCEHQcks1w+dHYFl3KkiHKobKKI+f6g6AzP1EHsAtI+dm80VQWuXSqiFJ4KkQp7xhyHbaRC1fKfwfZizW1EnMAhEBQ3hPMlipD08UG219UVo098AoC9DLmtwvqUUGNqpkN0Rrqc1LSGUJSgGFiXBJ+RDjK/D6YI9lHgYs0YshqohZ9vzm4z32fJ1tbJxts+pFm5IFVUz4rrU8G3YeM+rEckJ6r7r6nl0QMvfH4mw==;f3QMTuaDY4NL5kJogZpWWQ=="
 ---

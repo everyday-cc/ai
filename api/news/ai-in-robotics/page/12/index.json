@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-02-15-four-ways-artificial-intelligence-is-transforming-e-commerce.md",
+      "title": "Four Ways Artificial Intelligence Is Transforming E-Commerce",
+      "excerpt": "There isn’t an industry in the world that is immune to the influence of artificial intelligence (AI). From virtual reality (VR) gaming systems to AI robots in industrial manufacturing, the development of AI technology is revolutionizing the way we ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd9017bfb580cfe3fe8ef74/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/amp/",
+      "publishedDateTime": "2022-02-15T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-local-municipalities-use-ai-robots-to-improve-care-for-elderly.md",
       "title": "Local municipalities use AI robots to improve care for elderly",
       "excerpt": "Among the various AI robots which can be found inside of stuffed toys ... Soon-yi is a wristwatch-type product made by DNX, a startup company in the Yongin City Digital Industry Promotion Agency. After DNX provided the products to 111 elderly people ...",
@@ -1279,49 +1331,6 @@
       "provider": {
         "name": "The Bakersfield Californian",
         "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-chinese-scientists-build-robot-nanny-to-care-for-babies-in-artificial-womb.md",
-      "title": "Chinese scientists build robot nanny to care for babies in artificial womb",
-      "excerpt": "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "originalUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "publishedDateTime": "2022-02-04T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

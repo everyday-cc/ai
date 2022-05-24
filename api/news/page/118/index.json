@@ -2,6 +2,273 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-02-10-ibm-flash-storage-line-gets-ransomware-protection.md",
+      "title": "IBM flash storage line gets ransomware protection",
+      "excerpt": "In keeping with its vendor-neutral strategy, IBM designed Cyber Vault to be used with any storage that works with by its Spectrum Virtualize software. It enables rapid deployment of block storage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/cloud/learn/block-storage",
+      "originalUrl": "https://siliconangle.com/2022/02/08/ibm-flash-storage-line-gets-ransomware-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1.cms.s81c.com/sites/default/files/styles/ibm_cloud_wide_background/public/2019-12-12/003_1.jpg?itok=75eiZEG1",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T20:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-all-symbols-in-tensorflow-datasets.md",
+      "title": "All symbols in TensorFlow Datasets",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es",
+      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=es",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-kids-dont-try-this-at-home-robot-destroys-mankind.md",
+      "title": "Kids! Don’t Try This At Home! Robot Destroys Mankind",
+      "excerpt": "Keep in mind, I’m interpreting their comments as saying (essentially): “Soon machines will think and then they will out-think us and be impossible to control.” It is easy to imagine ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/06/01/kids-dont-try-this-at-home-robot-destroys-mankind/",
+      "originalUrl": "https://hackaday.com/2016/06/01/kids-dont-try-this-at-home-robot-destroys-mankind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/06/robots.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-making-collaborative-robots-user-friendly.md",
+      "title": "Making Collaborative Robots User Friendly",
+      "excerpt": "Collaborative robots are designed to work closely with human co-workers. They can do the mind-numbing repetitive tasks or do tasks like grinding and welding that are dangerous for humans. They can also be used to lift heavy objects. Yet the safety of these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/making-collaborative-robots-user-friendly",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/making-collaborative-robots-user-friendly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Universal%20Robots.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-microsoft-has-plans-to-make-autonomous-cars-intelligent.md",
+      "title": "Microsoft Has Plans to Make Autonomous Cars Intelligent",
+      "excerpt": "as well as the Microsoft Cognitive Services API. Seven talked about how Microsoft's Cognitive Services API already includes an Emotion API capable of understanding the emotions of someone's face, including anger, contempt, disgust, fear, happiness ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/microsoft-has-plans-make-autonomous-cars-intelligent",
+      "originalUrl": "https://www.designnews.com/microsoft-has-plans-make-autonomous-cars-intelligent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Microsoft_connected-car-image.png",
+          "width": 1188,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-idme-to-end-facial-recognition-requirement-for-government-agencies.md",
+      "title": "ID.me to end facial recognition requirement for government agencies",
+      "excerpt": "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/7431644449552/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IDme-to-end-facial-recognition-requirement-for-government-agencies.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/09/IDme-end-facial-recognition-requirement-government-agencies/7431644449552/",
+      "publishedDateTime": "2022-02-09T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-sony-trains-ai-to-leave-worlds-best-gran-turismo-drivers-in-the-dust.md",
       "title": "Sony trains AI to leave world’s best Gran Turismo drivers in the dust",
       "excerpt": "an artificial intelligence program has delivered another humiliation, leaving the world’s best video game racing drivers in the dust. Researchers at Sony trained an AI called GT Sophy to play ...",
@@ -893,281 +1160,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-ibm-launches-watson-backed-virtual-assistant-for-td-securities.md",
-      "title": "IBM launches Watson-backed virtual assistant for TD Securities",
-      "excerpt": "IBM unveiled a new AI-based virtual assistant powered by IBM Watson Assistant that is designed to help customers answer crucial questions. The first company to take advantage of the tool is TD Securities, which will use the virtual agent system for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "publishedDateTime": "2022-02-09T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform.md",
-      "title": "Scopio secures $50M in series C funding to develop telehematology imaging and AI analysis platform",
-      "excerpt": "The very common Peripheral Blood Smear review, used time and again for diagnostics, is typically conducted by a human analyzing the sample on a glass slide under a microscope and checking cell ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2022/02/scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform/",
-      "originalUrl": "https://medcitynews.com/2022/02/scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2022/02/for-pbs-pr.png",
-          "width": 1366,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-the-bull-thesis-for-c3ai-is-more-artificial-than-intelligent.md",
-      "title": "The Bull Thesis for C3.ai Is More Artificial Than Intelligent",
-      "excerpt": "At least two big-bank analysts are not particularly optimistic. First, Bank of America Global Research analyst Brad Sills downgraded his rating on AI stock from “neutral” to “underperform,” which is similar to a “sell” rating. Sills also cut ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/417551",
-      "originalUrl": "https://www.entrepreneur.com/article/417551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms.md",
-      "title": "Palo Alto Networks Adds Deep Learning Algorithms to Security Platforms",
-      "excerpt": "Code-named Nebula, version 10.2 of PAN-OS added deep learning algorithms that Palo Alto Networks can apply to, for example, instantly identifying zero-day threats or malware that is using specific techniques to evade legacy cybersecurity platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/",
-      "originalUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securityboulevard.com/wp-content/uploads/2020/09/securitytraining.jpg",
-          "width": 768,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/amp/",
-      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/amp/",
-      "publishedDateTime": "2022-02-09T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "securityboulevard.com",
-        "domain": "securityboulevard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-securethingsai-raises-35-million-in-pre-series-a.md",
-      "title": "SecureThings.ai Raises $3.5 Million In Pre-Series A",
-      "excerpt": "The funds will be utilized to enhance products, increase business growth and to expand the sales and marketing team",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/417696",
-      "originalUrl": "https://www.entrepreneur.com/article/417696",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1644413079-MyPost7.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai.md",
-      "title": "TigerGraph launches $1 million challenge to inspire use of graph AI",
-      "excerpt": "With a $250,000 first prize, entrepreneurs, academics, engineers, scientists can create their own problem statement focused on a topic of their choosing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "originalUrl": "https://www.zdnet.com/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
-      "publishedDateTime": "2022-02-09T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-25-iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai.md",
+      "title": "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI",
+      "excerpt": "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
+      "publishedDateTime": "2022-05-24T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-132-through-2028-120-report-pages.md",
       "title": "Artificial Intelligence (AI) in Education Market to Grow At A CAGR Of 13.2% Through 2028 | 120 Report Pages",
       "excerpt": "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3.",
@@ -384,6 +436,49 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-people-data-labs-joins-aws-isv-accelerate-program.md",
+      "title": "People Data Labs Joins AWS ISV Accelerate Program",
+      "excerpt": "People Data Labs (PDL), which provides 3 billion unique B2B data records for developers, engineers, and data scientists, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor Accelerate (ISVA) Program,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1313,104 +1408,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-09T09:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-natural-language-processing-market-growing-at-a-cagr-203-key-player-ibm-microsoft-google-aws-facebook.md",
-      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook",
-      "excerpt": "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27060343",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27060343",
-      "publishedDateTime": "2022-05-07T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-process-larger-and-wider-datasets-with-amazon-sagemaker-data-wrangler.md",
-      "title": "Process larger and wider datasets with Amazon SageMaker Data Wrangler",
-      "excerpt": "Amazon SageMaker Data Wrangler reduces the time to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio. Data Wrangler can simplify your data preparation and feature engineering processes and help you with data selection, cleaning, exploration, and visualization.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/process-larger-and-wider-datasets-with-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-larger-and-wider-datasets-with-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ml-9302.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T10:30:38-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

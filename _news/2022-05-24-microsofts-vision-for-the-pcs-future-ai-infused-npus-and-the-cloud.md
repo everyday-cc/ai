@@ -126,6 +126,22 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Microsoft \"hybrid loop\" shows the foundation for AI-powered client / cloud computing"
+    excerpt: "If there's ever a place where you're likely to hear the direction that computing and applications are headed, Microsoft's developer-focused Build conference is probably it. True"
+    publishedDateTime: 2022-05-24T16:37:00Z
+    webUrl: "https://www.techspot.com/news/94699-microsoft-hybrid-loop-shows-foundation-ai-powered-client.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/94699-microsoft-hybrid-loop-shows-foundation-ai-powered-client.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94699-microsoft-hybrid-loop-shows-foundation-ai-powered-client.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 99
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/05/2022-05-24-image-25.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Teams and Power Platform to get more collaboration, AI-assisted additions"
     excerpt: "Microsoft is previewing a bunch of new capabilities for Teams and Power Platform developers, including a new capability to scan images and create custom Power Apps controls directly from them."
     publishedDateTime: 2022-05-24T15:18:00Z
@@ -190,6 +206,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Microsoft beefs up AI development on Azure with access to OpenAI models"
+    excerpt: "Microsoft Corp. is expanding its long-running relationship with the artificial intelligence research outfit OpenAI Inc. as it launched a new service today for Azure Cognitive Services. The service provides developers with access to a range of OpenAI’s AI models,"
+    publishedDateTime: 2022-05-24T15:00:00Z
+    webUrl: "https://siliconangle.com/2022/05/24/microsoft-beefs-ai-development-azure-access-openai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/microsoft-ai.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Introducing the Microsoft Intelligent Data Platform"
     excerpt: "It’s clear that the fragmentation which exists today between databases, analytics, and governance products must be addressed. To help organizations unlock these new capabilities, we shared several exciting announcements today at Microsoft Build that demonstrate our continued innovation and investment"
     publishedDateTime: 2022-05-24T08:00:01Z
@@ -227,6 +257,20 @@ related:
         width: 499
         height: 375
         isCached: true
+  - title: "Team SWIFT Responders from Singapore wins APAC Microsoft AI for Accessibility Hackathon"
+    excerpt: "Teams from Singapore, Thailand, and Philippines are winners of the Microsoft AI for Accessibility (AI4A) Hackathon in APAC. In its third year, the AI4A Hackathon features teams who are deeply"
+    publishedDateTime: 2022-05-24T05:45:00Z
+    webUrl: "https://news.microsoft.com/en-sg/2022/05/24/team-swift-responders-from-singapore-wins-apac-microsoft-ai-for-accessibility-hackathon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 48
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/439/2022/05/SNC-header-image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z
@@ -255,16 +299,7 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Team SWIFT Responders from Singapore wins APAC Microsoft AI for Accessibility Hackathon"
-    excerpt: "Teams from Singapore, Thailand, and Philippines are winners of the Microsoft AI for Accessibility (AI4A) Hackathon in APAC. In its third year, the AI4A Hackathon features teams who are deeply"
-    publishedDateTime: 2022-05-24T05:45:00Z
-    webUrl: "https://news.microsoft.com/en-sg/2022/05/24/team-swift-responders-from-singapore-wins-apac-microsoft-ai-for-accessibility-hackathon/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 26
 
-secured: "7+AXviNqje1G0mF4RBfIq3D1wPGsb9kMX8bV6IazWrfM7DJEYFVIAtuB5Jbv9HMFxtirSGvirxs5th1K6ALC6EDaPaGvT19JSRTW9fF/i8vGmP02NuEcTLgq2EEunPZsVCeFvrbWHHr/QYMfDe+C8a99HYJBmMCXM1Pkmljqd55lk9iy1sLJ5rt9MGbn3+0Hs7AutJn7dw34aYbljDgf7xSlS1G+j4wv35m5HDBMlm0vjaRWEKxLPKQjNhZshZULZRBsbRGKdBk8CVzaeUiBFDPI8GvJNxJLTVV5jmGHIJlTF3jaXYFtTCnnbktWuMSBnm1/v+AslaR+xYeYvrVWBpyBK7oiK90LM+SMjoerUwE=;HUWi1H02NkgIcUL5C0YI7A=="
+secured: "0uhTq672ZBB8f6NxZXl4Xb3PKJIcrhsSVevVLTWXjEoNZKUsUTpNR8rSrD5aqmBBPoA5neL8hWCPHOYzeoqOkX/4a0PzRy9FPuKfamc5ufCA9Q0hxIzUhMz/zUh4dYcqvAUNOkmNcMUMDBNUEAN1V8sNEB9pxTBPMI1Q5dQvZA0oCe+gCcoS+MfXIvUngRK0zX/2nN3TQ/Yvfzg41BWK4XKjr0gaIfBx5EM6JYsniLtnyGPK0NVsYszJlWpWwX6uVEh9pkfqKdh5qctsqMhxOwYtQKXSf4Ad0+hWT7aDUhoMB6kcfRLdteS2QjiJyfnT8vrj+l6d6mD47BETKR5bjqkLT61TKdWa5pM48YHRH62WNod3/ItUnp4jUCpsAVjAuyMkokD2E82qvWWBqVU92Iy/oYN2irf8j6lOhWPJlTtHjs4RBfK41Hs5uTcFSIXM4nOGtWZcCIIPlcJxIWkpbLyjm8NsO5bvfsqduj1Z6rsbdqQG2yQnwYJmY3hGgyn7h+OHocef3nQx8t2fOXdTTA==;N6JT9U62IqhfpekXaSpY/w=="
 ---
 

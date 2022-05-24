@@ -1,23 +1,29 @@
 ---
 category: news
 title: "KAID Health Announces Series A to Fuel Growth of its AI-Powered Provider/Payer Whole Chart Analysis Platform"
-excerpt: "Funding to expand company’s footprint among healthcare providers and the insurers they partner with while improving reimbursement, clinician efficiency, and care quality KAID Health, makers of an artificial intelligence-enabled clinical analysis and provider engagement platform,"
-publishedDateTime: 2022-05-24T14:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-kaid-health-announces-series-a-to-fuel-growth-of-its-ai-powered-providerpayer-whole-chart-analysis-platform"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-kaid-health-announces-series-a-to-fuel-growth-of-its-ai-powered-providerpayer-whole-chart-analysis-platform"
+excerpt: "KAID Health, makers of an artificial intelligence-enabled clinical analysis and provider engagement platform, today announced its $4.25 million Series A funding. The financing was led by prominent healthcare IT investors,"
+publishedDateTime: 2022-05-24T14:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-boston-artificial-intelligence-50743511d102436d9ea7f5e714678a2d"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-boston-artificial-intelligence-50743511d102436d9ea7f5e714678a2d"
 type: article
-quality: 0
-heat: 0
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "DZfUh8+SWmqbG42XA8YQ8r0ZYdOvScSWQA0GcQBCbuth245DwE9mnxDmPbUqnxsN3ofh3lG3+25jWjCG91dmsQY3c8UbbvpIIi7crmSziltDW3Iuv2NWYyZG0aYABRW0kNYAtIaOC/FOpdpySZVapU6Rx1spdotTiOHulK6SliHPq0YDyHDmw4GleOc/ZSyS1/Qd5fXAru5iBffTN1Y291of5cl247j26PVhWACOrdK5YQgeIXRmVJSII1BVyXmKQh4iF9wHr8bKNNqoAqLfyb4QH3lgSknUb4Y8FM2uuXziWKPL0exCzA5AtneYg1PcsYpYTF+soNWn1kyMR16TA5tOZUvdhrHgYX7WUlSVVMo=;wgB8BQI+O+v09YP4iZLBUQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Xxff/fLzNOVD2OGwRBXDS2Hh18TwcOS+eMSx2T7puYoMm+KL8eA3v6pOxuwRLDinRso19h7ZU/auQVD1MwM33C9YDJhsZNll7jAaPLrtrbFanaJ15C4ao/wbyZH+RtZ5HJR94uRiUtwAwJ3Uc899I/b8NGfVqRGak7ZqUrUoGueHYnZtfZaYzw69g0XwRdMKskzrxHkmKFCcxf5HcnAzlRHwDpM9yxAsvR4k8qpIWaafEF6keLI8vx4iKT5nvDVrqDmKeYX3u1CjXTm0KLEbkrD+AI/nGydou2Vr3otKnH/iq87wh7Fyl4Gnku9D/nuvNLElsyIBi9L0AbxOBh99jQg1hcG2xynjBQwUnkjMUVo=;DxkEsx6ppArJrUV2dfGEhA=="
 ---
 

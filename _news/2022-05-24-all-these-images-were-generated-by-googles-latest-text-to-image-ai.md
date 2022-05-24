@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/5/24/23139297/google-imagen-text-to-
 webUrl: "https://www.theverge.com/2022/5/24/23139297/google-imagen-text-to-image-ai-system-examples-paper"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://menafn.com/updates/pr/2022-05/20/G_bfaa779d-5_Image_In_Body.jpg"
         width: 480
         height: 480
+        isCached: true
+  - title: "Google details new cutting-edge image generation AI"
+    excerpt: "One of the most sophisticated entries into the category is an AI system called DALL-E 2 that was detailed by OpenAI LLC earlier this year. According to Google, its newly announced Imagen system ..."
+    publishedDateTime: 2022-05-24T17:29:00Z
+    webUrl: "https://siliconangle.com/2022/05/24/google-details-new-cutting-edge-image-generation-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/google-1.png"
+        width: 1024
+        height: 580
         isCached: true
 
 secured: "Qqhb/CCUwIuGNAkB9YYZaqftbpLpIEZ6q3XswRnc9kNMcjkDvoj5bjnyYigN45sRY2t39KVA9Iem/h63dSr7jYIKI4QxOG0dZKiRmLxtf00jDS8FkVlewRu30+5yenEk6GnkJS0HcxBOC8f/7hJtnkA6f9jNE7xDqfsGiIwtvoxiOvxatsS0Vrg3YQtENuHojMeI8XV/pUn6tbjizT1OwLeo1Kq6q660XZla4y21pH3ISUgVe/cDvbjdgCzyL/m9kU4GkfWK85SrGhk6/O+LSNxoPSKvk66gpF6VAzyZy4RNUQ+IOQwfMiTOyzvcyJOduVbyQo+ICJ6ffbh0DhCCeMeq7VIt7lrU0OPf2HmGHoOsFmxoYwqkpkC0RO0gOxiG6JO0zeN2mt7c9x18pGi/GvqKTDUwlMMHUuS2RHqylCRJEngc0DwRme/jgtP9hmQSLGutvSH9sTbGkvtKdGOvZ/NlvVxSP9ynWBtbC69GEgzAVYwKithMZq+qg0VvZnm2PTpgpkHQp//spS7F4e/7fA==;tNG7HuXjSpD5YriEW57YxA=="

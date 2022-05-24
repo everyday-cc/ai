@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-23-playing-by-the-rules-fintechs-use-ai-for-marketing-compliance.md",
+      "title": "Playing by the Rules: Fintechs Use AI for Marketing Compliance",
+      "excerpt": "Companies are spending billions on marketing and advertising, paying big bucks to be center stage for public attention. For fintechs that operate globally and under the jurisdiction of multiple government agencies and regulatory systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance",
+      "originalUrl": "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh6.googleusercontent.com/XTM3knFbB18Ultf9kkId2-XySe7I71UoEt4VYlNfNr0eSFw_AF0IM6-T-ozQMxrAgBwQUijX_5Q-2JP20wYnU5IxgHWaS9__oPqESXw4wnWgtjOKz0fFImRtMckLFqiGUW0YMiWkY5BRmiucuQ",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-autel-robotics-evo-lite.md",
+      "title": "Autel Robotics Evo Lite+",
+      "excerpt": "The Autel Robotics Evo Lite+ folding drone ... quality here simply because creators have more control with the Raw DNG format. If you don't mind a saturated look, however, the video profiles ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/drones/140524/autel-robotics-evo-lite",
+      "originalUrl": "https://uk.pcmag.com/drones/140524/autel-robotics-evo-lite",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/review/a/autel-robo/autel-robotics-evo-lite_x4p9.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-meet-13-robotics-startups-in-denmarks-beyond-beta.md",
+      "title": "Meet 13 robotics startups in Denmark’s Beyond Beta",
+      "excerpt": "The startups will receive coaching and mentoring from robotics experts and exposure through Odense Robotics during the Beyond Beta program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/meet-13-robotics-startups-in-denmarks-beyond-beta/",
+      "originalUrl": "https://www.therobotreport.com/meet-13-robotics-startups-in-denmarks-beyond-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-beyond-beta.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-3-keys-to-ai-success.md",
       "title": "3 Keys To AI Success",
       "excerpt": "AI is everywhere. Companies use it in myriad ways, and we all encounter it in some form every day. But are businesses wringing as much value out of AI as they could be? Some are. The most recent PwC AI Business Survey found that companies that stand out as ...",
@@ -974,7 +1113,7 @@
       "originalUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1005,124 +1144,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-how-ai-can-facilitate-supply-chains.md",
-      "title": "How AI Can Facilitate Supply Chains",
-      "excerpt": "Here’s how artificial intelligence could play a crucial role in supply chain management, and whether it could be part of the sector’s future. Some people might associate artificial intelligence with robots and assume it’s limited to basic applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
-      "originalUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
-      "publishedDateTime": "2022-05-20T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-israeli-firm-hopes-ai-can-curb-drownings.md",
-      "title": "Israeli firm hopes AI can curb drownings",
-      "excerpt": "An Israeli city is testing whether an artificial intelligence programme that detects drowning threats can help save lives off its beaches.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.html",
-      "originalUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/lifeguards-in-the-city.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-israeli-firm-ai-curb.amp",
-      "publishedDateTime": "2022-05-20T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals.md",
-      "title": "Every Crime has a Face, Says Ukrainian Journalist Hunting War Criminals",
-      "excerpt": "Before the Russian Ukrainian journalist Dmitry Replyanchuk spent his days unearthing corruption, often among judges and law enforcement. Now the Kyiv-based journalist wh",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "originalUrl": "https://www.voanews.com/a/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/03190000-0aff-0242-b9d4-08da3a86af46_w1080_h608_s_b.png",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "publishedDateTime": "2022-05-20T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

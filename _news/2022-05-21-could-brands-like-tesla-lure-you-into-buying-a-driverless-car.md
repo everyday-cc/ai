@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://st1.bgr.in/wp-content/uploads/2021/06/Elon-Musk.jpg"
         width: 1201
         height: 675
-        isCached: true
-  - title: "Oxbotica completes first driverless car test on open roads"
-    excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
-    publishedDateTime: 2022-05-19T23:17:00Z
-    webUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 39
-    images:
-      - url: "https://www.shropshirestar.com/resizer/PAsXFLOw9WrxrGRAZYfim27mu6A=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/3AYSWITJCRD35A7LRP6UIGV2XE.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Tech company completes first driverless car test on Oxford roads"
     excerpt: "Fully autonomous vehicles have been driven on Oxford roads with no on-board driver and they could soon be used to deliver food."

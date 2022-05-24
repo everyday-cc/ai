@@ -54,6 +54,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Clearview expands sales of its facial recognition tools"
+    excerpt: "The software isn't exactly what Clearview AI has caught flack for in the past. Since the company's recent settlement with the ACLU bans Clearview from providing social media face"
+    publishedDateTime: 2022-05-24T16:03:00Z
+    webUrl: "https://www.protocol.com/bulletins/clearview-private-companies"
+    ampWebUrl: "https://www.protocol.com/amp/clearview-private-companies-2657379335"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/clearview-private-companies-2657379335"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 76
+    images:
+      - url: "https://www.protocol.com/media-library/an-illustration-of-a-polygonal-face.jpg?id=27631065&width=1500&coordinates=296%2C0%2C297%2C0&height=2000"
+        width: 1500
+        height: 1996
+        isCached: true
+  - title: "ICO orders facial recognition firm Clearview AI to delete all data about UK residents"
+    excerpt: "UK data watchdog fines facial recognition company Clearview AI £7.5m for multiple privacy breaches. Firm, which offers services to police and law enforcement, faces growing pressure from regulators and legal action around the world."
+    publishedDateTime: 2022-05-24T16:24:00Z
+    webUrl: "https://www.computerweekly.com/news/252520622/ICO-orders-facial-recognition-firm-Clearview-AI-to-delete-all-data-about-UK-residents"
+    ampWebUrl: "https://www.computerweekly.com/news/252520622/ICO-orders-facial-recognition-firm-Clearview-AI-to-delete-all-data-about-UK-residents?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252520622/ICO-orders-facial-recognition-firm-Clearview-AI-to-delete-all-data-about-UK-residents?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 67
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/CCTV-facial-recognition-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "UK orders facial recognition firm Clearview AI to delete images belonging to UK residents"
     excerpt: "The US facial recognition company Clearview AI has been fined £7.5 million (€8.75 million) by the UK’s data protection watchdog over a string of breaches of local privacy laws. Clearview AI has also been given an enforcement notice to stop obtaining ..."
     publishedDateTime: 2022-05-24T15:05:00Z

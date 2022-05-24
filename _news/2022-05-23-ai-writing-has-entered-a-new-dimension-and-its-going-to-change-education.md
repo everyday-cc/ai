@@ -7,7 +7,7 @@ originalUrl: "https://thespinoff.co.nz/tech/23-05-2022/ai-writing-has-entered-a-
 webUrl: "https://thespinoff.co.nz/tech/23-05-2022/ai-writing-has-entered-a-new-dimension-and-its-going-to-change-education"
 type: article
 quality: 54
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "eLearning with Artificial Intelligence – a new way of digital education"
+    excerpt: "The principal advantage of AI is that it can be trained to carry out a large list of activities in a personalized fashion. It is a universal solution to gain tools to optimize their routine, enhance productivity,"
+    publishedDateTime: 2022-05-20T03:10:00Z
+    webUrl: "https://insights.ehotelier.com/insights/2022/05/20/elearning-with-artificial-intelligence-a-new-way-of-digital-education/"
+    type: article
+    provider:
+      name: eHotelier
+      domain: ehotelier.com
+    quality: 56
+    images:
+      - url: "https://insights.ehotelier.com/wp-content/uploads/sites/6/2022/05/bigstock-E-learning-Online-Education-In-421602110.jpg"
+        width: 900
+        height: 450
+        isCached: true
 
 secured: "S/zKVYyNcVLqRrhEzC/1y7keExqCKkyq0b5lTbVaxuacU7N7n+r7UOHDQ/azLkY0xtilWbLm+8ORHjVDQ4Xup9prIYwCi3C5lbLg2qxdZSwNAmitTcFu921ak3U30D7y/PMPqkW6rlAcPmfW204X6gxt+GYB4+T1uzL8nYB5c44QbLMbU5REMCPPEFWbuKsdesgvnH/Z0VQ1Os5RGqSDtk8fGkLQhc93SzqxYm0SegIi3GD91+pJEHEqNiE207XbV/ICkhnW6ijk8q47iJmRr0TRHuC7Xm+Uun7j4KC8rUskvo6lKSMde5TUvCyl/+MVbWt6zYzCNV8jvOfp8yhNq3dgXYCLE7hdd5zzBtg49ho=;9BuRR0hhjqzl90Oxbo/Enw=="
 ---

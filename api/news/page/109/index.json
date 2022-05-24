@@ -2,6 +2,255 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2022-02-17-dragonfruit-ai-launches-frontier-cloud-vms-with-video-analytics-for-multi-location-enterprises.md",
+      "title": "Dragonfruit AI launches Frontier Cloud VMS with video analytics for multi-location enterprises",
+      "excerpt": "Frontier is designed for multi-location enterprises that can't deploy expensive GPU hardware across all their sites (for on-premise AI), and don't have enough upload bandwidth (for cloud-based AI). Dragonfruit’s patented Split AI (US 11265591 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
+      "publishedDateTime": "2022-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-facial-recognition-technology-taken-to-the-next-level-in-virtual-reality.md",
+      "title": "Facial recognition technology taken to the next level in virtual reality",
+      "excerpt": "An international team of researchers from Australia, New Zealand and India has taken facial recognition technology to the next level, using a person’s expression to manipulate objects in a virtual reality setting without the use of a handheld controller or touchpad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/943967",
+      "originalUrl": "https://www.eurekalert.org/news-releases/943967",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9e7498e8-47ec-4a1b-9e70-87d4e94ee325/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-meet-misty-ii-the-robot-as-a-platform-not-a-tool.md",
+      "title": "Meet Misty II: The Robot As a Platform, Not a Tool",
+      "excerpt": "At its core, Misty II is driven by a deep learning processor capable of a variety of machine learning tasks, such as facial and object recognition, distance detection, spatial mapping, and sound and touch sensing. Developers can also 3D print (or even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "originalUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Misty%202_%20DevDeskMistyOnly.jpg",
+          "width": 6586,
+          "height": 4391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-the-best-stories-for-national-robotics-week.md",
+      "title": "The Best Stories for National Robotics Week",
+      "excerpt": "Collaborative robots -- aka cobots -- are becoming increasingly mainstream. Here are the 10 companies that should be on everyone's mind. Here’s a broad look at the commercial mobile robot market. Most of these robots are designed specifically for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/Design%20News/Manufacturing%20Robot%20Stock%20Image_thumbnail.jpg?itok=ywt4DKA_",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
+      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
+      "excerpt": "Also, Microsoft does not plan to release a Windows ... PDAs provided a simple, efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "originalUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-what-will-it-take-for-us-to-trust-self-driving-cars.md",
+      "title": "What will it take for us to trust self-driving cars?",
+      "excerpt": "It won't matter if we reach full Level 5 autonomy if people are afraid to get into the cars. Even now, years – perhaps decades – before we'll actually see a fully autonomous ... to AAA's survey, it's that it does show consumers aren't opposed to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theautochannel.com/news/2022/03/03/1113702-survey-says-consumers-arent-comfortable-with-fully-autonomous-vehicles.html",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/what-will-it-take-us-trust-self-driving-cars-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theautochannel.com/news/2022/03/03/1113702-survey-says-consumers-arent-comfortable-with-fully-autonomous-vehicles.3.jpg",
+          "width": 400,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-aws-announces-global-expansion-of-aws-local-zones.md",
       "title": "AWS Announces Global Expansion of AWS Local Zones",
       "excerpt": "(NASDAQ: AMZN), announced the completion of its first 16 AWS Local Zones in the U.S. and plans to launch new AWS Local Zones in 32 new metropolitan areas in 26 countries around the world. AWS Local Zones are a type of infrastructure deployment that extends AWS Regions to place compute,",
@@ -914,302 +1163,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-mendix-embraces-low-code-adds-3-new-products-to-aws-marketplace.md",
-      "title": "Mendix embraces low-code, adds 3 new products to AWS Marketplace",
-      "excerpt": "and Amazon Rekognition. Customers can also embed AWS Services into their own custom applications. The partnership “brings together market leaders in low code and cloud,” de Vries said ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/",
-      "originalUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/mendix-embraces-low-code-adds-3-new-products-to-aws-platform/amp/",
-      "publishedDateTime": "2022-02-16T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now.md",
-      "title": "Keep Your Gear Charged for Less: Save 40% on ESR's Popular Chargers Now",
-      "excerpt": "And that's not the only safety feature in place. Short-circuit protection means your phone is safe from any current with a little too much power, and the foreign object recognition system trips to automatically turn the charger off if a metal object other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/Fd1ERiHGfWS0b-W24NAz1IJA4MM=/1200x630/2022/02/16/c08afe44-917a-4580-b071-17a619f920b6/esr-20w-mini-pd-fast-charger-set.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
-      "publishedDateTime": "2022-02-16T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
-      "title": "Jaguar Land Rover, Nvidia Ally In Vehicle Software Arms Race",
-      "excerpt": "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621",
-      "originalUrl": "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/nvidia-logo-shown-at-siggraph-2017.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028.md",
-      "title": "Deep Learning Chip Market Survey Report with Detailed Analysis and Forecast to 2028",
-      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-survey-report-with-detailed-analysis-and-forecast-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/FFF-4-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time.md",
-      "title": "Bringing Deep Learning to your hardware of choice, one DeciNet at a time",
-      "excerpt": "Training deep learning models is costly and hard, but not as much as deploying and running them in production. Deci wants to help address that. Deep Learning is probably the most popular form of machine learning at this time. Although not every problem ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time/",
-      "originalUrl": "https://www.zdnet.com/article/bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6b95809bfb4c1aeed36e5c45f89497c6906da585/2022/02/15/25e5a413-334e-4c28-806d-47103663976e/image001.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bringing-deep-learning-to-your-hardware-of-choice-one-decinet-at-a-time/",
-      "publishedDateTime": "2022-02-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results.md",
-      "title": "How Enterprises Can Combine Decision Automation, Machine Learning And Process Automation For Better Business Results",
-      "excerpt": "While AI holds the potential to transform all businesses across industries including financial services, insurance ... What is the difference between decision automation, machine learning and digital process automation? How do they all work together?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620bc7eeaba5d254fabf109c/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/amp/",
-      "publishedDateTime": "2022-02-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

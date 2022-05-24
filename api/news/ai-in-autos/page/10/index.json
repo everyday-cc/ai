@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-02-21-why-5g-is-considered-an-essential-element-in-chinas-autonomous-driving-road-map.md",
+      "title": "Why 5G is considered an essential element in China’s autonomous driving road map",
+      "excerpt": "As China’s artificial intelligence champion and a heavyweight in self-driving cars, Baidu is bullish on C-V2X as a way to usher in a true driverless future, according to Li Zhenyu, general ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/11/why-5g-is-considered-an-essential-element-in-chinas-autonomous-driving-road-map",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/11/why-5g-is-considered-an-essential-element-in-chinas-autonomous-driving-road-map",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/06/11/715357.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-20-whats-the-status-of-self-driving-cars-there-has-been-progress-but-safety-questions-remain.md",
       "title": "What's the status of self-driving cars? There has been progress, but safety questions remain.",
       "excerpt": "There has been incremental, but steady, progress in the development of self-driving cars. Some form of driver-assistance technology focused on safety is now inside most new vehicles. The Society of Automotive Engineers (SAE) defines six levels of vehicle ...",
@@ -1367,58 +1410,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving.md",
-      "title": "Tesla Is Crazy To Not Make Full Use Of Maps To Improve ‘F’ Self-Driving",
-      "excerpt": "Almost every self-driving car team makes use of pre-computed maps, combined with what their sensors see, to help them understand the road and drive correctly and safely on it. Tesla is a rare exception, deprecating detailed maps and trying to use mostly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62048c75c49ecc67de9ea195/0x0.jpg?format=jpg&crop=719,405,x0,y0,safe&fit=crop",
-          "width": 719,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
-      "publishedDateTime": "2022-02-10T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

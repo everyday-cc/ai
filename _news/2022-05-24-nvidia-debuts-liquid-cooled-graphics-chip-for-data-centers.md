@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 707
         isCached: true
+  - title: "Gaming, Data Center Chip Demand to Aid NVIDIA (NVDA) Q1 Earnings"
+    excerpt: "NVIDIA Corporation NVDA is slated to report first-quarter fiscal 2023 results on May 25. The company’s first-quarter results are likely to reflect the benefits of strong demand for its graphic chips from the gaming and data center markets."
+    publishedDateTime: 2022-05-24T11:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/gaming-data-center-chip-demand-to-aid-nvidia-nvda-q1-earnings"
+    ampWebUrl: "https://www.nasdaq.com/articles/gaming-data-center-chip-demand-to-aid-nvidia-nvda-q1-earnings?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/gaming-data-center-chip-demand-to-aid-nvidia-nvda-q1-earnings?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "GIGABYTE Releases Arm-Based Server for NVIDIA Baseboard Accelerators for HPC, AI"
     excerpt: "GIGABYTE Technology, (TWSE: 2376), maker of high-performance servers and workstations, today announced a scalable server, G492-PD0, that supports dual Ampere Altra Max or Altra processors with NVIDIA HGX A100 Tensor Core GPUs for cloud infrastructure,"
     publishedDateTime: 2022-05-20T17:01:00Z

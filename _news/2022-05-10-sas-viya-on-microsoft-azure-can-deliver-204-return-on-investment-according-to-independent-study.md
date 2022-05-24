@@ -1,175 +1,26 @@
 ---
 category: news
 title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-excerpt: "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics."
-publishedDateTime: 2022-05-10T14:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
-webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
+excerpt: "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics. \""
+publishedDateTime: 2022-05-10T14:47:00Z
+originalUrl: "https://www.victoriaadvocate.com/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study/article_4b756953-9b33-5296-9946-05c12fd260b3.html"
+webUrl: "https://www.victoriaadvocate.com/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study/article_4b756953-9b33-5296-9946-05c12fd260b3.html"
 type: article
-quality: 71
-heat: -1
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg"
-    width: 400
-    height: 299
+  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/1e/c1ec80b9-4edf-57bb-9aab-d34d4138eff8/627a77204981d.image.jpg?crop=900%2C473%2C0%2C100&resize=900%2C473&order=crop%2Cresize"
+    width: 900
+    height: 473
     isCached: true
 
-related:
-  - title: "Microsoft session highlights from SAP Sapphire 2022"
-    excerpt: "Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft"
-    publishedDateTime: 2022-05-12T08:00:33Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Avaya expands partnership with Microsoft to offer OneCloud solutions on Azure"
-    excerpt: "The global scale of Microsoft helps ensure that our joint customers rapidly deploy Avaya OneCloud solutions in any cloud environment of their choic.."
-    publishedDateTime: 2022-05-11T09:29:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure/91490488"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 71
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91490488,imgsize-6487,width-1200,height-628,overlay-ettelecom/avaya-expands-partnership-with-microsoft-to-offer-onecloud-solutions-on-azure.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-    excerpt: "Prior to implementing SAS Viya on Azure, interviewees noted that barriers to data access and disparate data sources made it difficult and time-consuming to build, deploy and manage AI models. Other issues they faced included the inefficiencies and high ..."
-    publishedDateTime: 2022-05-13T07:20:00Z
-    webUrl: "https://www.albawaba.com/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sas-viya-microsoft-azure-can-deliver-204-return-investment-according-independent-study"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 61
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-05/jay.png?itok=5WUB_pkk"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud solutions on Microsoft Azure"
-    excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, and Microsoft Corporation have expanded their global partnership by pairing the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organisations with more options to increase their productivity and customer engagement with unrivalled reliability,"
-    publishedDateTime: 2022-05-11T09:08:00Z
-    webUrl: "https://www.itweb.co.za/content/lwrKxq3YG5D7mg1o"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/lwrKxq3YG5D7mg1o"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxq3YG5D7mg1o"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 57
-    images:
-      - url: "https://lh3.googleusercontent.com/IsADlNsJ5quYT4eXuGJwDIfAqEuO6_jbZJT2ngR6Igug4EocWVXf8usDsRWV4gvXgZCa8gWe2xClJeJoC9eR7aC4=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
-  - title: "Avaya partners with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
-    excerpt: "Avaya and Microsoft Corp. have expanded their global partnership by pairing the industry leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations with more options to increase their productivity and customer engagement with unrivaled reliability,"
-    publishedDateTime: 2022-05-11T09:40:00Z
-    webUrl: "https://www.crn.in/news/avaya-partners-with-microsoft-to-deliver-avaya-onecloud-solutions-on-microsoft-azure/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 47
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2021/08/16173811/CRN_Mergers_05_696.jpg"
-        width: 696
-        height: 465
-        isCached: true
-  - title: "Machine Learning Operations (MLOps) Market to Observe Exponential Growth By 2022 to 2028 | Microsoft, Amazon, Google, IBM"
-    excerpt: "New Jersey, United States-Global Machine Learning Operations (MLOps) Market 2021 by Company, Regions, Type, and Application, Forecast to 2028 The Machine Learning Operations (MLOps) market report gives a definite examination of worldwide market size ..."
-    publishedDateTime: 2022-05-13T10:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-operations-mlops-market-to-observe-exponential-growth-by-2022-to-2028-microsoft-amazon-google-ibm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 46
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/5e3193a297dd266e7f0a2649c1dfb6a14a65054e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Study shows SAS Viya on Microsoft Azure can deliver 204% ROI"
-    excerpt: "Organisations deploying SAS Viya, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment (ROI) over three years, according to a new commissioned Total Economic Impact study ..."
-    publishedDateTime: 2022-05-12T09:30:00Z
-    webUrl: "https://it-online.co.za/2022/05/12/study-shows-sas-viya-on-microsoft-azure-can-deliver-204-roi/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
-  - title: "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study"
-    excerpt: "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see"
-    publishedDateTime: 2022-05-11T16:29:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 30
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment, study finds"
-    excerpt: "Quantified benefits included faster time to market for analytics insights, improved operational efficiency in model building and testing, and cost savings from retiring on-premises analytics infrastructure."
-    publishedDateTime: 2022-05-13T06:34:00Z
-    webUrl: "https://www.itp.net/infrastructure/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-study-finds"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 30
-  - title: "Announcing Microsoft AI for Accessibility Hackathon APAC winners: Thailand, Singapore, and Philippines accelerate inclusive innovation"
-    excerpt: "Asia Pacific, 13 May 2022 – Teams from Thailand, Singapore and Philippines are winners of the Microsoft AI for Accessibility (AI4A ... experts to co-build their solutions on Microsoft Azure and continued mentoring support to build out their solution ..."
-    publishedDateTime: 2022-05-13T08:14:00Z
-    webUrl: "https://news.microsoft.com/apac/2022/05/13/announcing-microsoft-ai-for-accessibility-hackathon-apac-winners-thailand-singapore-and-philippines-accelerate-inclusive-innovation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/05/microsoft-AI-for-accesibility-team-thailand_1920x1127-1600x939.png"
-        width: 1600
-        height: 939
-        isCached: true
-  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-    excerpt: "Dubai, UAE: Organizations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see benefits including a 204% return on investment over three years, according to a new commissioned Total Economic ..."
-    publishedDateTime: 2022-05-11T13:26:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-x0av2kla"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 21
-
-secured: "nvLx3vf0fuqjrMZj1xGdu+8LrvtPwQtnzD4ar+fcBX1It/91KeH7Va18Y8bLu61Z0gvlf0iB/HvmSg7oDcH38j61ax9kOqxSeIBR7n65MJpent2nowLyL+Tc8rokG2YDYkbiua1qkDM7FQZmQFhMMA3tMVueVtqn7hgWxHYAWhSS23Ws089YKYEb7wTnELCgKHFwrnjiWAjUQtoLgb4HvN6dGnIDqw97fsfQGnJZH9GmY8lIYsaktUEl7GazKy7xFr3oqdkPc8ZlBiHoLb2qEscPoeowcBZ30Ms5PohiydeEWFskF64USZucexY+MeCI9OQdHQZcF5ErJoPWNP+9urEIuvPRt4HJ/n2/bhYpDdfmo8ghMk035M0iYDDhOrpCMyvIL+/mW+zRa8jJDcI2KZWunoL/7W4ADah8jEv5SqkP4NvgjJdxHwiARlsT79KJwuVg6DrWzPrQ5cEgiLu6IUUgfAtf/nvQIRIkU7HHClQrPWI9CY5+UH8uWVS4VQZsmtk6v9qEZ6f2Y+XCtL6ElQ==;8vvY5E93PLXOQ5D4c5Mmiw=="
+secured: "JIrODKZx/wul3lyeHojABE1/fUUDv8mEDYgWEbf5EnwhnYnW8nzbb+SLXQ05/S0+O+nttsdwGt9Bh6pUA8VTiFR6ryJZO491WV4nQxzJ7cGGojI1s03PGnBgCelSv1Pt7pzBXeaKlzMB26mlNr15sSy3CpkE5I006KrV+vntZvJAtE7c81yregA4Nm7HHSTHUsLFXZMQNjYhFA8NAZyzCjvzPmUolvwMbU5DiAymElCrq6VXajgTJGeOK6jhiH1x1334NDhG1Uo6YCrwqUEgtSWPPWnAUt5XieKfYBaCb/qTHamgMW55uzaDvM5LvhYkK2pnswr2epnTCadPq5gQMTW68P9nIRbaZkanvFnqCL4=;1jqSL+uCvmqUtwysjKSE+w=="
 ---
 

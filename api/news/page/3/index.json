@@ -2,6 +2,124 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-21-how-ai-can-facilitate-supply-chains.md",
+      "title": "How AI Can Facilitate Supply Chains",
+      "excerpt": "Here’s how artificial intelligence could play a crucial role in supply chain management, and whether it could be part of the sector’s future. Some people might associate artificial intelligence with robots and assume it’s limited to basic applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
+      "originalUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
+      "publishedDateTime": "2022-05-20T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-israeli-firm-hopes-ai-can-curb-drownings.md",
+      "title": "Israeli firm hopes AI can curb drownings",
+      "excerpt": "An Israeli city is testing whether an artificial intelligence programme that detects drowning threats can help save lives off its beaches.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.html",
+      "originalUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/lifeguards-in-the-city.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-israeli-firm-ai-curb.amp",
+      "publishedDateTime": "2022-05-20T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals.md",
+      "title": "Every Crime has a Face, Says Ukrainian Journalist Hunting War Criminals",
+      "excerpt": "Before the Russian Ukrainian journalist Dmitry Replyanchuk spent his days unearthing corruption, often among judges and law enforcement. Now the Kyiv-based journalist wh",
+      "sourceUrl": null,
+      "webUrl": "https://www.voanews.com/a/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
+      "originalUrl": "https://www.voanews.com/a/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gdb.voanews.com/03190000-0aff-0242-b9d4-08da3a86af46_w1080_h608_s_b.png",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
+      "publishedDateTime": "2022-05-20T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-jenny-jenny-who-can-zoom-turn-to-for-ai-based-training.md",
       "title": "Jenny, Jenny, who can Zoom turn to for AI-based training?",
       "excerpt": "Zoom deploys AI-generated avatars with conversational intelligence to onboard and train sales team members on CX and product knowledge.",
@@ -629,6 +747,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-20-oxbotica-completes-first-driverless-car-test-on-open-roads.md",
+      "title": "Oxbotica completes first driverless car test on open roads",
+      "excerpt": "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/",
+      "originalUrl": "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.shropshirestar.com/resizer/PAsXFLOw9WrxrGRAZYfim27mu6A=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/3AYSWITJCRD35A7LRP6UIGV2XE.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shropshire Star",
+        "domain": "shropshirestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-how-ai-is-improving-the-web-for-the-visually-impaired.md",
       "title": "How AI is improving the web for the visually impaired",
       "excerpt": "Join AI and data leaders for insightful talks and ... But when it comes to text on a complex background like an image or a gradient, things start to get complicated and helpful tools are rare.",
@@ -986,217 +1147,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality.md",
-      "title": "Nvidia AI research takes science fiction one step closer to reality",
-      "excerpt": "Nvidia is collaborating with researchers to present 16 papers at Siggraph 2022 this August. The research spans multiple topics that impact the intersection of graphics and AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality/",
-      "originalUrl": "https://venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality/amp/",
-      "publishedDateTime": "2022-05-19T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-detect-social-media-fake-news-using-graph-machine-learning-with-amazon-neptune-ml.md",
-      "title": "Detect social media fake news using graph machine learning with Amazon Neptune ML",
-      "excerpt": "In recent years, social media has become a common means for sharing and consuming news. However, the spread of misinformation and fake news on these platforms has posed a major challenge to the well-being of individuals and societies. Therefore, it is imperative that we develop robust and automated solutions",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-social-media-fake-news-using-graph-machine-learning-with-amazon-neptune-ml/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-social-media-fake-news-using-graph-machine-learning-with-amazon-neptune-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/19/graph-neptune-fake-news.jpg",
-          "width": 1000,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T09:12:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-optimize-f1-aerodynamic-geometries-via-design-of-experiments-and-machine-learning.md",
-      "title": "Optimize F1 aerodynamic geometries via Design of Experiments and machine learning",
-      "excerpt": "FORMULA 1 (F1) cars are the fastest regulated road-course racing vehicles in the world. Although these open-wheel automobiles are only 20–30 kilometers (or 12–18 miles) per-hour faster than top-of-the-line sports cars, they can speed around corners up to five times as fast due to the powerful aerodynamic",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-f1-aerodynamic-geometries-via-design-of-experiments-and-machine-learning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-f1-aerodynamic-geometries-via-design-of-experiments-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/16/ML-7754-image004.png",
-          "width": 900,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-build-a-risk-management-machine-learning-workflow-on-amazon-sagemaker-with-no-code.md",
-      "title": "Build a risk management machine learning workflow on Amazon SageMaker with no code",
-      "excerpt": "Since the global financial crisis, risk management has taken a major role in shaping decision-making for banks, including predicting loan status for potential customers. This is often a data-intensive exercise that requires machine learning (ML). However, not all organizations have the data science resources",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-risk-management-machine-learning-workflow-on-amazon-sagemaker-with-no-code/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-risk-management-machine-learning-workflow-on-amazon-sagemaker-with-no-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/19/risk-management-sagemaker.jpg",
-          "width": 1000,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T08:47:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

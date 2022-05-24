@@ -2,9 +2,9 @@
 category: news
 title: "Neuromorphic chips 'up to 16 times more energy efficient' for deep learning"
 excerpt: "Neuromorphic chips have been endorsed in research showing that they are much more energy efficient at operating large deep learning networks than non-neuromorphic hardware. This may become important as AI adoption increases."
-publishedDateTime: 2022-05-24T13:11:00Z
-originalUrl: "https://www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/"
-webUrl: "https://www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/"
+publishedDateTime: 2022-05-24T13:36:00Z
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_16/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_16/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 667
     isCached: true
 
-secured: "9ziaKkpN9/SlIfbV/XqlvBgcdEyqsd3pjfBUSlydVn/4KDfIN3vaU0ZAY9rF/saHLTg4zLbYQ0UeMYCiylgLoWkQf6FWJ9dJbaWifB+aZe6EPnsulWr70SuRZCp5o4cb1bVnh4igC4ocxeX8d6M+Hk1+1BogF4TmS4a0kFZaNYWt9bVwtl6UlhS304mNq8vPasettM2ZspdQnFBUzi05evmWUksa9nz+3t84hC2Dxd+F5PdRZdcKtAfTCzHH91oP81LPvY0KuWVIv1G2EtZMtPs/MJWW9pEkXGNL7KUous/UygxCtGkdBokaI05AJQ0RFWc2QiMb0UEyja/rL69wO7QV9jxhyhKU4QyxYlv6ksM=;AGoLElA/rvamX0BUMqkprg=="
+secured: "DFhSjCBItaBIhJWpUubduBhhs2/kR4rL6koup7fJNNOtTibOgpYNuebY8b0AZJOV2cWQbmYFcEhvxdXxj69f7FbxB1JHHJ0E63C2AOJKJ1UxyfXdW3T/FKXEgmflXgqbuZY7lZ2EgL3LpcwresCi8Ci6+qFBJi7eBTuDgkSPT/SjnShxDX8yQAO1uxBwwtnuA23lx1EaSCaBs2SBHvchAD1sFVHv3E9RGPVBZLIita1kGLfpVhgmaWF/WV1+sug/yQk8nt53Tb+E4VzafYZj3tEdz29rdBXgYw4HuYOEKRVEUKNE+lllfBn/xXqttYQK/YOeT1MGOBKk0z/q/vJ8rHXM1rXRurbXBkD/2PHehgA=;ICwdWXBFvs3YPN5ZQR2AFA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/convi
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/conviva-partners-with-visua-to-integrate-visual-ai-technology-in-its-leading-insights-platform/article_07c78029-3130-539b-9c00-890b37c83e94.html"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI"
+    excerpt: "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models."
+    publishedDateTime: 2022-05-24T17:50:00Z
+    webUrl: "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all"
+        width: 1200
+        height: 603
+        isCached: true
 
 secured: "x9JSOh99JtuCra0YjR+dEP5ET2twmq2lEGfOgVvA/HPHjr0fBsYzfLOkW6e1NWPp86cMyTI7oPclj7Q3Rp8i1VqAlb/rmd9OKptD3fbiSxOs9YqG0wwqzUagaao+YucjIvwSXO1QAtd4ASvbdXRIUQRO2izziJaaiNDDdDcV3lMvgxVDQT3kOhIfVKQSpiKBzZ+ydCyS4WPPmGYSTVbkNJRq+rWHR5OQs6RWZH2SIfpAbrxq3WrCwvynhexF0oHCCIyezLDa/xhmFnVoK/pbWC0Pp6r5HNipA0X+h2v2+6aDjOdxzh9pBj2B7f1TTpRu/4flkmo5aI51mclPMRWPNtRiL8CIO5H7B2EpWLnTnWg=;putsudFDIss5UX06r0KDzA=="
 ---

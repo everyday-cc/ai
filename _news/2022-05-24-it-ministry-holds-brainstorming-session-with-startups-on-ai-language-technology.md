@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/it-ministry-holds-brainsto
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 450
     isCached: true
 
-secured: "PMyocuIvEOZvaTEsjjNJKBEH0+0Ji7yhiRnFTAzQiS6vK4cn058i3yDmwW05O6RU0UvWlZSCPMeN8Ah0uh0eun9C8Hbo9z5TbMkSmEzjjf5HVA20JR3yJM2mWo30VSCzs1XRloe3NowP05RjOYV9NnDXktyZGaVZ+wqSnJjYsBxbkBKjwgPSPd7Unt3TrNYSK2NMS5kq/xCVJEYYr3pn4qD595rOBqpO/xlKbZa+RHyjLRi5d0H+r117IUOEYQPztOREzVC7yjEIiaXLRdC6Z7dvK3egbtTZFoOanCOYvRn8EWJR9qAJ243ew4Oy8lUlp4y7vViSKMI2l34nPHS88UTi0Si4JD4hBdp405aR7VA=;alF8KIT4rKhi/P8K/GB1tQ=="
+related:
+  - title: "MoS IT Rajeev Chandrasekhar collaborates with entities on India's AI language translation platform"
+    excerpt: "Rajeev Chandrasekhar, Minister of State for Electronics and IT, conducted a brainstorming session with startups, researchers, and others on Tuesday for developing the country’s artificial intelligence-enabled language translation platform Bhashini."
+    publishedDateTime: 2022-05-24T17:36:00Z
+    webUrl: "https://www.cnbctv18.com/technology/mos-it-rajeev-chandrasekhar-collaborates-with-entities-on-indias-ai-language-translation-platform-13601902.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/mos-it-rajeev-chandrasekhar-collaborates-with-entities-on-indias-ai-language-translation-platform-13601902.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/mos-it-rajeev-chandrasekhar-collaborates-with-entities-on-indias-ai-language-translation-platform-13601902.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 45
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/09/artificial-intelligence-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
+
+secured: "srQrtPu/rYST36Az8Y7U697dpXsKCNS5Y3LmtB5mWN9gVX4VkyUckjxqc/cLwT1DemgYuQcKIci0ygu3GVYm9VghH8xHYGVqazf8nevU7DNs0n7pTnExOdmj01mpvoVxprGDQi2w8ik/okKAYADlqtcMlflG6c0j2Im9ZNxIRFlFS9MMkfJsLlkPjvLGLxNV3WUm5D0JkaQPQ2sLzGid9C09NyJfpaLdEc8bgYh7ZyFfAuEjw/X4gXvDn89we8vU9QIMuHxC4ZCPa+GsUDYKN+QBxE47BiIxm+mAb52KMbIEiCcLQhqnyOH+x70y0p40Spq7aOiDJcvufolQ3s3x7pkcYxiDtdCP357l9/t1p2XYdlWkzqcMmLi6fXt86w5grWHZO2ZMhXlZRQCCJiImO6dqBy3cqDB7uolLyTbvBKBSkWJ66IG30L/3JygpPM4hKf93bPBJEfKYBaxh7Zp7xRyOOGELTwPbK9PHi9trrwx5zkU1U54yQ+p2Ysg87l63BtiXLSEtp7J6ZvHGF2/C/Q==;bFqKW7v27BMyH+dp7DeOVQ=="
 ---
 
