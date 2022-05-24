@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104252778/Halodi-Selects-Immervision-To-Give-H
 webUrl: "https://menafn.com/1104252778/Halodi-Selects-Immervision-To-Give-Human-Like-Vision-To-Its-Humanoid-Robots"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 1017
     isCached: true
-
-related:
-  - title: "Immervision Brings Human-Like Vision Capabilities to Halodi Robotics"
-    excerpt: "is proud to announce it was chosen by Halodi Robotics to provide their next generation vision system for their humanoid service robot platform, capable of handling both human and computer vision. This press release features multimedia. View the full ..."
-    publishedDateTime: 2022-05-19T13:16:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-robotics-2b9dd9d3407f4457a19694434c2582a5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 56
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "kSoFfrHTyojpLx/3jpaBXphhFL2OAK5CNEBt04XwaCnU85Mw7/V4i8/YNNPo9BVfaHDDT7Wa7z/5h+1ef+CTx3miqln/dieJghMJc9AthtIeFDJMd3MCH7NLzf92i3l0f7wgJ7PQ6WN/RZFx6iyaoDAffcrkKxNTFba8uB6tdvKbu40vNhVKrpgkjTWK5WYnJpXhU3xswOgvc25Mdcmxnw+aZ+yHHIJS8UCEz8dGxfskz7VCiCH6q6k+29UdlY4XuiyvGtHCEjT8bLT5HIhZCm3J74R2KQxacO+g6AOuAQe4f0Gx1jCAzjxO+h7tyEY0g6W8N49MroRIeUcsZ4DplpkWAC1zpq8V6Gwnuj0+pJ8=;GTmDLkfjhAAyrc8PQhVqBQ=="
 ---

@@ -6,9 +6,6 @@ publishedDateTime: 2022-05-19T14:34:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241"
 webUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics-1031476241"
 type: article
-quality: 69
-heat: 99
-published: true
 
 provider:
   name: Business Insider
@@ -19,8 +16,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
@@ -28,50 +25,6 @@ images:
     height: 271
     isCached: true
 
-related:
-  - title: "Soft Robotics Expands Commercial Focus for its Artificial Intelligence Technology"
-    excerpt: "Soft Robotics Inc. expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the consumer goods, E-commerce, and logistics industries."
-    publishedDateTime: 2022-05-20T14:00:00Z
-    webUrl: "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology"
-    type: article
-    provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 64
-    images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2022/05/Soft_Robotics_Inc_mGripAI_CPG.628698128d087.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 500
-        height: 339
-        isCached: true
-  - title: "Ethics in the AI, Technology, and Information Age"
-    excerpt: "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?"
-    publishedDateTime: 2022-05-20T17:27:00Z
-    webUrl: "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF"
-    type: article
-    provider:
-      name: Amazon Associates UK
-      domain: amazon.co.uk
-    quality: 54
-    images:
-      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
-        width: 350
-        height: 450
-        isCached: true
-  - title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
-    excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
-    publishedDateTime: 2022-05-20T07:41:00Z
-    webUrl: "https://www.ketk.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
-    type: article
-    provider:
-      name: ketk
-      domain: ketk.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
-        width: 400
-        height: 271
-        isCached: true
-
-secured: "OC0gKNV2/Ym13Mu/ha1tuXbrVbce+IpJw8xjZQUJDgUNN5vEfrAfNqYiLRnlL26AxLtTKNfrEhGrJLzzBYFeUE4g9UvMF63U6wJv6F2ZCI9WIa3YKOgBDgnQZ8MYgWnWiJARRoA7DDJScLQEoRx4cpQpvrbOQ9Q2/O39K2ern7bfgL7XcL5pVYCBRg7qDX2hRAgkSBDSlR0mnlzvZHmKbIQbKoykVKVHaZyxMTSzny/xwHN2CJkvChXGzH1tpzs2RsP+nYTlh04mpvqitDhlS1freff/Fvo1YGmYz+qsl8aNoNxjtWg7iXUqVJ3w7gMEt7kVqAAaJo3xvMgq+SvGSHxsUNSHlz3vRdi8opkasWg=;oG99X7yRLt6Mb2ChIZxQ/A=="
+secured: "uQfM5BTIoEVJ7PK2QOAh57iBAs1WL9uC/LyKXgyvKJGKUS+IxJsZGzvRSqTPlIPzII1FATco1XoF8/mBLrVaK5creldC6AFg6Rn1HIZPu0+6S2XBdeRgBG4QOtMK2NkspL/O50s2LffIA/wYJ/VuMZHnYzlqAf+6Nxa9QqTq0Wb6WZnwx33I0Ym/+r35XUJFkX8+ysHysVBSInN/nONuyz3bZyTmjtqmOU0oc6LvUjk4C4CLE7w1F7q1ipdbC5zN4i67IcQ6IwZP5c4mU8S/VE2ZtnYR2+AXlltOquKHZ+cT3A/Zls+BMd3QwLk/wWuguQh8q698G7w+HcgCObJH/YUBegzVsneXvpqHwhjtZAI=;v4ag3wvTRZiaOGptYQSCDg=="
 ---
 

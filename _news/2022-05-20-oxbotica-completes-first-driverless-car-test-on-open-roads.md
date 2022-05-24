@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Oxbotica completes first driverless car test on open roads"
-excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. Investment Minister Lord Grimstone ..."
-publishedDateTime: 2022-05-19T23:41:00Z
-originalUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
-webUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
+excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
+publishedDateTime: 2022-05-19T23:17:00Z
+originalUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
+webUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: AOL.co.uk
-  domain: aol.co.uk
+  name: Shropshire Star
+  domain: shropshirestar.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.shropshirestar.com/resizer/PAsXFLOw9WrxrGRAZYfim27mu6A=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/3AYSWITJCRD35A7LRP6UIGV2XE.jpg"
+    width: 1200
+    height: 900
+    isCached: true
 
 related:
   - title: "Could Brands Like Tesla Lure You Into Buying a Driverless Car?"
@@ -67,6 +73,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Tesla to soon have self-driving cars without need for human drivers: Elon Musk"
+    excerpt: "As per the report, Musk has been claiming that Tesla will have 1 million robotaxis on the road by the end of the year since 2020. Recently, Electrek reported that Musk changed Tesla's 1 million robotaxis by end of the year goal to a1 million people in Full Self-Driving (FSD) Beta,"
+    publishedDateTime: 2022-05-24T06:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/articleshow/91759682.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/amp_articleshow/91759682.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/amp_articleshow/91759682.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 55
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-73172,msid-91759854/elon-musk.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Tech company completes first driverless car test on Oxford roads"
     excerpt: "Fully autonomous vehicles have been driven on Oxford roads with no on-board driver and they could soon be used to deliver food."
     publishedDateTime: 2022-05-20T08:11:00Z
@@ -80,6 +102,20 @@ related:
       - url: "https://www.oxfordmail.co.uk/resources/images/13799882/"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Tesla To Soon Have Self-Driving Cars Without Need For Human Drivers: Musk"
+    excerpt: "Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the"
+    publishedDateTime: 2022-05-24T07:39:00Z
+    webUrl: "https://menafn.com/1104263206/Tesla-To-Soon-Have-Self-Driving-Cars-Without-Need-For-Human-Drivers-Musk"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?874722"
+        width: 374
+        height: 250
         isCached: true
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "The autonomous vehicles are the future of mobility towards which the entire world is headed, and the students of the Chandigarh University are leading the charge in India's journey on this path, as they have developed an autonomous,"
@@ -109,6 +145,6 @@ related:
       domain: webindia123.com
     quality: 16
 
-secured: "FRxaaHzEwILsokjAp7S4WTnwLZ4wBZAkbJp4fQhjqLaMeN4/YFXEAjVxPk81xQFPSw1rMe8PcVBPXg2z1bL2jBXyvaYU6of6At5QFiGHXmGz4ZYObQqCL4+hRGZd3u81kUmxzUYagRSa3c+5GLJ8sIfl/fACYFFUcy5e3zlyDTMAyv+5X+6qlI+nXAwGY3Y+MjqXoHQSnOruoc+fVeNmClXFbE4WiXix0qXfiv7qaUhvcYtZTTZlmfZxGFjUFq7GcNZzWcNrfRZw3X21xUpzc9n6c5SHY+9DesJc1OFFo2pHIO0jHjBR1i62Qg05KCp+jI89oKlRJqln4Hx8SAFgTUjM51nHpiIzFNXafwWRlHw=;f12pzhLctXFbO/93PAoQ9A=="
+secured: "IB/0FDdzpurtLAIq0s2ral2zCRT0S1916xGookooRWyMgf9C34FPhMRC/voJIaDnht4VTq/NuNtZ1QqTr8PLUE8XW+stXrvNcQZVqO5siYLaLKhWmemRS51rnGO9utew/qbhXaFi4bQpbd6WLesMVMcY8E98d2l8eZRie/N5NPr1zFWNBiiQLYv5YCa90gskqAIbkXFl3NFtFBaT4yXi+mMeyMhQVIlLQ2tn9McxkT/fVlgQcr+ef5OyXW9J24W+Lb3zKQXIrAq0g4fr9eCoM0rGHoeWNdNHbzvx9lLSzoaclmKaTZCUnBLynjb6CxmFVDOFpdakfqbXumj66iag39Kh856jfi5jBHYmoOLuBcg=;LuUlc/9ail9lNXYTp7E+mw=="
 ---
 

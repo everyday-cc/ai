@@ -54,20 +54,6 @@ related:
         width: 480
         height: 404
         isCached: true
-  - title: "Artificial Intelligence (AI) in Mining Market: Top Driving Factors That Could Escalate Market Growth Worldwide, Report"
-    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources to reduce waste drives the growth of the market. In addition, autonomous mining equipment equipped ..."
-    publishedDateTime: 2022-05-19T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-top-driving-factors-that-could-escalate-market-growth-worldwide-report"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "9CGOqqi/j1LqdYgB4ywyZ4CjDqeNqLMdQLHeWv0mH6nFgjYmlKSzPyFgjgYBpOM2IwdApSl+HSDASI7uY4cgcDJvA8PV6V4P4+z42KPRUJQs5ImmENzytTDk5pU/rI9ImsN43gXsBVqfpJYluIST4tBk0HC9RSxsi5uIWbkXWg3KsQJUe7yT8TMx4LXetD63OxKWQw2OITXK5/9iHGXIeI86u/jYv9YnSrSQxydwmq6XM8xBSWyvL6okJsaSF/k1pRaSHd7mLSjmsScQq/d+f2rFJWN15E5BQTV+nsfl+LjIgewVVP6zny2RJFoLYSiDNhoGHoMCr99b32qMlFVdLM9oZt4f8vrIESktUna3Ovo=;8/60qhhSbD/vAZfu8d3VOg=="
 ---

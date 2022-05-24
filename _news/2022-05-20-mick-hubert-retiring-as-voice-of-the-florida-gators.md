@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mick Hubert Retiring as Voice of the Gators"
-    excerpt: "Longtime Gators play-by-play voice Mick Hubert is calling it a career after this weekend's baseball series against South Carolina."
-    publishedDateTime: 2022-05-19T14:37:00Z
-    webUrl: "https://floridagators.com/news/2022/5/19/general-Mick-Hubert-To-Retire-After-33-Years-As-Voice-of-the-Gators.aspx"
-    type: article
-    provider:
-      name: Florida Gators
-      domain: floridagators.com
-    quality: 24
-    images:
-      - url: "https://d2b5htfb6s9xp9.cloudfront.net/images/2022/5/19/mickhubert.jpg?preset=large.socialmediaimage"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Florida's Mick Hubert retiring after 33 years as 'Voice of the Gators'"
     excerpt: "Florida broadcaster Mick Hubert is \"retiring after the UF-South Carolina baseball series this weekend\" after 33 years serving as the \"Voice of the Gators,\" according to Scott Carter of the GAINESVILLE SUN."
     publishedDateTime: 2022-05-20T00:00:00Z

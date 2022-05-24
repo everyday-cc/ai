@@ -91,15 +91,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 11
-  - title: "FinTech: Accelerating the transformation of the modern financial industry"
-    excerpt: "Readers will also discover how FinTech innovations bridge the banks and financial institutions to corporations, households, and individuals, with the growing interests in Digital Currencies, Open Banking, and Banking-as-a-Service (BaaS) models. To help ..."
-    publishedDateTime: 2022-05-19T13:51:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/953271"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 3
 
 secured: "XoVXZ5CEzvn1/Tph6jv1FX+feyrSMpHxq/a2WpZFJLI+GC7gBMgx/ZIcGJuu0Ghac0LUiRtg6J5F3XtD2En3Si54td7IQGL5XBxnnlJqu1aOLxYg5s0NG4iKGVSpZdhhKwso5Rn4YldmEsUKmYTjtgtuNIh9xlAiii9KeBvdcQJm+MGeBKCw6ugLEPq+P7lMAsW08899fFqRMQdPDJYKsJcNoxnPxygsoKHC0NtjIPy6QvRj+lqdeLHTrvSoG0Ezws6x1EFrXZL68IklUt2vls775bzVzv0kUyt1PZtEsUQP+PZ6+1rwzUw7AKZ+PkV7yGoJi9IwFW7E85qc8MP05j6J2OxSMxDoXRkX0GWdrR0=;INJ5mNPPEbSU7urMeanlUA=="
 ---

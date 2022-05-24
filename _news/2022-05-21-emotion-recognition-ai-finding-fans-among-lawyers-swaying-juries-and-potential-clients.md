@@ -91,15 +91,6 @@ related:
         width: 1200
         height: 650
         isCached: true
-  - title: "FinTech: Accelerating the transformation of the modern financial industry"
-    excerpt: "Readers will also discover how FinTech innovations bridge the banks and financial institutions to corporations, households, and individuals, with the growing interests in Digital Currencies, Open Banking, and Banking-as-a-Service (BaaS) models. To help ..."
-    publishedDateTime: 2022-05-19T13:51:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/953271"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 3
 
 secured: "3jFzE1RlND8ZTLl8eWbB37rKf7lGqoGlCumOJMHhdIyCOmcJGu7cHFHx/TB2QnW5al9ramJMkowgr+JvcLos+7SMxBddLmFfCtwqMZFCaRx3vSdEf3oAW+553Gjmslt4hbhzKcUPZBtx281JXnIoW3FsTs2YFvXMr2I7Bjn53bQdHIq9uHj7yYNox0EWjGC2ByJoz/NHKrCphoi9pZOQs/kaF4Lr7apu6t9TN/dsy93I2UzTARuezPB7WOT6hXpeGPYt+w3e3rO6vHATpvCnOmEcxcfW2HkWNT2MawKOzq36Sm8gvWvsJRWCZ1Ooy2erTC7lMlxVH3dgC+pzGwa3w0wgforZqvHyflhtpoWGzCh9S+APbsyqFRfkgH3OKRevY8kU9w2UC6C+8x2pZ1q6EznYylTWaom5crhcteQ1Ybp4Z0gdOJ/gALxzWNfHm+ySwBcEvPskW3mLQamekP0Od7yLOSdEezy4lHJDy/n0a6NrRRqZKxF9ahlUlhnH7nABce0sUIx2pKgyFT1UjEjJUQ==;tEJbFSK8sam709YM52RBJQ=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "DeepMind Introduces Gato, A New Generalist AI Agent"
-    excerpt: "Avdi Grimm describes the future of development, which is already here. Get a tour of a devcontainer, and contrast it with a deployment container. Live from the venue of the QCon London Conference ..."
-    publishedDateTime: 2022-05-19T14:13:00Z
-    webUrl: "https://www.infoq.com/news/2022/05/deepmind-gato-ai-agent/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2022/05/deepmind-gato-ai-agent/en/headerimage/generatedHeaderImage-1652806810649.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google DeepMind claims they're close to achieving human-level AI"
     excerpt: "Google DeepMind lead researcher Dr. Nando de Freitas has claimed on Twitter that artificial general intelligence is all but here."
     publishedDateTime: 2022-05-20T09:01:00Z

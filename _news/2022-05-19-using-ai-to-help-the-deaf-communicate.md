@@ -25,21 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "When big AI labs refuse to open source their models, the community steps in"
-    excerpt: "When big AI labs like OpenAI and DeepMind decline to release their models, community efforts attempt to fill the gap with custom, reverse-engineered versions."
-    publishedDateTime: 2022-05-19T13:15:00Z
-    webUrl: "https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/"
-    ampWebUrl: "https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/amp/"
+  - title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
+    excerpt: "Veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
+    publishedDateTime: 2022-05-23T19:55:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
+  - title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
+    excerpt: "UC Davis veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
+    publishedDateTime: 2022-05-23T15:43:00Z
+    webUrl: "https://www.ucdavis.edu/health/news/using-artificial-intelligence-predict-life-threatening-bacterial-disease-dogs"
+    type: article
+    provider:
+      name: University of California, Davis
+      domain: ucdavis.edu
+    quality: 31
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/interactive.png?w=680"
-        width: 680
-        height: 389
+      - url: "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/dogdialysis.jpg?h=84071268&itok=VchEqnWy"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "f64jifv44iG9CipiijD9hSXSRyQ7M0zm78KSupWYThTfBVrYSFTLZ/dttuV17iKQ9n8dvJqww/NxY7mDc6zFxtQqYxg9SB85isGbkIH8p+U/A4MOI5WhLUMV4dSlIMzWSn6o5HLueazSubiGSx1R7fHhwRxxRXZ2deJIoG3nnAZSq/t9Q1CkB6cTcI2vJy/jVKAB0PbpNaL5aWXtMDJ8OfiF5nVn7gY9cGw7OpcmXf2YwDI1FkUNGJkylYRrJKZ6mqYZn8Fye67+lO/TntBeGritCY0Jv9kmhwsKRWSr3kRDLaXDye3b54IqPLDJZ0m0lyxDZpR/PqwJTwly5iM2k7RoQqhV8dV6aWJPv8PvPmenQQYZOUCi+GcXL0v9RjSYfCfQqC+2kJ2qej0uS2AdUvhPZcLaISjeNy60CgpCdLQT3CBUPtwwH2OIhI6T6MHCYgvgJ9X1qh4u28AsA8FewEwTEmjtINjYnfqlTmukVnoHDi4IKRYYfzksNNoR1PGEbV1s147DflJc9D46IvTl4Q==;cwuC33LlNgTm9yeqP5g6dw=="

@@ -2,6 +2,82 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-12-google-workspace-suite-to-gain-7-new-ai-tools-for-usability-security.md",
+      "title": "Google Workspace Suite To Gain 7 New AI Tools For Usability & Security",
+      "excerpt": "Google is expanding its use of AI in Workspace in a bid to improve the usability and security of its services. That's based on a recent announcement from",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html",
+      "originalUrl": "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/10/google-workspace-gmail-new-icon.jpg",
+          "width": 1172,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp",
+      "publishedDateTime": "2022-05-11T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai.md",
+      "title": "The Startup Scouting Platform Championing Corporate Innovation with AI",
+      "excerpt": "The introduction of AI in the scouting industry improved by far the traditional way of scouting. Before the pandemic hit, corporate venturing was built around personal relationshi",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-google-unveils-artificial-intelligence-tool-for-real-world-searches.md",
       "title": "Google unveils artificial intelligence tool for real-world searches",
       "excerpt": "(Reuters) – Alphabet Inc’s Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company ...",
@@ -1049,49 +1125,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-11-brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car.md",
-      "title": "Brands matter: Why trusting an existing brand can lure you into buying a driverless car",
-      "excerpt": "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/brands-matter-why-trus.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp",
-      "publishedDateTime": "2022-05-11T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-11-apple-loses-director-of-machine-learning-over-its-office-return-policy.md",
       "title": "Apple loses director of machine learning over its office return policy",
       "excerpt": "Last week, a group of Apple employees wrote an open letter criticizing the company's hybrid work-from-home policy, which requires employees to be at the office three days a week starting May 23rd. Now,",
@@ -1140,49 +1173,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
-      "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
-      "excerpt": "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories",
-      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories",
-      "cdnAmpWebUrl": "https://inews-co-uk.cdn.ampproject.org/c/s/inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories",
-      "publishedDateTime": "2022-05-11T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "i",
-        "domain": "inews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

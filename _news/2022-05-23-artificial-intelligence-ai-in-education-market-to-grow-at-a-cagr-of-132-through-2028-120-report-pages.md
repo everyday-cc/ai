@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-ed
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-13-2-through-2028-120-report-pages"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/1653025445.png"
         width: 480
         height: 404
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Mining Market: Top Driving Factors That Could Escalate Market Growth Worldwide, Report"
-    excerpt: "The rising demand for advanced technologies, artificial intelligence, and machine learning to spot the location, analyze patterns, and optimize resources to reduce waste drives the growth of the market. In addition, autonomous mining equipment equipped ..."
-    publishedDateTime: 2022-05-19T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-mining-market-top-driving-factors-that-could-escalate-market-growth-worldwide-report"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/BBB-6-1-600x337.png"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "suuHjqoQUs2ZgB4MahCE4XEK5QdeMaSkwQQuxdmuirRHZ5KevDMIjYtd7pidQAJwFNJgK08vFXctxmohn1kGvFnFJB5KfnAy5I/TOZG6RF2owHFVyTEyIjjzTA0qUhmhIDLNFRczqKlLXCPZoBfm188mJKGCK4oDzOrdOIAdh2WQ3gbYQf8pVvxRv1N/vVDfHytZZmJVJYmDYUiV2Dpw0voV44uCVxHF5CGJZgQvfoQuhicWCr/KtTr9Ut5UtR2lsLjd4qml0tILb/OzA1yVmhM/pu+fZtmB4jkWnnciMqNEIKTLIf1A0OdOLFEjmMlC29oXpIO5clNx32igoL3LvbVuw+O7KuY1WPAcMVEgoec=;C8Z2byOQupuk0iFID4apiA=="

@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcar
 webUrl: "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Innovation & Tech Today
       domain: innotechtoday.com
     quality: 19
+  - title: "Metaverse Going Beyond Adoption: The Next Frontier for Global Healthcare"
+    excerpt: "Alternate realities including augmented reality (AR), virtual reality (VR), and mixed reality (MR) have continued to fascinate healthcare professionals and patients around the world through various breakthrough solutions in the global healthcare (e."
+    publishedDateTime: 2022-05-24T07:09:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/39395/metaverse-going-beyond-adoption-the-next-frontier-for-global-healthcare"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 18
 
 secured: "3hWslT1ndXjBQKqbdeO6a3clqmgIgWis4kM/m7wSVKX4y8UFXI29fUxHoA1/gYbMSEoY5z3ZDpxK4IPbRS2PqcTRvDXkhyhyeGu/Kx2noayHUrYtpT9AKiqerNLO8Dqrd4klE2/q9hPeWcdCWlR9vPooDRjS/+YzjXzSFCHdPwbSoqoUGf2GF4vw5DkPpdhwcJlwGgDGYIqTiorKvOEQlKXst/ysyS7UX7D883vIHz5Os5dYK1RgMGELOgsDRmJhtD8AiDuWgPHcW1zov9MgyxzKSLRM/eUygOFGLBEHvOki54TQjnvwOz3RbCu5+fzTWDbnZNr0eB4LiXTirOS6UlJQITZYs+ediYkpEe+Sb15MZUGPW8ghJpSWpqsYUYvgNZUvA2PQmIMxf5kTW9YbFKCOZ9k7eJ9qTZgOm2ZI0dlRWBPUMar2oqOn3tIv6U5TaX8BjLkypzoI+kh4BPu50ra6Oe+roTz76pkSIjV6D2V8livEFYuRG4GmIHDNF2ECUrRgjBwVlQfbxKMfkj2Ybg==;xpUezGDxQ57CNehNygfOnQ=="
 ---

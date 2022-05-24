@@ -20,15 +20,20 @@ topics:
   - AI in Security
 
 related:
-  - title: "AITX's Subsidiary Robotic Assistance Devices Receives Order for AVA and ROSA Security Robots from Romanian Dealer Civitas Group"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) has received an order from Civitas PSG, one of the largest security companies in Romania for an AVA (Autonomous Verified Access) access control device,"
-    publishedDateTime: 2022-05-23T14:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/23/9607000.htm"
+  - title: "AITX’s Subsidiary Robotic Assistance Devices Receives Order for AVA and ROSA Security Robots from Romanian Dealer Civitas Group"
+    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) has received an order from Civitas PSG, one of the largest security companies in Romania for an AVA (Autonomous Verified Access) access control device,"
+    publishedDateTime: 2022-05-23T12:42:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-romania-robotics-83b7b6ef8754f9401d513e0ab067818d"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "9ZrOFb45dGePJiOiFu1dLpzZp+BRxQrhLJYGkQvCZBlcFICsOHMG32kXQcFfMeOrOJAp5OEMLjJPcBg3N7S43QypHq58pfPcFv+U8byjcwdqzcOgjQCiwulzJ6vHUfvfuILWybDpQbnPVIpZWrh6xTOBZJpJ33mHxfK52bVbNswVrSsCTt9ZQC3nWRXHYsUf5meQ4PVeF3iF19GJ7P18bqLB0tVucs4V2XA5tqen4bqALQo13TIsPb4/p7RcSTZmMZc1knWnlkyH2E9dWVPwQh2a+KscVn2Ae6jIkT7Rq10Ikk6c4Rl5iNL+63gMZyCvX8C8Mou8rWhit8NMCiLqdUquheFueIcdlXDfb7t/9vk=;PPfC8rEvXSGcEYHCiOep5Q=="
 ---

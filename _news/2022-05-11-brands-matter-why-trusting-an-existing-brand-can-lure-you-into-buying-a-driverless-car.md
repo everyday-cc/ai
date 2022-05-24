@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Brands matter: Why trusting an existing brand can lure you into buying a driverless car"
-excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ..."
-publishedDateTime: 2022-05-11T13:11:00Z
-originalUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
-webUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html"
-ampWebUrl: "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp"
+title: "Brands matter! Why trusting an existing brand can lure you into buying a driverless car"
+excerpt: "But the idea of a fully automated driving mode, where artificial intelligence takes control ... in the United States do not feel safe in a driverless car. Even though consumers are sceptical ..."
+publishedDateTime: 2022-05-11T06:48:00Z
+originalUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
+webUrl: "https://theconversation.com/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
+ampWebUrl: "https://theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/brands-matter-why-trus.jpg"
-    width: 1356
-    height: 668
+  - url: "https://images.theconversation.com/files/458038/original/file-20220413-10209-m9fr41.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
+    width: 320
+    height: 240
     isCached: true
 
-secured: "0eMoqJZDkKzygkSsa+xnIMxmcvQ8rZs/lxiPBGZEypZQ78LepTisknyT0fHiRXx10c8boAlG+5+QBC+Ckb9gQSljAOEZ2VkJ/y9NNCzjacyOFSXud69pVQXFSYgme6eBD2UQCZG5e4hQ8G21BrSEVLy7l9soRKW94XXy+UOn6y751oQ8Olxkps+gD2p4bxoPdxRs+vznwrX6pLMQFrlTKKPlV3fux+DoELxwQZ5IwL6kzEhRmR7UpUvDvhk0kt7do65PAnQmZ3sgC0Nd3YQx0f6Iv6j83Yqjr5Y5O9HatVqSp6bcsPbkzLwG39/TlK79/KFM3+4Uqd2ashaLPmCTSElYxY3RoBUkINEUiRGjN3HtocHND4kQYVKWWX9k3Fp1TnD5VJ34iNiRMo1hQXz9t9PkaivhMHQjAs5dYsm+u4p46UWnV18m32eV282KypwN8a+o1EIj/ZDMQHswOLCYjTVZ/pJNVNlmCZM2v1rtU5dF6N4VwSDRZ5cCqwDek52q8H217s8QvOgNlV1SNGanfA==;U3MANwM0WW0RsgcNQCMYAw=="
+secured: "3g6azh3X29FtX7pMJPfqDImFSvQBIuMYhm1o8XjzKqix09fAXsUh0roovdADCAKMY2mHixvyXXpdl1NF/FY75sGTU7v42yR+f/rMCuMSGg/FVRVnVae+VuRIQfLqXQTwgfX7TzTIXbcyGAwbcjd56p6OcauStZdO2ETS0vjK7vwDdQbHX9RYSZXQFNVcrvS7ECrO7MPhHjhmp7s3Pr9rKX+i1cT5YjTP3PMK3Se0X3CflJdE8/zrnKRO43pnQQ7+DeL/ArEpQ1Vxu8t6+5DM65lsgcOVzgANtqnqSs8hH4IXYhfiC/Z/N8HzMLiKdhQQ0hfG6QPuxvPKWbJetd8b2sGg2IBMmGmLD2jeSNpm2iA=;CWV0cUlfrGuJu1fu9X2JAQ=="
 ---
 

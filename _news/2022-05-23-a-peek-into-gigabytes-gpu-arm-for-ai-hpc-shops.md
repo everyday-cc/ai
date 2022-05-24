@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/23/gigabyte_intros_arm_serve
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/23/gigabyte_intros_arm_server/"
 type: article
 quality: 76
-heat: 86
+heat: 87
 published: true
 
 provider:

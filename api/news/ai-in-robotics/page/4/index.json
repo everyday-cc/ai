@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-25-six-robotics-pioneers-win-2022-engelberger-awards.md",
+      "title": "Six Robotics Pioneers Win 2022 Engelberger Awards",
+      "excerpt": "The event will bring more than 500 companies showcasing the latest in robotics, machine vision, artificial intelligence (AI), motion control, and smart automation—and an expected 20,000 attendees—to the city's Huntington Place center. The Association ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26791476",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26791476",
+      "publishedDateTime": "2022-04-25T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-top-6-robot-kits-to-start-building-from-home.md",
       "title": "Top 6 Robot Kits to Start Building From Home",
       "excerpt": "Users control the robot using an app or a web browser ... perfect combination of education and fun to keep your hands and mind occupied. The possibilities are endless.",
@@ -1304,49 +1347,6 @@
       "provider": {
         "name": "The Bulletin",
         "domain": "bendbulletin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-local-robotics-team-finishes-competition-season-with-stellar-showing.md",
-      "title": "Local robotics team finishes competition season with stellar showing",
-      "excerpt": "The Titanium Titans robotics team, which offers STEM competition and community to Washington County youth, recently finished its tenth season with a stellar showing at two regional competitions.",
-      "sourceUrl": null,
-      "webUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.html",
-      "originalUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/observer-reporter.com/content/tncms/assets/v3/editorial/4/3d/43d33fd8-bc2b-11ec-9731-6f55b7bbde32/6258798ee1bc0.image.jpg?resize=1024%2C640",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.amp.html",
-      "cdnAmpWebUrl": "https://observer--reporter-com.cdn.ampproject.org/c/s/observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.amp.html",
-      "publishedDateTime": "2022-04-15T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Observer-Reporter",
-        "domain": "observer-reporter.com",
         "images": null,
         "publishers": null,
         "authors": null

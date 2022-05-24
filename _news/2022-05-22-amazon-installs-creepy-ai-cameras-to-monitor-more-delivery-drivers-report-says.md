@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/amazon-installs-creepy-ai-cameras-mo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-installs-creepy-ai-cameras-monitor-uk-delivery-drivers-2022-5?amp"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Now Amazon puts 'creepy' AI cameras in UK delivery vans"
+    excerpt: "Amazon is reportedly installing AI-powered cameras in delivery vans to keep tabs on its drivers in the UK. The technology was first deployed, with numerous errors that reportedly denied drivers' bonuses after malfunctions,"
+    publishedDateTime: 2022-05-24T07:39:00Z
+    webUrl: "https://www.theregister.com/2022/05/24/ai_cameras_amazon/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/24/ai_cameras_amazon/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/24/ai_cameras_amazon/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2022/05/23/amazon_delivery_driver.jpg"
+        width: 5823
+        height: 3882
+        isCached: true
 
 secured: "RmzGjPjXeavmyOOqJqbyd4IP9SCByB0apAEEvV8pIzyYIM2YYWCQ7fpo6RlvghMKWRoPB8+XBKXHhxknentO6e4j+KZ0ZftrWod+a4kno6XMWacOOw9s/Bkh77tEhSXNbJlcpLjL/aFGkMw4aWQRKSf+cEtTj2Bi55AvU08RgORpPWeFnqc90hIrhorqjN6JeFWZT5eJ2uDT/+NaHYVuJO4HCnupmYkb9l6bXYNbwVik7ptqP4r3sHxgzPlf+6UGerbLKnUGadDX3PWV7jcDfoGzk/n/RbhDbWRsvfMDgR7aaHI+gondhijAeDETFu6MPyw9sbnLbvrc3jQUgM4Qgncr6St18Ow1YnGi+TOh3EY=;FBKludyf1c8g1iKOZisqLQ=="
 ---

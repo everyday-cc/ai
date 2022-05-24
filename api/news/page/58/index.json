@@ -2,6 +2,93 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-03-31-you-can-now-translate-to-from-isizulu-across-the-entire-microsoft-ecosystem.md",
+      "title": "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem",
+      "excerpt": "Image sourced from NS Energy. Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
+      "originalUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft--696x452.jpg",
+          "width": 696,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
+      "publishedDateTime": "2022-03-31T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-natural-language-processing-a-big-leap-in-conversing-with-the-human-mind.md",
+      "title": "Natural Language Processing: A Big Leap in Conversing with the Human Mind",
+      "excerpt": "Behind all these, there is a major Artificial Intelligence (AI) application called Natural Language Processing or NLP. We, humans, have always been fascinated by others who can talk like us ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-90556508,imgsize-33542,width-1200,height-628,overlay-etcio/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
+      "publishedDateTime": "2022-03-31T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-are-we-ready-to-transform-lives-with-ai.md",
       "title": "Are We Ready To Transform Lives With AI?",
       "excerpt": "AI has paved the way for dynamic changes at the workplace and in personal life, by automating a host of processes and activities",
@@ -1066,111 +1153,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure.md",
-      "title": "Chip Design Moves To The Cloud With Synopsys And Microsoft Azure",
-      "excerpt": "The two companies have collaborated to enable engineers to design chips using cloud resources and dynamic licensing. Digital chips are the new lifeblood for nearly every human endeavor and currency for innovation. But design a chip is a very expensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623e3bcc2e4fd6128c007e8d/0x0.jpg?format=jpg&crop=2201,1238,x119,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/",
-      "publishedDateTime": "2022-03-30T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-former-deepmind-employee-acuses-company-of-mishandling-sexual-abuse-complaint.md",
-      "title": "Former DeepMind employee acuses company of mishandling sexual abuse complaint",
-      "excerpt": "A former DeepMind employee has accused the company of mishandling a series of serious sexual harassment allegations..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "originalUrl": "https://www.engadget.com/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/ad7e15c0-b04b-11ec-bff4-5322771aed2e",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "publishedDateTime": "2022-03-30T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

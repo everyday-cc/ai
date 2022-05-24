@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/va-data-test-environment-ai/"
 webUrl: "https://www.fedscoop.com/va-data-test-environment-ai/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 500
     isCached: true
-
-related:
-  - title: "Implementing Change Part Two: What AI Can’t Do For Healthcare"
-    excerpt: "Understanding what AI can’t do is important to prevent tech entrepreneurs and investors from pouring time and resources down rabbit holes that won’t bring about better care, improved working conditions or lower costs."
-    publishedDateTime: 2022-05-19T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/19/implementing-change-part-two-what-ai-cant-do-for-healthcare/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
 
 secured: "/vy0oeJyZ4lPYu1eBrCrjxCqUMygS2imqch1L/auGEoOa28RYGh1scIB9iyqppuPL+6TKSD0LG0gWAE86XUmOSZwX32t1iHAWJsVR7yXwHOjfSuIrFKhviFRjFmZH8Jxaj+XtRr+Q3It2UZnL0uCxIS4VXDwp0rQ/bZJ/rXNobID/Z/7YWMFY8PIWAFdXMWCq7FfmAFGynbchtdPImCDR3inWISmoNYCCNi+izqzm43ejJuhn5wZAQSOdShELz857wKXTKpeLxMqXpovXIEqldPcH6EFvHvPYo2R77X54jtiJ5Qi55JFiTmu2kqkr18gpFV2QJCO19TBsDr4p3urF8tJENicozHZgevVC61C5GhZWt56ZSHpiJdlhsb3/ShIvN/tOLYcxpkQfPcYyhyLICbbOfuvPZi8uV/9+84aDYYNIHFkpCPBzETm5SS9B492Ics2YrBLN/Hj52al3qLqujhRvsAvO8LAUDGHPtJVL6YJ/MxFriI1zdOTkJSPzxhEFoYLv39v5ZMBbI8aT3CAtg==;D6mFHPPdgymdT6hXv57dxg=="
 ---

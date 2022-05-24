@@ -2,22 +2,28 @@
 category: news
 title: "HAI ROBOTICS to Show Its Tallest Robot for the 1st Time in Europe at LogiMAT 2022"
 excerpt: "HAI ROBOTICS, the pioneer in Autonomous Case-handling Robot (ACR) systems for warehouse logistics, will exhibit its cutting-edge automation technology at LogiMAT 2022, Europe's biggest annual intralogistics tradeshow,"
-publishedDateTime: 2022-05-23T08:43:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html"
+publishedDateTime: 2022-05-23T11:42:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=667987"
+webUrl: "https://us.acrofan.com/detail.php?number=667987"
 type: article
-quality: 44
-heat: 44
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "RTAGsTa8/GQnK5EmGxT8TIm/momZ/g6Ptxy0HiRGYvzx5te8vCxJBXjcxUl8rlc4OM8huzSMd6gBr+Zo3qJXYqrqpJdNTS/5R6oZc8/i6gbVE5tD1160AoszgO36xSyavK/AgZKLaHAGUxUFp3m+gImIWtdK3fvI2IkVe9r+itpFbv3yQWlTmESf3/z0VJTjFYjnylR9cT/MpdE/b2hSMb+MFyPXVOOu6cA+EtpVVNkBfGZr2ZC8bCkgxUsDmIr8oUK3eTShDymHE837wa2CNYPgjaKv+/F/bYa1WXfqe7oSoOZaAQNDVLOwI+R+sgLT7BvPuybpEZY/O/7n7cPaOfloICrn6e2G0o2sKo8wDfW4dxiA0sSDpmlwpeyikeg8fLX4H168szKnxH60J3L84Z2Il3ICG/oY4T9p88CvIYjhthamIrHZP49OxI81U8V9YlsiRBffynnbK+8h1XZhhD70NCYLsWxWM/8WbFC1X/U8LeRLY4oViN/zveHtUowotuntLM/qgfjeEVDKbh4fNQ==;ImQsU/SVLr8TWLbOY3m6hw=="
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
+
+secured: "6EEWb0uRsygysXzCnKbGd71Q/Y2IqHjjXyhd/3yciaXv/wOFXPlm3TDOnmT79X2JnoDe9LJpTww6izpA7gG0JKL8FDLe5eQxCrxFQdSo1cfxevu8CZInPUUd6IJHTZZMsLotgw42/O86AkWLUisHcPKPYaypKM2gilsfHCSnBzakw2N+rL2YfPtesB1JzGfNqKhjYavQNPs7I7aryPqrU9olX+zQUS9V7AFIhatx25LalxjEZFr3g2NTaqwjqd+q1eQPuXtHXpa71XC6FQtLjfLh1GAmlwqPwyfB3lCBQRbRPq/XouHU4OudbCIA88Vhep99FcU53ll35KqJ6tXNm1OVY1u/3qJ8fJaK18Dgrmo=;E0hDw+Ci8/8hW+OUdeLtDA=="
 ---
 

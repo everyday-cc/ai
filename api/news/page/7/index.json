@@ -2,6 +2,84 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-14-artificial-intelligence-in-medicine-market-growth-scenario-2028-cyrcadia-health-aicure-modernizing-medicine.md",
+      "title": "Artificial Intelligence In Medicine Market Growth Scenario 2028 | Cyrcadia Health, AiCure, Modernizing Medicine",
+      "excerpt": "Latest survey on Worldwide Artificial Intelligence In Medicine Market is conducted to provide hidden gems performance analysis of Worldwide Artificial Intelligence In Medicine to",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/21351/technology/artificial-intelligence-in-medicine-market-growth-scenario-2028-cyrcadia-health-aicure-modernizing-medicine/",
+      "originalUrl": "https://xaralite.com/21351/technology/artificial-intelligence-in-medicine-market-growth-scenario-2028-cyrcadia-health-aicure-modernizing-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-14T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-14-call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap.md",
+      "title": "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP",
+      "excerpt": "The global Call Center AI Market size is to grow from USD 1.6 billion in 2022 to USD 4.1 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.3% during the forecast period. The advent of AI in the call center offers enhanced customer support services and better experience coupled with rising development in customer engagement through social media platforms to boost the growth of the call center AI in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-enhance-the-caller-experience-with-hints-in-amazon-lex.md",
       "title": "Enhance the caller experience with hints in Amazon Lex",
       "excerpt": "We understand speech input better if we have some background on the topic of conversation. Consider a customer service agent at an auto parts wholesaler helping with orders. If the agent knows that the customer is looking for tires, they’re more likely to recognize responses (for example, “Michelin”)",
@@ -247,8 +325,8 @@
       "title": "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations",
       "excerpt": "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974",
-      "originalUrl": "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974",
+      "webUrl": "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11",
+      "originalUrl": "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -267,7 +345,7 @@
       "type": "article",
       "ampWebUrl": "https://www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974",
-      "publishedDateTime": "2022-05-13T09:52:00-07:00",
+      "publishedDateTime": "2022-05-13T09:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -1121,111 +1199,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart.md",
-      "title": "Image classification and object detection using Amazon Rekognition Custom Labels and Amazon SageMaker JumpStart",
-      "excerpt": "In the last decade, computer vision use cases have been a growing trend, especially in industries like insurance, automotive, ecommerce, energy, retail, manufacturing, and others. Customers are building computer vision machine learning (ML) models to bring operational efficiencies and automation to their",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/12/Featured-images-for-ML-9522.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T15:07:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say.md",
-      "title": "Safer Driver Assistance Tech Now More Important Than Self-Driving Cars, Consumers Say",
-      "excerpt": "Drivers want automakers to improve existing semi-autonomous driver support features before developing fully autonomous vehicles, as inconsistent performance remains a problem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/",
-      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627d8169661424cee95ca2c9/0x0.jpg?format=jpg&width=1200",
-          "width": 826,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/",
-      "publishedDateTime": "2022-05-12T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fi
 webUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance"
 type: article
 quality: 56
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 11
-  - title: "FinTech: Accelerating the transformation of the modern financial industry"
-    excerpt: "Readers will also discover how FinTech innovations bridge the banks and financial institutions to corporations, households, and individuals, with the growing interests in Digital Currencies, Open Banking, and Banking-as-a-Service (BaaS) models. To help ..."
-    publishedDateTime: 2022-05-19T13:51:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/953271"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 3
 
 secured: "8OjSLLnrBZCe72W3vPtEjS6QZFPYsUM/QmVpAd8CW2JW9uSfFY2nY2bARtBSUi5BDwhPQqyM4/mUQnukZyaOScRfUQ8LpJ7ARgGgMqmzMFTNuUWELqrpa/d952w96wYXsS8ffdvzKQcJmJr7Rc91fGs2865Zu0OvyKibIzlvO/Uew/PPJAGHxk8NpYXQ6otS0j+VoYAT1k5sN5WTt7MW4Z/vvIhcbCBYrRoqmxkRnW0q2gBEjXTyjUqWZ+PfuKniEf3umf8Uq/OfSgslQk9FKbbLKf3iplAHZFuOFbjs7Avs9GIQzE0X97G4EwSIaQyuxXMJsxdlYsWKG14HDQGVNvvp5tkXWKxgbqEXdZMRkZY=;P6MVEoSR/qS70yAo/NOUoA=="
 ---

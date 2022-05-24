@@ -39,6 +39,20 @@ related:
         width: 635
         height: 520
         isCached: true
+  - title: "Remy Robotics exits stealth mode with launch of third autonomous robotic kitchen"
+    excerpt: "Pioneer in robot-enabled delivery-only restaurants expands its reach and opens to new partners to boost food operators' scalability BARCELONA,"
+    publishedDateTime: 2022-05-24T07:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen-1031483797"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://mma.prnewswire.com/media/1823888/Remy_Robotics.jpg"
+        width: 400
+        height: 229
+        isCached: true
   - title: "New Robotics Medal recognizes wide-ranging impact of female researchers"
     excerpt: "Given by MassRobotics, this first major prize of its kind is hoped to inspire and encourage women in robotics."
     publishedDateTime: 2022-05-23T22:38:00Z

@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-05-18-nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer.md",
-      "title": "NEC Selects DDN Storage for Japan's Largest Corporate AI Research Supercomputer",
-      "excerpt": "DDN ®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research.",
+      "path": "_news/2022-05-18-artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027.md",
+      "title": "Artificial Intelligence (AI) Hardware Market Size, In-depth Analysis Report and Global Forecast to 2027",
+      "excerpt": "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027-2022-05-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027-2022-05-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 276,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1820615/DataDirect_Networks___DDN.jpg",
-          "width": 400,
-          "height": 252,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,62 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T06:17:00-07:00",
+      "publishedDateTime": "2022-05-18T07:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-mastercard-tests-new-facial-recognition-pay-app.md",
+      "title": "Mastercard Tests New Facial Recognition Pay App",
+      "excerpt": "The Payface App will allow consumers to pay for goods using the same facial recognition technology that unlocks smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/",
+      "originalUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/15E/02C/15E02C3C687F437AD3EA9F9598C262B9.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=cxjQk4hNs4y9rOEBkus3oRXCbIM",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp",
+      "cdnAmpWebUrl": "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp",
+      "publishedDateTime": "2022-05-18T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +91,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Computer Vision",
         "AI"
       ]
     },
@@ -84,6 +135,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer.md",
+      "title": "NEC Selects DDN Storage for Japan's Largest Corporate AI Research Supercomputer",
+      "excerpt": "DDN ®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research.",
+      "sourceUrl": null,
+      "webUrl": "https://fox59.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/",
+      "originalUrl": "https://fox59.com/business/press-releases/cision/20220518LA61361/nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1820615/DataDirect_Networks___DDN.jpg",
+          "width": 400,
+          "height": 252,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1094,110 +1188,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-40.md",
-      "title": "How AI-driven robots and drones bring cognitive intelligence to Industry 4.0",
-      "excerpt": "The robots, drones and cameras that inspect machines to perform predictive maintenance and relay analog information to operations staff can now function autonomously. Even better – the longer they’re at their jobs,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/",
-      "originalUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/AI_robots.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/",
-      "publishedDateTime": "2022-05-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-argo-ai-begins-driverless-testing-in-austin-and-miami.md",
-      "title": "Argo AI Begins Driverless Testing In Austin And Miami",
-      "excerpt": "Argo AI, the Pittsburgh, Pennsylvania-based automated driving company majority owned by Ford and Volkswagen has just begun its first driverless testing on public roads in Miami and Austin. This milestone comes about five and a half years after the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
-      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62839ea0171c859a3a9cfd95/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
-      "publishedDateTime": "2022-05-17T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

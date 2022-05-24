@@ -2,6 +2,101 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-05-04-peergfs-adds-aiml-anomaly-detection-to-distributed-file-system-product.md",
+      "title": "PeerGFS adds AI/ML anomaly detection to distributed file system product",
+      "excerpt": "PeerGFS will also handle file sharing wherever an instance of Windows file system is running, including instances in the AWS, Azure and Google clouds ... including via AI/ML. It already has malicious event detection (MED), which includes use of “bait ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
+      "originalUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/File-share-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
+      "publishedDateTime": "2022-05-04T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting.md",
+      "title": "Traversing The Great Uncertainty With AI And Intelligent Forecasting",
+      "excerpt": "AI can provide an agile way to sort through these extensive logs of data to quantify unique sets of market drivers for any given business. Out of thousands—maybe millions—of external market signals, AI can help business leaders identify the top ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62711214c63fd2377df98d3a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/",
+      "publishedDateTime": "2022-05-04T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-toyota-puts-invisible-ai-eyes-in-north-american-factories.md",
       "title": "Toyota Puts Invisible AI Eyes In North American Factories",
       "excerpt": "Toyota Indiana assembly plant in Princeton, Ind. will be the first installation of the Invisible AI ... [+] system to boost quality, safety and productivity. The automaker and Austin, Texas-based startup said Wednesday Invisible AI's computer vision ...",
@@ -1044,84 +1139,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-bigbearai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-industry-events.md",
-      "title": "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events",
-      "excerpt": "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-amd-first-quarter-earnings-live-blog.md",
-      "title": "AMD First-Quarter Earnings Live Blog",
-      "excerpt": "Last year's data center GPU growth was driven by HPC. But we're now very engaged on the AI front for GPUs. Xilinx chief Victor Peng: Demand for Xilinx's compute engines and networking products are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/amd-first-quarter-earnings-live-blog",
-      "originalUrl": "https://www.thestreet.com/investing/amd-first-quarter-earnings-live-blog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwOTU2Mzg1MTM4MjU0OTM2/us-industry-group-applauds-nyse-move-to-delist-three-chinese-telecoms-companies.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/amd-first-quarter-earnings-live-blog",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/amd-first-quarter-earnings-live-blog",
-      "publishedDateTime": "2022-05-03T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Using AI To Help the Deaf Communicate"
+    excerpt: "An Intel venture is developing a SaaS application that would translate sign language to English to help the deaf and hard-of-hearing communicate more easily."
+    publishedDateTime: 2022-05-19T15:35:00Z
+    webUrl: "https://www.designnews.com/artificial-intelligence/using-ai-help-deaf-communicate"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/deafpeople.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
     excerpt: "UC Davis veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
     publishedDateTime: 2022-05-23T15:43:00Z

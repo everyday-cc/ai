@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/uk-privacy-watchdog-fines-clearview-ai-lb7-5m-and-orders-uk-data-to-be-deleted/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -257,7 +257,7 @@
       "originalUrl": "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -300,7 +300,7 @@
       "originalUrl": "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -431,6 +431,57 @@
       ]
     },
     {
+      "path": "_news/2022-05-23-3-keys-to-ai-success.md",
+      "title": "3 Keys To AI Success",
+      "excerpt": "AI is everywhere. Companies use it in myriad ways, and we all encounter it in some form every day. But are businesses wringing as much value out of AI as they could be? Some are. The most recent PwC AI Business Survey found that companies that stand out as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/",
+      "originalUrl": "https://www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6287d954542764571a5ca2d7/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/amp/",
+      "publishedDateTime": "2022-05-23T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-3-top-ai-stocks-ready-for-bull-runs.md",
       "title": "3 Top AI Stocks Ready for Bull Runs",
       "excerpt": "The lockdown measures also caused people to use more apps and cloud-based services, which drove data centers to install more of its high-end GPUs to process the incoming data with machine learning and AI tools.",
@@ -474,7 +525,7 @@
       "originalUrl": "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -706,7 +757,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-13-2-through-2028-120-report-pages",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1025,7 +1076,7 @@
       "originalUrl": "https://www.businessinsider.com/amazon-installs-creepy-ai-cameras-monitor-uk-delivery-drivers-2022-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1107,49 +1158,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-billings-hospital-uses-virtual-reality-to-aid-rehabilitation.md",
-      "title": "Billings hospital uses virtual reality to aid rehabilitation",
-      "excerpt": "Dr. Jose Ortiz counted the minutes he spent in the back of an ambulance transporting him from Red Lodge to Billings. Timely treatment is imperative to",
-      "sourceUrl": null,
-      "webUrl": "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.html",
-      "originalUrl": "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/6/f5/6f5cfa36-9330-50ea-a0ab-8da7f6797d63/6288d8787cf4a.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html",
-      "cdnAmpWebUrl": "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html",
-      "publishedDateTime": "2022-05-21T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bozeman Daily Chronicle",
-        "domain": "bozemandailychronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.sportsbusinessjournal.com/en/Daily/Issues/2022/05/20/M
 webUrl: "https://www.sportsbusinessjournal.com/en/Daily/Issues/2022/05/20/Media/Mick-Hubert"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mick Hubert Retiring as Voice of the Gators"
-    excerpt: "Longtime Gators play-by-play voice Mick Hubert is calling it a career after this weekend's baseball series against South Carolina."
-    publishedDateTime: 2022-05-19T14:37:00Z
-    webUrl: "https://floridagators.com/news/2022/5/19/general-Mick-Hubert-To-Retire-After-33-Years-As-Voice-of-the-Gators.aspx"
-    type: article
-    provider:
-      name: Florida Gators
-      domain: floridagators.com
-    quality: 24
-    images:
-      - url: "https://d2b5htfb6s9xp9.cloudfront.net/images/2022/5/19/mickhubert.jpg?preset=large.socialmediaimage"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Mick Hubert Retiring as Voice of the Florida Gators"
     excerpt: "The Florida Gators have announced that legendary play-by-play announcer Mick Hubert plans to retire from his role after 33 years with the program.  Hubert, 68, will make his final call this weekend, on the mic for the UF-South Carolina baseball series at Condron Ballpark in Gainesville,"
     publishedDateTime: 2022-05-19T19:32:00Z

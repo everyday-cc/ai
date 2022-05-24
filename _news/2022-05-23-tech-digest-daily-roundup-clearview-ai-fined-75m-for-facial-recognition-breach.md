@@ -105,6 +105,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "UK fines Clearview AI £7.5m for breaching facial recognition data laws"
+    excerpt: "The UK’s data protection watchdog has fined controversial facial recognition company Clearview AI £7.5m, for multiple data privacy law breaches. The Information Commissioner’s Office (ICO) has also ordered Clearview AI to stop obtaining and using the ..."
+    publishedDateTime: 2022-05-24T07:09:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/clearview-ai-fined-uk-facial-recognition-data-breach"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_406987681.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Clearview AI fined millions in the UK: No 'lawful reason' to collect Brits' images"
     excerpt: "Updated The UK's data protection body today made good on its threat to fine controversial facial recognition company Clearview AI, ordering it to stop scraping the personal data o"
     publishedDateTime: 2022-05-23T12:45:00Z
@@ -144,6 +158,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Clearview AI fined £7.5m by UK ICO for privacy violations"
+    excerpt: "The Information Commissioner's Office (ICO) in the UK has announced that it has fined Clearview AI Inc £7,552,880 for privacy violations in the UK. The"
+    publishedDateTime: 2022-05-24T07:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/clearview-ai-fined-7-5m-by-uk-ico-for-privacy-violations-24-05-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/05/Clearview-AI-.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Clearview AI hit with fine in the UK for illegally storing images"
     excerpt: "The embattled facial recognition firm Clearview AI Inc. has been fined £7.5 million ($9.4 million) by the U.K.’s privacy watchdog for illegally storing images of people. The company, which has its headquarters in New York City,"
     publishedDateTime: 2022-05-24T02:47:00Z
@@ -157,6 +185,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/3340932353_c0e4f68dc4_c.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "ICO fines Clearview AI £7.5m over image collection"
+    excerpt: "The UK's data protection watchdog has fined facial recognition company Clearview AI £7.5m for illegally collecting images for facial recognition."
+    publishedDateTime: 2022-05-24T06:27:00Z
+    webUrl: "https://www.computing.co.uk/news/4050180/ico-fines-clearview-ai-gbp-image-collection"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 37
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/a3f65c0/47009f20-26c9-4895-972b-9f147a175017/3/hammer-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
   - title: "ICO fines Clearview AI more than $8M"
     excerpt: "The U.K.’s Information Commissioner’s Office (ICO) has fined Clearview AI over £7.5 million (nearly U.S. $8.06 million) for collecting people’s images from internet and social media sites without their knowledge or consent to create a global online ..."

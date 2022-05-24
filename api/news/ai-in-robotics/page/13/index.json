@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-02-04-us-tests-robot-dogs-to-patrol-southern-border.md",
+      "title": "U.S. tests \"robot dogs\" to patrol southern border",
+      "excerpt": "A robot modeled after man's best friend may one day help patrol the U.S. southern border. \"Don't be surprised if in the future we see robot 'Fido' out in the field, walking side by side with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "originalUrl": "https://www.cbsnews.com/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/02/03/e571f339-cfe0-4783-9956-e6387ba7c98f/thumbnail/1200x630/98ac0ff781f87aa7f997488bbdf3da0b/22-0201-st-fa-robot-dog8-0.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "publishedDateTime": "2022-02-03T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027.md",
       "title": "Artificial Intelligence (AI) Robots Market Key Players, Industry Outlook, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2027",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 03, 2022 (Heraldkeepers) -- Artificial Intelligence in Robots Market size is expected to reach US$ 30.44 Bn. by 2026, at a CAGR of 31.78% during the forecast period.",
@@ -1343,49 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-video-robot-driven-video-screens-bring-entertainment-to-sea.md",
-      "title": "Video: Robot-Driven Video Screens Bring Entertainment to Sea",
-      "excerpt": "While robotic entertainment may have a big Gee Wiz factor, it still relies heavily on features developed for plant automation. \"Keep in mind that robots were conceived and designed to boost production output and quality,\" said Hunt. \"The first few times I ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/video-robot-driven-video-screens-bring-entertainment-sea",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/video-robot-driven-video-screens-bring-entertainment-sea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/RC-Robo-Illustration.jpg",
-          "width": 500,
-          "height": 301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

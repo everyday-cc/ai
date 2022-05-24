@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-re
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Introduces Gato, A New Generalist AI Agent"
-    excerpt: "Avdi Grimm describes the future of development, which is already here. Get a tour of a devcontainer, and contrast it with a deployment container. Live from the venue of the QCon London Conference ..."
-    publishedDateTime: 2022-05-19T14:13:00Z
-    webUrl: "https://www.infoq.com/news/2022/05/deepmind-gato-ai-agent/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2022/05/deepmind-gato-ai-agent/en/headerimage/generatedHeaderImage-1652806810649.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google’s DeepMind says it is close to achieving ‘human-level’ artificial intelligence"
     excerpt: "DeepMind, a Google-owned British company, seems to be on the verge of achieving human-level artificial intelligence (AI)."
     publishedDateTime: 2022-05-24T02:06:00Z

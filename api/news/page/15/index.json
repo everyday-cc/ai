@@ -2,6 +2,109 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-05-07-cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less.md",
+      "title": "Cybersecurity reporting mandates could make us more vulnerable, not less",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/",
+      "originalUrl": "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1361681620-Outflow-Designs.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/amp/",
+      "publishedDateTime": "2022-05-07T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-07-apples-self-service-repair-is-an-expert-self-own.md",
+      "title": "Apple’s Self Service Repair is an expert self-own",
+      "excerpt": "Self repairs designed to fail, and 10 great Mac features you don't know: All the news, rumors, and tips you missed this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/696937/apple-breakfast-may-7-2022.html",
+      "originalUrl": "https://www.macworld.com/article/696937/apple-breakfast-may-7-2022.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2022/04/apple_breakfast_logo-34.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/696937/apple-breakfast-may-7-2022.html/amp",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/696937/apple-breakfast-may-7-2022.html/amp",
+      "publishedDateTime": "2022-05-07T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-07-hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble.md",
       "title": "Hohem iSteady V2 is a Red Dot Award winning AI facial tracking gimble",
       "excerpt": "The stabilizer draws its inspiration from the ‘Bionic Owl design’ and comes with highlight features like high AI recognition, fast-tracking, and automatic following. Its AI tracking is capable of tracking the face and body of the subject even when they ...",
@@ -1073,86 +1176,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53118-mn-by-2030-exclusive-report-by-acumen-research-and-consulting.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Revenue to Surpass US$ 53,118 Mn By 2030 – Exclusive Report By Acumen Research And Consulting",
-      "excerpt": "Artificial intelligence will have a huge impact on ... and electric vehicles in the US and the presence of many AI and self-driving car companies in the region. Then again, the Europe region ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g27039451/automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53-118-mn-by-2030-exclusive-rep",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g27039451/automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53-118-mn-by-2030-exclusive-rep",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27039451",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27039451",
-      "publishedDateTime": "2022-05-05T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-natural-language-processing-market-growing-at-a-cagr-203-key-player-ibm-microsoft-google-aws-facebook.md",
-      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook",
-      "excerpt": "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-facebook",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/721043d015e7592d3878c959eb0b07c6df1918ee-e1652191764450-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

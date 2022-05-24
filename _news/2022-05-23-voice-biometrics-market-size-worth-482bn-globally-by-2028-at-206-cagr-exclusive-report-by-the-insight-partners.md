@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners"
-excerpt: "The advantages of biometric authentication over speech recognition and the promising development of AI-based voice recognition technology that reduces the risk of replication or hacking provide top-notch biometric security Impact of COVID-19 Pandemic on ..."
-publishedDateTime: 2022-05-23T12:50:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-biometrics-market-size-worth-4-82bn-globally-by-2028-at-20-6-cagr-/article_92bae39d-cd5d-5a57-b08d-35a00e3eb4c1.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-biometrics-market-size-worth-4-82bn-globally-by-2028-at-20-6-cagr-/article_92bae39d-cd5d-5a57-b08d-35a00e3eb4c1.html"
+excerpt: "The Insight Partners published latest research study on \"Voice Biometrics Market Forecast to 2028 – COVID-19 Impact and Global Analysis  b"
+publishedDateTime: 2022-05-23T14:26:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
 
 related:
   - title: "DHS is going bigger with its next face biometrics rally"
@@ -49,6 +43,6 @@ related:
       domain: menafn.com
     quality: 16
 
-secured: "FzamGCG3r2du9XY4uXGWfbU9rAzotY98I8YVz08Rthv0StVlGXM6oFLnP/Q8whSWkPAHCL6PKrZHfE+rqp78w0P74K/Cq0sE8fpCaYe9UbhLynLEViryXlKJk89aPUjK3yc8BqHhdUq00CwcFrG0XH4zt65V3Jij6heSYPpIJ8o5OmAO2NLtuYVA6EJLmoAfmntv/fWGbTJsM477Iyu8NBy7eIU5Sa2Xjs395JRgaKx6sJ7kU00KpsNV/Ay9ClGzD5B4aQ+CMkCp/MJx5HEgP0tOJf6yBqvxwPY0dVmTPf0nsPCL4W+WLDhN0GYAG/wO80yu8CIOTbxGi9X6ShXe5gdoKg+erUnVBd08Dt3k+Ks=;tHp6jNJf7KCy59Yt5qVJDw=="
+secured: "lDi29D1sCNHSXYaASORF6wV87DfK2/vsmO1XXq1zMd8Gy8Pgh5Du2jKZjfyILqaKX5mXLxLb367/dOuA+rPBNyt/sgsJgLzbzcjwNshZdh1eC4i/gm/D2yUUQr7LzNxoVvjI3drN1eTVXOuGWh7N9bLq8LjjUpmHhlBb1gU4YoJKekGnt2K9TEwll/1JUXpke9gnEdUawRLHDsaHPysDLgdLpteW1MM8x8yY/YZnEyXyx47SFXzBoxN0OZMtfZSxNIuia/gvP78+eOJKuKXv6rPzlNzqklKY2yYZZOwfj39PsP4cZBa8icaLOB2BYlIPja2anZD1VXwO8ETqzLACtjeA/uRUg2vLo4vJw8OOR9qwaQWD9HuhJz5ZdHio3smORpzj0Frx28nZzsp0jeJqfQ5fbwn+gcHxUGyFLhdO0nZGgi50scZKW4yLn15Inhu2Cg9hSV7tT3FDpqWErN816admFlLvIYehsXa/AcVEM3kO8ShIpd4R88Elif3vp2I79bScgeEWVPBZGeNiFkW/wA==;JCRzXGw9HQQ/BZgDFS//LA=="
 ---
 

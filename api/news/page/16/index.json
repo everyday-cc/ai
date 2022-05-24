@@ -2,6 +2,86 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-05-06-automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53118-mn-by-2030-exclusive-report-by-acumen-research-and-consulting.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Revenue to Surpass US$ 53,118 Mn By 2030 – Exclusive Report By Acumen Research And Consulting",
+      "excerpt": "Artificial intelligence will have a huge impact on ... and electric vehicles in the US and the presence of many AI and self-driving car companies in the region. Then again, the Europe region ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g27039451/automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53-118-mn-by-2030-exclusive-rep",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g27039451/automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53-118-mn-by-2030-exclusive-rep",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27039451",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27039451",
+      "publishedDateTime": "2022-05-05T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-natural-language-processing-market-growing-at-a-cagr-203-key-player-ibm-microsoft-google-aws-facebook.md",
+      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook",
+      "excerpt": "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-facebook",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/721043d015e7592d3878c959eb0b07c6df1918ee-e1652191764450-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-use-custom-vocabulary-in-amazon-lex-to-enhance-speech-recognition.md",
       "title": "Use custom vocabulary in Amazon Lex to enhance speech recognition",
       "excerpt": "In our daily conversations, we come across new words or terms that we may not know. Perhaps these are related to a new domain that we’re just getting familiar with, and we pick these up as we understand more about the domain. For example, home loan terminology (“curtailment”), shortened words, (“refi”,",
@@ -1024,83 +1104,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-fintech-soars-in-2022-with-177-year-over-year-growth-says-new-disruptor-50-list.md",
-      "title": "Fintech soars in 2022 with 177% year-over-year growth says new disruptor 50 list",
-      "excerpt": "Fintech software is eating the world. According to a new report, more than 20 cents of every dollar from venture capital went into fintech startups globally marking $134 billion in investment and 177% year-over-year growth. With an uptick in retail ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27012784/fintech-soars-in-2022-with-177-year-over-year-growth-says-new-disruptor-50-list",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27012784/fintech-soars-in-2022-with-177-year-over-year-growth-says-new-disruptor-50-list",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging.md",
-      "title": "Guidehouse Insights Finds AI and Predictive Analytics in Healthcare Will Enable Safer Aging",
-      "excerpt": "Passive monitoring, an important addition to the smart home, is replacing traditional forms of personal emergency response systemsBOULDER, Colo.,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-politic
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-politics-health-fb10c053e6b4726543d08058b8ef5065"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "New reporting guidelines developed to improve AI in health care settings"
-    excerpt: "New reporting guidelines, jointly published in Nature Medicine and the BMJ by Oxford researchers, will ensure that early studies on using Artificial Intelligence (AI) to treat real patients will give researchers the information needed to develop AI systems safely and effectively."
-    publishedDateTime: 2022-05-19T14:55:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-guidelines-ai-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-guidelines-ai-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-guidelines-ai-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-reporting-guidelin.jpg"
-        width: 1200
-        height: 575
-        isCached: true
 
 secured: "inrraFYvNdUhXVN9qUeYwIv5fIXETsRovyu+nLTvlFUULa0tuD4z4nU/kNU9s9akWVg10C6y3mpJMTshz76xqipHWL8I4eBu70mpkY2XdaELxson3gz7HgWSSFNIUgzplbacEIgN/FSZtQoigzySg2W7oHYtZiDSLLMsrOWv1GVnjtOgI4TBc01uRMAClQTfRGszmqK0U4aipV9CbxUAjGzve5e29r+3zfrj2OrWRQNUG4jq7PK/Qwtd9yirsMudutwacSbVmsfey1T+O0jKZBbM+gYBT/559glLbBjHmmQMo27L70mYaSlks+YSKFLm1CKCoXpN9hI7CfNdNCN5MTfrjDXRsiqBI4MxOXB7JPw=;JtgHYdD9DYKXYByIRr5wyg=="
 ---
