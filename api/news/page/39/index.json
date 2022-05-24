@@ -2,6 +2,247 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-04-19-instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis.md",
+      "title": "Instreamatic launches voice AI for real-time customer sentiment analysis",
+      "excerpt": "Using Instreamatic's voice AI, Speaky analyzes in real time the ideas, advice and suggestions that customers communicate verbally.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/",
+      "originalUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1283399887-e1650300137284.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/",
+      "publishedDateTime": "2022-04-18T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-sas-data-ethics-head-named-to-national-ai-advisory-committee.md",
+      "title": "SAS data ethics head named to National AI Advisory Committee'",
+      "excerpt": "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104043527/SAS-data-ethics-head-named-to-National-AI-Advisory-Committee",
+      "originalUrl": "https://menafn.com/1104043527/SAS-data-ethics-head-named-to-National-AI-Advisory-Committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-04/18/PN_75f4df88-3_Image_In_Body.jpg",
+          "width": 320,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-research-using-ai-to-better-predict-severe-weather.md",
+      "title": "Research using AI to better predict severe weather",
+      "excerpt": "Researchers are studying how AI can be used to help human weather forecasters predict severe weather events faster and more accurately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather",
+      "originalUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/010/7fed36643eb2467f9bc52626aec24432/010967a4141a4b1880e8e6a6959c23e6/poster_390848a290ff4c9b8ddee470a61ee48c.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true",
+      "cdnAmpWebUrl": "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true",
+      "publishedDateTime": "2022-04-18T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KJRH",
+        "domain": "kjrh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-gsa-looks-into-facial-recognition-bias-and-improving-accessibility-in-federal-web-services.md",
+      "title": "GSA looks into facial recognition bias and improving accessibility in federal web services",
+      "excerpt": "The U.S. General Services Administration, which procures and investigates tech for things like government websites and online services, is making a two-pronged push for accessibility in its recently released Equity Action Plan.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/",
+      "originalUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-186872728.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/",
+      "publishedDateTime": "2022-04-18T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-the-success-of-ai-lies-in-the-infrastructure.md",
+      "title": "The success of AI lies in the infrastructure",
+      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Artificial intelligence (AI) is bringing many changes to the enterprise, none of which is more vital to its success than infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/",
+      "originalUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/AI_infrastructure.jpg?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/",
+      "publishedDateTime": "2022-04-18T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-sas-data-ethics-head-named-to-national-ai-advisory-committee.md",
       "title": "SAS data ethics head named to National AI Advisory Committee",
       "excerpt": "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce",
@@ -943,231 +1184,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials.md",
-      "title": "Machine learning and AI is coming for corrupt officials",
-      "excerpt": "Mark Heywood correctly asserted in the Daily Maverick that unless we introduce the certainty of punishment for corrupt public officials, we will lose the fight against corruption .  The July looting and riots taught us that these events affect our daily lives.",
-      "sourceUrl": null,
-      "webUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/",
-      "originalUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.mg.co.za/wp-media/2022/04/bd15270f-gettyimages-1283484229-scaled.jpg",
-          "width": 2560,
-          "height": 1709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp",
-      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp",
-      "publishedDateTime": "2022-04-17T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mg.co.za",
-        "domain": "mg.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-how-fintech-can-help-you-manage-your-personal-finances.md",
-      "title": "How Fintech Can Help You Manage Your Personal Finances",
-      "excerpt": "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/424896?bingParse",
-      "originalUrl": "https://www.entrepreneur.com/article/424896?bingParse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/due/hero-image-due-424896.jpeg",
-          "width": 1024,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
-      "title": "Artificial intelligence isn’t as smart as it thinks",
-      "excerpt": "Digital personal assistants, software that can trounce board game champions, algorithms serving up customized online advertising — wherever you turn, artificial intelligence appears to be taking over the world. But look past the self-driving cars and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
-      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2020/03/AIwebcrop.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
-      "publishedDateTime": "2022-04-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-17-ai-chip-market-size-share-analysis-revenue-price-growth-rate-and-forecast-by-2030.md",
-      "title": "AI Chip Market, Size, Share, Analysis, Revenue, Price, Growth Rate, And Forecast By 2030",
-      "excerpt": "Apr 17, 2022 (AmericaNewsHour) -- The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030, owing to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-market-size-share-analysis-revenue-price-growth-rate-and-forecast-by-2030-2022-04-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-market-size-share-analysis-revenue-price-growth-rate-and-forecast-by-2030-2022-04-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-17T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-17-maryjane-rees-center-speech-and-language-clinic.md",
-      "title": "Maryjane Rees Center- Speech and Language Clinic",
-      "excerpt": "NEURO SERVICE ALLiANCE (NeuroSA) is designed espe­cially for adults with acquired neurogenic communication and/or cognitive disorders. Within NeuroSA, a broad range of services are available including traditional therapy provided by supervised graduate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.csus.edu/college/health-human-services/community-services/language-speech-hearing-center.html",
-      "originalUrl": "https://www.csus.edu/college/health-human-services/community-services/language-speech-hearing-center.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-17T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento State University",
-        "domain": "csus.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

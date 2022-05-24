@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Data analytics platform launched to attract $1 billion in AI and DeepTech investments to Ukraine"
+    excerpt: "In a preemptive effort to trigger post-war capital inflow into UkraineLONDON--(BUSINESS WIRE)--Deep Knowledge Analytics (DKA), the flagship subsidiary of Deep Knowledge Group (DKG), today announced the launch of the beta version of a data analytics platform that aims to attract $1 billion in AI and DeepTech investments to Ukraine over a foreseeable period of time."
+    publishedDateTime: 2022-05-24T19:48:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=669320"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 4
+
 secured: "AfCYmta0R4Uq0K7sCG2T/KVvrXxrcDWNzmu0CnEFmpuXl0q3d7GUbiF0dYhtUiDVbqPX4SvyDLsZQNFJkIPAywsbxf9whlx3k2YhYmAkBdL33jY48nBmLugHjyMdPGyl1Rocm+T8h1hoYU/WivHag2OZ5FAe+iy0Yg5rdu3r9azd4horE7z4lGqkpXMVDuBrDG6pFciZt8vgdSAxYnqoJ6WJLKP7N+fJTfU+bc5XPn8eJmdL2bi2v4agcTd3S7ENcBvuUwa/0H65InOdlVDVaAdm6FFtM0bRhb1ApRbaA2POsUUa8B/y3S25m+oculgYtGQGQ/XQ3vI608mD67J22AMxE7H/Z53bteLbkYriWMo=;J1GvG+3WH61t41W0g+7FsA=="
 ---
 

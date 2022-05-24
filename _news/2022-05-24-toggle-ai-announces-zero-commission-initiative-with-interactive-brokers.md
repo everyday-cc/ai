@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-24T12:36:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-toggle-ai-announces-zero-commission-initiative-with-interactive-brokers"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-toggle-ai-announces-zero-commission-initiative-with-interactive-brokers"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 

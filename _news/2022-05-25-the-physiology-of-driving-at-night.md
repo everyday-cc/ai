@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T18:23:00Z
 originalUrl: "https://www.roadandtrack.com/car-culture/a40083956/the-physiology-of-driving-at-night/"
 webUrl: "https://www.roadandtrack.com/car-culture/a40083956/the-physiology-of-driving-at-night/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Road & Track

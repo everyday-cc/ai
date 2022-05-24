@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T15:23:00Z
 originalUrl: "https://triblive.com/business/pittsburgh-based-locomation-showcases-self-driving-truck-technology/"
 webUrl: "https://triblive.com/business/pittsburgh-based-locomation-showcases-self-driving-truck-technology/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TribLIVE.com

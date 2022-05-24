@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104256728/Innovations-And-Growth-Opportunities
 webUrl: "https://menafn.com/1104256728/Innovations-And-Growth-Opportunities-In-Artificial-Intelligence-For-Histopathology-Market-2022"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -24,17 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Indoor Delivery Robot Market Size with Growth Opportunities, Top Countries Data, Future Trends and Share with Revenue Forecast 2027"
-    excerpt: "artificial intelligence, GPS technologies have made it possible for the companies to ensure fast, secure, and cost-effective delivery of products to the clients. Reduction in labor cost is expected to drive the demand for indoor delivery robots The usage ..."
-    publishedDateTime: 2022-05-24T05:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/indoor-delivery-robot-market-size-with-growth-opportunities-top-countries-data-future-trends-and-share-with-revenue-forecast-2027"
+  - title: "AI Training Dataset Market: Business Opportunities & Investment Research Report 2029"
+    excerpt: "Rise in adoption of artificial technology across various data-driven applications such as voice recognition and image recognition is the major factor that"
+    publishedDateTime: 2022-05-22T00:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-training-dataset-market-business-opportunities-investment-research-report-2029"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 9
+    quality: 30
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/2340de6afa573e20e53880a7df80d723bbea75c5-600x337.jpg"
         width: 600
         height: 337
         isCached: true

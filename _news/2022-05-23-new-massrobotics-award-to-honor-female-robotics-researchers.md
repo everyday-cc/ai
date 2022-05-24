@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-fem
 webUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "How Robosport Is Using Robots to Make Athletes Less Robotic"
+    excerpt: "In recent years, we have witnessed increased discussions on developing robots to be more human and whether robots can surpass human intelligence."
+    publishedDateTime: 2022-05-24T14:21:00Z
+    webUrl: "https://www.ibtimes.com/how-robosport-using-robots-make-athletes-less-robotic-3519135"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "GzHCdBJfw9YJZLTzrGUH3eE7Wbp6bN4X+X6H8ZNJ9Fjbdet+Hjtlr/LqN2ZSEzQaq/6IMym76vLtLbtOieV9s1pGLOAk7GbN42d78Ya4tDVdWUBbODEVGtnWirdnUgS1XJvdlbEmnArNJiYp8yHH59zg2uhWWrhx6YNok6q+S27RznAfCUmXR6uAp2ymVKs8l6HIc/YpyD7zlGinb4nGwYJSxBSpw68xbDbNc668RbS9hea+XvxnPHkz0LltHM9VB4wQGWQaVyECn9wv/G9ONwVu2R+Lk4+MgVry6uqsH9Sf6wIMjShjJjWJVTZ85X3+bRa2SKL8HBrkyO7ucgmZR4+Pd6dHgtitVcm/uwVadTrcJHN6ZKaE3JhYTSqmVqF6NKJmdzuRGh9w4E+Y60JOIiX++kidSoHC1kkDZHQgDeIDyLgnA9fT9fcr4r/14mllKt7RLWVBDMMc+wNU1kAtdEnq9qxuqcmw+cuvcpOFVsIkt+huElSgcWb8rKEF2IVAVIk29DMTqYc/ffcUbsRcvA==;RLuKMSEhgywlubDo8FfWTA=="
 ---

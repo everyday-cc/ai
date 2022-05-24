@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T17:14:00Z
 originalUrl: "https://www.cuinsight.com/press-release/meridian-trust-federal-credit-union-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform/"
 webUrl: "https://www.cuinsight.com/press-release/meridian-trust-federal-credit-union-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Credit Union Insight

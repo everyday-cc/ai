@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
     provider:
       name: News
       domain: news.am
+    quality: 19
+  - title: "British regulator fines U.S. facial recognition company $9.4M"
+    excerpt: "A British regulator has fined a U.S. facial recognition company over collecting images of people in Britain in violation of its data protection laws."
+    publishedDateTime: 2022-05-24T18:31:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2022/05/24/British-regulator-fines-US-facial-recognition-company-94M/1441653409831/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
     quality: 19
 
 secured: "eBwcqfPboZW4KN4Tp2+1vRHtfJ1rOVYbATv+rUI2XXNlRy+2b6ccwhp6abRmknGQfurwuPSX96mZstiBD3XdjKfz5bMzpHXZYczc8f2LYdSffqzqVAL7q4mQ6jXoN8f/luwKnhOLEc7PnDQ5fP+pGmjnb0t85KdXw+fXEqc1DmTQxf1KM+gAiN2SB7itjgYRIXb+Q4rhauhUslrGko0blVw2Z3EpU6Rfx43KrrYMXYg36qZEtDaIFQA4qCJKiIxZA6IYZjcGdcowqr0pyUe8HvFBx9oW9RsThlU+LEpxUMFKLXPzE0sEVGZ8LofzvA9X1X00MlQUfMmOfwCH0zPKq0fMOzh4C8wftd5+n5n9l/H9XHNtpwRKNu7M7tI14Jfi/gfFq3nze2dtBOFU8sYcxWG3msh5i1T8epnryY8XZ925WlXmaTf872RycZ9l23iOlPAU9X02aAm/AoD8zhVlNOzEfCSt6MtC94n+ulevTIkApuoNJixWdngFxgt9DOEosKRo8fyBJKuyLrMBCgfInw==;MJRN1xsmPbJMIQ+BLG8PVA=="

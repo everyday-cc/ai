@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bengaluru plans facial recognition gates at Namma Metro, activists alarmed"
+    excerpt: "The Bangalore Metro Rail Corporation is planning to install the system at automated fare collection gates throughout the Namma Metro network."
+    publishedDateTime: 2022-05-24T21:54:00Z
+    webUrl: "https://www.biometricupdate.com/202205/bengaluru-plans-facial-recognition-gates-at-namma-metro-activists-alarmed"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Bengaluru Metro Mulls Deploying Facial Recognition System, Move Raises Questions On Data Protections"
     excerpt: "Echoing similar sentiment, Rahul Goel, partner at AnantLaw, said that when it comes to dealing with sensitive personal data like biometric data (facial recognition is biometric data), there is a ..."
     publishedDateTime: 2022-05-20T18:22:00Z

@@ -85,6 +85,15 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "How Robosport Is Using Robots to Make Athletes Less Robotic"
+    excerpt: "In recent years, we have witnessed increased discussions on developing robots to be more human and whether robots can surpass human intelligence."
+    publishedDateTime: 2022-05-24T14:21:00Z
+    webUrl: "https://www.ibtimes.com/how-robosport-using-robots-make-athletes-less-robotic-3519135"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "0l7Rk3PfsWFHbAZ97v6YzznNVK7eRJcMdtU+QJ3V/8cNVka2aaDWWRGTqc+84V7UWdcKxMCofSAjFbp+5TfoGBqRLnu+piNt8aAVcstvF23+t4PaOnBTunhA7wi82k2mcPknK/T4yCYhR1qCyVM4nF9FCNoVQsFz3MRY0ImgTOwTo1lbPVl1YWX3SbbwUOAixuw3dml/Lu47tq5y8NfdMjds51RtgRILENrEF9ICWj4THTtT68WrrHczMY/vaxSsoSahc6+sY/5jpyX1pEXnFoP/hxiVTHfRoZE2AKbJB3zU98W7nYx/EVn7ZWyfh/ZjNUlIHHuXJL5u+G+XC5xTdmCfeTnpyF99TLB/sOKmY2+pw3IhMcEOytbsqWiviWVL9gYbhatz24NOhbiEkvYiNbeVwDOHNcAug23TKg/xT364ZnC1CqiF6S0hZ0Yr2R5h5jabpRepzAu8R4X95RpvTGwBKFnNtbE4JMSUiHp69MypHbMi6npyrcSIkKYXbMgec+ALdxlaYrzysNMo9OigWg==;1uiZGhDe0RKphMv6UAORVw=="
 ---

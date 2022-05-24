@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T18:10:00Z
 originalUrl: "https://venturebeat.com/2022/05/24/ai-reskilling-a-solution-to-the-worker-crisis/"
 webUrl: "https://venturebeat.com/2022/05/24/ai-reskilling-a-solution-to-the-worker-crisis/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

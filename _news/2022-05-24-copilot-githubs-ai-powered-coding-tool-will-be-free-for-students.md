@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/24/copilot-githubs-ai-powered-coding-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/copilot-githubs-ai-powered-coding-tool-will-become-generally-available-this-summer/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 413
     isCached: true
 
-secured: "YlmBAPZMgQZoVc/OarZAWkJHQGdKeXA/4tJ1RaboTOf7RxcN8W8mYH/nxvi8UGU08DWMKGJsIbUK2CRiyVJpwwGmPbLkRUjngSllILA6IUeWX27JNe9+YoX4K4zR1Q0MIDVaEfR6IrT6QCKF9OH5Dm4/0zY1SEBHelxXLjZTm1gVFf3nOX6ZCzgPhV6FW53wJE1MIkFi+MKoFFqV1jiTLqLFAYoNmpSJmlz2npXYk8UVbKWRiTYSJ41TCDB6II1y/aY2Wt+rd6gCRAgCfcFfnGT2n/HaIE2DHusnDpu2r8V40CxU8R4P1oE2ZKbhbsl3g3CQK+be6ZTgnocbRrFbVXf7kEki+blq8QDD6L9zHuk=;UvskI7aEUni6vpbGl7iTcg=="
+related:
+  - title: "GitHub Copilot AI coding assistant due this summer"
+    excerpt: "GitHub Copilot, the controversial AI-driven coding assistant that suggests lines of code ... which has questioned the legality and ethics of its use of freely licensed source code."
+    publishedDateTime: 2022-05-24T20:50:00Z
+    webUrl: "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.html"
+    ampWebUrl: "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "ogk9H9O7VfDMu0FBb3M7jX7Te0ySoe90z9ofltEm/zpv6oKa6Mc05Mv9p/Ik/JIa7jE5TGlugFztkjttBW2vH3cTE7CEJ9MMfy3MWLWVyzyGIi2JtkxS+Z5jLUQbxABTDsAl7btIMeXV0U+RNuon6RNV3/baqvT3SQXlqGf/31mnaJpTpRXEsFumgo3R7P3W69mQCat0kgVFnD4dkZaRukwqQD8fpastlfljbRwbGEfoBomy7A7OzFWtNtSRHhV3rDV5AwAfUZBWWoRgme3+7gPn753320+6mvpAhQUbZZkvwNEZJ09ZWzp4grQTTcCXTQMHUlXsBNOOrwTy1TyBckKGMzIHcn5R7W3ZCKWNUFduJUGGJs+kuuMoUwAgubGLpBchloAeqbXmWQCqeiTYEFEL35E/MS04gsdpg1xYBAUt6oGw/geFQlUjlZMhAvjOE3Lc3EjyzHthZqMVK1L9N7Rk8jcIRb3N8XaHxZzB7hYEoVbn7hkdh5wEgiIejFnhTjZoWHQTb1ibIxWGI76OkA==;xYca1YveaiwNjDD2Hi5nEA=="
 ---
 

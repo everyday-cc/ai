@@ -94,6 +94,15 @@ related:
       name: News
       domain: news.am
     quality: 19
+  - title: "British regulator fines U.S. facial recognition company $9.4M"
+    excerpt: "A British regulator has fined a U.S. facial recognition company over collecting images of people in Britain in violation of its data protection laws."
+    publishedDateTime: 2022-05-24T18:31:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2022/05/24/British-regulator-fines-US-facial-recognition-company-94M/1441653409831/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 19
 
 secured: "3SC4DlCX0X7o7ucl2GdugGVGb6dSXCa4WSB4PhaHB2sEr0ID8Ji0zMt3HqcfLIz0GKOYBYVTQt84EKcjbkbE6f9KNghl/x4NFM4AL36GnRfbBbcLAJg/KdHmOb/U8O5bqoGzpZpen+mV8NbMhE2V6Dl+aR2vy5F0nTEVIeEf1Xm/sOj5YnLZf27gjG6lCN0Jb0vBm+GL2X6+VyRfKc7gUdf1aSgT9rGKKzw23vTzTKlfMx0JTPbIefzvfMV29BPoz94+QCBuZzh8Ucni67/EepB/xIeYEevA3nOx+t0z7oeVrk789hjPz5xODFni6XvcdOXXxYVvOnbaftIhDFfegTVZKPrVoprAOFhvR74u3FswhvwN0bqhrIQHOZrbUw0t3qmkA9Bz07PCoqTuXHhafNCx0pqTSfms8Kg84dsoOY7EZPGVxxnP1CnMqmEwBnFEw1gNkLHSDomUyP/tp6cyoEk9PNdgQmmo34MkQHP+Y33fAN0bqExdrzTdxlzD4Wg3kfbvHmKVFhRehVh/vXUQPQ==;gdnrFsJ7TqcivDhaeOxfcQ=="
 ---

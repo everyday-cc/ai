@@ -39,6 +39,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Machine learning hiring levels in the retail industry rose in April 2022"
+    excerpt: "The proportion of retail companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 32% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-05-24T18:03:00Z
+    webUrl: "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-april-2022/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 33
   - title: "‘Machine learning’ in beverages – Recruitment levels in Apr 2022 – data"
     excerpt: "The proportion of beverage companies hiring for ‘machine learning’-related positions rose last month, according to recently-released figures. A total of 30.6% of the companies included in GlobalData’s analysis were recruiting for at least one ..."
     publishedDateTime: 2022-05-24T12:59:00Z
@@ -48,6 +57,15 @@ related:
       name: Drinks
       domain: just-drinks.com
     quality: 19
+  - title: "Machine learning hiring levels in the automotive industry rose in April 2022"
+    excerpt: "The proportion of automotive manufacturing and supply companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 41.5% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-05-24T18:00:00Z
+    webUrl: "https://www.just-auto.com/features/machine-learning-hiring-levels-in-the-automotive-industry-rose-in-april-2022/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 16
   - title: "Artificial intelligence innovation among military industry companies has dropped off in the last year"
     excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
     publishedDateTime: 2022-05-23T18:04:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2022/5/24/23139297/google-imagen-text-to-
 webUrl: "https://www.theverge.com/2022/5/24/23139297/google-imagen-text-to-image-ai-system-examples-paper"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -28,33 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Marketing Expert Explains Why AI Generated Content Violates Google Guidelines"
-    excerpt: "There has been a lot of talk within the SEO community about AI generated content and whether it violates Google's content"
-    publishedDateTime: 2022-05-20T14:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/digital-marketing-expert-explains-why-ai-generated-content-violates-google-guidelines"
+  - title: "Google's Text-to-Image AI Can Make Any Wacky Image You Can Imagine"
+    excerpt: "A plumber riding a dinosaur? Google says its AI system Imagen can create a photorealistic images from input text."
+    publishedDateTime: 2022-05-24T21:05:00Z
+    webUrl: "https://www.cnet.com/tech/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 47
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/175412f0a30ac01d5e47d70a2e1f4d3c964183e5-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Digital Marketing Expert Explains Why AI Generated Content Violates Google Guidelines"
-    excerpt: "There has been a lot of talk within the SEO community about AI generated content and whether it violates Google's content guidelines recently. The guidelines were introduced to ensure content has strong A-E-T ,"
-    publishedDateTime: 2022-05-20T20:40:00Z
-    webUrl: "https://menafn.com/1104249840/Digital-Marketing-Expert-Explains-Why-AI-Generated-Content-Violates-Google-Guidelines"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 47
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/20/G_bfaa779d-5_Image_In_Body.jpg"
-        width: 480
-        height: 480
+      - url: "https://www.cnet.com/a/img/resize/e2f8bf45ccafbdf0e8baa635db6dd15e058ceeed/2022/05/24/9879e313-8e97-4858-abe0-ff3583b11495/imagen-text-to-image-ai-composites-2022-promo.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google details new cutting-edge image generation AI"
     excerpt: "One of the most sophisticated entries into the category is an AI system called DALL-E 2 that was detailed by OpenAI LLC earlier this year. According to Google, its newly announced Imagen system ..."

@@ -32,6 +32,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Machine learning hiring levels in the retail industry rose in April 2022"
+    excerpt: "The proportion of retail companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 32% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-05-24T18:03:00Z
+    webUrl: "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-april-2022/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 33
   - title: "Machine learning innovation among power industry companies dropped off in the last quarter"
     excerpt: "Analysis of patent filings shows an decrease in related applications in the industry following a rise over the past year"
     publishedDateTime: 2022-05-20T10:00:00Z
@@ -55,6 +64,15 @@ related:
       name: Drinks
       domain: just-drinks.com
     quality: 19
+  - title: "Machine learning hiring levels in the automotive industry rose in April 2022"
+    excerpt: "The proportion of automotive manufacturing and supply companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 41.5% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-05-24T18:00:00Z
+    webUrl: "https://www.just-auto.com/features/machine-learning-hiring-levels-in-the-automotive-industry-rose-in-april-2022/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 16
 
 secured: "AoZKokBe+vdnES88RwnmCg66L0okoPOWWDm9yP/WNIo9nc2DmHlKMdajH2+vepI59F8Msxz4OkCUp79niAyhhyBQ5BQkMjBxuGUnNPy+xxVPNnh8nf6hcLb5PeG+ADk8o83MM+WH2AyThOpPWlzNrhwCIGHc3EQYjSdx6MQTujkzWoWDkUl4XQKWMdJTM73GxSUs4n+Yujvw2+RmyXzrwycY/VY+TBPnJG7w2QkGNNfNji9BiJ0F5f9EH8/EtkgEnOtqz0cgeo5sDqGgAElIAGj+P1drSJ/JYNzPRaQGepivmmXc1TAnPT84UlGl+BRKfpfrWxzPCJ5VCp62IvYSWASTK5dBU+iERUVkbVORGaES0pXO0wUmPWEgVEr5MDuKZ06NDITaq+cGFxdhx09e+6d01b2Uiw2li4KTL+PY/M1VCPHIPJJiZOXqI4Q1rY8NV99MkwDKNHHriKDW5Rt+0AFItA5ZQD8MCLPy5G15Ll3+6186XUY9N6dsF0Kv+t6gWclG9uKr8J8X1xe5XoArGg==;iDkop2LYev3YONzn5ooRpw=="
 ---

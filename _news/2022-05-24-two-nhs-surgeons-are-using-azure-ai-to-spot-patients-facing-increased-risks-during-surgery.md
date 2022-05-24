@@ -6,9 +6,9 @@ publishedDateTime: 2022-05-24T15:31:00Z
 originalUrl: "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/"
 webUrl: "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/"
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 94
+heat: 124
+published: true
 
 provider:
   name: Microsoft
@@ -45,35 +45,30 @@ related:
         width: 1200
         height: 806
         isCached: true
-  - title: "Leveraging AI to Improve Patient Outcomes in Healthcare"
-    excerpt: "The importance of providing patients with a fast and accurate diagnosis cannot be overstated – it can be the difference between life and death. Unfortunately,"
-    publishedDateTime: 2022-05-24T14:01:00Z
-    webUrl: "https://marketscale.com/industries/healthcare/leveraging-ai-to-improve-patient-outcomes-in-healthcare/"
+  - title: "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence"
+    excerpt: "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma."
+    publishedDateTime: 2022-05-24T15:28:00Z
+    webUrl: "https://www.localsyr.com/business/press-releases/cision/20220524LA66847/invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence/"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 54
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 21
     images:
-      - url: "https://marketscale.com/wp-content/uploads/2022/05/Intel_TwoPeople_PodcastGraphic-2.png"
-        width: 2489
-        height: 1400
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
+        width: 814
+        height: 330
         isCached: true
-  - title: "Is artificial intelligence the next tool to fight wildfires?"
-    excerpt: "With wildfires becoming bigger and more destructive as the western part of the United States dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have a new tool to add to their arsenal of prescribed burns,"
-    publishedDateTime: 2022-05-22T23:07:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/23/is-artificial-intelligence-the-next-tool-to-fight-wildfires"
+  - title: "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence"
+    excerpt: "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma."
+    publishedDateTime: 2022-05-24T18:28:00Z
+    webUrl: "https://fox5sandiego.com/business/press-releases/cision/20220524LA66847/invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/22/1593147.jpg"
-        width: 1240
-        height: 826
-        isCached: true
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 1
 
-secured: "uEFhdUVzQ8Bhr5+TMawvz7tvxQz5SG0Z3RwBazI7hhqCZcCHIGcfvray/yDMH7/+ICmuZ8/W7PjEYKp+o4VmFJfdUt1LszyR1fD/HBGIE73OMBumx9wg0wYy/BsyYM3HFEiptNPpSsMruOqPgVBp3dOGNo+ZCg5x7tKHTdC2j/bOQ6PNCKEleoo+tk6HB4p8g1RYQUTRTJWRdfIMiY+AkqZbSxV3ILB28bkxO0VO1gHVUcWJ1cOwPrCo2Xr1DjY1XoWZmSMk65CfLyKQI1pxq4B4/w88LT74dPm9MzE1bbnkITtJ1fAzJ9JzZ1pfjezQq6CPSDjUMzMf7PXWpwtn1M8Qi+/fZPVvf7kkvjRVckY=;/uQon49uC1aJQiveGQM/gw=="
+secured: "y9WHYxcUJPWo8fv1IVdfSuCWFVgpXSuNw8CFOWIgceTuuIQqL4EYXy6humc3ByUCqaP+r8SYnRb8v4u+NTWw/tF49OVwCxLmZ7P+DrVlIvbXqc59ut1uYM0VvpV3uQP/VrJfjIu7JyEz2yzIYSC57D+lFLfluW2WUtPJSWtfoSxIFjv07Qb/YBaOS9wmfiCUr/3mm5y34BYE6zZdbzrU9Y4V5FXppRPqMhafFCvuC6xpoz8yyeLC5akUPI+sybUpZotY7ngUFQNtvnWFlU7K4B2ZY13VoS8p9yZbfGkldi7MtlNNiZzJrxsrZNbgcRtnafDdljgzoNuJ96awGt3VnYWRHr6CEKpiclDDvimnYoUnYw85+ijDeTpIn2xBBPH+;m5PlSy5IktKTnurwVoZ6Iw=="
 ---
 

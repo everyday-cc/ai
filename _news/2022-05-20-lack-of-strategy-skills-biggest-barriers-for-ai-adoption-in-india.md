@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 400
         height: 220
         isCached: true
+  - title: "MeitY holds Brainstorming with Researchers & Startups to shape strategy for Digital India BHASHINI – India’s AI led language translation platform"
+    excerpt: "We see the role of Startups in the Innovation, Development as well as Consumption of Technology”, said Rajeev Chandrasekhar, Minister of State for Electronics and Information Technology and Skill Development & Entrepreneurship,"
+    publishedDateTime: 2022-05-24T09:23:00Z
+    webUrl: "https://orissadiary.com/meity-holds-brainstorming-with-researchers-startups-to-shape-strategy-for-digital-india-bhashini-indias-ai-led-language-translation-platform/"
+    type: article
+    provider:
+      name: Odisha Diary
+      domain: orissadiary.com
+    quality: 0
 
 secured: "S3S9RFlog9CbKbhsEyTgFlul4UO1/cpNyKhZGFHv4/j1H9wkodXIRuaOQasDWCKI0W/YUaX9I5Y+cbMmWU3KLNn7OjN3OFTVU8MkKakiVrG8LzGNrOdDRugQ39AQSmgYMM3zlHardvg7JOr5FMl3k15z7l49J5B8YGK1QjyNOHspY1zQiMkUTJNvRLPdOiaorbUh5dhPiVfgIVGAzGKi5KteVfDFR+L7uxJRyN87Y0VzhAaKGNcKXXNTaHG9IHZfOdegl3tILn3aF+jZvsL9KNEKqGAmzRtcJKlLlQtzf2Y+th7FsiOwUoa9ffTF3A+9n1b4t7qPmN6jNlqLO7m0C7qa7GBIVvD/zAeoaGoZi1I=;QbRmWrqdL7sP3KVZXNDkBw=="
 ---

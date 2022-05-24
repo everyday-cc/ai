@@ -55,15 +55,6 @@ related:
         width: 1680
         height: 880
         isCached: true
-  - title: "Artificial Intelligence sleep app may mean an end to sleeping pills for insomniacs"
-    excerpt: "Up to 800,000 people in England could benefit from the £45 app which can work through wearable devices like the Apple watch."
-    publishedDateTime: 2022-05-20T03:30:00Z
-    webUrl: "https://news.sky.com/story/artificial-intelligence-sleep-app-may-mean-an-end-to-sleeping-pills-for-insomniacs-12617127"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 13
 
 secured: "T2f5kBff2lnuKrap2XbxYIUfLO+XPKZF6Y9aupI5k9JwLjf7OU49JR+3beJR2Xw9rR11qSxx9riHNeLW0V7OXJOOlR1wOWl4r4UQRDb7fZuayyZ7ZOJH56K8wFG5yIQypFI+Cz15x1z4R+txoedJ8p5Vb2XmEPXxFVNjhUbZ33YDc9XtFUGVr71LKIsPstuO/xkfl7fECkWlO7rGUYxcCuYLTC9o4Lq/HboSmcCGr4sFkeMNHA/jPPD5B0Jx+xWEYOI4vn7sNL4uVqPvaZn9CuDVY+ypUbTNvr1jdlVn+qElJu4XeR0CpgVvt+4xS5+jJE+njTt8Ze8DL1EQsI4/um2FsWI7feo92ow/wN5s9WF3Dgi5giZwzoH7ag4Fu4B/gj/HafR3R6yQHUal8Oe8H9Z2c0/2sCgy/HG+RnQJY9BS5fjiJ5Fnl0jxR5RJFZSevKPZyWZO/M1NLYfKzp5VQE0Zkb7Y7K6nh6H5sxHwVtrJYeOtHfJR/8sBO6/gmhY/sb0p8qexAO8jJSboUH0T3Q==;Ay4mKJHU3pSFSqltEsTKAQ=="
 ---

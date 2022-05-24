@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T15:50:00Z
 originalUrl: "https://technosports.co.in/2022/05/24/nvidia-a100/"
 webUrl: "https://technosports.co.in/2022/05/24/nvidia-a100/"
 type: article
+quality: 3
+heat: -1
+published: false
 
 provider:
   name: TechnoSports
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Nvidia to sell liquid-cooled A100 PCIe GPU cards, Equinix trials deployment"
+    excerpt: "Nvidia plans to sell a liquid-cooled PCIe card for its A100 server GPU in the third quarter. It will follow this in early 2023 with a liquid-cooled PCIe card for the next-gen H100 chip. The company previously offered liquid-cooled A100s,"
+    publishedDateTime: 2022-05-24T12:14:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-to-sell-liquid-cooled-a100-pcie-gpu-cards-equinix-trials-deployment/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 17
 
 secured: "a05QhmmUjoL2uHsbm0Ic4Rg3Ft7jdaSC/sAZ3j7IBmv9WDG6/EGEdbgEzG7I6mcqM5sUdKCfEd2fu5GAsj7LSnEo5W+WY1XpO4AAT2UmJscfpurlvE2b7PBPHyrrUvur6+oAhhx5oLPEcx8pbL+cEKdJdbT7DJ+tRAhZABTUWyvCLDtpLw+IifK7ljK8jZ/fdTxdttN2TstxkBsLUfdY4suVmjw8BIlRCCogx6hTk5ahSHNntxF79FZoKHK5lNKCcrEq5cdOykwMhLRu5DASHj94Tbnbjjdp9ineUDT+ETdF1aGdyFfqX3e07k7etpOpiwfRmSUYwrTmFIaVRrL3sqgi1Njs8JnoV44nmWk8NrXuux6+ih9tltN7672jHwLUQoLFe2LmhvjElm/qQZD7R3KVw4Ww+OebgTROgyJqKTXOCgvppsCs+2DB8L+8WLDS6nuCuKtEHCx8VgPz99e161w5443LAOBcBXSBWQ0YRnrY3KDmQovj9Z/TRQ3HRxA7tDWn47wqAU5TGwfbT8xU5w==;h0Bn7gDQ6V475WtvD8YzKg=="
 ---

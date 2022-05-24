@@ -34,6 +34,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
+  - title: "Indoor Delivery Robot Market Size with Growth Opportunities, Top Countries Data, Future Trends and Share with Revenue Forecast 2027"
+    excerpt: "artificial intelligence, GPS technologies have made it possible for the companies to ensure fast, secure, and cost-effective delivery of products to the clients. Reduction in labor cost is expected to drive the demand for indoor delivery robots The usage ..."
+    publishedDateTime: 2022-05-24T05:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/indoor-delivery-robot-market-size-with-growth-opportunities-top-countries-data-future-trends-and-share-with-revenue-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Artificial Organs Market To Be Driven By The Growing Demand For Kidney Transplantation In The Forecast Period Of 2021-2026"
     excerpt: "The new report by Expert Market Research titled, ‘Global Artificial Organs Market Report and Forecast 2021-2026’, gives an in-depth analysis of the"
     publishedDateTime: 2022-05-24T14:08:00Z

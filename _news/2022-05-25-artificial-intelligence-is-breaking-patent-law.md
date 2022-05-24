@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T19:57:00Z
 originalUrl: "https://cacm.acm.org/opinion/articles/261304-artificial-intelligence-is-breaking-patent-law/fulltext"
 webUrl: "https://cacm.acm.org/opinion/articles/261304-artificial-intelligence-is-breaking-patent-law/fulltext"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: acm.org

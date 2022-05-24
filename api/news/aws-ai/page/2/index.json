@@ -483,6 +483,40 @@
       ]
     },
     {
+      "path": "_news/2022-05-04-rekor-announces-the-availability-of-their-cloud-transportation-management-platform-within-the-amazon-web-services-apn.md",
+      "title": "Rekor announces the availability of their cloud transportation management platform within the Amazon Web Services APN",
+      "excerpt": "The Platform has been certified as ‘Well-Architected’ to function in a cloud-based environment. APN is a global community of partners who leverage AWS to build solutions and services for customers. Additionally, Rekor has joined the AWS Public Sector ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
+      "publishedDateTime": "2022-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure.md",
       "title": "Dell forms security partnerships with major cloud providers AWS, Microsoft Azure",
       "excerpt": "and they are now expanding it to the public cloud with Azure and expanding features with advanced capabilities with AWS (corruption detection, analytics and machine learning). \"These options provide a robust vault/recovery solution at scale for enterprises ...",
@@ -1351,58 +1385,6 @@
         "name": "Daily Herald",
         "domain": "dailyherald.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-aws-announces-general-availability-of-aws-iot-twinmaker.md",
-      "title": "AWS Announces General Availability of AWS IoT TwinMaker",
-      "excerpt": "AWS IoT TwinMaker makes it easy for developers ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-twinmaker-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-twinmaker-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/wifi-helps-robots-navigate-indoor-environment
 webUrl: "https://www.unite.ai/wifi-helps-robots-navigate-indoor-environments/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "MIT researchers help robots navigate uncertain environments"
+    excerpt: "MIT's research team hopes that its findings could help autonomous robots explore remote exoplanets with unknown conditions."
+    publishedDateTime: 2022-05-24T21:15:00Z
+    webUrl: "https://www.therobotreport.com/mit-researchers-help-robots-navigate-uncertain-environments/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-MIT-trajectories.jpg"
+        width: 770
+        height: 500
+        isCached: true
 
 secured: "Msojxz3Ng+/q4rSAVWU1Y9JturjbC/hOl8c4EWg6HafQMc8A4e7WWkEgPDOGu8TWvDpQ8xvOK1Nm4UYoHJx9ohDT1H9ePTsEdPGoMcp7FbZnE5KybC//INcUDE+dWiblDHTBLMGMXRpUIS0ZrKD8BWRQ38wm2x1fJs7h+GV7n4n3NWSuU+n6Z9tAQNm1s56SJ7X4eGITHLqcT8FEFoF1+j/EalfUDmm2ECT76hNqpVXEDD1Z0x7X1hsx8s+Y+4OeVf8PoaH7pVxRGEPftoB0WaXrjRSGCDJls7owLWVlK14tScXwBeI8KtenmR7D1U2KiBrpsqV2IhU9Fo/PIW0X4jotbSEliLLK2Jt21MegCH1damG2Pic9uBmcO0lyN5M/60nW/hdBo0OoZayoZKig/YbiFQhOOfNEYnAkcTPKhm/lI3cnOSinuBC1gzMtfp5Yi7XEyzarKsFW6lf29tUM4jBMoovL2DwezTW5AOHHDpxBKCXXdFhRwXgqKc8pwSVHiX7vHzzsZvLQWamRL82TMA==;2bOfFs+Ywlm4YvFVO33rFg=="
 ---

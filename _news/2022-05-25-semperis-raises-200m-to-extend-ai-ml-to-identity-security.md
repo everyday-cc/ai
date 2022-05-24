@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T19:47:00Z
 originalUrl: "https://www.govinfosecurity.com/semperis-raises-200m-to-extend-ai-ml-to-identity-security-a-19125"
 webUrl: "https://www.govinfosecurity.com/semperis-raises-200m-to-extend-ai-ml-to-identity-security-a-19125"
 type: article
+quality: 53
+heat: 53
+published: false
 
 provider:
   name: HHS

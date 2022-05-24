@@ -2,6 +2,178 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-05-11-settlement-clearview-ai-to-limit-sales-of-biometric-database.md",
+      "title": "Settlement: Clearview AI to Limit Sales of Biometric Database",
+      "excerpt": "After two years of legal proceedings, Clearview AI agreed this week to limit the sale of its facial recognition software to government agencies as part of a settlement reached with the American Civil Liberties Union.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database",
+      "originalUrl": "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true",
+      "publishedDateTime": "2022-05-10T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-research-offers-insight-into-patients-views-of-ai-in-healthcare.md",
+      "title": "Research offers insight into patients' views of AI in healthcare",
+      "excerpt": "New research from Yale Cancer Center provides a new understanding of patients' views of artificial intelligence (AI) in healthcare. While comfort level varied by clinical application, most respondents had positive views about AI's ability to improve care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
+      "publishedDateTime": "2022-05-10T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-its-never-too-early-to-get-your-ai-ethics-right.md",
+      "title": "It’s never too early to get your AI ethics right",
+      "excerpt": "The Ethical AI Governance Group wants to give startups a framework for avoiding scandals and blunders while deploying new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/ai-ethics-startups",
+      "originalUrl": "https://www.protocol.com/ai-ethics-startups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-coinbase-shares-fell-sharply-after-the-company-reported-weaker-than-expected-results-less-than-p-greater-than.png?id=29412744&width=400&coordinates=0%2C186%2C0%2C187&height=711.4285714285714&quality=80",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/ai-ethics-startups-2657296846",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-ethics-startups-2657296846",
+      "publishedDateTime": "2022-05-10T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-brainchip-launches-ai-enablement-program.md",
+      "title": "BrainChip Launches AI Enablement Program",
+      "excerpt": "The AI Enablement Program delivers working prototypes that demonstrate on-chip, in device AI inference and learning. AI/ML projects can be complex, requiring expertise, financial commitment, and time. With the launch of the AI Enablement Program ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe",
+      "originalUrl": "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-sec-enforcement-actions-support-critical-skills-based-ethics-training.md",
       "title": "SEC Enforcement Actions Support Critical Skills-based Ethics Training",
       "excerpt": "The question of how to teach ethics has plagued academics for generations, with some even wondering whether it can be taught at all. Steven Mintz, an",
@@ -978,197 +1150,6 @@
         "IBM AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study.md",
-      "title": "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study",
-      "excerpt": "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics. \"",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study/article_4b756953-9b33-5296-9946-05c12fd260b3.html",
-      "originalUrl": "https://www.victoriaadvocate.com/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study/article_4b756953-9b33-5296-9946-05c12fd260b3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/1e/c1ec80b9-4edf-57bb-9aab-d34d4138eff8/627a77204981d.image.jpg?crop=900%2C473%2C0%2C100&resize=900%2C473&order=crop%2Cresize",
-          "width": 900,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping.md",
-      "title": "How a grocery startup in Georgia is using AI and edge computing for \"frictionless\" shopping",
-      "excerpt": "The couple who started Nourish & Bloom are banking on a \"warm, pantry feeling\" -- combined with contactless checkout and delivery robots -- to help build their brand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
-      "originalUrl": "https://www.zdnet.com/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/790605947c9350f0b7314063f5f5f416a9aef396/2022/05/10/4a74ac8a-0c2e-4034-8a78-798ecbdf150b/nourish.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
-      "publishedDateTime": "2022-05-10T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-intel-unveils-new-generation-of-infrastructure-processing-units.md",
-      "title": "Intel unveils new generation of infrastructure processing units",
-      "excerpt": "Intel unveiled its latest infrastructure processing unit (IPU ... model training and inferencing for computer vision and natural language applications in the datacenter. The Greco is a second ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/",
-      "originalUrl": "https://venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/ipu-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/amp/",
-      "publishedDateTime": "2022-05-10T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-d2iq-streamlines-smart-cloud-native-application-deployments-with-kaptain-aiml-20.md",
-      "title": "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0",
-      "excerpt": "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes SAN FRANCISCO, May 10, 2022 /PRNewswire/ -- D2iQ, the leading enterprise Kubernetes provider for smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

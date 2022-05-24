@@ -34,7 +34,7 @@ related:
     provider:
       name: Outsourcing-pharma
       domain: outsourcing-pharma.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/article/2022/05/24/standigm-uses-ai-to-discover-potential-crohn-s-disease-treatment/15443479-1-eng-GB/Standigm-uses-AI-to-discover-potential-Crohn-s-disease-treatment.jpg"
         width: 750

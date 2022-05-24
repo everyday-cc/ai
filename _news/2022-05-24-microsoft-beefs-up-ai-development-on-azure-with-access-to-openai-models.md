@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-24T15:00:00Z
 originalUrl: "https://siliconangle.com/2022/05/24/microsoft-beefs-ai-development-azure-access-openai-models/"
 webUrl: "https://siliconangle.com/2022/05/24/microsoft-beefs-ai-development-azure-access-openai-models/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -267,6 +267,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
+    excerpt: "BeeKeeperAI is a pioneer in combining zero trust, confidential computing, and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare. BeeKeeperAI is accelerating the broader availability of ..."
+    publishedDateTime: 2022-05-24T20:11:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220524006114/beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z

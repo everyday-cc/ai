@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T19:11:00Z
 originalUrl: "https://www.wftv.com/news/davos-updates-soros/OWOCVLL3T2AQMBTUGL7XWE3KAI/"
 webUrl: "https://www.wftv.com/news/davos-updates-soros/OWOCVLL3T2AQMBTUGL7XWE3KAI/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: WFTV

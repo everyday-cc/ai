@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T18:48:00Z
 originalUrl: "https://cacm.acm.org/news/261294-microchips-that-mimic-the-human-brain-could-make-ai-more-energy-efficient/fulltext"
 webUrl: "https://cacm.acm.org/news/261294-microchips-that-mimic-the-human-brain-could-make-ai-more-energy-efficient/fulltext"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: acm.org
@@ -14,6 +17,18 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
+
+related:
+  - title: "Neuromorphic chips 'up to 16 times more energy efficient' for deep learning"
+    excerpt: "Neuromorphic chips have been endorsed in research showing that they are much more energy efficient at operating large deep learning networks than non-neuromorphic hardware. This may become important as AI adoption increases."
+    publishedDateTime: 2022-05-24T13:11:00Z
+    webUrl: "https://www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 17
 
 secured: "F1ZXOXvwAGarP2mRBanjWzYghC/dgQ/R8tz34Fdm+qWAypwcWiyjNjZYf1JAvc7w6VE5gu7XOXOuRoO2GnFsh8qQdW9eo0MwtKnn0ukiFjr6YMN4arts/hZu1PKcH3hVbekSkR6cfMG3oWVb/haTgXqOd8jkVMnN265UvIPKg+j/9+YdqyDUwGuJ+W/2r9bdxW9E6jfPpdC/1VzOSgnLNKPZhK9VU9cTez0ja+dSZiPeBjrguhzRU2RfgZaquIX+AjcEyAQBS2Gm7A9SCXfYIYJwdXqGkTQHhiOrZP/YXz2z3rzBafPFMh8goPkhAHSoU5GmXgMGG4Q8/9fjRFJqFyuThrIwD6R8W6cBZVyCtXQ3KZSU1AQZ1ziKSyyHQ5O7iyK3jsz5bLZFp/xeAT/ICk4nfXqnp9s+xYRots0lnssFKHsLnSXFS7Zwb3qhefAfMhdHlrHmgpcndZWpxfVozo2DLLBVamu3hx09CtWhgvrB/zPR4mANDTI/Atz3i01ZIRB03yI9JA/xG4fl6f3HmA==;58iaJ+Xse56uoiZTqbEVvw=="
 ---

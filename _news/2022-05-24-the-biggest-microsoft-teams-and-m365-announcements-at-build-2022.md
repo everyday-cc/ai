@@ -223,7 +223,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/microsoft-ai.jpg"
         width: 1366
@@ -280,6 +280,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
+    excerpt: "BeeKeeperAI is a pioneer in combining zero trust, confidential computing, and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare. BeeKeeperAI is accelerating the broader availability of ..."
+    publishedDateTime: 2022-05-24T20:11:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220524006114/beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 41
   - title: "Microsoft believes that its new tools make language models more secure to work with"
     excerpt: "Tools and data sets aimed to audit AI-powered content filtering systems and automatically build test cases indicating possible vulnerabilities have been released by Microsoft ahead of Build 2022. OpenAI’s GPT-3 is an example of a large language model (LLM) that can evaluate and create text with human-level complexity,"
     publishedDateTime: 2022-05-23T20:08:00Z

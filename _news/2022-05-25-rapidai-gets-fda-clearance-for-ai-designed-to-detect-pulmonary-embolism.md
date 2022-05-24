@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T18:59:00Z
 originalUrl: "https://medcitynews.com/2022/05/rapidai-gets-fda-clearance-for-ai-designed-to-detect-pulmonary-embolism/"
 webUrl: "https://medcitynews.com/2022/05/rapidai-gets-fda-clearance-for-ai-designed-to-detect-pulmonary-embolism/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MedCity News

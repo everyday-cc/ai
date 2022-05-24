@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-24T13:16:00Z
 originalUrl: "https://www.technewsworld.com/story/netenrich-introduces-ai-ml-platform-for-cloud-security-176783.html"
 webUrl: "https://www.technewsworld.com/story/netenrich-introduces-ai-ml-platform-for-cloud-security-176783.html"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:

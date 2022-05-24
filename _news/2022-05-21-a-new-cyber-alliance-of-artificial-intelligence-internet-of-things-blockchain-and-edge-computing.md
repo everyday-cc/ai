@@ -7,7 +7,7 @@ originalUrl: "https://ieeexplore.ieee.org/abstract/document/9773125/"
 webUrl: "https://ieeexplore.ieee.org/abstract/document/9773125/"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Blockchain AI Market: Key Players Change the View of the Global Face of Industry By 2030"
-    excerpt: "The rise in demand for the amalgamation of blockchain and AI in making an efficient software solution, monetization of data using blockchain technology"
-    publishedDateTime: 2022-05-20T03:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-key-players-change-the-view-of-the-global-face-of-industry-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/393913cdf506e6a535563a5c8f38b15fbfae676d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Blockchain AI Market 2022 Expectations & Growth Trends Highlighted Until 2032"
     excerpt: "The global blockchain AI market is expected to reach US$ 2.8 billion during the forecast period, rising at a CAGR of 22.9 percent. The market is anticipated to be worth USD 285.7 million in 2021, rising to USD 358 million in 2022."
     publishedDateTime: 2022-05-20T11:38:00Z

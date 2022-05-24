@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Oxbotica completes first driverless car test on open roads"
-excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
-publishedDateTime: 2022-05-19T23:17:00Z
-originalUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
-webUrl: "https://www.shropshirestar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
+excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. Investment Minister Lord Grimstone ..."
+publishedDateTime: 2022-05-19T23:41:00Z
+originalUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
+webUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
 type: article
 
 provider:
-  name: Shropshire Star
-  domain: shropshirestar.com
+  name: AOL.co.uk
+  domain: aol.co.uk
 
 topics:
   - AI in Autos
   - AI
 
-secured: "MCrGoxGWjqiXHK2xxUXpp+wHoC/viMAMG2uJ676p6oRJyMIKL/utE2GRpwOIvJW934phBTsT1XQvjyRJ2FHm9XK2CBebtSo3lO0KW/fQ129Aq083PIiPg/y1KdMoLNZHqKr2RmUUW5huiO9qO5A7uZO5xzgQuspKyX9j5ojs1SN1T2L+BXjONmxiq52NKPZT0sSAgXjPmKbToItHRtHYAW5RRJXnpZQ02FeuQcdf+coympDAcQCdMf8fQJu1j6NXXG/6qGI5bXlxkiLI6zfT25gE2Q1kgTo5zrz+lPt08X3GNXHSWK5VcfeuLUZdeTL8jCIV2yqYf7pQkTAYIXCeLiBjCE/bDPp+Ng6WBi60FbM=;RccugVkgIEO+uRjvHO9fJw=="
+secured: "qYF4nBxXOHYAgLE/7OfPtU6p/ypYKsMLCc64jdVgCef8eeSY9SIYCtgwAK86hbuIFmcOQZ9AyiVQ5Ckq5H33C3FtYq85f0HiSkO4/GD1wmVHeahGF94oRVVXOy6GjMTfiWM857T2YKghq8dPKqn2K4+M16JLA9sRY2usvPjDAwVdsviKvgH+sbdEU3bkdDhoHzsBWHH7kiVejxUy1r1HbFZUS72Pg23w7N1sNoC/XiDz1hlUUYPKCyVMwRiuFBksUM/qdgPFgB7+kLGFHJJgpPkWKTwayC1uzXKdMnMc7ERKXZyAYoge/1EbdhaGteBnRvQnaUXiB0C7napm/dTBzTUpP1MjNs8BT8hSMKGmSk8=;xyi6NZ00A+LH4lXjTZHR4Q=="
 ---
 

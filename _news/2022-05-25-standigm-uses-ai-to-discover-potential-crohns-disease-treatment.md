@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-24T17:53:00Z
 originalUrl: "https://www.outsourcing-pharma.com/Article/2022/05/24/Standigm-uses-AI-to-discover-potential-Crohn-s-disease-treatment"
 webUrl: "https://www.outsourcing-pharma.com/Article/2022/05/24/Standigm-uses-AI-to-discover-potential-Crohn-s-disease-treatment"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 

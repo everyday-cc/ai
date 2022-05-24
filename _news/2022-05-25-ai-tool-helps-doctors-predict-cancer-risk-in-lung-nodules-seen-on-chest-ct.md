@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220524/AI-tool-helps-doctors
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220524/AI-tool-helps-doctors-predict-cancer-risk-in-lung-nodules-seen-on-chest-CT.aspx"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Researchers use AI to predict cancer risk of lung nodules"
+    excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study published in the journal Radiology."
+    publishedDateTime: 2022-05-24T18:29:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-ai-cancer-lung-nodules.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 17
 
 secured: "oj6SXLIiFWdxZpYUawnOwxpaFbWyv1f4YcjrADL+T1edHRoVQ5nBpshUnqM82H5ZD/wUos7yttO1SSFUXK9wRSKgVllxg3LDj2zx5eVcx0dKe1qzwMcAUfdKPaLFGBsAbz6SRqlXcreiPFnpf4ZhsMRJTnynirwgWsfYFP4ZCunfSmIckCiQfrrchNZjr9HdeeUuy18G/xMuIEZe1OtMSWpO3gbOGAvFAq4pT5PxPeiUg71v6GtAlGonG9Ar0lC/+CzZkYuudBK11rRiifwl9JVBJdO+tZFq2tfq9m6S3V0xPeB++Z+X2p8bTdKGeHe2O1ZQ5SMWwMHl7n9gjd4X7HmL3mCWnXTPUA74Fdk6l6anEvzj7vyKRXzWppI0NrBjV0RL+9PcTPN4ltK+iW9IHTVR8tYoxbMULX4MisOcoLfeN4udgYr87ilGYoWHd3MvEUmZZwYuDYjut0qxnK94XKTAuuty756q7NoKzN7LXX+QMcwnTuZaMfctmq6h2AjrUeYkLDhlKR1/+vmhvONzUw==;kItm/9pKseH5j/vPHPY8Jw=="
 ---

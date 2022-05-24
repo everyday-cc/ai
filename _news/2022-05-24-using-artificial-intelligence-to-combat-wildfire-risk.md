@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/rennyvandewege/2022/05/24/using-artific
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rennyvandewege/2022/05/24/using-artificial-intelligence-to-combat-wildfire-risk/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging AI to Improve Patient Outcomes in Healthcare"
-    excerpt: "The importance of providing patients with a fast and accurate diagnosis cannot be overstated – it can be the difference between life and death. Unfortunately,"
-    publishedDateTime: 2022-05-24T14:01:00Z
-    webUrl: "https://marketscale.com/industries/healthcare/leveraging-ai-to-improve-patient-outcomes-in-healthcare/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 54
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2022/05/Intel_TwoPeople_PodcastGraphic-2.png"
-        width: 2489
-        height: 1400
-        isCached: true
   - title: "Two NHS surgeons are using Azure AI to spot patients facing increased risks during surgery"
     excerpt: "An NHS trust is exploring how AI could help reduce waiting times, support recommendations from healthcare teams and help patients."
     publishedDateTime: 2022-05-24T15:31:00Z
@@ -52,27 +38,36 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 44
+    quality: 94
     images:
       - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/05/Microsoft_9716b-1-scaled.jpg"
         width: 2560
         height: 1439
         isCached: true
-  - title: "Is artificial intelligence the next tool to fight wildfires?"
-    excerpt: "With wildfires becoming bigger and more destructive as the western part of the United States dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have a new tool to add to their arsenal of prescribed burns,"
-    publishedDateTime: 2022-05-22T23:07:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/23/is-artificial-intelligence-the-next-tool-to-fight-wildfires"
+  - title: "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence"
+    excerpt: "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma."
+    publishedDateTime: 2022-05-24T15:28:00Z
+    webUrl: "https://www.localsyr.com/business/press-releases/cision/20220524LA66847/invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 21
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/22/1593147.jpg"
-        width: 1240
-        height: 826
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
+        width: 814
+        height: 330
         isCached: true
+  - title: "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence"
+    excerpt: "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma."
+    publishedDateTime: 2022-05-24T18:28:00Z
+    webUrl: "https://fox5sandiego.com/business/press-releases/cision/20220524LA66847/invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 1
 
-secured: "F7IA+6WVMax7/mNZplEidUTBERT/TrJ1qpwOA06FphgJKCBaI4BVBgmj19ZpAozDv+9PU03zl8Xxin9L/sP9oZf3LmzBG6XeJrrFk4rEBWvi0yaBNI1pxnuKyTRzjvAH25Lcw6w93JOmQOdoHReKrJTxLFsGIxo2mC7ARX3DA49RIseDM91S60MIgiT21SV4VhKftZaLHQtmPf38YQenBBFXotF+atVbX+n0sAA240rSDjOXhX6WLlTAGxrusnWyyUurebH+IZgp37KQiLjqPO7ihZF+PZMNHuZ5Rx9BTirHlMx+zb0eal6It9iDIlEHsmnr0ZR4n4iYmz8LaH21e3CWGC7yOPi4/BMiGgw2644=;sZBeT4Fb4vxeXGcXxivOOA=="
+secured: "N+IpoZpAlQAduFwBVp+v07AIvfLIAuc6+FnyWOwc5qWoY+ffvHGL4rLmk8s63i85Y9aepC9DmPntzuiVXT8+uuv+rtYSRrubptN3k+pm92mjrFfcRPDjzypvh/IuGf1qXi3muyuQ6b94d02wd080IJqoL3uYMjgf9VUIO+G2w/BDuNerd0lutasfPByJb8luE5FRsboLXncHAYnFsqywDHh87XAWgWW93pPvlNzJ964LTO3nLmSDNL+zypJ2ZLVdCuyHEsbsr7SeQIa7alafa07s0SornnI13+Q/SXyvsmTq9PU6eTqWFWOC4gsgWVyRAL6pA9j357Cxt4IHPSzBE6/WVLoP1uBrBRIHMW0tC5M4KGOHx77NYD4GoStOITsDtAsePYM3dOsV1zcvEjMRIrEaI3EpLOfZmbGL5zKCVcRvZFq0mfIuBQCFrwv3T4/evUV4yOYlRqZavzzUzjr84vFGBociGCt7CRqX3LM2R+yaH9xNvh/BuEP2y9+v3l7ejfYgJFP6DDbSIFNcINJ/iw==;rmCBcZcXOzRpEVXRzeWpzA=="
 ---
 
