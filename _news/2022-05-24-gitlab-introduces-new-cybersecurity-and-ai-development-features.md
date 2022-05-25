@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/05/23/gitlab-introduces-new-cybersec
 webUrl: "https://siliconangle.com/2022/05/23/gitlab-introduces-new-cybersecurity-ai-development-features/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI and autonomous response are crucial for cybersecurity (VB On-Demand)"
-    excerpt: "Learn how two organizations use a continuous AI feedback loop to identify vulnerabilities and harden defenses."
-    publishedDateTime: 2022-05-20T16:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/"
-    ampWebUrl: "https://venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1336604983.jpg?w=1200&strip=all"
-        width: 1200
-        height: 621
-        isCached: true
   - title: "Enhancing cybersecurity learning of Filipinos"
     excerpt: "DURING the pandemic, cyberattacks on industries providing connectivity, essential services and entertainment increased by 341 percent, adversely impacting populations forced"
     publishedDateTime: 2022-05-21T12:23:00Z

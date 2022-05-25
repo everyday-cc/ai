@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-25-stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities.md",
+      "title": "STX Next acquires Ermlab to enhance AI and machine learning capabilities",
+      "excerpt": "STX Next has acquired Ermlab, a specialist in AI and machine learning software development. The deal will enhance STX Next’s existing AI and ML capabilities, expand the companys",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities/",
+      "originalUrl": "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcr-online.biz/wp-content/uploads/business-partnership-mainjpg.jpg",
+          "width": 800,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCR",
+        "domain": "pcr-online.biz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-public-confidence-must-for-using-facial-recognition-with-ai-ktr.md",
       "title": "Public confidence must for using facial recognition with AI: KTR",
       "excerpt": "Gaining people's confidence is a big challenge in using technologies like facial recognition with Artificial Intelligence, said Telangana's Industry and Information Technology Minister K.T. Rama Rao.",
@@ -534,7 +577,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1102,57 +1145,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-a-novelist-and-an-ai-cowrote-your-next-cringe-read.md",
-      "title": "A Novelist and an AI Cowrote Your Next Cringe-Read",
-      "excerpt": "It was something of an accident. In 2020, I was invited by a friend to test a user interface she was developing for an AI program called GPT-3. I began experimenting and wrote my first book, Pharmako-AI, over a period of two weeks in the summer of 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/",
-      "originalUrl": "https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/628c23fd9246e3542c4985f8/master/pass/Novelist-AI-Cowrote-Cringe-Novel-Culture-1306551338.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/amp",
-      "publishedDateTime": "2022-05-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

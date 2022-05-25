@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.cio.com/wp-content/uploads/2022/05/skills_programmer_data-scientist_graduate_school_college_certification_mortar-board_valedictorian_cole-keister-via-unsplash-100759473-orig.jpg?quality=50&strip=all&w=1024"

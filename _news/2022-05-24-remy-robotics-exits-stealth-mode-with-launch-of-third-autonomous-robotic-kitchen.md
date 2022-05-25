@@ -59,6 +59,22 @@ related:
         width: 400
         height: 210
         isCached: true
+  - title: "Zoho Corp Backs Robotics Startup Genrobotics To Help Alleviate Manual Scavenging"
+    excerpt: "Robotics startup Genrobotics has raised INR 20 Cr from Chennai and San Francisco-based SaaS giant Zoho Corp. The funds will be used to expand Genrobotics’ research and developme"
+    publishedDateTime: 2022-05-25T07:16:00Z
+    webUrl: "https://inc42.com/buzz/zoho-corp-backs-robotics-startup-genrobotics-to-help-alleviate-manual-scavenging/"
+    ampWebUrl: "https://inc42.com/buzz/zoho-corp-backs-robotics-startup-genrobotics-to-help-alleviate-manual-scavenging/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/zoho-corp-backs-robotics-startup-genrobotics-to-help-alleviate-manual-scavenging/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 69
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/05/Genrobotics-social.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Walmart expands orders for warehouse robotics from Symbotic"
     excerpt: "Retailer increases adoption of fulfillment technology from 25 warehouses to all 42 regional DCs in its U.S. network."
     publishedDateTime: 2022-05-23T16:51:00Z

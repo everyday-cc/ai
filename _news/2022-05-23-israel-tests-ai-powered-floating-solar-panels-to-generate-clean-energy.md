@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Israeli Firm Hopes AI Can Curb Drownings"
-    excerpt: "An Israeli city is testing whether an artificial intelligence programme that detects drowning threats can help save lives off its beaches. The programme, developed by a company called SightBit, uses information collected from surveillance cameras to determine who is in the water -- an adult or child,"
-    publishedDateTime: 2022-05-20T15:19:00Z
-    webUrl: "https://www.ibtimes.com/israeli-firm-hopes-ai-can-curb-drownings-3515367"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/20/lifeguards-in-the-city-of-ashdod-on-israels.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Israeli AI Startup BeyondMinds Shuts Down, 65 Employees Let Go"
     excerpt: "About six months ago, when the markets for IA were starting to cool down, the company's board of directors urged CEO Rotem Alaluf to sell the company."
     publishedDateTime: 2022-05-23T11:33:00Z

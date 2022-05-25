@@ -55,6 +55,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tesla to develop self-driving cars without need for human drivers by 2023: Elon Musk"
+    excerpt: "Tesla chief Elon Musk has now claimed that the company will have self-driving cars without any need for human drivers by the next year, according to reports."
+    publishedDateTime: 2022-05-25T09:18:00Z
+    webUrl: "https://www.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
+    ampWebUrl: "https://amp.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 52
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1696550/tesla.jpg"
+        width: 820
+        height: 547
+        isCached: true
 
 secured: "LFcCzNGvT2QFRRtDabBpVEE2CNY0hmjsRvPfanLEKeZeazoFkUS79G4KtSg0sbuZyCBmTxLbpx3dUanyTFOHjnH8MXYPa4OH4WU27UHIH97tduzalKHbS3SSyMWbPPMOKThJd2bs/ItoqSVJoPCVk2N1+MxyFUo2sZt8GFp046ifF3DgzyVcbU042JQHsx6hPkvYKc0+5NnlOeibufC6SYWz7oqVois2pBOdZP2lVB6J7HWbI/66lkcu1fkKS8LPjnD44JmEDEQL4d6OalG6BfN5ma5YugHTU2CZUK89JCx6FY0ufMyQAdpqR9wiPYpErNtJ2O2fi0VXWFbnLgEd0BnGBOB0sEyMYCGN81p88SYwOoZsiJihIIDF88TSKzn0h78XoDI52abpMlynLDsoal6VPbwn1zhZpLfcxgEl9lLxwJZPTyEetplIFBhuEm+5sDEQ9D5PMeOpV+NioBNsrL3YET/nTC5z2nGWRuw41sQmy4Tvcnc9hyWCl1v6wA1tLpYvRmSrWK7muEWmclOyWQ==;rDgEOx7U+IDzsS+ChUA5HA=="
 ---

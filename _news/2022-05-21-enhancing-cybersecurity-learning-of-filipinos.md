@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Why AI and autonomous response are crucial for cybersecurity (VB On-Demand)"
-    excerpt: "Learn how two organizations use a continuous AI feedback loop to identify vulnerabilities and harden defenses."
-    publishedDateTime: 2022-05-20T16:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/"
-    ampWebUrl: "https://venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1336604983.jpg?w=1200&strip=all"
-        width: 1200
-        height: 621
-        isCached: true
   - title: "GitLab introduces new cybersecurity and AI development features"
     excerpt: "GitLab Inc. today introduced a new release of its software development platform with features that will help companies improve their cybersecurity, build machine learning applications and more easily troubleshoot errors."
     publishedDateTime: 2022-05-23T20:53:00Z

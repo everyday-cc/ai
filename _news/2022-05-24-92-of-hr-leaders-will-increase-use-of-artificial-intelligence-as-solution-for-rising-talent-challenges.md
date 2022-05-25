@@ -2,17 +2,17 @@
 category: news
 title: "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges"
 excerpt: "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities. SANTA CLARA, Ca"
-publishedDateTime: 2022-05-24T13:00:00Z
-originalUrl: "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
-webUrl: "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
+publishedDateTime: 2022-05-24T14:00:00Z
+originalUrl: "https://kfor.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
+webUrl: "https://kfor.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
 type: article
 quality: 1
 heat: -1
 published: false
 
 provider:
-  name: LocalSYR
-  domain: localsyr.com
+  name: Oklahoma's News
+  domain: kfor.com
 
 topics:
   - AI
@@ -33,6 +33,6 @@ related:
         height: 304
         isCached: true
 
-secured: "2umkbUJEHfIauC5PyI8NYgKmrcd8gERqzo1Gb4kTAjpo+PA6qEuDR1oMfBdqXDyjoJqCONO/FoNjO3U4d37l/1Xh5X/3y/jZlYQGosWc9PZOfEUcrLc6SwotS6CgQ5SwHkFIMFHgC+wjI8CiC7LlHeZnKK0obr8tG2aqHmyhDfDHpwvmxW1EODCow6ZnlAldGdH4XxWzZ2MQ+9WH09z3FYoUx8k4SFhRqmlGOPnMg0nlkMJzvxRd5glDHVXT/ACx10hJ7MQTTcXJaBN17k4CVlgKu7FzJgYZ2S8GIwzcjGKQl2lmkRvBH13/SRI+ZYQdQj5AuirdSnAYykcBmBCR4jtPrWBs+urrvlycDgHjFx0=;O0luAoeBQWV/vjV3sQ3Unw=="
+secured: "Y0jNfVyC4mG+eHDXld6xNMVTdVm/8fFtIroheiDKEyiijwQ587ojsm1Afn3ThExsadKwbIVkQI4LOpgT22lb8YXRv6CuQabEUpWWHx5/70KgCDldH+DbjGMZS13GT38pDbm8u/+uNUmUmTJ4arL0nkb+06QLR7wKtuuWb7hX5ehM5lJoo86VcOfshWuB6A3fhTKyZ3E1BYp9wy/fBlRUNScWTo1ar4Wp6hcJyBiKL3hO+MhvKhnWu35BwfvSbccSUz0Z8M7gcqz7kfa/FPJsbp87TpxtluBjDC/VxhZm13Qk91uzfq4+rdn6NDE36b4qrCkeZXT7X+Bt8vn9HVUG84EegCLlCX0qwzCyo1wksyw=;cOxYjJ1FZzd/w9FcYAhOzg=="
 ---
 

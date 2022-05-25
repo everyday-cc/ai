@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-25T00:45:00Z
 originalUrl: "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news"
 webUrl: "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png"
@@ -24,6 +25,6 @@ images:
     height: 942
     isCached: true
 
-secured: "TT2f+nhPD4AOFtxxL2ey8PyTvATvZ7XNThcCUtdpAVg/Xw+8nAZyvpsg9YrUHOJdTog5WGU9WOZfvutahLFS0U4NwmZ16rOFYCICYoyg0f4+FushZhhaiqIlBSqiOxVSUe9KCOe0BtWvOy+Y89HNnqrtvrgIk+kAXc2odMg/erEECDEyPFwe5nEbbB+tVzJ30uccNfFhre+T7xRkUNe3Zki9dvhfWunlGleJC59tUAIZLkG2LxcUjGusHFNHSMSyuVRHozIJfGxbsYrhRP1CHabjIBzZ1xC5gYs1S2psi8QA/H+9yj0cWrtDY7yPI3qotkq37jPaTI1ZQHk31UDUZkS2nSzlH3T1+OgC3WP4n54=;eTHkgcvu+N4WWKLwuLKgeg=="
+secured: "pA7L26mPhM/c/NtHLgzohN0NgWy9GJ63ZjNSId6jZ5fz//iE6URQbDniVlZCT9sGkDVBmMKW3dcYqbvXMniTAtxd1P+qbC6lLngxdQXuMoSksi5RExs/urhAemSPdleEtAlGzlmsOug4IJIihuaLLg0vQ+6gRfmI4j0XGuOT/ygtSvMH1azfnYrDMUeoLk4uQw1LflRVD/6MdXGI1R0xPV6N7D2HDuEF9N6mxN4NoXJm6tqkp5/00cl50Y+QHjxAx3Od4N54K2/2l8SzSAAC6pZxwEAt2LWG9g7pXm9hK8ib3lLdgXdGvDwqyvg+Ev0DfGd2Rj075T9BmzA1SJpQ/3QUB972F0yjUQS+1p52ePUbT0k5DRMxu9XgwW4CDXaNhQEw0e2jCxNoOCIRZjRew8/7d9f0EDGK4Xc/tQ+UskBNNKCLZlbvrr4V5doswUwMX/nUpLhpBI73nQ5AjYfZwAhGQRX/IRWtbrCxta0L0nabfcLMEPRl+k0ONh5JnRu47MU9mtiYwlNCqPS4nH8ZEQ==;edHZdXeC6/P67QQqWdWP4Q=="
 ---
 

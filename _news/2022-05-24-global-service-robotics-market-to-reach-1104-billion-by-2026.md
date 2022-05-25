@@ -44,6 +44,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Healthcare Natural Language Processing Market valuation reaching US$ 14.6 Billion by the end of 2032"
+    excerpt: "The healthcare natural language processing market is expected to rise at a CAGR of 16.7%, with the market valuation reaching US$ 14.6 Bn by the end of 2032. One of the key drivers and investors in the natural language processing business is large corporations."
+    publishedDateTime: 2022-05-25T09:47:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/25/healthcare-natural-language-processing-market-valuation-reaching-us-14-6-billion-by-the-end-of-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 21
 
 secured: "1cXxm4/4BjA7cmJwwp9cmT49udlT8c0Uy8pwNZywRdyryOmHH6YpcaMmAOz4Di5/2AdVAaokvLre3YBIyu1E/j8ij9k2inwQFbqCLBAYiZnxcGPf7+yNc4G5OhacU73LhDutES8P6flPC6e8/n34yE/agehoQLKSjyvoy8PbvOLz2I0eoIDwolYwNG0+aKlrB7lzHjatsoG05RpsNfyShrc4rey20RbEklAO1scQGSCekaaHIBJmMsTC0bnIuTxZq/CkCn5uukbAYNqbY/GmgRMWummsqWDfaYloXd+YzBwyzxfonc8Vi1NeA/9N07yXa9fe/zPN3nlKxA0BqO5TwEwpvqDcCkdqv6KvQYaq4e4=;2w8LTmud4Ge79GFtFaUq2w=="
 ---

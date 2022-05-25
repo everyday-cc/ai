@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Davos updates | Soros: New tech, AI help repressive regimes"
-excerpt: "Billionaire investor turned philanthropist George Soros has blamed new technology for helping repressive regimes like Russia and China exert greater control. Speaking at a dinner for journalists Tuesday on the sidelines of the World Economic Forum’s annual gathering in Davos,"
-publishedDateTime: 2022-05-25T00:05:00Z
-originalUrl: "https://www.kob.com/news/business-money/davos-updates-soros-new-tech-ai-help-repressive-regimes/"
-webUrl: "https://www.kob.com/news/business-money/davos-updates-soros-new-tech-ai-help-repressive-regimes/"
+excerpt: "Billionaire investor turned philanthropist George Soros has blamed new technology for helping repressive regimes like Russia and China exert greater control."
+publishedDateTime: 2022-05-25T07:57:00Z
+originalUrl: "https://www.seattletimes.com/business/davos-updates-soros-new-tech-ai-help-repressive-regimes/"
+webUrl: "https://www.seattletimes.com/business/davos-updates-soros-new-tech-ai-help-repressive-regimes/"
+ampWebUrl: "https://www.seattletimes.com/business/davos-updates-soros-new-tech-ai-help-repressive-regimes/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/davos-updates-soros-new-tech-ai-help-repressive-regimes/?amp=1"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: KOB 4
-  domain: kob.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
-images:
-  - url: "https://www.kob.com/wp-content/uploads/AP/Switzerland_Davos_Forum_28412.jpg"
-    width: 512
-    height: 341
-    isCached: true
-
-secured: "nQRZXUpbc4w+uwRn7FaxA3Sx+NVNoi4mjok4I8eBdhGXBxFzkeCz3I3jBJh3Fh2ONVsT20zs5jAQ2gC5CPNmsIEtJ2PkZjXeLo4KDuMJ5JyWERGXQq6O0cMzCAMZLFWHDuTjfuIAHI5eSpiCMtroHIG7ZqibOhIAT/ikGmMbweck2zvZrhV5f1RJpKOSC79u7yW6QhpUmh7B81m2X29l6M2/5z0XXqDD13qruOHbJIJntvYWbFsaqanE35Z9Mhgmp+WJadG7UxLNpQAu5a2vVD/xQriHmYMWK+Hv9KGoJv/Bd1P1pxk7lZgZ0RcOXsriRVQv1wNayV7ZjTHBQJitLkHcLkoYhHAv26fKb2zdzBQBhZFbkdOrNNJIbQg6eEUQ/BqZYZzQvb8+tj28VVHlEX7gmZ3XmnhYdqwJdPSOs0apeGKZUwNWz5Rb/aYONgHln2CWv1zncKF1kpFSUrYQAe9i1sxcj1bqYN6jgnH+WIaTnMKd7ILf810x7CF6vpdEHXitjV6DbN3grVRh8tbR3g==;orn0JId5ITIy7LpKe6Kf7Q=="
+secured: "sv+Pf36Lz1YZxmunXvRKvkMc87LIRyQWPvG0leGmACHG+j/JB5kRIByqXMhPRFwi7fhtHj2eS0J2SCTU0ZQOk5mPJuK21nqFffqEyYK5dAKtNcS4yzMIYwZvDwElcO7lG8KBcwJIvzR2jc6153GqB1UwgPHg4iGohSqL6ukECbYltvMCbYbHN4nyGOXgHtbnfXGP9LgRm+qqzuC16IK6wsQ2IWWD0HvEzfqCKwEgQMNBgW7aEZ5aSoUpLMMTMqX0m9DIp+TIm+0jO+kKMHDPlER+S3FwY3UzlQipSz5MkrMG4GH1H03ZxboNBZ3S/0/pSyseuzGuFoIhUtteVCDFTXn5ddqK850rgJcNl0vkzfbWUqnoWD0GKBA+yfmfHrfo70PShjUiqLvY1tm9Rtcs27teLvd6IJTVQ8RIIYWWYzfZd/lPgX4XlUH3gK5s2Lzu/gt0px7coEOpjKURSchqSW9mPtCesvakyK8jHE6ObIrHlG9/X386wsJ21A1f4m15tqRd3uOt5HiH40fylMroHw==;lL4MCcL191t0RFWVlybhjA=="
 ---
 

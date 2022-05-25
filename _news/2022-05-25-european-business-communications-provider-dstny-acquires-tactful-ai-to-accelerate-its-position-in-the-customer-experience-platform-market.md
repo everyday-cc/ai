@@ -1,26 +1,26 @@
 ---
 category: news
 title: "European business communications provider Dstny acquires Tactful AI to accelerate its position in the Customer Experience Platform market."
-excerpt: "The acquisition takes Dstny to the next level in customer engagement, enabling companies to employ Artificial Intelligence and data in their customer experience operations with minimum effort. \"With Tactful onboard,"
-publishedDateTime: 2022-05-25T08:00:00Z
-originalUrl: "https://wreg.com/business/press-releases/cision/20220525LN64844/european-business-communications-provider-dstny-acquires-tactful-ai-to-accelerate-its-position-in-the-customer-experience-platform-market/"
-webUrl: "https://wreg.com/business/press-releases/cision/20220525LN64844/european-business-communications-provider-dstny-acquires-tactful-ai-to-accelerate-its-position-in-the-customer-experience-platform-market/"
+excerpt: "The acquisition takes Dstny to the next level in customer engagement, enabling companies to employ Artificial Intelligence and data in their customer experience operations with minimum effort. BRUSSELS,"
+publishedDateTime: 2022-05-25T07:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-8e3d1465c2effdaaead43788b95c904e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-8e3d1465c2effdaaead43788b95c904e"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: WREG
-  domain: wreg.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
-    width: 800
-    height: 268
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
         height: 450
         isCached: true
 
-secured: "T+WdNp1h3r4Za6NPmy/TcS/cxmKroOh0bcb0TFh2gnFF4/VWU1ZEztKLi6pqRlvo/vleQaRDMyHZjX8sc6ANhIa4coozK5CX7oiszq9HlwbN9cp56HvtKelO3mIPFizehEn27RuekdPKs1QNP82In7OVZwIYbmQWzJ+nUN7hhaPYas4HFBz/HorV9CJJiT3iuXPpxjyhcUh0BxJ79rF9435CSOBjZS0lDFqOQBqkbDWK2EzhG319wmqRV3VxQDFSwukPyi/ig94Etdcl1IOI/1CyI1dOGdQGspgooTvinkpSJsl4+0uRjI8kj8sDiPLPJ0peI3jQsrRM6PMN0AxC/ZYYI+xNCsO38v5uIxpzhv4=;h3Go5nprfsZ6u85+RLeiQA=="
+secured: "c3ic0C31OySbU/nq+DrT8GiN0BZL1q/JiJOxjMl0F8hXVqboIP29niKg0ZC3zENCqYrxlgvLHmCYxATlIg55Oc3PbcJjlxjICrWtFmoru0pnNdFO85cc6JNY3YP5mwJeZvDBcUnxphnCEqLBhPJq0KNHo72dur6CGLbmoLLJA/nTBWfds7KOpG8bluK150UEcZ2QVvy1++YgnM2jBrDLJrN1X7Z2otsBi7fb9Y6E3+K2bnWNFNvKjIDyKdnlieR3nchNP59aLigkxkwu33MsJubHabySQJk906wttQ8MrvjP/CTcJhdi61EuAGUso4uSTvl0OAOSfqwrwCQ+a2SrVTKmWrjVgRLjK93GpMMuII8=;w09443dOZR76ggBDp/zj7A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-fem
 webUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/"
 type: article
 quality: 84
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://gumlet.assettype.com/nationalherald%2F2022-05%2F68081abd-40dd-4850-b1e8-55ba309408d6%2FZoho_invests_in_Indian_startup_Genrobotics_that_makes_robotic_scavengers.jpg?rect=0%2C16%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 400
         height: 210
+        isCached: true
+  - title: "Zoho Corp Backs Robotics Startup Genrobotics To Help Alleviate Manual Scavenging"
+    excerpt: "Robotics startup Genrobotics has raised INR 20 Cr from Chennai and San Francisco-based SaaS giant Zoho Corp. The funds will be used to expand Genrobotics’ research and developme"
+    publishedDateTime: 2022-05-25T07:16:00Z
+    webUrl: "https://inc42.com/buzz/zoho-corp-backs-robotics-startup-genrobotics-to-help-alleviate-manual-scavenging/"
+    ampWebUrl: "https://inc42.com/buzz/zoho-corp-backs-robotics-startup-genrobotics-to-help-alleviate-manual-scavenging/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/zoho-corp-backs-robotics-startup-genrobotics-to-help-alleviate-manual-scavenging/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 69
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/05/Genrobotics-social.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Walmart expands orders for warehouse robotics from Symbotic"
     excerpt: "Retailer increases adoption of fulfillment technology from 25 warehouses to all 42 regional DCs in its U.S. network."

@@ -40,22 +40,13 @@ related:
         height: 1366
         isCached: true
   - title: "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners"
-    excerpt: "The advantages of biometric authentication over speech recognition and the promising development of AI-based voice recognition technology that reduces the risk of replication or hacking provide top-notch biometric security Impact of COVID-19 Pandemic on ..."
-    publishedDateTime: 2022-05-23T12:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-biometrics-market-size-worth-4-82bn-globally-by-2028-at-20-6-cagr-/article_92bae39d-cd5d-5a57-b08d-35a00e3eb4c1.html"
+    excerpt: "The Insight Partners published latest research study on \"Voice Biometrics Market Forecast to 2028 – COVID-19 Impact and Global Analysis  b"
+    publishedDateTime: 2022-05-23T14:26:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-  - title: "Dermalog biometrics to power driver monitoring system through auto group partnership"
-    excerpt: "The new Rheinmetall Dermalog SensorTec GmbH will develop a system utilizing biometric technology to detect driver distraction and deliver a warning."
-    publishedDateTime: 2022-05-24T18:48:00Z
-    webUrl: "https://www.biometricupdate.com/202205/dermalog-biometrics-to-power-driver-monitoring-system-through-auto-group-partnership"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "Nq0gu/Aj825HQwCNUIWepzNV1qtq5TZk2PIchrann75b/nhrt/ytmGT+2L0h2zrH7T9tbXXy2CYbr2yHbYomQLpmBLYMa6HkfSdFl1S1lv8Qhe8+XWYW2FXJiD9OSrdEHZt/A+zSDsbEJtM/Yx6BHoCNewCRs/mcNs/RxVFnn42cV+X/Vh8yK5IuV9XA0e+k+gDE1fbpWz4YE6dLxaO4FtWiw2Ve91EP3ySSsWR0f8TKDvPZSHSWReqPgnsfAyjInFfdoy0lMgety+X4TOdYwajzXVyZ9WH1qGoFODsfpHJ9B6HTZW6Bgj3o8y7s8IfWH4wBdRoIFYmGqctcku2mgtPXATb8pVYuwIv8Cp010hWXN4g6TPnb+icsPpETRu7ioiZbJLSNm1y0zkbCqvkCEJLOOfKPN+/gsZGgGz5yoDIp9pX1DQvAocLeyMdB5G2jSVY7r64RnZ3JkT6K6wFdF5Gc6a/zh5YPAtwSYRgymbtmYix+zX/UZ564QvatFVFaYj7CMrTFFdBJp84qNAVN5w==;6Jzg/UZ+MAkACErbVt2QNw=="

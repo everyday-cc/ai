@@ -46,6 +46,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
+  - title: "Healthcare Natural Language Processing Market valuation reaching US$ 14.6 Billion by the end of 2032"
+    excerpt: "The healthcare natural language processing market is expected to rise at a CAGR of 16.7%, with the market valuation reaching US$ 14.6 Bn by the end of 2032. One of the key drivers and investors in the natural language processing business is large corporations."
+    publishedDateTime: 2022-05-25T09:47:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/25/healthcare-natural-language-processing-market-valuation-reaching-us-14-6-billion-by-the-end-of-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 21
 
 secured: "YeOTnsIfiMYslO1RzRqst7vksyERxZ/CQ0gOo1ZqPlTCkLV1cBfSD5ZkbaUQcUJ9XUdusmVloewMQ5UN6V0CYo/jpK4sLee3TonoZwnn1PsWl90JiogKQyd2BrsVD78wtjQdXIv5/xNz3Y0WSpbL2EUZmlod+U/RCtB5hFVvFZfM9cl5h1z1/tIbspoD51vQLuT7HR4ZXGwwZ/YZJd6YMO0BTgN8nYVezNJjpNIKryD4wCuJRFDObM4JaedWsswQRXDGhib07LmchlTqGHG2PzKC7DJt+htb6VpCPSwYotN5ylCAo/jV8Eq0GJ+8OfweLzxLOrg6nM2HTtWy6ASlqyxYGdSKz4pGgnL4rB1xVvY=;B3vjnQxINTHNN/YCyq510g=="
 ---

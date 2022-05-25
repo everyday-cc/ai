@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 707
         isCached: true
-  - title: "GIGABYTE Releases Arm-Based Server for NVIDIA Baseboard Accelerators for HPC, AI"
-    excerpt: "GIGABYTE Technology, (TWSE: 2376), maker of high-performance servers and workstations, today announced a scalable server, G492-PD0, that supports dual Ampere Altra Max or Altra processors with NVIDIA HGX A100 Tensor Core GPUs for cloud infrastructure,"
-    publishedDateTime: 2022-05-20T17:01:00Z
-    webUrl: "https://insidehpc.com/2022/05/gigabyte-releases-arm-based-server-for-nvidia-baseboard-accelerators-for-hpc-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 14
 
 secured: "uWQT/XlQlQRue/OMbS0c8tLGMKSERGyLwEFirjqpoSfM/J4KQjCnbC95fcaNETzx1aZARs8rx95BV2C/8dr8BjGK9gt/LNRzOizMTWWwFktopSJT0OXLY+g+cf8Zo7dSKlOih4mPTzYI0OQJ0mRMDTiZrUQVTPanEKwRNl1pW1T4BRit3Mz+SPWHHyUsW/v3EBvtG/m+Fvb9qD+SIfeLsTMLw+kLWnBvh2sN8GL1y9NnOLUTFBfCNPlpohPhDLmIDdBenps8aacRGbw9wmqKalD4HSAQO4IL2G060EsV/kzLVDEid2fQ6T+TJK9cNQhZxLoq3eGZqTuf2Cspd0lpTTJTgkmHdObgEF9rFB/wgJU=;mWT6m+SAvuCSgP1todg6UQ=="
 ---

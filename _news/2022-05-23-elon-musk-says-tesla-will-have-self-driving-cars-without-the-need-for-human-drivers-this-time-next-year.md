@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-wit
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://tampa.cbslocal.com/wp-content/uploads/sites/15909843/2022/05/hypatia-h_95e1fbe11735d97d17c67c941570c5c6-h_296a49084dcbd41e3bcf9362b22c1e27.jpg?w=1024&h=576&crop=1"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Tesla to develop self-driving cars without need for human drivers by 2023: Elon Musk"
+    excerpt: "Tesla chief Elon Musk has now claimed that the company will have self-driving cars without any need for human drivers by the next year, according to reports."
+    publishedDateTime: 2022-05-25T09:18:00Z
+    webUrl: "https://www.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
+    ampWebUrl: "https://amp.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 52
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1696550/tesla.jpg"
+        width: 820
+        height: 547
         isCached: true
   - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
     excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"

@@ -1,20 +1,25 @@
 ---
 category: news
 title: "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel"
-excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
-publishedDateTime: 2022-05-18T14:48:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+excerpt: "\"Trends and Forecast for the Global Artificial Intelligence Market\"Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by"
+publishedDateTime: 2022-05-18T14:59:00Z
+originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "DWOd+pIwmhyzEJwHOXPMh+xNwLnnQl2VAXi5ZYWV8KPlvExr8lIhV1c7dJ+AAuDDoUknsiUW3txI5FMNL7KI8dR8/1loIXOtocRvhtxbnTi/DS9c9HsYgQFWe1nPzgebLmergDtV9DrnXWwopMi9/fXawPLjvgNo8Dt2W8wMT59W3SGB8rrdVGpuPoLd8IVAav2n1b3e4JDmYUGo4sHZi1fcOWD+IOevDNTGNB+K9RRO21dc95gJzjnF+Zm7DDwi823f21d5YcZqWPG0sIxGyZyH0iSNFQ82ibOsyAacK/Ev/tjqLvp15QlC1C3rPYnE0PyUw7vZGd9jKy9sMEinubuXVJ7x6i6Cu+r+ooU1XWToWIrPFPlIHiV/LBfQLgToJ5d5m1BTUd5Qx0YE38rqWLkOu9FBlbxoJz8E4DuAuwTI9RK7twUe14sLGEm2F+ShA4livNH2ygcVDqje84GTjAhKX5hTW4pcYSc/2qpAIP+3EOZEf9nwYQ5rP0cD9EStvBpY5mtLuy8eQQkQCM2Q+A==;fKH7GQE2pSyxBCGjFz6TuQ=="
+images:
+  - url: "https://www.abnewswire.com/uploads/1652849737.png"
+    width: 474
+    height: 300
+    isCached: true
+
+secured: "LfO5q6+MCjjebnvyX5OxrqBWXz7MpFjaZlx+3HU27L7FFJM+7nL6cwThOCwVOdAIo5mFQilfxilG1MxFZSyZDvm94tTy4ndk3UKIUiYagEI8n3064P1lJ0nzh6dJD5VaqqmNbu5qzYKY344eFubF54XN6dNx6G9hH+NF0a2OxEUIQ89pBm2T9lFUwmQACOZY++8W1MkHEqpsOjTofeSEf2a7KGWs2e0eZg9tRkYTRSiRsugcZhWnsQRzcsL7v7O9++Q6zx9/938uXLBVMryYZKn4UZl3ubl5K29ZgzR15RA4mMg22oUfrGXc8oGPpDLg9sITsZv+vIGqUGS6qcdxWzCZMYi/EiT+xd2yO+6FDKU=;CcEVA6sahwbHMyTPn51OUg=="
 ---
 
