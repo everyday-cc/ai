@@ -21,7 +21,7 @@ website: https://research.google/people/RajatMonga/
 twitter:
   username: rajatmonga
   url: https://twitter.com/rajatmonga
-  followers: 13944
+  followers: 13943
 
 linkedin:
   url: https://www.linkedin.com/in/rajatmonga/
@@ -43,6 +43,6 @@ images:
     isCached: true
     title: "Rajat Monga"
 
-secured: "qjHj9PZcjQI0I9YEOu8jiTtUrlvCQi0AAhU7iZCQu7TeJ02NGvEKmwoziXZ95Prxd5KGgoMEbTjDEj8XYCzeGcGuBgMDDRqgWsg50pqUo09Wbgt5TWrtRKVeN6jv/BYp4d6RhfVHIayWTUzwzTRK6687m5voj/6fdCOiftOOgTZrYu55leplhaGxXK6reFH3+bWUvTZ5ID+tW8RoVRzHkksRw9JaAnZETH5m1BHMh87q+CpVYnmwJKDlciBI6x43u/xGL5bJktZZWScFd9V+7M6eb+2fOpCts7e/3trA1AlfafuAlMt/74UIDNgWirE7jcNZjQiuuzheur0NQvFlEVDw3u5prRM6h1ngO5LeqptI0XrQf6lUtxmJ9BrCRvWpR9bEDQfjjvbtvWBSrT61lB0GAo5WdTLIrnJpRfcZQUE=;SmtMU8RuyZAuyH04IaLBmA=="
+secured: "1D86VqLDIjIiwbaqsHw/NJbQO4Cn4cQCNKIaHwg+/aVZru+6i8Qqgq2Ps01ozKXzLoYJ/0ffuDoo0F0CaOI8owto0amJy+f3BKnF1y4H9cS26pBOhdopkFjdnC/ZSUsWyFND3DCZSF92JjCMfGK2+TZnYOKvtdtLh/im3ZXgGGm7Ngxdmw/TpdymTKtypy5ArmobmokEDuONRVkn8XqJIWG0Io0IKe6cT+mA64QBeXVUFQwQWQ3AlstndP6LuJkf2CkpNvqD454eDHGVbr2b09GfZgIK1o51XroactqMYHNJMLN6oxZLvXFGuaqYRM/7DPHHs9fU+gZR0ywpPcmP0oMtfhsw6G7eRQ6wzy1wW09lkKsvvIXHOL9DgmggKdcxmpu0G7fG5nY8jwSwZk1itErZKX4qVWOw5mHQm/2HZ0A=;3uyDPvTu31Fbxaw6ea+zuQ=="
 ---
 
