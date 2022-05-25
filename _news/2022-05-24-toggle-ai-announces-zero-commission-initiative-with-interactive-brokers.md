@@ -44,6 +44,20 @@ related:
         width: 770
         height: 428
         isCached: true
+  - title: "How AI Ads Are Disrupting Marketing"
+    excerpt: "Marketing with AI has been proven to be a successful strategy for many businesses. It's is a new way to reach customers and is much more personalized, targeted and engaging than traditional methods. AI marketing can be used for customer service,"
+    publishedDateTime: 2022-05-25T21:10:00Z
+    webUrl: "https://www.chron.com/business/article/How-AI-Ads-Are-Disrupting-Marketing-17199007.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/72/54/22522657/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "m4T7irPYbJy3lF8Le9wOVxlFG8I1XvollMdKwesEvnf9z0RNZyrkArDrlwOXi16BJXOK4rPxUHh+mbuFWRLwdmiuYz09oeDQ/XnS9cgg0qHZSuVBNWXYYehu2sm90RkplIVUri613XeQFB3FdYDG6mu3CHOHrwdsKbJRv+qLPowc4AgLLDa9pJxUF3mYZ+MwCOhV5VWS2ATbjAyR0t0t05moPDOY63W6LOB8qKn+o7wGSNjagZ/Y+SgxkH0pSobKne6zr76iTiAF0IwISQeuZZeyw/XyLaUmqgHdGybG8Q1xxn5IvZGHegV3DfOG5vdqgULvnmJQj9fvzM5n2Tjli9AXIxBaNZknByIv+C78TJA=;5AtfzQpfNlPwiEj8mnryVg=="
 ---

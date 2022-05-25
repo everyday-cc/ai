@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-11-ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too.md",
+      "title": "AI Ethics Welcomes The Prospects Of A Standardized AI Risk Management Framework, Which Could Bolster Autonomous Self-Driving Car Efforts Too",
+      "excerpt": "AI Ethics is embracing the efforts to craft an AI Risk Management Framework (AI RMF) that is being formulated as a standard by the NIST, and which will likely aid the advent too of autonomous self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6253775a681e4c1d1414a314/0x0.jpg?format=jpg&crop=1756,1316,x347,y0,safe&width=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/amp/",
+      "publishedDateTime": "2022-04-11T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-self-driving-water-taxi-stalls-out-in-knoxville-as-company-struggles-to-find-an-operator.md",
       "title": "Self-driving water taxi stalls out in Knoxville as company struggles to find an operator",
       "excerpt": "The startup behind the world’s first autonomous water taxi is having difficulty partnering with Knoxville companies. But all is not lost.",
@@ -1293,60 +1346,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier.md",
-      "title": "Meta's AI luminary LeCun explores deep learning's energy frontier",
-      "excerpt": "Three decades ago, Yann LeCun, while at Bell Labs, formalized an approach to machine learning called convolutional neural networks that would prove to be profoundly productive in solving tasks such as image recognition. CNNs, as they're commonly known ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "originalUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d42df9d1daed1dad8a379ab0a69ec88a5d09e3a5/2022/03/31/602b7f95-1939-459f-b036-4776385ec5d2/lecun-splash-image.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "publishedDateTime": "2022-03-31T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI",
-        "AI in Autos"
       ]
     }
   ],

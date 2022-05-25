@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
+      "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
+      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale Visual Recognition Challenge and raised the accuracy of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "publishedDateTime": "2022-05-25T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-review-identifies-gaps-in-our-understanding-of-how-machine-learning-can-aid-stock-valuation.md",
+      "title": "Review identifies gaps in our understanding of how machine learning can aid stock valuation",
+      "excerpt": "Over the past two decades, researchers have used big data and machine learning (ML) methods to provide insight relevant for equity valuation. Many of these studies either use or inform on accounting variables.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-gaps-machine-aid-stock-valuation.html",
+      "originalUrl": "https://phys.org/news/2022-05-gaps-machine-aid-stock-valuation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/review-identifies-gaps.jpg",
+          "width": 698,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-gaps-machine-aid-stock-valuation.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-gaps-machine-aid-stock-valuation.amp",
+      "publishedDateTime": "2022-05-25T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-how-fintech-players-are-leveraging-aiml-to-bridge-the-gap-in-msme-lending.md",
       "title": "How Fintech players are leveraging AI/ML to bridge the gap in MSME lending",
       "excerpt": "FinTech is a term which refers to a set of businesses which are leveraging advanced technology as a core ingredient in their business model to drive rapid evolution and transformation of financial services products",
@@ -1346,101 +1432,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-artificial-neural-networks-market-industry-share-size2022-market-research-with-growth-manufacturers-segments-and-2027-forecasts-research.md",
-      "title": "Artificial Neural Networks Market Industry Share, Size2022 Market Research with Growth, Manufacturers, Segments and 2027 Forecasts Research",
-      "excerpt": "Global Artificial Neural Networks Market (2022-2027) includes Precise company profiling of leading players of the Artificial Neural Networks market. All of the segments studied in the report are analyzed based on different factors such as market share,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-industry-share-size2022-market-research-with-growth-manufacturers-segments-and-2027-forecasts-research-2022-05-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-industry-share-size2022-market-research-with-growth-manufacturers-segments-and-2027-forecasts-research-2022-05-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-google-io-2022-googles-artificial-intelligence-and-machine-learning-breakthroughs-explained.md",
-      "title": "Google I/O 2022: Google’s artificial intelligence and machine learning breakthroughs, explained",
-      "excerpt": "... where a machine learning model only sees monolingual text – meaning, it learns to translate into another language without ever seeing an example. However, the company noted that the technology is not perfect and it would keep improving these models.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/",
-      "originalUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/05/google.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/",
-      "publishedDateTime": "2022-05-12T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

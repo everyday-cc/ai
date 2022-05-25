@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google’s Text-to-Image AI Can Deliver “Photorealistic Images”"
+    excerpt: "Google has introduced a new text-to-image AI generator that claims to provide photorealistic images. Here is a look at the results."
+    publishedDateTime: 2022-05-25T05:40:00Z
+    webUrl: "https://beebom.com/google-imagen-text-to-image-ai/"
+    ampWebUrl: "https://beebom.com/google-imagen-text-to-image-ai/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-imagen-text-to-image-ai/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 57
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/05/google-imagen-aoi.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Google details new cutting-edge image generation AI"
     excerpt: "One of the most sophisticated entries into the category is an AI system called DALL-E 2 that was detailed by OpenAI LLC earlier this year. According to Google, its newly announced Imagen system ..."
     publishedDateTime: 2022-05-24T17:29:00Z

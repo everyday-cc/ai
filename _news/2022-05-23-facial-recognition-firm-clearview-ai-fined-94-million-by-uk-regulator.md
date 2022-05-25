@@ -331,6 +331,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Clearview AI Expand Facial Recognition Software To Companies"
+    excerpt: "By partnering with Clearview, Vaale is saving about 20% in costs and increasing accuracy and speed by replacing Amazon’s Rekognition service. “We can’t have duplicate accounts and we have to avoid fraud. Without facial recognition, we can’t make ..."
+    publishedDateTime: 2022-05-25T19:12:00Z
+    webUrl: "https://www.itworldcanada.com/post/clearview-ai-expand-facial-recognition-software-to-companies"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 36
   - title: "Clearview AI Launches Clearview Consent; Company’s First Consent Based Product for Commercial Uses"
     excerpt: "Clearview Consent is available today as a cloud service, with pricing more affordable than other FRT providers such as Amazon Rekognition and Microsoft Azure, while providing much higher performance and accuracy. Clearview Consent is also available for on ..."
     publishedDateTime: 2022-05-25T10:57:00Z

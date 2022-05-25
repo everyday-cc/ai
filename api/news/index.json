@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-26-artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules.md",
-      "title": "Artificial Intelligence (AI) to Predict Cancer Risk of Lung Nodules",
-      "excerpt": "A newly developed artificial intelligence (AI) tool predicts the cancer risk in lung nodules seen on CT. Chest CT is such a sensitive test.",
+      "path": "_news/2022-05-26-idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform.md",
+      "title": "Idiomatic bets on contextual AI as it grows its voice-of-customer platform",
+      "excerpt": "A growing number of customer intelligence platforms are utilizing contextual AI and machine learning to understand structured and unstructured data. Idiomatic aims to set itself apart in the space.",
       "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm",
+      "webUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/",
+      "originalUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://www.medindia.net/health-images/ai-spots-lung-cancer-than-radiologists.jpg",
-          "width": 300,
-          "height": 250,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1366362158.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,64 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm",
-      "publishedDateTime": "2022-05-25T10:43:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/amp/",
+      "publishedDateTime": "2022-05-25T14:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
+      "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
+      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale Visual Recognition Challenge and raised the accuracy of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "publishedDateTime": "2022-05-25T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,6 +91,136 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-review-identifies-gaps-in-our-understanding-of-how-machine-learning-can-aid-stock-valuation.md",
+      "title": "Review identifies gaps in our understanding of how machine learning can aid stock valuation",
+      "excerpt": "Over the past two decades, researchers have used big data and machine learning (ML) methods to provide insight relevant for equity valuation. Many of these studies either use or inform on accounting variables.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-gaps-machine-aid-stock-valuation.html",
+      "originalUrl": "https://phys.org/news/2022-05-gaps-machine-aid-stock-valuation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/review-identifies-gaps.jpg",
+          "width": 698,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-gaps-machine-aid-stock-valuation.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-gaps-machine-aid-stock-valuation.amp",
+      "publishedDateTime": "2022-05-25T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-tech-leaders-say-facial-recognition-clampdown-will-spur-innovation.md",
+      "title": "Tech Leaders Say Facial-Recognition Clampdown Will Spur Innovation",
+      "excerpt": "A $10 million fine levied on Clearview AI by the U.K.’s data-privacy watchdog sets clearer ground rules for balancing software innovation with people’s right to privacy, experts say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
+      "originalUrl": "https://www.wsj.com/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-551294/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
+      "publishedDateTime": "2022-05-25T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-deepminds-open-source-version-of-mujoco-available-on-github.md",
+      "title": "DeepMind’s open-source version of MuJoCo available on GitHub",
+      "excerpt": "MuJoCo, which stands for Multi-Joint Dynamics with Contact, is a physics engine that aims to facilitate R&D in robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/deepmind-open-source-mujoco-on-github/",
+      "originalUrl": "https://www.therobotreport.com/deepmind-open-source-mujoco-on-github/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -139,7 +320,7 @@
       "originalUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528",
       "featuredContent": null,
       "highlight": null,
-      "heat": 414,
+      "heat": 424,
       "tags": null,
       "images": [
         {
@@ -179,6 +360,48 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-merlynai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update.md",
+      "title": "Merlyn.AI Tactical Growth and Income ETF (NASDAQ:SNUG) Short Interest Update",
+      "excerpt": "Merlyn.AI Tactical Growth and Income ETF (NASDAQ:SNUG – Get Rating) was the recipient of a large decline in short interest in May. As of May 15th, there was short interest totalling 200 shares, a decline of 98.4% from the April 30th total of 12,400 shares.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/",
+      "originalUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/amp/",
+      "publishedDateTime": "2022-05-25T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -514,7 +737,7 @@
       "originalUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -704,7 +927,7 @@
       "originalUrl": "https://www.cnet.com/tech/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -932,248 +1155,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai.md",
-      "title": "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI",
-      "excerpt": "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "publishedDateTime": "2022-05-24T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-nvidia-details-plans-to-transform-data-centers-into-ai-factories.md",
-      "title": "Nvidia details plans to transform data centers into AI factories",
-      "excerpt": "At Computex, Nvidia announced hardware milestones and new innovations toward its roadmap for more powerful AI-enabled data centers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/chip.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/amp/",
-      "publishedDateTime": "2022-05-24T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery.md",
-      "title": "Two NHS surgeons are using Azure AI to spot patients facing increased risks during surgery",
-      "excerpt": "An NHS trust is exploring how AI could help reduce waiting times, support recommendations from healthcare teams and help patients.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/",
-      "originalUrl": "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/05/Microsoft_9716b-1-scaled.jpg",
-          "width": 2560,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-heres-why-you-should-retain-change-healthcare-chng-stock.md",
-      "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
-      "excerpt": "Change Healthcare Inc. CHNG is well-poised for growth backed by strength in artificial intelligence (AI) and machine learning (ML) initiatives and strategic deals. However, stiff competition remains a concern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2",
-      "originalUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2?amp",
-      "publishedDateTime": "2022-05-24T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.md",
-      "title": "Build 2022: Power Platform gets more web development tools and AI assistance",
-      "excerpt": "Lamanna noted that the Power Pages tools have been tested by several large customers. One interesting example comes from the New Zealand Ministry of Business, Innovation, and Empl",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html",
-      "originalUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/29/11/10-most-powerful-network-companies-primary2-100730524-large-100923007-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.amp.html",
-      "publishedDateTime": "2022-05-24T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

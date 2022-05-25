@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T12:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-25-10-finalists-named-in-cowen-startup-challenge-winner-chosen-at-automate-june-7"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-25-10-finalists-named-in-cowen-startup-challenge-winner-chosen-at-automate-june-7"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

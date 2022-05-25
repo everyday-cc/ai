@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-14-the-funded-linkedin-co-founder-reid-hoffman-has-teamed-up-with-deepmind-vets-on-a-new-ai-startup.md",
+      "title": "The Funded: LinkedIn co-founder Reid Hoffman has teamed up with DeepMind vets on a new AI startup",
+      "excerpt": "Hoffman, who co-founded LinkedIn Corp., launched the new company with Mustafa Suleyman and Karen Simonyan, both veterans of DeepMind, Google LLC's artificial intelligence research unit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanjose/news/2022/03/09/linkedin-deepmind-co-founders-launch-ai-startup.html",
+      "originalUrl": "https://www.bizjournals.com/sanjose/news/2022/03/09/linkedin-deepmind-co-founders-launch-ai-startup.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-13-deepminds-new-ai-helps-restore-damaged-ancient-texts.md",
       "title": "DeepMind’s New AI Helps Restore Damaged Ancient Texts",
       "excerpt": "Many inscriptions are so decrepit that large chunks are illegible. The company’s Ithaca tool assists historians in filling in the blanks.",
@@ -1402,40 +1436,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-20-the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues.md",
-      "title": "The fundamental goal of AI is to allow people to focus on the most pressing issues",
-      "excerpt": "Anxiety over artificial intelligence breakthroughs was stoked this week when DeepMind announced the AlphaCode deep learning system, which generates source code. According to my AlphaCode deep dive, DeepMind researchers have done an excellent job of ...",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues/",
-      "originalUrl": "https://bestgamingpro.com/the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-19T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

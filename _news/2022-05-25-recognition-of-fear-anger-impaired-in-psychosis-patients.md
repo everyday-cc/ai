@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T15:37:00Z
 originalUrl: "https://madison.com/lifestyles/health-med-fit/recognition-of-fear-anger-impaired-in-psychosis-patients/article_8fdc3bbf-0cef-5599-80bd-3c6b14e7a618.html"
 webUrl: "https://madison.com/lifestyles/health-med-fit/recognition-of-fear-anger-impaired-in-psychosis-patients/article_8fdc3bbf-0cef-5599-80bd-3c6b14e7a618.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Madison.com

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T19:07:00Z
 originalUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21242716/tiny-robotic-crab-an-answer-for-automation-in-tight-spaces"
 webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21242716/tiny-robotic-crab-an-answer-for-automation-in-tight-spaces"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: IndustryWeek

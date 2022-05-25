@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-wit
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
 type: article
 quality: 73
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Prominent ex-Tesla self-driving car exec leaves Apple for greener pastures"
+    excerpt: "Apple has reportedly been working on self-driving car technology since 2014, but it has faced a series of prominent employee departures over the past year. As reported Wednesday by Bloomberg, the latest is CJ Moore,"
+    publishedDateTime: 2022-05-25T20:58:00Z
+    webUrl: "https://arstechnica.com/gadgets/2022/05/prominent-ex-tesla-self-driving-car-exec-leaves-apple-for-greener-pastures/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2017/02/apple-park-photo-1-building-trees-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Elon Musk Explores The Limits Of Tesla’s ‘Self-Driving’ Technology"
     excerpt: "“Crash Course” includes interviews with various regulators as well as former Tesla employees, such as software engineer Raven Jiang, who make the points that self-driving technology was seen ..."
     publishedDateTime: 2022-05-22T22:29:00Z

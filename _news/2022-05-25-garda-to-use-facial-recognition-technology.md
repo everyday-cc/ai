@@ -26,33 +26,79 @@ images:
     isCached: true
 
 related:
-  - title: "Concerns raised over plans for facial recognition technology to be used by gardaí"
-    excerpt: "Concerns about the accuracy and potential misuse of facial recognition technology in tackling crime have been expressed by civil rights groups, academics and some politicians. Minister for Jusitce Helen McEntee is expected to announce the plans later today ..."
-    publishedDateTime: 2022-05-25T11:11:00Z
-    webUrl: "https://www.breakingnews.ie/ireland/concerns-raised-over-plans-for-facial-recognition-technology-to-be-used-by-gardai-1310561.html"
+  - title: "Tech Leaders Say Facial-Recognition Clampdown Will Spur Innovation"
+    excerpt: "A $10 million fine levied on Clearview AI by the U.K.’s data-privacy watchdog sets clearer ground rules for balancing software innovation with people’s right to privacy, experts say."
+    publishedDateTime: 2022-05-25T20:04:00Z
+    webUrl: "https://www.wsj.com/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670"
     type: article
     provider:
-      name: BreakingNews.ie
-      domain: breakingnews.ie
-    quality: 49
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
     images:
-      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjJcXFwvMDNcXFwvMzExMjQ1MzNcXFwvMi42NTc1MTg1OS1lMTY0ODcyNzE2MzE2Mi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzZWU1MTQ4ZWU1MDNjYTkyMDFkYmFlYzE4NjNmOTViNzFjZThjODUifQ==/concerns-raised-over-plans-for-facial-recognition-technology-to-be-used-by-garda.jpg"
-        width: 1200
-        height: 627
+      - url: "https://images.wsj.net/im-551294/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Live: Plans for gardaí to use facial recognition technology, Dublin Airport brawl"
-    excerpt: "Plans for gardaí to use facial recognition technology. Minister for Jusitce Helen McEntee is set to announce plans for the use of facial recognition technology to tackle crime wh"
-    publishedDateTime: 2022-05-25T11:34:00Z
-    webUrl: "https://www.breakingnews.ie/ireland/live-plans-for-gardai-to-use-facial-recognition-technology-dublin-airport-brawl-1310575.html"
+  - title: "UK watchdog fines facial recognition firm £7.5m over image collection"
+    excerpt: "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database"
+    publishedDateTime: 2022-05-23T10:24:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
     type: article
     provider:
-      name: BreakingNews.ie
-      domain: breakingnews.ie
-    quality: 49
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjJcXFwvMDVcXFwvMjUxMjE1MjBcXFwvMXBtLXRodW1ibmFpbC0yNTA1LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMWVhMmJjYjQ1YTU4ZTI3ODA2NWI2ZjFlNzFlOTgzNzYzYjEzMDVmNSJ9/live-plans-for-garda-to-use-facial-recognition-technology-dublin-airport-brawl.jpg"
+      - url: "https://i.guim.co.uk/img/media/47c278fa57498f6cb6dfacca66029466bbf0ae82/0_140_4226_2537/master/4226.jpg?width=620&quality=85&auto=format&fit=max&s=a52403bcb19393cd53e562b4af829d1b"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Senators Call For Probe Into ID.me Facial Recognition Database"
+    excerpt: "\"Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition.” Now, a great of senators have written a letter to the Federal Trade Commission and its chair,"
+    publishedDateTime: 2022-05-21T06:00:00Z
+    webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 41
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
+        width: 1222
+        height: 815
+        isCached: true
+  - title: "Facial recognition firm ordered to delete data of UK residents"
+    excerpt: "Facial recognition firm Clearview AI has been fined £7.5 million and ordered to delete personal data belonging to UK residents. The Information Commissioner’s Office (ICO) issued an enforcement notice against the US-based firm after a joint ..."
+    publishedDateTime: 2022-05-23T11:50:00Z
+    webUrl: "https://www.independent.co.uk/tech/facial-recognition-clearview-ai-uk-b2085114.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 39
+    images:
+      - url: "https://static.independent.co.uk/2021/07/21/12/GettyImages-1080200064.jpg?quality=75&width=1200&auto=webp"
         width: 1200
-        height: 627
+        height: 800
+        isCached: true
+  - title: "A Casino Pioneers Facial Recognition to Serve the Ultra Rich"
+    excerpt: "You could easily miss the exclusive Les Ambassadeurs casino in London. Just off Hyde Park Corner, it sits at the end of a quiet side street populated only with chauffeured black v"
+    publishedDateTime: 2022-05-25T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/a-casino-pioneers-facialrecognition-to-serve-the-ultra-rich/2022/05/25/5938cb2c-dbe8-11ec-bc35-a91d0a94923b_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBDGMIG35AI6ZPBVVEOQVFESHM.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
   - title: "Police use of facial recognition technology could soon be under review"
     excerpt: "Lawmakers who sponsored the bill said artificial intelligence software has become a common part of everyday life despite the potential civil liberty issues it poses."
@@ -68,57 +114,52 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Gardaí will not use facial recognition technology for ‘mass surveillance’ — Minister"
-    excerpt: "Plans to introduce facial recognition technology for the Garda are “not about mass surveillance”, Minister for Justice Helen McEntee has said. Speaking at the Garda Representa"
-    publishedDateTime: 2022-05-25T14:40:00Z
-    webUrl: "https://www.irishtimes.com/crime-law/2022/05/25/gardai-will-not-use-facial-recognition-technology-for-mass-surveillance-minister/"
+  - title: "Maxxess adds facial recognition authentication to eVisitor with SAFR integration"
+    excerpt: "YORBA LINDA, Calif.—Maxxess, a global corporation specializing in security management solutions and innovative technologies, has added advanced facial recognition authentication to its eVisitor visitor management solution for access control, with off-the ..."
+    publishedDateTime: 2022-05-24T14:40:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/maxxess-adds-facial-recognition-authentication-to-evisitor-with-safr-integration"
+    type: article
+    provider:
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 34
+    images:
+      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Facial recognition company used by Met Police fined millions by information watchdog"
+    excerpt: "A facial recognition company used by the Metropolitan Police has been ordered to delete billions of Facebook photos and fined £7.5m after breaking data protection laws. Clearview"
+    publishedDateTime: 2022-05-23T11:31:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2022/05/23/facial-recognition-company-used-met-police-fined-millions-information/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 32
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2022/05/23/TELEMMGLPICT000295438109_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
+  - title: "UK fines US facial recognition company"
+    excerpt: "Britain fined U.S. facial recognition company Clearview AI Inc. for more than 7.5 million pounds ($9.4 million) for collecting online images of people without their knowledge, AFP reported. The U.K. data watchdog also ordered the company to stop receiving ..."
+    publishedDateTime: 2022-05-24T05:40:00Z
+    webUrl: "https://news.am/eng/news/703437.html"
+    type: article
+    provider:
+      name: News
+      domain: news.am
+    quality: 19
+  - title: "Q&A: How will new facial recognition technology be used?"
+    excerpt: "Facial recognition technology is touted as one of the most powerful surveillance tools ever invented. It is hailed by proponents as a justified means of catching criminals and terrorists as well as helping to identify victims and the vulnerable."
+    publishedDateTime: 2022-05-25T19:23:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2022/05/25/qa-how-will-new-facial-recognition-technology-be-used/"
     type: article
     provider:
       name: The Irish Times
       domain: irishtimes.com
-    quality: 32
-    images:
-      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/uT4VvO8PuljKZsxQIoFpT_zqYqg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BV4CFZ3HQ5GEPFN2ZFXFDRUNKU.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New laws will allow gardaí to use facial recognition technology to identify suspects"
-    excerpt: "Gardaí will be given powers to use facial recognition technology to identify suspects in serious crimes for the first time. Justice Minister Helen McEntee is seeking cabinet approval to allow the use of special software to catch killers and child ..."
-    publishedDateTime: 2022-05-25T05:58:00Z
-    webUrl: "https://www.independent.ie/irish-news/politics/new-laws-will-allow-gardai-to-use-facial-recognition-technology-to-identify-suspects-41685989.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 32
-    images:
-      - url: "https://www.independent.ie/irish-news/politics/c3f17/41685988.ece/AUTOCROP/w1240h700/rment%20Buildings%20016"
-        width: 1240
-        height: 700
-        isCached: true
-  - title: "Poll: How do you feel about gardaí using facial recognition technology to identify suspects?"
-    excerpt: "GARDAÍ ARE SET to be granted new powers to use facial-recognition technology that could lead to the rapid identification of criminals. The technology enables police forces to carry out automated searches of video footage for suspects in criminal investigations."
-    publishedDateTime: 2022-05-25T08:49:00Z
-    webUrl: "https://www.thejournal.ie/poll-facial-recognition-technology-5773562-May2022/"
-    type: article
-    provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 28
-    images:
-      - url: "https://img2.thejournal.ie/article/5773562/river/?height=400&version=5773577"
-        width: 613
-        height: 400
-        isCached: true
-  - title: "Facial recognition technology is ‘very necessary tool’ for gardai, Commissioner Drew Harris says"
-    excerpt: "GARDA Commissioner Drew Harris has welcomed plans by the Government to introduce facial recognition technology. Ireland’s most senior officer said the new measure would help gardai"
-    publishedDateTime: 2022-05-25T13:18:00Z
-    webUrl: "https://www.thesun.ie/news/8850562/facial-recognition-technology-gardai-drew-harris-latest/"
-    type: article
-    provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 21
+    quality: 19
 
 secured: "tLUKPiXWr9cq9i5h+eAb/DvIoYsUGDBLiwJhLegJOaQ3HEX9JM2hU/LvDpFDUiJn8qQtB5DF8Es6SsnqHBfpJUHXmm98Itpc4Durc2KlqXE4kyt4EbxAoF5d7BEiYG8A4gZeG+RWEH+PztxX23envAIT/cQoGjfnWvR64LRDstpO8LajsCFh6Osouz0X2E5JHQv9hF26VafI2xdH5RXmqcAE77k6Vgy4AVGxNRKbAzIkmg9ZWdiJwATdp7YmEo6Rs8Vj8CSKX9PVHEQCI2+oPVVtIbtIw12oTGfo0G2TLqGehF29AxwAocYqZo8JCh8my0Pwf/syncYVVn/KWz3Nv6rqMlIMQ/SUNzSfTiCySm4=;GSeRXR41LNlgsurtYwf/Sg=="
 ---

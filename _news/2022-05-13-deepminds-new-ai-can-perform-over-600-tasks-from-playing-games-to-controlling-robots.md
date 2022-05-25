@@ -5,6 +5,8 @@ excerpt: "Alphabet-backed research lab DeepMind created an AI system, Gato, that
 publishedDateTime: 2022-05-13T12:15:00Z
 originalUrl: "https://techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/"
 webUrl: "https://techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/"
+ampWebUrl: "https://techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/amp/"
 type: article
 quality: 56
 heat: -1
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI
   - Google AI
+  - AI in Robotics
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/05/627d13d743dc353a184da8d4_data_sequences.png?w=680"
+    width: 680
+    height: 494
+    isCached: true
 
 related:
   - title: "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’"
@@ -61,6 +70,6 @@ related:
       domain: thenextweb.com
     quality: 60
 
-secured: "2qf+Fts4sdWHSavq73eehUuo9nDxhzi8cp2nrysbmNYBbhbvvAV5xKKBf1PJrpRhK0axcL3uBx9ASTsoduN7cxBDoZ0q8vM0ujMgVN9S+asaC2m6zEtTtSAooaHXxqNlSeDUiuC+2GNfosvAcF6PivMNdTMWbLi4TX++2T3zDq6QXyvK6eOZ0TUnVCu94OM0TWZ3fNJgoUDLpJ194BNyQpcovHCws5nmVFSgtw69eTm9Ijj3buhe9YjpQKld+8x3/leh2uGIuVMXCRmHN7DHVTNm2ZygTU9UboqScWEJGhIc+NzlHyOMBLcTpzf/hZbsai2NkFhQc74GTRwkX8esIn6zhgM4piDw8ZdoGFdce1sAS+/AIc15gYcRFjYPQpZZRxSdhHNL6QCXfrFH/HnnsdeUEDXmHc9kfEuIkBUn9+bVSJE5ej3U8pecQjVk+tWbljoGSTTXeCDONnj8aUAxDQ1lHhF0yuyse5ET0oopDzym9I9jqJxFvygG7/FxxVr3skBAXRQS8SpDyM18/HMhvA==;YAYanr5EsgF8lG59MHMPDw=="
+secured: "oJAH5ODGdTRLTkaW6dlZNLehd+t842nDpZ0IZxLtS6CzwgYUsLNiushAbByl7QTaI4gsMc8+zehQYgt9E/8hIboMRQ3zd4L6CJvzUlHfijkYHjX2l5jkpPyhOd1hwB+2vUqn+xFy1isg1MAzCQk/3JZTG1c2KCwPNm+q+wer5XswegDZlj4MDiUB7FNDv9n3X6ypW2E3GSX4hQ+j/wiJuKNjmP2ktGU8JtFSOZxwLrmcd4jBsUGCW69zZLVtxBQDe4yr8zEvfUoBFBvCkyUBAYPfMnyT2WMOjq7FW1eQCAbF/Rwkm5Rl+kNSysF7XKymCFjYk0x/xRHJGEjGEgyirYAUl/nIqqyMNX6P/gjvOVo=;K19Kvr1zCXxzcvfhqZSpzQ=="
 ---
 

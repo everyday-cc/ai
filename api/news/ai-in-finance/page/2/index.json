@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-28-hpe-looks-to-deliver-the-power-of-swarm-learning.md",
+      "title": "HPE looks to deliver the power of ‘swarm learning’",
+      "excerpt": "When applied to intelligent devices operating in the real world, “swarm learning” refers to decentralization. This means that users can share learnings at the edge, or at distributed sites, without moving or exposing data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/",
+      "originalUrl": "https://venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/swarm.jpg?fit=800%2C531&strip=all",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/amp/",
+      "publishedDateTime": "2022-04-27T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-hewlett-packard-enterprise-ushers-in-next-era-in-ai-innovation-with-swarm-learning-solution-built-for-the-edge-and-distributed-sites.md",
       "title": "Hewlett Packard Enterprise Ushers in Next Era in AI Innovation with Swarm Learning Solution Built for the Edge and Distributed Sites",
       "excerpt": "News HighlightsHPE Swarm Learning, a privacy-preserving, decentralized machine learning solution, allows users to share learnings at the edge, or distributed sites, without compromising data privacyThe solution increases accuracy and reduces biases in AI model training by enabling access to larger datasetsNew solution delivers AI for greater good by fostering collaboration across organizations,",
@@ -1252,49 +1304,6 @@
         "name": "아크로팬",
         "domain": "acrofan.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe.md",
-      "title": "A future without fraud: The latest advances in fintech that keep your money safe",
-      "excerpt": "Technological security advances are being used to fight fraud in the financial industry including AI, biometrics, and virtual credit cards.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/17/a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe/",
-      "originalUrl": "https://venturebeat.com/2022/04/17/a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

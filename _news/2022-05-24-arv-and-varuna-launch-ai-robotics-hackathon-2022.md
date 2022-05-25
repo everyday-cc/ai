@@ -3,9 +3,12 @@ category: news
 title: "ARV and VARUNA launch AI & Robotics Hackathon 2022"
 excerpt: "Thailand's leading technology development and venture building company dedicated to leveraging cutting-edge AI & Robotics technologies, as a technology spin-off from PTTEP, an upstream national oil & gas company of Thailand,"
 publishedDateTime: 2022-05-24T09:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm"
 type: article
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: TMCnet
@@ -15,6 +18,28 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "af9rKI74JgdSdg75Y12WamRpN/raOGL2dHMOTCzuqhiAaeqH/NLcaEgMy1Yw3iMKkCRzJeZUSu5k7Nkvitvp9ZDE+v1la4tPtkQEgW12wzu8qF0DXztS9/Q2vV88BtTwKdNcxz+rAPdVoYqe5Ze0ImLkfqxcu5IS0tmEmVrNV6ODth30faeLW7BG+Igz5rlyn1/9ElNhTfKcdirV4o+1No4JSgtrYls/aaAY1l1STVKkqzL/6OmjrL1g+NAlEyaQ5vGvBt+otCsSVspGCCgLxUimnaqlgilC0fOW8AggOPE2LdpsUIQekj4E0Ucr0Esp/2XhRS/9CcEpC5jndhHhchmv5kyz61lOPhuf49DfAzZW4tJ/dPHTZwQK0r+qjKqvmXEvg1cZ+Ut17/pLhPlzOwnWLQb4FPfkvw0tcRfOTo3YeNyn9ddH1T+gQK9IJ9XG+i8FOdD9C6PgV4y77ozBde/Re134g04LC2dnRKOQWK7OISLNIDw7T1oWxL9eZskshsKN/cljb8fVjzF36nqtkw==;0dvRE1Ztcb/hLG1Wex0FQw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1824548/ARV_Hackathon_KV.jpg"
+    width: 400
+    height: 283
+    isCached: true
+
+related:
+  - title: "ARV and VARUNA launch AI & Robotics Hackathon 2022"
+    excerpt: "Vetting tech talents worldwide to explore new agritech solutions to achieve sustainable development goals BANGKOK, May 24, 2022 /PRNewswire/ -- AI and Robotics Ventures (ARV), Thailand's leading technology development and venture building company dedicated to leveraging cutting-edge AI & Robotics technologies,"
+    publishedDateTime: 2022-05-24T23:52:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=668737"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 69
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+
+secured: "m1+iF9hs2Ko2mNYexwjF3pEgxvaizLhdcI2MLjg4ki7wOH4fHgX9EkPVwC0ZOgNxZ+4LwfwEvKVS3dMa+9PVkN9Nd87COsjxpvowIJoJJv0x/bUUopUEVM5Q17/CWM8+qlH1/69TgsTIQzmmOS1UO2Ibb2CoMXcRnv73n4mazE//Qki30GfAr2EnNnIGFNhY9KQj4fvDOLRvT0/Tp1573germ1NrgTYPOPFV6bcijYwhJuCgao3njqvPMt53PlDqjus1t/VrDIVbjaXE4jv8ToZSaYSypV9OYhB0KTSRV6FZSy3BkMcxCKgioz94S7dpZXsG11VO4Y+Pz7CQz176YxpPZvnL08aAh+r6Cp+PsEI=;a9XrJqoBYcYVxDw6DwMTJg=="
 ---
 

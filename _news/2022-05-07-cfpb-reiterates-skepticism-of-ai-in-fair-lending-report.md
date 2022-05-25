@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/f48f0e8/2147483647/strip/true/crop/5000x2625+0+354/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F86%2F4d%2Fdb01fdb845e1afbe020c9b0b81bf%2Fcfpbbuilding1-bl-030719.jpg"

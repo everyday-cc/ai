@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T18:16:00Z
 originalUrl: "https://www.cnbc.com/2022/05/25/facebook-paying-users-over-data-privacy-lawsuits-google-could-be-next.html"
 webUrl: "https://www.cnbc.com/2022/05/25/facebook-paying-users-over-data-privacy-lawsuits-google-could-be-next.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: CNBC

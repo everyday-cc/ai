@@ -1,28 +1,21 @@
 ---
 category: news
 title: "AI Redefined Welcomes New Hires, Continues Commercial & Research Expansion"
-excerpt: "The arrival of Jordy Berson and Matthew E. Taylor signals the company’s continued growth.MONTREAL--(BUSINESS WIRE)--AI Redefined (AIR), a company focused on building software products for human-AI collaboration,"
-publishedDateTime: 2022-05-25T15:18:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=669784"
-webUrl: "https://us.acrofan.com/detail.php?number=669784"
+excerpt: "AI Redefined (AIR), a company focused on building software products for human-AI collaboration, has added to its leadership team with two new hires: Jordy Berson, who joins the company as Chief Product Officer,"
+publishedDateTime: 2022-05-25T12:54:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609111.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609111.htm"
 type: article
-quality: 37
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Robotics
   - AI
-
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
 
 related:
   - title: "AI research lab inspired by computer's internal components"
@@ -58,6 +51,6 @@ related:
         height: 1922
         isCached: true
 
-secured: "DBvnJNFzk+A/2jWu5e5LbqezD3k10p/ZwRZTC/P9NSRGuauZUR7Py+7gwJKzIop/fAVGDdIVzWX8eDzdfX682HdV8ZBnHCUMk3nYFgAgiDrGWHeOL8MkkqwB/PDcknzDB3YFweghd1FUKZUx97fQLZrDeG5FujQcutX5oIV2zX+Wn5nU2a7knaZcRqjVNlwdQ/IiPJWUifszhqFVVf/njgvmNCqxjYh8O5sG+2BQVUaLbLXIuAwPSEeZsHcckCUgfmpy/dH4Sx68QNmQcFPgEVyL7rfnw1hh1MhVdAP5L3kkW+Kb+jOXRUwH2uO4oVS+wqRZgwFVpmZsFtGrzJzMs8lZiMOgRuXeROH4YBFY0TA=;XM+vJaBP98KPJONYFN83eQ=="
+secured: "keYFgVFm3RjPjeSDBuaN3lCnrFZ6iH1Zewze+L0bu0u6sAqAebAOGH6nLyVUcKltrTIMcP5XqZ94nemw23QpIS+t0J9YQy/OMuZp5b5lfIv8Puw2mTo5sza1cTsd+gDzmhaSqyFV2abByX6In3WqKpbibMMKbOuDtSIQ3vMsHmV0XY9p9cVB2BkdI2MeI9Msmf5M+3WwAfqbCvDdnzNoQqlNzPWHOq7EBFkv40ntYYC+p4QpafUq11UX5stbUuM2g8FCvNhzFA9XVb9hhiw5k8AXvgPyLxrbAHRw5wQbn1tUk4U+krmmsL36izOln4mdMZYwfRPYQWHSUy5d48/hUBzimhVZSPfClQ26bD8QR+M=;l3llAs3ijkLi7+3eXnq8zA=="
 ---
 

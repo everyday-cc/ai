@@ -47,19 +47,14 @@ related:
         height: 1922
         isCached: true
   - title: "AI Redefined Welcomes New Hires, Continues Commercial & Research Expansion"
-    excerpt: "The arrival of Jordy Berson and Matthew E. Taylor signals the company’s continued growth.MONTREAL--(BUSINESS WIRE)--AI Redefined (AIR), a company focused on building software products for human-AI collaboration,"
-    publishedDateTime: 2022-05-25T15:18:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=669784"
+    excerpt: "AI Redefined (AIR), a company focused on building software products for human-AI collaboration, has added to its leadership team with two new hires: Jordy Berson, who joins the company as Chief Product Officer,"
+    publishedDateTime: 2022-05-25T12:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609111.htm"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 37
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "mfHPgPlf/Jf4nZo+0QC6h3JUm4gChyPyQf1hsl1lM/WGgWmtfvfj6sWt/4CMUl+J6F8Y4WtUu3eMy49iF2EXbY7Kw5EYToNeeWt6b53/7S0kEvBue/wGaB7SjwM3r2zx1vx09K3I0DeHhU8UhCnDa1wMUAxpo4T4o4OK9GeO9lHUYzVkivTSOCr5lcs14Is1FJbodoh1+FhUK/xEN231dK1rxpX4be2KXy1qZ/9mZH3BmOJiA8WCiC5vCikenqwB93klX+48pEQIX5uZuKI6Raoacz7R9peQIB3ot3yzuzE8EquTuO2zZVFMl7njMeCSFBEODm3Xz2W06ZCOUqkhXm+/a6etIyGLOuzOOo/otd8=;CImBIo3kRZ3/Xqgi1XbBNw=="
 ---

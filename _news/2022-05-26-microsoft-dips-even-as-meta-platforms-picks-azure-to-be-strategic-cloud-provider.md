@@ -121,6 +121,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
+    excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
+    publishedDateTime: 2022-05-25T20:10:00Z
+    webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 103
+    images:
+      - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
+        width: 1000
+        height: 380
+        isCached: true
   - title: "Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability"
     excerpt: "The post Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability appeared first on The AI Blog.\n"
     publishedDateTime: 2022-05-24T15:00:16Z
@@ -326,6 +342,15 @@ related:
         width: 499
         height: 375
         isCached: true
+  - title: "Microsoft collaboration to accelerate AI innovations in healthcare"
+    excerpt: "Microsoft has partnered with AI healthcare company BeeKeeperAI to develop and validate AI within a confidential computing environment. Through the partnership, algorithm developers and healthcare data experts will have access to a secure collaboration environment operating in Microsoft Azure,"
+    publishedDateTime: 2022-05-25T19:10:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-collaboration-to-accelerate-ai-innovations-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 51
   - title: "Team SWIFT Responders from Singapore wins APAC Microsoft AI for Accessibility Hackathon"
     excerpt: "Teams from Singapore, Thailand, and Philippines are winners of the Microsoft AI for Accessibility (AI4A) Hackathon in APAC. In its third year, the AI4A Hackathon features teams who are deeply"
     publishedDateTime: 2022-05-24T05:45:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fi
 webUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Finextra
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK regulator fines facial recognition company $9M for illegally storing images"
+    excerpt: "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials."
+    publishedDateTime: 2022-05-23T21:22:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images"
+    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 55
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg"
+        width: 530
+        height: 300
+        isCached: true
   - title: "Defining “artificial intelligence” for regulation"
     excerpt: "It's commonly stated that there is no agreed definition of 'artificial intelligence'. This causes problems in making policies and regulations about it."
     publishedDateTime: 2022-05-24T00:15:00Z

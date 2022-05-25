@@ -150,14 +150,19 @@ related:
         height: 465
         isCached: true
   - title: "Cowen and MassRobotics Highlight the Increasing Role of Robotics in Achieving Climate Objectives"
-    excerpt: "Since July 2019, Cowen and MassRobotics have enjoyed a partnership designed to bring together their extensive market knowledge in the areas of emerging robotics and artificial intelligence ... create an innovation hub and startup cluster focused on ..."
-    publishedDateTime: 2022-05-25T12:09:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8559131/cowen-and-massrobotics-highlight-the-increasing-role-of-robotics-in-achieving-climate-objectives"
+    excerpt: "Cowen Inc. (NASDAQ:COWN) (“Cowen” or the “Company”) and MassRobotics today announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
+    publishedDateTime: 2022-05-25T12:00:00Z
+    webUrl: "https://www.mywabashvalley.com/business/press-releases/globenewswire/8559131/cowen-and-massrobotics-highlight-the-increasing-role-of-robotics-in-achieving-climate-objectives/"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 21
+      name: WTWO
+      domain: mywabashvalley.com
+    quality: 41
+    images:
+      - url: "https://www.mywabashvalley.com/wp-content/uploads/sites/62/2021/12/mwv.png"
+        width: 2316
+        height: 862
+        isCached: true
   - title: "How Robosport Is Using Robots to Make Athletes Less Robotic"
     excerpt: "In recent years, we have witnessed increased discussions on developing robots to be more human and whether robots can surpass human intelligence."
     publishedDateTime: 2022-05-24T14:21:00Z
@@ -167,6 +172,15 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 19
+  - title: "Zoho invests in startup Genrobotics"
+    excerpt: "Bengaluru: Tech company Zoho Corporation said on Wednesday that it has invested Rs 20 crore in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions."
+    publishedDateTime: 2022-05-25T19:29:00Z
+    webUrl: "https://www.thehansindia.com/karnataka/zoho-invests-in-startup-genrobotics-744943"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 2
 
 secured: "OZhK408VppjFtmJQIdJE+uPnp9k7FocvUr/fWNv+7TDDG5rUwJAseh68CT2h9gA2zUT2Q+N7BvQ4RA5tEaRFD/26CbFAF0R4Oj1WKKS15Z0K98MbzhVljx5Ng6L4PazN8RCxXec/WvWQDTNlhYOViAFjGOmx+VUhfWwPqb0K77LBIDN1T6FpIpEZ3N9TVuHpmd4Jd7BFjbSsbPiJKVk8gKYEMUFZiVUNmXnqDlaaCm6gkpN4PbP6AKgxkaJ0/AIucTs2aWZ2QS/9EfW6OZAL8Gpv+Z1L+NMNz8CqXId17EclVGOfu1ZUESmTfXU6mG4oLTQCX3goXeSVc0Pz2fKwhu+b8yYJY/P3uK0w2V3hWrlMPp9Cly04rUrsP3JzL71wDwA/w/L3Qb/16UoQPfmhCiZSAB6pVsk4ZzEYEoIUz06qcCcoFaqmwB54rBHRwC9rSZKh4BSXJrwEsgGvtDfnbK/lBIIjxvEgdY5IhR6Uz4AbCSS/oXFlZfzDE6jA0ilidueHaFg3v8pGDFGMM67Bvg==;xGoxY0UCdC3O8shib+I4lA=="
 ---

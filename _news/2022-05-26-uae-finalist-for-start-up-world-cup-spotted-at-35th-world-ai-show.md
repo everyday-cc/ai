@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T18:44:00Z
 originalUrl: "https://www.zawya.com/en/press-release/events-and-conferences/uae-finalist-for-start-up-world-cup-spotted-at-35th-world-ai-show-ci6ghiyr"
 webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/uae-finalist-for-start-up-world-cup-spotted-at-35th-world-ai-show-ci6ghiyr"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Zawya

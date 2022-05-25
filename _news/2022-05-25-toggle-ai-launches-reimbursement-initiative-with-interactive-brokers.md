@@ -36,6 +36,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "How AI Ads Are Disrupting Marketing"
+    excerpt: "Marketing with AI has been proven to be a successful strategy for many businesses. It's is a new way to reach customers and is much more personalized, targeted and engaging than traditional methods. AI marketing can be used for customer service,"
+    publishedDateTime: 2022-05-25T21:10:00Z
+    webUrl: "https://www.chron.com/business/article/How-AI-Ads-Are-Disrupting-Marketing-17199007.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/72/54/22522657/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers"
     excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE's award-winning investment platform who are clients of Interactive Brokers,"
     publishedDateTime: 2022-05-24T12:36:00Z

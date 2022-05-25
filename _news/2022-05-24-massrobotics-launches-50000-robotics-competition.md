@@ -141,6 +141,20 @@ related:
         width: 696
         height: 465
         isCached: true
+  - title: "Cowen and MassRobotics Highlight the Increasing Role of Robotics in Achieving Climate Objectives"
+    excerpt: "Cowen Inc. (NASDAQ:COWN) (“Cowen” or the “Company”) and MassRobotics today announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
+    publishedDateTime: 2022-05-25T12:00:00Z
+    webUrl: "https://www.mywabashvalley.com/business/press-releases/globenewswire/8559131/cowen-and-massrobotics-highlight-the-increasing-role-of-robotics-in-achieving-climate-objectives/"
+    type: article
+    provider:
+      name: WTWO
+      domain: mywabashvalley.com
+    quality: 41
+    images:
+      - url: "https://www.mywabashvalley.com/wp-content/uploads/sites/62/2021/12/mwv.png"
+        width: 2316
+        height: 862
+        isCached: true
   - title: "MassRobotics Announces Call for Nominations for The Robotics Medal Recognizing Women in Robotics"
     excerpt: "MassRobotics, a leading robotics innovation organization, announced a call for nominations for The Robotics Medal, a new annual award presented to a female researcher for substantial achievements and contributions in the field of robotics."
     publishedDateTime: 2022-05-23T19:08:00Z
@@ -149,15 +163,6 @@ related:
     provider:
       name: Automation
       domain: automation.com
-    quality: 21
-  - title: "Cowen and MassRobotics Highlight the Increasing Role of Robotics in Achieving Climate Objectives"
-    excerpt: "Since July 2019, Cowen and MassRobotics have enjoyed a partnership designed to bring together their extensive market knowledge in the areas of emerging robotics and artificial intelligence ... create an innovation hub and startup cluster focused on ..."
-    publishedDateTime: 2022-05-25T12:09:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8559131/cowen-and-massrobotics-highlight-the-increasing-role-of-robotics-in-achieving-climate-objectives"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
     quality: 21
   - title: "How Robosport Is Using Robots to Make Athletes Less Robotic"
     excerpt: "In recent years, we have witnessed increased discussions on developing robots to be more human and whether robots can surpass human intelligence."
@@ -168,6 +173,15 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 19
+  - title: "Zoho invests in startup Genrobotics"
+    excerpt: "Bengaluru: Tech company Zoho Corporation said on Wednesday that it has invested Rs 20 crore in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions."
+    publishedDateTime: 2022-05-25T19:29:00Z
+    webUrl: "https://www.thehansindia.com/karnataka/zoho-invests-in-startup-genrobotics-744943"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 2
 
 secured: "95pat70whg7bZ6gtJ53v+fK6fKoB21MfpvEmee3oaZhFGYqRYgptBp8xtpDsHETE1WO2S3xQr6OEq/5QwLhOxxG+xnyjcGTLG5f0dtUra5O/2X1JmXtUppSBoD+E7LpG77VMj0BNHv+8r1dFBJQGrLh2GEyddJyjwHc6FOPGxD2+c6dti9+W+AoynULM+u3A5iNz+x8BQjxJx3RZi/Xsi+/O+W7cE7bJGetN3g80kAxMBmDmY/EEhd+F4IgmsWnOJouPmzX9RyVIbcIVFGnMPaad4sD2RTGFxWCh5EH7CYgc8hfI9ayrT+2GqO9u9mTuC4h+Yhmh0XndXV0Vkx8ZooVgaJveLBX+3/7GAhPvdDY=;KCuIRpD1/b4dy7u8v4Gc2Q=="
 ---

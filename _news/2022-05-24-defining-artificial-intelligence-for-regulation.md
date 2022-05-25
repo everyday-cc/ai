@@ -38,6 +38,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "UK regulator fines facial recognition company $9M for illegally storing images"
+    excerpt: "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials."
+    publishedDateTime: 2022-05-23T21:22:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images"
+    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 55
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg"
+        width: 530
+        height: 300
+        isCached: true
 
 secured: "XoVXZ5CEzvn1/Tph6jv1FX+feyrSMpHxq/a2WpZFJLI+GC7gBMgx/ZIcGJuu0Ghac0LUiRtg6J5F3XtD2En3Si54td7IQGL5XBxnnlJqu1aOLxYg5s0NG4iKGVSpZdhhKwso5Rn4YldmEsUKmYTjtgtuNIh9xlAiii9KeBvdcQJm+MGeBKCw6ugLEPq+P7lMAsW08899fFqRMQdPDJYKsJcNoxnPxygsoKHC0NtjIPy6QvRj+lqdeLHTrvSoG0Ezws6x1EFrXZL68IklUt2vls775bzVzv0kUyt1PZtEsUQP+PZ6+1rwzUw7AKZ+PkV7yGoJi9IwFW7E85qc8MP05j6J2OxSMxDoXRkX0GWdrR0=;INJ5mNPPEbSU7urMeanlUA=="
 ---

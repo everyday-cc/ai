@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T18:34:00Z
 originalUrl: "https://robohub.org/the-art-of-making-robots-icra2022-day-2-interviews-and-video-digest/"
 webUrl: "https://robohub.org/the-art-of-making-robots-icra2022-day-2-interviews-and-video-digest/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Robohub

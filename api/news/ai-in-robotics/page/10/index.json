@@ -2,6 +2,231 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-10-robot-that-seems-to-convey-emotion-while-reading.md",
+      "title": "Robot that seems to convey emotion while reading",
+      "excerpt": "Robot that seems to convey emotion while reading Date: March 10, 2022 Source: University of Tsukuba Summary: Researchers have created a robot with an internal weight that can give the impression ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220310100010.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220310100010.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-ambi-robotics-and-pitney-bowes-sign-23-million-expansion.md",
+      "title": "Ambi Robotics and Pitney Bowes sign $23 million expansion",
+      "excerpt": "Ambi Robotics, the creator of the AmbiSort robotic sorting solution, and Pitney Bowes, a global shipping and mailing company, signed a $23 million expansion deal. Pitney Bowes will make the investment over the next four years in Robot as a Service (RaaS) fees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
+      "originalUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/03/featured-web-ambisort.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem.md",
+      "title": "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem",
+      "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox59.com/business/press-releases/cision/20220309FL86601/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem/",
+      "originalUrl": "https://fox59.com/business/press-releases/cision/20220309FL86601/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1763103/raveninhand.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem.md",
+      "title": "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem",
+      "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26063678",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26063678",
+      "publishedDateTime": "2022-03-09T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes.md",
+      "title": "Ceva Logistics Teams With Kodiak Robotics On Self-Driving Routes",
+      "excerpt": "CEVA and Kodiak launched its Dallas-Fort Worth to Austion service in November 2021. They expanded last month with a new route between Dallas-Fort Worth and Oklahoma City on the I-35 corridor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
+      "originalUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6228e548fe480cb68f2edc8a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
+      "publishedDateTime": "2022-03-09T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-a-text-reading-robot-with-heart.md",
       "title": "A text-reading robot with heart",
       "excerpt": "Tsukuba, Japan – Scientists from the Faculty of Engineering, Information and Systems at the University of Tsukuba devised a text message mediation robot that can help users control their anger ...",
@@ -1146,233 +1371,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-we-created-robot-dogs-to-patrol-the-us-border.md",
-      "title": "'We Created Robot Dogs To Patrol The U.S. Border'",
-      "excerpt": "and our four-legged Minitaur robot was the easiest to control. Originally, it was really just about research. There were no customers in mind, and we were actually selling the robots to other researchers. We had seen what other companies were doing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/robot-dogs-patrol-us-border-1681325",
-      "originalUrl": "https://www.newsweek.com/robot-dogs-patrol-us-border-1681325",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1990618/robot-dog-created-ghost-robotics.jpg",
-          "width": 3241,
-          "height": 2700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/robot-dogs-patrol-us-border-1681325?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robot-dogs-patrol-us-border-1681325?amp=1",
-      "publishedDateTime": "2022-02-27T11:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-27-ameca-is-a-robot-whose-facial-expressions-are-uncannily-realistic.md",
-      "title": "Ameca is a robot whose facial expressions are uncannily realistic",
-      "excerpt": "The English company intends to make it a platform for AI development. With its video presentation of its robot Ameca, English company Engineered Arts, specialised in the design and manufacture of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/12/07/ameca-is-a-robot-whose-facial-expressions-are-uncannily-realistic",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/12/07/ameca-is-a-robot-whose-facial-expressions-are-uncannily-realistic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/12/07/1395770.jpg",
-          "width": 1240,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-26T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-pittsburgh-pa-project-to-become-hub-for-robotics-ai.md",
-      "title": "Pittsburgh, Pa., Project to Become Hub for Robotics, AI",
-      "excerpt": "Work is underway to transform the LTV Coke Works plant in Pittsburgh’s Hazelwood neighborhood into a hub for robotics, AI, life sciences and similar ventures. The work will include a 150,000-square-foot Robotic Innovation Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai",
-      "originalUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/3fb5e13/2147483647/strip/true/crop/5120x2670+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fef%2F28%2Fe509fe964ebbbed9678d215bb674%2Fshutterstock-1501235957.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/pittsburgh-pa-project-to-become-hub-for-robotics-ai?_amp=true",
-      "publishedDateTime": "2022-02-25T15:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event.md",
-      "title": "Hummingbirds AI to present facial recognition security system at SXSW Pitch event",
-      "excerpt": "Hummingbirds AI was selected as an alternate in the Artificial Intelligence, Robotics & Voice category of SXSW Pitch to display its GuacamoleID application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event",
-      "originalUrl": "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg",
-          "width": 2048,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-25T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AI in Security",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-robot-built-for-japans-aging-workforce-finds-coronavirus-role.md",
-      "title": "Robot built for Japan’s aging workforce finds coronavirus role",
-      "excerpt": "Mira Robotics developed its “ugo” robot to reinforce graying Japan’s shrinking workforce, but as the coronavirus threat persists, the Japanese startup is offering its machine as a tool in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/13445780",
-      "originalUrl": "https://www.asahi.com/ajw/articles/13445780",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/ajw/images/logo_ogp.png",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "asahi.com",
-        "domain": "asahi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

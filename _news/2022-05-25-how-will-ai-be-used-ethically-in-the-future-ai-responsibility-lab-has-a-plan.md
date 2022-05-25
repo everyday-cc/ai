@@ -62,6 +62,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Smarter health: Artificial intelligence and the future of American health care"
+    excerpt: "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change that?"
+    publishedDateTime: 2022-05-25T20:38:00Z
+    webUrl: "https://www.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
+    ampWebUrl: "https://amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 57
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/linderpix-WBUR-OnPoint-6815-web_1000x667-400x267.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Up For Debate: Is AI The Future Of HR?"
     excerpt: "Employers that introduce smart technologies to drive efficiency in HR may stumble on a hidden layer of division in the workforce: some workers are comfortable having their resumes and performance data read by artificial intelligence (AI) – and some workers are fearful of how AI will influence"
     publishedDateTime: 2022-05-25T12:00:00Z

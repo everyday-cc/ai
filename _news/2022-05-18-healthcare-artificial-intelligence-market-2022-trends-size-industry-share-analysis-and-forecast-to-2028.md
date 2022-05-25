@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Healthcare Artificial Intelligence Market 2022, Trends, Size, Industry Share, Analysis and Forecast to 2028"
-excerpt: "\"Healthcare Artificial Intelligence Market\"The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320"
+excerpt: "Healthcare Artificial Intelligence Market” The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 billion by 2028 from US$ 148 billion in"
 publishedDateTime: 2022-05-17T22:00:00Z
-originalUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028"
-webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028"
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27267404/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-t"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27267404/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-t"
+ampWebUrl: "https://www.benzinga.com/amp/content/27267404"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27267404"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
-secured: "g4dP2Ddo2oAnjmIWzpxNaTRjYGjd/wW9PheTIOi6vZxxfUZ1nvcgPs2XAznkWGLq6CJvZF8tAYU96xPWLYerV+lYIlWTda+yXoGw6jLbd/C+kj3DsFU+rS/A9+kytAyj8p2wIxR5EmXDqiJ6PhBuP0MdHRtkWYDTL+h7l2UuiP0Mlw50rnnsY0lf0IDvOMFQ/2QweaXAdvFkxhicIVS9lLsemGzRT9KOQriRvFRryhtrZzgQLfXwEQTEyWk3EQD933q4mH+IY++oMbymPDnWIY72SlsP4KOmlK/HafmlEJncJBhIxSBoa/HGhnqBWH31y4M8JmELuldI/HyvvgHcH5IDE75fkqxDWHNUB7qF+X55GlV7TOx2+ZXHbIpr1S57q52Qp7BApFfWX/QFVeCNQ8vaDizq+cZr48OQ2QvQ/iigXmyJ118htqDfORaLEj51BiORdT8+haI9gK1LypFPylMuL0nvmUoIOKSTvzrpD4UvwdsU1GyBeJ08HbZGtd43izjSDrH/4newQY+1jA7njQ==;j3UywEgf4pUzdjVslxexaA=="
+images:
+  - url: "https://www.abnewswire.com/uploads/1652771728.jpeg"
+    width: 770
+    height: 440
+    isCached: true
+
+secured: "Bi+1G2tM/J5Nm5dIgfjRU1ivGOr9qQsSjIq+czt9uSm2iknOSl3ib8EsJiBPG5v7iFNkfU1dUwt4ccp778u528R/Isy6z4qVQMCz5AUITRCMrKXQ1zsKTr2O9RQgSFo977ZJk4bVyWU93BOLhU1O3xuLWGbdBEvyK1xjN6CKJeZjP26toVcbDW+nSii8ZbndvMI1yU3Phn+sVTlLfXhQzS1TkZTnlv40HMZiM1y4HXZEq5NJwY9Vf4eSy0kYIfMUpBsBCmfEnTUKil9So4qosLhz82eckQuCn7LQfTtx3YB2zjT/msxqmdB/90VH0dGfqeJtLDl6b50T/Oiv1dTwH/kbSW5PgqjA87tNrik4gqw=;rmAWoxaor43lrW1Aca9Xxw=="
 ---
 

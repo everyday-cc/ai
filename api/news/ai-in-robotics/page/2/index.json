@@ -2,6 +2,230 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-15-south-hills-area-robotics-team-offers-varied-learning-experiences.md",
+      "title": "South Hills area robotics team offers varied learning experiences",
+      "excerpt": "Picture a 125-pound, nearly three-foot-tall mechanical creation climb unassisted onto a set of monkey bars, amid a throng of folks who are rooting for it to succeed. “It’s as exciting as a hockey game or a football game,",
+      "sourceUrl": null,
+      "webUrl": "https://triblive.com/local/varsity-sport-for-the-mind-south-hills-area-robotics-team-offers-varied-learning-experiences/",
+      "originalUrl": "https://triblive.com/local/varsity-sport-for-the-mind-south-hills-area-robotics-team-offers-varied-learning-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-varnish.triblive.com/2022/05/5052719_web1_cv-titaniumtitans-052622-1.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-14T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TribLIVE.com",
+        "domain": "triblive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-14-cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc.md",
+      "title": "CISCE to introduce robotics, AI, others as subjects in ICSE, ISC",
+      "excerpt": "IIT Delhi’s tech innovation hub to help design CISCE curriculum in robotics, AI, machine learning and data science",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/05/14/1600x900/acc19fc0-d379-11ec-8c3e-83475041d003_1652528113795.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698-amp.html",
+      "publishedDateTime": "2022-05-14T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones.md",
+      "title": "Dubai students invent robot that can disarm explosives in war zones",
+      "excerpt": "A group of university students in the UAE have developed an autonomous robotic device that can disarm explosives. Students from Canadian University Dubai (CUD) have developed a high-tech, safe, and cost-effective solution to neutralize hazardous environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones",
+      "originalUrl": "https://www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=3d0c1d0e-a429-5cb9-a5df-eba5be79e73f&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84326&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones?amp=1",
+      "publishedDateTime": "2022-05-13T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-axel-gern-to-head-torc-robotics-technology-and-development-center-in-europe.md",
+      "title": "Axel Gern to head Torc Robotics Technology and Development Center in Europe",
+      "excerpt": "Torc Robotics has tapped Axel Gern, a long-time leader in truck automation, to head its recently opened Torc Europe GmbH engineering facility in Stuttgart, Germany. Gern has been named senior vice president of engineering and managing director for Torc Europe at the technology and software development center.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-germany-robotics-stuttgart-1379d550151bb0bf179fe934141a93f8",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-germany-robotics-stuttgart-1379d550151bb0bf179fe934141a93f8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-biotech-ceo-were-only-growing-stronger-with-ai-robotics.md",
+      "title": "Biotech CEO: We're Only Growing Stronger With AI, Robotics",
+      "excerpt": "We're dependent on data, we're dependent on better artificial intelligence that enables us to use models ... Again, we use AI, we use robotics, we use data science, and we use it all at the edge of where the technology is today as a way to enable our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/",
+      "originalUrl": "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/679121/robotics-lab.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-the-man-who-controls-computers-with-his-mind.md",
       "title": "The Man Who Controls Computers With His Mind",
       "excerpt": "Staring at the computer screen, searching his mind for a way to begin ... interfaces have learned to play simple tunes on a digital keyboard, control exoskeletons and maneuver robotic limbs with enough dexterity to drink from a bottle.",
@@ -1158,242 +1382,6 @@
         "AI",
         "AI in Robotics",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-robots-are-the-key-to-advancing-artificial-intelligence.md",
-      "title": "Robots Are The Key To Advancing Artificial Intelligence",
-      "excerpt": "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-05-04T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-space-discoveries-that-will-blow-your-mind.md",
-      "title": "Space discoveries that will blow your mind",
-      "excerpt": "Space discoveries that will blow your mind Since NASA’s inception in 1958, astronauts have landed on the moon, parked a robot-controlled rover on Mars, and discovered thousands of exoplanets—planets that orbit stars outside of this solar system.",
-      "sourceUrl": null,
-      "webUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
-      "originalUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/whatsupnewp.com/wp-content/uploads/2022/04/Screen20Shot202020-10-2620at201.01.4220PM_1.png?fit=1013%2C720&ssl=1",
-          "width": 1013,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
-      "cdnAmpWebUrl": "https://whatsupnewp-com.cdn.ampproject.org/c/s/whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
-      "publishedDateTime": "2022-05-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "What'sUpNewp",
-        "domain": "whatsupnewp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses.md",
-      "title": "EKA partners with NuPort Robotics to introduce smart Electric Buses",
-      "excerpt": "NuPort Robotics, a Canadian company announced its plans earlier ... are not only environmentally friendly but also futuristic through incorporation of Artificial Intelligence thereby making our buses efficient and safer to operate on Indian roads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.uniindia.com/story/EKA-partners-with-NuPort-Robotics-to-introduce-smart-Electric-Buses",
-      "originalUrl": "https://www.uniindia.com/story/EKA-partners-with-NuPort-Robotics-to-introduce-smart-Electric-Buses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uniindia.com/public/default-image/default-730x400.png",
-          "width": 730,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United News of India",
-        "domain": "uniindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
-      "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
-      "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426610",
-      "originalUrl": "https://www.entrepreneur.com/article/426610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-426610.jpeg",
-          "width": 3001,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-3-leading-us-robotics-clusters-create-alliance.md",
-      "title": "3 leading US robotics clusters create alliance",
-      "excerpt": "MassRobotics, Pittsburgh Robotics Network and Silicon Valley Robotics have combined forces to create a cluster alliance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/3-leading-us-robotics-clusters-create-alliance/",
-      "originalUrl": "https://www.therobotreport.com/3-leading-us-robotics-clusters-create-alliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-robotics-clusters.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

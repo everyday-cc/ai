@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-to-pred
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm"
 type: article
 quality: 72
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medindia
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "C3.ai (AI) Scheduled to Post Quarterly Earnings on Wednesday"
-    excerpt: "C3.ai (NYSE:AI – Get Rating) will issue its quarterly earnings data after the market closes on Wednesday, June 1st. Analysts expect the company to announce earnings of ($0.58) per share for the quarter. C3.ai has set its FY 2022 guidance at EPS.Parties ..."
-    publishedDateTime: 2022-05-25T05:29:00Z
-    webUrl: "https://www.etfdailynews.com/2022/05/25/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/05/25/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/05/25/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/amp/"
+  - title: "AI Deep Learning Predicts Cancer From Scans of Lung Nodules"
+    excerpt: "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale Visual Recognition Challenge and raised the accuracy of AI ..."
+    publishedDateTime: 2022-05-25T20:59:00Z
+    webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
+    ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
     type: article
     provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 57
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 74
     images:
-      - url: "https://www.marketbeat.com/scripts/EarningsChart.ashx?Prefix=NYSE&Symbol=AI"
-        width: 650
-        height: 325
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb"
+        width: 1528
+        height: 800
         isCached: true
   - title: "AI tool helps doctors predict cancer risk in lung nodules seen on chest CT"
     excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study published in the journal Radiology."

@@ -2,6 +2,240 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-01-27-elon-musk-tesla-is-prioritizing-product-development-of-optimus-humanoid-robot-in-2022.md",
+      "title": "Elon Musk: Tesla is prioritizing product development of Optimus humanoid robot in 2022",
+      "excerpt": "Elon Musk announced that Tesla is going to be shifting its product development to make Tesla Bot, a humanoid robot also known as Optimus, a priority in 2022. This is quite a surprising change of strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/",
+      "originalUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/",
+      "publishedDateTime": "2022-01-27T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-artificial-intelligence-why-you-cant-afford-to-ignore-it-any-longer.md",
+      "title": "Artificial Intelligence: Why you can’t afford to ignore it any longer",
+      "excerpt": "By Jonathan Bowdler, Head of Regulatory, ICA Once, public understanding of artificial intelligence (AI) derived only from science-fiction novels and cinema – various Terminators, I, Robot, Blade Runne",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-why-you-cant-afford-ignore-any-longer-",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-why-you-cant-afford-ignore-any-longer-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH5vtW0CA0HMA/article-cover_image-shrink_720_1280/0/1643205321176?e=1649289600&v=beta&t=HL2K_Wn7U9uYkGDBaSHaa2coLRo-lWpi3dIAzvssdC4",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-best-robot-vacuum-2022.md",
+      "title": "Best Robot Vacuum 2022",
+      "excerpt": "Not the only measure, mind you ... It’s up to you whether those remote control conveniences are worth the extra price. Mapping features: Cheaper robots tend to head in a random direction ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/articles/best-robot-vacuum",
+      "originalUrl": "https://www.ign.com/articles/best-robot-vacuum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.ignimgs.com/2019/08/12/robot-vacuums-1565622632427_160w.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-ros-vs-ros-2-differences-and-practical-applications.md",
+      "title": "ROS vs. ROS 2: Differences and Practical Applications",
+      "excerpt": "and tools to create applications for robots. The platform offers services for a heterogeneous computer cluster such as hardware abstraction, device control, implementation of functionalities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21215225/electronic-design-ros-vs-ros-2-differences-and-practical-applications",
+      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21215225/electronic-design-ros-vs-ros-2-differences-and-practical-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/01/Sompong_Sriphet_dreamstime_l_138547722newest.61f2a829e859a.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics.md",
+      "title": "U.S. Steel to invest in Carnegie Foundry to accelerate advanced robotics",
+      "excerpt": "U.S. Steel <> has entered into a strategic investment and partnership with robotics and artificial intelligence studio Carnegie Foundry, the Pittsburgh",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
+      "originalUrl": "https://seekingalpha.com/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1186090916/image_1186090916.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
+      "publishedDateTime": "2022-01-26T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-mind-controlled-wearables-and-disease-detecting-mirrors-mainstream-by-2030.md",
       "title": "Mind-controlled wearables and disease-detecting mirrors ‘mainstream by 2030’",
       "excerpt": "Smart devices capable of detecting disease, wearables that can be controlled using thought and connectivity built into trees to help track climate change could all be mainstream technology by 2030, according to a new report.",
@@ -1176,257 +1410,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029.md",
-      "title": "Artificial Intelligence Robotics Market 2022 Growth Insights, Understand Industry Size, Share, Revenue, Challenges and Global Forecast 2029",
-      "excerpt": "The newly published report is titled, “Global Artificial Intelligence Robotics Market Research Report 2022” that",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029-2022-01-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029-2022-01-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles.md",
-      "title": "Wayve raises $200M Series B led by Eclipse for its AI for autonomous delivery vehicles",
-      "excerpt": "British autonomous vehicle startup Wayve has raised a $200 million Series B funding round from investors to scale its technology and expand its partnerships with commercial fleets. Wayve is aiming to be a major player in the arena of Robo-deliveries and logistics.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/",
-      "originalUrl": "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Alex-Kendall-CEO-2.jpg?w=831",
-          "width": 831,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/",
-      "publishedDateTime": "2022-01-18T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-now-you-can-rent-a-robot-workerfor-less-than-paying-a-human.md",
-      "title": "Now You Can Rent a Robot Worker—for Less Than Paying a Human",
-      "excerpt": "The robot arm performs a simple, repetitive job: lifting a piece of metal into a press, which then bends the metal into a new shape. And like a person, the robot worker gets paid for the hours it works.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/rent-robot-worker-less-paying-human/",
-      "originalUrl": "https://www.wired.com/story/rent-robot-worker-less-paying-human/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61e1db9a844ec857b71382b4/master/pass/Biz_GN_4.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/rent-robot-worker-less-paying-human/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rent-robot-worker-less-paying-human/amp",
-      "publishedDateTime": "2022-01-18T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-4-times-shakespeare-has-inspired-stories-about-robots-and-ai.md",
-      "title": "4 times Shakespeare has inspired stories about robots and AI",
-      "excerpt": "Here are just a few of our favorite examples of how science fiction has embraced – and transformed – Shakespeare.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/shakespeare-inspired-stories-about-robots-ai-syndication",
-      "originalUrl": "https://thenextweb.com/news/shakespeare-inspired-stories-about-robots-ai-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FSPAI.jpg&signature=16f7448a37fd999875a88251597b9714",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-reliance-retail-buys-54-stake-in-robotics-firm-addverb-tech-for-132-million.md",
-      "title": "Reliance Retail buys 54% stake in robotics firm Addverb Tech for $132 million",
-      "excerpt": "Leading homegrown robotics company Addverb Technologies on Tuesday said that Reliance is investing up to $132 million in the company to become its largest",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/business/news/reliance-retail-buys-majority-stake-in-robotics-firm-addverb-tech-for-132-million/articleshow/88971842.cms",
-      "originalUrl": "https://www.businessinsider.in/business/news/reliance-retail-buys-majority-stake-in-robotics-firm-addverb-tech-for-132-million/articleshow/88971842.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/88971930.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/reliance-retail-buys-majority-stake-in-robotics-firm-addverb-tech-for-132-million/amp_articleshow/88971842.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/reliance-retail-buys-majority-stake-in-robotics-firm-addverb-tech-for-132-million/amp_articleshow/88971842.cms",
-      "publishedDateTime": "2022-01-18T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

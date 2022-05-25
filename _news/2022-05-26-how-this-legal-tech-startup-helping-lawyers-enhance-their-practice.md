@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T19:54:00Z
 originalUrl: "https://www.thehansindia.com/business/how-this-legal-tech-startup-helping-lawyers-enhance-their-practice-744957"
 webUrl: "https://www.thehansindia.com/business/how-this-legal-tech-startup-helping-lawyers-enhance-their-practice-744957"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Hans India

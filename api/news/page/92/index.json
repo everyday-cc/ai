@@ -2,6 +2,477 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2022-03-05-artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise.md",
+      "title": "Artificial Intelligence in Healthcare Service Market Next Big Thing : Major Giants IBM, Microsoft, Atomwise",
+      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 03/04/2022 -- The Latest research study released by HTF MI",
+      "sourceUrl": null,
+      "webUrl": "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.presspage.com/uploads/2110/1920_ai-cedarsp-sinai.jpeg?10000",
+          "width": 1799,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-05-microsoft-completes-197b-acquisition-of-nuances-ai-voice-tech.md",
+      "title": "Microsoft completes $19.7B acquisition of Nuance's AI voice tech",
+      "excerpt": "Microsoft's $19.7 billion deal for AI-based communications provider Nuance closed on Friday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/microsoft-completes-197-billion-acquisition-ai-giant-nuance",
+      "originalUrl": "https://www.protocol.com/bulletins/microsoft-completes-nuance-acquisition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/01/microsoft-logo-2022-2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-build-a-cold-start-time-series-forecasting-engine-using-autogluon.md",
+      "title": "Build a cold start time series forecasting engine using AutoGluon",
+      "excerpt": "Whether you’re allocating resources more efficiently for web traffic, forecasting patient demand for staffing needs, or anticipating sales of a company’s products, forecasting is an essential tool across many businesses. One particular use case, known as cold start forecasting, builds forecasts for a",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cold-start-time-series-forecasting-engine-using-autogluon/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cold-start-time-series-forecasting-engine-using-autogluon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/18/ML-7552-image009.png",
+          "width": 913,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T08:37:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare.md",
+      "title": "AI Weekly: The Russia-Ukraine conflict is a test case for AI in warfare",
+      "excerpt": "The Russia-Ukraine conflict is a proving ground for AI technologies applied to warfare. Already, the impacts are coming into clear view.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/",
+      "originalUrl": "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-534144629-1.jpg?fit=800%2C532&strip=all",
+          "width": 799,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/",
+      "publishedDateTime": "2022-03-04T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-polycoder-is-an-open-source-ai-code-generator-that-researchers-claim-trumps-codex.md",
+      "title": "PolyCoder is an open source AI code-generator that researchers claim trumps Codex",
+      "excerpt": "Researchers at Carnegie Mellon University have developed a code-generating AI system that they claim can write in C better than OpenAI's Codex.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/",
+      "originalUrl": "https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/Application-developer.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/amp/",
+      "publishedDateTime": "2022-03-04T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-7-favorite-fintech-stocks-to-buy-after-the-correction.md",
+      "title": "7 Favorite Fintech Stocks to Buy After the Correction",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Here are 7 fintech stocks trading at significant discounts with the industry poised to thrive in the foreseeable future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/421408",
+      "originalUrl": "https://www.entrepreneur.com/article/421408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/investorplace/hero-image-investorplace-421408.jpeg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-ionq-presents-algorithmic-qubits-benchmark-at-quantum-information-processing-qip-conference-2022.md",
+      "title": "IonQ Presents Algorithmic Qubits Benchmark at Quantum Information Processing (QIP) Conference 2022",
+      "excerpt": "Luning Zhao, a Senior Application Engineer with IonQ, will deliver an address describing the performance of IonQ Aria, the company's newest and most advanced quantum computer. Zha",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ionq-presents-algorithmic-qubits-benchmark-quantum-information-processing-/2022/03/04/9557400.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ionq-presents-algorithmic-qubits-benchmark-quantum-information-processing-/2022/03/04/9557400.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-ai-computer-maker-graphcore-announces-new-3d-chip.md",
+      "title": "AI computer maker Graphcore Announces new 3D chip",
+      "excerpt": "Graphcore, an England-based AI chips and systems maker, has announced a new 3D chip called “Bow”. The new chip will use two stacked",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/AI-computer-maker-Graphcore-Announces-new-3D-chip-01-1-1024x577.jpg",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/",
+      "publishedDateTime": "2022-03-04T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-cyberdog-and-robo-barman-spotted-at-spain-tech-congress.md",
+      "title": "Cyberdog and robo-barman: Spotted at Spain tech congress",
+      "excerpt": "The Kime robot is a \"high added value\" bartender developed by Spanish \"food tech\" group Macco Robotics. Joan Laporta, president of Barcelona football club, was among the robot's customers at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/cyberdog-and-robo-barman-spotted-at-spain-tech-congress/89986545",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/cyberdog-and-robo-barman-spotted-at-spain-tech-congress/89986545",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89986545,imgsize-121210,width-1200,height-628,overlay-etcio/cyberdog-and-robo-barman-spotted-at-spain-tech-congress.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-the-5-biggest-computer-vision-trends-in-2022.md",
+      "title": "The 5 Biggest Computer Vision Trends In 2022",
+      "excerpt": "Computer vision (sometimes called machine vision) is one of the most exciting applications of artificial intelligence. Here we look at the five biggest trends in this fast-developing area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6221c6ec627443cf26ea478e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/amp/",
+      "publishedDateTime": "2022-03-03T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-kmworld-100-companies-that-matter-in-knowledge-management-2022.md",
       "title": "KMWorld 100 Companies That Matter in Knowledge Management 2022",
       "excerpt": "AvePoint—Offers a full suite of SaaS solutions to migrate, man- age, and protect data in Microsoft 365 ... to automate routine cognitive tasks and provide insights. Infosys—A global provider of next-generation services and consulting that enables ...",
@@ -723,473 +1194,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-prescription-for-advancing-healthcare-artificial-intelligence.md",
-      "title": "Prescription for Advancing Healthcare: Artificial Intelligence",
-      "excerpt": "From Drug Discovery to Triage, AI Deployed Against Top Challenges",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html",
-      "originalUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/03/research_biology_microscope_healthcare_science_1200x800-1.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html/amp",
-      "publishedDateTime": "2022-03-03T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor.md",
-      "title": "Eufy Security Video Smart Lock Combines 2K Camera And Fingerprint Sensor",
-      "excerpt": "Anker's Eufy Security reveals a new video smart lock system that makes smart protection of one's own front door seem simple, handy, and enjoyable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/786826/eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor/",
-      "originalUrl": "https://www.slashgear.com/786826/eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor/l-intro-1646329682.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code.md",
-      "title": "An Artificial Intelligence Rant: Neural Networks Are Not Magic, They’re Code",
-      "excerpt": "Artificial Intelligence.. I was reading yet another document about artificial intelligence (AI). The introduction was covering the basics and the",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&fit=crop",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/amp/",
-      "publishedDateTime": "2022-03-03T09:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-how-to-maximise-your-ai-investment.md",
-      "title": "How to maximise your AI investment",
-      "excerpt": "Whether you’re receiving financial advice via a banking app, shopping online or troubleshooting computer problems with tech support, AI is likely to play a part in your daily activities. Indeed, 50 per cent of respondents to McKinsey’s State of AI 2020 survey reported that their companies have adopted the technology in at least one business function.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/how-to-maximise-your-ai-investment",
-      "originalUrl": "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/how-to-maximise-your-ai-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.prismic.io/reuterscustomhubs/945c4755-8b87-4333-9b81-b06aef24db8d_tbr-eastbanc-hero-main.jpg?auto=compress,format",
-          "width": 1459,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-enable-the-visually-impaired-to-hear-documents-using-amazon-textract-and-amazon-polly.md",
-      "title": "Enable the visually impaired to hear documents using Amazon Textract and Amazon Polly",
-      "excerpt": "At the 2021 AWS re:Invent conference in Las Vegas, we demoed Read For Me at the AWS Builders Fair—a website that helps the visually impaired hear documents. For better quality, view the video here. Adaptive technology and accessibility features are often expensive, if they’re available at all. Audio",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-the-visually-impaired-to-hear-documents-using-amazon-textract-and-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-the-visually-impaired-to-hear-documents-using-amazon-textract-and-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/22/ReadForMeArchitectureforblogpost-1095x630.png",
-          "width": 1095,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T08:49:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games.md",
-      "title": "Inworld AI raises $10M to develop AI- powered virtual characters for games",
-      "excerpt": "Inworld AI has raised $10 million to help scale its team as it prepares to launch its AI character creation platform later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/",
-      "originalUrl": "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/Inworld-AI-Character-Screenshot.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 871,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/",
-      "publishedDateTime": "2022-03-03T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-luminous-computing-the-latest-ai-startup-to-attract-big-funding.md",
-      "title": "Luminous Computing The Latest AI-Startup To Attract Big Funding",
-      "excerpt": "Luminous Computing is one—and investors seem intrigued with its promise. The Mountain View, California-based supercomputer company closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding",
-      "originalUrl": "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp",
-      "publishedDateTime": "2022-03-03T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-intel-12th-gen-alder-lake-vpro-arrives-with-ai-enhanced-security-for-smbs-and-enterprise.md",
-      "title": "Intel 12th Gen Alder Lake vPro Arrives With AI Enhanced Security For SMBs And Enterprise",
-      "excerpt": "One of the big upgrades of Intel's vPro platform for 12th Gen CPUs is a cutting-edge anomalous behavior detection (ABD) capability to thwart supply chain-style attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
-      "originalUrl": "https://hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57870/content/Intel_vPro_12th_Gen_Badges.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
-      "publishedDateTime": "2022-03-03T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-a-baby-cry-translator-a-company-uses-machine-learning-to-translate-your-infant.md",
-      "title": "A baby cry translator? A company uses machine learning to translate your infant",
-      "excerpt": "Switzerland-based startup Zoundream is working on a proprietary device that translates what they call the \"universal language\" of babies, with help of A.I.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/baby-cry-translator-ai",
-      "originalUrl": "https://interestingengineering.com/baby-cry-translator-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/MRw4ZnPBG1/sizes/baby-cry_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/baby-cry-translator-ai",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baby-cry-translator-ai",
-      "publishedDateTime": "2022-03-03T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand-gestures.md",
-      "title": "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures",
-      "excerpt": "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud’s digital avatar platform XiLing,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -53,34 +53,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Garda to use facial recognition technology"
-    excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
-    publishedDateTime: 2022-05-24T23:01:00Z
-    webUrl: "https://www.irishtimes.com/news/crime-and-law/garda-to-use-facial-recognition-technology-1.4887298"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 41
-    images:
-      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Police use of facial recognition technology could soon be under review"
-    excerpt: "Lawmakers who sponsored the bill said artificial intelligence software has become a common part of everyday life despite the potential civil liberty issues it poses."
-    publishedDateTime: 2022-05-24T17:45:00Z
-    webUrl: "https://www.cpr.org/2022/05/24/police-facial-recognition-technology-under-review/"
-    type: article
-    provider:
-      name: Colorado Public Radio
-      domain: cpr.org
-    quality: 39
-    images:
-      - url: "https://wp-cpr.s3.amazonaws.com/uploads/2022/01/161109-CHAMPA-KEVINJBEATY-07.jpg?resize=1200,600"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "New laws will allow gardaí to use facial recognition technology to identify suspects"
     excerpt: "Gardaí will be given powers to use facial recognition technology to identify suspects in serious crimes for the first time. Justice Minister Helen McEntee is seeking cabinet approval to allow the use of special software to catch killers and child ..."
     publishedDateTime: 2022-05-25T05:58:00Z

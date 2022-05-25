@@ -2,6 +2,232 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-17-ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars.md",
+      "title": "AI Ethics Keeps Relentlessly Asking Or Imploring How To Adequately Control AI, Including The Matter Of AI That Drives Self-Driving Cars",
+      "excerpt": "The AI Control Problem is what keeps AI ethics up at night, for which paths to solving the pressing issue are discussed, along with examples from AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622a4da448f19c30f3859096/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/amp/",
+      "publishedDateTime": "2022-03-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage.md",
+      "title": "The Internet of Beer: Robotics startup taps Bitcoin to deliver automated beverage",
+      "excerpt": "The Smart Tap system was created in 2016 and employs blockchain technology to link the future of draft beer with the future of transactions.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage",
+      "originalUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDMvNGE5ODEwM2ItOTQxYS00NTEzLWI0YTktNjQyODY2YTUyMDhkLmpwZw==.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage/amp",
+      "publishedDateTime": "2022-03-17T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-irobot-releases-genius-40-home-intelligence-doubles-the-intelligence-for-roomba-i3-and-i3-robot-vacuums-and-more.md",
+      "title": "iRobot Releases Genius 4.0 Home Intelligence: Doubles the Intelligence for Roomba® i3 and i3+ Robot Vacuums and More",
+      "excerpt": "Updates Include Imprint® Smart Mapping for Roomba i3 Series, Siri Commands, Clothing & Towel Detection for Roomba j7 Series. BEDFORD, Mass., March 17, 2022 /PRNewswire/ -- iRobot",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-wi-fi-irobot-corp-94ebdf4127c23429308aea3f638ac0cd",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-wi-fi-irobot-corp-94ebdf4127c23429308aea3f638ac0cd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5.md",
+      "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 5%",
+      "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating)’s stock price shot up 5% during trading on Wednesday . The stock traded as high as $27.86 and last traded at $27.86.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/",
+      "originalUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/amp/",
+      "publishedDateTime": "2022-03-17T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-robotic-fish-designed-to-enable-efficient-offshore-inspection-regimes.md",
+      "title": "Robotic fish designed to enable efficient offshore inspection regimes",
+      "excerpt": "Verlume has joined with consortium partners to progress the development of an autonomous underwater robot that moves like a fish to enable efficient offshore inspection regimes in harsh and hard-to-reach environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.windtech-international.com/product-news/robotic-fish-designed-to-enable-efficient-offshore-inspection-regimes",
+      "originalUrl": "https://www.windtech-international.com/product-news/robotic-fish-designed-to-enable-efficient-offshore-inspection-regimes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windtech-international.com/images/stories/Features/2022Features/MarchApril2022Images/CNC-Figure-1.jpg",
+          "width": 400,
+          "height": 295,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windtech International",
+        "domain": "windtech-international.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist.md",
       "title": "These 2 Artificial Intelligence Stocks Are Set for Strong Growth, Says Truist",
       "excerpt": "Let’s talk about artificial intelligence. AI is a growing segment of the tech sector, finding uses in almost every industry, especially those featuring autonomous systems. Self-driving cars, industrial robots,",
@@ -1090,231 +1316,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-robot-that-seems-to-convey-emotion-while-reading.md",
-      "title": "Robot that seems to convey emotion while reading",
-      "excerpt": "Robot that seems to convey emotion while reading Date: March 10, 2022 Source: University of Tsukuba Summary: Researchers have created a robot with an internal weight that can give the impression ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220310100010.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220310100010.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-ambi-robotics-and-pitney-bowes-sign-23-million-expansion.md",
-      "title": "Ambi Robotics and Pitney Bowes sign $23 million expansion",
-      "excerpt": "Ambi Robotics, the creator of the AmbiSort robotic sorting solution, and Pitney Bowes, a global shipping and mailing company, signed a $23 million expansion deal. Pitney Bowes will make the investment over the next four years in Robot as a Service (RaaS) fees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
-      "originalUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/03/featured-web-ambisort.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem.md",
-      "title": "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem",
-      "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox59.com/business/press-releases/cision/20220309FL86601/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem/",
-      "originalUrl": "https://fox59.com/business/press-releases/cision/20220309FL86601/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1763103/raveninhand.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem.md",
-      "title": "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem",
-      "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26063678",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26063678",
-      "publishedDateTime": "2022-03-09T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes.md",
-      "title": "Ceva Logistics Teams With Kodiak Robotics On Self-Driving Routes",
-      "excerpt": "CEVA and Kodiak launched its Dallas-Fort Worth to Austion service in November 2021. They expanded last month with a new route between Dallas-Fort Worth and Oklahoma City on the I-35 corridor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
-      "originalUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6228e548fe480cb68f2edc8a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
-      "publishedDateTime": "2022-03-09T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

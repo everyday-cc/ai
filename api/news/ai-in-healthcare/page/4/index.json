@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-04-05-rsna-artificial-intelligence-may-improve-diabetes-diagnosis.md",
-      "title": "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis",
-      "excerpt": "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26480381",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480381",
-      "publishedDateTime": "2022-04-05T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-05-startup-using-voice-to-quantify-therapy-raises-20m.md",
       "title": "Startup using voice to quantify therapy raises $20M",
       "excerpt": "Eleos Health, a startup using voice technology to analyze behavioral health sessions, raised $20 million in Series A funding, CEO and co-founder Alon Joffe tells Axios exclusively. Why it matters: A sizzling subsector,",
@@ -1344,6 +1301,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-opinion-using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment.md",
+      "title": "Opinion: Using artificial intelligence in health sciences education requires interdisciplinary collaboration and risk assessment",
+      "excerpt": "There are growing applications of artificial intelligence in health sciences education. Students and practitioners need to be educated on using these technologies and made aware of their implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.burnabynow.com/opinion/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-5169962",
+      "originalUrl": "https://www.burnabynow.com/opinion/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-5169962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/healthcaretechnology.jpg;w=1200;h=800;mode=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Burnaby Now",
+        "domain": "burnabynow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
       ]
     }
   ],

@@ -150,6 +150,50 @@
       ]
     },
     {
+      "path": "_news/2022-05-23-playing-by-the-rules-fintechs-use-ai-for-marketing-compliance.md",
+      "title": "Playing by the Rules: Fintechs Use AI for Marketing Compliance",
+      "excerpt": "Companies are spending billions on marketing and advertising, paying big bucks to be center stage for public attention. For fintechs that operate globally and under the jurisdiction of multiple government agencies and regulatory systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance",
+      "originalUrl": "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh6.googleusercontent.com/XTM3knFbB18Ultf9kkId2-XySe7I71UoEt4VYlNfNr0eSFw_AF0IM6-T-ozQMxrAgBwQUijX_5Q-2JP20wYnU5IxgHWaS9__oPqESXw4wnWgtjOKz0fFImRtMckLFqiGUW0YMiWkY5BRmiucuQ",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next.md",
       "title": "Synchrony Financial Stock Lost 10% In One Week, What To Expect Next?",
       "excerpt": "The current scenario is likely to increase the credit risk, leading to an increase in the provisions of credit losses.",
@@ -1288,58 +1332,6 @@
         "name": "wamda",
         "domain": "wamda.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-hpe-looks-to-deliver-the-power-of-swarm-learning.md",
-      "title": "HPE looks to deliver the power of ‘swarm learning’",
-      "excerpt": "When applied to intelligent devices operating in the real world, “swarm learning” refers to decentralization. This means that users can share learnings at the edge, or at distributed sites, without moving or exposing data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/swarm.jpg?fit=800%2C531&strip=all",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/amp/",
-      "publishedDateTime": "2022-04-27T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

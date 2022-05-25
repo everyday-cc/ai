@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-04-22-a-new-vision-of-artificial-intelligence-for-the-people.md",
-      "title": "A new vision of artificial intelligence for the people",
-      "excerpt": "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine th",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/",
-      "originalUrl": "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-5-3-1.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/",
-      "publishedDateTime": "2022-04-22T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-04-21-healthcare-artificial-intelligence-market-2022-share-size-trend-growth-analysis-and-forecast-to-2027.md",
       "title": "Healthcare Artificial Intelligence Market 2022 Share, Size, Trend, Growth Analysis and Forecast to 2027",
       "excerpt": "and IBM Watson Health are some top-notch players in the healthcare artificial intelligence market that are listed by MRFR. The healthcare artificial intelligence market can be segmented based on ...",
@@ -1295,6 +1251,49 @@
       "provider": {
         "name": "Analytics",
         "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-rsna-artificial-intelligence-may-improve-diabetes-diagnosis.md",
+      "title": "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis",
+      "excerpt": "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26480381",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480381",
+      "publishedDateTime": "2022-04-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

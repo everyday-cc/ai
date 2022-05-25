@@ -2,6 +2,474 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2022-02-04-interview-with-alice-wong-founder-and-principal-data-scientist-hyperplane-consulting.md",
+      "title": "Interview with Alice Wong, Founder and Principal data scientist, Hyperplane Consulting",
+      "excerpt": "A good data scientist has some traits that set them apart from others. As per Wong, some of these traits are: One who cannot be replaced by AutoML. What this means is that even if they use AutoML, they should be able to piece together different solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/interview-with-alice-wong-founder-and-principal-data-scientist-hyperplane-consulting/",
+      "originalUrl": "https://analyticsindiamag.com/interview-with-alice-wong-founder-and-principal-data-scientist-hyperplane-consulting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/alice-wong.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T23:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-artificial-intelligence-chipsets-market-size-application-and-future-forecast-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size: Application and Future Forecast by 2026",
+      "excerpt": "Artificial Intelligence Chipsets Market size is set to surpass USD 70 billion by 2026, according to a new research report by Global Market Insights, Inc. The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-application-and-future-forecast-by-2026-2022-02-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-application-and-future-forecast-by-2026-2022-02-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T22:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-5-incredible-artificial-intelligence-achievements-you-should-know-about.md",
+      "title": "5 Incredible Artificial Intelligence Achievements You Should Know About",
+      "excerpt": "Scientists have made great progress in artificial intelligence in the last decade ... that will contribute to a better quality of life in the years to come. From self-driving cars to using AI to create art and music, it is becoming clear that AI is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/5-incredible-artificial-intelligence-achievements-you-juri-boro",
+      "originalUrl": "https://www.linkedin.com/pulse/5-incredible-artificial-intelligence-achievements-you-juri-boro",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE_M17c5Q_8YQ/article-cover_image-shrink_720_1280/0/1643951127560?e=1649894400&v=beta&t=tbkfjaGjx_K3KNqxyJ90TrjEAjJ0VpAEVkhsLjeGUyo",
+          "width": 1032,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T21:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-how-will-conversational-ai-transform-customer-experience.md",
+      "title": "How Will Conversational AI Transform Customer Experience?",
+      "excerpt": "... recognition (ASR), the AI application can understand spoken words and translate them into text. Next, the AI app determines what the text means by using natural language understanding (NLU) and then formulates a response to the text. The app ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-experience/how-will-conversational-ai-transform-customer-experience/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/how-will-conversational-ai-transform-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/069a8728bac64cff929d04d6787a26f0.ashx",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T19:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-air-force-taps-clearview-ai-to-research-face-identifying-augmented-reality-glasses.md",
+      "title": "Air Force taps Clearview AI to research face-identifying augmented reality glasses.",
+      "excerpt": "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
+      "originalUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html",
+      "publishedDateTime": "2022-02-03T17:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-tesla-full-self-driving-beta-runs-into-a-pole-in-what-could-be-the-first-fsd-accident-caught-on-video.md",
+      "title": "Tesla Full Self-Driving Beta runs into a pole in what could be the first FSD accident caught on video",
+      "excerpt": "A Tesla vehicle using Full Self-Driving Beta has been caught on video running into a pole in what could be the first accident on the FSD Beta. Last month, Elon Musk was claiming that Tesla’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/",
+      "originalUrl": "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dtTtANwfvfg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/amp/",
+      "publishedDateTime": "2022-02-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-why-collaborative-robots-are-spiking-in-sales.md",
+      "title": "Why Collaborative Robots Are Spiking in Sales",
+      "excerpt": "Our hands are great, and they work well with the mind,” said Fitzgerald. “For robotics, Robotiq makes great grippers ... Rob Spiegel has covered automation and control for 17 years, 15 of them for Design News. Other topics he has covered include ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/why-collaborative-robots-are-spiking-sales",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/why-collaborative-robots-are-spiking-sales",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Rethink_0.jpg",
+          "width": 251,
+          "height": 201,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-teslas-full-self-driving-phantom-braking-problem-is-getting-worse.md",
+      "title": "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse",
+      "excerpt": "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
+      "originalUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06P6Iwf3lnDbD7b8OPdv0jd/hero-image.fill.size_1200x675.v1643829413.jpg",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-fsd-phantom-braking?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp",
+      "publishedDateTime": "2022-02-03T14:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-us-tests-robot-dogs-to-patrol-southern-border.md",
+      "title": "U.S. tests \"robot dogs\" to patrol southern border",
+      "excerpt": "A robot modeled after man's best friend may one day help patrol the U.S. southern border. \"Don't be surprised if in the future we see robot 'Fido' out in the field, walking side by side with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "originalUrl": "https://www.cbsnews.com/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/02/03/e571f339-cfe0-4783-9956-e6387ba7c98f/thumbnail/1200x630/98ac0ff781f87aa7f997488bbdf3da0b/22-0201-st-fa-robot-dog8-0.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "publishedDateTime": "2022-02-03T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
+      "title": "Neuroscientists use deep learning model to simulate brain topography",
+      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brain.jpg",
+          "width": 1920,
+          "height": 1462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
+      "publishedDateTime": "2022-02-03T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-toyota-built-an-autonomous-self-drifting-sports-car.md",
       "title": "Toyota built an autonomous self-drifting sports car",
       "excerpt": "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ...",
@@ -752,482 +1220,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe.md",
-      "title": "DeepMind co-founder plans to help U.S. VC firm Greylock penetrate Europe",
-      "excerpt": "Greylock has profited from early bets on U.S. tech giants like Airbnb, Facebook and LinkedIn but it also wants to capitalize on fast-growing companies in Europe. DeepMind co-founder Mustafa Suleyman is planning to help U.S. venture capital firm Greylock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe/ar-AATr2HE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106830698-1611754303373-GettyImages-627782598.jpg?v=1611755158",
-          "width": 5496,
-          "height": 3664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "publishedDateTime": "2022-02-03T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-        "domain": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-proofpoint-announces-2021-financial-results-completes-v-shaped-recovery-with-both-revenue-and-billings-growing-more-than-20.md",
-      "title": "Proofpoint Announces 2021 Financial Results; Completes V-Shaped Recovery with Both Revenue and Billings Growing More Than 20%",
-      "excerpt": "(the “Company” or “Proofpoint”), a leading cybersecurity and compliance company, today announced year-end financial results for 2021. “Our strong 2021 results are a testament to our team’s consistent execution and dedicated focus on protecting our customers from advanced threats and compliance risks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8469007/proofpoint-announces-2021-financial-results-completes-v-shaped-recovery-with-both-revenue-and-billings-growing-more-than-20",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8469007/proofpoint-announces-2021-financial-results-completes-v-shaped-recovery-with-both-revenue-and-billings-growing-more-than-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-does-ai-improve-human-judgment.md",
-      "title": "Does AI Improve Human Judgment?",
-      "excerpt": "Additionally, intuition and experience did not translate into ... Businesses may use AI in decision-making via different methods. Opinion mining is a Natural Language Processing (NLP) based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61d679ba5e90f8f7f5034ea8/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1000,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
-      "publishedDateTime": "2022-02-03T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock.md",
-      "title": "Strong Earnings From Cloud Behemoths Bode Well For Snowflake Stock",
-      "excerpt": "Per the Trefis machine learning engine which analyzes historical stock price ... While there are other rivals in this space, including Amazon’s Redshift, Microsoft’s Azure Synapse, and Google’s Big Query, Snowflake offers strong product differentiation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60470fda52dd0906fe0a7a42/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 850,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
-      "publishedDateTime": "2022-02-03T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code.md",
-      "title": "Bad news for developers? Deepmind's AI is getting good at writing code",
-      "excerpt": "Researchers from Google's AI-focused unit DeepMind claim its AlphaCode system can express solutions to problems in code that achieves a median-level score in programming competitions undertaken by new programmers. Those competitions require humans to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0cd0c1ca8b8990cef9e8b17289258a491448ac55/2021/06/21/e487ce2e-c1f8-41e7-80ed-00f2310ac673/developers-heres-what-they-really-think-60d0614cb5c5a73d0c2020e1-1-jun-21-2021-11-35-52-poster.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "publishedDateTime": "2022-02-03T03:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-four-tips-to-avoid-common-startup-errors.md",
-      "title": "Four Tips To Avoid Common Startup Errors",
-      "excerpt": "As a global investor, I’m often asked by global entrepreneurs how to scale successfully and avoid some of the common errors that startups make. Startups are faced with a range of decisions at each phase of the company’s growth;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61fa764aac29d3e6111fe0fa/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/amp/",
-      "publishedDateTime": "2022-02-03T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-global-cognitive-collaboration-testing-market-business-strategies-revenue-and-growth-rate-upto-2027.md",
-      "title": "Global Cognitive Collaboration Testing Market Business Strategies, Revenue and Growth Rate Upto 2027",
-      "excerpt": "Cisco, Microsoft Corporation ... of the key players in the Global Cognitive Collaboration Testing market. It helps in understanding the competition by providing in-depth profiling of companies and products/services provided. Through Competitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-collaboration-testing-market-business-strategies-revenue-and-growth-rate-upto-2027-2022-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-collaboration-testing-market-business-strategies-revenue-and-growth-rate-upto-2027-2022-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-best-buy-selects-aws-as-its-strategic-cloud-provider.md",
-      "title": "Best Buy Selects AWS as Its Strategic Cloud Provider",
-      "excerpt": "Combining AWS’s advanced cloud technologies with ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220203005266/best-buy-selects-aws-as-its-strategic-cloud-provider",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220203005266/best-buy-selects-aws-as-its-strategic-cloud-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T02:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix.md",
-      "title": "GPU Database Market to See Huge Growth by 2026 | Blazingdb, Heterodb, Fuzzy Logix",
-      "excerpt": "The Latest research study released by HTF MI “GPU Database Market” with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix",
-      "originalUrl": "https://www.digitaljournal.com/pr/gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/679798b7b60852d77d12fd2313bd60373088e7da-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027.md",
-      "title": "Artificial Intelligence (AI) Robots Market Key Players, Industry Outlook, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2027",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 03, 2022 (Heraldkeepers) -- Artificial Intelligence in Robots Market size is expected to reach US$ 30.44 Bn. by 2026, at a CAGR of 31.78% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027-2022-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027-2022-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

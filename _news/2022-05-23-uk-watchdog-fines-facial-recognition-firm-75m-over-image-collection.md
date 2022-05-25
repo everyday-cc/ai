@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 type: article
 quality: 59
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,21 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "UK regulator fines facial recognition company $9M for illegally storing images"
-    excerpt: "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials."
-    publishedDateTime: 2022-05-23T21:22:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images"
-    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
+  - title: "Tech Leaders Say Facial-Recognition Clampdown Will Spur Innovation"
+    excerpt: "A $10 million fine levied on Clearview AI by the U.K.’s data-privacy watchdog sets clearer ground rules for balancing software innovation with people’s right to privacy, experts say."
+    publishedDateTime: 2022-05-25T20:04:00Z
+    webUrl: "https://www.wsj.com/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 55
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
     images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg"
-        width: 530
-        height: 300
+      - url: "https://images.wsj.net/im-551294/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Senators Call For Probe Into ID.me Facial Recognition Database"
+    excerpt: "\"Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition.” Now, a great of senators have written a letter to the Federal Trade Commission and its chair,"
+    publishedDateTime: 2022-05-21T06:00:00Z
+    webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 41
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
+        width: 1222
+        height: 815
+        isCached: true
+  - title: "Garda to use facial recognition technology"
+    excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
+    publishedDateTime: 2022-05-24T23:01:00Z
+    webUrl: "https://www.irishtimes.com/news/crime-and-law/garda-to-use-facial-recognition-technology-1.4887298"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 41
+    images:
+      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facial recognition firm ordered to delete data of UK residents"
     excerpt: "Facial recognition firm Clearview AI has been fined £7.5 million and ordered to delete personal data belonging to UK residents. The Information Commissioner’s Office (ICO) issued an enforcement notice against the US-based firm after a joint ..."
@@ -61,19 +89,47 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UK Fines US AI Firm ?7.5m Over Mass Image Collection"
-    excerpt: "Britain announced Monday it had fined US facial recognition company Clearview AI Inc more than ?7.5 million ($9.4 million, 8.8 million euros) for amassing online images of people without their knowledge."
-    publishedDateTime: 2022-05-23T10:06:00Z
-    webUrl: "https://www.ibtimes.com/uk-fines-us-ai-firm-75m-over-mass-image-collection-3517275"
+  - title: "A Casino Pioneers Facial Recognition to Serve the Ultra Rich"
+    excerpt: "You could easily miss the exclusive Les Ambassadeurs casino in London. Just off Hyde Park Corner, it sits at the end of a quiet side street populated only with chauffeured black v"
+    publishedDateTime: 2022-05-25T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/a-casino-pioneers-facialrecognition-to-serve-the-ultra-rich/2022/05/25/5938cb2c-dbe8-11ec-bc35-a91d0a94923b_story.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/23/clearview-ai-inc-has-trawled-the-internet-and.jpg"
-        width: 768
-        height: 532
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBDGMIG35AI6ZPBVVEOQVFESHM.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
+  - title: "Police use of facial recognition technology could soon be under review"
+    excerpt: "Lawmakers who sponsored the bill said artificial intelligence software has become a common part of everyday life despite the potential civil liberty issues it poses."
+    publishedDateTime: 2022-05-24T17:45:00Z
+    webUrl: "https://www.cpr.org/2022/05/24/police-facial-recognition-technology-under-review/"
+    type: article
+    provider:
+      name: Colorado Public Radio
+      domain: cpr.org
+    quality: 39
+    images:
+      - url: "https://wp-cpr.s3.amazonaws.com/uploads/2022/01/161109-CHAMPA-KEVINJBEATY-07.jpg?resize=1200,600"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Maxxess adds facial recognition authentication to eVisitor with SAFR integration"
+    excerpt: "YORBA LINDA, Calif.—Maxxess, a global corporation specializing in security management solutions and innovative technologies, has added advanced facial recognition authentication to its eVisitor visitor management solution for access control, with off-the ..."
+    publishedDateTime: 2022-05-24T14:40:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/maxxess-adds-facial-recognition-authentication-to-evisitor-with-safr-integration"
+    type: article
+    provider:
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 34
+    images:
+      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Facial recognition company used by Met Police fined millions by information watchdog"
     excerpt: "A facial recognition company used by the Metropolitan Police has been ordered to delete billions of Facebook photos and fined £7.5m after breaking data protection laws. Clearview"
@@ -98,14 +154,14 @@ related:
       name: News
       domain: news.am
     quality: 19
-  - title: "British regulator fines U.S. facial recognition company $9.4M"
-    excerpt: "A British regulator has fined a U.S. facial recognition company over collecting images of people in Britain in violation of its data protection laws."
-    publishedDateTime: 2022-05-24T18:31:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2022/05/24/British-regulator-fines-US-facial-recognition-company-94M/1441653409831/"
+  - title: "Q&A: How will new facial recognition technology be used?"
+    excerpt: "Facial recognition technology is touted as one of the most powerful surveillance tools ever invented. It is hailed by proponents as a justified means of catching criminals and terrorists as well as helping to identify victims and the vulnerable."
+    publishedDateTime: 2022-05-25T19:23:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2022/05/25/qa-how-will-new-facial-recognition-technology-be-used/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: The Irish Times
+      domain: irishtimes.com
     quality: 19
 
 secured: "sKW/HL3XvWzkIRqIEIFbLaNwsqhuVr9i+Nf71T3b1J5P44aRdCJEj0sZ1tXWcr3XbvxENCuHrISk0OYzSjQrKGvMZjrn3KsrE4Di6TrRxMQ+0SNiF0MZTa7dPF/Y8B8WyweNidYtRZSanZoXRtsoG/dvpdVgHqcGPfbjDz8WrgwqJsggLcIZDC00fhMizNdODvcxV6HSTjg1OBUc9iHzLgcAhGPHpzGIut3P95Pir4tpQMdP0df3GSGwXSEdGBaaxCbOpDMz6mxBmRwrkG5gJ1TN8Ko/02AfXsoCKTRiYB8pKg99gI07QAhZhWZBAu6eT7jcKT1v6lUR40Q1FOIDDTlysY4cTQDViNC/+oikCryiPK70FwMhyertFNULlQVGEQvpxm1wrKfbOAAqHKu5QRfNEc/vzDXZct3BhzDWADPjte745iV3Hb+6kUEII5jFv+Mzc+avYvcKjY0ANyzGqgEzydvlydfDCyITZsVFh87JQ7Qb9ElvE3Cwxe7qlQTBbJaz3N7pve4UqUJghQvvMA==;trYEBTBfEHDkse6h734UBA=="

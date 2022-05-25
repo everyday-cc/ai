@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-text-to-image-ai-can-ma
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/"
 type: article
 quality: 87
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://fossbytes.com/wp-content/uploads/2022/05/FotoJet-2-5.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google’s Text-to-Image AI Can Deliver “Photorealistic Images”"
+    excerpt: "Google has introduced a new text-to-image AI generator that claims to provide photorealistic images. Here is a look at the results."
+    publishedDateTime: 2022-05-25T05:40:00Z
+    webUrl: "https://beebom.com/google-imagen-text-to-image-ai/"
+    ampWebUrl: "https://beebom.com/google-imagen-text-to-image-ai/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-imagen-text-to-image-ai/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 57
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/05/google-imagen-aoi.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Google details new cutting-edge image generation AI"
     excerpt: "One of the most sophisticated entries into the category is an AI system called DALL-E 2 that was detailed by OpenAI LLC earlier this year. According to Google, its newly announced Imagen system ..."

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T19:33:00Z
 originalUrl: "https://betakit.com/ai-the-ai-times-xanadus-quantum-computer/"
 webUrl: "https://betakit.com/ai-the-ai-times-xanadus-quantum-computer/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: BetaKit

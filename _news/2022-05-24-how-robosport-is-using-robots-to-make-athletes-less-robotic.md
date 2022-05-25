@@ -149,6 +149,20 @@ related:
         width: 696
         height: 465
         isCached: true
+  - title: "Cowen and MassRobotics Highlight the Increasing Role of Robotics in Achieving Climate Objectives"
+    excerpt: "Cowen Inc. (NASDAQ:COWN) (“Cowen” or the “Company”) and MassRobotics today announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
+    publishedDateTime: 2022-05-25T12:00:00Z
+    webUrl: "https://www.mywabashvalley.com/business/press-releases/globenewswire/8559131/cowen-and-massrobotics-highlight-the-increasing-role-of-robotics-in-achieving-climate-objectives/"
+    type: article
+    provider:
+      name: WTWO
+      domain: mywabashvalley.com
+    quality: 41
+    images:
+      - url: "https://www.mywabashvalley.com/wp-content/uploads/sites/62/2021/12/mwv.png"
+        width: 2316
+        height: 862
+        isCached: true
   - title: "MassRobotics Announces Call for Nominations for The Robotics Medal Recognizing Women in Robotics"
     excerpt: "MassRobotics, a leading robotics innovation organization, announced a call for nominations for The Robotics Medal, a new annual award presented to a female researcher for substantial achievements and contributions in the field of robotics."
     publishedDateTime: 2022-05-23T19:08:00Z
@@ -158,15 +172,15 @@ related:
       name: Automation
       domain: automation.com
     quality: 21
-  - title: "Cowen and MassRobotics Highlight the Increasing Role of Robotics in Achieving Climate Objectives"
-    excerpt: "Since July 2019, Cowen and MassRobotics have enjoyed a partnership designed to bring together their extensive market knowledge in the areas of emerging robotics and artificial intelligence ... create an innovation hub and startup cluster focused on ..."
-    publishedDateTime: 2022-05-25T12:09:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8559131/cowen-and-massrobotics-highlight-the-increasing-role-of-robotics-in-achieving-climate-objectives"
+  - title: "Zoho invests in startup Genrobotics"
+    excerpt: "Bengaluru: Tech company Zoho Corporation said on Wednesday that it has invested Rs 20 crore in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions."
+    publishedDateTime: 2022-05-25T19:29:00Z
+    webUrl: "https://www.thehansindia.com/karnataka/zoho-invests-in-startup-genrobotics-744943"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 21
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 2
 
 secured: "GPm60WbfpB5WXuzs8xdW0EAQ6S+EH0H/Z8RJNvBeWgrzH9yShU9g/GJB9D6y2QFk9lQp7PF1eAh4Cy4gmgyJ+1O+jgtFpkg/0HRZcFPk6hW0Q4XzmonKWDOznGzLG2r4fqTPRbyGKPMyedy4Oa6Z3SIu8YTjV9Upa0ar0dPJJOvfyjY5wLDKoPtOgjlXsYmAlW0CWrDtjZvu6cCbuDIw8xSD30G6jRn2Yg5zW3aA1AaLOwhJ3ZBPU4MSiIVUnRWtLvGb93Dz722XSV/Lfgl1qSHadjsG9vD4fc9kFipa1mCq4qd9khtgDpeN6FMy1vMkrHa5wh7F2AWJSJ+qghMLSImb3D5Tj+Q6QQlYjsux3AgJcmFtukKsE5htKmJh4c5bT7WB2TsD52K/19bCFwDkEPNpbLqXM90SR4O4rqYKutIoQPkVApg+DLqLqNihYFLoFgdElFKT/V2uxPJCvr6DQLTr6ikQM++8eHZPp4WXoySafMPlfgXOcJn5tzMt5wno6bJlUqgmFpmy/4xB24N7ug==;T9rk/t5bu86TNvqG1KWsLg=="
 ---

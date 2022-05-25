@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T17:41:00Z
 originalUrl: "https://medcitynews.com/2022/05/how-an-ai-robot-can-help-seniors-battle-loneliness/"
 webUrl: "https://medcitynews.com/2022/05/how-an-ai-robot-can-help-seniors-battle-loneliness/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: MedCity News

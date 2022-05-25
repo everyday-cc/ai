@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-13-a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe.md",
+      "title": "A future without fraud: The latest advances in fintech that keep your money safe",
+      "excerpt": "Technological security advances are being used to fight fraud in the financial industry including AI, biometrics, and virtual credit cards.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/17/a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe/",
+      "originalUrl": "https://venturebeat.com/2022/04/17/a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-how-is-ai-helping-to-transform-the-finance-industry.md",
       "title": "How is AI helping to transform the finance industry?",
       "excerpt": "Companies in the financial sector are leveraging artificial intelligence to analyse and manage their data, here we look at how AI can transform FinTech",
@@ -1279,49 +1322,6 @@
         "AI Ethics",
         "AI in Finance",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-accelerating-financial-services-with-ai.md",
-      "title": "Accelerating Financial Services With AI",
-      "excerpt": "AI is enabling brighter financial futures for consumers and businesses. From traditional banks to new fintechs, the financial services industry is powering use cases with AI such as preventing payments fraud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
-      "originalUrl": "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/Accelerating-FSI_Image_700x500.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
-      "publishedDateTime": "2022-03-28T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T19:48:00Z
 originalUrl: "https://www2.ljworld.com/news/2022/may/25/the-raven-earns-national-honor-with-bookstore-of-the-year-recognition-from-publishers-weekly/"
 webUrl: "https://www2.ljworld.com/news/2022/may/25/the-raven-earns-national-honor-with-bookstore-of-the-year-recognition-from-publishers-weekly/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Lawrence Journal-World

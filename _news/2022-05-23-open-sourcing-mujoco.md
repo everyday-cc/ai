@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/open-sourcing-mujoco"
 webUrl: "https://www.deepmind.com/blog/open-sourcing-mujoco"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
   - Google AI
+
+related:
+  - title: "DeepMind’s open-source version of MuJoCo available on GitHub"
+    excerpt: "MuJoCo, which stands for Multi-Joint Dynamics with Contact, is a physics engine that aims to facilitate R&D in robotics."
+    publishedDateTime: 2022-05-25T19:28:00Z
+    webUrl: "https://www.therobotreport.com/deepmind-open-source-mujoco-on-github/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 64
 
 secured: "Nz8kXtOBBsnIpMIe9IzXwypeayYhAxaklr49LGc6kPim0DAGFvrCoD5fdROmhlb2lnpX7eAvnfEk+nolgwZPvmm2e+Bg6a1J2Cn89w+tE67Nx9VCnyNGZwaPvp/yQgioUHGSdWMY+/MY3FVHOO9VcMP/TE7BA069MGIvgQbesi/QFltVptHkVCLCPWmyKWg/+c5IRteoPkX/riQkFwBlIrRrxhjZoTG+8vxUwy6gIV1Gi6xvudKQzl7+7Y1S0ZSQ84LDqHf/0hX8JlkzBYjJbIPGpiZJxvhcfzmYShG+YR1NtO0cDn65qRlpCR8a1SlOZArY2Nuj5DRe6/gGzp94Gm86aRuquwTzUmznZXSbCSY=;6Go+kQeGBsiHiZY6C0P8ag=="
 ---
