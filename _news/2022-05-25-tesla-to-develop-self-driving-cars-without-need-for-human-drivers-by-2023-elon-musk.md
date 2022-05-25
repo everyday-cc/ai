@@ -59,6 +59,54 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tesla to soon have self-driving cars without need for human drivers: Musk"
+    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the need for human drivers,"
+    publishedDateTime: 2022-05-24T08:48:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91762636,imgsize-50640,width-1200,height-628,overlay-etcio/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla to soon have self-driving cars without need for human drivers: Elon Musk"
+    excerpt: "As per the report, Musk has been claiming that Tesla will have 1 million robotaxis on the road by the end of the year since 2020. Recently, Electrek reported that Musk changed Tesla's 1 million robotaxis by end of the year goal to a1 million people in Full Self-Driving (FSD) Beta,"
+    publishedDateTime: 2022-05-24T06:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/articleshow/91759682.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/amp_articleshow/91759682.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/amp_articleshow/91759682.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 55
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-73172,msid-91759854/elon-musk.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Tesla to have self-driving cars without human drivers by May 2023, says Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has claimed that the company will have self-driving cars on road around May 2023. Here's what else he said."
+    publishedDateTime: 2022-05-24T11:05:00Z
+    webUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/"
+    ampWebUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 54
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/06/Elon-Musk.jpg"
+        width: 1201
+        height: 675
+        isCached: true
   - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
     excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
     publishedDateTime: 2022-05-22T18:04:00Z
@@ -69,6 +117,6 @@ related:
       domain: electrek.co
     quality: 35
 
-secured: "9mUwh0VjrQhRDNx4T5Q7PxOAjTSdZhExYU4SFPOHjvzdGRgKMgrg2DVijIxfGuc/2pyWbi8K31EVMpHopq59OdW/I+M3TUdjOnXGpyZYFMWzmcb1VojgM9utdcqOiGx2n9vIzahdUkxH0x5db8QeVLf7WQJZ3jqyOyS/2WZpyGNa4A7a7MCEI1UR60AMjuQh5JfDCE265pEnoTCk8XwU2pGZTJqWohfH+2siYYgxN/rJSQYRYISvQaiva/onHzAe1THG/wxIuC4PwsniAq/zqF/xyUlr874ZElkMT3dELXo5aXw7aJh1w2FlHIQnJlUiTJLKdBvWcnq55KWh5a0hXusCKPdHK8irIQIjjjHqIjY=;UeDd66N+lAfNTW/QAPsdUA=="
+secured: "01/TSBCBgGQD59ZHZ+pA8xJmJVCw/umkv3ErkDhd5tlvp3Pn6eFe7cFXMI7ExPEuSozZYZbrQvxEbSC3uv06N0pNsOdWYW8ZxgHUkXKj3a1VVav2dHeWqvSMxbR8mFKwWmhjM7moVYiX1E/ghRWgmTY3ipOaCr/qindYNhxM0o/2ITXdZdV286oktEtRQnJ2xmOij87c1HBlJ7rhWx8Zy8qBi22b4nJ1H8UJCxLXXJzcH1+e4Nx4Jfow5mtLGexnD+Wt2ODh0uZHaMNgNb45dy5fwxAM/rSLl0kDEpQv+yByPbwynAw7SYdf4C3c6vBEPsv0HhQX6pNLyqv1REQhCJWII0vTek+/9lvm8jxADdA9fmoQZTzczn3CfmkJuPUF8aH3NNZlTHn+Vqby+nd2y6LNfQcrmETOlMmSxwwwWKMMnFbxB46fRIjLZnv4ULwLcJcpW5FcW0EjlygSmKi7sEcTc8x5FTTYDIP+H0CyiT3nSpPgzNCrNTLW6MJ3PzahiIaSowK0W3+5ROJCM81dKA==;CRi3cE2lZVHKGb3qeUvZlA=="
 ---
 

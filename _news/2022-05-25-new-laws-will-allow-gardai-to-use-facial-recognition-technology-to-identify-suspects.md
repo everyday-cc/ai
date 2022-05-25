@@ -25,6 +25,48 @@ images:
     isCached: true
 
 related:
+  - title: "Concerns raised over plans for facial recognition technology to be used by gardaí"
+    excerpt: "Concerns about the accuracy and potential misuse of facial recognition technology in tackling crime have been expressed by civil rights groups, academics and some politicians. Minister for Jusitce Helen McEntee is expected to announce the plans later today ..."
+    publishedDateTime: 2022-05-25T11:11:00Z
+    webUrl: "https://www.breakingnews.ie/ireland/concerns-raised-over-plans-for-facial-recognition-technology-to-be-used-by-gardai-1310561.html"
+    type: article
+    provider:
+      name: BreakingNews.ie
+      domain: breakingnews.ie
+    quality: 49
+    images:
+      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjJcXFwvMDNcXFwvMzExMjQ1MzNcXFwvMi42NTc1MTg1OS1lMTY0ODcyNzE2MzE2Mi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzZWU1MTQ4ZWU1MDNjYTkyMDFkYmFlYzE4NjNmOTViNzFjZThjODUifQ==/concerns-raised-over-plans-for-facial-recognition-technology-to-be-used-by-garda.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Live: Plans for gardaí to use facial recognition technology, Dublin Airport brawl"
+    excerpt: "Plans for gardaí to use facial recognition technology. Minister for Jusitce Helen McEntee is set to announce plans for the use of facial recognition technology to tackle crime wh"
+    publishedDateTime: 2022-05-25T11:34:00Z
+    webUrl: "https://www.breakingnews.ie/ireland/live-plans-for-gardai-to-use-facial-recognition-technology-dublin-airport-brawl-1310575.html"
+    type: article
+    provider:
+      name: BreakingNews.ie
+      domain: breakingnews.ie
+    quality: 49
+    images:
+      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjJcXFwvMDVcXFwvMjUxMjE1MjBcXFwvMXBtLXRodW1ibmFpbC0yNTA1LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMWVhMmJjYjQ1YTU4ZTI3ODA2NWI2ZjFlNzFlOTgzNzYzYjEzMDVmNSJ9/live-plans-for-garda-to-use-facial-recognition-technology-dublin-airport-brawl.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Garda to use facial recognition technology"
+    excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
+    publishedDateTime: 2022-05-24T23:01:00Z
+    webUrl: "https://www.irishtimes.com/news/crime-and-law/garda-to-use-facial-recognition-technology-1.4887298"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 41
+    images:
+      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Police use of facial recognition technology could soon be under review"
     excerpt: "Lawmakers who sponsored the bill said artificial intelligence software has become a common part of everyday life despite the potential civil liberty issues it poses."
     publishedDateTime: 2022-05-24T17:45:00Z
@@ -38,6 +80,20 @@ related:
       - url: "https://wp-cpr.s3.amazonaws.com/uploads/2022/01/161109-CHAMPA-KEVINJBEATY-07.jpg?resize=1200,600"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Poll: How do you feel about gardaí using facial recognition technology to identify suspects?"
+    excerpt: "GARDAÍ ARE SET to be granted new powers to use facial-recognition technology that could lead to the rapid identification of criminals. The technology enables police forces to carry out automated searches of video footage for suspects in criminal investigations."
+    publishedDateTime: 2022-05-25T08:49:00Z
+    webUrl: "https://www.thejournal.ie/poll-facial-recognition-technology-5773562-May2022/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 28
+    images:
+      - url: "https://img2.thejournal.ie/article/5773562/river/?height=400&version=5773577"
+        width: 613
+        height: 400
         isCached: true
 
 secured: "kR3DuTWtQZovcqOMiLWYrhtJyfCEF85nOPe3Qci1JHR3oNrUhhCJusLVIyCOFG8aiaGjtnj+KUjExhU3qPUwAcu9BsxmYZ4LuqBwK1PY/4nbRgUlVNPYL2gZ4cKU9XDU/Wjk+7y/3s12bILdQ7KGhOEhu18Ih9YaZeAACX5Rb02xLSa+bwD3WX2/m01SKmMbUKN/BZv6UhFuFWXpzDePMN8Nd7XscXhhuIDuNSsFf40pehXzeq8OXA8Om0iwu+I9hy0EmCZoVLfFYLnGoMpCqymnKVhB5i8ELHYjGgamYYZiAXQy8aHpdhl1Q2Bg85rAglTWVG6jFpRU79WiM98MuEYy0MU0vYvsbi4CcZwUf8LNTnjsheQAA4uWaNlYpHUMY1KeAoYR9TX25BB4sevQl3No/KKvPgkAzX3SQPDIILF0tcxjOWTCNUSyj8iCCDHvXkQXzHh2ea+FG3FAjuuApe8WymwgzS4Z654eygQj27mqzTVpjuv2y8WCNAmexLrWuUwkV16SksbmK8wkK0jeHQ==;b/OPf7raZapbps6ngQHRdA=="

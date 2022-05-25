@@ -25,61 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving vehicle start-up Minus Zero raises $1.7mn in seed fund"
-    excerpt: "Minus Zero, the self-driving vehicle start-up, has raised $1.7 million in a seed round led by Chiratae Ventures and clocking participation from JITO Angel Network. Angel investors from the autonomous vehicles industry,"
-    publishedDateTime: 2022-05-23T10:28:00Z
-    webUrl: "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html"
+  - title: "A start-up aims to bring driverless cars to Indian roads"
+    excerpt: "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au"
+    publishedDateTime: 2022-05-23T07:52:00Z
+    webUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/"
+    ampWebUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/23/full/1653301694-2772.png"
-        width: 620
-        height: 464
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Self-driving startup Minus Zero raises $1.7 million in funding led by Chiratae Ventures"
-    excerpt: "The company will use the funding for building an extensive autonomous vehicle research and development, infrastructure and hiring more people."
-    publishedDateTime: 2022-05-23T06:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/articleshow/91735958.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms"
+  - title: "Drive I/O | Shanghai automakers hit by lockdowns, China’s new push for driverless cars"
+    excerpt: "Baidu and self-driving unicorn Pony.ai received permits to offer fully autonomous rides to the Beijing public in late April, the first service of its kind in the country. Domestic battery suppliers saw profits plunge in the first quarter amid rising raw ..."
+    publishedDateTime: 2022-05-24T00:30:00Z
+    webUrl: "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
+    ampWebUrl: "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 51
+      name: TechNode
+      domain: technode.com
+    quality: 66
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-299346,msid-91736088/minus-zero-founders.jpg"
-        width: 600
-        height: 450
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/05/屏幕快照-2020-05-07-下午4.16.18.jpg?fit=1200%2C601&ssl=1"
+        width: 1200
+        height: 601
         isCached: true
-  - title: "Bengaluru-based self-driving startup Minus Zero raises USD 1.7 Mn"
-    excerpt: "Bengaluru-based self-driving startup Minus Zero has raised USD 1.7 million in seed funding led by tech VC firm Chiratae Ventures."
-    publishedDateTime: 2022-05-23T09:49:00Z
-    webUrl: "https://analyticsindiamag.com/bengaluru-based-self-driving-startup-minus-zero-raises-usd-1-7-mn/"
+  - title: "AI To Make Roads In India Safer To Drive"
+    excerpt: "Artificial Intelligence (AI) powered solutions, such as collision alert system, may soon make roads in India safer to drive. A unique AI approach that uses the predictive power of AI to identify risks on the road,"
+    publishedDateTime: 2022-05-24T11:58:00Z
+    webUrl: "https://menafn.com/1104265618/AI-To-Make-Roads-In-India-Safer-To-Drive"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Founders-photo-1.png"
-        width: 1196
-        height: 843
+      - url: "https://menafn.com/updates/pr/2022-05/24/I_6679aimage_story.jpg"
+        width: 400
+        height: 220
         isCached: true
-  - title: "UK launches £40m competition to roll out self-driving commercial vehicles"
-    excerpt: "The UK Government has launched a £40m competition to kick-start the roll out of commercial self-driving vehicles from 2025. Announced today by investment minister Lord Grimstone, the ‘Commercialising Connected and Automated Mobility’ will provide ..."
-    publishedDateTime: 2022-05-23T12:13:00Z
-    webUrl: "https://www.cityam.com/uk-launches-40m-competition-to-roll-out-self-driving-commercial-vehicles/"
+  - title: "Argo AI testing fully driverless cars in Florida and Texas right now"
+    excerpt: "Argo AI is backed by both Ford and Volkswagen, now testing fully driverless vehicles in Miami, Florida, and Austin, Texas."
+    publishedDateTime: 2022-05-25T01:29:00Z
+    webUrl: "https://www.tweaktown.com/news/86405/argo-ai-testing-fully-driverless-cars-in-florida-and-texas-right-now/index.html"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 3
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+  - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
+    excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."
+    publishedDateTime: 2022-05-21T18:38:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255267&cat=PRN"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
+  - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
+    excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."
+    publishedDateTime: 2022-05-23T18:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255631&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
 
 secured: "kgd0zPAbTDrQof6LKW2dZL3cUAd6WNOzES9RvkosE7zA+VQwArITg3qEH559hZt6ag896xR+vBj2n8YKOS6PSys0OECr0ypDRUY2XdCU+NpYavpHxW7He6e2b3tkGzM/0jmBA9ZxMfN/n6P5C9kBgUIfadQ7TYi9lK7E6EsSacYQihFC33nLgD2EHFd6GZaLXs/aXJQSks7GdeEIpP4xLQ2YwPGWOG1v84g9ZdPA66CI5O/xbFpOedj6Uaz31yiXDBO6/PTOsyk38P4aqb+l8vSoj/TPZpFaWgH1sNVqwia/oX+COtN1pY0IOiXDXg+QFL+uju7F1m4ts+iHEHyjwpI/FrxUAtev1N0tJ69sqsSFRma/TWfd9KDjR0WOt8JdmR7GzvlXnCssx7USjnbOiS711Ifhj1iRoe9lux1UGepGGYNlo/4acTjDh81PHddPWTb1eHtiEnYeb/4f3OUogaIRfihdEA0Ep2L3m/PtlKKVYPKsPETSdodGoTeKkGAmfJQNpHu43ePaTRXd6J+rKg==;JCwLj8WV3t+SlIwpD389MA=="
 ---

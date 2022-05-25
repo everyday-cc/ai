@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "CNA brings data into the cloud, uses AI for predictive analytics"
+    excerpt: "He joined CNA in fall 2021 after 13 years as CEO of Catalina’s U.S. and Bermuda units. At CNA, Haase’s greatest concern is better managing the wealth of data the company has from its long history in the insurance business,"
+    publishedDateTime: 2022-05-25T10:30:00Z
+    webUrl: "https://www.dig-in.com/list/cna-brings-data-into-the-cloud-uses-ai-for-predictive-analytics"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/cf7e928/2147483647/strip/true/crop/690x362+241+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F0b%2Ffa%2Fa8c1b222409b9ec6667302c1ac27%2Fcna-hq-bldg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data analytics platform launched to attract $1 billion in AI and DeepTech investments to Ukraine"
     excerpt: "Deep Knowledge Analytics (DKA), the flagship subsidiary of Deep Knowledge Group (DKG), today announced the launch of the beta version of a data analytics platform that aims to attract $1 billion in AI and DeepTech investments to Ukraine over a foreseeable period of time."
     publishedDateTime: 2022-05-24T16:48:00Z
@@ -32,6 +46,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "KDD 2022 Opens Registration for the Premier International Data Science and Analytics Conference"
+    excerpt: "Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD) today announced registration is open for KDD 2022, which will take place Aug. 14-18, 2022 in Washington, D.C. at the Walter E. Washington Convention Center."
+    publishedDateTime: 2022-05-24T13:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kdd-2022-opens-registration-the-premier-international-data-/2022/05/24/9608105.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "+dKGzHMpg9aFeN6mAerGBncJXB4Qqwqkc2lKYoZ+YEphw2U/Wwjzr+uzXSzJZt4uad0NpZZS1amPjRePyWYpJMvCuDaDLD5CpKRQsJEUbqiEwMugcQs5hs9n9NtlCR4MDHZSZR21MzgmTEcPP7v4x9LW6YeBRD0NXOLhDR+jLjkbLrFwaqKL7CgxHE2tlfKx04dlxlQ9oo7XQSCPDO+n063HfPkGg4SsgaDqlC697u63mRPZAomVmj9SUfAEevmIiucfOhzvItwR6dVqhqDxMWQn0LsNeMOOO0haCzLJOJjGwUPp21lz4I3VZ8KWQE8aaRSF7bzSyau51Xod7qtHlg9+vJWBIjZbASMtyk+LC/s=;220ufWcUT3DgIpmHsYPFVQ=="
 ---

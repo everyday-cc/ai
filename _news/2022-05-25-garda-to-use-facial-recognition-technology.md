@@ -26,33 +26,75 @@ images:
     isCached: true
 
 related:
-  - title: "Senators Call For Probe Into ID.me Facial Recognition Database"
-    excerpt: "\"Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition.” Now, a great of senators have written a letter to the Federal Trade Commission and its chair,"
-    publishedDateTime: 2022-05-21T06:00:00Z
-    webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
+  - title: "Concerns raised over plans for facial recognition technology to be used by gardaí"
+    excerpt: "Concerns about the accuracy and potential misuse of facial recognition technology in tackling crime have been expressed by civil rights groups, academics and some politicians. Minister for Jusitce Helen McEntee is expected to announce the plans later today ..."
+    publishedDateTime: 2022-05-25T11:11:00Z
+    webUrl: "https://www.breakingnews.ie/ireland/concerns-raised-over-plans-for-facial-recognition-technology-to-be-used-by-gardai-1310561.html"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 41
+      name: BreakingNews.ie
+      domain: breakingnews.ie
+    quality: 49
     images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
-        width: 1222
-        height: 815
+      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjJcXFwvMDNcXFwvMzExMjQ1MzNcXFwvMi42NTc1MTg1OS1lMTY0ODcyNzE2MzE2Mi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzZWU1MTQ4ZWU1MDNjYTkyMDFkYmFlYzE4NjNmOTViNzFjZThjODUifQ==/concerns-raised-over-plans-for-facial-recognition-technology-to-be-used-by-garda.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "A Casino Pioneers Facial Recognition to Serve the Ultra Rich"
-    excerpt: "You could easily miss the exclusive Les Ambassadeurs casino in London. Just off Hyde Park Corner, it sits at the end of a quiet side street populated only with chauffeured black v"
-    publishedDateTime: 2022-05-25T00:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/a-casino-pioneers-facialrecognition-to-serve-the-ultra-rich/2022/05/25/5938cb2c-dbe8-11ec-bc35-a91d0a94923b_story.html"
+  - title: "Live: Plans for gardaí to use facial recognition technology, Dublin Airport brawl"
+    excerpt: "Plans for gardaí to use facial recognition technology. Minister for Jusitce Helen McEntee is set to announce plans for the use of facial recognition technology to tackle crime wh"
+    publishedDateTime: 2022-05-25T11:34:00Z
+    webUrl: "https://www.breakingnews.ie/ireland/live-plans-for-gardai-to-use-facial-recognition-technology-dublin-airport-brawl-1310575.html"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: BreakingNews.ie
+      domain: breakingnews.ie
+    quality: 49
+    images:
+      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjJcXFwvMDVcXFwvMjUxMjE1MjBcXFwvMXBtLXRodW1ibmFpbC0yNTA1LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMWVhMmJjYjQ1YTU4ZTI3ODA2NWI2ZjFlNzFlOTgzNzYzYjEzMDVmNSJ9/live-plans-for-garda-to-use-facial-recognition-technology-dublin-airport-brawl.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Police use of facial recognition technology could soon be under review"
+    excerpt: "Lawmakers who sponsored the bill said artificial intelligence software has become a common part of everyday life despite the potential civil liberty issues it poses."
+    publishedDateTime: 2022-05-24T17:45:00Z
+    webUrl: "https://www.cpr.org/2022/05/24/police-facial-recognition-technology-under-review/"
+    type: article
+    provider:
+      name: Colorado Public Radio
+      domain: cpr.org
     quality: 39
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBDGMIG35AI6ZPBVVEOQVFESHM.jpg&w=1440"
-        width: 1440
-        height: 1080
+      - url: "https://wp-cpr.s3.amazonaws.com/uploads/2022/01/161109-CHAMPA-KEVINJBEATY-07.jpg?resize=1200,600"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "New laws will allow gardaí to use facial recognition technology to identify suspects"
+    excerpt: "Gardaí will be given powers to use facial recognition technology to identify suspects in serious crimes for the first time. Justice Minister Helen McEntee is seeking cabinet approval to allow the use of special software to catch killers and child ..."
+    publishedDateTime: 2022-05-25T05:58:00Z
+    webUrl: "https://www.independent.ie/irish-news/politics/new-laws-will-allow-gardai-to-use-facial-recognition-technology-to-identify-suspects-41685989.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 32
+    images:
+      - url: "https://www.independent.ie/irish-news/politics/c3f17/41685988.ece/AUTOCROP/w1240h700/rment%20Buildings%20016"
+        width: 1240
+        height: 700
+        isCached: true
+  - title: "Poll: How do you feel about gardaí using facial recognition technology to identify suspects?"
+    excerpt: "GARDAÍ ARE SET to be granted new powers to use facial-recognition technology that could lead to the rapid identification of criminals. The technology enables police forces to carry out automated searches of video footage for suspects in criminal investigations."
+    publishedDateTime: 2022-05-25T08:49:00Z
+    webUrl: "https://www.thejournal.ie/poll-facial-recognition-technology-5773562-May2022/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 28
+    images:
+      - url: "https://img2.thejournal.ie/article/5773562/river/?height=400&version=5773577"
+        width: 613
+        height: 400
         isCached: true
 
 secured: "tLUKPiXWr9cq9i5h+eAb/DvIoYsUGDBLiwJhLegJOaQ3HEX9JM2hU/LvDpFDUiJn8qQtB5DF8Es6SsnqHBfpJUHXmm98Itpc4Durc2KlqXE4kyt4EbxAoF5d7BEiYG8A4gZeG+RWEH+PztxX23envAIT/cQoGjfnWvR64LRDstpO8LajsCFh6Osouz0X2E5JHQv9hF26VafI2xdH5RXmqcAE77k6Vgy4AVGxNRKbAzIkmg9ZWdiJwATdp7YmEo6Rs8Vj8CSKX9PVHEQCI2+oPVVtIbtIw12oTGfo0G2TLqGehF29AxwAocYqZo8JCh8my0Pwf/syncYVVn/KWz3Nv6rqMlIMQ/SUNzSfTiCySm4=;GSeRXR41LNlgsurtYwf/Sg=="

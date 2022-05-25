@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Could Brands Like Tesla Lure You Into Buying a Driverless Car?"
-    excerpt: "Established and emerging manufacturers have embarked on a journey to produce the most reliable driverless cars to compete in a growing market. But people still don’t trust AVs are safe, despite potential benefits of fuel efficiency,"
-    publishedDateTime: 2022-05-20T18:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/"
-    ampWebUrl: "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 74
-    images:
-      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/GettyImages-174038219.jpg?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "A start-up aims to bring driverless cars to Indian roads"
     excerpt: "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au"
     publishedDateTime: 2022-05-23T07:52:00Z
@@ -67,53 +51,19 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Tesla to soon have self-driving cars without need for human drivers: Musk"
-    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the need for human drivers,"
-    publishedDateTime: 2022-05-24T08:48:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+  - title: "AI To Make Roads In India Safer To Drive"
+    excerpt: "Artificial Intelligence (AI) powered solutions, such as collision alert system, may soon make roads in India safer to drive. A unique AI approach that uses the predictive power of AI to identify risks on the road,"
+    publishedDateTime: 2022-05-24T11:58:00Z
+    webUrl: "https://menafn.com/1104265618/AI-To-Make-Roads-In-India-Safer-To-Drive"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 58
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91762636,imgsize-50640,width-1200,height-628,overlay-etcio/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla to soon have self-driving cars without need for human drivers: Elon Musk"
-    excerpt: "As per the report, Musk has been claiming that Tesla will have 1 million robotaxis on the road by the end of the year since 2020. Recently, Electrek reported that Musk changed Tesla's 1 million robotaxis by end of the year goal to a1 million people in Full Self-Driving (FSD) Beta,"
-    publishedDateTime: 2022-05-24T06:30:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/articleshow/91759682.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/amp_articleshow/91759682.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/amp_articleshow/91759682.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-73172,msid-91759854/elon-musk.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Tesla to have self-driving cars without human drivers by May 2023, says Elon Musk"
-    excerpt: "Tesla CEO Elon Musk has claimed that the company will have self-driving cars on road around May 2023. Here's what else he said."
-    publishedDateTime: 2022-05-24T11:05:00Z
-    webUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/"
-    ampWebUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 54
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/06/Elon-Musk.jpg"
-        width: 1201
-        height: 675
+      - url: "https://menafn.com/updates/pr/2022-05/24/I_6679aimage_story.jpg"
+        width: 400
+        height: 220
         isCached: true
   - title: "Argo AI testing fully driverless cars in Florida and Texas right now"
     excerpt: "Argo AI is backed by both Ford and Volkswagen, now testing fully driverless vehicles in Miami, Florida, and Austin, Texas."
@@ -124,6 +74,20 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 34
+  - title: "Self-Driving Car Start-up to be Introduced in India"
+    excerpt: "Minus Zero is an Indian based start-up that is looking make self-driving cars into the mainstream in the country."
+    publishedDateTime: 2022-05-25T06:55:00Z
+    webUrl: "https://techstory.in/self-driving-car-start-up-to-be-introduced-in-india/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/05/AMP-62_60fabd243e292-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."
     publishedDateTime: 2022-05-23T18:37:00Z

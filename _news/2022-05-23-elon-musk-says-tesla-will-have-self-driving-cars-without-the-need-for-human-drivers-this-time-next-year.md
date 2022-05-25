@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-wit
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 133
 published: true
 
 provider:
@@ -46,6 +46,54 @@ related:
       - url: "https://tampa.cbslocal.com/wp-content/uploads/sites/15909843/2022/05/hypatia-h_95e1fbe11735d97d17c67c941570c5c6-h_296a49084dcbd41e3bcf9362b22c1e27.jpg?w=1024&h=576&crop=1"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Tesla to soon have self-driving cars without need for human drivers: Musk"
+    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the need for human drivers,"
+    publishedDateTime: 2022-05-24T08:48:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk/91762636"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91762636,imgsize-50640,width-1200,height-628,overlay-etcio/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-musk.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla to soon have self-driving cars without need for human drivers: Elon Musk"
+    excerpt: "As per the report, Musk has been claiming that Tesla will have 1 million robotaxis on the road by the end of the year since 2020. Recently, Electrek reported that Musk changed Tesla's 1 million robotaxis by end of the year goal to a1 million people in Full Self-Driving (FSD) Beta,"
+    publishedDateTime: 2022-05-24T06:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/articleshow/91759682.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/amp_articleshow/91759682.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/amp_articleshow/91759682.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 55
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-73172,msid-91759854/elon-musk.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Tesla to have self-driving cars without human drivers by May 2023, says Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has claimed that the company will have self-driving cars on road around May 2023. Here's what else he said."
+    publishedDateTime: 2022-05-24T11:05:00Z
+    webUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/"
+    ampWebUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 54
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/06/Elon-Musk.jpg"
+        width: 1201
+        height: 675
         isCached: true
   - title: "Tesla to develop self-driving cars without need for human drivers by 2023: Elon Musk"
     excerpt: "Tesla chief Elon Musk has now claimed that the company will have self-driving cars without any need for human drivers by the next year, according to reports."

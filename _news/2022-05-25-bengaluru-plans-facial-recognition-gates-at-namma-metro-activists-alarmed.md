@@ -25,17 +25,6 @@ images:
     height: 1536
     isCached: true
 
-related:
-  - title: "Bengaluru Metro Mulls Deploying Facial Recognition System, Move Raises Questions On Data Protections"
-    excerpt: "Echoing similar sentiment, Rahul Goel, partner at AnantLaw, said that when it comes to dealing with sensitive personal data like biometric data (facial recognition is biometric data), there is a ..."
-    publishedDateTime: 2022-05-20T18:22:00Z
-    webUrl: "https://inc42.com/buzz/bengaluru-metro-mulls-deploying-facial-recognition-system-move-raises-questions-on-data-protections/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 19
-
 secured: "a1Pw7gE3TJWy2r9AVzBJIOlRKpMiXLcMBPyp8ZMR7nixwXeKLO73WjjL2o86z8MvzaOKYkMqwDe/DWETZW4g3SpRgL5v/ABlT1bAI14yU6k3GAfjD+JyvdcQHrNzcFstIhatMI8PxpYFq/04lTFw1SQl2NF9E2HDVBpAsDNMpv9GnsjJslrZ6efmpaH3WO/uvzf5h/cDnj/6hswsQYeQDwtkFGjMMahaIkJSKc0PQ2/SNHntmSojLACQP9h8ZvGxD8eOytffAZhA+bxTTOrqZOG0t6EM37+YIqM2egg3nv1BFL0llL1qJwse2CZvp1vEz/3eXDFr+/3c6m6I3Ci7IqlaBa94zBz2ZdeVZ5KkaXvZuTq0yuCZmUeSZLG0XRdFwoRcm+uUNShJAfQBY30dt8a9VxpHQPcf2HS2EuLobAInnl35/6KwnN+VS9HrL8AsHQzCQDHO3oX4IVIJhRs/5y3loBfG/3FzhjQCGrwcYdtgvah0SMovj7L2/OusT8ppHscjmk3kqOHrV4jzCfqMCA==;z1PLaYSW/R4Yasp1CbY4Ew=="
 ---
 

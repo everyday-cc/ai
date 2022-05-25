@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/ben-sherry/ai-artificial-intelligence-question
 webUrl: "https://www.inc.com/ben-sherry/ai-artificial-intelligence-questions-mckinsey.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Keys To AI Success"
-    excerpt: "AI is everywhere. Companies use it in myriad ways, and we all encounter it in some form every day. But are businesses wringing as much value out of AI as they could be? Some are. The most recent PwC AI Business Survey found that companies that stand out as ..."
-    publishedDateTime: 2022-05-23T16:21:00Z
-    webUrl: "https://www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/"
-    ampWebUrl: "https://www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//6287d954542764571a5ca2d7/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 400
-        isCached: true
   - title: "5 successful ways to use artificial intelligence to improve your business processes"
     excerpt: "Artificial intelligence (AI) is having its moment these days. No wonder it starts being used for business purposes. The companies like Google, Microsoft, and Salesforce are integrating Artificial Intelligence solutions as"
     publishedDateTime: 2022-05-22T14:54:00Z

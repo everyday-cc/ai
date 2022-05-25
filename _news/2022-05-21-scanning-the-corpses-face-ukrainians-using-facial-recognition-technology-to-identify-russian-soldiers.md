@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Every Crime has a Face, Says Ukrainian Journalist Hunting War Criminals"
-    excerpt: "Before the Russian Ukrainian journalist Dmitry Replyanchuk spent his days unearthing corruption, often among judges and law enforcement. Now the Kyiv-based journalist wh"
-    publishedDateTime: 2022-05-20T17:12:00Z
-    webUrl: "https://www.voanews.com/a/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html"
-    ampWebUrl: "https://www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 59
-    images:
-      - url: "https://gdb.voanews.com/03190000-0aff-0242-b9d4-08da3a86af46_w1080_h608_s_b.png"
-        width: 1080
-        height: 608
-        isCached: true
   - title: "Ukrainians put on masks and try to trick artificial intelligence"
     excerpt: "When Innovatrics started, facial biometrics had a high error rate, but thanks to the development of neural networks and artificial intelligence, its reliability has significantly improved. Recently, the company launched a project to improve the technology."
     publishedDateTime: 2022-05-24T15:17:00Z

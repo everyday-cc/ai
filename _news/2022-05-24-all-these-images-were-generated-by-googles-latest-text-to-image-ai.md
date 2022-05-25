@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google Imagen Is The Latest AI That Can Create Images From Text"
+    excerpt: "Google unveiled an outstanding text-to-image generator AI. Google imagen is the newest to do so after DALLE-2 open AI."
+    publishedDateTime: 2022-05-25T11:27:00Z
+    webUrl: "https://fossbytes.com/google-imagen-ai-can-create-images-from-text/"
+    ampWebUrl: "https://fossbytes.com/google-imagen-ai-can-create-images-from-text/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/google-imagen-ai-can-create-images-from-text/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 57
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2022/05/FotoJet-2-5.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google details new cutting-edge image generation AI"
     excerpt: "One of the most sophisticated entries into the category is an AI system called DALL-E 2 that was detailed by OpenAI LLC earlier this year. According to Google, its newly announced Imagen system ..."
     publishedDateTime: 2022-05-24T17:29:00Z

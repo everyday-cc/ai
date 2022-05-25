@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/it-ministry-holds-brainsto
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: India Times
@@ -27,43 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Ethics in the AI, Technology, and Information Age"
-    excerpt: "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?"
-    publishedDateTime: 2022-05-20T17:27:00Z
-    webUrl: "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF"
+  - title: "MoS IT Rajeev Chandrasekhar collaborates with entities on India's AI language translation platform"
+    excerpt: "Rajeev Chandrasekhar, Minister of State for Electronics and IT, conducted a brainstorming session with startups, researchers, and others on Tuesday for developing the country’s artificial intelligence-enabled language translation platform Bhashini."
+    publishedDateTime: 2022-05-24T17:36:00Z
+    webUrl: "https://www.cnbctv18.com/technology/mos-it-rajeev-chandrasekhar-collaborates-with-entities-on-indias-ai-language-translation-platform-13601902.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/mos-it-rajeev-chandrasekhar-collaborates-with-entities-on-indias-ai-language-translation-platform-13601902.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/mos-it-rajeev-chandrasekhar-collaborates-with-entities-on-indias-ai-language-translation-platform-13601902.htm/amp"
     type: article
     provider:
-      name: Amazon Associates UK
-      domain: amazon.co.uk
-    quality: 54
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 45
     images:
-      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
-        width: 350
-        height: 450
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/09/artificial-intelligence-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
-  - title: "Innovations And Growth Opportunities In Artificial Intelligence For Histopathology Market 2022"
-    excerpt: "Artificial intelligence for Histopathology Market NEW YORK, NY, U.S., May 23, 2022 /EINPresswire.com / -- This report studies the Artifici"
-    publishedDateTime: 2022-05-23T08:39:00Z
-    webUrl: "https://menafn.com/1104256728/Innovations-And-Growth-Opportunities-In-Artificial-Intelligence-For-Histopathology-Market-2022"
+  - title: "Digital India BHASHINI: 73 Startups Attend Session To Shape Strategy For AI-Led Language Translation Platform"
+    excerpt: "MeitY on May 24 held a virtual brainstorming session to shape strategy for the country’s AI-led language translation platform, BHASHINI."
+    publishedDateTime: 2022-05-25T01:30:00Z
+    webUrl: "https://inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/"
+    ampWebUrl: "https://inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/amp/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
+      name: inc42.com
+      domain: inc42.com
+    quality: 40
     images:
-      - url: "https://menafn.com/updates/pr/2022-05/23/EP_0fa10image_story.jpeg"
-        width: 259
-        height: 259
+      - url: "https://inc42.com/wp-content/uploads/2022/05/BHASHINI-social.png"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Artificial intelligence innovation among air force industry companies has dropped off in the last year"
-    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
-    publishedDateTime: 2022-05-23T18:00:00Z
-    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-innovation-among-air-force-industry-companies-has-dropped-off-in-the-last-year/"
+  - title: "MeitY holds Brainstorming with Researchers & Startups to shape strategy for Digital India BHASHINI – India’s AI led language translation platform"
+    excerpt: "We see the role of Startups in the Innovation, Development as well as Consumption of Technology”, said Rajeev Chandrasekhar, Minister of State for Electronics and Information Technology and Skill Development & Entrepreneurship,"
+    publishedDateTime: 2022-05-24T09:23:00Z
+    webUrl: "https://orissadiary.com/meity-holds-brainstorming-with-researchers-startups-to-shape-strategy-for-digital-india-bhashini-indias-ai-led-language-translation-platform/"
     type: article
     provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 18
+      name: Odisha Diary
+      domain: orissadiary.com
+    quality: 0
 
 secured: "srQrtPu/rYST36Az8Y7U697dpXsKCNS5Y3LmtB5mWN9gVX4VkyUckjxqc/cLwT1DemgYuQcKIci0ygu3GVYm9VghH8xHYGVqazf8nevU7DNs0n7pTnExOdmj01mpvoVxprGDQi2w8ik/okKAYADlqtcMlflG6c0j2Im9ZNxIRFlFS9MMkfJsLlkPjvLGLxNV3WUm5D0JkaQPQ2sLzGid9C09NyJfpaLdEc8bgYh7ZyFfAuEjw/X4gXvDn89we8vU9QIMuHxC4ZCPa+GsUDYKN+QBxE47BiIxm+mAb52KMbIEiCcLQhqnyOH+x70y0p40Spq7aOiDJcvufolQ3s3x7pkcYxiDtdCP357l9/t1p2XYdlWkzqcMmLi6fXt86w5grWHZO2ZMhXlZRQCCJiImO6dqBy3cqDB7uolLyTbvBKBSkWJ66IG30L/3JygpPM4hKf93bPBJEfKYBaxh7Zp7xRyOOGELTwPbK9PHi9trrwx5zkU1U54yQ+p2Ysg87l63BtiXLSEtp7J6ZvHGF2/C/Q==;bFqKW7v27BMyH+dp7DeOVQ=="
 ---

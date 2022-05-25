@@ -7,7 +7,7 @@ originalUrl: "https://thecinemaholic.com/love-death-and-robots-season-3-episode-
 webUrl: "https://thecinemaholic.com/love-death-and-robots-season-3-episode-8-ending-explained/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Breaking down Love, Death & Robots season 3 by the amounts of love, death, and robots"
-    excerpt: "Robots: None at all! This short definitely leans on Age of Sail technology, even though it takes place on a distant planet. It’s mostly wheels, rigging, and sails instead of smart AI. Does it work ... problem when they start to shoot back."
-    publishedDateTime: 2022-05-20T19:00:00Z
-    webUrl: "https://www.polygon.com/23132611/love-death-robots-season-3-review-shorts-breakdown"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 12
 
 secured: "DRQEzIFZ3+f1mNnrfvsL6QRbkI3Zmm1WY3PZxrADaM1Zc151sBgJxTcN7Nyc9TuEDNm7vtOOL+KCo3We7L2LzOv5RsfBHVNQZxwvPKpCTW0iRw6h0HBKboVz4/YyaILHU0rkd9zRyayYWBMaxOTUdU5e8Plnsm/8QfU1vbC25/pm9KDg7kyic+xrhExGxeFU+w9TrDPGODsNX93pr8TF0TKoWbCkWY9z3oBASrX/6mIRt1ecxhGlCCoi//G3FiAKLn4Pl4XKFWRHK5PQNYWbGf9XxiawKv/u9t35bEX9A6FBRuC5cqqYrko4TLWcnnsSpc6eaDpR8v8lQJmZtdDd4d8BJ36ODMZgFEZEiKlPypEZeoyjG8Hjq/UBepavI07NyHXnGH4ggNi1Kp2ApZr/CirHEynwOmm6kdPlfIDe//UHbGVCrgLUe2qyg773LXm+Le8CBqndc0whrHhd/chZjgXfNgaGE9cuxGRabD1tQpz4wmuLTeBdzHhTR/e9hryMAOt8P1rXUbqDotsY1MM3Yw==;hHGvIz4J+EH42JhT3CWgwA=="
 ---

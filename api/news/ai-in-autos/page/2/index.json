@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-10-label2earn-l2e-brings-artificial-intelligence-to-crypto-space-creates-new-opportunities-for-ai-technology.md",
+      "title": "Label2Earn (L2E) brings Artificial Intelligence to Crypto Space & creates new opportunities for AI Technology",
+      "excerpt": "Label2Earn (L2E) is a new kind of project in crypto domain, which will produce accurate and large datasets for Artificial Intelligence (AI) systems. L2E project will provide users the opportunity to earn L2E tokens by using the mobile App,",
+      "sourceUrl": null,
+      "webUrl": "https://www.keloland.com/business/press-releases/globenewswire/8538464/label2earn-l2e-brings-artificial-intelligence-to-crypto-space-creates-new-opportunities-for-ai-technology/",
+      "originalUrl": "https://www.keloland.com/business/press-releases/globenewswire/8538464/label2earn-l2e-brings-artificial-intelligence-to-crypto-space-creates-new-opportunities-for-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.keloland.com/wp-content/uploads/sites/103/2019/06/KELO-sitelogo.png",
+          "width": 800,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KELOLAND News",
+        "domain": "keloland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-a-prairie-company-is-working-on-the-development-of-an-artificial-intelligence-data-recording-kit.md",
       "title": "A prairie company is working on the development of an artificial intelligence data recording kit",
       "excerpt": "Mojow Autonomous Solutions will benefit from a $419 thousand dollar investment for digitization in farming under the Canadian Agricultural Partnerships AgriScience program. Co-founder and President Owen Kinch says they focus on digital technology for agriculture and the money will help in their development of an autonomous navigation controller to be used in agriculture.",
@@ -1278,58 +1321,6 @@
         "name": "Auburn Citizen",
         "domain": "auburnpub.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live.md",
-      "title": "Raising monster rounds for self-driving mobility startups on TechCrunch Live",
-      "excerpt": "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TCL-2022-05-11-featured-1920x1080-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
-      "publishedDateTime": "2022-04-28T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

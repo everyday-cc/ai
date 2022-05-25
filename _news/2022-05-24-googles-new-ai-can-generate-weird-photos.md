@@ -7,7 +7,7 @@ originalUrl: "https://ia.acs.org.au/article/2022/google-s-new-ai-can-generate-we
 webUrl: "https://ia.acs.org.au/article/2022/google-s-new-ai-can-generate-weird-photos.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 683
     height: 384
     isCached: true
-
-related:
-  - title: "How AI Can Facilitate Supply Chains"
-    excerpt: "Here’s how artificial intelligence could play a crucial role in supply chain management, and whether it could be part of the sector’s future. Some people might associate artificial intelligence with robots and assume it’s limited to basic applications,"
-    publishedDateTime: 2022-05-20T17:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
 
 secured: "oQ+u0vBZhOxU3Z6SR409ME+9rW4vRwhgX5KCs5ahXqtE686kOMBhWgzRkACz/53J9yaEP7tq9iUjFjcmU8KXBzKcBTuoQVDBZjJxal/qTEZe2RbWbNM+cabwacT74eVuoYdRRGkfO9trO2zMRscRTJ5AfHB5/DxafMNLBl9WIT2+66PpMMKeP84Oph+ZkpCpFKDkavfZ0nM4RWht8xabU49Dl/cBmw6xN8SefrjAgoCayqPhbxuqIV3jNG0n61bp6pX++OnJmp9q3YDUt2sYh+gSIZXGqIr9vKzm+UHDV6M0cBcjKkYgzmUXDCKThkcSvDjZuMVvO8nZpC4fglPQjIP4fXkc/S1sMnWZnuhz2hXnHGQJ35h9BZwqZZUt453YuTY31Tn0emL2Oz3CqX7N7cl4WPcULzD2kznUoeFIr++Uu7jC6G6N/ez7MeJAk12ZVju0eDWAGqTZVVbTZS4DTYq7RrTtnDlI4BAZ3esbJohYCPFTUyLWb3lKAXQt0yP6XKBmKrm3UYfPUD3Sw3NkEA==;tXMouCtnfdqm2tOdWhAsYw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-b
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/amp/"
 type: article
 quality: 121
-heat: 341
+heat: 332
 published: true
 
 provider:
@@ -95,22 +95,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04QaiwIk3lksY7Zopu4D8dU-6.fit_lim.size_1200x630.v1653405603.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Microsoft Edge taps AI to make grainy images look nice and crisp in your browser"
-    excerpt: "TopazLabs’ Gigapixel AI is a dedicated, paid tool to do the same ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
-    publishedDateTime: 2022-05-20T17:50:00Z
-    webUrl: "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html"
-    ampWebUrl: "https://www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html/amp"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/703854/microsoft-edge-taps-ai-to-make-grainy-images-look-nice-and-crisp-in-your-browser.html/amp"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 101
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2022/05/Bing-Vatican-1.png?w=1024"
-        width: 1022
-        height: 477
         isCached: true
   - title: "Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability"
     excerpt: "The post Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability appeared first on The AI Blog.\n"

@@ -75,6 +75,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Pay ‘with a smile or a wave’: Why Mastercard’s new face recognition payment system raises concerns"
+    excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts. It is being trialled in Brazil, with future pilots planned for the Middle East and Asia."
+    publishedDateTime: 2022-05-25T08:44:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/pay-with-a-smile-or-a-wave-why-mastercards-new-face-recognition-payment-system-raises-concerns-398014"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 40
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/5/2022_5$largeimg_1625092622.jpg"
+        width: 724
+        height: 483
+        isCached: true
 
 secured: "u36gD7eQ03MbChAai6lNvrnJCbT3fI1ikaqjlRK0H8u7QCXbqo+n9ifTxXsNqNkPPMlLNtN0dxoX/7azjzZQWJXVxNbX+PT+fGZNDlHqY4D5AD1qthlak1ZB+U8cd9cFcTrjwqeBtl4IiEhPQZCBHmgSMrKBhWezxxzYAipCGDDVGD73LxwPSACqRROdmeCd/Al8P47intOg44qRhPiOWpLk2730e6zuq1SbTA8FlggikUo+E0hEmFDvixAPaIUXGh30C3NuFgRXBdz2TW9LPiYegkZPewW8ssy7df9o/z6z2/KgGhMuNGK9EZwdFfXgeVxnxmSV/Xm5mnVtE7CeZ5TI62rUz7TC75Lv5dTnobE=;wdjvaG/HGN4Odh68G9jNTQ=="
 ---

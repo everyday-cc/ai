@@ -235,6 +235,22 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 49
+  - title: "TechScape: Clearview AI was fined £7.5m for brazenly harvesting your data – does it care?"
+    excerpt: "The facial recognition firm earned a heavy fine for scraping millions of pictures of people’s faces from social media. But that doesn’t mean it will change its ways"
+    publishedDateTime: 2022-05-25T10:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 48
+    images:
+      - url: "https://i.guim.co.uk/img/media/47c278fa57498f6cb6dfacca66029466bbf0ae82/0_140_4226_2537/master/4226.jpg?width=620&quality=85&auto=format&fit=max&s=a52403bcb19393cd53e562b4af829d1b"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Clearview AI fined £7.5m by UK ICO for privacy violations"
     excerpt: "The Information Commissioner's Office (ICO) in the UK has announced that it has fined Clearview AI Inc £7,552,880 for privacy violations in the UK. The"
     publishedDateTime: 2022-05-24T07:02:00Z
@@ -300,6 +316,20 @@ related:
       name: Security Week
       domain: securityweek.com
     quality: 34
+  - title: "Clearview AI Launches Clearview Consent; Company’s First Consent Based Product for Commercial Uses"
+    excerpt: "Clearview AI, the leading facial recognition technology company that ... with pricing more affordable than other FRT providers such as Amazon Rekognition and Microsoft Azure, while providing much higher performance and accuracy. Clearview Consent is ..."
+    publishedDateTime: 2022-05-25T10:57:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_ac316dfe-f089-5a74-9305-dd50401cd4af.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 25
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
+        width: 415
+        height: 539
+        isCached: true
   - title: "Clearview AI had no 'lawful reason' to collect Brits' images"
     excerpt: "The UK's data protection body today made good on its threat to fine controversial facial recognition company Clearview AI, ordering it to stop scraping the personal data of residents from the internet,"
     publishedDateTime: 2022-05-23T11:47:00Z
@@ -363,15 +393,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 14
-  - title: "Emotion recognition AI finding fans among lawyers swaying juries and potential clients"
-    excerpt: "The American Bar Association has taken greater notice of emotional AI as a tool for honing courtroom and marketing performance."
-    publishedDateTime: 2022-05-20T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202205/emotion-recognition-ai-finding-fans-among-lawyers-swaying-juries-and-potential-clients"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
   - title: "UK privacy watchdog fines Clearview AI £7.5 million for breaking data protection laws"
     excerpt: "The UK Information Commissioner’s Office has fined facial recognition firm Clearview AI £7,552,800 over its use of images of people’s faces and data from publicly available information."
     publishedDateTime: 2022-05-24T13:16:00Z

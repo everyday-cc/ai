@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Garda to use facial recognition technology"
-    excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
-    publishedDateTime: 2022-05-24T23:01:00Z
-    webUrl: "https://www.irishtimes.com/news/crime-and-law/garda-to-use-facial-recognition-technology-1.4887298"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 41
-    images:
-      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A Casino Pioneers Facial Recognition to Serve the Ultra Rich"
     excerpt: "You could easily miss the exclusive Les Ambassadeurs casino in London. Just off Hyde Park Corner, it sits at the end of a quiet side street populated only with chauffeured black v"
     publishedDateTime: 2022-05-25T00:00:00Z

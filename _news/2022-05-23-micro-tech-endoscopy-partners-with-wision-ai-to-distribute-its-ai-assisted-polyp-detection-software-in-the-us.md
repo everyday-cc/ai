@@ -3,10 +3,10 @@ category: news
 title: "Micro-Tech Endoscopy Partners with Wision A.I. to Distribute its AI-assisted Polyp Detection Software in the U.S."
 excerpt: "Tech Endoscopy USA, the U.S. subsidiary of the global medical device company Micro-Tech (Nanjing) Co. Ltd, which develops an"
 publishedDateTime: 2022-05-23T13:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-ann-arbor-artificial-intelligence-8e6c1522e9e64ea6bf9869d1f0a7de3b"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-ann-arbor-artificial-intelligence-8e6c1522e9e64ea6bf9869d1f0a7de3b"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-ann-arbor-artificial-intelligence-8e6c1522e9e64ea6bf9869d1f0a7de3b"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-ann-arbor-artificial-intelligence-8e6c1522e9e64ea6bf9869d1f0a7de3b"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "2 tech companies partner to distribute AI polyp detection for colonoscopies"
@@ -33,6 +39,6 @@ related:
         height: 600
         isCached: true
 
-secured: "r+3GTk3gear+6+injuH6gqArYziLMnh/XzgLLXDM6JY1HLVi2ByR0QRs/axjmLiL4ufU8k40x2L4x3Pymslyoxv1y2QbEvcobqbwBdKuVXF75bG6zVuVXWH2yDrjJyvkD2Q0tjcnjM3UikZcQti7/zYXhqly88bjCmJgxHvxNzthW0IpJjxzO61OFDOhybvzpXQp8FrWxId39JyKBSbLYxrfa58gZf2qbZLk/3Vh8fCiVkB6GyVsDRkmZPfky/PxumOPY3zADilqKqkg0BRMIstqoinBIR3+dB/v7skUDbWVTGe/tmFmTJ0yi3X1npPTkjvsjbtKVdcjWEzdcCwNAV/o1Bj7QuIwjF1qwO5JQng=;jnJDVPJKwker2OsDe7lCDQ=="
+secured: "vRaXa071wS6OpS7M0xwlB5yOWKxiLmPBNM4Eyv/2aHIWu5Bn+Qz6ULNL/xrSR0a5p+4ILLLu0VmhIrTMq1JYExKUOxFlu7vyP6aXbCkFGu2fwyH9vHod9yTbNTSYbF4hd5hUGAFP50KbQQ2Pah9rdx9vcDY7qgseTE8Ji6BHOP/iBx8963b1F95Tb8K9TCAHkZJj6rqdcqqIbtizYOXvfs5TYlzqgtlE11VWQ+CWh7xbPas2E84XzbHj6hfWI2W/SbC1zKHnYd+X6wwOs+ZAdVlNPgJSWtrss17rkeyDeSbsBCQkq2juOyNUzQKV/SfK5xsmY9S/2EuqhsPafq0U2PiZ4gmQLZl6qRVJteAi6Zs=;bPZyYPLXcNfMC1xAzTcNwQ=="
 ---
 

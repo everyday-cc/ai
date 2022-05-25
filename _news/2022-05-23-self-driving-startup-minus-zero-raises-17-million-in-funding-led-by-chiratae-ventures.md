@@ -57,20 +57,6 @@ related:
         width: 1196
         height: 843
         isCached: true
-  - title: "Self-Driving Car Start-up to be Introduced in India"
-    excerpt: "Minus Zero is an Indian based start-up that is looking make self-driving cars into the mainstream in the country."
-    publishedDateTime: 2022-05-25T06:55:00Z
-    webUrl: "https://techstory.in/self-driving-car-start-up-to-be-introduced-in-india/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/05/AMP-62_60fabd243e292-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "UK launches £40m competition to roll out self-driving commercial vehicles"
     excerpt: "The UK Government has launched a £40m competition to kick-start the roll out of commercial self-driving vehicles from 2025. Announced today by investment minister Lord Grimstone, the ‘Commercialising Connected and Automated Mobility’ will provide ..."
     publishedDateTime: 2022-05-23T12:13:00Z

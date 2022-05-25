@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.co.in/public-confidence-must-using-facial-recogn
 cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805"
 type: article
 quality: 74
-heat: 104
+heat: 105
 published: true
 
 provider:

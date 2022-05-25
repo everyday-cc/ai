@@ -7,7 +7,7 @@ originalUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/
 webUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/"
 type: article
 quality: 34
-heat: 35
+heat: 34
 published: false
 
 provider:

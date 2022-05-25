@@ -3,8 +3,8 @@ category: news
 title: "UK watchdog fines facial recognition firm £7.5m over image collection"
 excerpt: "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database"
 publishedDateTime: 2022-05-23T10:24:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
-webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
+originalUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 type: article
@@ -108,6 +108,6 @@ related:
       domain: upi.com
     quality: 19
 
-secured: "PcpmpRI9xbKcfITqHb7e9weqSYxGWu0/DxYMSIA3q8r2fUruOg3Ugrs5RaBBkgktD264ZaJl+AbpBqg7Uqj+eWgdokMu2GLyBQZd+hWK14c67X8t/1kaJtiXYIjKwuOWNvRY/fEYZdZbAtH7AsLZRn83cx8qYWdxWyiRMio2iMpN7w7NquoLarZD1ccbDZiyQ/MPxwh3/uDFBBEtlYNFlf6VdIqDZpWDZ71p0Ftzlkh5H2azMxMeXpULgvOdKlYVEinYPLM3tI1o06i/UT5wCdRw6MqGxY2UWnRJKC9WDE++bJoG+JifvhnyY5R8Cyh01uwpKxQdiGD/VnetYu/NxnCxjvJam+cUFpfb88G52UAbTtTUN+XW0HkgvQlm9ywPx6MMs0OePkWtUFyPRR7lcv8kcJp6f3Cl7b1p/aXZr+C3rKmNbN28873TmrvhUdlX4MzxIpl+x7vUbdEuyJj6I5LqxwBZIKtsA/bpJyXgUObUZcGN/x3JNE7rFHQsp66WU1U9RKq4s0ILNsyW/IFDcQ==;mL76coirQtzUkxTRKfgbpg=="
+secured: "THWs4q16wBR+N/sgcDYm+dw0LPo8p/j00al7xWCYDLpFx7IzpA66JqJ3wSeOiRVNbgymM7LMsO+xMPjf3iXrgM4s/ItPeR5bUNLdk3xFhXCxzuTiVXXdzsJ1QqcVCZLGLb/eIexYkJkr/u5J24vJ9oKttWUan58NBmVe7aynlGE7dwP4MIJgCm28Kbs/oX1jCJysXsSzgS5qPBEP8wcpTP55iCDFB6yciJ/4zdV64fOAyazK5WEexy/X9jWBqjX7SMvLMM9eVtKl68kaQr8n8eRR7q2b+myuCF47CLoCvmiMibjpZewCD+XkhpuJwMlVLtwI4X6KJSjj8B3QfQzUNPWM9Mmh2yi5LI15wY/Wq6c=;hWli200U6SL5xfbLjqLxKw=="
 ---
 

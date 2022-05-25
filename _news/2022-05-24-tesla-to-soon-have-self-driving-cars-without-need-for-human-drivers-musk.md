@@ -27,53 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Could Brands Like Tesla Lure You Into Buying a Driverless Car?"
-    excerpt: "Established and emerging manufacturers have embarked on a journey to produce the most reliable driverless cars to compete in a growing market. But people still don’t trust AVs are safe, despite potential benefits of fuel efficiency,"
-    publishedDateTime: 2022-05-20T18:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/"
-    ampWebUrl: "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/"
+  - title: "Elon Musk says Tesla will have self-driving cars without the need for human drivers this time next year"
+    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
+    publishedDateTime: 2022-05-22T18:04:00Z
+    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
+    ampWebUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 74
+      name: Electrek
+      domain: electrek.co
+    quality: 73
     images:
-      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/GettyImages-174038219.jpg?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "A start-up aims to bring driverless cars to Indian roads"
-    excerpt: "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au"
-    publishedDateTime: 2022-05-23T07:52:00Z
-    webUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/"
-    ampWebUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Drive I/O | Shanghai automakers hit by lockdowns, China’s new push for driverless cars"
-    excerpt: "Baidu and self-driving unicorn Pony.ai received permits to offer fully autonomous rides to the Beijing public in late April, the first service of its kind in the country. Domestic battery suppliers saw profits plunge in the first quarter amid rising raw ..."
-    publishedDateTime: 2022-05-24T00:30:00Z
-    webUrl: "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
-    ampWebUrl: "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 66
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/05/屏幕快照-2020-05-07-下午4.16.18.jpg?fit=1200%2C601&ssl=1"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 601
+        height: 628
+        isCached: true
+  - title: "Elon Musk Explores The Limits Of Tesla’s ‘Self-Driving’ Technology"
+    excerpt: "“Crash Course” includes interviews with various regulators as well as former Tesla employees, such as software engineer Raven Jiang, who make the points that self-driving technology was seen ..."
+    publishedDateTime: 2022-05-22T22:29:00Z
+    webUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/"
+    ampWebUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
+    cdnAmpWebUrl: "https://tampa-cbslocal-com.cdn.ampproject.org/c/s/tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
+    type: article
+    provider:
+      name: CBS Tampa
+      domain: cbslocal.com
+    quality: 59
+    images:
+      - url: "https://tampa.cbslocal.com/wp-content/uploads/sites/15909843/2022/05/hypatia-h_95e1fbe11735d97d17c67c941570c5c6-h_296a49084dcbd41e3bcf9362b22c1e27.jpg?w=1024&h=576&crop=1"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Tesla to soon have self-driving cars without need for human drivers: Elon Musk"
     excerpt: "As per the report, Musk has been claiming that Tesla will have 1 million robotaxis on the road by the end of the year since 2020. Recently, Electrek reported that Musk changed Tesla's 1 million robotaxis by end of the year goal to a1 million people in Full Self-Driving (FSD) Beta,"
@@ -107,33 +91,31 @@ related:
         width: 1201
         height: 675
         isCached: true
-  - title: "Argo AI testing fully driverless cars in Florida and Texas right now"
-    excerpt: "Argo AI is backed by both Ford and Volkswagen, now testing fully driverless vehicles in Miami, Florida, and Austin, Texas."
-    publishedDateTime: 2022-05-25T01:29:00Z
-    webUrl: "https://www.tweaktown.com/news/86405/argo-ai-testing-fully-driverless-cars-in-florida-and-texas-right-now/index.html"
+  - title: "Tesla to develop self-driving cars without need for human drivers by 2023: Elon Musk"
+    excerpt: "Tesla chief Elon Musk has now claimed that the company will have self-driving cars without any need for human drivers by the next year, according to reports."
+    publishedDateTime: 2022-05-25T09:18:00Z
+    webUrl: "https://www.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
+    ampWebUrl: "https://amp.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
-  - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
-    excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."
-    publishedDateTime: 2022-05-21T18:38:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255267&cat=PRN"
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 52
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1696550/tesla.jpg"
+        width: 820
+        height: 547
+        isCached: true
+  - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
+    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
+    publishedDateTime: 2022-05-22T18:04:00Z
+    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 16
-  - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
-    excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."
-    publishedDateTime: 2022-05-23T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255631&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 16
+      name: Electrek
+      domain: electrek.co
+    quality: 35
 
 secured: "JJzfDyEqShMbhraXCb/A4DW2Z+MqrpIdDlIDDkgqlQ8JxzJl87u69GVT/5XM9dzBVI0NW6Ig9FEGR28eHxXC8+be3FoywUC5dkzyJhDoa+D/xgd4Fgq6Og+h9k488kGP8kiXEv4mDo7p7xYnqpYcUwln/FI4jwc+2hJWa6DwXdUe6969xPiTwl0MhKYegCITX2DM6nre/BKD3kZVRv+gHMupVnO29Q2cPsokywB2hVZAlM+CfuPwhs4hYj5HWwU9Johe91dtyInifEFaA5knvn+zId/mY/Y6IImH2P+yEZVi64Td+3nLCuiqfZZC7o/fI/nG8equfNd5PpXuWrjEeSiAvB3J4dekmMqRb4kEhFmLLb2xP/PNt7tVM/2+PSxeRMlmUbxKH6DVBfrFivUjZdmJSVGXkTVyF706LTLog0LgFWDATipxtfzWfAjRaIhA3G+Hufe+1ZBdJLof7GKiB6jLwtOE0WF4mEEs4c0KLWO1nMhnqWNXd8strqdL7FSCHg+vw8paOysmhzfHXbcs3g==;tGBdIbI36jYuAJMygN/nOg=="
 ---

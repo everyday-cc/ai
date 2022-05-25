@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-05-mastercard-recognition-payment.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://images.theconversation.com/files/464421/original/file-20220520-19-yabkx8.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
         width: 320
         height: 213
+        isCached: true
+  - title: "Pay ‘with a smile or a wave’: Why Mastercard’s new face recognition payment system raises concerns"
+    excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts. It is being trialled in Brazil, with future pilots planned for the Middle East and Asia."
+    publishedDateTime: 2022-05-25T08:44:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/pay-with-a-smile-or-a-wave-why-mastercards-new-face-recognition-payment-system-raises-concerns-398014"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 40
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/5/2022_5$largeimg_1625092622.jpg"
+        width: 724
+        height: 483
         isCached: true
 
 secured: "EWlpPWBnPWAIBI9nYXabDehdl7BSG57eAtDcL+/wuRZdPzL9OT4O/PELPmoTsUlMyRnGeW2kBbM40DS0P0C/rfeX3+QjkK7DSy3TPLv3nqK8EFOMC3V6ZN+ktYQx5K71XRBgnECJGSrK03WvDO+tGgZKkSYQfiGq+F1nQi3ImXw0gJX7UVvXZTloPC292t8hjXesVUiRiVC2SJrmXHcB1d/Xzz0PDGTaIjet9hH3zgZ0OEpqgdUtVbC14JxC+zyIKdX586X7ITNtYoaB1/HGum0KuordrsnGrprV+EMQtQJrWP7j1PxliNGatuSOK0uOVKnnC6DBgpQ1uHL44Z3bhUimGxQz4IJVKJMY+tVZbWT2NAd80SrRmmlq4W2Kd64PdNzWzvBSbAnwVmAnwCDU+TVn0RpWqlaOoDLgVlGjmBMpNUeJ+r2ZJw9kSP6MegaRubxKrii7E42VsxSxU3Ebs8XHy2t0XrI1/sEVGkqkGjm0ua5Z5eyYsO2L4V27IbiCwglwg5o29RjBrMFjAEZ6Eg==;NAYqCF585Qvbchjk1RJJNw=="
