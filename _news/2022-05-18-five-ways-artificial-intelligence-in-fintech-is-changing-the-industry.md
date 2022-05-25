@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://i.insider.com/5d108b8597ad764e471a97f5?width=750&format=jpeg&auto=webp"

@@ -1,30 +1,20 @@
 ---
 category: news
 title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-excerpt: "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics."
-publishedDateTime: 2022-05-10T20:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
-webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
+excerpt: "These continued benefits of the partnership were also highlighted by the TEI study interviewees who shared positive feedback about feature integrations, including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and ..."
+publishedDateTime: 2022-05-11T13:28:00Z
+originalUrl: "https://www.zawya.com/en/press-release/companies-news/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-x0av2kla"
+webUrl: "https://www.zawya.com/en/press-release/companies-news/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-x0av2kla"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg"
-    width: 400
-    height: 299
-    isCached: true
-
-secured: "JR7VnzXHEPqYmUF0hb741Qzso+xGUS8EXwnaUjUuypKQXMqOhwPQRJ02Tgsp3rm4awX1SczolY9cBGSl6/UllQP8duFsGRGuNRAeJjlG3wUFsTpEEo3iuYtrbsBQD4frcu1kQVSPjyhKXHKcjhNhA3D5EH5fvIas0KbrsnORU0l9zpyBVxZg66O7UTf9IvbMn9RmwlIw+DraugUZfZXioDQALzLl5dlBIxIXYJDOyQkG0X01rfa8KUXHfWz5UQ5zhXsVE24Njw+88Wbv24Ib7XDWG7in/LgTHv98MA3mVvFtsDKWtkEdHp3Hu83WdcmA5oU6SX9OWMZU+xmoeTXBv26A/DGhhFviKOh1oR7w5vY=;qxiMTySrZ43lFPzxQovQZg=="
+secured: "Ita4jDnnD1PwC8vovE6If7dHtzSJJCFVnolScyugbsp6WX2QiM8LVkn2nN6nYnjOTgWdeOPfx/0PyV4a+6/DFL6SAWjsW/lA8jV7HtxUYiLCa3n/a28NYnvExON0yu0n80RNqjH0vSe7hf4i3lCtuSU+m/b/tq6CfiKab61exGgtXlt7aSQN5s5KcN6vUI57O101ua52gwzBM8CI65drJoz0vFbqlA/1ounxZyEX7vCH4X66Wud93zyAKKIGEa6XS8a917XH8lIAPRDl5AmzCX24lt0zj/IXvoMa7sAoTt1rk7N7bh2yW23Dfl28WEeTdnSqz2DTJsaJraObN1zTRYVwX+RsTYztRlj84H8kubQ=;u2C4BFnfTKvg7hVXpUmbbw=="
 ---
 

@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/c1ebff70-db6d-11ec-af58-89b75584ad44"
@@ -27,6 +28,6 @@ images:
     height: 623
     isCached: true
 
-secured: "Bq6w4hTo6q8Bp9+y6eL9JWh3DWTLq6z4uAvxkUXqzHNE8I9kwPX7ATvEuH4IxxuLXBaTu+tziZRWH+fvR4JTWIpqZpTlY+ISBExL9saR3nPG3CaFypXZ0vSrD9DuRbUXI21xmKlYb+w4cW4LxUJOsEhbVUK16aOk62vHJU7su/wp6uF4LJNbcFCAlCStpfeXG0oDGmFqRq3FQVW6hduKtChajynJ1q47Lw4sNXLifJtCNVOPmmr2rltS3mDcedjsccbYYa4WAte6qeWoxaVIvIBJVS+9jfLIbkoqeXKJU22yfJjiwygthWw9Zlybl4NGp8FC63hsi4yrHxV//xj4M6XL8BxhPjkD8jn+WGLghP4=;+VhxybpFvg7AmMg9pzXlSg=="
+secured: "cQdkUGOyCrzgbyxlEGfLlBlcYIS3fS1Y8P5o3gV0U2EYfOwLfQcvB9BSUFy+LTHPbuNPIkIU2jS8t44oUl/lmjOXZk/cDqAyVUtPQx2JJGqEKPr7p+bskHTY7uUz4cowbIknItObNjJKuqodIicRhFFi9ha4Z3WOce2RM+1f0S8pewdTh/uHtgutWR4Fk9aoZbhVcMHAe3veW3I3QM8t4ncX7tXKc/3pQB5iXAkU/JNIjUaNbUCzJzM4ZNZXOpfS1Xx6tsPGkLgVAqJmttEew1PLUDuxnA+EUn/qC5SXH8Tl6+pRBKErsn2A+oxB+jCtnRf+vrKItrZ3j8zQvDyRaJtZlZKHnPJ0bC/4RvHQtwQsIJc9Iky+xx3G9cUJJVdWo0rfs96Y4LaReahe6mJI0jyeM2iXa9mNlmt2isCXJuNT0/+vFj1YeM4W7PYCdZnWh+idsLtCBR6cDGdbbXUHDXwWxA2LHyS47i4MaIF2ce+3PGJSjR+9p6CUZDOzzNrtWHCB5/QMw2CoQLKmaT/pyw==;0mPKigu401fEY0OKomuSPQ=="
 ---
 
