@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T12:50:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: WFMZ-TV

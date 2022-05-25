@@ -9,8 +9,8 @@ ampWebUrl: "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-w
 cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Money Morning
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "The Download: Google’s AI cuteness overload, and America’s fight for gun control"
+    excerpt: "This cuteness hides a darker side to these tools, one that the public doesn’t get to see because it would reveal the ugly truth about how they are created. Read the full story—and see more pictures created by Imagen—here."
+    publishedDateTime: 2022-05-25T13:14:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 32
   - title: "Ignore At Your Peril: How Africa’s AI And Startup Scene Is Getting Ready To Change The World"
     excerpt: "Embodying entrepreneurship and innovation like no other sector, Africa’s startup ecosystem is blossoming. Innovative thinkers are localising tools such as AI and edge computing, among other technologies,"
     publishedDateTime: 2022-05-23T08:05:00Z

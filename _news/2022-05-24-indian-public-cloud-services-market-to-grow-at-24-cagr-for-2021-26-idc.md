@@ -33,6 +33,15 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Australian startup develops mine shaft gravity storage"
+    excerpt: "Green Gravity, a startup proposing to use old mine shafts for gravitational energy storage, has secured AUD 1.4 million ($990,000) in its first formal capital raise."
+    publishedDateTime: 2022-05-25T12:05:00Z
+    webUrl: "https://www.pv-magazine.com/2022/05/25/australian-startup-develops-mine-shaft-gravity-storage/"
+    type: article
+    provider:
+      name: pv magazine International
+      domain: pv-magazine.com
+    quality: 2
 
 secured: "OeYYK8Yict4DidY7EGAmy+YRGWqEY0fY0SBMz0NtYsd+wH1WPahTelguKHlRVnqaCK5DJ9pafOTOZ6YJttBy7++nrJh/5zR5O16/rv7KeM9CJKieiZmnpI5jQ4lcCs2l7N0hspWpFZcvPQPzM6EJhlN8CYaddrtQaYAkPRYyW8VIvpme/nqkQsXqrqGtFQyRnli3Cqm2+ZJaN61f4eSxXSBAsUNQMgrzpi+uYPOCusLzBWvHxz4rjCMhyP3u/IT+stngMNJHKCa4NZjCGULouVl0qAsTlPYBaJtG0kuB0ip77oxHoLKBd6eFjmfuQIMaAzoE/A+oP3tqoEQWXkSXBYtUa3kwiBBHMMhJhXLjgxT7yor2qFrb+Sb7ZQcT1e5MqMNyFwl4I2i2Dasb2zQ1029hRJhlESwIg9LjgZEMWQCoYrIYvcCseD9VuD5ZByWnum9/5YRcMSZqmHAQQVUDPcZavBla8kUFUPvDhTkdKYSipZChwjAwtXomufLNGfmW7WmLvF3g60KRc42Q6ecY7w==;cBfNarlfsp/0Z4/WYJUGsw=="
 ---

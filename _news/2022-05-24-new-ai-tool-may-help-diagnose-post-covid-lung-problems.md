@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Identify Patients With Long COVID?"
-    excerpt: "Long COVID refers to the condition where people experience long-term effects from their infection with the SARS CoV-2 virus that is responsible for the COVID-19 disease (Coronavirus disease 2019) pandemic according to the U."
-    publishedDateTime: 2022-05-20T21:57:00Z
-    webUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid"
-    ampWebUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic0827814.jpg?itok=6-v41JVn"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "AI helps diagnose post-COVID lung problems"
     excerpt: "A new AI diagnostic tool developed by KAUST scientists allows doctors to visualize lung damage caused by COVID-19 in more detail. view more . Credit: © 2022 KAUST; Ivan Gr"
     publishedDateTime: 2022-05-23T15:08:00Z

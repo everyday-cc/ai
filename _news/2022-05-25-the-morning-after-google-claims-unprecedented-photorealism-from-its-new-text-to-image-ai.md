@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-25T11:20:00Z
 originalUrl: "https://www.engadget.com/the-morning-after-google-claims-unprecedented-photorealism-from-its-new-text-to-image-ai-111528400.html"
 webUrl: "https://www.engadget.com/the-morning-after-google-claims-unprecedented-photorealism-from-its-new-text-to-image-ai-111528400.html"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T13:50:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: WFMZ-TV

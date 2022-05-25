@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T13:27:00Z
 originalUrl: "https://news.webindia123.com/news/Articles/India/20220525/3945317.html"
 webUrl: "https://news.webindia123.com/news/Articles/India/20220525/3945317.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Webindia 123

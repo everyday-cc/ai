@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
 type: article
 quality: 104
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia has announced new hardware focusing on AI-enabled data centers"
+    excerpt: "One of the biggest GPU companies in the world, Nvidia, has made some announcements at the Computex show in Taipei."
+    publishedDateTime: 2022-05-25T14:48:00Z
+    webUrl: "https://cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/"
+    ampWebUrl: "https://cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/amp/"
+    cdnAmpWebUrl: "https://cloud7-news.cdn.ampproject.org/c/s/cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/amp/"
+    type: article
+    provider:
+      name: cloud7
+      domain: cloud7.news
+    quality: 59
+    images:
+      - url: "https://cloud7.news/wp-content/uploads/2022/05/Nvidia-has-announced-new-hardware-focusing-on-AI-enabled-data-centers.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Nvidia debuts liquid-cooled graphics chip for data centers"
     excerpt: "Nvidia Corp. late today detailed a new liquid-cooled version of its A100 graphics processing unit that can help increase data centers’ energy efficiency and reduce their carbon footprint.  The GPU made its debut at Computex 2022 early Tuesday in Taipei,"
     publishedDateTime: 2022-05-24T07:15:00Z

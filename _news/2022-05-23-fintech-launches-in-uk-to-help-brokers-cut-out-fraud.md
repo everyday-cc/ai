@@ -24,6 +24,17 @@ images:
     height: 428
     isCached: true
 
+related:
+  - title: "Fintech firm Three Wheels United raises $10 million"
+    excerpt: "Three Wheels will use the investment to scale its business in India and launch pilots in other emerging markets"
+    publishedDateTime: 2022-05-25T13:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-firm-three-wheels-united-raises-10-million/articleshow/91792626.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 19
+
 secured: "P2NoKq55KdOQD4lm7fVmnFXG9uC8C2QurKdTKt+vM7c5r8R+K+HhhD8aJj6XymumcarZ8cWN0TyNHu+iNvmVvlqhXC8nu9PORnPZ+LEnxgn5QEhhIugTIijystC7VPEmX1t8Q0/emZCc5RsRo6Rpj0M0biF8LPVwzhqWeICfQqiKtnte8bfRWpp1aLhTXpeda+kn3BywRyHFWd7zYU9PVOjkTiSgAxjNFyggf8XBln//1YH89hkVg6l+MTQ6OFPo0w9Gg9FOA0uM6+by2Ow4ZsSWHuNQByRlF6fcTMe6Ty6r88Hyt39NUmYVMVoMAp0aVXQV5zxNANJckGifnwW3vVRhC7CXE0A8396bIay0Yaqgvm9usxWYATQ82Ibefr/bAXB2SEq6btT5s+1Cd4rYMd/1LjC1CQUsG0+IYNB7BT4AtbgjBKD/0oVfwEXEHRPSL8h90OIkX3i1WQeTpBdHFho06hHOPu4DS9ihy95+HM/4ZyYiLxxycRPNWDhfycXk/8rfNzIrM0RBLgTMJFKJxw==;kKtCrxw0rh+UnzElfOlmIg=="
 ---
 

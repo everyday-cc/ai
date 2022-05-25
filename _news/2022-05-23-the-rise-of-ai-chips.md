@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 768
         isCached: true
+  - title: "Up For Debate: Is AI The Future Of HR?"
+    excerpt: "Employers that introduce smart technologies to drive efficiency in HR may stumble on a hidden layer of division in the workforce: some workers are comfortable having their resumes and performance data read by artificial intelligence (AI) – and some workers are fearful of how AI will influence"
+    publishedDateTime: 2022-05-25T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2022/05/25/up-for-debate-is-ai-the-future-of-hr/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Can Robots Learn Law? Scientists and Theologians Discuss the Future of AI"
     excerpt: "The conference was organized in three parts around the concepts of expressing, defining, and understanding intelligence."
     publishedDateTime: 2022-05-23T13:17:00Z

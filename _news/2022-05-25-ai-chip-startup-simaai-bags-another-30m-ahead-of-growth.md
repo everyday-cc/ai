@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/05/25/ai-chip-startup-sima-ai-bags-another-30m-ahead-of-growth/"
 webUrl: "https://techcrunch.com/2022/05/25/ai-chip-startup-sima-ai-bags-another-30m-ahead-of-growth/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: TechCrunch

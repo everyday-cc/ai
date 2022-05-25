@@ -33,6 +33,15 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 3
+  - title: "Australian startup develops mine shaft gravity storage"
+    excerpt: "Green Gravity, a startup proposing to use old mine shafts for gravitational energy storage, has secured AUD 1.4 million ($990,000) in its first formal capital raise."
+    publishedDateTime: 2022-05-25T12:05:00Z
+    webUrl: "https://www.pv-magazine.com/2022/05/25/australian-startup-develops-mine-shaft-gravity-storage/"
+    type: article
+    provider:
+      name: pv magazine International
+      domain: pv-magazine.com
+    quality: 2
 
 secured: "dCvEU7r1hrcQyiWtQ42KhmJGVj1oMpfVHQX+N1dD+e+G4X0q0dA4Ym6n0VGJ79K14otvXCb/kFCU2K2nxUdTytujXosduvHDTxC07Bs+Ibse51kV3fWoEuvHDa0TsYuPApe+XUaNqoLHcVjX68Zme9tBG0suEpTX6czEoKqav48TCszSTMspl4y625wkN97nXPwsXvscDb3pJY+QmhgrhQVs3Fy9LM9hKBBZpG3HXp9LdHlVQsBDvei9ATDMtqmv3JcL6/yH3tYMJdgordk7sx9l185x4ovWBZxzYqpkN1CJrLKg3jIBQNqRTiryy9VbO3yxLVg3GiTNYC04iEKC7xU7JXGDXmlMJXG37r4iSfI=;IRPK+jwNlwtrN3ggXMqRmQ=="
 ---

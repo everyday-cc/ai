@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T14:26:00Z
 originalUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
 webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

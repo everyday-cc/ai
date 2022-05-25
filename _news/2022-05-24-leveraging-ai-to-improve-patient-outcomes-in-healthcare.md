@@ -7,8 +7,8 @@ originalUrl: "https://marketscale.com/industries/healthcare/leveraging-ai-to-imp
 webUrl: "https://marketscale.com/industries/healthcare/leveraging-ai-to-improve-patient-outcomes-in-healthcare/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: marketscale
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech in Healthcare: Improving Healthcare Affordability Across the Globe"
+    excerpt: "Rising service prices, patient number growth, and population aging have always been driving up the cost of healthcare around the globe."
+    publishedDateTime: 2022-05-23T13:06:00Z
+    webUrl: "https://innotechtoday.com/fintech-in-healthcare-improving-healthcare-affordability-across-the-globe/"
+    type: article
+    provider:
+      name: Innovation & Tech Today
+      domain: innotechtoday.com
+    quality: 19
   - title: "Can Transparent AI Analysis Boost IVF Outcomes?"
     excerpt: "Fairtility just raised $15 million in series A funding to support its transparent AI analysis technology for better in vitro fertilization (IVF) outcomes."
     publishedDateTime: 2022-05-23T17:59:00Z

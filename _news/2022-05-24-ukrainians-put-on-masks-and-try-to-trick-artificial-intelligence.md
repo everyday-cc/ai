@@ -7,7 +7,7 @@ originalUrl: "https://spectator.sme.sk/c/22919230/ukrainians-put-on-masks-and-tr
 webUrl: "https://spectator.sme.sk/c/22919230/ukrainians-put-on-masks-and-try-to-trick-artificial-intelligence.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 892
     isCached: true
-
-related:
-  - title: "Scanning the Corpse's Face: Ukrainians Using Facial Recognition Technology to Identify Russian Soldiers"
-    excerpt: "The Ukrainian government is using facial recognition software to identify Russian soldiers captured and dead. VOA's Julie Taboh spoke with one software company CEO and an official with the Ukrainian national police about how the technology is contributing ..."
-    publishedDateTime: 2022-05-20T19:15:00Z
-    webUrl: "https://www.voazimbabwe.com/a/corpses-ukrainians-facial-recognition-technology-russia-soldiers/6582706.html"
-    type: article
-    provider:
-      name: Zimbabwe
-      domain: voazimbabwe.com
-    quality: 18
 
 secured: "fmk8wsuGRnnqcDWN2WTqMZ0XovoixaZ1PlkBG0WxbMCNLjAP64gkSiIp+efQSHIBRjLB0htz75IwVabg0L1A7+BvSWtEg4iZSvhnghPFwsnhG3pcN+hEQwhIkw4YD/SvU4UVnaPfnmIFlLHKvcHEttD0GF+5pJMw+ohBQ5JnEe06SDMb46qlGriQd1mBlFcggnfVNvsgMjDif7KgvlCpuB+84F8/tG+Se/SDCdAm4CzaNq9h/1qzcTezw95iqOJALaEjY6EqhX05ZgBthUuGRwHgwaoBvRjrHe1WLU2WZ4xPOWJTp7gygj5BhA+pACYDxnD/bBieEqPV3CpMuXAk7U/XnK1jMoRhL0kTiHds3cIcv5dyO7Ga9tyMPiCTs5J5qaz/Yx72h31gsIJU2Hr744OsrMtx9WJdqF//r3a6IJuqYIm+caWM7mhlBBS/W3XkVLqxUgHFjqHGKI2lCiS3bRrstcgozsRVMvTKwYDa2WNOj7rV6vZFdt8vrjo6BKWK84q5q/WpfxXsa7Z7mMi5pA==;zlhLJdYyOtamxr5xsw7iuQ=="
 ---

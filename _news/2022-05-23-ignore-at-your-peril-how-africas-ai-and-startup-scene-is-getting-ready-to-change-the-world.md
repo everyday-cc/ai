@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Download: Google’s AI cuteness overload, and America’s fight for gun control"
+    excerpt: "This cuteness hides a darker side to these tools, one that the public doesn’t get to see because it would reveal the ugly truth about how they are created. Read the full story—and see more pictures created by Imagen—here."
+    publishedDateTime: 2022-05-25T13:14:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 32
 
 secured: "22ZMzMhIFv6HaiafcDYNrQU/nA7W2zxgESVT0T08e0FiPkRA4qslNOK3u08Aqs28Gn/ORHAk2CRqpcXwlg50Y1FBGNKrkKwdVbW40i/JSwUqEoywCiWma5M3jfKh0TZ94Og0nEglfwmGIq9nZImwEV0YUeH8XuCRQT5kt5vo54fneZ+TgapCPpjU+/CU7DyvXeliUflW9R2xmvQ3bkrrQ5TKCMw/n0ZGo9gWRiCb2FpWFAh4D/OmeTZY1b9A3H9K8IYmMdKEJmXkx1xroKoX0ftefooo6e7HdndRcdmoy5Q3gJI8f/ETpyfoBCxCpV8fQzcObb9E3bZAjHt6Cf88OF1F7J67b3+3lZ72auR89aXI8rw00SypA3qdLIwROdrkqoHbCPnFAeQZ0U9t8xUMyDHmh5hEXCELKtmCKS/x83TYATXBv1gKvXLjybb1Lcp9FG5cpg9xi1X9gdPJ9ihEeLxQ4ocfCqy/zE/ET3gthaNjFXbOkP0uR61nP5RTd3YJYTdGklCIuWpsR4JM3KEIog==;unBebt/9ynC4XA1HMhNyHg=="
 ---

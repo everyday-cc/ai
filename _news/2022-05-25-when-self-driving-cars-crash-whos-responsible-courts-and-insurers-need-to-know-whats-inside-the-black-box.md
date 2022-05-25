@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T13:32:00Z
 originalUrl: "https://techxplore.com/news/2022-05-self-driving-cars-responsible-courts-black.html"
 webUrl: "https://techxplore.com/news/2022-05-self-driving-cars-responsible-courts-black.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

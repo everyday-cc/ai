@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-b
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/amp/"
 type: article
 quality: 121
-heat: 332
+heat: 382
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://www.pcworld.com/wp-content/uploads/2022/05/Build_Blog_Project_Volterra.png?w=1024"
         width: 1023
         height: 716
+        isCached: true
+  - title: "Microsoft expands its AI partnership with Meta"
+    excerpt: "Microsoft and Meta are extending their ongoing AI partnership, with Meta selecting Azure as \"a strategic cloud provider\" to accelerate its own AI research and development. Microsoft officials shared more details about the latest on the Microsoft-Meta partnership on Day 2 of the Microsoft Build 2022 developers conference."
+    publishedDateTime: 2022-05-25T15:09:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-expands-its-ai-partnership-with-meta/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/2de2b1ed6198eabf6d34c116d16c495cfd2c5a8f/2022/05/25/bd51eb15-1abb-4761-b527-6d312c91ef59/aimodelsbuild2022.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 648
         isCached: true
   - title: "Microsoft Tips Project Volterra Arm Hardware for Hybrid AI Development"
     excerpt: "At Build, Microsoft also announced new ways to leverage its Teams collaboration platform and Windows 11 operating system. The metaverse got some play, too."
@@ -229,19 +245,21 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
-    publishedDateTime: 2022-05-24T20:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
+  - title: "From Windows, Microsoft Store to Azure, here are key announcements from Microsoft Build 2022"
+    excerpt: "Microsoft has shared a host of announcements across platforms at its flagship event Microsoft Build 2022. Here are a few key updates from the event. Windows 11 . The tech major ha"
+    publishedDateTime: 2022-05-25T14:09:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/from-windows-microsoft-store-to-azure-here-are-key-announcements-from-microsoft-build-2022/article65460299.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/from-windows-microsoft-store-to-azure-here-are-key-announcements-from-microsoft-build-2022/article65460299.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/from-windows-microsoft-store-to-azure-here-are-key-announcements-from-microsoft-build-2022/article65460299.ece/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 61
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 63
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.thehindubusinessline.com/incoming/5d2hps/article65375211.ece/alternates/LANDSCAPE_615/2022-04-26T194957Z_372594_RC26VT94FX9B_RTRMADP_3_MICROSOFT-RESULTS.JPG"
+        width: 615
+        height: 383
         isCached: true
   - title: "The biggest Azure announcements from Microsoft Build 2022"
     excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
@@ -299,6 +317,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
+    excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
+    publishedDateTime: 2022-05-24T22:02:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z
@@ -327,6 +354,15 @@ related:
         width: 1196
         height: 769
         isCached: true
+  - title: "Mac mini clone offered to developers as Microsoft embraces ARM chips"
+    excerpt: "Microsoft has revealed what looks very much like an M1 Mac mini clone during its developer conference, Build 22. The device is known as Project Volterra. The resemblance is more than skin-deep: the machine is ARM-based,"
+    publishedDateTime: 2022-05-25T13:06:00Z
+    webUrl: "https://9to5mac.com/2022/05/25/mac-mini-clone/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 36
   - title: "Microsoft believes that its new tools make language models more secure to work with"
     excerpt: "Tools and data sets aimed to audit AI-powered content filtering systems and automatically build test cases indicating possible vulnerabilities have been released by Microsoft ahead of Build 2022. OpenAI’s GPT-3 is an example of a large language model (LLM) that can evaluate and create text with human-level complexity,"
     publishedDateTime: 2022-05-23T20:08:00Z
@@ -341,6 +377,24 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Microsoft Build, Thick Versus Thin, AI Platforms"
+    excerpt: "Microsoft’s Build keynote was impressive in its clarity; it also emphasized that the thin client model one, mostly."
+    publishedDateTime: 2022-05-25T13:40:00Z
+    webUrl: "https://stratechery.com/2022/microsoft-build-thick-versus-thin-ai-platforms/"
+    type: article
+    provider:
+      name: Stratechery
+      domain: stratechery.com
+    quality: 34
+  - title: "Microsoft Teams and Power Platform to Get AI-Assisted Collaboration Features"
+    excerpt: "Microsoft is showing off a number of new features for Teams and Power Platform developers, including the ability to scan photographs"
+    publishedDateTime: 2022-05-25T13:41:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-teams-and-power-platform-to-get-ai-assisted-collaboration-features/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 31
 
 secured: "NuywPxMZCNU1hgM+6mJO7NBHh81TXb70eLIQkjPlItV47762AjVN+R/okbBCzTr6N58R1Rq5VTQVVl5tEkflzIxnSaxVk94QL8zJ5TjPfsBwXx89C9+Z4JjBdPm3MKt9NrJn7tG0f1js1pNA9Pgq+yimQC2NvNYGVXCSWRmn0xf6WGhQ8zQpjUWnSTodL7Dar3p6WZB9cdaidNgipF+onzpJkp2UfZVV2jQAOOQA0hg8CDjj334RXPM1LQx+rBvQdz2rjyYHzk4taS2lpLShb0b7XTRSCtHGvNS9d/tQOiIoOKp1XL137SdOixK45iMLTyoNjBd3Zt2HRAFxlQr4G0UdLYcxzbeL5kjFbWtJAb1csJuBfKH8MuDMPZELnCLc/+nYHDJegMBd/mY1xhab+vvbTQs1rI7vM7Jco07kiFz1zAogcI+gCNmCPeiPBu+lhajE0aHY+8PS9V8r8CHDMLdf8YmnJjnLuG2F1PoR5iZqidJn+/H6lj7OWp5Q9y1KHoNu6K+IaKlSPMCSlmBv0A==;T6d6na8nYBlumzuf3vuWEQ=="
 ---

@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Playing by the Rules: Fintechs Use AI for Marketing Compliance"
-    excerpt: "Companies are spending billions on marketing and advertising, paying big bucks to be center stage for public attention. For fintechs that operate globally and under the jurisdiction of multiple government agencies and regulatory systems,"
-    publishedDateTime: 2022-05-23T16:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance"
+  - title: "How Fintech players are leveraging AI/ML to bridge the gap in MSME lending"
+    excerpt: "FinTech is a term which refers to a set of businesses which are leveraging advanced technology as a core ingredient in their business model to drive rapid evolution and transformation of financial services products"
+    publishedDateTime: 2022-05-25T15:44:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 56
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://lh6.googleusercontent.com/XTM3knFbB18Ultf9kkId2-XySe7I71UoEt4VYlNfNr0eSFw_AF0IM6-T-ozQMxrAgBwQUijX_5Q-2JP20wYnU5IxgHWaS9__oPqESXw4wnWgtjOKz0fFImRtMckLFqiGUW0YMiWkY5BRmiucuQ"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Defining “artificial intelligence” for regulation"
-    excerpt: "It's commonly stated that there is no agreed definition of 'artificial intelligence'. This causes problems in making policies and regulations about it."
-    publishedDateTime: 2022-05-24T00:15:00Z
-    webUrl: "https://www.themandarin.com.au/190364-defining-artificial-intelligence-for-regulation/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 37
-    images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2022/05/artifical-intelligence-AI.jpg"
-        width: 796
-        height: 530
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
         isCached: true
 
 secured: "mblr8joZ9FqZn6PWOKgRqZvOL904NaC92cBQ+/YzO0zBzVV6rvc89fQF+M5uAzWDgMtj1NA2k5PNeToqEsT6i5IeVZN5ZES+0ZDULGkPrkiPK7oucBm1xR2mcq1dj7NQODf2IeWDjmrlJaVHwCnGfRNbAOHilguBHu4wppCgMSl5rOFZCxIz+GWFsyykeLYZI+BzMGkeR7GYcdSTkQynSLf5vS3SzC1eM11RLW6fgwlj6Q8cO2ZISNID8Q+ECc/RgXmjQJHKL3qO/CDhU5rAXWMtL9ihGdArXsXoq/BlvUcfo6L0yhBbJGT3rahECupvX00XsFmFIr18y7z1QxEBpms/PnItezsA4STi2mikIYFbksWeuzrxFy6fMYpmn1pFft/ZAsA2xuh4rXiaMaWGQmuQ6jESw3XawFeLYD7aRzfdAM809F/HMlKhsAWk3WpWmt/HM6qn4gEVAulg0xZkVqs6Kea/RHCtW2ZMVda4oRupoyKTOGS1PCu0ggBJhHSAB2sULcP+9GNeWjR0Otc2Ag==;8f7nb9CqaexujC0dBDtdfg=="

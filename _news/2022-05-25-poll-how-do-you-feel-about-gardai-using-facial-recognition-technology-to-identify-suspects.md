@@ -81,6 +81,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Gardaí will not use facial recognition technology for ‘mass surveillance’ — Minister"
+    excerpt: "Plans to introduce facial recognition technology for the Garda are “not about mass surveillance”, Minister for Justice Helen McEntee has said. Speaking at the Garda Representa"
+    publishedDateTime: 2022-05-25T14:40:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2022/05/25/gardai-will-not-use-facial-recognition-technology-for-mass-surveillance-minister/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 32
+    images:
+      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/uT4VvO8PuljKZsxQIoFpT_zqYqg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BV4CFZ3HQ5GEPFN2ZFXFDRUNKU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New laws will allow gardaí to use facial recognition technology to identify suspects"
     excerpt: "Gardaí will be given powers to use facial recognition technology to identify suspects in serious crimes for the first time. Justice Minister Helen McEntee is seeking cabinet approval to allow the use of special software to catch killers and child ..."
     publishedDateTime: 2022-05-25T05:58:00Z
@@ -95,6 +109,15 @@ related:
         width: 1240
         height: 700
         isCached: true
+  - title: "Facial recognition technology is ‘very necessary tool’ for gardai, Commissioner Drew Harris says"
+    excerpt: "GARDA Commissioner Drew Harris has welcomed plans by the Government to introduce facial recognition technology. Ireland’s most senior officer said the new measure would help gardai"
+    publishedDateTime: 2022-05-25T13:18:00Z
+    webUrl: "https://www.thesun.ie/news/8850562/facial-recognition-technology-gardai-drew-harris-latest/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 21
 
 secured: "mqxhKjlYDI9j/kjQ2+sG6KF9mk4ico8yLprQSLR2dii9khHEKzdnuSaCscWeF/5Xz62QwQYygWwtQWELZ0x8qscg6o6IAGXxh9qDhm6aVpKDpSKqvfeHsFsUiU23sjENz8SUSf8J9f53r5U8HRt/3jTqpljKoX+JcQ0clHYdFvvXLtI5O+b1LHmE+ehcmuejkseTrsElHmRx4eIQrSs7qYD12eNLfniy+nYb8Bwh9/9h1FVH2Z9QmKtCLg4BGMuAiJQWFJAutxInspzNgrvXC5rM65LYVrOCuanf3aPwKqUlsJwz268ACQQT4IeWSHDrongj6lcvDup7VdHBcs3H60X6y+nOPeRzfQQSSrae+VlOLltRcGwrqpnVWDBbkWheqQc5Nh+YpGFvOryu8NqW0umLuPA4n1mZ6j0IEmCLIvBh6MzAenCM/UFU3je60EJJphZngTGxlWeDBXfXv3zCSw3BdUFdwFXUQHgkJE2xP7GtQ3BOC+DgZKKm/irdvBBYJVfb0W8nvCds5Vh689RAeg==;Simgfn+XL1OOKgBeKip9zw=="
 ---

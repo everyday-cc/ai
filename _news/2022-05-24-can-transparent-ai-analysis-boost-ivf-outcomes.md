@@ -32,6 +32,15 @@ related:
         width: 2489
         height: 1400
         isCached: true
+  - title: "Fintech in Healthcare: Improving Healthcare Affordability Across the Globe"
+    excerpt: "Rising service prices, patient number growth, and population aging have always been driving up the cost of healthcare around the globe."
+    publishedDateTime: 2022-05-23T13:06:00Z
+    webUrl: "https://innotechtoday.com/fintech-in-healthcare-improving-healthcare-affordability-across-the-globe/"
+    type: article
+    provider:
+      name: Innovation & Tech Today
+      domain: innotechtoday.com
+    quality: 19
 
 secured: "rmpQnzRE6LHRP9SpW6dbkGud2Iwdge1Fs0KFLhiHmigPVzxLMwwngO2XTPj8Q4aa3ZKzFfycIRlPhIPVlauIeGawW/ju8ZkM2oJDjU26iruddtqdhcclP1psEq5UUeXYvJ/UV6XwbF5PSrbqJb20Kyzzf8AekfOVlArI64qigBZEasF+godRkEXycW9tUE5HYoGTjeYBVdiHe97xrv3OH0ksj4LlG+33d3WklwEuOBY1Mb74jwKwB8X5ar2hFugxkqBtkhxhxy3oCJVc0qdNQ9q+bf5Wm8q3MgyLIwJMz4kZ5bPRvpUjWzWcgKnk4Zy8jv4rTSaPSHn17B+VqaQciF2NwUsoQFsjVuDyFOZJdCw=;dprChnb7xSj4RqmCwUhC8A=="
 ---

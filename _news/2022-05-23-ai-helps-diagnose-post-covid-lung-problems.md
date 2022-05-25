@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/953279"
 webUrl: "https://www.eurekalert.org/news-releases/953279"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Identify Patients With Long COVID?"
-    excerpt: "Long COVID refers to the condition where people experience long-term effects from their infection with the SARS CoV-2 virus that is responsible for the COVID-19 disease (Coronavirus disease 2019) pandemic according to the U."
-    publishedDateTime: 2022-05-20T21:57:00Z
-    webUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid"
-    ampWebUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic0827814.jpg?itok=6-v41JVn"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "New AI Tool May Help Diagnose Post-Covid Lung Problems"
     excerpt: "A novel Artificial Intelligence (AI)-aided diagnostic tool could help overcome some of the challenges of monitoring lung he"
     publishedDateTime: 2022-05-24T11:39:00Z

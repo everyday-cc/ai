@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T13:11:00Z
 originalUrl: "https://www.goodfruit.com/pruning-robot-makes-the-first-cut/"
 webUrl: "https://www.goodfruit.com/pruning-robot-makes-the-first-cut/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Good Fruit Grower

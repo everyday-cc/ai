@@ -7,8 +7,8 @@ originalUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fi
 webUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Finextra
@@ -39,20 +39,6 @@ related:
       - url: "https://www.themandarin.com.au/wp-content/uploads/2022/05/artifical-intelligence-AI.jpg"
         width: 796
         height: 530
-        isCached: true
-  - title: "A Short Guide to Understanding the Exciting Realm of Fintech"
-    excerpt: "Fintech is skyrocketing in popularity, posing the first serious challenge to legacy financial institutions. What is it & how does it work? Find out here. What is Fintech & How Does it Work? People used to stand on the corner of a city intersection and see their options for banking."
-    publishedDateTime: 2022-05-21T14:47:00Z
-    webUrl: "https://www.hackread.com/short-guide-understanding-exciting-realm-fintech/"
-    type: article
-    provider:
-      name: hackread
-      domain: hackread.com
-    quality: 24
-    images:
-      - url: "https://www.hackread.com/wp-content/uploads/2022/05/a-short-guide-to-understanding-the-exciting-realm-of-fintech.jpg"
-        width: 1200
-        height: 650
         isCached: true
 
 secured: "8OjSLLnrBZCe72W3vPtEjS6QZFPYsUM/QmVpAd8CW2JW9uSfFY2nY2bARtBSUi5BDwhPQqyM4/mUQnukZyaOScRfUQ8LpJ7ARgGgMqmzMFTNuUWELqrpa/d952w96wYXsS8ffdvzKQcJmJr7Rc91fGs2865Zu0OvyKibIzlvO/Uew/PPJAGHxk8NpYXQ6otS0j+VoYAT1k5sN5WTt7MW4Z/vvIhcbCBYrRoqmxkRnW0q2gBEjXTyjUqWZ+PfuKniEf3umf8Uq/OfSgslQk9FKbbLKf3iplAHZFuOFbjs7Avs9GIQzE0X97G4EwSIaQyuxXMJsxdlYsWKG14HDQGVNvvp5tkXWKxgbqEXdZMRkZY=;P6MVEoSR/qS70yAo/NOUoA=="

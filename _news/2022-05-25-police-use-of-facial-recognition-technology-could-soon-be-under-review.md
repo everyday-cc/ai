@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Gardaí will not use facial recognition technology for ‘mass surveillance’ — Minister"
+    excerpt: "Plans to introduce facial recognition technology for the Garda are “not about mass surveillance”, Minister for Justice Helen McEntee has said. Speaking at the Garda Representa"
+    publishedDateTime: 2022-05-25T14:40:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2022/05/25/gardai-will-not-use-facial-recognition-technology-for-mass-surveillance-minister/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 32
+    images:
+      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/uT4VvO8PuljKZsxQIoFpT_zqYqg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BV4CFZ3HQ5GEPFN2ZFXFDRUNKU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New laws will allow gardaí to use facial recognition technology to identify suspects"
     excerpt: "Gardaí will be given powers to use facial recognition technology to identify suspects in serious crimes for the first time. Justice Minister Helen McEntee is seeking cabinet approval to allow the use of special software to catch killers and child ..."
     publishedDateTime: 2022-05-25T05:58:00Z
@@ -95,6 +109,15 @@ related:
         width: 613
         height: 400
         isCached: true
+  - title: "Facial recognition technology is ‘very necessary tool’ for gardai, Commissioner Drew Harris says"
+    excerpt: "GARDA Commissioner Drew Harris has welcomed plans by the Government to introduce facial recognition technology. Ireland’s most senior officer said the new measure would help gardai"
+    publishedDateTime: 2022-05-25T13:18:00Z
+    webUrl: "https://www.thesun.ie/news/8850562/facial-recognition-technology-gardai-drew-harris-latest/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 21
 
 secured: "a27fmK2GAaUXpr5E/uUUP4qaJg2WybZwtBCH/Kb3Fu2rKnuC7gzIuokLFGTOoaBmYfUr3uk/8HI0JmLI7GSwXhT2XLgPDeGpphQb/ZdOa5FCk+N4vzJllr9/2q3WMW/Nh75ecUjat2Vksrx8Ljva5V/RlqkyKHcYg01lkU8aarRtVnWJUBk1rXnc2LGk5LHd9pwDX/t2uCKNwfcA6rZS7/0VU6nUhVL1OZ7AhaJNjv0WM2BTSJXrX+H0XZvM4itpl/xbQyFp+dj6oCSgjF6C2TiBU1v9xrFbQy9XTjIKZklpQ31DKTk9xqKkA/yx6Oo9tzPZw+qCGHqISiqg3GzKav13F//flqiSK/GOuTUZGbnUrz+zvHfJVvNDJE3W4hSHn4xkqserkhdJAdZ+JNFYxE2uRangofyPOWof6JN/q/SIBr0nVSWsqlArlqOeSSm5DputEDxiFt+VPEcG7kPQ3pBqwyI3JULs/6MLBgOE07jhGuKRQ9ZtPj2tl0IIcLnE/9pUsuoTwq2UqREz9sZb7Q==;7+8uYeN1LC3pi0VJgJHn4Q=="
 ---

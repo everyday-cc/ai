@@ -320,14 +320,14 @@ related:
       domain: securityweek.com
     quality: 34
   - title: "Clearview AI Launches Clearview Consent; Company’s First Consent Based Product for Commercial Uses"
-    excerpt: "Clearview AI, the leading facial recognition technology company that ... with pricing more affordable than other FRT providers such as Amazon Rekognition and Microsoft Azure, while providing much higher performance and accuracy. Clearview Consent is ..."
+    excerpt: "Clearview Consent is available today as a cloud service, with pricing more affordable than other FRT providers such as Amazon Rekognition and Microsoft Azure, while providing much higher performance and accuracy. Clearview Consent is also available for on ..."
     publishedDateTime: 2022-05-25T10:57:00Z
     webUrl: "https://www.joplinglobe.com/region/national_business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_ac316dfe-f089-5a74-9305-dd50401cd4af.html"
     type: article
     provider:
       name: Joplin Globe
       domain: joplinglobe.com
-    quality: 25
+    quality: 27
     images:
       - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
         width: 415

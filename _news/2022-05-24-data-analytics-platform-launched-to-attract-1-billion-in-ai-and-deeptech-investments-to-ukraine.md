@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ThetaRay Wins \"AML Solution Provider of the Year Award\" at Dubai's Middle East Banking AI & Analytics Summit 2022"
+    excerpt: "ThetaRay, a leading fintech providing AI-powered transaction monitoring technology, today announced it was named winner of the \"AML"
+    publishedDateTime: 2022-05-25T15:29:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/thetaray-wins-aml-solution-provider-of-the-year-award-at-dubai-s-middle-east-banking-ai-amp-analytics-summit-2022-866943029.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1825414/Middle_Eastern_Banking_2022.jpg?p=facebook"
+        width: 2047
+        height: 1072
+        isCached: true
   - title: "Data analytics platform launched to attract $1 billion in AI and DeepTech investments to Ukraine"
     excerpt: "In a preemptive effort to trigger post-war capital inflow into UkraineLONDON--(BUSINESS WIRE)--Deep Knowledge Analytics (DKA), the flagship subsidiary of Deep Knowledge Group (DKG), today announced the launch of the beta version of a data analytics platform that aims to attract $1 billion in AI and DeepTech investments to Ukraine over a foreseeable period of time."
     publishedDateTime: 2022-05-24T19:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27366442"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27366442"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration"
+    excerpt: "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs"
+    publishedDateTime: 2022-05-25T08:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "QGgBplJ4na6LKxzC89DuvKxVjFumESlJCfzlU9Uh8rHkBzxMfn5Re8TIhH39AY+wDTETQ0nLhRFr6sqlIozwohsbxzpTiyKLyRRGgSjFDEfYDDC7Kqd9Xfsfkkgjn3MFRW73bjgs6/+R44DynlI0wRit0NwSu8MXyAtN097HvLFR/Ss4vCyyARjG2TaOqUJSlKZoxx48lBXu0RAvwu7e6CGwZzgvLuuEQFN6I92PTgyfwjwrpNpvVxBSH075tw3DaHzGy63hGj6M7dQ63c8svZPMdVFHBPt6kfaKf8XCqxRAxiVvbYREry5lv8+ZTNJ+K9GI/WFx41meUx4A80fWXLj9cl/vFm8QJTdtg8tDhxY=;WY7TgaW0HuLrJxJB8Ge34A=="
 ---

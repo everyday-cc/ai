@@ -38,20 +38,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "A Short Guide to Understanding the Exciting Realm of Fintech"
-    excerpt: "Fintech is skyrocketing in popularity, posing the first serious challenge to legacy financial institutions. What is it & how does it work? Find out here. What is Fintech & How Does it Work? People used to stand on the corner of a city intersection and see their options for banking."
-    publishedDateTime: 2022-05-21T14:47:00Z
-    webUrl: "https://www.hackread.com/short-guide-understanding-exciting-realm-fintech/"
-    type: article
-    provider:
-      name: hackread
-      domain: hackread.com
-    quality: 24
-    images:
-      - url: "https://www.hackread.com/wp-content/uploads/2022/05/a-short-guide-to-understanding-the-exciting-realm-of-fintech.jpg"
-        width: 1200
-        height: 650
-        isCached: true
 
 secured: "XoVXZ5CEzvn1/Tph6jv1FX+feyrSMpHxq/a2WpZFJLI+GC7gBMgx/ZIcGJuu0Ghac0LUiRtg6J5F3XtD2En3Si54td7IQGL5XBxnnlJqu1aOLxYg5s0NG4iKGVSpZdhhKwso5Rn4YldmEsUKmYTjtgtuNIh9xlAiii9KeBvdcQJm+MGeBKCw6ugLEPq+P7lMAsW08899fFqRMQdPDJYKsJcNoxnPxygsoKHC0NtjIPy6QvRj+lqdeLHTrvSoG0Ezws6x1EFrXZL68IklUt2vls775bzVzv0kUyt1PZtEsUQP+PZ6+1rwzUw7AKZ+PkV7yGoJi9IwFW7E85qc8MP05j6J2OxSMxDoXRkX0GWdrR0=;INJ5mNPPEbSU7urMeanlUA=="
 ---

@@ -25,6 +25,22 @@ images:
     height: 1667
     isCached: true
 
+related:
+  - title: "AI Used To Predict Life-Threatening Bacterial Disease in Dogs"
+    excerpt: "Leptospirosis is a serious disease that dogs can get from drinking water contaminated with Leptospira bacteria. Veterinarians have discovered a technique to predict leptospirosis in dogs through the use of artificial intelligence."
+    publishedDateTime: 2022-05-24T09:28:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/ai-used-to-predict-life-threatening-bacterial-disease-in-dogs-361917"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 37
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/361917/ai-used-to-predict-life-threatening-bacterial-disease-in-dogs-361917-640x360.jpg?cb=20220524"
+        width: 640
+        height: 360
+        isCached: true
+
 secured: "64fS5H5uFNbGYg/zjpQbtuRDdFROH1nDpjcj4XOb1SmTj1iP8EMePZJ160H3DxMi/+35Wfebvr/PcO5mQonKSWCUXl3nQg1cPYfufaZS1IVslyJDVs1dSWXW8Ha83YGpI+e0Kc1RU+kM22J1hcyzZEc6yjvpMf7HkedHkNxujJkhUISEhRy4RNbfWSyTgZFYKAioCMLPDg9ezZQ96TlYlRYsT22FlYbAaD7F370GDsF+0izF9cOpzf8UGyFWOqq8+wVpYzcr5eO0IViKwacyAvA6zaylG/fE1BZjM6b0w98pq65y7tLd3DatiZ06F38ncRMerJhASEZ9Xsg0H2QOIGYCM92xFQEOlnZ5tBw9rXUkc4F0yZv/rGqeE9wyX1pekdfuC/0FDAHzCv+WRtZ2E2ljJxhCXB0+CJH+bmRo5JhsKAw2HuhE5xFdHo9s88EKd6MA2qdX0ymeEPzWDEXvdjGSaAnKXJtr2XyMrHe7p27/9Lc2rPKgkLZXqNmiOt3UUPKjK2lfRQG+eCIAHlVwJg==;N2MklQoLun96b/OQ8CaV7Q=="
 ---
 

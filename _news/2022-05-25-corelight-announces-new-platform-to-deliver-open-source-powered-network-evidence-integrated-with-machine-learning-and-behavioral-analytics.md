@@ -1,20 +1,29 @@
 ---
 category: news
 title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
-excerpt: "Customers can leverage machine learning, behavioral analysis, threat intelligence and signatures, mapped to the MITRE ATT&CK framework, to enable broad coverage of network-centric threats. This evidence leads to specialized detections and enables the ..."
-publishedDateTime: 2022-05-25T13:51:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/corelight-announces-new-platform-to-deliver-open-source-powered-network-evidence-integrated-with-machine-learning/article_6b7df249-c249-5c3a-a97f-961371418a08.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/corelight-announces-new-platform-to-deliver-open-source-powered-network-evidence-integrated-with-machine-learning/article_6b7df249-c249-5c3a-a97f-961371418a08.html"
+excerpt: "Corelight Investigator simplifies and accelerates threat hunting and investigation through intelligent alert aggregation, built-in queries and scalable search. SAN FRANCISCO, May"
+publishedDateTime: 2022-05-25T13:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "2BrvXjLHnAh/ZbJq6VfGXzftdBXK65YvAEChASJIfVf49ABZHyU6tkHVlqdkrhwqlp4ZSEVl/Ja8+uy9ko794GTYRM0g8m6MUskD2MBIm3fJWr6NBgblgEP2ztQpCzHa+Bbs02Lk8fT0jyIC2q2wgRKDELJghLT1kMtUs8yxmZxIWbOnTViVaCY0iFPK6rPebmBNS+Ek20NT6lPR+IphVnHbZsHd60boLeKghdc/hk+hgAA2iZr3lGjYSkI91Pv6HmCX0IKg83iA0G9U3Zz8WxcOpEhRDlWt2hrAXRa4N0EC25vMOrAGq1Ed7vV/6x/yOM/cJhXqos09QrYYC5OEmLODiYWznp6boOrCuml+oBcjJ8u7X+wvp6//3q2FtIZvsJDmzI/EJkINb27JEYt4mnoHGNZlfG/QNSjdmxkwR2r8XTBTRFHNFL98I3dkUEoMKf57lj/YbpSEMdtjckAWmmVJzTgRdyY4RKsjhPFuCxnWOmaoEOcAMAeP+DekD4dIfFve52OHUxqhajf+OjmJcQ==;Me45kGF5y3e6H+X4EERsfg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "wplrja4QG23sHrPTmPNxdtVeiyzief7jD+J8nHQn/5dhPvuriEOx+7Q8nwoP6cCzt/AN5is9EZK9MgLleZp6W5gIcOlQo9d79dsOhMQw0PrmAmpLKgtiF+oKiyqI/iC7hEW+OnY6kuVDl+YNEIsJ9WU0VB48eHdd6CHumSGaQqpexHDE5WduMn9oytYahuaZcnqKAFxyFW/0111cIbDToo2h6WOCuLrwNxDHqHe8X1/gMHTmAGOU+3e5h+dTMU3QnXXq/MS2ZuEkELgYsNVYRlD6QdHefqL+yyUQFu1rh+XJFv55OgJ+tjmwH68lxQI7315sm1tbmGJU0tDLjXTZJVJjYErZOdKuOj9HdmPywSw=;hjpUFYAke0eYlkEn54pE5Q=="
 ---
 

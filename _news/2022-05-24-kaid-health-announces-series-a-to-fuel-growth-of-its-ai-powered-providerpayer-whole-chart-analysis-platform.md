@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T14:02:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-boston-artificial-intelligence-50743511d102436d9ea7f5e714678a2d"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-boston-artificial-intelligence-50743511d102436d9ea7f5e714678a2d"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

@@ -39,15 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AMD Launches Robotics Starter Kit To 'Kick-Start The Intelligent Factory Of The Future'"
-    excerpt: "AMD launches robotics starter kit to 'kick-start the intelligent factory of the future' May 20, 2022 by David Edwards Leave a Comment . Semico"
-    publishedDateTime: 2022-05-20T19:23:00Z
-    webUrl: "https://menafn.com/1104249232/AMD-Launches-Robotics-Starter-Kit-To-Kick-Start-The-Intelligent-Factory-Of-The-Future"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
 
 secured: "WLEIDo2AEFe87VQzikOxT8hA+y/Fu1J6BKJRZbRvzceu+wdti0FZbK9FojI7bPhH91ISw39NmsCeu1wq6oWmF6cxEdqmE6vs3gGjnpeLbjy7TYjzqyKPI2p+dmPdlATPYS6wxFYHYUxjUeYCuUAzPNPrLDyYFAdWFLpoYJ8R7lLh7s/uQdfFaCH1+bfwWPbKgYoiooRqi9GMbZBXUIGj07g6fZ31UE2/46roYC6xP6zoUC23z2Ic9PO2zlLQRA4P5EY9CbRgyMBgGySNfqf4WP11QEyh8GKMUyAIbCgHR6YhgjFrZ37AP1nT/AlA54FHDigehdB8BFchZpkGzKLvImhN78wFbcaM3ymS2OBOr3p+KItb6+RUP0Z4kyoAB+RT/+KmHcNGIEiyxTzGzQwt+McQEHoZyJ1fsw1IFi7v+mYK9Yms/wHjEE45NCFs8CoAe3hGvbxlQbvowkK1PsIU8SMJhH5vwgurHZpNboJXg4rsEqrfzCmHyOwLWG5XB5S+QkNO0BuVqfwinKYXxdjw9Q==;JsBMCXA/qIomzZmeS0va7Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-text-to-image-ai-can-ma
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/"
 type: article
 quality: 87
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
         width: 1024
         height: 580
         isCached: true
+  - title: "The dark secret behind those cute AI-generated animal images"
+    excerpt: "Google Brain has revealed its own image-making AI, called Imagen. But don't expect to see anything that isn't wholesome."
+    publishedDateTime: 2022-05-25T11:56:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "3T3tyvinQP8v55T/GGswT5/invcQClp07IX8aOA1Z8SuJxkrS4H8oDbrJhePft05PTzKwetcuNm1sMk3aI9lkZF0rJiPCBXf5Jv44BdbGelj6f3wwYGet+IPwJp379UnjDxKnXW+Wp0aynxYL8Mf/OsCCN3M/OgRnnxKbcWh0SDPp/lq8w1s0ITcphv959WowuprAngZrmVPd0zjnCS3pflsCPo7Br7xLNka1oZ9FT79qdr6jWOvx/EZoBzC63c4RqTZnhb2vxa4WKIBxaGOWddiIlvs9JuaSze80XTKr9RSUlPvoChZfRH+blYPxPFqOc0C2mnbCX/DLRS0pcJ4Sq3eydSkjHSweZSoYYxoigftza4mI0/3Gwxnoc2TUTNquax6KENw2Vb4HdktkdQFRbQGeXnqKMWhjyS+6DRdVc1OqjXpuepamD6JQt/9Jk7QdXl8J+s47e4QmR6ziRxRO07BnzHkAtZksKTQEIH8qBXgkKwEY64JRcNSbKQAC8bhCKTZZTFElaCx7oh5B040jw==;MqUX08qf7rp8WH9O0Al1eA=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Nvidia has announced new hardware focusing on AI-enabled data centers"
+    excerpt: "One of the biggest GPU companies in the world, Nvidia, has made some announcements at the Computex show in Taipei."
+    publishedDateTime: 2022-05-25T14:48:00Z
+    webUrl: "https://cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/"
+    ampWebUrl: "https://cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/amp/"
+    cdnAmpWebUrl: "https://cloud7-news.cdn.ampproject.org/c/s/cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/amp/"
+    type: article
+    provider:
+      name: cloud7
+      domain: cloud7.news
+    quality: 59
+    images:
+      - url: "https://cloud7.news/wp-content/uploads/2022/05/Nvidia-has-announced-new-hardware-focusing-on-AI-enabled-data-centers.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Nvidia to sell liquid-cooled A100 PCIe GPU cards, Equinix trials deployment"
     excerpt: "Nvidia plans to sell a liquid-cooled PCIe card for its A100 server GPU in the third quarter. It will follow this in early 2023 with a liquid-cooled PCIe card for the next-gen H100 chip. The company previously offered liquid-cooled A100s,"
     publishedDateTime: 2022-05-24T12:14:00Z

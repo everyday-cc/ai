@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T12:50:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/wise-health-system-partners-with-biofourmis-for-continuum-wide-care-at-home-initiative/article_10166199-01b2-550d-889b-8c22dbf8b57c.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/wise-health-system-partners-with-biofourmis-for-continuum-wide-care-at-home-initiative/article_10166199-01b2-550d-889b-8c22dbf8b57c.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

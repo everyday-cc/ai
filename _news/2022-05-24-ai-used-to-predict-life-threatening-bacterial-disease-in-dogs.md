@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence used to stop shoplifting"
-    excerpt: "SAN JOSE, Calif. (KRON) — Security cameras are everywhere, but artificial intelligence is changing the way they are being used. KRON4 tested one such system at a grocery store in San Jose to see how A.I. is preventing shoplifting. Picture this scenario ..."
-    publishedDateTime: 2022-05-20T22:59:00Z
-    webUrl: "https://www.kron4.com/news/national/artificial-intelligence-used-to-stop-shoplifting/"
-    ampWebUrl: "https://www.kron4.com/news/national/artificial-intelligence-used-to-stop-shoplifting/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/national/artificial-intelligence-used-to-stop-shoplifting/amp/"
+  - title: "Researchers use artificial intelligence to predict road user behavior"
+    excerpt: "For an autonomous car to drive safely, being able to predict the behavior of other road users is essential. A research team at the Massachusetts Institute of Technology’s CSAIL, along with researchers at the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University in Beijing,"
+    publishedDateTime: 2022-05-24T11:00:00Z
+    webUrl: "https://www.actuia.com/english/researchers-use-artificial-intelligence-to-predict-road-user-behavior/"
     type: article
     provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 57
+      name: Actu IA
+      domain: actuia.com
+    quality: 41
     images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/05/0ED852F806FDC532E52E9DA61379153E-1.jpg?w=1280"
-        width: 1280
-        height: 720
+      - url: "https://www.actuia.com/wp-content/uploads/2022/05/chercheurs-predisent-comportement-usagers-route-intelligence-artificielle.png"
+        width: 3333
+        height: 1667
         isCached: true
 
 secured: "cgCkQqr3QnhnRmnRpzEauu3gDik3ktqK8Q9Km4MBKBXitaxcl1WwVADq22sN3tzJvsviMyfhjjQuiKdutRg0aNiYI0m3miktnWUjpfs7F+e/fJ6dy1JqCDEGl/WiUOPbZEPRKbBjaPz9i8stfPcTZeMs8gaeElUoLOO7DQhI6suiwuV52xVcGGusc6UW5KdHvqFf894hgKsyjkVFaXu6/KRR9dUB9UBZrL0JznU+qZ4ICrq8pD3TMJXsNWL7YdiHy/2ElY2PhNlGQJj0eeSy74r+MZELsoveebj5EioaOOUm8/22ZSMMYfwpFZd3vNcz0PX+mA7lU/vLKSjKOxj2QmJEttYRjHrdDjUTdPXRuBA=;Z34JbRD6p/ya5y9dPEGSQg=="

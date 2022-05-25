@@ -81,6 +81,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Gardaí will not use facial recognition technology for ‘mass surveillance’ — Minister"
+    excerpt: "Plans to introduce facial recognition technology for the Garda are “not about mass surveillance”, Minister for Justice Helen McEntee has said. Speaking at the Garda Representa"
+    publishedDateTime: 2022-05-25T14:40:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2022/05/25/gardai-will-not-use-facial-recognition-technology-for-mass-surveillance-minister/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 32
+    images:
+      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/uT4VvO8PuljKZsxQIoFpT_zqYqg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BV4CFZ3HQ5GEPFN2ZFXFDRUNKU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Poll: How do you feel about gardaí using facial recognition technology to identify suspects?"
     excerpt: "GARDAÍ ARE SET to be granted new powers to use facial-recognition technology that could lead to the rapid identification of criminals. The technology enables police forces to carry out automated searches of video footage for suspects in criminal investigations."
     publishedDateTime: 2022-05-25T08:49:00Z
@@ -95,6 +109,15 @@ related:
         width: 613
         height: 400
         isCached: true
+  - title: "Facial recognition technology is ‘very necessary tool’ for gardai, Commissioner Drew Harris says"
+    excerpt: "GARDA Commissioner Drew Harris has welcomed plans by the Government to introduce facial recognition technology. Ireland’s most senior officer said the new measure would help gardai"
+    publishedDateTime: 2022-05-25T13:18:00Z
+    webUrl: "https://www.thesun.ie/news/8850562/facial-recognition-technology-gardai-drew-harris-latest/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 21
 
 secured: "kR3DuTWtQZovcqOMiLWYrhtJyfCEF85nOPe3Qci1JHR3oNrUhhCJusLVIyCOFG8aiaGjtnj+KUjExhU3qPUwAcu9BsxmYZ4LuqBwK1PY/4nbRgUlVNPYL2gZ4cKU9XDU/Wjk+7y/3s12bILdQ7KGhOEhu18Ih9YaZeAACX5Rb02xLSa+bwD3WX2/m01SKmMbUKN/BZv6UhFuFWXpzDePMN8Nd7XscXhhuIDuNSsFf40pehXzeq8OXA8Om0iwu+I9hy0EmCZoVLfFYLnGoMpCqymnKVhB5i8ELHYjGgamYYZiAXQy8aHpdhl1Q2Bg85rAglTWVG6jFpRU79WiM98MuEYy0MU0vYvsbi4CcZwUf8LNTnjsheQAA4uWaNlYpHUMY1KeAoYR9TX25BB4sevQl3No/KKvPgkAzX3SQPDIILF0tcxjOWTCNUSyj8iCCDHvXkQXzHh2ea+FG3FAjuuApe8WymwgzS4Z654eygQj27mqzTVpjuv2y8WCNAmexLrWuUwkV16SksbmK8wkK0jeHQ==;b/OPf7raZapbps6ngQHRdA=="
 ---

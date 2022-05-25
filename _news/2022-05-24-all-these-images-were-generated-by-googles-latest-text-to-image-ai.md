@@ -74,6 +74,15 @@ related:
         width: 1024
         height: 580
         isCached: true
+  - title: "The dark secret behind those cute AI-generated animal images"
+    excerpt: "Google Brain has revealed its own image-making AI, called Imagen. But don't expect to see anything that isn't wholesome."
+    publishedDateTime: 2022-05-25T11:56:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "Qqhb/CCUwIuGNAkB9YYZaqftbpLpIEZ6q3XswRnc9kNMcjkDvoj5bjnyYigN45sRY2t39KVA9Iem/h63dSr7jYIKI4QxOG0dZKiRmLxtf00jDS8FkVlewRu30+5yenEk6GnkJS0HcxBOC8f/7hJtnkA6f9jNE7xDqfsGiIwtvoxiOvxatsS0Vrg3YQtENuHojMeI8XV/pUn6tbjizT1OwLeo1Kq6q660XZla4y21pH3ISUgVe/cDvbjdgCzyL/m9kU4GkfWK85SrGhk6/O+LSNxoPSKvk66gpF6VAzyZy4RNUQ+IOQwfMiTOyzvcyJOduVbyQo+ICJ6ffbh0DhCCeMeq7VIt7lrU0OPf2HmGHoOsFmxoYwqkpkC0RO0gOxiG6JO0zeN2mt7c9x18pGi/GvqKTDUwlMMHUuS2RHqylCRJEngc0DwRme/jgtP9hmQSLGutvSH9sTbGkvtKdGOvZ/NlvVxSP9ynWBtbC69GEgzAVYwKithMZq+qg0VvZnm2PTpgpkHQp//spS7F4e/7fA==;tNG7HuXjSpD5YriEW57YxA=="
 ---

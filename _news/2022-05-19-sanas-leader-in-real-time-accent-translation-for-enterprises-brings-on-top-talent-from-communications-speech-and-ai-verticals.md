@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Sanas, Leader in Real-Time Accent Translation for Enterprises, Brings on Top Talent from Communications, Speech and AI Verticals"
-excerpt: "In a period of tremendous growth, the team welcomes Sharath Keshava Narayana as co-founder and chief operating officer, and Marty (Massih) Sarim as president PALO ALTO, Calif., May 19, 2022 /PRNewswire/ -- Sanas,"
-publishedDateTime: 2022-05-19T15:15:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-immigration-palo-alto-eedbdb9c77fd15dd46c46f50c4388543"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-immigration-palo-alto-eedbdb9c77fd15dd46c46f50c4388543"
+excerpt: "In a period of tremendous growth, the team welcomes Sharath Keshava Narayana as co-founder and chief operating officer, and Marty (Massih) Sarim"
+publishedDateTime: 2022-05-19T15:06:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications-speech-and-ai-verticals-1031476311"
+webUrl: "https://markets.businessinsider.com/news/stocks/sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications-speech-and-ai-verticals-1031476311"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Puutvqpp1OhaK2zoIFdE1RGYPO+9U6RE25fMadFra5ilG8B6nll/U0mNJTEAtNOZGVyb5wzYnYEFk7sV9qfkT/jwNmPXYAQ9zq289j+V4fuLAi1I7KxkuKRVR+N5lo9aa25fwGh6myVHQ4euMbBWbdOqPpEK8tzLRyfRa5dzfxM3n+FowN4I4yfK+1bdLKvxlmioKFBLQh7BbGXGS/NY011cSZKWuCa52kkJ329xJg98+Ej3qx8qVpF4L/AQRU4PSFg5xyWY9LyroJoVkVnNVkG5qMABSYcFYX/BB5k4luSGMawRgMoxKuLDna+UxDSK/1kWOUNcvZJ004GB0PB/XvrJDFNX2C3bPznEeqspKf0=;XyMJXixlNXliqtObLsILXA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1821273/Sanas_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "5WD+xJXmzoWIPuOkMYPbboL9I5YUuqDYU2fBq8UsAaN2bSXRB5mUmXGAxtyf4VD3EGCfZ3WVaLiUgPEZRLPjK86tncdR9dQYwXeixbJER/DwPF9ivP5ny4sJ8zoAM7HN1EkHz9Tp1WOCCGBnEBQSilJ6iLLMzB1TOIm3xbSnxP9p4n5MsGEt/oVjJEDztU58Kf+1SQZyuNgXK+ihxlHgcjd+mQ7JG24HSmOZeABC0srotlWglpCbU2GH9XLuu/3zRdAvJyGAkAOxAjx8j2iQKjwDy59kAOy0zphfwqJ/EhvDQnaFaQJ+hozgqz4UOGtZifyXTZJWTPGvumErz9/E6055QIWAt//6eB61NMB539c=;D1XNDOHvV86vZemxE/4A2A=="
 ---
 

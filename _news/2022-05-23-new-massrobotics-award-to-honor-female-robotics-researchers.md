@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-fem
 webUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/"
 type: article
 quality: 84
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -149,6 +149,15 @@ related:
     provider:
       name: Automation
       domain: automation.com
+    quality: 21
+  - title: "Cowen and MassRobotics Highlight the Increasing Role of Robotics in Achieving Climate Objectives"
+    excerpt: "Since July 2019, Cowen and MassRobotics have enjoyed a partnership designed to bring together their extensive market knowledge in the areas of emerging robotics and artificial intelligence ... create an innovation hub and startup cluster focused on ..."
+    publishedDateTime: 2022-05-25T12:09:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8559131/cowen-and-massrobotics-highlight-the-increasing-role-of-robotics-in-achieving-climate-objectives"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 21
   - title: "How Robosport Is Using Robots to Make Athletes Less Robotic"
     excerpt: "In recent years, we have witnessed increased discussions on developing robots to be more human and whether robots can surpass human intelligence."

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T12:19:00Z
 originalUrl: "https://www.newstalk.com/news/facial-recognition-like-having-guards-checking-everyones-photo-id-1347675"
 webUrl: "https://www.newstalk.com/news/facial-recognition-like-having-guards-checking-everyones-photo-id-1347675"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Newstalk

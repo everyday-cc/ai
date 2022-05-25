@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T13:08:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/compreface-open-source-facial-recognition-service-releases-new-features/article_e3624746-9b45-5cac-810c-636e8419895c.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/compreface-open-source-facial-recognition-service-releases-new-features/article_e3624746-9b45-5cac-810c-636e8419895c.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: WFMZ-TV
