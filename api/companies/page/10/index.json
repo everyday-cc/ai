@@ -245,7 +245,7 @@
       "twitter": {
         "username": "dirtyjobrobot",
         "url": "https://twitter.com/dirtyjobrobot",
-        "followers": 343
+        "followers": 344
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -648,7 +648,7 @@
       "twitter": {
         "username": "Algorithmia",
         "url": "https://twitter.com/Algorithmia",
-        "followers": 6410
+        "followers": 6409
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -701,7 +701,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 58275
+        "followers": 58273
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -1016,7 +1016,7 @@
       "twitter": {
         "username": "Icertis",
         "url": "https://twitter.com/Icertis",
-        "followers": 3264
+        "followers": 3263
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
@@ -1234,11 +1234,6 @@
       },
       "crunchbase": {
         "url": "https://www.crunchbase.com/organization/narrative-science"
-      },
-      "twitter": {
-        "username": "narrativesci",
-        "url": "https://twitter.com/narrativesci",
-        "followers": 7240
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
