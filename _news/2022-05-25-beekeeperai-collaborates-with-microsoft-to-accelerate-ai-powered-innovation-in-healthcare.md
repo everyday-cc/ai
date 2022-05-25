@@ -1,23 +1,23 @@
 ---
 category: news
 title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-excerpt: "BeeKeeperAI is a pioneer in combining zero trust, confidential computing, and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare. BeeKeeperAI is accelerating the broader availability of ..."
-publishedDateTime: 2022-05-24T20:11:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220524006114/beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
-webUrl: "https://www.morningstar.com/news/business-wire/20220524006114/beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
+publishedDateTime: 2022-05-24T22:02:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - Microsoft AI
+  - AI
+  - AI in Healthcare
 
 related:
   - title: "Microsoft brings support for Arm-based AI chips to Windows"
@@ -261,6 +261,20 @@ related:
         width: 499
         height: 375
         isCached: true
+  - title: "The biggest Azure announcements from Microsoft Build 2022"
+    excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
+    publishedDateTime: 2022-05-24T20:05:00Z
+    webUrl: "https://www.crn.com.au/news/the-biggest-azure-announcements-from-microsoft-build-2022-580435"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/satya_nadella_microsoft_press_centre_0.jpg"
+        width: 420
+        height: 280
+        isCached: true
   - title: "Team SWIFT Responders from Singapore wins APAC Microsoft AI for Accessibility Hackathon"
     excerpt: "Teams from Singapore, Thailand, and Philippines are winners of the Microsoft AI for Accessibility (AI4A) Hackathon in APAC. In its third year, the AI4A Hackathon features teams who are deeply"
     publishedDateTime: 2022-05-24T05:45:00Z
@@ -289,6 +303,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "The biggest Microsoft Teams, M365 announcements at Build 2022"
+    excerpt: "Previews for Loop components across Teams chats and Outlook emails and collaboration controls in Power Apps are among the biggest announcements for Microsoft’s popular collaboration application during this year’s Build conference."
+    publishedDateTime: 2022-05-24T20:30:00Z
+    webUrl: "https://www.crn.com.au/news/the-biggest-microsoft-teams-m365-announcements-at-build-2022-580434"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220525072959_0_0_0_0_70__News_20220401124042_0_0_0_0_70__News_20200723110935_microsoft1.jpg"
+        width: 1196
+        height: 769
+        isCached: true
   - title: "Microsoft believes that its new tools make language models more secure to work with"
     excerpt: "Tools and data sets aimed to audit AI-powered content filtering systems and automatically build test cases indicating possible vulnerabilities have been released by Microsoft ahead of Build 2022. OpenAI’s GPT-3 is an example of a large language model (LLM) that can evaluate and create text with human-level complexity,"
     publishedDateTime: 2022-05-23T20:08:00Z
@@ -304,6 +332,6 @@ related:
         height: 350
         isCached: true
 
-secured: "nBJBm3rhQFN9SdWmI03a+6Aq1yz+pDbiEffk4jzb50/FnRVBc8SQO9lkas+o0xRuEYeoBMXa7j2CDZmrDlDfBwq8Ky7u7WbveOPYgp8tUo4/7tOjPhN7x4S/TEb1zjh7sfiobzUOxqcxo4hXn10GnUxkrGruNS3inQ4LSwMKGSC0RfACabGGby2VVa2P3ssVLcfJB3+ieONCcxJlTsaFP+XcvzrU4zSiXlOFAvvvQb2Ik7e9tYSNCJj58Z2xOhjuO71qobK982lVNkjcszFpXtSMqjrioYYELRgf03RfphDJoIv281lrrrhJ6reY65vb6Vhfs8cLXYaLHWQ+9JRnX2BqNDVidPKLThV8A7oIT18=;rSruPy9fEAXQsgesCfd/Bg=="
+secured: "yIX5/jX9zkA3UVXZnosNAPTupQt3A3ZizUQ57fBv7tVLGdQnXllZaS9h6M8i7w0tBQsxbHpb+NFhHQg7O4e/AIHqiQnL3+u5W519xh3rAmco8pbwYKxd6ttLXXXBWeSE5mHaMomeCG7RXF74zBkURNi7ZPqweUXkJJb4l96ac750wT8CGIzkknXYjeE282/l5IVCSUOYZGUcWM/TCnSL5apI5CiRs/cIU3WniHqRvPqLlfI6RJ3vrAsI/rW37ShOL0YJ4XnCcAx24q8bb/0qIpyOdU+6TKguYanIINNwTvNnUlN4uQN89TswpMWtirhUIbC5oZP9PInp/luwDHMJaYsiLRi9J5LE+wjAPb1SJhY=;zDhZoydlZUNxjaSuO6ESMA=="
 ---
 

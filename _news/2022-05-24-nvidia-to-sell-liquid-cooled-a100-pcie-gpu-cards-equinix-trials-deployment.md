@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/nvidia-to-sell-liquid-c
 webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-to-sell-liquid-cooled-a100-pcie-gpu-cards-equinix-trials-deployment/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA announces its A100 PCIe GPU Accelerator with Liquid-Cooling options to improve Energy Efficiency"
-    excerpt: "NVIDIA has announced the A100 PCIe GPU accelerator, which now includes a liquid-cooling option for improved energy efficiency. Liquid cooling, which originated in the mainframe era, is growing in the AI era."
-    publishedDateTime: 2022-05-24T15:50:00Z
-    webUrl: "https://technosports.co.in/2022/05/24/nvidia-a100/"
+  - title: "Nvidia Tips New Liquid-Cooled GPU, Jetson AI Devices at Computex"
+    excerpt: "Peak performance and cooling in ever-smaller spaces matters to data centers, and Nvidia's liquid-cooled A100 card targets that market. The chip giant also detailed new Jetson devices and designs for data-center systems."
+    publishedDateTime: 2022-05-24T22:52:00Z
+    webUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex"
+    ampWebUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
     type: article
     provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 3
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 104
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00nRHA1EuawfuWOeCRdcubw-1.fit_lim.size_1200x630.v1653362725.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Nvidia debuts liquid-cooled graphics chip for data centers"
+    excerpt: "Nvidia Corp. late today detailed a new liquid-cooled version of its A100 graphics processing unit that can help increase data centers’ energy efficiency and reduce their carbon footprint.  The GPU made its debut at Computex 2022 early Tuesday in Taipei,"
+    publishedDateTime: 2022-05-24T07:15:00Z
+    webUrl: "https://siliconangle.com/2022/05/24/nvidia-debuts-liquid-cooled-gpu-data-centers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Liquid-Cooled-GPUs-Press-Graphic.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "NVIDIA Unveils Liquid Cooled A100 GPU For Huge Energy Efficiency Uplift In Data Centers"
+    excerpt: "NVIDIA is working with Equinix to to qualify the 80GB version of its A100 PCIe GPU in liquid cooled form ... in favor of using GPUs over CPUs for AI and high performance computing (HPC) workloads."
+    publishedDateTime: 2022-05-24T12:43:00Z
+    webUrl: "https://hothardware.com/news/nvidia-liquid-cooled-a100-pcie-gpu-data-centers"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 11
 
 secured: "yW1hCkn99e6EfkgHC1OptI84NVsxFsPMGCzbo0tvh74KjNujCmIc0YATwSGVRpVrMLAdrVNx8XPOJ6hpN7yF/gvoml/LBK7JC49xELkUPzkx5zHcBWxdKzmMHeVsLOX4Yyu4rY8AEmSjI20ZATO3yigjm2Cz5WHQm3oIKPAvkt5sUMhIvk30SpSfBTe+JfQ+ZlZ32XVdg7YEJTfl0Mt9ErbIuvGwwh1m426RtrM+8hneP8I1RRCc1tMtWJ+HOguD78GMh1ss2wyWh74X/B6j8n5K7hHo7aAjUIkTaA0kTXZ9MVQQPBIQtBflzNaHMksQI9ij2seb9O0JcHnfGPAcpDpxuzEA9+CWLkktWGRBCF8Kqr2ekiDE6m4fI70EciVXbgZKIPunP8NXiNBn1esfAKUSk4a4tYogTmEIwtPuEInaDl8M6VoZsFzBaBLC2cwHxp75G1f+pLYphWFaNDlcCcTvoQUYb0hzutGaLytjg0UlLdyx53/3cwZhXMpKhPLnmwU3eov4c2uxGV5Bu7arWg==;Ww2iZl4W7CV1bQbrsAvdBA=="
 ---

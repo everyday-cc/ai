@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-24T21:54:00Z
 originalUrl: "https://www.biometricupdate.com/202205/bengaluru-plans-facial-recognition-gates-at-namma-metro-activists-alarmed"
 webUrl: "https://www.biometricupdate.com/202205/bengaluru-plans-facial-recognition-gates-at-namma-metro-activists-alarmed"
 type: article
-quality: 37
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
@@ -25,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s facial recognition tech to replace smart cards in Bengaluru metro trains"
-    excerpt: "The Bangalore Metro Rail Corporation (BMRCL) has plans to use Google’s AI-based facial recognition technology to replace smart cards/tokens at the automatic fare collection (AFC) gates. Namma metro commuters use the smart card to open the gates."
-    publishedDateTime: 2022-05-20T07:01:00Z
-    webUrl: "https://analyticsindiamag.com/googles-facial-recognition-tech-to-replace-smart-cards-in-bengaluru-metro-trains%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 49
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Untitled-design-30.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Bengaluru Metro Mulls Deploying Facial Recognition System, Move Raises Questions On Data Protections"
     excerpt: "Echoing similar sentiment, Rahul Goel, partner at AnantLaw, said that when it comes to dealing with sensitive personal data like biometric data (facial recognition is biometric data), there is a ..."
     publishedDateTime: 2022-05-20T18:22:00Z
@@ -49,6 +36,6 @@ related:
       domain: inc42.com
     quality: 19
 
-secured: "lBt1zO4cve4KwRU1FuCA2NRkLoBpnzd3Ktug1ygCADCHQTfvziUyMsWJpiO8q4MRuUaMy2iQfklhJIr1wgTWuZVbmveDK51SKTJvAGqPcW+dahLLvHOAINqExAUO/ouNsg2DY+1V5punq4yFepsLbRYt2UQ6OErnUivCKOo/7MAjVdVai7eaMzW1W7JDYwG7IG9EpB0ZMGEKS5uJpOmCAliGd5jD8EzNTa9eOQ6bFM7Ub2RbAVNEwFR+b31S8MDaVdUNeSNK16BO1L4qLmuiCKLJ/okvSmWNy3X55mA1WKcRGggxKs5mfLCxy/QVcWmM7Gq15y28YgrU5+FQ0eo9XL09OVfBfjFJyDvFolil6os=;QRCvXQY0c9dJfaaHCOoOtA=="
+secured: "a1Pw7gE3TJWy2r9AVzBJIOlRKpMiXLcMBPyp8ZMR7nixwXeKLO73WjjL2o86z8MvzaOKYkMqwDe/DWETZW4g3SpRgL5v/ABlT1bAI14yU6k3GAfjD+JyvdcQHrNzcFstIhatMI8PxpYFq/04lTFw1SQl2NF9E2HDVBpAsDNMpv9GnsjJslrZ6efmpaH3WO/uvzf5h/cDnj/6hswsQYeQDwtkFGjMMahaIkJSKc0PQ2/SNHntmSojLACQP9h8ZvGxD8eOytffAZhA+bxTTOrqZOG0t6EM37+YIqM2egg3nv1BFL0llL1qJwse2CZvp1vEz/3eXDFr+/3c6m6I3Ci7IqlaBa94zBz2ZdeVZ5KkaXvZuTq0yuCZmUeSZLG0XRdFwoRcm+uUNShJAfQBY30dt8a9VxpHQPcf2HS2EuLobAInnl35/6KwnN+VS9HrL8AsHQzCQDHO3oX4IVIJhRs/5y3loBfG/3FzhjQCGrwcYdtgvah0SMovj7L2/OusT8ppHscjmk3kqOHrV4jzCfqMCA==;z1PLaYSW/R4Yasp1CbY4Ew=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-usi
 webUrl: "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/"
 type: article
 quality: 94
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve//628ce3b2679ffd8cb97857e8/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 806
-        isCached: true
-  - title: "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence"
-    excerpt: "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma."
-    publishedDateTime: 2022-05-24T15:28:00Z
-    webUrl: "https://www.localsyr.com/business/press-releases/cision/20220524LA66847/invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence/"
-    type: article
-    provider:
-      name: LocalSYR
-      domain: localsyr.com
-    quality: 21
-    images:
-      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
-        width: 814
-        height: 330
         isCached: true
   - title: "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence"
     excerpt: "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma."

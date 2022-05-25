@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/zowie-raises-14-million-tiger-glob
 webUrl: "https://www.businessinsider.com/zowie-raises-14-million-tiger-global-and-googles-gradient-ventures-2022-5"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Specialization is key in an exploding AI chatbot market"
+    excerpt: "Zowie, which claims to be the only AI-powered chatbot technology specifically built for ecommerce companies that use customer support to drive sales has secured $14 million in series A funding."
+    publishedDateTime: 2022-05-24T20:00:00Z
+    webUrl: "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/"
+    ampWebUrl: "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Specialization is key in an exploding AI chatbot market"
     excerpt: "Join AI and data leaders for insightful talks and ... The platform enables brands to improve their customer relationships and start generating revenue from customer service."
     publishedDateTime: 2022-05-24T13:01:00Z

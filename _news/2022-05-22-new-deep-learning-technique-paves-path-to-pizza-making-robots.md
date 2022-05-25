@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/new-deep-learning-technique-paves-path
 webUrl: "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots"
 type: article
 quality: 86
-heat: 89
+heat: 86
 published: true
 
 provider:

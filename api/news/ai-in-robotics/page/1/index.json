@@ -131,21 +131,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-24-googles-deepmind-says-it-is-close-to-achieving-human-level-artificial-intelligence.md",
-      "title": "Google’s DeepMind says it is close to achieving ‘human-level’ artificial intelligence",
-      "excerpt": "DeepMind, a Google-owned British company, seems to be on the verge of achieving human-level artificial intelligence (AI).",
+      "path": "_news/2022-05-24-arv-and-varuna-launch-ai-robotics-hackathon-2022.md",
+      "title": "ARV and VARUNA launch AI & Robotics Hackathon 2022",
+      "excerpt": "Thailand's leading technology development and venture building company dedicated to leveraging cutting-edge AI & Robotics technologies, as a technology spin-off from PTTEP, an upstream national oil & gas company of Thailand,",
       "sourceUrl": null,
-      "webUrl": "https://techstory.in/googles-deepmind-says-it-is-close-to-achieving-human-level-artificial-intelligence/",
-      "originalUrl": "https://techstory.in/googles-deepmind-says-it-is-close-to-achieving-human-level-artificial-intelligence/",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://techstory.in/wp-content/uploads/2022/05/hhh.png",
-          "width": 698,
-          "height": 486,
+          "url": "https://mma.prnewswire.com/media/1824548/ARV_Hackathon_KV.jpg",
+          "width": 400,
+          "height": 283,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -155,11 +155,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T19:06:00-07:00",
+      "publishedDateTime": "2022-05-24T02:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -170,9 +170,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Google AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
@@ -399,7 +397,7 @@
       "originalUrl": "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -725,8 +723,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

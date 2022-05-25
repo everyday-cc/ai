@@ -28,6 +28,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Toggle AI Launches Reimbursement Initiative with Interactive Brokers"
+    excerpt: "Toggle AI, a fintech company, said on Tuesday that it launched an initiative with Interactive Brokers that enables their customers to trade commission-free."
+    publishedDateTime: 2022-05-24T23:48:00Z
+    webUrl: "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/"
+    ampWebUrl: "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 59
+    images:
+      - url: "https://images.financemagnates.com/static/article-default-image.jpg"
+        width: 770
+        height: 428
+        isCached: true
 
 secured: "m4T7irPYbJy3lF8Le9wOVxlFG8I1XvollMdKwesEvnf9z0RNZyrkArDrlwOXi16BJXOK4rPxUHh+mbuFWRLwdmiuYz09oeDQ/XnS9cgg0qHZSuVBNWXYYehu2sm90RkplIVUri613XeQFB3FdYDG6mu3CHOHrwdsKbJRv+qLPowc4AgLLDa9pJxUF3mYZ+MwCOhV5VWS2ATbjAyR0t0t05moPDOY63W6LOB8qKn+o7wGSNjagZ/Y+SgxkH0pSobKne6zr76iTiAF0IwISQeuZZeyw/XyLaUmqgHdGybG8Q1xxn5IvZGHegV3DfOG5vdqgULvnmJQj9fvzM5n2Tjli9AXIxBaNZknByIv+C78TJA=;5AtfzQpfNlPwiEj8mnryVg=="
 ---

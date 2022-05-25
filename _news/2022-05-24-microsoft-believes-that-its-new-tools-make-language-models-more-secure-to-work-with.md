@@ -267,6 +267,20 @@ related:
         width: 499
         height: 375
         isCached: true
+  - title: "The biggest Azure announcements from Microsoft Build 2022"
+    excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
+    publishedDateTime: 2022-05-24T20:05:00Z
+    webUrl: "https://www.crn.com.au/news/the-biggest-azure-announcements-from-microsoft-build-2022-580435"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/satya_nadella_microsoft_press_centre_0.jpg"
+        width: 420
+        height: 280
+        isCached: true
   - title: "Team SWIFT Responders from Singapore wins APAC Microsoft AI for Accessibility Hackathon"
     excerpt: "Teams from Singapore, Thailand, and Philippines are winners of the Microsoft AI for Accessibility (AI4A) Hackathon in APAC. In its third year, the AI4A Hackathon features teams who are deeply"
     publishedDateTime: 2022-05-24T05:45:00Z
@@ -282,13 +296,13 @@ related:
         height: 720
         isCached: true
   - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "BeeKeeperAI is a pioneer in combining zero trust, confidential computing, and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare. BeeKeeperAI is accelerating the broader availability of ..."
-    publishedDateTime: 2022-05-24T20:11:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220524006114/beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+    excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
+    publishedDateTime: 2022-05-24T22:02:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
@@ -303,6 +317,20 @@ related:
       - url: "https://www.crn.com/resources/0275-1538c35de474-17eea5c1c4ae-1000/teams-windows11.jpg"
         width: 610
         height: 458
+        isCached: true
+  - title: "The biggest Microsoft Teams, M365 announcements at Build 2022"
+    excerpt: "Previews for Loop components across Teams chats and Outlook emails and collaboration controls in Power Apps are among the biggest announcements for Microsoft’s popular collaboration application during this year’s Build conference."
+    publishedDateTime: 2022-05-24T20:30:00Z
+    webUrl: "https://www.crn.com.au/news/the-biggest-microsoft-teams-m365-announcements-at-build-2022-580434"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220525072959_0_0_0_0_70__News_20220401124042_0_0_0_0_70__News_20200723110935_microsoft1.jpg"
+        width: 1196
+        height: 769
         isCached: true
 
 secured: "AKWTLCKSRM+Q0j6F/rJYhW+Ar9MerhNISz/XdAYL76dHYLG4M5mtTRddLQVvbIFpWL1f8LjEm0hEmXOSM1Li7uBJxWSABztZDjQUF/Xn98L8FTcq3aOW8wfnsgB/16lgvTvJZdjjRh23aqrxBzW8b8igoscNHlTqHjrjK2eniUZVc53uzL/4YKhoizLl9uHmsXQSFRpD9qaF6ji6Z0Re5MbgyVu66Z7dhqwdNuQVFMu8ya3vGW3+/KwuGh0Osq/BOWkJI1PQeDTtKtuhcUDgr8hP1fM5h3IvZ35rXH8/UX4GaDijqxPZuxPejmErpo34OXwgml6pOa9OegblcICRT8hjnfh4hbYKkN4nywWIYY6LLdc4r5i3j3MrYMNtbr+HirW0RUeXYb9HDFhZ8J5YbUcg+RovW86IE49rWRuSNo0nlBtU/TSyMbpYj+kjeUTjpo9RK6S+ri+TTJ+S7mU+uB6RjPwEPIbR7NpuMPDY9/Tff3hOKCn+dvViGrf6FatPizfDuLZwdo+RCDUTaqqvpw==;9FXcOK27IHTxyJHvaKzrCQ=="

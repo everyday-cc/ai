@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Google’s DeepMind Sued For Illegally Using Confidential Medical Data"
+    excerpt: "It turns out Google not only collects its users’ data and processes it for its own purposes but also uses confidential medical data. Recently, we learned that Google is facing a class action ..."
+    publishedDateTime: 2022-05-21T11:41:00Z
+    webUrl: "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/"
+    ampWebUrl: "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/05/VRG_ILLO_1777_AK_body_data.0.0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google’s DeepMind says it is close to achieving ‘human-level’ artificial intelligence"
     excerpt: "DeepMind, a Google-owned British company, seems to be on the verge of achieving human-level artificial intelligence (AI)."
     publishedDateTime: 2022-05-24T02:06:00Z
@@ -33,6 +49,17 @@ related:
         width: 698
         height: 486
         isCached: true
+  - title: "The Download: DeepMind’s AI shortcomings, and China’s social media translation problem"
+    excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
+    publishedDateTime: 2022-05-23T12:40:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 48
   - title: "The hype around DeepMind’s new AI model misses what’s actually cool about it"
     excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
     publishedDateTime: 2022-05-23T12:18:00Z

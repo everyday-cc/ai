@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/companies/nextbillionai-raises-
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece/amp/"
 type: article
 quality: 57
-heat: 78
+heat: 77
 published: true
 
 provider:

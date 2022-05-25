@@ -16,8 +16,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
@@ -25,6 +25,6 @@ images:
     height: 271
     isCached: true
 
-secured: "h6xXRUVg5MouLtfM/jpLB6f8ZcC0BCk/1XG9zQe4usLIXQuVvjzLuu+/rVdkd2EchpxCAp4Zo/x+Fy0FccHJ4lg7J1Hgm+62Z/qUumkDqzZ5W4uYf4BIPU9UxxvmE+iWTEKvUmzy17wYFFd+FBkTU/d7fLZ/WS6/kRPcAUlRgSiMKBRsfWXJV6Dr1jzT0smErjAz/6BMrQnqrGZEkM+lzXL77XgKJMt67uqrfAUDQywJ431GYe4qb2cwHdYBUAyBZYEU+B2xpGSggkGVV5qeUPQfYpNYRxZWna6HZI5jo2iKSrPZ9ab2BFJ9T4YYMQhzA5EbD25zsYFbeWbsULZysuZZ9sh8TUH0Pj5oIsZos5s=;dmCZ3NQMLpWtqgnJF3DERw=="
+secured: "iBKXbk+2Ot7xKMbw0qGmY9EvOzKkB2KGgt1oCRMizgjjNzqB1IblX0/QJsZb6USUamcf7ZvO0HS90sOPiVTo4o3e+mrfYlfJl3D4GYDtp5bkKTCCZprFk1S3xgfOs/ZnZnZHyNAMiM1OIf5wcKtZmRkUQXBGcshnLNR1unwrbD67m+BAJa7CzW8ui0GYqGgNztIN0zR1i5Z82mpYofsmtzOqrVFaUMXMn3X9ZSt9PAa25Vqaqj/RcNiMNO3wsqQ9JiEH4mcC4r1oO5EoPbY7VBqPACbB9XRQ016YKLstJCDmlCu7f+LS8fnzku2PCTAtMvY3z7YAuQjsx5HsxXDtH1Rw8Wrt8KIkR9xIWi+pePg=;cYldRgdJi7YsQXilj0GvDA=="
 ---
 

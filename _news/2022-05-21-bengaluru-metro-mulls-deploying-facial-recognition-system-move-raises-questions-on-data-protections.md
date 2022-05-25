@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google’s facial recognition tech to replace smart cards in Bengaluru metro trains"
-    excerpt: "The Bangalore Metro Rail Corporation (BMRCL) has plans to use Google’s AI-based facial recognition technology to replace smart cards/tokens at the automatic fare collection (AFC) gates. Namma metro commuters use the smart card to open the gates."
-    publishedDateTime: 2022-05-20T07:01:00Z
-    webUrl: "https://analyticsindiamag.com/googles-facial-recognition-tech-to-replace-smart-cards-in-bengaluru-metro-trains%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 49
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Untitled-design-30.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Bengaluru plans facial recognition gates at Namma Metro, activists alarmed"
     excerpt: "The Bangalore Metro Rail Corporation is planning to install the system at automated fare collection gates throughout the Namma Metro network."
     publishedDateTime: 2022-05-24T21:54:00Z
@@ -41,7 +27,7 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
         width: 2048

@@ -19,33 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia details plans to transform data centers into AI factories"
-    excerpt: "At Computex, Nvidia announced hardware milestones and new innovations toward its roadmap for more powerful AI-enabled data centers."
-    publishedDateTime: 2022-05-24T15:34:00Z
-    webUrl: "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/"
-    ampWebUrl: "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/amp/"
+  - title: "Nvidia Tips New Liquid-Cooled GPU, Jetson AI Devices at Computex"
+    excerpt: "Peak performance and cooling in ever-smaller spaces matters to data centers, and Nvidia's liquid-cooled A100 card targets that market. The chip giant also detailed new Jetson devices and designs for data-center systems."
+    publishedDateTime: 2022-05-24T22:52:00Z
+    webUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex"
+    ampWebUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/09/chip.jpg?w=1200&strip=all"
-        width: 1200
-        height: 707
+      - url: "https://i.pcmag.com/imagery/articles/00nRHA1EuawfuWOeCRdcubw-1.fit_lim.size_1200x630.v1653362725.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Gaming, Data Center Chip Demand to Aid NVIDIA (NVDA) Q1 Earnings"
-    excerpt: "NVIDIA Corporation NVDA is slated to report first-quarter fiscal 2023 results on May 25. The company’s first-quarter results are likely to reflect the benefits of strong demand for its graphic chips from the gaming and data center markets."
-    publishedDateTime: 2022-05-24T11:58:00Z
-    webUrl: "https://www.nasdaq.com/articles/gaming-data-center-chip-demand-to-aid-nvidia-nvda-q1-earnings"
-    ampWebUrl: "https://www.nasdaq.com/articles/gaming-data-center-chip-demand-to-aid-nvidia-nvda-q1-earnings?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/gaming-data-center-chip-demand-to-aid-nvidia-nvda-q1-earnings?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Nvidia debuts liquid-cooled graphics chip for data centers"
     excerpt: "Nvidia Corp. late today detailed a new liquid-cooled version of its A100 graphics processing unit that can help increase data centers’ energy efficiency and reduce their carbon footprint.  The GPU made its debut at Computex 2022 early Tuesday in Taipei,"
     publishedDateTime: 2022-05-24T07:15:00Z
@@ -60,15 +49,15 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "GIGABYTE Releases Arm-Based Server for NVIDIA Baseboard Accelerators for HPC, AI"
-    excerpt: "GIGABYTE Technology, (TWSE: 2376), maker of high-performance servers and workstations, today announced a scalable server, G492-PD0, that supports dual Ampere Altra Max or Altra processors with NVIDIA HGX A100 Tensor Core GPUs for cloud infrastructure,"
-    publishedDateTime: 2022-05-20T17:01:00Z
-    webUrl: "https://insidehpc.com/2022/05/gigabyte-releases-arm-based-server-for-nvidia-baseboard-accelerators-for-hpc-ai/"
+  - title: "Nvidia to sell liquid-cooled A100 PCIe GPU cards, Equinix trials deployment"
+    excerpt: "Nvidia plans to sell a liquid-cooled PCIe card for its A100 server GPU in the third quarter. It will follow this in early 2023 with a liquid-cooled PCIe card for the next-gen H100 chip. The company previously offered liquid-cooled A100s,"
+    publishedDateTime: 2022-05-24T12:14:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-to-sell-liquid-cooled-a100-pcie-gpu-cards-equinix-trials-deployment/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 14
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 17
 
 secured: "NadBf7piV+wJU1KLASQrDxrem+T9t8coKmmubSAVCTVRXjyDYbbFX+WoIkprbYs+n8j2VD6Z7wxDChm6488H+qZi2cEobvziwYkHrIilW968PJK+gXBWE8z3ppnVy2rxkLcJPTarqvk7oT8HCYeKfSxiKaDd7qBXQ2f/1VvvOR+ppwGIVtUewIIExF06OBAjZiVmORhUs3xEY/WO65Fb79lf8xjpNnhu5wePtVLB9MWcIHkGDRCjzM0LWJDVYB0m0u0E1AF8AZgjp+Ewj0IaOukypcRstHmw/5tqe05/PS/CuPWNrc9a/9+KcZznETjRv+TdZ54T1bgkAg8hQc/PhqEK0GConvKM2sCsw+lVx9vlj20MQpU0WZ/awlaJEVRvPLHkOJ7T8d5gi8qzBLQdMLcaW0OytQXibVQ/V4ZdKKkfx0CZiOAC1fHyzMurdsKI8jAr3xt83pDfyX8ZBbv4VEu/dI6F6gcJQbZB8zXm5krR/Qwe9lhtSuSSN8bkvCiHuvb5IvBqzsbET77IeEiqkA==;EQqEYa9I9gJNC7kZJvX6Bw=="
 ---

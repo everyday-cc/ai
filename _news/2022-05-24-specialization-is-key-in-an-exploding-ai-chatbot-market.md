@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Specialization is key in an exploding AI chatbot market"
+    excerpt: "Zowie, which claims to be the only AI-powered chatbot technology specifically built for ecommerce companies that use customer support to drive sales has secured $14 million in series A funding."
+    publishedDateTime: 2022-05-24T20:00:00Z
+    webUrl: "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/"
+    ampWebUrl: "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Exclusive: US tech investing giant Tiger Global leads $14 million Series A round into AI chatbot startup Zowie"
     excerpt: "The startup aims to transform customer queries into sales for ecommerce sites and counts L'Oreal and Avon among its customers."
     publishedDateTime: 2022-05-24T10:27:00Z
