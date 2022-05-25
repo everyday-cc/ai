@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//628d150732d0646182ea9402/0x0.jpg?format=jpg&crop=3116,2077,x724,y41,safe&width=1200"

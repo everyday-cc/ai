@@ -1,0 +1,21 @@
+---
+category: news
+title: "Facial recognition technology ‘not advanced enough’ for use by Garda"
+excerpt: "Amazon had been selling its controversial Rekognition software to police forces in the US. But along with other industry big-hitters Microsoft and IBM, it suspended sales for law enforcement purposes in 2020 after a backlash over police brutality and the ..."
+publishedDateTime: 2022-05-25T19:20:00Z
+originalUrl: "https://www.irishtimes.com/crime-law/2022/05/25/facial-recognition-technology-not-advanced-enough-for-use-by-garda/"
+webUrl: "https://www.irishtimes.com/crime-law/2022/05/25/facial-recognition-technology-not-advanced-enough-for-use-by-garda/"
+type: article
+
+provider:
+  name: The Irish Times
+  domain: irishtimes.com
+
+topics:
+  - AWS AI
+  - AI
+  - Computer Vision
+
+secured: "iHew+PIfphSWcJYIZL9otQfx50DFZLQvfMJeztracU0EEoq5PzG2vDTDpnbjjCqqmW7ZlX05tmrQm0H3KJqLgi/x+OaFplYagkm1qe896eRMhQevCwU7wK3KQmRaaiW4vCRLj4hcCgGhQ+nQbZzDh9gv2X+B/3wV2JzhGiRqlNxnQ/0ev3GE1SNFbxxxv4MLvq8dJD58bmgXjS5gpRCUtfi40+jc/hdXCDV0iHHGD5YVNzHinD5X5tPLogZYwAXpP9o9nAFLUTpLx+fSHbe+pORZ6rY0Kurv3sqawAISGSCCR+WE9+zVU8iYwRkLpJgjoamomCdRjA9c2mwt6X98ZBnAHZby2Ajcmc9RA8nXA28=;+Z/3Evv2VLdoJ8E2ZEqK3A=="
+---
+

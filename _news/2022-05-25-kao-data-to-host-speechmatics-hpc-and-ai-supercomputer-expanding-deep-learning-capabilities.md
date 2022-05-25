@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+  - AI Hardware
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
@@ -40,6 +42,6 @@ related:
         height: 490
         isCached: true
 
-secured: "gGSUR6yGntCYJd+FEeADIlxAc3jZ8EWSVia2l2zoCjP5mGgtcZYfMPyG7S8ag4pIMka+UuSo3xzBzmjNajmpP8nr0RVEquKZAgvSYqnCiJfnvzTiVgWZENBDWgP5JGkR5BNbGgrPW2cwLg2CMGuQBUPkP82Rw0kficQow8+IGNuk2kmHfs7n5HIwzgrc6BFye+knh43BF0cOZLLNOTpz7v7TKn1WRjbUTXmgS/qa9l1Qm1BY7yc0Qox4bxcsKmwcjVzYzMKqYLiiRrKx9HnZ103Z1CYBjM1qOKzK68dgnDad36nHtiu5mS2MI76R868A9LgLR7vRzl89pEXkSPzqyvVWttGVWo+AD/J1c1v5iSU=;6JiLQtamAv2DbHu3i0gwIw=="
+secured: "on2BusuqovOYnKjGicdB4hgxNCUqd0r/Ahc1AbkbHCXAJQkYAifqI4TWA22o4d3Gqcq20RqcXeVhom6x5J4jMfGh3ZduuymlGZlIBNZSypMDIjEaCVNk1RE9qNEPEPP8IAMju1FzeOWItX2L5kRc+MVgLXPKLHjrd6cdtsdFjm4ekBRCPnPqHp9eaSFOdsNbqTtkASY/NHnuYYgKiMpgdu8LSpv9orDTibcsqEwoINwntcoIM3te3KzBNxJFxKfWvGRaodPKE11vNP9+EyjWbjfdYrDACdQTn6VWAFygIYrkA0x38oKGilsGlJvAv2HwFsK+OkXSk/eliR+/5Qi3AVyXCSLsbDdET+a7G0h1Jvtk6HkmUD6UjXohA3lJIdDtCz7+28comaEKo/A5cMdkCcZWINgQjfXqZ1P8VNZzZigTVXxuarlOTSu4Brv16cBv8p/0uyTc33hHM0VfQTZe9Xdcq1SOv2vEH3tt5VrtaSVL3+ob2BTWFn8Wq5pEKo0D5XTepViRyDI2P5NOQp3AdA==;pep4tOjkXxbqL80uSSKAnA=="
 ---
 
