@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-24T23:59:00Z
 originalUrl: "https://redmondmag.com/articles/2022/05/24/nadella-highlights-ai-and-cloud-native-apps-at-build-event-for-developers.aspx"
 webUrl: "https://redmondmag.com/articles/2022/05/24/nadella-highlights-ai-and-cloud-native-apps-at-build-event-for-developers.aspx"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_RedView.jpg"
@@ -24,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "bXCkkWjYSK20TGhNk7gJPGIt23gwI9LogPx9UWtUyywEMzaRqmb+W0ntM90wY/ecAw6bzhlFeaIyUxGzOutMqSxVkdnYthwMT54isdKUlxBTLpP9vK6S/UtPUGcmLPQhTqNofmPZq/eGiym8yX5I2u08ZgHbtjrTniWa5drUeOa1zPSz73EVcORYCtww8CW/0wwwKXnzFQI/gsCQ6pXR6FTgt88thhAS+f28tQ1rthFxvYgtg2WAAlhzMXeGgF619KnBhhdF7XE7zNdYQFLyi44X9y0V/xtLN5KQBrYHTwddQz2FLTpD3o3PIfyLA4p9tdBivW+3FtVrGzLU/HxHh2klMZKBXjVIOgYmJl4wcL8=;cytb/hu3fRUy2uVkpoP3xg=="
+secured: "a20ZFbzLlVuvc4CVbK9CmovBDBLUzZYFdmr8eprPtGtqaZ+9shIVmnT+BLRcFLulFzpreGvvflTV/3mLtgvtZTJA2eLT2Hzf7ZDcKNDhyh0Y8nA+VLfxC5YB5P3woqNgox16Kn5Teo6sd8fb42oDv2lUaZeE54/KjmY6mv4tEmOLhmywpHgrTkUA2gtkRhYgb2WVLcE7+yOaZ0iSo0TRPSxzFdIbsuVpCSzIpoOeRC5Fx8AGlpJrJQcA9727Cnnbr8AZ9VdI6ac4hulA9b8hByfsFZ8qoVC5w+z7aYmEK3IVFERqn3awetBNwQa/x6QKNBqVgMPf574UQMQgCVt5MYxFptRLidcg4K+tZlaKudFeUkuzA8X86PKkyEWT/HzxDPm9MLy2Fg0Btf9JHOLUm/se3Vs7CCQ67SJi/quPV26vOjlbuVcUwNr9goHOCpjKZQiqMKs9cdNBVuFa7N9+ozSWUg+I1ECc94+r3J/l5Q5dzkZwkVN9BECtBwtXGYTHdSyn4dgKjfByluIwSulxlQ==;4SziyeKv6TWZ7ojhXd3rCw=="
 ---
 

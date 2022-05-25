@@ -110,6 +110,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Clearview AI wants its facial-recognition tech in banks, schools, etc"
+    excerpt: "I get knocked down but I get up again, Italy, Canada, UK, ACLU, Facebook, Google, YouTube, Twitter... are never gonna keep me down"
+    publishedDateTime: 2022-05-25T01:08:00Z
+    webUrl: "https://www.theregister.com/2022/05/25/clearview_banks_schools/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/clearview_banks_schools/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/clearview_banks_schools/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2018/07/13/facial_recognition.jpg"
+        width: 1000
+        height: 688
+        isCached: true
   - title: "UK watchdog fines Clearview AI $9.5 mn, tells firm to delete data"
     excerpt: "The Information Commissioner's Office (ICO) in the UK on Monday fined facial recognition surveillance firm Clearview AI more than 7.5 million pounds (.."
     publishedDateTime: 2022-05-23T11:16:00Z

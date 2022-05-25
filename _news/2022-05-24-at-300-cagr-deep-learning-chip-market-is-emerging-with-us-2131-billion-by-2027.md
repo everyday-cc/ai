@@ -37,6 +37,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
+  - title: "Global Service Robotics Market to Reach $110.4 Billion by 2026"
+    excerpt: "While advanced technology is enabling robots to perform diverse tasks, latest concepts like biometric recognition, 5G and artificial intelligence are facilitating virtualization of service robots. Professional service robots are increasingly being ..."
+    publishedDateTime: 2022-05-23T17:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27344073/global-service-robotics-market-to-reach-110-4-billion-by-2026"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
   - title: "Medical Rehabilitation Robotics Market is expected to surge at a stupendous 15.9% CAGR from 2021 to 2031"
     excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
     publishedDateTime: 2022-05-20T11:15:00Z

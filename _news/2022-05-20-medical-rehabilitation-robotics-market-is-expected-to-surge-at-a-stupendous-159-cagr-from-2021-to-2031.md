@@ -44,6 +44,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Service Robotics Market to Reach $110.4 Billion by 2026"
+    excerpt: "While advanced technology is enabling robots to perform diverse tasks, latest concepts like biometric recognition, 5G and artificial intelligence are facilitating virtualization of service robots. Professional service robots are increasingly being ..."
+    publishedDateTime: 2022-05-23T17:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27344073/global-service-robotics-market-to-reach-110-4-billion-by-2026"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
 
 secured: "mpJqvME5lIG3dNbu1Qb0Gne3XdbKkf+aLQro2PJMYelKycs3JKM6N1jx+X6s3Hcpq/dHZPnmLcrI8ygiYDy1rlOgA7nM7fsm/mJ04nb3rZ8GJQNDujAIVLvoR1H7TJo2JIcHUnMBSe5h/qo9TWLSj5d4wMVBW4oWxG4QxwWJxvOP8UK2tw6M3qL9QXWClZVres5LAGg2Cqc5eTiE6R6VTN+DwC6RwQSC3ztXkSSSRujQatnUYU04VNW4Ay+KjexjFrX9fg2URpn0D6VRzWSDxr/6GIA1uiHNSHHIJixaUljKcvcB7yQlQmL8lByMaafaU7jIbXyM9XL0eMqFsxSFSb11DOzXeHcIMY3h2FTbOaQ=;LgD8oGpkg3qz5h9ezeMrjw=="
 ---

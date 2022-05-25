@@ -19,21 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "China robot unicorn Hai Robotics eyes international expansion as market for warehouse automation cranks up"
-    excerpt: "Hai Robotics makes robots for moving and sorting boxes in warehouses, a market estimated to reach US$41 billion globally by 2027."
-    publishedDateTime: 2022-05-20T09:00:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion?module=live&pgtype=homepage"
-    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion"
+  - title: "New MassRobotics award to honor female robotics researchers"
+    excerpt: "MassRobotics' The Robotics Medal recognizes the wide-ranging impact of female researchers around the development of robotics."
+    publishedDateTime: 2022-05-23T16:58:00Z
+    webUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 101
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/19/5020fad2-9d36-402d-a4c2-acacef0bb0f6_a484de56.jpg?itok=BWP9j4IV&v=1652960037"
-        width: 1200
-        height: 630
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/05/massrobotics-the-robotics-medal.jpg"
+        width: 635
+        height: 520
+        isCached: true
+  - title: "Remy Robotics exits stealth mode with launch of third autonomous robotic kitchen"
+    excerpt: "Pioneer in robot-enabled delivery-only restaurants expands its reach and opens to new partners to boost food operators' scalability BARCELONA,"
+    publishedDateTime: 2022-05-24T07:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen-1031483797"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://mma.prnewswire.com/media/1823888/Remy_Robotics.jpg"
+        width: 400
+        height: 229
         isCached: true
   - title: "Walmart expands orders for warehouse robotics from Symbotic"
     excerpt: "Retailer increases adoption of fulfillment technology from 25 warehouses to all 42 regional DCs in its U.S. network."
@@ -49,15 +61,57 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Global Service Robotics Market to Reach $110.4 Billion by 2026"
-    excerpt: "While advanced technology is enabling robots to perform diverse tasks, latest concepts like biometric recognition, 5G and artificial intelligence are facilitating virtualization of service robots. Professional service robots are increasingly being ..."
-    publishedDateTime: 2022-05-23T17:52:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27344073/global-service-robotics-market-to-reach-110-4-billion-by-2026"
+  - title: "Massrobotics Launches $50,000 Robotics Competition"
+    excerpt: "MassRobotics launches $50,000 robotics competition . May 24, 2022 by David Edwards Leave a Comment . MassRobotics , a robotics innovation orga"
+    publishedDateTime: 2022-05-24T09:39:00Z
+    webUrl: "https://menafn.com/1104263784/Massrobotics-Launches-50000-Robotics-Competition"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/24/R&AN_33a63image_story.png"
+        width: 800
+        height: 369
+        isCached: true
+  - title: "New Robotics Medal recognizes wide-ranging impact of female researchers"
+    excerpt: "Given by MassRobotics, this first major prize of its kind is hoped to inspire and encourage women in robotics."
+    publishedDateTime: 2022-05-23T22:38:00Z
+    webUrl: "https://www.scmr.com/article/new_robotics_medal_recognizes_wide_ranging_impact_of_female_researchers"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 54
+    images:
+      - url: "https://www.scmr.com/images/2021_article/robotics-award-news-May-23-2022-web.jpg"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Robotics Medal recognizes wide-ranging impact of female researchers"
+    excerpt: "Given by MassRobotics, this first major prize of its kind is hoped to inspire and encourage women in robotics."
+    publishedDateTime: 2022-05-23T22:27:00Z
+    webUrl: "https://www.scmr.com/article/robotics_medal_recognizes_wide_ranging_impact_of_female_researchers"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 54
+    images:
+      - url: "https://www.scmr.com/images/2021_article/robotics-award-news-May-23-2022-web.jpg"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "How Robosport Is Using Robots to Make Athletes Less Robotic"
+    excerpt: "In recent years, we have witnessed increased discussions on developing robots to be more human and whether robots can surpass human intelligence."
+    publishedDateTime: 2022-05-24T14:21:00Z
+    webUrl: "https://www.ibtimes.com/how-robosport-using-robots-make-athletes-less-robotic-3519135"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "OZhK408VppjFtmJQIdJE+uPnp9k7FocvUr/fWNv+7TDDG5rUwJAseh68CT2h9gA2zUT2Q+N7BvQ4RA5tEaRFD/26CbFAF0R4Oj1WKKS15Z0K98MbzhVljx5Ng6L4PazN8RCxXec/WvWQDTNlhYOViAFjGOmx+VUhfWwPqb0K77LBIDN1T6FpIpEZ3N9TVuHpmd4Jd7BFjbSsbPiJKVk8gKYEMUFZiVUNmXnqDlaaCm6gkpN4PbP6AKgxkaJ0/AIucTs2aWZ2QS/9EfW6OZAL8Gpv+Z1L+NMNz8CqXId17EclVGOfu1ZUESmTfXU6mG4oLTQCX3goXeSVc0Pz2fKwhu+b8yYJY/P3uK0w2V3hWrlMPp9Cly04rUrsP3JzL71wDwA/w/L3Qb/16UoQPfmhCiZSAB6pVsk4ZzEYEoIUz06qcCcoFaqmwB54rBHRwC9rSZKh4BSXJrwEsgGvtDfnbK/lBIIjxvEgdY5IhR6Uz4AbCSS/oXFlZfzDE6jA0ilidueHaFg3v8pGDFGMM67Bvg==;xGoxY0UCdC3O8shib+I4lA=="
 ---

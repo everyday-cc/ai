@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://st1.bgr.in/wp-content/uploads/2021/06/Elon-Musk.jpg"
         width: 1201
         height: 675
-        isCached: true
-  - title: "Tech company completes first driverless car test on Oxford roads"
-    excerpt: "Fully autonomous vehicles have been driven on Oxford roads with no on-board driver and they could soon be used to deliver food."
-    publishedDateTime: 2022-05-20T08:11:00Z
-    webUrl: "https://www.oxfordmail.co.uk/news/20153137.tech-company-completes-first-driverless-car-test-oxford-roads/"
-    type: article
-    provider:
-      name: Oxford Mail
-      domain: oxfordmail.co.uk
-    quality: 39
-    images:
-      - url: "https://www.oxfordmail.co.uk/resources/images/13799882/"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."

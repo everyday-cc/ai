@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/global-artificial-organs-market-
 webUrl: "https://www.digitaljournal.com/pr/global-artificial-organs-market-to-be-driven-by-the-growing-demand-for-kidney-transplantation-in-the-forecast-period-of-2021-2026-2"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,45 +23,6 @@ images:
     width: 756
     height: 505
     isCached: true
-
-related:
-  - title: "Self-Driving Taxi Market Growth 2022 Share, Size, Landscape, Top Key Players, Strategies and Forecast to 2028"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Self-Driving Taxi Market” report"
-    publishedDateTime: 2022-05-20T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-growth-2022-share-size-landscape-top-key-players-strategies-and-forecast-to-2028-2022-05-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-  - title: "Indoor Delivery Robot Market Size with Growth Opportunities, Top Countries Data, Future Trends and Share with Revenue Forecast 2027"
-    excerpt: "artificial intelligence, GPS technologies have made it possible for the companies to ensure fast, secure, and cost-effective delivery of products to the clients. Reduction in labor cost is expected to drive the demand for indoor delivery robots The usage ..."
-    publishedDateTime: 2022-05-24T05:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/indoor-delivery-robot-market-size-with-growth-opportunities-top-countries-data-future-trends-and-share-with-revenue-forecast-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 9
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "HD Maps for Autonomous Vehicles Market Emerging Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
-    excerpt: "The global HD maps for autonomous vehicles market is expected to reach a market size of USD 16.51 Billion at a steady CAGR of 34.3% in 2028, according to"
-    publishedDateTime: 2022-05-23T10:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/hd-maps-for-autonomous-vehicles-market-emerging-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "uAOYwuKdtWHJiyR/4tahkklPq8KVcwvQ2Y2dmcNo2wqOXx0otE1fwZp17ABKpwz7gpOTLYWuLjUhJhqpH0yFJ1snb87yuctpvDHwjI4oYK45EdZNDKj+KFmObMH8LeExLYKKrcsmpjFMAmuMlh69mHklMQb3Twi2F+7fKkbeBsks4o5pP2HWCoC6ZoOd2DS/y6ROB95bn9CwcyWhQe+vVXjrDvqDdXPzuRaID0kr67cZ48+fGyNrVe/yMj0QmgD/ZN0DcjyCI20+/cdkIXZwnLiThjV14DbEQR6euN+0RA+JHhixoeSWwQxue+qe2a3l7j8F/gUnhy33fHb4SRL4hJgMqdl45n+jHVMxJfOY4ielQgExT782AWn33E+dmtoEmf3fA6jqWpByRwPTsn39rTxnny71dQfXg6gjma++jR4Xz7Y9o+20dkZGMjnfTAtrC1iWqUs4J+M7E0pjqpZlcOZyw8YXBPuWtiK0fWLj2+u0Ilrdd6orrZSq1DrXiu9QPpkTwTm5omuPpC/R3atkXA==;Ttxv9hWuZ+Kw611FMe49Mw=="
 ---

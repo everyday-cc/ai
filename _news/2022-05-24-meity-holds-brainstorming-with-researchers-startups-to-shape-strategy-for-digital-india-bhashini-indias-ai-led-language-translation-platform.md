@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Digital India BHASHINI: 73 Startups Attend Session To Shape Strategy For AI-Led Language Translation Platform"
+    excerpt: "MeitY on May 24 held a virtual brainstorming session to shape strategy for the country’s AI-led language translation platform, BHASHINI."
+    publishedDateTime: 2022-05-25T01:30:00Z
+    webUrl: "https://inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/"
+    ampWebUrl: "https://inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 40
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/05/BHASHINI-social.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI To Make Roads In India Safer To Drive"
     excerpt: "Artificial Intelligence (AI) powered solutions, such as collision alert system, may soon make roads in India safer to drive. A unique AI approach that uses the predictive power of AI to identify risks on the road,"
     publishedDateTime: 2022-05-24T11:58:00Z

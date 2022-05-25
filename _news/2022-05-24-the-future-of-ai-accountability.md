@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://www.thehindu.com/incoming/mulfl7/article65446708.ece/alternates/LANDSCAPE_615/iStock-1034901762.jpg"
         width: 615
         height: 383
-        isCached: true
-  - title: "Remarkable new AI gives us a glimpse of the future for filmmakers"
-    excerpt: "Put on your best gravelly movie trailer voice and say \"Imagine a world...\", because in the future, that's how you'll make films: by imagining a world."
-    publishedDateTime: 2022-05-20T08:08:00Z
-    webUrl: "https://www.redsharknews.com/remarkable-new-ai-gives-us-a-glimpse-of-the-future-for-filmmakers"
-    ampWebUrl: "https://www.redsharknews.com/remarkable-new-ai-gives-us-a-glimpse-of-the-future-for-filmmakers?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/remarkable-new-ai-gives-us-a-glimpse-of-the-future-for-filmmakers?hs_amp=true"
-    type: article
-    provider:
-      name: redsharknews.com
-      domain: redsharknews.com
-    quality: 57
-    images:
-      - url: "https://www.redsharknews.com/hubfs/8-jpg.jpeg"
-        width: 1024
-        height: 1024
         isCached: true
   - title: "Can Robots Learn Law? Scientists and Theologians Discuss the Future of AI"
     excerpt: "The conference was organized in three parts around the concepts of expressing, defining, and understanding intelligence."

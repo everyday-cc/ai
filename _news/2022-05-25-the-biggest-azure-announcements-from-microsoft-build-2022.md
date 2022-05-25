@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-24T20:05:00Z
 originalUrl: "https://www.crn.com.au/news/the-biggest-azure-announcements-from-microsoft-build-2022-580435"
 webUrl: "https://www.crn.com.au/news/the-biggest-azure-announcements-from-microsoft-build-2022-580435"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i.nextmedia.com.au/News/satya_nadella_microsoft_press_centre_0.jpg"
@@ -281,13 +282,13 @@ related:
         height: 720
         isCached: true
   - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
-    publishedDateTime: 2022-05-24T22:02:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
+    publishedDateTime: 2022-05-24T20:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-beekeeperaitrade-collaborates-with-microsoft-accelerate-ai-powered-innovation-/2022/05/24/9608588.htm"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
@@ -332,6 +333,6 @@ related:
         height: 350
         isCached: true
 
-secured: "C185I940ztsFOOSbYwLe6W4+01YSims09gG/JSIZJL+9czoEx9Lx+/qBYUet6HoKTTxoAd8OctF0VmGeZgLn5Ddj7kprbYq0dgFAzA/tfZXg3paxDFTnORVOcvFHEluSRmO/kxOm2qLHFu3J6qqIxkdbSubjOUQoDGnIPEGqU3jyZJM7w88Vsa8HeY0yuKHDehG5QM5td28mYccLYO8rhTqVcpAfnQpQS5rR0dvGYrZJGZPhO2KOkdJ0Jjr6/6pxHLyunCeVeTvFYgtKZ0DTeEA7BUIPwJwC/UFvc+t0aQPI7Z+lrr3EOYUOE7bICswNQDG3Zpts/tpf14jTi6Ins+xd+dm34bR7wUxvve4BZLw=;JA26IRHcRIgC7Q2OgnsTmQ=="
+secured: "eW1s2e2GuOZ3LH4ie4g+boZnzyejSetGc3zKquWlF6r5DuhlYOCe6LNv0UwI2jWKgghuSgzoXdK70y5fCTN1G/kLZDzamjG4jrhFO5xmbTiMWT786wvuTZS6hOxwYcw5ASlhQx12KVC9we4LVuX/jsnbf3GH1R3osSA0IaTDI4Z4+5e12vZmMQiOkhKb35qvYRaEM+HU4u328E7ryaOUTC/evU69JDcElqXH1kE4GI/iU8Yc3twfjRnSryWXeHBeae7q54BDHvY1F5RZCIIxbPuTMcugkffyWJ7z1KqxgzkkpQrGwFV3x+pvC06wDgVQAJpqymMx9xhIuI5avhHhL6Nm49myInuezt+Ps9PyVu58CvnLGcFjCXlf60RHqy6Gp671hxMTn7O5CH3EGcEDFEr9Xb6/1U1Yh7j9YxFPg50gPKkp9EUxxXFfRYjaNloJJXYRRhL1rfFamKeWi4/Z/qCR+oAJ54+YoWs+8tWW/pvQm3U+7ms4JCtuF/alGvbo3iDnUVhFvRseouc/OI745g==;LPlMWPCoRU3aTmMiknkKag=="
 ---
 

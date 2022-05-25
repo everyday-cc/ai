@@ -2,14 +2,14 @@
 category: news
 title: "UK watchdog fines facial recognition firm £7.5m over image collection"
 excerpt: "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database"
-publishedDateTime: 2022-05-23T10:24:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
-webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
+publishedDateTime: 2022-05-23T16:05:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?ref=biztoc.com&curator=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?ref=biztoc.com&curator=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition fine if rules followed: KTR"
+    excerpt: "Identify government organisations and grant them transparent regulatory powers through Parliament, says Minister"
+    publishedDateTime: 2022-05-25T00:33:00Z
+    webUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/5/25/w600X390/Facial.JPG"
+        width: 600
+        height: 390
+        isCached: true
   - title: "UK regulator fines facial recognition company $9M for illegally storing images"
     excerpt: "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials."
     publishedDateTime: 2022-05-23T21:22:00Z
@@ -108,6 +124,6 @@ related:
       domain: upi.com
     quality: 19
 
-secured: "eBwcqfPboZW4KN4Tp2+1vRHtfJ1rOVYbATv+rUI2XXNlRy+2b6ccwhp6abRmknGQfurwuPSX96mZstiBD3XdjKfz5bMzpHXZYczc8f2LYdSffqzqVAL7q4mQ6jXoN8f/luwKnhOLEc7PnDQ5fP+pGmjnb0t85KdXw+fXEqc1DmTQxf1KM+gAiN2SB7itjgYRIXb+Q4rhauhUslrGko0blVw2Z3EpU6Rfx43KrrYMXYg36qZEtDaIFQA4qCJKiIxZA6IYZjcGdcowqr0pyUe8HvFBx9oW9RsThlU+LEpxUMFKLXPzE0sEVGZ8LofzvA9X1X00MlQUfMmOfwCH0zPKq0fMOzh4C8wftd5+n5n9l/H9XHNtpwRKNu7M7tI14Jfi/gfFq3nze2dtBOFU8sYcxWG3msh5i1T8epnryY8XZ925WlXmaTf872RycZ9l23iOlPAU9X02aAm/AoD8zhVlNOzEfCSt6MtC94n+ulevTIkApuoNJixWdngFxgt9DOEosKRo8fyBJKuyLrMBCgfInw==;MJRN1xsmPbJMIQ+BLG8PVA=="
+secured: "ZWAgCqdgXI0PuQpR+RP8rPnQPIMPi4kq1+Fzj6l3ZNNtZHtc+8jWffpXMLLJePiFFFXJ2tcPve2P0Dkl1z8OZq/U3yNG2+KI7Cx4p66EMbT2wvT+KTFcPpeoLEzkTZeOxvWEU5FdZtPoydrIVbyvTcTBPp1OfBH+nj2geOR8uZJblMaL7WtjJ9Y/PPWGm1qQYE35WuPXovTXufayrp1UIa0gopNvmZ6p1ZV38LbaOyes912Btt2QVNoa+fs3i3RygoqG6hJOXj+hRlFmZE9oSR9FU0HIDVwOdb9Z7DfrqY7L25JkeJQNIidFEm8JrAX3WIaApn3ksZRpUl4BeZoC6QOb+QEJ3T/jTYaqZ2TXNdA=;ZZFSSwLDdHNxAGceVjgYjg=="
 ---
 

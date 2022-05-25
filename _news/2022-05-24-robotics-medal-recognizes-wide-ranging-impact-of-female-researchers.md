@@ -53,6 +53,20 @@ related:
         width: 400
         height: 229
         isCached: true
+  - title: "Walmart expands orders for warehouse robotics from Symbotic"
+    excerpt: "Retailer increases adoption of fulfillment technology from 25 warehouses to all 42 regional DCs in its U.S. network."
+    publishedDateTime: 2022-05-23T16:51:00Z
+    webUrl: "https://www.dcvelocity.com/articles/54664-walmart-expands-orders-for-warehouse-robotics-from-symbotic"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 54
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2022/05/23/Symbotic-Bots-4.png?height=635&t=1653324728&width=1200"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Massrobotics Launches $50,000 Robotics Competition"
     excerpt: "MassRobotics launches $50,000 robotics competition . May 24, 2022 by David Edwards Leave a Comment . MassRobotics , a robotics innovation orga"
     publishedDateTime: 2022-05-24T09:39:00Z
@@ -81,6 +95,15 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "MassRobotics Announces Call for Nominations for The Robotics Medal Recognizing Women in Robotics"
+    excerpt: "MassRobotics, a leading robotics innovation organization, announced a call for nominations for The Robotics Medal, a new annual award presented to a female researcher for substantial achievements and contributions in the field of robotics."
+    publishedDateTime: 2022-05-23T19:08:00Z
+    webUrl: "https://www.automation.com/en-us/articles/may-2022/massrobotics-call-nominations-robotics-medal-women"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 21
   - title: "How Robosport Is Using Robots to Make Athletes Less Robotic"
     excerpt: "In recent years, we have witnessed increased discussions on developing robots to be more human and whether robots can surpass human intelligence."
     publishedDateTime: 2022-05-24T14:21:00Z

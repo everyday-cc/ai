@@ -60,15 +60,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 48
-  - title: "Google DeepMind claims they're close to achieving human-level AI"
-    excerpt: "Google DeepMind lead researcher Dr. Nando de Freitas has claimed on Twitter that artificial general intelligence is all but here."
-    publishedDateTime: 2022-05-20T09:01:00Z
-    webUrl: "https://www.tweaktown.com/news/86316/google-deepmind-claims-theyre-close-to-achieving-human-level-ai/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
 
 secured: "FOeX2d4pY60o9V8qL4htKhvKBC4Awa8wq8SgNZKy10FNl6FJfEWWc5E79IM4Okdr6gWFdLAlhY5c6KAZNT8I766nKiCoSi9teouLbE6Ny1y9tCgHRoMH03pcr2KiN4tAwjLBeDUKF1XTw/AKVMPftz+IK19ZRGtBrDqlVvCwR/QimMgyjwHNvqNHGesztHbEZB8XgsT6KaCvWxFIFNw38p9J/7NJPvCefkNRvKcIVZRW7h/NQolInq4bS7WvdBKu1OnbaO94qMXhfJ8Ac1OnIQ24SBIHkVMa9WLvrCdvBWmppuEe3UMXTY/jHfcc8MquTlQpXfRpCQoUplnFVPfAC4uG/fjk5VNaSGAdWhh66+bC7DbIStq9xm0OJNEXUtvYqsev4aXV5tgQ8+q8F+FcQlCILhz69QuG3dcFQW6ubB5Q6/Jbs0RO6F8342FHuEjB60ydJyKdSrCLZsI1+C0TS9wu7L2/Z3rWmpuolII2vJNIX7hGfSpip0kGkh3REha1TeIY44FT4nRyIx36X91UDQ==;sUsicm3aQUxguWkHlgPMqg=="
 ---

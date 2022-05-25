@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Study shows AI deep learning models can detect race in medical imaging"
-excerpt: "These images might contain more information than meets the eye. Things artificial intelligence can detect. “AI is a very upcoming and novel concept in healthcare,” Dr. Jaya Kumar, Chief Medical Officer at Swedish Medical Center, said. “We’ve been ..."
-publishedDateTime: 2022-05-24T23:01:00Z
-originalUrl: "https://www.ktnv.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-webUrl: "https://www.ktnv.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-ampWebUrl: "https://www.ktnv.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
-cdnAmpWebUrl: "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+excerpt: "Most of us have experienced some form of medical imaging, whether it was at an eye appointment or after a broken bone. These images might contain more information than meets the eye. Things artificial intelligence can detect."
+publishedDateTime: 2022-05-24T21:57:00Z
+originalUrl: "https://www.kshb.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+webUrl: "https://www.kshb.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+ampWebUrl: "https://www.kshb.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+cdnAmpWebUrl: "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: KTNV Las Vegas
-  domain: ktnv.com
+  name: KSHB Kansas City
+  domain: kshb.com
 
 topics:
   - AI
@@ -44,6 +44,6 @@ related:
         height: 400
         isCached: true
 
-secured: "+C5LyrmE21YxA79BeDrMcEzZNDrKdqw0ujh4PgH+vjrYxVx+fItOJJrBHc5tKwMm/Z5HakO+TWSTlskJtvhcnQEO8gXZ6yg9Ey6mq/wRAWJ5w2p+FNp1uwVoTE1+/1wQXnuuQeZn+b1xfT8pnJjt6HoubSlxc6g8TK4mX3RxVduJJEfokor7w1Blk9pk5j/dkPtOHCbGPHX4PzpF4rEPgv9w/utrzejBHU0ApKsKohSk/pPDVn2YwJBf7yCRucLIv7r4fsOGhF0JUg5OQ0vlTUtu/GaTNNluPq3xX3hy+2ZwvSrGrVOD1LASwz0CZRdHzYqIZEKwZ/0HGtp0mlSmhYS2MhByW6vs4KdGXB0hHrU=;yFT8LEM/QIy/PQB3FCSVbQ=="
+secured: "CgjaXKGnSorAF3wd1o9oM0kNe7PLh9ZMlDI9yUHLrkL+GaWAugvQyKv/XoQ3kbZL1QlZi6Rxpx2x0ik95f2WbsZxUYePZVTXUV0V2F6zgE+1/YCAI5r/hvC82I/Om5F8u2Gd0+ki0infTboAs4dJiSrqIaYaOierqv+91DO5a+Ev9OaU4fnIgd9Tq4Qfa/P9ktsMHCAChlgETgVwxvKsp30FUwE0wQLi52PIGii0o3ofsEW4bRxCcO7mMXQ9p95Jum1arHlLVijoYw3n0Sbt3rTxNBcSE1jUjl1hLtEJMakk5nLUGkRY0/f98BYk7Sb+LJFXo8FklTp/nyCviTakif25FJNQw4Pyr+/rQrsT7fQ=;E3u6GKiUzfqrgyAOVRD6pA=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 500
         height: 339
         isCached: true
-  - title: "Soft Robotics Expands 3D Vision, Soft Grasping and Artificial Intelligence Technology to Consumer Goods, E-Commerce, and Logistics"
-    excerpt: "Today Soft Robotics Inc. announced it has expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutio"
-    publishedDateTime: 2022-05-20T07:41:00Z
-    webUrl: "https://www.ketk.com/business/press-releases/cision/20220519NE62718/soft-robotics-expands-3d-vision-soft-grasping-and-artificial-intelligence-technology-to-consumer-goods-e-commerce-and-logistics/"
-    type: article
-    provider:
-      name: ketk
-      domain: ketk.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
-        width: 400
-        height: 271
-        isCached: true
 
 secured: "PT1F5QuFDcdQqaeIN+MYaR4bMkEDA7KW+E8X6um9WYizlvkRG5IbJ2l+SeXIHJ996+jSqHdt2xAJlVFOQ2IFobEiZ/ILaB15RwTZs+dayRcNI50YUWOzzYRrxuei9YpjgLIYkas2/3Vac+QKElDAVrU0yrGKkVW6bfNgWKuzRIXc4GdoOokEs5Cuqy9r0LqyakCCK3a9+PXODovfEk+2bCBE2aoV5h3+cr1PUbDAKqioB1fvyoQFzeHkBBFubUFVbr2AEe+p3PkqXX/z91tMrYhAswIbirT4OlloXBAkoAnlnliAlfQd6gXFyNl+PbMOQWK1FwD3TSz3ee1Ic0zneEEMvZhe4TYx3YpSGEg2rH4=;NDSxA/X7E/BrrOHUC1DUOQ=="
 ---

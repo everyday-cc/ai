@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-wit
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://tampa.cbslocal.com/wp-content/uploads/sites/15909843/2022/05/hypatia-h_95e1fbe11735d97d17c67c941570c5c6-h_296a49084dcbd41e3bcf9362b22c1e27.jpg?w=1024&h=576&crop=1"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Elon Musk’s Crash Course: How to stream New York Times documentary on Tesla self-driving cars"
-    excerpt: "The special explores the crashes that took place while cars were being autopiloted, and both Musk’s fans and skeptics will want to tune in to this groundbreaking documentary about self-driving cars. The special, which runs for 1 hour and 42 minutes will ..."
-    publishedDateTime: 2022-05-20T09:02:00Z
-    webUrl: "https://www.syracuse.com/tv/2022/05/elon-musks-crash-course-how-to-stream-new-york-times-documentary-on-tesla-self-driving-cars.html"
-    ampWebUrl: "https://www.syracuse.com/tv/2022/05/elon-musks-crash-course-how-to-stream-new-york-times-documentary-on-tesla-self-driving-cars.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/tv/2022/05/elon-musks-crash-course-how-to-stream-new-york-times-documentary-on-tesla-self-driving-cars.html?outputType=amp"
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 48
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3MIPFA2CZFD7PGPQNAMWQDECOM.jpg"
-        width: 3624
-        height: 2416
         isCached: true
   - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
     excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"

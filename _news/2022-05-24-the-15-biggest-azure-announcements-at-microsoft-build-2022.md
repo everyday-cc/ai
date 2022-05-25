@@ -238,6 +238,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "The biggest Azure announcements from Microsoft Build 2022"
+    excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
+    publishedDateTime: 2022-05-24T20:05:00Z
+    webUrl: "https://www.crn.com.au/news/the-biggest-azure-announcements-from-microsoft-build-2022-580435"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/satya_nadella_microsoft_press_centre_0.jpg"
+        width: 420
+        height: 280
+        isCached: true
   - title: "Hugging Face Endpoints launched on Microsoft Azure"
     excerpt: "Hugging Face has announced a partnership with Microsoft to democratise machine learning through open source collaboration and make the Hugging Face machine learning platform accessible to Microsoft Azure customers."
     publishedDateTime: 2022-05-24T15:08:00Z
@@ -251,20 +265,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/banner-1.jpg"
         width: 904
         height: 508
-        isCached: true
-  - title: "The biggest Azure announcements from Microsoft Build 2022"
-    excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
-    publishedDateTime: 2022-05-24T20:05:00Z
-    webUrl: "https://www.crn.com.au/news/the-biggest-azure-announcements-from-microsoft-build-2022-580435"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/satya_nadella_microsoft_press_centre_0.jpg"
-        width: 420
-        height: 280
         isCached: true
   - title: "Team SWIFT Responders from Singapore wins APAC Microsoft AI for Accessibility Hackathon"
     excerpt: "Teams from Singapore, Thailand, and Philippines are winners of the Microsoft AI for Accessibility (AI4A) Hackathon in APAC. In its third year, the AI4A Hackathon features teams who are deeply"
@@ -281,13 +281,13 @@ related:
         height: 720
         isCached: true
   - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
-    publishedDateTime: 2022-05-24T22:02:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
+    publishedDateTime: 2022-05-24T20:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-beekeeperaitrade-collaborates-with-microsoft-accelerate-ai-powered-innovation-/2022/05/24/9608588.htm"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."

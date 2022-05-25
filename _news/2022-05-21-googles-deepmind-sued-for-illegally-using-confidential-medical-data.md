@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illega
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 48
-  - title: "Google DeepMind claims they're close to achieving human-level AI"
-    excerpt: "Google DeepMind lead researcher Dr. Nando de Freitas has claimed on Twitter that artificial general intelligence is all but here."
-    publishedDateTime: 2022-05-20T09:01:00Z
-    webUrl: "https://www.tweaktown.com/news/86316/google-deepmind-claims-theyre-close-to-achieving-human-level-ai/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
   - title: "The hype around DeepMind’s new AI model misses what’s actually cool about it"
     excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
     publishedDateTime: 2022-05-23T12:18:00Z

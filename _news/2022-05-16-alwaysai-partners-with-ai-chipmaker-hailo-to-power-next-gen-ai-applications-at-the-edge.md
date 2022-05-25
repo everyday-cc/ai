@@ -2,19 +2,19 @@
 category: news
 title: "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge"
 excerpt: "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base."
-publishedDateTime: 2022-05-16T16:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/16/9602690.htm"
+publishedDateTime: 2022-05-16T16:00:00Z
+originalUrl: "https://www.fox44news.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/"
+webUrl: "https://www.fox44news.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Fox 44 Waco News
+  domain: fox44news.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "0rDXPqC8sL/xuCPF2wcxbQ6ZEQqH1yuA6McERTNAkYymXpS8LzixEemMrFfP1Bh5FKedvoxBXs/zxATYDipgF7QdvthNhu2/Ne4VmnXJFNZWfOWjkYTECvOsbtIvJmKLsPHuko6pF772wNC5XIwCReJ3xC49LxkEGVkaUqp2doFNKmGnXCwMy62lPvUXL9Q8qboscZPrm0TI+lehkW15Cv2nXwE4fz9M8bdktirzxWxtUi6Ztgp0SIwwJii00x5G+XFuTNQIvFy1iIB3SzF7hdaSk5lv+tQHqZrNXFpvBHGUkm2n+8f0BCwLIFSjj58ah3XRKPugyTduwEqI3FcPqXDC8hHaeXAXoZhSX+TcoYU=;Fg4irVe3uRyEmScRf/uiFA=="
+secured: "iVB8ahnhKWIOPdQCoVCp/b4kEmz2tvnkzvj3e0DFM7a/mRCrfjoS4bQ4J9UR8JiRRujYdbyb4NHLrPcm7EuCqIcrKLXAWDVw4bw4J2cwR6A1ZL1HlQn25+9mrFiGTBI1DPagyN87bgtr8DOQFaKQgpwzNyvkjNmLVNSQb/Hj8A3+mtPVjJR4AdA3n8Rsqvl6Eaza0TNPP45VzuwZHy6PPF9i9VzSy1AVXmoUDL5rWqvbJ+gS22mQFrFDeE3uv9HiAtb6JEc5MHhHF7Fv6an1tIQfEuf+UpHzMxVCy3G9pm1nRCX8LUxl/hWBii9u61wXDoWhysg6QkH9An6MOII2ZJO20BDSxeSmICC6pK9ov58=;mDRwQbDTEtLb69/AkajJGQ=="
 ---
 

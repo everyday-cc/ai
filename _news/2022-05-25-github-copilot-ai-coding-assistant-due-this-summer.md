@@ -8,9 +8,9 @@ webUrl: "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assi
 ampWebUrl: "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.amp.html"
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: InfoWorld
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70"
