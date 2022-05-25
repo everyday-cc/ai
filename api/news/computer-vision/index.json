@@ -2,6 +2,146 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-26-pixm-releases-new-computer-vision-solution-for-mobile-phishing.md",
+      "title": "PIXM releases new computer vision solution for mobile phishing",
+      "excerpt": "Computer vision cybersecurity startup PIXM has expanded its line of antiphishing products with the launch of PIXM Mobile, a solution to protect individuals and enterprises from targeted and unknown phishing attacks on mobile devices. The cloud-based mobile ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.html",
+      "originalUrl": "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/09/cso_nw_mobile_phone_text_bubble_skull_crossbones_sms_phishing_smishing_by_jane_kelly_gettyimages-669307004_abstract_data_by_spainter_vfx_gettyimages-897166754-100810151-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.amp.html",
+      "publishedDateTime": "2022-05-25T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-clearview-ai-says-its-bringing-facial-recognition-to-schools.md",
+      "title": "Clearview AI Says It's Bringing Facial Recognition to Schools",
+      "excerpt": "The company revealed it's working with a U.S. company selling visitor management systems to schools within hours of a horrific school shooting.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528",
+      "originalUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 414,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2eafd02da366f481fe2fb052260905ba.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp",
+      "publishedDateTime": "2022-05-25T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-intel-onednn-ai-optimizations-enabled-as-default-in-tensorflow.md",
+      "title": "Intel oneDNN AI Optimizations Enabled as Default in TensorFlow",
+      "excerpt": "What’s New: In the latest release of TensorFlow 2.9, the performance improvements delivered by the Intel® oneAPI Deep Neural",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/intel-onednn-ai-optimizations-enabled-as-default-in-tensorflow/article_0f06172c-3021-5958-aee4-58a6721d07db.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/intel-onednn-ai-optimizations-enabled-as-default-in-tensorflow/article_0f06172c-3021-5958-aee4-58a6721d07db.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-public-confidence-must-for-using-facial-recognition-with-ai-ktr.md",
       "title": "Public confidence must for using facial recognition with AI: KTR",
       "excerpt": "Gaining people's confidence is a big challenge in using technologies like facial recognition with Artificial Intelligence, said Telangana's Industry and Information Technology Minister K.T. Rama Rao.",
@@ -88,46 +228,12 @@
       ]
     },
     {
-      "path": "_news/2022-05-24-clearview-ais-facial-recognition-tool-coming-to-apps-schools.md",
-      "title": "Clearview AI's facial recognition tool coming to apps, schools",
-      "excerpt": "Clearview AI is expanding sales of its facial recognition software to companies from mainly serving the police, it told Reuters, inviting scrutiny on how the startup capitalizes on billions of photos it scrapes from social media profiles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools",
-      "originalUrl": "https://www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 384,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools?amp",
-      "publishedDateTime": "2022-05-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2022-05-23-uk-watchdog-fines-facial-recognition-firm-75m-over-image-collection.md",
       "title": "UK watchdog fines facial recognition firm £7.5m over image collection",
       "excerpt": "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?via=indexdotco",
-      "originalUrl": "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?via=indexdotco",
+      "webUrl": "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
+      "originalUrl": "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
       "featuredContent": null,
       "highlight": null,
       "heat": 119,
@@ -314,33 +420,24 @@
     {
       "path": "_news/2022-05-19-edge-ai-and-vision-alliance-announces-2022-vision-tank-winners.md",
       "title": "Edge AI and Vision Alliance Announces 2022 Vision Tank Winners",
-      "excerpt": "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the ...",
+      "excerpt": "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit.",
       "sourceUrl": null,
-      "webUrl": "https://www.localsyr.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/",
-      "originalUrl": "https://www.localsyr.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/",
+      "webUrl": "https://kdvr.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/",
+      "originalUrl": "https://kdvr.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png",
-          "width": 814,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T20:57:00-07:00",
+      "publishedDateTime": "2022-05-18T22:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "LocalSYR",
-        "domain": "localsyr.com",
+        "name": "FOX31 Denver",
+        "domain": "kdvr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1312,94 +1409,6 @@
         "Computer Vision",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-face-scanner-clearview-agrees-to-limits-in-court-settlement.md",
-      "title": "Face-scanner Clearview agrees to limits in court settlement",
-      "excerpt": "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people’s photos without their consent. The company in a legal filing Monday agreed to permanently stop ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/face-scanner-clearview-agrees-limits-court-settlement-rcna28059",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/face-scanner-clearview-agrees-limits-court-settlement-rcna28059",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-05/220510-clearview-mb-0828-4ee5e0.jpg",
-          "width": 4226,
-          "height": 2817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna28059",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna28059",
-      "publishedDateTime": "2022-05-10T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology.md",
-      "title": "Clearwater AI agrees to restrict sales of facial recognition technology",
-      "excerpt": "In a landmark settlement, facial recognition company Clearwater AI, known for downloading billions of user photos from social media and other websites to build a face-search database for use by law enforcement, has agreed to cease sales to private ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
-      "originalUrl": "https://www.zdnet.com/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 323,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
-      "publishedDateTime": "2022-05-09T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales",
-        "Facebook AI"
       ]
     }
   ],

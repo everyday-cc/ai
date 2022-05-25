@@ -24,6 +24,22 @@ images:
     height: 338
     isCached: true
 
-secured: "FQw5lXzxNKfiotC7PAr+7D8K68JL3FXis8Hh5MxY01nwXGSsdsWu+FGjACNvtZhzZTbMQfOjdhErk5XZ9C4HPeHtrIOUcKvMqOWzSX4xmNoPFHjkfjBQ/rzbCZfM3+mezONC/Evx33mJbvbGtTDBqWnZMKmngF/mhj/VJ5M7ry89CzaH/C2wSfNUPZ9461t9EmKny7sRI3kXsuab9tozqreZ29XzS2pYfCJ1ZF2B+tBlaErUNB21vdZgSYVHz9DAqgVMtxlD/3UaoAEiy0LZGlTInK+yBriN12WGoKUop7EjWhNG2BOvKjZFtL7u8AeJA6A+Z3mmK5nEcI8oADXw4Ynd6euhwGM5vPEhjH1/7FY=;uPMLodyefI6OOsdwJRGKbA=="
+related:
+  - title: "AI can diagnose osteoporosis on hip X-ray"
+    excerpt: "OAK BROOK, Ill. – A new method that combines imaging information with artificial intelligence (AI) can diagnose osteoporosis from hip X-rays, according to a study in Radiology: Artificial Intelligence. Researchers said the approach could help speed ..."
+    publishedDateTime: 2022-05-25T17:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/953906"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/44d25842-d6aa-4c49-94b2-2f3aafe96660/Rendition/low-res/Content/Public"
+        width: 700
+        height: 350
+        isCached: true
+
+secured: "Zi7OzKE2NvhrGSe35o2ZMKJqyp1+B+GbYNottfqLJNYkFLwemt6CnNmsc+Izl6Q3HYK26dL205RW7VFVbgwrAXFeZuE6iSnTYN3MYHIr78hoyQ8w8F6v+VFmgbTPpSDF+wMOJE2ItPvJ2CZEdoWAtF5JwTyErZzHJE7iYCfDEExkjMBOJz3N9G/XNa+l33IQ2Rk3ww/mDeFuOEglZ01Ur4qqVsgco2oSXz41SoZ4AOIEBOlAp8RnP6Jm5DflvdxnIiF2/qqW6iLnFB1R+r2uexN6macJq5pooZiEJuYiqvigMcMliZ2gR6edjZJUF3TrfEFfM4aSg7Ph2nhGMVV+2kciHEs65fP11E9KrH3f4m5gd76XBlNqc814UuC1qG2EFAeyTb5TS+x1+vXbP8l5y81XJZAJW9XFe2gr9cVn/6rlR16Hzw7nQyX427HHzhcG8BeBP2wehAUmPbdbbfio+KoB/F4nG3/DeIK1cZCELXDpIrCqJO66JJ2mqrt/CbOAe2A2t/LQyxzOz8JzzXUaMg==;/OU/U9NfB5zTi1uiSxzkHQ=="
 ---
 

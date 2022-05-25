@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Leibniz Supercomputing Centre Accelerates AI Innovation in Bavaria with Next-Generation AI System from Cerebras Systems and Hewlett Packard Enterprise"
-excerpt: "Leibniz Supercomputing Centre’s new advanced AI system will enable researchers to accelerate initiatives around machine learning, deep learning and neural networks and to process large amounts of data more quickly for advanced scientific research using the combined power of the Cerebras CS-2 system and the HPE Superdome Flex serverGARCHING,"
-publishedDateTime: 2022-05-25T15:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=669755"
-webUrl: "https://us.acrofan.com/detail.php?number=669755"
+excerpt: "Cerebras Systems, and Hewlett Packard Enterprise (HPE), today announced the joint development and delivery of a new system featuring next-generation AI technologies to significantly accelerate scientific research and innovation in AI for Bavaria."
+publishedDateTime: 2022-05-25T12:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-leibniz-supercomputing-centre-accelerates-ai-innovation-bavaria-with-/2022/05/25/9609081.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-leibniz-supercomputing-centre-accelerates-ai-innovation-bavaria-with-/2022/05/25/9609081.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
-
-secured: "p4Y6bsqef48xgf7gJC/XRxaQnrvUhomE8aDVJh2VKCdyjU3ELhC5N5lfRAKcCuazGszgvmuMV3VkhzvrZNOYO1dB/NAcRdDeqKcd+sCmmk9k7Gf2k+3C4X41r9791mKJFH0pDEOlUYB3UPTUQCF03zzkuzhXnawomNCQ9GMws5KN/41IJYzjiUo94grA5EdtUy5lHCdt+QcQXdTyVcWMLzDyKhU91ScK+iHIEHiG4FUTBaGxG+p48hKJJEFUqKH6wEHSSOqgjHxSlO0JiKrcJIJW0pqTfWvI955h5GXhGOK5+HHm4I/Afws1GQ8desh/2dajxqofZ13ErkJaXb1tnrM+KqOhXvZS+JsF5uBb1hQ=;FOTspoY4ovUtiSGqikzcQw=="
+secured: "gn2VsywkjFFOntVxWOBiDiROKT2tnbr9j28N17zah7u7MRpF6vRZ0B/0tvPUByshnGMSgDyuuY/3wROUUohj95Cs6KMAV2bvOPptPiL3gKTutC9vN1Tuu2u3l59ebarybb4jkRGmUkkUeX1c0aMjhKkKs31KZU9WqoBiH01IjWd780doKarRhNrl5EFJQts/pF1N7kYr/3x4yx73An0ykwHyhG8eR+WvFmxBVLNNLlsK5Lt1tda2Che/QthJUTYSga1++VhCfLrjitQolLgYQx34TKy96d7DAGaduhyl+eBsQcjCF/D4r0/alhieiUwhxRyoCMZ/4gJJQOdGIJ4crziPTMVMgCwgFg4fyVNU7KM=;l9v73bwJIlgaNI8WC5HfTQ=="
 ---
 

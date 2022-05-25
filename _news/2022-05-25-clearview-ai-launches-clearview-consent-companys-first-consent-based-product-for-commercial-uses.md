@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI Says It's Bringing Facial Recognition to Schools"
+    excerpt: "The company revealed it's working with a U.S. company selling visitor management systems to schools within hours of a horrific school shooting."
+    publishedDateTime: 2022-05-25T16:15:00Z
+    webUrl: "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528"
+    ampWebUrl: "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 104
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2eafd02da366f481fe2fb052260905ba.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Clearview AI's facial recognition tool coming to apps, schools"
     excerpt: "Clearview AI is expanding sales of its facial recognition software to companies from mainly serving the police, it told Reuters, inviting scrutiny on how the startup capitalizes on billions of photos it scrapes from social media profiles."
     publishedDateTime: 2022-05-24T14:00:00Z
@@ -413,6 +429,6 @@ related:
       domain: biometricupdate.com
     quality: 9
 
-secured: "DUxXzJxFWhK247NheUNgzwCzJKvW7u3B2YW6Qp1DV1IUX0ovk8h9e/E3InGNEown4tkQV4B3YXaOL2cJNTYeegNzVFTGycET6LWwaMMo6uKBnilCnjxTLjrMeQmgmmEjsfWc2T3xGh3U8a2ugfPKMSKyNohVd0BpXCewpVh5e8Tj811cuzlY083YY4Thgyy0sESUzO38oIHVEyFEfeulCAQkju1SYYMeDdjXw14r+U90De4D5tuIbzBWuYc4xWCSbTNzOCwroYIZxcXza1BGsCf+U3Wv/Ec/ZogHdrNGpYoP1ZAPa2DnDAEVnIKmNrEWyIYPG/4v+yQDiWQCGoBj1iRpZvcx2DyFC/LHfnsqf10=;iRC2pw4gKJO18VtcpMtLfA=="
+secured: "k2/vljqOsNJPgLWQMZJPLJB9JS72y5yj/s5eXoYUdWxiLqiGdjIIXqdkKYPd2dhB7PUGWRM3TOSSRiug0J7EHitikUFG6FNLkuqvMsaBM3UiLiwuEPBprmByvV0tOtTQZNTyYQvajxtjdGoo8tTe6MuC5xJJ0xLf8PmiWEsXFKmvvSgp+ajrNLTAgfjB1UqIdknN5zgHUwmrMue9G1XpDOOomCvuAnMdfTBEfLvFRag4v09rEI0df8fgbxt01qf7G8+sYFinJX/g2c+7fz/z0DjfoIX5VuknwAeAFS1jonydSiSUJy/0RGmOoUglMsQsBFed9iXF4aGBPL2rTnMlaFQ8XEBncI9I/kwJrk6P9xwPM+Hih884F0YwExrJjsnp3DfoIGmfzw+7z5vjh/x1/pouV5R6XM/+TXX7M/XhVyRkIM4wDfxLh1uY9dnARvoDrpIGodfU0faC+3xjkf58jeeurw6sMAx1RqJYhBvtqpCi7QPfwSEIF012PVTriosu1BHs2lrNuJvyhKx95IJlHw==;kRRj9zDoNwaWvWnl+sddmw=="
 ---
 

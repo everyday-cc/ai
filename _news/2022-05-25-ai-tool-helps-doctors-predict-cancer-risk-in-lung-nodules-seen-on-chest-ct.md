@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220524/AI-tool-helps-doctors
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220524/AI-tool-helps-doctors-predict-cancer-risk-in-lung-nodules-seen-on-chest-CT.aspx"
 type: article
 quality: 55
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: News Medical
@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) to Predict Cancer Risk of Lung Nodules"
+    excerpt: "A newly developed artificial intelligence (AI) tool predicts the cancer risk in lung nodules seen on CT. Chest CT is such a sensitive test."
+    publishedDateTime: 2022-05-25T17:43:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 72
+    images:
+      - url: "https://www.medindia.net/health-images/ai-spots-lung-cancer-than-radiologists.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "C3.ai (AI) Scheduled to Post Quarterly Earnings on Wednesday"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) will issue its quarterly earnings data after the market closes on Wednesday, June 1st. Analysts expect the company to announce earnings of ($0.58) per share for the quarter. C3.ai has set its FY 2022 guidance at EPS.Parties ..."
+    publishedDateTime: 2022-05-25T05:29:00Z
+    webUrl: "https://www.etfdailynews.com/2022/05/25/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/05/25/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/05/25/c3-ai-ai-scheduled-to-post-quarterly-earnings-on-wednesday/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 57
+    images:
+      - url: "https://www.marketbeat.com/scripts/EarningsChart.ashx?Prefix=NYSE&Symbol=AI"
+        width: 650
+        height: 325
+        isCached: true
   - title: "AI can predict cancer risk of lung nodules"
     excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study."
     publishedDateTime: 2022-05-25T13:46:00Z
@@ -48,20 +80,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ba1dff09-90aa-4f2b-bb4d-aa7eb7223b71/Rendition/low-res/Content/Public"
         width: 700
         height: 347
-        isCached: true
-  - title: "AI tool can better predict sudden heart deaths, study finds"
-    excerpt: "A new artificial intelligence technology was found to predict sudden deaths from heart disease more accurately than standard tools, a recent multistate study led by Johns Hopkins researchers found. The approach, a \"deep learning\" technology that ..."
-    publishedDateTime: 2022-05-25T01:55:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/ai-tool-can-better-predict-sudden-heart-deaths-study-finds.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
         isCached: true
   - title: "Researchers use AI to predict cancer risk of lung nodules"
     excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study published in the journal Radiology."

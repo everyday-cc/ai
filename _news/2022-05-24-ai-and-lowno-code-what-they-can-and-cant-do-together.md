@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AI and low/no code: What they can and can’t do together"
-excerpt: "Low-code and no-code are intended to make it simpler to create new applications and services, so much so that even nonprogrammers can create the tools they need to complete their own tasks. If this technology can be combined with AI to help guide development efforts,"
-publishedDateTime: 2022-05-24T06:35:00Z
-originalUrl: "https://venturebeat.com/2022/05/23/__trashed-21/"
-webUrl: "https://venturebeat.com/2022/05/23/__trashed-21/"
-ampWebUrl: "https://venturebeat.com/2022/05/23/__trashed-21/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/__trashed-21/amp/"
+excerpt: "Venture capital is already starting to flow in this direction. A startup called Sway AI recently launched a drag-and-drop platform that uses open-source AI models to enable low-code and no-code ..."
+publishedDateTime: 2022-05-24T14:00:00Z
+originalUrl: "https://venturebeat.com/2022/05/23/ai-and-low-no-code-what-they-can-and-cant-do-together/"
+webUrl: "https://venturebeat.com/2022/05/23/ai-and-low-no-code-what-they-can-and-cant-do-together/"
+ampWebUrl: "https://venturebeat.com/2022/05/23/ai-and-low-no-code-what-they-can-and-cant-do-together/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/ai-and-low-no-code-what-they-can-and-cant-do-together/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 566
     isCached: true
 
-secured: "FwcYNri2oqj7PsxSqkspX3sRkpGLqruWtE25dfpwzoRZRofEweUu9ND8ZnD8o6gOQ96kZEmiPeL7Y3AiGYC+/oiTBW7hodM2DGFTXykJUNrPyZGma131RV/ZF99FQ/z3r43NR1dNefbD1OrdDElrP5YgeTd9RV9SEoNb8rIpXp2a6QgHcyyInOJJNEYYwechq6SiUokMV6mBLTUGGQq845di1Txdi5+k7W2yyqj/p4EKI6CY4QbSvlDWX6/mthZrh1Kaa6SkBvd2Mck99pFd3ioZqBkA21siKuoaJbKRwRJDipKGlg0xc7FJECGvcoHnayM1Q1UxOvTqcUzHS5oNcC3dXREu/OuvYf8htDT5QMo8zXhWRhj0SHv2CrmqsSvzRNj/fVzPRmPdSSY1pO+uhkSUwi0PmrSDWpZrCn0hqOlerK08cN6RauhE1lD7FHyuy0NUtWnoqDkieXGQy5JF5aJpfTQ6yX4787/gjzTlnzweZZV2qw3UjSHPmS8kCfDXPi0HYc9b5nV80qpv+rK0ug==;v3qnp0DvYP763AMYOR8Qow=="
+secured: "wBdr/UxScM+VsvapCvbkNO083UotoZBAqe3URmrrSKI3boNRSoL7GszcQ6mS6FPk4vXJ7rxXDG8hfnkPAbgLkEmIgyTARFn1sxbx3LZDHcZb6CeXqirLuV0kme1A8VFIUulRhsFR9rizODsKjEhtAQf03RlFY0X3I23XNksn5WwGeLsFawTgSy/R8kNiUhFjxNWe82dJSHlqxqSEGwnRtIIPofZbTGoWJ1Cwjxn04426w0ks7EwFs7qZGBXd4uUgIbgKssz8/HGN6TDxzz1DnZkCUuEvIkh4zHP+I7NLoU8hS9eVbomCHg/0uivF6yNZ7xXGve8x0iIUsmEg0LurN5pvGmOycNYBxTZTumot3PU=;kfix/QjvnIR55LbAnZ0ByA=="
 ---
 

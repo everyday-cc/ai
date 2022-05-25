@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI Says It's Bringing Facial Recognition to Schools"
+    excerpt: "The company revealed it's working with a U.S. company selling visitor management systems to schools within hours of a horrific school shooting."
+    publishedDateTime: 2022-05-25T16:15:00Z
+    webUrl: "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528"
+    ampWebUrl: "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 104
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2eafd02da366f481fe2fb052260905ba.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Clearview AI's facial recognition tool coming to apps, schools"
     excerpt: "Clearview AI is expanding sales of its facial recognition software to companies from mainly serving the police, it told Reuters, inviting scrutiny on how the startup capitalizes on billions of photos it scrapes from social media profiles."
     publishedDateTime: 2022-05-24T14:00:00Z

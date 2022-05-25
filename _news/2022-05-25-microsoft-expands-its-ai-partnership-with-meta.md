@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/microsoft-expands-its-ai-partnership-with
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/"
 type: article
-quality: 106
+quality: 108
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Facebook AI
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/2de2b1ed6198eabf6d34c116d16c495cfd2c5a8f/2022/05/25/bd51eb15-1abb-4761-b527-6d312c91ef59/aimodelsbuild2022.jpg?width=1200&fit=bounds&auto=webp"
@@ -261,6 +262,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
+    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
+    publishedDateTime: 2022-05-24T20:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 61
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The biggest Azure announcements from Microsoft Build 2022"
     excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
     publishedDateTime: 2022-05-24T20:05:00Z
@@ -303,6 +318,20 @@ related:
         width: 499
         height: 375
         isCached: true
+  - title: "Microsoft dips even as Meta Platforms picks Azure to be strategic cloud provider"
+    excerpt: "Microsoft (MSFT) shares dipped on Wednesday even as the company signed a deal with Meta Platforms (FB) for its Azure unit to be a strategic cloud provider for Meta.As part of the"
+    publishedDateTime: 2022-05-25T17:16:00Z
+    webUrl: "https://seekingalpha.com/news/3842745-microsoft-dips-even-as-meta-platforms-picks-azure-to-be-strategic-cloud-provider"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 49
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/471179856/image_471179856.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Team SWIFT Responders from Singapore wins APAC Microsoft AI for Accessibility Hackathon"
     excerpt: "Teams from Singapore, Thailand, and Philippines are winners of the Microsoft AI for Accessibility (AI4A) Hackathon in APAC. In its third year, the AI4A Hackathon features teams who are deeply"
     publishedDateTime: 2022-05-24T05:45:00Z
@@ -317,15 +346,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
-    publishedDateTime: 2022-05-24T22:02:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z

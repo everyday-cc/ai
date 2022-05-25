@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-ed
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-13-2-through-2028-120-report-pages"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Robotics Prosthetic market is expected to grow at a CAGR of 8.2% – An exclusive market research report from Lucintel"
-    excerpt: "\"Trends and Forecast for the Global Global Robotics Prosthetic Market\"Trends, opportunities and forecast in robotics prosthetic market to 2024 by"
-    publishedDateTime: 2022-05-20T23:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/robotics-prosthetic-market-is-expected-to-grow-at-a-cagr-of-8-2-an-exclusive-market-research-report-from-lucintel"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://www.abnewswire.com/uploads/1653025445.png"
-        width: 480
-        height: 404
-        isCached: true
 
 secured: "suuHjqoQUs2ZgB4MahCE4XEK5QdeMaSkwQQuxdmuirRHZ5KevDMIjYtd7pidQAJwFNJgK08vFXctxmohn1kGvFnFJB5KfnAy5I/TOZG6RF2owHFVyTEyIjjzTA0qUhmhIDLNFRczqKlLXCPZoBfm188mJKGCK4oDzOrdOIAdh2WQ3gbYQf8pVvxRv1N/vVDfHytZZmJVJYmDYUiV2Dpw0voV44uCVxHF5CGJZgQvfoQuhicWCr/KtTr9Ut5UtR2lsLjd4qml0tILb/OzA1yVmhM/pu+fZtmB4jkWnnciMqNEIKTLIf1A0OdOLFEjmMlC29oXpIO5clNx32igoL3LvbVuw+O7KuY1WPAcMVEgoec=;C8Z2byOQupuk0iFID4apiA=="
 ---

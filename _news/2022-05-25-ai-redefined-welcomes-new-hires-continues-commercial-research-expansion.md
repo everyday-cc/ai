@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Computer scientists suggest research integrity could be at risk due to AI generated imagery"
+    excerpt: "A small team of researchers at Xiamen University has expressed alarm at the ease with which bad actors can now generate fake AI imagery for use in research projects. They have published an opinion piece outlining their concerns in the journal Patterns."
+    publishedDateTime: 2022-05-25T15:40:00Z
+    webUrl: "https://techxplore.com/news/2022-05-scientists-due-ai-imagery.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-scientists-due-ai-imagery.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-scientists-due-ai-imagery.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 47
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/computer-scientists-su.jpg"
+        width: 2880
+        height: 1922
+        isCached: true
 
 secured: "DBvnJNFzk+A/2jWu5e5LbqezD3k10p/ZwRZTC/P9NSRGuauZUR7Py+7gwJKzIop/fAVGDdIVzWX8eDzdfX682HdV8ZBnHCUMk3nYFgAgiDrGWHeOL8MkkqwB/PDcknzDB3YFweghd1FUKZUx97fQLZrDeG5FujQcutX5oIV2zX+Wn5nU2a7knaZcRqjVNlwdQ/IiPJWUifszhqFVVf/njgvmNCqxjYh8O5sG+2BQVUaLbLXIuAwPSEeZsHcckCUgfmpy/dH4Sx68QNmQcFPgEVyL7rfnw1hh1MhVdAP5L3kkW+Kb+jOXRUwH2uO4oVS+wqRZgwFVpmZsFtGrzJzMs8lZiMOgRuXeROH4YBFY0TA=;XM+vJaBP98KPJONYFN83eQ=="
 ---

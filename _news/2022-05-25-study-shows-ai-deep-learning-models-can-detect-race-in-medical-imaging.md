@@ -3,18 +3,18 @@ category: news
 title: "Study shows AI deep learning models can detect race in medical imaging"
 excerpt: "Most of us have experienced some form of medical imaging, whether it was at an eye appointment or after a broken bone. These images might contain more information than meets the eye. Things artificial intelligence can detect."
 publishedDateTime: 2022-05-24T21:57:00Z
-originalUrl: "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-webUrl: "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-ampWebUrl: "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
-cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+originalUrl: "https://www.kivitv.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+webUrl: "https://www.kivitv.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+ampWebUrl: "https://www.kivitv.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+cdnAmpWebUrl: "https://www-kivitv-com.cdn.ampproject.org/c/s/www.kivitv.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: KSTU
-  domain: fox13now.com
+  name: KIVI Boise
+  domain: kivitv.com
 
 topics:
   - Machine Learning
@@ -44,6 +44,6 @@ related:
         height: 400
         isCached: true
 
-secured: "15vB7UVG1V9XWOlJVOlVwX9nkWxesV88ViosSQvqVFiX9msc1VskS4NcpMA18oXa5//dpdnUsKfawIfOZo6vo37bEZQSLfMtUKjTMZ0gu1LKZgVxbUaG3kUghpjMscP6vkjMQyDTu+NIvkrCQdoXvxWX1acjfh4ew0nPUFS8tu5lBQiDAn2fmGNO5xXYXEjaE1K0J+unkCpCIODwdWhDQFGoBMOFcIcShLybyAQGE0dcCIPcT4QGprWYGZNJwP72fO1TlIRUxyfMqwzBbQWKvETYkXNJ/zV2hTWlxWQwbfVQheK+NtOwU1fMZkKlCW7txKfdOfHeBZxlbPawCMdJp/HWraGRTN6bAlidPZJUbpY=;rhGfd+s2J2VWmodV3JUo1Q=="
+secured: "nikgUxWe6pV2D0nY3qH6Cc2465kmOhvH3heLwQ1eKjNp9OJihqTJ0y7AcA/+bETHiEPexOCL4POwoKctk3IS/6zB9CgNUCV+6QVBABtAVq9SaUiFkRJpw1tDPLz3wEBlbPqfDj1iPp2HqPDmLFYIH7sJe3UvnBjMsetCiqciTzLsElUTV03UW4mp3DwF/NtJN0isqD8PRf4EbE2bwHzJWbUiR1GH7wWhqzv6gGGCqbZthLaPMfvnKBbiEfeqpjVB7SbJcyhBrkv9rrP2KclG0BtA8pabTHiDqxdwgk13FiL9DFAPx8Q3i16paNU+O16qlMdQ6LdE04xmZ3qyK/P2ZEZlWWwMks3Tm5hKpR2z/pY=;2/j0+PjMCRb0qs2vEq5/ug=="
 ---
 

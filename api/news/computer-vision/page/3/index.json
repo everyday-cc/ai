@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-27-computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030.md",
+      "title": "Computer Vision Market Trends, Size, Industry Analysis, Top key players, Growth, Opportunities & Forecast to 2030",
+      "excerpt": "Report Ocean published the latest research report on the computer vision market. In order to comprehend a market holistically, a variety of factors must be evaluated, including demographics, business cycles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030-2022-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030-2022-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-computer-system-scrutinizes-video-footage-to-analyze-animal-behavior.md",
+      "title": "Computer system scrutinizes video footage to analyze animal behavior",
+      "excerpt": "Ordinarily, when studying the behavior of animals, scientists have to watch many hours of video footage of the creatures going about their daily lives. That may soon no longer be necessary, however, thanks to a new critter-watching computer system.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/",
+      "originalUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/255cb2c/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff8%2F09%2F6583f3c14d67a0279df513621626%2Fdepositphotos-1169283-l.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/animal-behavior-machine-learning-computer-system/?amp=true",
+      "publishedDateTime": "2022-04-25T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-computer-vision-in-healthcare-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis.md",
       "title": "Computer Vision in Healthcare Market Research Report 2022 – Industry Environment, Supply Side and Demand Side Analysis",
       "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
@@ -1264,83 +1359,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-cogniac-deploys-ai-based-machine-vision-at-melcos-city-of-dreams-manila-integrated-resort.md",
-      "title": "Cogniac Deploys AI-Based Machine Vision At Melco's City of Dreams Manila Integrated Resort",
-      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, today announced its partnership with Melco Resorts & Entertainment Limited (“Melco”),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-computer-vision-development-market-swot-analysis-face-sensetime-yitu.md",
-      "title": "Computer Vision Development Market SWOT Analysis – Face++, SenseTime, YITU",
-      "excerpt": "Apr 12, 2022 (Heraldkeepers) -- New Jersey, N.J., April 11, 2022 – The Computer Vision Development Market research report provides all the information related to the industry. It gives the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

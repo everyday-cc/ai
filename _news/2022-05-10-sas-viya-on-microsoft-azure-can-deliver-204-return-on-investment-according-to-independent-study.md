@@ -1,26 +1,30 @@
 ---
 category: news
 title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-excerpt: "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics. \""
-publishedDateTime: 2022-05-10T14:47:00Z
-originalUrl: "https://www.victoriaadvocate.com/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study/article_4b756953-9b33-5296-9946-05c12fd260b3.html"
-webUrl: "https://www.victoriaadvocate.com/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study/article_4b756953-9b33-5296-9946-05c12fd260b3.html"
+excerpt: "Forrester Total Economic Impact™ study highlights faster time to market, improved decisioning and cost savings brought by SAS and Microsoft"
+publishedDateTime: 2022-05-10T16:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
+webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/1e/c1ec80b9-4edf-57bb-9aab-d34d4138eff8/627a77204981d.image.jpg?crop=900%2C473%2C0%2C100&resize=900%2C473&order=crop%2Cresize"
-    width: 900
-    height: 473
+  - url: "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg"
+    width: 400
+    height: 299
     isCached: true
 
-secured: "JIrODKZx/wul3lyeHojABE1/fUUDv8mEDYgWEbf5EnwhnYnW8nzbb+SLXQ05/S0+O+nttsdwGt9Bh6pUA8VTiFR6ryJZO491WV4nQxzJ7cGGojI1s03PGnBgCelSv1Pt7pzBXeaKlzMB26mlNr15sSy3CpkE5I006KrV+vntZvJAtE7c81yregA4Nm7HHSTHUsLFXZMQNjYhFA8NAZyzCjvzPmUolvwMbU5DiAymElCrq6VXajgTJGeOK6jhiH1x1334NDhG1Uo6YCrwqUEgtSWPPWnAUt5XieKfYBaCb/qTHamgMW55uzaDvM5LvhYkK2pnswr2epnTCadPq5gQMTW68P9nIRbaZkanvFnqCL4=;1jqSL+uCvmqUtwysjKSE+w=="
+secured: "O7CMGasrKlUWVl+SpW6UdiHdVKhkk1yPS+n8n5PvZfmFbGux+7sd9nA8OUqdDoeA9mDKXfquoYLC5LWZkWvOLgEFAFZQMn9l2ezERXQOZK1wnL4Pk2vnqGpjv+rU/MXCV8kcqoHGtv3uBb90LkoJhejvHQ8AQ4geZ9/O8I5hew/ZEyktRtGRRhjYtFba0LKkxSNrf53lN0GjeFVDgXda0JhfrHz/zYKiBO+sQsWlWBFQK4NnUm5WjgedTgYMWPblOe7MEEm6f7Q6pXOdGi84k4cnuqfCM1qepbGAhDHmPegcKrJyOKu69gUru5Q9ifDDB8A1m8kvKGhR3inQv4904NnCiCn0nAXtFCr2SgzW8qY=;EYpp4OohIDJhMRYtCFl0Dw=="
 ---
 

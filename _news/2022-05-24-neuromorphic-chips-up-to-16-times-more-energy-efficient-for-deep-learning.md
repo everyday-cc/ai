@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_16/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: theregister
@@ -36,6 +36,20 @@ related:
       name: acm.org
       domain: acm.org
     quality: 35
+  - title: "Neuromorphic HW Fabric That Supports A Recently Proposed Class of Stochastic Neural Network"
+    excerpt: "New research paper titled “Neural sampling machine with stochastic synapse allows brain-like learning and inference” from University of Notre Dame and Department of Cognitive Sciences, University of California Irvine."
+    publishedDateTime: 2022-05-25T17:02:00Z
+    webUrl: "https://semiengineering.com/neuromorphic-hw-fabric-that-supports-a-recently-proposed-class-of-stochastic-neural-network/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 29
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/2019/05/iStock-509646667-brainchip.jpg"
+        width: 663
+        height: 527
+        isCached: true
 
 secured: "ePXUnGcFMXtp+ck+WNXZAI86o6Y10lCRcn8dR6Jm9m0/8vfbdE4AYQkRIeu49KdWhVhNPe29IzHQ93Vqf0MgmEkCFMuAPFAn5NxAbogoYC5BHDk20MaHjyu1nOnBe8LdbrnE3C3dYKNQygNRsGq+nuTa0EyPAwqGnnyh7eQ9cZtACYYR4mQidNcpB0+KGPg7K7/hxtH8Fk+LfgGQ3qDhnv+ZMMnobb+krMwjgf2dpYob1L5h7SiOhnAx8ub4DIxdTI+bi5OV/M+psUWHNyK3FhhAJl60ZYenp89MIDxC+z6PaBp+StuS7mMqFRilMMWUyMHwEZhBdpFF6eMA6LT/ZODi/N3A7XKyiinL9yuU/HQ=;pqk9lMsf9qX5dNPKZ4vImQ=="
 ---

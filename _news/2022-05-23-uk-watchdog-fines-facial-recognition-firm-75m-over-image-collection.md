@@ -3,8 +3,8 @@ category: news
 title: "UK watchdog fines facial recognition firm £7.5m over image collection"
 excerpt: "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database"
 publishedDateTime: 2022-05-23T10:24:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?via=indexdotco"
+originalUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
+webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 type: article
@@ -108,6 +108,6 @@ related:
       domain: upi.com
     quality: 19
 
-secured: "THWs4q16wBR+N/sgcDYm+dw0LPo8p/j00al7xWCYDLpFx7IzpA66JqJ3wSeOiRVNbgymM7LMsO+xMPjf3iXrgM4s/ItPeR5bUNLdk3xFhXCxzuTiVXXdzsJ1QqcVCZLGLb/eIexYkJkr/u5J24vJ9oKttWUan58NBmVe7aynlGE7dwP4MIJgCm28Kbs/oX1jCJysXsSzgS5qPBEP8wcpTP55iCDFB6yciJ/4zdV64fOAyazK5WEexy/X9jWBqjX7SMvLMM9eVtKl68kaQr8n8eRR7q2b+myuCF47CLoCvmiMibjpZewCD+XkhpuJwMlVLtwI4X6KJSjj8B3QfQzUNPWM9Mmh2yi5LI15wY/Wq6c=;hWli200U6SL5xfbLjqLxKw=="
+secured: "Ji5O9S0tAc9Jdyvf5gjU8JOffC/7Yza3eUPu5FNU+uAr2nw3Pn8xKlE1lYRYjWsepSY1vJ4WtksowpkG4wqSoX1gZMAo2xEIPgMpKb+9M+1OGEg2SDdscrGsitZa/1ujrZFpcI2nt4+qFQo/vzMVXNIi5i5E/0xlS4c37sTs8DMS08ppsDvIl3paqrYGBEbUMCQC0NdDzClyUwh7jBdVVHdcG1/PmQV2rF9C8+Er8MuB7bEulBNmavL2KOKAwhLrFkyRM/wmMPQyQCD1Io2tvsZ9xHCt4WsFo6UuOqKi4A6G6jbZLRifWJB4N6YKztbKWCwgUI4pGKGj3pm8Umlffs5Xktra/7Ogi8qaceFdB/Q=;Ut6ZwmuTxcMDEsTU7OQIhA=="
 ---
 

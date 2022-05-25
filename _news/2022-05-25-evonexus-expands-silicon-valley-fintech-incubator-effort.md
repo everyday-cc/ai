@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "EvoNexus, Royal Bank of Canada and Franklin Templeton Collaborate On Silicon Valley FinTech Incubator in Call for New Early-Stage Start-Up Applicants"
-    excerpt: "EvoNexus, California's premier non-profit technology incubator in San Diego and Silicon Valley, is seeking new applicants, following a successful two years since the launch of the Silicon Valley FinTech Incubator in San Mateo,"
-    publishedDateTime: 2022-05-25T14:45:00Z
-    webUrl: "https://www.koin.com/business/press-releases/cision/20220525DC66913/evonexus-royal-bank-of-canada-and-franklin-templeton-collaborate-on-silicon-valley-fintech-incubator-in-call-for-new-early-stage-start-up-applicants/"
+    excerpt: "EvoNexus, California's premier non-profit technology incubator in San Diego and Silicon Valley, is seeking new applicants, following a successful two years since"
+    publishedDateTime: 2022-05-25T11:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/evonexus-royal-bank-of-canada-and-franklin-templeton-collaborate-on-silicon-valley-fintech-incubator-in/article_ed1217bf-cefa-5113-8d88-6331a1bf666d.html"
     type: article
     provider:
-      name: KOIN 6
-      domain: koin.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
     images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-        width: 800
-        height: 340
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/08/008072d0-dfb5-5175-a0d3-0f22d9d87a28/606c70ae9f90d.image.jpg?crop=1450%2C761%2C625%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "+fMr3WwK7+J5/mTksbJmQwGOPZqjDJxCb74qvDrn9RFYmxqT0P+pmk4r4AUmaR0cCs80VIb4fe9pKlHYsgzpdNPtWy7F3p9YEP8Z/cnmvE0KPVKbSafnvLORImccZWwZjaDimP9ffFQ+ETJNbfYD+kRwmvoO7Gay0+k4g0mLjKzgU0AFLAkNA4LmJ4UCo+XatuxY9XyxR2Z6ZPblN4Hzj//GYjQFlXYGiMup2pgbqGZhwoszZnaZkxbGZBLWmzg5cqo9rQqal9AVB8JEaKMOf05+BisdLoDa9zex2mBRtrbONnLz96ZfCzlPW/kiLERhe/I9VUU4Ym13wZe8uxSBYLqI3FFM1KwRO76NicoxDPg=;s8GIHeZgAdButQVigmK8hw=="

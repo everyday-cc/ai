@@ -2,6 +2,83 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-13-cogniac-deploys-ai-based-machine-vision-at-melcos-city-of-dreams-manila-integrated-resort.md",
+      "title": "Cogniac Deploys AI-Based Machine Vision At Melco's City of Dreams Manila Integrated Resort",
+      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, today announced its partnership with Melco Resorts & Entertainment Limited (“Melco”),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-computer-vision-development-market-swot-analysis-face-sensetime-yitu.md",
+      "title": "Computer Vision Development Market SWOT Analysis – Face++, SenseTime, YITU",
+      "excerpt": "Apr 12, 2022 (Heraldkeepers) -- New Jersey, N.J., April 11, 2022 – The Computer Vision Development Market research report provides all the information related to the industry. It gives the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel.md",
       "title": "Computer vision startup Spyne raises $7 million in funding round led by Accel",
       "excerpt": "The company will invest the fresh capital in acquiring the right talent, bolstering global expansion, including the United States market, and setting up a state-of-the-art Computer Vision lab for deeper R&D in the space, it said. The brand also intends to ...",
@@ -1224,92 +1301,6 @@
       "provider": {
         "name": "Government Technology",
         "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-complex-questions-as-face-recognition-tech-joins-ukraine-invasion.md",
-      "title": "Complex questions as face recognition tech joins Ukraine invasion",
-      "excerpt": "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "originalUrl": "https://www.iol.co.za/technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/650x366/FILE-Ukraine-is-employing-face-recognition-technology-to-identify-invading-Russian-troops-killed-on-its-soil-a-complex-and-unprecedented-avenue-for-software-already-seen-as-problematic-experts-said?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/0d4097e4-fe51-5f08-bb03-70af3e4ce0cc&operation=CROP&offset=0x29&resize=1920x1080",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "publishedDateTime": "2022-03-28T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-facial-scanning-coming-to-an-airport-near-you-raising-some-concerns.md",
-      "title": "Facial scanning coming to an airport near you, raising some concerns",
-      "excerpt": "It’s only a matter of time before New England air travelers join others across the country in experiencing a new airport screening method that seems ripped straight from the pages of Philip K.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/",
-      "originalUrl": "https://www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sentinelandenterprise.com/wp-content/uploads/2022/03/BHR-L-tsa1.jpg?w=1024&h=750",
-          "width": 1024,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/amp/",
-      "cdnAmpWebUrl": "https://www-sentinelandenterprise-com.cdn.ampproject.org/c/s/www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/amp/",
-      "publishedDateTime": "2022-03-27T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sentinel & Enterprise",
-        "domain": "sentinelandenterprise.com",
         "images": null,
         "publishers": null,
         "authors": null

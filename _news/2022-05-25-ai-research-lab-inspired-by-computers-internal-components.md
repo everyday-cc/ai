@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/architecture/plp-shanghai-artificial-intelligen
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/?amp=true"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Computer scientists suggest research integrity could be at risk due to AI generated imagery"
+    excerpt: "A small team of researchers at Xiamen University has expressed alarm at the ease with which bad actors can now generate fake AI imagery for use in research projects. They have published an opinion piece outlining their concerns in the journal Patterns."
+    publishedDateTime: 2022-05-25T15:40:00Z
+    webUrl: "https://techxplore.com/news/2022-05-scientists-due-ai-imagery.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-scientists-due-ai-imagery.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-scientists-due-ai-imagery.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 47
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/computer-scientists-su.jpg"
+        width: 2880
+        height: 1922
+        isCached: true
   - title: "AI Redefined Welcomes New Hires, Continues Commercial & Research Expansion"
     excerpt: "The arrival of Jordy Berson and Matthew E. Taylor signals the company’s continued growth.MONTREAL--(BUSINESS WIRE)--AI Redefined (AIR), a company focused on building software products for human-AI collaboration,"
     publishedDateTime: 2022-05-25T15:18:00Z

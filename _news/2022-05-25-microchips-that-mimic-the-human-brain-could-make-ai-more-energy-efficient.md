@@ -36,6 +36,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Neuromorphic HW Fabric That Supports A Recently Proposed Class of Stochastic Neural Network"
+    excerpt: "New research paper titled “Neural sampling machine with stochastic synapse allows brain-like learning and inference” from University of Notre Dame and Department of Cognitive Sciences, University of California Irvine."
+    publishedDateTime: 2022-05-25T17:02:00Z
+    webUrl: "https://semiengineering.com/neuromorphic-hw-fabric-that-supports-a-recently-proposed-class-of-stochastic-neural-network/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 29
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/2019/05/iStock-509646667-brainchip.jpg"
+        width: 663
+        height: 527
+        isCached: true
 
 secured: "F1ZXOXvwAGarP2mRBanjWzYghC/dgQ/R8tz34Fdm+qWAypwcWiyjNjZYf1JAvc7w6VE5gu7XOXOuRoO2GnFsh8qQdW9eo0MwtKnn0ukiFjr6YMN4arts/hZu1PKcH3hVbekSkR6cfMG3oWVb/haTgXqOd8jkVMnN265UvIPKg+j/9+YdqyDUwGuJ+W/2r9bdxW9E6jfPpdC/1VzOSgnLNKPZhK9VU9cTez0ja+dSZiPeBjrguhzRU2RfgZaquIX+AjcEyAQBS2Gm7A9SCXfYIYJwdXqGkTQHhiOrZP/YXz2z3rzBafPFMh8goPkhAHSoU5GmXgMGG4Q8/9fjRFJqFyuThrIwD6R8W6cBZVyCtXQ3KZSU1AQZ1ziKSyyHQ5O7iyK3jsz5bLZFp/xeAT/ICk4nfXqnp9s+xYRots0lnssFKHsLnSXFS7Zwb3qhefAfMhdHlrHmgpcndZWpxfVozo2DLLBVamu3hx09CtWhgvrB/zPR4mANDTI/Atz3i01ZIRB03yI9JA/xG4fl6f3HmA==;58iaJ+Xse56uoiZTqbEVvw=="
 ---

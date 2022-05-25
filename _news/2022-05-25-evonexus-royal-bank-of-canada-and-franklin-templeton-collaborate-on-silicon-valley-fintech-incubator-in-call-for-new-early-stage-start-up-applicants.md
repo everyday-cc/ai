@@ -1,27 +1,27 @@
 ---
 category: news
 title: "EvoNexus, Royal Bank of Canada and Franklin Templeton Collaborate On Silicon Valley FinTech Incubator in Call for New Early-Stage Start-Up Applicants"
-excerpt: "EvoNexus, California's premier non-profit technology incubator in San Diego and Silicon Valley, is seeking new applicants, following a successful two years since the launch of the Silicon Valley FinTech Incubator in San Mateo,"
-publishedDateTime: 2022-05-25T14:45:00Z
-originalUrl: "https://www.koin.com/business/press-releases/cision/20220525DC66913/evonexus-royal-bank-of-canada-and-franklin-templeton-collaborate-on-silicon-valley-fintech-incubator-in-call-for-new-early-stage-start-up-applicants/"
-webUrl: "https://www.koin.com/business/press-releases/cision/20220525DC66913/evonexus-royal-bank-of-canada-and-franklin-templeton-collaborate-on-silicon-valley-fintech-incubator-in-call-for-new-early-stage-start-up-applicants/"
+excerpt: "EvoNexus, California's premier non-profit technology incubator in San Diego and Silicon Valley, is seeking new applicants, following a successful two years since"
+publishedDateTime: 2022-05-25T11:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/evonexus-royal-bank-of-canada-and-franklin-templeton-collaborate-on-silicon-valley-fintech-incubator-in/article_ed1217bf-cefa-5113-8d88-6331a1bf666d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/evonexus-royal-bank-of-canada-and-franklin-templeton-collaborate-on-silicon-valley-fintech-incubator-in/article_ed1217bf-cefa-5113-8d88-6331a1bf666d.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: KOIN 6
-  domain: koin.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-    width: 800
-    height: 340
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/08/008072d0-dfb5-5175-a0d3-0f22d9d87a28/606c70ae9f90d.image.jpg?crop=1450%2C761%2C625%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: socaltech.com
     quality: 4
 
-secured: "4z2QHXAZxTEx7dW9/JarE98qXdtJ0jAIQSHqEo0LOL18zkm8pZndiWPJNCs8n9qIYd8kd1Q3mCOGmOW1bqANHUteaX1fvs8XWRDqyy6iXFfJKHD2zIIZd41vDgnWIMc2lZS7Fu679rgBWPIboA+GL2bzyeKTNFwlmNTYyf5wpCM+E1wkrZd4B3ZH3IujxlJADFENQ/+gR946hXN0gIcqU7BNzLHmWHp7OxZCi/zsyjhnUye1XrLC6VEu0260bAQg9n3NLH+jtDxU/K8ZQ5LwIPcTIXWS6LrYxaz4otvBG9+kjKpEBNkfiTtRhz+uO6lxfWqxt3eKZNDdRwHEw3Biug+xdUR7W6WpRraJkMqmka8=;ck0SR4EIzkNHZfMxYdoHvw=="
+secured: "rGuBqUjG4bL7xB5LVjqFFyP2WfZmNJUh4Cu1AtafJMp8s8GTeTQjJOB1Fg7/yiHj0I7rwOpZblGf6Yy/+wAafGvbo8hNmWGT5sncssRUwBBfaQlaDT23aHsIBUAyqOsMdiWCQgczdVLy962lvcjnGiLUO3fUNfy4vDIw3QDx00hHZXy4BGLu0ks5LjTudNg5ctsfb0xt6AqAlCkdcwgVgmfCrbPGDG6h0KjyWDDOUHiil6qCAEaPiDuFjjUF+9GvWru8vTAEjcZ3DKk68AON6feVYZcbQQDdeFZImCjS7gZ/mi6HLvtKrVSz0xXixl3Q3ZvCUXgB2E89Auqx605XutJ1xIHKjOqj0BXnaV+qrHI=;/fTFfghop0igpl0ngcKb5A=="
 ---
 
