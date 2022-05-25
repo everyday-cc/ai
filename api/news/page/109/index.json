@@ -2,6 +2,49 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2022-02-17-ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits.md",
+      "title": "IBM launches 2-year global pro bono environmental program for non-profits",
+      "excerpt": "IBM (NYSE: IBM ) today announced the launch of the IBM Sustainability Accelerator, a global pro bono social impact program that applies IBM technologies, such as hybrid cloud and artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/climate-technology-business-environment-artificial-intelligence-93dcc65ff55f0658c9854433b1d48d10",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/climate-technology-business-environment-artificial-intelligence-93dcc65ff55f0658c9854433b1d48d10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T05:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-artificial-intelligence-in-weather-makes-the-case-for-human-input.md",
       "title": "Artificial Intelligence In Weather Makes The Case For Human Input",
       "excerpt": "Due to the multivariate and chaotic nature of weather, for more than half of a century meteorologists have dealt with terabytes of data and modeling variables to produce an accurate forecast.",
@@ -1109,58 +1152,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-the-african-software-developers-using-ai-to-fight-inequality.md",
-      "title": "The African software developers using AI to fight inequality",
-      "excerpt": "AI used to tackle poverty, translate languages African data seen vital to fighting racial bias More funding, wider digital access needed, say developers DURBAN, Feb 16 (Thomson Reuters Foundation) - Determined to use her skills to fight inequality ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/",
-      "originalUrl": "https://www.reuters.com/legal/government/african-software-developers-using-ai-fight-inequality-2022-02-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/aZ4xNu-ln4i_A-3vva2EJWWRkho=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BLI26I5ZD5KFNFT24JWJVI75BY.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

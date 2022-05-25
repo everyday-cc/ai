@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-04-22-aws-announces-general-availability-of-aws-iot-twinmaker.md",
-      "title": "AWS Announces General Availability of AWS IoT TwinMaker",
-      "excerpt": "AWS IoT TwinMaker makes it easy for developers ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-twinmaker-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-twinmaker-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-21-specify-and-extract-information-from-documents-using-the-new-queries-feature-in-amazon-textract.md",
       "title": "Specify and extract information from documents using the new Queries feature in Amazon Textract",
       "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. Amazon Textract now offers the flexibility to specify the data you need to extract from documents using the new Queries feature within the Analyze Document API. You don’t",
@@ -1372,6 +1320,59 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028.md",
+      "title": "Artificial Intelligence in the Education Sector Market Growth, Share, Size, Forecast by 2028",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 06, 2022 (Market Insight Reports) -- According to the business intelligence report titled \"Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028-2022-04-06?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028-2022-04-06?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
       ]
     }
   ],

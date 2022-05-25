@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Remarkable science: Exploring our AI and robot-supported future"
-excerpt: "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,"
-publishedDateTime: 2022-05-24T20:03:00Z
-originalUrl: "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future"
-webUrl: "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future"
-ampWebUrl: "https://amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future"
-cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future"
+excerpt: "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of human and animal interaction with artificial intelligence and robots. This is the first installment of our series Remarkable Science, featuring conversations with ..."
+publishedDateTime: 2022-05-25T03:39:00Z
+originalUrl: "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future"
+webUrl: "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: WLRN
+  domain: wlrn.org
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/04/vertexlogoSOP_R_black-400x264.png"
-    width: 400
-    height: 264
+  - url: "https://npr.brightspotcdn.com/dims4/default/db60692/2147483647/strip/true/crop/2830x1486+0+290/resize/1200x630!/quality/90/?url=https%3A%2F%2Fd279m997dpfwgl.cloudfront.net%2Fwp%2F2022%2F05%2FGettyImages-1231248517.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "mLJ3ovHP7q9YkkevQP3egaLIRtkrd9kpe2MeErE7UwjQIuP9pOz9VeFusqwc8mKcs06ZDkJdXMmFa2OL5Ert2lel90wOinGc+zsNZnV6zzF0cKqvqPQIWvpa27SCHWo7cP4VzwpTxfw4a6qHbdCBeNv7qlSgqqkPDgHQpTo8ugmbxzXe4QM2MyqVJ+71Vx/GBbFkZhE1H7C6EoUKw8JFv3i/XVn2T1VloqmWtSC7sa7f5GjpF4dFRuppgsVcM+zmMjNPZkTrysn8tmCSYf6Q4JJPdrC2jrRCAnOTTo3/WsTDA/b+JMuApOC3hCycUHINfKXUVSW064EiJC3lCblybnmTaql/CN782QpJe+ArmGD750A6Kuc+8Mf18WbPDAn4VtqlT+1VkyJ1toOpH0JXQM4GcrdXhDzyYmYnn3ZDNUz2MFLOYncsPkVqTJi5ihwN/czH7LGeolm06fkU3MP4w8LG7oujHzCCnuxCfuI7ZfEamhKD1y4rHEF74/9mboY9NRQAvyjOV6ILPMwpmMMWTQ==;6LDm0MlpMjrw/TWQ/+oMnw=="
+secured: "Wp3I1n12jkxlLkzHYHVqSSkGts7ld51ofqq0g9eRE/zPOjg09QwgiqWBu7C0VJ6ARtzwU+XgBmlkedMXW4Kfk72Z3d84sXUT7sV0mNHhyRsqf3FhAjVaIm5AgRFPuQ+97ua4ia5tFiFKvDA7/zPLvzel/nNjInJ9+Bflg7GenwpWkFghr4iHjuAxXaHmzfWrqSXqMqO/u2fgyLiVk/9nwRBSaQstBPYq6hdUaWfK/PuXoJ4I4ysm2HIBErihqLQgFidRfad+Kr5B4vCo1aer7x3iSEN0eHbE+rn7f7Ty7GiHub6L0s9Kt8z8lz6HngEUFi0lmvHDIa0bYHi9Az10Tqzki2d6tU8/ZfCUr3KhoFo=;8gurOqYMEvC6qUtYT/ViXw=="
 ---
 

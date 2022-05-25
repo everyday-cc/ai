@@ -2,9 +2,9 @@
 category: news
 title: "Clearview AI wants its facial-recognition tech in banks, schools, etc"
 excerpt: "I get knocked down but I get up again, Italy, Canada, UK, ACLU, Facebook, Google, YouTube, Twitter... are never gonna keep me down"
-publishedDateTime: 2022-05-25T01:08:00Z
-originalUrl: "https://www.theregister.com/2022/05/25/clearview_banks_schools/"
-webUrl: "https://www.theregister.com/2022/05/25/clearview_banks_schools/"
+publishedDateTime: 2022-05-25T01:10:00Z
+originalUrl: "https://www.theregister.com/2022/05/25/clearview_banks_schools/?td=amp-keepreading-btm"
+webUrl: "https://www.theregister.com/2022/05/25/clearview_banks_schools/?td=amp-keepreading-btm"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/clearview_banks_schools/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/clearview_banks_schools/"
 type: article
@@ -375,6 +375,6 @@ related:
       domain: biometricupdate.com
     quality: 9
 
-secured: "X9Iwbyef1LQ7zaxFRA4ilzUHRUlJTrDrLkx1PIrZEQdUvsuuzdRB7dsDzKQkkbieW/TzdbtnatsCDEWAe/hIFk2mRUcVav65Yg4cJXuI7gzrDx62D7heDgd54ANXM7bgmj/m8t9R/K0NyZlN7QP19PyDKAYpmxBiL2tD9hmIaWXWS7g04CYV/GZbEz4ODgXKrERqgay30S8mI3ShsY2yVGybwG69ku9GXbhsheI1xwpfB/SuHL5FzbzwFDB42DAq6+JKBe7Ctpmb2inq+28FRPmYneXagVuP4DOcRu6H5gv5xQ76pEDtxE4gBu3DxKkDAaiiuh5hesta7vA1XOSNMCTBUuT+90U79trmCgbaVyY=;cJmJVCwFdfEzEj9yy3h4eA=="
+secured: "wVLBMh4WpjwjPIjXMZma1EfhA12iD9nTWb1O92ZvxC8iUyHbpw2gSrx7+yyuEXf/8/z5z+tGIVfamn4sUfrrcj0fRcjTDv1IBI2IrAg0ReGaGXhQH8Dy/3vPjbBHfLIepwQfHe/Ve609BxUVZiYjzGA67nVTyESH6PUjgkd0ezwTTUUZj1mLovZFe7jynll3INOlnyyGeRTcz+ONfgmsqWbyszZ/6hm+8Ib2vvG2MyJwQToy3dT6SO4Yluy9T8B8mzINjCAitdijyoNNEo8fRbYJWsMdP8w8BHDUwtshcwehQUlFlcGmJUn22r2bbavJlPCCb41QiPqbCoT1FvrhB1Z4+BoTgPLbGoKeJB70r34=;+2eyfnX+h7p8APdo67ab4Q=="
 ---
 

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
-publishedDateTime: 2022-05-24T20:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-beekeeperaitrade-collaborates-with-microsoft-accelerate-ai-powered-innovation-/2022/05/24/9608588.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-beekeeperaitrade-collaborates-with-microsoft-accelerate-ai-powered-innovation-/2022/05/24/9608588.htm"
+excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
+publishedDateTime: 2022-05-24T22:02:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Microsoft AI
@@ -332,6 +332,6 @@ related:
         height: 350
         isCached: true
 
-secured: "88T44L4yXY2H1vMnPjcPuoF2NXnb96HFIWId+g3Ez0bAd8KCrU+AyNUIPTAF5QaStO2aRZ+kVYMtuayPj7hX6cBfC4a+sLcyP0meoCBkQMyyNyFzCd4nCWzB1lZUucUz89Au1ZIFM8CUFVg5U2rEOhZ9q2c/qV+WnbaqGL4zEeqoG6z13fcl75UuWfSYNbO1Bkq0xeQqaS86NJv+tQw86bq7t7nyH/62DF/RHQbFjy8i/PG7klbo6u/NBbyxGbUKMplrJqym5yawcijg9xeFLkgJwDl8b2vM2E35sCQKfNYflooFyBY6B/EOcThySDE5fZhIq/kh6pH03yfMtwgjs94tDgcAIT5eE6JN0kGNMSM=;+8eLwZA6/NhZvjzG/MbtPw=="
+secured: "aOy3fz7dsfVlBgTR3k+I0g1EjI1AtFkDZ4xH0BY13fgvmshVrj6JWCWYnvvtAREbh7+sObAmZlgIdz0hS6WY3BEZJcwOVIrgK5uQvVPO5vKOWGknp+1LOkuH84qZFFwaHBc3YUC8B2g3eHSJulx1an4LmkRjNUCR5fwlApXH1UdaFz+OwgZSu7chuOdPh3x82CzUN95JuPOlqc2ESS/TANgvdYdsq5TZ2X5hfAWffom09OqxSUfMJy2qMSem9+ziWZ82x3gLVKy78iRw5a0Xk7Z1O1Uey/8gjtPgeL6aZxVd/oj/ekiSocGn9qEnF35kcJPIDT8e8ljc3qJ7mUp+JXasxCSIOoD3+5z9zoWTf3o=;BgmLJt1n8Mn30Xv++/g3Jg=="
 ---
 

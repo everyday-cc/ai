@@ -2,6 +2,49 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-04-04-best-robot-mops-in-2022.md",
+      "title": "Best robot mops in 2022",
+      "excerpt": "Instead of an app, the W400 is controlled via remote control ... However, it’s worth bearing in mind that the majority of robot mops will only work with water, with the exception of iRobot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/best-picks/best-robot-mops",
+      "originalUrl": "https://www.tomsguide.com/best-picks/best-robot-mops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/noMRtpNidEfZTENqsVYkdC-1200-80.jpg",
+          "width": 998,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-the-intel-arc-gpu-lineup-may-be-a-serious-competitor.md",
       "title": "The Intel Arc GPU Lineup May Be A Serious Competitor",
       "excerpt": "The Intel Arc GPU series is coming out soon to laptops and desktops. What do they have to offer compared to the current competition?",
@@ -1082,51 +1125,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-amazons-deepracer-league-drives-chicago-students-into-world-of-ai-machine-learning.md",
-      "title": "Amazon's DeepRacer League drives Chicago students into world of AI, machine learning",
-      "excerpt": "Students on Chicago's South Side got a deep dive into the world of artificial intelligence and machine learning on Saturday. \"We're using machines and learning to code a car then racing it,\" said student Trevaughn Scott.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "originalUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/11703938_40222-maher-amazon-deepracer-students-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "publishedDateTime": "2022-04-02T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AWS AI"
       ]
     }
   ],

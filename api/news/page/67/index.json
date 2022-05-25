@@ -2,6 +2,58 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-03-25-this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way.md",
+      "title": "This Cheetah Robot Taught Itself How to Sprint in a Weird Way",
+      "excerpt": "Researchers got the machine to run nearly 13 feet per second. It ain't graceful, but this powerful technique is preparing robots for the chaos of the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/",
+      "originalUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/623cd76e57d4f7aedf2dbf66/master/pass/minicheetah_stand2-science.jpg",
+          "width": 1348,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/amp",
+      "publishedDateTime": "2022-03-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-six-ai-trends-to-watch-in-2022.md",
       "title": "Six AI Trends To Watch In 2022",
       "excerpt": "Artificial intelligence isn't a new technology, but its impact is only starting to be felt, as businesses and individuals begin to understand the possibilities that AI can offer. AI is set to transform business like never before,",
@@ -1095,59 +1147,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-top-ai-execs-including-richard-socher-launch-aix-ventures.md",
-      "title": "Top AI execs, including Richard Socher, launch AIX Ventures",
-      "excerpt": "Richard Socher, former Salesforce chief scientist, is among the founding partners of AIX Ventures, a new $50 million AI venture fund.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/24/top-ai-execs-including-richard-socher-launch-aix-ventures/",
-      "originalUrl": "https://venturebeat.com/2022/03/24/top-ai-execs-including-richard-socher-launch-aix-ventures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

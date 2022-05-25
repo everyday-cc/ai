@@ -285,13 +285,13 @@ related:
         height: 720
         isCached: true
   - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
-    publishedDateTime: 2022-05-24T20:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-beekeeperaitrade-collaborates-with-microsoft-accelerate-ai-powered-innovation-/2022/05/24/9608588.htm"
+    excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
+    publishedDateTime: 2022-05-24T22:02:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."

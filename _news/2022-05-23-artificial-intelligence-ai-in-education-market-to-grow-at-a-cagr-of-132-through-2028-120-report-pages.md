@@ -7,8 +7,8 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-ed
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-13-2-through-2028-120-report-pages"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Digital Journal
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Natural Language Processing (NLP) Market Size Is Expected To Grow At A CAGR Of 11.1% During Assessment Period 2022-2028 | 102 Report Pages"
-    excerpt: "Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
-    publishedDateTime: 2022-05-20T10:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-natural-language-processing-nlp-market-size-is-expected-to-grow-at-a-cagr-of-11-1-during-assessment-period-2022-2028-102-report-pages"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/CCC-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Robotics Prosthetic market is expected to grow at a CAGR of 8.2% – An exclusive market research report from Lucintel"
     excerpt: "\"Trends and Forecast for the Global Global Robotics Prosthetic Market\"Trends, opportunities and forecast in robotics prosthetic market to 2024 by"
     publishedDateTime: 2022-05-20T23:50:00Z

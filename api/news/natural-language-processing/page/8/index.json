@@ -2,6 +2,95 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-26-indian-student-builds-an-ai-model-to-translate-sign-language-into-english-in-real-time.md",
+      "title": "Indian Student Builds an AI Model to Translate Sign Language into English in Real-Time",
+      "excerpt": "Priyanjali Gupta, an engineering student in India, has developed an AI-based model to translate sign languages to English in real-time.",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/",
+      "originalUrl": "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2022/02/Indian-student-AI-sign-language-translator-feat..jpg?w=750&quality=75",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/",
+      "publishedDateTime": "2022-02-25T13:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-26-hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event.md",
+      "title": "Hummingbirds AI to present facial recognition security system at SXSW Pitch event",
+      "excerpt": "Hummingbirds AI was selected as an alternate in the Artificial Intelligence, Robotics & Voice category of SXSW Pitch to display its GuacamoleID application.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event",
+      "originalUrl": "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg",
+          "width": 2048,
+          "height": 1366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-25T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AI in Security",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-02-26-ai-weekly-metas-flashy-ai-powered-vision-of-the-metaverse-brushes-over-concerns.md",
       "title": "AI Weekly: Meta’s flashy, AI-powered vision of the metaverse brushes over concerns",
       "excerpt": "Meta (formerly Facebook) pitched a flashy vision of the 'metaverse' this week. But the company faces challenges in delivering on its vision.",
@@ -1392,93 +1481,6 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-texas-sues-facebook-parent-meta-over-facial-recognition-data.md",
-      "title": "Texas sues Facebook parent Meta over facial recognition data",
-      "excerpt": "The Texas Attorney General is suing Facebook's parent company, saying it collected biometric data on Texans for commercial purposes without their informed consent. Attorney General Ken Paxton filed the lawsuit Monday in a state district court. The suit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/facebook-meta-lawsuit-facial-recognition-texas/",
-      "originalUrl": "https://www.cbsnews.com/news/facebook-meta-lawsuit-facial-recognition-texas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/25/e7b38470-1eab-4e44-8a0e-66c594fe2b55/thumbnail/1200x630/d3d5261ec692183c3298778bd9a5a8ec/zuck-gettyimages-1201476983.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/",
-      "publishedDateTime": "2022-02-15T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-natural-language-processing-nlp-market-2022-present-scenario-and-growth-prospects-2026-marketmuse-insight-engines-netbase-solutions.md",
-      "title": "Natural Language Processing (NLP) Market 2022 | Present Scenario and Growth Prospects 2026 | MarketMuse, Insight Engines, NetBase Solutions, IBM, 3M",
-      "excerpt": "Global Natural Language Processing (NLP) Market Development Strategy Pre and Post COVID-19, by Corporate Strategy Analysis, Landscape, Type, Application, and Leading 20 Countries , Covid 19 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2022-present-scenario-and-growth-prospects-2026-marketmuse-insight-engines-netbase-solutions-ibm-3m",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2022-present-scenario-and-growth-prospects-2026-marketmuse-insight-engines-netbase-solutions-ibm-3m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T00:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

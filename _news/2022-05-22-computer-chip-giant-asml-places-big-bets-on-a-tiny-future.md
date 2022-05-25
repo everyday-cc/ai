@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/co
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/computer-chip-giant-asml-places-big-bets-on-a-tiny-future-7930376/lite/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer chip giant ASML places big bets on a tiny future"
-    excerpt: "ASML , a semiconductor industry and stock market giant, has to think smaller. Or maybe bigger. It is building machines the size of doubl"
-    publishedDateTime: 2022-05-20T09:04:00Z
-    webUrl: "https://www.reuters.com/technology/computer-chip-giant-asml-places-big-bets-tiny-future-2022-05-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/SZxbVKNg5ab42dF-SY1sIlrnkEg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P75Z23REDRJF7KMT5BBLFLHLAQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Computer Chip Giant ASML Places Big Bets on a Tiny Future"
     excerpt: "It is building machines the size of double-decker buses, weighing over 200 tonnes, in its quest to produce beams of focused light that create the microscopic circuitry on computer chips used in everything from phones and laptops to cars and AI."
     publishedDateTime: 2022-05-20T19:11:00Z

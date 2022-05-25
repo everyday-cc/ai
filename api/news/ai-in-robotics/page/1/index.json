@@ -45,49 +45,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-25-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
-      "title": "Remarkable science: Exploring our AI and robot-supported future",
-      "excerpt": "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "originalUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/04/vertexlogoSOP_R_black-400x264.png",
-          "width": 400,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "publishedDateTime": "2022-05-24T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-24-artificial-intelligence-ai-a-potential-without-limits.md",
       "title": "Artificial Intelligence (AI), a potential without limits",
       "excerpt": "The combination of Artificial Intelligence and the Internet of Things (IoT) will allow companies to have “very powerful” solutions, say the experts. ICEMD Innovation Series was created with the aim of being an annual reference document that helps ...",
@@ -1351,6 +1308,58 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-biotech-ceo-were-only-growing-stronger-with-ai-robotics.md",
+      "title": "Biotech CEO: We're Only Growing Stronger With AI, Robotics",
+      "excerpt": "We're dependent on data, we're dependent on better artificial intelligence that enables us to use models ... Again, we use AI, we use robotics, we use data science, and we use it all at the edge of where the technology is today as a way to enable our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/",
+      "originalUrl": "https://www.fool.com/investing/2022/05/12/biotech-ceo-were-only-growing-stronger-with-ai-rob/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/679121/robotics-lab.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

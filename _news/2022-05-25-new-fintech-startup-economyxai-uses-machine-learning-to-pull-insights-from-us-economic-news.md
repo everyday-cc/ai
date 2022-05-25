@@ -15,8 +15,8 @@ provider:
   domain: digitaljournal.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png"
@@ -24,6 +24,6 @@ images:
     height: 942
     isCached: true
 
-secured: "NZutj/sC7Xzmdk0FitFDPHL2zTmOwseKmK6wFeEbb2ok7/LHeho6rc1yir5AH52LIDEniR8mkp6mXLV2Z+IoDUxhA4owLEsqp1H/+myHGMdVVrZrD8h15HTZeQ9qnEhCXKKkQluDmypaA4eOuWHFtOOrq9UeA68h4zbcmOeT8qgUKtmF5KHxziEYFmEIhTr0Ggkg9A2TpbgJ19z/IkbADoVi2gkwOCqvqRUExn2Q7NgRnm/2Dur/44evNmUUQuEt1FpHF28ygQvFK0pkOe0XLUs9Qo0d1DeqheNQ1c+GFvkrDG7vyJV0e5Ey2P2VEtECPGBxHjShtEYMXhAMFNTRfYxKMlNyNGpgCmhkGB6lFg4=;/6rP6jRWT2eXljsrPxYU/g=="
+secured: "JTYL0+RO0YjOf+42jJQOs9Z1H98LFm8SInmXEUKaZDa0mp7rhi/jlfGupEbZoXJ0IyGlBpN6FUTOZsRqvxbnkttzLaG+ynC3O7rsgOn+chKd5nyVYI0fyt7REDxr8qmrT8yRm/r9de+0z4tY+W+7L/b9bYHjS/i5oApMSMOE+ZDGo4f1tEZkNAWFzAM1IypFBepGrggZd/yhmHSHqHw+T/A87IqfrLdrpsMQy2u4y/hmrxy6k6TBOEzXOZKTjBf8LPo40L+yUArS+XrBuzCAwN6d8ZIGnbpf5YpwfgCY8ckWwyyyspstgQaipJb1QbEJGQZN9fuJiDuscRyafjGSXMT9nzBAIclwBDkth2rLfKo=;Hmsa32xw3eEAkGG+rw5ftQ=="
 ---
 

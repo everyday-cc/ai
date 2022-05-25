@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Healthcare Natural Language Processing (NLP) Market Size Is Expected To Grow At A CAGR Of 11.1% During Assessment Period 2022-2028 | 102 Report Pages"
-    excerpt: "Market Provides : The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
-    publishedDateTime: 2022-05-20T10:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-natural-language-processing-nlp-market-size-is-expected-to-grow-at-a-cagr-of-11-1-during-assessment-period-2022-2028-102-report-pages"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/CCC-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "RQTgzQPntFh9pw8NAT8xqwMkM8XYsEAeRoeRdFtCwBPjanPQvHoiapP984xBzYl/SOkMVswWFGSGH1gyG0HeHSeRgxv7jUOSZBacDqaygyl7DDcD4OvHRQJ4a0nfnQbllpa4KCU9nv17if7wWFoQ0EByGnBmK+GJGv3s6FLF8LcXNSmSc2ZU1JOZ7sh7qzrgVsWqqQgjpnD7bA/n6jPXs2BKX0eZX7mXheWmZEf+l0A02QxV51vo+OnxBRbhAYmPV5M54siXIEXx+k8+7JS7VclP4xaO3YyiS22xtQ6n3gz6/HQJZeqVkP7wgXOh+Zz9HFfv9liTCBKFGXUr/GUKb4l9Nb19dg8eSNjOrpPZOgrJFxdzA6/iEoJCfPxsczlDNQYvBs0/bUX2keYbgung3hnEGjZgXuCIpb4XriEqjvkMive/qfY9fiuSmEGPsoqpvRM8YuhA19tQ2oDJYQQDWzjfkIt7Eo97LdD7cxOvRUhRDiMh2H0wdHjzvCsdGUFK6wB6pB2wN44svlV9KR9++Q==;ORYyPcg9orrqNMnaCXGm3w=="
 ---

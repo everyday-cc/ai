@@ -878,50 +878,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-23-artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-132-through-2028-120-report-pages.md",
-      "title": "Artificial Intelligence (AI) in Education Market to Grow At A CAGR Of 13.2% Through 2028 | 120 Report Pages",
-      "excerpt": "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-13-2-through-2028-120-report-pages",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-13-2-through-2028-120-report-pages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2022-05-23-blue-turtle-takes-wrapper-off-ai-driven-soc-offering-at-itweb-security-summit.md",
       "title": "Blue Turtle takes wrapper off AI-driven SOC offering at ITWeb Security Summit",
       "excerpt": "Blue Turtle will showcase its vendors and its AI-driven approach to the SOC from 31 May to 2 June at the Sandton Convention Centre.",
@@ -1162,6 +1118,48 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-22-heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it.md",
+      "title": "Here’s How You Can Help America Win the AI Tech Race – and Make Money Doing It",
+      "excerpt": "Buck Jordan explains how investors like you can help America get ahead in the race to master artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/",
+      "originalUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/10/lightbulb-tech-ideas-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/",
+      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/",
+      "publishedDateTime": "2022-05-22T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

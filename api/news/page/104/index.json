@@ -2,6 +2,57 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-02-22-ydata-launches-data-centric-ai-community-for-data-scientists.md",
+      "title": "YData launches data-centric AI community for data scientists",
+      "excerpt": "Register here. Chief data officers, data scientists and data analysts of all stripes may be interested in a new AI support and information community that’s debuting today. That special ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/",
+      "originalUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1327569482-e1645483723963.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/",
+      "publishedDateTime": "2022-02-22T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-neosapience-gets-215m-to-use-ai-powered-synthetic-avatars-for-creators.md",
       "title": "Neosapience gets $21.5M to use AI-powered synthetic avatars for creators",
       "excerpt": "Korean startup called Neosapience has developed a ... It will not only allow content with less effort but also execute on our vision of AI-powered virtual actors being accessible to everyone ...",
@@ -1126,58 +1177,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service.md",
-      "title": "Microsoft goes public with details on its 'Singularity' AI infrastructure service",
-      "excerpt": "She is the author of 2.'s Azure and Research teams are working together to build a new AI infrastructure service, codenamed \"Singularity.\" The Singularity team is working to build what describes in some of its job postings for the group,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5dcf3d674c0197c63f668fe41924cf7082da7b01/2022/02/21/9f3ec88d-87db-45bd-b79c-7a1b2522126a/singularityaiservicemicrosoft.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "publishedDateTime": "2022-02-21T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

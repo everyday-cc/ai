@@ -2,6 +2,58 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-04-15-tetrate-announces-its-tools-will-now-run-natively-on-arm-chips.md",
+      "title": "Tetrate announces its tools will now run natively on Arm chips",
+      "excerpt": "Tetrate, which builds service mesh support software, announced that their products will now support Arm’s Neoverse platform. Both of its major tools, Envoy and Istio, now run natively on the Arm chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/",
+      "originalUrl": "https://venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/08/arm-chip.jpg?w=1200&strip=all",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/amp/",
+      "publishedDateTime": "2022-04-15T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-ai-can-be-creative-ethical-when-applied-humanly.md",
       "title": "AI can be creative, ethical when applied humanly",
       "excerpt": "Question of morality in AI use for crime Humans, too, cannot be removed from the equation where ethics are central to the AI discourse, such as in law enforcement. In making a decision, humans would consider the morals behind it, said David Hardoon ...",
@@ -1095,57 +1147,6 @@
         "AI in Marketing",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-top-100-fastest-growing-ai-teams-key-players-exclusive-insights.md",
-      "title": "Top 100 Fastest-Growing AI Teams: Key Players, Exclusive Insights",
-      "excerpt": "Who are the key players in AI? What are their backgrounds and industries? And what can companies do to join the ranks of Microsoft and Google? This article provides exclusive insights into the top 100 fastest-growing AI teams in the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6258162e5d6f160107015a7f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/amp/",
-      "publishedDateTime": "2022-04-14T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

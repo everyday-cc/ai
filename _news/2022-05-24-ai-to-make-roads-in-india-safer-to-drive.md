@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lack of strategy, skills biggest barriers for AI adoption in India"
-    excerpt: "Another greatest barrier to successful AI adoption is limited skills, expertise or knowledge (38 per cent) for organisations exploring or deploying AI in the country. \"As the adoption of AI grows ..."
-    publishedDateTime: 2022-05-20T10:54:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91687803,imgsize-53448,width-1200,height-628,overlay-etcio/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Alternate Credit Scoring Can Further Financial Inclusion In India. Read Here For Details"
     excerpt: "To empower the ‘credit invisible’ customers and bring them into the formal financial fold, the way financial institutions assess creditworthiness needs to undergo a sea change. Alternative credit scoring that uses smartphone data is the way forward toward greater financial inclusion."
     publishedDateTime: 2022-05-21T02:32:00Z
@@ -56,31 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Digital India BHASHINI: 73 Startups Attend Session To Shape Strategy For AI-Led Language Translation Platform"
-    excerpt: "MeitY on May 24 held a virtual brainstorming session to shape strategy for the country’s AI-led language translation platform, BHASHINI."
-    publishedDateTime: 2022-05-25T01:30:00Z
-    webUrl: "https://inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/"
-    ampWebUrl: "https://inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 40
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/05/BHASHINI-social.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "MeitY holds Brainstorming with Researchers & Startups to shape strategy for Digital India BHASHINI – India’s AI led language translation platform"
-    excerpt: "We see the role of Startups in the Innovation, Development as well as Consumption of Technology”, said Rajeev Chandrasekhar, Minister of State for Electronics and Information Technology and Skill Development & Entrepreneurship,"
-    publishedDateTime: 2022-05-24T09:23:00Z
-    webUrl: "https://orissadiary.com/meity-holds-brainstorming-with-researchers-startups-to-shape-strategy-for-digital-india-bhashini-indias-ai-led-language-translation-platform/"
-    type: article
-    provider:
-      name: Odisha Diary
-      domain: orissadiary.com
-    quality: 0
 
 secured: "yApnFQg55yJ0EAYxeWHT5SA7G763Jn4fmRJdhan6hfpWqRhQeLH746dJHS38SKJxr1u7PPA4H/xFnYvXphE1F5FvN/ETjayQiE/CwGmHItnqun7mjMaT8QU0Xp/V4hLQxL8VcLqVfo5GRmKJpbKdwNhezRDHwDPTuRvY6WPT+e6GtLCeafsLhL5ciibj65aUG2ijUdy/qgJVSDy7bfDhYO/dwbRnlrQC3r7xH8Nd2Dj7x6QyApIWKUJ+6Ad70+1RvOezN+mxsiag0GiacbMGf0AOX/9IFG5fFID1YZxbvhnnweZiA/rtcC5icDweGYg6S9g65n8w5BCoAiUJfMQN0PSFk6lC8I6B/uOrL4hFlOU=;2rMErvcHTlAX8JZtgQBlEQ=="
 ---

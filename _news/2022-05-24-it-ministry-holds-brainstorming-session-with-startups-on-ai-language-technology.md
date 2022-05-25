@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/it-ministry-holds-brainsto
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 84
+published: true
 
 provider:
   name: India Times
@@ -43,6 +43,31 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Digital India BHASHINI: 73 Startups Attend Session To Shape Strategy For AI-Led Language Translation Platform"
+    excerpt: "MeitY on May 24 held a virtual brainstorming session to shape strategy for the country’s AI-led language translation platform, BHASHINI."
+    publishedDateTime: 2022-05-25T01:30:00Z
+    webUrl: "https://inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/"
+    ampWebUrl: "https://inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/digital-india-bhashini-73-startups-attend-session-to-shape-strategy-for-ai-led-language-translation-platform/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 40
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/05/BHASHINI-social.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "MeitY holds Brainstorming with Researchers & Startups to shape strategy for Digital India BHASHINI – India’s AI led language translation platform"
+    excerpt: "We see the role of Startups in the Innovation, Development as well as Consumption of Technology”, said Rajeev Chandrasekhar, Minister of State for Electronics and Information Technology and Skill Development & Entrepreneurship,"
+    publishedDateTime: 2022-05-24T09:23:00Z
+    webUrl: "https://orissadiary.com/meity-holds-brainstorming-with-researchers-startups-to-shape-strategy-for-digital-india-bhashini-indias-ai-led-language-translation-platform/"
+    type: article
+    provider:
+      name: Odisha Diary
+      domain: orissadiary.com
+    quality: 0
 
 secured: "srQrtPu/rYST36Az8Y7U697dpXsKCNS5Y3LmtB5mWN9gVX4VkyUckjxqc/cLwT1DemgYuQcKIci0ygu3GVYm9VghH8xHYGVqazf8nevU7DNs0n7pTnExOdmj01mpvoVxprGDQi2w8ik/okKAYADlqtcMlflG6c0j2Im9ZNxIRFlFS9MMkfJsLlkPjvLGLxNV3WUm5D0JkaQPQ2sLzGid9C09NyJfpaLdEc8bgYh7ZyFfAuEjw/X4gXvDn89we8vU9QIMuHxC4ZCPa+GsUDYKN+QBxE47BiIxm+mAb52KMbIEiCcLQhqnyOH+x70y0p40Spq7aOiDJcvufolQ3s3x7pkcYxiDtdCP357l9/t1p2XYdlWkzqcMmLi6fXt86w5grWHZO2ZMhXlZRQCCJiImO6dqBy3cqDB7uolLyTbvBKBSkWJ66IG30L/3JygpPM4hKf93bPBJEfKYBaxh7Zp7xRyOOGELTwPbK9PHi9trrwx5zkU1U54yQ+p2Ysg87l63BtiXLSEtp7J6ZvHGF2/C/Q==;bFqKW7v27BMyH+dp7DeOVQ=="
 ---

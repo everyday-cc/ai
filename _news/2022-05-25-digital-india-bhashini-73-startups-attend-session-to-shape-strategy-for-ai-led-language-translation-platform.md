@@ -27,51 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Lack of strategy, skills biggest barriers for AI adoption in India"
-    excerpt: "Another greatest barrier to successful AI adoption is limited skills, expertise or knowledge (38 per cent) for organisations exploring or deploying AI in the country. \"As the adoption of AI grows ..."
-    publishedDateTime: 2022-05-20T10:54:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803"
+  - title: "IT ministry holds brainstorming session with startups on AI, language technology"
+    excerpt: "The meeting was chaired by Minister of State for Information Technology Rajeev Chandrasekhar. The new initiative, named Digital India BHASHINI or BHASHa INterface for India- is a part of the National Language Translation Mission."
+    publishedDateTime: 2022-05-24T14:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/articleshow/91770359.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
+      name: India Times
       domain: indiatimes.com
-    quality: 57
+    quality: 54
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91687803,imgsize-53448,width-1200,height-628,overlay-etcio/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india.jpg"
-        width: 1200
-        height: 628
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-79986,msid-91770378/eds-handout-photo-made-available-from-pib-on-thursday-feb-24-2022-new-d-.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Alternate Credit Scoring Can Further Financial Inclusion In India. Read Here For Details"
-    excerpt: "To empower the ‘credit invisible’ customers and bring them into the formal financial fold, the way financial institutions assess creditworthiness needs to undergo a sea change. Alternative credit scoring that uses smartphone data is the way forward toward greater financial inclusion."
-    publishedDateTime: 2022-05-21T02:32:00Z
-    webUrl: "https://www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707"
-    ampWebUrl: "https://www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707/amp"
+  - title: "MoS IT Rajeev Chandrasekhar collaborates with entities on India's AI language translation platform"
+    excerpt: "Rajeev Chandrasekhar, Minister of State for Electronics and IT, conducted a brainstorming session with startups, researchers, and others on Tuesday for developing the country’s artificial intelligence-enabled language translation platform Bhashini."
+    publishedDateTime: 2022-05-24T17:36:00Z
+    webUrl: "https://www.cnbctv18.com/technology/mos-it-rajeev-chandrasekhar-collaborates-with-entities-on-indias-ai-language-translation-platform-13601902.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/mos-it-rajeev-chandrasekhar-collaborates-with-entities-on-indias-ai-language-translation-platform-13601902.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/mos-it-rajeev-chandrasekhar-collaborates-with-entities-on-indias-ai-language-translation-platform-13601902.htm/amp"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 50
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 45
     images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1647829989.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI To Make Roads In India Safer To Drive"
-    excerpt: "Artificial Intelligence (AI) powered solutions, such as collision alert system, may soon make roads in India safer to drive. A unique AI approach that uses the predictive power of AI to identify risks on the road,"
-    publishedDateTime: 2022-05-24T11:58:00Z
-    webUrl: "https://menafn.com/1104265618/AI-To-Make-Roads-In-India-Safer-To-Drive"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/24/I_6679aimage_story.jpg"
-        width: 400
-        height: 220
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/09/artificial-intelligence-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
   - title: "MeitY holds Brainstorming with Researchers & Startups to shape strategy for Digital India BHASHINI – India’s AI led language translation platform"
     excerpt: "We see the role of Startups in the Innovation, Development as well as Consumption of Technology”, said Rajeev Chandrasekhar, Minister of State for Electronics and Information Technology and Skill Development & Entrepreneurship,"
@@ -83,6 +69,6 @@ related:
       domain: orissadiary.com
     quality: 0
 
-secured: "pc3szyN6cG96x6nzJDe5H4xzggsL+MyYnNuLB8rtgV8KLjA/hVI7pj2CW8xS8r8E73N58tCX6oBFEcwc8dw5kuLJXq6xg2/3B6oKJD/TxAbn86VOu3fIZmQiNQE8Ls4SttS3Hb3leqwB0BSYVki3oKa7CbRRI84SkWjlthYz6xpFGYGLu2VxqhZoAN1KcsbB6uWm8ncmQOk2yzM0Xr1ARcUbfaOx+0gPJvpcBECw8aCPxlMy3GBEyDDYqyHO8TBKcnC+A/PnesFT5DzRdiVxElKYgslogeyPuzLzPZfIbtXtjGRIzB1JMoeeF/bMblN4zLoHMEW+P7tqot/1sPQA1B5R+sQ5MRL4SSDGwiHcwHI=;uzTQtNsrX8znjATgxaC+eg=="
+secured: "OmJfZT+97sF2nK6XJxZnJUSXqo1lgSUjpQeYhLosA+Z07xVjYjVvv4Kraq7Vjgk88Zj/XI2MVmKi1HRgrKgngFSHqfnHWfQVk0tyH7SFYiwioQC6Svr0yXQCAT2CDN7hTFZPjp4w6G91rc3TCB6sTqLluMgng0/yOC4BKu1O9y/0GXJI2kccBpwkGaD23/Bf5e2LT27zNoGFb/gs7kOD2EVLJEG+jzF4qvlOLmPJPHx5jtYCGxEIKU4w3yrDzGUIgVFj+mMOImyCGcZghMko/3XWq0U4w5tnLMHKip3c7USddds0AcBPR/9oRoZMdd4dIhEloZrp0mO8d2TUbhE06tU3dlxsSKhvVqvZdWHCyEoZnKhT7pHgB1kE/inDtWYvgKVZgNmco09LvGj7tN+c1iosFILTTYwVAEsrHRh6wszqcDBCVO8O8Vd+UieJHVMHHAlaOb/aZOsejhWpxn80PZD26kREROEeIePkPfhbvEmTQdIAjTEtxjfCxIXYqmad0fLy09EB1dzcAZ89fXq8RQ==;kTPF3jHJrE7umspMGdnXvA=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-05-07-nvidia-burns-55-million-settling-with-sec-on-gpu-sales-to-crypto-miners.md",
+      "title": "Nvidia burns $5.5 million settling with SEC on GPU sales to crypto miners",
+      "excerpt": "We all had a bad time waiting out the graphics card shortage that took place from late 2020 up until recently, but it wasn’t the first time crypto mining was to blame for a lack of Nvidia and AMD GPUs. Back in 2017 and 2018 there was another similar ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
+      "originalUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/05/nvidia-crypto-money-sec-settlement-mining-gpu-graphics-cards-gaming-availability.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
+      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
+      "publishedDateTime": "2022-05-06T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pcinvasion.com",
+        "domain": "pcinvasion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-05-07-revealed-intels-plan-to-sell-software-simplifying-computer-vision-training.md",
       "title": "Revealed: Intel's plan to sell software simplifying computer vision training",
       "excerpt": "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register.",
@@ -1105,49 +1149,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-rapid-adaptation-of-deep-learning-teaches-drones-to-survive-any-weather.md",
-      "title": "Rapid adaptation of deep learning teaches drones to survive any weather",
-      "excerpt": "Right now, drones are either flown under controlled conditions, with no wind, or are operated by humans using remote controls. Drones have been taught to fly in formation in the o",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220505085644.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220505085644.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

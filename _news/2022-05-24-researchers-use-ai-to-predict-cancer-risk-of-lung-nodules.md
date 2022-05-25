@@ -40,6 +40,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI tool can better predict sudden heart deaths, study finds"
+    excerpt: "A new artificial intelligence technology was found to predict sudden deaths from heart disease more accurately than standard tools, a recent multistate study led by Johns Hopkins researchers found. The approach, a \"deep learning\" technology that ..."
+    publishedDateTime: 2022-05-25T01:55:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/ai-tool-can-better-predict-sudden-heart-deaths-study-finds.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
+        width: 460
+        height: 460
+        isCached: true
   - title: "Researchers use AI to predict cancer risk of lung nodules"
     excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study published in the journal Radiology."
     publishedDateTime: 2022-05-24T18:29:00Z
@@ -50,6 +64,6 @@ related:
       domain: medicalxpress.com
     quality: 17
 
-secured: "fPvTByK+5WeiOOp3yAQNPwLG+/9d4G2idfCryV+8OWJa0quDnXK4hOWlJerg7nhwofCSuTYHBG8emRT39fgcGHfaPsjR/p8w9kwpHikPX6Lxa6/lN+7jiuoufI4YU6fLDDoRbhBJqYrI3ctGwLnwBfgqBI9E/m7SVmXgl1skXArg+EexouU3QR+keRR+7CW+1nPO7HYe+bylXyt87EnyZ4YS+DRTIWQCKhUnTZ+HgXTfCYa/xzEyxU9D1jkJ+svtII01ZEFDS1jQdTwxLBS4s3RAqI+OHOOyehM2jXZ8Mzry6XsS+JuHWLhUBEqshpKFpm6Q7LBOxTQ64Z87Ia9DYAulZrt6iSRQ2xxWsg7hNiY=;BK7dotA1mV+HWbeGivX+/A=="
+secured: "3RRUDenMwLTFloj9Yv0enenicuOobi/d7r9YejFVJczwXLLIdnF1YEZ7HJOazD/kH1DxlERZ15mDujiFg5D1LhxmzmhW2jVzRaiHB4w/ld41/o+KFlkLSOyfp13bCTI9FO4XFoweeQetbyr3YbGbqF3kqsPH1e2P+zE9FKM1jiAB6OZvEhvLYCDlfrUbWQs/7QSjpWqjXtF3SxDvajJWrsQFFwzVu3gj8q4wKfb2x23DLZeiILk38XeCWrkyVr+/O4VvL03ZjYcX/jSyTK6qBqwYRG9vCr0H1bR3Fvx18KV+xdFp5hc1AMbFotLIuMq6HeTF1NdWcTSX1jn3aKZ9aiX03Cl2qZg6BhY9pQ81r8pR0GRx0H4rkzhZ3tdRod2q0KIv9hK11DiXbZpTS4CnRpLlMJB2cCg9qCbTI9PGcXPJPh/LecwBPm2rexbpyzwH74N+2ne9eKB2Tosku/0nBI3wri4ZQj+yfCrsDAEXEmMssAvsA6anhDPzbOxkNLGDUtTQb++W3iIKPhdRL87HZg==;wkLjj2bagVRPDIgA57NSXQ=="
 ---
 

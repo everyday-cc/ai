@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
         width: 1201
         height: 675
         isCached: true
+  - title: "Argo AI testing fully driverless cars in Florida and Texas right now"
+    excerpt: "Argo AI is backed by both Ford and Volkswagen, now testing fully driverless vehicles in Miami, Florida, and Austin, Texas."
+    publishedDateTime: 2022-05-25T01:29:00Z
+    webUrl: "https://www.tweaktown.com/news/86405/argo-ai-testing-fully-driverless-cars-in-florida-and-texas-right-now/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."
     publishedDateTime: 2022-05-21T18:38:00Z

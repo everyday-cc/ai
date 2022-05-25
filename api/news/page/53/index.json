@@ -2,6 +2,40 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-04-06-boeing-and-aws-join-forces-to-transform-aerospace-design-and-manufacturing.md",
+      "title": "Boeing and AWS Join Forces to Transform Aerospace Design and Manufacturing",
+      "excerpt": "(NASDAQ: AMZN), and Boeing (NYSE: BA) today announced an expanded relationship that extends the aerospace leader's existing cloud operations and streamlines Boeing's approach to cloud computing. Boeing will migrate applications out of on-premises data centers to AWS and create a technology foundation that will strengthen engineering and manufacturing processes.",
+      "sourceUrl": null,
+      "webUrl": "https://cloud-computing.tmcnet.com/news/2022/04/06/9577663.htm",
+      "originalUrl": "https://cloud-computing.tmcnet.com/news/2022/04/06/9577663.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-openais-dall-e-ai-image-generator-can-now-edit-pictures-too.md",
       "title": "OpenAI’s DALL-E AI image generator can now edit pictures, too",
       "excerpt": "DALL-E 2 features a higher-resolution and lower-latency version of the original system, which produces pictures depicting descriptions written by users. It also includes new capabilities, like editing an existing image.",
@@ -1071,49 +1105,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-researchers-identify-new-medicines-using-interpretable-deep-learning-predictions.md",
-      "title": "Researchers identify new medicines using interpretable deep learning predictions",
-      "excerpt": "An important aspect of drug discovery involves determining how well a drug binds to its target (protein) molecule. Typically, this step involves aligning a 3D structure of a drug and its target protein at various configurations in a process called \"docking.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-at-the-gis.jpg",
-          "width": 1379,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-medicines-deep.amp",
-      "publishedDateTime": "2022-04-05T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,57 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-04-09-mlops-the-key-to-pushing-ai-into-the-mainstream.md",
+      "title": "MLops: The Key to Pushing AI into the Mainstream",
+      "excerpt": "MLops is still an emerging field, so it may be tempting to write it off as just another techy buzzword, but its track-record proves that when designed the right way and targeted at the proper goal: to maximize model performance and improve ROI,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/",
+      "originalUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/amp/",
+      "publishedDateTime": "2022-04-08T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-aacr22-artificial-intelligence-predicts-side-effects-of-combination-therapies.md",
       "title": "AACR22: Artificial intelligence predicts side effects of combination therapies",
       "excerpt": "Researchers at the Cancer Center Amsterdam (Netherlands) report their preliminary findings using artificial intelligence to predict the adverse ... making it difficult to decide whether a new combination therapy would risk their health,” explains Bart ...",
@@ -1129,49 +1180,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-ukraine-uses-facial-recognition-software-to-spot-russian-spies.md",
-      "title": "Ukraine uses facial recognition software to spot Russian spies",
-      "excerpt": "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
-      "originalUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/04/UKRAINE-FACIAL-RECOGNITION.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
-      "publishedDateTime": "2022-04-07T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

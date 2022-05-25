@@ -2,6 +2,48 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-02-27-muhc-uses-artificial-intelligence-to-train-neurosurgery-students.md",
+      "title": "MUHC uses artificial intelligence to train neurosurgery students",
+      "excerpt": "A new study from the Montreal Neurological Institute found that when it comes to teaching brain surgery, artificial intelligence (AI) performs better than real teachers.",
+      "sourceUrl": null,
+      "webUrl": "https://montreal.ctvnews.ca/muhc-uses-artificial-intelligence-to-train-neurosurgery-students-1.5797818",
+      "originalUrl": "https://montreal.ctvnews.ca/muhc-uses-artificial-intelligence-to-train-neurosurgery-students-1.5797818",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/2/26/2391594/_jcr_content/renditions/videothumbnail.1645924831439.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/montreal/2022/2/26/1_5797818.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/montreal/2022/2/26/1_5797818.html",
+      "publishedDateTime": "2022-02-26T17:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-27-ai-medicine-software-market-2022-present-scenario-and-growth-prospects-2026-enlitic-atomwise-deepmind-babylon-health-flatiron-health.md",
       "title": "AI Medicine Software Market 2022 | Present Scenario and Growth Prospects 2026 | Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health",
       "excerpt": "Global AI Medicine Software Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ...",
@@ -1118,49 +1160,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-how-ai-technology-can-tackle-future-pandemics.md",
-      "title": "How AI Technology Can Tackle Future Pandemics",
-      "excerpt": "Artificial intelligence (AI) has come to bear on many of our responses to SARS-CoV-2 (COVID-19), and will continue to help us tackle future pandemics",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=480",
-      "originalUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=480",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/ImageForArticle_480_16457846554832959.jpg",
-          "width": 1000,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=480",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=480",
-      "publishedDateTime": "2022-02-25T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

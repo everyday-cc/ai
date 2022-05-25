@@ -48,6 +48,20 @@ related:
         width: 700
         height: 347
         isCached: true
+  - title: "AI tool can better predict sudden heart deaths, study finds"
+    excerpt: "A new artificial intelligence technology was found to predict sudden deaths from heart disease more accurately than standard tools, a recent multistate study led by Johns Hopkins researchers found. The approach, a \"deep learning\" technology that ..."
+    publishedDateTime: 2022-05-25T01:55:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/ai-tool-can-better-predict-sudden-heart-deaths-study-finds.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
+        width: 460
+        height: 460
+        isCached: true
 
 secured: "48O3zQa2Vp5YCXw3vSKJhsE1UEAnWWo8wMsXwtnVh5tczyHQQwPMCiPmAy2b0iF7bMA/IKIUqiToZ1vYO/A8QoXvsmzl3EbmAxgXQKMtqrC2phgimNVuvzP4QisQexgtiVzORGqBB/VtU6Es04Y5oGX9fk70SM6yOPs9xMg0XAtwGJgvlytzFJYUYgqqPyUcYEc91lN1xdmnNjs2W4UlbleETQ2Jgvf948FTErDMX/XeJ5iKKa3EyMxE/oKxyPLy1PqTn7iEZ7m0ORUClHXTxgMIqAvrs2ra+YWFrwQHRguVIr88bX1aQVbGuD9LwjbvKCfAleiPtVLg7DnwCHCqxpMJCcugZ8XQPExb6urVXoicC8Jyd5vZlOm0B/TqZ7KlveLhFi8gTpzE6gWRfeWtH5WSxS2umKvR1CR1eOSrcUm0Kdvfh1CqRRgNh4r2crNIlUF7QroZN/SRaBB6ThvJNL4fAp+tJV5wKOdVgusV0pu3cZ0FvZZOuVljEPIIXX54zGLxsLiX41Bk9sbli5Noxg==;avvpsQmUy/HBGyumVGnfPw=="
 ---

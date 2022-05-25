@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-05-05-traceable-ai-raises-60-million-for-unique-api-security-platform.md",
+      "title": "Traceable AI raises $60 million for unique API security platform",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/",
+      "originalUrl": "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/",
+      "publishedDateTime": "2022-05-04T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-rapid-adaptation-of-deep-learning-teaches-drones-to-survive-any-weather.md",
       "title": "Rapid adaptation of deep learning teaches drones to survive any weather",
       "excerpt": "To face this challenge, a team of engineers from Caltech has developed Neural-Fly, a deep-learning method that can help drones cope with new and unknown wind conditions in real time just by updating a few key parameters. Neural-Fly is described in a study ...",
@@ -1113,40 +1165,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system.md",
-      "title": "Worldline and Algoan to develop open-banking-based credit assessment system",
-      "excerpt": "WLN], a global leader in payment services, and Algoan, a leading credit scoring provider, today announced a collaboration agreement to jointly develop a next-level credit assessment solution to help lenders and services providers make better credit decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/92519/worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system",
-      "originalUrl": "https://www.finextra.com/pressarticle/92519/worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

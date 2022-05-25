@@ -2,6 +2,41 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-05-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices.md",
+      "title": "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices",
+      "excerpt": "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three wholly-owned subsidiary Robotic Assistance Devices (RAD),",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions.md",
       "title": "Qualcomm goes beyond smartphones with 5G and edge-AI robotics solutions",
       "excerpt": "Qualcomm’s robotic tech is taking its tech beyond smartphones. The platform combines Qualcomm AI Engine and 5G chip capabilities for cutting-edge applications and possibilities, including ...",
@@ -1113,57 +1148,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-china-is-using-ai-and-3d-printing-to-build-a-590-foot-tall-dam-without-the-need-for-human-workers-scientists-say.md",
-      "title": "China is using AI and 3D printing to build a 590-foot-tall dam without the need for human workers, scientists say",
-      "excerpt": "Using artificial intelligence, construction robots, and zero human labor, China is poised to complete the Yangqu dam by 2024, they said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/china-robots-ai-3d-print-dam-no-human-labor-2022-5",
-      "originalUrl": "https://www.businessinsider.com/china-robots-ai-3d-print-dam-no-human-labor-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6279eb5f94a2c10018eeb1f4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/china-robots-ai-3d-print-dam-no-human-labor-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-robots-ai-3d-print-dam-no-human-labor-2022-5?amp",
-      "publishedDateTime": "2022-05-09T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

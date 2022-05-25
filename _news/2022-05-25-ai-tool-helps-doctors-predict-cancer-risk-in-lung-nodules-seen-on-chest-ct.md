@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220524/AI-tool-helps-doctors
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220524/AI-tool-helps-doctors-predict-cancer-risk-in-lung-nodules-seen-on-chest-CT.aspx"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ba1dff09-90aa-4f2b-bb4d-aa7eb7223b71/Rendition/low-res/Content/Public"
         width: 700
         height: 347
+        isCached: true
+  - title: "AI tool can better predict sudden heart deaths, study finds"
+    excerpt: "A new artificial intelligence technology was found to predict sudden deaths from heart disease more accurately than standard tools, a recent multistate study led by Johns Hopkins researchers found. The approach, a \"deep learning\" technology that ..."
+    publishedDateTime: 2022-05-25T01:55:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/ai-tool-can-better-predict-sudden-heart-deaths-study-finds.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
+        width: 460
+        height: 460
         isCached: true
   - title: "Researchers use AI to predict cancer risk of lung nodules"
     excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study published in the journal Radiology."

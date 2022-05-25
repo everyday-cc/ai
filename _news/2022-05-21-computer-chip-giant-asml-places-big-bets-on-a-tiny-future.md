@@ -24,20 +24,6 @@ topics:
 
 related:
   - title: "Computer chip giant ASML places big bets on a tiny future"
-    excerpt: "ASML , a semiconductor industry and stock market giant, has to think smaller. Or maybe bigger. It is building machines the size of doubl"
-    publishedDateTime: 2022-05-20T09:04:00Z
-    webUrl: "https://www.reuters.com/technology/computer-chip-giant-asml-places-big-bets-tiny-future-2022-05-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/SZxbVKNg5ab42dF-SY1sIlrnkEg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P75Z23REDRJF7KMT5BBLFLHLAQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Computer chip giant ASML places big bets on a tiny future"
     excerpt: "ASML has enjoyed a rosy decade, its shares leaping 1,000% to take its value past 200 billion euros as it swept up most of the world's business for these lithography systems."
     publishedDateTime: 2022-05-22T11:31:00Z
     webUrl: "https://indianexpress.com/article/technology/tech-news-technology/computer-chip-giant-asml-places-big-bets-on-a-tiny-future-7930376/"

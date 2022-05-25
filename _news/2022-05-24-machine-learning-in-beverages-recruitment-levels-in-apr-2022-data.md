@@ -42,20 +42,6 @@ related:
       name: Verdict Retail
       domain: retail-insight-network.com
     quality: 33
-  - title: "Machine learning innovation among power industry companies dropped off in the last quarter"
-    excerpt: "Analysis of patent filings shows an decrease in related applications in the industry following a rise over the past year"
-    publishedDateTime: 2022-05-20T10:00:00Z
-    webUrl: "https://www.power-technology.com/analysis/machine-learning-innovation-among-power-industry-companies-dropped-off-in-the-last-quarter/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 29
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/05/XLwmp-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "Machine learning hiring levels in the automotive industry rose in April 2022"
     excerpt: "The proportion of automotive manufacturing and supply companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 41.5% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-05-24T18:00:00Z

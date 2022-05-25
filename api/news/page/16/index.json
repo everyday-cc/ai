@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-05-09-ed-frontlines-english-has-become-the-language-of-science.md",
+      "title": "ED. FRONTLINES: English has become the language of science",
+      "excerpt": "Between 1980 and 1996, natural science publications in Russian fell from 10.8 to 2.1 percent. German dropped from 2.5 to 1.2 percent. But English rose from 74.6 to 90.7 percent. This surge in English publications did not come from American authors or other native speakers of English.",
+      "sourceUrl": null,
+      "webUrl": "https://salinapost.com/posts/6185c4ce-eeba-4af4-93ae-d56c66f57bb6",
+      "originalUrl": "https://salinapost.com/posts/6185c4ce-eeba-4af4-93ae-d56c66f57bb6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.eaglewebservices.com/public/2019/11/1573490075841.jpeg",
+          "width": 312,
+          "height": 345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salina Post",
+        "domain": "salinapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit.md",
       "title": "Media Alert: BrainChip Drives Intelligent Edge AI at AutoSens Detroit",
       "excerpt": "About BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY) BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company’s first-to-market neuromorphic processor, Akida TM, mimics the human brain to analyze only ...",
@@ -1150,50 +1193,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-nvidia-burns-55-million-settling-with-sec-on-gpu-sales-to-crypto-miners.md",
-      "title": "Nvidia burns $5.5 million settling with SEC on GPU sales to crypto miners",
-      "excerpt": "We all had a bad time waiting out the graphics card shortage that took place from late 2020 up until recently, but it wasn’t the first time crypto mining was to blame for a lack of Nvidia and AMD GPUs. Back in 2017 and 2018 there was another similar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
-      "originalUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/05/nvidia-crypto-money-sec-settlement-mining-gpu-graphics-cards-gaming-availability.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
-      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
-      "publishedDateTime": "2022-05-06T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pcinvasion.com",
-        "domain": "pcinvasion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

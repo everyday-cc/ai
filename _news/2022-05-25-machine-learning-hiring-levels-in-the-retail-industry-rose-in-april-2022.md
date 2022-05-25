@@ -33,20 +33,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Machine learning innovation among power industry companies dropped off in the last quarter"
-    excerpt: "Analysis of patent filings shows an decrease in related applications in the industry following a rise over the past year"
-    publishedDateTime: 2022-05-20T10:00:00Z
-    webUrl: "https://www.power-technology.com/analysis/machine-learning-innovation-among-power-industry-companies-dropped-off-in-the-last-quarter/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 29
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/05/XLwmp-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "‘Machine learning’ in beverages – Recruitment levels in Apr 2022 – data"
     excerpt: "The proportion of beverage companies hiring for ‘machine learning’-related positions rose last month, according to recently-released figures. A total of 30.6% of the companies included in GlobalData’s analysis were recruiting for at least one ..."
     publishedDateTime: 2022-05-24T12:59:00Z

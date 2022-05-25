@@ -7,7 +7,7 @@ originalUrl: "https://www.just-drinks.com/features/artificial-intelligence-in-be
 webUrl: "https://www.just-drinks.com/features/artificial-intelligence-in-beverages-recruitment-locations-in-q1-2022-data/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1038
     height: 778
     isCached: true
-
-related:
-  - title: "‘Artificial intelligence’ in beverages – Speed of recruitment in Q1 2022 – data"
-    excerpt: "Job vacancies related to ‘artificial intelligence’ in the global drinks industry became easier to fill in the first quarter of this year, according to recently-released data. In the three months to the end of March,"
-    publishedDateTime: 2022-05-20T10:03:00Z
-    webUrl: "https://www.just-drinks.com/features/artificial-intelligence-in-beverages-speed-of-recruitment-in-q1-2022-data/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 33
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/05/RlrKm-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
 
 secured: "R4ijGxuI/2GXi49N0Qv60TePgaSWI/0qIaWWjnNgUd+O3RuY1Otz8szmEMrbdc2qglK0tMDvx2D//x011cPXvhmo68KHvyOz0WpUFru1b43l8F1VKLRFUT+KpNLFCECIvMN1OTjBETDWhmyV+QvJZP2U9U1a7vqhewEcDgTdGXwAFe7g2vw6ttIVzNOIpLPMr1gwUqR1o9CnmaAynskKmPX4Jm7AQ8QyeAwY5SUlaumkXsySuiQtsyjOzKLaFTvJm//LvezafIetDWUcJ54HhhbRi8AnPCnvqV9YVCXcqJHTB2DMr8bygpGXbrjOgXMcUxgwQBg0YMEccBVcu3+S13kgE7UbEMyX7eGfcFWLxOSyr9+J2JPyekIguovWZufo5kk3O/XKBT9mwoX01qZzBnHxypWGKZzSSgQaR8nVKEuxPTqdSqbJ4sijtQTcNBGjjY4CAVgb/arjUCWaTgD3Oc4pke1DuHIz5HbCBB/T+wt7C1Q09+I23hb+MbTpgLTeAttY2nZvSk6cwBmuz4OXRQ==;Vs6W9oM7DkXrqiXBZ36z+A=="
 ---
