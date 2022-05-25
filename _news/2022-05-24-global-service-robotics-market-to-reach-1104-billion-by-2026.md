@@ -44,15 +44,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Medical Rehabilitation Robotics Market is expected to surge at a stupendous 15.9% CAGR from 2021 to 2031"
-    excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
-    publishedDateTime: 2022-05-20T11:15:00Z
-    webUrl: "https://www.fmiblog.com/2022/05/20/medical-rehabilitation-robotics-market-is-expected-to-surge-at-a-stupendous-15-9-cagr-from-2021-to-2031-2/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 17
 
 secured: "1cXxm4/4BjA7cmJwwp9cmT49udlT8c0Uy8pwNZywRdyryOmHH6YpcaMmAOz4Di5/2AdVAaokvLre3YBIyu1E/j8ij9k2inwQFbqCLBAYiZnxcGPf7+yNc4G5OhacU73LhDutES8P6flPC6e8/n34yE/agehoQLKSjyvoy8PbvOLz2I0eoIDwolYwNG0+aKlrB7lzHjatsoG05RpsNfyShrc4rey20RbEklAO1scQGSCekaaHIBJmMsTC0bnIuTxZq/CkCn5uukbAYNqbY/GmgRMWummsqWDfaYloXd+YzBwyzxfonc8Vi1NeA/9N07yXa9fe/zPN3nlKxA0BqO5TwEwpvqDcCkdqv6KvQYaq4e4=;2w8LTmud4Ge79GFtFaUq2w=="
 ---

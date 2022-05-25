@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "The EU AI Act could help get to Trustworthy AI, according to the Mozilla Foundation"
-    excerpt: "The EU AI Act may turn out to be one of the most influential legal frameworks in the world. Here is how, and why, the Mozilla Foundation is engaging with it, and how you can get involved too"
-    publishedDateTime: 2022-05-20T12:09:00Z
-    webUrl: "https://www.zdnet.com/article/the-eu-ai-act-could-help-get-to-trustworthy-ai-according-to-the-mozilla-foundation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 41
-
 secured: "iyrKQwEAtW6O8J1iw96oeZrOM3TqfMMfAvdA1BlMm7nNPC9qKsEQLS+56X7SiqdXc6IG6qldb0GnAVOnLFIwpmTYWQCweHHyGVrcpKNA8rte2hr6mltIoT+53kK6hd1uwhoysPWlCYsE54hy1RSxdpIdE9V5gA2rBtLsU1i7PFk5PRuYzlHFXDS9sQp151RN4icvSCiL0BZnDve4iJjrYtr2oBYIhBjCRvepDUD1P87OZ7dWvZc8gP2hFF1ndJ2ZL9LV7AJ2lcq/RCjdpyTbAu61hfMZTAGwY6Z3JknJ8PGJ/g58V3Ld+UKc/zeU7Pp/kYaVnsHaeHBGmlHg7LpywkPWIy4iYphZizQAhDynA7jvxZ37maR3h+9nK1/myZd4O1lCXlGPGm2Jy8LkFyF/+Gff2jRctzb3Ctsqx8TSvUswkmeaxEzwHdSN8iA3/bp7daDOUSfeORRBw+KSmaBmszEcY6QP+wRLAfECvdhSTOnexW1hqaQ8dJyGeOzOGgkJBsmY0emHlj8rhGoF0F8XDQ==;YbKHAv6NnoQ4k+aKbCJEXw=="
 ---
 

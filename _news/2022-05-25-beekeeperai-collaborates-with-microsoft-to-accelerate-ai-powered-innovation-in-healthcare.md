@@ -1,23 +1,29 @@
 ---
 category: news
 title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
-publishedDateTime: 2022-05-24T22:02:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
+publishedDateTime: 2022-05-24T20:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI in Healthcare
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft brings support for Arm-based AI chips to Windows"
@@ -194,6 +200,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Microsoft’s “Project Volterra” brings support for ARM-powered AI chips to Windows"
+    excerpt: "Microsoft, at its annual event - Build 2022, announced Project Volterra, which will let you explore many AI scenarios"
+    publishedDateTime: 2022-05-25T05:32:00Z
+    webUrl: "https://thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/"
+    ampWebUrl: "https://thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 86
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2022/05/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Unveils Foundation For AI-Powered Client/Cloud Hybrid Loop"
     excerpt: "At Microsoft’s Build conference, the company featured what it called the “hybrid loop”, which defines a set of hybrid apps that span the gap between the cloud and client devices on the edge."
     publishedDateTime: 2022-05-24T15:30:00Z
@@ -332,6 +354,6 @@ related:
         height: 350
         isCached: true
 
-secured: "aOy3fz7dsfVlBgTR3k+I0g1EjI1AtFkDZ4xH0BY13fgvmshVrj6JWCWYnvvtAREbh7+sObAmZlgIdz0hS6WY3BEZJcwOVIrgK5uQvVPO5vKOWGknp+1LOkuH84qZFFwaHBc3YUC8B2g3eHSJulx1an4LmkRjNUCR5fwlApXH1UdaFz+OwgZSu7chuOdPh3x82CzUN95JuPOlqc2ESS/TANgvdYdsq5TZ2X5hfAWffom09OqxSUfMJy2qMSem9+ziWZ82x3gLVKy78iRw5a0Xk7Z1O1Uey/8gjtPgeL6aZxVd/oj/ekiSocGn9qEnF35kcJPIDT8e8ljc3qJ7mUp+JXasxCSIOoD3+5z9zoWTf3o=;BgmLJt1n8Mn30Xv++/g3Jg=="
+secured: "xNDLN6mO3yM6ZvS+p0ZKZ3N4HYeMYdZKED33yz+SYCEAtJ0eXiAcFxaRGA1jfBzYbt4XbCS9GPu0D7hkvFdkKaONoo+e4Tx2KBKxubIGCWm/MWEOq2xDLbHsv1HX8AM3VvFryNQxuZxirEnMS07eA7QnOITI0qMBPP6XcYCsNUYoBJvLHTNEVA52liO1f9EHQHoqRAAgjOXGEdsuMC71hTTwCGfScrwARItiM/c5Tsr9HTsZolVAVOe8v2y/QCoTJjgynVTJhoHeGGU5mbUn2eGfBVnnBzFjzyoEvWnldxEAUkZUHQ8pvqJWezkFJ1AFkGr4pAtXA8FMgRHT2p6bVLTNCI8q7unKVY4aAKZX+t4=;cJ7nCXOOMgoRgngAA3gb+Q=="
 ---
 

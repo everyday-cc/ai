@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-explo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

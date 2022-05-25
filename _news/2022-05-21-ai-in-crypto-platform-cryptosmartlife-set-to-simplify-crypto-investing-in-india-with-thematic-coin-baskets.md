@@ -25,17 +25,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "AI in Crypto Platform, CryptoSmartlife Set to Simplify Crypto Investing in India With Thematic Coin Baskets"
-    excerpt: "CryptoSmartlife, Artificial Intelligence powered, India’s first end-to-end thematic basket investment platform, intends to simplify the way India invests in Crypto. CryptoSmartlife puts the top 100 market capitalization coins into baskets based on popular themes such as Blockchain,"
-    publishedDateTime: 2022-05-20T12:30:00Z
-    webUrl: "https://www.businesswireindia.com/ai-in-crypto-platform-cryptosmartlife-set-to-simplify-crypto-investing-in-india-with-thematic-coin-baskets-78913.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 0
-
 secured: "yzxXscist1HA0Yv9LpsriXT7KaRjZJNF8OxHCpaXPVpZICoEJSrhv24IoAZKGoy+pGsmyE+Yt5pOkk4oAPtb5C36nbLIKmkmxxn6Sp9SB3gMWU3OXsEwf3Y3L4e5m16bi65GkzacMOml0kVAiDfhdNHF3T2b+ihirATTPtLgUT8MPS3ZHV+lpJSTTneGUee0iqUJrjlATX0eTuFCueGgcXSUEgJvdnhl8JuuFNnYWOzAC1oe6gjcNKrdRGf6awLaCb5uk+J436O2xAGLxo+zLDXzpCaP4vAZhbfbV2jJ2Ft5mp737KGQ8q82x0ceImD8sDau7+n6WiFFdevYzq605P0A16A6EJJTMKUzZQI2k7M=;UEgZ2UNx0g+zkirPQElH0A=="
 ---
 

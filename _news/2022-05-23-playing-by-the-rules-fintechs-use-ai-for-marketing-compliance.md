@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fi
 webUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market Size, Share, Price Trend by Type, Segment Analysis by Application and Regional Forecast-2028"
-    excerpt: "AI in Fintech Market Forecast with sales and Revenue ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors."
-    publishedDateTime: 2022-05-20T11:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-share-price-trend-by-type-segment-analysis-by-application-and-regional-forecast-2028-2022-05-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Defining “artificial intelligence” for regulation"
     excerpt: "It's commonly stated that there is no agreed definition of 'artificial intelligence'. This causes problems in making policies and regulations about it."
     publishedDateTime: 2022-05-24T00:15:00Z

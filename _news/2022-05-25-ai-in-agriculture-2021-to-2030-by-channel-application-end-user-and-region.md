@@ -1,18 +1,20 @@
 ---
 category: news
 title: "AI in Agriculture (2021 to 2030) – by Channel, Application, End-user and Region"
-excerpt: "Global AI in Agriculture is estimated to grow from USD 893.43 million in 2019 to USD 8342.37 million in 2030 with a CAGR of 22.52%Fatpos Global added a"
-publishedDateTime: 2022-05-24T20:45:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region"
-webUrl: "https://www.digitaljournal.com/pr/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region"
+excerpt: "Global AI in Agriculture is estimated to grow from USD 893.43 million in 2019 to USD 8342.37 million in 2030 with a CAGR of 22.52% Fatpos Global added a new report into their database named “Segmented"
+publishedDateTime: 2022-05-24T20:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27383940/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27383940/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region"
+ampWebUrl: "https://www.benzinga.com/amp/content/27383940"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27383940"
 type: article
-quality: 33
-heat: 33
-published: false
+quality: 53
+heat: 83
+published: true
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -47,7 +49,18 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Face Mask Detection Market Report to 2027 - by Component, Application, Technology and Region"
+    excerpt: "Facial recognition systems, which began as a type of computer application, have seen increased use in recent years on smartphones and in other forms of technology, such as robotics. Computerized facial recognition systems are classified as biometrics since ..."
+    publishedDateTime: 2022-05-23T11:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27343540/global-face-mask-detection-market-report-to-2027-by-component-application-technology-and-region"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27343540"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27343540"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
 
-secured: "udSzVPrh1qyRkof2AMmZdgGosqdWrC5m7i3evDbC2owD0xCYO+fc5kjCBEVJoCuaTGX+aAWHtEkiI9J2TpaZCN1DdaFJ2Pu+sqc66NrK2/T6Mn7XHXZWMQPqJHNJhoTHNcQIIs2HXtiNS4lfKFZnCN4jps1bKyUvucKzNpF1ZhD/gQnT0msK00/oWIRhPuE1c3AtdzFYYd4FoDrx6vBGGjadvPIe3nHkNIOFVvMst5CZ/2B//8CHzZ5dvI+94YOFLPy8O3U07ZK8iySFDWblYm779PtsM2yeQ0BcDFY4btDkBUgX5LvDuwmdPqWYc3m+vgLfx8GIaygzaJigqbZpIu3k1AZ/bS2a3mQnsf7k7NAQZw+9z0fbkrHJesgStPclsqAq13udgBsRZ4hmB5o4rtkhNaPjpq4kTgQ3UEW/7QISlav442PxkMYVPohiq8UzLykWFJ4mDHW9AEWZXYVv4sGY2lTVxang+PkPfwbUzqz6ShqfLKmyB1jHwgU3K0ad+sqB7rbQaGEchVeJvFw9bQ==;ZPNcgnkBmi3sd1M2HA5IQA=="
+secured: "rwdqGppfcbUU10uSFSMh7k7fdc9gHhqMBRSvHWTjIHGyxzcg5IiwXzzFF2/OZ9JgTIpMXnFrrUDPDsEVoYXoU1JWWCZ9zf37whvFTfpMNRbdTARq1VLqb6s+nYt8acDgXQtewMCCPNdBQM7u827YS5pEsY/JhC+84nLsdDUu0B3Bh0DIRnMLCsbZp7aPwsdT11BIXLE7zu6BFI+tOMa4ixObWiriF/72MW1ddbRVBS/oFgxx9jyADXIznJ1VXh4QdxgLD1XvPjlZYxpcpRJ2bb9xzS+s4BurvFeRYm1mFcjijAWNPAObzDnOJ/skJNP2XQ2nJ21dHJTn1XHcxYLyD/G1zbbm1QxMs9KmvmV1e48=;9mkXloPPw1qGSoUPUurAKw=="
 ---
 

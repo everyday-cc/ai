@@ -200,6 +200,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Microsoft’s “Project Volterra” brings support for ARM-powered AI chips to Windows"
+    excerpt: "Microsoft, at its annual event - Build 2022, announced Project Volterra, which will let you explore many AI scenarios"
+    publishedDateTime: 2022-05-25T05:32:00Z
+    webUrl: "https://thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/"
+    ampWebUrl: "https://thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 86
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2022/05/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Unveils Foundation For AI-Powered Client/Cloud Hybrid Loop"
     excerpt: "At Microsoft’s Build conference, the company featured what it called the “hybrid loop”, which defines a set of hybrid apps that span the gap between the cloud and client devices on the edge."
     publishedDateTime: 2022-05-24T15:30:00Z
@@ -225,6 +241,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
+    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
+    publishedDateTime: 2022-05-24T20:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 61
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The biggest Azure announcements from Microsoft Build 2022"
     excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
     publishedDateTime: 2022-05-24T20:05:00Z
@@ -281,15 +311,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
-    publishedDateTime: 2022-05-24T22:02:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z

@@ -62,15 +62,6 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 2
-  - title: "Artificial Intelligence In Transportation Market Technology, Applications, Demand, Growth Factors And Forecast To 2028"
-    excerpt: "Get a sample of the Artificial Intelligence in Transportation Market report @ Some Key Highlights in the Report In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for ..."
-    publishedDateTime: 2022-05-20T12:59:00Z
-    webUrl: "https://menafn.com/1104247482/Artificial-Intelligence-In-Transportation-Market-Technology-Applications-Demand-Growth-Factors-And-Forecast-To-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
 
 secured: "5GqGOY7OPiV1BupVbvKvc62AOCOcjQ+KQN+W85eoCSjrtu1U8o1UVUz4eoVDts4wYm4wK6u4NMHsqtu6MbnWG9hQ4arWa8aaXAm9U6efkQf5ZMaB2ek+cTHqZhGOrVr21rvGna83x5DKo+BDh5/GD0EPA2Dl9gXKIibFkRw5lg5HlDqryDZRV/RSPHvdky1v6AO+QqqxBni3Rn3Jue3O7OgBQWjfSHfy/bx8o0in4rt7JlSQKJkmKpBIeMEDCbQ6SyXBEONJGpbHnsdV59F+DaRNYrJzjQv1I3WL+goQfBjbxGatdM1ghF9FZ2GJ/pEm8E4ao1n6rBuGzuUbn4JAThX86WhWu9lB9TutQpe6NEE=;KlcBYyzEZWWjfzxmOkgRow=="
 ---

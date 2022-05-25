@@ -103,6 +103,15 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Zoho invests in Indian startup Genrobotics that makes robotic scavengers"
+    excerpt: "Tech company Zoho Corporation said on Wednesday that it has invested Rs 20 crore in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions."
+    publishedDateTime: 2022-05-25T05:43:00Z
+    webUrl: "https://www.nagalandpost.com/index.php/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers/"
+    type: article
+    provider:
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 33
   - title: "How Robosport Is Using Robots to Make Athletes Less Robotic"
     excerpt: "In recent years, we have witnessed increased discussions on developing robots to be more human and whether robots can surpass human intelligence."
     publishedDateTime: 2022-05-24T14:21:00Z

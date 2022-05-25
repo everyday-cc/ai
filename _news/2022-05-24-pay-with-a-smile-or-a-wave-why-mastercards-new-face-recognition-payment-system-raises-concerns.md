@@ -43,6 +43,22 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Mastercard's 'smile to pay' raises concerns around face recognition systems"
+    excerpt: "The company argues touch-less technology will help speed up transaction times, shorten lines in shops, heighten security and improve hygiene in businesses"
+    publishedDateTime: 2022-05-25T04:58:00Z
+    webUrl: "https://www.business-standard.com/article/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 72
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/06/full/1607223506-2559.jpg"
+        width: 620
+        height: 464
+        isCached: true
 
 secured: "vFynfMP02xGm0HXx4dhb0TcRWbMzKRPjbYQr96Y4GKqmM76bjR1DQuLMR79J9BPxmlyd3G4uK6O9yXVDpqwuyodd2EqLdYsrZhVekZqhP9VBA7cH7i1ruYYjm6gPt+oA4C5BCeU/fCcPds9B4j+1+8mBmHuZMYkIw9QnmV6sYnO+ip8l6Xo7cTkVhTT/JHOYtHqY+F5MGLquEeXNAGr0zmjx/oWTiUWh/Ku97BEafuG5cvoeNaau07UuEy4unG9VCkIRYR3GEVw16xOVH5YdZXMNyiHA5YiVDmEJQ4Nk/piRRdlAGpJDOiXjqvArC1VQtafa/WcbW8IWCRa7oyuSc83Sup55Asx7rHHx3vPzxfqhPus/chAimOKOAyadIvhxZRp3DXpOmvjJwOpkzzGoOiUA+XPgzXyPBHc6RXj9o0Ukzk7TZtRRFoNP8p7ZqNQdnxs96hdKkuXWCadBwaRJ3R6olUaqalmG2lWfHAaj4DKkoW8u8EWpE5cxsJJZqF9BeHXS97jVU3dlAxXAcluudg==;DgI6yIULc5zEWBmoqfibsw=="
 ---

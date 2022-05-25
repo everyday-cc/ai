@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-lea
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/?amp=1"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Identification of long COVID patients through machine learning"
-    excerpt: "In a recent study posted to Preprints with The Lancet*, researchers developed a machine learning approach to identify patients with long coronavirus disease (COVID). . Image Credit: Starocean/Shutterstock The post-acute sequelae of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection are called long COVID."
-    publishedDateTime: 2022-05-20T11:48:00Z
-    webUrl: "https://www.news-medical.net/news/20220520/Identification-of-long-COVID-patients-through-machine-learning.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 19
   - title: "Machine Learning Models to Help Identify Long COVID Patients"
     excerpt: "Machine learning (ML) models help clinicians distinguish characteristics of people with long-COVID and factors that may help identify such patients."
     publishedDateTime: 2022-05-21T13:47:00Z

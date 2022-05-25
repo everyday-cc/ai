@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-foresee-scrutiny-and-demand-with-predict-recapitulation-to-2025-2022-05-20"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 2
-  - title: "Artificial Intelligence In Transportation Market Technology, Applications, Demand, Growth Factors And Forecast To 2028"
-    excerpt: "Get a sample of the Artificial Intelligence in Transportation Market report @ Some Key Highlights in the Report In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for ..."
-    publishedDateTime: 2022-05-20T12:59:00Z
-    webUrl: "https://menafn.com/1104247482/Artificial-Intelligence-In-Transportation-Market-Technology-Applications-Demand-Growth-Factors-And-Forecast-To-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
 
 secured: "edSHvc2+ZwE2vIbPpfNp026Q8zr3HTHYzoxIKbMtIjqV3Yo5oUW8VNOOXEs9Af+coY5zdeHOygcuO/jaOT0ivBMEQbaIdVmAzcbPqZ3slpNP6dj4hTWSOFcH7dWAMmw7FRi/L/3FrbNfAXInIdcRwtR6kW2++g9Vn8dEAmtcUToD062qSHlurhM8IjnDQCKdGgbvMAZB+2dQLUSwG7CGwsEXfuzM74kyFJUldUtXvbAtD6bhoOQloY1cjJAwPLyz7tnt2+R69P1qDN6IUIy5+YbDc6+QwXuPmX4UC2d6j9dum+2ZhnQ5hlI4A1N7uhM+ZOfFw4uqSkQ2wgsdlAw2lk8fJDnkAClEi2923g9qnfk=;NEXLagUN+qOMc0sVw7N23w=="
 ---

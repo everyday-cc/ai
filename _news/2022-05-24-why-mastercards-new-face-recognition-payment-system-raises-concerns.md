@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-05-mastercard-recognition-payment.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mastercard's 'smile to pay' raises concerns around face recognition systems"
+    excerpt: "The company argues touch-less technology will help speed up transaction times, shorten lines in shops, heighten security and improve hygiene in businesses"
+    publishedDateTime: 2022-05-25T04:58:00Z
+    webUrl: "https://www.business-standard.com/article/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 72
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/06/full/1607223506-2559.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Pay ‘with a smile or a wave’: why Mastercard’s new face recognition payment system raises concerns"
     excerpt: "The technology is currently being trialled outside of Australia. It’s one of the first major attempts to bring it to western markets on a large scale."
     publishedDateTime: 2022-05-24T06:01:00Z

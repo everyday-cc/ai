@@ -7,7 +7,7 @@ originalUrl: "https://liliputing.com/2022/05/qualcomm-introduces-snapdragon-8-ge
 webUrl: "https://liliputing.com/2022/05/qualcomm-introduces-snapdragon-8-gen-1-and-snapdragon-7-gen-1-chips-for-premium-mid-range-devices.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,26 +23,6 @@ images:
     width: 1200
     height: 775
     isCached: true
-
-related:
-  - title: "Qualcomm Takes the Lid Off Its New Flagship Smartphone Chips and AR Headset"
-    excerpt: "Qualcomm Qualcomm has announced the next batch of mobile chips coming to smartphones, tablets, and the AR curious. The company revealed the Snapdragon 8+ Gen 1, a bump up to the current processor used in the latest Android flagships."
-    publishedDateTime: 2022-05-20T12:00:00Z
-    webUrl: "https://gizmodo.com/qualcomms-new-snapdragon-smartphone-chips-and-ar-headse-1848951360"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
-  - title: "Qualcomm Supercharges Its Flagship Snapdragon Processor And Unveils Premium Mobile Gaming Chip"
-    excerpt: "The freshly minted Snapdragon 8 Gen 1 targets top-tier, premium Android devices, while the Snapdragon 7 Gen 1 focuses on more mainstream, gaming-centric devices."
-    publishedDateTime: 2022-05-20T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/marcochiappetta/2022/05/20/qualcomm-supercharges-its-flagship-snapdragon-processor-and-unveils-premium-mobile-gaming-chip/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 37
 
 secured: "HBVSewb3q1xuxcjP18Mb/4pbj8NTEAK8JADF9ZF8D7F2rebNQCJG+t8Gr4+PXZzENhEunukR0A8UCPV83goQ5zgwdl+AUOa2fHEfmZ6Xlj/KTDnCz77dQ3IigXE9ciQ4VULDaJsRN7w0+gVfm3OLov974hogUQWPd2GC258JXNm4Ja8Taj+1CY1GeS54fStKR+AeIFGAv1RSLmLawr2VGcnKw2uhh3CropKrkz5rIFmC4rnVZpRUbNipx9j4mvp+IIoje0cWPGcyKppnKDbmSNRcwzk+eNDKVhU5ytSoXMkoGyZ3sfGEJvDQEaaXG9FkS91cw4B0LVMAV5QTv1FqaJUJJCWql7+0B7UMrKTgbkGQL8pnvtlVmrzqTYwjg5NUJn59X3waje7Rg4j4dxG657VHraAeyJR5gHBygG/CD4exIukr3tarwAJlX5w7EHDeieMr7TyUU34MTmeY8RaqapuBOnWn1I82JsDXkJN6LrXeGJfv3yT1ohdWFeeMkxs38obyI7eWoxw1x8nh4yWdFw==;uJ3G+OicoOxOfNJNIMOYcg=="
 ---

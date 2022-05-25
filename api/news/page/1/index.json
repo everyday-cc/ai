@@ -157,7 +157,7 @@
       "originalUrl": "https://www.cnet.com/tech/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -253,6 +253,48 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region.md",
+      "title": "AI in Agriculture (2021 to 2030) – by Channel, Application, End-user and Region",
+      "excerpt": "Global AI in Agriculture is estimated to grow from USD 893.43 million in 2019 to USD 8342.37 million in 2030 with a CAGR of 22.52% Fatpos Global added a new report into their database named “Segmented",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27383940/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27383940/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1653379726.png",
+          "width": 411,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27383940",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27383940",
+      "publishedDateTime": "2022-05-24T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-ai-reveals-unsuspected-math-underlying-search-for-exoplanets.md",
       "title": "AI reveals unsuspected math underlying search for exoplanets",
       "excerpt": "Artificial intelligence (AI) algorithms trained on real astronomical observations now outperform astronomers in sifting through massive amounts of data to find new exploding stars, identify new types of galaxies and detect the mergers of massive stars,",
@@ -304,7 +346,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -544,7 +586,7 @@
       "originalUrl": "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -682,7 +724,7 @@
       "originalUrl": "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 331,
+      "heat": 341,
       "tags": null,
       "images": [
         {
@@ -735,7 +777,7 @@
       "originalUrl": "https://blogs.microsoft.com/ai/how-ai-makes-developers-lives-easier-and-helps-everybody-learn-to-develop-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -873,7 +915,7 @@
       "originalUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1103,57 +1145,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-a-novelist-and-an-ai-cowrote-your-next-cringe-read.md",
-      "title": "A Novelist and an AI Cowrote Your Next Cringe-Read",
-      "excerpt": "It was something of an accident. In 2020, I was invited by a friend to test a user interface she was developing for an AI program called GPT-3. I began experimenting and wrote my first book, Pharmako-AI, over a period of two weeks in the summer of 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/",
-      "originalUrl": "https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/628c23fd9246e3542c4985f8/master/pass/Novelist-AI-Cowrote-Cringe-Novel-Culture-1306551338.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/amp",
-      "publishedDateTime": "2022-05-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -46,15 +46,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
-  - title: "Medical Rehabilitation Robotics Market is expected to surge at a stupendous 15.9% CAGR from 2021 to 2031"
-    excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
-    publishedDateTime: 2022-05-20T11:15:00Z
-    webUrl: "https://www.fmiblog.com/2022/05/20/medical-rehabilitation-robotics-market-is-expected-to-surge-at-a-stupendous-15-9-cagr-from-2021-to-2031-2/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 17
 
 secured: "YeOTnsIfiMYslO1RzRqst7vksyERxZ/CQ0gOo1ZqPlTCkLV1cBfSD5ZkbaUQcUJ9XUdusmVloewMQ5UN6V0CYo/jpK4sLee3TonoZwnn1PsWl90JiogKQyd2BrsVD78wtjQdXIv5/xNz3Y0WSpbL2EUZmlod+U/RCtB5hFVvFZfM9cl5h1z1/tIbspoD51vQLuT7HR4ZXGwwZ/YZJd6YMO0BTgN8nYVezNJjpNIKryD4wCuJRFDObM4JaedWsswQRXDGhib07LmchlTqGHG2PzKC7DJt+htb6VpCPSwYotN5ylCAo/jV8Eq0GJ+8OfweLzxLOrg6nM2HTtWy6ASlqyxYGdSKz4pGgnL4rB1xVvY=;B3vjnQxINTHNN/YCyq510g=="
 ---

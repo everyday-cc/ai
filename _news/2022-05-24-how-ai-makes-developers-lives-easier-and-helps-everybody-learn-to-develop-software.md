@@ -7,7 +7,7 @@ originalUrl: "https://blogs.microsoft.com/ai/how-ai-makes-developers-lives-easie
 webUrl: "https://blogs.microsoft.com/ai/how-ai-makes-developers-lives-easier-and-helps-everybody-learn-to-develop-software/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.devprojournal.com/wp-content/uploads/2022/05/customer-experience-and-AI.jpeg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Topdevelopers.Co Curates List Of Fastest Growing Fintech App Developers For May 2022"
-    excerpt: "List of fastest growing fintech app developers for May 2022 The top Fintech app development companies that are well-known for delivering"
-    publishedDateTime: 2022-05-20T11:20:00Z
-    webUrl: "https://menafn.com/1104247263/TopdevelopersCo-Curates-List-Of-Fastest-Growing-Fintech-App-Developers-For-May-2022"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 17
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/20/EP_b3967image_story.png"
-        width: 636
-        height: 628
         isCached: true
 
 secured: "Et161qOK1g+ufGxQkL/PSUQQLXTRsxVPRIiXj3qLqXPPuiKGRVugKm+KmmkzlacRYd1YZ6WLbowixzpv9IVWshkf8kmTVGofmyQb08KAC5AdGXzJSBhRIywIVONg/+TOG23UiZk8OwjG0qridBxYfA+2g/CXvBnZmMxJJCM9uJ7ZLwuVjbzbmBK40cRDMmeitqSktA/vItsLXPOYG9DtpV4rGnKWfIaa756UfzuoeX0e+wUnZoMtk/7U8XD1BsCFJmKWD5mf4gmwnDAT3JzLWxFJD5IMFrL5FRA5AM4v+h9jDKaEFe2CPwNe/v6lTznTrJKupIKgX9DNfFuFRB9IeBqpI60NbNeU7fYgF6Ulrps=;FQwwK8nONYJ6AipnRGlccw=="

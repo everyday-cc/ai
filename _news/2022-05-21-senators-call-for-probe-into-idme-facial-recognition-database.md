@@ -25,6 +25,22 @@ images:
     height: 815
     isCached: true
 
+related:
+  - title: "A Casino Pioneers Facial Recognition to Serve the Ultra Rich"
+    excerpt: "You could easily miss the exclusive Les Ambassadeurs casino in London. Just off Hyde Park Corner, it sits at the end of a quiet side street populated only with chauffeured black v"
+    publishedDateTime: 2022-05-25T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/a-casino-pioneers-facialrecognition-to-serve-the-ultra-rich/2022/05/25/5938cb2c-dbe8-11ec-bc35-a91d0a94923b_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBDGMIG35AI6ZPBVVEOQVFESHM.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
+
 secured: "qoon0NgUEtNA2x8fihy4zUuIoePcrohVF1XIb/kKVWvDNgr9+DoHf+vHWqGFzwXWLJCxxSIqErV3upzHQRR6pO6Q1ETuJz9kxPIkdkCv6iVIZkp3cfeOXVM85HA/5bRVgE7RqGvCRVoyDRvVwHG3yRSWgelIS08mqfm+Y9AsNLdR3ATrFpABAY1FbJg6nMylpTqxxH9XuPtabnLaxenSvA3o06H8wtOpVvTWnePD0lEnMxHpHNwTUfnsDfH+J1Jo2o9P9MMm8lmWynb8IVQKTZZcWDHwIFza4OpX1fly10fqDgxWHwlfmvrsrai6shxYDIbI37BTMZUbMnJanqRcdlCDujLU6ubmQyK/xuHmmOY=;2ew7yoO3B1k7Fe2H4xFacA=="
 ---
 

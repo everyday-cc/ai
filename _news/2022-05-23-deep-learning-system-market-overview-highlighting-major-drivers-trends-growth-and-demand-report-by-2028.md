@@ -56,15 +56,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 19
-  - title: "Artificial Intelligence In Transportation Market Technology, Applications, Demand, Growth Factors And Forecast To 2028"
-    excerpt: "Get a sample of the Artificial Intelligence in Transportation Market report @ Some Key Highlights in the Report In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for ..."
-    publishedDateTime: 2022-05-20T12:59:00Z
-    webUrl: "https://menafn.com/1104247482/Artificial-Intelligence-In-Transportation-Market-Technology-Applications-Demand-Growth-Factors-And-Forecast-To-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
 
 secured: "hnOBpM8bO3qF2iQxlLLAqbBtGWeQs222MNw2m6NlZubJezxptFeU5J1l97NTrtgvHXZ9jWaBVKMQ4xKq6K5IYtzxvjxtwrkw1jS/nEcqTJhYMRvtE+bhyWpf/V4WmKK8KZ98B5kqmOFdQ0Nmnh2uAvCp5zlKq5i/NVB3exYQCuMwis3UPJ6C/nDg/6gnhYeyLwEYzqMulSTpUAMdIzOCzBKYBRCpSkeMMl7lmQYqBQBD6DMSH1ACzGI2Fy3IgBG5wOx0weo/uMct7bg4pE2r8Sihe11iSIeIkMZivHMgAqfufvwBk0NIjdDRuSbd0TlDoayjyQtpMVO3umUxg8vGuhuNhPeumVf+SdJCSaq2kXA=;RZ/2YGaDEbOquET44IOsWg=="
 ---
