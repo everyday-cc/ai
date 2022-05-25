@@ -43,6 +43,22 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Why Mastercard’s New Face Recognition Payment System Raises Concerns"
+    excerpt: "Mastercard’s biometric checkout system will provide customers with facial recognition-based payments, by linking the biometric authentication systems of a number of third-party companies with Mastercard’s own payment systems."
+    publishedDateTime: 2022-05-25T06:05:00Z
+    webUrl: "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427"
+    ampWebUrl: "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 74
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Facial_Recognition_1640922171.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pay ‘with a smile or a wave’: why Mastercard’s new face recognition payment system raises concerns"
     excerpt: "The technology is currently being trialled outside of Australia. It’s one of the first major attempts to bring it to western markets on a large scale."
     publishedDateTime: 2022-05-24T06:01:00Z
@@ -60,6 +76,6 @@ related:
         height: 213
         isCached: true
 
-secured: "Qc7923qGfP6XXmXf1lJFuxnEE9N0r//U1PJjRoAqwFxpu+gxrmJeN77xJyBUYZhh2HoiMY7Me15y+66yMs1FDPVOGsnu8eSgWj4cwIA+Rdxz0uTXI6Npd3SfmcaHy9SmTNaXkDVPz+dTIMGyB2MutzfNCxqqp8rJ7GXImRXeWCUXbhGy8YpAxGxDfkUdO3dk2C8PrbXvlHaR4MfQ9MBpUx7vR3awahjGGxyLAdSZONlqLH0+slJNedMy2GRkklaoI23bYhwSjz8gse0xj+T2ztnOq1fiJsHTIQ1BO3R7/YmxzlWtsCWiEYFrvgLGUgThyEWPOXN0QNSmtkus+SN9+RX4/OPPFs6CH38BuO2Vh5Y=;TatLN3lNT5RIGVBw3HHQcA=="
+secured: "kNSFXhx3BJdXV5hX4fiQTecmPlthXy7SVdoEYNzEGLorWdA8hFXU/FHp74WLmQDUTNFUQdqF4QAdLK9NYd1R/kQ2Iusao3VmVNR+BCSvODmbjsHNYEYYKcgOiofH2VE0/5LSyE7hctYeGyupFwxSgfv0q9I1RAIT+tIrIwx5TKAoq0SmKS6WJWihKAD6KUK1o4YzDqfjp+DlWfS/WZTwIkscGRp0MyzEHwQdfA7yUlj+eoVwQ1rIjmtZWrRH8pUfuCxDQ3aXdkf4CX9njkXFeZKZ+pEyu0FPLr/Rkf/USfNERL//YX7GGdfR98dY+4SFOmJemVrfiz0hURm6UWlN0zvt1rQMrVJwm9i1qOAxj9hPATVuETObHtHaLWZtX40cWlq/KyAzNQdF96f49MHJKMtmTSWzCcVK2h5NDIncrTdqCB327XCh9CF/4FPoFxvNP1aPhiLbKv5zGzAb+aQhRJ6Cev/RpBZ9rGmYvlTZqqKixJj1vmARh020150627WdYE4q8cAlGqYDlg/MwRNzIA==;+kbIkPlHc+HNEPI/94T+Vw=="
 ---
 

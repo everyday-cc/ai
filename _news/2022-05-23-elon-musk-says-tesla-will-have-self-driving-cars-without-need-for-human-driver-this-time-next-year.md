@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "'Elon Musk's Crash Course' explores the limits of Tesla's 'self-driving' technology"
-    excerpt: "As Elon Musk tweets his way through his pending Twitter acquisition, FX's \"The New York Times Presents\" documentary banner takes a hard look at his flagship business, Tesla, and its"
-    publishedDateTime: 2022-05-20T13:33:00Z
-    webUrl: "https://www.albanyherald.com/entertainment/elon-musks-crash-course-explores-the-limits-of-teslas-self-driving-technology/article_3caac8cb-d90e-5a26-858e-d5ccf86164d3.html"
-    type: article
-    provider:
-      name: Albany Herald
-      domain: albanyherald.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/custom/image/01b25422-d8d8-11e6-bb31-5378351eadac.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "LFcCzNGvT2QFRRtDabBpVEE2CNY0hmjsRvPfanLEKeZeazoFkUS79G4KtSg0sbuZyCBmTxLbpx3dUanyTFOHjnH8MXYPa4OH4WU27UHIH97tduzalKHbS3SSyMWbPPMOKThJd2bs/ItoqSVJoPCVk2N1+MxyFUo2sZt8GFp046ifF3DgzyVcbU042JQHsx6hPkvYKc0+5NnlOeibufC6SYWz7oqVois2pBOdZP2lVB6J7HWbI/66lkcu1fkKS8LPjnD44JmEDEQL4d6OalG6BfN5ma5YugHTU2CZUK89JCx6FY0ufMyQAdpqR9wiPYpErNtJ2O2fi0VXWFbnLgEd0BnGBOB0sEyMYCGN81p88SYwOoZsiJihIIDF88TSKzn0h78XoDI52abpMlynLDsoal6VPbwn1zhZpLfcxgEl9lLxwJZPTyEetplIFBhuEm+5sDEQ9D5PMeOpV+NioBNsrL3YET/nTC5z2nGWRuw41sQmy4Tvcnc9hyWCl1v6wA1tLpYvRmSrWK7muEWmclOyWQ==;rDgEOx7U+IDzsS+ChUA5HA=="
 ---

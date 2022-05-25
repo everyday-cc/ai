@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-24-it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology.md",
-      "title": "IT ministry holds brainstorming session with startups on AI, language technology",
-      "excerpt": "The meeting was chaired by Minister of State for Information Technology Rajeev Chandrasekhar. The new initiative, named Digital India BHASHINI or BHASHa INterface for India- is a part of the National Language Translation Mission.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/articleshow/91770359.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/articleshow/91770359.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-79986,msid-91770378/eds-handout-photo-made-available-from-pib-on-thursday-feb-24-2022-new-d-.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms",
-      "publishedDateTime": "2022-05-24T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-20-google-ai-wrote-a-really-good-stargate-episode-script.md",
       "title": "Google AI Wrote a (Really Good) Stargate Episode Script",
       "excerpt": "Can artificial intelligence write a good script for an episode of Stargate? Apparently it can, and we can listen to the results tomorrow. The challenge was taken up by Laurence Moroney, AI Lead at Google,",
@@ -151,19 +108,19 @@
     {
       "path": "_news/2022-05-19-sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications-speech-and-ai-verticals.md",
       "title": "Sanas, Leader in Real-Time Accent Translation for Enterprises, Brings on Top Talent from Communications, Speech and AI Verticals",
-      "excerpt": "In a period of tremendous growth, the team welcomes Sharath Keshava Narayana as co-founder and chief operating officer, and Marty (Massih) Sarim",
+      "excerpt": "In a period of tremendous growth, the team welcomes Sharath Keshava Narayana as co-founder and chief operating officer, and Marty (Massih) Sarim as president PALO ALTO, Calif., May 19, 2022 /PRNewswire/ -- Sanas,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications-speech-and-ai-verticals-1031476311",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications-speech-and-ai-verticals-1031476311",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-immigration-palo-alto-eedbdb9c77fd15dd46c46f50c4388543",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-immigration-palo-alto-eedbdb9c77fd15dd46c46f50c4388543",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1821273/Sanas_Logo.jpg",
-          "width": 400,
-          "height": 400,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -173,21 +130,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T08:06:00-07:00",
+      "publishedDateTime": "2022-05-19T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1404,6 +1352,58 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-intel-unveils-new-generation-of-infrastructure-processing-units.md",
+      "title": "Intel unveils new generation of infrastructure processing units",
+      "excerpt": "Intel unveiled its latest infrastructure processing unit (IPU ... model training and inferencing for computer vision and natural language applications in the datacenter. The Greco is a second ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/",
+      "originalUrl": "https://venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/ipu-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/amp/",
+      "publishedDateTime": "2022-05-10T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

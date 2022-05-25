@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/solution-vendors-m-a/25068-zoom-to-acq
 webUrl: "https://www.thefastmode.com/solution-vendors-m-a/25068-zoom-to-acquire-conversational-ai-and-automation-platform-solvvy"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Intelligent Automation, AI & Operational Excellence Leader Joins Process Intelligence Platform Leader Skan"
-    excerpt: "Skan, a leader in the Process Intelligence solution industry that provides unprecedented insights into how organizations get work done, has appointed Vinaykumar (Vinay) Mummigatti as Executive Vice President of Strategy and Customer Transformation."
-    publishedDateTime: 2022-05-20T13:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/intelligent-automation-ai-operational-excellence-leader-joins-process-intelligence-platform-leader-skan-1031478759"
+  - title: "Observe.AI Launches Auto QA, the Industry’s First Adaptive Automation for Boosting Agent Performance in Contact Centers"
+    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced the launch of Auto QA – the first adaptive automation solution that boosts agent performance to drive faster impact on customer experience and revenue generation."
+    publishedDateTime: 2022-05-24T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-e501d8fa01c343648412b3d7ead9a7ed"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
     images:
-      - url: "https://mma.prnewswire.com/media/1822132/Vinay.jpg"
-        width: 400
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "European business communications provider Dstny acquires Tactful AI to accelerate its position in the Customer Experience Platform market."
+    excerpt: "The acquisition takes Dstny to the next level in customer engagement, enabling companies to employ Artificial Intelligence and data in their customer experience operations with minimum effort. \"With Tactful onboard,"
+    publishedDateTime: 2022-05-25T08:00:00Z
+    webUrl: "https://wreg.com/business/press-releases/cision/20220525LN64844/european-business-communications-provider-dstny-acquires-tactful-ai-to-accelerate-its-position-in-the-customer-experience-platform-market/"
+    type: article
+    provider:
+      name: WREG
+      domain: wreg.com
+    quality: 3
+    images:
+      - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
+        width: 800
+        height: 268
         isCached: true
 
 secured: "VsRHzb8xnTXilhxMrII8xyvrzNDUI+0nhr0xAgh6WaBi4P2om2kg3Q0Du0EtYleoNDdIvdPX2QxO71hsi2yVynbJ/uBwV0Fss0U8KFTAt0wZ/jsENxnQNiKGwzKqW4H35sz2ZJLImRZdSXxq/iCIsqYtz1+81dKie7IlNRA+clTFMj9hgr5WFaBGBejD99VhNOSN9eCkGjG+96IFK4dGe8qlAkZzMog0p6L6M/VxzbEAfdZNPa1ZY6rXugKPT8UPcrjY8VDC+bYCt+2vVFdY6qk819WLhPYfS7733Zh6cclJaWQTtJH0avl1gEXkwRqYnpZteaW754EszSesytQfusf+nwO56QI8VUwCgva34m8=;rhuMzllp5Wux1N7ZAaiO+w=="

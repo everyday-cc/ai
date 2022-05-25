@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Zoho invests in Indian startup Genrobotics that makes robotic scavengers"
-excerpt: "Tech company Zoho Corporation said on Wednesday that it has invested Rs 20 crore in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions."
-publishedDateTime: 2022-05-25T05:43:00Z
-originalUrl: "https://www.nagalandpost.com/index.php/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers/"
-webUrl: "https://www.nagalandpost.com/index.php/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers/"
+excerpt: "Chennai-headquartered Zoho said that the investment will assist Genrobotics to eradicate manual scavenging in India and provide safety, dignity to workers in the sanitation and oil and gas industries"
+publishedDateTime: 2022-05-25T07:30:00Z
+originalUrl: "https://www.nationalheraldindia.com/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers"
+webUrl: "https://www.nationalheraldindia.com/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers"
+ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers"
+cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers"
 type: article
-quality: 33
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Nagaland Post
-  domain: nagalandpost.com
+  name: National Herald
+  domain: nationalheraldindia.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://gumlet.assettype.com/nationalherald%2F2022-05%2F68081abd-40dd-4850-b1e8-55ba309408d6%2FZoho_invests_in_Indian_startup_Genrobotics_that_makes_robotic_scavengers.jpg?rect=0%2C16%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 400
+    height: 210
+    isCached: true
 
 related:
   - title: "New MassRobotics award to honor female robotics researchers"
@@ -103,6 +111,20 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Zoho Corp. invests in Genrobotics, a deep-tech startup using robotics to end manual scavenging"
+    excerpt: "Zoho Corp announced today that it has invested ₹20 crores in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions. Zoho’s investment will assist Genrobotics in its mission to eradicate manual scavenging in India and provide safety and dignity to workers in the sanitation and oil and"
+    publishedDateTime: 2022-05-25T06:00:00Z
+    webUrl: "https://www.crn.in/news/zoho-corp-invests-in-genrobotics-a-deep-tech-startup-using-robotics-to-end-manual-scavenging/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 42
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2020/07/27131110/CRN-Finance-FinTech-Money-Growth-696.jpg"
+        width: 696
+        height: 465
+        isCached: true
   - title: "MassRobotics Announces Call for Nominations for The Robotics Medal Recognizing Women in Robotics"
     excerpt: "MassRobotics, a leading robotics innovation organization, announced a call for nominations for The Robotics Medal, a new annual award presented to a female researcher for substantial achievements and contributions in the field of robotics."
     publishedDateTime: 2022-05-23T19:08:00Z
@@ -122,6 +144,6 @@ related:
       domain: ibtimes.com
     quality: 19
 
-secured: "QnN9PlTHDpGJDAwHmI4NJnX+XqxY/AXiMXQiKVGV3YeJOZz3nXogKs4O1y+qIekbNGqk+dJg9gS7ctgbVfDXNVTv+cgnab8cA/mXxVDpZUFlNheUYCE9oy9A9583ylZQ8XbDK9wJj7CDYU27LK263OpNidqRzFEPrCey9MRW5XjDyx9Nkq5GAd1xCQVmTxPm72+mI+nNfpG7oBsyHLGNVWKYpi3YMDlMxZakVn5yW55P7YxpfktUpDCjY8vReyR0B3tg0fhqO0oi5F6A8G+JS2RdqTrqDJlLX1KsHCeJTz1HM3Y3sHcB/6BD885TEd1u6Xs/bYUlylxGhZ+4kiczc19yw7ReC6q/5WaV9VG1VIQ=;HC2VZaj64JTkYfmdDUjSRg=="
+secured: "EWc9SPrtz5Td6Wl8XGIwLEFW+duNPkykiYhai+0nVxxzVUCJkyHwDkySZrF/M5ilNGMGvv8RFFZ1zVlnHlELleMZNjdO3bg+r31rQC2Tknt8PIdEtZP4dKjROJGkBv7U91nPrByEM+Ey9Lpbf14ddVK8yltEqqzcGCuj3VhzFVGRetZBb9i5yYt7Bo+2x+n/zOPSiT173CY7rjJGa5BlJdvsYDMLJK2wUMZ0hHw082lB5jGgiWkSI+Ze6PTvBi1diD4uaPKhMwFxIF478By42/qCbUDat82S1NX+Fom9LDGPVGBlVHhiz9wjS+lNHJ/2J5m3YP4rvKXThxMzlG5uKYnxk7NQTrj4iaa2R13JJWQ=;QWOMQEMxNQwYven11Rkk6A=="
 ---
 

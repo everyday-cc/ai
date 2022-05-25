@@ -22,24 +22,6 @@ topics:
   - Facebook AI
   - AI
 
-related:
-  - title: "Facebook posts may reveal individuals at risk for excessive drinking"
-    excerpt: "Alcoholism can be a difficult condition to diagnose, especially in cases where individuals' drinking habits are not noticed and physical symptoms have not yet manifested. In a new study, published in Alcoholism: Clinical & Experimental Research,"
-    publishedDateTime: 2022-05-20T14:08:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-facebook-reveal-individuals-excessive.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-facebook-reveal-individuals-excessive.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-facebook-reveal-individuals-excessive.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/facebook-posts-may-rev.jpg"
-        width: 600
-        height: 502
-        isCached: true
-
 secured: "hf+bDCvHgJWo+G66j6IitmtKvbjeh0dWOSdzaHjiQSjA3VV8ndN006SHAzCP/z+5hbIgZcf1mJpVSeLk3qpVkuxZ+Krf3KnBLFC2c9Z7lI145Ep6rzLhPwol1RVRlBM3EpMmhSPtgr4F50r1fQKTLYy9xtpCEqecjD6biP+pN/3b/8N7PRV6iSKLxSqzBuWYrgGO8CY1zndxtm1tNESISE9aKpN7Bw4VHFq7GyzidhR22AwwUpVdGx8uWKcTiZpZiMnzWFfE82xLXqo7waXfwuxQh4cyF/YBpqrM/ADfV4HmbPYH1tpq6HSiKKDO4BT+XU+Qcwge6wrahQtiNAO99B5cd/u7Z+WMi4RsFk3J/fG0W+ZGz/CuHFptFdfnXCVKBUu6BOIw4X80xTptgEXdbZKYTKjrF37+1gmNfYcr3ExNXcHq1NcxUkgAuvVOdNpMHX83VHWbnPTLhAphno4VSgbprh2TFReRRwcCdVcg4iiUVjk97zwRPaUs2PCmsgs60dlO3LNnDDZ2g7nML7pUkQ==;LURs0TNmk6nmJ1WxEOLZdw=="
 ---
 

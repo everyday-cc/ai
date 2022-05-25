@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-05-mastercard-recognition-payment.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Mastercard’s New Face Recognition Payment System Raises Concerns"
+    excerpt: "Mastercard’s biometric checkout system will provide customers with facial recognition-based payments, by linking the biometric authentication systems of a number of third-party companies with Mastercard’s own payment systems."
+    publishedDateTime: 2022-05-25T06:05:00Z
+    webUrl: "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427"
+    ampWebUrl: "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 74
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Facial_Recognition_1640922171.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mastercard's 'smile to pay' raises concerns around face recognition systems"
     excerpt: "The company argues touch-less technology will help speed up transaction times, shorten lines in shops, heighten security and improve hygiene in businesses"
     publishedDateTime: 2022-05-25T04:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition fine if rules followed: KTR"
-    excerpt: "Identify government organisations and grant them transparent regulatory powers through Parliament, says Minister"
-    publishedDateTime: 2022-05-25T00:33:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/5/25/w600X390/Facial.JPG"
-        width: 600
-        height: 390
-        isCached: true
   - title: "UK regulator fines facial recognition company $9M for illegally storing images"
     excerpt: "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials."
     publishedDateTime: 2022-05-23T21:22:00Z
@@ -124,6 +108,6 @@ related:
       domain: upi.com
     quality: 19
 
-secured: "eZV1p/u9zuHFjFpLVxMbayQJ2Q71zVT8Z250RW49Bbb+x9UfSFhORaljrHsWrIvo2UlV7IT8K00eDGBqL63euy3CS2vcKDRpVCVgPrmwy8fhDZ+jQtruYZlj+yDifqdq30/UmAVwiynkL6CBa1tneq/AD06fXypjLqMkuNU0eB/xCZPB0iPwoNhzrgo9gPurqas5uobzQS4WA1WuJafJWYrTYugBogYZsgeOn7gi+HH73Z9sz+7Mw6W8C4bYhSCN6slLCmZYP2bEFD4dcrKyNNnuyoWsWB/TxU2ixSoi8xJnGDKqSMKYWXo3Yrkv1wa4R5sXwbiGNakTOHdr00jDjvnNhHYBHG8mmimPfSlUgRk=;B2JXRFndTAmVn2qE9VjuwQ=="
+secured: "PcpmpRI9xbKcfITqHb7e9weqSYxGWu0/DxYMSIA3q8r2fUruOg3Ugrs5RaBBkgktD264ZaJl+AbpBqg7Uqj+eWgdokMu2GLyBQZd+hWK14c67X8t/1kaJtiXYIjKwuOWNvRY/fEYZdZbAtH7AsLZRn83cx8qYWdxWyiRMio2iMpN7w7NquoLarZD1ccbDZiyQ/MPxwh3/uDFBBEtlYNFlf6VdIqDZpWDZ71p0Ftzlkh5H2azMxMeXpULgvOdKlYVEinYPLM3tI1o06i/UT5wCdRw6MqGxY2UWnRJKC9WDE++bJoG+JifvhnyY5R8Cyh01uwpKxQdiGD/VnetYu/NxnCxjvJam+cUFpfb88G52UAbTtTUN+XW0HkgvQlm9ywPx6MMs0OePkWtUFyPRR7lcv8kcJp6f3Cl7b1p/aXZr+C3rKmNbN28873TmrvhUdlX4MzxIpl+x7vUbdEuyJj6I5LqxwBZIKtsA/bpJyXgUObUZcGN/x3JNE7rFHQsp66WU1U9RKq4s0ILNsyW/IFDcQ==;mL76coirQtzUkxTRKfgbpg=="
 ---
 

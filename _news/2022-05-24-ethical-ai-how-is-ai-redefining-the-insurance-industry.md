@@ -7,7 +7,7 @@ originalUrl: "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefini
 webUrl: "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefining-the-insurance-industry/"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Artificial intelligence innovation among air force industry companies has dropped off in the last year"
-    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
-    publishedDateTime: 2022-05-23T18:00:00Z
-    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-innovation-among-air-force-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 18
   - title: "What Happens When The AI Revolution Overruns The Transport Industry?"
     excerpt: "There is no doubt that transport will continue to evolve as technology advances and AI becomes more important than ever before. We are currently at the beginning of a new technological revolution and it is imperative that we learn how to use AI in the ..."
     publishedDateTime: 2022-05-24T13:48:00Z

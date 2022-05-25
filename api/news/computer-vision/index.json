@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2022-05-25-public-confidence-must-for-using-facial-recognition-with-ai-ktr.md",
-      "title": "Public Confidence Must For Using Facial Recognition With AI: KTR",
+      "title": "Public confidence must for using facial recognition with AI: KTR",
       "excerpt": "Gaining people's confidence is a big challenge in using technologies like facial recognition with Artificial Intelligence, said Telangana's Industry and Information Technology Minister K.T. Rama Rao.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104267274/Public-Confidence-Must-For-Using-Facial-Recognition-With-AI-KTR",
-      "originalUrl": "https://menafn.com/1104267274/Public-Confidence-Must-For-Using-Facial-Recognition-With-AI-KTR",
+      "webUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
+      "originalUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2022-05/24/I_31463image_story.jpg",
-          "width": 400,
-          "height": 266,
+          "url": "https://data1.ibtimes.co.in/en/full/772421/ktr.jpg?w=570&h=451",
+          "width": 570,
+          "height": 451,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T10:05:00-07:00",
+      "ampWebUrl": "https://amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
+      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
+      "publishedDateTime": "2022-05-25T00:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "IBTimes India",
+        "domain": "ibtimes.co.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -53,7 +53,7 @@
       "originalUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -96,7 +96,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools",
       "featuredContent": null,
       "highlight": null,
-      "heat": 364,
+      "heat": 374,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -130,7 +130,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -316,22 +316,31 @@
       "title": "Edge AI and Vision Alliance Announces 2022 Vision Tank Winners",
       "excerpt": "Hummingbirds AI and Oculi Recognized for Innovation and Excellence in Edge AI and Computer Vision SANTA CLARA, Calif., May 18, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance today announced the winners of the 2022 Vision Tank competition at the Embedded Vision Summit.",
       "sourceUrl": null,
-      "webUrl": "https://kdvr.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/",
-      "originalUrl": "https://kdvr.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/",
+      "webUrl": "https://fox40.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/",
+      "originalUrl": "https://fox40.com/business/press-releases/cision/20220518SF63003/edge-ai-and-vision-alliance-announces-2022-vision-tank-winners/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png",
+          "width": 800,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T22:57:00-07:00",
+      "publishedDateTime": "2022-05-18T23:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX31 Denver",
-        "domain": "kdvr.com",
+        "name": "FOX40",
+        "domain": "fox40.com",
         "images": null,
         "publishers": null,
         "authors": null

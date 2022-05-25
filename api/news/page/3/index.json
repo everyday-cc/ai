@@ -2,48 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-05-22-heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it.md",
-      "title": "Here’s How You Can Help America Win the AI Tech Race – and Make Money Doing It",
-      "excerpt": "Buck Jordan explains how investors like you can help America get ahead in the race to master artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/",
-      "originalUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/10/lightbulb-tech-ideas-1200.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/",
-      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/",
-      "publishedDateTime": "2022-05-22T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-22-amazon-installs-creepy-ai-cameras-to-monitor-more-delivery-drivers-report-says.md",
       "title": "Amazon installs 'creepy' AI cameras to monitor more delivery drivers, report says.",
       "excerpt": "Amazon is installing more cameras that can send out alerts if workers violate driving standards after introducing them in the US last year",
@@ -220,6 +178,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details.md",
+      "title": "Alternate Credit Scoring Can Further Financial Inclusion In India. Read Here For Details",
+      "excerpt": "To empower the ‘credit invisible’ customers and bring them into the formal financial fold, the way financial institutions assess creditworthiness needs to undergo a sea change. Alternative credit scoring that uses smartphone data is the way forward toward greater financial inclusion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707",
+      "originalUrl": "https://www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1647829989.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/alternate-credit-scoring-can-further-financial-inclusion-in-india-read-here-for-details-news-197707/amp",
+      "publishedDateTime": "2022-05-20T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -409,6 +410,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-ethics-in-the-ai-technology-and-information-age.md",
+      "title": "Ethics in the AI, Technology, and Information Age",
+      "excerpt": "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?",
+      "sourceUrl": null,
+      "webUrl": "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF",
+      "originalUrl": "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png",
+          "width": 350,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Amazon Associates UK",
+        "domain": "amazon.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1112,49 +1156,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-reperformance-uses-ai-to-personalize-physical-education.md",
-      "title": "REPerformance Uses AI to Personalize Physical Education",
-      "excerpt": "A software company in Canada is bringing its web-based application to the U.S. that uses personal fitness data to create individualized workout programs and feedback geared toward their progress rather than ability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education",
-      "originalUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/8aed749/2147483647/strip/true/crop/1000x521+0+89/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Fe1%2Fd1af45fd4441996fa546b5a6f9dd%2Fphysical-education.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true",
-      "publishedDateTime": "2022-05-19T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

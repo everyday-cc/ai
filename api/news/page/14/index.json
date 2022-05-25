@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-05-10-microsoft-readies-its-latest-industrial-metaverse-pitch.md",
+      "title": "Microsoft readies its latest 'industrial metaverse' pitch",
+      "excerpt": "Microsoft is positioning a number of its enterprise components, from IoT to Synapse Analytics, as its stack ready to take on the 'industrial metaverse.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/85b6ea12ce92e31ebdb61572ca94cd093c168d17/2022/05/10/53c87957-c47b-474c-a213-d0e116968cd8/microsoftmetaversetechstack2021.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
+      "publishedDateTime": "2022-05-10T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company.md",
       "title": "Slack’s former head of machine learning wants to put AI in reach of every company",
       "excerpt": "“The point of Graft is to make the AI of the 1% accessible to the 99% ... And this is useful because you don’t have to start from scratch on every new problem,” he said.",
@@ -1104,49 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-face-scanner-clearview-agrees-to-limits-in-court-settlement.md",
-      "title": "Face-scanner Clearview agrees to limits in court settlement",
-      "excerpt": "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people’s photos without their consent. The company in a legal filing Monday agreed to permanently stop ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/face-scanner-clearview-agrees-limits-court-settlement-rcna28059",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/face-scanner-clearview-agrees-limits-court-settlement-rcna28059",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-05/220510-clearview-mb-0828-4ee5e0.jpg",
-          "width": 4226,
-          "height": 2817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna28059",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna28059",
-      "publishedDateTime": "2022-05-10T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

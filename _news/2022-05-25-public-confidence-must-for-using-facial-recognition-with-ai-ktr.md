@@ -1,43 +1,47 @@
 ---
 category: news
-title: "Public Confidence Must For Using Facial Recognition With AI: KTR"
+title: "Public confidence must for using facial recognition with AI: KTR"
 excerpt: "Gaining people's confidence is a big challenge in using technologies like facial recognition with Artificial Intelligence, said Telangana's Industry and Information Technology Minister K.T. Rama Rao."
-publishedDateTime: 2022-05-24T17:05:00Z
-originalUrl: "https://menafn.com/1104267274/Public-Confidence-Must-For-Using-Facial-Recognition-With-AI-KTR"
-webUrl: "https://menafn.com/1104267274/Public-Confidence-Must-For-Using-Facial-Recognition-With-AI-KTR"
+publishedDateTime: 2022-05-25T07:32:00Z
+originalUrl: "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805"
+webUrl: "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805"
+ampWebUrl: "https://amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805"
+cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805"
 type: article
-quality: 54
-heat: 84
+quality: 74
+heat: 104
 published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: IBTimes India
+  domain: ibtimes.co.in
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-05/24/I_31463image_story.jpg"
-    width: 400
-    height: 266
+  - url: "https://data1.ibtimes.co.in/en/full/772421/ktr.jpg?w=570&h=451"
+    width: 570
+    height: 451
     isCached: true
 
 related:
-  - title: "Garda to use facial recognition technology"
-    excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
-    publishedDateTime: 2022-05-24T23:01:00Z
-    webUrl: "https://www.irishtimes.com/news/crime-and-law/garda-to-use-facial-recognition-technology-1.4887298"
+  - title: "Facial recognition fine if rules followed: KTR"
+    excerpt: "Identify government organisations and grant them transparent regulatory powers through Parliament, says Minister"
+    publishedDateTime: 2022-05-25T00:33:00Z
+    webUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 41
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
     images:
-      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/5/25/w600X390/Facial.JPG"
+        width: 600
+        height: 390
         isCached: true
   - title: "We are unbiased in use of data and nobody is surveilled without consent: KTR on facial recognition in Hyderabad"
     excerpt: "Telangana's IT and Industries minister KT Rama Rao defended the usage of facial recognition in the State and claimed that the government is unbiased in the use of data and that nobody is surveilled without consent. Speaking on the use of artificial ..."
@@ -70,6 +74,6 @@ related:
         height: 900
         isCached: true
 
-secured: "oapVZUg/KYNzMP9bIJll9C8zd6PM9IHrEapA89n4kwGc/lepJbBa58R/XDxFHfD7oRP9XsiLj+v4VeVxbsC0EDL9Ls4HHfg6lYLeH2Hyhcq1Eu4rnR0RC2IKMS8v+zKU7fccV5SmpOqmPn/q6o6O15ffdk29NJUlqT/Ru3vjhy3pFnGqrkoXsDfsned1exYLuEUGuormZSAfj7b+MNTE56h89tHX1NmEm0N1C7+vdwgwIm0jwvB2Sm/P7x2cqQ5oMJQtZuYibLst7bSLepsijc/4UjBrJbs1VigY0P5RM7LOae1Ti8fJf+adwQtg9UFIpgfX9iCZI7bW1fZG2ahF/EbCf0eUHqav9bbkCC7v8uxOfLtJV3xGBA2z4aCz15nraxIXvMnqh75QLEAmjJ6LW3JYwon9p0wSsehmj0iHIR2e7pHRyyXw3EQcYkGz6Tsjpu/REbE8JCdyR2LY7cfxC9dJh4VDL8wgnL/86QhYDsKbJve9zFzG8NUg1PuxbLohzv+bTuBHgx8JKYh2uzmIHA==;pTsmJ3KTma9PJylfx7rnyQ=="
+secured: "gTgDGh71i8otZ9h0ZgmtoKvkE/eJsEJwjGw8vNz2Frwe497ndnrEUNfrONxGfNOW5nztLsg72SFSsE2YcXrpEQO2UfjJBa35dlVOAdjf7cob8/D+PrVTNvyuahfiHynJXO/3iPt/z7yqoJ6tHJG0gxt7cGgKSGL2+dePRzWOwj3uVhvtXfY4Bjr+7XZojYJQwrGX5cpQuhIj7JAxEDav6IaVEPrQH5kLpmgugZsU1dmtZzc4Jm5kkW/Q0w/lXwaomGR+kYuzerwiL7/Xg4miXxeSNt/RPMejPi8O1HbcgheeAsEOAIvBNthWmJ2Ytjx9zwDFw7wk7dtmz+dnY1bz9J1sJhjKfgUYOet/rR2jLfs=;mHtjESuvtt+WYuzH7SR1uA=="
 ---
 

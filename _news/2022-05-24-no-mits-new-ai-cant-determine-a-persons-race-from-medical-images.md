@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/mits-ai-cant-determine-a-persons-race-
 webUrl: "https://thenextweb.com/news/mits-ai-cant-determine-a-persons-race-from-medical-images"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Next Web
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Artificial intelligence predicts patients' race from their medical images"
-    excerpt: "The miseducation of algorithms is a critical problem; when artificial intelligence mirrors ... and engineers are not enough. Health care is a social-cultural problem just as much as it's a medical ..."
-    publishedDateTime: 2022-05-20T13:39:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-patients-medical-images.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 18
 
 secured: "lTJ7JmNjSyPkVV5gGCkLmlnU6JEMI43AnFpE42At8HHFoYxRFHgCB2ZDVZa0FqmrP/D4kXU7ugVeEaOdyJSG8SJBxXkM/oP8tbtUmiRRiJqE4PYPqVpy06zaakPkQiQAmaJ3dJDU2DVF0rekI71uaA7wuxglZMIQHkzHdFo0pe/fDgjMGaUqNjjF8ar50imO5L0wrgGXyBHS3RCaR/t6ngcfN/r8Tqa2RQqHJohwd1bjm3uYwS6S13L9ezhcn1fA3aOtaIlkqZHi2/loTgR0AIO0X4fR0gGbSurKiWlkoqbKmY5y0KwmWwJd1EZremZu6BN82/95/o7VIS4MhuRWddl4rNcvuiRtCkueIRBBB6o=;su1EA2TC1KqL6r1k2QDlOg=="
 ---

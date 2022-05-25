@@ -43,22 +43,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Facial recognition fine if rules followed: KTR"
-    excerpt: "Identify government organisations and grant them transparent regulatory powers through Parliament, says Minister"
-    publishedDateTime: 2022-05-25T00:33:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/5/25/w600X390/Facial.JPG"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Facial recognition firm ordered to delete data of UK residents"
     excerpt: "Facial recognition firm Clearview AI has been fined £7.5 million and ordered to delete personal data belonging to UK residents. The Information Commissioner’s Office (ICO) issued an enforcement notice against the US-based firm after a joint ..."
     publishedDateTime: 2022-05-23T11:50:00Z

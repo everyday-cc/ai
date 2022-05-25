@@ -26,49 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Public Confidence Must For Using Facial Recognition With AI: KTR"
-    excerpt: "Gaining people's confidence is a big challenge in using technologies like facial recognition with Artificial Intelligence, said Telangana's Industry and Information Technology Minister K.T. Rama Rao."
-    publishedDateTime: 2022-05-24T17:05:00Z
-    webUrl: "https://menafn.com/1104267274/Public-Confidence-Must-For-Using-Facial-Recognition-With-AI-KTR"
+  - title: "Senators Call For Probe Into ID.me Facial Recognition Database"
+    excerpt: "\"Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition.” Now, a great of senators have written a letter to the Federal Trade Commission and its chair,"
+    publishedDateTime: 2022-05-21T06:00:00Z
+    webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 41
     images:
-      - url: "https://menafn.com/updates/pr/2022-05/24/I_31463image_story.jpg"
-        width: 400
-        height: 266
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
+        width: 1222
+        height: 815
         isCached: true
-  - title: "We are unbiased in use of data and nobody is surveilled without consent: KTR on facial recognition in Hyderabad"
-    excerpt: "Telangana's IT and Industries minister KT Rama Rao defended the usage of facial recognition in the State and claimed that the government is unbiased in the use of data and that nobody is surveilled without consent. Speaking on the use of artificial ..."
-    publishedDateTime: 2022-05-24T14:00:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/we-are-unbiased-in-use-of-data-and-nobody-is-surveilled-without-consent-ktr-on-facial-recognition-in-hyderabad-8569041.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/we-are-unbiased-in-use-of-data-and-nobody-is-surveilled-without-consent-ktr-on-facial-recognition-in-hyderabad-8569041.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/we-are-unbiased-in-use-of-data-and-nobody-is-surveilled-without-consent-ktr-on-facial-recognition-in-hyderabad-8569041.html/amp"
+  - title: "A Casino Pioneers Facial Recognition to Serve the Ultra Rich"
+    excerpt: "You could easily miss the exclusive Les Ambassadeurs casino in London. Just off Hyde Park Corner, it sits at the end of a quiet side street populated only with chauffeured black v"
+    publishedDateTime: 2022-05-25T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/a-casino-pioneers-facialrecognition-to-serve-the-ultra-rich/2022/05/25/5938cb2c-dbe8-11ec-bc35-a91d0a94923b_story.html"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 39
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2020/06/Face-recognition_.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facial recognition technology on way for gardaí"
-    excerpt: "The Minister for Justice plans to introduce facial recognition technology to enable gardaí conduct rapid automated searches for suspects in criminal investigations."
-    publishedDateTime: 2022-05-24T23:00:00Z
-    webUrl: "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 39
-    images:
-      - url: "https://img.rasset.ie/001bca3b-1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBDGMIG35AI6ZPBVVEOQVFESHM.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
 
 secured: "tLUKPiXWr9cq9i5h+eAb/DvIoYsUGDBLiwJhLegJOaQ3HEX9JM2hU/LvDpFDUiJn8qQtB5DF8Es6SsnqHBfpJUHXmm98Itpc4Durc2KlqXE4kyt4EbxAoF5d7BEiYG8A4gZeG+RWEH+PztxX23envAIT/cQoGjfnWvR64LRDstpO8LajsCFh6Osouz0X2E5JHQv9hF26VafI2xdH5RXmqcAE77k6Vgy4AVGxNRKbAzIkmg9ZWdiJwATdp7YmEo6Rs8Vj8CSKX9PVHEQCI2+oPVVtIbtIw12oTGfo0G2TLqGehF29AxwAocYqZo8JCh8my0Pwf/syncYVVn/KWz3Nv6rqMlIMQ/SUNzSfTiCySm4=;GSeRXR41LNlgsurtYwf/Sg=="

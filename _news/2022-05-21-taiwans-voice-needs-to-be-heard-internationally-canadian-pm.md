@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/World/20220520/3943616.
 webUrl: "https://news.webindia123.com/news/Articles/World/20220520/3943616.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Taiwan's voice needs to be heard internationally: Canadian PM"
-    excerpt: "Reiterating Canada support for Taiwan Prime Minister Justin Trudeau has said that Ottawa longstanding position was to ensure Taipei voice was heard in mu"
-    publishedDateTime: 2022-05-20T13:16:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272558922/taiwan-voice-needs-to-be-heard-internationally-canadian-pm"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 19
 
 secured: "Ihj6vP/BTNH+KpJG7aZojQ0yjG9h0KRbFhY7EPlKNXbVVTqf/fiPV5yrDbHtkUT9Pebf590oIOwoqK66vbYiyGw/iUT31S+1QaotUdTe9RYECRDZfppXInpdt/4Nin/M2Zq3CaM/HUAiZJSW6psVtwXEhd1EZ8yuosTkImVdPLD5oeLgG2G0CI3i42rOIztxLhZybCAO1beoiZD5zuZZHCIUsb2Ns5ewtGIHxt44+F0TN2iVLhQGsOLqHeaiTjmZgB1XXoiVE3oXbSV32Z+8JWtXKC97Z/ipIQqDQG+eEy6zXitXkOFk8SVisKcN8As8CLPvT/X/SPWOMI0/7AmCWI7G9l+gA9aIquhImsgTZnQ=;+68rdAFXoebPI0+jU45Q3w=="
 ---

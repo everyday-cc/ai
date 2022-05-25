@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
 type: article
 quality: 104
-heat: 134
+heat: 135
 published: true
 
 provider:

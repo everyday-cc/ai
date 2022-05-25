@@ -2,6 +2,49 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-03-10-deepmind-introduces-ai-model-to-decipher-ancient-texts.md",
+      "title": "DeepMind introduces AI model to decipher ancient texts",
+      "excerpt": "Normally, historians demonstrated an accuracy of 25 per cent when working on their own, but the outcome improved to 72 per cent after Ithaca.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deepmind-introduces-ai-model-to-decipher-ancient-texts/",
+      "originalUrl": "https://analyticsindiamag.com/deepmind-introduces-ai-model-to-decipher-ancient-texts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/unnamed-1300x459.gif",
+          "width": 1300,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-a-quick-guide-to-deep-learning-with-python.md",
       "title": "A Quick Guide To Deep Learning With Python",
       "excerpt": "Deep learning is a part of the larger application of machine learning, which, in turn, is a subset of artificial intelligence (AI). Generally, deep learning deals with algorithms that seek to imitate how the human brain is structured and how it works.",
@@ -1126,57 +1169,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-ai-rudder-raises-50-million-in-series-b.md",
-      "title": "AI Rudder Raises $50 Million In Series B",
-      "excerpt": "The funds will be used to double its headcount, enable job creation for highly specialized and sophisticated roles in technology across the region",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/421779",
-      "originalUrl": "https://www.entrepreneur.com/article/421779",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

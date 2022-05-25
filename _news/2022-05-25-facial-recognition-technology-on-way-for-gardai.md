@@ -25,33 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Public Confidence Must For Using Facial Recognition With AI: KTR"
+  - title: "Public confidence must for using facial recognition with AI: KTR"
     excerpt: "Gaining people's confidence is a big challenge in using technologies like facial recognition with Artificial Intelligence, said Telangana's Industry and Information Technology Minister K.T. Rama Rao."
-    publishedDateTime: 2022-05-24T17:05:00Z
-    webUrl: "https://menafn.com/1104267274/Public-Confidence-Must-For-Using-Facial-Recognition-With-AI-KTR"
+    publishedDateTime: 2022-05-25T07:32:00Z
+    webUrl: "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805"
+    ampWebUrl: "https://amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 74
     images:
-      - url: "https://menafn.com/updates/pr/2022-05/24/I_31463image_story.jpg"
-        width: 400
-        height: 266
+      - url: "https://data1.ibtimes.co.in/en/full/772421/ktr.jpg?w=570&h=451"
+        width: 570
+        height: 451
         isCached: true
-  - title: "Garda to use facial recognition technology"
-    excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
-    publishedDateTime: 2022-05-24T23:01:00Z
-    webUrl: "https://www.irishtimes.com/news/crime-and-law/garda-to-use-facial-recognition-technology-1.4887298"
+  - title: "Facial recognition fine if rules followed: KTR"
+    excerpt: "Identify government organisations and grant them transparent regulatory powers through Parliament, says Minister"
+    publishedDateTime: 2022-05-25T00:33:00Z
+    webUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 41
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
     images:
-      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/5/25/w600X390/Facial.JPG"
+        width: 600
+        height: 390
         isCached: true
   - title: "We are unbiased in use of data and nobody is surveilled without consent: KTR on facial recognition in Hyderabad"
     excerpt: "Telangana's IT and Industries minister KT Rama Rao defended the usage of facial recognition in the State and claimed that the government is unbiased in the use of data and that nobody is surveilled without consent. Speaking on the use of artificial ..."

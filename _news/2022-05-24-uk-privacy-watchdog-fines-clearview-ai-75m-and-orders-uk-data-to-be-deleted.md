@@ -57,6 +57,22 @@ related:
         width: 1500
         height: 1996
         isCached: true
+  - title: "Clearview AI's facial recognition tool coming to apps, schools"
+    excerpt: "The facial recognition software is being sold to companies which serve the police which has led to increased criticism"
+    publishedDateTime: 2022-05-25T06:09:00Z
+    webUrl: "https://tribune.com.pk/story/2358285/clearview-ais-facial-recognition-tool-coming-to-apps-schools"
+    ampWebUrl: "https://tribune.com.pk/story/2358285/clearview-ais-facial-recognition-tool-coming-to-apps-schools?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2358285/clearview-ais-facial-recognition-tool-coming-to-apps-schools?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 76
+    images:
+      - url: " https://i.tribune.com.pk/media/images/9231611038223-0/9231611038223-0.jpg  "
+        width: 800
+        height: 533
+        isCached: true
   - title: "ICO orders facial recognition firm Clearview AI to delete all data about UK residents"
     excerpt: "UK data watchdog fines facial recognition company Clearview AI £7.5m for multiple privacy breaches. Firm, which offers services to police and law enforcement, faces growing pressure from regulators and legal action around the world."
     publishedDateTime: 2022-05-24T16:24:00Z

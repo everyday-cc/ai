@@ -39,7 +39,21 @@ related:
         width: 1222
         height: 815
         isCached: true
+  - title: "Garda to use facial recognition technology"
+    excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
+    publishedDateTime: 2022-05-24T23:01:00Z
+    webUrl: "https://www.irishtimes.com/news/crime-and-law/garda-to-use-facial-recognition-technology-1.4887298"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 41
+    images:
+      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "QP+cFHSDoJm9d+wU2tN8lnjHJI7i4Xogrr6sfQ7bvMUZD2oJ8XjIl8k5DSez4+pQX04CYKwDGkK3Aq8RGnRfOx5itOoruRoJWHgaBG0GIkopG00asoMju2sEa3OYgyqfxF2P5AP0AGSoyZzVuAzolGpKrCWayM2TjrYO85CVoHrpDeysigxmX6YTK2fH1xcS4+sK1uHNDLdSZA36BsiPTJqXUpFinMkqsXBNeBaMp7YxxEzDM00thW/Tom/V2B8CoEG/jg4f8X4v5sUPMiLgsrI13rtJiRojyHCCf0WVwuRwmUnDbn6tRDnoHOffsPwX+UyBXzkOyxEp0Szjn/MNzISUtlFdmJ0R9BP/r4Ynen4=;sEI0RUBJIjfAavS4MchR3g=="
+secured: "EsaOw4/3E4nlIHyMjdqqqoAsYrGbLzrNFCm7dqnDhdYZPwa1N/qK3QRZZ6J//m1w8m2ZqL7whvLh8sIt5s8x/kSycA9H2OsWlWV3sYeeoe45MNVqDGkX6FfjdEDJci4D4BKtYZVnNPhBQU5/Myquas6p8TPxHjLsjTard8z8A3/iYn0AbRk1iSOXfWBwkuPiCtqhz5JXN07jq/2v1as19oVboAiR1lIB+yyIzKL37XhtduIr/eBUTKGacPsdgbIc8ByIBorYmPXosmu9EeMcY+Sp/s1qNgS4HXFol+lv+57ZdKq8keG8S2kaz/+zLGuwh/FEsjGi3cj3uIwgNBzEltI+MuE0ymd87azDjM0UNuahKIBKlisCsz/aFRrFtfRROC+44hwPEo7HBl1Z1HTqLO7aR21peLf7hjrHqq2qyRtpO1SBuXJFQZLRRG1cp3DO65w6laVAQn9twk1gwOTse+HMtG5GunPBM447EkxcsCkQslzVRx3k11tgql7ymkbK9PUMkIaUlOdXHHEt2aN1oQ==;4GBZCcgc7pxquk/RDqI8zQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-wit
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 35
-  - title: "'Elon Musk's Crash Course' explores the limits of Tesla's 'self-driving' technology"
-    excerpt: "As Elon Musk tweets his way through his pending Twitter acquisition, FX's \"The New York Times Presents\" documentary banner takes a hard look at his flagship business, Tesla, and its"
-    publishedDateTime: 2022-05-20T13:33:00Z
-    webUrl: "https://www.albanyherald.com/entertainment/elon-musks-crash-course-explores-the-limits-of-teslas-self-driving-technology/article_3caac8cb-d90e-5a26-858e-d5ccf86164d3.html"
-    type: article
-    provider:
-      name: Albany Herald
-      domain: albanyherald.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/custom/image/01b25422-d8d8-11e6-bb31-5378351eadac.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "UwOch076A5J350U28XUHOWRVI6Hz53Il2ZP/4yOt0vc3HfuCj3kDXMujPkai1h5Kf7bmiLk2Wbnw2t7R51aSDnzOiGFVfl46p2rpubNqNODPjTkD2kJHyRcB4HF/aTdWm/zfDK1xEzgzrpNSqYUa2W7eOyzW4HrPTTlI0okI716OUvcnMo09iFmE28UR7b6C8vuqIBjEmQra0D6cJj9sU1VAV9OdFyvaU52vXx5f1e64zJqGvELXERuLw+hfkf1ya9bOX5udLvrGvzihmeLtE2619eHPaxF+x66BOrdTzFkeiuGYhMrSjkKXUibKHW8Taq7w3nqwf5eT2pPPJCgu2OXnoSu0zIRQqZasyD6ncOppkpeLjG9IudGzr34a1rje/DW34f75tQqTg6lxOaU5hxHPZdM1MFgH3N+yzaYMTL8HnZrq/QoDj7PA6PTQjpCc6K2ODh3XFyvzcoYP9gGj44W3qkhJGfEVOXEgctXoubEvmlYA/mCKWIOGMLmPqWyjZawUATJmI8BPLb99m8R/ug==;uu/1aMAChEIB/HQkcBhs6Q=="
 ---

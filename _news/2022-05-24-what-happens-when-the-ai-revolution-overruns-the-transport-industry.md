@@ -60,15 +60,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Artificial intelligence innovation among air force industry companies has dropped off in the last year"
-    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
-    publishedDateTime: 2022-05-23T18:00:00Z
-    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-innovation-among-air-force-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 18
   - title: "Artificial intelligence innovation among retail banking industry companies has dropped off in the last year"
     excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
     publishedDateTime: 2022-05-23T18:00:00Z
