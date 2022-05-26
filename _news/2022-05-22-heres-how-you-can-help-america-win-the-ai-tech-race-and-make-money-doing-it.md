@@ -9,7 +9,7 @@ ampWebUrl: "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-w
 cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
         width: 251
         height: 282
+        isCached: true
+  - title: "Ignore at your peril: How Africa’s AI and startup scene is getting ready to change the world"
+    excerpt: "Embodying entrepreneurship and innovation like no other sector, Africa’s startup ecosystem is blossoming. Innovative thinkers are localising tools such as AI and edge computing, among other technologi"
+    publishedDateTime: 2022-05-26T05:01:00Z
+    webUrl: "https://themediaonline.co.za/2022/05/ignore-at-your-peril-how-africas-ai-and-startup-scene-is-getting-ready-to-change-the-world/"
+    type: article
+    provider:
+      name: themediaonline.co.za
+      domain: themediaonline.co.za
+    quality: 26
+    images:
+      - url: "https://i1.wp.com/themediaonline.co.za/wp-content/uploads/2022/05/ai-7114793_1920.jpg?fit=678%2C424"
+        width: 678
+        height: 424
         isCached: true
 
 secured: "q2JPzt0/mqPEKwgEZdLmIS1CZbHqEimrco9JIBU+5NJGOqpU/PIv+jMq0ANssTQoGIwyHk3Cme1rCxhJeTLG00OBB+KvXjfCbghlbyW/K6fnkyzz7o1G9ywLFqulu5sk0aurP5qk25kaA1OdweKyOMkMXfve+n4Xk4UfYekWUIZ8Es+oNuS5v/TsdtvSuR+c77BZVg+Gnp9evCc+8aCCg8gP/ubFXI/NoRYo87WEhkgKIDDEBr6dgO2sx8yYK1WQ5JUwQdSTN+JV6t7AvdZ7eT1AYmmfQy/OZS+c7q4YyPqY+DDUB2b6xPgD42zdf67chptGCzRB1pkCh4h3t/TXDmseZky5Om0Wz8mlLx5vVCFFUq/Ll32sh0In79WzenxY+nkPVvuQo3fFixot3PUEyb3Z+gzsgxofsi3LvlazOflOV/ZNqTPi0fhvmqKl5YfzeXg7aOK2SBAkEsrfuK3QMF5hMyk+2tc9FOLw1k1b9tI3EiCuTx69pABd8k5bVi2BOSKzDx9HJLkA2ryOWmbKgg==;F7tLA2XE48uEQ8/XZBORkw=="

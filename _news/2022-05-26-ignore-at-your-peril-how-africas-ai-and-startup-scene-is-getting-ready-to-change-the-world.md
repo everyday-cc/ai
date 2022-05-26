@@ -1,0 +1,71 @@
+---
+category: news
+title: "Ignore at your peril: How Africa’s AI and startup scene is getting ready to change the world"
+excerpt: "Embodying entrepreneurship and innovation like no other sector, Africa’s startup ecosystem is blossoming. Innovative thinkers are localising tools such as AI and edge computing, among other technologi"
+publishedDateTime: 2022-05-26T05:01:00Z
+originalUrl: "https://themediaonline.co.za/2022/05/ignore-at-your-peril-how-africas-ai-and-startup-scene-is-getting-ready-to-change-the-world/"
+webUrl: "https://themediaonline.co.za/2022/05/ignore-at-your-peril-how-africas-ai-and-startup-scene-is-getting-ready-to-change-the-world/"
+type: article
+quality: 26
+heat: -1
+published: false
+
+provider:
+  name: themediaonline.co.za
+  domain: themediaonline.co.za
+
+topics:
+  - AI
+
+images:
+  - url: "https://i1.wp.com/themediaonline.co.za/wp-content/uploads/2022/05/ai-7114793_1920.jpg?fit=678%2C424"
+    width: 678
+    height: 424
+    isCached: true
+
+related:
+  - title: "Here’s How You Can Help America Win the AI Tech Race – and Make Money Doing It"
+    excerpt: "Buck Jordan explains how investors like you can help America get ahead in the race to master artificial intelligence."
+    publishedDateTime: 2022-05-22T10:05:00Z
+    webUrl: "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/"
+    ampWebUrl: "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/"
+    cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 53
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/10/lightbulb-tech-ideas-1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Download: Google’s AI cuteness overload, and America’s fight for gun control"
+    excerpt: "This cuteness hides a darker side to these tools, one that the public doesn’t get to see because it would reveal the ugly truth about how they are created. Read the full story—and see more pictures created by Imagen—here."
+    publishedDateTime: 2022-05-25T13:14:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 32
+  - title: "Ignore At Your Peril: How Africa’s AI And Startup Scene Is Getting Ready To Change The World"
+    excerpt: "Embodying entrepreneurship and innovation like no other sector, Africa’s startup ecosystem is blossoming. Innovative thinkers are localising tools such as AI and edge computing, among other technologies,"
+    publishedDateTime: 2022-05-23T08:05:00Z
+    webUrl: "https://za.investing.com/news/ignore-at-your-peril-how-africas-ai-and-startup-scene-is-getting-ready-to-change-the-world-2559616"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 28
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
+
+secured: "w6KYQRmPLSY56vnD/nmjvDnVhbwCapcegWd2VHb6LHBUnk5Vu5ayr3QrWL1OhIe2vYiPhjBn3CAKWz6TKiPVtqGoKAG9UQ2r8kLuOOASVPRFKLPA14DzpKQuqTSN+w3WwDrQ9pKyZ6XhpMuyYTxhF3EMldG31PtlrgtS9dFiSD9m9py3EQEm0TNUQqjHBfReZ59rJG9JPbdxswF6Q+gmJNequmm2ssiiik17NTvQP0zTFAh9qK5dYDbX6JEM4Ndl/SL42diTsu8QAKB+IGd9bwdIQOblzia9nZn2yYbgP4rov76W5ZbOrX7Wyn7/s8tRJ+lF4Zl+KJLTtqjGOBQ7GGOy6R0saOuERNgcTXjGj8w=;tkpLuFaBYcMN6rP0qOFfgg=="
+---
+

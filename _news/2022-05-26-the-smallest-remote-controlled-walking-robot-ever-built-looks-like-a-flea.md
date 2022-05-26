@@ -30,12 +30,12 @@ related:
     quality: 49
   - title: "Northwestern engineers invent the world's smallest remote-controlled walking robots"
     excerpt: "Engineers at Northwestern University in Evanston, Illinois, invented the world's smallest remote-controlled walking robot, according to research published in the journal Science Robotics. Each one is about half a millimeter wide,"
-    publishedDateTime: 2022-05-26T03:12:00Z
-    webUrl: "https://www.kake.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
+    publishedDateTime: 2022-05-26T01:43:00Z
+    webUrl: "https://www.wicz.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
     type: article
     provider:
-      name: KAKE.com
-      domain: kake.com
+      name: FOX 40 WICZ TV
+      domain: wicz.com
     quality: 33
     images:
       - url: "https://CNNWIRE.images.worldnow.com/images/22748984_G.jpg?lastEditedDate=1653515027000"

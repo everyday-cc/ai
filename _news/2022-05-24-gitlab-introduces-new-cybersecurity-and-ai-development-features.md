@@ -23,17 +23,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Enhancing cybersecurity learning of Filipinos"
-    excerpt: "DURING the pandemic, cyberattacks on industries providing connectivity, essential services and entertainment increased by 341 percent, adversely impacting populations forced"
-    publishedDateTime: 2022-05-21T12:23:00Z
-    webUrl: "https://www.manilatimes.net/2022/05/22/business/sunday-business-it/enhancing-cybersecurity-learning-of-filipinos/1844512"
-    type: article
-    provider:
-      name: The Manila Times
-      domain: manilatimes.net
-    quality: 4
-
 secured: "p68gnHUTAyCTzO2sLT6fOICVi3WTMoKFxjkJujMsmuTRKxHXeA4tKD+ylRuaXdsSoUiwq16q+wQ4+YG1+wT/xut46LnXVhxhvXqGDYrAq/+hkCIzoGpcMfxx+otzNrqS60UJNus4qleldKitUHzesLVSxIa1BDXq9rHAyMAVsvH3hbtAQSb/QIolwLtgsNzIC72otV6b9N1xHF2wyoTo5vphv4SFeK33kMRiTt8aqdu4aJJLjLNhEdweOnow8As/qIUVCQveOuW/OuZIoGGE3gtPtPdErUQXmP8OR2JqABRTn8PVdYD4YSJYD55h0+UbC+KNXw9qWvVP5S2RFNfA2VZ72pbLirt+SAjii/RKNX9g45PyzpV4MzKOD3J9DIOqAUDBb/vBEm2JAETgt3/DOQPFOATxeIqAy0G8rdLPP2LvZ0vAoPfMy5oSoka5vTVubv3/FM2RDzKpfOV59P0u4WzV4audYC1XjvaJsA9nF1kHD9mOQNqjE8GsJyNeKE7CgE9ZHDcWlQKHKuRR3pMZAA==;muYn9xGlVLFSJBNzSBuLCQ=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "UK watchdog fines facial recognition firm £7.5m over image collection"
 excerpt: "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database"
-publishedDateTime: 2022-05-23T10:24:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
-webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
+publishedDateTime: 2022-05-23T16:05:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?ref=biztoc.com&curator=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?ref=biztoc.com&curator=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 type: article
@@ -166,6 +166,6 @@ related:
       domain: irishtimes.com
     quality: 19
 
-secured: "sKW/HL3XvWzkIRqIEIFbLaNwsqhuVr9i+Nf71T3b1J5P44aRdCJEj0sZ1tXWcr3XbvxENCuHrISk0OYzSjQrKGvMZjrn3KsrE4Di6TrRxMQ+0SNiF0MZTa7dPF/Y8B8WyweNidYtRZSanZoXRtsoG/dvpdVgHqcGPfbjDz8WrgwqJsggLcIZDC00fhMizNdODvcxV6HSTjg1OBUc9iHzLgcAhGPHpzGIut3P95Pir4tpQMdP0df3GSGwXSEdGBaaxCbOpDMz6mxBmRwrkG5gJ1TN8Ko/02AfXsoCKTRiYB8pKg99gI07QAhZhWZBAu6eT7jcKT1v6lUR40Q1FOIDDTlysY4cTQDViNC/+oikCryiPK70FwMhyertFNULlQVGEQvpxm1wrKfbOAAqHKu5QRfNEc/vzDXZct3BhzDWADPjte745iV3Hb+6kUEII5jFv+Mzc+avYvcKjY0ANyzGqgEzydvlydfDCyITZsVFh87JQ7Qb9ElvE3Cwxe7qlQTBbJaz3N7pve4UqUJghQvvMA==;trYEBTBfEHDkse6h734UBA=="
+secured: "TYeWP0lquizxrB8bFpJxMGThWawMdWlgTsVO66GUORIXt6m8z4YwAGvX6mcC9+lfErSklWLVBhVaFrAS5/i7po3lGmNuBwnCLAlLYka3v8NVP2m4gEHVvZHEoXH83IAmRG+O9x0QsdLVlaChcAa4nBePeXK5El8aGnBbBOPIFm8FUinGujSoaWiJKo1phYnYRw5x6GlFx7XsqLgCyhHqxiKRQinNag08bAzsH68dW3e1tAxSmdx3+R8zyB0bX/rHvJa/GbkVYcZv7WFk9E9kXOjiVK7taO/dFVwykBjqbuZw5OmrjvB2Lip35grKvFCYXxmueHl1VlytS92f71MDtmR4G11klawRwNThyZPiLDw=;5UBcUVCztdLUhPCEELSRZw=="
 ---
 

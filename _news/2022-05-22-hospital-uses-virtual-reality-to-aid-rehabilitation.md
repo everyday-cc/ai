@@ -27,22 +27,6 @@ images:
 related:
   - title: "Billings hospital uses virtual reality to aid rehabilitation"
     excerpt: "Dr. Jose Ortiz counted the minutes he spent in the back of an ambulance transporting him from Red Lodge to Billings. Timely treatment is imperative to"
-    publishedDateTime: 2022-05-21T12:10:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.html"
-    ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html"
-    cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/6/f5/6f5cfa36-9330-50ea-a0ab-8da7f6797d63/6288d8787cf4a.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Billings hospital uses virtual reality to aid rehabilitation"
-    excerpt: "Dr. Jose Ortiz counted the minutes he spent in the back of an ambulance transporting him from Red Lodge to Billings. Timely treatment is imperative to"
     publishedDateTime: 2022-05-21T19:00:00Z
     webUrl: "https://www.bozemandailychronicle.com/news/health/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_0a4c11a5-6447-5240-927f-fce1b934cdd1.html"
     ampWebUrl: "https://www.bozemandailychronicle.com/news/health/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_0a4c11a5-6447-5240-927f-fce1b934cdd1.amp.html"

@@ -48,18 +48,13 @@ related:
         isCached: true
   - title: "AI Redefined Welcomes New Hires, Continues Commercial & Research Expansion"
     excerpt: "AI Redefined (AIR), a company focused on building software products for human-AI collaboration, has added to its leadership team with two new hires: Jordy Berson, who joins the company as Chief Product Officer,"
-    publishedDateTime: 2022-05-25T12:18:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-alberta-canada-3af4befd08cc482fa43948ec4498fec1"
+    publishedDateTime: 2022-05-25T12:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609111.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "mfHPgPlf/Jf4nZo+0QC6h3JUm4gChyPyQf1hsl1lM/WGgWmtfvfj6sWt/4CMUl+J6F8Y4WtUu3eMy49iF2EXbY7Kw5EYToNeeWt6b53/7S0kEvBue/wGaB7SjwM3r2zx1vx09K3I0DeHhU8UhCnDa1wMUAxpo4T4o4OK9GeO9lHUYzVkivTSOCr5lcs14Is1FJbodoh1+FhUK/xEN231dK1rxpX4be2KXy1qZ/9mZH3BmOJiA8WCiC5vCikenqwB93klX+48pEQIX5uZuKI6Raoacz7R9peQIB3ot3yzuzE8EquTuO2zZVFMl7njMeCSFBEODm3Xz2W06ZCOUqkhXm+/a6etIyGLOuzOOo/otd8=;CImBIo3kRZ3/Xqgi1XbBNw=="
 ---

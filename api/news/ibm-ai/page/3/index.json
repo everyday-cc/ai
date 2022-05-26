@@ -2,41 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-02-16-ibm-watson-could-revolutionize-healthcare.md",
-      "title": "IBM Watson Could Revolutionize Healthcare",
-      "excerpt": "If you’ve been watching Jeopardy! over the past couple days, you probably know that IBM’s highly-advanced artificial intelligence software, Watson, has been competing against Jeopardy!’",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2011/02/ibm_watson_could_revolutionize_healthcare.html",
-      "originalUrl": "https://www.medgadget.com/2011/02/ibm_watson_could_revolutionize_healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-02-15-sales-down-6-annually-since-2011-ibm-is-full-of-business-line-dinobabies.md",
       "title": "Sales Down 6% Annually Since 2011, IBM Is Full Of Business Line Dinobabies",
       "excerpt": "IBM launched Watson Health in 2015 aiming to revolutionize medicine through AI, according to MarketWatch. After years of acquisitions — including $4 billion spent on acquisitions aimed at combining “patient records, medical literature, and medical ...",
@@ -1418,6 +1383,59 @@
         "IBM AI",
         "Microsoft AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-five-barriers-to-successfully-adopting-higher-level-mathematics-in-the-supply-chain.md",
+      "title": "Five Barriers To Successfully Adopting Higher-Level Mathematics In The Supply Chain",
+      "excerpt": "Here are the five main barriers to successful adoption of AI and data science. 1. Poor Matching Of Problem To Tool. Over 50 journals are devoted to using applied mathematics to so",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/five-barriers-to-successfully-adopting-higher-level-mathematics-in-the-supply-chain/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/five-barriers-to-successfully-adopting-higher-level-mathematics-in-the-supply-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D513%26cropY2%3D3663",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/five-barriers-to-successfully-adopting-higher-level-mathematics-in-the-supply-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/five-barriers-to-successfully-adopting-higher-level-mathematics-in-the-supply-chain/amp/",
+      "publishedDateTime": "2022-01-04T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Math for AI"
       ]
     }
   ],

@@ -2,26 +2,20 @@
 category: news
 title: "AI Redefined Welcomes New Hires, Continues Commercial & Research Expansion"
 excerpt: "AI Redefined (AIR), a company focused on building software products for human-AI collaboration, has added to its leadership team with two new hires: Jordy Berson, who joins the company as Chief Product Officer,"
-publishedDateTime: 2022-05-25T12:18:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-alberta-canada-3af4befd08cc482fa43948ec4498fec1"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-alberta-canada-3af4befd08cc482fa43948ec4498fec1"
+publishedDateTime: 2022-05-25T12:54:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609111.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609111.htm"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "AI research lab inspired by computer's internal components"
@@ -57,6 +51,6 @@ related:
         height: 1922
         isCached: true
 
-secured: "XE1Fr4D2AVNlFjJNXow2QH/kzjFOuCRMTVOEhQbXA/fIRK+H0+QMolrkJcWS66ik293GeEIO/6M20igux+kBGjA6CCFTFSiuVyy6Wgt4xIAlq6xqqFq0l0u3Tc1fufc7rrRii3mnD/v+5GChiozk30ZecPBMprNhg5jm0njk3PIb+B9l8mZZwHL8xsQHjlM4JLLUA+X8mZozSzQANAZLJJP9VWmCUJ8KsLcYYvsFF6egpPB9u9imQ6jLl3ERo4EDJJxSXaggKB3qoeh4gXfe0j74pbegT4mruGP/H7bTrCm1IuN6txno5PEmDiJvNMRA1A+x5gtIEg6mh/LjPjp+52wTPjZfL1m8a9tarrVsAY0=;vYx385V8RkxKebN35n86fw=="
+secured: "Fxp02oNcxq4H2GybxwbhJu4Ghxo9AospiyNwNIwfcPoKqrYz5YlUSQe+9CrlpWCg57fwreszJu3YzIYLlLHmVR+vyc29H9OCOIt46f+uqvE1pCgdqVqOeFAKxzk9yBAQG2wKQ+eyPlLkxWaVv2c4ButRj3+lvnbt/yo0jRengMa7Oewrv8fI+dRSaJaS2runv4gglPoIClNtIULY7LHsb9hKyCJ3Jm2TrhQ2R+yjWcGNWj+PHmEKPc7MaPajLGau/LrN+fCRFo7Gy4PYQ2onK6jQKIQuGydcoyigjnnfF7V6uuuYo7CSnKQrHVKGSxGNbqyakoC+GOaMhQR0n8yHX+Epf1Z9a+A2ViokL5LeHp8=;Wun1Advi0+2iSGmZ9Tiefw=="
 ---
 

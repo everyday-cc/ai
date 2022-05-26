@@ -24,14 +24,19 @@ topics:
 
 related:
   - title: "CompreFace Open Source Facial Recognition Service Releases New Features"
-    excerpt: "May 25, 2022 /PRNewswire/ -- Exadel (www.exadel.com), a global software engineering, business consultancy and solutions company, today announced the release of CompreFace 1.0, the newest version of its free, open-source facial recognition service."
-    publishedDateTime: 2022-05-25T13:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-compreface-open-source-facial-recognition-service-releases-new-/2022/05/25/9609319.htm"
+    excerpt: "CompreFace Version 1.0 offers more user-friendly UI benefits, no-code REST APIs, CCTV and Home Assistance integrations, AWS deployment, and more"
+    publishedDateTime: 2022-05-25T13:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/compreface-open-source-facial-recognition-service-releases-new-features/article_e3624746-9b45-5cac-810c-636e8419895c.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "mV2xRTyHqxZ5oMeyicb+VomdKCQCvjdJdYafSkQk1euzGES5m3SQKwd+NhXWCR5ub8fWn+jaKkAJa5M9TQuQM+IQ7YLghSyCH01fmh0vMS2MFoB4DJVYWfD0DmWSkSclSv4e/6ZCOAnTkV6ARTeBsHp6OVrPZD2PpD9xjXD7X1/B1QEh29MobCV60yNjZNklkXGnFgp4eZWOH8waqvJzEv+vxRvyixHFit3kgx3uDWvkdy2U3Z0iVUPa3s8Jqbj63abyTuxJ+YLtjvTnUZoFiA36Z2I/PV0qUvY7RtFLQBRCpqceF2T/BIz2qnfyDCnLWGqaRfB7N2UPUM+4U8/xHkwtuzgxWwvXx6A/BsvdkWU=;md+k4Sx1uif0UPGUS4+XEQ=="
 ---

@@ -50,6 +50,20 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "Ignore at your peril: How Africa’s AI and startup scene is getting ready to change the world"
+    excerpt: "Embodying entrepreneurship and innovation like no other sector, Africa’s startup ecosystem is blossoming. Innovative thinkers are localising tools such as AI and edge computing, among other technologi"
+    publishedDateTime: 2022-05-26T05:01:00Z
+    webUrl: "https://themediaonline.co.za/2022/05/ignore-at-your-peril-how-africas-ai-and-startup-scene-is-getting-ready-to-change-the-world/"
+    type: article
+    provider:
+      name: themediaonline.co.za
+      domain: themediaonline.co.za
+    quality: 26
+    images:
+      - url: "https://i1.wp.com/themediaonline.co.za/wp-content/uploads/2022/05/ai-7114793_1920.jpg?fit=678%2C424"
+        width: 678
+        height: 424
+        isCached: true
 
 secured: "yPOfj+UZh2ccTySWbB4dg8VDGLxZQMRVUf6obDLcUgiWkROvoLzoXuJcY6Gfh7R/SVJvouZlpID8g14BsADOcSZSPSl77AyD+/VVHug1Ri/UdqkX99UCTIWHu6uicx/vNf2hwljz6jObRPOFoweuYGQVBhMM339Z/1nUBe/la/qxUtRz6AXqfMTENA5plHvtgB5x3CrMwgRaviljqpX/y/XQcsFBq1a6RFP/m2FSGseXnK/ppB1FxbmXvHoEisqd8xrXIgiphh9IAah5avWje6Njs+s7cO0HSvYRF9qKTgtjh3/MHhfl02WlU+Md0iCAVqkYR4UtdMBXsfK3491KarRgUT2AmuDFrfR7a2wtyi6+bqHZvHL/oaz8TGg7JMVrXJ23SIwymW/AJdkyc41kQhuaclGHI23kyZWRlh5KHCSx4OYNaWcNVBsbijT42r/qL5yi2hntjUnTU7hRMrJM6LpI3twtF+xb4pmzQChuGEZC99rsFqCfrGorFcDRa3IMbuGPYQLEcK6wVzxO79mcyQ==;jOEInqYZWnoNgXwI+3pXFw=="
 ---

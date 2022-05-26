@@ -2,17 +2,17 @@
 category: news
 title: "Northwestern engineers invent the world's smallest remote-controlled walking robots"
 excerpt: "Engineers at Northwestern University in Evanston, Illinois, invented the world's smallest remote-controlled walking robot, according to research published in the journal Science Robotics. Each one is about half a millimeter wide,"
-publishedDateTime: 2022-05-26T03:12:00Z
-originalUrl: "https://www.kake.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
-webUrl: "https://www.kake.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
+publishedDateTime: 2022-05-26T01:43:00Z
+originalUrl: "https://www.wicz.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
+webUrl: "https://www.wicz.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: KAKE.com
-  domain: kake.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI in Robotics
@@ -44,6 +44,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "oXST/qO9Itg6cdg8atH/W92V7u3NhGVfwKpcxfRcFcT8He42hDHz/FWQIps63nJymKwdsmJCC7lyjZ8bkL7RanAiwNPnSKnT24QOT8fkxf3cZHSpUku7pNGSqLTwRiBJAAPL9Ca6aCsZ5S+ZZjHSCNdi5n5dn7ZxhNFPPxU7gEC2+XLUodqnD91/vkpvZBZTDlpxDAMSwBCJn5stHe6LJjtBZf4MjzJNpyue1on5gVosHAwwIOeg/5xCKsCRXjoWbtwPbpvgi6X6VF24ygwqGirwSj5XcNWM6EJx+nc1JX3XA7dYlK5MlY87PHhws3WuyRqhCjmsmtnjmQcOgM+htx93vM1QqqOywXWVfWRdvig=;X08hgqf18eAxS+GBfNVaBw=="
+secured: "/vu4XOfmkz/i+Cy1a3oam9BL2OOPRbX652uty80U50YUAUWGHwc8GwzzXFd+9aEST8yqHR4hQ9ok0vZ+oCvlpuzHEo3gCxCZMFPN6A5RznbPwHkAU+t7fHVyCRYD5TSrjuiP+2USo9ogalSH51sBMYAlnZ8dM2+ChiuSg5XjsdW/pn4EstIvM2ycCW+LOudV/01BlJerWvpzLAXmMM69fI0rpEGuW3LZiovp3OfezPeYbksy9TYNqZ9XPvkhaQvtbYC8iwZrGwO83zhOG+1pzMgesGm55H3npp5WFWoZ15ey2cd932DOkhr/uOgDSsuzedIbcLsLW4TSLVdOQCmY/OScPPjycR3AF3G76ooRfdc=;Ldqcus6jnubt8Wt7l+CnbQ=="
 ---
 

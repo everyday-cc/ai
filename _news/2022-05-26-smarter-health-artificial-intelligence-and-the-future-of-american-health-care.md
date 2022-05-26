@@ -8,7 +8,7 @@ webUrl: "https://www.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intel
 ampWebUrl: "https://amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
 cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ topics:
   - AI
   - Facebook AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/linderpix-WBUR-OnPoint-6815-web_1000x667-400x267.jpg"

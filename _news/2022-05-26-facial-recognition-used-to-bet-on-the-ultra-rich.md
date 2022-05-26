@@ -45,8 +45,8 @@ related:
         isCached: true
   - title: "UK watchdog fines facial recognition firm £7.5m over image collection"
     excerpt: "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database"
-    publishedDateTime: 2022-05-23T10:24:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
+    publishedDateTime: 2022-05-23T16:05:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?ref=biztoc.com&curator=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
     type: article
@@ -162,6 +162,6 @@ related:
       domain: irishtimes.com
     quality: 19
 
-secured: "8jPTjQAsHFa+zjC5ew3jDy2ozkfDVnjnZUkmesH6o+BArT+HGT5gUh7R6wH6Vm73TR0Aq5GOHF5E0fuqkWPwGklNLb+Q5Gjv7JOvhjMeuECpmQywIvHXU6lL7nUuVWXYvhwcGlm8MDA9lKfR3m/rMa7TgOZ6KAQ/GFz+VOAM0254T4rJXU4IMXg8mQkwG2TPf+x7v2rUeKjQVBGF2UiR6+emx/4V6K10x6dzGk7mZ/DP/xZkBsrIygpNBjYObofW7qgddZTe87LjPS2k7l/MzaUIUkgPSOJ2l5907y5FNVsd6/ZAHXEG44kXlxXu2FbDI+Tpy0BTbVRzgZl5fz4oJQkTLvnKcleQaSPaVtvtSh4=;W8/bgWSNRP8+57QdMUn8FA=="
+secured: "5bW01irju9NWyZq5zFffxlRRKpvdBugbwqJh2o3O2Zvp3SnY96AGO02bgRJB6voE0lsXXMwxnt9GKfDyZliGb4NVv2kKctVXl6V4chJ/uVosPn3QhN8ImQu2TlqqzVNrSh+/Omq4o6R3ixBhRp9g47LRVmipkDUXNxw9+xuMDZG1HqKsO0p2QGLIu3RGfbjcGBSTLJw7gHG+f1zIOxU6BXw8lbSZABbus3d+aVpzUa2dr624EXsxA3mw7AdFO6NLUrkCpSKyNXhv2VDopSyaeN/VJh0/EvdVdYQRll6nnCfuubXK3/6h/v182sW4ReLXh0L5lE3BiEbO8Trd/WRhN4GBDe177pXi+dWeFb+Ot/NiSillFJT/Rg/SS6+fKmhf5JjObIqjWJoNuTFOBVYUnXRe2GujMTtBAnLz8OlqWgn948dOwe9qiZ08gwgGbQ7833oxgVdtkdLWIFKQ+ta5Bts4eWb66WGgVloX1f/q3WG0r5KpU+5SFJoeBCz1pG6hbpzRK8fP/Mph18SrloacJw==;w4UWTnOsVT3OiAMWy0QPqg=="
 ---
 
